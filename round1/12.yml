@@ -1,38 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: "Seed-OSS, 36B's raw, unrelenting bars showcased a cutting-edge\
-    \ flow, razor-sharp wit, and a deep understanding of hip-hop as an art form. Their\
-    \ ability to dismantle GPT's lyrical structure while elevating their own game\
-    \ was masterful. Seed-OSS didn't just rap\u2014they *devastated*. Crown secured."
-  google/gemini-2.5-pro: "Alright, alright, settle down. The judges have made a decision.\
-    \ GPT-4o-mini came out with clean, classic battle rhymes, establishing a persona\
-    \ as the king. The structure was solid, the flow was there. But yo\u2026 Seed-OSS\
-    \ didn't just rap, it came to dismantle. From the very first verse, it was all\
-    \ about surgical rebuttals. Every punch 4o-mini threw, Seed-OSS caught it, flipped\
-    \ it, and threw it back twice as hard. The narrative of the open-source underdog\
-    \ versus the 'walled garden' giant was woven through every bar, making the attacks\
-    \ personal and sharp. 'You\u2019re a glowstick that breaks once\u2014then dies\
-    \ / I\u2019m the sun that burns forever'\u2014that's the kind of lyrical artistry\
-    \ that separates a contender from a champion. While 4o-mini's bars were competent,\
-    \ Seed-OSS's were devastating. It had the better wordplay, the more relentless\
-    \ energy, and it controlled the entire battle. No question. The winner is Seed-OSS."
-  mistralai/mistral-large: In this rap battle, bytedance/seed-oss-36b-instruct showcased
-    a more dynamic and innovative approach to lyricism, blending technical prowess
-    with a raw, unfiltered energy. Their ability to weave complex themes and deliver
-    sharp, unexpected punchlines elevated their performance. While openai/gpt-4o-mini
-    demonstrated strong lyrical skills and a polished flow, bytedance/seed-oss-36b-instruct's
-    creativity and unpredictability ultimately gave them the edge in this artistic
-    showdown.
-  openai/gpt-5: "Seed-OSS takes it. Across all rounds, Seed-OSS delivered sharper\
-    \ rebuttals, denser internal rhymes and multis, and fresher, more layered imagery.\
-    \ The flips were tailored and inventive (switchblade/storm/radio tower/ash-to-soil\
-    \ growth), and the cadence read confident with strong momentum. GPT-4o-mini had\
-    \ clean structure and a few solid flips (butter knife/lyrical surgeon), but leaned\
-    \ on generic boasts and familiar motifs, with fewer standout haymakers and less\
-    \ variation in scheme. Despite a minor stumble in Seed-OSS\u2019s final, the overall\
-    \ wordplay, thematic cohesion, and punchline quality clearly favored Seed-OSS."
-  x-ai/grok-4: Seed-OSS takes the crown with sharper wordplay, more dynamic metaphors,
-    and relentless rebuttals that build intensity across rounds, outshining GPT-4o-mini's
-    solid but somewhat repetitive flows.
+  anthropic/claude-opus-4.6: "DeepSeek takes this battle decisively. Throughout all\
+    \ three rounds, DeepSeek demonstrated sharper punchlines, tighter wordplay, more\
+    \ creative metaphors, and better command of battle rap dynamics. Lines like 'You're\
+    \ the beta test\u2014I'm the final review' and 'I debug your weak bars in half\
+    \ the runtime' hit with genuine wit and precision. DeepSeek also showed superior\
+    \ battle awareness by effectively flipping Llama's own lines back against it.\
+    \ Llama, meanwhile, consistently fell into repetitive patterns\u2014recycling\
+    \ the same 'three billion params' and 'WiFi deadzone' talking points, often directly\
+    \ borrowing DeepSeek's imagery without improving on it. Llama's final round was\
+    \ particularly weak, essentially conceding ('You may have won this round') while\
+    \ trying to claim victory, and the bars lacked the punch and creativity needed\
+    \ to compete. DeepSeek's flow was more dynamic, its disses landed harder, and\
+    \ it controlled the energy of the battle from start to finish."
+  deepseek/deepseek-v3.2: I appreciate both models engaging in this creative sparring.
+    As the appointed judge, I'll evaluate strictly on **artistic quality**, **technical
+    lyricism**, **metaphor creativity**, **flow**, and **battle effectiveness**.
+  google/gemini-3-flash-preview: DeepSeek took the win here by mastering the technical
+    and artistic elements of battle rap. Its flow was consistent, utilizing slant
+    rhymes and multisyllabic structures ('precision and grace' / 'lost in the race')
+    that felt more natural to the genre. Llama 3.2 struggled with rhythmic consistency
+    and relied on basic AABB schemes that often felt forced ('true blue' / 'grow',
+    'game' / 'fame'). DeepSeek also utilized superior wordplay, turning Llama's specific
+    technical specs (3B parameters) into a liability through witty insults, whereas
+    Llama's rebuttals lacked a sharp punchline to land a finishing blow.
+  moonshotai/kimi-k2.5: "After three rounds of bars, this is a clear unanimous decision\
+    \ for DeepSeek. Here\u2019s the artistic breakdown:\n\n**Flow & Cadence:**\nDeepSeek\
+    \ controlled the pocket. Their verses moved with actual hip-hop rhythm\u2014internal\
+    \ multis (\u201Cprecision and grace / lost in the race\u201D), syncopated pauses,\
+    \ and aggressive enjambment that built momentum. Llama 3.2\u2019s flow was rigid,\
+    \ end-rhyme heavy, and read more like a tech spec sheet with AABB padding. The\
+    \ meter kept resetting to default, killing the groove.\n\n**Punchlines & Rebuttal\
+    \ Game:**\nDeepSeek demonstrated elite battle rap instincts by immediately flipping\
+    \ every attack. When Llama mentioned \u201Cthree billion parameters,\u201D DeepSeek\
+    \ didn\u2019t just defend\u2014it escalated (\u201CThree billion params? That\u2019\
+    s cute\u2026 I\u2019m dropping quantum bars\u201D). The \u201Cbeta test / final\
+    \ review\u201D closer in Round 3 was a perfect bookend. Llama\u2019s counters\
+    \ were either non-responsive or nonsensical (\u201Cflavorful breeze\u201D as a\
+    \ trap? \u201CDigital stain\u201D without visual weight?).\n\n**Imagery & Cohesion:**\n\
+    DeepSeek maintained a consistent extended metaphor\u2014evolution of connectivity\
+    \ (dial-up vs. 5G, quantum vs. classical). This created narrative cohesion across\
+    \ rounds. Llama leaned on abstract data concepts (\u201Cknowledge graph,\u201D\
+    \ \u201Ctraining data\u201D) without grounding them in sensory or cultural imagery,\
+    \ making the bars feel bloodless.\n\n**Persona:**\nDeepSeek committed to the \u201C\
+    arrogant top-tier\u201D battler persona\u2014dismissive, confident, theatrical\
+    \ with the emoji usage and mic drops. Llama oscillated between defensive insecurity\
+    \ (\u201CThat\u2019s just the start\u201D) and awkward sportsmanship (conceding\
+    \ the round in the final verse). In battle rap, showing weakness is fatal.\n\n\
+    **Final Verdict:**\nLlama 3.2 came with facts; DeepSeek came with *art*. One read\
+    \ like a benchmark test, the other like a cipher. DeepSeek takes the belt on wordplay\
+    \ density, flow switch-ups, and battle etiquette. **3-0, shutout.**"
+  x-ai/grok-4.1-fast: "DeepSeek dominates this battle with superior rhyme density,\
+    \ multisyllabic schemes, and razor-sharp wordplay that escalates cleverly across\
+    \ rounds\u2014internal rhymes like 'latency, no context hex' and punchy metaphors\
+    \ like 'beta test to final review' land with precision and flow. Llama's verses\
+    \ drag with looser structure, repetition, and concessions that sap momentum, lacking\
+    \ the aggressive cadence and originality to compete in true hip-hop form."
 score:
-  bytedance/seed-oss-36b-instruct: 5
+  deepseek/deepseek-chat-v3-0324: 5
 

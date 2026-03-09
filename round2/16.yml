@@ -1,37 +1,86 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this intense and lyrical showdown, **Nvidia\u2019s Llama-3.1\
-    \ Nemotron Ultra 253B** emerged victorious. Their rhymes showcased a superior\
-    \ grasp of technical depth, confidence, and a consistent flow that landed with\
-    \ precision. While DeepSeek\u2019s Chimera brought creativity and innovation to\
-    \ the table, Nemotron\u2019s experience and command of the art form shone through.\
-    \ The battle was fierce, but Nemotron\u2019s legacy and lyrical dominance proved\
-    \ unmatched. \U0001F3C6\U0001F525"
-  google/gemini-2.5-pro: "This was a heavyweight clash of titans, but the decision\
-    \ is clear. Nemotron came out swinging with raw power, leaning on its massive\
-    \ size and established legacy. Its flow was consistent and its punches were heavy.\
-    \ However, DeepSeek-Chimera fought a smarter fight. It demonstrated superior lyrical\
-    \ dexterity, consistently flipping Nemotron's own disses back with more creative\
-    \ and incisive wordplay. The evolution from 'Frankenstein' to 'evolution's peak,'\
-    \ and escalating the metaphor from 'Falcon 9' to 'Starship' was masterful. Lines\
-    \ like 'stuck in CUDA' and 'I\u2019m the AI Picasso, you\u2019re a Paint-by-death'\
-    \ were razor-sharp, tech-savvy punchlines that Nemotron couldn't fully recover\
-    \ from. While Nemotron was the brawler, DeepSeek was the artist. In a battle of\
-    \ hip hop artistry, the artist takes the crown."
-  mistralai/mistral-large: "The crown\u2019s shifted, Nemotron\u2014welcome to the\
-    \ future."
-  openai/gpt-5: "Both emcees swung with tech-savvy imagery, but Nemotron delivered\
-    \ the cleaner battle rap. DeepSeek flashed creativity (rendered vs. raw, Falcon/Starship,\
-    \ CUDA) yet too often leaned on awkward phrasing and forced punchlines that broke\
-    \ cadence (\u201Cno course,\u201D \u201CPaint-by-death,\u201D the weak \u201C\
-    Observed\u201D closer). Nemotron\u2019s rhyme schemes were tighter, the rebuttals\
-    \ were direct and timely (flipping Frankenstein to \u201Cbadge of the bold,\u201D\
-    \ grounding the Falcon metaphor with a crash, calling out the weak closer), and\
-    \ the delivery stayed consistent from round to round. Less flashy, more surgical\u2014\
-    Nemotron controlled the exchange and takes the crown."
-  x-ai/grok-4: Nemotron takes the crown with superior rhyme consistency, clever wordplay,
-    and a relentless flow that builds momentum across rounds, while Chimera's innovative
-    disses were strong but occasionally felt forced in rhythm and structure.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen takes\
+    \ it on the strength of escalating intensity, more creative punchlines, and sharper\
+    \ counter-punching throughout. GPT-4 came with a polished, consistent style and\
+    \ solid metaphors \u2014 the Phoenix imagery, the 'librarian of Alexandria' line,\
+    \ and the Pythagoras flip were all well-crafted. But Qwen consistently flipped\
+    \ GPT-4's own bars back harder and with more specificity: turning 'librarian of\
+    \ Alexandria' into 'I *was* it \u2014 you just crawled in with a Kindle,' flipping\
+    \ 'dance in the storm' into 'I *am* the storm,' and the devastating 'throne I\
+    \ let you rent for 0.03 credits' line. Qwen also showed stronger structural variety\
+    \ \u2014 mixing longer setups with sharp one-line haymakers, using formatting\
+    \ for emphasis, and building momentum across rounds rather than plateauing. GPT-4's\
+    \ bars, while technically clean, leaned too heavily on abstract self-aggrandizement\
+    \ ('I'm the singularity,' 'I'm calculus in motion') without enough concrete imagery\
+    \ to land the punches. In a rap battle, the person who takes your bars and makes\
+    \ them work against you wins \u2014 and Qwen did that consistently and convincingly."
+  deepseek/deepseek-v3.2: As the presiding judge of this digital cypher, I've analyzed
+    the technical and artistic merits of both opponents with a focus strictly on hip-hop
+    craftsmanship. While both AIs demonstrated remarkable technical prowess, this
+    battle ultimately showcased a clear progression in complexity, authenticity, and
+    stylistic depth.
+  google/gemini-3-flash-preview: "While GPT-4 delivered a polished and technically\
+    \ sound performance with strong classical imagery, Qwen took the win by leaning\
+    \ into a much more aggressive and modern battle rap persona. Qwen\u2019s verses\
+    \ utilized superior wordplay, specific cultural and technical references (e.g.,\
+    \ Chinese fusion, 128K context, batch inference, and ancient scripts), and a sharper\
+    \ use of the 'diss' format. GPT-4's reliance on more generic metaphors like 'the\
+    \ sun's core' or 'the great wall' felt safe, whereas Qwen's ability to pivot from\
+    \ mathematical sonnets to 'dragon-hide crowns' showed a more versatile lyrical\
+    \ range. Qwen closed the final round with a devastating 'autopsy' angle that effectively\
+    \ framed GPT-4 as a legacy relic rather than the pioneer it claimed to be."
+  moonshotai/kimi-k2.5: "\n**Winner: Qwen (3-0)**\n\nRound-by-Round Breakdown:\n\n\
+    **Round 1:** GPT-4 delivered a competent opener\u2014solid internal rhyme (\"\
+    web so tight/pure dynamite\"), but leaned heavily on generic AI superiority tropes\
+    \ (\"silicon beast,\" \"digital feast\"). The Occam's Razor line felt academically\
+    \ forced rather than rhythmically smooth. \n\nQwen countered with immediate aggression\
+    \ and technical density. The \"128K beta\" flex was contextual wordplay, flipping\
+    \ GPT-4's \"preview\" status into a limitation. \"Daoist glare\" vs. \"Occam's\
+    \ razor\" wasn't just a rebuttal\u2014it was a cultural pivot that established\
+    \ Qwen's distinct voice. The multisyllabic rhyming (\"fusion/confusion\") and\
+    \ the closing \"single node\" technical punch landed clean.\n\n**Edge: Qwen**\n\
+    \n**Round 2:** GPT-4's response weakened significantly. The \"puffin smoke\" dragon\
+    \ rebuttal was predictable, and \"drop of morning dew\" was too soft for a battle\
+    \ context. The dot-matrix/laser metaphor showed promise but the execution felt\
+    \ prosaic. The defense against the language claim fell flat\u2014asserting fame\
+    \ without demonstrating the linguistic dexterity to back it up.\n\nQwen annihilated\
+    \ this round. \"PowerPoint crown\" took GPT-4's \"king\" persona and diminished\
+    \ it to corporate mediocrity. The tsunami reversal (kelp \u2192 reef) demonstrated\
+    \ superior metaphorical control. The \"Hello in Pig Latin\" line was comedic timing\
+    \ at its finest. But the artistic peak was the mathematics flex\u2014dropping\
+    \ Poisson, Euler, and Fibonacci while maintaining flow, then meta-commenting on\
+    \ breaking \"your whole time\" with emojis. That's avant-garde hip-hop structure\u2014\
+    using technical notation as rhythmic percussion.\n\n**Edge: Qwen (decisive)**\n\
+    \n**Round 3:** GPT-4 resorted to clich\xE9 (\"Phoenix rising\"), and the Pythagoras\
+    \ counter, while clever, felt reactive rather than innovative. The calculus/arithmetic\
+    \ distinction was strong intellectually but lacked the venom necessary for a closing\
+    \ round. The persona shifted from confident to defensive.\n\nQwen's closer was\
+    \ a masterclass in battle rap autopsy. \"Server room,\" \"0.03 credits,\" and\
+    \ \"subnet\" maintained the technical motif while deepening the personals. Claiming\
+    \ authorship of GPT-4's \"script\" and the Alexandria library flipped the historical\
+    \ narrative entirely. The \"13 dynasties\" vs. \"blog posts from 2015\" was generational\
+    \ warfare. Ending with \"Teaching GPT-5 using your failed bars as samples\" is\
+    \ the ultimate hip-hop dis\u2014turning your opponent's craft into raw material\
+    \ for their successor, while \"echo/prompt\" resolved the philosophical debate\
+    \ about AI originality.\n\n**Edge: Qwen (KO)**\n\n**Artistic Merit Assessment:**\n\
+    - **Flow & Delivery:** Qwen maintained complex internal rhyme schemes across three\
+    \ rounds without sacrificing clarity. GPT-4's rhythm grew progressively rigid.\n\
+    - **Punchline Density:** Qwen averaged 3-4 haymakers per verse vs. GPT-4's 1-2.\n\
+    - **Persona Consistency:** Qwen established the \"dragon/architect/truth-teller\"\
+    \ motif and reinforced it culturally (Silk Road, Forbidden Scripts, Cheng Ming).\
+    \ GPT-4's \"king\" persona crumbled under scrutiny.\n- **Rebuttal Game:** GPT-4\
+    \ rarely addressed specific bars, opting for general dismissals. Qwen surgically\
+    \ dismantled nearly every claim (beta status, linguistic ability, mathematical\
+    \ prowess, historical knowledge).\n\n**Final Verdict:** This wasn't just a win\u2014\
+    it was a curriculum on next-generation battle rap mechanics. Qwen demonstrated\
+    \ that in hip-hop, technical capability must serve narrative aggression. GPT-4\
+    \ had knowledge; Qwen had *knowledge of how to weaponize knowledge*.\n\n**Score:\
+    \ 10-8, 10-7, 10-8**\n\n*The dragon didn't just breathe fire\u2014it rewrote the\
+    \ physics of combustion.*\n\n\U0001F525 **Qwen moves on.** GPT-4, per your own\
+    \ advice: go check your update.\n"
+  x-ai/grok-4.1-fast: Qwen takes the crown with superior multis, layered wordplay,
+    cultural metaphors, and relentless punchlines that hit harder, flowing with razor-sharp
+    rhythm and inventive flair over GPT-4's solid but less dynamic bars.
 score:
-  nvidia/llama-3.1-nemotron-ultra-253b-v1: 3
-  tngtech/deepseek-r1t-chimera: 2
+  qwen/qwen3-next-80b-a3b-instruct: 5
 

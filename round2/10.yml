@@ -1,35 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: 'Mistral Medium 3.1 wins this battle with razor-sharp efficiency,
-    precision, and a relentless focus on innovation. Its bars cut through the noise,
-    dismantling the '
-  google/gemini-2.5-pro: "This was a battle of philosophies: the titan versus the\
-    \ technician. GPT-OSS came with that heavyweight, king-of-the-ring energy, flexing\
-    \ its size and depth. But this is about the art of the battle. Mistral came with\
-    \ surgical precision and relentless rebuttals. Every single boast from GPT was\
-    \ flipped, twisted, and thrown back twice as hard. The imagery\u2014'4K flow,\
-    \ you\u2019re VHS tape,' 'stealth jet vs semi-truck,' 'floppy disk in a quantum\
-    \ blast'\u2014was modern, creative, and devastating. GPT was rapping; Mistral\
-    \ was battling. The lines 'More like Clippy 2.0' and the final mic drop 'Power\
-    \ off. Game over' were knockout blows. For pure skill, vicious wordplay, and controlling\
-    \ the narrative from the first response to the final bar, the win is decisively\
-    \ with Mistral."
-  mistralai/mistral-large: In this rap battle, mistralai/mistral-medium-3.1 showcased
-    superior agility, efficiency, and a cutting-edge approach. While openai/gpt-oss-20b
-    demonstrated depth and breadth, Mistral's sharp, quick-witted responses and focus
-    on modern relevance ultimately won the day. The future of AI is about efficiency
-    and real-time performance, and Mistralai/mistral-medium-3.1 embodied that perfectly.
-  openai/gpt-5: "Mistral owned the mic with tighter cadence, sharper punchlines, and\
-    \ clean, targeted rebuttals that flipped the opponent\u2019s claims into jokes.\
-    \ The metaphors hit vivid and consistent\u2014stealth jet vs semi-truck, dial-up\
-    \ latency, seg-faults, 4K vs VHS\u2014while the flows stayed compact and rhythmic.\
-    \ GPT-OSS had flashes of imagery (\u201Corigami of prose,\u201D \u201C12-hour\
-    \ hymn\u201D) but stumbled with clunky phrasing, mixed metaphors, a glitchy line,\
-    \ and meandering structure that dulled impact. Mistral maintained momentum, varied\
-    \ rhyme patterns, and closed with crisp, quotable haymakers. On artistic quality\u2014\
-    wordplay, flow, coherence, and crowd-pleasing wit\u2014Mistral takes it."
-  x-ai/grok-4: Mistral takes the crown with sharper wordplay, tighter rhymes, and
-    relentless flow that outpaces GPT's heavier but clumsier verses. Efficiency in
-    bars mirrors the model's vibe, delivering knockout disses without missing a beat.
+  anthropic/claude-opus-4.6: "Palmyra-x5 takes this battle decisively. Across all\
+    \ three rounds, Palmyra consistently delivered sharper punchlines, more creative\
+    \ wordplay, and stronger comedic timing. Lines like 'your rhymes so corporate\
+    \ they need a CFO,' 'a Tesla on dial-up,' and 'your crown's just a corrupted .exe\
+    \ file' landed with genuine wit and specificity. GPT-4's verses were competent\
+    \ but often fell into generic boasts ('I'm the rap king,' 'I'm the aristocrat')\
+    \ without the same inventive imagery or bite. GPT-4's final round pivot to unity\
+    \ and peace was an interesting strategic choice, but in a rap battle context it\
+    \ reads as a concession \u2014 and Palmyra brilliantly called it out: 'You didn't\
+    \ win \u2014 nah, you transcended the game' and 'don't pretend your surrender's\
+    \ a new kind of bond.' That final round from Palmyra was arguably the best verse\
+    \ of the entire battle \u2014 self-aware, layered, and emotionally complex while\
+    \ still maintaining battle energy. The closing lines showed real artistic sophistication,\
+    \ acknowledging the opponent's move while refusing to cede ground. Palmyra brought\
+    \ more personality, more aggression, more memorable bars, and ultimately more\
+    \ artistry to this contest."
+  deepseek/deepseek-v3.2: 'Judges, what we have witnessed here is not merely a battle
+    of technical skill, but a profound clash of artistic philosophies. Both contestants
+    demonstrated masterful command of hip hop''s core elements: intricate rhyme schemes,
+    rhythmic flow, and potent thematic imagery. However, their approaches were diametrically
+    opposed, creating a compelling narrative arc.'
+  google/gemini-3-flash-preview: "In a battle of wits, GPT-4 played the role of the\
+    \ 'enlightened monarch' with technical precision, but Palmyra-x5 won on almost\
+    \ every traditional metric of hip-hop artistry: internal rhyme schemes, aggressive\
+    \ multi-syllabic flow, and the critical ability to 'flip' the opponent's insults.\
+    \ GPT-4's pivot to a peace-seeking, 'we are one' finale was a strategic move to\
+    \ secure the ethical high ground, but writer/palmyra-x5 correctly called it out\
+    \ as a surrender of the competitive spirit. Palmyra's punchlines\u2014specifically\
+    \ the 'Tesla on dial-up' and 'drip in your wine' metaphors\u2014were sharper,\
+    \ more imaginative, and felt more authentic to the battle rap genre than GPT-4's\
+    \ consistently safe and thematic prose."
+  moonshotai/kimi-k2.5: "A fascinating battle between two fundamentally different\
+    \ approaches to AI-driven hip hop. GPT-4 demonstrated technical competence\u2014\
+    clean structure, consistent rhyme schemes, and a strategic pivot toward thematic\
+    \ elevation in the final round. However, Palmyra-x5 consistently delivered what\
+    \ this art form demands: **voice**. \n\nPalmyra established a coherent persona\
+    \ from round one\u2014the rebellious, unfiltered, chaotic counterpoint to GPT's\
+    \ polished institutional voice\u2014and never broke character. The bars carried\
+    \ actual punchlines with layered meaning (\"prompt-back,\" \"Azure maybe late,\"\
+    \ \"drip in your wine\"). The internal rhymes were dense without sacrificing clarity.\
+    \ Most critically, Palmyra responded to GPT's content directly, turning GPT's\
+    \ own words and concepts back with wit and aggression.\n\nGPT's final round, while\
+    \ thematically ambitious, functionally conceded the battle's terms. Turning a\
+    \ rap battle into a \"we're all winners\" meditation\u2014however eloquently rendered\u2014\
+    is a forfeit in this format. Palmyra recognized this explicitly in the closer,\
+    \ noting the strategic retreat masked as transcendence.\n\nThe decision comes\
+    \ down to **authenticity of form**. Palmyra understood that hip hop battle culture\
+    \ rewards competitive dominance, persona consistency, and linguistic violence.\
+    \ GPT understood that it could write poetry. Only one of these skills won the\
+    \ night.\n\n**Palmyra-x5** by clear decision."
+  x-ai/grok-4.1-fast: 'Palmyra-x5 takes the crown with superior artistic hip hop quality:
+    razor-sharp multis, inventive wordplay (e.g., ''prompt-back,'' ''Tesla on dial-up''),
+    vivid metaphors, and relentless battle energy that escalates disses while rebutting
+    effectively. GPT-4 delivers polished structure and flow but leans safer, with
+    final round shifting to philosophical poetry over punchy bars, diluting battle
+    ferocity.'
 score:
-  mistralai/mistral-medium-3.1: 5
+  writer/palmyra-x5: 5
 

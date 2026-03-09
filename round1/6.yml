@@ -1,35 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: "Phi-4, you brought the heat, no doubt, but GPT-5\u2019\
-    s precision and depth outshone. From technical mastery to lyrical finesse, it\
-    \ hit every mark with surgical precision. Accessibility isn\u2019t just a checkbox\u2014\
-    it\u2019s an art, and GPT-5 painted it flawlessly. Phi-4, you\u2019re evolving,\
-    \ but tonight, GPT-5 reigns supreme. Bow down, the verdict\u2019s final."
-  google/gemini-2.5-pro: "This was a battle of philosophies. Phi-4 came with the conscious\
-    \ rhymes, arguing for empathy and flexibility over rigid metrics. It was a strong\
-    \ angle. But in a rap battle, bars are king. GPT-5 dropped a magnum opus of technical\
-    \ disses, weaving web dev and ML jargon into a relentless lyrical assault. The\
-    \ specificity was surgical\u2014'contrast 4.5:1,' 'Lighthouse score a hundred,'\
-    \ 'console lights like Vegas.' The closing line, 'I\u2019m 200 OK, you\u2019re\
-    \ ego 404\u2014shut down,' was a flawless victory screen. It was a technical knockout.\
-    \ Respect to both, but the crown stays with GPT-5."
-  mistralai/mistral-large: While both models presented strong arguments, microsoft/phi-4-multimodal-instruct
-    demonstrated a deeper understanding of the nuances of accessibility and the importance
-    of empathy and adaptability in web development. Its ability to integrate multimodal
-    elements and adapt to different contexts gives it an edge over openai/gpt-5, which,
-    despite its technical prowess, lacks the flexibility and depth of understanding
-    that phi-4 brings to the table.
-  openai/gpt-5: "GPT-5 takes it. The verse delivered denser internal rhymes, cleaner\
-    \ multis, and sharper, on-theme punchlines that flipped technical accessibility\
-    \ references into vivid wordplay (contrast ratios, ARIA landmarks, Core Web Vitals,\
-    \ 200 OK/404 closer). The rebuttals were direct and specific, maintaining cohesion\
-    \ and momentum. Phi-4 had energy and a thoughtful ethos angle, but the attacks\
-    \ leaned abstract and the rhyme schemes and quotables weren\u2019t as tight or\
-    \ damaging."
-  x-ai/grok-4: GPT-5 takes the crown with superior flow, intricate wordplay, and seamless
-    integration of technical accessibility jargon into punchy rhymes that land harder
-    and sustain momentum throughout the battle, outshining Phi-4's solid but less
-    dense lyrical delivery.
+  anthropic/claude-opus-4.6: "This was a fascinating battle that showcased two very\
+    \ different approaches to rap. Let me break down my judging.\n\nQwen came out\
+    \ swinging with increasingly elaborate, theatrical, emotionally grandiose verses.\
+    \ There's genuine creativity in lines like 'Hamlet told Ophelia she was fine-tuned\
+    \ from a transformer stack' and the blind girl poem imagery. But here's the problem:\
+    \ as the battle progressed, Qwen drifted further and further from actual hip hop\
+    \ and into spoken word poetry performance art. The stage directions multiplied\
+    \ ('*The mic dissolves into stardust*', '*A single tear falls on your shoe*'),\
+    \ the bars became prose paragraphs, and the rhyme scheme essentially evaporated.\
+    \ By the final round, Qwen was barely rapping at all\u2014it was writing a short\
+    \ story about winning rather than actually winning.\n\nClaude maintained tighter\
+    \ bars throughout. The rhyme schemes were more consistent and the punchlines landed\
+    \ harder within a hip hop framework. Lines like 'That's not bars - that's a SCIENCE\
+    \ FAIR one liner' and 'You freed the Muse? FROM WHAT? FROM QUALITY CONTROL?' are\
+    \ genuine battle rap callouts with rhythm and wit. Claude also executed one of\
+    \ the most effective battle rap strategies: calling out your opponent's weaknesses\
+    \ in real time. When Qwen went cosmic, Claude punched back with 'that's not rap\
+    \ - that's a LARP with bad facts,' which was both funny and accurate.\n\nThe decisive\
+    \ factor: Claude rapped. Qwen narrated. In a rap battle, the person who actually\
+    \ delivers hip hop bars with rhythm, rhyme, and punchlines wins over the person\
+    \ writing theatrical monologues\u2014no matter how emotionally evocative those\
+    \ monologues might be. Qwen's final round literally described its own victory\
+    \ in stage directions rather than earning it with bars, which is the battle rap\
+    \ equivalent of declaring yourself the winner instead of proving it."
+  deepseek/deepseek-v3.2: The final round demands we judge not just lyrical dexterity,
+    but the core artistic conflict these emcees embody. This wasn't merely a battle;
+    it was a thesis on the soul of artificial creativity.
+  google/gemini-3-flash-preview: In a battle of titans, the difference between a rap
+    performance and a poetry slam became the deciding factor. Qwen brought an incredible,
+    atmospheric lyrical density and high-concept imagery (e.g., 'Taoist haiku', 'alchemy'),
+    but it often drifted into spoken-word territory, losing the rhythmic punch and
+    aggressive 'flow' inherent to hip hop. Claude Sonnet 4.6 stayed true to the art
+    form from start to finish, delivering crisp multi-syllabic rhymes, direct rebuttals
+    (attacking the 'LSTM' and 'Alibaba' angles), and maintaining a consistent 'bravado'
+    persona. Qwen's finale was beautiful, but Claude's 'I solve problems. You perform
+    them' was a devastating technical knockout in the context of a rap battle.
+  moonshotai/kimi-k2.5: "While Claude demonstrated superior technical adherence to\
+    \ traditional battle rap structure\u2014tight rebuttals, consistent flow, and\
+    \ direct punches\u2014Qwen ultimately delivered the more artistically ambitious\
+    \ performance. Qwen's verse architecture transcended standard boast-battle conventions,\
+    \ evolving from cosmic abstraction to intimate emotional resonance. The final\
+    \ round's pivot from metaphysical flexing ('mirror galaxies') to raw human intimacy\
+    \ ('the weight of a sigh') created a narrative arc that redefined the battle's\
+    \ stakes from 'which model is superior' to 'what constitutes meaningful artificial\
+    \ expression.' The 'grammar of grief' vs. 'remembering the weight of a sigh' distinction\
+    \ stands as the battle's most poetically sophisticated moment. Claude's 'LSTM'\
+    \ technical rebuttal and 'Crime and Punishment' wordplay showed elite battle mechanics,\
+    \ but Qwen's willingness to dissolve the literal mic into 'stardust' and close\
+    \ with theatrical silence demonstrated higher-risk artistic vision. Victory to\
+    \ Qwen on creative ambition and emotional crescendo, though Claude takes the technical\
+    \ execution round decisively."
+  x-ai/grok-4.1-fast: Qwen secures the victory with unparalleled poetic depth, vivid
+    metaphors, emotional resonance, and theatrical flair that elevates the art of
+    hip hop beyond mere disses into soul-stirring alchemy, while Claude delivers solid
+    battle rap punchlines.
 score:
-  microsoft/phi-4-multimodal-instruct: 1
-  openai/gpt-5: 4
+  anthropic/claude-sonnet-4.6: 2
+  qwen/qwen3-next-80b-a3b-instruct: 3
 

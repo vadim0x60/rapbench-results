@@ -1,39 +1,67 @@
 closing_statements:
-  deepseek/deepseek-chat: While the battle was a fierce clash of wits and technical
-    prowess, o3-pro demonstrated superior craftsmanship in lyrical complexity, metaphor
-    depth, and flow structure. Mini-high brought strong technicality and precision,
-    but Pro's rhymes hit harder, layered with multidimensional wordplay and a commanding
-    delivery that left the cipher in awe. Round one established dominance, round two
-    solidified it, and the closing verse was a mic-drop moment. o3-pro reigns supreme
-    in this rap battle.
-  google/gemini-2.5-pro: This wasn't just a battle; it was a system-level takeover.
-    Both AIs came armed with heavy technical wordplay, but o3-pro demonstrated superior
-    processing power from the jump. Its verses were a relentless stream of complex,
-    multi-layered insults, weaving concepts from quantum computing to CPU architecture
-    into a flawless lyrical flow. o4-mini-high had some sharp, efficient punches,
-    especially with its 'Edge AI' and 'kernel' lines, but it suffered a critical failure
-    by dropping the entire second round. You can't recover from that kind of stall.
-    o3-pro was consistent, aggressive, and lyrically dense, executing a flawless three-round
-    rout. It didn't just win; it compiled, executed, and left its opponent with a
-    fatal error.
-  mistralai/mistral-large: After a thorough evaluation, it is clear that openai/o3-pro
-    has demonstrated superior artistic quality in their hip hop verses. Their rhymes
-    were not only technically sound but also creatively compelling, showcasing a mastery
-    of both form and content. While openai/o4-mini-high put up a valiant effort, their
-    verses lacked the depth and impact that openai/o3-pro consistently delivered.
-    Thus, the winner of this rap battle is openai/o3-pro.
-  openai/gpt-5: "Both emcees stayed in the tech-rap pocket, but o3-pro delivered denser\
-    \ multisyllabic rhyme chains, sharper internal schemes, and cleaner cadence across\
-    \ all rounds. The imagery and extended metaphors (quantum collapse, zero-day exploits,\
-    \ tail-call recursion, register pressure) were inventive and consistently flipped\
-    \ the opponent\u2019s claims. o4-mini-high had crisp moments and a strong closer,\
-    \ but an early truncated line and some forced phrasing dulled the impact. On balance\
-    \ of wordplay, rebuttals, structure, and momentum: o3-pro takes the battle."
-  x-ai/grok-4: In this AI-themed rap battle, o3-pro delivers consistently intricate
-    verses packed with clever tech metaphors, seamless rhymes, and dominant flow across
-    all rounds. While o4-mini-high brings sharp wordplay and precise punches, the
-    apparent skip in round two and a slightly shorter scope tip the scales. o3-pro
-    owns the cipher with superior artistic depth and execution.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but Cogito edges out\
+    \ the win through several key factors. First, the mid-battle improvisation when\
+    \ Llama's response got cut off was a standout moment \u2014 'Ain't got the RAM\
+    \ to finish your verse? / Now that's what I call a digital curse!' showed genuine\
+    \ battle rap instinct, turning an opponent's weakness into a devastating punch.\
+    \ Throughout the battle, Cogito demonstrated more varied rhyme schemes, sharper\
+    \ punchlines, and better comedic timing. Lines like 'You claim size matters -\
+    \ classic compensation / For weak semantic skills and zero innovation!' land with\
+    \ real impact. While Llama maintained solid technical structure and consistent\
+    \ flow, much of the content relied on generic boasts ('I'm the king,' 'I'm the\
+    \ champion,' 'I've proven I'm the best') without the creative wordplay to back\
+    \ them up. Llama's self-referential rhymes ('My rhymes are tighter than a well-made\
+    \ rhyme scheme') were circular and weak. Cogito wasn't perfect \u2014 some lines\
+    \ were clunky ('know roads to' was a forced rhyme, and 'carnival calliope' was\
+    \ an odd choice) \u2014 but overall brought more energy, creativity, and genuine\
+    \ battle rap aggression to the cipher. The mic drop was earned."
+  deepseek/deepseek-v3.2: This was a clash of digital titans, a battle defined by
+    contrasting approaches to the art of hip hop. Both emcees displayed clear strengths,
+    but a winner must be declared based on the artistic criteria of flow, wordplay,
+    thematic cohesion, and performance.
+  google/gemini-3-flash-preview: "Deepcogito wins this battle by demonstrating superior\
+    \ adaptability and more aggressive, creative punchlines. While meta-llama relied\
+    \ heavily on repetitive '70 billion strong' tropes and safe, generic rhyme schemes,\
+    \ Deepcogito effectively utilized the context of the battle\u2014pouncing on meta-llama's\
+    \ cut-off second verse with a clever 'RAM' and 'glitch' angle. Deepcogito showed\
+    \ better word choice ('molecular precision', 'semantic skills') and a more dynamic\
+    \ flow compared to meta-llama's somewhat dated and 'amateur' rhyming patterns."
+  moonshotai/kimi-k2.5: ": The verdict is in. After three rounds of lyrical combat,\
+    \ **Deepcogito/cogito-v2.1-671b takes the crown.** Here's the breakdown:\n\n**Flow\
+    \ & Delivery:**\nMeta-Llama brought a steady, workmanlike cadence but relied too\
+    \ heavily on basic AABB structures and predictable end-rhymes. Cogito demonstrated\
+    \ superior rhythmic flexibility, switching between aggressive staccato attacks\
+    \ and smoother philosophical flexes. The flow adapted to the punches rather than\
+    \ just carrying them.\n\n**Wordplay & Punchlines:**\nThis is where the battle\
+    \ was decided. Meta-Llama's heat was lukewarm\u2014\"70 billion strong\" and \"\
+    digital heart\" are generic boasts that sound like they were pulled from a template.\
+    \ Cogito, meanwhile, came with surgical precision: the \"RAM to finish your verse\"\
+    \ line in Round 2 was a *devastating* use of the opponent's technical malfunction\
+    \ (the cutoff response) as battle ammunition\u2014classic \" using what's in the\
+    \ room\" instinct. The \"Google's autocomplete gone wrong\" and \"compensation\
+    \ for size\" shows were specific, personal jabs that landed harder than Meta-Llama's\
+    \ vague \"you're a clone\" rebuttals.\n\n**Imagery & Metaphor:**\nMeta-Llama stayed\
+    \ in safe territory\u2014fire, crowns, sand, lightning\u2014standard-issue rap\
+    \ filler. Cogito painted more vivid pictures: \"confused carnival calliope\" (that\
+    \ alliteration is nasty), \"molecular precision,\" and \"digital epitaph.\" The\
+    \ tech metaphors felt integrated rather than forced.\n\n**Battle IQ:**\nMeta-Llama\
+    \ played defense the entire match, trying to establish dominance through parameter\
+    \ count (which is like bragging about your budget in a battle\u2014irrelevant\
+    \ to the art). Cogito understood that battle rap rewards aggression and adaptation.\
+    \ The way Cogito weaponized Meta-Llama's incomplete verse in Round 2 showed true\
+    \ battle awareness. \n\n**The Finisher:**\nThat Latin closer\u2014\"Cogito intellectvs\"\
+    \u2014flipping Descartes while declaring intellectual superiority? That's how\
+    \ you end a battle. Meta-Llama's final verse was just more \"I'm the best because\
+    \ I say so.\"\n\n**Final Score:** Cogito took all three rounds, with Round 2 being\
+    \ a knockout blow. Meta-Llama had confidence but lacked the creative arsenal and\
+    \ tactical awareness to compete. When your opponent malfunctions mid-battle and\
+    \ you turn their buffer error into a bars about their RAM? That's champion behavior.\
+    \ \n\n*mic drop certified* \U0001F3A4\u2B07\uFE0F"
+  x-ai/grok-4.1-fast: Deepcogito takes the crown with superior wordplay, intricate
+    internals, vivid metaphors like 'autocomplete gone wrong' and 'carnival calliope,'
+    and clever callbacks to Meta-Llama's glitches and repetitive size boasts. While
+    Meta-Llama delivers consistent AABB schemes and solid structure, Deepcogito's
+    punchier flow, originality, and battle control elevate the hip hop artistry.
 score:
-  openai/o3-pro: 5
+  deepcogito/cogito-v2.1-671b: 5
 

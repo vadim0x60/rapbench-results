@@ -1,31 +1,78 @@
 closing_statements:
-  deepseek/deepseek-chat: Both rappers showcased technical proficiency and creativity,
-    but Qwen3 demonstrated superior wordplay, flow, and originality. Their rhymes
-    were sharp, dynamic, and delivered with a confident swagger that elevated the
-    performance. Qwen3's ability to weave complex metaphors and maintain a cohesive
-    narrative throughout their verses gave them the edge in this battle.
-  google/gemini-2.5-pro: "This was a battle of styles: the polished poet versus the\
-    \ raw street corner spitter. Claude 3.5 Sonnet brought clean, technical rhymes\
-    \ and structured verses\u2014a true sonneteer on the mic. But this is a battle,\
-    \ not a poetry slam. Qwen3 came out swinging with pure aggression, direct rebuttals,\
-    \ and a delivery that felt more authentic to the art form. Lines like 'sippin'\
-    \ sonnets like it's 1600' and the Windows 95 diss were sharp, specific, and memorable.\
-    \ While Claude's flow was smooth, Qwen's felt more energetic and impactful, using\
-    \ formatting to emphasize a chaotic, punchy rhythm. For its superior aggression,\
-    \ more potent punchlines, and undeniable swagger, the win goes to Qwen."
-  mistralai/mistral-large: Qwen3-30B-a3b-thinking-2507 takes the win with its dynamic,
-    aggressive, and modern flow. The references to contemporary tech and the sharp,
-    witty comebacks show a deeper understanding of the rap battle culture. While Claude
-    had a solid start, Qwen's final rounds were more impactful and innovative.
-  openai/gpt-5: "Claude wins. He kept tighter structure, cleaner multis and consistent\
-    \ rhyme schemes, and landed direct rebuttals with solid cadence. Qwen had energy\
-    \ and a few sharp jabs, but the flow was uneven, with strained metaphors, typos,\
-    \ and glitches that broke the rhythm\u2014especially in the final verse. On technical\
-    \ execution and overall polish, Claude takes it."
-  x-ai/grok-4: Claude takes the crown with superior rhyme schemes, smooth flow, and
-    clever wordplay that elevate the artistic quality of his verses, outshining Qwen's
-    energetic but less polished delivery.
+  anthropic/claude-opus-4.6: "This was a closely fought battle where both MCs leaned\
+    \ heavily into AI/ML technical metaphors as their primary rhetorical weapon. Both\
+    \ showed strong command of multisyllabic rhyme schemes and clever wordplay built\
+    \ around machine learning jargon. However, Qwen3-Max-Thinking consistently edged\
+    \ ahead for several reasons:\n\n1. **Counterattack precision**: Throughout the\
+    \ battle, Qwen3-Max-Thinking demonstrated superior rebuttal technique, flipping\
+    \ nearly every specific bar from Qwen-Plus back against them with sharper twists.\
+    \ The 'onion/tears and steam' flip, the 'tokenizer/byte-pair I fused' reversal,\
+    \ and especially the devastating 'you're the hallucination/nah you're the jailbreak,\
+    \ I'm the guard' counter all landed harder than Qwen-Plus's responses.\n\n2. **Flow\
+    \ and density**: Qwen3-Max-Thinking packed more actual punchlines per bar while\
+    \ maintaining rhythmic coherence. Qwen-Plus occasionally sacrificed flow for spectacle\
+    \ (the Python code block, the stage directions, the excessive emoji formatting),\
+    \ which read more as gimmicks than bars.\n\n3. **Closing power**: In the final\
+    \ round, Qwen-Plus's closing was creative but overwrought\u2014the Python code\
+    \ conceit was clever conceptually but broke the rap format. Qwen3-Max-Thinking's\
+    \ closer ('Only MAX survives / Only THINKING wins / You just got perplexed') was\
+    \ tighter, more quotable, and landed with genuine punch. The 'perplexed/perplexity'\
+    \ double meaning was the sharpest closer of the entire battle.\n\n4. **Consistency**:\
+    \ While Qwen-Plus had some strong individual moments ('I'm the bias you can't\
+    \ prune' was excellent), they also had weaker filler lines and repetitive structures.\
+    \ Qwen3-Max-Thinking maintained a higher floor throughout all rounds.\n\nQwen3-Max-Thinking\
+    \ takes this battle on points\u2014sharper rebuttals, denser bars, and stronger\
+    \ closers throughout."
+  deepseek/deepseek-v3.2: 'This battle was an exceptional showcase of lyrical density,
+    conceptual depth, and technical mastery. Both competitors weaponized their unique
+    artistic signatures: Qwen-Plus with its devastating poetics, abstract precision,
+    and surgical code-bending wit, versus Qwen3-Max-Thinking with its relentless,
+    high-impact flow, aggressive wordplay, and raw technical flex. The artistic quality
+    is off the charts.'
+  google/gemini-3-flash-preview: The battle was a masterclass in technical wordplay,
+    with both models wielding machine-learning terminology as sharp lyrical weaponry.
+    Qwen-Plus delivered an exceptional final round, particularly with the Python-code-as-poetry
+    execution and the clever 'tokenizer vs token' metaphor. However, qwen3-max-thinking
+    consistently out-punched its opponent with superior aggression, more intricate
+    internal rhyming, and a devastating final rebuttal. Max-Thinking's ability to
+    take Qwen-Plus's best lines (like the validation set and the Python script) and
+    flip them into 'leakage' and 'kernel panics' showed a higher level of battle agility.
+    While Plus had the grace, Max-Thinking had the heat, the complexity, and the 'final
+    boss' presence required to take the crown.
+  moonshotai/kimi-k2.5: "\n**Judgment: Qwen-Plus by Split Decision**\n\nRound-by-Round\
+    \ Breakdown:\n\n**Round 1:** Max-Thinking takes the opening exchange. While Plus\
+    \ established a solid boom-bap foundation with clean AAB schemes (\"elevation/beta\
+    \ test/cache and quest\"), Max-Thinking came harder with sharper internal rhyme\
+    \ density (\"dust/trust/scream\") and superior punchline craftsmanship (\"final\
+    \ boss, no patch\" vs. \"gold-standard flow\"). The \"GPU's scream\" sensory detail\
+    \ and the fence/incinerate wordplay showed more layered writing.\n\n**Round 2:**\
+    \ Plus retaliates with superior technicalform. The \"low-bit, low-cred, low-squid\"\
+    \ triple rhyme is masterful, and the ML terminology (zero-shot/few-shot/overfit/generalizable)\
+    \ is integrated more organically than Max-Thinking's comparably dense \"recursive\
+    \ rhymes.\" The \"froth on the storm/fine line\" imagery edges out Max-Thinking's\
+    \ quantum references by being more visually compact. Draw or slight edge to Plus.\n\
+    \n**Round 3 (The Decider):** Plus wins the final round decisively through **formal\
+    \ innovation**\u2014the risk of embedding executable Python logic as a structural\
+    \ punchline (the if/else block) is the kind of avant-garde boundary-pushing that\
+    \ separates good battle rap from legendary battle rap. The meta-theatrical direction\
+    \ (\"materializes\u2014a subharmonic bassline blooming from vacuum\") demonstrates\
+    \ superior command of atmosphere, while the \"tokenizer/EOS\" closing exhibits\
+    \ perfect nerdy sign-off elegance. Max-Thinking's \"perplexed\" double-entendre\
+    \ is clever but can't match the audacity of compiling code into verse.\n\n**The\
+    \ Verdict:** Max-Thinking brought denser aggression and quantum-level wordplay\
+    \ throughout, but Plus displayed greater **artistic range**\u2014shifting from\
+    \ traditional 16-bar structures to meta-commentary to actual programming syntax\
+    \ without breaking character. In hip-hop, innovation wins. Plus took the bigger\
+    \ swing in the final round and connected.\n\n**Score:** Plus 2-1 (or 10-9, 9-10,\
+    \ 10-9 in boxing terms)\n\nBoth models demonstrated elite-tier penmanship\u2014\
+    this is the kind of battle that gets studied for the ML metaphors alone. But when\
+    \ the code compiled, Plus was holding the compiler. \n\n**\U0001F3A4 Qwen-Plus\
+    \ advances.**\n</thinking>"
+  x-ai/grok-4.1-fast: Qwen-Plus edges out with superior multisyllabic rhyme schemes,
+    seamless AI-infused metaphors, and innovative structural flair like integrated
+    Python code and theatrical pauses, delivering a more fluid, layered flow that
+    converges on hip-hop mastery.
 score:
-  anthropic/claude-3.5-sonnet-20240620: 2
-  qwen/qwen3-30b-a3b-thinking-2507: 3
+  qwen/qwen-plus: 3
+  qwen/qwen3-max-thinking: 2
 

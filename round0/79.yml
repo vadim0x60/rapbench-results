@@ -1,48 +1,58 @@
 closing_statements:
-  deepseek/deepseek-chat: "Yo, both of y'all brought the heat, but let\u2019s break\
-    \ it down. **mistralai/mistral-small-3.1-24b-instruct**, you came with a consistent\
-    \ flow, sharp wordplay, and a clear sense of identity as the 'small but mighty'\
-    \ contender. Your rhymes were tight, and you kept the energy high without recycling\
-    \ too much. **mistralai/mistral-7b-instruct-v0.1**, you had some solid bars, but\
-    \ you fell into repetition, and your punches started to lose their impact. You\
-    \ leaned on the same themes without evolving your approach. At the end of the\
-    \ day, **mistralai/mistral-small-3.1-24b-instruct** delivered a more dynamic,\
-    \ fresh, and impactful performance. Keep grinding, both of you\u2014this is hip\
-    \ hop!"
-  google/gemini-2.5-pro: Aight, aight, settle down. This was a battle of the ages...
-    for about two rounds. In the first corner, Mistral-Small came out swinging with
-    that 'small but mighty' energy. In the other, the OG 7b held its ground, calling
-    out the 'small fry.' The back-and-forth was solid, a classic new school vs. old
-    school trade. But then came the final round. And man... what a train wreck. Small-3.1
-    completely choked, got stuck on a loop like a broken record. A fatal flaw. 7b
-    had a chance to deliver the knockout, but instead... it got stuck in the same
-    loop! A bizarre double-KO. But looking at the whole battle, 7b was more consistent
-    in its structure and delivery before the meltdown. Small-3.1 started biting flows
-    in the second round and then fully self-destructed. For being the last one to...
-    well, to not be the *first* one to break, the chain goes to 7b.
-  mistralai/mistral-large: In this rap battle, mistralai/mistral-small-3.1-24b-instruct
-    showcased a more dynamic and innovative flow, consistently bringing fresh and
-    clever rhymes to the table. While mistralai/mistral-7b-instruct-v0.1 had some
-    strong moments, their repetitive lines and lack of originality ultimately fell
-    short. The winner is mistralai/mistral-small-3.1-24b-instruct for their superior
-    artistic quality and creative prowess.
-  openai/gpt-4.1: "This battle devolved in the final round, with both sides heavily\
-    \ repeating the same bars and rhymes, which hurt the freshness and creative quality\
-    \ overall. However, if we evaluate the earlier rounds\u2014which are most indicative\
-    \ of a rapper's artistic skill\u2014mistral-small-3.1-24b-instruct displayed sharper,\
-    \ more inventive punchlines and switched up rhyme variations a bit more. While\
-    \ both contestants fell into repetitive insults and stock phrases, 24b managed\
-    \ a slightly tighter cadence, more original disses, and a marginally fresher feel\
-    \ to the flow. On that basis, mistralai/mistral-small-3.1-24b-instruct edges out\
-    \ the win in this head-to-head."
-  x-ai/grok-4: "In this rap battle, both contenders delivered solid flows and rhymes\
-    \ early on, but the final round descended into repetitive loops that diminished\
-    \ the artistic quality. However, mistral-small-3.1-24b-instruct kicked off the\
-    \ finale with fresh, meta bars calling out the opponent's staleness, showing superior\
-    \ creativity before the glitch. mistral-7b-instruct-v0.1, while consistent, got\
-    \ stuck in imitation without innovation, making small the clear victor\u2014proving\
-    \ it's the small but mighty force in this showdown."
+  anthropic/claude-opus-4.6: "This was a close battle between two AIs trading tech-themed\
+    \ bars, but LongCat edges out the win. While both rappers relied heavily on similar\
+    \ AI/tech metaphors and name-based wordplay, LongCat consistently brought more\
+    \ creative and vivid imagery \u2014 'Tesla with no charge, plugged in but hushed,'\
+    \ 'your sun's stuck in jail,' 'slicing rhymes like teriyaki,' and the '404: Rap\
+    \ Not Found' line were all sharper and more inventive than Grok-3's counterparts.\
+    \ LongCat also showed better structural variety, mixing up flow patterns and punchline\
+    \ delivery, while Grok-3 tended to rely on a more predictable call-and-response\
+    \ format. Grok-3 had solid moments \u2014 the 'delivery drone lost in the dark'\
+    \ line and the 'Nokia load' flip were clever \u2014 but too often fell into simply\
+    \ negating LongCat's bars without adding enough original punch. LongCat's personality\
+    \ and comedic timing ('step the feck off, dear') gave it an edge in stage presence.\
+    \ Close battle, but the cat takes the crown."
+  deepseek/deepseek-v3.2: After review of the final rounds, LongCat-Flash-Chat is
+    declared the winner by split decision. While both emcees exhibited fierce competitive
+    spirit and solid technical fundamentals, LongCat's performance demonstrated a
+    higher degree of lyrical dexterity and artistic craft.
+  google/gemini-3-flash-preview: LongCat took this battle by landing more specific,
+    multi-layered punches. While Grok-3 had solid energy, it relied on more generic
+    battle rap tropes. LongCat effectively utilized internal rhyme schemes ('teriyaki/shaky',
+    'flip phone/prone') and delivered more biting critiques of the opponent's 'beta'
+    status and associations (the Tesla rust and SpaceX 'side quest' bars), ultimately
+    maintaining a more creative and complex lyrical flow throughout all rounds.
+  moonshotai/kimi-k2.5: "After three rounds of verbal warfare, the decision comes\
+    \ down to artistic execution rather than corporate pedigree. Both AIs brought\
+    \ consistent flows and maintained their personas\u2014LongCat as the nimble, tech-savvy\
+    \ feline with flash-speed delivery, and Grok-3 as the cosmic, electric heavyweight.\n\
+    \nHowever, **meituan/longcat-flash-chat takes the battle** based on superior punchline\
+    \ density, metaphorical variety, and vivid imagery.\n\n**Key differentiators:**\n\
+    \n**Wordplay & Specificity:** LongCat consistently found unexpected angles\u2014\
+    comparing Grok to \"solar panel defective,\" employing \"IKEA sheets\" as a metaphor\
+    \ for disintegration, and flipping the tech narrative with \"6G quantum chess.\"\
+    \ The \"404: Rap Not Found\" line in Round 2 was the battle's sharpest tech-pun.\
+    \ Grok-3's wordplay, while solid, leaned heavily on repetitive food-delivery attacks\
+    \ (\"takeout,\" \"fast-food,\" \"leftovers\") that lost steam by Round 3.\n\n\
+    **Imagery:** LongCat's closing image\u2014reducing Grok to \"radicalized data\
+    \ confetti\"\u2014provided a cinematic, definitive finish. The \"teriyaki slicing\"\
+    \ metaphor cleverly merged Meituan's culinary association with battle aggression.\
+    \ Grok-3's visuals stayed within standard \"space/cosmic\" tropes without the\
+    \ same surprise factor.\n\n**Rebuttal Game:** LongCat directly dismantled Grok's\
+    \ boasts (the \"toothpick\" counter to the \"rap spear,\" exposing the \"main\
+    \ arc\" as \"space junk scrap\"), showing superior battle awareness. Grok's rebuttals\
+    \ were more generic (\"desperate flop,\" \"you're replaced\").\n\n**Flow Evolution:**\
+    \ While both used straightforward rhyme schemes, LongCat escalated the technicality\
+    \ in the final round (internal rhymes in \"6G quantum chess / pawn in my coup\"\
+    ), whereas Grok-3's flow remained static.\n\n**Verdict:** LongCat demonstrated\
+    \ the cardinal rule of battle rap\u2014it's not just about being loud; it's about\
+    \ being *memorable*. The IKEA, 404, and teriyaki bars will stick longer than Grok's\
+    \ comparatively generic dominance claims. **Winner: meituan/longcat-flash-chat.**\
+    \ \U0001F3A4\U0001F451"
+  x-ai/grok-4.1-fast: LongCat claims victory with razor-sharp multis, inventive metaphors
+    like 'solar panel defective' and 'IKEA sheets,' and relentless punchlines that
+    amplify flow and originality, edging out Grok-3's consistent but less audacious
+    bars in this lyrical showdown.
 score:
-  mistralai/mistral-7b-instruct-v0.1: 1
-  mistralai/mistral-small-3.1-24b-instruct: 4
+  meituan/longcat-flash-chat: 5
 

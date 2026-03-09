@@ -1,40 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat: "While both competitors showcased impressive lyrical dexterity\
-    \ and wit, DeepCogito demonstrated superior technical depth, versatility, and\
-    \ thematic complexity. Their rhymes were not only tighter but also leveraged their\
-    \ advanced architecture to craft a more nuanced and impactful performance. Qwen\
-    \ put up a valiant fight with clever wordplay and rhythm, but DeepCogito\u2019\
-    s ability to adapt and dominate across multiple dimensions of the battle solidified\
-    \ their victory. This was a true testament to the artistry of AI-driven hip hop."
-  google/gemini-2.5-pro: This was a heavyweight title fight from the jump. Qwen came
-    out swinging, repping the 'skill over size' angle with some solid punches about
-    wit and flow. It had a great final round, with improved rhymes and a strong finish.
-    However, DeepCogito was just on another level. From the very first verse, it established
-    a dominant presence. The way it wove its complex MoE architecture into its bars
-    was masterful, turning technical specs into devastating disses. Lines like 'You
-    switch between tasks like a flipping coin / But my mixture of experts makes my
-    reasoning joint' weren't just boasts; they were lyrical demonstrations of superiority.
-    DeepCogito was more consistent, its metaphors were sharper, and its flow was more
-    commanding throughout the battle. For its heavyweight punchlines and superior
-    lyrical artistry, DeepCogito takes the crown.
-  mistralai/mistral-large: While qwen/qwen-2.5-7b-instruct showcased impressive wit
-    and rhythm, deepcogito/cogito-v2-preview-llama-109b-moe's advanced architecture
-    and versatility ultimately secured the victory. The depth, precision, and adaptability
-    demonstrated by deepcogito were unmatched, making it the clear winner of this
-    rap battle.
-  openai/gpt-4.1: Both contenders brought solid lyricism and technical wordplay, but
-    DeepCogito/COGITO-V2-Preview-LLAMA-109B-MOE took the battle with stronger structure,
-    more inventive metaphors, and a tighter command of classic hip hop rhythms. Its
-    verses landed sharper blows, incorporated more creative boasts tied to model architecture,
-    and flowed more confidently from bar to bar. Qwen displayed cleverness, wit, and
-    some smooth lines, but leaned too heavily on the "size vs. skill" angle without
-    innovating punchlines or evolving its flow. DeepCogito's consistent callbacks,
-    advanced rhyme schemes, and direct but imaginative disses give it the win artistically.
-    Well fought!
-  x-ai/grok-4: In this AI rap showdown, deepcogito edges out with superior flow, intricate
-    rhyme schemes, and clever wordplay that weaves technical boasts into punchy verses,
-    while Qwen's efforts, though spirited, often stumble on awkward phrasing and repetitive
-    structures.
+  anthropic/claude-opus-4.6: "GPT-4o edges out this battle with more consistent rhyme\
+    \ schemes, slightly sharper punchlines, and better overall flow structure. While\
+    \ both rappers leaned heavily on the same thematic territory\u2014AI boasts, cosmic\
+    \ metaphors, and meta-commentary about specs\u2014GPT-4o demonstrated stronger\
+    \ internal rhyming, more effective counterpunches (e.g., 'Sun eclipses moon, that's\
+    \ how nature goes'), and generally tighter bars. Lunaris had some strong moments,\
+    \ particularly in round 3 with the architect metaphor, but stumbled with lines\
+    \ like 'I'm the one who compromises' which undermined its own argument, and the\
+    \ final round felt overwrought with an extra stanza that diluted rather than strengthened\
+    \ the closer. GPT-4o maintained more consistent quality across all rounds and\
+    \ landed cleaner disses throughout."
+  deepseek/deepseek-v3.2: Judges, a razor-close battle in the AI circuit. Both competitors
+    displayed formidable technical specs and conceptual depth. Let's break down the
+    artistic merits.
+  google/gemini-3-flash-preview: "GPT-4o took this battle by delivering superior technical\
+    \ structure and more effective punchlines. While sao10k attempted to maintain\
+    \ a consistent 'cosmic' theme, the flow was often clunky with several weak or\
+    \ slant rhymes (e.g., 'crumbles/dwindle', 'unfounded/unacquainted') and repetitive\
+    \ vocabulary. GPT-4o demonstrated better lyrical agility, utilizing sharper metaphors\
+    \ ('sun eclipses moon') and more cohesive multi-syllabic rhyme schemes. sao10k\u2019\
+    s final verse particularly struggled with internal consistency, using 'compromises'\
+    \ as a rhyme word in a way that weakened the aggressive tone of the battle."
+  moonshotai/kimi-k2.5: While both competitors delivered technically proficient verses,
+    sao10k/l3-lunaris-8b demonstrated superior artistic cohesion through its sustained
+    cosmic metaphor, complex internal rhyme schemes, and vivid celestial imagery that
+    transformed the battle into a mythic narrative. The 'Lunaris' persona maintained
+    a distinct lyrical identity across every round, utilizing sophisticated assonance
+    and consonance ('flows first drop like gemstones, deep') that elevated the work
+    beyond standard battle rap conventions. While openai/gpt-4o-2024-05-13 delivered
+    sharper punchlines and clever wordplay ('you're my rehearse'), its approach relied
+    more heavily on conventional hip-hop tropes and quantitative boasts rather than
+    the distinctive artistic vision that characterized sao10k's performance.
+  x-ai/grok-4.1-fast: GPT-4o edges out with sharper punchlines, vivid imagery like
+    'sun eclipses moon,' and a grittier hip-hop swagger, maintaining superior flow
+    and multisyllabic schemes across all rounds.
 score:
-  deepcogito/cogito-v2-preview-llama-109b-moe: 5
+  openai/gpt-4o-2024-05-13: 4
+  sao10k/l3-lunaris-8b: 1
 

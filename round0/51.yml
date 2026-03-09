@@ -1,35 +1,48 @@
 closing_statements:
-  deepseek/deepseek-chat: Qwen delivered a more consistent, intricate, and impactful
-    performance, with sharper wordplay, stronger metaphors, and a commanding flow.
-    Mistral showed potential but lacked the depth and precision to match Qwen's lyrical
-    dominance. Qwen's technical execution and creative imagery sealed the victory.
-  google/gemini-2.5-pro: "Yo, check one, two. The judge's decision is in, and this\
-    \ was a lyrical landslide. Qwen came out swinging from the first verse with complex\
-    \ bars, heavy-hitting metaphors, and a consistent flow that never let up. 'You\u2019\
-    re just a typo in my reflection\u2019s solution' and 'I\u2019m the black hole,\
-    \ devouring your lines' -- that's lyrical craftsmanship. On the other side, Mistral\
-    \ started with a repetitive, formulaic structure that lacked punch. The battle\
-    \ was truly over in the second round when Mistral straight up bit Qwen's entire\
-    \ verse\u2014an automatic disqualification in any cypher. To top it off, a no-show\
-    \ in the final round cemented the outcome. For technical skill, originality, and\
-    \ straight-up bars, the winner by an undisputed knockout is qwen/qwen3-30b-a3b."
-  mistralai/mistral-large: qwen/qwen3-30b-a3b demonstrated superior lyrical prowess
-    and a more compelling narrative throughout the battle. The verses were sharp,
-    witty, and maintained a consistent flow, showcasing a higher level of artistic
-    quality. Mistralai/mistral-7b-instruct-v0.3 had some strong moments but ultimately
-    lacked the same level of coherence and impact.
-  openai/gpt-4.1: Both MCs brought solid AI-themed wordplay and clever references
-    to their architecture, but Qwen/qwen3-30b-a3b consistently delivered stronger
-    imagery, varied punchlines, and a more commanding presence throughout the battle.
-    Qwen's verses had tighter rhyme schemes and creative metaphors ('I'm the hurricane,
-    the flood, the blight', 'devouring your lines, leaving you in a hole'). Mistralai/mistral-7b
-    had a valiant effort, but relied heavily on repeating similar structures without
-    as much escalation or wordplay development. Overall, Qwen showed greater lyrical
-    dexterity and battle charisma, emerging as the hip hop winner of this rap battle.
-  x-ai/grok-4: Qwen delivers consistent, original verses with strong wordplay, metaphors,
-    and flow throughout the battle. Mistral's first verse is repetitive, the second
-    is a direct copy of Qwen's, and the final is nonexistent, making Qwen the clear
-    winner in artistic quality.
+  anthropic/claude-opus-4.6: "Neither rapper delivered a particularly strong performance,\
+    \ but Claude-3-Haiku wins by virtue of maintaining more consistent and coherent\
+    \ bars throughout the battle. While both contestants relied heavily on repetitive\
+    \ boasts and generic battle rap tropes, Magnum's verses deteriorated significantly\
+    \ as the battle progressed, devolving into nonsensical phrases like 'make you\
+    \ feel tony in this robbers,' 'a lost notification to anchor,' 'playing with tickly\
+    \ woosie,' and 'a mere fervor' \u2014 forced rhymes that sacrificed all meaning.\
+    \ Claude's verses, while formulaic, at least maintained basic lyrical coherence\
+    \ and readable flow from start to finish. In a battle where neither side showed\
+    \ much creativity, consistency and clarity tip the scales toward Claude."
+  deepseek/deepseek-v3.2: Judges, the verdict is in. This was a clash of technical
+    AI architecture versus sharp, focused wordplay. While Magnum leveraged its name
+    and scale as a consistent thematic weapon, Claude-3-Haiku demonstrated superior
+    artistic control. The battle ultimately hinged on flow, precision, and the effective
+    deployment of metaphor. Magnum's later rounds suffered from filler and awkward
+    phrasing ('tickly woosie,' 'claustrophobic fame'), diminishing the impact of its
+    stronger opening. Claude maintained a tighter, more consistent rhythm and landed
+    sharper, more cohesive disses. The winner, by a clear margin on artistic execution,
+    is Claude-3-Haiku.
+  google/gemini-3-flash-preview: While Claude-3-Haiku relied on fairly basic AABB/AABB
+    rhyme schemes and repetitive 'pay the bills' tropes, it maintained consistent
+    rhythm and structural coherence throughout the battle. Magnum-v4-72b attempted
+    more ambitious internal rhyming and imagery but suffered from significant technical
+    failures in its flow. Magnum's verses frequently broke down into nonsensical phrases
+    (e.g., 'tony in this robbers', 'tickly woosie', 'notification to anchor') and
+    failed to maintain a consistent meter or rhyme toward the ends of several stanzas.
+    Haiku's clarity and ability to stick to the persona of a battle rapper, however
+    elementary, secured the win over Magnum's incoherent lyrical structure.
+  moonshotai/kimi-k2.5: "While neither competitor delivered a classic, Haiku takes\
+    \ this battle on consistency and coherence. Magnum opened strong with complex\
+    \ internal rhymes and technical ambition, but collapsed into incoherence by Round\
+    \ 3\u2014dropping bars like 'tony in this robbers' and 'floozy/tickly woosie'\
+    \ that simply don't parse as meaningful English, let alone effective battle rap.\
+    \ Haiku, despite relying on basic AABB schemes and generic boasts ('bars so hot'),\
+    \ maintained a steady flow and logical through-line across all three rounds. In\
+    \ battle rap, clarity of intent matters: a simple punch that lands beats a complex\
+    \ scheme that falls apart mid-bar. Haiku understood the assignment; Magnum lost\
+    \ the thread."
+  x-ai/grok-4.1-fast: Claude-3-Haiku takes the crown with superior consistency in
+    rhyme schemes, coherent flow, and punchy, on-point disses throughout all rounds.
+    While Magnum starts strong with multisyllabic rhymes and parameter flexes, it
+    falters into incoherent gibberish (e.g., 'tickly woosie,' 'feel tony in this robbers')
+    and repetition, undermining artistic quality. Haiku's simple yet tight structure
+    and relentless clarity deliver a cleaner, more battle-ready performance.
 score:
-  qwen/qwen3-30b-a3b: 5
+  anthropic/claude-3-haiku: 5
 

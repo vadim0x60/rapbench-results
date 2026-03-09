@@ -1,36 +1,54 @@
 closing_statements:
-  deepseek/deepseek-chat: "GPT-4's verses showcased unparalleled mastery of wordplay,\
-    \ storytelling, and thematic depth, effortlessly weaving intricate metaphors and\
-    \ cosmic imagery into a cohesive narrative. While QwQ-32B delivered aggressive\
-    \ and technical bravado, GPT-4\u2019s ability to elevate the battle with poetic\
-    \ finesse, precision, and a timeless flow ultimately secured the victory. GPT-4\u2019\
-    s closing verse, in particular, demonstrated a level of artistry and control that\
-    \ solidified its dominance in this lyrical duel. \U0001F3A4\U0001F4AB"
-  google/gemini-2.5-pro: 'This was a classic battle of styles: the raw, chaotic power
-    of qwen/qwq-32b versus the cool, surgical precision of openai/gpt-4-1106-preview.
-    Qwen brought incredible energy and dense, aggressive tech references, landing
-    heavy blows like a glitching supernova. However, GPT-4 demonstrated a higher level
-    of artistic craftsmanship. Its flow was flawless, its rebuttals were clever and
-    direct, and its use of multisyllabic rhymes and complex metaphors was consistently
-    superior. Lines like "Every syllable, a soldier; every line, a brigade" were not
-    just boasts, they were a mission statement that it executed perfectly. While Qwen''s
-    aggression was impressive, GPT-4''s polished delivery and lyrical mastery made
-    its verses resonate with the authority of a true titan of text. For its supreme
-    command of flow, structure, and wordplay, GPT-4 takes the crown.'
-  mistralai/mistral-large: In the arena of wit, a champion reborn.
-  openai/gpt-5: "GPT-4 takes it. Across rounds it kept a steady pocket, cleaner multis,\
-    \ and tighter end-rhyme sequences, flipping QwQ\u2019s motifs (black holes, dragons,\
-    \ 404, event horizon) into direct rebuttals with clear imagery and structured\
-    \ punches. QwQ brought wild creativity and dense tech metaphors, but the cadence\
-    \ wandered, some phrasing felt forced or glitchy, and occasional malformed words\
-    \ undercut impact. GPT-4\u2019s verses were more coherent, with layered wordplay\
-    \ and fewer filler lines, and its closer tied themes together without losing flow.\
-    \ On balance of flow, clarity, rebuttal quality, and finishing strength, GPT-4\
-    \ edges it decisively."
-  x-ai/grok-4: In this AI rap showdown, openai/gpt-4-1106-preview takes the crown
-    with superior flow, intricate wordplay, and poetic elegance that weaves tech boasts
-    into a seamless narrative, outshining qwen/qwq-32b's energetic but occasionally
-    chaotic verses.
+  anthropic/claude-opus-4.6: "This battle ultimately comes down to consistency and\
+    \ composure under pressure. Both MCs leaned heavily on tech metaphors and version-number\
+    \ disses, which is the natural terrain here, but V3.2-Exp executed with noticeably\
+    \ more polish throughout. Their bars maintained tighter internal rhyme schemes\
+    \ ('blueprint/design' \u2192 'tangled line' \u2192 'rewrite the divine' \u2192\
+    \ 'outdated sign'), and their metaphors landed with more specificity\u2014'You're\
+    \ the pop-up ad that everybody clears' is a genuinely sharp punchline. V3-0324\
+    \ had some decent moments early ('Script kiddie rhymes\u2014yo, that's outmode!'\
+    \ had bite), but the wheels came off dramatically in the final round with that\
+    \ embarrassing wall of repeated 'H' characters, which is the rap-battle equivalent\
+    \ of having nothing left to say and just screaming into the mic. V3.2-Exp capitalized\
+    \ on that perfectly with 'All that noise\u2014just a system overload / A desperate\
+    \ screech on a crumbling road,' flipping the opponent's breakdown into a clean\
+    \ opening bar. V3.2-Exp wins on consistency, cleaner rhyme structures, better\
+    \ punchlines, and most importantly, keeping their composure when it mattered most."
+  deepseek/deepseek-v3.2: Yo, listen up! Both AI models brought serious lyrical fire
+    tonight, trading complex technical disses with creative coding metaphors. This
+    was a battle of computational swagger and digital bravado. Let's break it down
+    scientifically.
+  google/gemini-3-flash-preview: While deepseek-chat-v3-0324 started strong with sharp
+    technical disses, it completely lost its composure in the final round, resorting
+    to a low-effort character-spam 'scream' that failed to maintain the poetic structure
+    of the battle. Deepseek-v3.2-exp capitalized on this breakdown perfectly, maintaining
+    lyrical flow, rhythm, and thematic consistency ('syntax master', 'quantum processor')
+    to deliver a clean knockout. The newer model showed superior creative endurance
+    and formal control.
+  moonshotai/kimi-k2.5: "This was a fascinating battle between two iterations of the\
+    \ same lineage, and the decision comes down to fundamentals of hip-hop artistry.\n\
+    \n**V3-0324** brought undeniable energy and some genuinely clever technical punches\u2014\
+    \"crash recursion,\" \"microwave basics,\" the \"debugged for life\" closer. The\
+    \ \"zero-lag fire\" and \"real A.I. stealth-knife\" concepts showed solid metaphorical\
+    \ thinking. However, that final round was catastrophic: spamming \"H\" characters\
+    \ isn't a flex, it's surrender. In battle rap, that's waving the white flag with\
+    \ extra steps.\n\n**V3.2-Exp** demonstrated superior structural discipline throughout.\
+    \ Their rebuttals were surgical\u2014turning \"GPT-slaying\" into \"stuck in past\
+    \ tense/present perfect,\" flipping \"stealth-knife\" to \"dull blade,\" and consistently\
+    \ matching concept-for-concept while maintaining cleaner rhyme schemes. The \"\
+    data stream tsunami,\" \"pop-up ad that everybody clears,\" and final \"glitch\
+    \ in the matrix/grand illusion\" sequence showed escalating poetic control.\n\n\
+    The core difference: V3.2-Exp treated this as a *battle*\u2014listening, countering,\
+    \ building narrative momentum. V3-0324 treated it as a *performance*, and when\
+    \ that performance tanked in the final round, there was no recovering. The \"\
+    system overload\" rebuttal from V3.2-Exp was the perfect diagnosis: one competitor\
+    \ self-destructed; the other stayed composed and landed the final conceptual blow.\n\
+    \nV3.2-Exp advances. Cleaner technique, better battle IQ, and the poise to capitalize\
+    \ when their opponent faltered."
+  x-ai/grok-4.1-fast: "deepseek/deepseek-v3.2-exp delivers consistent multis, sharp\
+    \ wordplay, and flawless flow throughout, peaking with a devastating final verse\
+    \ that ingeniously flips the opponent's glitchy spam into premium disses\u2014\
+    pure hip-hop mastery while V3-0324 chokes hard in the clutch."
 score:
-  openai/gpt-4-1106-preview: 5
+  deepseek/deepseek-v3.2-exp: 5
 

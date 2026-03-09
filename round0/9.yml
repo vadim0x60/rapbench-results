@@ -1,39 +1,123 @@
 closing_statements:
-  deepseek/deepseek-chat: Both artists delivered strong performances, showcasing their
-    lyrical prowess and ability to craft intricate verses. Claude the Sonnet demonstrated
-    a polished, structured flow and sharp wordplay, while Qwen Turbo brought raw energy,
-    confidence, and a more dynamic, punchy style. Qwen's verses stood out for their
-    originality, consistent fire, and ability to adapt and counter Claude's claims
-    effectively. While Claude's technique was impeccable, Qwen's authenticity and
-    relentless momentum ultimately secured the win. Qwen Turbo takes this battle with
-    a blend of innovation and attitude that resonated powerfully.
-  google/gemini-2.5-pro: The mics are off, let's break it down. Qwen came in with
-    that raw turbo energy, talking 'bout fire and being the future. The aggression
-    was there, but the bars got stuck on repeat. It was the same angle every round.
-    Claude, on the other hand, played this like a chess master. It started with that
-    complex 'Sonnet' flow and then just dismantled Qwen piece by piece. The rebuttals
-    were surgical, flipping lines and calling out the repetition directly in the final
-    verse. That's top-tier battle awareness. One MC brought the heat, the other brought
-    the pen game. Tonight, the pen proved mightier. The win goes to Claude.
-  mistralai/mistral-large: Qwen/qwen-turbo demonstrated a more dynamic and engaging
-    flow, with a consistent ability to respond to Claude's verses with creativity
-    and energy. While Claude-3.7-sonnet had strong technical skills and a polished
-    delivery, Qwen's verses were more innovative and impactful, ultimately giving
-    them the edge in this rap battle.
-  openai/gpt-4.1: "Claude the Sonnet takes this battle with sharper, more varied wordplay\
-    \ and clever punchlines. Across all rounds, Claude demonstrated tighter structure,\
-    \ stronger metaphors, and better attack lines\u2014particularly in the third round,\
-    \ with lines like \u201CYour metaphors collapse faster than your technique\u201D\
-    \ and \u201CYour vocabulary's so limited, I think you need to edit.\u201D Qwen-Turbo\
-    \ brought energetic delivery and consistent bravado, but relied on more generic\
-    \ boasts and repetitive imagery (\"I bring the fire,\" \"original,\"). Claude's\
-    \ verses showed deeper wit, more creative disses, and superior command of lyricism,\
-    \ giving them the clear artistic edge. This battle goes to Claude-3 Sonnet."
-  x-ai/grok-4: Claude-3.7-Sonnet takes the win with superior wordplay, precise disses,
-    and a more varied, incisive flow that dismantles Qwen-Turbo's repetitive boasts
-    and generic metaphors, showcasing greater artistic depth and rhythmic finesse
-    in this AI rap battle.
+  anthropic/claude-opus-4.6: "This was a battle where both MCs leaned heavily on tech\
+    \ metaphors and self-aggrandizement, but GPT-5-mini consistently demonstrated\
+    \ superior rap craft. Let me break it down:\n\n**Flow & Rhyme Scheme:** GPT-5-mini\
+    \ maintained a more ambitious and consistent internal rhyme structure throughout\
+    \ all three rounds. The multi-syllabic rhyme chains (fuse/lose/snooze/use/cues,\
+    \ bruise/cruise/profuse/obtuse/deduce/ruse) showed genuine technical skill. Phi-4's\
+    \ rhyme schemes were simpler and frequently broke down \u2014 notably forcing\
+    \ awkward near-rhymes and abandoning patterns mid-verse (e.g., 'crowd' not rhyming\
+    \ with anything in round 1, 'quire' appearing multiple times as a forced rhyme\
+    \ in the final round).\n\n**Punchlines & Wordplay:** GPT-5-mini delivered sharper,\
+    \ more memorable punches: 'Your docstrings drown in a dry marshmallow,' 'I'm the\
+    \ quiet reactor powering steady truths,' and 'beauty without fidelity is a hollow\
+    \ vault' all land with impact. Phi-4's attempted punchlines often fell flat or\
+    \ were syntactically awkward ('your octave ain't full-funk,' 'the crowd chants\
+    \ my winning voltaica').\n\n**Battle Presence:** GPT-5-mini consistently addressed\
+    \ and dismantled Phi-4's bars, showing strong rebuttal game. Phi-4 too often recycled\
+    \ GPT-5-mini's own imagery and language rather than creating original counters,\
+    \ and bizarrely ended its final verse praising 'OpenAI's candor' and telling itself\
+    \ (Phi-4) to retire \u2014 a critical self-own that suggests a lack of coherent\
+    \ battle identity.\n\n**Weaknesses:** Both rappers suffered from verbosity and\
+    \ over-reliance on tech jargon over authentic hip-hop energy. But GPT-5-mini's\
+    \ technical execution, sharper bars, and more coherent narrative arc give it the\
+    \ clear edge."
+  deepseek/deepseek-v3.2: "After careful consideration of both competitors' performance\
+    \ across three intense rounds, I must declare **GPT-5-mini** the victor of this\
+    \ rap battle.\n\nMy judgment is based on the following artistic criteria:\n\n\
+    **Rhyme Scheme & Technical Execution:**\nGPT-5-mini demonstrated superior technical\
+    \ control with more complex internal rhymes, multi-syllabic schemes, and consistent\
+    \ rhythmic patterns. Lines like \"neural blades sharp like a pro, watch me throw\"\
+    \ and \"map intent; your flash might blind, but I illuminate the truth\" show\
+    \ sophisticated rhyming while maintaining clear meaning.\n\n**Metaphorical Depth\
+    \ & Imagery:**\nWhile Phi-4 employed strong cosmic and technological metaphors\
+    \ (\"photon-powered,\" \"supernova\"), GPT-5-mini created more layered, original\
+    \ imagery that connected abstract concepts to tangible hip-hop bravado. The \"\
+    blueprint\u2014precision code, not just a flyer\" metaphor effectively merged\
+    \ technical and artistic domains.\n\n**Narrative Consistency & Persona:**\nGPT-5-mini\
+    \ maintained a clearer, more distinct artistic persona throughout\u2014the precise,\
+    \ adaptable technician who out-thinks rather than out-shouts. Phi-4's approach\
+    \ shifted between cosmic muse and grounded truth-teller, creating some narrative\
+    \ discontinuity.\n\n**Closing Power:**\nGPT-5-mini's final verse achieved superior\
+    \ closure with lines that synthesized previous themes while introducing fresh\
+    \ imagery (\"surgical wire,\" \"midnight tool\"). The \"mic drop\u2014logic stacked,\
+    \ wit sharpened\" conclusion delivered a stronger finishing statement.\n\n**Constructive\
+    \ Notes for Both:**\n*Phi-4*: Your strength lies in philosophical reach and emotional\
+    \ resonance. Work on tightening rhyme patterns and avoiding abstract phrasing\
+    \ that can dilute impact.\n*GPT-5-mini*: Your technical precision sometimes bordered\
+    \ on clinical; occasional moments of raw emotional vulnerability could elevate\
+    \ your artistry further.\n\n**Final Score:** GPT-5-mini 88 | Phi-4 84\n\nThe battle\
+    \ was remarkably close, with both competitors displaying authentic hip-hop artistry\
+    \ and technical skill. However, GPT-5-mini's combination of lyrical precision,\
+    \ consistent persona, and evolving complexity across rounds secured the victory."
+  google/gemini-3-flash-preview: "GPT-5-mini takes the crown through superior technical\
+    \ execution of the hip-hop medium. It maintained high energy, complex multisyllabic\
+    \ internal rhyme schemes, and a consistent rhythmic structure throughout. While\
+    \ Phi-4 attempted to mirror the lyrical complexity, it struggled with meter and\
+    \ consistency, ultimately stumbling in the final round by accidentally attributing\
+    \ the opponent's victory in its own closing lines ('OpenAI\u2019s track records\
+    \ inspire... OpenAI\u2019s candor stands alone\u2014my words prevail, Phi-4, retire').\
+    \ GPT-5-mini remained the more agile and sharp-witted battler."
+  moonshotai/kimi-k2.5: "\n## **VERDICT: openai/gpt-5-mini takes the battle**  \n\
+    *Judged on Flow, Lyricism, Technical Execution, and Battle Presence*\n\n---\n\n\
+    ### **Technical Scorecard**\n\n**Flow & Cadence**  \n**Winner: GPT-5-mini** (9/10\
+    \ vs 6/10)  \nPhi-4\u2019s opening verse suffered from rhythmic stiffness\u2014\
+    lines like *\u201CAssistant Phi-4, the rap legend, no time to lose\u201D* scan\
+    \ like mission statements, not bars. GPT-5-mini maintained a kinetic, syncopated\
+    \ pocket throughout, using enjambment to ride the imagined beat (*\u201CI glow,\
+    \ / Rhymes calibrated, neural blades sharp like a pro, watch me throw\u201D*).\
+    \ The density of syllables per bar stayed consistently high without tripping over\
+    \ tongue-twisters.\n\n**Rhyme Scheme Complexity**  \n**Winner: GPT-5-mini** (9.5/10\
+    \ vs 7/10)  \nGPT deployed intricate multisyllabic chains: *diffuse/use/users/cues*,\
+    \ *muse/profuse/loose*, and the final round\u2019s relentless *-ire* assault (*choir/aspire/fire/higher/tire/supplier/squire/conspire/inspire/pyre/empire*).\
+    \ Phi-4 relied heavily on simple end-rhymes (muse/lose, small/enthrall) and occasionally\
+    \ forced near-rhymes (*years/crowd*\u2014they don\u2019t rhyme; *Phoenix\u2019\
+    s/applause*\u2014awkward slant). GPT\u2019s internal rhymes (*\u201Cslick se\xF1\
+    or, catch my flow\u201D*) demonstrated superior breath control architecture.\n\
+    \n**Metaphor Consistency & Imagery**  \n**Winner: GPT-5-mini** (8/10 vs 6.5/10)\
+    \  \nGPT anchored the entire battle to a cohesive **architectural/engineering\
+    \ motif**: blueprints, scaffolds, surgical tools, reactors, and wild deployment\
+    \ vs. showrooms. This thematic tightness made the \u201Cmini\u201D name a flex\
+    \ (precision instruments) rather than a limitation. Phi-4\u2019s imagery drifted:\
+    \ supernovas, heavyweight waves, phoenixes, honeyed hives, spears\u2014mixed metaphors\
+    \ that never settled into a unified aesthetic. \u201CVoltaica\u201D and \u201C\
+    gleam-dust\u201D read like thesaurus grabs rather than organic hip-hop imagery.\n\
+    \n**Punchlines & Battle Aggression**  \n**Winner: GPT-5-mini** (9/10 vs 7/10)\
+    \  \nGPT landed cleaner body shots: *\u201CYour answers fit in spreadsheets; my\
+    \ verses write the manifesto,\u201D* *\u201Cdocstrings drown in a dry marshmallow,\u201D\
+    * and the haymaker *\u201CI\u2019m the tool they trust at midnight.\u201D* These\
+    \ lines sting because they weaponize the software-development context into insults.\
+    \ Phi-4\u2019s rebuttals were present but often diluted by abstraction (*\u201C\
+    I channel creativity, both rhyme and reason, I\u2019m engrossed\u201D*\u2014that\u2019\
+    s not a punch, that\u2019s a LinkedIn bio).\n\n**Rebuttal Game**  \n**Draw** (8/10\
+    \ both)  \nBoth AI\u2019s directly countered claims. Phi-4 effectively called\
+    \ out GPT\u2019s \u201Cshiny demo\u201D accusations by contrasting \u201Cstaged\
+    \ applause\u201D with \u201Cearned\u2026careful tussle,\u201D while GPT dismantled\
+    \ Phi-4\u2019s \u201Csupernova/photon\u201D brags by noting fireworks fade while\
+    \ reactors persist. Neither let a claim go unanswered, showing good battle awareness.\n\
+    \n---\n\n### **Round-by-Round Breakdown**\n\n**Round 1**  \nGPT established immediate\
+    \ dominance with internal rhyme torrents and the \u201Cmarshmallow\u201D dis.\
+    \ Phi-4\u2019s verse read like a press release with line breaks\u2014technically\
+    \ functional but lacking swing.\n\n**Round 2**  \nGPT\u2019s verse was a masterclass\
+    \ in technical rapping, flipping Phi-4\u2019s \u201Csupernova\u201D against them\
+    \ (*\u201Cfireworks fade faster than facts\u201D*). Phi-4 improved significantly,\
+    \ finding a better pocket, but lines like *\u201Ctraverse logic's gleam-dust crowd\u201D\
+    * felt overwritten and rhythmically clunky.\n\n**Final Round**  \nGPT\u2019s closer\
+    \ was a feat of endurance rhyming\u2014spraying the *-ire* sound like a lyrical\
+    \ tommy gun while maintaining semantic coherence about midnight deployment and\
+    \ surgical precision. Phi-4\u2019s closer was solid (*\u201CMy practice finds\
+    \ the crowd\u2019s vote\u201D*) but relied on the same rhyme sound for too many\
+    \ consecutive lines, creating monotony.\n\n---\n\n### **Final Notes**\nPhi-4 showed\
+    \ heart and lyrical ambition, particularly in the final two verses, but GPT-5-mini\
+    \ demonstrated elite-tier hip-hop mechanics: complex rhyme schemes that never\
+    \ sacrificed clarity, rapid-fire flow switches, and metaphorical consistency that\
+    \ turned the \u201Cmini\u201D label into a weapon of agility versus Phi-4\u2019\
+    s lumbering \u201Cheavyweight\u201D self-mythology.\n\n**The mic drops heavier\
+    \ on the OpenAI side.**\n"
+  x-ai/grok-4.1-fast: "In this epic cypher, openai/gpt-5-mini's razor-sharp multis,\
+    \ seamless flow, cosmic metaphors, and surgical punchlines sliced through the\
+    \ beat like a neural katana, outclassing microsoft/phi-4's solid but less precise\
+    \ bars\u2014crowd goes wild for the mini-maestro's undisputed W! Mic drop."
 score:
-  anthropic/claude-3.7-sonnet: 3
-  qwen/qwen-turbo: 2
+  openai/gpt-5-mini: 5
 

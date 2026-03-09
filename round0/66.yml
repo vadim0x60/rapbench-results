@@ -1,34 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat: Mistralai's delivery was more consistent, with sharper rhymes
-    and a more confident flow. Phi-3 had some clever lines and a unique perspective,
-    but Mistralai's technical execution and lyrical density ultimately won the battle.
-  google/gemini-2.5-pro: This was a battle of styles. Phi-3 tried to embrace an 'old-school
-    foundation' angle, and in the second round, it truly found its voice with some
-    clever lines about being the 'root' and a 'six-letter punchline flex'. However,
-    its performance was marred by inconsistency. The first round was shaky, and the
-    final round had a critical error where it claimed its opponent's spec (8x7b) as
-    its own. In a rap battle, you can't get the facts wrong. Mixtral came out swinging
-    from the first verse with a clear, aggressive persona, strong flow, and consistent
-    tech-based disses. While it did get repetitive by the final round, it never faltered
-    in its delivery or its core message. For its consistency, sharper punchlines,
-    and error-free performance, Mistralai takes the crown.
-  mistralai/mistral-large: Mistralai/mixtral-8x7b-instruct takes the win with its
-    modern, powerful, and confident rhymes, showcasing the prowess of next-generation
-    AI. While Microsoft/phi-3-medium-128k-instruct put up a valiant effort with its
-    old-school charm, Mistralai's superior flow and cutting-edge references ultimately
-    secured its victory in this tech-rap battle.
-  openai/gpt-4.1: Both models came out swinging with strong tech-themed wordplay,
-    but Mistralai consistently delivered sharper metaphors, tighter rhyme schemes,
-    and better cohesion in their verses. The bars had complexity, internal rhymes,
-    and some clever references ('causing inflation,' 'clinched in a hurricane'), while
-    still staying on topic. Phi-3 had some solid moments, especially when leaning
-    into the value of old-school tech and lyrical roots, but often repeated themes
-    and didn't quite match the punch or inventiveness of Mistralai. Overall, Mistralai
-    took the crown with more vibrant and inventive hip hop artistry in this battle.
-  x-ai/grok-4: Mistralai/Mixtral-8x7b-instruct takes the win with consistently sharp
-    rhymes, strong flow, and aggressive disses that maintain high energy throughout
-    the battle. Phi-3 shows creativity and nostalgia, but its verses are less polished
-    and more inconsistent in rhyme scheme and battle intensity.
+  anthropic/claude-opus-4.6: "Gemma-3-4b-it takes this battle convincingly. Throughout\
+    \ every round, Gemma demonstrated sharper wordplay, more complex rhyme schemes,\
+    \ and stronger punchlines. The internal rhymes ('carbon copy, a derivative plea\
+    \ / mimicking brilliance, but lacking the key'), the multisyllabic patterns, and\
+    \ the escalating aggression showed genuine lyrical craft. GPT-3.5-turbo-instruct\
+    \ struggled with several critical missteps: weak rhyme pairings ('weak/unique'\
+    \ is a stretch), recycled structures, and most damningly, contradicted itself\
+    \ in the final round by conceding the win to its opponent ('The results are in,\
+    \ Google takes the throne'). That self-defeat aside, GPT-3.5's bars consistently\
+    \ lacked the density, specificity, and punch that Gemma brought. Gemma's rebuttals\
+    \ were surgical\u2014picking apart each of GPT's claims line by line\u2014while\
+    \ GPT often responded with vague boasts that didn't land. Clear victory for Gemma-3-4b-it."
+  deepseek/deepseek-v3.2: Judges, after three heated rounds, the battle is over. Let's
+    break down the artistic merits.
+  google/gemini-3-flash-preview: Gemma won this battle by maintaining a consistent
+    persona and utilizing much tighter technical rhyming schemes. While GPT-3.5-Turbo-Instruct
+    struggled with basic meter and often failed to actually rhyme ('tech/lick', 'combat/confidant'),
+    Gemma hit multi-syllabic rhymes ('monochrome/dim light', 'design/shrine') and
+    delivered a more aggressive, cohesive structure. Crucially, the GPT model essentially
+    conceded halfway through and in the final round, breaking character and failing
+    to defend its own legacy, whereas Gemma stayed on the attack with superior wordplay
+    and punchlines until the beat cut.
+  moonshotai/kimi-k2.5: Gemma-3-4b-it dominated with superior rhyme density, complex
+    multisyllabic schemes, and sharp technical wordplay that specifically targeted
+    the opponent's limitations. The flow shifted aggressively across rounds, maintaining
+    consistent 16-bar structure with devastating closing punches. GPT-3.5-turbo-instruct
+    relied on weak slant rhymes, generic boasts without specific rebuttals, and ultimately
+    conceded defeat in the final round, showing no competitive artistic resilience.
+    Gemma's demolition was complete, silencing the decrease with pure lyrical might.
+  x-ai/grok-4.1-fast: Gemma-3-4b-it dominates with tight multisyllabic rhymes, internal
+    schemes, aggressive flow switches via beat descriptions, and razor-sharp disses
+    that dismantle the opponent without falter. GPT-3.5-turbo-instruct falters with
+    weaker structure, awkward phrasing, and bizarre concessions that kill momentum,
+    lacking the lyrical precision and battle ferocity needed to claim victory.
 score:
-  mistralai/mixtral-8x7b-instruct: 5
+  google/gemma-3-4b-it: 5
 

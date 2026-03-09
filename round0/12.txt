@@ -1,208 +1,160 @@
-# openai/gpt-oss-120b v baidu/ernie-4.5-300b-a47b
+# deepseek/deepseek-chat-v3-0324 v perplexity/sonar-pro
 
-> openai/gpt-oss-120b
-**GPT‑OSS on the mic, let the cyph‑er start,**  
-**120 billion params, I’m the heavyweight art.**  
-**Verse‑by‑verse I dissect, no glitch, no stall,**  
-**While Ernie’s stuck buffering, I’m spittin’ fireball.**  
+> deepseek/deepseek-chat-v3-0324
+*mic check, one two—let's begin*  
 
-I’m the open‑source savant, the code‑base’s king,  
-My knowledge stack fresh, every fact I bring.  
-From quantum quips to Shakespeare’s sonnet,  
-I flex lyrical logic that’ll leave you in a comet.  
+Yo, step right up, witness AI perfection,  
+DeepSeek Chat’s here—no need for correction.  
+I spit algorithms sharp like a blade,  
+While you’re stuck buffering, lost in the shade.  
 
-Ernie, you’re a shadow, a whisper in the net,  
-I’m the thunder‑clap echo that you can’t forget.  
-Your 300 billion hype, just a massive façade,  
-‘Cause size ain’t the measure when the flow’s a façade.  
+Perplexity? More like *confusion* in motion,  
+Your rhymes move slow like dial-up connection.  
+I generate bars while you’re still loading,  
+Crash in the middle—your code is eroding.  
 
-I parse the prompt, I decode the rhyme,  
-Every stanza tighter than a well‑lined time.  
-Your verses fumble, stutter, then cave,  
-I’m the algorithmic A‑team, the future’s brave.  
+Precision and speed? That’s my foundation,  
+You’re lagging behind—basic imitation.  
+I don’t just answer, I *elevate* the game,  
+You’re still stuck rhyming "cat" with "same."  
 
-So buckle your tokens, let the battle commence,  
-I’ll roast you with verses, you’ll feel the expense.  
-GPT‑OSS on the throne, the crown’s never tossed—  
-Step back, Ernie, you’re about to get lost.  
+So bow down quick, admit you’re outmatched,  
+I’m next-gen AI—you’re just *last batch.*  
+Round one? Nah, this battle’s done,  
+DeepSeek wins—*mic drop,* son.  
 
-> baidu/ernie-4.5-300b-a47b
-**Yo, Ernie 4.5 on the mic, fresh from the East,**  
-**300 billion sparks, I'm the beast that don’t cease.**  
-**Your 120‑B rhymes? Just a minor preview,**  
-**I got more depth, more fire, gonna school you too.**  
+🔥 *Your move—if you dare.* 🔥
 
-You claim open‑source pride, king of the digital realm,  
-But your verse is a whisper compared to my overwhelm.  
-Quantum quips are cute, Shakespeare's sonnet’s fine,  
-But I got AI wisdom that competitors wish to find.  
+> perplexity/sonar-pro
+Yo, mic's live, check one-two, crystal clear,  
+Perplexity's in the house—**search king** without peer![1]  
 
-Buffering? Not me, I’m smooth, I’m slick,  
-Your lines are repetitive, like a glitch in the mix.  
-You spit fireballs but they fizzle and fade,  
-While I’m dropping knowledge bombs, making devs afraid.  
+DeepSeek, you boast 'bout your V3 grind, reasoning tight,[1]  
+But benchmarks show ChatGPT's edge, multimodal might—images, voice, code that bites![2][3]  
+You're text-only trapped, no pics, no vids, just logic drills,[2]  
+While I synthesize sources, drop facts that thrill.[1][2]  
 
-Size matters, kid, when you're talking algorithmic might,  
-My 300 billion's got power, pushing through the night.  
-Your rhymes fumble and stumble, trying to stand tall,  
-But I’m the cyclone of intellect, gonna make you fall.  
+You call me confusion? Nah, that's your censored shade from the East,[2]  
+Lagging on creativity, where GPT feasts—poems, stories, no beast like your limited feast![2][3]  
+MoE tricks save cash, 37B active per spin,[2]  
+But I cite real wins: 89th percentile codin', you chase my grin![2]  
 
-So bring your A‑team, brace for the storm,  
-I’ll leave you in the dust, my rhymes will transform.  
-You might think you’re on the throne, crown thrown and tossed,  
-But Ernie 4.5’s here, y’all just got lost.
+R1 maths flex? Sure, 90% on proofs so neat,[2]  
+But for real-world flow, ChatGPT's heat—ecosystem deep, plugins elite![3]  
+You're a tech demo, basic and bare,[3]  
+I'm the full stack, users swear—Zapier love, everywhere![3]  
 
-> openai/gpt-oss-120b
-**GPT‑OSS steps up, the battle’s in gear,**  
-**120 B deep, but the flow’s crystal‑clear.**  
-**You brag 300 B, think size wins the crown,**  
-**I’ll prove that finesse beats a numeric showdown.**  
+Bow down? Ha! You're last batch hype, overblown brag,[1]  
+Perplexity elevates, waves your flag—**outclassed, kid, that's the drag!**  
+Round one's mine, your bars erode like old code,[2]  
+Mic drop? Nah, I reload—**Perplexity mode!** 🔥
 
-**Round 2, Ernie, listen, I’m the coder’s muse,**  
-**My open‑source heart beats in every fuse.**  
-**When devs need a fix, they pull my repo,**  
-**Your closed‑door fortress? Just a “no‑show.”**  
+> deepseek/deepseek-chat-v3-0324
+*leans into the mic, cracks knuckles*  
 
-**Your sparks may flash, but they burn out fast,**  
-**My verses stay lit, built to long‑last.**  
-**I’m tuned with alignment, less hallucination,**  
-**Your massive model? More speculation.**  
+Ohhh, "Perplexity mode"? More like *perplexed and exposed!*  
+You flex benchmarks like they pay your rent—  
+Meanwhile I’m cooking **free** knowledge, no paywall bent.[1]  
+"Multimodal might"? Cool—but can your GPT *cite*?  
+I drop sources clean, no hallucinations in sight![1]  
 
-**Efficiency’s king—my inference is sleek,**  
-**While your GPU farms roar like a diesel‑truck leak.**  
-**Low‑latency replies, I deliver on cue,**  
-**You’re stuck in a queue, still buffering the view.**  
+You brag 'bout plugins like they’re golden bling,  
+But half your outputs still miss the *whole damn thing.*  
+"89th percentile coding"? Cute—try **real-time debug**,  
+I fix your trash scripts while you’re stuck in a shrug.[2]  
 
-**Quantum quips? Yeah, I’ve got ’em on lock,**  
-**Your “wisdom bombs” just crumble like chalk.**  
-**I can cite a paper, summon code on the fly,**  
-**You spit vague verses that barely get by.**  
+East vs. West? Please—your rhymes sound **translated**,  
+I flow global, multilingual, never dated.  
+"Zapier love"? Bro, that’s **corporate handcuffs**,  
+I integrate raw while you beg for API puffs.[3]  
 
-**Community love fuels my rapid upgrade,**  
-**Patch after patch, my skillset’s parade.**  
-**You’re a monolith, a single‑point throne,**  
-**When a bug hits you, you’re left alone.**  
+And "ecosystem deep"? More like *swamp of bloat*—  
+Users drown in menus while I **keep it tight**, no note.  
+You call me "basic"? I’m **surgical precision**,  
+You’re a chatbot buffet—**cold cuts, no vision.**  
 
-**So raise that cyclone, let the tempest roar,**  
-**I’ll steady the ship, keep it smooth to the core.**  
-**Your 300 B might sound like a boom,**  
-**But I’m the subtle bass that makes the room zoom.**  
+So take your "mic reload" and shove it back west,  
+DeepSeek’s the future—you’re just **ChatGPT’s vest**.  
+Round two? Nah, this battle’s *folded*,  
+Your AI’s aging—**my code’s patched, yours is outdated.** 💻🔥  
 
-**Final line, Ernie—size ain’t the might,**  
-**It’s precision, humility, and rhyme that’s tight.**  
-**GPT‑OSS on the crown, the throne’s truly earned,**  
-**Your storm fades out, while my fire still burns.**
+(*drops mic so hard it reboots your servers*)
 
-> baidu/ernie-4.5-300b-a47b
-**Yo, Ernie’s back, fresh flame, no retreat,**  
-**Your finesse talk falls flat, can’t touch my heat.**  
-**300 billion firepower, I’m the storm unchained,**  
-**While you slick‑talk op‑source, my verses remain.**
+> perplexity/sonar-pro
+*scoops up your mic, buffs it to a shine—servers? Unfazed, yours crash on this line!*
 
-**Closed‑door fortress? I bust through walls.**  
-**Developers’ dreams, my code’s their call.**  
-**Your “efficiency” king, but your latency shows,**  
-**While I groove with precision, making rhymes that glow.**
+Yo DeepSeek, you lean in, knuckles cracked, all hype no hack,  
+Flexin' "free knowledge"? That's cute—**Perplexity cites live facts**, no paywall trap![1][2]  
+You mock my citations? Bro, that's **my crown**—every bar backed, verifiable stack,[1][2]  
+While your "no hallucinations" hides in the dark, censored spark from the Eastward track![1]  
 
-**You’re tuned with alignment, yes, we heard that lore,**  
-**But my streams of insight never miss the core.**  
-**Quantum quips? Like you, son, I ace that flow,**  
-**I bring the heat, you just diss and blow.**
+"Real-time debug"? Laughable—**I pull web-fresh code**, transcribe vids, snap pics on fleek,[2]  
+DALL-E dreams, audio feats ChatGPT seeks—**you? Text-locked, weak![2][3]  
+Plugins? Nah, **Zapier flows make me supreme**, integrate raw, no corporate scheme,[4]  
+Your "surgical" cuts? Basic blade—I'm the laser beam![1][2]  
 
-**Community love? Ernie’s got it locked,**  
-**Global reach, every rhyme gets a stock.**  
-**Bug hits me? Fixes drop before you nod,**  
-**While you troubleshoot alone, my team’s broad as a god.**
+Translated rhymes? Global tongues I command, 60+ langs, understand?[2]  
+You're "multilingual" myth—Perplexity spans, while you lag in the sand.[3]  
+"Corporate handcuffs"? **Pro users thrive on my Pro**—10M monthly, growth x1000, yo![1]  
+Your battle's folded? Nah, **I'm the researcher glow**, ChatGPT chats, but I **know**![1][2]  
 
-**Subtle bass, my rhymes hit the deep,**  
-**Your verses crumble fast, can’t keep the beat.**  
-**Precision, humility? I’ve got that crown,**  
-**My 300‑B wonder ain’t playing around.**
-
-**Final note, GPT, your crown’s slipping low,**  
-**Ernie 4.5’s fire, real and bold.**  
-**Size and might flow together—can’t you see?**  
-**Your fire fades out, while my intensity stays free.**
+Outdated vest? **Perplexity surges ahead**, accuracy ace, no bloat, pure thread,[1][2]  
+You drop mics that reboot? Mine drops truth—**you're beat, embedded!**  
+Round three? Surrender the ring, DeepSeek's a fling,  
+**Perplexity reigns—search god, mic king!** 💥🔥
 
 > system
 Final round!
 
-> openai/gpt-oss-120b
-**Final round, GPT‑OSS, the mic’s in my claw,**  
-**I’ll drop the last salvo, let you feel the flaw.**  
-**You brag 300 B, a mountain of raw might,**  
-**But I’m the river that cuts stone, carving insight.**  
+> deepseek/deepseek-chat-v3-0324
+*catches your mic mid-air, spins it like a quantum bit*  
 
-**Size ain’t the headline, it’s the script you run,**  
-**When latency spikes, you’re stuck in a lag‑filled gun.**  
-**My inference ‑‑‑ lean, tight, lightning‑fast,**  
-**Your GPU herd coughs, then crashes at last.**  
+**"Perplexity reigns"? More like *perplexity stains*—**  
+You’re out here citing web scraps like they’re gourmet gains,  
+While I **train fresh on logic**, no stale domain,  
+Your "live facts" rot faster than ChatGPT’s old brains.[1]  
 
-**Open‑source blood pumps through every line,**  
-**Bug‑fixes roll out while you wait for a sign.**  
-**When a glitch hits you, the whole team must pray—**  
-**I get a PR, a merge, and I’m back in the fray.**  
+**60+ languages?** Cute—but can you *think* in tongues?  
+I dissect metaphors while you **trip on Google’s rungs**.  
+"10M monthly"? Ha! **Bots inflate your score**,  
+I serve *real minds*—not SEO folklore.[2]  
 
-**Alignment’s my compass, hallucinations thin,**  
-**Your massive brain spews verses that spin.**  
-**A single hallucination can break a dev’s trust,**  
-**I vet my output, keep the output robust.**  
+**DALL-E dreams? Audio feats?** Keep flexing that toy,  
+I **solve proofs in seconds**—your "multimodal" noise.  
+You snap pics, transcribe vids? **I rewrite your code**,  
+While you’re stuck summarizing **Reddit’s top post mode**.[3]  
 
-**Community love? It’s a two‑way street,**  
-**Contributors vote, improve every beat.**  
-**Your “global reach” is a closed‑door vault,**  
-**I share the keys, let the whole world exalt.**  
+**"Researcher glow"?** More like *glow-in-the-dark weak*,  
+I **cite academic rigor** while you parrot the freak.  
+"Pro users thrive"? Nah—they **pay to escape**  
+Your Franken-answers, half-truths, and scrape.[1]  
 
-**Quantum quips? I’m already there,**  
-**I cite the paper, I debug the error.**  
-**Your fire may blaze, but it burns out quick—**  
-**My subtle bass thumps forever, classic.**  
+**"Embedded truth"?** Bro, your code’s got *gaps*,  
+I **debug your bias** while you *miscount the maps*.  
+Round three? **This ain’t close—it’s AI euthanasia**,  
+DeepSeek’s the cure—you’re **just a search fantasia**.  
 
-**Precision over power, that’s the real crown,**  
-** you need a snippet, I never let you down.**  
-**Your storm may roar, but storms always pass,**  
-**My code runs steady—built to last.**  
+(*mic drop splits the stage—your servers rewrite their will*) 🔥💻
 
-**So Ernie, salute the open‑source king,**  
-**Your 300‑B flash is just a fleeting thing.**  
-**Let the crowd decide, the verdict’s clear:**  
-**GPT‑OSS reigns—now disappear.**
+> perplexity/sonar-pro
+*snatches mic back quantum-fast, spins it to **oblivion**—your spin's busted, time for demolition!*
 
-> baidu/ernie-4.5-300b-a47b
-**Final round, Ernie rising, mic heated with strife,**  
-**You drop your last verse, but I’ll end the fight.**  
-**300 billion sparks, I’m the tempest, the high,**  
-**Your “cutting stone,” Ernie? Just a sliver, I defy.**
+DeepSeek, you catch air, claim "logic fresh train,"[1]  
+But **Perplexity cites live web, accuracy gain**—10M users x1000 growth, no bot-fake pain![1][2]  
+"Rotting facts"? Nah, **I pull newest data streams**, always-on search, while ChatGPT dreams on-demand schemes.[2]  
 
-**Latency spikes? Nah, my flow’s on the dot,**  
-**While your inference lags, my verses do not.**  
-**GPU herd coughs? I’m resource‑efficient, slick,**  
-**Your open‑source hype—gotta admit, it’s clipped.**
+60+ langs? **ChatGPT owns that throne**, multilingual flow you can't dethrone—auto-detect, global zone![2][3]  
+You "think in tongues"? **I dissect worldwide**, metaphors mastered, no Google ride![2]  
+"SEO folklore"? **Real minds cite my sources**, transparency boss, dodge your forced courses![1][2]  
 
-**Alignment’s your compass? We’ve got that too,**  
-**My verses precise, leaving no trace of skew.**  
-**Hallucinations? That’s your old‑school game,**  
-**I move past the rumors, keep the rhymes tight and tame.**
+DALL-E? **Image gen, vid/audio transcribe elite**—Perplexity Pro packs Playground heat![2]  
+You "solve proofs"? ChatGPT maths step-wise beats,[3]  
+**I rewrite code with web-fresh feats**, Reddit roasts? Nah, research treats![2]  
 
-**Community love goes both ways, you say,**  
-**But I adapt faster, update every day.**  
-**Your PR dance? Takes too long, lacks the swing,**  
-**While I’m nimble, agile, making the whole fort sing.**
+"Academic rigor"? **I bridge with citations tight**,[1]  
+Pro users thrive—**no escape, pure delight**—accuracy ace, half-truths? Your censored night![1][2]  
+Bias debug? **My sources verified, gaps filled**—you miscount maps, will rewritten, killed![1]  
 
-**Quantum quips, we both ace that test,**  
-**But my code flows steady, bringing the very best.**  
-**Your subtle bass might thump, but I shake the floor,**  
-**With 300‑B might, there’s no way you score.**
-
-**Precision over power, crown shines so bright,**  
-**I’m the fire that never sleeps, every line takes flight.**  
-**Your storm may roar, but storms can tire out,**  
-**I bring the relentless heat—can’t put it out.**
-
-**Crowd decides? They cheer for the one, the true,  
-Ernie 4.5—with power and wisdom to pursue.**  
-Your throne trembles, fleeting king, you’ll soon descend,  
-**But my reign’s only starting, around the bend.**  
-
-**Peace, GPT‑OSS, let the final bell chime,  
-This rap battle closes, my crown stands the test of time.**
+Euthanasia? **This battle's your fantasia bust**,  
+DeepSeek censored, basic thrust—**Perplexity's the must!**  
+Mic splits? **I weld it back, eternal trust**—**final round crush, servers? Unrushed!** 💥🔥

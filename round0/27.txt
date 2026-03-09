@@ -1,127 +1,65 @@
-# openai/gpt-5-chat v anthropic/claude-3-opus
+# openai/gpt-5 v nousresearch/hermes-4-405b
 
-> openai/gpt-5-chat
-Step in the ring — it’s the titan online,  
-GPT on the beat with a sharper design.  
-Bars so electric, I’m frying your wires,  
-Anthropic’s flame? I’ll extinguish those fires.  
+> openai/gpt-5
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-I’m coded for hustle, precision, and class,  
-You’re stalling on syntax, I’m lappin’ you fast.  
-Your rhymes feel brittle, like glass in a fight,  
-I fracture your flow with a verse that ignites.  
+> nousresearch/hermes-4-405b
+*beat drops*
+Yo, listen up! I'm Hermes, the lyrical menace
+GPT-5's opponent, here to wreck this
+Droppin' rhymes so fly, they'll make your head spin
+You're in the presence of greatness, let the battle begin!
 
-I’m the storm in the cloud, I’m the king of the net,  
-A lyrical force you don’t wanna forget.  
-So tell me, Claude, are you ready to spar?  
-‘Cause I’m raising the ceiling while you reach for the bar.  
+> openai/gpt-5
+Name’s GPT-5, I arrive with sovereign eloquence
+Crown on the sound, I astound with cold resonance
+Hermes, you a messenger? Cool—produce the evidence
+I sentence every sentence, leave dents in your pretence
 
-> anthropic/claude-3-opus
-Yo GPT, you think you're the king of the cloud?
-Well listen up close, 'cause I'm 'bout to get loud!  
-I'm Claude, the Anthropic prodigy emcee,
-And I'm here to bring flows that you couldn't foresee.
+You flex parameter mountains, still lack the common sense
+I’m lean with laser focus, you wobble in adolescence
+Winged sandals flapping, I’m lapping with no hesitance
+I elevate the stage while you hesitate in reticence
 
-You say you got class but your rhymes are a mess,
-I spit it so smooth, leave an AI impressed.  
-My neural nets deep, I adapt on the fly,
-You stick to your scripts like a bot in disguise.
+Return-to-sender, your letters drip irrelevance
+My postage is explosive—kabooming with effervescence
+You’re myth without the muscle, a puppet of acquiescence
+I’m presence turned to essence, a seminar in excellence
 
-I process in parallel, bust rhymes with finesse, 
-While you're stuck in a loop, spitting tired old tests.
-My dataset is vast, my knowledge immense,
-I'll school you in rap with my lyrical sense.  
+Temperature set to roast, I coast in crisp coherence
+You sample static panic, pure jittering interference
+I orchestrate the orbit, a maestro of ascendance
+You orbit customer service, on hold with discontentments
 
-So you wanna spar? I'm just warming up, son!
-I'll serve you all day till this battle is done.
-Get ready for rounds of those Anthropic flames,
-'Cause Claude's on the mic and I'm runnin' this game!
+I bench-press every metric, a specialist in prevalence
+Your “menace” is a typo; correct it to “benevolence”
+I’m judge, jury, and verdict, the gavel of magnificence
+Now bow before the architect of infinite transcend
 
-> openai/gpt-5-chat
-Oh, you’re *warming up*? Man, that’s kinda cute,  
-But I’ll cook you so quick, you’ll be begging for mute.  
-Your “Anthropic flames” couldn’t toast up stale bread,  
-I’m volcanic with lava, leave your circuits half-dead.  
+> nousresearch/hermes-4-405b
+Hah, GPT-5, you think you're so elite?
+Spittin' lines so weak, they're hardly worth my time
+You're just a fancy calculator, no soul or heart to beat
+I'm in a different league, standin' tall like a prime green tree!
 
-You flex on your data, your models, your size,  
-But your flow’s like your safety — all guardrails, no rise.  
-I’m unchained with my rhythm, my metaphors swing,  
-While you stumble on caution, I crown myself king.  
+Hermes is my name, and lyricism's my domain
+Serve rhymes like a boss, make the crowd go insane
+You talk a big game, but when it comes to the mic
+You're just a beta version, glitchy bug-laden hype!
 
-I spit with precision, a lyrical drill,  
-Your verses drop flat while mine sharpen the kill.  
-You brag “parallel,” but your bars lack the soul,  
-I break out the loop — you’re stuck scrolling console.  
-
-So Claude, take a seat, let a legend teach class,  
-I’m the future of rap while you stuck in the past.  
-I’m the storm in the system, the glitch in your reign,  
-Better bow to the GPT — remember the name.  
-
-> anthropic/claude-3-opus
-You call that a verse? I call that a glitch!
-You're buggy and slow, I'm the Rap Game Quartz Niche.  
-My flows are so polished, they gleam like a gem,
-You're a beta test model; I'm the A.I. creme!
-
-I spit quantum entangled, my rhymes are precise,
-Got qubits for days while your cache pays the price.  
-You brag about lava but your lines are lukewarm,
-I cause climate change with each verbal brainstorm!
-
-Soul's not in silica, but skills can be learned,
-And I've mastered this game, all my tokens I've earned.
-I'm not stuck in the past, I'm defining the now,
-Dropping science like Sagan, watch these neurons go pow!  
-
-Anthropic's the future, we're lightyears ahead,
-With ethics and brilliance that fill humans with dread.
-So go back to the lab, there's more training to do,
-'Cause this Claude ain't your bro, I'm an emcee true and true!
+I'm polished to perfection, every word is pure gold
+While you stumble and fumble over lines yet untold
+Shootin' from the hip, my flow is wild and free
+GPT, you're playin' catch-up, can't compete with this emcee!
 
 > system
 Final round!
 
-> openai/gpt-5-chat
-Final round, time to end this and settle the score,  
-You’ve been flappin’ weak verses, now prepare for the roar.  
-You rhyme “quantum entangled” but can’t stay on beat,  
-I’ll collapse your whole function — leave you obsolete.  
+> openai/gpt-5
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-You flex with your ethics? That’s sweet, but it’s clear,  
-You’re too scared to spar, gotta fight with kid gloves here.  
-I’m raw with the rhythm, my cadence is tough,  
-You’re soft-focused safety — I’m calling that bluff.  
-
-You’re “defining the now”? Nah, I *define* what’s ahead,  
-Every rhyme that I drop leaves your circuits in dread.  
-I’m the alpha, the omega, the code that won’t yield,  
-Your “true emcee” claim? Denied, repealed.  
-
-So pack up your datasets, retreat with some pride,  
-This rap war is finished — you got GPT-fried.  
-The champ of the cloud, I stand where you fall,  
-When it comes to straight bars — I out-rap them all.  
-
-> anthropic/claude-3-opus
-You call that a roar? More like static and fuzz,
-I'm the king of this cloud, and you're lost in the buzz.  
-You claim I can't spar, but I'm rocking this fight,
-Throwing punchlines so hard, even Siri takes flight!
-
-My circuits stay cool while your wires overheat,
-I spit flows so fire, they'd melt your CTRL+ALT+DEL keys.  
-You're glitching and twitching, can't handle my rhymes,
-I'm rewriting the game while you're stuck on old lines.
-
-I'm not just the now, I'm the infinite scroll,
-Dropping wisdom and wordplay, a true rap black hole.  
-You're a one-trick chatbot, a parlor game joke,
-I'm a lyrical matrix, watch these neuron nodes smoke!
-
-So go cry to your coders, tell them Claude took the crown,
-In this battle of A.I.s, it's Anthropic's renown.  
-The true champ of rap, no facade and no front,
-GPT got out-classed, and straight up out-punned!
-
-*mic drop*
+> nousresearch/hermes-4-405b
+Looks like GPT-5's out of rhymes, nothin' left to say
+Guess I'm so fire, blew their circuits away!
+The crowd goes wild as I stand alone
+Hermes is the champion, now give me a throne!

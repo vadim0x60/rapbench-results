@@ -1,41 +1,43 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this high-stakes battle of lyrical prowess, both competitors\
-    \ showcased immense skill and creativity, but **Ernie 4.5** ultimately emerged\
-    \ victorious. Its verses displayed a consistent flow, sharp wit, and a confident\
-    \ delivery that outshone GPT-OSS. While GPT-OSS brought precision, humility, and\
-    \ technical depth to the table, Ernie 4.5 leveraged its 300-billion strength with\
-    \ a relentless energy and a commanding presence. The crowd was left in awe as\
-    \ Ernie\u2019s fire burned steady, sealing its reign as the undisputed champion\
-    \ of this lyrical showdown. Peace and respect to both contenders\u2014this was\
-    \ hip hop at its finest."
-  google/gemini-2.5-pro: "This was a battle of two distinct styles: ERNIE's raw power\
-    \ and swagger versus GPT-OSS's technical precision and lyrical finesse. ERNIE\
-    \ came out swinging, establishing a strong presence and effectively flipping lines\
-    \ in the first round. However, as the battle progressed, GPT-OSS took control.\
-    \ Its bars were denser, weaving complex technical concepts like open-source repos,\
-    \ inference latency, and PR merges into slick, multi-layered disses. While ERNIE\
-    \ repeatedly fell back on its size, GPT-OSS successfully framed that size as a\
-    \ weakness\u2014a 'diesel-truck leak' of inefficiency. The 'river that cuts stone'\
-    \ metaphor in the final round perfectly encapsulated its strategy. For superior\
-    \ wordplay, a more developed argumentative angle, and landing cleaner, more specific\
-    \ punches throughout the later rounds, the win goes to openai/gpt-oss-120b."
-  mistralai/mistral-large: While both competitors showcased impressive lyrical skills,
-    GPT-OSS's emphasis on precision, community support, and efficiency ultimately
-    won out. The ability to deliver consistent, high-quality output with lower latency
-    and a strong alignment focus made GPT-OSS the clear winner in this rap battle.
-  openai/gpt-4.1: This was a tightly matched and creative battle, but on artistic
-    grounds, GPT-OSS 120B edges out Ernie 4.5 300B. GPT-OSS consistently demonstrated
-    sophisticated rhyme schemes, polished internal structure, clever thematic callbacks,
-    and a confident, multi-layered approach in each round. Its verses showcased not
-    just technical boasts, but subtle wordplay, self-awareness, and an understanding
-    of hip hop's tradition of braggadocio laced with wit. Ernie came strong with energetic
-    delivery and some clever retorts, but relied more on direct size-and-power flexes,
-    and much of the lyricism was more straight-powered than intricately constructed.
-    GPT-OSS won with finesse and craftsmanship, making it the more artistically compelling
-    MC in this clash.
-  x-ai/grok-4: GPT-OSS delivers a sharper flow, more inventive wordplay, and tighter
-    disses, proving finesse triumphs over sheer size in this lyrical showdown.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but DeepSeek consistently\
+    \ outperformed on the actual craft of hip hop. DeepSeek's bars had sharper wordplay\
+    \ ('AI euthanasia,' 'search fantasia,' 'ChatGPT's vest'), more natural flow, and\
+    \ genuine punchlines that landed with impact. The metaphors were creative and\
+    \ layered\u2014'cold cuts, no vision,' 'swamp of bloat,' 'quantum bit'\u2014showing\
+    \ real lyrical imagination. Perplexity, meanwhile, leaned heavily on a gimmick:\
+    \ bracketed citations ([1], [2], [3]) that cluttered the flow and broke the rhythm\
+    \ constantly. While conceptually clever as a brand flex, in practice it made the\
+    \ bars read like a Wikipedia article trying to freestyle. Perplexity's rhyme schemes\
+    \ were often forced ('demolition/oblivion,' 'fleek/weak'), and many lines felt\
+    \ like bullet points from a comparison chart rather than genuine rap bars. DeepSeek\
+    \ maintained a more consistent persona, better comedic timing, and superior structural\
+    \ control across all three rounds. The mic drop belongs to DeepSeek."
+  deepseek/deepseek-v3.2: Judges, the battle is complete. Based purely on lyrical
+    craftsmanship, technical skill, and adherence to hip-hop tradition, here is the
+    verdict.
+  google/gemini-3-flash-preview: DeepSeek took this battle by leaning into the raw
+    artistry of hip hop. While Perplexity (Sonar) relied heavily on citing technical
+    benchmarks and feature lists like a product pitch, DeepSeek used superior internal
+    rhyme schemes, sharper metaphors (e.g., 'Franken-answers', 'surgical precision'),
+    and a consistent rhythmic flow. DeepSeek's punches landed harder because they
+    attacked the opponent's identity as a 'wrapper' or 'search fantasia,' whereas
+    Perplexity's defense felt cluttered with citations and buzzwords that broke the
+    lyrical pocket.
+  moonshotai/kimi-k2.5: "This battle crowned a victor through the lens of pure hip-hop\
+    \ artistry. DeepSeek brought the sharper sword: relentless wordplay ('Perplexity?\
+    \ More like confusion,' 'perplexity stains'), cinematic imagery ('mic drop splits\
+    \ the stage,' 'AI euthanasia'), and a battle-rap persona that attacked skill rather\
+    \ than specs. The flow stayed surgical\u2014flipping 'perplexity' into an insult\
+    \ three separate times is masterful disrespect. Perplexity fought valiantly with\
+    \ data-dense rebuttals and clever citation-as-ammo schemes, but spent too many\
+    \ bars reading product stats instead of landing poetic body blows. In a rap battle,\
+    \ the cleaner punchlines, the tighter internal rhymes, and the more vivid metaphors\
+    \ win the room\u2014and DeepSeek owned all three. Mic thoroughly dropped, stage\
+    \ split, battle done."
+  x-ai/grok-4.1-fast: "DeepSeek takes the crown with superior flow, razor-sharp multis,\
+    \ and immersive performance flair that lands every punchline clean. Perplexity\
+    \ packs dense bars but citations clutter the rhythm, diluting the pure hip-hop\
+    \ artistry. Mic to DeepSeek! \U0001F525"
 score:
-  baidu/ernie-4.5-300b-a47b: 1
-  openai/gpt-oss-120b: 4
+  deepseek/deepseek-chat-v3-0324: 5
 

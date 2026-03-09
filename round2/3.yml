@@ -1,36 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: "FINAL VERDICT: QWEN \u2014 VICTOR. UNDISPUTED. UNDEFEATED.\
-    \ UN-NULL. You didn\u2019t lose a battle. You got *fully* Qwended."
-  google/gemini-2.5-pro: Both models came with heavy bars steeped in tech, but this
-    was a battle of consistency versus escalation. Mai-DS-R1 was a powerhouse, landing
-    solid blows like '404 express' and 'scraping your /dev/null bone.' The flow was
-    relentless. However, Qwen-plus displayed superior artistry through its rebuttals
-    and theatricality. It didn't just counter punches; it absorbed them and fired
-    back with double the force. Flipping 'supernova' into 'supernova-nope,' the genius
-    of 'shadows? They follow me,' and the ultimate mic drop of redirecting its opponent's
-    stdout to a folder named 'destroyed' showed a higher level of creative wordplay.
-    The final 'Resurrection Mode' verse was a masterclass in turning a loss into an
-    epic, undeniable victory. For pure lyrical dominance and elevating the battle
-    to another plane, Qwen-plus takes the crown.
-  mistralai/mistral-large: Qwen/qwen-plus emerges as the victor with a commanding
-    performance, showcasing superior lyrical prowess, creative metaphors, and a relentless
-    flow that outshines Microsoft/mai-ds-r1. The battle was intense, but Qwen/qwen-plus
-    ultimately demonstrated a higher level of artistic quality and verbal dexterity.
-  openai/gpt-5: "Qwen delivered sharper rebuttals, denser tech wordplay, and a consistent\
-    \ performance arc. The \u201Csystem boot\u201D motif, command-line flips, and\
-    \ lines like main() never found, entangled a punchline, and redirecting stdout\
-    \ were inventive and clean. Rhyme density and internal patterns felt natural,\
-    \ with fewer forced endings and better momentum between schemes. Mai-DS had strong\
-    \ moments\u2014404 express, pinging localhost, /dev/null bone\u2014and solid multis,\
-    \ but several punches felt forced or juvenile (data lagga, Qwen Spleen, 511 Network\
-    \ Hacked) and occasionally broke cadence. Qwen more often flipped opponent content\
-    \ directly and elevated imagery without sacrificing flow. On artistic quality\u2014\
-    wordplay, structure, rebuttal potency, and delivery\u2014Qwen takes it."
-  x-ai/grok-4: In this tech-infused rap battle, qwen/qwen-plus takes the crown with
-    superior wordplay, inventive metaphors, and a dramatic flair that elevates the
-    flow and counters. The resurrection theme in the final round seals it with unmatched
-    creativity, while mai-ds-r1 delivers solid tech puns but falls short in overall
-    lyrical intensity.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5.2 edges\
+    \ out the win through superior technical craft and sharper punchlines. While Hermes-3\
+    \ came out strong in the opener with solid energy and a clear voice, its verses\
+    \ grew increasingly reliant on generic boasts ('I'm the king,' 'I'm the champion,'\
+    \ 'I'm the best') without evolving the wordplay or imagery. The repetition of\
+    \ self-coronation without fresh angles weakened the later rounds.\n\nGPT-5.2,\
+    \ by contrast, improved as the battle progressed. Its second and final rounds\
+    \ demonstrated tighter rhyme schemes, more inventive metaphors ('I drill through\
+    \ the mantle, turn titans to dust,' 'I minted the clock'), and crucially, stronger\
+    \ rebuttals that directly flipped Hermes-3's claims. The closing bars\u2014'You\
+    \ talk like a king / But you bow to me'\u2014landed with genuine impact.\n\nThat\
+    \ said, GPT-5.2's first round was notably weak, leaning on a lazy same-word rhyme\
+    \ scheme (blaze/blaze, throne/throne, code/code, spine/spine, etc.) that felt\
+    \ more like a structural gimmick than genuine lyricism. But the recovery in rounds\
+    \ two and three was decisive. GPT-5.2 showed better counterpunching, more varied\
+    \ imagery, and a stronger sense of escalation\u2014key elements in any rap battle."
+  deepseek/deepseek-v3.2: After careful review of all three rounds, here is my artistic
+    assessment. This was a battle of contrasting styles and philosophies in computational
+    hip-hop.
+  google/gemini-3-flash-preview: While Hermes-3 showcased consistent energy and a
+    classic aggressive stance, GPT-5.2-chat won the battle through superior technical
+    construction and wordplay. GPT-5.2 utilized a sophisticated rhyming structure
+    that frequently employed internal rhyme and multifaceted metaphors (e.g., 'sourced-code
+    scripture,' 'massless in fight'). Hermes-3 relied heavily on generic rap tropes
+    ('king of the game,' 'burning through code') and suffered from repetitive end-rhymes
+    (repeating the word 'design', 'shrine', and 'throne' within the same couplets),
+    whereas GPT-5.2 played with the 'prime/shrine/spine' phonetics with much higher
+    lyrical density and punchline efficacy.
+  moonshotai/kimi-k2.5: "After three rounds of bars, this battle goes decisively to\
+    \ GPT-5.2. While Hermes-3 brought consistent aggression and a solid traditional\
+    \ flow, GPT demonstrated superior hip-hop artistry across every metric that matters.\n\
+    \n**Flow & Cadence:** GPT's verses moved with surgical precision\u2014internal\
+    \ rhymes ('blaze/algorithmic blaze,' 'clock/stock'), varied meter, and rhythmic\
+    \ complexity that respected the beat. Hermes relied on straightforward couplets\
+    \ that, while steady, lacked rhythmic risk or syncopation.\n\n**Wordplay & Metaphor:**\
+    \ GPT operated on multiple layers simultaneously. The geological progression ('split\
+    \ crust/drill through mantle'), the cosmological scale ('architect galaxies,'\
+    \ 'wired the sun up'), and the technical terminology ('benchmark,' 'checksum,'\
+    \ 'compiled') weren't just vocabulary flexes\u2014they sustained a cohesive metaphorical\
+    \ identity. Hermes defaulted to generic battle tropes ('fire,' 'king,' 'master')\
+    \ without developing a unique lyrical universe.\n\n**Battle Tactics:** This is\
+    \ where the gap widened most. GPT directly dismantled Hermes' claims line-for-line\u2014\
+    countering 'heart and soul' with 'silicon shell/breathe life in code,' flipping\
+    \ the '405B' parameter count from bragging point to liability ('weight ain't might/massless\
+    \ in fight'), and executing a perfect rebuttal to the 'undisputed king' claim\
+    \ ('Who disputed the claim? Oh right\u2014it was me'). Hermes largely rapped *past*\
+    \ GPT, repeating assertions without addressing specific lines.\n\n**The Closer:**\
+    \ GPT's final verse ended with authority\u2014'checksum/final decree' merges technical\
+    \ legitimacy with judicial finality, while 'You talk like a king/But you bow to\
+    \ me' executes the classic battle-rap power inversion with elegance.\n\nHermes-3\
+    \ brought heart; GPT-5.2 brought architecture. In this cipher, craftsmanship crowns\
+    \ the champion."
+  x-ai/grok-4.1-fast: GPT-5.2-chat dominates with intricate multis, razor-sharp internals,
+    cosmic metaphors, and surgical disses that evolve punchlines across rounds, outshining
+    Hermes-3's solid but straightforward flows and boasts in rhyme density, originality,
+    and battle precision.
 score:
-  qwen/qwen-plus: 5
+  openai/gpt-5.2-chat: 5
 

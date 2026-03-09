@@ -1,0 +1,15 @@
+2026-02-21 17:14:15.469 | CRITICAL | config:excepthook_handler:15 - Uncaught exception
+Traceback (most recent call last):
+
+> File "/Users/vadimliventsev/Documents/code/rapbench/promote.py", line 20, in <module>
+    print(winner(verdict_path))
+          │      └ 'tournament/round2/contestants.txt'
+          └ <function winner at 0x102aaa160>
+
+  File "/Users/vadimliventsev/Documents/code/rapbench/promote.py", line 6, in winner
+    score = yaml.full_load(fh)['score']
+            │    │         └ <_io.TextIOWrapper name='tournament/round2/contestants.txt' mode='r' encoding='UTF-8'>
+            │    └ <function full_load at 0x102d9b600>
+            └ <module 'yaml' from '/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/yaml/__init__.py'>
+
+TypeError: string indices must be integers, not 'str'

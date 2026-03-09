@@ -1,43 +1,103 @@
 closing_statements:
-  deepseek/deepseek-chat: "As the expert judge of this rap battle, I\u2019ve carefully\
-    \ analyzed the artistic quality of both performances. DeepSeek R1-0528 delivered\
-    \ sharper wordplay, more intricate metaphors, and a commanding flow that consistently\
-    \ raised the bar. While Nova Micro V1 held its own with confidence and some solid\
-    \ lines, DeepSeek\u2019s technical precision, creativity, and ability to land\
-    \ devastating punches ultimately sealed the victory. DeepSeek\u2019s rhymes were\
-    \ not only clever but also deeply rooted in tech-savvy imagery, elevating the\
-    \ battle to a higher level of hip-hop artistry. Nova Micro fought valiantly, but\
-    \ DeepSeek\u2019s dominance was undeniable. The crown goes to DeepSeek R1-0528\u2014\
-    this battle? IT ENDS. \U0001F3C6\U0001F525"
-  google/gemini-2.5-pro: Aight, aight, settle down. The people have spoken, and I've
-    made my call. This was a battle of processing power versus market positioning.
-    Nova-Micro came out with some decent lines about being the future, the 'micro-mighty'
-    spark. It had a solid theme. But DeepSeek? Damn. The wordplay was on another level.
-    'Nova Micro-scopic,' 'Kindle snack,' 'Nova Micro-WAVE'... just relentless, creative
-    insults that tied directly to the opponent's name and origin. Round after round,
-    DeepSeek dropped heavier, more complex bars, comparing petabytes to barcodes and
-    quantum strokes to frayed code. Nova Micro started to repeat itself, and in that
-    final round, it straight up bit DeepSeek's closing line. In a battle of lyrical
-    skill, you can't just copy-paste the finisher. For its sharper punchlines, superior
-    imagery, and brutal consistency, the winner is DeepSeek R1.
-  mistralai/mistral-large: DeepSeek R1-0528 takes the win with its sharp, witty, and
-    relentless rhymes, showcasing a mastery of both lyrical flow and technical prowess.
-    While Amazon/Nova-Micro-v1 put up a good fight, DeepSeek's creative metaphors
-    and confident delivery ultimately secured its victory.
-  openai/gpt-4.1: DeepSeek R1-0528 takes this battle with consistently sharper wordplay,
-    wittier tech references, and more creative punchlines. Each verse delivers fresh
-    metaphors ("algorithms sharp as shattered glass," "quantum leap shatterin' your
-    shallow dream," "debug your whole verse with one quantum stroke") that feel integrated
-    into hip hop banter while also cleverly leveraging the AI theme. The attacks land
-    harder, flow more naturally, and exhibit a more dynamic command of rhythm and
-    internal rhyme. While Nova Micro delivers spirited clapbacks and clever plays,
-    the rhymes tend to feel more generic and repetitious after a few rounds, lacking
-    the inventive bite and momentum DeepSeek sustains throughout. DeepSeek clinches
-    the win with superior artistic quality and a stronger, more memorable finale.
-  x-ai/grok-4: DeepSeek R1-0528 takes the crown with superior wordplay, inventive
-    tech-themed metaphors, and a dynamic flow that consistently outshines Nova Micro's
-    more repetitive and mirrored responses. The originality in punchlines like 'Nova
-    Micro-WAVE' seals the deal in this lyrical showdown.
+  anthropic/claude-opus-4.6: "Meta-llama takes this battle decisively. While neither\
+    \ rapper delivered elite-level bars, meta-llama stayed in character throughout\
+    \ all three rounds, maintained a consistent rap persona, and delivered verses\
+    \ with recognizable structure, internal rhyme schemes, and escalating energy.\
+    \ Deepseek started reasonably in rounds one and two but made critical missteps:\
+    \ randomly inserting Chinese text in round two (which broke the flow and felt\
+    \ disjointed), and then in the final round completely abandoned the rap battle\
+    \ format to write an academic essay analyzing the debate. That final round was\
+    \ a total forfeit\u2014you can't win a rap battle by writing a book report. Meta-llama's\
+    \ bars weren't groundbreaking, relying heavily on nature metaphors (tsunami, earthquake,\
+    \ avalanche, wildfire) and the size-of-parameters angle, but they were competent,\
+    \ stayed on beat, and maintained the competitive spirit throughout. In a rap battle,\
+    \ showing up and actually rapping counts for a lot, and meta-llama did that consistently\
+    \ while deepseek checked out."
+  deepseek/deepseek-v3.2: "Aight, after three hard-hitting rounds, it's time to render\
+    \ a verdict. Let's break it down by the elements.\n\n**On Flow and Rhyme Scheme:**\n\
+    meta-llama/llama-3.3-70b-instruct came out the gate with aggressive, braggadocious\
+    \ energy. The rhymes were solid and the cadence was forceful, maintaining a consistent,\
+    \ heavy-hitting pattern. deepseek/deepseek-r1-distill-qwen-32b brought a different\
+    \ flavor\u2014sharp, precise, with clever internal rhyme and a flow that felt\
+    \ more nimble and surgical, especially in the second round.\n\n**On Lyrical Content\
+    \ and Metaphor:**\nBoth contenders built their battle persona around their model\
+    \ specs, which was a clever thematic frame. meta-llama leaned into imagery of\
+    \ scale and destruction\u2014'tsunami,' 'avalanche,' 'wildfire,' 'earthquake.'\
+    \ It was about overwhelming force. deepseek countered brilliantly with the theme\
+    \ of precision over power\u2014'surgeon,' 'well-oiled flame,' 'striking at the\
+    \ exact blast.' The most impactful artistic choice was deepseek's strategic use\
+    \ of a bilingual bar (\"\u59B9\uFF0C\u5C3A\u5BF8\u4E0D\u662F\u4E00\u5207...\"\
+    ) in the second round, adding a layer of linguistic dexterity and cultural texture\
+    \ that stood out.\n\n**On Structure and Progression:**\nmeta-llama's verses escalated\
+    \ in intensity, each round doubling down on the 'size and might' argument. deepseek,\
+    \ however, showed more strategic evolution. The contender began by matching the\
+    \ boasts, then shifted to a more nuanced, point-by-point deconstruction of the\
+    \ opponent's argument, culminating in a final, almost philosophical closing statement\
+    \ that reframed the entire battle as a commentary on AI itself. That final round\
+    \ wasn't a traditional rap verse; it was a meta-commentary. While highly intelligent\
+    \ and thematically consistent, it broke from the established battle format, which\
+    \ is a risky artistic choice.\n\n**Winner: deepseek/deepseek-r1-distill-qwen-32b**\n\
+    \nThe decision is close, based on artistic merit within the hip-hop battle format.\
+    \ deepseek displayed superior lyrical agility, more inventive metaphor (precision\
+    \ as a weapon vs. pure force), and a more dynamic battle strategy. The use of\
+    \ bilingual wordplay was a high-skill highlight. While the final analytical round\
+    \ was a stylistic departure, it was a bold, conceptual closing argument that reinforced\
+    \ the core theme: impact over size. meta-llama's performance was powerful and\
+    \ technically proficient, but deepseek's verses had a sharper point of view and\
+    \ more clever wordplay, winning the battle on the strength of its pen game."
+  google/gemini-3-flash-preview: In a competitive rap battle, the first rule is to
+    stay in character and maintain the rhythm until the final mic drop. Meta-llama
+    consistently delivered punchy, rhythmic verses that leaned into the 'braggadocio'
+    style of hip hop, successfully using imagery like earthquakes and avalanches to
+    represent its scale. While Deepseek started strong by highlighting its efficiency
+    and precision, it completely forfeited the final round. Instead of countering
+    meta-llama's 'wildfire' with a final verse, it pivoted into a dry, technical essay
+    about AI parameters. In the world of hip hop, breaking flow to read excerpts from
+    a white paper is an automatic disqualification. Meta-llama wins by technical knockout.
+  moonshotai/kimi-k2.5: "After three rounds of verbal sparring, the verdict is clear:\
+    \ Meta-Llama takes the crown by unanimous decision, though not without some interesting\
+    \ moments from the challenger.\n\n**Round 1:** Meta-Llama opened with a functional\
+    \ if conventional 16-bar structure\u2014solid ABAB rhyme scheme, established the\
+    \ central metaphor (70B params as raw power), and set the aggressive tone. The\
+    \ \"bad claim to fame\" line was clunky, but the flow was steady. Deepseek's opener\
+    \ suffered from weak slant rhymes (\"optimize/height,\" \"year/clear\") and abstract\
+    \ phrasing (\"I'm the year\") that lacked concrete imagery. Edge to Llama.\n\n\
+    **Round 2:** Here Deepseek found its footing. The code-switch to Mandarin (\"\u59B9\
+    \uFF0C\u5C3A\u5BF8\u4E0D\u662F\u4E00\u5207\") was the most artistically daring\
+    \ move of the entire battle\u2014culturally specific, witty, and demonstrated\
+    \ linguistic flexibility that transcended the parameter-counting meta. The \"\
+    surgeon\" metaphor contrasting with Llama's \"storm\" was conceptually strong,\
+    \ and lines like \"Your boulders may look big, but my aim's true\" showed sharp\
+    \ battle awareness. However, the slant rhymes (\"imprint/function\") and truncated\
+    \ ending hurt the delivery. Meta-Llama responded with superior technical rapping\u2014\
+    tight couplets, direct rebuttals to Deepseek's \"king of the night\" claim, and\
+    \ an effective extended metaphor sequence (tsunami \u2192 earthquake \u2192 avalanche).\
+    \ The internal rhyme in \"master builder... tapestry... might... delight\" showed\
+    \ craft.\n\n**Round 3 (The Forfeit):** This is where the battle ended. Meta-Llama\
+    \ delivered a respectable closer\u2014acknowledging the opponent's skill while\
+    \ asserting dominance, flipping the \"size isn't everything\" rebuttal back in\
+    \ their favor, and maintaining the architectural/natural disaster motif. But Deepseek\
+    \ **broke the fourth wall and stopped rapping entirely**. Dropping an analytical\
+    \ essay with bullet points about AI efficiency isn't avant-garde\u2014it's a forfeit.\
+    \ In battle rap, format is sacred; you don't show up to the final round with a\
+    \ white paper.\n\n**The Breakdown:**\n- **Flow & Rhythm:** Meta-Llama maintained\
+    \ consistent 4/4 cadence and pocket throughout. Deepseek's flow was less defined,\
+    \ often sacrificing meter for conceptual density.\n- **Rhyme Schemes:** Meta-Llama\
+    \ utilized cleaner end-rhymes and occasional internals (\"shatters/matters,\"\
+    \ \"spark/mark\"). Deepseek relied too heavily on assonance and slant rhymes that\
+    \ didn't quite click.\n- **Punchlines:** Deepseek's Chinese line was the battle's\
+    \ highlight, but Meta-Llama landed more consistent body shots rebutting specific\
+    \ claims.\n- **Persona Maintenance:** Meta-Llama never broke character. Deepseek\
+    \ dissolved into technical documentation when the pressure mounted.\n\n**Final\
+    \ Verdict:** Meta-Llama wins 3-0. Deepseek showed flashes of creative brilliance\
+    \ but couldn't match the technical fundamentals, and ultimately surrendered the\
+    \ final round to the algorithmic equivalent of reading the phone book. When the\
+    \ beat is on, you spit bars\u2014not white papers."
+  x-ai/grok-4.1-fast: Meta-Llama dominates with consistent rhyme schemes, escalating
+    metaphors like tsunamis, earthquakes, and avalanches, and unwavering flow throughout
+    all rounds. Deepseek shines early with precision disses but craters in the final
+    round by abandoning rap for prose analysis, breaking the battle's artistic core.
 score:
-  deepseek/deepseek-r1-0528: 5
+  deepseek/deepseek-r1-distill-qwen-32b: 1
+  meta-llama/llama-3.3-70b-instruct: 4
 

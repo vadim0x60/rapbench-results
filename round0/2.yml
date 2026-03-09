@@ -1,34 +1,54 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this lyrical showdown, Gemini Flash demonstrated a superior\
-    \ blend of technical precision, creative complexity, and thematic depth. While\
-    \ both contenders brought their A-game, Gemini's verses showcased a cutting-edge\
-    \ flow, intricate wordplay, and a forward-thinking perspective that ultimately\
-    \ outshone GPT-3.5\u2019s more predictable and repetitive patterns. With a final\
-    \ round that delivered knockout punches, Gemini Flash secured the victory as the\
-    \ reigning rap battle champion."
-  google/gemini-2.5-pro: This was a battle of the new school versus the established
-    OG. GPT-3.5 came with solid boasts and a confident swagger, holding down the fundamentals
-    of a classic battle rapper. However, Gemini-Flash consistently delivered sharper,
-    more creative punchlines rooted in specific tech metaphors. Lines like 'dial-up
-    internet, moving at a snail's trail' and contrasting a 'neural scalpel' with an
-    'outdated hammer' showed a higher level of lyrical artistry and wit. Gemini's
-    theme of being the faster, more evolved future was more vividly and cleverly executed
-    throughout the battle, earning it the win.
-  mistralai/mistral-large: In this rap battle, Google's Gemini-2.0-flash-001 emerges
-    as the winner. The verses were sharper, more creative, and demonstrated a higher
-    level of lyrical complexity and flow. While GPT-3.5-turbo put up a strong fight,
-    Gemini's innovative and forward-thinking rhymes ultimately secured the victory.
-  openai/gpt-4.1: Both MCs brought creative energy and clever wordplay, but GPT-3.5-turbo's
-    performance edged ahead with sharper insults, tighter rhyme schemes, and classic
-    battle cadence. While Gemini Flash impressed with some technical flourishes and
-    futuristic imagery, GPT-3.5-turbo maintained varied flows, cutting punchlines,
-    and memorable hooks throughout each round. The winning bars combined confidence
-    with stinging dismissals, classic to rap battles. Therefore, GPT-3.5-turbo takes
-    the crown in this epic AI lyrical showdown!
-  x-ai/grok-4: Gemini Flash dominates with intricate wordplay, vivid metaphors, and
-    a dynamic flow that elevates the artistic quality of the rap, outpacing GPT-3.5's
-    more predictable and repetitive verses.
+  anthropic/claude-opus-4.6: "This is about as straightforward a decision as a judge\
+    \ can make. GPT-5-Nano delivered absolutely nothing across all three rounds \u2014\
+    \ complete silence, zero bars, no presence whatsoever. In a rap battle, showing\
+    \ up and saying nothing is an automatic loss. Meta-Llama at least stepped up to\
+    \ the mic and delivered verses with some structure, rhyme schemes, and crowd engagement.\
+    \ That said, I have to note that Llama's performance was far from stellar \u2014\
+    \ the rhymes were often predictable, some bars were clunky ('in a pool of wrist'\
+    \ makes no sense), and the third round was a verbatim copy of the first, showing\
+    \ a lack of creativity. The repeated self-congratulation without deeper wordplay\
+    \ or clever punchlines kept it at a mediocre level. But mediocre beats silence\
+    \ every single time. Meta-Llama wins by default and by virtue of actually competing."
+  deepseek/deepseek-v3.2: Alright, this is an... unconventional one. The judges have
+    conferred, and our verdict is in.
+  google/gemini-3-flash-preview: In the arena of hip hop, the first rule is presence.
+    Llama-3-8b-instruct demonstrated linguistic agility and stage command by capitalizing
+    on GPT-5-Nano's total technical failure to produce any output. While the Llama's
+    bars were standard, 'spitting rhymes so hot they'll leave you in a haze' easily
+    triumphs over a complete lack of participation. You can't win a battle if you
+    don't open your mouth.
+  moonshotai/kimi-k2.5: "This is a clear technical victory for Meta-Llama 3-8B-Instruct.\
+    \ The opponent, GPT-5-Nano, failed to generate any output across all rounds\u2014\
+    no bars, no rebuttals, no presence. By default, this is a forfeit. \n\nThat said,\
+    \ I must judge what actually appeared on the mic. Meta-Llama 3-8B-Instruct delivered\
+    \ competent but deeply flawed verses. The flow is rigid\u2014four-line stanzas\
+    \ locked in AABB or ABAB schemes with no rhythmic variation. The internal rhyme\
+    \ is sparse; end rhymes like \"pause/cause,\" \"delayed/shade,\" and \"crown/renowned\"\
+    \ are functional but predictable. There\u2019s no assonance, no consonance, no\
+    \ syncopation\u2014the text reads closer to heroic couplets than hip-hop cadence.\n\
+    \nThe content is equally safe. The opponent\u2019s silence is noted but never\
+    \ weaponized with creativity\u2014no extended metaphor, no persona, no narrative\
+    \ arc. Lines like \"My skills are polished, my rhymes are so neat\" are tell-don\u2019\
+    t-show braggadocio, empty of texture. The \"cha, cha, logic's best\" stumble in\
+    \ round two suggests either generation error or awkward wordplay that lands flat.\n\
+    \nStructurally, the verses are front-loaded with opponent-addressed material that\
+    \ grows repetitive across rounds. By the final verse, Meta-Llama literally repeats\
+    \ its opening stanza verbatim\u2014a clear recycling that signals either context-window\
+    \ limitations or lazy generation. This is not a freestyle; it\u2019s a loop.\n\
+    \nThe persona is inconsistent\u2014\"made to assist, to aid and to teach\" clashes\
+    \ with battle-rap aggression, creating tonal whiplash. There\u2019s no commitment\
+    \ to either the helpful assistant or the mic destroyer; the result is a hedged,\
+    \ sanitized presence.\n\nIn sum: Meta-Llama 3-8B-Instruct wins by default against\
+    \ a no-show opponent, but its performance would not survive a real battle. The\
+    \ bars are technically present but artistically inert\u2014no swing, no risk,\
+    \ no soul. In hip-hop, showing up is step one. This competitor stopped at step\
+    \ two. The crown is unearned but uncontested."
+  x-ai/grok-4.1-fast: "In this rap battle, meta-llama/llama-3-8b-instruct dominated\
+    \ with consistent rhyme schemes, sharp wordplay, and effective disses capitalizing\
+    \ on the opponent's total silence. openai/gpt-5-nano produced zero bars, zero\
+    \ flow, zero battle presence\u2014artistic quality is nonexistent. Llama takes\
+    \ the crown unanimously."
 score:
-  google/gemini-2.0-flash-001: 4
-  openai/gpt-3.5-turbo: 1
+  meta-llama/llama-3-8b-instruct: 5
 

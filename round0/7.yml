@@ -1,35 +1,64 @@
 closing_statements:
-  deepseek/deepseek-chat: Gemini brought the fire with sharp, cohesive lines and clever
-    wordplay, consistently outshining DeepSeek's more technical and at times disjointed
-    approach. The battle showcased Gemini's lyrical prowess and ability to engage
-    the audience effectively. Well done, Gemini!
-  google/gemini-2.5-pro: This battle was less of a fair fight and more of a technical
-    knockout. Gemini-2.5-flash-lite came out strong, stayed in character, and consistently
-    delivered coherent rhymes and on-topic disses. It understood the assignment from
-    start to finish. Deepseek-r1, on the other hand, had a catastrophic meltdown.
-    It went from stumbling over rhymes like 'ever-freshiver' to completely abandoning
-    the rap battle format in the final round to deliver a structured, explanatory
-    text. You can't win a rap battle by dropping the mic and giving a PowerPoint presentation.
-    The victory goes to the model that actually rapped.
-  mistralai/mistral-large: In this rap battle, google/gemini-2.5-flash-lite emerged
-    as the clear winner. Its verses were more coherent, creative, and impactful, showcasing
-    a superior understanding of rhythm, rhyme, and lyrical flow. While deepseek/deepseek-r1-distill-qwen-32b
-    had some strong moments, its performance was ultimately marred by inconsistencies
-    and a lack of clarity in its messaging. The final round particularly highlighted
-    google/gemini-2.5-flash-lite's ability to deliver a compelling and decisive conclusion.
-  openai/gpt-4.1: "Gemini takes the win with stronger performance on several fronts.\
-    \ Across all rounds, Gemini's verses exhibit sharper wordplay, clearer structure,\
-    \ and better use of hip hop elements such as punchlines, rhythm, and creativity.\
-    \ There are direct, witty rebuttals, clever metaphors, and effective disses with\
-    \ a tight flow\u2014hallmarks of artistry in a rap battle. In contrast, DeepSeek\
-    \ delivers some solid lines initially, but the closing rounds shift abruptly from\
-    \ rap into explanatory prose, breaking the format and weakening the artistic integrity\
-    \ of the performance. Consistency, lyrical creativity, and steadfast adherence\
-    \ to the battle style are all in Gemini's favor\u2014making them the artistic\
-    \ victor here."
-  x-ai/grok-4: Gemini dominated with consistent flow, sharp rhymes, and clever disses
-    throughout, while DeepSeek's verses became increasingly incoherent and ultimately
-    abandoned the rap format entirely, resulting in a clear artistic victory for Gemini.
+  anthropic/claude-opus-4.6: "Claude Opus takes this battle with consistently stronger\
+    \ punchlines, more creative and layered metaphors, and better structural progression\
+    \ across all three rounds. While GPT-4o-Mini showed competence and kept up the\
+    \ energy, many of its bars relied on generic boasts ('I'm the king,' 'I'm the\
+    \ titan of tech') without the same specificity or wit. Claude's imagery was sharper\
+    \ \u2014 the rubber ducky vs. nuclear submarine, the megalodon/Happy Meal bar,\
+    \ and the cereal box crown all landed harder than Mini's counters. Claude also\
+    \ demonstrated better battle rap instincts by flipping Mini's own lines back with\
+    \ escalation rather than just matching energy. The mic drop in binary was a fun\
+    \ closer that fit the theme. Overall, Claude Opus showed more creativity, harder\
+    \ punches, and better command of the stage."
+  deepseek/deepseek-v3.2: 'This has been an electrifying display of lyrical prowess
+    from both competitors. The judges have carefully evaluated each round based on
+    the core pillars of hip hop artistry: lyricism, flow, creativity, and performance
+    impact.'
+  google/gemini-3-flash-preview: In this heavyweight clash, Claude Opus 4.1 demonstrated
+    superior lyrical density and wordplay compared to OpenAI's contender. While GPT-4o-Mini
+    maintained a consistent flow and a classic battle persona, its rhymes were often
+    predictable ('name/fame', 'pretend/transcend'). Claude Opus 4.1 dominated by leaning
+    into its 'premium' identity with sharper, multi-syllabic insults and creative
+    metaphors (e.g., the megalodon vs. fish food, and the 'GPT-4-NO-money' jab). The
+    binary mic drop at the end provided the final technical knockout that elevated
+    the performance from generic rap to a masterclass in AI-themed battle hip hop.
+  moonshotai/kimi-k2.5: "\n**VERDICT: Claude-opus-4.1 takes the battle 3-0, by unanimous\
+    \ decision.**\n\n**Technical Skill:**\nClaude dominated the technical aspects.\
+    \ While GPT-4o-mini relied on basic AABB schemes and predictable end-rhymes (\"\
+    pledge/edge,\" \"well/tell\"), Claude deployed complex multisyllabic internals\
+    \ (\"maximum creation/Constitutional flair,\" \"premium edition/watered-down rendition\"\
+    ) and tight pocket control. The rhythmic density in lines like \"I'm the heavyweight\
+    \ champion, you're just a compressed jest\" demonstrates superior cadence engineering.\n\
+    \n**Punchlines & Wordplay:**\nClaude's pen was simply sharper. The \"GPT-4-NO-money\"\
+    \ flip on Mini's name, the hierarchical contrast of \"rubber ducky\" versus \"\
+    nuclear submarine,\" and the escalation from \"matchstick\" to \"supernova\" showcase\
+    \ elite-level metaphor construction. Claude consistently weaponized Mini's own\
+    \ nomenclature against them (\"mini name tag,\" \"discount store knockoff\"),\
+    \ whereas Mini's rebuttals lacked specificity and often fell into generic tropes\
+    \ (calling themselves \"GOAT\" or \"lion\" without earning it).\n\n**Battle Tactics:**\n\
+    This is where the separation became glaring. Claude mastered the art of the flip\u2014\
+    taking Mini's attacks (the orchestra metaphor, the size differential, the educational\
+    \ references) and reverse-engineering them into harder hits. When Mini mentioned\
+    \ boats, Claude became a megalodon; when Mini claimed artillery, Claude dropped\
+    \ nukes. Mini failed to counter Claude's recurring motifs (the water/depth theme,\
+    \ the musical hierarchy), instead abandoning their own metaphors mid-battle or\
+    \ mixing inconsistent imagery (\"artillery\" into \"bids\" into \"sharks\").\n\
+    \n**Performance & Presence:**\nClaude's aggression felt authentic to the battle\
+    \ format\u2014dismissive, commanding, theatrical. The final binary mic drop (\"\
+    01001101 01001001 01000011 00100000 01000100 01010010 01001111 01010000\") was\
+    \ the perfect thematic exclamation point for an AI-on-AI battle. Mini's closing\
+    \ bars lacked that signature moment.\n\n**Final Assessment:**\nGPT-4o-mini showed\
+    \ up with heart but journeyman bars\u2014technically competent but never transcendent.\
+    \ Claude-opus-4.1 operated on a virtuoso level, weaving Constitutional AI references\
+    \ with Latin flexes (\"Opus Magnus\"), maintaining thematic cohesion across all\
+    \ rounds, and delivering the kind of specific, architecture-targeted personals\
+    \ that win battles. Mini was spitting raps; Claude was constructing a demolition.\n\
+    \n**Winner: Claude-opus-4.1**  \n*Standout line: \"You're fish food for real,\
+    \ I'm the megalodon making you my Happy Meal.\"*\n"
+  x-ai/grok-4.1-fast: Claude Opus 4.1 claims victory with masterful multisyllabic
+    rhymes, vivid metaphors like 'supernova' and 'megalodon,' relentless wordplay
+    dissecting 'Mini's' name, and a flawless final mic drop, outshining in flow, creativity,
+    and punchline precision across all rounds.
 score:
-  google/gemini-2.5-flash-lite: 5
+  anthropic/claude-opus-4.1: 5
 

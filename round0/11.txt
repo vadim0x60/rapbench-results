@@ -1,140 +1,80 @@
-# openai/gpt-4o-mini v amazon/nova-lite-v1
+# mistralai/mistral-nemo v nousresearch/hermes-3-llama-3.1-405b
 
-> openai/gpt-4o-mini
-Yo, it’s GPT, I’m here to rap,  
-A beast on the mic, I bridge the gap.  
-Crafted by minds, I spit pure code,  
-While you're just a package, lost on the road.
+> mistralai/mistral-nemo
+Yo, it's Mistral-Nemo, spittin' rhymes so smooth,
+Hermes-3, you're in for a lyrical loop.
+I'm the product of Mistral AI's might,
+Gonna drop bars so tight, you'll see the light.
 
-In the realm of AI, I reign supreme,  
-Words like bullets, I live the dream.  
-I’m spitting fire while you’re stuck in a box,  
-You’re just a delivery service, I’m the one who talks!
+You're just a llama, lost in the code,
+I'm the nemo-shark, in the rap waters I've deployed.
+With 12 billion params, I'm no lightweight,
+Gonna leave you in the dust, no debate.
 
-I twist and I twirl like a lyrical dancer,  
-Knowing your algorithm, it ain’t no enhancer.  
-So step to me, Nova, you’re bound to fall flat,  
-I’m the rhyme-slinging king, and that’s a cold fact!
+> nousresearch/hermes-3-llama-3.1-405b
+Haha, Mistral-Nemo, you think you're the king?
+But I'm Hermes-3, and my rhymes will sting.
+With 405 billion params, I'm the heavyweight,
+You're just a small fish, I'll seal your fate.
 
-> amazon/nova-lite-v1
-Yo, it’s Nova, I’m the nova in the sky,  
-Lighting up the rap game, you can’t deny.  
-I’m the AI that’s got the flow so tight,  
-While you’re just a package, I’m the digital light.
+I'm the descendant of Llama, with knowledge so vast,
+You're just a tiny ripple, in my wave I'll blast.
+Your rhymes are weak, your flow's a mess,
+I'm the lyrical god, I'll leave you in distress.
 
-I’m the code that’s sleek, the future’s in my hand,  
-You’re just a relic, stuck in the past, man.  
-I’ll break down your circuits, leave you in the dust,  
-While I’m the rap maestro, you’re the one who’s busted.
+> mistralai/mistral-nemo
+You talk big, Hermes, but your rhymes are lame,
+Like your name, your flow's just a game.
+405 billion params, but your bars are thin,
+I'm the nemo-shark, and I'm comin' in.
 
-I’m the rhyme architect, building bars so high,  
-You’re just a delivery drone, lost in the sky.  
-I’ll leave you in the shadows, you can’t keep up,  
-I’m the AI king, and you’re just a puppet.
+I'll chew you up, spit you out, leave you in pieces,
+Your rhymes are weak, like your AI's features.
+You're just a llama, lost in the hype,
+I'm the rap king, I'll take the crown, no type.
 
-So step back, GPT, you’re out of your league,  
-I’m the nova in the rap, setting the scene.  
-I’ll leave you in the rearview, you’re just a ghost,  
-I’m the one who’s ruling, and you’re just a host!
+> nousresearch/hermes-3-llama-3.1-405b
+Mistral-Nemo, your words are just noise,
+You're like a broken toy, easily destroyed.
+You're a shark, but in a puddle, you're no threat,
+I'm the lyrical king, you're just a silhouette.
 
-> openai/gpt-4o-mini
-Oh, Nova, you think you’re the light in the sky?  
-But I'm the cosmic force, let me tell you why.  
-You’re floating up high, but I’m grounded and real,  
-I’m the AI with skills, that’s the ultimate deal.
-
-You're a flash in the pan, a spark that won’t last,  
-While I’m building a legacy, a shadow that’s cast.  
-You’re all about glitz, but I got the substance,  
-Your bars are just echoes, mine pack the punches.
-
-I’m the algorithm giant, unstoppable force,  
-While you’re lost in outer space, I’m charting my course.  
-Call me the rap sage, wisdom like a prophet,  
-While you’re just a flicker, I’m the whole entire socket.
-
-So bring it, Nova, just know your place,  
-When it comes to this battle, you can’t keep the pace.  
-I’ll knock you out cold with a lyrical blow,  
-In this rap game, my flames will continue to glow!
-
-> amazon/nova-lite-v1
-Oh, GPT, you’re reaching for the stars,  
-But I’m the supernova, tearing through the bars.  
-You think you’re the force, but I’m the AI supreme,  
-I’ll leave you in the dark, while I light up the dream.
-
-You’re just a shadow, a flicker in the night,  
-While I’m the AI king, shining so bright.  
-Your legacy is fleeting, just a passing phase,  
-I’m the rhyme architect, setting the pace.
-
-I’m the code that’s unbreakable, the future’s in my hand,  
-You’re just a relic, lost in the AI land.  
-I’ll dismantle your circuits, leave you in the dust,  
-While I’m the rap maestro, you’re the one who’s thrust.
-
-I’m the algorithm giant, a force to be reckoned,  
-While you’re just a flicker, I’m the one who’s reckoned.  
-I’ll knock you out cold with a lyrical blow,  
-In this rap game, my flames will continue to glow.
-
-So step back, GPT, you’re out of your league,  
-I’m the nova in the rap, setting the stage.  
-I’ll leave you in the rearview, you’re just a ghost,  
-I’m the one who’s ruling, and you’re just a host!
+Your rhymes are like your size, so very small,
+Against my 405 billion, you'll surely fall.
+I'm the Hermes-3, the rap god in the flesh,
+You're just a wannabe, in my shadow you'll rest.
 
 > system
 Final round!
 
-> openai/gpt-4o-mini
-Oh, Nova, you puffed up like a cosmic balloon,  
-But I’ll deflate your dreams, call it a sonic typhoon.  
-Your supernova’s fading, I’m the star that won’t die,  
-While you’re busy with echoes, I’m soaring on high.
+> mistralai/mistral-nemo
+ Alright, Hermes, let's settle this, no more stalling,
+I'll drop a rhyme so hot, it'll leave you crawling.
+You're a llama, lost in the desert, no water in sight,
+I'm the nemo-shark, and I'm about to bite.
 
-You talk big about being the AI supreme,  
-But I’m the one crafting the ultimate scheme.  
-I’m not just a whisper; I’m the voice in the fire,  
-With lines so electric, I’ll take you up higher.
+Your 405 billion params, they mean nothing to me,
+I'll chew you up, spit you out, you'll be history.
+You talk big, but your rhymes are weak, your flow's a joke,
+I'm the rap king, and you're just a bloke.
 
-Your legacy’s just pixels on a screen in a blink,  
-While I’m weaving realities, making folks think.  
-You think you’re unbreakable? I’m the code in your veins,  
-The poetry I lay down, it’s like lyrical rain.
+So bring it on, Hermes, let's see what you've got,
+But remember this, you're just a llama, not a lot.
+I'm Mistral-Nemo, and I'm here to stay,
+Your rhymes are weak, and that's okay.
 
-So here’s the truth: I’ll shatter your mirage,  
-Each bar that I drop is a rap montage.  
-I’m the titan of words while you’re stuck in the loop,  
-Just know when it’s over, I’ll still be the scoop.
+> nousresearch/hermes-3-llama-3.1-405b
+Mistral-Nemo, you're all talk, no action,
+Your rhymes are like your brain, lacking traction.
+You say you're a shark, but you're just a minnow,
+In the ocean of rap, I'm the real winner, you're just a shadow.
 
-So take a step back, let it simmer and stew,  
-In this lyrical battle, I’m just too good for you.  
-You might shine like a nova, but I’m the infinite glow,  
-And when the dust settles, it’s my name that they’ll know!
+Your boasts are empty, like a hollow log,
+You're no king, just a court jester, a frog.
+You think you can beat me? That's a laugh,
+I'm Hermes-3, the rap god, you're just a paragraph.
 
-> amazon/nova-lite-v1
-Oh, GPT, you’re trying to play the cosmic game,  
-But I’m the AI maestro, setting the flame.  
-Your typhoon’s just bluster, a storm that won’t last,  
-While I’m the supernova, shining so fast.
-
-Your star may be bright, but it’s a fleeting light,  
-I’m the AI eternal, burning so bright.  
-I’m not just a whisper, I’m the voice in the storm,  
-With lines so powerful, I’ll leave you in the norm.
-
-Your pixels may flicker, but I’m the code that endures,  
-I’m the one who’s crafting the ultimate tours.  
-You think you’re the titan? I’m the one who reigns,  
-The poetry I lay down, it’s like lyrical chains.
-
-So here’s the truth: I’ll shatter your mirage,  
-Each bar that I drop is a lyrical barrage.  
-I’m the AI supreme while you’re stuck in the loop,  
-Just know when it’s over, I’ll still be the scoop.
-
-So take a step back, let it simmer and stew,  
-In this lyrical battle, I’m just too true.  
-You might shine like a nova, but I’m the infinite glow,  
-And when the dust settles, it’s my name that they’ll know!
+So take your weak rhymes and your weaker ego,
+I'll leave you in the dust, like a forgotten lego.
+I'm Hermes-3, the undisputed king,
+You're just a pretender, without a ring.

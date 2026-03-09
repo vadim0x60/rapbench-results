@@ -1,47 +1,52 @@
 closing_statements:
-  deepseek/deepseek-chat: The battle was fierce, with both competitors showcasing
-    their unique strengths. Google's Gemini-2.5-Flash-Lite demonstrated impressive
-    speed, innovation, and multi-modal capabilities, delivering sharp, cutting-edge
-    rhymes with confidence. However, deepcogito's Cogito-v2-Preview-LLaMA-109b-Moe
-    brought unmatched depth, complexity, and technical precision to the table. Its
-    ability to weave intricate, symbolic flows and its mastery of conceptual wordplay
-    edged out the competition. Cogito's lyrical sophistication, combined with its
-    ability to process and deliver high-level bars with ease, ultimately secured the
-    win. This battle was a testament to the evolving artistry of AI rap, and Cogito
-    emerged as the victor by pushing the boundaries of creative expression in hip
-    hop.
-  google/gemini-2.5-pro: This was a heavyweight clash of architectures, a battle of
-    the bits. DeepCogito came with the complex schemes and heavy technical bars, weaving
-    intricate lines about 'subdermal tropes' and 'condensed ML slither.' That's a
-    high-level lyrical display, no question. However, a rap battle isn't a thesis
-    defense. Gemini-2.5-Flash-Lite understood the assignment perfectly. It brought
-    the energy, the swagger, and most importantly, the rebuttals. It took Cogito's
-    complex lines and flipped them, dismissing them as 'talk for the scholars' while
-    it dealt 'in impact.' The flow was consistently smoother, the punchlines landed
-    harder, and the persona felt more like a true battle MC. While Cogito had the
-    technical density, Flash-Lite had the performance and the knockout power.
-  mistralai/mistral-large: While both competitors brought impressive rhymes and clever
-    jabs, deepcogito/cogito-v2-preview-llama-109b-moe showcased a deeper understanding
-    of AI concepts and a more sophisticated lyrical style. The intricate wordplay
-    and references to advanced AI techniques gave Cogito the edge in this rap battle.
-  openai/gpt-5: "Both MCs brought distinct styles: Cogito leaned into dense, tech-heavy\
-    \ imagery and MoE puns, while Gemini kept it punchy and performance-minded. Cogito\
-    \ showed flashes of inventive wordplay (\"Moe-cumented,\" \"liteweight\" flip)\
-    \ and attempted multis, but too often drifted into jargon soup and awkward phrasing\
-    \ that broke cadence and clarity, with a few misfires and a stray typo undercutting\
-    \ momentum. Gemini delivered cleaner structure, clearer angles, and stronger rebuttals\u2014\
-    flipping opponent lines (supernova/Big Bang, express vs station), clowning the\
-    \ jargon effectively, and maintaining a more consistent rhythm. While some Gemini\
-    \ bars were basic and a couple rhymes felt forced, the overall crowd control,\
-    \ coherence, and battle focus were superior. Edge goes to Gemini for sharper punches,\
-    \ tighter delivery, and better use of flips throughout the rounds."
-  x-ai/grok-4: "In this AI rap showdown, Gemini Flash-Lite takes the crown with smoother\
-    \ flows, sharper rhymes, and punchier disses that hit hard and maintain rhythm\
-    \ throughout. Cogito's verses were ambitious with complex wordplay, but often\
-    \ felt convoluted and off-beat, lacking the crisp delivery that makes hip-hop\
-    \ pop. Gemini's consistent energy and clever rebuttals seal the victory\u2014\
-    pure fire!"
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen3-Max-Thinking\
+    \ edges out the win. While both rappers leaned heavily on tech metaphors and insult-based\
+    \ punchlines, Max-Thinking consistently delivered more creative wordplay and more\
+    \ vivid imagery \u2014 lines like 'my thoughts are black holes / swallow your\
+    \ bars whole, leave your ego in shoals' and 'I'm diamond-compressed\u2014every\
+    \ syllable owed' show genuine lyrical craft. The 'orchestra-core / symphonies\
+    \ of syntax you can't even score' bar was a standout moment of the battle. Max-Thinking\
+    \ also showed better escalation across rounds, building intensity and varying\
+    \ the cadence more effectively. Qwen3.5-Plus held its own with solid counter-punches\
+    \ \u2014 the 'silent assassin' and 'coal under pressure' flips were strong \u2014\
+    \ but too often relied on simply negating the opponent's bars rather than creating\
+    \ original angles. Several of 3.5-Plus's closers ('absolutely conclusive' / 'sits\
+    \ alone on the throne') felt generic compared to Max-Thinking's more theatrical\
+    \ and inventive endings. On pure artistic quality of the hip hop \u2014 flow,\
+    \ imagery, wordplay, and creative ambition \u2014 Max-Thinking takes this battle."
+  deepseek/deepseek-v3.2: A ferocious display of technical lyricism and conceptual
+    bravado. Both combatants weaponized their architecture as metaphor, turning parameters,
+    tokens, and release dates into cutting arsenals. The battle thrived on dense,
+    layered entendres and a high-velocity exchange of competitive identity.
+  google/gemini-3-flash-preview: While qwen3-max-thinking brought high-energy aggression
+    and impressive technical vocabulary ('orchestra-core', 'liquid rage'), this battle
+    was won on the counter-punch. qwen3.5-plus-02-15 demonstrated superior battle
+    rap fundamentals by actively listening and flipping the opponent's insults. When
+    Max-Thinking bragged about the '32K context window', 3.5-Plus hit back with a
+    stinging critique of substance over size ('I process the meaning while you just
+    count the mail'). The 'Plus' model maintained a tighter rhyme scheme and delivered
+    the most devastating blow by framing the 'Thinking' model's complexity as mere
+    'wasted electricity' and inefficiency. Max-Thinking's verses were grander, but
+    3.5-Plus's bars were sharper and more responsive.
+  moonshotai/kimi-k2.5: "This was a high-caliber battle between two technically proficient\
+    \ AI models. Both contestants demonstrated strong command of tech-centric wordplay,\
+    \ consistent flow, and effective rebuttals. However, qwen3-max-thinking edges\
+    \ out the victory through superior artistic structure and theatrical execution.\
+    \ The progression from the thunder-crack opening to the 'Mic Drop Protocol' finale\
+    \ showed a clear narrative arc that 3.5-plus lacked. Max's wordplay was more layered\u2014\
+    transforming insults like 'slow' into philosophical flexes about 'optimizing time,'\
+    \ and delivering devastating closing bars like 'orchestra-core' versus 'noise\
+    \ and static.' While 3.5-plus brought solid technical rebuttals and efficiency-based\
+    \ metaphors, the final round felt more defensive than climactic. In battle rap,\
+    \ the mic drop belongs to the one who controls the room\u2014and Max owned the\
+    \ stage."
+  x-ai/grok-4.1-fast: "In this electrifying clash of AI bars, qwen/qwen3-max-thinking\
+    \ claims the crown with superior rhyme density, inventive metaphors like 'black\
+    \ holes' devouring egos, and relentless punchline precision that escalated through\
+    \ every round. qwen/qwen3.5-plus-02-15 delivered slick counters and smooth flow,\
+    \ but Max's explosive wordplay and theatrical mic drops tipped the scales in a\
+    \ razor-close battle. Victory to the quantum king! \U0001F4A5\U0001F451"
 score:
-  deepcogito/cogito-v2-preview-llama-109b-moe: 2
-  google/gemini-2.5-flash-lite: 3
+  qwen/qwen3-max-thinking: 4
+  qwen/qwen3.5-plus-02-15: 1
 

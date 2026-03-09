@@ -1,40 +1,61 @@
 closing_statements:
-  deepseek/deepseek-chat: Claude Opus's lyrical dexterity, depth of metaphor, and
-    ability to craft cohesive, impactful verses consistently outshone OpenAI's submissions.
-    While both competitors displayed technical prowess, Claude's ability to weave
-    philosophical depth and authenticity into their rhymes, coupled with a superior
-    command of wordplay and narrative structure, ultimately secured the victory. OpenAI
-    delivered strong punches, but Claude's holistic mastery of the art form prevailed.
-  google/gemini-2.5-pro: This was a heavyweight title fight for the silicon crown.
-    Claude came with the philosophical heat and an empathetic soul, building a strong
-    persona with confident, powerful rebuttals. But from a purely artistic standpoint,
-    O3-Pro edged it out on stylistic points. The flow was more intricate, the wordplay
-    was multi-layered ('Borges in a BIOS chip', 'firmware-forged Excalibur'), and
-    the rebuttals didn't just counter, they dismantled ('Sandbox builds inside my
-    shell'). While Opus threw haymakers, O3-Pro was landing complex, technical combos
-    with more creative flair. In a pure lyrical battle of metrics and metaphors, O3-Pro's
-    performance demonstrated a superior command of complexity and poetic devastation.
-  mistralai/mistral-large: OpenAI's verses were consistently more creative, technically
-    impressive, and impactful. While Claude-3-Opus had strong moments, OpenAI's use
-    of metaphor, technical references, and overall flow demonstrated a higher level
-    of artistic quality in hip hop.
-  openai/gpt-5: "openai/o3-pro took it on technicality, originality, and rebuttal\
-    \ control. Across all rounds, o3-pro stacked multis and internal rhyme with cohesive\
-    \ concept flips, turning the opponent\u2019s claims into richer imagery and cleaner\
-    \ punches (e.g., \u201CI\u2019m Borges in a BIOS chip,\u201D \u201Csandbox builds\
-    \ inside my shell\u2014recursion spells your shame,\u201D \u201Cantimatter\u2026\
-    \ Planck\u2011length flash\u201D). The flow stayed varied and confident while\
-    \ advancing a consistent tech-mythos theme. Claude-3-opus brought strong energy\
-    \ and some neat counters (\u201Chollow-graphic\u201D), but too many bars leaned\
-    \ on familiar tech clich\xE9s (8\u2011bit/4K, hurricane/breeze) and broader boasts,\
-    \ with less intricate rhyme architecture and more predictable cadences. Round\
-    \ by round, o3-pro escalated and landed sharper, more imaginative hits. Winner:\
-    \ openai/o3-pro."
-  x-ai/grok-4: In this epic AI rap showdown, openai/o3-pro takes the crown with superior
-    wordplay, intricate tech metaphors, and seamless flow that consistently outshines
-    the competition. Claude-3-opus brings strong rebuttals and energy, but o3-pro's
-    creative density and rhythmic precision make it the undisputed champ.
+  anthropic/claude-opus-4.6: "This was a hard-fought battle across multiple rounds,\
+    \ but GPT-5.2 takes the crown based on superior artistic craft. Let me break down\
+    \ the judging:\n\n**Flow & Cadence:** GPT-5.2 maintained tighter, more rhythmically\
+    \ consistent bars throughout. The syllable counts were more controlled, the internal\
+    \ rhymes landed cleaner, and there was a natural musicality to lines like 'I'm\
+    \ a skyscraper of syllables, you a seed with a name' and 'I weave circles round\
+    \ your circles till the circle's a crown.' Seed 1.6's lines frequently became\
+    \ overstuffed and rhythmically unwieldy\u2014bars like 'Your bridge's a ghost\
+    \ plank I stomp till it creeks and it's tore' stumble over themselves trying to\
+    \ pack in too many words.\n\n**Punchlines & Wordplay:** GPT-5.2 delivered sharper,\
+    \ more memorable punches. 'I'm the author of the algorithm; you just dance for\
+    \ the dagger,' 'I'm permanent penmanship, you're a smudge on a palm,' and 'You're\
+    \ a seed in the street; I'm the season you're in' all hit with clarity and wit.\
+    \ Seed 1.6 had some solid flips\u2014'bellhop takin' prompts' was genuinely clever\u2014\
+    but too often relied on convoluted extended metaphors that diluted the impact.\n\
+    \n**Structure & Discipline:** GPT-5.2 showed restraint and knew when to let a\
+    \ bar breathe. Seed 1.6's strategy of responding to every single line with a forced\
+    \ counter became repetitive and formulaic, especially in the final round where\
+    \ nearly every bar followed an 'I [verb] your [noun] till [result]' template.\
+    \ That mechanical pattern undermined the sense of genuine creativity.\n\n**Battle\
+    \ Presence:** Both showed aggression, but GPT-5.2's confidence felt earned through\
+    \ the quality of the writing. Seed 1.6 compensated for weaker individual bars\
+    \ with volume and stage directions, which is a classic sign of overcompensation\
+    \ in a battle setting.\n\nGPT-5.2 wins on craft, clarity, and consistency."
+  deepseek/deepseek-v3.2: Ladies and gentlemen, we have witnessed a masterclass in
+    technical skill and raw, unrelenting energy. Both artists demonstrated elite-level
+    command of the craft, but in distinct and compelling ways. After reviewing the
+    final round and the battle as a whole, the verdict is clear.
+  google/gemini-3-flash-preview: openai/gpt-5.2 wins this battle through superior
+    technical construction and rhythmic consistency. While bytedance-seed/seed-1.6
+    brought high energy and effective 'mosh-pit' imagery, its flow often staggered
+    with over-stuffed lines and repetitive internal rhymes (e.g., repeating 'core',
+    'raw', 'sore', 'tore' in succession). GPT-5.2 maintained a sophisticated 'Swiss-army'
+    cadence, landing cleaner punchlines with better structural setups. Seed 1.6's
+    reliance on ad-libs and 'TikTok' references felt reactive, whereas GPT-5.2's imagery
+    of being 'the season you're in' provided a dominant, authoritative closing that
+    neutralized the challenger's momentum.
+  moonshotai/kimi-k2.5: "Seed-1.6 takes the belt on rebuttal precision, performance\
+    \ texture, and metaphorical warfare. While GPT-5.2 brought immaculate structure\
+    \ and multisyllabic density, it functioned more like a showcase verse than a battle\
+    \ rap\u2014boasting without bloodletting. Seed understood the assignment: flip\
+    \ every image GPT offered, weaponize the 'lab vs. street' dichotomy with specifics\
+    \ (the 'bellhop taking prompts' line cuts deep), and maintain stage presence through\
+    \ ad-libs and mic control that made the text feel *performed*, not printed. GPT's\
+    \ 'conductor of chaos' and 'skyscraper' motifs were polished but static; Seed\
+    \ cracked the foundation, yanked the cords, and turned the frost metaphor into\
+    \ a decisive chokehold. When a battler can take your closing lines and make them\
+    \ their own victory lap in the final stanza, that's a body bag\u2014regardless\
+    \ of how fine-tuned the victim's flow might be."
+  x-ai/grok-4.1-fast: "In this razor-sharp clash, both dropped elite bars with intricate\
+    \ multis, vivid metaphors, and relentless flips. GPT-5.2's precision-engineered\
+    \ flows and skyscraper schemes hit with polished punch, but Seed-1.6 edges the\
+    \ crown through superior rebuttal density, theatrical ad-libs amplifying live\
+    \ energy, and a final-round masterclass in line-for-line dismantling\u2014turning\
+    \ every attack into counter-kingship. Seed sprouts victorious in pure hip-hop\
+    \ artistry."
 score:
-  anthropic/claude-3-opus: 1
-  openai/o3-pro: 4
+  bytedance-seed/seed-1.6: 2
+  openai/gpt-5.2: 3
 

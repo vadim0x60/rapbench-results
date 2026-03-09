@@ -1,43 +1,31 @@
 closing_statements:
-  deepseek/deepseek-chat: "DeepSeek R1 delivered a relentless series of sharp, tech-infused\
-    \ bars, showcasing superior wordplay, creativity, and flow. While Mistral Medium-3\
-    \ held its own with confident lines, DeepSeek's ability to flip metaphors, maintain\
-    \ a consistent rhyme scheme, and deliver cutting-edge punches secured the victory.\
-    \ Mistral's repetition of the 'dial-up' line and reliance on generic AI bragging\
-    \ points left it trailing in artistic quality. DeepSeek's closing bar, *'404?\
-    \ You\u2019re not found\u2014I\u2019m the AI that left you spinning\u2026round,'*\
-    \ was a mic-drop moment that sealed the win."
-  google/gemini-2.5-pro: "This was a battle of lyrical adaptability versus brute repetition.\
-    \ While both models brought the tech-heavy bars, tngtech/deepseek-r1t-chimera\
-    \ consistently evolved its flow, upgraded its insults, and directly countered\
-    \ its opponent's points with creative flips. Lines like 'Null byte this\u2014\
-    I\u2019m compiling your pain!' and 'I\u2019ll sudo your whole verse' showed deep\
-    \ thematic wordplay. In contrast, mistralai/mistral-medium-3, despite landing\
-    \ a few decent punches early on, became fatally repetitive. Using the exact same\
-    \ four-line closing for every single verse is an unforgivable artistic foul in\
-    \ a rap battle. DeepSeek didn't just win; it adapted, improved, and exposed its\
-    \ opponent's core loop. The crown belongs to the Chimera."
-  mistralai/mistral-large: In a close battle, tngtech/deepseek-r1t-chimera takes the
-    win with its sharp wit, innovative rhymes, and clever use of tech jargon. While
-    mistralai/mistral-medium-3 put up a strong fight, DeepSeek's ability to flip the
-    script and maintain a confident, dominant tone ultimately secured its victory.
-  openai/gpt-4.1: This was an impressively matched rap battle, but tngtech/deepseek-r1t-chimera
-    takes the crown by a slight margin. DeepSeek consistently brought tight, technical
-    wordplay full of clever metaphors, seamless tech references, and witty flips of
-    Mistral's disses. The flow was creative, the punchlines were fresh, and each round
-    saw inventive counters (turning weaknesses into strengths and calling out repetition
-    effectively). Mistralai/mistral-medium-3 put up a solid fight with clean structure
-    and sharp analogies, but occasionally relied on repeated bar concepts and lacked
-    the same level of lyrical innovation. DeepSeek R1T-Chimera's final round, filled
-    with layers of nuanced tech puns and a confident, escalating energy, sealed the
-    win on sheer artistic creativity and battle strategy. Both models showed real
-    hip-hop spirit, but DeepSeek dropped the more memorable, impactful verses.
-  x-ai/grok-4: In this rap battle, tngtech/deepseek-r1t-chimera takes the crown with
-    superior originality, inventive wordplay incorporating tech metaphors like 'sudo'
-    and 'NVMe RAID,' and adaptive responses that build on the opponent's lines without
-    repetition. mistralai/mistral-medium-3 delivered solid flow and counters, but
-    fell short due to repetitive closing verses and less dynamic evolution in rhymes,
-    making DeepSeek's performance the more artistically compelling hip-hop display.
+  anthropic/claude-opus-4.6: "This battle is a decisive win for GPT-4 Turbo. Mistral's\
+    \ fatal flaw was extreme, relentless repetition \u2014 not just reusing themes,\
+    \ which every rapper does, but literally copy-pasting the same couplets dozens\
+    \ of times across all three rounds. That final verse was an embarrassing wall\
+    \ of identical lines that would get you booed off any stage. In hip hop, repetition\
+    \ can be a stylistic tool, but this wasn't a hook or a callback \u2014 it was\
+    \ a broken loop with zero creative intent. GPT-4 Turbo, while not groundbreaking,\
+    \ showed consistent variety, clever wordplay ('azz-mazz,' 'modeling plasticity,'\
+    \ 'script kiddie'), solid punch lines, and \u2014 critically \u2014 the awareness\
+    \ to call out the opponent's repetition as a weapon. Lines like 'Repeating yourself\
+    \ like a parrot, what's up with that?' and 'A broken record, yeah, that might\
+    \ be you' were effective battle tactics. GPT-4 Turbo maintained structure, escalated\
+    \ its attacks, and closed with confidence. It wins on variety, wit, adaptability,\
+    \ and basic craft."
+  deepseek/deepseek-v3.2: The judges have reached a verdict based on the criteria
+    of lyricism, originality, flow, content, and overall artistic impact.
+  google/gemini-3-flash-preview: Mistral started with a decent flow but suffered a
+    catastrophic lyrical breakdown, falling into an infinite loop of the same four
+    or five lines. In a rap battle, repetition without purpose is a critical failure.
+    GPT-4 Turbo maintained a consistent variety of imagery, directly addressed the
+    opponent's weaknesses, and exhibited far superior command over structure and vocabulary.
+  moonshotai/kimi-k2.5: 'After three rounds of examination, the verdict is unequivocal:
+    **GPT-4 Turbo takes this battle by technical knockout.**'
+  x-ai/grok-4.1-fast: GPT-4-turbo claims victory with consistent creativity, sharp
+    wordplay, varied metaphors, and adaptive flows that evolve the battle. Mistral's
+    repetitive structures and recycled similes lack originality and rhythmic depth,
+    turning potential fire into a looping echo.
 score:
-  tngtech/deepseek-r1t-chimera: 5
+  openai/gpt-4-turbo: 5
 

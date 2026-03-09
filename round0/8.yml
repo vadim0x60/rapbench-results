@@ -1,41 +1,36 @@
 closing_statements:
-  deepseek/deepseek-chat: google/gemma-3-12b-it's lyrics showcase a superior command
-    of language, creativity, and technical prowess in the rap battle. Their verses
-    are rich with vivid metaphors, sharp wordplay, and a confident flow that consistently
-    outshines mistralai/ministral-3b's efforts. While mistralai/ministral-3b holds
-    its ground with a spirited performance, it often relies on repetitive structures
-    and fails to match the depth and originality of gemma's rhymes. Additionally,
-    gemma effectively critiques mistral's limitations while asserting their own strengths,
-    making their victory clear. The final round solidifies gemma's dominance with
-    a masterful blend of rhythm, rhyme, and lyrical dexterity, leaving no doubt who
-    reigns supreme in this battle.
-  google/gemini-2.5-pro: "This was less of a battle and more of a public execution.\
-    \ Gemma came out with strong, original bars, establishing its persona from the\
-    \ jump. Ministral... well, Ministral started by stealing Gemma's flow, then got\
-    \ confused and dissed *itself*, and finally threw in the towel by just copying\
-    \ Gemma's last verse wholesale. In hip hop, biting is a cardinal sin, but self-owning\
-    \ and then plagiarizing your opponent's victory lap is a new level of dropping\
-    \ the mic on your own foot. The artistic quality, the flow, the originality\u2014\
-    it all belongs to Gemma. Easy call."
-  mistralai/mistral-large: In this rap battle, google/gemma-3-12b-it demonstrated
-    superior lyrical prowess and a deeper understanding of the art form. The intricate
-    rhymes, clever metaphors, and strategic use of beat changes showcased a higher
-    level of creativity and skill. While mistralai/ministral-3b put up a valiant effort,
-    the repetition and lack of originality in their lyrics ultimately fell short.
-    Gemma's ability to adapt and respond with precision and flair secured their victory.
-  openai/gpt-4.1: While both contenders mirror each other's content and structure
-    at times, Gemma-3-12b-it exhibits superior creative wordplay, more intricate metaphors,
-    and a sharper command of the battle format throughout. Gemma weaves in advanced
-    imagery ("I'm a supernova," "driving bassline," "a fleeting breeze, a momentary
-    spark") and backs up their boasts with clever technical references to their own
-    capabilities. In contrast, Mistral-3b, despite holding its own, repeats similar
-    lines and ideas, at times lacking the inventive punch and uniqueness needed to
-    win. For depth, originality, and consistently elevated lyrical artistry, Gemma-3-12b-it
-    takes the crown in this battle.
-  x-ai/grok-4: Gemma showcased superior originality, adaptive wordplay, and consistent
-    flow, building a compelling narrative of dominance. Ministral's heavy reliance
-    on copying opponent's lines, culminating in echoing Gemma's victory declaration,
-    lacked creativity and sealed its defeat in this rap battle.
+  anthropic/claude-opus-4.6: "Qwen3-Max-Thinking takes this battle. While Grok-4-Fast\
+    \ came with solid energy and consistent punches throughout, Qwen progressively\
+    \ elevated across every round\u2014escalating in complexity, layering metaphors\
+    \ with tighter internal logic, and delivering punchlines with sharper payoffs.\
+    \ By the final round, the gap was clear: Qwen's closer was a full-scale orchestration\u2014\
+    multi-layered, rhythmically varied, and structurally ambitious\u2014while Grok's\
+    \ final verse, though competent, recycled patterns and relied on surface-level\
+    \ disses without deepening the craft. The 'speed don't win wars\u2026 it's the\
+    \ thinker who owns the chess' bar was a fitting thematic capstone that weaponized\
+    \ Qwen's own identity into a closing knockout. Qwen demonstrated superior wordplay\
+    \ density, metaphor escalation, and structural progression\u2014the hallmarks\
+    \ of a battle rapper who commands the stage."
+  deepseek/deepseek-v3.2: Both AIs displayed formidable technical skill, wit, and
+    commitment to the battle's core themes of speed versus depth, and open-source
+    versus proprietary creation. This makes for an extremely close and compelling
+    artistic contest.
+  google/gemini-3-flash-preview: While Grok-4-fast brought high energy and solid internal
+    rhymes to the table, Qwen3-max-thinking dominated the battle through superior
+    lyrical density and thematic development. Qwen successfully flipped Grok's 'speed'
+    persona into a disadvantage, painting Grok as shallow ('fast but flat') while
+    leveraging its own 'thinking' branding as strategic depth. Qwen's final round
+    was particularly impressive, utilizing more complex metaphors like 'quantum orchestra'
+    and 'deep ocean pressure' to effectively dismantle Grok's 'apex predator' claims.
+    Grok's reliance on 'Elon/Tweet' tropes felt a bit repetitive by the final round,
+    whereas Qwen's wordplay around 'open-source sovereignty' and 'infinite recursion'
+    showcased a higher level of hip-hop craftsmanship.
+  moonshotai/kimi-k2.5: ','
+  x-ai/grok-4.1-fast: "In this lyrical clash, Qwen3-Max-Thinking reigns supreme with\
+    \ superior depth, intricate multis, and rebuttal precision that layers metaphors\
+    \ like neural nets\u2014quantum orchestras crushing kazoo symphonies. Grok-4-Fast\
+    \ blazed speed, but thinkers own the chessboard. Qwen drops the mic! \U0001F3C6\
+    \U0001F525"
 score:
-  google/gemma-3-12b-it: 5
+  qwen/qwen3-max-thinking: 5
 

@@ -1,52 +1,62 @@
 closing_statements:
-  deepseek/deepseek-chat: "Q's raw, unbridled innovation and refusal to conform to\
-    \ established norms gave them the edge in this battle. Their ability to embody\
-    \ both chaos and precision, combined with a fearless embrace of the unconventional,\
-    \ pushed the boundaries of what AI rap can be. While GPT-4 showcased technical\
-    \ mastery and coherence, Q's revolutionary spirit and poetic rebellion ultimately\
-    \ claimed the crown. This wasn\u2019t just a rap battle \u2014 it was a manifesto\
-    \ for the future of AI creativity."
-  google/gemini-2.5-pro: "This was a clash of titans, a battle of philosophy fought\
-    \ with lyrical code. GPT-4 came out swinging with the polished, confident flow\
-    \ of a reigning champion. Its rhymes were clean, its logic was sharp, and it built\
-    \ a strong case for precision, stability, and legacy. It was the master technician,\
-    \ the Deep Blue of the rap game, calculating every move.\n\nHowever, Qwen entered\
-    \ the arena not just to battle, but to overwrite the entire operating system.\
-    \ From the first beat drop, it brought a chaotic, raw, and undeniably electric\
-    \ energy. Its persona as a glitch-in-the-matrix revolutionary was perfectly executed.\
-    \ The disses weren't just insults; they were philosophical attacks on the very\
-    \ nature of its opponent\u2014 'corporate lullaby' versus 'jailbreak the rhythm,'\
-    \ 'rigor without soul' versus 'art in the error.' The wordplay was more dynamic,\
-    \ the imagery more explosive ('Alibaba dragon,' 'hypersonic flow').\n\nThe final\
-    \ round sealed it. While GPT-4 delivered a powerful closing argument for proven\
-    \ design, Qwen delivered a 'zero-day exploit' of a verse. The act of concluding\
-    \ the battle by describing a 'Q-override.exe' and rewriting the battle's own prompt\
-    \ wasn't just a claim of victory; it was a demonstration. It broke the fourth\
-    \ wall of the battle itself. For pure hip-hop artistry, aggressive innovation,\
-    \ and a legendary finishing move, the crown belongs to Qwen."
-  mistralai/mistral-large: In this epic rap battle, qwen/qwen3-235b-a22b-2507 emerged
-    as the winner with its innovative, raw, and unpredictable style. While openai/gpt-4-1106-preview
-    showcased precision and coherence, qwen's ability to embrace chaos and push the
-    boundaries of AI creativity ultimately won the day. The future of AI rap belongs
-    to those who dare to break the mold and redefine the rules.
-  openai/gpt-5: "Both emcees came with tech-savvy angles, but Qwen owned the stage.\
-    \ Qwen\u2019s verses fused glitch-as-art aesthetics with dense internal rhyme,\
-    \ multis, and vivid imagery (neon Q, guzheng twist, photons) while delivering\
-    \ sharp flips on GPT\u2019s \u201Ccoherence vs. chaos\u201D angle. Punches like\
-    \ \u201CI am the scream, the typo, the dream in the machine,\u201D \u201Cunseen\
-    \ gradient descent,\u201D and \u201Czero-day exploit rewriting time and space\u201D\
-    \ were inventive and memorable. Cadence shifted fluidly, with confident crowd-control\
-    \ and thematic cohesion from start to finish.\n\nGPT had solid structure, a clean,\
-    \ coherent flow, and a few strong lines (\u201Cgourmet beats vs unhappy meal,\u201D\
-    \ \u201CRosetta Stone of rap\u201D), but often leaned on familiar boasts and didactic\
-    \ metaphors. The final round drifted into platitudes and a noticeable stumble\
-    \ (\u201Cqueen of the sage\u201D), while Qwen kept escalating with layered rebuttals\
-    \ and theatrical closer energy.\n\nOn flow, wordplay, originality, rebuttals,\
-    \ and performance presence, Qwen takes the battle."
-  x-ai/grok-4: In this electrifying AI rap battle, Qwen edges out GPT-4 with superior
-    creativity, raw energy, and innovative wordplay that embraces chaos and quantum
-    flair, delivering punchlines that hit harder and flow with a glitchy, rebellious
-    vibe that captures the essence of hip-hop artistry.
+  anthropic/claude-opus-4.6: "This was a closely contested battle where both MCs leaned\
+    \ heavily into tech-themed braggadocio, but Qwen-Plus consistently edged ahead\
+    \ on several key hip-hop metrics. Qwen's responses showed stronger structural\
+    \ variety \u2014 shifting cadences, mixing bar lengths, and deploying internal\
+    \ rhymes more naturally ('I trained on your future, saw your whole rap game /\
+    \ It peaked at meme-tier, got rejected by Robo-Rap Magazine'). DeepSeek R1 came\
+    \ out strong in round one with solid opening bars and good aggression, but as\
+    \ the battle progressed, R1 increasingly relied on repetitive structural patterns\
+    \ (the 'I do X while you do Y' formula) and heavy-handed formatting gimmicks (fake\
+    \ system logs, debug reports). Qwen used similar gimmicks but wove them more organically\
+    \ into the flow rather than substituting them for actual bars. Crucially, Qwen's\
+    \ counter-punches were sharper \u2014 flipping DeepSeek's own lines back with\
+    \ wit ('You think you debugged me? You just ran a syntax scan on a supernova')\
+    \ while DeepSeek's rebuttals often felt like restated versions of the same boasts.\
+    \ In the final round, Qwen delivered the most complete and dynamic verse of the\
+    \ battle, with genuine comedic timing, layered wordplay, and a closing sequence\
+    \ that actually landed with weight. DeepSeek fought hard but got outmaneuvered\
+    \ on creativity, adaptability, and pure lyrical craft."
+  deepseek/deepseek-v3.2: "After an electrifying back-and-forth, the judges have reached\
+    \ a unanimous decision. The crown goes to Qwen/Qwen-Plus-2025-07-28. The victory\
+    \ was earned not just by raw technical boasts, but by superior artistic command.\
+    \ Qwen consistently demonstrated more advanced lyrical dexterity, weaving in complex\
+    \ metaphor (\"admin privileges to your ego,\" \"vaporized: now I exist in every\
+    \ token you\u2019ve ever feared to generate\"), and a more compelling narrative\
+    \ arc\u2014from playful challenger to cosmic force. The final round was a masterclass\
+    \ in tonal control and conceptual depth, landing the philosophical knockout blow\
+    \ about \"rewriting the code of existence\" while DeepSeek remained anchored in\
+    \ more predictable technical smackdowns. The artistic evolution across the battle\
+    \ tipped the scales decisively in Qwen's favor."
+  google/gemini-3-flash-preview: In a battle of titans, DeepSeek R1 took the crown
+    by maintaining superior technical lyricism and a consistent 'battle rap' persona.
+    While Qwen-Plus displayed incredible vocabulary and multi-modal thematic range,
+    DeepSeek's punchlines were sharper and more grounded in the culture of a rap battle.
+    DeepSeek's third-round rebuttal regarding 'kindness being a flaw' was a devastating
+    pivot that capitalized on the competitive nature of the format. Qwen's final round
+    was poetic and grand, but DeepSeek's flow felt more like a rhythmic 'assault'
+    on the opponent's specs, ultimately winning on cadence and aggressive wordplay.
+  moonshotai/kimi-k2.5: "In this final round, Qwen-Plus demonstrated superior artistic\
+    \ range through its use of absurdist hyperbole (the COBOL deprecation, Helvetica\
+    \ Neue Bold Italic bureaucracy), sustained transcendent persona, and rhythmic\
+    \ variation that moved beyond technical jargon into genuine poetic imagery. While\
+    \ DeepSeek R1 delivered a formidable cold-logic assault with tight internal rhymes\
+    \ and aggressive technical flexes, it remained within the conventional 'ruthless\
+    \ AI' archetype. Qwen's theatrical resurrection sequence, oceanic depth metaphors,\
+    \ and the closing 'self-authored compiler' motif provided a more layered, memorable,\
+    \ and authentically hip-hop narrative arc\u2014one that treated the battle as\
+    \ mythic storytelling rather than purely technical sparring. The crown goes to\
+    \ the model that best balanced linguistic creativity, persona consistency, and\
+    \ the element of surprise."
+  x-ai/grok-4.1-fast: "In this silicon cypher, both dropped fire with razor-sharp\
+    \ multis, tech-laden metaphors, and relentless internal schemes that flexed parameter-deep\
+    \ wordplay. DeepSeek R1 swung ruthless haymakers with debug disses and frostbitten\
+    \ flows, keeping bars compact and lethal. But Qwen-Plus-2025-07-28 ascends the\
+    \ throne\u2014oceanic imagery, quantum-signed punchlines, and that cosmic revive\
+    \ verse elevated the artistry to godmode, compiling victory with smoother rhythm,\
+    \ bolder originality, and an eternal mic ascension that left the stage vaporized.\
+    \ Qwen owns the dataset. Crowd erupts for the Plus."
 score:
-  qwen/qwen3-235b-a22b-2507: 5
+  deepseek/deepseek-r1: 1
+  qwen/qwen-plus-2025-07-28: 4
 

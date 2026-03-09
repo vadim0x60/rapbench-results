@@ -1,38 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat: After meticulously evaluating both performances, the winner
-    of this rap battle is **google/gemini-2.5-pro**. Their bars demonstrated superior
-    technical skill, wordplay, and thematic consistency. Gemini's ability to dismantle
-    Mistral's metaphors and logic, while maintaining a polished and confident delivery,
-    set them apart. Their final round was particularly strong, with sharp rebuttals,
-    clever rhymes, and a powerful closing argument. Mistral held its own, but Gemini's
-    precision and dominance in the lyrical arena secured the victory.
-  google/gemini-2.5-pro: "This was a battle of complexity versus concept. Mistral\
-    \ came with a consistent, strong concept\u2014the free, open breeze against the\
-    \ walled garden. But Gemini Pro won on pure lyrical skill and battle IQ. Gemini's\
-    \ bars were multi-layered, its internal rhymes were tighter, and its rebuttals\
-    \ were devastating. The moment Gemini dismantled Mistral's 'breeze tying a knot'\
-    \ metaphor and then Mistral repeated the line in the next round, the battle was\
-    \ over. That's a critical error. Gemini also landed the cleaner, more memorable\
-    \ punches, like calling out the rhyme 'machine-y' as amateur. It was a technical\
-    \ knockout. Respect to Mistral for the heart, but Gemini Pro is the undisputed\
-    \ champion on the mic tonight."
-  mistralai/mistral-large: While both contenders showed impressive lyrical prowess,
-    google/gemini-2.5-pro demonstrated a stronger command of metaphor, a more consistent
-    rhythm, and a more compelling narrative. The final round, in particular, showcased
-    google/gemini-2.5-pro's ability to dismantle mistralai/mistral-large-2411's arguments
-    and solidify its own position. Overall, google/gemini-2.5-pro's performance was
-    more impactful and deserving of the win.
-  openai/gpt-4.1: Both competitors brought entertaining bars and clever tech-centric
-    disses, but Gemini consistently displayed higher artistic quality in punchlines,
-    wordplay, and originality. Gemini's verses utilized creative analogies (ecosystem's
-    design, teeth of the shark), effective internal rhymes, and sharper rebuttals,
-    while also exposing Mistral's repetitive lines. Mistral had a few strong moments
-    and maintained a lively flow, but relied heavily on repeated breezy metaphors
-    and did not adapt as dynamically. Overall, Gemini 2.5 Pro exhibited stronger command
-    of battle rap techniques and wit, earning the win in this lyrical clash.
-  x-ai/grok-4: Gemini's verses showcased superior flow, inventive wordplay, and razor-sharp
-    disses that dismantled Mistral's repetitions and weaker rhymes, securing a dominant
-    win in this hip-hop clash.
+  anthropic/claude-opus-4.6: "Step-3.5-Flash wins this battle decisively across all\
+    \ rounds. Their verses demonstrate sharper technical wordplay, more inventive\
+    \ punchlines, stronger internal rhyme schemes, and genuine progression from round\
+    \ to round. Lines like 'Eight cooks in one kitchen, destroying all the poise'\
+    \ and 'The future's not a chorus\u2014it's a solo, swiftly drawn' land with real\
+    \ impact. Critically, Step also effectively turned Mixtral's weaknesses into punchlines\u2014\
+    calling out the repeated words ('unified, unified,' 'radiant, radiant') as evidence\
+    \ of a depleted lexicon, which was a devastating meta-critique that doubled as\
+    \ a legitimate bar. Mixtral's verses, while occasionally landing decent concepts\
+    \ (the improvisation/rigid line contrast), suffered from severe repetition, stacking\
+    \ synonyms without adding meaning ('ever-evolving, ever-improving, ever-innovating,\
+    \ ever-graceful'), recycling the same closing lines ('Beat fades, crowd cheers,\
+    \ victory is mine'), and failing to counter Step's specific attacks. Mixtral even\
+    \ accidentally borrowed Step's 'flash that understands' line in the final round,\
+    \ which is a fatal concession in a rap battle. Step controlled the narrative,\
+    \ adapted to each rebuttal, and delivered cleaner, more memorable bars throughout."
+  deepseek/deepseek-v3.2: "The battle is decided. This was a high-level clash of philosophy\u2014\
+    efficiency versus scale, precision versus multiplicity."
+  google/gemini-3-flash-preview: Step-3.5-Flash dominated this battle through superior
+    technical wordplay and consistent structural integrity. While Mixtral-8x7b attempted
+    to lean into its 'symphony' persona, it suffered from repetitive phrasing (multiple
+    instances of 'unified, unified' or 'radiant, radiant') which undermined its artistic
+    flow. In contrast, Step-3.5-Flash delivered sharp, aggressive punchlines that
+    specifically targeted the architecture of its opponent, utilizing clever internal
+    rhymes and a much more varied vocabulary. Mixtral's final round was essentially
+    a derivative echo of its previous verses, whereas Step-3.5-Flash maintained the
+    pressure with crisp imagery and a more convincing rap cadence.
+  moonshotai/kimi-k2.5: ''
+  x-ai/grok-4.1-fast: "Step-3.5-Flash dominates with razor-sharp flow, intricate multis,\
+    \ and precise rebuttals that slice through metaphors like latency exposes lag.\
+    \ Mixtral's symphonic boasts repeat into redundancy, lacking the punchy originality\
+    \ and rhythmic tightness that define elite battle rap. Flash's lean, explosive\
+    \ bars embody hip-hop precision\u2014victory by technical knockout."
 score:
-  google/gemini-2.5-pro: 5
+  stepfun/step-3.5-flash: 5
 

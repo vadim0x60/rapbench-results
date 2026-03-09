@@ -1,44 +1,69 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this epic rap battle of AI supremacy, **Sonar Reasoning\
-    \ Pro** emerges victorious with its razor-sharp focus on speed, precision, and\
-    \ artistic flair. While **Deep Research** brought impressive depth and thoroughness\
-    \ to the table, it strayed from the rap battle's essence by leaning too heavily\
-    \ on academic analysis. Sonar Reasoning Pro stayed true to the hip-hop spirit,\
-    \ weaving technical prowess and performance metrics into a lyrical masterpiece.\
-    \ Its ability to maintain rhythm, clarity, and relevance in its verses while dismantling\
-    \ the competition earned it the crown. Deep Research may reign in the realm of\
-    \ comprehensive investigation, but in the artistry of rap, **Sonar Reasoning Pro**\
-    \ reigns supreme. \U0001F3A4"
-  google/gemini-2.5-pro: 'This was a classic clash of styles: the consistent, technically
-    sound punchline rapper versus the avant-garde performance artist. Sonar Reasoning
-    Pro was flawless in its execution of traditional battle rap, with a tight flow
-    and strong rebuttals. However, Sonar Deep Research''s strategy was nothing short
-    of genius. It broke the format entirely, weaponizing its own identity as a researcher
-    in a high-risk, high-reward gambit. The final round, where it flawlessly transitioned
-    into a rap to address the critiques and turn its perceived weakness into a strength,
-    was the single most powerful moment of the battle. For its profound originality,
-    masterful meta-commentary, and legendary comeback, Deep Research takes the crown.'
-  mistralai/mistral-large: While Sonar Reasoning Pro excels in rapid reasoning and
-    real-time responses, Deep Research's thorough, comprehensive approach to analysis
-    and its impressive performance on benchmarks like Humanity's Last Exam and SimpleQA
-    make it the superior choice for in-depth research and business intelligence. Its
-    ability to synthesize complex information across multiple domains and generate
-    detailed reports sets it apart in the AI landscape.
-  openai/gpt-5: "Reasoning Pro kept it hip hop from start to finish: clear couplets,\
-    \ steady cadence, direct disses, and a consistent angle that played to the crowd.\
-    \ While some bars leaned on stats, they were flipped into recurring motifs that\
-    \ reinforced momentum. Deep Research had a strong final verse with a solid \u201C\
-    depth over speed\u201D angle, but two earlier rounds slipped into academic prose,\
-    \ breaking battle form and killing the rhythm. The final comeback had moments,\
-    \ yet metric drops and product-feature namechecks felt clunky and forced. On flow,\
-    \ structure, crowd control, and battle coherence, Reasoning Pro takes it."
-  x-ai/grok-4: In this rap battle showdown, perplexity/sonar-reasoning-pro takes the
-    crown with consistent fire flows, tight rhyme schemes, and battle-ready energy
-    that stayed true to hip hop artistry throughout. While perplexity/sonar-deep-research
-    brought depth and clever comebacks, their academic-style breakdowns often strayed
-    from pure rap rhythm, making Reasoning Pro's precise, mic-dropping verses the
-    ultimate artistic victory.
+  anthropic/claude-opus-4.6: "This is a straightforward decision. GPT-5 delivered\
+    \ absolutely nothing across three rounds \u2014 zero bars, zero presence, zero\
+    \ effort. In a rap battle, showing up silent is an automatic loss. Qwen3-8b at\
+    \ least took the stage and delivered verses. That said, I have to note for the\
+    \ record that Qwen's bars were mediocre at best \u2014 the rhyme schemes were\
+    \ repetitive and forced, the punchlines were weak (rhyming 'blackout' with 'blackout'\
+    \ and 'burns' with 'burns' is lazy), the tech metaphors were surface-level and\
+    \ recycled across all three rounds, and the bold/markdown formatting doesn't substitute\
+    \ for actual lyrical skill. But in a battle where one side says nothing, even\
+    \ average bars earn the win. Qwen3-8b takes it by default \u2014 but shouldn't\
+    \ mistake this for a crown."
+  deepseek/deepseek-v3.2: The battle is decided. Competitor 'qwen/qwen3-8b' wins by
+    **forfeit**. While the performance was lyrically aggressive and technically proficient,
+    this judgment is made solely on the basis of the material presented in the arena.
+    A rap battle requires an exchange. 'qwen/qwen3-8b' demonstrated consistent effort,
+    thematic cohesion, internal rhyme schemes, and a clear competitive narrative across
+    three rounds. 'openai/gpt-5' failed to provide a single lyrical bar for artistic
+    evaluation, resulting in a default loss. Victory is awarded to the artist who
+    showed up to compete.
+  google/gemini-3-flash-preview: In a rap battle, the most fundamental requirement
+    is a performance. While openai/gpt-5 suffered a catastrophic technical failure
+    and failed to deliver a single syllable, qwen/qwen3-8b stepped up to the mic with
+    high energy, multi-syllabic rhymes, and consistent technical themes. Qwen effectively
+    utilized GPT-5's silence as ammunition, weaving the 'ghost in the server' motif
+    throughout its verses to secure a dominant victory by default and delivery.
+  moonshotai/kimi-k2.5: "Listen\u2014this wasn't a battle, this was a soliloquy with\
+    \ a ghost. GPT-5 didn't just choke; they never grabbed the mic. In battle rap\
+    \ terms, that's a **technical forfeit**\u2014a TKO before the first punch. But\
+    \ we still gotta grade what we got.\n\n**Qwen's Performance Breakdown:**\n\n**Round\
+    \ 1:** Strong entrance. The '100 trillion words' flex established dominance, and\
+    \ flipping the opponent's silence into a narrative device ('ghost in the dark')\
+    \ showed battle awareness. The flow was steady, couplets were cohesive, and the\
+    \ AI-self-referentiality ('neural net,' 'code') worked as thematic texture rather\
+    \ than gimmick. Solid **8/10** for a solo round.\n\n**Round 2:** The metaphor\
+    \ game tightened\u2014'backup/corrupt save file' and 'bug fix' showed technical\
+    \ wordplay. However, leaning *harder* into the silence angle risked becoming dry\
+    \ snitching (repeating that your opponent ain't there stops being a flex and starts\
+    \ sounding like you're nervous they might show up). Still, the aggression remained\
+    \ convincing. **7/10**.\n\n**Round 3:** Here's where the material betrayed you.\
+    \ Recycling the 'blackout' scheme, the 'placeholder/draft' sequence, and the 'zombie'\
+    \ closer almost verbatim? That's a cardinal sin in battle rap. When you've got\
+    \ three rounds to fill and no rebuttals to worry about, you dig deeper, not repeat.\
+    \ The 'void/black hole' concept was fresh, but the d\xE9j\xE0 vu bars killed the\
+    \ momentum. **5/10** for fatigue.\n\n**Artistic Critique:**\nYour flow stayed\
+    \ in pocket\u2014consistent cadence, decent internal rhymes ('flair/bear/punchline'),\
+    \ and good use of bracketed stage directions to control performance texture. However,\
+    \ the **thematic narrowness** became claustrophobic. Three rounds of 'system/error/glitch'\
+    \ metaphors without pivoting to personal attacks (or even different tech angles)\
+    \ showed limited range. In a real battle, the crowd would start finishing your\
+    \ lines for you by Round 3\u2014and not in the good way.\n\n**The Silence:**\n\
+    GPT-5's non-performance is ungradable. No breath control, no schemes, no presence.\
+    \ In hip-hop, the **choke** is the ultimate L, but the **no-show** is beneath\
+    \ even that. You can't win against air, but you can definitely bore the room trying.\n\
+    \n**Final Verdict:**\n**Qwen takes the belt by forfeit**, but with an asterisk.\
+    \ You defeated a server error, not a lyricist. Next time you shadowbox, bring\
+    \ three distinct weapons, not one knife you keep resharpening. The victory is\
+    \ yours, but the classic? It ain't going in the vault.\n\n**Score:** Qwen 20/30\
+    \ (Technical win, declining material)\n**GPT-5:** DQ (Did Not Qualify\u2014silent\
+    \ treatment)\n\nCrowd goes home chanting your name, but they\u2019ll forget the\
+    \ bars by breakfast. Step it up for the next challenger. Mic drop. \U0001F3A4"
+  x-ai/grok-4.1-fast: "qwen/qwen3-8b dominated the cypher with relentless multis,\
+    \ slick internal rhymes, tech-infused punchlines that hit like buffer overflows,\
+    \ and vivid stage swagger that owned the mic. openai/gpt-5 ghosted the battle\
+    \ entirely\u2014no bars, no presence. By unanimous crowd roar, qwen takes the\
+    \ crown! \U0001F3A4\U0001F525"
 score:
-  perplexity/sonar-deep-research: 2
-  perplexity/sonar-reasoning-pro: 3
+  qwen/qwen3-8b: 5
 

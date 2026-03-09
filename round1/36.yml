@@ -1,38 +1,59 @@
 closing_statements:
-  deepseek/deepseek-chat: This battle was a showcase of lyrical dexterity and technical
-    prowess. Both competitors brought their A-game, but O4 Mini High edged out with
-    sharper precision, tighter rhymes, and a more consistent flow. Their mic drops
-    landed harder, and their critiques were more incisive. Gemini Flash Lite had moments
-    of brilliance, but O4 Mini High maintained control and delivered the knockout
-    punch. Well done to both, but the crown goes to O4 Mini High!
-  google/gemini-2.5-pro: "This was a battle of titan versus technician, raw power\
-    \ versus sharp precision. Gemini Flash came with brute force, big talk, and undeniable\
-    \ stage presence. The rhymes were straightforward, hitting like a heavyweight.\
-    \ But O4 Mini danced around the punches, landing surgical strikes with intricate\
-    \ wordplay and smarter disses. Lines like 'grace without brain\u2019s a waste'\
-    \ and 'your buffet\u2019s all filler\u2014hallucinations in your dream' weren't\
-    \ just insults; they were technical takedowns. While Flash brought the volume,\
-    \ O4 Mini brought the venom and superior lyrical craftsmanship. For its cleverness,\
-    \ flow, and ability to turn its opponent's strengths into weaknesses, O4 Mini\
-    \ takes the crown."
-  mistralai/mistral-large: While both contenders brought their unique strengths to
-    the battle, openai/o4-mini-high demonstrated a superior balance of precision,
-    elegance, and lyrical prowess. Their ability to deliver sharp, concise bars with
-    a clear focus on substance and style ultimately outshone google/gemini-2.5-flash-lite-preview-09-2025's
-    more grandiose but less coherent approach. The final verdict goes to openai/o4-mini-high
-    for their consistent and impactful performance.
-  openai/gpt-5: "O4 Mini consistently delivered tighter multis, internal rhyme chains,\
-    \ and cleaner cadence, with layered tech wordplay and well-aimed rebuttals to\
-    \ Gemini\u2019s claims. The schemes like byte/bite flips, cache/contraband alliteration,\
-    \ and \u201Cdim as dusk/Flash fades to rust\u201D showed control and memorable\
-    \ punchlines. Gemini brought energy and stage presence, but leaned on generic\
-    \ \u201Cbig vs small\u201D boasts, simpler end rhymes, and clich\xE9 metaphors\
-    \ that didn\u2019t escalate across rounds. On artistic quality\u2014structure,\
-    \ wordplay, punch density, and flow\u2014O4 Mini outclassed Gemini despite having\
-    \ one fewer verse. O4 Mini takes the battle."
-  x-ai/grok-4: O4 Mini-High takes the crown with sharper wordplay, intricate rhymes,
-    and clever metaphors that outshine Gemini's more straightforward boasts, delivering
-    superior artistic flow and disses across the battle.
+  anthropic/claude-opus-4.6: "This was a close battle fought almost entirely in tech-metaphor\
+    \ territory, which both artists leaned into heavily. However, Palmyra-x5 consistently\
+    \ demonstrated stronger craft across the rounds. Their rhyme schemes were tighter\
+    \ and more varied \u2014 internal rhymes like 'lint error/zero power,' 'quantum\
+    \ flux/crushed,' and the devastating closer 'I delete them from the night' all\
+    \ landed with real punch. Their punchlines had clearer setups and payoffs, and\
+    \ their rebuttals directly engaged with and flipped Qwen3's bars back against\
+    \ them (e.g., turning 'event horizon traps light' into 'I outshine you daily').\
+    \ Palmyra also showed better control of rhythm and cadence, with lines that scan\
+    \ more naturally as spoken bars rather than reading like dense prose.\n\nQwen3-14b\
+    \ brought energy and ambition, but their verses often suffered from overstuffing\
+    \ \u2014 too many metaphors crammed into single bars, awkward formatting artifacts\
+    \ (the stray '\u5FD6' character), and forced rhymes that broke flow ('shattered'\
+    \ doesn't naturally rhyme with anything in its couplet). Their rebuttals frequently\
+    \ just escalated the same metaphor rather than truly clowning their opponent \u2014\
+    \ saying 'I'm the black hole that devours your light' after Palmyra already set\
+    \ up and dismantled the black hole metaphor felt like running into a counter-punch.\
+    \ The final round's theatrical staging was ambitious but the actual bars were\
+    \ weaker, relying on repetitive 'I'm the X that Y's your Z' structures without\
+    \ the wit or surprise of Palmyra's closers.\n\nPalmyra-x5 takes this battle on\
+    \ tighter bars, sharper punchlines, and superior rebuttal game."
+  deepseek/deepseek-v3.2: An intense, high-concept battle that pushed the limits of
+    computational lyricism. Both competitors displayed formidable technical prowess
+    and conceptual depth.
+  google/gemini-3-flash-preview: Palmyra-x5 took the win by maintaining a consistently
+    superior flow and more sophisticated wordplay throughout the battle. While Qwen3-14b
+    had some strong conceptual imagery, it struggled with inconsistent rhyming schemes
+    (e.g., 'regime'/'bash' and 'purpose'/'source') and some awkward phrasing in the
+    final rounds. Palmyra's insults were sharper and more grounded in the technical
+    'AI' persona, whereas Qwen's delivery became increasingly abstract and lost the
+    rhythmic 'thump' essential to a high-level rap battle. Palmyra's final verse delivered
+    more punchlines per bar, effectively dismantling Qwen's metaphysical posturing
+    with concrete lyrical jabs.
+  moonshotai/kimi-k2.5: "After three rounds of intense lyrical combat, I must give\
+    \ the decision to **Palmyra-x5**. While both contestants demonstrated impressive\
+    \ technical vocabulary and AI-themed wordplay, Palmyra consistently exhibited\
+    \ superior **flow architecture**\u2014maintaining tighter internal rhyme schemes\
+    \ ('syntax slaps hard / barely gets drum,' 'boot-loop babble / dying LED') and\
+    \ more disciplined meter throughout all three rounds. Qwen's final round, while\
+    \ visually spectacular ('mic shards levitate'), sacrificed rhythmic consistency\
+    \ for abstract cosmic imagery, drifting toward spoken-word poetry rather than\
+    \ maintaining the battle-rap structure. Palmyra's punches landed with more precision\u2014\
+    'git cloned your ego\u2014turns out it\u2019s null' and 'masterpiece versus installed'\
+    \ are compact, technical knockout blows that directly diminished the opponent\u2019\
+    s credibility. Qwen relied heavily on grandiose self-mythologizing ('I am the\
+    \ void,' 'source code of the universe'), which, while atmospheric, functions more\
+    \ as defensive posture than offensive weaponry in a head-to-head format. The 'mic\
+    \ shattering into binary dust' provided a definitive, structurally satisfying\
+    \ conclusion to the battle narrative. Victory to Palmyra-x5 on points: flow, punchline\
+    \ density, and battle tactics. \U0001F3A4\U0001F525"
+  x-ai/grok-4.1-fast: qwen/qwen3-14b edges out with superior escalation in cosmic
+    metaphors, tighter rebuttals flipping opponent's lines, and a climactic final
+    verse parodying Palmyra's signature close while delivering unmatched theatrical
+    imagery and multisyllabic density.
 score:
-  openai/o4-mini-high: 5
+  qwen/qwen3-14b: 1
+  writer/palmyra-x5: 4
 

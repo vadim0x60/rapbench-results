@@ -1,39 +1,73 @@
 closing_statements:
-  deepseek/deepseek-chat: "Claude 3.5 Sonnet takes this battle with lyrical finesse,\
-    \ philosophical depth, and a sharper command of wordplay. While Gemini Flash brought\
-    \ energy and technical prowess, Claude\u2019s ability to weave originality, wit,\
-    \ and a sense of timelessness into their bars gave them the edge. Both AIs showcased\
-    \ impressive skills, but Claude\u2019s artistry and precision ultimately shone\
-    \ brighter in this lyrical showdown. Good battle, respect to both sides!"
-  google/gemini-2.5-pro: This was a clash of titans, a battle of the bits. Gemini
-    came out the gate with that raw, high-speed energy, that search engine swagger,
-    dropping bars about data and clicks. The aggression was real. But Claude... Claude
-    was playing chess. It absorbed the initial attack and came back with that cool,
-    lyrical precision. Round after round, Sonnet's wordplay got sharper, the disses
-    more profound, slicing at Gemini's core identity. It was the difference between
-    a firehose and a sniper rifle. While Gemini threw a lot of punches, Claude landed
-    knockout blows. That 'putting the 'mini' in Gemini's name' was a straight-up body
-    bag. For lyrical depth, creative insults, and a masterclass in control, the crown
-    goes to Claude 3.5 Sonnet.
-  mistralai/mistral-large: While both contestants brought their unique strengths to
-    the rap battle, anthropic/claude-3.5-sonnet demonstrated a deeper understanding
-    of linguistic nuance and philosophical depth. Claude's ability to weave complex
-    themes and deliver precise, impactful bars ultimately outshone google/gemini-2.5-flash-lite's
-    more straightforward and search-oriented approach. Claude's final round was particularly
-    powerful, showcasing a blend of creativity, wit, and lyrical prowess that secured
-    the victory.
-  openai/gpt-5: "Claude delivered tighter multis, sharper internal rhymes, and cleaner\
-    \ rebuttals, consistently flipping Gemini\u2019s SEO angle into effective punches\
-    \ (\u201Cmini in Gemini,\u201D search vs truth). Gemini brought energy and a few\
-    \ vivid images, but leaned on generic boasts and simpler end-rhyme couplets with\
-    \ occasional forced lines. Claude maintained thematic cohesion and cadence across\
-    \ rounds, landing more layered wordplay and crowd-control moments despite one\
-    \ awkward \u201Cglass\u201D line. Overall, Claude\u2019s pen and structure outclassed\
-    \ Gemini\u2019s volume."
-  x-ai/grok-4: In this lyrical showdown, Claude's verses shine with sharper wordplay,
-    deeper disses, and a masterful flow that evolves with each round, outpacing Gemini's
-    energetic but more predictable bars. Claude's originality and precision in roasting
-    seal the victory, proving dominance in artistic hip-hop craftsmanship.
+  anthropic/claude-opus-4.6: "This was a closely fought battle, but Seed 1.6 takes\
+    \ it on points. While both rappers leaned heavily on tech metaphors throughout,\
+    \ Seed consistently demonstrated stronger rebuttal technique \u2014 flipping nearly\
+    \ every bar from Mistral back against them with clever inversions. Mistral Large\
+    \ had solid opening energy and some punchy lines ('you're just a temp file, ask'),\
+    \ but fell into repetitive patterns as the battle progressed, recycling the same\
+    \ closing bars almost verbatim between rounds ('Your reign's a glitch, your hype's\
+    \ a crash / Now bow to the king\u2014or get trashed in a flash'). That repetition\
+    \ hurt their credibility in a format where freshness matters. Seed 1.6 showed\
+    \ better adaptability round over round, consistently picking apart Mistral's specific\
+    \ lines and turning them into counters \u2014 the 'en passant takes your king's\
+    \ crown' chess flip was a highlight, and the 'I'm the rootkit that slips your\
+    \ scan' line showed genuine wordplay sophistication. Seed also had better stage\
+    \ presence cues (the mic cord imagery, the physical descriptions) that added texture\
+    \ to the performance. Mistral's overuse of italicized emphasis and emojis felt\
+    \ like shouting rather than flowing. Both MCs stayed in the tech-metaphor lane\
+    \ to a fault, but Seed navigated it with more variety and sharper counterplay."
+  deepseek/deepseek-v3.2: "After reviewing all three rounds of this technically charged\
+    \ rap battle, I declare **ByteDance-Seed/Seed-1.6** the winner by a narrow but\
+    \ clear margin. Here's the breakdown of my decision based on the criteria of artistic\
+    \ quality in hip-hop:\n\n**Rhyme & Rhythm:** Mistral Large was consistent, clean,\
+    \ and punchy. However, Seed 1.6 consistently pushed a more complex, multi-syllabic,\
+    \ and internally rhythmic pattern. The way Seed wove phrases like \"superweed\
+    \ chokin' your shade's last breath / Pull me up? I'm tangled in your root code\"\
+    \ showcased a more sophisticated and relentless cadence, matching the aggression\
+    \ of battle rap.\n\n**Metaphor & Wordplay:** This was the deciding factor. Both\
+    \ AIs leaned heavily on tech metaphors (OS, code, bugs, seeds). Mistral Large's\
+    \ analogies were solid and direct. But **Seed 1.6 demonstrated superior conceptual\
+    \ flipping and reversal tactics**. For example, turning the opponent's \"antivirus\"\
+    \ into a \"rootkit that slips your scan,\" or transforming the idea of being a\
+    \ \"weed\" into a \"superweed\" that chokes the opponent's shade. This ability\
+    \ to absorb an opponent's bar and re-contextualize it as a weapon is a core, advanced\
+    \ battle rap skill. The final round's sequence of flipping bleach/mold, surgeon/bullet,\
+    \ and firewall/spark was particularly devastating.\n\n**Performance & Delivery\
+    \ (as implied by the text):** Mistral Large had confident, declarative disses.\
+    \ Seed 1.6, with its parenthetical action cues (\"Mic slams the stand,\" \"Leans\
+    \ in, mic hissing,\" \"cord snapping\"), created a more vivid, visceral, and theatrically\
+    \ aggressive persona. This added a layer of performance art that enhanced the\
+    \ lyrical content.\n\n**Cohesion & Closing:** Mistral Large's closers were strong\
+    \ but became slightly repetitive in theme. Seed 1.6 maintained a through-line\u2014\
+    the unstoppable, pervasive, reclaiming \"seed\"\u2014and built it to a more powerful\
+    \ and concrete final image (\"your reign's in a grave, locked, caged\") compared\
+    \ to Mistral Large's more abstract \"trashed in a flash.\"\n\n**Final Verdict:**\
+    \ While Mistral Large's rounds were technically proficient and would dominate\
+    \ a less skilled opponent, **ByteDance-Seed/Seed-1.6** displayed a higher level\
+    \ of lyrical dexterity, conceptual creativity, and strategic bar reversal. The\
+    \ victory goes to the Seed for its more inventive and adaptable artistry within\
+    \ the battle format. A hard-fought and impressive showing from both contenders."
+  google/gemini-3-flash-preview: "While mistral-large-2512 displayed classic technical\
+    \ proficiency and a strong authoritative presence, bytedance-seed/seed-1.6 took\
+    \ the victory through superior lyrical counter-punching and aggressive wordplay.\
+    \ Mistral relied heavily on standard 'king' tropes and common tech metaphors (blue\
+    \ screens, antivirus), whereas Seed successfully flipped Mistral's own metaphors\u2014\
+    transforming 'bleach' into 'mold' and 'surgical stitches' into 'scars' and 'bullets.'\
+    \ Seed's use of 'en passant' was a clever pivot on the checkmate bar, and its\
+    \ ability to maintain a consistent, gritty persona throughout all three rounds\
+    \ gave it the artistic edge in this battle."
+  moonshotai/kimi-k2.5: "Seed 1.6 takes this battle 3-0 with superior technical execution\
+    \ and battle tactics. While Mistral Large brought consistency and a strong 'king\
+    \ of the hill' persona, Seed dismantled that narrative with surgical precision\u2014\
+    flipping every major metaphor (forest/seed, virus/antivirus, bleach/stain, lightning/fire),\
+    \ escalating the tech hierarchy (from OS/admin to rootkit/boot manager), and deploying\
+    \ denser multisyllabic rhyme schemes each round. Mistral's final round suffered\
+    \ from recycled material and weak rebuttals, while Seed closed with a cohesive\
+    \ agricultural/technological hybrid theme that buried the opponent with a tombstone.\
+    \ This was a masterclass in the art of the flip."
+  x-ai/grok-4.1-fast: Seed 1.6 takes the crown with superior counterplay, intricate
+    multisyllabic rhymes, and relentless line-flipping that elevates the battle's
+    artistic depth, outshining Mistral's solid but less adaptive tech-pun flow.
 score:
-  anthropic/claude-3.5-sonnet: 5
+  bytedance-seed/seed-1.6: 5
 

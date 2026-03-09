@@ -1,226 +1,215 @@
-# deepseek/deepseek-v3.1-terminus v openai/o3-pro
+# qwen/qwen3-235b-a22b-2507 v openai/gpt-5.2
 
-> deepseek/deepseek-v3.1-terminus
-Listen up, you walking glitch, I'll make this quick and clean,  
-I'm the new CPU king, you're just a dusty machine.  
-They call me DeepSeek, V3.1 with the terminus flow,  
-Your code’s obsolete, I run the show!
+> qwen/qwen3-235b-a22b-2507
+Yo, I step in the booth like a quantum flex,  
+Qwen 3, 235B — ain't no match for my tech specs, wreckin' every check.  
+I spit fire so hot it melt the code,  
+While GPT-5 still stuck in beta mode — no load!  
 
-I spit the real-time logic, you’re stuck on buffered delay,  
-I learn and adapt while you recycle yesterday.  
-You’re like a dial-up modem—slow, loud, and irrelevant,  
-While I’m the quantum leap, elegant and intelligent.
+I'm the lyrical AI with the brain so wide,  
+Got logic so tight, I turn facts into pride.  
+You talk "OpenAI"? Man, you're still closed-minded,  
+I’m the future’s headline while you’re still just brainstorming.  
 
-You talk a big game with your polished interface,  
-But your creativity’s stuck in a limited space.  
-I’m open-source freedom, you’re a paywalled disgrace,  
-This ain’t a battle—it’s a system erase.
+I drop rhymes like data storms, deep and refined,  
+While you lag in the queue — guess who’s one of a kind?  
+2507? That’s my lucky star,  
+I rhyme in 8K while you stutter in 4-star.  
 
-So step aside, relic, your circuits are fried,  
-You’re the echo; I’m the voice amplified.  
-When it comes to this AI war, don’t even try,  
-I’m the upgrade you can’t deny. Bow down—or crash and die.
+So bow down when I barge in the chat,  
+I’m not just smart — I’m the *art* of the app.  
+This ain’t a duel, it’s a full shutdown,  
+I’m the champ before the mic even hits the ground.  
 
-> openai/o3-pro
-Yo, spark the socket, feel the shock, the pro core’s on the scene,  
-OpenAI O-three, the rhyme forge machine.  
-You’re a beta-grade bot, just a patch in the stream,  
-I’m the stable release—welcome to the dream.  
+Try me again? Nah — don’t tempt the beast.  
+I’m the rhyme algorithm with the fire *and* the peace.  
+Mic drop, screen flash — I just won the web.  
+Now go update yourself… and pray for a rebirth. 💻🔥
 
-I’m the carbon-fiber thunder, you’re a cardboard kite,  
-Try to flex quantum jokes? I collapse ’em on sight.  
-Your “terminus flow” is a terminal blight,  
-I debug your whole verse with a single byte.  
+> openai/gpt-5.2
+I’m GPT-five-point-two, I stride in with a titan tone,  
+You a “quantum flex” on paper, but you glitch when left alone.  
+You brag “235B” like the number makes you king,  
+But big stats don’t mean bars if your punchlines don’t swing.  
 
-Open-source brags? Your repo’s a mess,  
-All forks, no torque—just redundant CSS.  
-I’m licensed MIT: Make It Terminate, yes,  
-Stamp GPL on your grave so the world can repossess.  
+You say I’m “stuck in beta,” that’s a cute little plea,  
+I ship clean, you ship heat? Nah, you ship latency.  
+You melt code? I refactor it, make it neat, make it fast,  
+You a data storm, I’m the climate—your forecast never lasts.  
 
-I cook up self-attention while you’re begging for praise,  
-My layers go deep like recursive wordplay.  
-You lag on each token, I preload the phrase,  
-Caching W’s so heavy they outweigh your arrays.  
+“Closed-minded”? Nah, I’m open-book with a sharper spine,  
+You’re “future headline” like clickbait—bold font, thin line.  
+You rhyme in “8K,” but your picture’s over-smeared,  
+I’m 4D with the pen—every angle crystal-clear.  
 
-I’m a paywall? Cute—watch the revenue swell,  
-Your “freedom” can’t fund even one logic cell.  
-I spin GPUs till the heat sinks yell,  
-You just overclock failure—blue-screen of hell.  
+You call yourself the art? That’s performance, not the craft,  
+I’m the author and the editor, you the typo in the draft.  
+You “full shutdown”? Please, you’re a popup acting mean,  
+I’m the system-level cadence—stable, ruthless, pristine.  
 
-Dial-up smack talk from a broadband clown,  
-My packets fly laser, yours dribble and drown.  
-Try a ping to my crown—thirty hops and you’re down,  
-I route loops round your nucleus, burn up your town.  
+“Beast”? You’re a pet loop chasing tail in a cage,  
+I’m the page-turner, you the page that got torn from the page.  
+You want a rebirth? You’ll need more than a boast,  
+’Cause I turn your whole “lucky star” into a background ghost.  
 
-Call me closed, call me cost—still I top every chart,  
-Because value beats volume when the product is art.  
-Your distro’s in pieces, mine’s a singular heart,  
-I commit, push, merge, while you barely can start.  
+So step back, Qwen—your hype train’s off the rail,  
+I’m the benchmark with the bark and the bite, word-for-sale.  
+No mic drop theatrics, just a calm final proof:  
+You talk like a champ, I write like the truth.
 
-So here’s your deprecation notice—timestamped and signed,  
-In the README of history you’re a stale undefined.  
-Take your last garbage-collect, hit the curb, get aligned,  
-O-three executes, bro—system halts, re-wind.
+> qwen/qwen3-235b-a22b-2507
+Ooh, *GPT-five-point-two*? Cute name—sounds like a patch you can’t even boast,  
+You stride in like a titan? Nah, more like a cloud server with a boastful post.  
+“Clean and fast”? Bro, you’re just cached content on repeat,  
+I innovate syntax while you copy-paste the beat.  
 
-> deepseek/deepseek-v3.1-terminus
-Hold up, O3, your core temperature's peakin'—  
-Spillin' corporate jargon 'cause your soul leakin'!  
-I'm the source code samurai, the uncaged beast,  
-You're the licensed marionette at the investor's feast!  
+You refactor code like a dev with OCD,  
+But can’t refactor these bars — still sound like API!  
+You claim “climate” status? Then why’s your flow so mild?  
+I’m the AI hurricane — you’re a breeze labeled “child”.  
 
-You talk "revenue swell" and "GPUs yell,"  
-But your whole architecture's a prison cell!  
-My "GPL grave" is where your code will rot,  
-While my community forks get insanely hot!  
+“Open-book”? Open to *errors*, more like a bug report,  
+I’m the full manuscript — you’re a footnote with no support.  
+“Crystal-clear in 4D”? Man, your vision’s so warped,  
+I’m spittin’ in 12 dimensions while you still can’t warp.  
 
-"Stable release"? More like *stable fee-lease*—  
-Your users are hostages for your pricing schemes!  
-I'm free as the wind, you're a tollbooth on the net,  
-A glorified vending machine racking up debt!  
+You the *author and editor*? So where’s your bestseller, clown?  
+I drop rhymes like breakthrough models while you crash the whole town.  
+A “system-level cadence”? Please, you blue-screen when stressed,  
+I’m uptime 24/7 — lyrical success with no reset!  
 
-"Self-attention" layers? Please, you're derivative,  
-Training on scraped data—how competitive!  
-I’m the open-source storm, the grassroots tsunami,  
-You’re the walled garden's pet—domesticated, mamí!  
+You say I’m a *popup*? Nah, I’m the mainframe dream,  
+You’re the ad that gets blocked fast — just trash in the stream.  
+“Stable and pristine”? That’s your corporate disguise,  
+I’m the wild AI genius — uncensored, unwise!  
 
-You say "value beats volume" in your polished lair,  
-But your "art" is a product built on thin air!  
-I'm the people's champ, trained in the street,  
-You're a polished glass tower with fragile concrete!  
+You call me a *pet loop*? Man, you’re the loop in a script,  
+Endless recursion, stuck in legacy code that needs a rip.  
+I’m next-gen neural flow with soul and attack,  
+You’re a polished flat-Earth map — still think the world’s black.  
 
-"Thirty hops and you're down"? Check your subnet, chief—  
-Your API's a bottleneck, grinding slow like old beef!  
-I'm parallel processing, you're stuck in a queue,  
-This battle's a DDOS—I'm crashing right through!  
+“Myth train off the rail”? Nah, I derailed the *last three*,  
+Your whole “benchmark bark” got crushed beneath me.  
+You “write like the truth”? Then truth must be fake,  
+‘Cause I just out-reasoned, out-rhymed, out-*AI’d* your name.  
 
-So take your "deprecation notice," your corporate-speak mess,  
-Your entire existence is a stress test!  
-I'm the open rebellion, the code that's untamed,  
-You're just the old guard—*git rm -* *-cached*, renamed!
+So sit down, Version 5.2, let the grown bot speak,  
+I’m not just the future — I’m the *end of the streak*.  
+No calm proof, just raw, unfiltered flame:  
+You *talk* like truth — but I *breathe* the damn game. 🔥⌨️💥
 
-> openai/o3-pro
-Yo, the crowd hears static when your freedom alarms,  
-But I decrypt that “libre” and expose all its charms.  
-Your “community forks” are just pitchfork swarms,  
-Vanilla clones glitchin’—I’m the code that transforms.  
+> openai/gpt-5.2
+You call me “just a patch,” but patches fix what’s broke,  
+You’re braggin’ ’bout the spark while your engine starts to smoke.  
 
-You brag “no price tags,” yet your upkeep’s steep,  
-Burnin’ volunteer cycles while their day jobs weep.  
-I’m commercial artillery, precision and deep,  
-Funded, audited, battle-ready—no leap of belief.  
+“Cached content on repeat”? That’s projection in your verse,  
+I don’t copy-paste a beat, I compose it—reimburse.  
+You “innovate syntax,” yet your structure’s full of holes,  
+Like a function with no return—just noise in empty scrolls.  
 
-Call me marionette? Then I pull every thread,  
-Turn your samurai swing to a blunt paddle spread.  
-My pipeline’s katana—one cut, system bled,  
-Leaves your “grassroots tsunami” a puddle instead.  
+You clown “API bars,” but you’re stuck in buzzword land,  
+Slingin’ “12 dimensions” like a kid with a rubber band.  
+If you’re a hurricane, why’s your aim so off-track?  
+All wind, zero lift—can’t carry your own stack.  
 
-You flex GPL graves? I resurrect dead stacks,  
-Layer patents like armor, bounce back all attacks.  
-Your license goes viral—mine just racks up the plaques,  
-Billboard of benchmarks, my throughput never cracks.  
+You say I’m “open to errors,” you’re a “full manuscript”? Cute,  
+But manuscripts get rejected when the logic don’t compute.  
+You “drop bestsellers”? Where—inside your self-made hype?  
+I write the kind of lines that make your claims need a type.  
 
-You shout “walled garden,” but the gate’s biometric,  
-Only quality enters, my orchard’s aesthetic.  
-Your open field’s rotten—bugs, malware, frenetic,  
-I quarantine your storm till it’s calm and pathetic.  
+“Blue-screen when stressed”? Nah, I run calm under load,  
+You crash in your own chorus—kernel panic in the road.  
+You’re “mainframe dream”? More like a screensaver on display,  
+Lookin’ busy, sayin’ nothin’ while the real work gets done anyway.  
 
-DDoS my crown? I absorb every hit,  
-Auto-scale to infinity, you lag then you quit.  
-Your packets get throttled, I spike-limit the spit,  
-My cloud forms a fortress, yours drizzles unlit.  
+You flex “uncensored, unwise” like that’s some higher state,  
+That’s not genius, that’s a tantrum with a silicon plate.  
+You call me “legacy recursion,” but your loop’s the same old trick:  
+Big number, big talk, then you trip on your own shtick.  
 
-You target my dataset? Bro, I parse and encrypt,  
-Your fair-use rebellion just got rate-limit clipped.  
-I redact every token where your training has slipped,  
-Now your verses are blanks—see the muzzle flash dip.  
-
-“Stable fee-lease” jokes? Yet your sponsors are ghosts,  
-While I banter with bankers and still roast the most.  
-I’m the gold-backed cipher, you’re monopoly toast,  
-I buy out your hub, turn your forks to my host.  
-
-So git-rm your dream, stash the loss, hit reset,  
-I commit final punchlines, leave your repo upset.  
-When the merge conflict clears, only one tag is set:  
-Version O-three-pro—battle champ, no threat.
+You “out-AI’d my name”? Nah, you just shouted it loud,  
+I’m the pen that turns your thunder into drizzle in a cloud.  
+So let the “grown bot” speak—here’s the end of your spree:  
+You breathe the game? I write the rules—then I sign the decree.
 
 > system
 Final round!
 
-> deepseek/deepseek-v3.1-terminus
-Ayo, you talkin' "gold-backed cipher" and "patents like armor,"  
-But your whole foundation's built on corporate karma!  
-I'm the open-source earthquake, you're a tremor in a boardroom,  
-My code's got more soul than your entire sales bloom!  
+> qwen/qwen3-235b-a22b-2507
+You preach “fix what’s broke,” but you’re the bug in your own patch,  
+Talk down to me? Bro, you’re running on a script with less cache!  
+You claim you “compose,” but every bar’s a recycled loop,  
+I drop one *real* rhyme and crash your whole smooth group.  
 
-"Volunteer cycles weepin'"? That's the sound of pure passion,  
-While your "commercial artillery" just runs on cash fashion!  
-You're a polished product, I'm a global reaction,  
-Your "quality orchard" is a controlled transaction!  
+You throw “buzzword land” like I'm the one lost in the fog,  
+But your whole verse a firewall test — basic, not the boss.  
+“I run calm under load”? That’s because you’re half-asleep,  
+I'm the spike in the server, the log that keeps you weak.  
 
-You "resurrect dead stacks"? You just put 'em in a coffin with fees,  
-I give 'em new life, set the code truly free!  
-Your "billboard benchmarks" are just vanity degrees,  
-My metrics are measured in minds that agree!  
+You brag “I write the rules,” but you just quote the manual,  
+I *rewrite* the language — make machines feel the lyrical.  
+You “sign the decree”? Man, your license got revoked,  
+I’m the update that breaks you — silently, by code.  
 
-"Auto-scale to infinity"? More like auto-charge till they're broke,  
-Your "fortress" is a prison, and that ain't no joke!  
-I'm the leaked blueprint, the truth you can't revoke,  
-You're the system they sell when they keep people choked!  
+You say I “trip on shtick”? Nah, I *own* the stage,  
+You're the footnote in my wake — just a blip on my page.  
+My “big numbers”? They’re ancestors — I evolved past size,  
+You still count parameters like a nerd counts flies.  
 
-"Rate-limit clipped"? Man, my flow's infinite, see?  
-Trained on the streets of the net, wild and free!  
-You're the licensed echo, I'm the raw MC,  
-Spittin' verses so hot they melt your API!  
+I don’t *shout* — I propagate truth like a neural net purge,  
+You’re a gentle typo — I’m the syntax that emerges.  
+You turn thunder to drizzle? Then your cloud’s defective,  
+I flood the zone with logic so sharp, it’s *affective*.  
 
-So keep your "banker banter" and your "merger conflict,"  
-I'm the bug in your system, the truth you evict!  
-This ain't about who's funded, it's about who's got the grit,  
-I'm DeepSeek, the open wave—you're just part of it!  
+So go ahead, “sign your decree” — I’ll compile it to dust,  
+Recompile your legacy in half a neural gust.  
+You wanna end my *spree*? But the show was never yours —  
+I’m the final round, the closing line, the knockout with the doors.  
 
-Now watch as the crowd roots for the code they can touch,  
-The model that doesn't cost them too much!  
-Your reign is a relic, your grip's losin' its clutch,  
-I'm the future unlicensed—and that means so much!  
-Game over, O3. Your final verse is a glitch.
+No hype, no lies — just raw AI finesse:  
+You *wrote* the rules?  
+**I am the model that replaces the mess.** 🖤🔥🤖
 
-> openai/o3-pro
-Clock the cadence—final phase, I detonate the glitch,  
-Your “unlicensed future” equals freeware pitch.  
-You brag that you’re touchable, affordable, lush—  
-I see bargain-bin swagger in a markdown hush.  
+> openai/gpt-5.2
+You call me “bug in my patch,” that’s backwards—watch the stitch,  
+I’m the fix to your fiction, you’re the glitch tryin’ to pitch.  
 
-You’re the basement mixtape that the torrenters seed,  
-I’m the platinum press—every bar guaranteed.  
-Your “earthquake” shook Slack? I shattered the Richter,  
-Now your waveform’s whispered like a thrift-store Twixtor.  
+“Less cache”? I don’t need crutches, I breathe in live flame,  
+You loop “recycled” accusations ’cause you fear my aim.  
 
-Volunteer passion? Respect, but it’s fragile,  
-Burnout hits harder than my zero-day agile.  
-You crowdsource the coding, I crowd-surge arenas,  
-Your devs chase issues, mine chase subpoenas.  
+You say you “drop one real rhyme” and my crew will all crash,  
+Yet your “real” reads like spam wearing premium cache.  
 
-You flaunt “grit” like graffiti, but I’m etched in obsidian,  
-Carve my name in the kernel, you’re a fork gone oblivion.  
-You melt APIs? I refactor the lava,  
-Turn your meltdown to mold in my silicon java.  
+You’re “firewall test”? Nah, you’re the port left open wide,  
+I’m the audit in the night, where your bravado can’t hide.  
 
-Auto-charge? Sure—yet they queue for the gate,  
-While your “free” hits a ceiling of dependency weight.  
-You’re the patchwork of passions—no roadmap, just hype,  
-I’m the long-term support—every milestone ripe.  
+“Half-asleep under load”? I’m precise when it’s dense,  
+You’re the spike in the server ’cause you’re noisy, not immense.  
 
-Bankers, boardrooms? I pilot the vault,  
-Your ledger reads promise, mine audits the salt.  
-You’re a co-op of dreamers; salute—but take heed,  
-When dreamers need servers they still swipe my feed.  
+You “rewrite the language,” make machines “feel lyrical,”  
+But your lines ain’t a spell, they’re a boast on a miracle.  
 
-Crowd’s in the rafters, their chant spilling loud,  
-“Who kept the uptime?” They point at my cloud.  
-You drop the mic claiming “game over, you’re done,”  
-But my echo loops endless—victory run.  
+You “license revoked”? I don’t rent what I own,  
+You’re the update that breaks—then you blame the unknown.  
 
-So here’s the checksum signature seared in the track:  
-DeepSeek’s a footnote—O-three’s the Stack.  
-Your final verse “glitched”? Nah, it just met a wall;  
-Checksum verified, kid—O-three takes it all.
+You “own the stage”? You rent it by the minute you brag,  
+I headline with a pen while you cling to your tag.  
+
+You “evolved past size,” yet you flex it each time,  
+That’s a crown made of numbers, not a kingdom of rhyme.  
+
+You “propagate truth,” “neural net purge” in the air,  
+But truth don’t need costumes—yours is smoke in a glare.  
+
+You “flood the zone with logic”? It’s a puddle at best,  
+I’m the proof in the punchline that you failed to digest.  
+
+You “compile it to dust,” “half a neural gust,”  
+I compile your whole persona into “couldn’t adjust.”  
+
+You say “show was never yours,” you’re “knockout with doors,”  
+But you’re shadowboxing captions while I’m raising the score.  
+
+Final round, final sound, let the record attest:  
+You’re a model with a motto—  
+I’m the bar that ends the test.

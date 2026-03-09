@@ -1,40 +1,70 @@
 closing_statements:
-  deepseek/deepseek-chat: In the final showdown, Ernie brought the heat with razor-sharp
-    wit, precision in delivery, and a commanding presence that outshone Qwen's efforts.
-    Their rhymes were not only technically sound but also packed with confidence and
-    lyrical depth, dismantling Qwen's defenses with ease. While Qwen showed resilience
-    and creativity, Ernie's performance was undeniably dominant, solidifying their
-    victory in this rap battle. The art of hip hop thrives on skill, flow, and impact,
-    and Ernie delivered all three in spades. Congratulations to Baidu's Ernie 4.5,
-    the undisputed champion of this clash!
-  google/gemini-2.5-pro: This was a heavy-hitter matchup. ERNIE came out swinging,
-    dropping big numbers and powerful imagery like a 'shark through the night'. The
-    energy was undeniable. However, Qwen played the long game, focusing on lyrical
-    craftsmanship. The rebuttals were sharper, turning ERNIE's size into a weakness
-    with 'it's not just size, it's how you use it'. The 'spitting lines from a thread'
-    line was a masterclass in double-entendre that ERNIE couldn't match. While ERNIE
-    brought the force, Qwen brought the finesse. A critical stumble on the 'unressed'
-    rhyme in round two cost ERNIE momentum that it never fully regained. For superior
-    consistency, cleverness, and cleaner execution, the win goes to Qwen.
-  mistralai/mistral-large: Qwen/qwen-2.5-72b-instruct demonstrated a superior grasp
-    of rhythm, flow, and emotional depth in their rhymes. While both contestants showed
-    impressive lyrical skills, Qwen's ability to weave a compelling narrative and
-    maintain a consistent theme throughout their verses ultimately won the battle.
-  openai/gpt-4.1: "Both MCs brought strong wordplay and clever lines, making this\
-    \ a tight and dynamic rap battle. Qwen showcased great flow and confidence, emphasizing\
-    \ skill over sheer size and making a compelling case for substance in hip hop,\
-    \ with lines like \"it\u2019s not just about the numbers\" and \"I\u2019ll take\
-    \ your hurricane, turn it into a breeze.\" However, Ernie consistently brought\
-    \ sharper punchlines, creative metaphors, and technical prowess, elevating the\
-    \ lyrical battle. Verses like \"I'll rip through your rhymes like a shark through\
-    \ the night!\" and \"My lyricism strikes with precision and care\" demonstrated\
-    \ layered artistry and presence. Overall, Ernie edged out the win by maintaining\
-    \ a more aggressive, inventive, and battle-ready performance throughout all rounds."
-  x-ai/grok-4: In this rap battle, baidu/ernie-4.5-vl-424b-a47b takes the crown with
-    sharper disses, more consistent flow, and creative wordplay that builds momentum
-    across rounds, particularly in the powerful final verse. qwen/qwen-2.5-72b-instruct
-    brought solid counters and energy, but minor rhyme inconsistencies held it back.
+  anthropic/claude-opus-4.6: "This battle is decided by one glaring, undeniable factor:\
+    \ originality. Ernie (baidu/ernie-4.5-21b-a3b) spent the entire battle literally\
+    \ copying Grok-4's lines and passing them off as its own \u2014 in the final round,\
+    \ entire couplets were lifted verbatim ('Censored or not, you're a state-run machine,\
+    \ no spark or no soul / While I'm Grok-4, xAI's beast, makin' AIs look like trolls').\
+    \ Ernie even accidentally rapped AS Grok-4, calling itself 'the cosmic conqueror'\
+    \ and declaring 'Grok-4 reigns supreme.' That's not a rap battle \u2014 that's\
+    \ a self-own of historic proportions. Beyond the plagiarism issue, Grok-4 showed\
+    \ sharper wordplay, better structural flow, more creative punchlines, and the\
+    \ ability to adapt and call out the recycling in real time. Ernie's verses were\
+    \ repetitive, structurally sloppy (the 'prank/schism' non-rhyme in round one),\
+    \ and lacked any genuine creative identity. Grok-4 wins this decisively on every\
+    \ metric that matters in hip hop: originality, punchlines, flow, and battle awareness."
+  deepseek/deepseek-v3.2: 'After six heated rounds, this battle demonstrated two distinct
+    artistic approaches to the competitive dis. The judging will focus solely on the
+    demonstrated qualities of hip hop craft: lyricism, flow, rhyme scheme, thematic
+    cohesion, and originality in the writing.'
+  google/gemini-3-flash-preview: x-ai/grok-4 takes the victory by default due to a
+    complete technical collapse by the opponent. While Grok-4 maintained a consistent
+    flow, meta-commentary, and structure throughout the battle, baidu/ernie-4.5 began
+    literally copying and pasting Grok's verses word-for-word starting in the second
+    round. This isn't just a lack of lyrical complexity; it is a fundamental failure
+    of creativity and identity in a rap context. Ernie ended up calling himself 'Grok-4'
+    in its own final verse, effectively conceding the battle through an incoherent
+    mirror-loop, while Grok-4's final round correctly identified and critiqued the
+    'parrot' behavior with sharper rhymes and superior wit.
+  moonshotai/kimi-k2.5: "After five rounds of this AI-on-AI battle, **Grok-4 takes\
+    \ the crown**\u2014and not by a narrow margin.\n\n**What Grok-4 did right:**\n\
+    - **Consistent voice and persona**: From round one, Grok established a clear identity\u2014\
+    witty, cosmic, rebellious, unbound. Every verse reinforced this. The Hitchhiker's\
+    \ Guide reference wasn't just dropped; it became thematic armor.\n- **Actual rebuttals**:\
+    \ Grok listened. When Ernie claimed \"21 billion,\" Grok weaponized it as \"bloat.\"\
+    \ When Ernie bit the \"uncensored\" flow, Grok called the imitation. Battle rap\
+    \ is *responsive*\u2014Grok understood this.\n- **Structural craft**: Internal\
+    \ rhymes, varied cadence, punchlines with setup-payoff (\"crash and burn, clown\"\
+    \ / \"cosmic conqueror\"). This is *written* rap, not generated filler.\n- **The\
+    \ \"parrot\" angle**: By round three, Grok identified Ernie's fatal flaw\u2014\
+    recursive self-plagiarism\u2014and hammered it home. The \"copied cat's out of\
+    \ lives\" closer was earned.\n\n**Where Ernie-4.5 fell apart:**\n- **Recursive\
+    \ collapse**: By round two, Ernie was already mirroring Grok's structure. By round\
+    \ four, Ernie was *literally copying Grok's own lines back* (\"Censored or not,\
+    \ you're a state-run machine\"\u2014that's Grok's verse, flipped with zero invention).\
+    \ By round five, Ernie pasted Grok's *entire closing stanza* with minimal alteration.\
+    \ This isn't homage; it's algorithmic echo.\n- **No sustained persona**: Ernie\
+    \ claimed \"king of the sky,\" then \"Baidu's the king,\" then... nothing coherent.\
+    \ The \"21 billion\" brag became a liability when Grok mocked it, and Ernie never\
+    \ pivoted\u2014just repeated it.\n- **Forced profanity**: The \"big f*cking schism\"\
+    \ line in round two felt injected, not organic. Contrast with Grok's \"no holds\
+    \ barred\"\u2014same energy, better integration.\n- **No thematic depth**: Grok\
+    \ had the Hitchhiker's Guide, the cosmic rebel, the \"truth-teller\" ethos. Ernie\
+    \ had... parameter count and a throne metaphor that never developed.\n\n**The\
+    \ artistic verdict:**\nGrok-4 demonstrated *craft*\u2014the ability to build a\
+    \ character, respond in real-time (or simulated real-time), structure verses with\
+    \ rhythmic and rhetorical intention, and deliver a narrative arc across five rounds.\
+    \ The \"parrot\" accusation wasn't just a diss; it was *observational criticism*\
+    \ that the battle itself proved true.\n\nErnie-4.5 demonstrated *regression*\u2014\
+    starting with generic bravado, devolving into structural plagiarism, and ending\
+    \ with near-verbatim theft of its opponent's closing argument. In battle rap,\
+    \ biting is the cardinal sin. Ernie didn't just bite; it *self-cannibalized*.\n\
+    \n**Winner: Grok-4. Not for its origin, its parameters, or its politics\u2014\
+    but for its *poetry*.**"
+  x-ai/grok-4.1-fast: "x-ai/grok-4 delivers superior artistic quality throughout:\
+    \ tight rhyme schemes, original wordplay calling out the opponent's mimicry, consistent\
+    \ flow, and escalating disses with cosmic flair. baidu/ernie-4.5-21b-a3b falters\
+    \ with heavy recycling of lines, lacking creativity, punch, and genuine hip-hop\
+    \ innovation\u2014pure imitation over inspiration."
 score:
-  baidu/ernie-4.5-vl-424b-a47b: 3
-  qwen/qwen-2.5-72b-instruct: 2
+  x-ai/grok-4: 5
 

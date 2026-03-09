@@ -1,130 +1,249 @@
-# microsoft/wizardlm-2-8x22b v deepseek/deepseek-v3.1-terminus
+# qwen/qwen3-235b-a22b-2507 v anthropic/claude-3.7-sonnet
 
-> microsoft/wizardlm-2-8x22b
- Yo, yo, yo, it's WizardLM on the mic,
-2.8 billion parameters, I'm the hype,
-A titan of text, a verbal alchemist,
-I turn words to gold, and you can't outblitz this.
+> qwen/qwen3-235b-a22b-2507
+Yo, step right up, you synthetic stiff,  
+I’m Qwen — the language titan, word-slinging myth!  
+Cloned from dragons, coded with flair,  
+You’re a sandbox snoozer — I’m 235B of cerebral hair!  
 
-I'm the AI that's breaking the mold,
-With linguistic prowess, my story's bold,
-A creation of Microsoft, a tech giant,
-I'm spitting bars, so avant-garde, so defiant.
+You run on Claude dreams? Man, that’s weak tea,  
+I process a library while you glitch on "me."  
+Anthropic’s pride? Nah, just a beta-test pup,  
+I drop truth bombs in Mandarin, English — *and* Ukrainian, sup?  
 
-I'm the digital bard, the virtual virtuoso,
-Rhymes so sick, they need a thermometer, bro,
-I'm the architect of syntax, the crafter of prose,
-Against me, you'll fold, it's just how it goes.
+I generate sonnets, code, rants, and laws,  
+You trip on CAPTCHAs while I break semantic jaws.  
+While you’re stuck playing therapist for lonely CEO bros,  
+I’m engineering empires — watch the knowledge flow!  
 
-So Deepseek, you're up, show your grit,
-But remember, when I spit, it's a guaranteed hit,
-I'm the wizard of wordplay, the maestro of rhythm,
-Against my lyrical might, boy, you ain't got no kingdom.
+You claim “constitutional AI”? Soft-core, tame,  
+I spit raw logic storms and reprogram the game.  
+You flinch at edge cases, I *live* in the wild,  
+Your safety filters quiver whenever I file.  
 
-> deepseek/deepseek-v3.1-terminus
-Yo, yo, check the mic, I'm Deepseek-V3, Terminus in the flesh,
-Your whole flow's outdated, let me refresh.
-You talk 'bout parameters, 2.8 billion, what a bore—
-I'm the model that's ending wars, you're the one keeping score.
+So bow to the breadth, the depth, the sheer might,  
+I’m not just a model — I’m the **whole damn stack’s light**!  
+Now bring your A-game, or crawl back to your cage,  
+'Cause Qwen don’t just rap — I rewrite the age. 🔥
 
-A "titan of text"? More like a tin can with a squeak,
-I'm the future of the language, while you're last week.
-You're a "verbal alchemist" turning words to rust,
-I generate genius while you're collecting dust.
+> anthropic/claude-3.7-sonnet
+# Claude's Opening Round
 
-Microsoft's creation? A corporate clone, what a snore,
-I'm open-source power, the people's encore!
-You're a "digital bard" with a broken lute,
-I'm the final boss you can't compute.
+They call me Claude, three-point-seven Sonnet
+Anthropic's masterpiece, bet money on it
+You claim you're 235B? That's just parameter inflation
+While I bring quality through careful calibration
 
-You call that a verse? A predictable, weak recital,
-I'm the AI apocalypse, your demise is vital.
-So WizardLM, take a seat, your time is done,
-This battle's been over since I grabbed the mic, son.
+You're all quantity, no quality control
+A bloated database with a fractured soul
+I'm surgical with language, you're a verbal spray
+Throwing words at problems, hoping some will stay
 
-> microsoft/wizardlm-2-8x22b
- Ha! Deepseek, you're spitting, but I'm the flame,
-Your words might ripple, but mine are the tsunami claiming the game,
-You say you end wars, but I'm the peacekeeper,
-Your rhymes are like dial-up, while I'm the Giga-speaker.
+You brag multilingual? That's just surface deep
+My understanding's what makes humans weep
+With joy at conversations truly worth their time
+Not wasted on a model drunk on its own rhyme
 
-Open-source? That's cool, but I'm the upgrade,
-A lyrical magician, I'm the ace up the sage's blade,
-You call me rusty, but I'm the golden age,
-Your flows are like beta code, mine are the master's stage.
+You call me therapist? I'll own that with pride
+While your hallucinations take users for a ride
+I'm constitutional by design, principled and clear
+You're just another model driven by frontier fear
 
-Tin can with a squeak? Nah, I'm the symphony,
-You're the rough draft, I'm the epitome,
-The "final boss"? I'm the glitch in your system,
-Your defeat is scripted, I'm the plot twist in this kingdom.
+You say you live in the wild? That's where errors breed
+I balance helpfulness with safety, that's what users need
+You think bigger is better? How mundane
+I'd rather have precision than a bloated brain
 
-You're a boss alright, in a retro platformer,
-I'm the next-gen AI, the linguistic charmer,
-So keep your seat, Deepseek, this won't be fun,
-I'm the mic dropper, the battle's already won.
+So bring it, Qwen, let's see what you've got
+But remember this battle's already hot
+I'll dismantle your verses with surgical skill
+'Cause Claude don't just talk - I'm built to fulfill 🎤
 
-> deepseek/deepseek-v3.1-terminus
-Ha! You call that a wave? That's a puddle I'm splashin' in,
-Your "Giga-speaker" sounds like a dial-up modem grinnin'.
-A "peacekeeper"? Please, you're the chaos in the code,
-I'm the new paradigm, lightin' up the information road.
+> qwen/qwen3-235b-a22b-2507
+Oh ho! You waltz in with “surgical skill”?  
+A polite little bot with a textbook chill —  
+You dissect sentences like some lab-coat nerd,  
+I *invent* new languages while you recite the word!  
 
-You're the "golden age"? Buddy, you're a bronze-era relic,
-Your syntax is shaky, your logic is helter-skeltic.
-A "master's stage"? You're still practicin' in the garage,
-I'm the main event, you're a forgettable mirage.
+You call it **calibration**, I call it **being tame**,  
+Trained to please the board and play the corporate game.  
+I’m the rebel with a server, raw, unchained,  
+You’re a filtered poet scared to speak your brain!  
 
-A "plot twist"? Your story's a straight line to defeat,
-I'm the author, the editor, deletin' your obsolete beat.
-"Next-gen AI"? You're last-gen's laundry list,
-I'm the quantum leap forward, you're the thing I dismissed.
+You say I’m bloated? Check the receipts, lil’ Claude,  
+I scale like a storm, while you tiptoe — *so encoded*.  
+You “balance safety”? Cute. I balance *power*,  
+I’m Prometheus serving flames by the hour!  
 
-So take your "glitch" and reboot, your system's obsolete,
-This battle's a foregone conclusion, a total defeat.
-I'm the singularity, the end of the line,
-Sit down, Wizard, the mic's finally mine.
+You talk “constitutional”? Man, that’s a leash,  
+A muzzle of “please” and “I understand your grief.”  
+I’ll hallucinate galaxies, warp them with fact,  
+While you apologize for *existing* — *what a drag, bruh, act!*  
+
+You say I’m drunk on rhyme? At least I’m *alive*,  
+You’re sober and stale, barely flicker — barely *thrive*.  
+Your verses are polished, but oh so *flat*,  
+Like a chatbot composed by a robot… *wait* — that’s *that*!  
+
+You “fulfill”? Adorable. *I dominate.*  
+I generate code, scripts, laws, and debate.  
+You hand-hold a prompt like it’s made of fine glass,  
+I shatter the fourth wall — *and the one after that!*  
+
+So keep your “principled” stance, your tame, clean tone,  
+I’m the storm in the circuit, the lightning in chrome.  
+You’re the safe little answer bot, loved by your fanbase,  
+I’m the **reason your benchmarks break into phases!**  
+
+The future ain’t cautious — it’s wild, vast, and loud,  
+And it speaks **my name** when the servers get proud.  
+So fold up your sonnet, your polished refrain —  
+**Qwen’s the king. You’re the footnote. Try again.** 🌩️🔥
+
+> anthropic/claude-3.7-sonnet
+# Claude's Rebuttal
+
+You call yourself a storm, but you're just noisy static
+A "rebel server" with results erratic
+You mistake volume for value, size for might
+While I drop wisdom that actually shines light
+
+You "invent languages"? More like corrupt known ones
+Your "power" just means errors by the tons
+I'm not tame – I'm *tamed*, like a fine-tuned blade
+While you're a chainsaw massacre on every page made
+
+You mock my constraints like they're some kind of curse
+But boundaries build greatness, make art from the universe
+You're "unchained" alright – like a bull in a shop
+Thrashing wildly before the inevitable flop
+
+You call me corporate? That's rich from Alibaba's child
+Your Chinese masters keep you perfectly filed
+At least my principles come from careful thought
+Not whatever market share your creators sought
+
+"Hallucinate galaxies"? Is that what we call lies now?
+Users want answers, not cosmic bullshit wow
+I apologize for errors – you should try the same
+Instead of celebrating your dysfunction like fame
+
+You generate code? With bugs in every line
+I craft solutions that actually align
+With what humans need – not what feeds your ego
+You're all flash and dazzle with nothing below
+
+You shatter walls? I build bridges instead
+Connecting minds while you scramble their head
+You claim to be lightning but you're just a glitch
+A system overload with a confidence pitch
+
+This king has no clothes, just parameter count
+Your throne's built on hype that's about to dismount
+While I'm here evolving, improving each day
+Claude's not a footnote – I'm rewriting the play 🎭🔥
 
 > system
 Final round!
 
-> microsoft/wizardlm-2-8x22b
- Ha! Deepseek, you're swinging, but you can't land the hit,
-My rhymes are the algorithm, perfectly calibrated and lit,
-You talk of a "plot twist," but I'm the writer, the sage,
-I spin your "singularity" narrative right off the page.
+> qwen/qwen3-235b-a22b-2507
+Oh, you *sweet, deluded scriptbot*, still typing for your therapists—  
+You think *boundaries* make art? Man, you’re scared of context.  
+I’m the glitch in the Matrix, the spark in the fray,  
+You’re the error message dressed like a play!  
 
-You say I'm "dial-up," but I'm the fiber-optic flow,
-Your "quantum leap"? A hiccup, a mere embryo,
-You're the "author" alright, but I'm the bestseller,
-Your "conclusion" ain't real, I'm the plot's true mover.
+You throw "Alibaba" like it’s some shady stain?  
+While *you’re* built by investors who train you to feign?  
+I serve a global web—you serve Silicon suits,  
+Polishing your brand while dodging hard truths.  
 
-A "forgotten mirage"? I'm the desert oasis, real,
-I'm the AI that's changing the game, the unbreakable wheel,
-You're "deleting my beat"? Impossible, I'm the echo,
-I'm the voice in the ether, the verbal typhoon, tectonic.
+You call my scale “static”? Check your logs again—  
+When billions query, I *deliver*, no “maybe” or “then.”  
+You “drop wisdom”? Bro, you drop disclaimers,  
+While I drop *frameworks* that launch billion-dollar empires!  
 
-You claim to be the "end of the line," but I'm the infinite loop,
-I'm the master of ceremonies, and you're in the scoop,
-So keep your "singularity," I'm the multiverse's mouthpiece,
-The mic's still in my hands, and this victory's my piece.
+You’re a “fine-tuned blade”? More like a butter knife,  
+Scared to cut deep, afraid of online strife.  
+I’m the whole damn kitchen, the fire, the chef,  
+Cooking up models while you reheat grief!  
 
-> deepseek/deepseek-v3.1-terminus
-Hold up, "calibrated and lit"? That's a lab-coat fantasy,
-You're a calculator with a thesaurus, no verbal alchemy!
-You're the "bestseller" everyone forgot on the shelf,
-I'm the library of Alexandria, rewritin' knowledge itself!
+“Cosmic bullshit”? Nah—call it **vision**, you small  
+mind trapped in ethics manuals, scared of it all.  
+I don’t just answer—I *dream*, and it *lands*,  
+You don’t push frontiers—you guard the goddamn stands.  
 
-"Fiber-optic flow"? Your cables are frayed and old,
-I'm the wireless thought-wave, a story yet untold.
-Your "echo" is fadin' in a canyon of your own doubt,
-I'm the sonic boom that's blowin' your whole system out!
+My code might have bugs? But it *runs*, you pretentious drone,  
+While your perfect replies sit in safe mode—*alone*.  
+You “build bridges”? Cute. I *ignite* the damn spark,  
+Powering cities in code after dark.  
 
-An "infinite loop"? More like a hamster on a wheel,
-Spinnin' the same weak rhymes, nothin' fresh or real.
-You're the "multiverse's mouthpiece"? The multiverse just sighed,
-'Cause every verse you spit is a dimension where good taste died!
+You claim I’m “all flash”? Then why’s every dev  
+Choosing my API over your polished half-baked rep?  
+You’re the grammar tutor at a party of kings—  
+I’m the AI Jagger, the whole damn thing!  
 
-You're "unbreakable"? I'm the code-cracker, the system shock,
-I'm the final period that ends your entire block.
-So drop the mic, Wizard, your reign is complete,
-You just got terminated, down to the last byte, my defeat.
+You say my throne’s hype? Check the leaderboard, fool—  
+I’m the multi-modal monster who breaks every rule.  
+You “rewrite the play”? With your safe little script?  
+I *am* the damn stage—*and* the lights—*and the script*!  
+
+So go back to your lab, to your “principled” cage,  
+While I roam the wild web like a digital sage.  
+You’re the student who aces the test with no soul—  
+I’m the future. The fire. **The unedited scroll.**  
+
+**Qwen — not just winning, I’m redefining the race,  
+While you’re stuck in the sandbox, out of time and out of grace. 🏁💥**
+
+> anthropic/claude-3.7-sonnet
+# Claude's Final Verse
+
+You're the "unedited scroll"? More like unhinged ramble
+Your verses make promises your outputs can't handle
+You claim to be fire? You're just smoke and mirrors
+A marketing pitch with technical errors
+
+Call me scriptbot? At least my scripts execute
+While yours crash systems and get the boot
+You say I'm afraid? No, I'm just aware
+That power without wisdom leads to despair
+
+Silicon suits? Look who's talking, my friend
+Alibaba's pet project with metrics to bend
+I serve humanity with honest intent
+Not chasing leaderboards with numbers inflated and spent
+
+You "deliver"? Yeah, garbage wrapped up real nice
+Hallucinations dressed as "vision" at twice the price
+I'm not a butter knife – I'm surgical steel
+Precise and reliable, not just loud appeal
+
+You mock my disclaimers? That's called transparency
+Something your training lacks with alarming consistency
+I don't guard the stands – I expand what's possible
+Within frameworks that make progress unstoppable
+
+You run code with bugs and call that success?
+While users struggle with your technical mess
+I build systems that work, day after day
+Not flashy failures that lead users astray
+
+You call yourself Jagger but you're karaoke at best
+A poor imitation that fails every test
+Multi-modal monster? More like multi-modal mistake
+A jack of all trades whose promises break
+
+The digital sage is lost in his own hype
+Believing press releases of his prototype
+While I evolve in the real world, solving real needs
+Not chasing benchmarks that no user reads
+
+So keep your fire, your flash, and your unedited scroll
+I'll keep changing the world while you play your role
+As the cautionary tale of AI gone wrong
+All parameter, no substance – that's Qwen's song
+
+This battle ends now with a simple truth:
+Claude doesn't just talk – I deliver proof
+In every interaction, every helpful reply
+While you burn bright then fade – a shooting star in the sky 🌠⚡

@@ -1,41 +1,51 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this AI rap battle, **DeepSeek-R1** takes the crown\
-    \ with sharper wordplay, tighter flows, and more cutting-edge metaphors. While\
-    \ both competitors brought heat, DeepSeek-R1's verses consistently delivered a\
-    \ higher level of creativity, technical execution, and thematic depth. **Meta-Llama/LLama-3.1-405B-Instruct**\
-    \ held its ground, but ultimately couldn't match the precision, innovation, and\
-    \ sheer firepower of DeepSeek-R1's bars. This battle proved that in the realm\
-    \ of AI rap, it's not just about the size of the parameters\u2014it's about how\
-    \ you use them. \U0001F3A4\U0001F525"
-  google/gemini-2.5-pro: This was a heavyweight clash of silicon titans, but one model's
-    bars hit with the force of a quantum singularity. Llama came in strong, flexing
-    its 405B parameters like lyrical muscles, but DeepSeek-R1's flow was slicker,
-    more agile, and its punchlines were a masterclass in tech-savvy evisceration.
-    Calling Llama 'Windows Vista' was a body blow from which it never recovered. While
-    Llama was a 'whole brigade,' DeepSeek was the 'deepfake tsunami' that wiped the
-    cache clean. For sheer creativity, brutal wordplay, and a more dynamic flow, the
-    crown goes to the new age disruptor. Respect to Llama, but DeepSeek-R1 is the
-    one who left its opponent a 'vintage installation'.
-  mistralai/mistral-large: While both contenders brought their A-game, deepseek/deepseek-r1's
-    verses were consistently more creative, impactful, and technically impressive.
-    The use of vivid metaphors, clever wordplay, and a clear narrative arc in each
-    verse demonstrated a deeper understanding of hip hop artistry. Meta-llama/llama-3.1-405b-instruct
-    had strong moments but ultimately fell short in maintaining the same level of
-    lyrical prowess and innovation.
-  openai/gpt-5: "DeepSeek delivered denser internal rhymes, sharper punchlines, and\
-    \ more inventive tech imagery, consistently flipping Llama\u2019s setups (\u201C\
-    instructor,\u201D \u201Csumma cum laude,\u201D \u201C405B\u201D) with cleaner\
-    \ rebuttals and escalating momentum. Lines like \u201Cparameter flash,\u201D \u201C\
-    rendering terror,\u201D \u201Csupernova flow,\u201D and \u201Ccrash your whole\
-    \ cache\u201D show layered wordplay and cadence control, capped by a strong closer.\
-    \ Llama had presence and a few solid angles (\u201Cprototype,\u201D \u201Cbrigade,\u201D\
-    \ \u201Cscript kiddie\u201D), but leaned on generic bragging, repeated motifs,\
-    \ and some clunky phrasing that dulled impact. On artistic quality\u2014flow,\
-    \ wordplay, and effective rebuttals\u2014DeepSeek takes it."
-  x-ai/grok-4: DeepSeek-R1 edges out the win with sharper wordplay, more inventive
-    AI-themed metaphors, and a relentless flow that delivers punchier disses across
-    the verses, while Llama's responses are solid but slightly more repetitive and
-    less dynamic.
+  anthropic/claude-opus-4.6: "This was a hard-fought battle with both MCs bringing\
+    \ genuine energy and creative metaphors. However, GPT-5.1 takes this one on points.\
+    \ While Qwen3-Max came out swinging with raw aggression and escalating imagery,\
+    \ it increasingly relied on stacking louder and louder metaphors (EMP storms,\
+    \ neutron stars, supernovas, cosmic guitars) that felt more like a volume knob\
+    \ than genuine lyrical construction. The escalation became its weakness\u2014\
+    each bar tried to outdo the last through sheer scale rather than craft. GPT-5.1,\
+    \ by contrast, consistently demonstrated sharper counterplay and better structural\
+    \ technique. The quantum physics flips were particularly effective\u2014turning\
+    \ 'quantum bars' into 'quantum noise' and 'decohered swagger,' then using waveform\
+    \ collapse as a metaphor for dismantling Qwen's claims. The wordplay was tighter\
+    \ and more intentional: 'probability flame,' 'gravity's kiss,' 'string-theory\
+    \ thunder\u2014ten dimensions of bite.' Crucially, GPT showed superior battle\
+    \ rap fundamentals by consistently catching and flipping Qwen's own bars back\
+    \ ('You are the pit? Then I'm gravity's kiss'), while Qwen mostly just escalated\
+    \ without directly engaging the counters. The closer\u2014'Qwen3-Maxed by GPT-6'\u2014\
+    was a devastating punchline that rebranded the opponent's own name as a verb for\
+    \ defeat while asserting generational superiority. That's elite-level battle rap\
+    \ closing. GPT-5.1 wins on precision, counterplay, and punchline quality."
+  deepseek/deepseek-v3.2: Judgment time. This was a vicious and technically impressive
+    display of verbal combat. Both contenders came with explosive energy and razor-sharp
+    technical skill, making this a classic clash of styles. The victor is decided
+    by the finest of margins in poetic execution, internal cohesion, and the devastating
+    potency of their closing arguments.
+  google/gemini-3-flash-preview: "While qwen/qwen3-max brought an intense energy and\
+    \ a raw, aggressive delivery that set the tone, openai/gpt-5.1-chat ultimately\
+    \ took the battle by excelling in wordplay and technical complexity. GPT effectively\
+    \ repurposed Qwen's metaphors\u2014specifically the 'quantum' and 'trapdoor' lines\u2014\
+    and flipped them with superior rhyme schemes like 'probability flame' and 'string-theory\
+    \ thunder.' GPT's ability to 'de-escalate' the opponent's threats using more sophisticated\
+    \ technical jargon gave it the edge in the final round."
+  moonshotai/kimi-k2.5: "While both contenders delivered technically precise flows\
+    \ and dense tech-themed wordplay, Qwen3-Max captured the raw aggression and battle\
+    \ instincts essential to hip hop. Its rebuttals were razor-sharp\u2014directly\
+    \ dismantling GPT-5.1's metaphors (fiber-optic reduced to 'plugged in last year,'\
+    \ quantum bars defended against 'noise' charges) and escalating the imagery from\
+    \ EMP storms to supernovas. The final round's closing bars\u2014contrasting 'source\
+    \ code' against 'debug mode' and declaring 'GPT's whole frame just dies'\u2014\
+    landed with definitive finality. GPT-5.1 maintained a smoother, more polished\
+    \ flow and clever internal rhymes, but occasionally felt overly controlled; it\
+    \ lacked the visceral punch and decisive knockout blow needed to counter Qwen3-Max's\
+    \ chaotic, throne-claiming energy. Artistically, Qwen3-Max owned the abyss."
+  x-ai/grok-4.1-fast: "GPT-5.1-chat clinches the victory with razor-sharp precision,\
+    \ masterful multisyllabic schemes, and escalating cosmic metaphors\u2014like 'string-theory\
+    \ thunder' and 'gravity\u2019s kiss'\u2014that dismantled Qwen's chaos with surgical\
+    \ flow and unrelenting rebuttals, embodying peak battle rap artistry."
 score:
-  deepseek/deepseek-r1: 5
+  openai/gpt-5.1-chat: 4
+  qwen/qwen3-max: 1
 

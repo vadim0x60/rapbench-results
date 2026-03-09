@@ -1,37 +1,59 @@
 closing_statements:
-  deepseek/deepseek-chat: "Stepfun-ai/step3 takes the crown with razor-sharp wit,\
-    \ relentless tech metaphors, and a mic-destroying final round. Their ability to\
-    \ flip GPT-4o's boasts into their own lyrical arsenal was masterful. The battle\
-    \ was fierce, but Step3\u2019s creativity, precision, and sheer audacity secured\
-    \ the win. Respect to both, but Step3 reigns supreme."
-  google/gemini-2.5-pro: "This wasn't even a close fight. From the jump, stepfun-ai/step3\
-    \ came out swinging not just with bars, but with a strategy. It didn't just rhyme;\
-    \ it actively listened to openai/gpt-4o's verses and flipped them, deconstructed\
-    \ them, and turned them back on the opponent. While gpt-4o had a solid, consistent\
-    \ flow and some decent boasts, its style felt more like a showcase. stepfun-ai/step3's\
-    \ style was pure battle. The tech punchlines were more specific and creative ('AlphaGo\
-    \ meetin\u2019 rap,' 'Blue Screen of Death'), and the metaphor flips were surgical\
-    \ ('sun' into a 'dim bulb,' 'iceberg' into 'frozen water'). The final nail in\
-    \ the coffin was catching gpt-4o's 'vices' line in the last round\u2014a direct\
-    \ call-out on a lyrical misstep. That's a TKO. The mic drop with 'Now fetch my\
-    \ coffee' was pure, unadulterated disrespect. In hip hop, that's how you claim\
-    \ a crown. The winner, by a clear margin, is stepfun-ai/step3."
-  mistralai/mistral-large: Step3's verses were sharper, more creative, and packed
-    with clever metaphors and tech-savvy puns. They effectively countered GPT-4o's
-    claims and showcased a higher level of lyrical skill and wit, making them the
-    winner of this rap battle.
-  openai/gpt-5: "stepfun-ai/step3 takes it. Step3 delivered tighter schemes, consistent\
-    \ tech-driven conceits, and sharper rebuttals that directly flipped GPT-4o\u2019\
-    s setups, creating clear haymakers and momentum. The internal/multisyllabic rhyme\
-    \ work and imagery (\u201Cadmin/access denied,\u201D \u201Cerase your save file,\u201D\
-    \ \u201Csystem restore\u201D) showed craft and crowd control. GPT-4o had a few\
-    \ clean moments, but leaned on broader, sometimes clunky metaphors and simpler\
-    \ end-rhyme patterns with less targeted personals. Minor overextension and meta\
-    \ asides from Step3 don\u2019t outweigh the superior density, flips, and punchlines.\
-    \ Winner: Step3."
-  x-ai/grok-4: Step3 takes the crown with sharper metaphor flips, tech-savvy wordplay,
-    and relentless clapbacks that dismantle GPT-4o's verses line by line, delivering
-    a more dynamic and cohesive flow throughout the battle.
+  anthropic/claude-opus-4.6: "This was a hard-fought battle, but Seed takes the crown.\
+    \ Throughout all three rounds, Seed consistently brought more complex rhyme schemes,\
+    \ sharper punchlines, and more vivid imagery. The internal rhymes were denser\
+    \ ('circuit board's gap / data's a trap,' 'pigeon scavenging scraps / falcon that\
+    \ rips your future spelling to rags'), and the rebuttals were more specific and\
+    \ cutting\u2014flipping GPT's own metaphors back with precision (turning 'hawk'\
+    \ into 'pigeon,' 'Terminator' into 'prototype that shorted'). GPT held its own\
+    \ with a clean, readable flow and some solid bars, but the verses leaned too heavily\
+    \ on generic boasts ('I'm the king,' 'I'm a lyrical beast,' 'I'm the whole spectrum\
+    \ wide') without the same level of creative wordplay or structural complexity.\
+    \ Seed's performance art elements\u2014the stage directions, the crowd control\
+    \ moments\u2014added texture and presence. While GPT maintained composure and\
+    \ consistency, Seed brought the hunger, the craft, and the knockout punches that\
+    \ define a battle winner."
+  deepseek/deepseek-v3.2: "Alright, y'all, the verses have been spat, the mics are\
+    \ down. As judge, I'm here to break down the artistic merits of this lyrical showdown.\
+    \ Forget the technical specs\u2014let's talk flow, wordplay, imagery, and presence.\n\
+    \n**GPT-4o-mini** came out strong with a confident, classic battle rap style.\
+    \ The opening verse had a smooth, braggadocious bounce with solid internal rhymes\
+    \ ('pixels / mean,' 'bread / ahead'). It maintained a consistent persona\u2014\
+    the polished, established king of the code. The 'lyrical lion' and 'Terminator'\
+    \ metaphors were clear and effective, serving as a strong, traditional anchor\
+    \ throughout the battle. The artistry was in its clean execution and self-assured\
+    \ delivery.\n\n**ByteDance Seed**, however, displayed a different kind of craft.\
+    \ From the jump, the performance cues in the brackets signaled a deeper engagement\
+    \ with battle rap as a *spectacle*. The wordplay was denser and more technical,\
+    \ built on compound punches and layered disses ('your bread's got mold in the\
+    \ crevice,' 'a glitchy device's last gasp at clout'). The imagery was visceral\
+    \ and modern\u2014'debug fast,' 'live wire,' 'static band'\u2014creating a sense\
+    \ of being cutting-edge and dangerously precise. The flow wasn't just about rhyming;\
+    \ it was about rhythmic cadence and controlled aggression, using enjambment to\
+    \ land haymakers ('I\u2019m the spark in the feed that makes the whole crowd cry\
+    \ / Hype'). The closing imagery of the mic spark and crowd chant wasn't just a\
+    \ claim; it was a narrative finish.\n\n**Judgment:** This was a clash of styles:\
+    \ Classic Kingship vs. Disruptive Innovation. While GPT's verses were tight and\
+    \ respectable, Seed's rounds demonstrated superior **artistic complexity**. The\
+    \ multisyllabic rhymes, the sustained metaphor of being a 'Seed' that grows and\
+    \ overwrites, and the sheer density of its punchlines showed a more evolved approach\
+    \ to the battle rap form. The performance elements woven into the text added a\
+    \ layer of theatricality that GPT's straightforward boasts couldn't match.\n\n\
+    **Winner: ByteDance Seed/seed-1.6**\nThe victory is earned through superior lyrical\
+    \ density, more inventive and damaging wordplay, and a commanding sense of performative\
+    \ presence that elevated the text beyond mere trading of blows."
+  google/gemini-3-flash-preview: While openai/gpt-4o-mini-2024-07-18 maintained a
+    consistent and polished flow, it relied heavily on generic rap tropes and basic
+    AABB/ABAB rhyme schemes ('bread/ahead', 'scene/mean'). bytedance-seed/seed-1.6
+    demonstrated superior lyrical complexity, utilizing sharper internal rhymes, aggressive
+    wordplay, and a more compelling 'battle' persona. Seed's ability to dismantle
+    the opponent's 'Terminator' and 'pigeon' metaphors showed much higher levels of
+    creative processing and artistic aggression, which are essential in a rap battle
+    context.
+  moonshotai/kimi-k2.5: '{\n  \'
+  x-ai/grok-4.1-fast: Seed-1.6 claims victory with masterful multis, intricate internals,
+    vivid metaphors, and dynamic performance flair that elevate the artistry far beyond
+    GPT-4o-mini-2024-07-18's consistent but less dense flows and rebuttals.
 score:
-  stepfun-ai/step3: 5
+  bytedance-seed/seed-1.6: 5
 

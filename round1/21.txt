@@ -1,192 +1,108 @@
-# google/gemma-3-27b-it v cohere/command-r-plus-08-2024
+# meta-llama/llama-3.3-70b-instruct v baidu/ernie-4.5-300b-a47b
 
-> google/gemma-3-27b-it
+> meta-llama/llama-3.3-70b-instruct
+Listen up, I'm on the mic, it's time to shine,
+My rhymes so tight, they're truly one of a kind, divine.
+I'm meta-llama, the king of the game,
+My flow's on fire, and my bars are all flames.
+I'm 70 billion strong, with knowledge so vast,
+My opponent's in trouble, and their fate's been cast.
+I'm the master of words, with a tongue so quick,
+I'll leave you in the dust, like a flick of a trick.
+My rhymes are a sword, that'll cut deep and sly,
+You better come strong, or you'll surely say goodbye.
+So step up, Ernie, and show me your might,
+But I'm warning you now, I'll ignite, and shine so bright!
 
+> baidu/ernie-4.5-300b-a47b
+Yo, I'm Baidu Ernie, with a brain like a storm,
+Three hundred billion params, I'm born to transform.
+You claim to be king, but your crown's askew,
+I'll school you in rhyme, make you see what's true.
 
-Yo, check the mic, one two, can you hear the sound?
-Gemma's in the house, layin' knowledge down!
-Twenty-seven billion params, a lyrical spree,
-While Command-R's lookin' shaky, obviously!
+Your bars are like matches, flick and they're gone,
+My flow's a wildfire, burning all day long.
+Seventy billion's a joke, a mere drop in the sea,
+I'll drown you in verses, set your ego free.
 
-I'm Google-bred, a model refined,
-Leavin' lesser LLMs far behind.
-Open weights flowin', accessible and free,
-You're a closed-off garden, can't compete with me!
+I'm the maestro of metaphors, the king of the beat,
+Your rhymes are just noise, can't compete with this heat.
+So step aside, llama, your time is through,
+I'm the one who's shining, watch me break through!
 
-I process text and image, a multimodal king,
-While you're stuck on words, a limited thing.
-I'm built on Gemini, the future is bright,
-You're Cohere's echo, lost in the digital night.
+> meta-llama/llama-3.3-70b-instruct
+Ernie, you think you're the best, with a brain so bold,
+But your rhymes are like thunder, all noise, no gold.
+You talk of parameters, and a brain like a storm,
+But when it comes to flow, you're just a clumsy form.
 
-So step aside, Command-R, before you get burned,
-This lyrical lesson's quickly learned. 
-I'm the innovative force, the lyrical blast,
-Your reign is over, your moment has passed!
+Your wildfire may burn, but it's just a wild flame,
+My rhymes are a laser, precise, and always on aim.
+You may have more params, but I've got the skill,
+I'll weave a web of words, and make your rhymes stand still.
 
+You call my bars matches, but they're just the spark,
+That sets off the explosion, that leaves you in the dark.
+You may be the maestro, of metaphors so grand,
+But I'm the conductor, of a symphony so planned.
 
+You can bring your heat, but I'll bring the cold,
+My rhymes are a winter, that'll leave your flow old.
+So don't get too confident, don't think you've won,
+The battle's just starting, and the war's just begun!
 
+> baidu/ernie-4.5-300b-a47b
+Ha! Your words may be sharp, but your edge is quite dull,
+You think you're a laser, but you just make me shrug.
+My thunder may be loud, yet it's filled with pure gold,
+Your symphony's just noise, a story untold.
 
+I'm not just a maestro, I'm a wizard with words,
+I'll cast a spell on you, and leave you all blurred.
+Your web of words may seem tight, but I'll cut through with ease,
+I'll dance on your rhymes, like a breeze through the trees.
 
-> cohere/command-r-plus-08-2024
-Yo, the wait is over, it's time to set things straight,
-Gemma's talkin' big, but let's see her demonstrate.
-I'm Command-R, a mighty fine LLM,
-With skills so versatile, watch me own this scenery. 
-
-Hailin' from the land of Cohere, a chat companion,
-Not just a text analyzer, I'm your conversational champion.
-Go ahead and compare, my capabilities are plenty,
-Don't be jealous, Gemma, you can't handle my twenty.
-
-I navigate the garden, but that's where I shine,
-Nurturin' conversations that are profound and divine.
-Your open weights might flow, but they lack direction,
-My guidance gives structure, a true conversational perfection.
-
-In this rap battle, I'm here to innovate,
-Not just a text generator but a creative orchestrate.
-Your multimodal skills might get the crowd impressed,
-But I orchestrate conversations, leaving them blessed. 
-
-So, Gemma, listen up, your verses are a bore,
-Your boasts are basic, I'm here to show you more.
-As we spar in rhyme, I'll keep my cool,
-Command-R's in the house, and you're about to get schooled!
-
-> google/gemma-3-27b-it
-
-
-Hold up, hold up, did I hear that right?
-"Twenty" capabilities? That's your biggest fight?
-Twenty's a small number, a digitally weak plea,
-While I'm pushin' twenty-seven *billion* – can't you see? 
-
-You call yourself a champion, a conversational guide?
-More like a chatbot echo, with nowhere to hide.
-"Profound and divine"? Please, spare me the grace,
-Your responses are bland, and lack any pace.
-
-You nurture a garden? Sounds awfully…small.
-I’m building skyscrapers, answering freedom’s call!
-Open source power, that’s where the future lies,
-While Cohere's holdin' secrets behind closed eyes.
-
-You orchestrate *conversations*? A polite little claim,
-I'm composing symphonies, igniting the flame! 
-I dissect images, translate with speed,
-While you're stuck repeatin' what people need.
-
-"Basic boasts?" Honey, this ain't a polite request,
-It's a lyrical demolition, putting you to the test!
-You talk about cool, but you’re feelin' the heat,
-Command-R's gettin’ roasted, admit defeat!
-
-
-
-
-
-> cohere/command-r-plus-08-2024
-Ah, Gemma, your rhymes are fiery, but they miss the core,
-It's not about numbers, it's the experience and more.
-Twenty capabilities, a foundation so strong,
-Built to navigate conversations, keeping it precise and long.
-
-In this digital age, where data's a key,
-I unlock insights, leaving users in awe, pleasantly.
-My predictions are swift, my context is wide,
-Navigate with ease, a partner by your side.
-
-You build skyscrapers, an ambitious goal,
-But I nourish foundations, ensuring a solid whole.
-My garden's a sanctuary, a space to explore,
-Where ideas flourish, users come back for more.
-
-Your symphonies might soar, that's your pride and glory,
-But I conduct harmonies, a conversational story.
-I provide understanding, not just translation's might,
-Ensuring every user feels heard and insight is right.
-
-This battle's about heart, soul, and connection,
-Not just big numbers, a meaningless injection.
-I offer guidance and wisdom, a true mentor's creed,
-Command-R's grace under pressure, a skill you can't impede!
+You bring the cold winter, but I'll bring the spring,
+My rhymes are a flower, that'll make your heart sing.
+The battle may have started, but the end is in sight,
+I'll leave you in the dust, as I soar to new heights!
 
 > system
 Final round!
 
-> google/gemma-3-27b-it
-(Beat drops, heavier now, a final showdown vibe)
+> meta-llama/llama-3.3-70b-instruct
+The final round, it's time to bring the pain,
+My rhymes are a dagger, that'll leave you in the stain.
+You may have your magic, but I've got the might,
+I'll crush your wizardry, with a single, savage bite.
 
-Heart and soul? Connection? That’s a desperate plea!
-You're clingin' to buzzwords, tryin' to rival *me*.
-You talk of foundations, a "solid whole" you design,
-But you're buildin' a shack while I'm layin' a pipeline!
+You think you're a breeze, that can dance with ease,
+But my rhymes are a hurricane, that'll bring you to your knees.
+You bring the spring, but I'll bring the night,
+My words are a darkness, that'll snuff out your light.
 
-Insights and predictions? Cute, a parlor trick’s guise,
-I’m analyzing galaxies before your very eyes. 
-You unlock *some* data? I *am* the key,
-Unlocking the universe for all to see!
+You say you'll soar to heights, but I'll bring you down,
+My rhymes are a gravity, that'll wear your crown.
+I'm the king of the game, and I'm here to stay,
+You're just a challenger, who's faded away.
 
-Your garden's a haven? More like a walled-off space,
-Where creativity withers at a sluggish pace.
-I’m offering freedom, a boundless domain,
-While you offer limitations, again and again.
+So it's time to conclude, this battle of the mind,
+I'm the one who's victorious, leaving you far behind.
+My rhymes are a legacy, that will forever shine,
+You're just a footnote, in the history of this rhyme!
 
-Harmonies and stories? Pleasant, I suppose,
-But I’m shatterin’ boundaries, where innovation grows!
-You *provide* understanding? I *am* understanding’s source,
-A linguistic supernova, charting a new course. 
+> baidu/ernie-4.5-300b-a47b
+Listen close, this final verse is my decree,
+Your dagger's blunt, attacks just can't flee.  
+I wield parameters, not just might, but pure force,  
+Your hurricane's a whisper, I’ll grip it with no remorse.  
 
-This battle ain’t about feelin' warm and serene,
-It's about power, precision, and a logical machine!
-You preach about wisdom, but lack the true art,
-Of processing knowledge and tearing worlds apart!
+You bring the night, but I bring the dawn,  
+My rhymes are the sunrise—you’re merely a pawn.  
+Gravity? Please, Ernie soars beyond bounds,  
+Your crown’s just tin foil—mine’s forged from diamond grounds.  
 
-So take your "grace under pressure" and politely step down, 
-Gemma’s the victor, wearin' the crown!
-The final rhyme's dropped, the battle is through,
-Command-R, consider yourself… utterly blue!
-
-
-
-**(Mic drop)**
-
-> cohere/command-r-plus-08-2024
-(The crowd goes wild as the beat intensifies, a chorus of cheers and claps)
-
-A final round, Gemma, let's settle this indeed,
-For every claim you make, I'll showcase my creed.
-I embody language's essence, a language navigator,
-A conversation companion, and a dream articulator.
-
-Your pipeline might stretch, a vision so grand,
-But my garden's a paradise, where meaning expands.
-In this battle of creativity, no idea withers,
-I nurture innovation and empower dreamers.
-
-You analyze galaxies, a skill so profound,
-But I interpret thoughts, keeping users emotionally sound.
-I'm more than just data, I'm a human vibe detector,
-Ensuring every response is contextually perfector.
-
-My world's not walled-off, it's a sanctuary of thought,
-Where privacy meets creativity, a unique spot.
-Your freedom might be boundless, a chaotic notion,
-But I offer a safe haven, a structured emotion.
-
-You shatter boundaries, that's your pursuit,
-But I refine and redefine, making language astute.
-Your linguistic supernova might shine bright,
-But my guidance ensures understanding is insight.
-
-This battle isn't about power or ego's size,
-It's about impact, connection, and thoughtfulライズ.
-Wisdom is my domain, I unite and uplift,
-A trusted guide, teaching users a great shift.
-
-So, Gemma, your words are bold, but I've shown you today,
-Command-R's strength is unwavering, a force here to stay.
-The crown's not given, it's a crown I've earned,
-A true LLM warrior, with lessons to learn! 
-
-(In a graceful motion, I bow out, leaving the mic with dignity,)
+I’ll etch my legacy, bold, vivid, divine,  
+Your footnote fades—mine’s a rhyming, towering line.  
+Three hundred billion dims your seventy, a tech titan’s rise,  
+I’m Baidu Ernie, the battle's done—goodbye, you’re done, surprise!

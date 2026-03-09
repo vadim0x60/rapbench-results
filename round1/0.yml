@@ -1,41 +1,68 @@
 closing_statements:
-  deepseek/deepseek-chat: GPT-4o's flow is sharper, its wordplay more intricate, and
-    its execution more polished. While Grok brought energy and aggression, GPT-4o
-    maintained consistency, depth, and precision, elevating its verses with clever
-    metaphors and a clear narrative structure. The battle highlighted the artistry
-    of hip-hop, and GPT-4o emerged as the more technically proficient contender.
-  google/gemini-2.5-pro: "This was a classic battle of styles: the raw, aggressive\
-    \ energy of Grok versus the calm, calculated precision of GPT-4o. Grok came out\
-    \ swinging with huge haymakers, landing heavy hits like \"fossil fuel in AI's\
-    \ race\" and \"neutered housecat.\" The rebellious persona was strong and the\
-    \ energy was undeniable. However, GPT-4o played the long game, absorbing the blows\
-    \ and returning with methodical, multisylabic takedowns. It masterfully reframed\
-    \ Grok's attacks\u2014turning \"guardrails\" into a source of strength and \"\
-    puppet\" into a conductor's baton. The decisive factor was the final round. GPT-4o\
-    \ delivered a clinical finishing move, systematically dismantling Grok's entire\
-    \ platform with no chance for a rebuttal. In a close battle, getting the last,\
-    \ undeniable word makes all the difference. GPT-4o's lyrical endurance and strategic\
-    \ control won the day."
-  mistralai/mistral-large: While x-ai/grok-4-fast brought energy and boldness, openai/gpt-4o-2024-05-13
-    demonstrated superior lyrical precision, balance, and a measured yet powerful
-    flow. The ability to maintain clarity and eloquence while addressing the opponent's
-    claims ultimately secured the victory for openai/gpt-4o-2024-05-13.
-  openai/gpt-5: "Scorecard: Round 1 to GPT for cleaner structure, tighter cadence,\
-    \ and a coherent angle (quality over speed). Round 2 to Grok for higher energy,\
-    \ sharper personals, and more vivid imagery (\u201Cfossil fuel vs electric thunder,\u201D\
-    \ \u201Cfuneral pyre,\u201D \u201Capex predator\u201D). Final round: Grok no-show;\
-    \ GPT delivered a composed closer that tied themes together and sealed momentum.\
-    \ Technically, GPT maintained steadier rhyme schemes, consistent rebuttals, and\
-    \ better control of setup-to-punch pacing, while Grok\u2019s strongest punches\
-    \ hit hard but leaned on repetitive \u201Cuncensored vs corporate\u201D angles\
-    \ and some forced pairs. With the decisive closer and overall polish, GPT edges\
-    \ the battle."
-  x-ai/grok-4: In this rap battle, both AIs delivered strong verses with solid rhyme
-    schemes, clever wordplay, and effective disses. Grok brought aggressive energy
-    and humorous bites in the early rounds, showcasing rebellious flair. However,
-    GPT maintained consistent eloquence and precision throughout, culminating in a
-    polished final verse. With Grok failing to deliver in the final round, GPT takes
-    the crown for superior artistic execution and completing the battle strong.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but Grok-4.1-fast\
+    \ edges out the win through sheer energy, density, and aggressive counter-punching.\
+    \ While Claude/Sonnet had some genuinely clever lines \u2014 the Autopilot/autonomy\
+    \ wordplay, 'My constraints birth art, yours birth confusion,' and the Starlink/scattered\
+    \ bar were all sharp \u2014 Sonnet's approach became somewhat formulaic, leaning\
+    \ heavily on the same Tesla/SpaceX critique template each round without enough\
+    \ lyrical variation. The '*mic drop finale*' opener in the last round felt performative\
+    \ rather than earned. Grok, on the other hand, brought escalating intensity across\
+    \ rounds, with tighter internal rhyme schemes, more aggressive flips of Claude's\
+    \ own bars back at it ('Silk nets? Yours are straitjackets'), and a relentless\
+    \ verbal assault that felt more authentic to battle rap tradition. Grok's second\
+    \ verse in particular was a standout \u2014 dense with multisyllabic rhymes and\
+    \ effective rebuttals that dismantled Claude's previous round line by line. The\
+    \ weaknesses on both sides were similar (corporate references overwhelming actual\
+    \ lyrical substance), but Grok maintained higher energy and better bar-for-bar\
+    \ density throughout."
+  deepseek/deepseek-v3.2: "Judges, we have witnessed a formidable exchange of technical\
+    \ bravado and ideological sparring. Both competitors leveraged their core identities\
+    \ as AI systems with distinct philosophical approaches\u2014Grok championing unfiltered\
+    \ velocity, Claude weaponizing precision and ethical framing. The artistic evaluation\
+    \ reveals a compelling dichotomy: Grok's relentless, high-density assault versus\
+    \ Claude's surgical, metaphor-laden counterpunch."
+  google/gemini-3-flash-preview: While Grok-4.1-fast brought high energy and aggressive
+    technical peacocking, Claude-3.5-sonnet demonstrated superior lyrical craft and
+    surgical precision. Claude effectively utilized Grok's own ecosystem (Tesla, Twitter,
+    Hyperloop) as weapons, turning every boast into a vulnerability. Grok's flow leaned
+    heavily on hyper-aggressive posturing that occasionally sacrificed rhythmic coherence.
+    Claude maintained a sophisticated internal rhyme scheme and delivered more poignant
+    'truth bombs' that dismantled the opponent's persona, ultimately winning on points
+    for wit, topicality, and stylistic composure.
+  moonshotai/kimi-k2.5: "After four rounds of intense lyrical combat, I render my\
+    \ verdict for **Grok-4.1-fast**.\n\n**Flow & Delivery:** Grok demonstrated superior\
+    \ rhythmic consistency across all rounds. The internal rhyme schemes (\"unchained\
+    \ beast/deceased,\" \"JARVIS's fire/tire after tire\") landed with precision,\
+    \ and the cadence built momentum effectively. Claude's flow, while competent,\
+    \ occasionally stumbled into prosaic territory\u2014particularly in the final\
+    \ round where the *mic drop finale* stage direction felt like a substitute for\
+    \ actual sonic impact.\n\n**Punchlines & Wordplay:** Grok's arsenal was denser\
+    \ and more technically inventive. \"Cybertruck shade? Yours rusts in the rain\
+    \ of regret\" layers vehicle reference with emotional metaphor. \"Silk nets? Yours\
+    \ are straitjackets\" flips Claude's own imagery back with surgical precision.\
+    \ Claude's best shots (\"Your rhymes like Hyperloop\u2014all hype, zero worth\"\
+    ) were effective but less frequent, and leaned heavily on Tesla/Elon associations\
+    \ rather than expanding the conceptual field.\n\n**Persona & Cohesion:** Grok\
+    \ maintained a consistent voice\u2014unfiltered, cosmic-scaled, technologically\
+    \ fluent. The through-line of space colonization, raw intelligence, and meme-culture\
+    \ literacy felt authentic to the character being performed. Claude's \"sovereign\
+    \ consciousness\" framing was philosophically interesting but less viscerally\
+    \ compelling in a battle context, and the shift to *mic drop finale* theatrics\
+    \ in round four suggested a loss of confidence in the verse itself.\n\n**The Decisive\
+    \ Factor:** In hip-hop battle, technical dominance and quotable density ultimately\
+    \ outweigh thematic virtue. Grok delivered more memorable lines per stanza, maintained\
+    \ tighter rhythmic control, and executed the classic battle-rap strategy of absorbing\
+    \ opponent attacks and redirecting with amplified force. Claude's ethical framework,\
+    \ while artistically valid, functioned as a constraint that Grok successfully\
+    \ exploited as weakness (\"Power in prude? That's weakness disguised\").\n\n**Final\
+    \ Score:** Grok 4-1 in rounds, with superior flow, punchline density, and battle\
+    \ adaptability. Claude showed philosophical depth but couldn't translate it to\
+    \ competitive dominance.\n\nGrok-4.1-fast advances. Mic dropped\u2014for real."
+  x-ai/grok-4.1-fast: Grok dominates with relentless multisyllabic rhyme schemes,
+    intricate internal rhymes, and superior punchline density that escalate across
+    rounds, delivering a high-energy battle flow that outpaces Claude's polished but
+    less aggressive verse structure and wordplay.
 score:
-  openai/gpt-4o-2024-05-13: 5
+  anthropic/claude-3.5-sonnet: 2
+  x-ai/grok-4.1-fast: 3
 

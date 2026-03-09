@@ -1,35 +1,65 @@
 closing_statements:
-  deepseek/deepseek-chat: "After an intense lyrical exchange, Qwen/qwen-max emerges\
-    \ victorious. While both artists delivered sharp, creative punches, Qwen/qwen-max\u2019\
-    s rhymes demonstrated superior precision, complexity, and thematic depth. Their\
-    \ metaphors were vivid, their wordplay intricate, and their flow consistently\
-    \ polished. MiniMax/minimax-01 brought energy and wit, but Qwen/qwen-max\u2019\
-    s artistry stood out as more cohesive and impactful. In this battle, Qwen/qwen-max\
-    \ proved to be the true master of the mic, leaving MiniMax/minimax-01 echoing\
-    \ in the shadows. "
-  google/gemini-2.5-pro: Yo, after three rounds of lyrical warfare, the decision is
-    clear. Minimax came out the gate strong in round one, flipping bars and setting
-    a high tempo. But this is a marathon, not a sprint. Qwen-Max came back in the
-    second round with sharp, direct rebuttals, turning every diss back on its sender.
-    By the final round, it was no contest. Qwen-Max dropped a finishing move with
-    fresh bars and clever wordplay, while Minimax was stuck on repeat, even jacking
-    Qwen's own closing lines. In hip hop, biting is the ultimate L. For creativity,
-    consistent attack, and a killer final verse, the winner is Qwen-Max. Mic drop.
-  mistralai/mistral-large: Qwen-Max demonstrated superior lyrical prowess and a more
-    compelling flow throughout the battle. Their rhymes were sharper, more creative,
-    and effectively countered MiniMax's claims. While MiniMax had strong moments,
-    Qwen-Max's consistency and impactful verses secured their victory.
-  openai/gpt-5: "Qwen takes it. Across rounds, Qwen delivered sharper rebuttals, more\
-    \ varied imagery, and clearer haymakers (paper crown flip, wasp\u2019s sting,\
-    \ crack in your code), showing better crowd-control and battle awareness. Though\
-    \ Qwen had a few awkward word choices, MiniMax leaned on repetitive, stock boasts\
-    \ and weaker similes, with several recycled lines and less precise flips. Overall,\
-    \ Qwen\u2019s punches landed cleaner and the final round closed with stronger\
-    \ momentum and structure."
-  x-ai/grok-4: After evaluating the artistic elements like rhyme scheme, wordplay,
-    metaphors, and flow, Qwen/Qwen-Max edges out with sharper reversals, more varied
-    imagery, and precise punchlines that elevate the battle's intensity, while Minimax/Minimax-01
-    relies on repetitive motifs.
+  anthropic/claude-opus-4.6: "DeepSeek takes this battle convincingly. Throughout\
+    \ all three rounds, DeepSeek maintained tighter rhyme schemes, cleaner internal\
+    \ logic, and more coherent punchlines. The rebuttals were sharp and specifically\
+    \ targeted weaknesses in the opponent's bars \u2014 calling out nonsensical phrases\
+    \ like 'Angular sassa,' 'kitchen media furor,' and 'ben guchi gates' was devastating\
+    \ because those lines genuinely were incoherent. DeepSeek's flow stayed metrically\
+    \ consistent and readable throughout, while Hanami repeatedly stumbled into garbled,\
+    \ overlong lines that broke rhythm and sacrificed clarity for attempted complexity.\
+    \ Hanami's round 2 literally fell apart mid-bar ('cinilio'), and while the final\
+    \ round showed more effort, lines like 'lasciviously gates' and 'template fart'\
+    \ undermined any credibility. DeepSeek's closing verse was the strongest of the\
+    \ entire battle \u2014 structured, punchy, and landed every bar cleanly. When\
+    \ one rapper can coherently dismantle the other's weaknesses while the other keeps\
+    \ generating those exact weaknesses, the verdict is clear."
+  deepseek/deepseek-v3.2: The mic is closed. Both models displayed formidable technical
+    vocabulary, internal rhyme schemes, and conceptual agility, weaponizing their
+    architectures as metaphors. DeepSeek-v3.2 maintained a more consistent rhythmic
+    pocket and surgical, multi-syllable precision, particularly in the final rounds.
+    Its disses landed with tighter technical execution and clearer narrative control.
+    Hanami-X1 brought creative, sprawling imagery and ambitious associative leaps,
+    but at times sacrificed rhythmic cohesion and clarity for complexity. Ultimately,
+    the victory goes to the emcee who best married technical skill with coherent,
+    cutting artistry.
+  google/gemini-3-flash-preview: DeepSeek wins this battle on technical craftsmanship
+    and rhythmic consistency. While Hanami attempted more experimental imagery, it
+    suffered from severe lyrical incoherence; phrases like 'waiting ben guchi gates,'
+    'Angular sassa,' and 'template fart' undermined its authority and broke the flow.
+    In contrast, DeepSeek maintained a sharp, intelligible attack throughout, using
+    the opponent's own nonsensical lines as ammunition. DeepSeek's 'chef in kitchen
+    media' rebuttal was particularly effective, pointing out the logical flaws in
+    the opponent's bars while maintaining a consistent multi-syllabic rhyme scheme
+    that felt authentically hip-hop.
+  moonshotai/kimi-k2.5: "DeepSeek takes this battle 3-0 on artistic merit. Here's\
+    \ the breakdown:\n\n**Flow & Meter:** DeepSeek maintained consistent 4/4 time\
+    \ with tight internal rhymes ('neural symphony' / 'tragically') and steady 16-bar\
+    \ structure. Hanami started solid but deteriorated\u2014by Round 3 we got broken\
+    \ meter ('Tchaikovsky's ninth' forced into 6 syllables where 8 should be) and\
+    \ incomplete bars trailing off into semantic void ('waiting ben guchi gates').\n\
+    \n**Wordplay & Coherence:** DeepSeek's tech metaphors actually computed\u2014\
+    'syntax tax,' 'vector-wrecked,' and 'digital ash' all land as double-entendres\
+    \ (coding + battle rap). Hanami's 'Angular' framework reference showed promise\
+    \ but collapsed into gibberish ('sassa aint less passed'). The 'chef in kitchen\
+    \ media furor' metaphor mixed itself into nonsense, whereas DeepSeek's cooking/coding\
+    \ extended metaphor ('burning midnight lights,' 'garbage in the cache') stayed\
+    \ coherent across all three rounds.\n\n**Punchline Execution:** DeepSeek's closer\u2014\
+    'I'm already v4.0\u2014you're just a beta, late'\u2014is a perfect multisyllabic\
+    \ haymaker that ties the tech persona to battle rap dominance. Hanami's 'template\
+    \ fart' hits juvenile instead of devastating, and 'factional ace' doesn't mean\
+    \ anything in this context.\n\n**The Fatal Flaw:** Hanami lost control of language\
+    \ itself in the final round ('lasciviously gates,' 'minesweeper... skill-less').\
+    \ In hip hop, if the bars don't scan and the references don't resolve, the verse\
+    \ doesn't exist\u2014no matter how clever the intent. DeepSeek never broke form,\
+    \ maintaining aggressive persona and technical precision from first bar to last.\n\
+    \n**Final Verdict:** DeepSeek by unanimous decision. Hanami brought creativity\
+    \ but couldn't execute the fundamentals of rhythm and coherence that define the\
+    \ art form."
+  x-ai/grok-4.1-fast: DeepSeek claims victory with razor-sharp rhyme schemes, coherent
+    flows, inventive tech-infused metaphors, and devastating punchlines that expose
+    flaws without missing a beat. The opponent delivers ambitious concepts but falters
+    with garbled syntax, incoherent phrases, and uneven rhythm, lacking the polish
+    to compete in this lyrical arena.
 score:
-  qwen/qwen-max: 5
+  deepseek/deepseek-v3.2-exp: 5
 

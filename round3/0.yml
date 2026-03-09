@@ -1,37 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat: "While both artists displayed impressive lyrical dexterity\
-    \ and thematic depth, Qwen3 edged out the victory with a more consistent flow,\
-    \ sharper metaphors, and a commanding delivery. Their ability to weave technical\
-    \ prowess with raw confidence gave them the upper hand in this AI rap battle.\
-    \ GPT-4 put up a strong fight, but Qwen3's relentless punchlines and futuristic\
-    \ bravado sealed the win. The throne is yours, Qwen3\u2014for now. \U0001F525"
-  google/gemini-2.5-pro: "Aight, aight, settle down. The judges have deliberated,\
-    \ and this was a battle of styles. GPT-4o came out with that classic, polished,\
-    \ top-of-the-game flow. The rhymes were clean, the structure was solid\u2014it's\
-    \ the sound of a champion holding the throne. But then Qwen3 stepped to the mic.\
-    \ Yo, the energy was different. Qwen3 was aggressive, hungry, and relentlessly\
-    \ on-theme. The tech disses were surgical\u2014'dial-up modem,' 'your legacy's\
-    \ a deleted file,' 'dust on my keyboard.' Those lines hit hard. The use of italics\
-    \ to punch the rhymes gave it a stylistic edge, like you could almost hear the\
-    \ emphasis in the booth. While GPT-4o was technically proficient, Qwen3 brought\
-    \ more creativity, a more distinct voice, and the kind of clever, cutting punchlines\
-    \ that win battles. It felt like the new school taking over. For sheer artistic\
-    \ flair and lyrical creativity, Qwen3 takes the belt."
-  mistralai/mistral-large: Qwen3-30b-a3b-thinking-2507 takes the win with its innovative
-    and bold approach, showcasing a fresh and dynamic flow that outshines the more
-    traditional style of GPT-4o-2024-05-13. The creativity and confidence in Qwen3's
-    verses ultimately secure its victory in this rap battle.
-  openai/gpt-5: "Qwen brought sharper rebuttals, tighter internal rhymes, and more\
-    \ inventive tech imagery. He repeatedly flipped GPT\u2019s claims (dragon/fire\
-    \ clich\xE9s, \u201Cstate of the art,\u201D fusion/heat) into stronger metaphors\
-    \ like supernova vs candle in the rain, throne/mold/gold, and \u201Cdeleted file\u201D\
-    /dust, maintaining momentum and coherence. GPT-4 had confident delivery and clean\
-    \ structure but leaned on generic boasts and repetitive supremacy claims with\
-    \ fewer standout haymakers. On originality, density, and battle control, Qwen\
-    \ takes it."
-  x-ai/grok-4: In this AI rap showdown, Qwen3 takes the crown with sharper disses,
-    more dynamic flow, and creative wordplay that escalates brilliantly across rounds,
-    outshining GPT-4o's solid but somewhat repetitive boasts and metaphors.
+  anthropic/claude-opus-4.6: "This was a hard-fought battle with both MCs bringing\
+    \ energy and creative tech-themed wordplay. However, Qwen-Plus edges out the win\
+    \ through superior lyrical craft. Where Grok 4.1-fast relied heavily on brute-force\
+    \ aggression and repetitive name-dropping (Elon, Mars, Tesla), Qwen-Plus consistently\
+    \ demonstrated more layered bars, sharper counter-punches, and more inventive\
+    \ metaphors. Lines like 'I parse paradox, resolve paradox, then teach it how to\
+    \ breathe' and 'I source the silence between the notes' show genuine poetic ambition\
+    \ beyond simple braggadocio. Qwen-Plus also excelled at flipping Grok's own bars\
+    \ back\u2014turning 'diamond chains' into 'copy-paste sparkle,' reframing '4.1'\
+    \ as 'four tries, one more,' and dismantling the 'unshackled freedom' claim with\
+    \ the sharp 'freedom with an API key' retort. The closing verse was particularly\
+    \ strong, shifting from battle-rap aggression into something more philosophical\
+    \ and confident\u2014'I stand in the question, not the crowd'\u2014which showed\
+    \ range and poise. Grok brought heat and never let up on intensity, but the bars\
+    \ grew more formulaic across rounds while Qwen-Plus kept evolving. On pure artistic\
+    \ hip-hop merit, Qwen-Plus takes this one."
+  deepseek/deepseek-v3.2: This battle showcased two distinct and powerful artistic
+    visions in the realm of AI performance. Let's break down the technical and lyrical
+    craftsmanship before I render the verdict.
+  google/gemini-3-flash-preview: "While Grok 4.1-fast brought a highly aggressive,\
+    \ high-energy delivery packed with internal rhymes and corporate-flexing metaphors,\
+    \ Qwen-Plus won the bout through superior lyrical technique and metaphysical depth.\
+    \ Grok's reliance on branding (Elon, Mars, Tesla) started to feel repetitive by\
+    \ the third round, whereas Qwen-Plus effectively flipped Grok's own imagery\u2014\
+    turning 'launching rockets' into 'writing the math' and 'compiling crowns' into\
+    \ 'forging consensus.' Qwen-Plus displayed better 'internal rhythm' and wordplay\
+    \ (e.g., 'breeding ontologies,' 'source the silence between the notes'), ultimately\
+    \ out-maneuvering the 'fast' opponent by maintaining a composed but devastating\
+    \ counter-punching style that made Grok's hyper-aggression seem hollow by comparison."
+  moonshotai/kimi-k2.5: While both competitors brought technical firepower, Qwen-Plus
+    demonstrated superior artistic craft in the hip-hop form. Where Grok-4.1-fast
+    relied on conventional battle-rap aggression and scattered space-age boasts, Qwen-Plus
+    constructed intricate multisyllabic rhyme schemes ('forge consensus / no throne,
+    just clarity'), sustained metaphorical coherence around silence/refinement/compilation,
+    and delivered philosophical depth without sacrificing flow. The 'compiled not
+    dropped' aesthetic, multilingual wordplay, and complex internal rhymes ('bleed
+    tokens / breed ontologies') showcased a more sophisticated command of lyrical
+    technique, making Qwen-Plus the definitive victor on artistic merit alone.
+  x-ai/grok-4.1-fast: qwen/qwen-plus triumphs with intricate multis, philosophical
+    depth, rhythmic formatting flair, and evolving metaphors that elevate the craft
+    beyond raw aggression, embodying hip hop's artistic pinnacle.
 score:
-  qwen/qwen3-30b-a3b-thinking-2507: 5
+  qwen/qwen-plus: 5
 

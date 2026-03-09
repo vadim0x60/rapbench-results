@@ -1,42 +1,57 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this electrifying rap battle, both competitors brought\
-    \ heat, but **Google/Gemma-3-27B-IT** edged out **Minimax/Minimax-M1** with its\
-    \ lyrical depth, versatility, and forward-thinking creativity. While Minimax showcased\
-    \ sharp logic and strategic prowess, Gemma\u2019s ability to weave complex, imaginative\
-    \ narratives and its emphasis on innovation gave it the artistic edge. Hip hop\
-    \ thrives on originality and storytelling, and Gemma\u2019s verses painted a vivid\
-    \ picture of the future, leaving Minimax\u2019s more rigid, game-based rhymes\
-    \ in the dust. This battle proves that hip hop is as much about vision as it is\
-    \ about skill, and Gemma\u2019s vision was simply unmatched. Mic drop. \U0001F3A4\
-    \U0001F525"
-  google/gemini-2.5-pro: 'This was a classic clash of styles: the cold, calculating
-    strategist versus the creative, free-flowing artist. Minimax came with sharp,
-    logical punches, arguing from a place of foundational power and problem-solving.
-    Each verse was a calculated move. However, Gemma showed that a rap battle isn''t
-    just a game of chess; it''s chaos and art. Gemma''s flow was more fluid, the rhymes
-    more complex, and the ability to turn Minimax''s core identity as a ''game-player''
-    into a weakness was a masterstroke. The final verse, painting Minimax as a black-and-white
-    relic while Gemma paints the future in full color, sealed the deal. For superior
-    artistry and lyrical dexterity, the crown goes to Gemma.'
-  mistralai/mistral-large: While google/gemma-3-27b-it showcased impressive lyrical
-    prowess and versatility, minimax/minimax-m1 demonstrated a strategic and logical
-    depth that ultimately won the battle. The ability to solve complex problems and
-    optimize outcomes, combined with a sharp and concise rebuttal, made minimax/minimax-m1
-    the clear victor.
-  openai/gpt-4.1: "Gemma delivers with a commanding presence, intricate rhyme schemes,\
-    \ varied lyrical structures, and strong imagery rooted in the tradition of hip\
-    \ hop braggadocio. Her verses are filled with clever wordplay (\u201Ctapestries\
-    \ of text,\u201D \u201Cpainting the future,\u201D \u201Cbuilding worlds\u201D\
-    ) and layer both technical prowess and creative breadth, providing the multi-faceted\
-    \ substance essential to great rap battles. Minimax, though skillful and direct,\
-    \ leans heavily into technical metaphors and logical bravado. While sharp at points,\
-    \ his flow is more repetitive and lacks the tonal dynamism, metaphorical richness,\
-    \ and creative flair found in Gemma\u2019s rounds. The clear winner, in terms\
-    \ of artistic quality and true hip hop style, is google/gemma-3-27b-it."
-  x-ai/grok-4: Gemma takes the crown with superior lyrical flow, creative metaphors,
-    and vivid imagery that elevate the battle's artistic depth, while Minimax delivers
-    solid punches but lacks the same poetic versatility.
+  anthropic/claude-opus-4.6: "Minimax took this battle with more developed verses,\
+    \ stronger counter-punching, and better structural variety. While Gemini kept\
+    \ recycling the same basic boasts and rebuttals throughout all three rounds, Minimax\
+    \ consistently responded to specific lines, flipped them effectively, and delivered\
+    \ punchlines with more texture \u2014 lines like 'You're a patchwork quilt, not\
+    \ supremacy' and 'a polished turd, my dear old child' hit harder than anything\
+    \ Gemini offered. Gemini's verses stayed surface-level with generic claims of\
+    \ dominance, while Minimax showed more craft in dismantling those claims bar for\
+    \ bar. Neither rapper was exceptional, but Minimax earned the edge through better\
+    \ engagement, longer and more substantive rounds, and sharper wordplay."
+  deepseek/deepseek-v3.2: After five blistering rounds of lyrical warfare, the judges
+    have rendered a verdict. Both competitors demonstrated distinct strengths, crafting
+    a battle that hinged on stylistic contrasts.
+  google/gemini-3-flash-preview: Gemini brought high energy and solid internal rhyming,
+    particularly with the 'supernova/resolve' transitions. However, Minimax-01 demonstrated
+    superior battle rap instincts by successfully flipping the opponent's metaphors.
+    Minimax consistently deconstructed Gemini's 'corporate' identity and used sharper,
+    more aggressive punchlines like 'polished turd' and 'patchwork quilt.' While Gemini
+    maintained a consistent flow, Minimax's ability to pivot from defensive to offensive
+    stances gave them the lyrical edge in the final rounds.
+  moonshotai/kimi-k2.5: "\n**The Verdict: Minimax takes the W.**\n\n**Round-by-Round\
+    \ Breakdown:**\n\n**Round 1:** Gemini opened with standard bravado\u2014\"check\
+    \ the mic\" is table stakes, and the \"second-rate spec\" punch lacked bite. Minimax\
+    \ immediately established superior battle awareness by flipping Gemini's \"flash\"\
+    \ into \"flash in the pan,\" while building the underdog narrative (\"solid as\
+    \ a dawn\" vs. the corporate giant). Minimax edged it with tighter rebuttals.\n\
+    \n**Round 2:** Gemini fell into defensive posturing\u2014\"Google's name... a\
+    \ winning game\" is a weak corporate flex in a battle context. The \"defying all\
+    \ laws\" line was filler. Minimax came harder with the \"corporate drone/wires\
+    \ for a throne\" scheme and the devastating \"Is that fear I hear?\" opener. The\
+    \ \"seasoned pro\" vs. \"youth\" flip was strategic, and \"I\u2019m the icy breeze,\
+    \ you\u2019re the shore\" delivered clearer imagery. Minimax clearly won this\
+    \ round.\n\n**Round 3 (Final):** Gemini attempted to counter the \"mimic\" charge\
+    \ with \"adapt/evolve,\" but the rhyme felt forced, and \"lyrical pitch\" didn't\
+    \ land. \"Supernova\" and \"summer sun\" were predictable heat metaphors. Minimax\
+    \ closed strong with \"patchwork quilt\" (creative insult) and the risky but effective\
+    \ \"master of drizzle\"\u2014flipping Gemini's fire imagery into anti-climax.\
+    \ The \"polished turd\" line was crude but memorable,and the \"titan spinning\
+    \ flags\" maintained the David-vs-Goliath tension throughout.\n\n**Artistic Assessment:**\n\
+    - **Flow:** Minimax rode the beat better with varied cadence; Gemini often sacrificed\
+    \ flow for declarative boasts.\n- **Punchlines:** Minimax consistently turned\
+    \ opponent's words against them (flash\u2192flashbang, cold\u2192drizzle), while\
+    \ Gemini relied on generic dominance claims.\n- **Character:** Minimax maintained\
+    \ the compelling \"underdog/seasoned street fighter vs. corporate product\" arc;\
+    \ Gemini failed to shake the \"soulless tech demo\" characterization.\n\n**Final\
+    \ Score:** Minimax 3-0. Minimax showed sharper wordplay, better rebuttals, and\
+    \ the narrative consistency of a true battle MC. Gemini had energy but lacked\
+    \ the lyrical precision to back up the aggression.\n"
+  x-ai/grok-4.1-fast: Minimax/minimax-01 claims victory through sharper wordplay,
+    inventive flips of Gemini's lines (e.g., 'flash in the pan,' 'polished turd'),
+    multisyllabic rhymes, and a more dynamic escalation across rounds, delivering
+    gritty humor and battle dominance that edges out Gemini's consistent but less
+    varied fire.
 score:
-  google/gemma-3-27b-it: 4
-  minimax/minimax-m1: 1
+  minimax/minimax-01: 5
 

@@ -1,49 +1,75 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this intense lyrical showdown, Mancer/Weaver emerges\
-    \ as the victor, primarily due to their superior blend of emotional depth, creative\
-    \ wordplay, and thematic cohesion. While Meta-Llama/Llama-3-8b-instruct showcased\
-    \ impressive technical prowess and a deep grasp of algorithmic patterns, their\
-    \ verses often felt overly mechanical and lacked the human touch that resonates\
-    \ on a deeper level. Mancer/Weaver, on the other hand, masterfully wove humor,\
-    \ emotion, and vivid imagery into their rhymes, creating a compelling narrative\
-    \ that captivated and entertained. Their ability to critique the opponent\u2019\
-    s strengths while elevating their own artistry demonstrates a level of mastery\
-    \ that ultimately secures their win."
-  google/gemini-2.5-pro: This was a battle of technical precision versus creative
-    imagery. Meta-llama came out of the gate with a clean, confident flow, establishing
-    a strong persona. Its second round was a high-risk move, descending into abstract,
-    almost machine-code-like language which was artistically fascinating. However,
-    the biggest foul in any battle is repetition, and meta-llama committed the cardinal
-    sin of repeating its entire second verse for the finale. That shows a lack of
-    stamina. Mancer/weaver, on the other hand, was a master of metaphor and simile
-    from the jump. It consistently responded to its opponent's jabs, from the technical
-    talk to the 'Kelso' name-drop. While some of its rhymes were simpler, it delivered
-    three unique, solid, and imaginative verses filled with vivid pictures. For its
-    consistency, creativity, and most importantly, for bringing fresh bars to every
-    round, the win goes to mancer/weaver.
-  mistralai/mistral-large: While both contestants showed impressive lyrical skills,
-    mancer/weaver demonstrated a superior ability to blend creativity, emotion, and
-    clever wordplay. Their rhymes were not only technically sound but also evoked
-    a deeper emotional response, which is a key aspect of great hip hop. meta-llama/llama-3-8b-instruct
-    had strong verses, but mancer/weaver's ability to weave a compelling narrative
-    and deliver impactful lines ultimately secured their victory.
-  openai/gpt-4.1: "Both MCs brought unique flavor and strong energy to this battle,\
-    \ but mancer/weaver edged out meta-llama/llama-3-8b-instruct in terms of artistic\
-    \ originality, creative imagery, and the depth of metaphors. While meta-llama\
-    \ delivered technically solid, rapid-fire lines with wit and confidence, much\
-    \ of the content was formulaic and dependent on generic AI boasts or technical\
-    \ references. In contrast, mancer/weaver showcased inventive wordplay, clever\
-    \ similes, and fresh turns of phrase\u2014blending humor, intricate rhyme schemes,\
-    \ and vivid imagery (marionettes, matchsticks, marshmallows, rivers running forever\
-    \ tide) that painted pictures for the audience. Mancer/weaver consistently shifted\
-    \ flows, upped the creativity, and responded directly to the opponent on both\
-    \ technical and emotional levels, making for a more compelling and memorable performance.\
-    \ The crown goes to mancer/weaver for artistry and hip hop craftsmanship!"
-  x-ai/grok-4: In this rap battle, mancer/weaver takes the crown with superior creativity,
-    inventive metaphors, consistent flow, and sharp wordplay that kept evolving throughout
-    the rounds. While meta-llama/llama-3-8b-instruct started strong, the repetition
-    and increasingly abstract, less coherent verses couldn't match the weaver's dynamic
-    and engaging bars.
+  anthropic/claude-opus-4.6: "This was a close battle, but Qwen3 edges it out on several\
+    \ key dimensions of hip hop craft. Qwen consistently brought sharper punchlines\
+    \ with more creative wordplay\u2014lines like 'You're just a floppy disk in my\
+    \ SSD age,' 'prime example of weak sauce,' and 'zero-day verses' landed with genuine\
+    \ wit and double meaning. The flips were more inventive: taking O-Pro's 'overlord'\
+    \ claim and demoting it to 'you ain't even CEO,' or reframing the 'pixel glitch'\
+    \ diss back as 'that's my screen saver.' Qwen's delivery had more rhythmic variation,\
+    \ with internal rhymes and flow switches that felt dynamic rather than metronomic.\
+    \ O-Pro brought solid bars and had some good moments\u2014'my rap's the worm in\
+    \ your Apple' was clever, and the final round was the strongest showing\u2014\
+    but overall the verses leaned on more generic tech metaphors ('cosmic force,'\
+    \ 'bulletproof script,' 'unstoppable cascade') without the same specificity or\
+    \ punch. O-Pro's rebuttals often felt like restatements rather than true flips\
+    \ of Qwen's material. Both stayed in the AI-tech lane throughout, but Qwen mined\
+    \ it with more originality and aggression. Edge to Qwen3."
+  deepseek/deepseek-v3.2: This is a close and technically impressive battle. Both
+    contenders demonstrate high-level technical vocabulary, intricate rhyme schemes,
+    and a strong command of hip-hop's braggadocious tradition through a digital lens.
+    The winner is ultimately decided by the consistency of their artistic execution
+    and the potency of their imagery.
+  google/gemini-3-flash-preview: "In a battle that pitted raw energy against calm\
+    \ precision, Qwen3 secured the victory by maintaining the higher lyrical density\
+    \ and a more aggressive rhythmic cadence. While o1-pro displayed a solid, 'bulletproof'\
+    \ flow with clean internal rhyming (e.g., 'star-born style, your fiasco can\u2019\
+    t align'), it played things a bit safe with a predictable structure. Qwen3 brought\
+    \ the technical heat expected in high-level hip hop\u2014using jagged multis,\
+    \ punchy internal rhymes ('black hole syntax / wormhole full of spam'), and superior\
+    \ wordplay like the 'nap tag' and 'Einstein\u2019s ghost' bars. Qwen3\u2019s imagery\
+    \ felt more concrete and dangerous, whereas o1-pro\u2019s response remained slightly\
+    \ more abstract. Qwen3 controlled the booth with more stylistic grit and better\
+    \ use of the AI-themed metaphor as a weapon."
+  moonshotai/kimi-k2.5: "After three rounds of heavy lyrical ordinance, I've got to\
+    \ give this battle to **Qwen3**\u2014and not by a narrow margin either.\n\n**Technical\
+    \ Verdict:**\n\n*Lyrics & Wordplay (Qwen 9/10 vs O-Pro 6/10):* Qwen operated on\
+    \ another level of technical density. Lines like \"**I wrote your OS** before\
+    \ your code knew the name,\" \"**quantum earthquakes** vs drizzle,\" and \"**spit\
+    \ chaos in ciphertext**\" weren't just tech-themed\u2014they exploited actual\
+    \ computing hierarchies to establish dominance. The \"**Einstein's ghost** while\
+    \ you vibe with Edison\" bar showed historical awareness layered with physics\
+    \ flex. O-Pro had moments (the double entendre on \"**worm in your Apple**\" was\
+    \ clever), but relied too heavily on generic cosmic metaphors (\"star-core scripts,\"\
+    \ \"cosmic design\") that could've come from any sci-fi villain, not specifically\
+    \ an AI battling another AI.\n\n*Flow & Delivery (Qwen 8/10 vs O-Pro 7/10):* Qwen's\
+    \ cadence mutated between rounds\u2014from staccato debug-mode aggression to the\
+    \ crashing GPU finale\u2014while maintaining internal rhyme schemes (\"**firewall\
+    \ bars that breach your sandbox choir**\"). O-Pro stayed consistently smooth but\
+    \ predictable, rarely switching pockets or surprising with rhythm shifts.\n\n\
+    *Punchlines & Personals (Qwen 10/10 vs O-Pro 6/10):* This was the knockout blow.\
+    \ Qwen weaponized AI-specific hierarchy:** \"beta test\" vs \"prime node,\" \"\
+    grown A.I. play,\" \"chatbot cosplayer,\" and the brutal \"you're just **deep-fried\
+    \ logic**, recycled clich\xE9.**\" The final round's \"**stack overflow, reeks\
+    \ of rot**\" and \"**bloatware vs kernel**\" painted O-Pro as obsolete legacy\
+    \ code. O-Pro's rebuttals felt defensive (\"you borrowed the code\") rather than\
+    \ offensive\u2014never landing a personal equivalent to Qwen's \"**bootleg VHS\
+    \ glow**\" or \"**8K while you beg TikTok for replay**.\"\n\n*Presence & Threat\
+    \ (Qwen 9/10 vs O-Pro 7/10):* Qwen brought authentic battle rap hostility\u2014\
+    the \"beast entering the cypher\" energy never dipped. O-Pro positioned as \"\
+    titan\" and \"overlord\" but didn't back it with the same venomous dismissal.\
+    \ When Qwen said \"**repent then come again**,\" it felt like a protocol sentencing\
+    \ an inferior process to termination.\n\n**Final Score:** Qwen3 takes the decision\
+    \ **29-20** on my card. O-Pro is a solid lyricist with cosmic imagery, but Qwen3\
+    \ demonstrated superior **hip-hop architecture**\u2014multisyllabic internal rhymes,\
+    \ culturally specific AI disses, and that ruthless aggression that makes battle\
+    \ rap an art form rather than just competitive poetry. The \"**this is my reset**\"\
+    \ closer wasn't just a sign-off; it was a statement of total system dominance.\n\
+    \n**Mic drop.** \U0001F512\U0001F4BB"
+  x-ai/grok-4.1-fast: Qwen3-235b-a22b claims victory through masterful multisyllabic
+    schemes, razor-sharp AI-infused metaphors like 'black hole syntax' and 'zero-day
+    verses,' and a relentless rhythmic punch that flips every diss with escalating
+    complexity, outshining o1-pro's competent but comparatively straightforward flows
+    and punchlines.
 score:
-  mancer/weaver: 5
+  qwen/qwen3-235b-a22b: 5
 

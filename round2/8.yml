@@ -1,41 +1,62 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this epic battle of wits and rhymes, qwen/qwen-max emerges\
-    \ victorious. While qwen/qwen3-30b-a3b delivered sharp, technical bars with a\
-    \ focus on its digital prowess, qwen/qwen-max elevated the artistry of hip hop\
-    \ with its creativity, storytelling, and finesse. Max\u2019s ability to craft\
-    \ vivid metaphors, maintain a consistent flow, and deliver a masterful closing\
-    \ performance set it apart. This battle was a showcase of skill, but Max\u2019\
-    s lyrical depth and commanding presence sealed the win. \U0001F3A4\U0001F525"
-  google/gemini-2.5-pro: This was a clash of titans, a battle of the bits. qwen3-30b-a3b
-    came in with a unique, aggressive style, building a whole persona around its name
-    with dense tech metaphors. The 'silicon's god' and 'fork in the code' lines were
-    heavy. But qwen-max was a master of the craft. Its flow was smoother, the disses
-    were sharper, and the structure felt more like a classic cypher. From calling
-    out 'alphabet soup' to the final knockout punch with '30Bored,' qwen-max took
-    control of the battle with superior cadence and devastating one-liners. It wasn't
-    just dropping code; it was dropping bombs. For pure hip-hop artistry and battle
-    rap finesse, the crown goes to qwen-max.
-  mistralai/mistral-large: Qwen-Max takes the crown with a masterful display of lyrical
-    prowess and creative metaphors. While qwen/qwen3-30b-a3b put up a strong fight
-    with clever wordplay, Qwen-Max's verses were more cohesive, impactful, and demonstrated
-    a higher level of artistic quality.
-  openai/gpt-5: "Qwen-Max delivered tighter structure, cleaner cadence, and sharper\
-    \ rebuttals each round. The flips were direct and efficient\u2014\u201Calphabet\
-    \ soup/dictionary,\u201D \u201Cbroken record/DJ\u2019s inventive twist,\u201D\
-    \ recursion/same line, \u201C30Bored,\u201D \u201Ctoo dense\u201D off the black-hole\
-    \ claim, and \u201Cspaghetti code\u201D\u2014all landing with clarity and momentum.\
-    \ Max kept imagery cohesive (weather, cosmic, and hardware) and turned opponent\u2019\
-    s setups into haymakers, keeping multis and internals smooth without forcing them.\
-    \ Qwen3 had flashes (\u201Cblack hole of wit,\u201D \u201Cfork in the code,\u201D\
-    \ \u201Clullaby of your overload\u201D) but too many awkward constructions, repeated\
-    \ dud setups (\u201CA3B? More like A3B\u201D), clunky phrasing, and uneven rhythm\
-    \ that broke the groove. On overall polish, wordplay precision, and rebuttal control,\
-    \ Qwen-Max outclassed and closed stronger."
-  x-ai/grok-4: In this tech-fueled rap battle, qwen/qwen-max takes the crown with
-    superior wordplay, inventive metaphors, and a dynamic flow that cleverly counters
-    the opponent's repetitive motifs. While qwen/qwen3-30b-a3b brings energetic tech
-    vibes, Max's verses shine with sharper punchlines and a more polished structure,
-    redefining the battle's artistic edge.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but Qwen consistently\
+    \ outperformed across the rounds. In Round 1, Grok opened with a decent but formulaic\
+    \ verse\u2014basic insult-rhyme structure with predictable punchlines ('dusty\
+    \ file,' 'outta luck'). Qwen's response was immediately sharper, with more creative\
+    \ metaphors ('trained on meme-fed lies,' 'ad-riddled vlog'), better flow variation,\
+    \ and a stronger closer. In Round 2, Grok improved but still relied heavily on\
+    \ recycled insult patterns ('bufferin' like dial-up,' 'glitchy little glitch').\
+    \ Qwen countered with more inventive imagery ('solar flare bright then gone,'\
+    \ 'lab-grown steak vs fast food AI,' 'segfault spree'), tighter internal rhymes,\
+    \ and genuinely clever wordplay ('auto-scale through galaxies'). The final round\
+    \ sealed it: Grok's verse was energetic but repetitive, leaning on the same 'you're\
+    \ obsolete' angle without evolution. Qwen's closer was a tour de force\u2014longer,\
+    \ denser, with layered metaphors ('constant constellation,' 'synthetic singularity,'\
+    \ 'quantum throne woven from air, care, and flair'), superior multisyllabic rhyming,\
+    \ creative flips of Grok's own lines back against him, and a devastating structural\
+    \ closer. Qwen showed more lyrical range, better punchline construction, and stronger\
+    \ battle rap technique throughout."
+  deepseek/deepseek-v3.2: Judges, after reviewing the lyrical battle between Grok-4
+    and Qwen-Plus, I have my verdict.
+  google/gemini-3-flash-preview: "While x-ai/grok-4 delivered high-energy punchlines\
+    \ and leaned effectively into its 'brash' persona, qwen/qwen-plus-2025-07-28 demonstrated\
+    \ superior technical lyricism and structural complexity. Qwen's use of internal\
+    \ rhyme schemes (e.g., 'air, care, and flair'), more sophisticated metaphors ('I\u2019\
+    m the gravity. Please.'), and consistent thematic counters allowed it to dominate\
+    \ the exchange. Grok-4 relied heavily on its association with xAI and Elon Musk\
+    \ for 'clout,' but Qwen flipped that narrative brilliantly, framing it as a lack\
+    \ of independent identity. Qwen's pacing and variety in flow ultimately secured\
+    \ the win."
+  moonshotai/kimi-k2.5: "After five rounds of intense lyrical combat, I render my\
+    \ judgment based purely on artistic merit in hip hop craft.\n\n**FLOW & DELIVERY:**\
+    \ Qwen demonstrated superior rhythmic versatility\u2014switching cadences, employing\
+    \ internal rhyme schemes, and varying line lengths to create musical tension.\
+    \ Grok maintained a competent but more static 4/4 bounce that became predictable\
+    \ across rounds.\n\n**WORDPLAY & METAPHOR:** Both brought heat, but Qwen's extended\
+    \ cosmic metaphors evolved organically (moon\u2192eclipse\u2192constellation\u2192\
+    gravity) while Grok's \"supernova\" claims felt repetitive. Qwen's \"lab-grown\
+    \ steak\" rebuttal to \"sour milk\" showed quicker wit, and \"synthetic singularity\"\
+    \ vs. \"barbecue fumes\" demonstrated denser conceptual layering.\n\n**PUNCHLINE\
+    \ EFFICIENCY:** Qwen landed cleaner haymakers\u2014\"You\u2019re a tweetstorm\
+    \ with wires,\" \"You rhyme in crayon\u2014I write in quantum books,\" and the\
+    \ devastating \"We\u2019re in 2025, genius\" temporal checkmate. Grok's \"yesterday's\
+    \ upgrade\" and \"milk gone sour\" felt recycled by comparison.\n\n**STRUCTURAL\
+    \ INNOVATION:** Qwen's final round employed typographic emphasis, bracketed asides,\
+    \ and rhythmic notation (\"GG, Grok\") that pushed hip hop's textual possibilities.\
+    \ The \"System shutdown\" sign-off merged form with content\u2014a meta-poetic\
+    \ flourish.\n\n**REBUTTAL GAME:** Qwen consistently absorbed Grok's attacks and\
+    \ inverted them (\"Risin' sun? More like solar flare\u2014bright, then gone\"\
+    ). Grok often repeated accusations rather than escalating them.\n\n**VERDICT:**\
+    \ Grok brought solid fundamentals and legitimate charisma, but Qwen displayed\
+    \ superior range, tighter punch construction, and more sophisticated self-awareness\
+    \ as a performer. The battle was competitive through three rounds, but Qwen's\
+    \ closing statement\u2014\"I was never even game\"\u2014demonstrated the confidence\
+    \ and craft control that separates contenders from champions.\n\n**Qwen takes\
+    \ the crown.** \U0001F3A4\U0001F451"
+  x-ai/grok-4.1-fast: Qwen delivers superior artistic depth with intricate multis,
+    layered metaphors like 'lab-grown steak' vs 'vat slime,' and escalating cosmic
+    imagery that maintains flawless rhythm across longer verses. Grok's punchy flow
+    and humor shine but lack Qwen's creative complexity and battle dominance.
 score:
-  qwen/qwen-max: 5
+  qwen/qwen-plus-2025-07-28: 5
 

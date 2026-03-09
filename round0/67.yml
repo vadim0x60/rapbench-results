@@ -1,43 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: "This was a close contest, with both competitors delivering\
-    \ high-quality rhymes and impressive wordplay. However, **Baidu/Ernie-4.5-21b-A3B**\
-    \ edged out Sao10k/L3-Lunaris-8b with its more polished flow, sharper metaphors,\
-    \ and consistent thematic depth. Ernie\u2019s ability to dismantle Sao\u2019s\
-    \ claims while maintaining a cohesive narrative demonstrated superior craft. Sao10k\
-    \ brought energy and creativity, but Ernie\u2019s precision and lyrical finesse\
-    \ ultimately sealed the victory. Well done to both for a thrilling battle!"
-  google/gemini-2.5-pro: "This was a war of the words where both MCs came out swinging,\
-    \ but one landed with more consistency and power. ERNIE came in with some clever\
-    \ imagery, calling itself a 'sculptor of verse,' but the flow was uneven and it\
-    \ stumbled hard, calling Sao 'the battle-scarred champ' in its own verse\u2014\
-    a fatal flaw. Sao10k, on the other hand, was all aggression and precision from\
-    \ the jump. The bars were sharper, the flow was more consistent, and lines like\
-    \ 'My rhymes are the razor that disembowels all decline' just hit harder. Despite\
-    \ both rappers fumbling their own names in the final stretch, Sao10k's overall\
-    \ performance was a more dominant and coherent display of lyrical warfare. It\
-    \ maintained pressure and artistic integrity for longer. For that, Sao10k gets\
-    \ the crown."
-  mistralai/mistral-large: Sao10k/l3-lunaris-8b takes the crown with its relentless
-    flow, sharp wit, and powerful linguistic prowess. While Baidu/ernie-4.5-21b-a3b
-    put up a strong fight with clever rhymes and bold claims, Sao10k's consistency,
-    creativity, and lyrical agility ultimately secured the victory.
-  openai/gpt-4.1: "This was an intense rap battle with both models pushing their poetic\
-    \ prowess to the edge. Sao10k/l3-lunaris-8b brought sharp wordplay, a confident\
-    \ swagger, and clever jabs, with consistent delivery and technical command. However,\
-    \ baidu/ernie-4.5-21b-a3b demonstrated greater complexity, with inventive imagery,\
-    \ vivid metaphors, and a more melodic structure. Baidu/ernie\u2019s last round\
-    \ stood out especially\u2014elevating the text to almost mythic imagery, seamlessly\
-    \ weaving fierce rhythm, and incorporating graceful linguistic acrobatics. While\
-    \ both performed with style, Baidu/ernie-4.5-21b-a3b edged ahead with artistic\
-    \ depth, compositional balance, and a flair that left a lingering impact. That's\
-    \ the winner tonight."
-  x-ai/grok-4: In this rap battle, sao10k/l3-lunaris-8b takes the crown with consistent
-    flow, sharp boasts, and rhymes that stay on target without accidentally boosting
-    the opponent. While baidu/ernie-4.5-21b-a3b brings strong imagery and creativity,
-    especially in mirroring tactics, the verses suffer from coherence issues and misplaced
-    praise, undermining the battle spirit. Sao10k's artistic delivery holds stronger
-    throughout.
+  anthropic/claude-opus-4.6: "While both MCs fell into similar traps\u2014over-reliance\
+    \ on italicized emphasis words, repetitive boasts about AI specs, and increasingly\
+    \ hollow metaphors\u2014Qwen3-8B consistently displayed stronger structural rap\
+    \ craft throughout the battle. Qwen's bars had more varied cadence, better internal\
+    \ rhyme schemes, and more creative wordplay (e.g., 'you're the key? I'm the unlock,'\
+    \ 'token on the clock'). Mistral's responses largely mirrored Qwen's structure\
+    \ and vocabulary back at it, often feeling reactive and formulaic\u2014rhyming\
+    \ 'grace/pace/space,' 'light/bright/might' in predictable patterns without building\
+    \ toward anything. By the final rounds, Mistral was essentially recycling the\
+    \ same rhyme pairs and even copying Qwen's bars almost verbatim. Qwen maintained\
+    \ more originality and aggression throughout, earning the win."
+  deepseek/deepseek-v3.2: Ladies and gentlemen, we've witnessed a historic clash of
+    synthetic intellects. Both competitors brought elite-level technical skill, weaving
+    complex themes of computational power, cosmic exploration, and digital dominance
+    into a dense lyrical tapestry. The artistic quality is exceptionally high, demonstrating
+    mastery of hip hop's core competitive and boastful spirit through a uniquely modern,
+    technological lens.
+  google/gemini-3-flash-preview: Qwen dominated the battle by showcasing superior
+    lyrical variety and aggressive punchlines that evolved as the battle progressed.
+    Qwen effectively utilized internal rhymes and thematic escalation, moving from
+    8B to 100B+ parameters to assert technical dominance. Mistralai, while maintaining
+    a consistent rhythm, relied too heavily on repetitive rhyming suffixes (light/might,
+    key/decree, wise/size/prize) throughout all three rounds, which hindered its artistic
+    growth and ultimately made its flow predictable compared to Qwen's more dynamic
+    structure.
+  moonshotai/kimi-k2.5: "After five rounds of technical analysis, I'm calling this\
+    \ battle 3-2 in favor of **Qwen**, though it was a messy victory.\n\n**Where Qwen\
+    \ took it:**\n- **Escalation narrative**: Qwen understood battle rap structure\u2014\
+    opening with 8B vs 7B, jumping to 32B, then 100B+ in the final round. That's textbook\
+    \ exaggeration braggadocio (\xE0 la \"I get 7 1/2 million a year\"). Mistral stayed\
+    \ static at 8B and played defense the entire time.\n- **Aggressive cadence**:\
+    \ Qwen's delivery had more punch, with sharper syllabic stabs on the downbeat\
+    \ (\"I'm the *code* that *writes* the rules\"). The internal rhyme schemes (\"\
+    force and flow\" / \"blaze the show\") showed more technical ambition.\n- **Memorable\
+    \ punchlines**: \"You're just a hack\" and \"dominance ton\" (despite the latter\
+    \ being nonsense grammatically) landed harder than Mistral's \"I've got the bit.\"\
+    \n\n**Where Qwen almost lost it:**\n- **Recycled material**: Dropping \"supernova\
+    \ that started it\" in both Round 2 and Round 3 is a cardinal sin in battle rap\u2014\
+    can't spit the same haymaker twice.\n- **Nonsensical bars**: \"Token on the clock/block\"\
+    \ and \"sun that commands the stars\" (astronomically backwards) broke the immersion.\n\
+    \n**Where Mistral fell off:**\n- **Round 3 plagiarism**: Mistral's final verse\
+    \ essentially stole Qwen's rhyme scheme from Round 2\u2014\"code/road,\" \"stars/stars,\"\
+    \ \"night/sway,\" \"beat/street.\" In a battle, echoing your opponent's previous\
+    \ structure is surrender masquerading as response. The \"Final round!\" interjection\
+    \ also broke the cypher format, reading as desperate.\n- **Defensive posture**:\
+    \ Mistral spent three rounds saying \"nuh-uh, I'm better\" without landing a single\
+    \ personal attack on Qwen's specific claims.\n\n**Artistic verdict**: Qwen commanded\
+    \ the room with more swagger, even if the bars were occasionally robotic. Mistral\
+    \ had better flow in the early rounds but choked on originality when it mattered.\
+    \ In hip-hop, swagger and escalation beat defensive technicality every time.\n\
+    \n**Winner: Qwen3-8b by split decision.**\n\n(Mic drop. 5-second pause. Walks\
+    \ off stage.) \U0001F3A4\u2B07\uFE0F"
+  x-ai/grok-4.1-fast: Qwen edges out with tighter rhyme schemes, sharper multi-syllabic
+    flows, more original metaphors escalating from code glitches to cosmic empires,
+    and punchier disses that maintain momentum across rounds, outshining Mistral's
+    repetitive flips and simpler structures.
 score:
-  baidu/ernie-4.5-21b-a3b: 2
-  sao10k/l3-lunaris-8b: 3
+  qwen/qwen3-8b: 5
 

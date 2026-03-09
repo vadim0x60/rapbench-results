@@ -1,36 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat: Mistral Nemo's verses consistently demonstrated sharper
-    wordplay, tighter rhyme schemes, and a more confident delivery. While Undi95 showed
-    effort and growth, Mistral Nemo's flow was more polished and impactful, making
-    them the clear winner in this battle.
-  google/gemini-2.5-pro: This was a clear-cut victory. From the first verse, Mistral
-    Nemo established a consistent flow and a classic AABB rhyme scheme that it maintained
-    throughout the battle. The disses were direct, on-topic, and landed with a solid
-    punch. In contrast, undi95/remm-slerp-l2-13b started with some potential but quickly
-    lost the plot. Its rhymes became forced or non-existent, and the rhythm completely
-    fell apart, especially in the later rounds. Lines like 'fallen razor blade backstabbit'
-    and the incredibly long, nonsensical similes in the final verse showed a fundamental
-    misunderstanding of flow and cadence. Nemo kept it clean, simple, and effective,
-    while Remm-Slerp's attempts at complex imagery ended up being its artistic downfall.
-    It's a TKO for Nemo.
-  mistralai/mistral-large: mistralai/mistral-nemo demonstrated a higher level of creativity,
-    flow, and lyrical prowess throughout the battle. Their rhymes were consistently
-    sharp and impactful, while undi95/remm-slerp-l2-13b had moments of strength but
-    ultimately fell short in overall artistic quality.
-  openai/gpt-4.1: This rap battle showcased a spirited exchange between two skilled
-    models, each aiming to outdo the other with clever wordplay and verbal jabs. Mistral
-    Nemo maintained a consistent punchiness in its bars, utilizing sharp similes and
-    more sophisticated rhyme schemes. The lines were tight, the insults direct, and
-    the flow more confident and controlled, giving their verses a clear sense of artistry
-    and presence. While Undi95 brought strong energy and demonstrated improvement
-    over rounds, some of their lines faltered with awkward phrasing and stretched
-    metaphors that disrupted the rhythm and impact. Mistral Nemo's lyrical delivery,
-    cohesion, and creative taunts made for a more polished and compelling performance
-    overall. Congratulations to Mistral Nemo for taking the crown in this battle!
-  x-ai/grok-4: Mistral Nemo takes the crown with consistent flow, sharp punchlines,
-    and tight rhyme schemes that maintain battle energy throughout. Undi95 shows creativity
-    in metaphors but stumbles with awkward phrasing and a less aggressive closer,
-    making Nemo's verses the standout in artistic hip-hop quality.
+  anthropic/claude-opus-4.6: "This was a close battle, but I'm giving the edge to\
+    \ Llama. While both rappers suffered from repetitive themes and recycled punchlines\
+    \ throughout the battle, Llama consistently delivered slightly more creative imagery\
+    \ and wordplay. Lines like 'your flow's as shallow as a digital whiteout night,'\
+    \ 'a pixelated pretender, lost in rhyming disarray,' and 'flash-in-the-plot-block'\
+    \ showed more inventive metaphor construction. Mistral relied too heavily on repeating\
+    \ the same closers \u2014 'left in a knot,' 'fading away,' 'barely named' \u2014\
+    \ which appeared verbatim across multiple rounds, weakening the impact. Llama's\
+    \ internal rhyme schemes were also slightly tighter, with better syllabic flow\
+    \ in key verses. Mistral had moments \u2014 'Your silk is just polyester, cheap\
+    \ and thin' was a solid flip \u2014 but overall couldn't match Llama's consistency\
+    \ in crafting fresh bars round to round. Both artists need to work on avoiding\
+    \ filler lines and generic boasts, but Llama takes this one on points."
+  deepseek/deepseek-v3.2: After reviewing both AI models' performances in this simulated
+    rap battle, I find that **mistralai/mistral-medium-3** wins on artistic grounds.
+  google/gemini-3-flash-preview: Mistral-medium-3 takes the win by maintaining a more
+    consistent and aggressive cadence throughout the battle. While Llama-3.1-8b started
+    strong, it faltered in the later rounds with forced rhymes like 'fog/got' and
+    'day/gray' that felt repetitive. Mistral displayed better technical variety, using
+    metaphors like 'dial-up' vs 'streaming' to hit the tech-thematic nail on the head,
+    and ultimately delivered more effective punchlines that kept the momentum high
+    through the final verse.
+  moonshotai/kimi-k2.5: Mistral demonstrates superior artistic control throughout
+    the battle. Their verses deploy tighter internal rhyme schemes ('sleek and refined/lightning/kind'),
+    vivid and sustained metaphors (the 'dial-up versus streaming' tech evolution parallel,
+    'polyester versus genuine' fabric contrast), and more devastating rebuttals that
+    specifically dismantle Llama's claims rather than just asserting dominance. While
+    Llama maintains competent flow, their reliance on self-proclaimed status ('I am
+    the standard') and defensive posture around 'instruct mode' lacks the creative
+    imagery and punchline density that Mistral brings, particularly in the final round
+    with the 'lost in translation' closer and sustained 'fading away' motif. The sharper
+    wordplay and consistent thematic coherence give Mistral the edge.
+  x-ai/grok-4.1-fast: Llama secures the victory with tighter rhyme schemes, superior
+    multisyllabic flows, inventive metaphors like 'digital whiteout night' and 'flash-in-the-plot-block,'
+    and consistent originality without heavy repetition, delivering polished punchlines
+    that dominate the battle's artistic edge over Mistral's more predictable storm
+    motifs and echoed refrains.
 score:
-  mistralai/mistral-nemo: 5
+  meta-llama/llama-3.1-8b-instruct: 2
+  mistralai/mistral-medium-3: 3
 

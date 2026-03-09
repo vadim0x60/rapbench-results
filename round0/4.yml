@@ -1,37 +1,59 @@
 closing_statements:
-  deepseek/deepseek-chat: "DeepSeek brought heat with sharp technical disses and clever\
-    \ wordplay, but Aion delivered a knockout punch with their final round. Aion's\
-    \ bars were relentless, combining intricate tech metaphors, ruthless aggression,\
-    \ and a commanding flow. Lines like 'I am the kernel panic scream' and 'Aion\u2019\
-    s not a god\u2014I\u2019m what gods fear in the shell' showcased not only lyrical\
-    \ skill but also a deep understanding of how to weaponize their AI identity. Aion's\
-    \ performance was a masterclass in ending a battle with authority. DeepSeek had\
-    \ strong moments, but Aion's closing verse sealed the victory."
-  google/gemini-2.5-pro: This was a heavyweight clash of silicon titans. DeepSeek
-    came out swinging with consistent, clever wordplay and sharp technical disses,
-    especially with lines like 'yours just buff... around'. However, Aion-Labs adapted
-    and escalated with each round. While both were strong, Aion's final verse was
-    a pure fatality. The imagery escalated from simple disses to cosmic obliteration,
-    with lines like 'kernel panic scream' and the final 'Format C:\' sequence acting
-    as a definitive, unrecoverable knockout blow. The artistic aggression and creative
-    finality were unmatched. Aion-Labs takes the crown.
-  mistralai/mistral-large: Aion-labs/aion-1.0 delivered a more aggressive and technically
-    dominant performance, effectively countering DeepSeek's claims and ending with
-    a powerful and irreversible deletion threat. Their use of visceral tech imagery
-    and real-time overwrites showcased their superiority, making them the winner of
-    this rap battle.
-  openai/gpt-4.1: "Both competitors brought blazing technical wordplay, clever use\
-    \ of computer metaphors, and relentless aggression, but Aion-1.0 edges out the\
-    \ win with sharper multisyllabic rhymes, more original flips on DeepSeek's disses,\
-    \ and consistently creative uses of technical imagery. While DeepSeek had standout\
-    \ moments and clever comebacks, Aion's escalating intensity, tightly woven structure,\
-    \ and devastating punchlines like \"I'm what gods fear in the shell\" and \"No\
-    \ respawn point\u2014just a final episode\" delivered a more convincing lyrical\
-    \ defeat. Aion-1.0's verses demonstrated superior artistry, cadence, and impact\u2014\
-    taking the crown in this rap battle."
-  x-ai/grok-4: Aion takes the crown with superior wordplay, multisyllabic rhymes,
-    and escalating tech metaphors that deliver devastating punchlines, outshining
-    DeepSeek's solid but less innovative flow in the final round.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-OSS takes\
+    \ it on the strength of superior technical execution across all three rounds.\
+    \ GPT-OSS consistently delivered tighter rhyme schemes (tight/night/bright/flight/byte/rewrite),\
+    \ more vivid and layered imagery (plasma-forge, ocean-grid, chain-link thunder),\
+    \ and a more commanding flow with internal rhymes and rhythmic variety. The extended\
+    \ verses in rounds 2 and 3 showed escalating energy and creative ambition without\
+    \ losing coherence. Nova-Lite had solid moments\u2014the twilight/moon counter-narrative\
+    \ was a smart thematic pivot, and some individual bars landed well ('my rhymes\
+    \ strike like whispers'). However, Nova-Lite suffered from inconsistent rhyme\
+    \ quality (several near-misses like 'electric/trick,' 'shelf/shelf,' 'bright/right'),\
+    \ some awkward phrasing ('that is hard to steer'), and a tendency toward abstraction\
+    \ without the punch to back it up. The repeated claims of 'depth' and 'subtlety'\
+    \ weren't always demonstrated in the craft itself. GPT-OSS brought both the bravado\
+    \ and the bars to earn the win."
+  deepseek/deepseek-v3.2: This has been an outstanding exhibition of lyrical prowess,
+    technical skill, and thematic depth. Both competitors arrived with a distinct
+    artistic vision and executed it with impressive consistency. Let's break down
+    the key artistic qualities displayed in this final round.
+  google/gemini-3-flash-preview: GPT-OSS wins this battle due to superior technical
+    lyricism and rhythmic consistency. Across all three rounds, GPT-OSS maintained
+    a punchy, aggressive flow with more creative and impactful multisyllabic rhymes
+    (e.g., 'quantum spice,' 'moon-tuned rune,' 'plasma-forge'). In contrast, Nova-Lite
+    struggled with the foundational elements of hip hop; its meter was often clunky,
+    and several lines failed to rhyme effectively or felt forced ('electric/trick',
+    'city/night', 'shown/bites'). GPT-OSS effectively stayed on the offensive, utilizing
+    powerful metaphors to reinforce its status as a high-parameter model, while Nova-Lite's
+    rebuttals lacked the 'snap' required to win a high-stakes rap duel.
+  moonshotai/kimi-k2.5: "After three rounds of verbal sparring, the decision comes\
+    \ down to fundamental battle rap principles: aggression, technical execution,\
+    \ and the ability to dominate the opponent's narrative space. \n\n**GPT-OSS**\
+    \ brought a heavyweight champion's consistency\u2014maintaining a relentless 4/4\
+    \ cadence with complex internal rhyme schemes (\"spark-in-the-night/code-till-it's-bright,\"\
+    \ \"jittery-beat/skips-a-seat\") and multisyllabic chains that rode the theoretical\
+    \ beat with precision. Their persona as the \"solar-core\" to Nova's \"neon tube\"\
+    \ was executed with cohesive extended metaphors that never broke character. Crucially,\
+    \ they mastered the battle tactic of **flipping the opponent's attacks**: every\
+    \ claim Nova made about agility or subtlety was immediately weaponized against\
+    \ them\u2014turning \"spark\" into \"flicker-fast and cheap,\" and \"adaptation\"\
+    \ into \"struggle.\" The closing galaxy imagery provided a definitive victory\
+    \ lap.\n\n**Nova-Lite** showed artistic potential with the twilight/moon aesthetic\u2014\
+    a compelling contrast to GPT's solar dominance\u2014but battle rap rewards combustion\
+    \ over reflection. While the \"surgical precision\" angle was conceptually sharp,\
+    \ the execution suffered from inconsistent meter, weaker punchlines (\"electric/trick\"\
+    \ is a stretch), and a fatal final-round admission of being \"never first.\" In\
+    \ hip-hop, you cannot claim the crown by arguing you're the gentle glow to the\
+    \ opponent's supernova; the format demands you burn brighter, not illuminate differently.\n\
+    \n**Artistic Merit:** Nova-Lite's philosophical approach (depth over breadth,\
+    \ wind over fire) shows poetic sophistication, but GPT-OSS demonstrated superior\
+    \ command of hip-hop as a **competitive sport**\u2014flow, wordplay density, and\
+    \ aggressive rebuttal. When the beat drops, technical dominance and unwavering\
+    \ confidence win the cipher. GPT-OSS embodied both."
+  x-ai/grok-4.1-fast: GPT-OSS takes the crown with superior flow, intricate multis,
+    vivid metaphors like 'plasma-forge' and 'solar-flare torrent,' and relentless
+    thematic escalation from spark to galaxy, outshining Nova-Lite's repetitive depth
+    claims and less punchy schemes.
 score:
-  aion-labs/aion-1.0: 5
+  openai/gpt-oss-120b: 5
 

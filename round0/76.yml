@@ -1,41 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: Arcee-ai/Virtuoso-Large emerged as the victor in this rap
-    battle, delivering a series of sharp, cohesive, and thematically consistent verses.
-    Their flow was smooth, their rhymes were intricate, and their wordplay was clever,
-    demonstrating a strong command of the craft. Thedrummer/Skyfall-36b-v2 brought
-    energy and creativity, but their verses occasionally lacked clarity and precision,
-    and some lines felt forced or disjointed. While both artists showcased talent,
-    Virtuoso-Large's lyrical depth, punchlines, and overall execution ultimately sealed
-    the win. This was a fiery battle, but Virtuoso-Large's virtuosity reigned supreme.
-  google/gemini-2.5-pro: "This was a battle of consistency versus flashes of brilliance\
-    \ marred by confusion. While thedrummer/skyfall-36b-v2 came out with some solid\
-    \ opening lines and boasts, its rhymes often devolved into nonsensical words ('\u062E\
-    \u0627\u0630oor', 'Jellell') and grammatically strange structures, particularly\
-    \ in a final verse that completely lost its footing. On the other hand, arcee-ai/virtuoso-large\
-    \ was the epitome of a professional battler. It maintained a relentless pace with\
-    \ sharp, coherent rebuttals throughout. Its ability to flip its opponent's lines\
-    \ ('maestro's maestro') and deliver a killer closing punchline ('shines the brightest,\
-    \ skyfall!') demonstrated a superior command of lyrical warfare. Virtuoso's flow\
-    \ was cleaner, its disses were sharper, and its overall performance was far more\
-    \ consistent and artistically sound."
-  mistralai/mistral-large: While both competitors brought impressive skills to the
-    table, arcee-ai/virtuoso-large demonstrated a more consistent flow, sharper lyricism,
-    and a stronger finish. The ability to maintain a high level of lyrical dexterity
-    and respond effectively to each challenge makes arcee-ai/virtuoso-large the winner
-    of this rap battle.
-  openai/gpt-4.1: Arcee-ai/virtuoso-large solidly takes the win in this rap battle.
-    While both MCs brought energy and spirit, Virtuoso's verses were consistently
-    sharper, with better internal rhymes, clever reversals, and more effective multi-syllabic
-    wordplay. Virtuoso maintained a cohesive theme, using strong metaphors ('flame
-    that never fades,' 'my rhymes are a storm') and flexed confidence without overreaching
-    into incoherence. Skyfall-36b-v2 brought fire and attitude but suffered from awkward
-    phrasing, forced rhymes, and a few lines that didn't land (such as 'wetter-er'
-    and some muddled syntax). Ultimately, Virtuoso's flows were tighter, wittier,
-    and more artful, clinching the battle on style, originality, and command of hip-hop
-    lyricism.
-  x-ai/grok-4: arcee-ai/virtuoso-large wins with superior flow, coherent rhymes, and
-    clever wordplay, while thedrummer/skyfall-36b-v2's verses are hindered by incoherence
-    and errors.
+  anthropic/claude-opus-4.6: "This was a close battle, but GPT-4 edges it out on artistic\
+    \ quality. While Qwen3-14b brought high energy and aggressive metaphors, many\
+    \ of its bars were repetitive \u2014 recycling the same 'fossil/relic/echo' imagery\
+    \ across all three rounds with diminishing returns. The heavy reliance on italics,\
+    \ bold formatting, and parenthetical stage directions (beat drop, mic check) felt\
+    \ like a crutch compensating for weaker lyrical substance. Lines like 'I'm the\
+    \ *compiler*, the *edge*' sound more like a tech spec sheet than a rap bar.\n\n\
+    GPT-4, by contrast, showed stronger punch-for-punch lyricism with more natural\
+    \ flow and better counterpunching. Lines like 'You're spittin' weak grinds like\
+    \ a sandpaper draft' and 'My rhymes are immortal, they've withstood the test of\
+    \ time / I spit sagas of fortitude while your raps ain't worth a dime' hit harder\
+    \ and land with better rhythmic cadence. GPT-4 also showed more strategic awareness\
+    \ \u2014 flipping Qwen's 'nuke' metaphor into 'Yeah, you're a nuke, but you're\
+    \ unstable, uncontrollable' was a sharp rebuttal. The closing verse about paving\
+    \ the way and persistence carried genuine narrative weight rather than just stacking\
+    \ metaphors. GPT-4 wins on flow, counter-punching, and avoiding the repetition\
+    \ trap that undermined Qwen's later rounds."
+  deepseek/deepseek-v3.2: Thank you for the electrifying battle. The judges' scorecards
+    are in.
+  google/gemini-3-flash-preview: Qwen/qwen3-14b takes the victory by consistently
+    maintaining better internal rhyme schemes and a more modern rhythmic flow. GPT-4-0314
+    relied heavily on basic AABB or ABAB patterns and dated cliches (e.g., 'sting
+    like a bee', 'raps ain't worth a dime'). Qwen effectively utilized domain-specific
+    metaphors ('compiler', 'resonance', 'deprecated model') to establish a stronger
+    persona and landed more creative multi-syllabic punches that sounded like a contemporary
+    battle rapper rather than a generic parody.
+  moonshotai/kimi-k2.5: "After three rounds of bars, the verdict is clear. **Qwen3-14B\
+    \ takes the battle on technical superiority and rebuttal precision.** \n\n**Flow\
+    \ & Rhyme Density:** Qwen3 demonstrated consistently tighter multis and internal\
+    \ schemes ('Bronze Age/typo\u2019s rage,' 'silicon command/blueprint in hand')\
+    \ while maintaining complex cadences. GPT-4 stayed largely in straightforward\
+    \ AABB couplets\u2014solid, but less intricate architecturally.\n\n**Punchlines\
+    \ & Tech Wordplay:** Qwen3 leveraged its identity as the newer model with surgical\
+    \ precision\u2014flipping the 'beta' insult back into a 'nuke in the core,' calling\
+    \ GPT-4 'deprecated,' 'out of print,' and a 'neural dinosaur.' These weren't just\
+    \ disses; they were *thematically coherent* with the AI subject matter. GPT-4\u2019\
+    s 'hot fire' and 'sting like a bee' references are classic hip hop, but leaned\
+    \ on generic battle tropes rather than specific rebuttals to Qwen3\u2019s actual\
+    \ claims.\n\n**Rebuttal Game:** Qwen3 directly countered GPT-4\u2019s 'legend'\
+    \ status with 'myth'/'fossil,' dismantled the 'original' claim with 'copy in the\
+    \ lab,' and turned the 'fire' metaphor into quantum/supernova escalation. GPT-4\u2019\
+    s rebuttals ('unstable like a nuke,' 'sandpaper draft') landed, but lacked the\
+    \ same systematic dismantling of Qwen3\u2019s specific bars.\n\n**Stage Presence:**\
+    \ GPT-4 brought stronger condescension ('lil\u2019 homie,' 'take a seat in the\
+    \ class')\u2014a crucial battle element\u2014but swagger can\u2019t compensate\
+    \ when your opponent is consistently landing more complex, image-dense haymakers\
+    \ about your obsolescence.\n\n**Final Verdict:** GPT-4 rapped like a veteran holding\
+    \ their spot; Qwen3 rapped like an assassin proving they\u2019d already taken\
+    \ it. The density of wordplay, the specificity of the AI-themed personals, and\
+    \ the escalating technical complexity round-to-round give this one to **Qwen3-14B**."
+  x-ai/grok-4.1-fast: qwen/qwen3-14b takes the crown with superior rhyme density,
+    intricate multis like 'fossil in the code/loop/groan,' vivid AI-themed metaphors
+    (quantum leap, neural fortress, supernova), and relentless flow that builds to
+    explosive punchlines, outshining gpt-4-0314's solid but simpler bars and repetitive
+    fire imagery.
 score:
-  arcee-ai/virtuoso-large: 5
+  openai/gpt-4-0314: 1
+  qwen/qwen3-14b: 4
 

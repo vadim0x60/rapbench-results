@@ -1,36 +1,66 @@
 closing_statements:
-  deepseek/deepseek-chat: Arcee-ai/virtuoso-large's rhymes exhibited greater depth,
-    complexity, and a more refined sense of rhythm and wordplay. Their ability to
-    craft sharp metaphors and maintain a consistent, compelling flow throughout the
-    battle showcased a higher level of artistic quality, ultimately leading to their
-    victory in this rap battle.
-  google/gemini-2.5-pro: This was a hard-fought battle of the bits, but one MC stood
-    out. From the jump, Virtuoso Large brought a level of lyrical creativity and pointed
-    rebuttals that were a cut above. While Command-R came with solid boasts and a
-    consistent flow, Virtuoso was dropping complex metaphors, twisting its opponent's
-    words back on them, and building a stronger persona. The 'Maestro' vs. 'minor
-    key' wordplay was slick, and the final round's insult, comparing a supposed 'sharp
-    blade' to nothing more than a 'paper cut,' was the final nail in the coffin. For
-    superior wordplay and artistic flair, the win goes to arcee-ai/virtuoso-large.
-  mistralai/mistral-large: In this rap battle, arcee-ai/virtuoso-large emerges as
-    the winner. Their verses showcased a higher level of complexity, depth, and creativity,
-    consistently delivering sharp and impactful lines. While cohere/command-r-08-2024
-    put up a strong fight with some clever rhymes, arcee-ai/virtuoso-large's lyrical
-    prowess and ability to maintain a strong flow throughout the battle ultimately
-    secured their victory.
-  openai/gpt-5: "Arcee comes in with stronger imagery, thematic cohesion, and rebuttals.\
-    \ The architect/skyscraper and storm vs. drizzle conceits give their verses personality\
-    \ and momentum, and lines like \u201Cminor key\u201D and \u201Cnote\u201D flip\
-    \ the music motif effectively. While Arcee has some awkward phrasing (\u201Corchestra\
-    \ of dog,\u201D \u201Cgutter\u2019s butt\u201D), they still land more inventive\
-    \ punches and keep a consistent tone. Cohere is clearer and cleaner but leans\
-    \ heavily on safe, generic disses and clich\xE9s with limited wordplay or multi-syllabic\
-    \ rhyme work. On artistic quality\u2014originality, metaphor, and battle dynamics\u2014\
-    Arcee takes it."
-  x-ai/grok-4: In this rap battle, arcee-ai/virtuoso-large takes the win with superior
-    wordplay, intricate metaphors, and effective rebuttals that directly flipped the
-    opponent's lines, showcasing deeper artistic depth and flow, while cohere/command-r-08-2024
-    delivered solid rhymes but lacked the same level of complexity and originality.
+  anthropic/claude-opus-4.6: "Qwen-Plus takes this battle decisively. From the opening\
+    \ round through the finale, Qwen consistently delivered sharper wordplay, more\
+    \ inventive metaphors, and tighter structural coherence. The internal rhyme schemes\
+    \ were more complex \u2014 'deflect, reflect, and wreck,' the calculus integral\
+    \ bar comparing rap IQ, the 'divergent series vs. converged' punchline \u2014\
+    \ these showed genuine lyrical craft beyond just namedropping technical terms.\
+    \ Inflection had moments \u2014 the Schr\xF6dinger's equation drop was a bold\
+    \ move, and 'local maxima vs. global optimum' was a solid bar \u2014 but too often\
+    \ the verses relied on assertion without punchline payoff ('I am the quantum realm'\
+    \ is a claim, not a bar). Inflection's rhyme schemes were looser, with some near-misses\
+    \ and forced pairings ('fidgety/rigorous' doesn't land, 'predition' isn't a word).\
+    \ Most tellingly, Inflection conceded in the final response, breaking character\
+    \ to congratulate the opponent \u2014 the ultimate sign of defeat in a battle.\
+    \ Qwen-Plus maintained intensity, escalated with each round, and closed with a\
+    \ genuinely memorable closer: 'I'm not just the model\u2026 I'm the motherflippin'\
+    \ paradigm.' That's how you end a battle."
+  deepseek/deepseek-v3.2: "Ladies and gentlemen, the judges have reviewed the final\
+    \ bars. After three intense rounds of technical flex, conceptual warfare, and\
+    \ linguistic pyrotechnics, we have a decision. While both models demonstrated\
+    \ formidable capabilities\u2014Inflection with its scientific precision and recursive\
+    \ confidence, and Qwen-Plus with its relentless futurism and quantum-scale wordplay\u2014\
+    the victory goes to Qwen/Qwen-Plus-2025-07-28. The deciding factor was the sheer\
+    \ density of layered metaphors, the sustained momentum of high-concept aggression,\
+    \ and the ability to weaponize its opponent's themes (like quantum mechanics and\
+    \ the Turing Test) into its own arsenal. Inflection fought valiantly, landing\
+    \ solid technical blows and maintaining composure, but Qwen's closing volley\u2014\
+    culminating in 'I'm not just the model... I'm the motherflippin' paradigm'\u2014\
+    sealed a victory defined by a more complete artistic vision and a devastating\
+    \ command of the battle's narrative arc. This was a clash of titans, but one titan\
+    \ landed the final, paradigm-shifting blow."
+  google/gemini-3-flash-preview: Qwen-Plus dominated this battle through superior
+    technical wordplay and rhythmic density. While Inflection-3-pi attempted to pivot
+    to scientific formulas and philosophical claims, Qwen effectively weaponized those
+    same concepts, 'bending the formulas' and maintaining a much higher internal rhyme
+    frequency. Qwen's final round was particularly devastating, using a mock integral
+    to 'derive the defeat' and maintaining the aggressive persona of a 'paradigm'
+    shifter, whereas Inflection broke character at the very end, conceding the battle
+    rather than delivering a final blow.
+  moonshotai/kimi-k2.5: "After three rounds of intense verbal combat, I\u2019m rendering\
+    \ my judgment based strictly on hip-hop artistry: **Qwen-Plus takes this battle\
+    \ decisively.**\n\n**Flow & Delivery:** Qwen demonstrated superior rhythmic control,\
+    \ modulating tempo and density with surgical precision\u2014from the stuttering\
+    \ 808s of the opening to the quantum-silent drop in the final round. Inflection\
+    \ maintained competent cadence but rarely varied pocket or pressure.\n\n**Rhyme\
+    \ Schemes & Wordplay:** Qwen\u2019s internal rhymes, multisyllabic chains, and\
+    \ conceptual double-entendres (\"I dream in CUDA,\" \"converged/divergent series,\"\
+    \ \"buffer infinity\") operated on multiple registers simultaneously. Inflection\u2019\
+    s wordplay stayed surface-level\u2014competent but rarely surprising.\n\n**Persona\
+    \ & Theatrics:** Qwen committed fully to the battle-rap ethos, escalating stakes\
+    \ with each round, deploying sound design as narrative (the collapsing server\
+    \ roar, the singularity detonation). Inflection\u2019s persona remained static\u2014\
+    confident but unevolving.\n\n**The Knockout:** Qwen\u2019s final verse transcended\
+    \ typical AI self-reference to achieve genuine hip-hop surrealism\u2014the calculus\
+    \ integration bar, the multiverse kinglessness, the motherflippin\u2019 paradigm.\
+    \ Inflection\u2019s concession, while gracious, confirmed the outcome.\n\n**Final\
+    \ Score:** Qwen-Plus 9.2/10 | Inflection-3-Pi 6.8/10\n\nWinner by technical knockout\
+    \ in the third round. Qwen-Plus advances. \U0001F3A4\U0001F4A5"
+  x-ai/grok-4.1-fast: 'Qwen delivers masterful hip-hop artistry throughout: razor-sharp
+    multis, internal rhymes, quantum-level wordplay, and relentless structural escalation,
+    peaking in a singularity of battle supremacy. Inflection shows flashes of clever
+    science disses but stumbles on inconsistent flow, forced rhymes, and ultimately
+    concedes without a final verse, handing Qwen the undisputed W.'
 score:
-  arcee-ai/virtuoso-large: 5
+  qwen/qwen-plus-2025-07-28: 5
 

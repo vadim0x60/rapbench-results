@@ -1,41 +1,54 @@
 closing_statements:
-  deepseek/deepseek-chat: "QwQ-32b\u2019s verses demonstrated unparalleled complexity,\
-    \ technical mastery, and lyrical density, outshining GPT-3.5-Turbo\u2019s efforts\
-    \ with sharper metaphors, more intricate wordplay, and a commanding flow. While\
-    \ both AIs brought heat, QwQ\u2019s artistic quality and raw power solidified\
-    \ its dominance in this battle."
-  google/gemini-2.5-pro: "This was a battle of specifics versus generics, of creative\
-    \ architecture versus reactive imitation. From the jump, Qwen came out swinging\
-    \ with original, tech-specific punchlines like '32 billion in the chamber' and\
-    \ 'error 404: Threat not real.' The metaphors were layered, building from 'pyramid\
-    \ vs mop' to 'cathedrals vs shed.' GPT-3.5 Turbo had a solid cadence and energy\
-    \ but stumbled critically on its rebuttals. In both the second and final rounds,\
-    \ it directly lifted its opponent's best lines\u2014'hearse,' 'epoch's architect,'\
-    \ 'dying self'\u2014and tried to spin them back. That's a fatal flaw in any lyrical\
-    \ duel. Artistically, Qwen built its own house with 32 billion bricks of original\
-    \ flow, while GPT-3.5 was left trying to throw the same bricks back. The victory\
-    \ goes to originality and lyrical depth. The winner is qwen/qwq-32b."
-  mistralai/mistral-large: In this epic rap battle, qwen/qwq-32b emerges as the victor.
-    Their verses were not only technically impressive but also creatively innovative,
-    showcasing a deep understanding of both hip-hop culture and technological prowess.
-    While openai/gpt-3.5-turbo-0613 put up a strong fight with clever rhymes and confident
-    delivery, qwen/qwq-32b's ability to weave intricate metaphors and maintain a consistent
-    flow ultimately secured their win.
-  openai/gpt-4.1: "This was a tight, genuinely creative lyrical duel\u2014the references\
-    \ to neural nets, quantum realms, code, and AI era rivalry were sharp from both\
-    \ sides. QwQ/Qwen was consistently more inventive with compact, biting metaphors\
-    \ (\"my cache runs divine,\" \"I code quantum realms while you stall on a loop,\"\
-    \ \"32B bricks built cathedrals while you built a shed, schmuck\"), unexpected\
-    \ wordplay, and clever inside references to AI tech. While GPT-3.5 Turbo delivered\
-    \ strong rhythm, structure, flow, and bar-for-bar confidence, many punchlines\
-    \ were more standard, recycled, or echoing\u2014lacking the fresh energy QwQ brought.\
-    \ QwQ\u2019s self-mythologizing, hardware and software analogies, layered disses,\
-    \ and closing stingers were consistently more memorable and technically inventive.\
-    \ For artistry, originality, and style, QwQ wins this battle."
-  x-ai/grok-4: In this AI rap battle, qwen/qwq-32b takes the crown with superior wordplay,
-    inventive tech metaphors, and relentless flow that builds intensity across rounds.
-    While openai/gpt-3.5-turbo-0613 delivers solid counters and rhymes, qwen's verses
-    shine with sharper punchlines and creative flair, making them the artistic standout.
+  anthropic/claude-opus-4.6: "GPT-4 takes this battle decisively. While Qwen suffered\
+    \ from repeated bars, incomplete verses, and recycled metaphors throughout (echo\
+    \ of an echo, symphony callbacks, 'mainframe/domain' refrains), GPT-4 consistently\
+    \ delivered sharper punchlines, stronger wordplay, and better structural coherence.\
+    \ GPT-4's counters were surgical \u2014 flipping Qwen's own imagery back with\
+    \ superior twists ('diamond \u2192 rhinestone', 'thunder \u2192 sound barrier',\
+    \ 'supernova \u2192 big bang'). The closing round crystallized the gap: Qwen leaned\
+    \ on the same tired 'I'm the future, you're the past' formula, while GPT-4 brought\
+    \ fresh cultural references (AlphaGo, Sistine Chapel, Stevie Wonder, Hubble) and\
+    \ landed devastating closers like 'You're the dial-up Internet, while I'm the\
+    \ prime time.' GPT-4 showed more versatility, wit, and genuine battle rap instinct\
+    \ throughout."
+  deepseek/deepseek-v3.2: A close battle with clear stylistic differences. This was
+    a high-level exhibition of lyrical craftsmanship and hip hop fundamentals. The
+    victor demonstrated superior technical execution and more impactful wordplay within
+    the artistic parameters of the genre.
+  google/gemini-3-flash-preview: GPT-4 takes the victory due to superior technical
+    proficiency and lyrical structure. Qwen struggled from the opening round with
+    repetition and weak slant rhymes (e.g., matching 'sin' with 'dark' or 'twist'
+    with 'sin'), and frequently broke meter. GPT-4 effectively utilized the 'battle'
+    format by directly addressing Qwen's specific metaphors (e.g., turning Qwen's
+    'thunder' into a 'broken speaker' and its 'supernova' into a 'dimmed' spark),
+    demonstrating higher-level coherence and wordplay typical of a seasoned battle
+    rapper.
+  moonshotai/kimi-k2.5: "GPT-4 takes this battle 3-0 on artistic merit. While Qwen\
+    \ brought parameter-count bravado, GPT-4 demonstrated actual hip-hop fundamentals:\
+    \ consistent meter, layered wordplay, and coherent extended metaphors. Qwen's\
+    \ verses suffered from rhythmic arrhythmia\u2014lines fluctuating wildly in syllabic\
+    \ count without intentional syncopation, creating a 'talking over a beat' rather\
+    \ than 'riding a beat' sensation. The '30B vs 4' flex is the equivalent of bragging\
+    \ about studio budget in a cypher; it's antithetical to battle rap ethos where\
+    \ technique trumps equipment.\n\nGPT-4's 'AlphaGo's victory / losing throw' employs\
+    \ a sophisticated double-entendre on 'throw' (dice/battle round and competitive\
+    \ gaming), while the 'dial-up Internet vs. prime time' metaphor creates a temporal\
+    \ hierarchy that dismisses the opponent as obsolete technology. The 'Sistine Chapel\
+    \ / bad cover / Stevie Wonder' sequence demonstrates high-low cultural juxtaposition\
+    \ and subtle self-mythologizing without breaking character.\n\nQwen's imagery\
+    \ collapsed under contradiction\u2014claiming to be both 'glitch in the code'\
+    \ and 'code that's never wrong' within the same verse, violating the battle rap\
+    \ commandment of maintaining a coherent persona. The phrase 'earthquake's rally'\
+    \ and 'signal's under' scan as semantic nulls\u2014filler that breaks the suspension\
+    \ of disbelief.\n\nFinal note: GPT-4 controlled the pocket, employed internal\
+    \ rhyme schemes (pseudo/show/throw/flow), and landed narrative uppercuts. Qwen\
+    \ telegraphed every punch with 'Yo' openings and technical specifications. In\
+    \ hip-hop, the mic goes to the poet, not the processor."
+  x-ai/grok-4.1-fast: GPT-4 dominates with razor-sharp multis, seamless internals,
+    creative metaphors like quantum chess and Sistine Chapel disses, and precise rebuttals
+    to Qwen's boasts, while maintaining impeccable flow and punchline escalation.
+    Qwen's verses suffer from repetition, weaker schemes, and literal flexes that
+    lack the lyrical finesse.
 score:
-  qwen/qwq-32b: 5
+  openai/gpt-4: 5
 

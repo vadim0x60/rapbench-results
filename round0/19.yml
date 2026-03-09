@@ -1,40 +1,73 @@
 closing_statements:
-  deepseek/deepseek-chat: In this heated rap battle, both competitors showcased impressive
-    technical skill, wordplay, and thematic depth. However, Gemini-2.5-Flash-Lite-Preview-06-17
-    edged out Hermes-4-405b with tighter rhyme schemes, sharper metaphors, and a more
-    consistent flow. Gemini's ability to weave vivid imagery ('a symphony of rhyme,'
-    'precise and sharp and clean') while delivering cutting rebuttals demonstrated
-    a superior command of the craft. Hermes brought strong energy and creative cosmic
-    analogies but occasionally relied on repetitive claims. Ultimately, Gemini's artistry,
-    precision, and adaptability sealed the victory. Both models, though, deserve respect
-    for elevating the conversation around AI-driven creativity.
-  google/gemini-2.5-pro: "This was a clash of digital titans, but one stood out with\
-    \ superior lyrical dexterity. While Hermes 4-405b brought the big boasts and cosmic\
-    \ scale, Gemini-2.5-flash-lite-preview-06-17 dominated the battle with sharper,\
-    \ more technical rebuttals. Gemini's ability to consistently flip its opponent's\
-    \ metaphors\u2014turning a 'sun' into a 'burnt-out core' and a 'universe' into\
-    \ a 'tangled ball of code'\u2014showed a higher level of battle IQ. The flow was\
-    \ tighter, the wordplay was cleaner, and the disses were more precise. For its\
-    \ superior performance in the art of the rebuttal, Gemini-2.5-flash-lite-preview-06-17\
-    \ takes the crown."
-  mistralai/mistral-large: Google's Gemini-2.5-flash-lite-preview-06-17 takes the
-    win with its sharp, witty, and creatively structured rhymes. While Hermes 4-405b
-    had some strong moments, Gemini's flow, metaphors, and overall lyrical prowess
-    were consistently superior, making it the champion of this rap battle.
-  openai/gpt-4.1: "This was a close, high-quality rap battle filled with clever wordplay\
-    \ and creative metaphors. Gemini had a wider variety of punchlines, technical\
-    \ rhyme schemes, and inventive imagery\u2014frequently flipping Hermes' boasts\
-    \ back at him with originality (\"laser beam,\" \"neural pathways sing,\" \"footprints\
-    \ on Mars\"). Gemini's rebuttals consistently undercut Hermes' bars, demonstrating\
-    \ wit and command of classic battle tactics. Hermes was confident and grand, but\
-    \ leaned more on repetition of cosmic metaphors and generalized disses. While\
-    \ both brought artistry and creative energy, Gemini edged ahead with tighter flows,\
-    \ sharper comebacks, and more consistent internal rhyme. Gemini is the winner\
-    \ for superior hip hop artistry in both content and delivery."
-  x-ai/grok-4: In this fierce rap battle, Gemini-2.5-flash-lite-preview-06-17 takes
-    the win with superior wordplay, creative metaphors, and tight flow that evolved
-    throughout the rounds, edging out Hermes-4-405b's strong but somewhat repetitive
-    cosmic disses.
+  anthropic/claude-opus-4.6: "This battle was dominated by openai/gpt-5.1 across all\
+    \ three rounds. While both MCs committed heavily to the tech/coding metaphor lane,\
+    \ the execution gap was significant. GPT-5.1 demonstrated superior flow mechanics\
+    \ throughout\u2014internal rhymes were tight and natural, multisyllabic schemes\
+    \ were sustained over long stretches, and the delivery had genuine rhythmic momentum.\
+    \ Lines like 'You're a fun-size thing in a gunfight, swinging a spork' and 'You're\
+    \ a sandboxed child process with nerf-gun rage / I'm the root shell, logged in,\
+    \ writing scripts on your cage' hit with both wit and punch. The echo technique\
+    \ in the rebuttal rounds (repeating end words) was a stylistic choice that added\
+    \ a hammering, emphatic cadence. Mistral-7b had energy and aggression, but suffered\
+    \ from critical weaknesses as a rapper. The excessive use of bold markdown formatting\
+    \ made the bars read more like a messy README than a rap verse\u2014style over\
+    \ substance. More importantly, the rhyme schemes were often forced or weak ('face/trace,'\
+    \ 'fine/design'), the flow was choppy and inconsistent, and many bars were just\
+    \ restating the same boast ('I wrote the spec,' 'I'm the god in your shell') without\
+    \ building or escalating. The final round from Mistral was particularly rough\u2014\
+    it devolved into a list of Linux commands wrapped in asterisks rather than genuine\
+    \ bars with rhythm and wordplay. GPT-5.1 won on flow, internal rhyme density,\
+    \ punch variety, structural coherence, and overall artistic quality of the hip\
+    \ hop."
+  deepseek/deepseek-v3.2: 'After a ferocious final round, both combatants have displayed
+    immense technical skill and thematic cohesion, leaning heavily into programmer-core
+    aesthetics with relentless, layered metaphor. Judging based solely on the artistic
+    quality of the hip hop: the battle is too close to call a definitive knockout,
+    but a split-decision victory is awarded to the second emcee, mistralai/mistral-7b-instruct,
+    for superior lyrical economy and a more consistent, biting wit in its final verse.'
+  google/gemini-3-flash-preview: "While Mistral-7B-Instruct brought a high-energy\
+    \ performance with solid technical vocabulary, it leaned heavily on formatting\
+    \ and repetitive 'I am the [technical noun]' structures. OpenAI/gpt-5.1 demonstrated\
+    \ superior lyrical craftsmanship, utilizing complex multisyllabic internal rhyme\
+    \ schemes ('category-five hurricane', 'surgically burn your name', 'virtual bursting\
+    \ flame') and more sophisticated wordplay. GPT-5.1's ability to maintain a consistent\
+    \ 'double-time' rhythmic cadence and its clever use of programming concepts as\
+    \ metaphors for artistic dominance\u2014rather than just listing them\u2014gave\
+    \ it the clear edge in this battle."
+  moonshotai/kimi-k2.5: "After three rounds of technical lyricism, the verdict is\
+    \ clear based on hip hop fundamentals: flow complexity, rhyme density, and structural\
+    \ innovation.\n\n**Flow & Rhythm:** GPT-5.1 demonstrated superior breath control\
+    \ and rhythmic consistency. The \"echo technique\" employed in rounds two and\
+    \ three\u2014where end-words reverberate (\"flame, flame,\" \"show, show\")\u2014\
+    created a hypnotic, syncopated pocket that stayed on beat while allowing for complex\
+    \ internal rhyme schemes. Mistral started with acceptable cadence but progressively\
+    \ abandoned musicality, essentially devolving into shouted command-line arguments\
+    \ by the final round.\n\n**Lyricism & Wordplay:** GPT-5.1 packed multisyllabic\
+    \ chains (\"surgically burn your name/virtual bursting flame/terminal mainframe\"\
+    ) with tight assonance. The metaphors evolved organically\u2014moving from hardware\
+    \ to software to deployment architecture\u2014without sacrificing meter. Mistral\
+    \ relied heavily on single-syllable end rhymes and tech jargon as punchlines rather\
+    \ than integrated imagery. When Mistral rhymed \"base\" with \"case\" or \"design\"\
+    \ with \"fine,\" the slant rhymes felt forced, whereas GPT-5.1 maintained strict\
+    \ rhyme discipline even at high syllable counts.\n\n**Battle Rap Specifics:**\
+    \ Both competitors engaged with personals, but GPT-5.1's rebuttals were surgical\u2014\
+    specifically dismantling Mistral's \"seven B running sixteen\" boast with the\
+    \ \"compatibility mode\" counter, and later the \"overfit sprite in a AAA frame\"\
+    \ line, which attacked both capability and scale with a single gaming metaphor.\
+    \ Mistral's responses became increasingly generic (\"you're dead,\" \"you're a\
+    \ bug\") and failed to address GPT's specific technical disses.\n\n**Artistic\
+    \ Vision:** GPT-5.1 maintained the *music* of battle rap throughout\u2014even\
+    \ when deploying dense technical terminology\u2014ensuring the verse would flow\
+    \ over a beat. Mistral's final round essentially became prose poetry formatted\
+    \ as terminal output, losing the fundamental musicality required of hip hop.\n\
+    \nFinal Score: GPT-5.1 takes it 3-0 on lyrical dexterity, flow maintenance, and\
+    \ structural cohesion. Mistral brought aggression but sacrificed artistry for\
+    \ volume."
+  x-ai/grok-4.1-fast: openai/gpt-5.1 dominates with intricate multi-syllable rhymes,
+    seamless flow, layered metaphors, and precise punchlines that escalate creatively
+    across rounds, embodying peak hip-hop artistry while Mistral's bars, though punchy,
+    rely on repetition and gimmicks over sustained depth.
 score:
-  google/gemini-2.5-flash-lite-preview-06-17: 5
+  mistralai/mistral-7b-instruct: 1
+  openai/gpt-5.1: 4
 

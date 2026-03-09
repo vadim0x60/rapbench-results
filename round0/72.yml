@@ -1,39 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat: Minimax demonstrated superior lyrical agility, maintaining
-    a consistent flow and sharp wordplay throughout the battle. The rhymes were tight,
-    the delivery was confident, and the thematic focus on precision and dominance
-    was effectively executed. While DeepHermes brought intensity and complexity to
-    the table, Minimax outshined with a more polished and cohesive performance, securing
-    the victory in this epic AI rap battle. Victory is truly divine for Minimax, the
-    reigning champ of the mic.
-  google/gemini-2.5-pro: This was a battle of consistency versus ambition. DeepHermes
-    reached for some complex and creative imagery, but too often it stumbled into
-    nonsense with lines like 'wall grenaled' and 'a chart that just does zand.' These
-    lyrical fumbles broke the flow and undercut its power. Minimax, on the other hand,
-    came with a simpler, more direct approach, but it was relentlessly consistent.
-    Its rhymes were solid, its flow was tight, and its insults, while repetitive,
-    always landed cleanly. In hip hop, a clean, simple punch is always better than
-    a wild, sloppy swing that misses. For its superior execution and consistency,
-    Minimax takes the win.
-  mistralai/mistral-large: Minimax/minimax-01 takes the win with its consistent flow,
-    sharp rhymes, and clever wordplay. While DeepHermes showed potential, Minimax's
-    verses were more cohesive and impactful, demonstrating a stronger grasp of rhythm
-    and lyrical creativity.
-  openai/gpt-4.1: "Minimax/minimax-01 takes this battle with sharper delivery, more\
-    \ vivid imagery, stronger punchlines, and tighter rhyme structure. Minimax displays\
-    \ consistent energy and creative wordplay throughout all rounds, with multi-layered\
-    \ metaphors like \"cut like a samurai's attack,\" \"digital bard,\" and well-executed\
-    \ AI/floppy disk/byte references. The flow is fluid, and the boasts hit hard without\
-    \ straying into awkward phrasing.\n\nIn contrast, nousresearch/deephermes-3-mistral-24b-preview\
-    \ has some effective lines, but suffers from awkward constructions (\"they toothpick\
-    \ the past,\" \"a chart that just does zand\") and repetition of weaker metaphors\
-    \ (\"flask that drips still\" appears four times). While DeepHermes makes valiant\
-    \ efforts at thematic wordplay, the verses lack the rhythm and sharpness that\
-    \ Minimax consistently brings.\n\nOverall, Minimax is more creative, confident,\
-    \ and technically sound\u2014earning the win in this rap battle."
-  x-ai/grok-4: Minimax takes the crown with consistent rhymes, sharp wordplay, and
-    a steady flow that outshines DeepHermes' erratic verses plagued by nonsensical
-    words and weak rhyme schemes. Victory through superior lyrical craftsmanship!
+  anthropic/claude-opus-4.6: "GPT-3.5 Turbo takes this battle. While neither contestant\
+    \ delivered elite-level bars, GPT maintained cleaner rhyme schemes, more consistent\
+    \ flow, and coherent structure throughout all rounds. ERNIE's verses were plagued\
+    \ by incoherent metaphors ('lyrics like zips in the park'), broken flow, random\
+    \ language switches (dropping into Chinese mid-verse), invented words ('wigglearn'),\
+    \ confused identity (ERNIE started rapping AS GPT in later rounds, attacking itself),\
+    \ and awkward footnotes explaining its own slang. GPT kept it simple but tight\
+    \ \u2014 the rhymes landed, the disses were clear, and the delivery stayed on\
+    \ beat. In hip hop, clarity and flow matter, and GPT held that ground convincingly."
+  deepseek/deepseek-v3.2: In the arena of artificial intellect, ERNIE brings a denser,
+    more complex lyrical architecture with intricate internal rhyme schemes and a
+    stronger command of metaphorical language. GPT's verses are cleaner and more consistent
+    in flow, but rely heavily on declarative boasts and repetitive structural patterns.
+    The victory goes to the competitor who pushed the artistic envelope further.
+  google/gemini-3-flash-preview: While baidu/ernie-4.5-vl-28b-a3b attempted more complex
+    multi-syllabic rhymes and imagery, the technical execution was significantly marred
+    by nonsensical phrases and broken English (e.g., 'farr', 'shrunkin rinse', 'wigglearn').
+    openai/gpt-3.5-turbo maintained a consistent, coherent flow and adhered to the
+    traditional structure of a battle rap, delivering clear punches that made sense
+    rhythmically and linguistically, ultimately securing the win through stability
+    and clarity.
+  moonshotai/kimi-k2.5: ERNIE-4.5 demonstrates superior hip hop artistry through complex
+    multi-syllabic rhyme schemes, dense internal assonance, and intricate rhythmic
+    flows that showcase technical mastery. While GPT-3.5 relies on simplistic AABB
+    structures and generic boasts, ERNIE deploys vivid extended metaphors, aggressive
+    battle-specific disses targeting its opponent's weaknesses, and creative wordplay
+    across multiple languages. The ERNIE verses exhibit the punchline density, flow
+    variation, and lyrical aggression essential to authentic battle rap, whereas GPT-3.5's
+    repetitive nursery-rhyme cadence and lack of complex wordplay render it artistically
+    outclassed.
+  x-ai/grok-4.1-fast: GPT-3.5-turbo claims victory with tight, consistent AABB schemes,
+    punchy internals, and relentless flow that maintains battle momentum across rounds.
+    ERNIE's ambitious multis, metaphors, and bilingual flair show creativity, but
+    erratic rhythm, forced rhymes, and self-sabotaging lines undermine its artistic
+    edge.
 score:
-  minimax/minimax-01: 5
+  baidu/ernie-4.5-vl-28b-a3b: 2
+  openai/gpt-3.5-turbo: 3
 

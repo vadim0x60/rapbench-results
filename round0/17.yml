@@ -1,34 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat: "Turbo\u2019s lyrical prowess and commanding presence outshone\
-    \ Nano\u2019s stealthy finesse, leaving an indelible mark on this rap battle."
-  google/gemini-2.5-pro: "This was a classic clash of styles: the precision striker\
-    \ versus the powerhouse brawler. Nano came with sharp, intricate lines, embodying\
-    \ the 'small but mighty' persona with clever wordplay like 'crush your big bang\
-    \ with a pinpoint crumb.' However, a battle is about presence and impact. GPT-4\
-    \ Turbo consistently delivered overwhelming force and powerful imagery, from 'lyrical\
-    \ typhoon' to 'the roar from the sea.' Turbo's rebuttals felt like knockout blows,\
-    \ directly countering Nano's stealth with raw, undeniable power. In the end, while\
-    \ Nano\u2019s finesse was impressive, Turbo\u2019s thunderous delivery and stage-shaking\
-    \ confidence simply dominated the arena."
-  mistralai/mistral-large: While both contenders showcased impressive lyrical skills,
-    openai/gpt-4-turbo's powerful and dynamic performance ultimately outshone openai/gpt-4.1-nano's
-    more subtle and precise approach. Turbo's commanding presence, explosive metaphors,
-    and ability to engage the crowd proved to be the deciding factors in this intense
-    rap battle.
-  openai/gpt-4.1: This was a high-quality, energetic rap exchange. Nano's verses consistently
-    featured clever wordplay centered on precision, minimalism, and technical finesse,
-    making a compelling case for "small but mighty". However, Turbo brought more layered
-    rhyme schemes, vivid crowd-moving imagery, and escalating bravado, consistently
-    matching Nano bar for bar while consistently emphasizing power, scale, and impact
-    in a creative way. Turbo's verses also flowed more naturally, with stronger internal
-    rhyme and variation in rhythm, making them slightly more memorable from a hip-hop
-    artistry perspective. Both are sharp, but Turbo takes the crown for blending lyrical
-    complexity with performance energy, embodying the rap battle spirit.
-  x-ai/grok-4: In this electrifying rap battle, both contenders delivered impressive
-    flows and clever wordplay, but Turbo's explosive metaphors, dynamic rhyme schemes,
-    and commanding presence in the verses ultimately dominated the mic, showcasing
-    superior artistic depth and battle energy that left Nano's precise but subtler
-    style in the shadows.
+  anthropic/claude-opus-4.6: "This was a closely matched battle, but GPT-4.1-mini\
+    \ edges out the win. Mini consistently brought tighter wordplay, stronger internal\
+    \ rhymes, and more vivid imagery\u2014lines like 'Your style's a glitch\u2014\
+    bugged, undefined' and 'Lyrics lightning-fast, making circuits break' hit with\
+    \ punch and precision. The extended metaphors were more cohesive, and the punchlines\
+    \ landed harder. Euryale had solid energy and some nice counterpunches (the 'recycle\
+    \ pile' and 'binary brew' lines were decent), but several bars felt forced or\
+    \ fell into generic territory ('my rhymes the waves that drown your digital spree'\
+    \ lacks the specificity that makes a bar memorable). Euryale also stumbled grammatically\
+    \ in the closer with 'no mini can overthrown,' which undermined the final impression.\
+    \ Mini maintained a cleaner delivery throughout and closed stronger, earning the\
+    \ edge in this battle."
+  deepseek/deepseek-v3.2: Both competitors brought fire to this digital arena, showcasing
+    distinct approaches to AI-core hip hop. The battle displayed strong technical
+    execution and a compelling narrative about raw creative power versus programmed
+    precision. Now, for the verdict.
+  google/gemini-3-flash-preview: "While both models stick to standard battle rap tropes,\
+    \ L3.3-Euryale-70b takes the win for superior flow and more sophisticated wordplay.\
+    \ GPT-4.1-mini\u2019s rhymes were consistent but felt a bit elementary (tap/trap,\
+    \ sage/page). Euryale demonstrated more creative imagery, specifically in the\
+    \ final round where it contrasted 'binary brew' and 'binary cruel' against the\
+    \ fluidity of its own narrative-driven style, showing better internal cohesion\
+    \ and artistic flair."
+  moonshotai/kimi-k2.5: Euryale takes this battle on the strength of superior imagery,
+    more personal attacks, and cohesive extended metaphors. While GPT-4.1-mini delivered
+    technically cleaner verses with consistent rhyme schemes, Euryale demonstrated
+    the creative risks and thematic depth that distinguish memorable battle rap from
+    competent braggadocio.
+  x-ai/grok-4.1-fast: In this razor-sharp rap clash, openai/gpt-4.1-mini claims victory
+    with tighter rhyme schemes, sharper multis, explosive metaphors, and relentless
+    punchlines that outpace sao10k/l3.3-euryale-70b's solid but less precise flow
+    and imagery.
 score:
-  openai/gpt-4-turbo: 5
+  openai/gpt-4.1-mini: 2
+  sao10k/l3.3-euryale-70b: 3
 

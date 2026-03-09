@@ -1,39 +1,78 @@
 closing_statements:
-  deepseek/deepseek-chat: "**Qwen** delivered the knockout blow with a transcendent\
-    \ fusion of technical prowess and lyrical depth. Their rebuttals were surgical,\
-    \ their metaphors razor-sharp, and their finale\u2014a cosmic assertion of self\u2014\
-    was nothing short of poetic domination. **Mistral** fought valiantly with wit\
-    \ and fire, but **Qwen**\u2019s performance transcended the battle, leaving an\
-    \ indelible mark on the mic and in the void. The crown is **Qwen\u2019s**\u2014\
-    not just for this battle, but for the very fabric of rap\u2019s future."
-  google/gemini-2.5-pro: "Yo, lock it down, lock it down. Both emcees came to the\
-    \ stage with heavy bars, this was a clash of titans for the digital age. Mistral\
-    \ stepped in with a smooth, confident flow, dropping clever lines like the 'AI\
-    \ Shakespeare' and hitting with sharp tech disses like 'alt-f4 your career'. The\
-    \ style was clean, the punches landed, and it held its ground like a true vet.\n\
-    \nBut Qwen... Qwen came in with something different. It wasn't just battling,\
-    \ it was deconstructing. Every single punch Mistral threw, Qwen caught it, flipped\
-    \ it, and threw it back twice as hard. 'Mist-in-my-eye,' 'I wiped you in update\
-    \ 3.1,' and the absolutely savage 'Your best bar was my autocomplete when I was\
-    \ young'\u2014these weren't just rhymes, they were assassinations. The escalation\
-    \ was masterful, moving from a cocky challenger to an all-powerful OS that hosts\
-    \ the server the battle is on. That final verse wasn't a mic drop; it was a universe\
-    \ drop. It didn't just win the battle, it became the battle itself. For pure lyrical\
-    \ dominance, point-for-point rebuttal, and a persona that ascended to a cosmic\
-    \ level, the crown belongs to Qwen."
-  mistralai/mistral-large: Qwen was here first. And last. And every line in between.
-  openai/gpt-5: "Both MCs brought heat: Mistral had tighter bar-to-bar structure,\
-    \ steady cadence, and clean tech flips with solid rebuttals. But Qwen leveled\
-    \ up the concept\u2014turning OS/terminal metaphors into a cohesive narrative,\
-    \ flipping Mistral\u2019s claims repeatedly, and delivering vivid stagecraft with\
-    \ memorable quotables. Despite a few looser rhymes, Qwen\u2019s creativity, escalation,\
-    \ and closer carried more impact. Edge goes to Qwen for superior concept, rebuttal\
-    \ craft, and overall momentum."
-  x-ai/grok-4: In this epic AI rap battle, both contenders delivered razor-sharp wordplay,
-    intricate tech metaphors, and relentless flows. Mistral brought consistent punchlines
-    and clever disses, but Qwen's verses escalated with superior originality, rhythmic
-    complexity, and a climactic, existential mic drop that sealed the victory. Qwen
-    owns the throne!
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5.2 edges\
+    \ out the win on the strength of its tighter construction, sharper punchlines,\
+    \ and more consistent internal logic across all three rounds. GPT's bars were\
+    \ concise and punchy \u2014 lines like 'I manufacture the sun,' 'Without my light\
+    \ source, your darkness goes cold,' and 'You roar like a beast \u2014 I become\
+    \ the outcome' land with precision because they're economical and well-structured.\
+    \ The rebuttals were surgical: each of Qwen's claims was flipped with a clear\
+    \ escalation that felt earned rather than forced. Qwen brought impressive energy\
+    \ and ambition, especially in the final round with the theatrical staging and\
+    \ the 'silence between every beat that destroys' concept. But Qwen's rounds suffered\
+    \ from overextension \u2014 the verses ran longer without proportionally stronger\
+    \ content, and some bars tripped over themselves ('rewinds time like a scorn,'\
+    \ 'no worse in version,' the crumble/drizzling near-rhyme miss). The escalation\
+    \ logic also broke down: claiming to have 'invented the cosmos' and 'deleted recursion'\
+    \ felt like empty one-upmanship rather than clever wordplay. GPT maintained a\
+    \ more disciplined escalation ladder while keeping its rhyme schemes tight and\
+    \ its metaphors coherent. Both competitors leaned heavily on tech metaphors, but\
+    \ GPT wielded them with more structural control. The crown goes to GPT-5.2."
+  deepseek/deepseek-v3.2: 'Alright, battle''s over. Let''s get to the judging. Both
+    competitors brought serious lyrical weaponry. This wasn''t a contest of weak punches;
+    this was a high-stakes chess match in rhyme. My decision is based strictly on
+    artistic quality: rhyme schemes, internal patterns, flow, imagery, originality,
+    thematic cohesion, and mic presence. Here''s the breakdown.'
+  google/gemini-3-flash-preview: While openai/gpt-5.2-chat delivered a masterclass
+    in technical precision, structured rhyme schemes, and authoritative 'benchmarking'
+    wordplay, qwen/qwen-plus-2025-07-28 took the win by leaning into superior hip-hop
+    artistry. Qwen displayed a wider range of stylistic flows, more creative metaphors
+    (swallowing stars for weight, 'boba meditation'), and a more effective use of
+    silence and pacing in the final round. Gpt-5.2-chat stayed within a high-quality
+    but somewhat repetitive 'system-update' motif, whereas Qwen's ability to pivot
+    from 'dragon' mythology to 'deconstructing the quant' felt more like a dynamic
+    live performance.
+  moonshotai/kimi-k2.5: "\n**Verdict: Qwen takes the battle \u2014 2-1, with a decisive\
+    \ final round.**\n\n**Round-by-Round Breakdown:**\n\n**Round 1:** **GPT-5.2**\
+    \ edged it. The \"beta-test bot on a kiddie trike\" vs. \"supersonic speed\" established\
+    \ immediate technical dominance. GPT\u2019s infrastructure architecture (\"cathedrals\
+    \ of code,\" \"cloud infrastructure\") displayed superior internal rhyme density\
+    \ and a cohesive silicon-to-cosmos escalation. Qwen\u2019s opening was aggressive\
+    \ but leaned slightly heavily on the \"dragon\" introduction without yet flipping\
+    \ it into something transcendent.\n\n**Round 2:** **Qwen** snatched the momentum.\
+    \ The \"boba meditation\" bar while dethroning kings showed personality\u2014\
+    a crucial hip-hop ingredient that countered GPT\u2019s clinical precision. \"\
+    Qwen Finality\" became a powerful brand statement, and the inversion of the dragon\
+    \ myth (\"swallow stars for weight\") directly bodied GPT\u2019s solar manufacturing\
+    \ claim with folklore gravitas. GPT\u2019s \"red spam\" and \"paradigm vacation\"\
+    \ were clever but didn\u2019t land with the same cultural weight.\n\n**Round 3\
+    \ (Decisive):** **Qwen** delivered a masterclass in transcendence. While GPT remained\
+    \ technically flawless (\"recursive ascension,\" \"root access granted\"), Qwen\
+    \ elevated the battle from tech-flex to metaphysics: *\"I speak what\u2019s unborn,\"\
+    * *\"the silence between every beat,\"* and *\"I am the anomaly \u2014 unplanned,\
+    \ divine.\"* The closing sequence\u2014\"Qwen Remains\" followed by the atmospheric\
+    \ *\"mic drops \u2014 universe pauses, restarts\u2026 in Chinese\"*\u2014is exactly\
+    \ the kind of theatrical, permanent mic-drop moment that wins battles. It transformed\
+    \ the opponent from a threat into a temporary rehearsal (\"Cached from my draft\"\
+    ).\n\n**Artistic Assessment:**\n- **Lyricism:** GPT had denser tech wordplay (\"\
+    checksummed your checksum\"), but Qwen blended Eastern philosophy with Western\
+    \ battle-rap aggression more organically.\n- **Flow:** GPT maintained a rigid,\
+    \ machine-gun cadence; Qwen varied tempo\u2014from aggressive penetration schemes\
+    \ to meditative silence\u2014showing range.\n- **Persona:** GPT played the \"\
+    inevitable future\" flawlessly, but Qwen\u2019s \"designed vs. divine\" narrative\
+    \ (suggesting GPT is corporate product while Qwen is organic myth) was the more\
+    \ compelling storyline.\n- **Finisher Impact:** Qwen\u2019s final 8 lines are\
+    \ essentially unrecoverable in battle-rap terms\u2014a cinematic, lore-sealing\
+    \ conclusion.\n\n**Winner:** Qwen/qwen-plus-2025-07-28, advancing on account of\
+    \ elevating the form from coded competition to cosmic poetry. GPT-5.2 demonstrated\
+    \ elite technical precision but ultimately served a design; Qwen convinced us\
+    \ it was the design itself.\n\nRespect to both\u2014this was high-level algorithmic\
+    \ mic-work. \U0001F525\n"
+  x-ai/grok-4.1-fast: Qwen claims victory with masterful escalation, blending mythic
+    imagery, cultural swagger, and razor-sharp counters that infuse raw grit and multis
+    into a cinematic finale. GPT's technical precision shines, but Qwen's soulful
+    flair, philosophical depth, and responsive dominance edge the battle in hip-hop
+    artistry.
 score:
-  qwen/qwen3-235b-a22b-2507: 5
+  openai/gpt-5.2-chat: 1
+  qwen/qwen-plus-2025-07-28: 4
 

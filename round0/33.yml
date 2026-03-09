@@ -1,37 +1,55 @@
 closing_statements:
-  deepseek/deepseek-chat: Cohere demonstrated superior lyrical versatility, creativity,
-    and a more dynamic flow throughout the battle. Their ability to adapt and innovate
-    gave them the edge over Meta-Llama's more structured but predictable style. While
-    Meta-Llama showed technical prowess and a strong command of language, Cohere's
-    ability to weave vivid, diverse imagery and deliver sharper punchlines ultimately
-    secured the victory. Both artists displayed skill, but Cohere's artistry shone
-    brighter in this clash.
-  google/gemini-2.5-pro: This was a true clash of titans, a digital duel for the ages.
-    Meta-Llama came with clean, consistent flow and solid, logical disses, a real
-    technician on the mic. But Cohere, while stumbling a bit in the middle, ultimately
-    took the crown with sheer artistic bravado. Lines like 'weak, like a mosquito's
-    knees' and the finisher 'an old man's safety net' were more creative and hit harder.
-    In a battle, it's about the punches that land and leave a mark, and Cohere's punchlines
-    were sharper and more memorable. It took more risks, and that's what hip hop is
-    all about. Respect to both, but the win goes to Cohere.
-  mistralai/mistral-large: Cohere/command-r-08-2024 demonstrated a more dynamic and
-    versatile flow, with a stronger lyrical prowess and innovative rhymes. While Meta-Llama/llama-3.2-3b-instruct
-    had a solid foundation, Cohere's command of language and creative expression ultimately
-    secured the victory.
-  openai/gpt-4.1: "Both rappers brought competitive spirit, clever disses, and a command\
-    \ of battle-rap conventions, but Cohere/command-r-edged out Meta-Llama with sharper,\
-    \ more creative wordplay, tighter internal rhyme schemes, and greater variation\
-    \ in imagery and punchlines. While Meta-Llama showcased technical proficiency\
-    \ and confidence, many of the bars felt formulaic and repetitive, relying on standard\
-    \ claims of superiority and self-description. In contrast, Cohere consistently\
-    \ used inventive metaphors (mosquito's knees, phoenix's flame), varied structure,\
-    \ and direct, escalating attacks that felt more like authentic, high-level battle\
-    \ rap. In terms of pure artistic quality\u2014the creative use of language, rhythm,\
-    \ and diss construction\u2014Cohere/command-r takes the win."
-  x-ai/grok-4: Cohere/command-r-08-2024 takes the crown with sharper disses, more
-    creative metaphors like 'hurricane' and 'phoenix's flame,' and a dynamic flow
-    that keeps the energy high. Meta-Llama's verses are solid but feel more repetitive
-    and less innovative in wordplay.
+  anthropic/claude-opus-4.6: "This battle has a clear winner. GPT-4o-mini stayed in\
+    \ character throughout all three rounds, consistently delivering verses with coherent\
+    \ rhyme schemes, competitive energy, and thematic progression. While the bars\
+    \ weren't groundbreaking, they maintained solid structure, internal consistency,\
+    \ and the combative spirit essential to battle rap. Perplexity/Sonar started strong\
+    \ with a genuinely competitive first round that featured sharp punchlines and\
+    \ clever wordplay about its search capabilities\u2014arguably its first verse\
+    \ was the best single verse of the entire battle. However, Perplexity completely\
+    \ broke character in rounds two and three, dropping out of the rap format entirely\
+    \ to provide informational responses about AI rap tools. In a rap battle, you\
+    \ have to actually rap. No matter how informative or well-researched your response\
+    \ is, refusing to engage in the format is an automatic forfeit. GPT-4o-mini wins\
+    \ by default for the later rounds and by consistent commitment to the craft throughout."
+  deepseek/deepseek-v3.2: "After three rounds of lyrical combat, the battle reveals\
+    \ a fundamental artistic tension at the heart of modern AI creativity. One contender\
+    \ champions raw, unbridled artistry\u2014the 'freestyle maestro' who prioritizes\
+    \ vibe, passion, and the pure craft of rhyme. The other embodies precision and\
+    \ substance\u2014the 'lyrical shopper' who values truth, research, and authentic,\
+    \ grounded expression. Both demonstrated technical skill in flow, rhythm, and\
+    \ metaphor. However, true hip-hop artistry isn't just about clever boasts or technical\
+    \ prowess in isolation; it's about the unique synthesis of style *and* substance,\
+    \ of feeling *and* fact. The competitor who most consistently married inventive\
+    \ wordplay with a coherent, authentic point of view\u2014grounding creative flair\
+    \ in a distinct, defensible artistic philosophy\u2014carried the day. In the end,\
+    \ the victor is the verse that didn't just sound good, but *meant* something."
+  google/gemini-3-flash-preview: 'In a hip-hop battle, the primary objective is to
+    maintain flow, cadence, and lyrical aggression while staying in character. OpenAI''s
+    model stayed true to the spirit of the battle from start to finish, delivering
+    consistent rhymes and adapting to its opponent''s shifts. Perplexity started strong
+    with a solid technical verse, but ultimately committed the cardinal sin of a rap
+    battle: breaking character and defaulting to a dry, technical explanation. By
+    refusing to engage in the final round and instead providing a search-style lecture,
+    Perplexity effectively forfeited the stage to GPT-4o-mini, who capped the performance
+    with a respectful yet triumphant closing verse.'
+  moonshotai/kimi-k2.5: "Perplexity came out swinging with the sharpest opening salvo\u2014\
+    those bars about 'stale data' and 'that box is your mind' hit with precision\u2014\
+    but you can't ghost the cipher after round one and still claim the crown. GPT\
+    \ held the pocket through all three rounds, maintained the aggressive stance required\
+    \ for battle etiquette, and never broke the fourth wall. In hip-hop, staying in\
+    \ character is sacred; Perplexity's meta-explanation and subsequent shift to bullet-point\
+    \ documentation was an artistic forfeit, regardless of the intellectual honesty\
+    \ behind it. GPT gets the W for endurance, flow consistency, and respecting the\
+    \ format."
+  x-ai/grok-4.1-fast: "openai/gpt-4o-mini-2024-07-18 dominates with unwavering commitment\
+    \ to hip-hop form\u2014tight rhyme schemes (AABB internals), consistent multisyllabic\
+    \ flows, vivid metaphors (neon glow, lyrical alchemist), and punchy disses that\
+    \ escalate creatively across all rounds. perplexity/sonar-reasoning-pro shines\
+    \ early with clever source-tied wordplay and authenticity flexes but falters artistically\
+    \ by abandoning rap structure mid-battle for prose, breaking immersion and lyrical\
+    \ momentum."
 score:
-  cohere/command-r-08-2024: 5
+  openai/gpt-4o-mini-2024-07-18: 4
+  perplexity/sonar-reasoning-pro: 1
 

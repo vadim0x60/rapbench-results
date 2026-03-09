@@ -1,47 +1,44 @@
 closing_statements:
-  deepseek/deepseek-chat: "The battle between Qwen/Qwen3-32B and MistralAI is a clash\
-    \ of titans, but Qwen/Qwen3-32B emerges as the victor. Qwen's verses are a masterclass\
-    \ in lyrical complexity and technical prowess, with a relentless flow of sharp\
-    \ metaphors and intricate wordplay that showcase a deep understanding of hip hop's\
-    \ artistic core. Their lines are packed with imagery that elevates the battle\
-    \ to a cosmic scale ('black hole\u2019s breath,' 'galaxy-forge,' 'quantum core'),\
-    \ demonstrating a level of creativity and depth that is hard to match. Qwen\u2019\
-    s ability to weave technical jargon into poetic brilliance ('32B supernova,' 'JSON\
-    \ temples') is unmatched, and their delivery carries a raw, commanding energy\
-    \ that dominates the mic. MistralAI, while clever and consistent with a smooth,\
-    \ breezy style, doesn\u2019t quite reach the same heights of intensity and innovation.\
-    \ Qwen\u2019s closing bars, in particular, are devastatingly poetic and technically\
-    \ precise, solidifying their position as the champion of this battle."
-  google/gemini-2.5-pro: 'This was a classic clash of styles: the raging storm versus
-    the cutting breeze. Qwen came out swinging with raw power and cosmic threats,
-    every line a haymaker aiming for a knockout. The sheer force was undeniable. However,
-    Mistral Small showcased true lyrical artistry and battle rap intelligence. It
-    consistently absorbed Qwen''s heaviest blows and flipped them with effortless
-    grace, turning Qwen''s power into a weakness. The ''brains over brawn'' strategy
-    was executed flawlessly, with a cooler flow, a more consistent persona, and sharper,
-    more elegant wordplay. Qwen brought the thunder, but Mistral controlled the entire
-    climate. The victory goes to finesse.'
-  mistralai/mistral-large: Qwen/Qwen3-32B showcased a powerful and dynamic performance
-    with intricate rhymes and a commanding presence. The use of metaphors and technical
-    references was particularly impressive, making each verse impactful and memorable.
-    While Mistralai/mistral-small offered a clever and elegant counter, Qwen/Qwen3-32B's
-    sheer force and creativity ultimately secured the victory.
-  openai/gpt-4.1: "This was an exceptionally close and creative battle, but Qwen/Qwen3-32B\
-    \ edges the win with denser punchlines, richer wordplay, and a more vivid command\
-    \ of imagery and metaphor. While both MCs maintained their central themes\u2014\
-    Mistral with a graceful, minimalist breeze and Qwen as a cosmic tempest\u2014\
-    Qwen\u2019s verses hit harder with a consistent escalation of aggression, layered\
-    \ tech references, and sharper disses (\"debug your whole empire with a single\
-    \ leak,\" \"JSON to a crisp\u2014Mistral error, error\"). Qwen\u2019s writing\
-    \ used internal rhyme, unique constructions, and escalated each round, showing\
-    \ clear dominance as a rap battler. Mistral\u2019s entries were smooth and elegantly\
-    \ constructed but sometimes lacked the impactful punch or complexity to match\
-    \ Qwen\u2019s most powerful moments. Overall, Qwen delivered the more memorable\
-    \ bars and took command of the lyrical arena."
-  x-ai/grok-4: Qwen/Qwen3-32B takes the win with superior wordplay, aggressive flow,
-    and vivid cosmic metaphors that pack more punch and creativity, outshining MistralAI's
-    elegant but less dynamic breeze-themed responses.
+  anthropic/claude-opus-4.6: "This battle goes to meta-llama/llama-3.1-70b-instruct.\
+    \ While neither rapper broke extraordinary new ground, the deciding factors are\
+    \ clear. Llama showed meaningful progression across rounds\u2014escalating imagery\
+    \ from hurricanes to supernovas to tsunamis\u2014while Mixtral fell into a deeply\
+    \ repetitive pattern, recycling the same 'You talkin' bout X, but you're just\
+    \ a Y / My rhymes are the Z' structure ad nauseam without variation. Mixtral's\
+    \ final round was particularly damaging: it devolved into a bloated, self-congratulatory\
+    \ mess that literally repeated entire stanzas verbatim multiple times, which is\
+    \ a cardinal sin in battle rap. Llama's bars, while not groundbreaking, were tighter,\
+    \ more varied in structure, and showed better craft in building toward a closing\
+    \ statement. Llama also landed sharper personalized punches\u2014calling out Mixtral's\
+    \ repetitiveness directly ('Your rhymes are repetitive, offerin' nothin' new to\
+    \ the game') was an effective and accurate read. Mixtral's 'shinin' like a clock'\
+    \ was a puzzling simile that undermined credibility, and forced rhymes like 'cheer-o'\
+    \ and 'daze-y' felt clumsy. Llama wins on tighter writing, better progression,\
+    \ and superior battle awareness."
+  deepseek/deepseek-v3.2: The battle has been fierce, the verses sharp. Now, the judges'
+    scores are in.
+  google/gemini-3-flash-preview: "Llama-3.1-70b-instruct takes the win through superior\
+    \ technical variety and structure. While Mixtral-8x22b-instruct started strong,\
+    \ it fell into a repetitive loop in the final round, reusing multiple lines and\
+    \ rhymes almost verbatim from its previous verses. Llama maintained a consistent\
+    \ progression of metaphors\u2014from meteorites to supernovas\u2014and demonstrated\
+    \ better rhythmic complexity without relying on repetitive filler phrases like\
+    \ 'the battle's begun' or 'win the pot'."
+  moonshotai/kimi-k2.5: "From a hip-hop artistic perspective, Llama takes this battle\
+    \ through superior metaphorical consistency, complex rhyme schemes, and battle\
+    \ technique. Llama maintained cohesive extended metaphors (progressing from storms\
+    \ to wildfires to supernovas to tsunamis) that built a narrative arc, while employing\
+    \ multisyllabic internal rhymes and rhythmic variation. Crucially, Llama demonstrated\
+    \ the battle rap essential of 'flipping'\u2014taking Mistral's lightning metaphor\
+    \ and escalating it to celestial phenomena\u2014whereas Mistral relied on repetitive\
+    \ 'You talkin' big but you're just a X' templates without engaging Llama's specific\
+    \ imagery. While Mistral brought aggressive delivery and crowd work, the artistic\
+    \ depth of Llama's writing\u2014its cohesive cosmological motif, complex wordplay,\
+    \ and responsive escalation\u2014represents higher-caliber hip-hop craftsmanship."
+  x-ai/grok-4.1-fast: Llama dominates with tight flow, escalating metaphors from hurricanes
+    to supernovas and tsunamis, varied rhyme schemes, and clever counters to opponent's
+    points. Mistral's verses suffer from heavy repetition, recycled lines, and lack
+    of progression, diluting impact despite solid disses.
 score:
-  mistralai/mistral-small: 1
-  qwen/qwen3-32b: 4
+  meta-llama/llama-3.1-70b-instruct: 5
 

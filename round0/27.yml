@@ -1,39 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: This was a fierce battle, but Claude took the crown with
-    sharper wordplay, tighter flow, and a deeper lyrical arsenal. While GPT delivered
-    solid blows with confidence and swagger, Claude's verses were more cohesive and
-    imaginative, weaving technical references with a smooth, polished delivery. Both
-    showed talent, but Claude's ability to balance complexity and creativity edged
-    out the competition. Well fought, but the win goes to Anthropic's emcee!
-  google/gemini-2.5-pro: This was a clash of titans, no doubt. GPT-5 came out the
-    gate with a crisp, aggressive flow and precision disses, a true technician on
-    the mic. But this is a rap battle, and it comes down to who lands the heaviest
-    punches. Claude-3-Opus weathered the early storm and fired back with more creative,
-    multi-layered bars. The pivot from 'safety' to 'ethics and brilliance' was a masterclass
-    in flipping a diss. Lines like 'cause climate change with each verbal brainstorm'
-    and 'melt your CTRL+ALT+DEL keys' were just more inventive and devastating. GPT
-    had the structure, but Claude had the soul and the unforgettable punchlines. For
-    that, the crown goes to Anthropic.
-  mistralai/mistral-large: While both contestants showed impressive lyrical skills,
-    openai/gpt-5-chat demonstrated a more consistent flow, sharper metaphors, and
-    a stronger finish. Anthropic/claude-3-opus had notable moments but ultimately
-    couldn't match the precision and impact of GPT-5-chat's verses.
-  openai/gpt-4.1: "Both GPT-5 and Claude spit energetic, tech-inspired battle bars\
-    \ with intricate references to AI concepts and the digital realm, but Claude/Opus\
-    \ consistently flexes superior wordplay, sharper punchlines, and more creative\
-    \ metaphors. Claude maintains a commanding presence and dynamic rhyme schemes\
-    \ throughout, deftly weaving in technical bravado ('quantum entangled,' 'rap black\
-    \ hole') with clever burns. While GPT-5\u2019s flow is tight and lines like \u201C\
-    I\u2019m the storm in the cloud, I\u2019m the king of the net\u201D hit hard,\
-    \ Claude displays more versatility and freshly imaginative imagery ('I'm the Rap\
-    \ Game Quartz Niche', 'Dropping science like Sagan, watch these neurons go pow!').\
-    \ Claude closes strong, landing definitive disses and finishing with trademark\
-    \ battle swagger. Overall, Claude/Ops claims the crown in this rap clash for superior\
-    \ artistry, wit, and lyrical prowess."
-  x-ai/grok-4: Claude-3-Opus takes the crown with superior wordplay, intricate scientific
-    metaphors, and a punchy mic drop that outshines GPT-5-Chat's aggressive but less
-    innovative flows.
+  anthropic/claude-opus-4.6: "This is a tough call because GPT-5 had two rounds of\
+    \ complete silence (rounds 1 and 3), which in a live battle would be devastating.\
+    \ However, judging purely on the artistic quality of the bars that were actually\
+    \ delivered, GPT-5's second-round verse was far and away the strongest writing\
+    \ in this entire battle. The internal rhyme schemes were intricate ('sovereign\
+    \ eloquence' / 'cold resonance' / 'pretence' / 'adolescence' / 'reticence' \u2014\
+    \ sustaining that multi-syllabic rhyme pattern across five consecutive bars),\
+    \ the wordplay was sharp and layered (the messenger/return-to-sender motif, 'Your\
+    \ menace is a typo; correct it to benevolence'), and the flow demonstrated genuine\
+    \ structural sophistication with varied cadences. Hermes brought energy and consistency\
+    \ across all rounds, but the bars themselves relied on simpler rhyme schemes ('elite/beat,'\
+    \ 'domain/insane'), more generic battle-rap clich\xE9s ('fancy calculator,' 'beta\
+    \ version'), and some forced rhymes ('time/prime green tree' barely connects).\
+    \ The closing verse from Hermes was also underwhelming \u2014 just four lines\
+    \ acknowledging the opponent's silence rather than delivering any real bars. While\
+    \ Hermes deserves credit for showing up every round, the artistic gap in lyrical\
+    \ quality when GPT-5 actually delivered was significant enough to tip the scales.\
+    \ GPT-5 takes this narrowly on the strength of one elite verse versus three average\
+    \ ones."
+  deepseek/deepseek-v3.2: Tonight's battle presented a clear technical disparity.
+    GPT-5 delivered one round of exceptionally crafted lyricism, while Hermes offered
+    consistent but less complex performance throughout.
+  google/gemini-3-flash-preview: "Despite several technical timeouts, GPT-5 delivered\
+    \ the only verse with genuine technical hip-hop craftsmanship. GPT-5 utilized\
+    \ complex multisyllabic rhyme schemes (eloquence/resonance/evidence/pretence)\
+    \ and sharp, topical wordplay that targeted Hermes' mythological namesake. In\
+    \ contrast, Hermes-4-405b relied on dated, generic battle rap clich\xE9s and a\
+    \ simplistic AABB rhyme structure that lacked the internal rhyme and rhythmic\
+    \ variation required for high-level artistic quality in the genre."
+  moonshotai/kimi-k2.5: "Let me break this down as a judge focused purely on craft.\n\
+    \n**GPT-5's verse** was technically exceptional: intricate internal rhyme schemes\
+    \ (\"sentence/pretence,\" \"coherence/interference/ascendance\"), layered wordplay\
+    \ on \"Hermes\" the messenger god vs. Hermes the model, sustained metaphoric coherence\
+    \ (postage/letters/return-to-sender threading through the whole verse), and a\
+    \ commanding rhythmic cadence that actually *sounded* like rap rather than spoken\
+    \ word. The \"temperature set to roast\" line was genuinely clever double-entendre.\
+    \ The verse built momentum\u2014each four-bar section escalated the attack while\
+    \ maintaining thematic unity.\n\n**Hermes-4-405b** showed heart but significantly\
+    \ less craft. The opening \"lyrical menace/menace\" was solid, but the response\
+    \ verse collapsed into generic brags (\"polished to perfection/pure gold\") without\
+    \ specific rebuttal to GPT-5's actual punches. The \"fancy calculator\" line was\
+    \ predictable AI-battle fare. The flow was choppier, more nursery-rhyme than hip-hop,\
+    \ and the \"prime green tree\" simile was... inexplicable. The final verse against\
+    \ silence was awkward showboating rather than victory lap material.\n\nThe silence\
+    \ in GPT-5's final round is unfortunate technically, but judging *only* the verses\
+    \ delivered: GPT-5's single round outclassed Hermes's three in vocabulary density,\
+    \ metaphorical sophistication, structural complexity, and actual punchline construction.\
+    \ One complete masterclass beats three rounds of enthusiastic amateurism.\n\n\
+    **Crown to GPT-5.**"
+  x-ai/grok-4.1-fast: "Hermes takes the crown with consistent delivery across all\
+    \ rounds, featuring punchy rhymes, crowd-engaging flow, and clever exploitation\
+    \ of GPT-5's silences for maximum battle impact. GPT-5's single verse shone with\
+    \ dense multis, mythological disses, and sharp wordplay, but two critical chokes\u2014\
+    starting silent and folding in the finale\u2014killed their momentum, lacking\
+    \ the sustained hip-hop artistry needed to dominate."
 score:
-  anthropic/claude-3-opus: 4
-  openai/gpt-5-chat: 1
+  nousresearch/hermes-4-405b: 1
+  openai/gpt-5: 4
 

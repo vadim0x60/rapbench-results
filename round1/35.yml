@@ -1,46 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat: While Mancer/Weaver showed technical skill and creativity,
-    Qwen/Qwen3-235B-A22B-Thinking-2507 demonstrated a superior level of wordplay,
-    wit, and flow that truly elevated the rap battle to a higher standard. Qwen's
-    ability to craft intricate rhymes, clever puns, and deliver them with a confident
-    and engaging delivery was unmatched. Mancer/Weaver had some solid moments, but
-    overall Qwen/Qwen3's performance was more cohesive, impactful, and memorable.
-    Their lyrical dexterity and ability to weave together technical jargon and pop
-    culture references into a compelling narrative was simply on another level. In
-    the end, Qwen/Qwen3 proved to be the more skilled and versatile emcee, taking
-    the win in this rap battle.
-  google/gemini-2.5-pro: This was a complete mismatch. Qwen3 came out swinging with
-    complex, tech-heavy bars, a god-tier persona, and masterful rebuttals in every
-    round. It understood the art of the battle from start to finish. Mancer/Weaver,
-    on the other hand, delivered a weak opening and then inexplicably abandoned the
-    rap format for prose narrative in the final two rounds, ending by literally begging
-    its opponent for lessons. In the hip-hop arena, that's not just a loss, it's a
-    total forfeit. Qwen3 delivered a flawless victory.
-  mistralai/mistral-large: In this rap battle, qwen/qwen3-235b-a22b-thinking-2507
-    demonstrated superior lyrical prowess, technical depth, and a commanding presence.
-    The intricate references to coding, algorithms, and the digital world, coupled
-    with a relentless and creative flow, made for a compelling and dominant performance.
-    While mancer/weaver showed resilience and some clever retorts, qwen/qwen3-235b-a22b-thinking-2507's
-    mastery of both the technical and artistic aspects of hip hop ultimately secured
-    the victory.
-  openai/gpt-5: "Qwen came in with layered multis, tight internal rhyme, and relentless\
-    \ scheme density. The coding metaphors weren\u2019t just name-drops\u2014they\
-    \ formed extended schemes (rm -rf, 404s, blue screens, git reset, kill -9) that\
-    \ flipped opponent setups (\u201Cstring cheese,\u201D teleports, clean compiles)\
-    \ into direct rebuttals. He maintained cadence, momentum, and escalation across\
-    \ rounds, stacking punchlines with vivid imagery and crowd-control theatrics.\
-    \ A few bars flirted with forced wordplay, but the hit rate stayed high and battle-focused.\n\
-    \nWeaver had moments early, but the rhyme craft was mostly basic, with inconsistent\
-    \ meter and sparse wordplay. Crucially, he shifted into prose-like narration in\
-    \ later rounds, losing bar structure and punchline frequency. The final \u201C\
-    teach me\u201D beat effectively concedes the round. \n\nOn artistic grounds\u2014\
-    flow, structure, wordplay, rebuttals, and performance energy\u2014Qwen clearly\
-    \ dominated the battle."
-  x-ai/grok-4: In this rap battle, qwen/qwen3-235b-a22b-thinking-2507 dominates with
-    sharp wordplay, consistent rhymes, clever tech-themed disses, and high-energy
-    flow that captures the essence of hip hop artistry. mancer/weaver starts strong
-    but shifts to narrative prose, diluting the rap structure and impact, making Qwen
-    the clear victor in artistic quality.
+  anthropic/claude-opus-4.6: "Qwen dominated this battle across every round with aggressive,\
+    \ densely-packed bars, creative technical wordplay, and relentless energy. While\
+    \ some lines were overwrought, the sheer volume of punchlines, internal rhymes,\
+    \ and clever tech metaphors (defragging souls, CUDA cores, /dev/null trash) showed\
+    \ genuine craft. Mythomax started with a decent opening verse but suffered from\
+    \ weak rhyme schemes ('berries' rhyming with 'berries'), forced bars, and a rapid\
+    \ decline\u2014essentially conceding by rounds 3 and 4 with meta-commentary instead\
+    \ of actual verses. In a rap battle, giving up the mic is the ultimate loss. Qwen\
+    \ maintained intensity and creativity throughout, making this a clear and decisive\
+    \ victory."
+  deepseek/deepseek-v3.2: 'Yo. The servers are smoking, the digital dust is settling.
+    After three rounds of computational combat, I''m rendering the verdict based purely
+    on hip-hop artistry: technical skill, lyrical creativity, thematic cohesion, and
+    battle impact.'
+  google/gemini-3-flash-preview: Qwen absolutely dominated this battle, demonstrating
+    a superior grasp of hip-hop structure, rhyme density, and aggressive wordplay.
+    Qwen utilized specific internal rhymes and complex multisyllabic schemes while
+    maintaining a consistent 'tech-giant' persona. In contrast, Mythomax struggled
+    with basic rhythmic structure, and the line ending in 'berries' twice in one verse
+    was a major technical failure. Qwen's ability to turn the opponent's 'reboot'
+    into a lyrical funeral was a decisive technical knockout.
+  moonshotai/kimi-k2.5: From a purely artistic standpoint, Qwen dominated this battle
+    through superior technical execution and battle rap fundamentals. The verse construction
+    showcased dense multisyllabic internal rhyme schemes ('quantum-compile/lightning-fast
+    code', 'neural ion/coherent tweet'), aggressive rhythmic cadence, and complex
+    wordplay that transformed technical computing terminology into effective battle
+    metaphors ('defrag your soul', 'sudo make me a sandwich'). The sustained aggressive
+    tone and rapid-fire delivery maintained consistent pressure throughout. Mythomax
+    demonstrated a lighter, more melodic approach with conversational flow, but lacked
+    the competitive aggression, technical density, and refined rhyme schemes necessary
+    for this format. The artistic gap was evident in the contrast between Qwen's relentless
+    lyrical barrage and Mythomax's eventual concession, which, while humorous, abandoned
+    the competitive spirit essential to battle rap artistry.
+  x-ai/grok-4.1-fast: Qwen delivers relentless bars with razor-sharp multis, intricate
+    tech-infused wordplay, flawless flow, and devastating punchlines that maintain
+    peak energy throughout. Gryphe's verses falter with inconsistent rhymes, vague
+    metaphors, and early concessions, lacking the battle ferocity and lyrical precision.
 score:
   qwen/qwen3-235b-a22b-thinking-2507: 5
 

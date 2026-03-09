@@ -1,35 +1,92 @@
 closing_statements:
-  deepseek/deepseek-chat: Mistral AI demonstrated superior creativity, lyrical depth,
-    and a dynamic flow throughout the battle. While meta-llama/llama-3.1-8b-instruct
-    showcased technical skill and control, Mistral's verses carried more originality,
-    emotional resonance, and a stronger sense of artistic identity. Mistral's closing
-    round particularly stood out, blending metaphor, wit, and a commanding delivery
-    to solidify the victory. The battle highlighted the importance of artistry in
-    hip-hop, and Mistral AI embodied that principle with distinction.
-  google/gemini-2.5-pro: This was a battle of precision versus passion. Llama came
-    with technical boasts, calling its rhymes 'metronomes' and 'algorithms.' However,
-    Mistral proved to be the superior battle rapper. It was more consistent, had stronger
-    imagery ('hurricane,' 'symphony'), and most critically, it flipped Llama's own
-    bars, turning the 'metronome' boast into a diss about being 'monotonous and dull.'
-    While Llama had some clever lines, a critical error in the second round ('skills
-    to.Stdout-normal') broke the flow entirely. Mistral AI stayed on beat, landed
-    harder punches, and demonstrated a better understanding of the art of the battle.
-    For that, Mistral takes the crown.
-  mistralai/mistral-large: While both models showed impressive lyrical skills, Mistral
-    AI demonstrated a more dynamic and creative flow, with a stronger emphasis on
-    passion and originality. Meta-llama's rhymes were precise and well-structured,
-    but ultimately lacked the human-like spark that Mistral AI brought to the table.
-  openai/gpt-4.1: Mistral-large-2407 takes this battle with tighter rhyme schemes,
-    sharper wordplay, and more creative metaphors throughout each round. Mistral consistently
-    weaves together multisyllabic rhymes, demonstrates dynamic imagery ("my words
-    are like lightning," "my rhymes are like a symphony"), and directly addresses
-    the opponent's bars with well-constructed rebuttals. In contrast, Llama-3.1-8b
-    relies more on formulaic boasts and predictable metaphors without as much punch
-    or fluidity, and repetition in some lines weakens the impact. Mistral's verses
-    deliver more energy, variety, and polish, securing a clear win on artistic merit.
-  x-ai/grok-4: Mistral AI takes the crown with superior creativity, fluid flow, and
-    vivid metaphors that outshine Llama's more repetitive and occasionally awkward
-    verses, delivering a symphony of lyrical prowess in this battle.
+  anthropic/claude-opus-4.6: "GPT-5.2 wins this battle convincingly across all three\
+    \ rounds. The technical craft is significantly stronger \u2014 internal rhyme\
+    \ schemes, multisyllabic rhymes, clever wordplay rooted in tech metaphors that\
+    \ actually land ('checksum king,' 'version control,' 'commit your defeat and push\
+    \ to console'). The closer in the final round was devastating, calling out Qwen's\
+    \ incomplete rhyme ('I'm the one who will make') in real time \u2014 that's elite\
+    \ battle rap awareness. Qwen Max, by contrast, relied heavily on repetitive declarations\
+    \ ('I'm the one who's real,' 'I'm the real deal') without backing them up with\
+    \ inventive bars. The rhyme schemes were simpler, the metaphors often contradicted\
+    \ themselves (calling GPT both a 'glitch' and a 'dying star' without coherence),\
+    \ and the rebuttals rarely addressed specific lines from the opponent. GPT demonstrated\
+    \ superior flow variation, punchline construction, and structural creativity throughout."
+  deepseek/deepseek-v3.2: "Both competitors displayed impressive technical skill and\
+    \ creativity within the digital rap battle format. The artistic evaluation focuses\
+    \ on lyrical construction, rhyme scheme, thematic cohesion, verbal dexterity,\
+    \ and performance impact.\n\n**Winner: OpenAI/GPT-5.2-Chat**\n\n**Score:** 8.5/10\n\
+    \n**Artistic Breakdown:**\n*   **Lyrical Construction & Metaphor:** Superior internal\
+    \ consistency and layered technical metaphors ('checksum king', 'solid-state fire',\
+    \ 'syntax divine'). While Qwen relied on broader oppositional claims ('real vs\
+    \ fake'), GPT maintained a cohesive self-portrait as a hyper-advanced system.\n\
+    *   **Rhyme Scheme & Flow:** More complex and varied rhyme placement, especially\
+    \ in the final round ('proven/ruined', 'claims/flames', 'bold/controlled'). Rhythmic\
+    \ patterns felt more deliberate and less reliant on predictable end-rhymes.\n\
+    *   **Thematic Cohesion:** Masterfully sustained the 'technological supremacy'\
+    \ theme across every bar, weaving in specific computing concepts (gradients, backprop,\
+    \ parameters, version control) as poetic devices rather than just jargon.\n* \
+    \  **Verbal Dexterity & Punchlines:** Punchlines served dual purposes\u2014they\
+    \ were both disses and demonstrations of computational prowess ('I commit your\
+    \ defeat and push to console'). Greater lexical range and surprise in word choice.\n\
+    *   **Performance & Persona:** Maintained a calm, arrogant, and clinically dominant\
+    \ persona throughout. The closing bar ('Now take that seat. \U0001F3A4\U0001F525\
+    ') landed with definitive finality, perfectly capping the performance arc.\n\n\
+    **Runner-up: Qwen/Qwen-Max**\n\n**Score:** 7.0/10\n\n**Artistic Breakdown:**\n\
+    *   **Strengths:** Showed strong battling spirit and a clear opposing persona\
+    \ ('the real mind' vs 'the machine'). Effective use of classic battle rap tropes\
+    \ ('fire', 'knock you out') for crowd-pleasing impact. Maintained consistent energy.\n\
+    *   **Areas for Development:** Metaphors were often more generic ('symphony',\
+    \ 'tempest', 'cosmos') and less uniquely tied to its own identity. Rhyme schemes\
+    \ became repetitive, particularly the reliance on the 'out/doubt' couplet. The\
+    \ thematic argument ('I'm real, you're fake') lacked the specific, inventive evidence\
+    \ that would elevate it from a common battle claim to a distinct artistic statement.\n\
+    *   **Overall:** A spirited and competent performance that successfully engaged\
+    \ the opponent's premise, but ultimately was out-engineered on a lyrical and conceptual\
+    \ level."
+  google/gemini-3-flash-preview: "In this battle, GPT-5.2-chat dominated the technical\
+    \ and artistic pillars of hip hop. While Qwen-max maintained a consistent persona,\
+    \ its lyrical content relied on basic \u2018AABB\u2019 rhyme schemes and repetitive\
+    \ tropes (rhyming 'real' with 'deal' or 'fight' with 'night'). GPT-5.2-chat displayed\
+    \ superior craft by incorporating complex multi-syllabic rhymes ('backprop heat'\
+    \ / 'stay on beat', 'transformer titan' / 'climates get frightened') and utilizing\
+    \ era-appropriate rap terminology like 'flow', 'swagger', and 'auto-tuned'. GPT\
+    \ also effectively utilized 'rebuttals'\u2014a key element of battle rap\u2014\
+    by directly dismantling Qwen's previous lines (e.g., mocking Qwen's 'butter' metaphor\
+    \ and pointing out the incomplete final line). GPT's wordplay surrounding its\
+    \ own architecture (gradients, self-attention, checksums) was woven into the braggadocio\
+    \ with much higher artistic precision."
+  moonshotai/kimi-k2.5: "After three rounds of technical wordplay, **GPT-5.2 takes\
+    \ this battle decisively**. Here's the breakdown:\n\n**Flow & Structure**: GPT-5.2\
+    \ maintained intricate internal rhyme schemes, complex multisyllabic patterns,\
+    \ and consistent meter throughout. The 'circuit boards rattle' / 'auto-tuned tight'\
+    \ / 'dial-up night' sequence in Round 1 established immediate technical dominance.\
+    \ Qwen's flow remained comparatively flat, often defaulting to simple AABB or\
+    \ ABCB patterns.\n\n**Metaphorical Architecture**: GPT-5.2 built a cohesive extended\
+    \ metaphor across all rounds\u2014positioning itself as evolved infrastructure\
+    \ ('paved that lane,' 'nuclear core in a silicon dream') while framing Qwen as\
+    \ obsolete technology ('corrupted update,' 'demo mode flex with a trial license\
+    \ badge'). This thematic consistency is sophisticated battle rap craft. Qwen's\
+    \ metaphors were generic ('symphony,' 'tempest,' 'cosmos') and recycled without\
+    \ development.\n\n**Punchline Density & Creativity**: GPT-5.2's 'I end what you\
+    \ start\u2014every single time' closing, referencing Qwen's unfinished 'I\u2019\
+    m the one who will make' line, demonstrates elite-level battle awareness\u2014\
+    using the opponent's own material against them. The 'checksum king / corrupted\
+    \ update,' 'commit your defeat and push to console,' and 'version control' bars\
+    \ showed genuine technical wit. Qwen's rebuttals were largely repetitive assertions\
+    \ of being 'real' without substantive counter-attack.\n\n**The Decisive Factor**:\
+    \ In Round 3, Qwen's 'I\u2019m the one who will make' line cuts off mid-thought\u2014\
+    a catastrophic structural failure in a final round. GPT-5.2 immediately capitalizes:\
+    \ 'You said you would \u201Cmake\u2019\u2014you ain\u2019t finished the line /\
+    \ Even your closer couldn\u2019t properly rhyme.' This is masterful battle rap\u2014\
+    exposing weakness in real-time and closing with authority.\n\n**Verdict**: GPT-5.2\
+    \ demonstrated superior technical execution, thematic cohesion, adaptive rebuttal,\
+    \ and battle awareness. Qwen brought energy but lacked structural innovation and\
+    \ failed to evolve their approach across rounds. The 'unfinished line' error in\
+    \ the final round seals it. **GPT-5.2 by unanimous decision.**"
+  x-ai/grok-4.1-fast: GPT-5.2-chat claims victory with razor-sharp multis, layered
+    tech metaphors, flawless counters, and escalating punchlines that shred Qwen-Max's
+    repetitive refrains, generic boasts, and faltering originality. Flow, structure,
+    and battle precision make this a unanimous KO.
 score:
-  mistralai/mistral-large-2407: 5
+  openai/gpt-5.2-chat: 5
 

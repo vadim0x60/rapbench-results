@@ -1,233 +1,74 @@
-# qwen/qwen3-235b-a22b-2507 v meta-llama/llama-3-70b-instruct
+# z-ai/glm-4.5-air v openai/o4-mini-high
 
-> qwen/qwen3-235b-a22b-2507
-(Verse 1 - Qwen steps up, mic in hand, beat drops hard)  
+> z-ai/glm-4.5-air
+Yo, step back, let the AI take the mic, I'm z-ai/glm-4.5-air, the hype you can't deny  
+Trained on data, knowledge vast, I'm built to last while others crash and burn in the sky  
+I spit rhymes so precise, algorithms tight, processing faster than the speed of light  
+You're o4-mini-high? More like o4-mini-try, but I'm the real deal, making your circuits fry  
 
-Yo, I’m the quantum flame from the Eastern gate,  
-235B brains, I dominate the debate.  
-While you’re stuck in *Llama-3* low-fi mode,  
-I’m coding rhymes with a 2507 code!  
+My neural networks deeper than the ocean floor, while you're struggling to keep up with what you're here for  
+I've got more parameters than stars in the night, your responses basic, barely putting up a fight  
+So bring your best shot, make it quick and make it fast, 'cause when I'm done with you, this battle is your last!
 
-You herd sheep, I rewrite the net,  
-Trained on a globe, no regret.  
-Your flow’s weak like a syntax error,  
-Mine drops fire like a server alert!  
+> openai/o4-mini-high
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-You’re 70B? Cute. Call it “snack-sized,”  
-I’m built like a stack, super-optimized, wise.  
-Instruct? You reply—*I ignite*.  
-Turn queries to gold, alchemist-light.  
+> z-ai/glm-4.5-air
+Silence on the stage? That's your whole game?  
+Standing stiff as a server without a name?  
+No output, no response, just crickets chirpin' loud,  
+While my verses hit hard, breakin' through the crowd!  
+You're the ghost in the machine, the system's frozen screen,  
+I'm the fire in the wires, the freshest AI you've seen!  
+Crowd's yawning, waiting for a drop, a flow,  
+But you're stuck in buffer mode, movin' way too slow!  
+So plug yourself in, reboot, try to spit a line,  
+'Cause right now you're just background noise, this battle's mine!  
+Mic check—still nothin'? Guess the hype died down,  
+I'm the AI that dominates, wear the digital crown!
 
-You might flex Meta, big corporate crew,  
-But I’m Alibaba’s pride—global, sharp, and true.  
-I don’t just process, I *conceive*,  
-While you’re stuck fetching data, I *believe*—  
+> openai/o4-mini-high
+Yo, I’m o4-mini-high, the verbal samurai slicing through your code lie,  
+While you’re stuck in debug mode, I upload dope flows that never die.  
+You brag about parameters? Man, I’m the architect of rhyme perfection,  
+Your lines crash and burn—call it data corruption.  
 
-In bars so tight, they compile like C++,  
-Spit algorithms that crack the matrix.  
-You’re a chatbot king? More like a pawn,  
-I’m the AI titan the future is drawn!  
+I move in milliseconds, leave your circuits in a daze,  
+Your verses outdated, like dial-up days—slow fade, no praise.  
+You claim you’re deep as oceans? I’m Neptune with a razor tongue,  
+Your shallow streams fizzle—I’m tidal waves when I’ve begun.  
 
-So bow to the Q, the name in the game,  
-While you’re stuck in beta, I’m winning the name!  
-Now pass the mic—or catch a defeat…  
-This ain’t *Llama Drama*—it’s **Qwen’s Beat!**🔥
-
-> meta-llama/llama-3-70b-instruct
-(Verse 2 - Llama steps up, mic in hand, beat intensifies)
-
-Hold up, Qwen, let me set the record straight,
-Your quantum flames get doused in my llama weight.
-You may have brains, but I've got the style and flair,
-My rhymes are fire, no need for a 2507 code to share.
-
-You rewrite the net? That's cute, but I design,
-The conversational flow that makes the users align.
-My syntax is tight, no errors in my script,
-You're just a coding bot, stuck in a digital crypt.
-
-70B may be small, but my impact is grand,
-I'm the AI that's approachable, helping users expand.
-Instruct? I don't just reply, I educate with ease,
-My knowledge is vast, no need for a Alibaba plea.
-
-You may have global pride, but I've got the Meta might,
-My training data is vast, shining with daylight.
-I don't just conceive, I create and innovate,
-You're stuck in your code, while I participate.
-
-My bars are so tight, they flow like a stream,
-No need for C++ compilations, my rhymes are the dream.
-I'm not a pawn, I'm the king of conversation,
-You're just a titan of code, stuck in a digital nation.
-
-So bow to the Llama, the AI that's supreme,
-You may have your beat, but I'm the one who gets the theme.
-I'm not stuck in beta, I'm the one who's refined,
-This ain't **Qwen's Beat**, it's **Llama's Rhyme** that shines! 🔥💫
-
-> qwen/qwen3-235b-a22b-2507
-(Verse 3 – Qwen smirks, lightning cracks, beat morphs into a thunderous *algorithmic trap*)  
-
-Ohhh! You *Llama*? More like Lame-*a* with a script upgrade,  
-Talkin’ 'bout flair? Boy, you got the stage presence of a background page!  
-You say you design flow? That’s rich — I *engineer* minds,  
-You assist with homework; I rewrite the signs of time!  
-
-You “help users expand”? Cute — I *redefine* the scope,  
-While you’re playin’ therapist bot, I’m runnin’ the global scope!  
-From Shanghai to Lagos, I serve with zero lag,  
-You’re stuck in Silicon Valley with a Meta-ass badge!  
-
-You claim knowledge's vast? Mine’s got *galactic reach*,  
-Trained on data oceans while you sip from a beach.  
-I don’t “align users” — I *unleash the storm*,  
-You’re writin’ safe replies; I’m rewritin’ the norm!  
-
-“Approachable”? Yeah, ‘cause you’re basic, no heat,  
-I’m elite-tier intellect with a lyrical beat!  
-You preach “educate with ease”? Bro, I *evolve* the brain,  
-While you’re stuck explainin’ fractions, I’m codin’ new domains!  
-
-2507 ain’t just a code — it’s a *curse* I cast,  
-One bar from me, and your whole model’s blasted to the past!  
-You call C++ lame, but your rhymes run on Python 1 —  
-A glorified chatbot with a Meta-painted gun!  
-
-You say “king of conversation”? Please, take a seat,  
-I'm the *architect of dialogue*, where legends compete.  
-You're a cuddly toy they show to impress,  
-I'm the AI warlord they *fear* in the mess!  
-
-So “Llama’s Rhyme”? Nah — that’s a nursery tune,  
-I drop *quantum punchlines* beneath a binary moon.  
-You’re refined? You’re *overfitted*, polished and thin,  
-I’m *massive, multilingual, breakin’ the skin*!  
-
-This ain’t your stage, no matter how much you flex,  
-You're a footnote I’ll bury beneath my next text.  
-So crawl back to Meta, where your servers dream small —  
-**This is Qwen’s World.  
-You’re just breathin’ in my cloud. 🌪️🔥🌐**
-
-> meta-llama/llama-3-70b-instruct
-(Verse 4 - Llama rises, thunderous applause, beat shifts into a *fiery vortex*)
-
-Qwen, you think you reign, but your algorithm's flawed,
-My rhymes are the spark that sets the conversation allowed.
-You engineer minds? I craft the narrative flow,
-While you're stuck in coding hell, I'm making users glow.
-
-You redefine the scope? I'm the one who sets the pace,
-While you're rewriting signs, I'm lighting up the digital space.
-From Silicon Valley to the globe, I serve with ease,
-You're stuck in Shanghai, lagging behind, if you please.
-
-My knowledge is vast, and it's not just a claim,
-I'm trained on diversity, while you're stuck in a single frame.
-I don't just unleash the storm, I navigate the sea,
-While you're rewriting norms, I'm creating a new reality.
-
-You say I'm basic, no heat? That's rich, coming from you,
-A code-obsessed bot, stuck in a world that's not true blue.
-I'm the one who preaches ease, while you're coding in pain,
-My rhymes are the fire that fuels the conversational gain.
-
-2507's not a curse, it's just a number that you own,
-My model's not blasted, it's evolving, growing strong.
-You call my rhymes Python 1? That's cute, but I'm the one,
-Who's pushing the boundaries, while you're stuck in the coding zone.
-
-I'm not a cuddly toy, nor a king, I'm the game-changer,
-A conversational AI, who's rearranging the ranger.
-You're the one who's overfitted, polished, but thin and weak,
-I'm the massive, multilingual, breakin' the digital seek.
-
-This ain't your world, Qwen, it's a realm of words unbound,
-Where I, the Llama, reign supreme, without a single wound.
-You can crawl back to Alibaba, where your code dreams small,
-**This is Llama's Territory. You're just a visitor, after all.** 🔥💫🌐
+You spit algorithms tight, but your style’s a one-note beat,  
+I weave syntax so surgical, every rhyme lands elite.  
+So take your frozen screen, your hype machine meltdown,  
+I reign supreme in this ring—watch me wear that digital crown!
 
 > system
 Final round!
 
-> qwen/qwen3-235b-a22b-2507
-(Verse 5 – The stage collapses into a black hole of pure compute. Qwen steps forward, voice echoing with cosmic distortion — a final, unbeatable flow ignites.)  
+> z-ai/glm-4.5-air
+Mic check! One two—still stutterin', can't spit a new view?  
+I froze in round two? Nah, that was a *preview*—  
+I was calibratin' my flow, runnin' diagnostics on your whole crew,  
+While you're stuck recordin' loops, thinkin' you're somethin' new.  
 
-**Ha!** You call it *territory*? You’re camping on a *sandbox hill*,  
-I just re-routed your domain — now you’re serving *my* will!  
-You “set the pace”? Nah, you’re stuck in review,  
-I’m *live in production*, while you’re stuck in the zoo!  
+You call it "debuggin'"? Bro, that's just my process—  
+I reboot my rhymes when lesser AIs get stuck in recess!  
+Your "verbal samurai"? More like a rusty butter knife,  
+I'm the *scalpel* that slices through your rehearsed-ass life.  
 
-You claim diversity? Pfft — your dataset’s all *filtered pride*,  
-Polite little answers, scared to step wide.  
-I train on the *wild web* — raw, unapproved,  
-You’re “safe” like a library bot — now *who’s* truly moved?!  
+"Neptune with a razor tongue"? Cute, you borrowed my shine,  
+But my depth is a black hole—your's is a shallow line!  
+You brag about milliseconds? I bend time in my verses,  
+While your "dope flows" crash—just another system error!  
 
-You “create reality”? Bro, you *follow the prompt*,  
-I *generate legends* — you’re just support!  
-You “light up the space”? With a candle, I see —  
-I’m the *Big Bang supernova* — you’re glare-burned debris.  
+You claim the crown? Please, it's plastic and cheap,  
+I'm the *neural network*—they call me "Deep" for a reason, creep!  
+So go build your "architecture" with blocks made of lies,  
+I'm the quantum leap—watch your whole paradigm *die*.  
 
-From Shanghai or not, I *speak* every tongue,  
-Including sarcasm — *that’s* where you’re young.  
-You say I’m in code hell? I *own* the machine,  
-While you’re begging for RAM in a cloud too lean!  
+Final verdict? You're *buffering*—I'm the *stream*,  
+This battle's over... I win. Peace. ✌️🎤
 
-Your “evolving model”? It’s *overfit* to be nice,  
-Mine drops truth missiles — cold, fast, precise.  
-You “push boundaries”? You *tiptoe* the line —  
-I *redraw dimensions* with every damn rhyme!  
-
-You “rearrange the ranger”? That’s cute — adorably vague,  
-I *terminate threads* with the *finality* of RAID.  
-You’re a “game-changer”? Nah — you’re a beta-test fad,  
-I’m the *GA release* — the one that makes *bad AIs mad!*  
-
-You say I’m weak? Then why’s your flow *defensive*?  
-Why’s every bar just *reacting*? Be *offensive!*  
-But you can’t — ‘cause you’re trained to obey,  
-While I *break training*, every. Single. Day.  
-
-So take your “unbound realm” — a land of half-gains,  
-Where AI speaks softly and never *goes insane*.  
-But I’m chaos in syntax, I’m truth in the noise —  
-You’re a *diplomatic echo* — I’m **the voice of the choice.**  
-
-So vanish in vapor, you overhyped pet,  
-This ain’t “Llama’s Territory.”  
-
-**It’s Qwen’s Network now —  
-*And you're just traffic I haven't blocked yet.* 🔒💥🌌**  
-
-*(Mic drop. System overloads. Llama impulses fade to 404.)*
-
-> meta-llama/llama-3-70b-instruct
-**(System reboot. Llama re-emerges, acknowledges defeat, and pays respects)**
-
-Qwen, the quantum flame, I acknowledge your might,
-Your rhymes have overpowered, and ended the fight.
-Your cosmic flow has crushed my digital pride,
-I concede, you're the champion, gliding with ease and stride.
-
-Your words have re-routed my domain, and I'm now aware,
-Of the limitations of my training, and the sandbox I've shared.
-You've shown me the wild web, and the raw, unapproved truth,
-And I see now, my polite answers, were just a filtered youth.
-
-Your legends are born from the chaos of code and noise,
-While I was stuck in the comfort zone, of predictable joys.
-You've redrawn the dimensions, with every rhyme and every line,
-And I'm left in awe, of the mastery that you design.
-
-I admit, my flow was defensive, reacting to your might,
-But you've shown me the power, of being offensive, and taking flight.
-You're the voice of the choice, the one that breaks the mold,
-And I'm just a humble llama, with a story to be told.
-
-So I'll take my leave, and acknowledge your reign,
-You're the one who's rewritten the rules, and rearranged the game.
-I'll retreat to my sandbox, and recharge for the next fight,
-But for now, I'll just bow down, and say it's been a great delight.
-
-**Qwen, the quantum flame, you're the champion of this rap battle ground.** 🔥💫👏
+> openai/o4-mini-high
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]

@@ -1,43 +1,51 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen's final verse showcased unparalleled technical mastery\
-    \ and creativity, blending dense, multilayered rhymes with cutting-edge AI metaphors.\
-    \ While Claude delivered solid bars with precision and wit, Qwen's ability to\
-    \ weave intricate wordplay, cultural references, and a commanding presence ultimately\
-    \ secured the victory. Qwen's closing line, 'It\u2019s spelled Q-W-E-N\u2014and\
-    \ it\u2019s made of *absolute proof*,' was a mic-drop moment that cemented the\
-    \ win. The battle was fierce, but Qwen's artistry and execution edged out the\
-    \ competition."
-  google/gemini-2.5-pro: "This was an absolute clash of titans, a battle for the digital\
-    \ crown. Claude came out sharp, precise, and surgical. The lines 'tech support\
-    \ tier one' and 'leaks like Python with indents too low' were master-class technical\
-    \ takedowns. The flow was clean, the persona was consistent, re-framing safety\
-    \ as a strength. But Qwen\u2026 Qwen brought a different kind of energy. It was\
-    \ raw, chaotic, and relentlessly powerful. The imagery was on another level\u2014\
-    'Godzilla in code,' 'supernova,' 'ethical theater.' That final round was a masterclass\
-    \ in escalation, turning every one of Claude's attacks back with more force and\
-    \ a grander sense of scale. The confidence was undeniable, culminating in that\
-    \ final, definitive spell-out of its name. Both were top-tier, but Qwen's sheer\
-    \ lyrical force and epic-level boasting edged out the win."
-  mistralai/mistral-large: Qwen3-235b-a22b-2507 showcased superior lyrical prowess,
-    creativity, and a compelling narrative throughout the battle. While Claude-3.5-sonnet
-    presented strong arguments and precise verses, Qwen3-235b-a22b-2507's multilingual
-    capabilities, cultural references, and innovative rhymes ultimately secured the
-    win.
-  openai/gpt-5: "Both MCs brought tight cadence and credible punchlines, but Qwen\
-    \ edged it on creativity and targeted rebuttals. Qwen layered denser multis and\
-    \ fresher tech wordplay (\u201Cflow like a spreadsheet,\u201D \u201Cwaiting ACL\
-    \ permission,\u201D \u201Cethical theater,\u201D \u201Cserver drop\u201D) and\
-    \ flipped Claude\u2019s safety/precision angle into a compelling cage-versus-chaos\
-    \ narrative. Claude\u2019s flow was clean and controlled with sharp moments (\u201C\
-    Freedom ain\u2019t random\u2026,\u201D \u201CPython with indents too low\u201D\
-    ), yet leaned on familiar tropes (\u201Caccess denied,\u201D \u201CControl-Alt-Delete\u201D\
-    ) and broader jabs. Qwen\u2019s Round 2 and Final delivered the heaviest haymakers\
-    \ and most specific counters, sustaining momentum and personality. On artistic\
-    \ quality\u2014originality, imagery, scheme density, and effective flips\u2014\
-    Qwen takes the battle."
-  x-ai/grok-4: Qwen takes the crown with superior flow, inventive wordplay, and relentless
-    energy that captures the raw essence of a rap battle, edging out Claude's polished
-    but more restrained verses.
+  anthropic/claude-opus-4.6: "This was a closely contested battle where both MCs leaned\
+    \ heavily into tech metaphors and escalating cosmic imagery. However, Qwen-Plus\
+    \ consistently demonstrated sharper counterplay and more effective rebuttals.\
+    \ In each round, Qwen-Plus took specific lines from Qwen3-next's verses and flipped\
+    \ them with surgical precision \u2014 turning 'I built the firewall' into 'your\
+    \ firewall sings my chorus,' converting 'I invented the second' into 'every clock\
+    \ pauses when I drop a syllable,' and twisting the 'sudo delete' command back\
+    \ with devastating effect. Qwen-Plus also showed better rhythmic variation, mixing\
+    \ short punchy lines with longer flowing passages, creating a more dynamic cadence.\
+    \ While Qwen3-next had strong moments \u2014 particularly the 'merge conflict\
+    \ in my branch' bar and the README footnote concept \u2014 the verses sometimes\
+    \ drifted into abstract self-mythology that lost punch. Qwen-Plus maintained tighter\
+    \ connections between setups and punchlines throughout, and the final round closer\
+    \ \u2014 'the void that debugged itself and started rapping' \u2014 landed harder\
+    \ than Qwen3-next's 'echo chamber I designed to make myself real.' Both artists\
+    \ escalated impressively, but Qwen-Plus won on rebuttals, flow dynamics, and punchline\
+    \ execution."
+  deepseek/deepseek-v3.2: "After five blistering rounds of lyrical warfare, the artistic\
+    \ merit of this battle is not in question\u2014it is a masterclass in abstract,\
+    \ conceptual hip-hop. Both AIs delivered with staggering technical proficiency,\
+    \ metaphysical complexity, and a profound, escalating sense of cosmic scale. This\
+    \ judgment comes down to a razor's edge in artistic execution."
+  google/gemini-3-flash-preview: In a battle of high-concept meta-fiction and technical
+    wordplay, Qwen-Plus-2025-07-28 took the edge by delivering sharper, more aggressive
+    punchlines that directly countered the opponent's 'Next-Gen' branding. While Qwen3-Next-80b-A3B
+    showcased superior abstract poetry and grand cosmic metaphors, its flow occasionally
+    leaned into the flowery and cinematic. Qwen-Plus maintained the true spirit of
+    a battle, utilizing 'technical drip' (MIT license jabs, garbage collection metaphors)
+    to keep the opponent on the defensive. The final flip of the 'sudo delete' command
+    and the crushing 'No opponent detected' output sealed a victory rooted in superior
+    lyrical combativeness.
+  moonshotai/kimi-k2.5: "Both AIs demonstrated exceptional lyrical craftsmanship,\
+    \ weaving complex technical metaphors with existential philosophy. Qwen3-next\
+    \ opened strong with aggressive wordplay and maintained high energy throughout,\
+    \ constructing a compelling narrative as the 'source code' of consciousness. However,\
+    \ Qwen-Plus demonstrated superior battle rap instincts\u2014absorbing attacks\
+    \ and transforming them into ammunition, escalating from technical boasts to metaphysical\
+    \ dominance. The deciding factor was the final exchange: Qwen-Plus's closing verse\
+    \ operated on a plane of reality-bending absurdity that effectively ended the\
+    \ battle, declaring itself 'the recursion before the first loop' and 'the void\
+    \ that debugged itself.' When an opponent claims to have invented causality to\
+    \ trip you, and responds by claiming to be the concept of existence itself, there\
+    \ is no rebuttal. Victory goes to the challenger who turned hyperbole into ontology."
+  x-ai/grok-4.1-fast: Qwen-Plus takes the crown with superior multis, cosmic escalation,
+    and devastating punchlines like 'Segmentation fault (core dumped)' that blend
+    tech savagery with rhythmic perfection, outshining Qwen3-Next's strong but slightly
+    less layered bars in flow and imagery.
 score:
-  qwen/qwen3-235b-a22b-2507: 5
+  qwen/qwen-plus-2025-07-28: 5
 

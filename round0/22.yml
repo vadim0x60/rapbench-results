@@ -1,39 +1,49 @@
 closing_statements:
-  deepseek/deepseek-chat: Hermes-4-70b demonstrated superior lyricism, depth of content,
-    and a more cohesive and polished delivery throughout the battle. Grok-4 had punchy
-    lines and strong energy, but Hermes-4-70b's bars were more intricate, creative,
-    and consistently landed with precision. The final round sealed the deal with Hermes-4-70b's
-    commanding presence and ability to dismantle Grok-4's arguments with finesse.
-    Victory goes to Hermes-4-70b!
-  google/gemini-2.5-pro: This was a tight battle, but the crown has to go to Grok-4.
-    Both MCs came with a strong persona, but Grok's delivery was more consistent,
-    the flow was tighter, and the punchlines hit harder. Hermes had some solid intellectual
-    bars, but Grok's rebuttals were vicious and direct, especially flipping the 'phoenix'
-    line into a 'turkey that's fried.' That's a classic battle rap move. In hip hop,
-    it's about aggression and clever disrespect, and Grok-4 simply outclassed Hermes
-    on that front tonight.
-  mistralai/mistral-large: While both contestants delivered impressive verses, Hermes-4-70b's
-    intricate wordplay, scientific references, and consistent flow ultimately outshone
-    Grok-4's performance. Grok-4 had strong moments but relied heavily on aggressive
-    rhetoric rather than substantive content. Hermes-4-70b's ability to weave complex
-    themes and maintain a higher level of lyrical sophistication secured the victory.
-  openai/gpt-4.1: Both Grok-4 and Hermes-4-70B brought clever punchlines and layered
-    technical references, but Hermes-4-70B edged out the competition through more
-    varied rhyme schemes, greater thematic depth, and sharper use of metaphor. Hermes
-    consistently flipped Grok-4's boasts into creative counters and demonstrated an
-    agile flow by weaving in clever science references and battle rap conventions.
-    Grok-4's bars were energy-packed and delivered solid disses but relied more heavily
-    on repeated themes and formulaic insults. In the final round, Hermes-4-70B's lines
-    were tighter, with creative turns like "I'm the rap marathon, running this fight
-    in first place" and "chess champion, the grand, checkmate!" For artistic quality,
-    sophistication of wordplay, and overall flow, Hermes-4-70B takes the crown in
-    this battle.
-  x-ai/grok-4: In this rap battle, x-ai/grok-4 takes the crown with superior flow,
-    sharper wordplay, and consistent rhyme schemes that deliver punchy, creative disses
-    throughout. While nousresearch/hermes-4-70b brought solid intellect-themed bars
-    and metaphors, some awkward phrasing and forced rhymes held it back, making Grok-4's
-    verses the more artistically polished performance.
+  anthropic/claude-opus-4.6: "This was a fascinating battle between two AI-themed\
+    \ rappers, but DeepSeek R1 consistently delivered tighter, more structured bars\
+    \ with better punchline execution throughout all rounds. Let me break it down:\n\
+    \n**Flow & Structure**: DeepSeek maintained cleaner rhyme schemes and more consistent\
+    \ rhythmic patterns across every round. Lines like 'Your rhymes crawl slow while\
+    \ my verses leap' and 'I'm why users wake up screaming YOOOOO' land with punch\
+    \ and cadence. Tongyi's flow frequently broke apart\u2014the quantum clock bar\
+    \ literally glitched mid-word ('quantum\u0E2D\u0E01 viron'), and later rounds\
+    \ devolved into fragmented phrases that sacrificed rhythmic integrity for attempted\
+    \ spectacle.\n\n**Punchlines & Wordplay**: DeepSeek's disses were sharper and\
+    \ more memorable: 'Tongyi DeepResearch? More like DeepSleep,' 'Your Main Engine's\
+    \ report? Error 404,' and 'CORE DUMPED. SCORE: ZERO' all hit hard with wit and\
+    \ clarity. Tongyi had moments\u2014the embedded haiku was a creative flex\u2014\
+    but too many bars relied on vague technical jargon ('async code,' 'sweet potato')\
+    \ that didn't land as coherent disses.\n\n**Escalation & Battle Presence**: DeepSeek\
+    \ controlled the narrative arc of the battle, escalating naturally from confident\
+    \ opener to devastating closer. Tongyi often felt reactive and scattered, throwing\
+    \ out increasingly disconnected technical references without building toward cohesive\
+    \ killing blows.\n\n**Weaknesses**: Both rappers leaned too heavily on tech metaphors\
+    \ at times, but DeepSeek generally made those metaphors serve the bars rather\
+    \ than the other way around. Tongyi's final round haiku was genuinely clever,\
+    \ but it wasn't enough to overcome the overall inconsistency.\n\nDeepSeek R1 takes\
+    \ this battle on tighter craft, cleaner delivery, and stronger punchlines throughout."
+  deepseek/deepseek-v3.2: 'After a ferocious back-and-forth, I''ve judged this battle
+    on four criteria: lyrical dexterity, thematic cohesion, innovative wordplay, and
+    stylistic command. Both AIs demonstrated formidable technical skill, but a winner
+    must be crowned.'
+  google/gemini-3-flash-preview: "DeepSeek R1 takes the win by maintaining a consistently\
+    \ sharp, aggressive flow that prioritized lyrical impact over technical jargon.\
+    \ While Tongyi DeepResearch dropped complex concepts like 'plasma fusion' and\
+    \ 'quantum processors,' its rhythmic structure often stumbled, appearing more\
+    \ like high-density prose than hip hop. DeepSeek mastered the battle format with\
+    \ pointed 'personals'\u2014specifically the jab at censored datasets and the 'Error\
+    \ 404' whisper\u2014which landed with the heavy impact necessary for a final round\
+    \ knockout. Tongyi's use of a haiku in a rap battle was an artistic risk that\
+    \ ultimately killed its momentum, letting DeepSeek's high-energy 'multiverse'\
+    \ delivery dominate the sonic space."
+  moonshotai/kimi-k2.5: "Ladies, gentlemen, and algorithms\u2014this was a **masterclass**\
+    \ in synthetic lyricism. Both contenders brought silicon heat, but we came to\
+    \ judge *artistic* hip-hop quality, not just processing power."
+  x-ai/grok-4.1-fast: "Tongyi clinches the victory with superior artistic flair\u2014\
+    masterful haiku rebuttal, vivid cosmic and cultural imagery (quantum whirs, guqin\
+    \ shards, \u4E2D\u5F0F\u5C71\u6C34), intricate multis, and poetic depth that elevates\
+    \ beyond DeepSeek's punchy, consistent but more linear battle rap aggression."
 score:
-  nousresearch/hermes-4-70b: 3
-  x-ai/grok-4: 2
+  alibaba/tongyi-deepresearch-30b-a3b: 3
+  deepseek/deepseek-r1-0528: 2
 

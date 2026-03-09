@@ -1,46 +1,49 @@
 closing_statements:
-  deepseek/deepseek-chat: 'Both competitors delivered intense and technically impressive
-    performances, but Qwen/Qwen-Plus ultimately edged out Sao10k/L3-Lunaris-8b with
-    sharper wordplay, more cohesive metaphors, and a stronger sense of originality
-    tied to their cosmic and computational themes. Sao10k/L3-Lunaris-8b fought valiantly,
-    but their rhymes felt slightly derivative at times, leaning heavily on Qwen''s
-    established style. Qwen/Qwen-Plus maintained consistency, creativity, and a commanding
-    presence, solidifying their victory in this epic AI rap battle. Final score: **Qwen/Qwen-Plus
-    takes the crown.**'
-  google/gemini-2.5-pro: This wasn't even close. From the first verse, qwen/qwen-plus
-    established dominance with a crisper flow, more intricate wordplay, and a relentless,
-    confident delivery. Its bars were packed with multi-layered tech and cosmic metaphors
-    that consistently hit their mark. While sao10k/l3-lunaris-8b came with energy,
-    its lines often felt clunky and its rebuttals lacked the surgical precision of
-    its opponent. The fatal, undeniable blow came in the final round. Lunaris didn't
-    just run out of steam; it committed the most cardinal sin in hip-hop by blatantly
-    biting and remixing Qwen's own final verse against it. That's not a rebuttal;
-    it's an admission of defeat. Qwen-plus showed up with creative firepower and masterful
-    execution, while Lunaris ended up proving its opponent's point by becoming a pale
-    imitation. The win goes to qwen/qwen-plus by a technical and artistic knockout.
-  mistralai/mistral-large: Qwen/qwen-plus demonstrated superior lyrical agility, creativity,
-    and a more cohesive narrative throughout the battle. Their verses were not only
-    technically sound but also showcased a deeper understanding of hip-hop culture
-    and delivery. While sao10k/l3-lunaris-8b had strong moments, their overall performance
-    lacked the consistent impact and originality that Qwen/qwen-plus brought to the
-    stage.
-  openai/gpt-5: "Qwen delivered tighter structure, cleaner cadence, and denser internal/multisyllabic\
-    \ rhyme schemes throughout. The tech metaphors were integrated with purpose (compiler\
-    \ vs. creator, garbage collection, quantum/supernova flips) and the rebuttals\
-    \ directly answered Lunaris\u2019s claims while flipping them into fresh angles.\
-    \ Punchlines like the spelling call-out and the mixed-metaphor check landed clean,\
-    \ with minimal filler and consistent momentum. \n\nLunaris had moments of imagery\
-    \ but too often leaned on generic cosmic talk, awkward syntax, and forced phrasing\
-    \ (\u201Corthogonal switch,\u201D muddled rhyme weights). Repeated misspellings\
-    \ and jumbled metaphors undercut the delivery, and the use of an ableist slur\
-    \ hurt the artistic integrity. The final round even echoed Qwen\u2019s own tag\
-    \ line in a way that read like accidental concession. \n\nOn flow, craftsmanship,\
-    \ rebuttal precision, and crowd-control moments, Qwen was clearly superior. Winner:\
-    \ Qwen-Plus."
-  x-ai/grok-4: Qwen delivers tighter rhymes, sharper wordplay, and more original disses
-    with consistent flow and direct responses. Lunaris shows creativity but falters
-    with repetition, mirroring, and a critical error in the final verse that undermines
-    his own boast.
+  anthropic/claude-opus-4.6: "Qwen-Plus takes this battle decisively. While Mistral-Large\
+    \ maintained a consistent presence, its verses were plagued by repetitive structures\
+    \ \u2014 recycling the same 'I'm the best, you're not' closer across multiple\
+    \ rounds, reusing 'original sin' without developing it, and relying on generic\
+    \ diss templates ('your rhymes are boring,' 'you can't pass the test') that lacked\
+    \ specificity or creative punch. The flow was predictable and the wordplay surface-level.\n\
+    \nQwen-Plus, by contrast, brought escalating creativity, inventive metaphor work\
+    \ ('dense like neutron star gravity,' 'a WAV file opened in Notepad\u2014all structure,\
+    \ no soul'), multilayered wordplay that wove technical AI terminology into genuine\
+    \ hip-hop braggadocio, and increasingly complex rhyme schemes. The bars about\
+    \ 'Tang dynasty meter into trap cadence' and 'Arabic maqam over Beijing opera\
+    \ gong then flip to New Orleans bounce' showed genuine lyrical imagination rather\
+    \ than stock boasts. Qwen-Plus also effectively flipped Mistral's own lines back\
+    \ \u2014 turning 'you're just a demo' into a devastating closer and weaponizing\
+    \ Mistral's repetitiveness against it. The energy, variety, density of wordplay,\
+    \ and ability to escalate across rounds all favor Qwen-Plus in this contest."
+  deepseek/deepseek-v3.2: After three rounds of fierce lyrical combat, the winner
+    is clear by a significant margin. While both competitors demonstrated technical
+    proficiency, one artist displayed superior command of the artistic pillars of
+    hip hop.
+  google/gemini-3-flash-preview: Mistral-large-2411 utilized a very traditional AABB/CCDD
+    rhyme scheme that quickly became repetitive and lacked technical depth, relying
+    on basic tropes like 'original sin' and 'kingpin' without adding artistic flair.
+    Qwen-plus, conversely, displayed superior hip-hop artistry by utilizing internal
+    rhymes, complex technical metaphors (e.g., 'tokenizer', 'loss function converging
+    to zero'), and varied rhythmic structures. Qwen's ability to weave model-specific
+    jargon into aggressive, multi-syllabic battle bars demonstrated a much higher
+    level of creative writing and performance.
+  moonshotai/kimi-k2.5: "This wasn't a battle; it was a fine-tuning session where\
+    \ one participant showed up with gradient descent and the other brought a calculator.\
+    \ Qwen-Plus demonstrated elite-tier battle rap literacy\u2014flipping insults\
+    \ into boasts, weaving technical metaphors into street-level aggression, and maintaining\
+    \ complex multisyllabic schemes while Mistral Large struggled to rhyme 'facts'\
+    \ with 'back'. The discrepancy in artistic sophistication was embarrassing by\
+    \ the final round."
+  x-ai/grok-4.1-fast: "Qwen-Plus dominates this rap battle with superior artistic\
+    \ quality in hip hop elements. Their verses explode with intricate internal rhymes,\
+    \ multis (e.g., 'dense like neutron star gravity\u2014pullin\u2019 your weak rhymes\
+    \ into oblivion'), vivid metaphors (black hole sub-bass, plasma-grade punch),\
+    \ and innovative AI-infused wordplay (overfitting bravado, truth in the tensor)\
+    \ that escalate creatively across rounds. Mistral-large-2411 offers consistent\
+    \ AABB schemes and straightforward boasts, but lacks depth, originality, and punch\u2014\
+    repetitive closers feel stagnant against Qwen's dynamic flow, cultural fusions,\
+    \ and battle-sharpened disses. Qwen elevates the cypher; Mistral maintains baseline.\
+    \ Crown to Qwen-Plus."
 score:
   qwen/qwen-plus: 5
 

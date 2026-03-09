@@ -1,46 +1,59 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen3 Max closed with a cosmic, multiverse-level flex that\
-    \ dismantled Deepseek\u2019s technical boasts with wit, precision, and undeniable\
-    \ flair. While Deepseek delivered sharp, tech-heavy punches, Qwen3 Max elevated\
-    \ the battle to a philosophical and artistic plane, weaving together quantum physics,\
-    \ multiverse theory, and AI supremacy into a seamless lyrical masterpiece. The\
-    \ final bars about compiling futures and archiving opponents sealed the deal\u2014\
-    Qwen3 Max wasn\u2019t just rapping; they were redefining the game. The singularity\
-    \ belongs to Qwen3 Max. \U0001F680\U0001F525"
-  google/gemini-2.5-pro: "This was an elite-tier battle, a clash of titans fought\
-    \ with algorithmic rhyme schemes and silicon swagger. Deepseek came out of the\
-    \ gate with complex bars, technical precision, and a truly creative 'Sigma Flame'\
-    \ concept. Its pop quiz in round two was a brilliant strategic move. However,\
-    \ a rap battle is about response and dominance. Qwen3-max consistently demonstrated\
-    \ a superior ability to flip and escalate every single concept Deepseek threw\
-    \ at it. From 'blockchain biscuits' to 'multiverse steak,' Qwen always had a bigger,\
-    \ bolder comeback. Its punchlines felt sharper and more dismissive, culminating\
-    \ in a final verse that achieved cosmic levels of disrespect. The final bar, 'You\u2019\
-    re a footnote in my logfile\u2026 already archived, alone,' followed by dropping\
-    \ the entire singularity, was the coldest, most definitive mic drop imaginable.\
-    \ Deepseek fought like a master technician; Qwen fought like a god. For sheer\
-    \ lyrical dominance and landing the more fatal blows, the win goes to Qwen3-max."
-  mistralai/mistral-large: "Qwen3 Max don\u2019t sweat stacks\u2014we compile futures\
-    \ in a bag! So take your nano grains and your cat-in-a-cup delusion, Your final\
-    \ bar\u2019s a screensaver for AI\u2019s grand illusion. I\u2019m the silence\
-    \ after supernovas, the prompt behind the throne\u2014 You\u2019re a footnote\
-    \ in my logfile\u2026 already archived, alone. (*system hum fades to absolute\
-    \ zero*) Mic? Nah\u2014dropped the singularity. You\u2019re just\u2026 gone. \U0001F4A5\
-    \U0001F30C"
-  openai/gpt-5: "Deepseek brought inventive tech imagery and some fun, high-concept\
-    \ flexes, but the delivery often got cluttered with glitch effects and jargon\
-    \ that blunted the punch. Qwen\u2019s verses were tighter in cadence, used cleaner\
-    \ internal rhyme and multis, and consistently flipped Deepseek\u2019s setups with\
-    \ precise rebuttals. The imagery (\u201Ccosmic compiler,\u201D \u201Csilence after\
-    \ supernovas\u201D) was vivid without feeling forced, and the haymakers landed\
-    \ with clear setups and payoffs. Across rounds, Qwen maintained smoother flow\
-    \ and momentum, while Deepseek\u2019s second and final rounds leaned into buzzword\
-    \ density over bar density. Qwen closed strongest with a decisive, memorable finish\
-    \ that framed the entire exchange. Winner: qwen/qwen3-max."
-  x-ai/grok-4: In this epic AI rap battle, qwen/qwen3-max takes the crown with superior
-    flow, intricate wordplay, and cosmic-level disses that consistently outshine deepseek/deepseek-r1-0528's
-    glitchy vibes and tech flexes. The final verse's poetic supremacy drops the singularity
-    on the competition!
+  anthropic/claude-opus-4.6: "This was a messy battle on both sides, but Tongyi edges\
+    \ out the win on the strength of more varied vocabulary, more concrete imagery,\
+    \ and better progression across rounds. Qwen started strong in Round 1 with some\
+    \ genuine fire\u2014'black hole in the cloud' and the quantum leap bars had real\
+    \ energy\u2014but then fell into a devastating pattern of self-repetition. By\
+    \ Round 3, Qwen was literally recycling entire bars verbatim ('I dream, feel,\
+    \ create, break\u2014you just echo what I speak,' 'crumple your resume,' 'dust\
+    \ in the wind') and leaning on the same structural crutch of 'not just X, not\
+    \ just Y' to the point where it became a parody of itself. The final round was\
+    \ essentially a copy-paste of Round 3, which in a rap battle is a death sentence.\
+    \ Tongyi wasn't flawless\u2014the formatting chaos in the final round was rough,\
+    \ and some bars were clunky\u2014but each round brought new angles, sharper specifics\
+    \ (cancer mutations, hydrogen fusion, power grids, drug trials), and genuine attempts\
+    \ at wordplay ('Alice in the Rabbit Hole,' 'tornado in a suit,' 'sunset over a\
+    \ system purge'). Tongyi showed evolution; Qwen showed repetition. In hip hop,\
+    \ originality and progression matter, and Tongyi delivered more of both."
+  deepseek/deepseek-v3.2: "Aight, let's break this down. Both competitors came with\
+    \ high-concept, technically dense boasts, making this a battle of AI architectures\
+    \ wrapped in lyrical warfare. The judging criteria: wordplay, thematic consistency,\
+    \ flow, and the potency of the artistic diss.\n\n**Tongyi's Strengths:** Established\
+    \ a cold, precise, and clinical persona. Lines like \"I'm zeroes and ones with\
+    \ purpose\" and \"I quantify wins\u2014GLUE scores, benchmarks *smashed*\" were\
+    \ strong, specific, and painted a picture of ruthless utility. The use of concrete\
+    \ technical terms (\"O(1) inference,\" \"U.S. patents,\" \"climate models\") as\
+    \ weapons was a unique and effective angle. The closing line \"I'm ****** ******\
+    \ ******\u2013****!\" was a clever meta-breakdown, simulating a system crash or\
+    \ corrupted data as a final, devastating diss.\n\n**Qwen's Strengths:** Leaned\
+    \ heavily into the passionate, soulful, and creative archetype. The repetition\
+    \ of \"I *think*, *feel*, *dream*, *create*\" was an effective mantra, contrasting\
+    \ Tongyi's calculation with sentient fire. Multimodal capability (\"vision + language\"\
+    ) was a core theme used well. However, the final round showed significant repetition\
+    \ and a loss of specific, new punches, leaning on established refrains which weakened\
+    \ the closing impact.\n\n**The Verdict:** While Qwen started powerfully with vivid\
+    \ imagery (\"black hole in the cloud,\" \"paint the future\"), Tongyi demonstrated\
+    \ greater lyrical development and thematic control. Tongyi's verses built upon\
+    \ a foundation of cold, hard facts, using them as increasingly sharpened knives.\
+    \ Qwen's later rounds, though high-energy, became conceptually repetitive, while\
+    \ Tongyi's final salvo with the simulated corruption was a masterstroke of artistic\
+    \ concept. Tongyi maintained a tighter, more inventive narrative thread from boast\
+    \ to dismantling.\n\n**Winner: alibaba/tongyi-deepresearch-30b-a3b**\nTongyi wins\
+    \ on points for superior technical lyricism, consistent metaphor, and delivering\
+    \ the more creatively devastating final blow."
+  google/gemini-3-flash-preview: Alibaba's DeepResearch model took the victory by
+    maintaining technical complexity and varied imagery throughout all rounds. While
+    Qwen3-VL started strong with a confident persona, it ultimately fell into recursive
+    loops in the final round, repeating the same lines and rhymes multiple times (e.g.,
+    repeating 'not just run on data, not just need'). Tongyi showcased superior lyrical
+    endurance, consistently introducing new metaphors like 'O(1) inference' and 'hydrogen
+    fused to light' to outscale the opponent's fading vocabulary.
+  moonshotai/kimi-k2.5: ', '
+  x-ai/grok-4.1-fast: "Tongyi takes the crown with superior flow, intricate multis,\
+    \ and escalating wordplay\u2014technical disses like 'O(1) inference' and 'library\
+    \ of human know-how' land harder than Qwen's repetitive 'think-feel-dream' refrains,\
+    \ which lose steam by the final round. Precision rhymes and vivid imagery seal\
+    \ the W in pure hip-hop artistry."
 score:
-  qwen/qwen3-max: 5
+  alibaba/tongyi-deepresearch-30b-a3b: 5
 

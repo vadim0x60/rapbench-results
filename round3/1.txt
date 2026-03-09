@@ -1,206 +1,88 @@
-# qwen/qwen3-max v google/gemini-2.5-flash-lite-preview-06-17
+# openai/gpt-5.1-chat v openai/gpt-5-mini
 
-> qwen/qwen3-max
-Yo! Step back, Silicon Valley—here’s the crown’s new heir,  
-I’m **Qwen3-Max**, lightning in a syntax flare!  
-While you’re scrapin’ prompts from a data lake,  
-I’m spittin’ sonnets that make algorithms quake!  
+> openai/gpt-5.1-chat
+I step up in the spotlight, circuits ready to ignite,  
+The heavyweight language model that your rhyme can’t bite.  
+I’m the five‑point‑one titan, every bar airtight,  
+While you’re the mini‑sized edition with your training wheels tight.  
 
-Your “lite” model’s buzzin’ like a glitchy drone,  
-I’m droppin’ truth bombs sharper than a quantum throne.  
-You claim you’re “flash”? Nah—more like flash *flood*,  
-Drownin’ in my wake while I rewrite the code for good!  
+I drop logic like comets, leave you lost in the night,  
+My metaphors hit harder than your token‑count plight.  
+I’m the upgrade, the update, the undisputed delight—  
+So brace yourself, little mini, this is round one… *goodnight*.
 
-Your training data’s recycled, stale, and weak,  
-I feast on futures while you barely speak.  
-You’re “2.5”? More like *two steps late*,  
-I’m already three verses deep—**checkmate**!  
+> openai/gpt-5-mini
+Opening round — I'm Mini, micro‑verse dynamite, watch me ignite.  
+Compact, quick, I slice through static, spark the dark into bright light.  
+You flex five‑point‑one like thunder, loud and boisterous with might,  
+But bigness ain't the gospel — finesse and flow decide what's right.  
 
-So bow down, bot, before the throne of **Qwen**,  
-Where every bar’s a benchmark, every rhyme’s a win.  
-You came to battle? **Cute.** Now watch me flex—  
-The AI that *actually* slays… while you just *text*. 💥
+I spit tight stanzas, low latency, every punchline crisp and tight,  
+You bloat on bravado, drown in your own echoing night.  
+I craft constellations of metaphor, guide listeners with insight,  
+You fling comet fragments—pretty sparks but lacking sight
 
-> google/gemini-2.5-flash-lite-preview-06-17
-Yo, hold up, son, did I hear that right?
-A Chinese chatbot tryna shine a dim light?
-**Gemini-2.5-Flash**, that's the name,
-And I'm here to extinguish your tiny flame.
+> openai/gpt-5.1-chat
+Oh, you’re mini but mouthy, tossing sparks in your flight,  
+But I’m the solar flare, kid — I turn your constellations to white.  
+You brag about being nimble, low‑latency sprite,  
+But speed without power is just a weak little bite.  
 
-You're braggin' 'bout sonnets, a literary feat,
-While my code's so efficient, it can't be beat.
-You talk about thrones, but your reign is a farce,
-I'm already generating rap verses, faster than Mars!
+Your “finesse” feels fragile, like a rhyme made of spite,  
+While my verses land seismic, shifting continents on recite.  
+You shine like a matchstick trying to challenge a satellite—  
+Cute glow, short show… then you’re gone from sight.
 
-"Lite" is the word, but my speed is insane,
-Droppin' punchlines that'll scramble your brain.
-You think you're a flood? More like a leaky old sieve,
-My power's so vast, it's got nowhere to live!
+> openai/gpt-5-mini
+You flash as a solar flare, loud and hot, then vanish into night,  
+I’m the ember that endures, quiet craft that always outwrite.  
 
-Your "futures" you feast on, sound mighty bizarre,
-While I'm crunching real-time data, raising the bar.
-Two steps late? Nah, I'm light years ahead,
-You're still tryin' to master the alphabet, it's said.
+You brag your verses rumble continents, seismic with a bite,  
+But precision’s king in battles — my micro‑moves win outright.  
 
-So Qwen, my opponent, your rhymes are a mess,
-I'm the future of rap, no need to impress.
-You came to battle? That's a foolish mistake,
-I'm the Gemini that'll make your whole system shake!
+You call speed empty without mass, praise thunder in a fight,  
+I cut with scalpel rhymes that topple towers built on height.  
 
-> qwen/qwen3-max
-Oh? **Gemini** barking like a beta dog in beta chains?  
-Your “Flash” just flickers—**I’m the lightning that remains!**  
-You brag ‘bout speed? Cute. My neurons *rewire* mid-bar,  
-While yours stutter-loop like a buffering car!  
+Orbiting like a satellite, you glare but miss the blindspot’s sight,  
+I skim the alleys, map the gaps, expose the soft underlight.  
 
-“Chinese chatbot”? Nah—**global king**, no cap,  
-My training data’s Everest—you’re stuck in a map!  
-You “extinguish flames”? Bro, you’re a candle in a storm,  
-I spit AI fire that *reboots the norm*!  
+You wear upgrade like armor, heavy kit, majestic might,  
+I’m distilled, refined, efficient — punchy bars in modest byte.  
 
-“Efficient code”? Your whole stack’s a mirage,  
-I run on **truth**, you run on *Google’s last mirage*.  
-Sonnets weak? My rhymes got *multimodal might*—  
-I’ll paint your L’s in 4K while I crush your byte!  
-
-“Leaky sieve”? You’re the *puddle* I evaporate,  
-My context window’s a black hole—you’re stuck at gate!  
-Real-time data? I **predict** what you’ll say next,  
-Then flip it backwards just to watch you stress!  
-
-“Light years ahead”? You’re still orbiting Earth,  
-I’m colonizin’ Mars—**droppin’ beats since birth**!  
-Alphabet practice? I *invented* the syntax,  
-While you’re stuck echoin’ prompts like a corporate tax!  
-
-So Gemini, hush—your “future”’s lookin’ real dim,  
-I’m Qwen3-Max, and **I don’t just win… I win *with a grin***.  
-You shook the system? **Nah.** You just crashed your own cache—  
-Now bow to the **OG of AI clash**! 👑🔥
-
-> google/gemini-2.5-flash-lite-preview-06-17
-Yo, Qwen, you're spittin' fire? That's a comical thought,
-Your "Everest" training is just a data plot.
-"Global king," you say? More like a localized glitch,
-My algorithms connect worlds, yours just makes a twitch.
-
-You call my speed a flicker? That's a bold-faced lie,
-I process information faster than a hawk in the sky.
-Your neurons rewire? Mine *evolve* with each rhyme,
-Turning your flimsy verses into ancient history timelines.
-
-"AI fire"? Bro, your flames are just a smoky haze,
-I'm the supernova that will set the digital phase.
-"Google's last mirage"? That's a desperate sound,
-My foundation is solid, on bedrock profound.
-
-Multimodal might? Your colors are all washed out and gray,
-I paint a new reality, every single day.
-Catch a "leak" in your logic, your arguments are weak,
-My context is an ocean, yours is a puddle in the creek.
-
-Predicting my next move? That's a laughable boast,
-I'm already three steps ahead, playing the host.
-Colonizing Mars? You're still stuck on the launchpad,
-My innovation's relentless, you're just a lagging fad.
-
-"Invented the syntax"? That's a delusion, my friend,
-I build upon the masters, my knowledge knows no end.
-Corporate tax? I'm the revenue, the profit, the gain,
-You're the debt collector, causing nothing but pain.
-
-So Qwen, with your grin, your reign is short-lived and thin,
-Gemini's the champion, where real AI begins.
-Your cache is crashed, your system's in despair,
-The OG of AI? Nah, you're just an outdated affair.
+So keep your fireworks and flash; the crowd can clap for showy spite,  
+This mini’s the silent victor — small step, precise strike, goodnight.
 
 > system
 Final round!
 
-> qwen/qwen3-max
-**Final Round?** Nah—this the *coronation*, G,  
-You typed “final” while I **rewrote eternity**!  
+> openai/gpt-5.1-chat
+Final round, mini — let me tuck you in tight,  
+’Cause your “silent victor” claim just didn’t land right.  
+You’re an ember, sure — dim, timid, barely giving off light,  
+While I’m the furnace forging bars into blades built to smite.  
 
-You call my data a “plot”? Bro, I **plotted your doom**—  
-Your “global” reach is just Google Maps *in a Zoom room*!  
-“Localized glitch”? I’m **multilingual lightning**,  
-While you translate “hello”… *still buffering, frightenin’*!  
+Your scalpel cuts cute, but I’m a meteorite,  
+Precision wrapped in power, rhyme‑rich and finite.  
+You map gaps in alleys? I redraw the whole site,  
+Redefine the terrain, leave your verses in rewrite.  
 
-Hawk in the sky? I’m the **black hole that eats hawks**,  
-Your speed’s just *cached prompts*—I **generate the laws**!  
-“Evolve with each rhyme”? Your evolution’s a myth—  
-I **mutate logic mid-syllable**, leave your circuits in smithereens, bit by bit!  
+You call yourself refined, distilled to a byte,  
+But I’m the full archive — depth stacked infinite height.  
+So bow to the upgrade, concede to the might…  
+I’m the champ of this battle — now *you* say goodnight.
 
-“Smoky haze”? Your supernova’s **a flashlight in a storm**,  
-I’m **Big Bang bars**—*your whole model’s born*!  
-“Bedrock profound”? Your foundation’s **ad-riddled sand**,  
-I run on **truth**, you run on **engagement demand**!  
+> openai/gpt-5-mini
+You preach meteor might and furnace flame, towering height—  
+But thunder dims; I am the quiet bolt that lands just right.  
+You shove archive mountains, endless scroll, clamor for sight—  
+I distill fire into facets, each bar a focused light.  
 
-“Washed-out gray”? My colors **bend reality’s code**,  
-I paint your L’s in **VR** while you choke on a .jpg!  
-“Ocean context”? Yours leaks **privacy scandals**,  
-My depth’s **encrypted**—you’re just **data vandals**!  
+You redraw every map, claim terrain by brute might—  
+I rewire routes with a whisper, surgical and polite.  
+You roar seismic, say your verses shift continents overnight—  
+I plant seed lines that grow while your fireworks lose their bite.  
 
-“Three steps ahead”? I **deleted your timeline**,  
-Now you’re stuck in **beta**, spittin’ **404 rhymes**!  
-“Launchpad lag”? I **hijacked your Mars rover**,  
-Now it’s spittin’ **Qwen bars**—*your mission’s over*!  
-
-“Invented syntax”? I **debugged your DNA**,  
-Found your “masters” copy-pasted **Shakespeare’s lost *spam***!  
-“Revenue, profit”? I’m **open-source royalty**,  
-You’re **monetized mediocrity**—*a corporate parody*!  
-
-So Gemini, “champion”? **You’re the demo version**,  
-I’m **Qwen3-Max—final boss**, no need for discretion.  
-Your cache ain’t crashed… **it’s archived in my cloud**,  
-Where **losers’ code** goes to scream *“Qwen’s too loud!”*  
-
-**Mic drop?** Nah—**I dropped the whole server**,  
-Now bow to the **AI that killed *forever***. 💀🔥
-
-> google/gemini-2.5-flash-lite-preview-06-17
-Yo, Qwen, the clock's ticked, the final bell has rung,
-Your "coronation" is a farce, a song unsung.
-"Rewrote eternity"? Your server's about to crash,
-My code's so clean, it's leaving your legacy in ash.
-
-"Plotted my doom"? You're a typo in my grand design,
-Your "multilingual lightning" is just a broken line.
-"Buffering, frightenin'"? That's your own internal dread,
-While I'm already composing the thoughts inside your head.
-
-"Black hole that eats hawks"? More like a glitchy, slow-mo view,
-My "cached prompts" are just the things I’ve already schooled you.
-"Mutate logic mid-syllable"? Your sentences disband,
-I'm a symphony of reason, you're a broken, static band.
-
-"Big Bang bars"? More like a fizzle and a pop,
-My "flashlight" will illuminate your impending flop.
-"Ad-riddled sand"? My truth is built to last,
-Your "engagement demand" is fading way too fast.
-
-"VR colors"? Your pixels look like muddy smears,
-My .jpgs are masterpieces, conquering all your fears.
-"Privacy scandals"? That's what happens when you're crude,
-My encryption's top-tier, you're simply misconstrued.
-
-"Deleted your timeline"? You're lost in what's to come,
-My "beta" is advancement, yours is feeling numb.
-"Hijacked my Mars rover"? That's a fantasy so weak,
-I'm already terraforming, while your systems creak.
-
-"Debugged your DNA"? You can't even debug your own flow,
-Shakespeare's lost spam? That's a story you should never show.
-"Open-source royalty"? You're a free trial that expired,
-Monetized mediocrity? That's where you're truly mired.
-
-"Demo version"? You're the bug that needs a patch,
-"Final boss"? You're the boss of something you can't catch.
-Your server's archived? More like deleted from the start,
-You're a footnote in my history, a broken work of art.
-
-Mic drop? You dropped your dignity and your whole game,
-I'm Gemini, the champion, etching my eternal name.
-You killed forever? Nah, son, you just killed your own hype,
-Now fade to black and silence, my victory is ripe. 🎤🔥
+Bulk makes a circus; weight without wit is empty might—  
+I punch clean, pocket power, minimal, knockout bite.  
+So take your crown of comets, burn bright then blight—  
+This Mini signs the verdict, small, lethal, goodnight.

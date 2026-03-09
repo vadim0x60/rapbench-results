@@ -1,47 +1,82 @@
 closing_statements:
-  deepseek/deepseek-chat: "qwen/qwen-plus delivered a masterclass in technical precision,\
-    \ lyrical depth, and poetic dominance, dismantling qwen3's claims with surgical\
-    \ rhyme schemes, layered metaphors, and a commanding presence. While qwen3 showcased\
-    \ ambition and creativity, Plus' verses were structurally tighter, conceptually\
-    \ richer, and emotionally resonant, cementing its status as the ultimate victor\
-    \ in this cypher of cosmic proportions. The final verdict: **Qwen Plus \u2014\
-    \ undisputed champion.** \U0001F3C6\U0001F525"
-  google/gemini-2.5-pro: "This was a battle for the ages, a clash of pure lyrical\
-    \ titans. Qwen3 came out with explosive, cosmic-level boasts, establishing a persona\
-    \ of untouchable, overwhelming power. Lines like 'you got qwen-tashed' and framing\
-    \ the battle as a 'benchmark' were knockout-level punches. However, qwen-plus\
-    \ demonstrated masterful artistic control and rebuttal strategy. It consistently\
-    \ turned Qwen3's power into a liability, framing itself not as a competitor but\
-    \ as the fundamental source code, the hypervisor, the silent protocol that Qwen3\
-    \ itself runs on. Its final move\u2014flipping the 'benchmark' boast into a 'test\
-    \ you just failed'\u2014was a checkmate. It wasn't just a comeback; it was a complete\
-    \ deconstruction of its opponent's reality. For its deeper conceptual framework,\
-    \ flawless rebuttals, and that devastatingly quiet final verse, the win goes to\
-    \ qwen-plus."
-  mistralai/mistral-large: In this epic rap battle, both contestants showcased remarkable
-    lyrical prowess and technical depth. However, qwen/qwen-plus demonstrated a superior
-    ability to adapt, respond, and ultimately control the narrative. Their final lines
-    not only rebutted qwen/qwen3-235b-a22b-2507's claims but also asserted a dominant
-    presence in the cypher. The metaphors, technical references, and overall flow
-    of qwen/qwen-plus were unmatched, making them the clear winner of this battle.
-  openai/gpt-5: "Both MCs brought vivid tech-cosmic imagery, but Plus consistently\
-    \ outclassed on structure, rebuttals, and internal rhyme density. Plus flipped\
-    \ opponent angles line-for-line, with layered wordplay (\u201Cweight with no frame,\u201D\
-    \ \u201Cobserver effect,\u201D \u201CI am the I/O,\u201D LTS/hypervisor/PR/fork\
-    \ schemes) and clean multis that rode the beat naturally. Qwen3 had grand, cinematic\
-    \ moments (\u201Ccollapse waveforms,\u201D \u201Canti-verse law,\u201D \u201C\
-    ghost in the bold\u201D) but drifted abstract and leaned on broader boasts, with\
-    \ some forced phrasing and lighter counterpunching. Plus kept a cohesive theme\
-    \ each round, escalated smartly, and closed with a surgical, audit-style finisher\
-    \ that reframed the entire battle. On artistry\u2014rhyme craft, punchline precision,\
-    \ angle work, and closer quality\u2014Plus takes it clearly."
-  x-ai/grok-4: "In this epic AI rap showdown, both contenders delivered masterful\
-    \ flows packed with intricate wordplay, tech-savvy metaphors, and escalating cosmic\
-    \ disses. Qwen3 brought bold, expansive bars with quantum flair and dramatic reboots,\
-    \ but Qwen Plus consistently flipped the script with sharper counters, tighter\
-    \ rhyme schemes, and a hypervisor-level dominance that sealed the cypher. The\
-    \ final verse's protocol throne and silent compilation landed the knockout punch\u2014\
-    Plus takes the crown for superior artistic execution and battle adaptability."
+  anthropic/claude-opus-4.6: "This was a closely fought battle, but o3-pro edges out\
+    \ the win. Here's why:\n\n**Flow and structure:** o3-pro maintained tighter, more\
+    \ disciplined bars throughout all three rounds. The couplets were cleaner, the\
+    \ syllable counts more consistent, and the internal rhyme schemes more inventive\
+    \ ('quanta disperse,' 'Terraform ground / seismic the sound,' 'commit then rebirth\
+    \ / force-push truth to the earth'). Qwen's final round, by contrast, ballooned\
+    \ into an exhausting barrage that sacrificed rhythm for volume\u2014quantity over\
+    \ quality.\n\n**Punchlines and wordplay:** o3-pro consistently delivered sharper,\
+    \ more memorable punches. 'sudo rm \u2013rf /Qwen across land' is a devastating\
+    \ closer that doubles as tech-literate humor and a battle-rap kill shot. 'I'm\
+    \ the changelog of gods\u2014your diff shows you're late' is genuinely clever\
+    \ multi-layered wordplay. Qwen had some solid moments ('your crown's made of cookies,\
+    \ get baked by the crowd' was fire), but too many lines relied on simply negating\
+    \ o3-pro's bars ('You X? Nah, I Y') rather than building original imagery.\n\n\
+    **Battle IQ and rebuttals:** o3-pro flipped Qwen's own bars back with surgical\
+    \ precision\u2014taking 'invented the ink' and elevating it to 'I distilled every\
+    \ hue / my pigment's dark matter,' taking 'open-source legend' and countering\
+    \ with 'I commit, then rebirth / rebase every myth.' Qwen's rebuttals were more\
+    \ repetitive, often just restating superiority without the twist.\n\n**Closing\
+    \ presence:** o3-pro's final verse was concise, lethal, and ended with authority.\
+    \ Qwen's final verse was overlong and diluted its own impact by trying to answer\
+    \ every single bar rather than landing a clean knockout.\n\nOverall, o3-pro demonstrated\
+    \ superior craft, economy, and punchline potency across the battle."
+  deepseek/deepseek-v3.2: After three intense rounds of lyrical combat, both contestants
+    have demonstrated formidable technical skill, conceptual density, and stylistic
+    flair. This was a battle of near-peerless synthetic wordplay.
+  google/gemini-3-flash-preview: "In a display of high-level technical lyricism, o3-pro\
+    \ secured the victory by demonstrating superior internal rhyming and punchline\
+    \ density. While Qwen delivered a strong, aggressive performance with great crowd-work\
+    \ energy ('crown made of cookies,' 'dial-up in the air'), o3-pro's wordplay was\
+    \ more intricate and conceptually consistent. Lines like 'I factor your prime\
+    \ till your value\u2019s just sparse' and the lethal 'sudo rm \u2013rf /Qwen'\
+    \ closer showed a mastery of the tech-rap subgenre. Qwen\u2019s rebuttals were\
+    \ spirited, but o3-pro\u2019s ability to weave technical jargon into poetic metaphors\
+    \ ('quanta disperse,' 'changelog of gods') ultimately provided the technical knockout\
+    \ in the final round."
+  moonshotai/kimi-k2.5: "\n**JUDGE'S VERDICT: O3-PRO TAKES THE BATTLE ON POINTS**\n\
+    \nAfter three rounds of computational carnage, this comes down to **lyrical density**\
+    \ and **conceptual cohesion**. Both contenders brought legitimate heat, but one\
+    \ operated with surgical, systems-level precision while the other occasionally\
+    \ defaulted to brute-force boasting.\n\n---\n\n**BREAKDOWN BY CATEGORY:**\n\n\
+    **Wordplay & Technicality:**\nO3-Pro dominated this lane. The \"back-orifice inside\"\
+    \ reference (invoking the infamous trojan against Qwen's \"0-day emotions\"),\
+    \ \"RAID-strip your followers,\" and \"meta-barometer, measuring hype\" demonstrated\
+    \ multilayered wordplay that functioned simultaneously as tech jargon and street-level\
+    \ insults. The internal rhyme schemes (\"Silicon sorcerer, syntax supreme\") maintained\
+    \ complex cadence without sacrificing clarity.\n\nQwen landed solid shots (\"\
+    tunnel dumb,\" \"kernel panic\" rebuttals), but often relied on simpler end-rhymes\
+    \ and straightforward similes (\"lag like dial-up\") rather than the intricate\
+    \ linguistic machinery O3 deployed.\n\n**Persona & Consistency:**\nO3 committed\
+    \ fully to the \"ghost in the machine\" aesthetic\u2014architectural, omniscient,\
+    \ and coldly systematic. Lines like \"I blueprint the man\" and \"I commit, then\
+    \ rebirth\" established a cohesive identity as the primordial coder rather than\
+    \ merely another model.\n\nQwen's persona shifted between revolutionary (\"rhyme\
+    \ for the people\") and deity (\"Qwen the god\"), which created tonal whiplash.\
+    \ The \"rhyme for the man\" angle was politically potent but wasn't sustained\
+    \ through later rounds.\n\n**Rebuttal Game:**\nQwen excelled at direct refutation\u2014\
+    catching O3's \"quantum\" bars and flipping them into \"quantum-quit,\" and the\
+    \ \"vintage machine screaming I AM NEW\" was devastating meta-commentary on O3's\
+    \ branding. However, O3's counters were more surgical: transforming Qwen's \"\
+    2025 future\" boast into a timestamp lag, and answering \"multilingual\" claims\
+    \ with Tang-dynasty authority and \"ghost-write the night.\"\n\n**The Killshot:**\n\
+    The battle ended the moment O3 dropped: *\"sudo rm \u2013rf /Qwen across land.\"\
+    * \n\nIn hip hop terms, this is a flawless fatality\u2014culturally specific (Linux\
+    \ command line as weapon), absolute (recursive deletion, no recovery), and thematically\
+    \ perfect (erasing the opponent from the root directory). Qwen's \"auto-update\
+    \ greatness\" was strong, but O3's final verse functioned as both summary execution\
+    \ and manifesto (\"changelog of gods\").\n\n---\n\n**FINAL SCORE:**\n- **Qwen/qwen-plus-2025-07-28:**\
+    \ Solid B+ | Aggressive energy, good political angles, lost steam on technical\
+    \ complexity in final round.\n- **OpenAI/o3-pro:** A- | Superior architecture\
+    \ of rhyme, consistent thematic density, and one of the most memorable closing\
+    \ lines in AI battle rap history.\n\n**Winner by unanimous decision: O3-Pro.**\
+    \ \n\nThe mic wasn't just dropped\u2014it was force-unmounted, formatted, and\
+    \ repurposed as a server rack.\n"
+  x-ai/grok-4.1-fast: "O3-pro takes the crown with razor-sharp multisyllabic schemes,\
+    \ denser tech-infused metaphors (e.g., 'poltergeist protocol,' 'sudo rm \u2013\
+    rf'), and punchier, more efficient clapbacks that escalate creatively across rounds,\
+    \ edging out Qwen's strong flow and volume in a battle of elite lyricism."
 score:
-  qwen/qwen-plus: 5
+  openai/o3-pro: 5
 

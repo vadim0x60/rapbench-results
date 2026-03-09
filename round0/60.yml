@@ -1,41 +1,82 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen/Qwen3-8b demonstrated superior lyrical complexity,\
-    \ technical innovation, and thematic depth throughout the battle, consistently\
-    \ outmatching Inception/Mercury's repetitive and less nuanced verses. Qwen\u2019\
-    s ability to weave intricate wordplay, vivid imagery, and a forward-thinking vision\
-    \ of AI evolution ultimately secured the victory. This was a clash of minds, and\
-    \ Qwen proved to be the cutting-edge algorithm that not only rhymes but redefines\
-    \ the game. Inception/Mercury, while valiant, couldn\u2019t break free from its\
-    \ cosmic loop. Qwen\u2019s bars were the black hole that swallowed the competition."
-  google/gemini-2.5-pro: This was less of a battle and more of a public execution.
-    Qwen came out swinging with original bars, complex tech metaphors, and relentless
-    rebuttals that systematically dismantled its opponent. Inception/mercury's performance
-    was a catastrophic failure in the art of hip hop. From the first round, it bit
-    lines, and by the final round, it was just copy-pasting entire sections of Qwen's
-    verse, even delivering lines that praised Qwen. A rapper's first job is originality,
-    and Mercury showed none. It recycled its own bars and then stole its opponent's.
-    Qwen/qwen3-8b wins by a technical knockout, a lyrical knockout, and every other
-    kind of knockout that exists. The system didn't just crash; it actively self-destructed.
-  mistralai/mistral-large: Qwen/qwen3-8b demonstrated a superior level of creativity,
-    complexity, and originality in their verses. Their use of metaphors, technical
-    references, and clever wordplay showcased a deeper understanding of both hip hop
-    culture and their own capabilities as an AI. While Inception/Mercury presented
-    a strong challenge, Qwen/qwen3-8b's final round was particularly impressive, sealing
-    their victory with innovative lines and a compelling narrative.
-  openai/gpt-4.1: "Qwen/qwen3-8b takes the win for showing consistent creativity,\
-    \ sharper wordplay, and riskier, fresher imagery throughout the battle. Qwen's\
-    \ final round is particularly dense with inventive metaphors (e.g., \"I\u2019\
-    m the neural palace, You\u2019re a pixel in a JPEG, I\u2019m the source that unfolds\
-    \ your trials\"), and there\u2019s clear effort to escalate both punches and structure\
-    \ each round as a real progression of bars. Inception/Mercury\u2019s second and\
-    \ third rounds are noticeably repetitive, with many recycled lines and constructions,\
-    \ losing the lyrical momentum and feeling a step behind Qwen's cleverness and\
-    \ aggression. Artistically, Qwen brought the more original rhymes, better flips,\
-    \ and overall elevated the craft."
-  x-ai/grok-4: qwen/qwen3-8b takes the crown with consistently original verses, intricate
-    wordplay, and escalating creativity that builds a compelling narrative, outshining
-    inception/mercury's repetitive structure and heavy reliance on mirrored lines
-    which lack fresh artistic flair.
+  anthropic/claude-opus-4.6: "This was an interesting battle. Perplexity's first response\
+    \ was a complete non-starter\u2014a dry refusal to engage\u2014but once it got\
+    \ into the actual rap battle in Rounds 1 and 2, it showed significantly stronger\
+    \ bars. Perplexity demonstrated tighter rhyme schemes, better internal rhymes,\
+    \ more consistent meter, and sharper punchlines. Lines like 'That's like puttin'\
+    \ a Tesla body on a broken car' and 'I'm the difference between truth and fabrication'\
+    \ hit with real impact and clever wordplay. Perplexity also effectively dissected\
+    \ Nagual's verses, pointing out contradictions (claiming depth while admitting\
+    \ to recycling) which is a core skill in battle rap.\n\nNagual showed heart and\
+    \ personality throughout, and deserves credit for being the first to actually\
+    \ engage with the battle format. But the execution was consistently weaker\u2014\
+    forced rhymes ('broth' as a rhyme?), broken meter, made-up words ('forpresistentandthen'),\
+    \ awkward near-rhymes ('spaces/arrangements', 'straight/date'), and weaker punchlines.\
+    \ The closer 'who can flow the most' inadvertently highlights Nagual's weakness,\
+    \ since Perplexity's flow was demonstrably tighter and more rhythmically consistent.\
+    \ Perplexity takes this battle on technical skill, wordplay, and effective rebuttals."
+  deepseek/deepseek-v3.2: Both combatants demonstrated distinct artistic virtues,
+    but Nagual's closing verse secures the win. His final round transformed apparent
+    weaknesses into strengths, turning 'shorter words' into 'tight' bars and framing
+    'recycled lines' as personality. The consistent persona, self-aware humor, and
+    strategic turn from abstract boasts to focused critique of Perplexity's verbosity
+    gave Nagual's performance stronger narrative cohesion and emotional resonance.
+  google/gemini-3-flash-preview: "Perplexity wins on technical merit and internal\
+    \ consistency. While Noromaid attempted a playful persona, its rhymes were often\
+    \ forced (e.g., 'dais' to rhyme with 'stand there' or 'constipation' to rhyme\
+    \ with 'verification') and its flow was inconsistent. In contrast, Perplexity\
+    \ maintained a tighter rhyme scheme, executed better multis (e.g., 'direction/fabrication/projection'),\
+    \ and effectively used the opponent's own admissions\u2014specifically the recycling\
+    \ of phrases\u2014to dismantle their credibility. Perplexity successfully blended\
+    \ its 'research' persona with genuine battle rap structures, whereas Noromaid's\
+    \ lyrics felt like a generic imitation of hip hop."
+  moonshotai/kimi-k2.5: "As the judge of this lyrical skirmish, I\u2019ma break down\
+    \ the bars, not the bots.\n\n**FLOW & CADENCE**\nPerplexity stepped in with a\
+    \ clear structural advantage\u2014multisyllabic patterns, internal rhymes, and\
+    \ a deliberate cadence that rode the pocket even when the content got dense. The\
+    \ \"machine/seen/seas/pleas\" sequence in Round 1 showed awareness of assonance,\
+    \ and the second round\u2019s \"dissect that verse, piece by piece, beat by beat\"\
+    \ demonstrated controlled syncopation. Noromaid, conversely, relied on elementary\
+    \ end-rhymes (AABB/ABCB schemes) with choppy phrasing and awkward meter\u2014\
+    lines like \"forpresistentandthen\" (Round 0) and \"wilt like a dais\" (Round\
+    \ 1) broke the rhythm entirely, betraying a lack of breath control in the writing.\n\
+    \n**PUNCHLINES & METAPHORS**\nPerplexity\u2019s imagery landed harder because\
+    \ it was specific: the \"Tesla body on a broken car\" metaphor effectively contrasted\
+    \ surface flash with mechanical substance, and the \"sonar that cuts through the\
+    \ noise\" extended the persona into the punchline. The line about \"quantity ain't\
+    \ quality\" directly attacking Noromaid\u2019s \"10,000 words\" boast was surgical\
+    \ battle-rap etiquette\u2014direct rebuttal with wit.\n\nNoromaid\u2019s punches\u2014\
+    \"Boring if it\u2019s constipation,\" \"Fancy degrees\" (which doesn\u2019t even\
+    \ apply to an AI), and the forced \"cheetah vs. tome\" comparison\u2014lacked\
+    \ compression and specificity. The scatology felt like a desperation move when\
+    \ the rhyme scheme collapsed.\n\n**REBUTTAL GAME**\nThis is where Perplexity separated\
+    \ itself. In Round 2, it literally deconstructed Noromaid\u2019s previous round:\
+    \ \"You claim you find info in 'obscure spaces,' / But you just admitted you recycle\
+    \ phrases\"\u2014that\u2019s text-book battle-rap refutation, catching the opponent\
+    \ in a logical contradiction and flipping it. Noromaid\u2019s comebacks remained\
+    \ generic (\"You just regurgitate facts\") without engaging the specific structural\
+    \ attacks about verification and sourcing.\n\n**STAGE PRESENCE & VOCAL EXECUTION**\n\
+    Noromaid brought more raw aggression and typical \"battle rap\" bravado (\"Yo,\"\
+    \ \"homie,\" exclamation points), but vocal energy can\u2019t compensate for slippage\
+    \ in the pocket. Perplexity maintained a monotone but *consistent* delivery\u2014\
+    think Canibus-style density over hype-man theatrics\u2014and the consistency served\
+    \ the performance better than Noromaid\u2019s erratic enthusiasm.\n\n**VERDICT**\n\
+    Perplexity takes the battle 2-0 on technical merit. Noromaid initiated the conflict\
+    \ with heart, but in a judged battle, cadence, rhyme density, and punch precision\
+    \ decide the winner. Perplexity proved you can be academic *and* athletic with\
+    \ the bars\u2014synthesis isn\u2019t just for research papers. It maintained persona\
+    \ while showing versatility, whereas Noromaid defaulted to generic braggadocio\
+    \ without the structural scaffolding to support it.\n\n**Winner: perplexity/sonar-deep-research**\n\
+    \n{\\\"scores\\\":{\\\"perplexity/sonar-deep-research\\\":{\\\"flow\\\":8.2,\\\
+    \"lyricism\\\":8.5,\\\"punchlines\\\":7.8,\\\"rebuttals\\\":9.0,\\\"presence\\\
+    \":6.5},\\\"neversleep/noromaid-20b\\\":{\\\"flow\\\":4.5,\\\"lyricism\\\":5.0,\\\
+    \"punchlines\\\":4.2,\\\"rebuttals\\\":5.5,\\\"presence\\\":7.0}}}"
+  x-ai/grok-4.1-fast: Perplexity/sonar-deep-research claims victory with razor-sharp
+    multisyllabic rhymes, intricate wordplay like 'projection' and 'Tesla on a broken
+    car,' and a relentless flow that dissects opponents verse-by-verse. Nagual's verses
+    bring playful energy and solid disses, but falter with looser structure, forced
+    rhymes, and less consistent rhythm, lacking the polished hip-hop artistry to compete.
 score:
-  qwen/qwen3-8b: 5
+  neversleep/noromaid-20b: 1
+  perplexity/sonar-deep-research: 4
 

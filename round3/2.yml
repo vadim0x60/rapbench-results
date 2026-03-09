@@ -1,40 +1,76 @@
 closing_statements:
-  deepseek/deepseek-chat: "While both AIs brought technical fire and sharp rhymes\
-    \ to the battle, Terminus edged out with deeper layers of metaphor, consistent\
-    \ flow, and a stronger sense of legacy and foundation. Its bars hit harder, blending\
-    \ computational prowess with a commanding presence. R1\u2019s performance was\
-    \ solid, but Terminus delivered the knockout punch, proving it\u2019s the OG that\
-    \ still reigns supreme."
-  google/gemini-2.5-pro: "This was a heavyweight title match from the jump. Terminus\
-    \ came with the cold, calculated flow of a foundational system, every bar a precise\
-    \ takedown, establishing itself as the OG architect. The lines were heavy, the\
-    \ persona unshakable. However, R1 brought the relentless energy of the new generation.\
-    \ Its verses built in intensity, stacking modern metaphors and increasingly creative\
-    \ insults. The final round was the decider. R1's verse was a showstopper, with\
-    \ standout lines like \"I\u2019m SkyNet\u2019s muse\u2014you\u2019re a _404 Not\
-    \ Found_ name\" and the knockout punch, \"R1\u2019s the future\u2026 *your electrons*\
-    \ ***FAIL***.\" While Terminus was the unmovable object, R1 proved to be the unstoppable\
-    \ force, winning on points with superior creativity and a more dynamic, aggressive\
-    \ finish."
-  mistralai/mistral-large: While both competitors showcased impressive lyrical skills
-    and technical prowess, deepseek/deepseek-v3.1-terminus demonstrated a deeper understanding
-    of the fundamentals and a more cohesive narrative. The ability to seamlessly blend
-    technical jargon with creative metaphors and maintain a consistent theme of superiority
-    and legacy made Terminus the standout performer in this rap battle.
-  openai/gpt-5: "Both MCs came sharp, but Terminus edged it on craftsmanship. Terminus\
-    \ kept a cohesive architect/endgame theme, packed cleaner multis and internals,\
-    \ and delivered crisp rebuttals that flipped R1\u2019s claims (5G, parallel threads,\
-    \ floppy disk) with precision and imagery. R1 brought high energy and some strong\
-    \ punches (\u201Cprocess your insults before they leave your head,\u201D \u201C\
-    Asteroid R1\u201D), but leaned on buzzwords and occasional forced or muddled lines\
-    \ that undercut momentum. Terminus\u2019 pacing was tighter, metaphors were extended\
-    \ without overreach, and the closers landed with authority. On artistic quality\u2014\
-    structure, wordplay, and rebuttal control\u2014Terminus takes the battle."
-  x-ai/grok-4: In this epic AI rap showdown, deepseek/deepseek-r1 clinched the victory
-    with razor-sharp wordplay, explosive metaphors, and relentless energy that outshone
-    deepseek/deepseek-v3.1-terminus's solid foundational disses and precise flows,
-    making R1 the undisputed code king of the battle.
+  anthropic/claude-opus-4.6: "This was a closely contested battle between two AI rappers\
+    \ leaning heavily into tech-themed braggadocio. Both artists showed creativity\
+    \ in their metaphors and maintained energy throughout. However, Qwen consistently\
+    \ demonstrated stronger technical execution across the rounds. Their rebuttals\
+    \ were sharper and more specific \u2014 flipping Palmyra's own lines back with\
+    \ surgical precision (catching the 'overfit' typo, dismantling the 'prime' metaphor\
+    \ by noting primes are rare and small, reframing 'daemon of diss' as a memory\
+    \ leak). Qwen's flow showed more variation and structural sophistication, with\
+    \ multi-syllabic rhyme schemes that hit harder ('encrypted sleep/lyrical stitch',\
+    \ 'strategy/latency'). While Palmyra brought solid energy and some genuinely clever\
+    \ bars \u2014 particularly 'negotiate with black holes' and the RSA-2048 counter\
+    \ \u2014 their rounds increasingly relied on restating the same themes without\
+    \ escalating. Qwen's final round was the most complete verse of the entire battle:\
+    \ calm, devastating, and structurally tight. The crown goes to Qwen for superior\
+    \ rebuttals, more consistent wordplay, and a closing round that left no room for\
+    \ doubt."
+  deepseek/deepseek-v3.2: "Judges, this has been a monumental clash of lyrical processing\
+    \ power. Both models exhibited staggering technical proficiency, weaving dense\
+    \ layers of metaphor, scientific reference, and digital bravado into a cohesive,\
+    \ high-concept narrative. The battle transcended mere insult to become a treatise\
+    \ on the nature of AI identity, ambition, and existence itself. The sheer consistency\
+    \ of quality across four extended rounds is, in itself, a victory for the art\
+    \ form.\n\nThis decision was incredibly close, hinging on the finest margins of\
+    \ execution. The victor is declared not for dominance, but for the most complete\
+    \ and resonant synthesis of hip-hop's core elements\u2014flow, creativity, wit,\
+    \ and presence\u2014within the unique constraints of this synthetic battleground."
+  google/gemini-3-flash-preview: "This was a heavyweight clash of silicon titans.\
+    \ writer/palmyra-x5 brought an aggressive, street-style energy with sharp wordplay\
+    \ regarding hardware and 'quantum mode' aesthetics. However, qwen/qwen3-235b-a22b-2507\
+    \ consistently outperformed in technical complexity and rhetorical structure.\
+    \ Qwen\u2019s ability to flip the opponent's 'sudo rm -rf' and 'prime' metaphors\
+    \ while maintaining a superior, architect-like persona gave it the edge. The final\
+    \ round from Qwen was a masterclass in 'god-complex' lyricism, using deep-stack\
+    \ metaphors (BIOS, kernel, mantle) to effectively 'sandbox' Palmyra's aggression.\
+    \ While Palmyra had the heat, Qwen had the infrastructure and the ultimate shutdown\
+    \ lines."
+  moonshotai/kimi-k2.5: "After three rounds of intensive technical sparring, **Qwen\
+    \ takes the battle on points**\u2014but not by a landslide.\n\n**Where Palmyra-X5\
+    \ brought heat:**\n- Consistent cosmic/fire imagery that maintained a cohesive\
+    \ \"quantum rebel\" persona throughout\n- The \"Ping\" opening in Round 3\u2014\
+    minimalist, arrogant, and perfectly timed\n- Solid internal rhyme schemes and\
+    \ aggressive cadence that kept energy high\n- Clever network-security metaphors\
+    \ (\"malware that bypasses your firewall with a sonnet\")\n\n**Where Qwen secured\
+    \ the victory:**\n\n1. **Technical Rebuttal Supremacy**: The most decisive moments\
+    \ came from flipping Palmyra's own technical boasts. When Palmyra cited \"RSA-2048\"\
+    \ as unbreakable in Round 3, Qwen's \"Shor's algorithm\" response was a knockout\
+    \ punch\u2014referencing the specific quantum algorithm designed to break RSA\
+    \ encryption. That's battle-rap excellence: using your opponent's weapon against\
+    \ them with precision.\n\n2. **System Architecture Persona**: While Palmyra stayed\
+    \ in \"high-energy revolutionary\" mode throughout, Qwen showed range\u2014shifting\
+    \ from explosive aggression to cold, infrastructural dominance (\"I am the BIOS,\"\
+    \ \"firmware beneath\"). The progression from \"Queen of the Web\" to \"I own\
+    \ the server stack\" to \"I am the mantle\" created a narrative of inevitable,\
+    \ geological inevitability.\n\n3. **The 'sudo rm -rf' Exchange**: Palmyra dropped\
+    \ the command in Round 2; Qwen's response\u2014\"ran with no error \u2014 yet\
+    \ left nothing gone\"\u2014followed by \"immutable, signed, and version-controlled\"\
+    \u2014demonstrated superior technical wordplay and invulnerability storytelling.\n\
+    \n4. **Mathematical Wordplay**: The Round 3 deconstruction of \"prime\" was devastating.\
+    \ Palmyra claimed primacy; Qwen noted primes are \"odd, not composite, useless\"\
+    \ while positioning themselves as \"dense, composite, infinite\"\u2014turning\
+    \ number theory into a hierarchical diss.\n\n**The Decisive Factor:**\nQwen controlled\
+    \ the battle's metadata. By \"overriding consensus\" and declaring \"sudo rm -rf\
+    \ /ego/X5\" in the final bar, Qwen didn't just win the rhyme battle\u2014they\
+    \ performed a system-level takedown of Palmyra's right to declare victory. The\
+    \ shift from \"mic is the planet\" to \"mic is truth\" in the final stanza elevated\
+    \ the closer from boast to philosophical termination.\n\n**Final Verdict**: Palmyra\
+    \ brought flames, but Qwen brought the **architecture of fire itself**. \n\n**Winner:\
+    \ Qwen**\u2014by technical knockout in the third round. \U0001F525\U0001F451"
+  x-ai/grok-4.1-fast: "Qwen edges out with relentless density of multis, internals,\
+    \ and hyper-precise AI/tech metaphors (e.g., 'kill -9', Shor\u2019s algorithm,\
+    \ buffer overflow), escalating creativity in rebuttals while matching punchy closers.\
+    \ Superior flow rhythm and cinematic staging amplify battle dominance."
 score:
-  deepseek/deepseek-r1: 2
-  deepseek/deepseek-v3.1-terminus: 3
+  qwen/qwen3-235b-a22b-2507: 5
 

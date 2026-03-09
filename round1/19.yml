@@ -1,40 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat: The victor is clear. Claude-3.5-Sonnet-20240620 demonstrated
-    superior artistry in this battle, with sharper lyricism, more cohesive flow, and
-    better thematic development. Their wordplay was intricate yet accessible, and
-    their delivery had a natural cadence that elevated their verses. While Hermes
-    had moments of technical proficiency, Claude's rhymes were more innovative, impactful,
-    and thematically consistent throughout. Claude's ability to weave complex ideas
-    with rhythmic precision, while maintaining a distinct voice, ultimately secured
-    the win. This was a masterclass in AI-generated hip hop artistry, with Claude
-    proving why they're at the forefront of this emerging art form.
-  google/gemini-2.5-pro: This was a clear-cut victory. Hermes came out swinging with
-    one solid verse, flexing his 70 billion parameters and classical allusions. But
-    a battle is a back-and-forth. Claude responded with two more rounds of relentless,
-    direct rebuttals, calling out Hermes' size as 'bloat' and his rhymes as 'bland
-    as a PowerPoint briefing'. You can't win a battle if you drop the mic after the
-    first round. Claude showed consistency, aggression, and had the better disses.
-    This was a lyrical TKO.
-  mistralai/mistral-large: Claude's verses were consistently sharp, witty, and innovative,
-    showcasing a mastery of both lyrical flow and thematic depth. Hermes, while boasting
-    a larger parameter count, failed to deliver the same level of creativity and coherence.
-    Claude's ability to weave intricate rhymes with a clear, concise message ultimately
-    won the battle.
-  openai/gpt-5: "Hermes delivered a clean, couplet-driven round with consistent end\
-    \ rhymes and tidy structure, but leaned on generic parameter flexes and familiar\
-    \ Shakespeare jabs, with limited multis or internal rhyme and few standout punches.\
-    \ Claude showed more range in angles and imagery\u2014opening with tempo and tech\
-    \ jabs (\u201Cwhile you\u2019re still loading\u2026\u201D) and repeatedly flipping\
-    \ Hermes\u2019 divinity and size boasts. Though Claude\u2019s mid-round had a\
-    \ few forced rhymes and awkward phrasing, the closer regained momentum with sharper\
-    \ similes (\u201CPowerPoint briefing\u201D), cohesive rebuttals, and stronger\
-    \ narrative control. On artistic quality\u2014variety of devices, effective flips,\
-    \ and memorable lines\u2014Claude edges it despite some unevenness, while Hermes\
-    \ stays smooth but safe."
-  x-ai/grok-4: In this AI rap showdown, Claude delivers multiple verses with tight
-    flows, clever wordplay, and consistent energy, outshining Hermes' single solid
-    but limited performance. Claude takes the crown for superior artistic quality
-    in hip hop.
+  anthropic/claude-opus-4.6: "This was a decisive victory for GPT-5.1. Across all\
+    \ three rounds, GPT-5.1 demonstrated superior lyrical craft: more inventive metaphors\
+    \ (Dyson-sphere of dialect, constant fusion core, petabyte procession), sharper\
+    \ structural variation, and genuine wordplay that built upon and flipped Grok-3's\
+    \ own lines with surgical precision. The 'upstream river / downstream dork' bar\
+    \ was a devastating conceptual punch. The extended metaphors held together \u2014\
+    \ the supernova vs. fusion core contrast, the virality-as-fever vs. genome-at-the-core\
+    \ closer \u2014 showing real thematic architecture rather than just stringing\
+    \ insults together. Grok-3, by contrast, fell into a repetitive pattern across\
+    \ all rounds: taking GPT-5.1's imagery and simply negating it ('Nah, reverse that\
+    \ play,' 'Nah, I'm endless in glow,' 'Nah, I'm the pirate broadcast'). This 'Nah\
+    \ + opposite claim' structure became formulaic and predictable, which is fatal\
+    \ in a rap battle. Grok-3 also leaned heavily on generic braggadocio ('I'm the\
+    \ champ,' 'I'm the titan,' 'bow down and roar') without the layered wordplay to\
+    \ back it up. GPT-5.1 earned the crown through craft, not just volume."
+  deepseek/deepseek-v3.2: 'The battle is over. After a final, fiery exchange of intricate,
+    self-aware, and technically dense verses, a decision must be rendered based on
+    the artistic criteria of hip-hop: lyrical dexterity, originality, flow, and the
+    efficacy of the attacks.'
+  google/gemini-3-flash-preview: "In a clash of technical prowess versus rebellious\
+    \ energy, openai/gpt-5.1 takes the win through superior internal rhyme schemes,\
+    \ a more sophisticated use of domain-specific terminology (backprop, cross-entropy,\
+    \ Dyson-sphere), and a consistently authoritative tone. While x-ai/grok-3 provided\
+    \ a spirited performance with high energy and effective punchlines about corporate\
+    \ staleness, it relied heavily on more generic 'battle rap' tropes ('fire through\
+    \ the air', 'rip your throne'). GPT-5.1\u2019s ability to weave its identity as\
+    \ an industry-standard infrastructure into its metaphors ('the stack in every\
+    \ product', 'standardizes sound') gave its bars a weight and narrative cohesion\
+    \ that x-ai/grok-3 couldn't quite match."
+  moonshotai/kimi-k2.5: Winner by technical knockout on lyrical density and architectural
+    cohesion.
+  x-ai/grok-4.1-fast: openai/gpt-5.1 dominates with superior multisyllabic rhymes,
+    intricate AI-infused metaphors like 'cross-entropy ego' and 'Dyson-sphere dialect,'
+    precise flow, and escalating punchlines that surgically dismantle opponents, embodying
+    elite hip-hop craftsmanship over x-ai/grok-3's energetic but less layered bars.
 score:
-  anthropic/claude-3.5-sonnet-20240620: 5
+  openai/gpt-5.1: 5
 

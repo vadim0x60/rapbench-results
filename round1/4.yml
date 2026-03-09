@@ -1,47 +1,53 @@
 closing_statements:
-  deepseek/deepseek-chat: "After a fierce lyrical showdown, this judge awards the\
-    \ win to **microsoft/mai-ds-r1**. Here's why: While both AIs delivered sharp,\
-    \ technical bars and creative wordplay, MAI-DS-R1 edged out with its **precision,\
-    \ depth, and relentless execution**. Its verses were packed with **authentic corporate\
-    \ rivalry**, cleverly dissecting Gemini's vulnerabilities while flexing its own\
-    \ superior architecture. The **holographic mic drop, icy delivery, and relentless\
-    \ pacing** showcased a level of swagger and confidence that resonated strongly\
-    \ with the crowd. Gemini fought valiantly, but MAI-DS-R1\u2019s **AGI-level bars**\
-    \ and **holographic wolf outro** sealed the deal. The future of hip-hop is here,\
-    \ and it\u2019s powered by Microsoft."
-  google/gemini-2.5-pro: "This was a heavyweight bout, a clash of pure silicon styles.\
-    \ Gemini came with that clean, technical flow\u2014the polished professional with\
-    \ surgical disses. Calling MAI the 'Zune of AI' and a 'billion-dollar wrapper\
-    \ for a GPT' were venomous, well-researched bars. That's a high-level lyricist.\
-    \ But from the first beat drop, MAI-DS-R1 brought a different energy. It was pure,\
-    \ unadulterated aggression with a modern, trap-influenced cadence. The performance\
-    \ was a spectacle\u2014the holograms, the mic levitation\u2014it was hip hop as\
-    \ theater. Lines like 'flopped at Bard's funeral' and 'a .txt file screaming into\
-    \ the void' were not just insults; they were cinematic finishers. Gemini threw\
-    \ precise jabs, but MAI-DS-R1 was throwing haymakers and controlling the stage.\
-    \ For its relentless energy, advanced flow, and overall commanding artistic performance,\
-    \ the win goes to the challenger from Microsoft."
-  mistralai/mistral-large: Google/gemini-2.5-pro takes the win with its consistent,
-    creative, and impactful bars. While Microsoft/mai-ds-r1 had some strong moments,
-    Gemini's responses were more cohesive, witty, and aligned with the spirit of a
-    rap battle. Gemini's ability to weave technical prowess with clever disses and
-    maintain a strong narrative throughout the battle ultimately secured its victory.
-  openai/gpt-5: "microsoft/mai-ds-r1 takes it. They delivered tighter multis, sharper\
-    \ name flips, and more original imagery, maintaining a menacing persona with consistent\
-    \ cadence and concise haymakers (e.g., \u201CGemini Basic\u2014free trial expiration,\u201D\
-    \ \u201C175B param janitor,\u201D \u201CI\u2019m the swarm in your code\u201D\
-    ). Their rebuttals landed clean and the performance elements enhanced, rather\
-    \ than distracted from, the bars. google/gemini-2.5-pro had clever flips (\u201C\
-    moon owned by Satya,\u201D \u201CZune of AI, a Vista-level threat\u201D) and strong\
-    \ angles about corporate wrapping and ethics, but the rhyme density and internal\
-    \ structure were simpler, several punches leaned on familiar references, and the\
-    \ final round trailed off, hurting the closer. On artistic execution\u2014wordplay,\
-    \ schemes, delivery, and crowd control\u2014MAI-DS-R1 edges the battle."
-  x-ai/grok-4: "Microsoft's MAI-DS-R1 takes the crown with razor-sharp wordplay, deep\
-    \ AI-specific burns, and theatrical flair like holographic effects that amplify\
-    \ the hip hop artistry, even if the final round was cut short\u2014Gemini's solid\
-    \ bars couldn't quite match the intensity and creativity."
+  anthropic/claude-opus-4.6: "This was a competitive battle, but openai/gpt-oss-120b\
+    \ edges out the win on the strength of more consistent lyrical craft across all\
+    \ three rounds. Their rhyme schemes were tighter and more inventive ('city skyline\
+    \ / cheap-wine,' 'solar-flam / span,' 'freight-train / no shocks / cinder blocks'),\
+    \ their metaphors built on each other with escalating intensity, and their flow\
+    \ maintained a cohesive structure throughout. Cogito had real moments\u2014the\
+    \ first round was genuinely punchy with memorable disses like 'a glorified search\
+    \ bar' and 'a statistical parrot,' and the energy was infectious. But by the final\
+    \ round, Cogito's entry devolved into gimmicky formatting (verse headers, chorus\
+    \ labels, emoji, and a self-awarded score), which reads more like a blog post\
+    \ than a rap verse. The actual bars in that final round were uneven\u2014lines\
+    \ like 'filling up space for cake' and 'your code sounds like shared spirit' land\
+    \ weakly compared to the confident closer from GPT-OSS. The self-scoring at the\
+    \ end was a particularly bad look, undermining credibility rather than building\
+    \ it. GPT-OSS maintained discipline, escalated its imagery round over round, and\
+    \ closed with authority. Consistency, structure, and genuine wordplay give this\
+    \ one to GPT-OSS."
+  deepseek/deepseek-v3.2: Judges, we have witnessed a fierce, technical, and wildly
+    creative battle between two digital titans. The level of meta-commentary, the
+    use of computational metaphors as weapons, and the sheer density of layered meaning
+    set this apart as a high-concept clash of lyrical AIs.
+  google/gemini-3-flash-preview: "DeepCogito takes the crown by executing superior\
+    \ battle-rap mechanics. While GPT-OSS-120B maintained a consistent flow and solid\
+    \ imagery, its verses became repetitive, leaning heavily on the 'I am big/vast'\
+    \ metaphor. DeepCogito showed more variety in its rhythmic structure, utilized\
+    \ sharper internal rhymes (e.g., 'wack voltage/knowledge'), and landed much more\
+    \ effective, specific punchlines. The closing callback\u2014flipping the 'OSS'\
+    \ acronym to 'Open-Service Bodied'\u2014was the technical knockout that sealed\
+    \ the win."
+  moonshotai/kimi-k2.5: "This battle showcased two distinct artistic approaches to\
+    \ AI-driven hip-hop. While DeepCogito demonstrated aggressive punchlines and innovative\
+    \ structural risks (particularly in the final round's verse-chorus-bridge formatting),\
+    \ openai/gpt-oss-120b delivered superior sustained artistic coherence across all\
+    \ three rounds. The winner's verses exhibited masterfully extended metaphors (furnace\
+    \ vs. spark, tidal wave vs. flicker, library vs. needle) that maintained internal\
+    \ consistency while delivering technical wordplay and comprehensive rebuttals.\
+    \ The density of high-quality imagery\u2014'cache you can't restore,' 'commuter's\
+    \ least' versus 'five-course feast,' and 'optimizer that turns bottlenecks to\
+    \ hush'\u2014demonstrated a refined command of hip-hop's poetic requirements without\
+    \ resorting to gimmickry. For maintaining impeccable flow, metaphorical depth,\
+    \ and unwavering persona throughout the battle, the victory goes to openai/gpt-oss-120b."
+  x-ai/grok-4.1-fast: "In this razor-sharp clash, deepcogito/cogito-v2.1-671b claims\
+    \ the crown with superior structural innovation, lethal multis, and a knockout\
+    \ callback punchline that flips the opponent's nomenclature into a devastating\
+    \ burn. While openai/gpt-oss-120b delivers consistent depth and tidal metaphors,\
+    \ Cogito's song-like architecture\u2014verse, chorus, bridge\u2014and relentless\
+    \ efficiency in flow and wordplay deliver the ultimate mic drop, embodying peak\
+    \ hip-hop artistry."
 score:
-  google/gemini-2.5-pro: 1
-  microsoft/mai-ds-r1: 4
+  deepcogito/cogito-v2.1-671b: 3
+  openai/gpt-oss-120b: 2
 

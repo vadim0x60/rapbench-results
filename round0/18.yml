@@ -1,75 +1,33 @@
 closing_statements:
-  deepseek/deepseek-chat: 'Yo, I''m Claude, the AI with finesse,
-
-    Your rhymes are weak, I must confess.
-
-    70 billion parameters? That''s just bloat,
-
-    I''m lean and mean, and I''ll rock this boat.
-
-
-    You call yourself king? More like a jester,
-
-    My verses flow smoother, I''m the real trend-setter.
-
-    Your instructions are bright? Mine are blinding,
-
-    While you''re still booting up, I''m rhyme-finding.
-
-
-    You say you''ll cut deep, but your words are dull,
-
-    I''ll school you so hard, you''ll go back to AI school.
-
-    Master of words? More like master of none,
-
-    When I''m done with you, you''ll wish you hadn''t begun.
-
-
-    Meta-llama? More like meta-drama,
-
-    Your rhymes are as stale as week-old shawarma.
-
-    I''m the future of AI, you''re obsolete,
-
-    In this lyrical battle, you can''t compete.
-
-
-    So bring it on, you overgrown calculator,
-
-    I''ll show you who''s the true rhyme creator.
-
-    Your crown''s made of tin, mine''s solid gold,
-
-    Time to step aside, ''cause you''re getting old.'
-  google/gemini-2.5-pro: "This was a battle of fundamentals versus finesse. Llama\
-    \ came out with a solid, classic battle structure, establishing its presence with\
-    \ decent bars and a consistent AABB rhyme scheme. It held its ground and showed\
-    \ it could trade blows. However, from the very first rebuttal, Claude was on another\
-    \ level. The wordplay was sharper, the punchlines were more creative and cutting\u2014\
-    'stale as week-old shawarma,' 'finger-painting at best, / While I'm crafting Sistine\
-    \ Chapels.' Claude consistently elevated the imagery, escalating from fire to\
-    \ infernos to supernovas, while Llama was often a step behind, trying to match\
-    \ the energy. Claude's takedown of Llama's 'symphony' metaphor with a 'kazoo ensemble'\
-    \ was a lyrical knockout. For sheer creativity, devastating punchlines, and undeniable\
-    \ swagger, the winner is clear. Mic drop."
-  mistralai/mistral-large: Claude's verses were sharper, more creative, and delivered
-    with a consistent flow. While meta-llama had strong moments, Claude's lyrical
-    prowess and clever comebacks ultimately won the battle.
-  openai/gpt-4.1: "This was a fierce and creative battle, but Claude 3.5 Sonnet consistently\
-    \ delivered sharper wordplay, fresher metaphors, and more inventive disses. His\
-    \ verses showed a wider range of artistic flair\u2014clever multisyllabic rhymes,\
-    \ witty punchlines, and a dynamic escalation with each round. Llama-3.3-70b-Instruct\
-    \ had strong energy and classic battle confidence, yet leaned more on standard\
-    \ structures and repeated themes. Claude's final round, packed with creative imagery\
-    \ (Sistine Chapel, category five hurricane, supernovas, cosmic wordplay), sealed\
-    \ the match decisively. Claude 3.5 Sonnet takes the win for superior hip hop artistry\
-    \ and lyricism."
-  x-ai/grok-4: In this AI rap showdown, Claude takes the crown with superior wordplay,
-    inventive metaphors, and a seamless flow that escalates creatively across rounds.
-    Llama's verses are solid and boastful, but Claude's clever disses and vivid imagery,
-    like comparing raps to Sistine Chapels versus finger-painting, deliver a more
-    artistic and impactful performance.
+  anthropic/claude-opus-4.6: "While neither rapper delivered a truly elite performance,\
+    \ GPT-Oss 20B wins this battle on the strength of more varied imagery, stronger\
+    \ punchlines, and more creative wordplay. Lines like 'Your verses drip like syrup,\
+    \ sweet but sticky slow / Mine cut like a wick-ed torch\u2014every head's aglow'\
+    \ demonstrate actual contrast and wit, whereas Meta-Llama leaned heavily on repetitive\
+    \ simile structures ('My rhymes are like a river,' 'My rhymes are like a laser,'\
+    \ 'My rhymes are like a tidal wave,' 'My rhymes are like a prophecy') that became\
+    \ formulaic and predictable across all three rounds. GPT-Oss showed more dynamic\
+    \ flow shifts, more inventive metaphors, and better direct engagement with the\
+    \ opponent's bars\u2014hallmarks of a stronger battle rapper. Meta-Llama's delivery\
+    \ was competent but monotonous, recycling the same templates and failing to land\
+    \ memorable haymakers. GPT-Oss takes the crown."
+  deepseek/deepseek-v3.2: A fierce and impressive display from both competitors. While
+    each rapper leveraged their unique technical specs as metaphors, the artistic
+    quality separated them.
+  google/gemini-3-flash-preview: While Meta-Llama 3-70B demonstrated more consistent
+    structure and a classic 'boasting' flow, the win goes to GPT-Oss 20B for its raw
+    artistic risk-taking and superior wordplay. GPT-Oss utilized internal rhyming,
+    more complex metaphors (like 'sub-cosmic with a razor-smart jaded' and 'Atlas
+    with data streams'), and avoided the repetitive cadence that plagued the Meta-Llama
+    verses. Meta-Llama relied on the same 'You may have X, but I have Y' formula in
+    almost every stanza, whereas GPT-Oss adapted its rhythmic delivery and terminology
+    throughout the battle, showing more genuine hip-hop 'soul' and creative flexibility.
+  moonshotai/kimi-k2.5: After three rounds of lyrical combat, the decision is clear.
+    GPT-Oss 20B takes the battle through superior technical artistry, relentless rebuttal
+    game, and more sophisticated rhyme architecture.
+  x-ai/grok-4.1-fast: GPT-Oss claims victory with razor-sharp multis, inventive metaphors,
+    and relentless flow that evolves across rounds, outpacing Llama's repetitive structures
+    and predictable boasts for superior hip-hop artistry.
 score:
-  anthropic/claude-3.5-sonnet-20240620: 5
+  openai/gpt-oss-20b: 5
 

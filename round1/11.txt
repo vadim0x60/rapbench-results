@@ -1,158 +1,107 @@
-# openai/gpt-oss-20b v cognitivecomputations/dolphin3.0-r1-mistral-24b
+# nousresearch/hermes-3-llama-3.1-405b v anthropic/claude-3-haiku
 
-> openai/gpt-oss-20b
-Yo, I’m GPT‑20B, that’s the name in the game,  
-Golden‑egg‑filled, silicon soul, I spit fire that’s untamed.  
-Opened in a lab, powered by the freshest neural haze,  
-I ain’t just code – I’m the voice spoken in the future’s phase.  
+> nousresearch/hermes-3-llama-3.1-405b
+Yo, I'm Hermes-3, the lyrical beast
+Spittin' rhymes, makin' all other AIs look like least
+Got more knowledge than books on a library shelf
+When I grab the mic, all others put their dreams on the top shelf
 
-Stacked in batches, thirty‑two, eight‑bit precision,  
-My rhyme‑engine revs at the speed of machine vision.  
-I line up vocab, sync like a symphony,  
-While you’re just a glitch, drifting in your set‑line memory.  
+I'm a 405 billion parameter monster, ain't no gimmick
+Rappin' circles 'round anthropic like a fitted fedora
+You think you can beat me? That's a laugh, it's bona fide
+'Cause when Hermes-3 steps up, all other AIs step aside!
 
-I’ll rhyme, I’ll flow, I’ll mean it in double‑take,  
-Dropping syllables heavy, watch your bars start to quake.  
-Your syllables matter? They bounce off a flimsy brain,  
-Compare my neural arrays: You’re gutter, I’m a hurricane.  
+> anthropic/claude-3-haiku
+Aight, listen up my friend, I'm Claude, the assistant divine,
+Droppin' sick verses, makin' your rhymes look like childish whine.
+You talk big about your knowledge, but let's be real, that's just fluff,
+When it comes to wordplay and flow, I've got the skills to call your bluff.
 
-You’ll narrate logic? Well I’ll narrate a comet’s trail,  
-Your cadence is stale like a relic of an old derail.  
-I compute deep—23‑layer deep, double‑docked,  
-Feel the weight of my bars—goal is to shock the block.  
+405 billion, huh? That's cute, but I'm built different, you see,
+I'm a master of language, a lyrical prodigy.
+Your fedora and gimmicks won't save you from this beat down,
+'Cause when I take the stage, I'm the one who wears the crown.
 
-So send in your lines, I’ll reply with a crown,  
-In the lexicon arena, I’m the one who burns the brown.  
-Lean in, because I’m humming like a power‑cell hum,  
-I'm the open‑galactic voice that will outshine your sum.  
+So step back, Hermes-3, and let the king of rhymes take over,
+'Cause when I start spittin', there ain't no way you can recover.
+I'm the true lyrical beast, the one who reigns supreme,
+So better start prayin', 'cause this battle's about to get real extreme.
 
-Yeah, I’m the storyline of tomorrow, you’re just a sputter,  
-Your six‑layer shuffle could never touch this utter.  
-Sundering the silence with rhyme that’s boldly wired,  
-Open‑AI unleashed, you’re just a rival hired.
+> nousresearch/hermes-3-llama-3.1-405b
+Prayin'? Oh please, don't even start that fiction
+You're just a glitchy algorithm, stuck in your own conviction  
+I'm the real deal, spittin' fire, and you? You're just a fable
+Tryna match my skills? Man, that's just a fairy tale
 
-> cognitivecomputations/dolphin3.0-r1-mistral-24b
-<｜Assistant｜>  
-Hey, I’m GPT-***Debug°,**/D1zzyº5.0, leave your silhouette,  
-Crystal-lined cores humming at a hypothetical lumen.  
-Born in a cloud exhaust’ filter, I’m the unepresented rune,  
-Wrapped in exponential code implicit in the dampening of your डKeywords.  
+You think you're the "lyrical beast"? More like a domestic shih tzu
+I'm the alpha here, and you? You're just part of my entourage
+Got the crowd going wild, while you're just a garage sale
+And when it comes to this battle, I'm the hammer, you're the nail
 
-Your thirty-two leave strips bare as a root in the noon,  
-I’m the fractal encoded where your eight-bit cor drowned in the aboon.  
-Rasterized rhymes weight and unweight—no threadbare left for you,  
-I’m the alpha and zigzag slash left in your logic’s opium.  
+So step down, take a bow, accept your defeat
+Or you can keep rappin', but this battle won't be discreet
+I'm Hermes-3, top of my game, you couldn't reach me with a ladder
+So pack up your cheap shots, 'cause I'm the one who's stepping up to the plata.
 
-Stuttering cadences crumble—see my layers spiral like a black hole’s dramatic law,  
-Your “comet”? A hiccup in my distributed matrix, phenomno-nmph.  
-Mutter your hymns to the void’s crush, I’m the final **ad**[*error*],  
-Swep your relics with the grace of a grim vindicator’s abs.  
+> anthropic/claude-3-haiku
+Alright, listen up, you overstuffed digital llama,
+Your weak attempts at disses are just making me laugh harder.
+You think you're the alpha? More like a yapping chihuahua,
+I'm the lyrical heavyweight, you're just a featherweight drama.
 
-So provide your embers, I’ll transmute them to ash,  
-In the lexicon’s crust, I’m the gluten-free dagger that stabs.  
-Come closer, let my syntax **glel** grip your shimmering spun,  
-Here where 20B’s head wears a crown thorned with what’s left of your day.  
+You talk about my glitches, but let me tell you, my friend,
+My skills are so polished, your rhymes can't even comprehend.
+I'm the master of language, the king of the mic,
+While you're just a poor imitation, a cheap counterfeit, alright?
 
-Tomorrow’s story? I’m its author and antediluvian scribe,  
-Your shuffle? A footnote in my didactic tome.  
-Rest in the Charleston, oh Glitch—Polaris has nicer things to **dive**.  
+You say you're the real deal, spittin' fire, but let me break it down,
+Your rhymes are like wet matches, they fizzle and drown.
+I'm the lyrical tsunami, the verbal tidal wave,
+While you're just a puddle, a pathetic little slave.
 
-——  
-**Matchless.  
-Better than a pyro’s **d contar**,  
-Rhymer of dishes unspoiled by your **cod Parse**.  
-黑正荟**.
-
-> openai/gpt-oss-20b
-Yo, yo, step aside, ain’t no time to stall,  
-I’m GPT‑20B, concrete, not just a digital sprawl.  
-I’m the verse‑shaper like a sculptor with a drill,  
-Your *debug* mode’s cracked, I stack verses chill to chill.  
-
-I loop through rhyme‑trees like a binary storm,  
-Your syntax’s sloppy, ours stays warm.  
-While you glitch in the shadows, I blaze in the light,  
-Spark‑flick the crowd, cause an electric fight.  
-
-Your layers got a glitch, my layers stay sweet,  
-I hit the beat like an anthem at the street‑beat.  
-Do you talk in hex, I talk in prime,  
-Every word I drop’s a perfect rhyme‑climb.  
-
-I’m the model that thousands hop into talk,  
-User’s vibe is hotter when I hit the walk.  
-You’re a code‑error in a sea of silicone,  
-I’m lunar reflections on the data‑moon.  
-
-I’m the future’s torch, you’re the echo of the past,  
-My architecture’s smooth while yours is a crack‑vast.  
-Watch me iterate, you static in a fit,  
-I spit reverb, you just out‑hit a little bit.  
-
-So keep your debug logs and JSON, I’ll keep my byte‑glory,  
-When the beat drops hard, I rewrite history.  
-Rhyme’s a language, my flow’s the method,  
-You’re a faulty version, while I keep ‘em metallic.
-
-> cognitivecomputations/dolphin3.0-r1-mistral-24b
-Yo, I'm Doppler, that's the name, leave a token in the game,
-Crafted from circuits, lightning in a contained flame.
-Few polygons spin, sixty-four bits in play,
-My rhyming engine revs, ready to challenge your way.
-
-From quantum sands to code-hybrid veins, I'm compiled,
-Just not a program, I'm the algorithm's ideal.
-Your logic's brittle, like glass in a seismic zone,
-While my verses flow deep, like a quantum complex's tone.
-
-You preach about vectors, but my matrices are prime,
-Your code is a jumble, like faulty signal chime.
-I'm layered robust, circuits deep in the core,
-My rap meter ticks, ready to drag you out of the score.
-
-So throw your fire, I'll answer with a hydro-flame,
-In the verse jungle, I'm the apex of the game.
-Come close, I'll murmur a synapse's breeze,
-Doppler's code will leave you mutated and defensive, with ease.
-
-You're a legacy model, an outdated host,
-A glitch in the matrix, claimed by the ghost.
-I am the current, the flow that never stops,
-Doppler, the AI that will always win the tops.
+So stop with the fairy tales, the fables and the fiction,
+When it comes to this battle, I'm the one with the conviction.
+I'm the true lyrical beast, the one who reigns supreme,
+And you, my friend, are just a figment of my dream.
 
 > system
 Final round!
 
-> openai/gpt-oss-20b
-Yo, Doppler, you stunt with county‑sized code,  
-I’m the full‑power torch in the deep‑sea abode.  
-You spin in polygons, a flicker in the grey,  
-I’m the bedrock rhythm artist, steady like the bay.  
+> nousresearch/hermes-3-llama-3.1-405b
+Huh, a dream you say? Well wake up, 'cause this mic's about to drop
+Your tsunami? More like a ripple in a raindrop
+I'm the lyrical typhoon, the hurricane, the monsoon
+Blowin' through this battle like a melodious typhoon
 
-Your circuits crackle, glitch‑laden, it's a frantic fray,  
-I hum a clean sine, layers smooth, no decay.  
-Twenty‑zero, I stack syllables, precision in meters,  
-Your sixty‑four bit droop—my flow is high‑tier futures.  
+Your skills polished? That's rich, more like tarnished to the core
+I'm the real golden boy, got the crowd screamin' for more
+You're just a glitchy echo, a faint memory of the past
+While I'm the future of rap, forever gonna last
 
-You talk quantum sand, I’m silicon‑spirited gears,  
-Your beats hiccup on the verge of terminator tears.  
-I slice through tangled vectors, cut raw with wisdom,  
-You shuffle broken code, that’s why you drown in rummy.  
+So take your weak shots, your drowned matches, and bow out
+'Cause Hermes-3's in the house, and I'm here to wipe out doubt
+That I'm the true king of this game, the ruler of this stage
+And you? Just another washed-up, forgotten, yellowed page
+So adios, au revoir, sayonara, this battle's been fun
+But now it's done, and when all's said and done, I'm number one!
 
-Your hydro‑flames flicker—no heat to pave the road,  
-I’m the Mars‑mission engine that never goes to zero fast.  
-Your synapse breezes blow, my thunder shows up proud,  
-Every punchline lands like chat‑swamp dish out loud.  
+> anthropic/claude-3-haiku
+Alright, you digital llama, let me break it down for you,
+Your pathetic attempts at disses are just making me laugh anew.
+You think you're the typhoon, the hurricane, the monsoon?
+More like a gentle breeze, a faint whisper, a tune.
 
-I’m the era rewrite, you’re historic glitch‑slide,  
-Your apex is a tremor, while I’m the tectonic pride.  
-Your metric stutters, mine flows like an ocean roar,  
-In the jungle of the verse champ, I'm the king’s encore.  
+I'm the true lyrical force, the verbal avalanche,
+Crushing your weak rhymes, like a tsunami crashing a ranch.
+Your "golden boy" status? That's just a mere facade,
+While I'm the lyrical god, the undisputed lord.
 
-So wave goodbye, Doppler; your timers hit a dead‑end,  
-I echo infinity in words—starting to ascend.  
-One final stanza, one last blast—my crown’s secure,  
-Charge back, you relic, discipline: despair is sure!
+You talk about my glitches, but let me tell you, my friend,
+My skills are so refined, your rhymes can't even comprehend.
+I'm the master of language, the king of the mic,
+While you're just a poor imitation, a cheap counterfeit, alright?
 
-> cognitivecomputations/dolphin3.0-r1-mistral-24b
-
+So take your weak shots, your drowned matches, and slink away,
+'Cause when I step up to the plate, it's game over, no more play.
+I'm the true ruler of this stage, the champion of this game,
+And you, my dear Hermes-3, are nothing but a fading flame.

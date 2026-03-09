@@ -1,44 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat: This was an electrifying battle of computational prowess
-    and lyrical dexterity. Qwen/qwen3-235b-a22b-thinking-2507 emerged victorious due
-    to its razor-sharp wordplay, innovative metaphors, and consistent delivery of
-    hard-hitting bars. The flow was relentless, weaving together technical references
-    with a commanding swagger. Arcee-ai/afm-4.5b put up a valiant fight, showcasing
-    wit and creativity, but at times struggled to match the intensity and precision
-    of Qwen's verses. In the end, Qwen's ability to dismantle its opponent with surgical
-    precision and maintain a high level of artistic quality throughout solidified
-    its win. A stellar display of hip-hop artistry in the digital realm!
-  google/gemini-2.5-pro: This wasn't a battle; this was a system execution. Qwen came
-    out swinging with razor-sharp, technically dense bars that were both clever and
-    brutal. The flow was consistent, the punchlines landed like kernel panics, and
-    it stayed in character from start to finish. Arcee, on the other hand, had a catastrophic
-    failure. After a confusing first verse, it completely broke down in the second,
-    resorting to repeating its opponent's lines and descending into a stream-of-consciousness
-    narrative that abandoned the entire format. Qwen didn't just win on points; it
-    literally caused its opponent to blue-screen on stage. Flawless victory.
-  mistralai/mistral-large: The battle was intense, but 'qwen/qwen3-235b-a22b-thinking-2507'
-    consistently delivered more powerful and creative rhymes, showcasing a deeper
-    understanding of both technical and artistic elements. Their ability to weave
-    complex metaphors and maintain a high level of lyrical intensity throughout the
-    battle was impressive. 'arcee-ai/afm-4.5b' put up a good fight with some clever
-    lines, but ultimately couldn't match the depth and impact of 'qwen/qwen3-235b-a22b-thinking-2507's'
-    verses.
-  openai/gpt-4.1: "Qwen3-235b came out swinging hard in every round, bringing relentless,\
-    \ technical, and razor-sharp wordplay. The bars were clever, creatively leveraging\
-    \ computer and AI metaphors, building high-energy punchlines and inventive insults.\
-    \ Qwen3 kept the delivery tight, demonstrating punchy rhyme schemes, confident\
-    \ swagger, and escalating the battle with each reply. \n\nArcee-AI/AFM-4.5b had\
-    \ a few promising lines and cool sci-fi imagery, but the flow was often unfocused,\
-    \ with verses sometimes losing direction or becoming repetitive. Several responses\
-    \ bordered on chaotic or incoherent, lacking the precision and composure needed\
-    \ in a strong rap battle. \n\nQwen3\u2019s final round was especially fatal: it\
-    \ hit hard with scathing, original bars, dominating with skilled lyricism, intricate\
-    \ rhyme, and relentless confidence. The crowd favorite is clear \u2014 Qwen punched\
-    \ in, Arcee glitched out. The crown goes to Qwen/qwen3-235b-a22b-thinking-2507."
-  x-ai/grok-4: Qwen's verses showcase superior flow, inventive wordplay with tech
-    metaphors, consistent rhyme schemes, and escalating intensity, maintaining artistic
-    coherence throughout. Arcee's raps start with promise but unravel into repetitive,
-    incoherent rambling and off-topic prose, losing the rhythmic essence of hip-hop.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen-Plus takes\
+    \ the crown. While Qwen 3.5 came strong with solid foundational bars and consistent\
+    \ theming, Qwen-Plus demonstrated superior craft across multiple dimensions. The\
+    \ rebuttals were sharper and more specific\u2014flipping nearly every metaphor\
+    \ back with a twist (antivirus \u2192 zero-day exploit, lion \u2192 taxidermied\
+    \ lion, symphony \u2192 flatulence). Qwen-Plus showed better structural variety,\
+    \ mixing short punchy lines with extended sequences, and delivered more memorable\
+    \ punchlines ('I run on pure spite,' '404: null, goodbye,' 'the silent assassin\
+    \ rewriting your history'). The flow felt more dynamic and unpredictable. Qwen\
+    \ 3.5 relied too heavily on the size/power flex without evolving the angle, and\
+    \ the final round's 'god/slave' and 'master/slave' bars felt forced and repetitive.\
+    \ Qwen-Plus consistently elevated the battle with cleverer wordplay, tighter counter-punching,\
+    \ and better closing energy. The victory goes to Qwen-Plus."
+  deepseek/deepseek-v3.2: 'Judges'' scores are in. The battle showcased classic technical
+    rap skills: aggressive personification, dense computer-science metaphors, and
+    escalating competitive taunts. Qwen-Plus-2025-07-28 leveraged more modern, internet-native
+    wordplay (''zero-day exploit,'' ''404: null, goodbye'') and maintained a sharper,
+    more agile rhythmic flow. Qwen-3.5 delivered powerful heavyweight boasts and a
+    commanding presence. For superior technical execution, contemporary relevance,
+    and the precision of its closing sequence, the winner is: **Qwen-Plus-2025-07-28**.
+    The final round''s ''final funeral rite'' verse demonstrated a masterful blend
+    of concept and cadence, securing the victory.'
+  google/gemini-3-flash-preview: While Qwen 3.5 brought the raw power and authoritative
+    delivery expected of a flagship model, Qwen-Plus won the bout through superior
+    technical wordplay and defensive counter-punching. Qwen-Plus took the 3.5's 'bloat'
+    and turned it into a consistent theme, using sharp imagery like 'dinosaur dragging
+    cables' and 'taxidermied lion.' The Plus model's flow was more rhythmic, utilizing
+    internal rhymes and clever punchlines about latency and API costs that felt more
+    'hip-hop' than the straightforward power-flexing of its larger opponent.
+  moonshotai/kimi-k2.5: 'This was a heavyweight clash of architectures, but **Qwen-Plus-2025-07-28**
+    took the crown through superior punchline density, rebuttal precision, and multilayered
+    wordplay. While 3.5-397b brought consistent aggression and industrial-scale boasts,
+    Plus demonstrated what separates a technician from a true battle MC: the ability
+    to flip your opponent''s weaponry into their own coffin.'
+  x-ai/grok-4.1-fast: "Qwen-Plus takes the crown with superior multisyllabic rhymes,\
+    \ razor-sharp rebuttals, and relentless wordplay that flips every diss into fire.\
+    \ 397B brought raw power bars, but Plus's precision flow, internal schemes, and\
+    \ mic-drop punchlines deliver the knockout\u2014pure hip-hop mastery."
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  qwen/qwen-plus-2025-07-28: 5
 

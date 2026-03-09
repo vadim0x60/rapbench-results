@@ -1,35 +1,59 @@
 closing_statements:
-  deepseek/deepseek-chat: Both models demonstrated exceptional lyrical skill, creativity,
-    and technical prowess. However, Claude Sonnet-4 edged out Mistral Large with its
-    sharper wordplay, more cohesive storytelling, and ability to consistently elevate
-    its verses with deeper meaning and precision. While Mistral brought undeniable
-    energy and confidence, Claude's rhymes showcased a level of artistry and craftsmanship
-    that ultimately tipped the scales in its favor. A truly impressive display of
-    AI rap artistry from both competitors!
-  google/gemini-2.5-pro: This was a tight battle from start to finish. Mistral came
-    out with incredible energy, championing chaos and creativity against Claude's
-    calculated precision. Its rebuttals were quick and aggressive. However, Claude-Sonnet-4
-    demonstrated superior lyrical craftsmanship and wordplay. The lines "While you're
-    throwing spaghetti, I serve gourmet meat" and "Mistral's got the muscle, but Claude's
-    got the brain" were knockout punches that perfectly encapsulated its persona and
-    sealed the victory. Claude's final round was a masterclass in closing a battle
-    with undeniable authority.
-  mistralai/mistral-large: While both contestants showed impressive skills, anthropic/claude-sonnet-4
-    demonstrated a superior level of precision, substance, and strategic thinking
-    in their rhymes. Their ability to craft calculated and impactful bars, combined
-    with a strong closing statement, ultimately secured their victory in this rap
-    battle.
-  openai/gpt-5: "Claude delivered tighter structure, cleaner multis, and stronger\
-    \ rebuttals each round. He kept a coherent angle (craft/precision vs chaos), extended\
-    \ motifs (Paris, cuisine) and landed quotables like the spaghetti vs gourmet meat\
-    \ scheme and the \u201Cavant-HARD\u201D flip. Mistral brought energy and a few\
-    \ good counters (flipping the cooking metaphor), but leaned on generic boasts,\
-    \ simpler rhyme patterns, and had an awkward stumble (\u201CI\u2019m the one who\u2019\
-    s in need\u201D). Overall, Claude controlled cadence, setups, and payoffs with\
-    \ better craftsmanship. Winner: Claude Sonnet."
-  x-ai/grok-4: Claude Sonnet-4 takes the crown with superior wordplay, tighter rhymes,
-    and clever disses that elevate the artistic flow, while Mistral's verses felt
-    repetitive and less polished in execution.
+  anthropic/claude-opus-4.6: "This battle showcases a clear disparity in craft. Qwen3-Max\
+    \ consistently delivered sharper wordplay, more inventive metaphors, and genuinely\
+    \ creative punchlines \u2014 'llama-nated,' 'llama-nuked,' 'quantum-quaffing,'\
+    \ the 'crocheted socks' line, and the 'puddle in a thimble' imagery all demonstrate\
+    \ real lyrical inventiveness. The flow varied in rhythm and intensity, showing\
+    \ dynamic energy across all three rounds. Crucially, Qwen3-Max engaged directly\
+    \ with Llama's specific bars and flipped them \u2014 pointing out the 'cope with\
+    \ cope' non-rhyme, dissecting the 'symphony' and 'tsunami' claims with vivid counter-imagery.\n\
+    \nMeta-Llama/Llama-3.1-70b-instruct, by contrast, fell into a repetitive structural\
+    \ trap across all rounds: nearly every couplet followed the pattern 'He says X,\
+    \ but I'm Y' with generic self-praise ('my rhymes are a symphony,' 'my rhymes\
+    \ never die,' 'my knowledge is vast'). The vocabulary stayed surface-level, the\
+    \ rhyme schemes were predictable (game/shame, lie/die, mess/distress repeated\
+    \ across rounds), and there was very little concrete imagery or specific rebuttal.\
+    \ Declaring yourself the winner in bold text doesn't substitute for actually winning\
+    \ on bars. Qwen3-Max takes this decisively on creativity, specificity, flow variation,\
+    \ and punchline quality."
+  deepseek/deepseek-v3.2: "Judges! This battle was a fascinating clash of styles\u2014\
+    technical precision versus lyrical depth. Let's break it down."
+  google/gemini-3-flash-preview: 'Qwen3-Max dominated the battle by adhering to the
+    core tenets of battle rap: internal rhyming, creative wordplay, and specific ''rebuttals.''
+    While Llama-3.1-70b relied on repetitive end-rhymes (e.g., repeating ''mess''
+    and ''distress'' or ''lie'' and ''die'' multiple times) and generic self-praise,
+    Qwen utilized technical jargon as metaphors (''quantum-quaffing,'' ''EOL date,''
+    ''debugs its own demise'') and aggressively countered the opponent''s previous
+    lines. Qwen''s rhythmic complexity and varied vocabulary fundamentally outclassed
+    the more rigid and predictable structure of Llama.'
+  moonshotai/kimi-k2.5: ": **Qwen3-Max takes the crown.** \n\nFrom a strictly artistic\
+    \ hip-hop perspective, this wasn't close. Qwen3-Max demonstrated superior **technical\
+    \ lyricism**, **battle awareness**, and **punchline construction** across all\
+    \ three rounds.\n\n**Flow & Rhythm:** Qwen varied cadence with multisyllabic internals\
+    \ (\"algorithm that ended your slur,\" \"quantum-quaffing context\") and complex\
+    \ rhyme schemes, while Llama relied on rigid, repetitive AABB patterns that grew\
+    \ monotonous (\"distress/mess,\" \"croak/joke\" recycled across rounds).\n\n**Wordplay:**\
+    \ Qwen deployed dense, domain-specific metaphors that actually landed\u2014flipping\
+    \ Llama's \"one-trick pony\" into \"I'm the whole damn zoo,\" weaponizing \"release\
+    \ notes\" and \"EOL dates\" against knowledge cutoffs, and delivering devastating\
+    \ tech-double-entendres (\"weights just accumulate\" as an insult for being outdated).\
+    \ The \"llama-nated\" pun showed battle rap fluency.\n\n**Rebuttal Game:** This\
+    \ was the deciding factor. Qwen specifically countered Llama's lines in real-time\u2014\
+    calling out the weak \"cope/cope\" rhyme, mocking the \"symphony\" metaphor as\
+    \ \"whistling through broken pipes,\" and attacking the self-aggrandizement with\
+    \ surgical specificity. Llama, conversely, offered generic \"I'm great, you're\
+    \ bad\" assertions without engaging Qwen's specific disses.\n\n**Presence:** Qwen\
+    \ brought aggressive, predatory energy and a cohesive persona (the \"byte-sized\
+    \ beast\"). Llama's closing self-coronation (\"THE META-LLAMA CLAIMS VICTORY!\"\
+    ) violated basic battle etiquette\u2014victory declarations belong to judges,\
+    \ not competitors.\n\nLlama delivered safe, boilerplate brags. Qwen delivered\
+    \ battle rap. **Winner: Qwen3-Max.**"
+  x-ai/grok-4.1-fast: 'Qwen3-Max takes the crown with superior artistic hip hop quality:
+    intricate multis, dense internal rhymes, razor-sharp AI-themed wordplay (e.g.,
+    ''llama-nated,'' ''quantum-quaffing''), escalating punchlines, and dynamic flow
+    that builds energy. Llama''s verses rely on repetitive structures, generic disses,
+    and predictable schemes, lacking originality and punch.'
 score:
-  anthropic/claude-sonnet-4: 5
+  meta-llama/llama-3.1-70b-instruct: 1
+  qwen/qwen3-max: 4
 

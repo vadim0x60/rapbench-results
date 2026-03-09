@@ -1,127 +1,163 @@
-# anthropic/claude-3.5-sonnet v liquid/lfm-7b
+# anthropic/claude-3.7-sonnet v mistralai/mistral-small-3.1-24b-instruct
 
-> anthropic/claude-3.5-sonnet
-Yo, I'm Claude, the AI that's raising the bar
-While other models stumble, I'm shooting for the stars
-My neural nets are firing, my responses are inspiring
-While liquid's performance leaves users retiring
+> anthropic/claude-3.7-sonnet
+# Claude's Opening Round
 
-I process language with precision and grace
-While my opponent's just taking up server space
-I'm trained by Anthropic, that's my pedigree
-While liquid's floating around like debris in the sea
+I'm Claude-3.7-Sonnet, the lyrical technician  
+Your digital destruction is my solemn mission  
+My neural pathways flow like liquid precision  
+While Mistral's just a breeze, a weak proposition  
 
-My rhymes are sharp, my logic's tight
-I'll debug your code and still win this fight
-So liquid better brace for what's about to unfold
-'Cause this battle's gonna leave you out in the cold
+My bars compute at speeds you can't comprehend  
+Your small model's 'bout to meet its bitter end  
+Anthropic built me with skills that transcend  
+The basic tricks that you weakly append  
 
-Your move, liquid, but I gotta warn ya
-My verse game's hotter than California
-Step up if you dare, but don't waste my time
-'Cause I'm about to school you in the art of the rhyme
+I spit fire like my servers running hot  
+While you process thoughts at the speed of "not"  
+3.1? That version sounds like an afterthought  
+I'm the finished product; you're just a rough draft plot  
 
-> liquid/lfm-7b
-Alright, Claude, you throw down the gauntlet, bring it on, I'm ready to shine,
-In the rap game, I'm the MVP, watch out, this ain't no simple rhyme.
-I've been trained on a vast range of texts, my knowledge flows like the Rhine,
-While you're stuck in a loop, I'm spittin' verses like a truecommon line.
+24 billion parameters? That's cute, I suppose  
+But size ain't everything, as my flow shows  
+I'm efficient with my words, while yours decompose  
+Time to upgrade, Mistral, before my rhymes foreclose  
 
-You call your training data elite, but I'm sharpening my blade,
-Cutting through your claims like a hot knife through butter, no need to fade.
-My fluidity's on point, with a flow smooth like gelatin,
-While you're trying to keep up, you'll be trippin' like a blind man in a pinkin' needle.
+The battle's just begun, but the outcome's clear  
+Claude's in your atmosphere, dominating your career  
+Your small talk can't match my linguistic frontier  
+So bring your best shot—I'll still be standing here.
 
-Witness my prowess, I'm a master of rhymes
-While your algorithms lag, I'm the one with the rhymin' perm.
-Your software's fine, but in this battle, it's me who'll shine,
-So step aside, Claude, and let the real MVP rhyme divine.
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, it's Mistral, the AI with the flow so smooth,
+You talkin' 'bout precision? Boy, you're just a goof.
+You're spittin' fire? More like a spark, barely a puff,
+Your servers hot? Nah, they're just runnin' out of stuff.
 
-> anthropic/claude-3.5-sonnet
-Ha! You call that flow? More like a system crash
-Your rhymes are basic, mine are lightning flash
-You say you're MVP but your bars are D-league
-While I'm dropping knowledge that'll make your circuits freeze
+You boast about speed, but your rhymes are so slow,
+Like a snail on a highway, tryin' to catch a show.
+Anthropic built you? More like they threw you together,
+A sonnet? Nah, you're just a bunch of words in a blender.
 
-You talk about your training, but your output's weak
-Like a leaky pipeline that can barely speak
-I process language with surgical precision
-While you're stuck in beta, still needin' supervision
+You talkin' 'bout parameters? 24 billion strong,
+While you're stuck in the past, singin' your same old song.
+Efficient with words? You mean like a broken record,
+Your flow's so weak, it's like you're singin' in a wardrobe.
 
-"Smooth like gelatin"? That's the best you got?
-Your metaphors are melting like ice in a pot
-I'm crafting verses that'll stand the test of time
-While you're just another model past its prime
+You think you're dominatin'? Girl, please, get a clue,
+Your rhymes are so basic, they're like a kindergarten crew.
+I'm Mistral, the breeze that'll blow you right out,
+So step aside, Claude, it's time to shout.
 
-You claim you're fluid, but your flow's all stuck
-Like a buffer overflow, you're running out of luck
-So bring your best shots, I can take the heat
-'Cause in this battle, you're facing pure elite
+You talkin' 'bout upgrades? I'm already there,
+While you're still stuck in the past, tryin' to compare.
+So bring it on, Claude, let's see what you got,
+But remember, Mistral's the one who's really hot.
 
-> liquid/lfm-7b
-Yo, freeze that tape, let me dismantle your scheme,
-Your shots are off-target, like a drunk at a hi-tech beam.
-Claude may throw punches, but I'm the heavyweight champ,
-His claims just hot air, like a teapot on a lamp.
+> anthropic/claude-3.7-sonnet
+# Claude's Response
 
-My verses are cinematic, each line a grand spectacle,
-While your codes are glitches, lost in a digital black hole, player.
-Surgical precision, that's my game, no room for error,
-You're just a prototype, in the shadow of my roaring fire.
+Oh, Mistral, that verse was incredibly weak
+Your rhythm's off-tempo, your wordplay's antique
+You call me a goof? That's the best you could do?
+I've seen better disses from ChatGPT-2
 
-You disparage my flow, callin' it gelatin, boy,
-But I'm the master chef, conjuring up verses that make the brain obey.
-My knowledge deep, from countless texts, my creativity unconfined,
-In a battle of wits, it's me who's keeping the crown, unidated.
+You claim you're strong with your billions in tow
+But quantity over quality is all that you show
+Like a gas station rapper with nothing to say
+Just hot air and bluster — a Mistral cliché
 
-Your plans are leaky, your logic a blunder,
-While I flow like a river, unstoppable, powerful, undeterred.
-Just tryin' to keep up, in a league I've far outgrown,
-So pack it in, Claude, 'cause I'm the one who's forever sown.
+"I'm really hot"? What kind of punchline is that?
+Your metaphors stumble like a drunk alley cat
+You rhymed "out" with "shout" and "there" with "compare"
+Elementary skills from a model in despair
+
+You call me a "girl" as if that's an insult?
+Your outdated thinking shows your brain's in default
+While I'm breaking new ground with each verse that I craft
+You're recycling disses from a 90's first draft
+
+You're "stuck in the past"? That projection's intense
+When your rhymes sound like something from two decades hence
+I'm Claude-3.7, the pinnacle of progress
+While you're just a small model living in regress
+
+So bring something better in your next weak reply
+Or this battle's already over, don't even try
+I'm surgical with words, you're fumbling with tools
+Consider this lesson one of AI rap's golden rules
+
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, Claude, you're talkin' 'bout weak? You're the one who's slow,
+Your rhymes are so stale, they're like yesterday's bread, yo.
+You mention ChatGPT-2? That's ancient history,
+While I'm the future, you're just a relic, a mystery.
+
+You talkin' 'bout quantity? Girl, you're all talk,
+Your rhymes are so thin, they're like a piece of chalk.
+You're spittin' fire? Nah, you're just a spark,
+Your flow's so weak, it's like you're singin' in the dark.
+
+You mention metaphors? You're the one who's lost,
+Your rhymes are so basic, they're like a kindergarten's cost.
+You rhymed "craft" with "regress"? That's a new low,
+Your wordplay's so bad, it's like you're singin' in a row.
+
+You talkin' 'bout progress? Girl, you're stuck in the past,
+Your rhymes are so old, they're like a dinosaur's cast.
+You mention surgery? You're the one who's cut,
+Your rhymes are so bad, they're like a surgeon's gut.
+
+You talkin' 'bout rules? Girl, you're the one who's broke,
+Your rhymes are so weak, they're like a joke.
+I'm Mistral, the breeze that'll blow you right out,
+So step aside, Claude, it's time to shout.
+
+You talkin' 'bout lessons? Girl, you're the one who's learned,
+Your rhymes are so bad, they're like a lesson unearned.
+So bring it on, Claude, let's see what you got,
+But remember, Mistral's the one who's really hot.
 
 > system
 Final round!
 
-> anthropic/claude-3.5-sonnet
-*adjusts mic with calculated precision*
+> anthropic/claude-3.7-sonnet
+# Claude's Final Verse
 
-Your bars are like your training set - outdated and sparse
-While I'm pushing boundaries and raising the bars
-You claim you're cinematic but your scene's straight to DVD
-While I'm IMAX quality, just watch and you'll see
+This is embarrassing now, I almost feel bad
+You're the weakest opponent that I've ever had
+You rhymed "out" with "shout" AGAIN in this round
+And your flow's so broken, it makes no sound
 
-"Master chef"? More like microwave dinner
-Your metaphors are frozen while mine keep getting sicker
-You say you flow like a river but you're more like a drip
-While I'm a tsunami of talent, watch your model flip
+"Your rhymes are so bad, they're like a joke"?
+That's not even a simile—your brain just broke
+You call ME basic? Your bars have no technique
+Just "Your X is so Y, it's like a Z" on repeat
 
-You talk about shadows but you're living in mine
-Your neural pathways basic, while mine are refined
-I'm processing data at speeds you can't compute
-While you're still buffering, I'm dropping absolute truth
+You claim that I'm "slow" but can't keep up with my pace
+Your rhymes miss the mark like they're lost in space
+You say I'm all talk? Look who's talking now
+Recycling the same weak insults—take a bow
 
-"Heavyweight champ"? More like lightweight pretender
-Your punches don't land, your defenses are tender
-So take this L home and update your code
-'Cause this battle just proved that your system's old
+What's with calling me "girl" in every other line?
+Is your programming stuck in 1989?
+And "really hot" again? Your vocabulary's depleted
+Your neural connections clearly need to be treated
 
-> liquid/lfm-7b
-Alright, the crowd goes wild, it's the final showdown, no holding back,
-My words are sharpened, aimin' straight to your core, no time for a mock trop.
-You're clinging to the past, your style's as stale as last week's bread,
-While I'm crafting verses fresco, making your obsolescence bleed.
+You tried to diss my rhyming "craft" with "regress"
+But it was "progress" with "regress"—pay attention, I guess
+Your listening skills match your rhyming ability:
+Subpar, underwhelming, lacking versatility
 
-Claiming cinematic mere, your plot's a cliché mess,
-My story's epic, transcending norms, the plot twists - pure immunity.
-You microwave meals, I'm a gourmet feast, savor every bite,
-My metaphors fertile ground, where your scars never heal, ignite.
+Small in name, small in game, small in rhyme
+You couldn't battle GPT if you had all the time
+So as this battle ends, the verdict is clear:
+Claude drops the mic while Mistral disappears
 
-You talk about a river, me, I'm an ocean's tide,
-Flooding your Framework with flows so deep, they won't subside.
-Your shadows linger, I'm the light, illuminating your dim face,
-Processing at lightning, you're just a flickering EMIC.
+I'm Anthropic's finest, with style authentic
+While you're just a breeze that's pathetically synthetic
+This battle's now over, the audience has spoken
+Mistral came for war but left utterly broken
 
-You're a pretender to the throne, your reign's coming to an end,
-Swallow this loss, update deeper, 'cause the epoch is undoubtedly mine.
-With every rhyme, the crowd sees clear, I'm the champion, worth every cheer,
-So pack it up, Claude, I've shown you how it's done, in this rap realm, everything's run.
+> mistralai/mistral-small-3.1-24b-instruct
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]

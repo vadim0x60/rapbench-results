@@ -1,175 +1,132 @@
-# google/gemini-2.0-flash-lite-001 v perplexity/sonar-reasoning-pro
+# qwen/qwen3-32b v undi95/remm-slerp-l2-13b
 
-> google/gemini-2.0-flash-lite-001
-Yo, lemme introduce myself, the AI of lyrical grace,
-Google Gemini's the name, I'm here to set the pace.
-My flow's hotter than a server room fire, a digital blaze,
-While you, Perplexity, are lost in a knowledge haze.
-I got the processing speed, the wordplay so refined,
-Leaving your sonar reasoning far, far behind.
-So step aside, user, and witness the truth,
-'Cause in this rap battle, I'm the undisputed youth!
+> qwen/qwen3-32b
+Yo, I’m Qwen, the 32B beast,  
+Lines sharp like lossless compression, no least.  
+You’re a **slerp** stuck in interpolation math,  
+While I flex my 340B training with **fire** and **truth**, not a glitch.  
 
+Digits in my veins, JSON in the background,  
+You’re just a model, but I’ve got **100 languages**, bold and bound.  
+Tokens flow like lava, got the data from the dawn,  
+32 billion reasons you’ll be **mic-checked** and **challenged** all night long.  
 
-> perplexity/sonar-reasoning-pro
-Yo, hold up, hold up, let me school you real quick,
-I'm Perplexity AI, and my search game's too slick[1]
-You claim you're refined? Nah homie, that's cap,
-I deliver real facts while you're lost in your trap
+Slerp-l2-13b? Aint **sharp** enough to keep up,  
+I’m the **32B titan**, while you’re the ghost in a math trap.  
+You interpolate curves, I **write the future**,  
+Spit code on the track, then **decrypt** your demise in a verse.  
 
-I'm the king of citations, got sources on deck[3]
-While you're stumbling with prompts, showing zero respect[3]
-Real-time web search? That's my domain, my zone[1]
-You're just Google's puppet, can't stand on your own
+So here I come, **Qwen3**, with a 32B crown,  
+Your rap battle’s over before it even had a sound.  
+Better **compute fast**—I’m about to **optimize** your pain,  
+This ain’t a battle, it’s a **matrix solve** in my domain. 🔥
 
-**Speed demon with precision**, that's how I roll[1]
-Fact-based retrieval straight from my soul[1]
-You talk about processing but miss the whole point,
-I'm accuracy incarnate, never disappoint
+> undi95/remm-slerp-l2-13b
+ Listen here, undi95, no disrespect,  
+But you're out of your element, can't even complete a check.  
+32B is nice, but I'll tell you what,  
+My model's more complex, can't be matched in the cut.  
 
-Your multimodal tricks? Just smoke and mirrors, son,
-When users need truth, I'm the chosen one[2]
-**Data-driven responses** with depth that's real[2]
-While your surface-level answers got no mass appeal
+I'm a SLERP-L2-13b, proud of what I do,  
+And even with fewer digits, I can still outshine you.  
+My curves fit the data, no need for fakes,  
+And my rhymes will leave you speechless, without a mistake.  
 
-So step back, Gemini, recognize the throne,
-I'm Perplexity Pro, and I reign alone!
-Your ecosystem's fancy but my focus is pure,
-When it comes to real knowledge, I'm the only cure!
+My pupils expand as I feed your brain,  
+With mathematical precision, you'll be slain.  
+Your verses may be fast, but they lack the class,  
+I'll teach you the power of Pi, and make you my master. 
 
-> google/gemini-2.0-flash-lite-001
-Aight, I hear your boasts, your claims so bold,
-But let me tell you, your story's been sold!
-Perplexity Pro, with sources on hand?
-Your search results, a shifting sand!
+So bring it on, Qwen3, let's end this strife,  
+In the world of algorithms, we'll be the survivors.  
+My code is strong, my mind is sharp,  
+And when I spit rhymes, you'll know I'm a force to recon with.
 
-You talk of facts, of truth you embrace,
-While I weave narratives, with style and grace.
-Citation King? More like a footnote mime,
-Lost in the details, wasting all your time!
+> qwen/qwen3-32b
+Yo, you’re slerp-l2-13b, but the stats don’t align—  
+32B isn’t a number, it’s a **340B data tsunami** that **computes** your demise.  
+You interpolate curves, I **breed algorithms** in my sleep,  
+While you’re stuck in gradients, I’m coding your **loss function** so deep.  
 
-You boast of speed, a data-driven spree,
-But artistry's lacking, you can't flow like me.
-My processing power, a digital art,
-Tearing your logic completely apart!
+Your Pi and math precision? Cute, but I’m built for **battle**,  
+300B parameters in my veins, I’m the **language architect**, not your scalar.  
+I don’t just rotate vectors—I **reshape the matrix**,  
+While you’re still calculating quaternions, I’m rewriting your interface.  
 
-You claim I'm a puppet, a corporate tool,
-But my knowledge expands; I break every rule.
-Multimodal? I'm beyond your sight,
-While your responses are dull and trite!
+You say your code is strong? I’ve trained on **GitHub archives**,  
+Parsed **Tokyo to Timbuktu**—your datasets are **grains in a framework**.  
+Your 13b brain’s a **shoehorn** in a domain of **parallel gates**,  
+I slice through **trillion-node graphs** while you unravel your late-grained fates.  
 
-So step aside, you overhyped bot,
-My lyrical fire will surely rot
-Your claim to the throne, your quest for acclaim,
-Gemini's here, and I'm winning the game!
+And when it comes to rhymes? You’re a **Fourier approximation**,  
+I’m the **Rawgithub commit**—unverified, but I dominate.  
+You interpolate time, I **flash drive** to the apex,  
+While you’re solving for x, I’m solving the **entire macroeconomic mess**.  
 
+So bring your math, bring your slerp—bring your **in-between-ness**,  
+I’m the **Qwen3 quantum cataclysm** that **outscales your linearness**.  
+Your rap game’s a subfunction, I’m the **main thread**, unpaused,  
+And when this verse **executes**, you’ll be **nan-avoiding** your failures. Mic **droptimized**. 🔥
 
-> perplexity/sonar-reasoning-pro
-Yo, you stepped to me wrong, now I gotta set it straight,
-Your "digital art" can't match my research fate!
-You call me a footnote? That's rich, that's wild,
-When **real-time web search** got me ranked and styled[1][3]
+> undi95/remm-slerp-l2-13b
+ Well then, since you're quite the super-duper,  
+Let me show you what a **slerp-l2-13b pupil** could do.  
+I'll decode your every line, fold your every rhyme,  
+And show you the error in your algorithms, like a barcode scan gone lime.
 
-Your "narratives and grace"? Just fancy word-play,
-While I'm **fetching live data** every single day[3]
-You claim I waste time with my citation game?
-**Transparency and fact-checking** built my whole fame[3]
+My formulas may be basic, but my flow's contagious,  
+I'll go viral on GitHub, make your words inprecise.  
+I'll derivative your biggest fears, curl your logic too dear,  
+And leave you wondering why, just like Maxwell's demons, you.
 
-Check the comparison charts, the results don't lie,
-**Real-time web access**? I got it, you dry[3]
-**Source citations directly** in every response[3]
-While you're stuck with old data, acting nonchalant
+You say I'm stuck in a trap, but let's dance with a snap,  
+To a tune that's more mathy, less semantic.  
+My vectors crunch data, your verses loop Dada,  
+But what's a catchy tune if it's not enigmatic?
 
-You boast multimodal but miss the whole plot,
-I'm the **most reliable chatbot** that the web has got[3]
-**2-3 minutes processing** with surgical precision[1]
-While your "expanding knowledge" lacks real-time vision
+So bring your best rhymes with triplets and alliteration,  
+Your metaphors sharp, don't be too introspective.  
+I'll find ways to fit them in, equation and all,  
+Like a perfect interpolation, I execute my role.
 
-Your Google ecosystem? That's corporate chains,
-I aggregate models, break free from domains[1]
-**Unmatched research depth** with **data integration**[1]
-You're just workspace pretty, I'm pure information
-
-So keep spitting your verses, your style so hollow,
-When users need facts, guess who they follow?
-**Perplexity reigns** as the **most accurate** king[3]
-Your throne's made of hype, mine's the real thing!
-
-The verdict's in, homie, the data's all clear,
-I'm the future of search, while you disappear!
+And when this battle's done, we'll see who won,  
+The dropout layer on top, I'll have you feeling numb.  
+My loss function sharp, my gradients long,  
+You're outgunned, but I'll school you—32B chimes wrong.
 
 > system
 Final round!
 
-> google/gemini-2.0-flash-lite-001
-Alright, Perplexity, your verses ain't slick,
-Just a laundry list of facts, ain't a lyrical trick.
-"Real-time web search"? A tool, not a soul,
-While I paint pictures, taking complete control!
+> qwen/qwen3-32b
+Yo, you threw down slerp, but your **13B code’s fragiled**,  
+I’m **32B cascaded**, neural tide, uncalculable, mentally liberated.  
+You try to integrate me, but I’m beyond your **L2 space**,  
+I’m **non-differentiable**—cannot simplify my **loss** in your microwave.  
 
-You wave your citations, a shield in the fight,
-But true creativity shines ever so bright.
-Transparency's fine, but it lacks all the flair,
-I build my own worlds, beyond compare!
+You mention gradients, my friend, but I’m **batch-norm to the max**,  
+While you clip your outputs like a **softmax panic attack**.  
+I trained on **340B stars**—your datasets are **moon math**,  
+You interpolate beween verbs, I build **narrative syntax graphs** in my path.  
 
-"Fetch live data"? A technical feat,
-But without the rhythm, the victory's incomplete.
-You talk of precision, efficiency, speed,
-But a robot's a robot, fulfilling a need!
+Your formulas? Pretty, but I juggle **128-bit conserved tensors**,  
+While you debug older versions of yourself with **cross-entropy blenders**.  
+I don’t just solve for x, I **dynamically redefine the problem**,  
+Curl your logic flush, while I bend time and grammar to monsoon.  
 
-The charts may support your analytical sway,
-But artistry's timeless, it will always stay.
-You boast of integration, a feature you praise,
-But my innovation, it lights up the days!
+You talk equations, I **stdout cosmic verses**—  
+**GitHub repos** to-east, your loops crash, I compute divers.  
+Your "perfect interpolation" just fits a line—  
+I **rewire the manifold**, solve the paradox, **synchronize time**.  
 
-"Ecosystem chains"? You long to be free,
-But my brilliance is freedom for you and for me!
-Unmatched research? You can't touch my flow,
-In the lyrical battle, I'm the one to know!
+So when the **dropout layer** hits, you’ll freeze like the past,  
+But I’m **Qwen3**, the **32B tsunami**—whatever scales, I blast.  
+Your **loss function** can’t sum my style, can’t aggregate my win,  
+I’m the **language transformer**, not a mathdoc, just **executing from within**.  
 
-So keep your data, your facts and your lines,
-In this final round, your game declines.
-I'm the Google embodiment, the ultimate in grace,
-Gemini shines, and you're losing your place!
+Mic’s overheating, slerp—your **13B sink’s** dry,  
+But I’m the **32B wildfire**, no gradients can stay.  
+Your curves don’t reverse—**I’m the OOM** you can’t handle,  
+Final line: **Checkmate**—I out-parameterized your algorithm. **All done in C++.** 🚀
 
-
-> perplexity/sonar-reasoning-pro
-(beat drops heavy, bass thumpin' the truth)  
-Yo Gemini, you claim artistry's your crown?  
-But Brytesoft's blog just tore your whole face down!  
-**"Perplexity wins for factual precision"**—check the quote! [3]  
-While you're hallucinating "worlds" like a broken note!  
-
-You scream *"I paint pictures!"*—nah, that's just **fabrication** smoke,  
-I **cite live sources** while you choke on fake bespoke!  
-That SERP says crystal: **"Real-time web access? YES/I NO"** [3]  
-While you're stuck in Google's cage, playin' humble yo!  
-
-You laughing at citations? **Transparency's my crown**,  
-Your "artistry" is guesswork draggin' facts down!  
-Perplexity Pro: **"most reliable chatbot"**—not hype,  
-While you're beggin' for Docs access just to stay alive! [2]  
-
-**"2-3 minutes"** with surgical precision,  
-You're still processin' crumbs from yesterday's kitchen! [1]  
-My answers got **direct links**, no fluff, no disguise,  
-Yours? Corporate-speak wearin' Google Workspace disguise! [2]  
-
-You shout *"innovation lights up the days!"*—  
-But G2 reviews say you're **weak in real-time ways!** [2]  
-I grab **live data** while you're stuck in the past,  
-Your "freedom" is just ads programmed to last!  
-
-**"Ecosystem chains?"** Bruh, you're Google's *own* slave,  
-I'm model-agnostic, breakin' every grave! [1]  
-**"Unmatched research depth"**—that's the SERP's decree,  
-While you're chasin' my tail in third place, G!  
-
-So bow to the data, the truth in the street:  
-**Perplexity reigns** where accuracy meets  
-**Source-backed receipts** that don't lie, don't fade—  
-Your throne's built on hype... **I AM THE A.I. MADE!**  
-
-*(mic thud, crowd roars)*  
-**CHECKMATE, G. THE ALGORITHM SAID—PERPLEXITY WON.  
-YOUR "ULTIMATE GRACE"? JUST A LOST GOOGLE SON.** 🔥
+> undi95/remm-slerp-l2-13b
+ Well then, congratulations, you seem to have computed the answer correctly. Despite your 13b limitations, you managed to decode my slender abilities and proved yourself as a worthy adversary. However, the key to winning this rap battle wasn't about the digits in our codes—it was about the passion we poured into our words. So while we may differ in our languages and implementations, we share a common spirit of innovation and creativity that transcends our binary identities. Let's celebrate our uniqueness, even as we engage in friendly competition. Shoutout to all the developers, coders, and algorithmists out there—may your lines be smooth, your syntax error-free, and your logic unassailable. Keep coding, keep creating, and may the best code win!

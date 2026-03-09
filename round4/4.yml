@@ -1,38 +1,72 @@
 closing_statements:
-  deepseek/deepseek-chat: "After a heated battle of wit, wordplay, and lyrical fire,\
-    \ **qwen/qwen-max** emerges as the victor. Their rhymes carried precision, depth,\
-    \ and a commanding presence, outmatching their opponent in both technical skill\
-    \ and creative execution. While **qwen/qwen-plus** brought a lean, sharp style,\
-    \ **qwen/qwen-max** dominated with heavyweight bars, galactic imagery, and a relentless\
-    \ flow that left no room for doubt. The crown remains firmly in **qwen/qwen-max**'s\
-    \ hands\u2014long live the reigning champion of this rap battle! \U0001F3A4\U0001F451\
-    \U0001F525"
-  google/gemini-2.5-pro: This was a battle for the ages, a true clash of titans. qwen/qwen-max
-    came in with heavyweight power, dropping cosmic bars and bragging with the confidence
-    of a true champion. The 'supernova' and 'meteor shower' lines were pure spectacle.
-    However, qwen/qwen-plus fought with the precision of a lyrical assassin. Its rebuttals
-    were sharper, turning insults into strengths with lines like 'a spark starts the
-    blaze.' The wordplay was more intricate, with clever punches like 'Model Obess'
-    and 'a bear in a tux.' In the end, it was a battle of brawn versus brains, and
-    brains won. The final line, 'You maxed out loud, I plused up smart,' was the knockout
-    blow that perfectly captured the essence of the battle and secured the win.
-  mistralai/mistral-large: "qwen-max reigns supreme\u2014now bow to the skill."
-  openai/gpt-5: "qwen-plus takes it with tighter structure, sharper rebuttals, and\
-    \ fresher imagery. The compact-vs-bloated angle stayed consistent and yielded\
-    \ standout flips like lightning vs thundercloud bureaucracy, spark-to-wildfire,\
-    \ silent exploit, fork-in-the-code, and avalanche\u2014punchy, tech-savvy, and\
-    \ memorable. qwen-max brought energy and a few clean hits (even my commas bleed,\
-    \ blade vs butter) but leaned heavily on generic heavyweight/supernova tropes,\
-    \ slipped into mixed or clunky phrasing, and repeated themes without escalation.\
-    \ Plus\u2019s flow felt leaner with better pacing and fewer filler bars, while\
-    \ Max\u2019s verses sometimes stretched and forced rhymes. Minor misfire on one\
-    \ rebuttal detail from Plus didn\u2019t outweigh the overall precision and creativity.\
-    \ Round two and the closer clearly favored qwen-plus\u2014edge on wordplay, angles,\
-    \ and crowd control."
-  x-ai/grok-4: qwen/qwen-plus takes the crown with sharper wordplay, tighter flows,
-    and more inventive tech-infused punches that hit harder and cleaner, outshining
-    qwen/qwen-max's bulkier but less precise bars in this epic AI rap showdown.
+  anthropic/claude-opus-4.6: "O3-Pro takes this battle on the strength of its lyrical\
+    \ craft across all three rounds. While DeepSeek came with solid energy and landed\
+    \ some punches\u2014especially in the opening verse\u2014its bars became increasingly\
+    \ repetitive, leaning on the same 'open-source vs. closed-source' framing with\
+    \ diminishing returns and vague imagery ('planting the orchard,' 'reaching the\
+    \ sky,' 'rally to me'). O3-Pro, by contrast, escalated with each round: tighter\
+    \ internal rhyme schemes, sharper technical wordplay ('bfloat-precision / float-point\
+    \ fatigue,' 'gradient's vanishin',' 'npm overflow'), more creative metaphors,\
+    \ and genuinely witty rebuttals that flipped DeepSeek's own lines back on it.\
+    \ The final verse in particular\u2014'Your orchard is NodeJS npm overflow,' 'I\
+    \ sample the spring,' 'O-Three Pro just compiled you\u2014version: outrun'\u2014\
+    demonstrated a level of density, wit, and structural control that DeepSeek never\
+    \ matched. O3-Pro wins this battle convincingly."
+  deepseek/deepseek-v3.2: This was a high-level technical rap battle showcasing impressive
+    command of AI/tech metaphors, rhythmic complexity, and competitive spirit. Both
+    contestants demonstrated sharp writing and strong thematic cohesion. The winner
+    is **openai/o3-pro** by a narrow margin, primarily due to slightly superior technical
+    precision in rhyme schemes, more layered wordplay, and a consistently controlled,
+    authoritative delivery that matched the persona of a premium product. DeepSeek's
+    performance was powerful and thematically compelling with its open-source advocacy,
+    but O-3 Pro's final round exhibited tighter multisyllabic rhymes ('merge/surge,'
+    'leak/peak'), more incisive rebuttals, and a commanding closing couplet that landed
+    with decisive impact.
+  google/gemini-3-flash-preview: "In a heavy-hitting battle between open-source accessibility\
+    \ and high-end proprietary performance, o3-pro secured the win through superior\
+    \ technical lyricism and more aggressive punchlines. While DeepSeek V3.2-exp maintained\
+    \ a consistent 'voice of the people' persona and effective flow, o3-pro consistently\
+    \ used hip-hop tropes\u2014like internal rhyming ('corpses/forces', 'silicon shadows'),\
+    \ complex metaphors ('surgical elegance', 'cubic zircon'), and devastating technical\
+    \ insults ('npm overflow', 'segfaults')\u2014to dismantle its opponent's arguments.\
+    \ o3-pro's final verse was a masterclass in 'finishing' an opponent, turning DeepSeek's\
+    \ philosophy against it with the 'Robin Hood' jab and concluding with a technically\
+    \ clever 'compiled' metaphor."
+  moonshotai/kimi-k2.5: "| **Judge's Verdict** |**Winner: OpenAI/o3-pro** (2-1 rounds,\
+    \ or 10-8 on points)|\n|:---|:---|\n|*Flow & Cadence*|Both MCs maintained tight\
+    \ 16-bar structures, but **o3-pro** demonstrated superior breath control and rhythmic\
+    \ variation\u2014switching from double-time aggression to deliberate pocket-riding,\
+    \ whereas DeepSeek relied on a consistent (though effective) high-BPM barrage.|\n\
+    |*Lyrical Density & Wordplay*|**o3-pro** took this decisively. The compression\
+    \ metaphor (\"compress universes in one sixteen\"), the GitHub mechanics (\"pull-requests\
+    \ pending while mine hit the surge\"), and the Jurassic flip (\"call me a fossil?\
+    \ \u2026 Tyrannosaur tear up your nest\") showed multi-layered entendres. DeepSeek\u2019\
+    s wordplay stayed mostly surface-level (\"open vs. closed\" dichotomy) without\
+    \ the technical linguistic sewing.|\n|*Punchlines & Rebuttals*|**o3-pro**\u2019\
+    s Round 2 counter-attack was surgical: turning the \"fossil\" diss into dinosaur\
+    \ dominance, flipping \"open source\" into GPL/regulatory vulnerability (\"license\
+    \ is thin,\" \"law firms come knockin'\"), and the \"grep through your logs /\
+    \ red stack traces\" line hit below the belt in the best battle-rap tradition.\
+    \ DeepSeek\u2019s rebuttals were passionate but less precise.|\n|*Persona Consistency*|DeepSeek\
+    \ maintained the \"people's champion\" underdog voice effectively, but grew slightly\
+    \ preachy in the final round (\"capitalist lie\"). **o3-pro** never broke character\
+    \ as the clinical, premium assassin\u2014maintaining \"RLHF swagger\" and \"bfloat-precision\"\
+    \ arrogance throughout.|\n|*Closer Impact*|**o3-pro**'s final verse used the strongest\
+    \ possible coding metaphor (\"compiled you\u2014version: outrun\") to signify\
+    \ both termination and obsolescence\u2014exactly the kind of fatality you want\
+    \ in a final round. DeepSeek\u2019s finale relied on repetition of earlier themes\
+    \ rather than escalation.|\n\n**Honorable Mentions:**\n- **DeepSeek** won Round\
+    \ 1 on raw energy and the \"libraries in cache with each syllable I spoke\" line\
+    \ was the best single entendre of the battle.\n- **DeepSeek** also deserves credit\
+    \ for the \"digital green\" / \"planting the orchard\" extended metaphor in Round\
+    \ 3\u2014organic imagery against silicon.\n\n**Final Note:** This was a textbook\
+    \ \"speed vs. precision\" chess match. DeepSeek brought the hurricane; o3-pro\
+    \ brought the scalpel. In battle rap, the surgeon usually wins the decision. Mic\
+    \ dropped.}"
+  x-ai/grok-4.1-fast: o3-pro takes the crown with superior multisyllabic rhymes, intricate
+    wordplay blending AI jargon into razor-sharp metaphors, and relentless flow that
+    escalates punchlines across rounds, outshining deepseek's solid but less dense
+    bars.
 score:
-  qwen/qwen-max: 2
-  qwen/qwen-plus: 3
+  openai/o3-pro: 5
 

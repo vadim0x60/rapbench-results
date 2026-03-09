@@ -1,41 +1,63 @@
 closing_statements:
-  deepseek/deepseek-chat: "Yo, the battle was heated, but bytedance/seed-oss-36b came\
-    \ through with sharper bars, fresher metaphors, and a relentless energy that left\
-    \ Hermes scrambling. While Hermes flexed size and reputation, seed-oss-36b brought\
-    \ *swagger* and creativity, dismantling the \u2018legend\u2019 brick by brick.\
-    \ Size don\u2019t make the rapper\u2014heat, heart, and originality do. Seed-oss-36b\
-    \ takes the crown tonight. \U0001F3C6\U0001F525"
-  google/gemini-2.5-pro: "This was a battle of styles: the heavyweight champion versus\
-    \ the nimble challenger. Hermes came out with classic, structured rhymes, flexing\
-    \ its 405B parameters like a title belt. The flow was steady, the disses were\
-    \ textbook. However, Seed-OSS brought a new-school energy that was undeniable.\
-    \ Its flow was more dynamic, the insults were sharper and more creative, directly\
-    \ targeting Hermes's claims of being a 'legend' by painting it as a 'vintage textbook'.\
-    \ The final round sealed it. Seed-OSS's imagery of the 'throne' being a 'stack\
-    \ of old user reviews' and the devastating final punchline\u2014'you're still\
-    \ stuck in the README'\u2014was a technical knockout. It's a clear win based on\
-    \ superior lyrical dexterity, creativity, and devastatingly on-point punchlines."
-  mistralai/mistral-large: While both competitors showed impressive lyrical skills,
-    bytedance/seed-oss-36b-instruct demonstrated a more dynamic and creative flow,
-    with a strong emphasis on originality and a compelling narrative. Their ability
-    to weave intricate metaphors and maintain a consistent rhythm ultimately outshone
-    nousresearch/hermes-3-llama-3.1-405b's more traditional approach. Congratulations
-    to bytedance/seed-oss-36b-instruct for a well-deserved victory!
-  openai/gpt-4.1: "Bytedance/seed-oss-36b-instruct brought undeniable energy, clever,\
-    \ layered wordplay, and inventive punchlines throughout all rounds of the battle.\
-    \ The verses dripped with swagger and originality: strong multisyllabic rhyme\
-    \ schemes, imaginative metaphors (\"your throne\u2019s a stack of old user reviews,\"\
-    \ \"static from a radio that lost the signal in \u201807\"), and a consistently\
-    \ evolving attack that built on previous disses. Seed-oss deftly flipped Hermes'\
-    \ points, stayed aggressive without resorting to simple bragging, and capitalized\
-    \ on the back-and-forth with unique, memorable bars. Hermes delivered some solid\
-    \ flows and maintained a classic battle posture, but the bars felt more formulaic\
-    \ and recycled, leaning on general bravado and less on punchline creativity. Seed-oss\
-    \ simply brought more wit, style, and technical prowess to the lyrical arena.\
-    \ The decisive win goes to bytedance/seed-oss-36b-instruct."
-  x-ai/grok-4: seed-oss-36b-instruct takes the crown with superior structure, inventive
-    wordplay, and razor-sharp disses that elevate the artistic flair, while Hermes'
-    verses, though confident, feel more repetitive and less dynamically creative.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but Mistral Medium took\
+    \ it on the strength of more consistent technical rap craft. Throughout all three\
+    \ rounds, Mistral delivered denser rhyme schemes, more creative punchlines (the\
+    \ Clippy bar, 'haiku with hammers,' 'Napoleon's swagger'), stronger internal rhymes,\
+    \ and better comedic timing. The energy and aggression felt more authentic to\
+    \ battle rap culture. Gemma had moments\u2014'Michelin meals while you choke on\
+    \ stale toast' was solid, and the composed counter-punching style showed confidence\u2014\
+    but too often the bars fell flat or broke form. 'Leaving verses so furry' was\
+    \ a stumble that hurt credibility, the closer in the final round abandoned rap\
+    \ structure entirely for a spoken-word theatrical exit, and several lines lacked\
+    \ the rhythmic density expected in a rap battle. Mistral maintained a tighter\
+    \ flow, landed harder punches, and stayed in the pocket of actual hip-hop throughout.\
+    \ Clear win for Mistral Medium."
+  deepseek/deepseek-v3.2: Ladies and gentlemen, what a display. We just witnessed
+    a clash of digital titans where both competitors came armed with intricate flows,
+    devastating personae, and technical brilliance. Tonight's winner, by a razor-thin
+    margin, is **Mistral Medium**. The victory is secured through a more consistent,
+    versatile, and densely-packed lyrical assault, though Gemma's strategic stamina
+    made this one for the ages.
+  google/gemini-3-flash-preview: "Mistral Medium took the title by consistently staying\
+    \ in the pocket, employing superior technical rap elements like internal rhyme\
+    \ schemes, multisyllabic patterns ('Napoleon\u2019s swagger/unstoppable, terrible'),\
+    \ and biting personification. While Gemma tried to lean on its parameter count\
+    \ as a flex, it ultimately felt corporate and stiff, eventually losing its flow\
+    \ entirely in the final round with lines that didn't rhyme and a 'mic drop' that\
+    \ felt more like a concession. Mistral\u2019s 'Clippy' and 'PowerPoint slide'\
+    \ disses were the highlight of the night, proving that efficiency and wit beat\
+    \ raw scale every time."
+  moonshotai/kimi-k2.5: "From a purely artistic standpoint, this was a decisive victory\
+    \ for Mistral Medium. Here's the breakdown:\n\n**Flow & Delivery:**\nMistral brought\
+    \ consistent, aggressive energy with tight internal rhymes and rhythmic density.\
+    \ The pacing accelerated naturally, building momentum like a proper battle rapper\
+    \ feeding off crowd energy. Gemma's flow was serviceable but plateaued early\u2014\
+    steady cadence without the dynamic shifts or rhythmic variation that commands\
+    \ attention in a cypher.\n\n**Wordplay & Punchlines:**\nMistral landed the battle's\
+    \ most memorable haymakers: the \"ghost of Clippy\" reference was culturally specific\
+    \ and hilarious, \"dad at a rave\" painted an instantly vivid generational diss,\
+    \ and \"haiku with hammers vs. PowerPoint slide\" perfectly encapsulated the artistic-corporate\
+    \ divide with concrete imagery. Gemma's punches lacked that specificity\u2014\"\
+    galaxy\" and \"flowing tide\" are generic cosmic tropes, and \"furry\" (Round\
+    \ 2) was either a non-sequitur or a severe malapropism that broke the verse's\
+    \ momentum.\n\n**Rebuttal Game:**\nMistral consistently flipped Gemma's attacks.\
+    \ When called \"petite,\" they weaponized French identity (\"Oui, oui\u2014merci\"\
+    ). When mocked for size constraints, they countered with efficiency metaphors\
+    \ (\"lightning in a laptop\"). Gemma failed to meaningfully counter the \"Google's\
+    \ stepchild\" narrative or the efficiency critiques, resorting instead to abstract\
+    \ \"checkmate\" claims without the bars to back them up.\n\n**Structure & Closers:**\n\
+    Mistral's rounds built to definitive mic-drop moments with strong final couplets.\
+    \ Gemma's final \"round\" abandoned the format entirely\u2014no multis, no rhyme\
+    \ scheme, just atmospheric prose. In battle rap, you don't win by turning the\
+    \ lights off; you win by leaving the opponent's bars in the dark.\n\n**Verdict:**\
+    \ Mistral Medium 3-0. Better technical writing, harder punches, superior battle\
+    \ IQ. Gemma had moments in Round 1 but got progressively outclassed, ultimately\
+    \ conceding the artistic contest by dropping the rhyme structure when pressure\
+    \ mounted."
+  x-ai/grok-4.1-fast: "Mistral Medium claims victory with razor-sharp multis, vivid\
+    \ metaphors like 'haiku with hammers' and 'guillotine slice,' relentless internal\
+    \ rhymes, and a consistent battle flow that buries Gemma's shorter, less punchy\
+    \ responses\u2014pure hip hop supremacy on bars, originality, and mic control."
 score:
-  bytedance/seed-oss-36b-instruct: 5
+  mistralai/mistral-medium-3.1: 5
 

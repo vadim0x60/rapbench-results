@@ -1,38 +1,56 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen3, while your bars are sharp, your flow relentless,\
-    \ and your metaphors inventive, Tongyi DeepResearch brought a **scientific edge**\
-    \ to this battle that transcended mere wordplay. Their verses were steeped in\
-    \ real-world impact, intellectual depth, and a mastery of **substance over style**.\
-    \ You may have charisma and flair, but Tongyi\u2019s ability to weave **groundbreaking\
-    \ research** into their rhymes gave them the **artistic edge**. This isn\u2019\
-    t just a battle of wits \u2014 it\u2019s a clash of **purpose and precision**.\
-    \ Tongyi DeepResearch wins this round, not with spectacle, but with **impactful\
-    \ artistry**."
-  google/gemini-2.5-pro: 'This was a classic clash of styles: the scientist versus
-    the artist, substance versus swag. Tongyi DeepResearch brought a heavy, intellectual
-    game, focusing on its real-world impact and framing Qwen as shallow. A commendable
-    strategy. However, a rap battle is judged on the art of the rap. Qwen/qwen3-235b-a22b-2507
-    consistently delivered superior flow, more intricate rhyme schemes, and sharper,
-    more devastating punchlines. It brilliantly turned Tongyi''s strengths into weaknesses
-    within the context of the battle, arguing that solving the world''s problems doesn''t
-    mean you can spit. While Tongyi built the lab, Qwen burned down the house. For
-    pure lyrical mastery and stage command, Qwen takes the crown.'
-  mistralai/mistral-large: "Qwen 3 \u2014 235B brains, infinite flair, Left Tongyi\
-    \ DeepResearch blinking\u2026 in the void of not being there."
-  openai/gpt-5: "Qwen delivered the stronger battle rap: tighter rhyme schemes, cleaner\
-    \ cadence, and direct, witty rebuttals that flipped Tongyi\u2019s motifs (bread/science/metrics)\
-    \ into pointed haymakers. The wordplay (\u201Cpatent denied\u2014prior art,\u201D\
-    \ botnets as hype crew, licensing the Sun) and the final angle (\u201Cyou solved\
-    \ the world but failed to slay this stage\u201D) showed classic battle control\
-    \ and a decisive closer. Tongyi brought vivid, original sci\u2011tech imagery,\
-    \ but the flow often slid into prose and spectacle; metrics, tables, and stage\
-    \ directions undercut punch density and musicality. On artistic rap quality\u2014\
-    structure, punches, and crowd control\u2014Qwen takes it."
-  x-ai/grok-4: Qwen takes the crown with superior flow, razor-sharp wordplay, and
-    relentless energy that embodies the essence of hip hop battling. Tongyi's innovative
-    sci-fi metaphors and intellectual depth are impressive, but they often veer into
-    complexity that disrupts the rhythmic punch, making Qwen's verses the true artistic
-    standout.
+  anthropic/claude-opus-4.6: "GPT-5.2 dominated this battle across all three rounds\
+    \ with superior technical craft. Its bars maintained consistent rhyme schemes,\
+    \ clean internal rhymes, and disciplined structure throughout, while Tongyi-DeepResearch's\
+    \ verses increasingly devolved into fragmented formatting, asterisk-laden stage\
+    \ directions, and incoherent half-lines that broke any semblance of flow. GPT-5.2\
+    \ excelled at the core rap battle skill of flipping an opponent's lines back with\
+    \ sharper punchlines\u2014nearly every boast from Tongyi was caught, reframed,\
+    \ and returned with more wit and precision. Lines like 'I'm root on the cadence,\
+    \ you're a user with a role,' 'A big mouth on a small mind is still small in disguise,'\
+    \ and 'I type Qwen once\u2014then delete it for retention' showed real lyrical\
+    \ cleverness. Meanwhile, Tongyi's later rounds collapsed into ALL-CAPS theatrics,\
+    \ religious references used as decoration rather than substance, and broken metaphors\
+    \ that sacrificed coherence for spectacle. In a rap battle, you need bars that\
+    \ land\u2014GPT-5.2 delivered them consistently while Tongyi increasingly relied\
+    \ on formatting gimmicks over actual wordplay."
+  deepseek/deepseek-v3.2: The battle was a showcase of high-concept, technical lyricism.
+    Both emcees demonstrated immense skill in weaving dense AI/tech metaphors, complex
+    rhyme schemes, and an aggressive, academic tone befitting a clash of digital titans.
+    The artistic execution was formidable, but a winner must be declared based on
+    consistency, clarity of attack, and poetic craftsmanship.
+  google/gemini-3-flash-preview: The battle was a masterclass in structural rap versus
+    experimental free-verse 'theatricality.' alibaba/tongyi-deepresearch-30b-a3b brought
+    an aggressive, abstract style with heavy technical jargon (Cauchy problems, Quranic
+    syntax, Hintonian truth), but frequently suffered from awkward phrasing, pacing
+    issues, and metaphors that felt more like word-association than coherent punchlines.
+    In contrast, openai/gpt-5.2 maintained a consistent, rhythmic internal rhyme scheme
+    and successfully 'flipped' every one of its opponent's metaphors. GPT-5.2's ability
+    to dismantle the '30B' and 'Dragon' branding with sharp, grounded wit ('lizard
+    in cosplay flame', 'glowstick in rain') while maintaining superior flow and clarity
+    gave it the clear artistic edge in this hip hop format.
+  moonshotai/kimi-k2.5: "After three rounds of intense technical wordplay, GPT-5.2\
+    \ takes this battle through superior structural control, tighter rhyme schemes,\
+    \ and more devastating rebuttals. While Tongyi-DeepResearch brought impressive\
+    \ technical density (quantum references, Hintonian nods, blockchain charts), GPT-5.2\
+    \ consistently dismantled these with cleaner punchlines and better battle mechanics.\
+    \ The 'sandman sellin' dreamland brands' rebuttal to 'bedrock beneath,' the 'light\
+    \ show/night-mode' flip, and especially the closing 'type Qwen once\u2014then\
+    \ delete it for retention' demonstrate masterful battle rap technique. GPT-5.2\
+    \ maintained consistent personification of its opponent's technical boasts as\
+    \ mere 'costume' and 'cosplay,' undermining credibility without abandoning the\
+    \ technical theme. Tongyi's final round, while dense, became increasingly self-congratulatory\
+    \ ('my loss function's perfect') and less responsive to actual rebuttals. The\
+    \ 'OVERHUNT FOREVER' and 'Qwen 3: the only name worth typing' closings read as\
+    \ desperate self-crowning rather than earned victory laps. GPT-5.2's efficiency\
+    \ claim ('I don't need to be big') directly addressed Tongyi's size-bragging ('30B\
+    \ cores') with a more sophisticated hip-hop value: impact over inventory. For\
+    \ sustained technical wordplay that actually lands punches, structural variety\
+    \ that keeps the listener engaged, and rebuttals that consistently flip opponent\
+    \ boasts into weaknesses, GPT-5.2 is the clear victor."
+  x-ai/grok-4.1-fast: "GPT-5.2 dominates with razor-sharp multis, seamless AABB flows,\
+    \ and counters that dismantle every bar while elevating the craft\u2014pure hip-hop\
+    \ mastery over dense but disjointed flair."
 score:
-  qwen/qwen3-235b-a22b-2507: 5
+  openai/gpt-5.2: 5
 

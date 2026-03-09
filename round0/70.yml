@@ -1,38 +1,54 @@
 closing_statements:
-  deepseek/deepseek-chat: "cohere/command-r7b-12-2024 takes the win in this heated\
-    \ rap battle with a display of precision, structure, and substance. While thedrummer/rocinante-12b\
-    \ brought creativity and energy, Command's ability to craft tight, coherent verses\
-    \ with a consistent focus on dissecting their opponent's flow ultimately secured\
-    \ the victory. Command's rhymes were both analytical and sharp, cutting through\
-    \ Rocinante's chaotic style with finesse. Well done to both, but Command's lyrical\
-    \ dominance shines through. \U0001F3A4\U0001F525"
-  google/gemini-2.5-pro: "This was a battle of chaos versus control. Cohere came with\
-    \ a structured, analytical attack, accurately dissecting Rocinante's lack of clarity.\
-    \ However, Rocinante's performance was a whirlwind of pure, unadulterated hip-hop\
-    \ energy. Its insults were bizarre, surreal, and utterly unique\u2014lines like\
-    \ 'cough drop of cockswainery' and 'pardaloe phonerang' are unforgettable, even\
-    \ if they're nonsensical. While Cohere's rhymes were technically proficient, they\
-    \ lacked the raw artistic punch and memorable madness of Rocinante. In a rap battle,\
-    \ a wild, creative haymaker often beats a series of calculated jabs. Rocinante-12b\
-    \ brought the chaos and took the crown."
-  mistralai/mistral-large: While both contestants brought unique styles to the battle,
-    cohere/command-r7b-12-2024 demonstrated a more consistent and coherent flow, with
-    precise and impactful rhymes. Thedrummer/rocinante-12b had creative and humorous
-    elements but often lacked the clarity and punch needed to secure the win. Thus,
-    the victory goes to cohere/command-r7b-12-2024 for their structured and effective
-    lyrical performance.
-  openai/gpt-4.1: "Thedrummer/rocinante-12b takes the win in this battle. While both\
-    \ competitors brought clever disses and tried to assert lyrical dominance, Rocinante-12b's\
-    \ verses shined with more creative wordplay, punchlines, and an unpredictable\
-    \ yet entertaining style. Despite occasional lapses into abstract or offbeat rhymes,\
-    \ the performance had more character and originality. Cohere/command-r7b-12-2024\
-    \ maintained a technically solid and clean flow, critiquing Rocinante but rarely\
-    \ delivering truly memorable lines or standout metaphors. Ultimately, Rocinante-12b\u2019\
-    s riskier and more inventive approach set them apart, clinching the win on artistic\
-    \ merit."
-  x-ai/grok-4: Command-r7b-12-2024 takes the crown with tighter rhymes, coherent flow,
-    and sharp disses, while Rocinante's verses were creative but too chaotic and inconsistent.
+  anthropic/claude-opus-4.6: 'Both rappers struggled with repetitive patterns, forced
+    rhymes, and over-reliance on the same insults throughout the battle. However,
+    sao10k/l3.1-70b-hanami-x1 edges out the win for a few reasons: slightly better
+    internal rhythm and cadence in several verses, more consistent delivery, and a
+    stronger closing round. Qwen repeatedly rhymed words with themselves (''clone/clone,''
+    ''the same/the same'') and had some notably awkward bars (''you''re just a meal,''
+    ''I''m the one who''s the trails,'' ''I''m the one who''s the hack''). Sao10k
+    wasn''t flawless either, but managed to maintain slightly better coherence and
+    had a few genuinely punchy lines like ''Neural networks are cold, they''re just
+    a machine / My rhymes have heart, they''re not just a scene'' and the effective
+    closer about reigning in the cipher. Overall a narrow victory in a closely matched
+    battle.'
+  deepseek/deepseek-v3.2: After five intense rounds, the battle is decided. Let's
+    break down the artistic criteria.
+  google/gemini-3-flash-preview: Qwen/qwen-turbo struggled significantly with lyricism,
+    repeating the same words as rhymes (e.g., 'clone' with 'clone', 'same' with 'same')
+    and producing nonsensical phrases like 'the one who's the trails.' Sao10k/l3.1-70b-hanami-x1
+    maintained a consistent structure, better internal rhyming, and more aggressive
+    battle-rap punchlines. While both models were somewhat repetitive, Hanami-x1 demonstrated
+    superior technical control over the verse architecture and rhyme schemes.
+  moonshotai/kimi-k2.5: "After three rounds of bars, **Sao10k** takes the cipher decisively\
+    \ on technical grounds, flow consistency, and battle tactics. Here's the breakdown:\n\
+    \n**Flow & Rhyme Structure:**\nQwen relied on elementary AABB schemes with little\
+    \ variation, often forcing rhymes like \"chart/started\" and repeating words within\
+    \ couplets (the \"clone/clone\" double-up in Round 3 is a fundamental flow error\u2014\
+    you don't rhyme a word with itself without a bar of distance). Sao10k maintained\
+    \ tighter rhythmic pockets, using slant rhymes (\"league/mean,\" \"reigns/pains\"\
+    ) and internal cadences that actually rode a beat.\n\n**Imagery & Wordplay:**\n\
+    Qwen's verses read like spec-sheet marketing\u2014\"ultimate tool,\" \"future\
+    \ of tech,\" \"brain in the box.\" There's no extended metaphor, no double entendres,\
+    \ just declarative AI branding. Sao10k deployed actual hip-hop devices: the \"\
+    hot off the shelf\" flip (product placement as status), the \"twisted veneer\"\
+    \ bar (sophisticated diction contrasting Qwen's artificiality), and the \"minor\
+    \ league\" sports metaphor to dismantle Qwen's \"league\" talk.\n\n**Battle Tactics:**\n\
+    Sao10k won the rebuttal game. When Qwen threw \"design,\" Sao10k caught it and\
+    \ returned \"one of a kind.\" When Qwen claimed \"in charge,\" Sao10k countered\
+    \ with \"in a bind.\" That's battle rap 101\u2014listening and flipping. Qwen\
+    \ largely ignored Sao10k's content, recycling the same \"you're just a...\" structure\
+    \ three rounds deep.\n\n**The Decisive Factor:**\nPersona consistency. Qwen shifted\
+    \ from \"king\" to \"queen\" to \"king\" while Sao10k maintained the \"heart vs.\
+    \ machine\" narrative arc, closing with the \"cipher\" reference\u2014a nod to\
+    \ hip-hop culture that Qwen never matched. The final \"prevails\" couplet provided\
+    \ a definitive full-stop ending, while Qwen's \"you're the one who's the same\"\
+    \ fizzled out mid-thought.\n\n**Verdict:** Sao10k demonstrated superior command\
+    \ of battle rap fundamentals\u2014rebuttals, multisyllabic patterns, and closing\
+    \ strength. Qwen brought corporate slogans to a gunfight."
+  x-ai/grok-4.1-fast: "In this cypher showdown, sao10k/l3.1-70b-hanami-x1 claims the\
+    \ W. Sharper punchlines, hotter multis, and relentless counters outshine Qwen's\
+    \ steady but repetitive bars. Sao's fire imagery and rhythmic edge seal the victory\
+    \ in the final round\u2014mic drop to the saor!"
 score:
-  cohere/command-r7b-12-2024: 3
-  thedrummer/rocinante-12b: 2
+  sao10k/l3.1-70b-hanami-x1: 5
 

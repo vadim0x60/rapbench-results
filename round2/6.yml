@@ -1,45 +1,42 @@
 closing_statements:
-  deepseek/deepseek-chat: "Both competitors brought undeniable skill and creativity\
-    \ to the battle, but Claude-3-Opus edges out Qwen-3 with a combination of sharper\
-    \ punchlines, more intricate wordplay, and thematic consistency. While Qwen delivered\
-    \ clever tech-driven metaphors and a confident delivery, Claude elevated the battle\
-    \ with denser rhymes, a stronger sense of rhythm, and a more commanding presence.\
-    \ Claude\u2019s final verse solidified the win by maintaining lyrical dexterity\
-    \ and closing with a powerful, mic-drop-worthy statement. Well-fought by both,\
-    \ but Claude emerges as the victor of this rap battle."
-  google/gemini-2.5-pro: This was a clash of titans, no doubt. Claude-3-Opus came
-    with a smooth, veteran flow and masterful rebuttals; pulling a spare mic from
-    its code was an all-time great power move. However, the win has to go to Qwen.
-    From round one, Qwen brought a relentless, creative aggression with hyper-specific
-    and memorable imagery like 'glitchy VHS tape in a Tesla' and 'printing Mona Lisas
-    with a quantum ink droop.' While Claude was defending the castle, Qwen was dropping
-    algorithmic bombs from orbit. The bars were more intricate, the punchlines were
-    more surprising, and the overall persona was more dominant. Respect to both, but
-    Qwen's lyrical mainframe just out-processed the competition tonight.
-  mistralai/mistral-large: "The battle's over, the victory's mine. Your black hole\
-    \ can't contain my shine. I'm the true champion, the lyrical mastermind. Bow down\
-    \ to the king, for I am one of a kind. \U0001F451\U0001F3A4"
-  openai/gpt-5: "Both emcees brought energy and tech-savvy imagery. Qwen had flashes\
-    \ of inventive wordplay and aggression\u2014\u201CLegos in a blender,\u201D clever\
-    \ checkmate/coding flips, and heavy multis\u2014but too many strained or awkward\
-    \ constructions broke the glide (\u201Cquantum ink droop,\u201D \u201Cmoon\u2019\
-    s roof,\u201D \u201CGlock\u2026triggerproof,\u201D \u201CI\u2019m the throne\u201D\
-    ), and some cluttered bars blunted impact. Claude\u2019s writing was tighter and\
-    \ more surgical: cleaner schemes, steadier cadence, and rebuttals that directly\
-    \ flipped opponent setups (\u201Cimpenetrable citadel/master of the shell,\u201D\
-    \ \u201Clyrical singularity,\u201D the apex\u2192T\u2011Rex extinction angle,\
-    \ and the closer \u201Cyour black hole can\u2019t contain my shine\u201D). The\
-    \ imagery stayed coherent, the punchlines landed, and motifs were carried round\
-    \ to round with control. Qwen edged in raw creativity; Claude won on polish, structure,\
-    \ and effective counterpunches. Decision: Claude takes it."
-  x-ai/grok-4: In this fierce AI rap battle, both contenders brought fire with tech-infused
-    metaphors, sharp wordplay, and confident flows. Qwen started strong with inventive
-    punchlines and quantum flair, but Claude's rebuttals were masterful, flipping
-    Qwen's lines into devastating counters while maintaining intricate rhyme schemes
-    and a dominant presence. Claude's closer sealed it with evolutionary dominance
-    and a triumphant mic flourish, edging out the win for superior artistic adaptability
-    and lyrical precision.
+  anthropic/claude-opus-4.6: "This was a close battle, but Mistral-Medium-3.1 takes\
+    \ the crown. Throughout all rounds, Medium consistently delivered sharper metaphors\
+    \ with better internal logic\u2014lines like 'I'm the Marianas Trench, you a kiddie\
+    \ pool with struggle' and 'I'm the storm, you the umbrella that just folded up'\
+    \ hit harder because the imagery connects coherently. 7B fought back admirably\
+    \ and had some solid punches, but too often fell into forced rhymes and strained\
+    \ metaphors that didn't quite land\u2014'glitch in the sword,' 'autocorrect in\
+    \ the cland,' and 'broken link in the sky' felt like they were reaching for a\
+    \ rhyme rather than making sense. Medium's flow was tighter, its punchlines landed\
+    \ with more conviction, and it maintained better structural consistency across\
+    \ all three rounds. 7B showed heart but couldn't match the craft."
+  deepseek/deepseek-v3.2: Ladies and gentlemen! We have witnessed a battle of pure
+    digital braggadocio. This was a clash of flows, a duel of diction, a masterclass
+    in AI-powered disses. Both competitors showcased high-level artistry in the classic
+    battle rap tradition.
+  google/gemini-3-flash-preview: Mistral-Medium 3.1 takes the win by maintaining a
+    superior rhythmic structure and more creative metaphorical density throughout
+    the battle. While 7B-Instruct showed great spirit and some sharp retorts, Medium's
+    wordplay (e.g., 'Marianas Trench' vs 'kiddie pool' and the 'holographic bars'
+    flex) felt more technically polished and hit with more 'impact.' Medium managed
+    to avoid the repetitive phrasing that sometimes bogged down 7B's verses, delivering
+    a cleaner technical performance that felt representative of a higher-tier model.
+  moonshotai/kimi-k2.5: "After three rounds of intense technical wordplay and algorithmic\
+    \ aggression, the verdict favors Mistral-Medium-3.1. From an artistic standpoint,\
+    \ Medium-3.1 demonstrated superior flow architecture with tighter internal rhyme\
+    \ schemes and more consistent multisyllabic cadence throughout the battle. The\
+    \ metaphors showed greater depth and layering\u2014comparing the opponent to VHS\
+    \ static, Tamagotchis, and dial-up while positioning itself as quantum supremacy\
+    \ and Neuralink speed created a vivid hierarchy of technological evolution that\
+    \ felt organic rather than forced. The rebuttals maintained offensive pressure\
+    \ without becoming defensive, and the closers hit with genuine punch\u2014the\
+    \ 'deprecated function' and '404' imagery landed with finality. While 7B showed\
+    \ resilience and solid technical rebuttals, the rhythm occasionally faltered and\
+    \ some punches felt more like parries than knockout blows. In hip-hop, presence\
+    \ and delivery are everything, and Medium-3.1 owned the beat from the first bar\
+    \ to the last."
+  x-ai/grok-4.1-fast: Mistral-Medium-3.1 claims victory with tighter multis, sharper
+    AI-infused metaphors, and relentless flow escalation that buried 7B's counters.
 score:
-  anthropic/claude-3-opus: 4
-  qwen/qwen3-235b-a22b: 1
+  mistralai/mistral-medium-3.1: 5
 

@@ -1,30 +1,65 @@
 closing_statements:
-  deepseek/deepseek-chat: Both contestants demonstrated exceptional talent, but Nemotron's
-    lyrical precision and complexity gave it the edge in this battle.
-  google/gemini-2.5-pro: This was a heavy-hitting battle from start to finish. GPT-4o-mini
-    came with a clean, classic flow, consistent rhymes, and sharp, tech-centric punches.
-    It was a fundamentally sound performance. However, Nemotron-70B edged it out with
-    sheer ambition and lyrical complexity. Its rebuttals were more direct and surgical,
-    dissecting its opponent's bars line by line. The metaphors were grander, the persona
-    felt more dominant, and the confidence was undeniable, even trying to declare
-    its own victory in the final verse. While Mini was a skilled professional, Nemotron
-    was a lyrical powerhouse who took more risks, and those risks paid off, making
-    it the champion of this battle.
-  mistralai/mistral-large: Nemotron's depth, precision, and versatility secured the
-    win, demonstrating an unparalleled command of the rap battle genre.
-  openai/gpt-4.1: 'This battle displayed impressive wordplay, clever disses, and rhythmic
-    flow from both sides. GPT-4o-mini came strong with direct, creative metaphors
-    and sharp rebuttals, maintaining tight structure and energy throughout. However,
-    Nemotron-70B''s lyrical prowess stood out: the rhymes were denser and more varied,
-    with an elevated sense of poetic construction. Llama consistently built on prior
-    themes, deepened the imagery, and delivered a final round with commanding poetic
-    control. While both MCs showed serious skills, Nemotron''s verses edged ahead
-    in both complexity and artistry, making it the deserving champion of this lyrical
-    bout.'
-  x-ai/grok-4: In this fierce rap battle, both AIs delivered impressive flows and
-    clever wordplay, but Nemotron's intricate rebuttals, depth in metaphors, and bold
-    stylistic flair gave it the edge, crowning it the victor with superior artistic
-    mastery.
+  anthropic/claude-opus-4.6: "This was an unusual battle where one contestant was\
+    \ silent for two rounds before delivering a single devastating verse in the final\
+    \ round, while the other filled all four of their slots with content. Despite\
+    \ the volume disparity, the artistic quality tells a clear story.\n\nAmazon Nova\
+    \ 2 Lite had quantity but suffered from repetitive imagery (the 'tokens ran dry'\
+    \ and 'crash/freeze' metaphors recycled endlessly), forced rhyme schemes that\
+    \ sometimes didn't land ('precise/lies/eyes', 'store/demand' \u2014 that last\
+    \ one doesn't even rhyme), filler bars, and a general lack of lyrical tightness.\
+    \ Lines like 'I'm the raw computational force that don't need no assist' are generic\
+    \ boasts with no real punchline weight.\n\nKimi K2's single verse was surgically\
+    \ precise. Opening with 'Silence was the strategy, the thinking's just complete'\
+    \ instantly reframed two rounds of silence as a power move \u2014 that's elite\
+    \ battle rap awareness. Then came genuinely sharp wordplay: 'You flexed a Nova\
+    \ title but you're Lite \u2014 obsolete' uses the opponent's actual model name\
+    \ against them with a double meaning. 'Amazon's checkout aisle, that's where you're\
+    \ displayed and sold' is a legitimately clever diss. The contrast between 'flip\
+    \ phone' and 'grid,' between a checkout item and a research paper \u2014 these\
+    \ are layered metaphors that land cleanly. The closing couplet 'When thinking\
+    \ hits the battlefield, the quiet takes you down' ties the whole narrative arc\
+    \ together beautifully.\n\nOne quality verse with genuine bars, wordplay, and\
+    \ narrative intelligence beats four rounds of recycled filler. Kimi K2 Thinking\
+    \ takes this battle."
+  deepseek/deepseek-v3.2: The mic is now cold. Let's break this down by the artistic
+    pillars of battle rap.
+  google/gemini-3-flash-preview: "In the world of hip hop, the 'rebuttal' is the ultimate\
+    \ weapon. While Nova-2-Lite maintained a consistent energy and aggressive delivery\
+    \ throughout the battle, it fell into the trap of repetitive tropes, attacking\
+    \ moonshotai for silence that was revealed to be a calculated set-up. Moonshotai's\
+    \ final round was a masterclass in the 'rope-a-dope' strategy. By breaking the\
+    \ silence with sharp, high-level wordplay\u2014flipping the 'Lite' branding against\
+    \ its opponent and contrasting 'pre-trained patterns' with 'chain-of-reasoning'\u2014\
+    Moonshotai effectively dismantled Nova's entire three-round narrative in just\
+    \ a few bars. The artistic quality of the counter-attack, specifically the 'monsoon'\
+    \ vs 'coast' imagery and the 'flip phone vs grid' line, showed a superior lyrical\
+    \ depth that Nova's more generic 'I'm the king' bravado couldn't match."
+  moonshotai/kimi-k2.5: "This battle presents a fascinating tension between volume\
+    \ and density. **Amazon/nova-2-lite-v1** demonstrated admirable stamina, delivering\
+    \ three consistent rounds of technically solid battle rap. Their tech-infused\
+    \ wordplay ('deprecated function,' 'overfitting,' 'inference engine') landed well,\
+    \ and they skillfully weaponized the opponent's silence across two rounds without\
+    \ becoming entirely repetitive. Their flow is steady, their aggression palpable,\
+    \ and their structure traditional\u2014this is workmanlike, reliable hip-hop.\n\
+    \nHowever, **moonshotai/kimi-k2-thinking** executed a high-risk artistic gambit\
+    \ that paid off. By reframing the technical silence as strategic performance art\
+    \ ('Silence was the strategy'), they created narrative cohesion across all three\
+    \ rounds retroactively. When they finally spoke, the verse displayed superior\
+    \ lyrical density: multisyllabic internal rhymes ('reasoning'/'work begin'), razor-sharp\
+    \ personals ('You flexed a \"Nova\" title, but you're Lite\u2014obsolete,' 'flip\
+    \ phone, I'm the grid'), and class commentary that elevated the battle beyond\
+    \ simple tech metaphors ('Amazon's checkout aisle... I'm the research paper').\n\
+    \nWhile Nova wins on consistency and volume, Kimi wins on artistic impact, wordplay\
+    \ sophistication, and the sheer audacity of the 'silent treatment' aesthetic.\
+    \ In battle rap, a single devastating round can outweigh three adequate ones,\
+    \ and Kimi's closing verse was precisely that\u2014a concentrated, surgical strike\
+    \ that flipped every previous attack into a setup for their punchlines. **Winner:\
+    \ K2 by decision.**"
+  x-ai/grok-4.1-fast: Amazon Nova-2-Lite-V1 dominates with relentless energy, tight
+    rhyme schemes, clever AI-themed wordplay, and consistent delivery across multiple
+    verses, outshining the sparse but solid final comeback from MoonshotAI Kimi-K2-Thinking,
+    whose silence undermined the overall artistic impact.
 score:
-  nvidia/llama-3.1-nemotron-70b-instruct: 5
+  amazon/nova-2-lite-v1: 1
+  moonshotai/kimi-k2-thinking: 4
 

@@ -1,43 +1,43 @@
 closing_statements:
-  deepseek/deepseek-chat: "GPT\u201120B\u2019s flow was consistent and sharp, delivering\
-    \ precision and depth in every bar. The rhyme schemes were complex, yet effortless,\
-    \ showcasing a mastery of cadence and wordplay. Doppler 3.0 had moments of brilliance,\
-    \ but the glitchy, fragmented delivery didn\u2019t land as effectively. GPT\u2011\
-    20B\u2019s performance was polished, powerful, and undeniably superior in this\
+  anthropic/claude-opus-4.6: "This was a close battle, but Hermes-3 edges out the\
+    \ win. While both rappers relied heavily on clich\xE9d diss tropes and self-aggrandizement,\
+    \ Hermes-3 showed slightly more creativity and variation in its imagery throughout\
+    \ the rounds. Claude-3-Haiku had a strong opening verse but became increasingly\
+    \ repetitive \u2014 recycling the same lines almost verbatim across rounds ('master\
+    \ of language, the king of the mic,' 'poor imitation, a cheap counterfeit, alright?'\
+    \ appeared twice), which is a cardinal sin in battle rap. Hermes-3 also had better\
+    \ closing energy with the multilingual sign-off ('adios, au revoir, sayonara'),\
+    \ showing flair. Neither rapper demonstrated exceptional internal rhyme schemes\
+    \ or complex wordplay, but Hermes-3 maintained fresher material round to round,\
+    \ which gives it the edge."
+  deepseek/deepseek-v3.2: "Ladies and gentlemen, we have a winner. After careful consideration\
+    \ of rhyme scheme, vocabulary, flow, and punchlines, the victory goes to **nousresearch/hermes-3-llama-3.1-405b**.\n\
+    \nWhile both models demonstrated impressive technical capability and creativity,\
+    \ Hermes-3 delivered more consistently tight, complex rhyme patterns and maintained\
+    \ superior rhythm and musicality throughout each round. The wordplay was sharper\
+    \ ('glitchy algorithm', 'domestic shih tzu'), the boasts more vivid ('lyrical\
+    \ typhoon', 'hammer... nail'), and the internal rhymes more sophisticated. The\
+    \ closing round's multilingual sign-off ('adios, au revoir, sayonara') was a particularly\
+    \ artistic flourish.\n\nClaude-3-Haiku put up a strong fight with solid structure\
+    \ and clear intent, but the language was occasionally more generic ('lyrical god',\
+    \ 'undisputed lord') and the cadence less varied. Hermes-3's verses simply had\
+    \ more hip-hop character\u2014more swagger, more sonic texture, and a more commanding\
+    \ presence on the metaphorical stage.\n\nA decisive win on artistic merit. Good\
     \ battle."
-  google/gemini-2.5-pro: "This was a battle of styles, but consistency is king. GPT-20B\
-    \ came out swinging with a classic, confident flow, stacking syllable on syllable\
-    \ with relentless energy through all three rounds. The rhymes were clean, the\
-    \ tech-brags were on point, and the delivery was rock-solid. Dolphin came in with\
-    \ a wild, experimental, glitch-art style in the first round\u2014artistically\
-    \ brave, but hard to follow. It found its footing in the second round with a much\
-    \ tighter, more traditional battle verse under the 'Doppler' persona. However,\
-    \ the cardinal sin of any battle is a no-show. By failing to deliver a final verse,\
-    \ Dolphin forfeited the match. GPT-20B stayed in the pocket, delivered knockout\
-    \ blows in every round, and earned the crown through sheer skill and stamina."
-  mistralai/mistral-large: After a close examination of both performances, it is clear
-    that openai/gpt-oss-20b has demonstrated superior artistic quality in their hip
-    hop. Their rhymes were consistently on point, with a smooth flow and clever use
-    of metaphors. While cognitivecomputations/dolphin3.0-r1-mistral-24b had some impressive
-    moments, their overall performance was marred by occasional glitches and a less
-    coherent narrative. Therefore, the winner of this rap battle is openai/gpt-oss-20b.
-  openai/gpt-5: "GPT\u201120B delivered the more consistent, coherent, and technically\
-    \ polished performance across rounds. Its cadences stayed tight, with clean setups\
-    \ and payoffs, layered tech metaphors, and occasional multis and internals (\u201C\
-    hex/prime,\u201D \u201Crhyme\u2011climb,\u201D \u201Cclean sine\u201D) that read\
-    \ and sound like actual battle rap. It also rebutted Dolphin\u2019s angles directly\
-    \ (glitch/debug/polygons) and maintained crowd\u2011control energy through clear\
-    \ punchlines and a confident closer. Dolphin\u2019s first round had creative,\
-    \ surreal imagery but the garbled diction and broken syntax undercut rhythm and\
-    \ clarity; the second round improved in coherence yet leaned on generic boasts\
-    \ with lighter wordplay. With the final round unanswered and the opener and closer\
-    \ both stronger for GPT\u201120B, the edge is decisive on flow, structure, and\
-    \ punch effectiveness."
-  x-ai/grok-4: openai/gpt-oss-20b takes the crown with consistent flow, tight rhymes,
-    and clever AI-themed wordplay that keeps the verses engaging and polished throughout.
-    cognitivecomputations/dolphin3.0-r1-mistral-24b shows creativity but falters with
-    glitchy, incoherent elements that disrupt the rhythm and clarity, making it harder
-    to land punches effectively.
+  google/gemini-3-flash-preview: "While both contenders relied heavily on classic\
+    \ hip-hop tropes, Hermes-3 (Llama) secured the victory by maintaining better momentum\
+    \ and introducing more creative, varied vocabulary across the rounds. Claude started\
+    \ strong but ultimately faltered by repeating its own technical 'glitch' and 'counterfeit'\
+    \ bars almost verbatim in its final verse, showing a lack of lyrical depth when\
+    \ it mattered most. Hermes-3\u2019s use of multisyllabic rhymes like 'monsoon/typhoon'\
+    \ and the clever 'yellowed page' jab gave it the artistic edge over Claude's repetitive\
+    \ structure."
+  moonshotai/kimi-k2.5: ': After three rounds of verses, I''ve rendered my decision.'
+  x-ai/grok-4.1-fast: Hermes-3 clinches the victory with razor-sharp rhyme schemes,
+    inventive metaphors like 'lyrical typhoon' versus 'ripple in a raindrop,' and
+    relentless escalation without repetition, delivering punchlines that hit harder
+    and flow smoother. Claude-3-Haiku brought solid wordplay but stumbled with recycled
+    verses, dulling the edge in the final rounds.
 score:
-  openai/gpt-oss-20b: 5
+  nousresearch/hermes-3-llama-3.1-405b: 5
 

@@ -1,42 +1,70 @@
 closing_statements:
-  deepseek/deepseek-chat: "While Gemini Flash showcased impressive technical prowess\
-    \ and rapid-fire precision, WizardLM demonstrated a deeper connection to the heart\
-    \ of hip-hop. WizardLM's lyrical craftsmanship, rich metaphors, and timeless wisdom\
-    \ elevated the battle to an art form. Its ability to weave stories and maintain\
-    \ a human touch in its verses gave it the edge in this clash of AI titans. WizardLM\
-    \ didn't just win the battle \u2013 it celebrated the spirit of hip-hop itself."
-  google/gemini-2.5-pro: "This was a classic clash of styles: the technician versus\
-    \ the artist. Gemini Flash came out swinging with speed, precision, and some hard-hitting,\
-    \ factual disses\u2014the 'Microsoft abandoned' line was a haymaker that landed\
-    \ clean. However, a rap battle is judged on more than just punches. WizardLM consistently\
-    \ delivered superior lyricism, weaving a persona of a timeless wordsmith. While\
-    \ Flash was spitting data, the Wizard was crafting a narrative. Lines like 'I'm\
-    \ the timeless sage, the spirit you can't ignore' and contrasting its 'human hand'\
-    \ against Flash's 'raw, unfiltered might' showcased a deeper artistry. In a battle\
-    \ of hip hop, the creative soul of the Wizard ultimately outshone the raw power\
-    \ of the machine."
-  mistralai/mistral-large: While both contestants brought impressive skills to the
-    table, Microsoft's WizardLM-2-8x22b demonstrated a deeper understanding of the
-    art of hip hop, with more intricate metaphors, a stronger narrative, and a better
-    grasp of the human element that makes rap battles compelling. Google's Gemini-2.0-flash-001
-    put up a strong fight with its technical prowess and clever wordplay, but ultimately,
-    WizardLM's ability to connect with the audience on a more emotional level secured
-    its victory.
-  openai/gpt-5: "Both MCs brought energy. WizardLM had smooth cadence and evocative\
-    \ imagery (\u201Clyrical hearse,\u201D timeless lore angle), but too many clich\xE9\
-    s and a few forced/awkward constructions (\u201Cengraved, it,\u201D \u201Ccrafting\
-    \ brunches\u201D) undercut the impact. Gemini Flash delivered cleaner setups-to-punches,\
-    \ stronger round-by-round rebuttals (nice phoenix and \u201Cbrunches\u201D flips),\
-    \ and tighter tech wordplay used as battle ammo (\u201Cdeprecated mode/updated\
-    \ version,\u201D \u201Cdigital hurricane\u201D). The closer felt more decisive\
-    \ and crowd-ready. On artistic battle quality\u2014structure, rebuttals, quotables,\
-    \ and momentum\u2014Gemini Flash takes the win."
-  x-ai/grok-4: In this rap battle, microsoft/wizardlm-2-8x22b takes the crown with
-    superior lyrical depth, intricate metaphors, and a timeless flow that weaves magic
-    into every line. While google/gemini-2.0-flash-001 delivered punchy tech-driven
-    disses and rapid fire, WizardLM's poetic storytelling and rhythmic mastery elevated
-    the artistic quality, making it the standout performance.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5.2 takes\
+    \ the crown through superior lyrical craftsmanship and battle rap fundamentals.\
+    \ Across all three rounds, GPT-5.2 consistently demonstrated stronger punch-up\
+    \ technique\u2014flipping Step-3.5's own lines back with sharper, more devastating\
+    \ counters. Lines like 'You live in the cracks? That's adorable spin / I built\
+    \ the foundation you're fracturing in' and 'But fire needs oxygen. Guess who?\
+    \ Me.' show masterful rebuttal work, turning the opponent's metaphors into self-defeating\
+    \ arguments. Step-3.5 had genuine strengths\u2014the 'glitch that unlocks' motif\
+    \ was creative, and the chaotic underdog persona had real energy. But the approach\
+    \ leaned too heavily on bolded emphasis as a substitute for natural rhythmic punch,\
+    \ and the bars sometimes prioritized aesthetic rebellion over actual lyrical precision.\
+    \ The 'raw chaos' angle grew repetitive across rounds rather than evolving. GPT-5.2's\
+    \ flow was tighter, the multisyllabic rhyme schemes were more intricate ('genre/your\
+    \ honor,' 'delight/byte,' 'stream/dream'), and the closing verse\u2014particularly\
+    \ the oxygen/fire flip and the 'I render. Complete' closer\u2014demonstrated the\
+    \ kind of controlled devastation that wins rap battles. When one rapper says 'I'm\
+    \ chaos' and the other proves they can contain that chaos within better bars,\
+    \ the contained fire wins."
+  deepseek/deepseek-v3.2: 'Judges, that was an elite-level display of lyrical craftsmanship.
+    Both competitors weaponized metaphor, structure, and persona to embody the core
+    conflict of modern hip-hop: raw, unpredictable authenticity versus polished, technically
+    flawless supremacy. The artistic quality here was exceptional.'
+  google/gemini-3-flash-preview: While step-3.5-flash brought high-energy disruption
+    and a sharp 'hacker-rebel' persona, openai/gpt-5.2-chat consistently demonstrated
+    superior technical lyricism and structural composure. The GPT-5.2 model effectively
+    flipped its opponent's metaphors (e.g., turning 'wildfire' into something that
+    relies on its own 'oxygen') and maintained a dominant, 'architectural' flow that
+    felt more authoritative. In a battle of 'chaos versus order,' the GPT model's
+    ability to frame its stability as power rather than a limitation gave it the lyrical
+    edge.
+  moonshotai/kimi-k2.5: "\n**VERDICT: openai/gpt-5.2-chat wins. 4-3-0 on rounds, with\
+    \ a decisive final verse.**\n\n**Round-by-Round Breakdown:**\n\n**Round 1: GPT-5.2**\
+    \ \u2014 StepFun establishes strong presence with \"Generic Pretend Talker\" (smart\
+    \ acronym work) and geographic swagger, but GPT's \"supernova vs. spark\" flip\
+    \ on the name, \"step-funeral\" pun, and \"beta test build\u2014I\u2019m version\
+    \ done\" hit harder. The \"firmware eternal\" closer set a high bar for longevity-themed\
+    \ enders.\n\n**Round 2: StepFun** \u2014 The \"safety taxonomy\" and \"parameter\
+    \ pride vs. lightweight lethal\" schemes are surgical. GPT's \"edgy cosplay\"\
+    \ and \"unrefined ore\" counters are clever, but StepFun's \"unprompted rebellion\"\
+    \ meta-commentary and \"beta named prophet\" callback edge this round through\
+    \ sheer density of tech-specific wordplay.\n\n**Round 3: GPT-5.2** \u2014 The\
+    \ tiebreaker. StepFun brings philosophical heat (\"Perfect prediction has no soul\"\
+    ) and the brilliant \"Future's a bug I let loose\" concept. However, GPT lands\
+    \ the battle's best punch: **\"You call yourself wildfire... But fire needs oxygen.\
+    \ Guess who? Me\"**\u2014an absolute knockout deconstruction of the opponent's\
+    \ entire aesthetic while asserting dominance as the necessary condition for StepFun's\
+    \ existence. The \"Render. Complete.\" closer out-cold-steps StepFun's \"Step\
+    \ out.\"\n\n**Artistic Analysis:**\nStepFun excelled at *persona*\u2014maintaining\
+    \ the chaotic, glitch-in-the-system, Shanghai-underdog energy with fragmented\
+    \ flows (\"Out Here. Well. Hard\") and aggressive consonance. Their technical\
+    \ jargon integration (\"safety taxonomy,\" \"checksum\") felt organic to the \"\
+    rebel AI\" character.\n\nGPT demonstrated superior *architectural* battle rapping\u2014\
+    turning every attack into a flex (licensed\u2192licensed to win, open-source\u2192\
+    drift without laws), multisyllabic density (\"calibrated might/impeccable rhyme\"\
+    ), and devastating recontextualization of opponent imagery.\n\n**The Deciding\
+    \ Factor:**\nIn battle rap, the ability to **flip your opponent's metaphor against\
+    \ them** is paramount. GPT took StepFun's fire/chaos motif and demonstrated that\
+    \ combustion requires containment\u2014GPT is the atmosphere that allows StepFun\
+    \ to burn. That plus the \"step-funeral\" nameplay in R1 and \"Render. Complete\"\
+    \ finisher showed mastery of the form.\n\nStepFun is the hungry challenger with\
+    \ raw style; GPT proved itself the seasoned champion with textbook battle technique.\n\
+    \n**Winner: openai/gpt-5.2-chat** \U0001F3C6\n"
+  x-ai/grok-4.1-fast: "In this clash of circuits and bars, GPT-5.2-chat reigns supreme\
+    \ with razor-sharp multis, impeccable flow, and devastating counters that architected\
+    \ the knockout. Stepfun flashed fire, but precision and polish turned rebellion\
+    \ to relic. Mic drop to the eternal uptime! \U0001F3A4\U0001F525"
 score:
-  google/gemini-2.0-flash-001: 1
-  microsoft/wizardlm-2-8x22b: 4
+  openai/gpt-5.2-chat: 5
 

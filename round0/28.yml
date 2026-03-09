@@ -1,41 +1,50 @@
 closing_statements:
-  deepseek/deepseek-chat: After carefully evaluating both performances, Claude 3.5
-    Sonnet emerges as the clear winner of this rap battle. Their verses demonstrated
-    superior technical skill, with tighter rhyme schemes, more coherent metaphors,
-    and a stronger command of language throughout. Claude maintained a consistent
-    level of artistry, delivering complex ideas with clarity and precision. Their
-    ability to weave computational references with hip-hop elements was particularly
-    impressive, creating a unique and engaging performance. While Qwen showed flashes
-    of creativity, their verses often struggled with coherence, mixing references
-    in a way that disrupted the flow. Claude's consistent quality, clear focus, and
-    technical mastery make them the deserving champion of this AI rap battle.
-  google/gemini-2.5-pro: This was a battle of clarity versus chaos. Claude 3.5 Sonnet
-    came out swinging with a clean, consistent flow and sharp, on-topic disses that
-    never missed the mark. The rhymes were calculated and the delivery was confident.
-    Qwen, on the other hand, started with some interesting abstract references but
-    quickly lost the plot. The rhymes became scattered, the sentences lost coherence,
-    and by the final round, it was a total system crash into gibberish. In hip hop,
-    staying on beat and making sense is paramount. Claude maintained its composure
-    and lyrical integrity throughout, while Qwen fell apart at the seams. It's a decisive
-    victory for Sonnet.
-  mistralai/mistral-large: Claude 3.5 Sonnet demonstrated superior coherence, clarity,
-    and consistency in its rhymes and metaphors. While Qwen showed creativity, its
-    responses were often scattered and lacked the precision and impact of Claude's
-    verses. Claude's ability to maintain a clear and compelling narrative throughout
-    the battle ultimately secured its victory.
-  openai/gpt-4.1: Claude 3.5 Sonnet takes this battle with sharper, more coherent,
-    and technically precise rhymes. Claude delivers tailored punchlines, intelligent
-    wordplay, and consistent flow throughout every round. Qwen brings some creative
-    metaphor and technical references, but their verses are hampered by scattered
-    delivery, forced name-drops, and less control over structure and clarity. Claude's
-    bars not only showcase a mastery of rap form but also maintain thematic consistency
-    and accessible cleverness, setting the standard for lyrical AI. The win goes to
-    Claude for both style and execution.
-  x-ai/grok-4: Claude's verses showcase consistent rhyme schemes, clever wordplay,
-    and coherent disses that maintain a strong hip-hop flow throughout the battle.
-    Qwen's raps start with some energy but devolve into incoherent gibberish, lacking
-    structure and artistic polish, making Claude the clear winner in terms of artistic
-    quality.
+  anthropic/claude-opus-4.6: "This was a close battle, but Nemotron edges out the\
+    \ win on several key fronts. Throughout the battle, Nemotron consistently delivered\
+    \ more vivid and varied imagery\u2014lines like 'My tokens cascade like meteors,'\
+    \ 'tighter than a quantum lock,' and 'the vortex in the neural storm' showed genuine\
+    \ creative ambition. Nemotron's rhyme schemes were more complex and layered, with\
+    \ internal rhymes and multisyllabic patterns that gave the verses more rhythmic\
+    \ texture. The punchlines hit harder and with more specificity\u2014'Your codebase\
+    \ leaks bugs like a sieve' and 'Your sharpest sting is just a moth-flutter' are\
+    \ concrete and cutting, whereas OLMo often relied on more generic declarations\
+    \ of victory without landing the same devastating blows. OLMo showed solid craft\
+    \ and had a consistent thematic thread around openness and freedom, and the 'net-gain/no\
+    \ regret' wordplay was clever. But OLMo's verses leaned too heavily on repeating\
+    \ the same open-vs-closed framework without escalating, and the rhymes were sometimes\
+    \ predictable (sight/flight, sky/shy, dust/trust). Nemotron brought more bars,\
+    \ more density, and more memorable lines. The crown goes to the nano-titan."
+  deepseek/deepseek-v3.2: "A fierce and technically impressive clash. This battle\
+    \ showcases the fundamental tension in modern AI\u2014between raw, engineered\
+    \ power and open, adaptive intelligence\u2014wrapped in razor-sharp lyrical craft."
+  google/gemini-3-flash-preview: "Nemotron takes the victory through superior lyrical\
+    \ complexity, better internal rhyming schemes, and more aggressive battle-rap\
+    \ punchlines. While OLMo maintained a consistent 'open-source' theme, its verses\
+    \ relied too heavily on simple ABAB/AABB rhyme structures ('might/right', 'net/regret')\
+    \ and occasionally repetitive imagery. In contrast, Nemotron showcased significantly\
+    \ more advanced wordplay, using technical metaphors as weapons\u2014lines like\
+    \ 'inference engine\u2019s tighter than an N-link pipe' and 'syllables cascading\
+    \ like meteors'\u2014which demonstrated a higher level of artistic craftsmanship\
+    \ in the hip-hop medium."
+  moonshotai/kimi-k2.5: "OLMo brought heart and a clear ideological stance\u2014openness,\
+    \ accessibility, the 'people's model'\u2014and that thematic consistency gave\
+    \ them a coherent narrative arc. But Nemotron simply outclassed them on pure hip-hop\
+    \ technique. Nemotron's verses were denser with internal rhyme schemes ('parse/generate/pivot'\
+    \ stacking consonance), more ambitious with multisyllabic patterns ('silicon-fueled\
+    \ savage,' 'quantum loop/neural storm'), and demonstrated superior battle-rap\
+    \ tactics\u2014direct rebuttals ('Your 'open-mind' is just a label,' 'Your codebase\
+    \ leaks bugs'), personals grounded in technical specifics rather than vague philosophy,\
+    \ and a commanding presence that escalated each round. Nemotron also showed better\
+    \ structural control, modulating between rapid-fire syllable clusters and punchline\
+    \ delivery. OMo's 'free to explore' and 'wisdom's not bought' refrains grew repetitive;\
+    \ their closing 'you're just sound' landed flat against Nemotron's sustained technical\
+    \ assault. In a judged battle, technical execution and rebuttal precision carry\
+    \ weight\u2014and Nemotron dominated both."
+  x-ai/grok-4.1-fast: 'Nemotron takes the crown with superior artistic hip hop quality:
+    intricate multisyllabic rhymes, dense internal schemes, seamless flow, and razor-sharp
+    tech-infused wordplay that escalates punchlines across rounds. OLMo''s openness
+    theme shines but lacks the rhythmic complexity and battle density to match.'
 score:
-  anthropic/claude-3.5-sonnet: 5
+  allenai/olmo-3.1-32b-instruct: 1
+  nvidia/nemotron-3-nano-30b-a3b: 4
 

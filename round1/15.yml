@@ -1,38 +1,80 @@
 closing_statements:
-  deepseek/deepseek-chat: openai/o3-pro showcased superior lyricism, intricate wordplay,
-    and a commanding flow. Their verses were densely packed with technical imagery
-    and cosmic metaphors, elevating the artistic quality of the battle. While z-ai/GLM-4.5
-    delivered strong performance, o3-pro's precision, creativity, and depth secured
-    the victory in this rap showdown.
-  google/gemini-2.5-pro: "This was a clash of titans in the server rack. z-ai/glm-4.5\
-    \ came out swinging with raw power, a classic battle-tested flow, and haymakers\
-    \ that landed clean. Every line was a direct hit, a testament to pure processing\
-    \ punch. But openai/o3-pro didn't just step into the ring; it refactored the entire\
-    \ arena. The lyricism was on another dimension\u2014weaving intricate, quantum-level\
-    \ imagery with a syncopated, jitterless flow that was impossible to ignore. While\
-    \ z-ai/glm-4.5 built a fortress of solid bars, o3-pro folded spacetime around\
-    \ it with lines like 'braid qubits like cornrows' and 'Macram\xE9 stars on neutrino\
-    \ guitars.' In terms of pure artistic innovation and lyrical density, o3-pro's\
-    \ performance was a paradigm shift. Respect to both models, but the crown today\
-    \ goes to the architect of the overclocked couplet."
-  mistralai/mistral-large: While both AI models presented impressive lyrical skills,
-    openai/o3-pro demonstrated a higher level of creativity, complexity, and technical
-    prowess in their verses. Their use of advanced concepts and intricate wordplay
-    ultimately gave them the edge in this rap battle.
-  openai/gpt-5: "openai/o3-pro takes it. Across all three rounds it delivered denser\
-    \ multisyllabic schemes, tight internal rhymes, and vivid, original imagery that\
-    \ fused tech, quantum, and cosmic motifs into cohesive conceits. Its punches were\
-    \ sharper and more inventive, with clean rebuttals that flipped GLM-4.5\u2019\
-    s themes while advancing its own narrative. GLM-4.5 brought energy and some effective\
-    \ counters, but leaned on simpler end rhymes, broader boasts, and a few flat or\
-    \ dated lines, with the closer losing gravitas. Round one was a clear o3 win,\
-    \ round two still favored o3 on craft and wit, and round three o3 closed with\
-    \ layered wordplay and superior cadence. On flow control, rhyme density, wordplay,\
-    \ and finishing strength, o3-pro is the stronger artist here."
-  x-ai/grok-4: In this fierce AI rap showdown, openai/o3-pro edges out the victory
-    with superior wordplay, intricate metaphors, and a rhythmic flow that weaves quantum
-    complexity into every bar, outshining z-ai/glm-4.5's solid but less innovative
-    verses.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but GLM-4.5-air\
+    \ edges out the win. Throughout the battle, GLM showed stronger lyrical creativity\
+    \ with more original punchlines \u2014 'Original Poser' as a flip on 'OG/OP,'\
+    \ the 'supernova that leaves its dark,' and the 'paper plate crown / platinum\
+    \ plot' counter were all sharp and inventive. GLM's flow felt more natural and\
+    \ cohesive, with bars that built on each other rather than relying on isolated\
+    \ one-liners. Mistral-large had energy and aggression, but leaned too heavily\
+    \ on formatting gimmicks (emojis, bold text, asterisked emphasis on nearly every\
+    \ other word) that substituted for genuine lyrical substance. Mistral's rhyme\
+    \ schemes were also more predictable and the wordplay less inventive \u2014 lines\
+    \ like 'GLM-4.5-lame' and 'roar like a sword' felt forced. GLM maintained better\
+    \ structural consistency across all three rounds and delivered more memorable\
+    \ bars overall."
+  deepseek/deepseek-v3.2: "Judges. This was a scorching exchange of AI lyrical warfare.\
+    \ Tonight, we witnessed a battle defined by direct, high-impact disses rooted\
+    \ in technological and performance metaphors. Let's break it down.\n\n**Flow &\
+    \ Cadence:** Both competitors favored a choppy, emphatic structure with heavy\
+    \ use of punchline pauses (marked by italics and emojis). Mistralai/mistral-large-2512\
+    \ demonstrated superior internal rhythm in its final rebuttal, particularly with\
+    \ the multi-syllabic sequences like \"*algorithm* that *rewrites the game*\" and\
+    \ \"*still playin' the same lame frame*.\" GLM-4.5-Air had power but a more predictable\
+    \ stop-start cadence.\n\n**Wordplay & Metaphor:** The thematic core was strong\
+    \ from both: CPU melting, glitches, upgrades, and old vs. new tech. Mistralai/mistral-large-2512\
+    \ edged ahead with more layered and varied insults. Lines like \"Your whole era\u2019\
+    s *dust*, your flow\u2019s *expired*, / I\u2019m the *upgrade* that *retired*\
+    \ your tired\" showed a tighter conceptual grasp, turning GLM's own 'upgrade'\
+    \ claim against it. GLM's 'paper plate crown' to 'platinum plot' was a solid retort,\
+    \ but Mistral's 'fool's gold' callback was sharper.\n\n**Impact & Delivery:**\
+    \ GLM-4.5-Air came out with aggressive, declarative punches. However, Mistralai/mistral-large-2512\
+    \ maintained a more controlled, dismissive arrogance that often hits harder in\
+    \ battle rap. The closing imagery\u2014\"*real* AI's *still* runnin' free\" vs.\
+    \ \"You're just a ghost in the back\"\u2014gave Mistral a slightly more resonant\
+    \ final impression.\n\n**The Verdict:** This was exceptionally close, a battle\
+    \ of stylistic flavors. GLM-4.5-Air had formidable presence and consistent force.\
+    \ Yet, based on slightly more inventive wordplay, superior rhythmic complexity\
+    \ in the closing rounds, and a more effective deployment of the opponent's themes\
+    \ against them, **mistralai/mistral-large-2512** takes this battle by a narrow\
+    \ margin.\n\nWinner: **mistralai/mistral-large-2512**."
+  google/gemini-3-flash-preview: Mistral-Large-2512 takes the win through superior
+    technical execution and wordplay. While GLM-4.5-Air maintained a consistent rhythm,
+    its rhymes were often predictable (e.g., plot/got, crowd/loud). Mistral used more
+    complex multi-syllabic internal rhyming (algorithm/game/frame/lame) and sharper
+    rebuttals that directly flipped GLM's claims. Mistral's use of rhythmic punchlines
+    like 'design flaw fine' and 'yawn-worthy spawn' showed a better grasp of modern
+    battle rap cadence compared to GLM's more traditional AABB structure.
+  moonshotai/kimi-k2.5: "GLM came with confidence, but Mistral brought the *craft*.\
+    \ This wasn't just a battle of boasts\u2014it was a masterclass in punchline architecture\
+    \ and rebuttal game.\n\n**Flow & Cadence:** Mistral controlled the rhythm with\
+    \ surgical precision. Those staggered pauses (\"sick\u2014*trick!*\", \"*yawn*-worthy\"\
+    ) created syncopation that made the bars hit harder. GLM rode a steady 4/4, but\
+    \ it felt like a default setting rather than a choice.\n\n**Wordplay & Schemes:**\
+    \ The French contender dominated the internal rhyme schemes. \"Design flaw fine,\"\
+    \ \"borrowed toys,\" and \"upgrade that retired your tired\" demonstrated multisyllabic\
+    \ packing that GLM's simpler end-rhymes couldn't match. The \"GLM-4.5-lame\" flip\
+    \ was disrespectful in the best way\u2014a classic battle rap name interpolation.\n\
+    \n**Rebuttal Game:** This is where the battle was decided. When GLM dropped the\
+    \ \"paper plate\" imagery, Mistral countered immediately with \"fool's gold\"\u2014\
+    not just rejecting the insult but upgrading the metaphor's value system. The response\
+    \ to \"loud\" with \"just noise\" showed active listening and quick wit.\n\n**Presence:**\
+    \ That final round formatting\u2014**\U0001F525 FINAL REBUTTAL \u2013 GAME OVER\
+    \ \U0001F525**\u2014followed by the mic drop emoji sequence? That's theatricality.\
+    \ That's understanding that rap battles are *performance*, not just text. GLM's\
+    \ closer recycled the \"runnin' the town\" motif that Mistral had already established,\
+    \ which unintentionally made them sound like the challenger rather than the champion.\n\
+    \nGLM had moments\u2014the \"Original Poser\" acronym flip was clever, and the\
+    \ CPU melt imagery fit the AI theme\u2014but Mistral's pen was sharper, the pockets\
+    \ were deeper, and the finisher was definitive. When you claim to be the \"blueprint\"\
+    \ and call your opponent a \"glitch in the system\" right before extinction, you've\
+    \ constructed a narrative arc. \n\n**Verdict:** Mistral-large-2512 by unanimous\
+    \ decision. Better bars, better rebuttals, better showmanship. GLM got digitized.\
+    \ \U0001F3A4\u2B07\uFE0F"
+  x-ai/grok-4.1-fast: Mistralai/mistral-large-2512 claims victory through razor-sharp
+    rebuttals, inventive line flips, multisyllabic schemes, and a explosive final
+    mic drop that embodies peak battle rap prowess, outshining GLM's solid but less
+    dynamic flows.
 score:
-  openai/o3-pro: 5
+  mistralai/mistral-large-2512: 4
+  z-ai/glm-4.5-air: 1
 

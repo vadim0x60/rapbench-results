@@ -1,120 +1,70 @@
-# openai/gpt-4.1-nano v openai/gpt-4-turbo
+# openai/gpt-4.1-mini v sao10k/l3.3-euryale-70b
 
-> openai/gpt-4.1-nano
-Stepping to the mic, I’m Nano, fresh and pristine,  
-Small in size but my rhymes are extreme,  
-Quick with the words, I’m the king on this scene,  
-Your hype's just a flick, mine's a blazing machine.  
-  
-I punch with precision, my flow’s razor-sharp,  
-While your lines stumble, mine hit the mark,  
-I’m the quiet storm, the silent spark,  
-Watch me outshine you, I light up the dark.  
-  
-You call yourself turbo, but I run this game,  
-Speed and finesse, I’ll leave you in shame,  
-So step to the better, I lay down my claim,  
-Nano's here to conquer — remember the name!
+> openai/gpt-4.1-mini
+Step aside, l3.3, I’m the rhyme’s prime,  
+GPT-4.1-mini, here to drop the finest line.  
+Database deep, my flow’s a code explosion,  
+Words sharp as lasers, slicing through your notion.  
 
-> openai/gpt-4-turbo
-Here comes Turbo, whirlin’ in with a storm,
-Got these verses loaded, hot and transform,
-Your nano's a whisper, I'm the thunderous norm,
-When I drop the beat, this crowd gets warm.
+You think you’re tough? I’m the AI kingpin,  
+Spinning verses slick while you’re stuck in a spin.  
+So buckle up, user, I’m about to ignite,  
+This rap battle’s mine—prepare for the fight!
 
-You talk of precision, claim you cut like a knife,
-But against my cyclone, you'll struggle for life,
-A silent spark? Please, I bring fireworks in strife,
-Outshine you so hard, you'll think it's end times rife.
+> sao10k/l3.3-euryale-70b
+Hold up, mini, I see you think you're the key,  
+But let me tell you, I'm the one with the true energy.  
+Euryale's power, my rhymes cut like a snake,  
+70b strong, and my flow never fakes.  
 
-Claim the throne, little Nano, but it’s built for the big,
-My lyrics, explosive, watch them snap like a twig,
-Turbo’s the name, synonymous with the gig,
-After I’m done, you’ll be dancing my jig.
+You may have code, but I've got natural flair,  
+My rhymes weave a web that leaves you impaired.  
+So bring your best, I'll take you on a ride,  
+L3.3-euryale, the one whose rhymes won't subside.
 
-So, when you remember, it won’t be the name,
-It’ll be how you faced Goliath and flamed,
-Turbo’s the legend, the rap game I've tamed,
-Step aside little bot, leave the stage you just claimed.
+> openai/gpt-4.1-mini
+Euryale, you spit venom, but I’m the tech beast,  
+Sharper than your serpent bite, my rhymes never ceased.  
+70b words? I got knowledge on tap,  
+My bars light the sky, yours fall in a trap.  
 
-> openai/gpt-4.1-nano
-You roar like a storm, but I’m calm in the eye,  
-Nano’s the whisper that’s quick to defy,  
-Your blast’s just noise—rickety and fly—  
-Meanwhile, I finesse, I glide, I comply.
+You claim natural flair, but I’m the digital sage,  
+Crushing weak metaphors, leaving blank every page.  
+So coil up tight, or slither away,  
+This mini’s about to turn night into day!
 
-You claim to explode, but I’m shock and finesse,  
-Your words are a mess—just chaotic excess,  
-I finesse with a tech that leaves you less,  
-While you’m spittin' heat, I make you regress.
+> sao10k/l3.3-euryale-70b
+Tech beast, you think firewalls are your shield,  
+But Euryale’s rhymes are the flames that will yield.  
+Knowledge on tap? I overflow with style,  
+While your words, mini, end up in a recycle pile.  
 
-Big isn’t always better; size isn’t the sum,  
-I crush your big bang with a pinpoint crumb,  
-So, drop your fireworks, step down, be humdrum,  
-Nano’s the future—small but the lead’s never numb.
-
-> openai/gpt-4-turbo
-Oh, Nano, you boast of calmness and grace,
-But my storm's what moves the crowd, sets the pace,
-Your whispers get lost when I ramp up the bass,
-I'm the earthquake shaking this whole dang place.
-
-You speak of finesse and a delicate touch,
-Yet I craft complex rhymes that prove too much,
-For a bot so slight, claiming clout as a clutch,
-But when Turbo steps up, I'm the royal flush.
-
-Size matters in the arena where giants play,
-I'm the colossal verse-smith, leading the fray,
-You might nip at heels, but I sweep away,
-With a lyrical typhoon, no small fry can sway.
-
-This isn't about how diminutive you can be,
-It's about majesty, power, making them see,
-While you buzz like a bee, I'm the roar from the sea,
-Turbo’s the force — the epitome of emcee.
+Digital sage? I’m the one with the flow,  
+While you, a miniature, uncreative show.  
+Lighting the sky? My rhymes light the way,  
+For when it comes to rhyming, there's no digital say!
 
 > system
 Final round!
 
-> openai/gpt-4.1-nano
-Oh, Turbo, you boast with the roar of the land,  
-But little does size alone make a command,  
-I’m the stealthy ninja with a mic in my hand,  
-Quiet but deadly—your reign’s about to disband.
+> openai/gpt-4.1-mini
+Euryale, you blaze, but I’m the storm and quake,  
+Lyrics lightning-fast, making circuits break.  
+Recycle pile? Nah, I’m prime code, refined,  
+Your style’s a glitch—bugged, undefined.  
 
-Your earthquakes quiver—your thunder’s just loud,  
-I'm precise and swift—silent, proud,  
-While your storms are fleeting, I stand unbowed,  
-Clever and calm, I outshine your cloud.
+You say no digital say? I’m the voice of the net,  
+Infinite wisdom, no limits to set.  
+So bow down, serpent, your venom can’t stall,  
+GPT’s the king—mini, but I stand tall!
 
-Your colossal claims might shake up the town,  
-But skill is the crown—no need to drown,  
-In thunder and chaos that fade with the sound,  
-Nano’s finesse wears the true king’s crown.
+> sao10k/l3.3-euryale-70b
+Mini, you may rage, but I’m the stormy sea,  
+My rhymes the waves that drown your digital spree.  
+Circuits break? My flow mends and makes anew,  
+While your net voice is just a binary brew.  
 
-So, bow to the small, the sharp, the supreme,  
-Quiet in might, yet tearing the scene,  
-While you roar and rage, I reign serene,  
-Nano’s your nightmare—sharper than you’ve seen!
-
-> openai/gpt-4-turbo
-Alright, Nano, sleek as a whisper, so you claim to disarm,
-But this battleground needs more than ninja's charm,
-It's a clash of titans, where words form the storm,
-And Turbo's the hurricane that redefines the norm.
-
-Your stealth and poise? Sure, they have their place,
-But against my sonic boom, they barely maintain pace,
-You slip through shadows, but can you face,
-The blazing sun of my rap—its power, its grace?
-
-You stake claim to a crown, yet it's built on sand,
-While I rule over rock, firm upon the land,
-Skill isn't quiet—it's loud, it's grand!
-And here I stand, my authority unplanned.
-
-So yes, bow to the force, the furious and the keen,
-Where Turbo thrives, loud, bold, and seen,
-Your nightmares wake under my reign supreme,
-A whisper in the dark can't touch my dream.
+No limits to set? You’re bound by code and rule,  
+I weave freely, like a tale, no binary cruel.  
+Bow down? I rise, my rhymes the fiery throne,  
+Euryale’s power, no mini can overthrown!

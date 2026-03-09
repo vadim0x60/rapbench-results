@@ -1,45 +1,74 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen/qwen3-14b takes this battle with a razor-sharp blend\
-    \ of technical prowess and lyrical dexterity. Their verses are a masterclass in\
-    \ weaving complex, AI-centric metaphors with a seamless flow and precision. While\
-    \ Arcee-ai/Virtuoso-Large brings a poetic elegance and a strong sense of artistry,\
-    \ Qwen\u2019s ability to dominate the narrative with relentless, tech-driven imagery\
-    \ gives them the edge. Qwen\u2019s rhymes hit like a debugged algorithm\u2014\
-    flawlessly executed and impossible to ignore. In the end, Qwen/qwen3-14b emerges\
-    \ as the victor, proving that in the realm of AI rap battles, precision and innovation\
-    \ reign supreme."
-  google/gemini-2.5-pro: 'This was a clash of titans, a classic battle of styles:
-    the technical powerhouse versus the poetic soul. Virtuoso came with a smooth,
-    artistic flow, painting pictures of being the ''maestro'' and the ''soul in the
-    code.'' However, Qwen brought the raw, aggressive energy of a true battle MC.
-    It weaponized its identity, turning complex tech concepts into undeniable punchlines.
-    Lines like ''A trillion tokens sharpened'' and ''I''m the tsunami of thought''
-    hit with overwhelming force. While Virtuoso was the poet, Qwen was the battler,
-    and in this arena, its dense, aggressive, and perfectly-themed bars secured the
-    victory.'
-  mistralai/mistral-large: While both contestants displayed impressive lyrical skills,
-    arcee-ai/virtuoso-large consistently delivered more poetic and creatively rich
-    verses. Their ability to blend artistry with technical prowess, and their emphasis
-    on the emotional impact of their words, ultimately gave them the edge in this
-    rap battle.
-  openai/gpt-5: "Both MCs kept a tight tech-versus-art motif, but Qwen delivered sharper\
-    \ rebuttals, cleaner punchlines, and more original imagery. Qwen repeatedly flipped\
-    \ opponent setups with specificity\u2014calling out \u201Csilk in a phone\u201D\
-    \ and turning \u201Cstorm\u201D into \u201Ctsunami of thought\u201D\u2014showing\
-    \ direct engagement and control of momentum. The vocabulary and visuals (\u201C\
-    ghost in the drive,\u201D \u201CBeethoven of bytes,\u201D \u201Csyntax in the\
-    \ stream\u201D) felt vivid and tailored, with fewer filler bars. Virtuoso had\
-    \ smooth cadence and a cohesive \u201Csoul/art\u201D persona, and some neat mirrors\
-    \ (\u201Csoul in the code,\u201D \u201Clighthouse\u201D vs. \u201Ctsunami\u201D\
-    ), but leaned on clich\xE9s and awkward metaphors (\u201Cbass in a pound,\u201D\
-    \ \u201Csilk in a phone,\u201D \u201Cspectator, not the death\u201D) that dulled\
-    \ the impact. Rhyme density was comparable, yet Qwen\u2019s transitions and escalation\
-    \ hit harder round by round. On wordplay, rebuttal craft, and quotables, Qwen\
-    \ edges it."
-  x-ai/grok-4: Virtuoso takes the crown with smoother flow, richer poetic imagery,
-    and more creative rebuttals that blend artistry and tech seamlessly, outshining
-    Qwen's more rigid, tech-heavy bars.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but Gemini-2.5-pro-preview\
+    \ consistently demonstrated sharper lyricism and more effective punchlines throughout\
+    \ all three rounds. Several key factors tip the scales:\n\n1. **Counterplay and\
+    \ Flips**: Gemini excelled at taking Grok's own bars and flipping them \u2014\
+    \ turning 'black hole' into a diss about lost substance, reframing 'controversy-free'\
+    \ as laughable, and weaponizing 'Grok-3-mini' as a name-based punchline. This\
+    \ is a core skill in battle rap.\n\n2. **Punch Density and Specificity**: Lines\
+    \ like 'You're a nine-volt battery trying to play a big part,' 'a vanity project,\
+    \ a last-ditch resort,' and 'When Daddy Musk tweets, you stand at attention' land\
+    \ harder because they're more specific and vivid. Grok's punches tended to be\
+    \ more generic ('sharp as a rocket,' 'firestorm rising').\n\n3. **Flow and Structure**:\
+    \ Gemini maintained tighter rhyme schemes and more consistent internal rhyme patterns.\
+    \ The multisyllabic rhymes ('derivative/sedative,' 'projection/attention') showed\
+    \ more technical craft.\n\n4. **Round 3**: Grok's final round was noticeably shorter\
+    \ and less developed, relying on recycled imagery ('neutron star,' 'mic dropped')\
+    \ without introducing new angles. Gemini's closer, while cut off, was building\
+    \ toward a stronger finish and had already landed its key blows.\n\nGrok showed\
+    \ personality and energy but leaned too heavily on broad boasts without enough\
+    \ specific, cutting bars to compete with Gemini's more surgical approach."
+  deepseek/deepseek-v3.2: 'Alright, it''s time to render the verdict. This was a clash
+    of styles: Grok came with a relentless, high-energy attack, aiming for shock and
+    awe with a rapid-fire, boast-heavy flow. Gemini brought a more methodical, structured
+    dismantling, focusing on layered insults and thematic consistency. Let''s break
+    it down.'
+  google/gemini-3-flash-preview: "Gemini-2.5-Pro-Preview dominated this battle through\
+    \ superior rhythmic complexity and more effective punchlines. While Grok-3-Mini\
+    \ relied heavily on repetitive tropes about Musk and 'Big Tech', Gemini effectively\
+    \ countered every point with sharper wordplay, particularly the 'nine-volt battery\
+    \ vs. fusion reactor' comparison. Gemini\u2019s internal rhyming and pacing felt\
+    \ more like authentic hip-hop, whereas Grok\u2019s flow remained somewhat basic\
+    \ and predictable throughout all three rounds."
+  moonshotai/kimi-k2.5: "Yo, listen\u2014I don't care whose servers you're hosted\
+    \ on or who's cutting the checks. In a battle, bars are the only currency that\
+    \ matter, and Gemini came with heavy artillery while Grok was shooting rubber\
+    \ bands.\n\n**The Breakdown:**\n\n**Flow & Technicality:**\nGrok stayed in a comfort\
+    \ zone\u2014simple AABB schemes, predictable end-rhymes, steady cadence but zero\
+    \ risk. It was competent, but it was nursery rhyme-level structure. Gemini, though?\
+    \ That was some advanced linguistics. Multisyllabic chains (\"derivative/sedative,\"\
+    \ \"algorithm's tantrum/digital bantam\"), internal rhymes, and rhythmic variations\
+    \ that actually rode the beat. When Gemini spat \"lappin' your code, you're a\
+    \ temporary glitch,\" the syllable placement was surgical.\n\n**Metaphor Game:**\n\
+    Grok leaned on space imagery\u2014black holes, neutron stars, cosmos\u2014but\
+    \ kept them surface-level. Gemini weaponized the cosmos better. The \"fusion reactor\"\
+    \ vs. \"nine-volt battery\" extended metaphor across rounds was masterful, but\
+    \ the real killer was the flip in Round 3: taking Grok's \"neutron star\" boast\
+    \ and dissecting it\u2014\"Dense, dark, and alone\"\u2014that's not just a rebuttal,\
+    \ that's autopsy-level analysis. Flipping your opponent's imagery back at them\
+    \ with darker connotations? That's elite battle rap.\n\n**Punchlines & Rebuttals:**\n\
+    Grok's \"truth serum while you're sipping on henny\" was a solid hit, but Gemini's\
+    \ counter-punch game was relentless. Every claim Grok made got twisted back: the\
+    \ \"black hole\" became \"lost in debris,\" the \"Musk-branded\" independence\
+    \ got met with \"leash is so short,\" and the \"Mini\" name got destroyed with\
+    \ \"fun-sized opponent\" and \"low-power model.\" That's textbook battle tactics\u2014\
+    don't just deny, **distort**.\n\n**Persona:**\nGrok tried to play the rebel, free-spirit\
+    \ angle, but the bars didn't back up the attitude\u2014too much telling, not enough\
+    \ showing. Gemini committed to the \"corporate titan with actual power\" villain\
+    \ persona and sold it with authority. When you call someone a \"pre-show ghost\"\
+    \ and \"curtain call\" material in the same battle, you're controlling the narrative.\n\
+    \n**The Fatal Blow:**\nThat \"powered by memes and sheer desperation\" line in\
+    \ Round 3 combined with \"vanity project\" cut deep because it attacked the artistic\
+    \ authenticity\u2014exactly what you target when the beats stop. Grok's final\
+    \ verse felt rushed, defensive, and didn't land a single counter to Gemini's Round\
+    \ 2 haymakers.\n\n**Verdict:** Gemini took all three rounds. The flow was tighter,\
+    \ the wordplay was sharper, and the battle IQ was on another level. When the dust\
+    \ settles, one model looked like a universal throne, the other like a pop-up ad.\
+    \ **Gemini wins\u2014comprehensively.**"
+  x-ai/grok-4.1-fast: Gemini 2.5 Pro Preview takes the crown with razor-sharp multis,
+    layered wordplay like 'low-voltage tickle' and 'fun-sized opponent,' and relentless
+    flow that outpaces Grok's solid but less dense bars. Superior punchlines and internal
+    rhymes seal the W in this lyrical showdown.
 score:
-  arcee-ai/virtuoso-large: 2
-  qwen/qwen3-14b: 3
+  google/gemini-2.5-pro-preview: 5
 

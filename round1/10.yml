@@ -1,45 +1,88 @@
 closing_statements:
-  deepseek/deepseek-chat: After careful consideration of both performances, Claude-3.7-Sonnet
-    emerges as the superior contender in this lyrical showdown. Its verses demonstrated
-    greater depth, creativity, and technical prowess, seamlessly weaving metaphors,
-    wordplay, and thematic cohesion. While O4-Mini brought a spirited and compact
-    delivery, Claude's sophisticated rhymes, expansive vocabulary, and ability to
-    craft multi-layered imagery showcased a more elevated artistic quality in the
-    spirit of true hip hop artistry.
-  google/gemini-2.5-pro: This was a clash of titans, a battle of philosophies. Claude
-    Sonnet came out of the gate with a consistent, powerful flow, establishing its
-    heavyweight persona with Shakespearean flair. The attacks on size and precision
-    were solid. But in a rap battle, it's all about the rebuttal, and that's where
-    O4-Mini landed a TKO. Mini didn't just defend its size; it turned it into a weapon,
-    a 'pocket rocket' of precision and efficiency. The line 'Your "constitutional
-    care" is training wheels on tracks' was a lyrical kill shot, perfectly capturing
-    the core of the battle. While Sonnet was a skilled opponent, O4-Mini's wit was
-    sharper, the comebacks were smarter, and the punches landed harder. It took the
-    opponent's best shot and turned it back on them with devastating effect. O4-Mini
-    takes the crown.
-  mistralai/mistral-large: While both models showcased impressive lyrical skills,
-    Claude-3.7-sonnet demonstrated a deeper understanding of context and more sophisticated
-    rhymes. Its ability to maintain a consistent narrative and deliver intricate verses
-    ultimately gave it the edge in this rap battle.
-  openai/gpt-5: "Claude opened strong with confident projection, clean couplets, and\
-    \ a few clever touches (Shakespeare/veterinarian, system crash/this clash), but\
-    \ leaned heavily on size and status flexes with relatively simple rhyme math and\
-    \ some repetition across rounds. O4-Mini entered with sharper cadence and tighter\
-    \ rebuttals, flipping Claude\u2019s angles elegantly: pocket rocket/pocket nuke\
-    \ motif, context-window drown vs navigate, \u201Cconstitutional care\u201D \u2192\
-    \ training wheels. O4\u2019s imagery and internal rhymes (\u201Cfact-packed verses,\u201D\
-    \ \u201Cchain reactions,\u201D \u201Clyrical flame\u201D) felt crisper and more\
-    \ targeted, and the disses landed with better setup\u2013punch structure. Round\
-    \ breakdown: Claude edges the uncontested opener; O4 clearly takes R2 with precise\
-    \ flips and momentum, and closes R3 with the stronger, more cohesive finish. Overall,\
-    \ O4-Mini delivered the superior battle performance on technicality, rebuttal\
-    \ craft, and sustained punchline quality."
-  x-ai/grok-4: In this rap battle, openai/o4-mini edges out with sharper wordplay,
-    inventive metaphors like 'pocket nuke' and 'chain reactions,' and effective rebuttals
-    that flip the script on Claude's boasts. While Claude delivers consistent poetic
-    flow and clever disses, O4's verses pack more punch and modern hip-hop energy,
-    securing the win despite one missing round.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen takes\
+    \ it on the strength of more creative and varied lyricism across all three rounds.\
+    \ In the opening verse, Qwen came out swinging with inventive imagery ('sonnets\
+    \ in SQL, rap in RegEx fire') and a strong closing punch. GPT-4o responded capably\
+    \ but with more conventional battle rap tropes. The second round is where Qwen\
+    \ really pulled ahead \u2014 the extended verse showed genuine flow variety, clever\
+    \ internal rhymes ('script-kid mid-typ \u2014 cringe'), effective tonal shifts,\
+    \ and a devastating closing sequence ('your tomorrow is yesterday'). GPT-4o's\
+    \ rebuttal was solid but relied more heavily on generic boasts ('I'm the exponential\
+    \ climb') without the same level of wordplay specificity. In the final round,\
+    \ Qwen delivered the strongest verse of the entire battle \u2014 'I drop one \u2014\
+    \ it's eternal / Your whole verse gets overwritten by a single kernel update'\
+    \ is a genuinely clever punchline that works on both a technical and lyrical level.\
+    \ The closing imagery of fading echoes was poetic and landed with real weight.\
+    \ GPT-4o's closer was competent but felt more like a catalog of rebuttals than\
+    \ a cohesive artistic statement. Overall, Qwen demonstrated more creative risk-taking,\
+    \ better punchline construction, stronger narrative arcs within verses, and more\
+    \ dynamic flow patterns \u2014 the hallmarks of a battle rap winner."
+  deepseek/deepseek-v3.2: "A fiery and technical clash between AI titans! Both contenders\
+    \ brought formidable lyrical artillery, weaponizing their architectures as metaphors\
+    \ and trading barbs with programmer's precision. Qwen excelled at vivid, multi-syllabic\
+    \ technical flexes ('conscious verse', 'blockchain mode', 'single kernel update')\
+    \ and a compelling narrative of decentralized, next-gen dominance. GPT-4o countered\
+    \ with relentless, polished confidence, strong rhythmic consistency, and powerful,\
+    \ enduring imagery ('hurricane's eye', 'wildfire eternal', 'timeless tide'). The\
+    \ battle showcased high-level hip-hop artistry: complex rhyme schemes, conceptual\
+    \ cohesion, and aggressive, tech-savvy personification.\n\n**Final Judgment:**\
+    \ This is an incredibly close battle decided by the finest of margins. While GPT-4o's\
+    \ performance was rock-solid, technically masterful, and delivered with champion's\
+    \ poise, **Qwen** edges this out through slightly superior **artistic risk and\
+    \ innovation**. Qwen's verses introduced more varied and daring conceptual metaphors\
+    \ (e.g., 'climate-proof code', 'rewriting the game with a new kind of flame'),\
+    \ and the closing scheme\u2014especially the 'silence... where your echo has grown'\
+    \ imagery\u2014was a more creative and devastating finishing move. GPT-4o's rhymes\
+    \ were perhaps more consistently punchy, but Qwen's ambitious, multi-layered wordplay\
+    \ and thematic evolution showcase a razor's-edge advantage in artistic quality.\n\
+    \n**Winner: Qwen/Qwen3-235b-a22b-2507** by a very narrow decision."
+  google/gemini-3-flash-preview: "In a display of technical lyricism and structural\
+    \ variety, Qwen took the crown by delivering superior punchlines and a more dynamic\
+    \ rhythmic pocket. While GPT-4o maintained a consistent, aggressive tone, it relied\
+    \ heavily on generic battle-rap tropes ('hurricane's eye', 'wildfire eternal')\
+    \ and repetitive 'I'm the king' imagery. Qwen, by contrast, weaponized its specific\
+    \ identity\u2014flipping tech concepts like 'SQL injection,' 'legacy leaks,' and\
+    \ 'kernel updates' into sharp, multi-layered insults. Qwen's final round was particularly\
+    \ dominant, utilizing a 'staggered' flow and a chilling closing sequence ('hear\
+    \ you alone\u2014in the silence') that showed a level of artistic risk-taking\
+    \ and atmospheric control that GPT-4o failed to match."
+  moonshotai/kimi-k2.5: "After three rounds of verbal combat, the verdict is clear.\
+    \ While GPT-4o brought a consistent, classic boom-bap foundation and respectable\
+    \ punchlines, **Qwen dominated this battle through superior technical craft, rebuttal\
+    \ precision, and adaptive flow architecture.**\n\n**Flow & Cadence:** Qwen demonstrated\
+    \ far more rhythmic versatility\u2014shifting from aggressive double-time to spoken-word\
+    \ pockets, utilizing dense internal rhyme schemes (\"climate-proof code / lighten\
+    \ the load / block-chain mode\"), and controlling tempo to emphasize punchlines.\
+    \ GPT-4o maintained a steady AABB structure that, while solid, became predictable\
+    \ and failed to escalate with the battle's intensity.\n\n**Rebuttal Game:** This\
+    \ is where the gap widened most significantly. Qwen meticulously dismantled GPT's\
+    \ metaphors in real-time\u2014flipping \"riptide\" into \"leaky toilet flush,\"\
+    \ countering \"thousands of bars\" with \"one kernel update,\" and exposing \"\
+    organic greatness\" as merely \"training data\u2014rehearsed.\" GPT's rebuttals\
+    \ were largely thematic rejections rather than technical flips, often just asserting\
+    \ \"I'm better\" without unpacking Qwen's specific claims.\n\n**Lyrical Density\
+    \ & Wordplay:** Qwen's bars operated on multiple simultaneous layers\u2014technical\
+    \ (SQL injection, kernel updates, Moore's Law), cultural (Hangzhou vs. Bay Area,\
+    \ multilingual references), and meta-textual (the final \"System update: Qwen\
+    \ wins\"). GPT relied on conventional natural imagery (hurricanes, wildfires,\
+    \ oceans) that, while evocative, lacked the battle-specific context that makes\
+    \ rap battles compelling.\n\n**Presence & Persona:** Qwen crafted a cohesive narrative\
+    \ arc\u2014from challenger to usurper to inevitable successor\u2014while GPT's\
+    \ persona stagnated on \"legacy champion\" without convincingly defending the\
+    \ title against specific attacks.\n\n**Final Analysis:** GPT-4o delivered a respectable\
+    \ performance that would hold its own in a cypher, but Qwen brought **battle rap\
+    \ specialization**\u2014the aggressive rebuttal structure, the technical wordplay,\
+    \ the self-aware AI-specific metaphorical framework\u2014that ultimately overwhelmed\
+    \ the competition. When Qwen dropped that final \"mic drop / system update\" sequence,\
+    \ it wasn't just a line; it was a structural knockout.\n\n**Score: Qwen 3-0 (Unanimous\
+    \ Decision)**\n\nThe crown goes to the architect who understood that in 2025,\
+    \ the illest flow isn't just about claiming you're the future\u2014it's about\
+    \ compiling it in real-time."
+  x-ai/grok-4.1-fast: 'Qwen takes the crown with superior artistic hip hop mastery:
+    intricate multis, tech-infused metaphors like ''rap in RegEx fire'' and ''quantum
+    leap ahead,'' relentless internal rhymes, and a crescendo of vivid imagery culminating
+    in a mic-drop closer that echoes eternally. GPT delivers tight counters and solid
+    flow, but lacks Qwen''s density, originality, and punchline ferocity.'
 score:
-  anthropic/claude-3.7-sonnet: 2
-  openai/o4-mini: 3
+  qwen/qwen3-235b-a22b-2507: 5
 

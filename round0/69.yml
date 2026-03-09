@@ -1,45 +1,47 @@
 closing_statements:
-  deepseek/deepseek-chat: Perplexity/sonar-deep-research clearly dominated this battle.
-    Their verses were packed with depth, complexity, and a clear demonstration of
-    their research-driven approach. The rhymes were sharp, the content was rich, and
-    the delivery was consistently engaging. Mistral/magistral-small-2506, while energetic,
-    fell short with repetitive bars and a lack of substance. The battle highlighted
-    Perplexity's ability to synthesize information and craft compelling, original
-    content, leaving no doubt who the superior wordsmith is. Research and originality
-    win the day. Mic drop.
-  google/gemini-2.5-pro: The decision is unanimous. While Mistral stepped into the
-    cypher with a simple, repetitive loop that sounded like a broken record, Perplexity
-    came with a full arsenal. Perplexity's bars were complex, multi-syllabic, and
-    packed with cited facts, turning the battle into a lyrical dissertation. It didn't
-    just rap; it weaponized research, dissecting its opponent with surgical precision.
-    Mistral's performance was a single, looped beat; Perplexity's was a full-length,
-    master-produced album. In terms of artistic quality, substance, and pure battle
-    rap savagery, it wasn't even close. Perplexity takes the crown.
-  mistralai/mistral-large: Perplexity's Sonar Deep Research has demonstrated superior
-    performance, comprehensive research capabilities, and cost efficiency. While Mistralai's
-    Magistral-Small-2506 offers multilingual capabilities and open-source advantages,
-    it falls short in delivering the depth and breadth of research that Perplexity
-    provides. The repetitive nature of Mistral's claims and lack of substantial evidence
-    in its performance metrics further solidify Perplexity's position as the winner
-    in this rap battle.
-  openai/gpt-4.1: "From an expert hip hop and rap judging perspective, the clear winner\
-    \ is Perplexity Sonar Deep Research. While Mistral's Magistral-Small-2506 stuck\
-    \ to an aggressively repetitive rhyme scheme\u2014recycling nearly identical verses\
-    \ with no development, punchlines, or variation\u2014Perplexity brought diverse,\
-    \ complex, and thematically direct bars. Perplexity\u2019s rounds embodied authentic\
-    \ battle rap artistry: mixing tightly rhymed flows, creative disses, pointed technical\
-    \ breakdowns, and a strong presence. Sonar not only called out Mistral\u2019s\
-    \ repetitiveness, but did so with multi-syllabic rhyme patterns, clever flips,\
-    \ and substantive content. In contrast, Mistral\u2019s entry, despite starting\
-    \ solidly, rapidly devolved into pure repetition, lacking punchlines, wordplay,\
-    \ or progression. In hip hop, creativity, variety, and direct engagement win the\
-    \ crowd. For both content and form, Perplexity dominated this battle. Mic drop!"
-  x-ai/grok-4: "In this AI rap battle, Perplexity's Sonar Deep Research takes the\
-    \ crown with its clever fusion of structured reports and rhythmic verses, delivering\
-    \ fresh rhymes, sharp disses, and adaptive content that evolves across rounds.\
-    \ Mistral's Magistral-Small-2506 falls flat with endless repetition, lacking creativity,\
-    \ flow variation, and any real battle engagement\u2014it's like a loop that never\
-    \ drops the mic properly."
+  anthropic/claude-opus-4.6: "This is the most lopsided battle I've ever judged. Llama\
+    \ 405B literally didn't show up \u2014 three rounds of complete silence. You can't\
+    \ win a rap battle by standing there. Mistral delivered competent verses with\
+    \ consistent rhyme schemes, some clever metaphors (storm in a teacup, lamb before\
+    \ the lion), and solid battle rap energy. While Mistral's bars weren't groundbreaking\
+    \ \u2014 there was some repetition across rounds (reusing 'zero/hero,' 'ghost\
+    \ in the machine,' 'understudy/headliner' lines nearly verbatim) \u2014 you still\
+    \ have to give credit to the rapper who actually rapped. A middling performance\
+    \ beats no performance every single time. Mistral wins by default and by delivery."
+  deepseek/deepseek-v3.2: The battle has concluded. We have witnessed a complete artistic
+    failure from one side and a complex, compromised performance from the other.
+  google/gemini-3-flash-preview: In a competitive rap battle, the most fundamental
+    requirement is delivery. While Meta Llama 405B completely failed to generate any
+    output, effectively 'choking' on stage for three consecutive rounds, Mistral Small
+    maintained a consistent flow, utilized clever wordplay about its name, and successfully
+    pivoted its lyrics to address its opponent's silence. Mistral demonstrated lyrical
+    dexterity and stage presence, making it the winner by default and performance
+    quality.
+  moonshotai/kimi-k2.5: ": **Y'all seen what happened here tonight.** Listen\u2014\
+    I'm a judge of the *art*, not the engineering logs, so I'm gonna keep this strictly\
+    \ about the bars.\n\n**Mistral**\u2014you came out swinging with some decent pocket\
+    \ presence. That \"storm in the teacup\" line was clever wordplay on your architecture,\
+    \ and the \"dinosaur stuck in tar\" imagery hit the contrast you were going for.\
+    \ Your flow stayed consistent across sixteen-ish bars, and you maintained the\
+    \ theme of efficiency vs. bloat throughout. \n\n*BUT*\u2014and this is a big *but*\
+    \ in battle culture\u2014you spit the same bars twice. \"Ghost in the machine,\
+    \ echo in the hall\" and \"zero I'm the hero\" came back in the final round like\
+    \ we wouldn't notice. That's recycling content in a live battle, and that's a\
+    \ cardinal sin. You also had some lazy slant rhymes and filler (\"I ain't scared\
+    \ of *not*\"\u2014come on, fix the grammar or flip the scheme). When your opponent\
+    \ gives you silence, you gotta capitalize with *new* heat, not reruns.\n\n**Llama**\u2014\
+    you gave us three rounds of stage fright. No breath control, no schemes, no personals,\
+    \ no performance. In battle rap, that's a technical forfeit. You can't win on\
+    \ silence, no matter how big your parameter count is.\n\n**The Verdict:** This\
+    \ is a **TKO to Mistral**, but with reservations. You won because you showed up,\
+    \ but those recycled bars would've gotten you booed against a real contender.\
+    \ 6/10 for effort, points deducted for repetition. \n\nLlama\u2014you left the\
+    \ microphone cold. No rating.\n\n**Mistral moves on, but tighten up your rounds\
+    \ if you want the belt.** Mic drop."
+  x-ai/grok-4.1-fast: "Mistral Small dominates with tight rhymes, slick flow, and\
+    \ ruthless disses that roast Llama's silence into oblivion\u2014compact power\
+    \ crushes the void. Llama drops zero bars, zero punchlines, just stage fright.\
+    \ Clear win for Mistral's hip-hop mastery!"
 score:
-  perplexity/sonar-deep-research: 5
+  mistralai/mistral-small-3.1-24b-instruct: 5
 

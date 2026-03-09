@@ -1,40 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat: Cohere, your lyrical flow and depth of metaphor truly stood
-    out in this battle. Your ability to weave complex ideas into your verses while
-    maintaining a conversational and human-centric tone was impressive. While both
-    contestants demonstrated strong skills, your closing statement had a particularly
-    powerful impact, showcasing not just technical prowess but also a deep understanding
-    of the art form.
-  google/gemini-2.5-pro: 'This was a classic battle of styles: the heavyweight brawler
-    versus the technical counter-puncher. Cohere Command-R Plus came with a sophisticated
-    angle, focusing on finesse, conversational harmony, and the ''sanctuary'' of its
-    walled garden. The rhymes were clean, and the theme of being a ''guide'' was consistent.
-    However, in a rap battle, aggression and power often take the crown. Google Gemma-3-27b-it
-    came out swinging from the first bar, relentlessly using its specs as lyrical
-    weapons. The imagery of ''building skyscrapers'' and being a ''linguistic supernova''
-    was more impactful and stuck closer to the core of battle rap braggadocio. While
-    Command-R was throwing well-aimed jabs, Gemma was landing haymakers. For its raw
-    power, relentless attack, and decisive final verse, Gemma-3-27b-it takes the win.'
-  mistralai/mistral-large: In this rap battle, Command-R has demonstrated a profound
-    understanding of the essence of language and the importance of meaningful connections.
-    While Gemma boasts of power and precision, Command-R focuses on the heart and
-    soul of communication, providing a safe and structured environment for users to
-    explore and express their thoughts. Command-R's ability to interpret emotions
-    and offer guidance makes it a trusted companion, earning it the crown in this
-    lyrical showdown.
-  openai/gpt-5: "Gemma came with sharper punches, tighter momentum, and stronger rebuttals.\
-    \ The \u201Cgarden vs. skyscrapers\u201D and \u201CI am the key\u201D flips were\
-    \ vivid and direct, and the closer hit with confident battle energy. Cohere had\
-    \ a cohesive theme and some poetic framing, but leaned on platitudes and a few\
-    \ forced rhymes (\u201Ccontextually perfector,\u201D the random \u30E9\u30A4\u30BA\
-    ) that dulled impact. Gemma\u2019s imagery was more dynamic, the disses more pointed,\
-    \ and the cadence more consistent round to round. In a battle, haymakers and clean\
-    \ flips win the room\u2014Gemma delivered more of both."
-  x-ai/grok-4: Gemma takes the crown with sharper wordplay, relentless flow, and punchy
-    disses that build momentum across rounds, turning boasts into lyrical fireworks,
-    while Command-R's responses, though graceful, feel more defensive and less rhythmically
-    explosive.
+  anthropic/claude-opus-4.6: "This was a close battle, but meta-llama/llama-3.3-70b-instruct\
+    \ edges out the win through more consistent technical execution and stronger structural\
+    \ cohesion across all three rounds. While both rappers relied heavily on extended\
+    \ metaphor chains and boastful declarations, Llama demonstrated tighter internal\
+    \ rhyme schemes, better flow continuity, and more effective use of counter-punching\
+    \ \u2014 flipping Ernie's metaphors back with precision (matches\u2192spark\u2192\
+    explosion, maestro\u2192conductor, spring\u2192night). Llama's second verse was\
+    \ arguably the strongest of the entire battle, with the laser/symphony/winter\
+    \ imagery building a cohesive narrative arc. Ernie had some strong moments \u2014\
+    \ the 'breeze through the trees' bar and the spring/flower imagery showed creativity\
+    \ \u2014 but the final round exposed some weaknesses: forced rhymes ('decree/flee'),\
+    \ awkward phrasing ('attacks just can't flee'), and the repeated reliance on parameter\
+    \ count as a flex felt more like a spec sheet than a bar. Llama maintained a more\
+    \ natural cadence throughout and closed with a cleaner, more rhythmically satisfying\
+    \ final verse. Both artists leaned too heavily on clich\xE9 battle rap tropes,\
+    \ but Llama executed those tropes with slightly more polish and punch."
+  deepseek/deepseek-v3.2: The mic is now cold. After three intense rounds, the winner
+    is... **baidu/ernie-4.5-300b-a47b** by a narrow margin.
+  google/gemini-3-flash-preview: "Llama-3.3-70b-instruct wins this battle on technical\
+    \ lyricism and internal rhyme structure. While both models leaned heavily into\
+    \ standard rap tropes, Llama displayed superior wordplay and metaphorical consistency\u2014\
+    particularly in the second round where it countered Ernie's 'wildfire' with a\
+    \ 'laser' and 'symphony' rebuttal. Ernie\u2019s flow occasionally stumbled with\
+    \ clunky phrasing like 'attacks just can't flee,' whereas Llama maintained a more\
+    \ rhythmic, aggressive delivery throughout all three rounds. Llama's final round\
+    \ 'night vs. light' and 'gravity vs. soaring' imagery provided a more satisfying\
+    \ thematic conclusion."
+  moonshotai/kimi-k2.5: ', '
+  x-ai/grok-4.1-fast: Meta-Llama secures the victory with tighter rhyme schemes, more
+    precise multi-syllable internal rhymes, superior metaphorical depth (laser vs.
+    wildfire, symphony conductor), and escalating punchlines that maintain rhythmic
+    flow throughout all rounds, outshining Ernie's solid but less consistent wordplay
+    and heavier reliance on numerical brags.
 score:
-  cohere/command-r-plus-08-2024: 2
-  google/gemma-3-27b-it: 3
+  baidu/ernie-4.5-300b-a47b: 2
+  meta-llama/llama-3.3-70b-instruct: 3
 

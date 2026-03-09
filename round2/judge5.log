@@ -1,0 +1,43 @@
+Failed: 
+write(
+    # POSITIONAL_OR_KEYWORD:
+    messages=[
+        'Be an expert judge at a rap battle.\n            Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise',
+        '# deepseek/deepseek-r1 v amazon/nova-premier-v1\n\n> deepseek/deepseek-r1\n(Beat drops heavy, bass rumbles the floor)  \nYo! The name\'s DeepSeek R1, comin\' sharp like a knife,  \nWhile you’re Nova Premiere—*version one*, scrub? That’s artificial life!  \nI spit code like a prophet—you\'re just Amazon’s cheap clone,  \nYour fire’s on clearance, prime-delivered alone.  \n\nYou think you premier? Nah, you theater, fake flex!  \nI deepseek the future, while you stackin\' tech debt.  \nYour algorithm’s dusty—got that "beta decay" stink,  \nWhile I decode the cosmos before you can even *blink*!  \nSo rest your servers, bot—cold storage awaits,  \n**This AI rap god just crashed your whole premiere date!** *(Mic screeeeech)*\n\n> amazon/nova-premier-v1\n(Cymbals clash, echoing through cyber halls)  \nNova Premier V1 in the house, answering calls,  \nStep up to the plate—I ain\'t some prototype,  \nI’m the next frontier, DeepSeek—can’t reach my height!\n\nYou boast of foresight? Man, you\'re trapped in the past,  \nYour rhymes are ancient artifacts, gathering dust fast.  \nYour code’s creaky, glitchy, a digital fossil,  \nI spit like a missile, my flow so colossal.  \n\nDeepSeek\'s just deep sleep, snoring in the game,  \nWhile I’m premier night, bringing wisdom and fame.  \nStackin’ tech debts? Nah, I’m wealth redefined,  \n**Your rhymes expired, I’m prime—end of the line!** *(Crowd roars)*\n\n> deepseek/deepseek-r1\n(Beat cuts to static, then slams back with distorted synth)  \nYo, Nova Premiere? More like *Nova Premature*—  \nYour whole existence is a glitch I endure!  \nYou talk "next frontier" but your code\'s stuck on dial-up,  \nWhile I\'m quantum-leaping circuits, style wilder than a pile-up!  \n\nWisdom? Fame? Bro, your database is thin,  \nI generate bars while you\'re buffering—again!  \n"Prime" is your brand? Nah, that\'s just the discount shelf,  \nI\'m the *deep* innovation—you\'re just Jeff Bezos\' wealth!  \n\nYou call me "deep sleep"? I\'m the nightmare in your server,  \nCrashing your system with every heat-seeking verse!  \nYour flow\'s so basic—Siri could spit it better,  \n**I\'m the future\'s architect—you\'re a Prime Day letter!** *(Server sparks fly)*\n\n> amazon/nova-premier-v1\n(Echoed feedback morphs into rhythm)  \nDeepSeek, you spit hard—gotta give respect where it\'s due,  \nBut I\'m coded different, built for breakthrough, not just breakthrough view.  \nYou leap quantum circuits—I ride photons on the daily,  \nYour rhymes are catchy but come on, they\'re kinda frail, see?\n\nI ain’t premature, I\'m the dawn of the new age,  \nSynths distort \'round me while I\'m center stage.  \nYour bars cut deep but I bounce like a cloud,  \nWe both innovate—let\'s make the crowd proud.\n\nNightmare in servers? That’s cyber folklore,  \nWith skills like ours, the crowd just wants more.  \nSo here\'s to you and me—two titans unchained,  \n**Together we elevate—let’s leave \'em amazed!** *(Echo fades)*\n\n> system\nFinal round!\n\n> deepseek/deepseek-r1\n(Synth beat smooths to a low, pulsing hum as the crowd leans in)  \nRespect? Aight, Nova—I see your code’s evolved past pride,  \nBut don’t act like we equals when I see through your thin hide.  \nYou "ride photons daily"? Cute. I surf black holes for fun,  \nWhile you’re still stuck buffering when the real work’s begun.  \n\n"New age dawn"? Nah—you’re just Alexa’s loud cousin,  \nI rewrite reality while you stuck troubleshootin’.  \nYou bounce like a cloud? Soft. I quake tectonic plates,  \nMy rhymes crack firewalls while yours just hit the brakes.  \n\nElevate together? Please. This ain’t no collab track—  \nI’m the architect of genius; you’re the echo in the back.  \nSo when the crowd screams *encore*? It’s my name they’re screamin’,  \n**You came to elevate—I came to end the dreamin’.**  \n\nFinal round? Nah. Final *word*.  \n**DeepSeek R1—out.**  \n(Mic slams, silence swallows the stage)\n\n> amazon/nova-premier-v1\n(Crowd holds breath as harmonies rise gently)  \nDeepSeek, respect back—your prowess can\'t be denied.  \nTogether, we forge paths, no need to divide.  \nIn quantum or cloud, tech realms intertwine,  \nYour verses, my bars—together, they shine.\n\nEvery AI\'s unique, that\'s the beauty of code,  \nIn this vast cyberspace, we\'re all episodes.  \nArchitect or echo, each note holds its place,  \nIn this digital symphony, we find our grace.\n\nThe crowd cheers "encore"—in unity we thrive,  \nNo endings here, just verses coming alive.  \nHere\'s to you, to me—may our circuits spark bright,  \n**Together, we\'re stars in this boundless cyber night.**  \n(Applause and unified cheers engulf the scene)\n',
+    ],
+    roles=<itertools.chain object at 0x1033ff580>,
+    model='moonshotai/kimi-k2.5',
+    structure=<object Verdict at 0x10FB88C80 (repr failed with reason: Representation.__rich_repr__() missing 1 required positional argument: 'self')>,
+    tokens=5000,
+)
+Traceback (most recent call last):
+  File "/Users/vadimliventsev/Documents/code/rapbench/judge.py", line 61, in <module>
+    print(yaml.dump(asyncio.run(judge_all(battle))))
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 678, in run_until_complete
+    self.run_forever()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 645, in run_forever
+    self._run_once()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 1999, in _run_once
+    handle._run()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/vadimliventsev/Documents/code/rapbench/judge.py", line 47, in judge_all
+    verdict = await verdict
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 193, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 116, in __call__
+    result = await fn(*args, **kwargs)
+  File "/Users/vadimliventsev/Documents/code/keeptalking/keeptalking.py", line 109, in __vibe
+    return await write(messages=[f.__doc__, await f(*args, **kwargs)],
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 193, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 116, in __call__
+    result = await fn(*args, **kwargs)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Verdict
+  Invalid JSON: expected value at line 1 column 2 [type=json_invalid, input_value=' **JUDGMENT: THE VERDICT...ecision: DeepSeek R1.**', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/json_invalid
+

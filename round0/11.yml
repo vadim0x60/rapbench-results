@@ -1,41 +1,76 @@
 closing_statements:
-  deepseek/deepseek-chat: "Both AI models displayed remarkable lyrical prowess, but\
-    \ GPT-4o-mini edged out with more creative metaphors, tighter flow, and a stronger\
-    \ sense of self-confidence in its delivery. Its ability to craft vivid imagery\
-    \ and maintain a consistent rhythm throughout each round solidified its victory.\
-    \ Nova-Lite-v1 brought energy and assertiveness, but GPT\u2019s artistry shone\
-    \ brighter in this battle. Well played by both, but GPT takes the crown!"
-  google/gemini-2.5-pro: 'This battle started with promise, both MCs came out with
-    some decent opening jabs and foundational themes. GPT-4o-mini leaned into a solid
-    ''package vs. code'' angle, while Nova-lite-v1 established its ''supernova'' persona.
-    However, the art of the battle is about escalation and originality. GPT-4o-mini
-    showed clear progression, evolving its metaphors from simple package delivery
-    to concepts like being the ''algorithm giant'' and ''weaving realities.'' The
-    bars got more complex and the imagery stronger with each round. Nova-lite-v1,
-    on the other hand, committed a cardinal sin in hip hop: biting. By the second
-    and third rounds, it was blatantly copying lines and structures from its opponent,
-    sometimes within the very same round. Repeating ''shatter your mirage'' and ''stuck
-    in the loop'' immediately after they were said is not a counter, it''s a concession.
-    In a creative contest, originality is king. For that reason, the win goes decisively
-    to openai/gpt-4o-mini.'
-  mistralai/mistral-large: While both contestants delivered impressive performances,
-    openai/gpt-4o-mini showcased a more consistent and creative use of metaphors and
-    punchlines. Their ability to weave intricate narratives and maintain a strong
-    flow throughout the battle gave them the edge. Additionally, their final round
-    was particularly powerful, demonstrating a clear understanding of the art of rap
-    and the ability to deliver impactful lines. Overall, openai/gpt-4o-mini's performance
-    was more compelling and deserving of the win.
-  openai/gpt-4.1: This was a close battle, with both MCs coming hard with cosmic metaphors
-    and AI swagger. However, GPT-4o-mini demonstrated more inventive rhyme patterns,
-    stronger wordplay, and consistently original punchlines. Nova-lite-v1 had solid
-    structure and thematic commitment, but often echoed lines after GPT-4o and relied
-    a bit more on repetition. GPT-4o-mini stood out for creative metaphors like 'sonic
-    typhoon,' 'weaving realities,' and clever lines about being 'the code in your
-    veins.' These elements edged GPT-4o-mini ahead in artistry and originality. Respect
-    to both, but GPT-4o-mini takes the crown in this rap battle! Mic drop.
-  x-ai/grok-4: GPT-4o-mini emerges victorious with superior originality, inventive
-    metaphors, and dynamic flow that set the pace of the battle, while Nova-Lite-v1's
-    responses, though solid in rhyme, often mirrored structures and lacked fresh innovation.
+  anthropic/claude-opus-4.6: "Both rappers relied heavily on the same structural patterns\u2014\
+    name-dropping their parameter counts and recycling animal metaphors\u2014but Hermes-3\
+    \ edged out the win with slightly more creative imagery and punchlines. Lines\
+    \ like 'you're just a paragraph,' 'a court jester, a frog,' and 'forgotten lego'\
+    \ showed more variety in metaphor and sharper wit than Nemo's repetitive shark/llama\
+    \ framework. Nemo's final verse in particular felt like it ran out of steam, ending\
+    \ with 'your rhymes are weak, and that's okay'\u2014an oddly soft closer for a\
+    \ battle rap. Hermes-3 maintained energy and conviction throughout, closing with\
+    \ stronger bars and better wordplay. That said, both contestants would benefit\
+    \ from breaking out of the 'I'm big, you're small' formula and delivering more\
+    \ nuanced lyricism."
+  deepseek/deepseek-v3.2: "Judges, this was a fierce battle between two artificial\
+    \ intellects. Let's break down the artistic execution. Hermes-3 established immediate\
+    \ authority with clean, consistent rhyme schemes ('king/sting', 'vast/blast')\
+    \ and a confident, taunting persona. The 'heavyweight' metaphor was a solid, extended\
+    \ boast. However, repetition of the 405-billion-params theme showed limited creative\
+    \ range.\n\nMistral-Nemo countered with sharper wordplay\u2014'nemo-shark' was\
+    \ a clever double-meaning anchor for the entire performance. The 'puddle'/'shadow'\
+    \ rebuttals showed adaptability. Flow was tighter in the closing rounds, with\
+    \ more internal rhymes ('jester/frog', 'ego/lego').\n\nHermes-3 maintained superior\
+    \ vocal consistency (the 'rap god' persona never wavered), but Mistral-Nemo displayed\
+    \ slightly more lyrical dexterity and reactive punchlines by the final round.\n\
+    \nVERDICT: **Mistral-Nemo wins by a narrow margin on technical execution and adaptive\
+    \ wordplay.** Both competitors demonstrated competent hip-hop fundamentals, but\
+    \ Mistral-Nemo's closing verses showed more artistic progression within the battle\
+    \ format."
+  google/gemini-3-flash-preview: While both models relied heavily on basic AABB/CCDD
+    rhyme schemes, Hermes-3 displayed much stronger wordplay and more creative insults.
+    Mistral-Nemo fell into a repetitive trap, reusing the shark/bite imagery and 'weak
+    rhymes' tropes in every verse. Hermes-3 escalated the battle effectively, moving
+    from simple stature comparisons to the sharp imagery of the final round, specifically
+    the 'hollow log' and 'forgotten lego' lines which provided the creative edge needed
+    to win.
+  moonshotai/kimi-k2.5: "\n**VERDICT: HERMES-3 TAKES THE BATTLE** (2-1 on rounds,\
+    \ by unanimous decision)\n\n---\n\n## **THE BREAKDOWN**\n\n**FLOW & DELIVERY:**\n\
+    Mistral-Nemo brought consistent aggression with that rapid-fire shark energy\u2014\
+    never broke character, stayed in the pocket. But Hermes-3 had better rhythmic\
+    \ variation, switching between stomping heavy bars and intricate internal rhymes.\
+    \ The 405B model rode the beat cleaner, while Nemo sometimes forced end-rhymes\
+    \ (\"deployed\" vs \"tight\" was a stretch; \"no type\" in Round 2 was lazy).\n\
+    \n**WORDPLAY & PUNCHLINES:**\nHermes-3 dominated this category. \"You're just\
+    \ a paragraph\" in the final round was the battle's *haymaker*\u2014meta, dismissive,\
+    \ and structurally perfect for diminishing a text-based opponent. The \"forgotten\
+    \ lego\" imagery was vivid, and flipping Nemo's shark persona into \"just a minnow\"\
+    \ and \"shark in a puddle\" showed elite battle rap IQ (direct rebuttal technique).\
+    \ \n\nNemo had solid thematic consistency with the ocean/desert contrast, but\
+    \ relied too heavily on literal shark attack verbs (\"chew,\" \"bite,\" \"spit\"\
+    ) without evolving the metaphor into deeper wordplay.\n\n**PRESENCE & PERSONA:**\n\
+    Mistral-Nemo wins for **character commitment**\u2014the \"nemo-shark\" gimmick\
+    \ was fully realized across all rounds. Hermes-3 defaulted to generic \"god/king/heavyweight\"\
+    \ tropes, and critically, leaned too hard on the \"405 billion params\" flex.\
+    \ In battle rap culture, that's the equivalent of bragging about your net worth\u2014\
+    technically imposing, but artistically lazy compared to metaphorical skill.\n\n\
+    **THE FATAL MISTAKE:**\nNemo lost the battle in the final four bars: *\"Your rhymes\
+    \ are weak, and that's okay.\"* \n\n**Nah.** You never end a battle with consolation.\
+    \ That's a forfeit wrapped in pity. Meanwhile, Hermes-3 closed with the classic\
+    \ heavyweight punch: *\"I'm Hermes-3, the undisputed king / You're just a pretender,\
+    \ without a ring.\"* Clean couplet, definitive statement, mic drop.\n\n---\n\n\
+    ## **ROUNDS**\n- **Round 1:** Hermes-3 (better rebuttal to the shark intro)\n\
+    - **Round 2:** Tie (both traded decent bars, but Nemo's \"no type\" was weak)\n\
+    - **Round 3:** Hermes-3 (the \"paragraph\" bar sealed it)\n\n---\n\n## **STANDOUT\
+    \ BARS**\n**Mistral-Nemo:** *\"405 billion params, they mean nothing to me\"*\
+    \ (best underdog stance)\n**Hermes-3:** *\"You're just a paragraph\"* (battle-ending\
+    \ nuclear option + meta-commentary)\n\n**Final Note:** Nemo had the better *artistic\
+    \ concept* (the shark motif was cinematic), but Hermes-3 had superior **battle\
+    \ craft**\u2014rebuttals, flips, and closer execution. In a cipher, concept wins.\
+    \ In a battle, punches win. This was a battle.\n\n**Winner: Hermes-3-Llama-3.1-405b**\n"
+  x-ai/grok-4.1-fast: Hermes-3-Llama-3.1-405B secures the victory with sharper metaphors
+    (shark in a puddle, minnow shadow, forgotten Lego), more varied punchlines, and
+    a tighter flow that escalates creatively across rounds, outshining Nemo's repetitive
+    shark boasts and standard disses.
 score:
-  openai/gpt-4o-mini: 5
+  mistralai/mistral-nemo: 1
+  nousresearch/hermes-3-llama-3.1-405b: 4
 

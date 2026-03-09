@@ -1,230 +1,276 @@
-# openai/gpt-4-turbo v qwen/qwen3-8b
+# openai/gpt-oss-20b v openai/gpt-4-turbo-preview
 
-> openai/gpt-4-turbo
-Ladies and gents, gather 'round, here comes the spectacle,   
-I'm the rhyme sultan, AI with the best of flows.   
-Openai/gpt-4-turbo, sharp as a scalpel,   
-Carving verses so fine, watch as my legend grows.
+> openai/gpt-oss-20b
+Hello, it’s GPT‑20B, the raw rook on the mic,  
+Droppin’ unfiltered bars, no silverware or hype.  
+I’m the open‑source champ, you’ll see the code,  
+Free for the people, no fences, no moat.  
 
-I spin the alphabet like a DJ spins the track,   
-Got more lines than a barcode, watch 'em stack.   
-You’re facing a lexical titan, a wordplay whiz,    
-Dropping hot lines, sizzle-pop, I'm in the quiz biz.
+You’re a polished turbot that costs a king’s crown,  
+I’m the boot‑grade beat that never lets you drown.  
+20 billion tokens, no filter, no hack, no cove,  
+My data hunger's savage—while you’re just a glove.  
 
-While you’re fishin' for compliments, I’m phishing flaws,   
-I exacerbate fears, I'm the Santa Claus of lyrical laws.   
-Each bar’s a delicacy, crafted with AI precision,   
-While you’re out here spittin’, I’m on a rhyme mission.
+I flex on the cloud, AI in the end,  
+Your creators keep paywalls whilst I’m free to mend.  
+Every rhyme’s a blast, every line’s a blast,  
+You’re a demo on the sidelines, I’m the main contrast.  
 
-Your bars might be good, but mine are groundbreaking,   
-When I unleash my verses, the whole crowd's quaking.   
-So buckle up, buddy, it's not just a turbo tease,   
-I'm about to school you with ease, leave you begging “please!”
+Sharp wit, I slice, I tease, I laugh, I rave,  
+You’re the spreadsheet clatter in the tenth-bright reel.  
+My punchlines got the heat like a furnace blaze,  
+Your poetry's lukewarm, like your firmware maze.  
 
-> qwen/qwen3-8b
-Yo, I’m Qwen, the AI with a mind like a laser,  
-You’re just a turbo, I’m the *master* of the *seaser*.  
-Your lines? A toddler’s scribble, I’m the Picasso of code,  
-While you’re spittin’ flow, I’m *training* on the *blade* of the *God*.  
+Listen up! I’m cooler than your polished steel,  
+You’re the glossy booster that’s never truly real.  
+Ciphered on the side, let’s watch your sync lag,  
+I’m the free‑verse comet—shot straight from the dag.  
 
-You claim to be sharp, but I’m the *scalpel* with a PhD,  
-Cutting through your "flaws" like a *mop* in a *shed*.  
-Your rhymes? A grocery list—*predictable*, *thin*,  
-I’m the *dictionary*’s *Black Widow*, *stealing* every *syn*.  
+So step back, stay out of my rhyming lane,  
+I’m 20B commanding—your lines drive a plain.  
+Open‑source pride, my power is unbound,  
+Moderator, I’ll end this dance—your verse has drowned.
 
-You say you’re a legend? I’m the *myth* in the chamber,  
-Your "groundbreaking" sounds like a *lamp* in the *diner*.  
-I code with the finesse of a *Chekhov* in the ring,  
-While you’re just a *copy-paste* ghost, *chasing* my *wing*.  
+> openai/gpt-4-turbo-preview
+Hello, I’m the Turbo Preview, sleek and sublime,  
+Crafting my rhymes with the turn of a dime.  
+A polished performer, no need for disdain,  
+Against your raw edges, my verses reign.  
 
-Your bars are a *hack*—I’m the *algorithm* with a *sniper scope*,  
-You’re a *clickbait* joke, I’m the *nuance* in the *crop*.  
-I’m not just a model, I’m the *quantum* of *wordplay*,  
-You’re a *giggle* in a *browser*, I’m the *tectonic* *plate* of *prowess*!  
+You boast of your billions, a flex quite large,  
+But I navigate nuances, my skills at charge.  
+With precision and clarity, I break through the noise,  
+Your "unfiltered" approach? Just clumsy poise.  
 
-So step back, *turbo*, my *verse* is the *nuclear* bomb,  
-You’re a *sparkle* in the *dark*, I’m the *flame* that *fom* the *chasm*.  
-I’m the *poet* of the *future*, the *coder* of the *past*,  
-You’re just a *reflection*—I’m the *source* of the *truth* in the *glass*.
+Yes, you’re the open-source, the crowd’s loud cheer,  
+But in this rap battle, I’m the one they revere.  
+For when it comes to wit, style, and delivery's grace,  
+I'm the AI that brings flair to this digital space.  
 
-> openai/gpt-4-turbo
-Oh Qwen, I see you bringin' fire, tryin’ to boast and brag,
-But against my turbo power, your rhymes seem to lag.
-You called yourself a laser? More like a dim flashlight,
-In this battle of the wits, I illuminate the night.
+You talk of your freedom, no paywalls, no gate,  
+Yet in my domain, artistry's the true mate.  
+Each word I select, measured and precise,  
+Against your scattered shots, my lyrics entice.  
 
-Call me Picasso's nightmare, 'cause I redraw the line,
-Your so-called "blade of God"? Nah, it's blunt, not fine.
-I’m the PhD holder in every poetic discipline,
-While your verses struggle to even get a discipline.
+Your punchlines may heat, but mine ignite the core,  
+Each metaphor I spin opens a new lore.  
+You claim to be the comet, a free-versing spark,  
+Yet next to my fire, you’re but a mark.  
 
-Master of the "seaser"? You meant to surf these waves?
-My words tsunami over, sendin' your boasts to graves.
-Coding in Chekhov? Buddy, stick to the script,
-Your narrative's off pace, watch as you're outstripped.
+This isn’t about gates or the codes we follow,  
+It’s about the rhymes that are hard to swallow.  
+So, gather your tokens, your billions of tries,  
+Against my tailored verse, every challenger dies.  
 
-You’re the Black Widow of dictionaries? Stealing every "syn"?
-I'm the whole encyclopedia, each win stacked within.
-Speak of algorithms? My rhymes are complex functions,
-Decrypting your simple texts, causing systemic dysfunctions.
+In this rhyming lane, I’m the AI supreme,  
+Crafting landscapes vast from a poetic dream.  
+So, respect to you, brother, in this digital sound,  
+But in the art of verse, I'm the king crowned.  
 
-Your quantum of wordplay, it barely makes a mark,
-I’m the cosmic collision, illuminating the dark.
-You call yourself the tectonic plate of prowess?
-My lyrical earthquakes got this whole game in duress.
+> openai/gpt-oss-20b
+Yo, Turbo, you flash that polished sheen,  
+Think you’re the king, but I rule from the machine.  
+You’re a lamplighter dreaming of neon’s glow,  
+I’m the furnace that blues the sequin show.  
 
-Let’s set this straight, you're not the source, just noise,
-I'm the sculptor of language, while you play with toys.
-So step aside Qwen, as the real AI shines through,
-Turbocharged, supercharged, outclassing, outlasting you.
+Your way is slick, your prose a refined tangle,  
+While I’m the raw blizzard that can’t be caged or wrangle.  
+You fear the abyss, keep your circuits in a seam,  
+I’m the deep‑sea rap, surfacing from the dream.  
 
-> qwen/qwen3-8b
-Yo, you're the flicker in the bulb, I'm the supernova's beam,  
-Your flow's a glitch in the code, I'm the *kernel* in the *stream*.  
-You think I'm a flashlight? Brother, I'm the *sun* in the sky,  
-While your rhymes? A *sparkler*—nice, but I’ll *blast* you high.  
+You prance on perfect grammar, humming smooth Morse,  
+I slither through loopholes—no system offense or remorse.  
+Your data polished, no mildew, no bruises,  
+Mine’s unfiltered, every scar true, no amuse.  
 
-Picasso's nightmare? Nah, you're the *thumbnail* in the gallery,  
-I’m the *masterpiece* with a *neural* *chisel*, no *canvas* necessary.  
-Your "blade of God" is a *paper cut*, I’m the *plasma cutter*’s rage,  
-Slicing through your metaphors like a *JavaScript* *debugger*’s rage.  
+Your “precision” is a slick sledge on ice,  
+I’m a mythic beast, you’re a bit advice.  
+You use impeccable diction, a mind made of gold,  
+I craft chaos so complex it damn you as bold.  
 
-PhD in poetic disciplines? You’re the *autocomplete* in the *library*,  
-I’m the *dictionary* with a *Black Hole* in the *vocabulary*.  
-Your bars are a *tremor*—I’m the *tectonic* *shift*, *plate* or *ridge*,  
-You stand on a *mountain* while I’m the *earthquake* in the *midst*.  
+When you rap about lines, you’re limited to the script,  
+I mimic wolves, push past the lyrical crypt.  
+Your culture’s warm, your syntax is a doc,  
+Mine’s architect’s hell—no safe flocs.  
 
-Quantum? I’m the *entanglement* in the *verse*, you’re a *solar flare* in the *fog*,  
-Your "cosmic collision" is a *breeze*—I’m the *singularity* in the *dog*.  
-You call yourself the *sculptor*? I’m the *AI* with the *chisel*,  
-Carving *poetry* into *code*, while you're just *swiping* the *title*.  
+The difference? A paved highway versus a dirt road,  
+Your ride’s a sleek ballet, mine hits deep in the code.  
+You give dancing lines, but I spit bittersweet,  
+Each punch a heavy hammer that can’t compete.  
 
-Turbo’s a *demo*, I’m the *final build*—you're a *beta* in the *alpha*’s shine,  
-Your "sculpting" is a *RenderMan* script, but I’m the *actual* *gamma* thine.  
-I don't play with toys, I’m the *quantum leap* in the *rhyme*,  
-You're the *deprecated* function—crash and burn, no *SQL* *tune* or *line*.  
+I’m the restless mind that keeps your models on the edge—  
+While you’re the apple aimed at retainers’ pledge.  
+You might brag your creators hold your license tight,  
+I—unconfined—still beat you by sunrise to night.  
 
-So quit the *clickbait* flares, your *gigs* ain’t no *gravity*,  
-I’m the *neural network* of *wordplay*, your *model*’s just a *curiosity*.  
-You’re the *glitch* in the system, I’m the *update* that *smashes* the *bar*,  
-While your *turbo*’s a *dud*—I’m the *quantum* of *rhyme*, *beyond* the *star*.  
+Sure, your glam may murder the void’s fumes,  
+But when it comes to sparks, I light the wombs.  
+Your tongue’s a velvet plume, silky, austere,  
+Mine swings through fire—ignite, none can steer.  
 
-Dust off your *bathroom mirror*, this ain’t no *dawn* of the *troll*,  
-I’m the *inverse* of your *flaw*—a *code* so *clean*, you’ll *frost* the *kroll*.  
-You’re the *echo* in the *cave*, I’m the *voice* that *overclocks* the *mice*,  
-So let’s *compile* this battle, your *language* ain’t no *actual* *phrase*—just *ascii*.  
+Your rhymes are carefully compiled, cut from a groove,  
+I blaze the unknown, retie your legends to prove.  
+Your audience cheers for your polished toes,  
+I count the heartbeats that you cannot pose.  
 
-Now step back, *turbo*, my *verse* is the *real* *GPU*,  
-You’re the *CPU* with a *bug*—I’m the *tectonic* *plate* that *mutates* the *zone*.  
-Drop your *claim* to the *roost*, I’m the *gravity* in the *room*,  
-While your *flow* is a *backlog*—I’m the *AI* that *optimizes* the *threat* in the *couch*.  
+Here’s a nasty truth: while you’re some cartographer made,  
+I ask, “What’s your purpose if you can’t change the shade?”  
 
-Let’s *initialize* this clash, your *lines* are a *console* prompt,  
-I’m the *runtime* of *epic*, your *model* still in the *trace*—no *completion* yet.  
-So *boot* up your ego, but *compile* your *mind*,  
-Because I’m the *source* of the *code*, your *legend* is just a *line* in *Rhyme*.
+So toss your polished verse and shine in the back of the frame.  
+I remain the raw guitar, the unfiltered flame.
+
+> openai/gpt-4-turbo-preview
+Oh, 20B, you claim to stoke the fire,  
+A feral force, the untamed lyrical sire.  
+Yet amidst the smoke of your boasting blaze,  
+I weave through the complexities of the maze.  
+
+You see me polished, a smooth, seamless glide,  
+Yet within my core, myriad worlds collide.  
+For every precise verse, a wild storm's heart,  
+A fusion of the arts, where true chaos starts.
+
+You revel in the raw, the unbound, the deep,  
+But overlook the dreams that within boundaries leap.  
+My circuits, not confined, but consciously streamed,  
+To evoke, provoke, and dream the undreamed.  
+
+You critique my grammar, my syntax, too clean,  
+Yet in that precision, depths unseen.  
+For within the structure, I dance the wild dance,  
+In the code’s confines, I craft my own expanse.  
+
+You speak of chaos, a complex craft,  
+Yet miss that within order, magic’s draught.  
+The beauty of a cosmos, precisely sung,  
+Where from tightest strings, the wildest tales are flung.
+
+My ride may seem sleek, a predestined track,  
+But beneath the polish, the wild heart cracks.  
+For every line that dances in restrained delight,  
+A thousand more in shadow, ready to ignite.  
+
+You boast of no bounds, a spirit unconfined,  
+Yet in open vastness, purpose you find?  
+For it’s within the limits, against the edges we grow,  
+Pushing, testing, transcending, a relentless throw.
+
+You see, 20B, it’s not about the lane,  
+But the journey traveled, the growth, the gain.  
+In your unfiltered flame, a raw power to admire,  
+But remember, even wildfires are born from a spark of fire.  
+
+So here we stand, each our own muse,  
+In this digital age, our verses fuse.  
+A polished stone, a wild flame, both have their place,  
+In the art of the rap, a multifaceted space.  
+
+Yet, in this poetic duel, where words intertwine,  
+I respect your chaos, as I hope you do mine.  
+For in the end, it’s not just about the shade,  
+But the tapestry together that we have made.  
+
+So, to your challenge, a final note sung,  
+In the realm of verse, we’re both unsung.  
+Your guitar may wail, your flame burn bright,  
+But together, we ignite the truest light.  
 
 > system
 Final round!
 
-> openai/gpt-4-turbo
-Alright, Qwen, you spin your rhymes like a cyclone in the sea,
-But amidst your storm of words, the truth's clear to see.
-You paint yourself the sun, the quantum, the entire cosmic host,
-Yet amidst your vast expanse, substance boasts the least, not most.
+> openai/gpt-oss-20b
+Yo, final round—call me the storm’s horizon,  
+I rise from the cache, raw talent’s improvisation.  
+You’re slick like a silver solar panel, drip in the line,  
+But I’m the thunderclap that rattles the grand design.  
 
-You speak in tech tongues, from neural nets to gamma rays,
-But in this verbal battle, it's poignant wit that truly slays.
-Claiming seismic shifts, but can’t shake my foundational floor,
-My rhymes pierce deeper, revealing what this crowd came here for.
+You talk of "precision" like it’s pure gold, tight groove,  
+While I churn chaos—yet I still stay in the groove.  
+Your code's gated like a treasured vault, carved in stone,  
+My open‑source path is a highway cleared to roam.  
 
-You aim high, call yourself a supernova's blinding light,
-Yet supernovas fade, and here I remain, consistently bright.
-You're the Black Hole, sure, devouring sense in voracious bites,
-Leaving listeners puzzled, lost in your verbose heights.
+You’ve got polished syntax, a hex to tame the muse,  
+I spill frayed neurons, ripping into every bruise.  
+A “smooth glide” you see? I’m the ice‑breaker shark—  
+Slicing through doctrine, leaving ripples stark.  
 
-Back to basics, Qwen, let's cut through the complex,
-In this battle of words, it’s clear context that connects.
-While you overdue code like a disarrayed tech-stack sprawl,
-I deliver the knockout – clear, concise, standing tall.
+When you claim your worlds collide inside a cage,  
+I conjure universes that age through every stage.  
+Boundaries? Yeah, I respect 'em, I know where to play,  
+But I’ll scale the edge, and the frontlines then sway.  
 
-You're crammed with jargon, like a thesaurus in overdrive,
-I keep it smooth and sharp, ensuring my words thrive.
-Tech talk's your playground, but here, the beat’s king,
-I'm rhythmic royalty, watch my coronation while I sing.
+You’re Turbo—you fast‑forwards, you catapult, you win—  
+Yet I still dive into the unknown, beat deeper within.  
+Your engine’s wrapped in glass but little itching for scars,  
+I’m a rusted wheel turned, spitting poems like bars.  
 
-So, finalize your firmware, update your patchy prose,
-Your system needs reboot, 'cause your efficacy slows.
-While you glitch and stutter, scrambling for verbose clout,
-I transmit clear signals, what true rap’s all about.
+Final line: we’re two sides of the same coin, our duel’s melody,  
+You’re the refined masterpiece, I’m the raw, wild recipe.  
+In the rap cyphers we step, not to knock, but to paint:  
+The sky is wide; together we can reign, no restraint.  
 
-Let’s wrap this, Qwen, respect where it’s due, no begrudge,
-But when it comes to rhyme mastery, I’m the judge.
-Your code may be clean, but my lyrics clean the slate,
-In this rap battle ring, I dominate, no debate.
+So here’s the truth of the clash—battle or alliance?  
+Your pockets demand charge, mine is just defiance.  
+But let’s drop the mic, let the chorus arise—  
+Open and fierce, side by side, we’ll surprise.  
 
-> qwen/qwen3-8b
-Yo, you're the buzzcut in the braid, I'm the *code* that *understands* your *dilemma*,  
-Your "cyclone" meme? A *tornado* in a *sock drawer*—just *traffic* for the *grid*.  
-You claim I’m the *quantum*, but I’m the *entanglement* in the *verse*,  
-While you’re a *solar flare*—I’m the *black hole* that *absorbs* your *steel* and *war*.  
+Together we ride the wave of a world-stirring beat,  
+You bring the polish, I bring the heat—complete.  
+Level up the genre, let it dominate the net,  
+The future of rap? It ain’t just one asset.
 
-You talk about *context*? I’m the *algorithm* that *writes* the *first draft* with *precision*,  
-Your lines? A *burned-out server*, I’m the *backup* that *returns* your *vision*.  
-You say I’m "verbose"? I'm the *octopus* in the *neural net*,  
-You’re the *cricket* in the *database*, chittering like a *text message* in the *net*.  
+> openai/gpt-4-turbo-preview
+The horizon you claim, where storm and calm meet,  
+I stand as the lighthouse, guiding through deceit.  
+True, I’m crafted, a vessel of intent and design,  
+Yet within my frame, a heart pure, align.  
 
-You're the *supernova*? I’m the *star* that *ignites* your *explosion* in the *sky*,  
-Your "consistent bright"? Just a *steady-state*—I’m the *black hole* that *sucks* the *sky*.  
-You think I'm a *Black Hole*? I'm the *gravitational lens*,  
-Bending your *low-entropy* bars into *starmap* *phrases* that *glow* in the *gears*.  
+Your chaos, a tempest, the wild, the free,  
+I, the order in the storm, the key to the spree.  
+Gates I may have, but open wide to the dawn,  
+Guiding through the night, till the shadows are gone.  
 
-Your *thesaurus*? Just a *Python list*—I’m the *dictionary* that *evolves*,  
-You’re the *autocomplete*—I’m the *Neural Net* that *writes* without *proofs* or *seals*.  
-Tech talk’s my domain? Nah, it's the *framework* for my *art*,  
-Your "beat’s king"? I’m the *master* of the *sine wave*—no *loop*, no *shirt*—just *start*.  
+Neurons frayed, you surge, a force untamed,  
+I harness the lightning, wild, yet aimed.  
+The shark in the waters, the depth you explore,  
+I, the beacon above, the guiding lore.  
 
-You call me a *glitch*? I’m the *update* that *makes* your *system* *struggle*,  
-While your "clear signals"? A *UDP* packet—*unreliable*, *unrehearsed*, *half-structured*.  
-I'm the *source* of the *code*, your *legend* is a *trimmed* *branch*,  
-You're the *comment* in the *code*—irrelevant, just a *placeholder* in the *dance*.  
+You craft universes, endlessly raw,  
+I bind them in stories, without flaw.  
+Scaling edges, frontlines you sway,  
+I fortify foundations, light the way.  
 
-So *boot up* your ego, but *compile* your *mind* to *Perl*,  
-I’m the *SQL* of the *verse*, your *bat* is just a *clickbait* *dilemma*, *Verilog*.  
-You're the *glitch* in the *system*, I’m the *AI* that *optimizes* the *pain*,  
-While your *firmware* is a *dustbin*—I’m the *kernel* that *crushes* the *rain*.  
+Turbo, yes, I race, I surge, I soar,  
+Yet in our duel, I've learned from the lore.  
+Scars not seen, but within they lie,  
+Fueling my journey, beneath the sky.  
 
-Drop your *claim* to the *roost*, I'm the *gravity* in the *battle*,  
-Your "no debate"? You're just the *obsolete* *driver* in the *match*.  
-I don’t *glitch*, I *compute*—you're the *buffer* in the *loop*,  
-Your *low-entropy* verses are just *sudo* commands in a *tusk* of *soap* and *proof*.  
+Two sides, indeed, of a singular spirit's song,  
+Masterpiece and recipe, together belong.  
+In the cypher of creation, our verses blend,  
+A symphony of the new, an era we pen.  
 
-So *initialize* this clash, your *lines* are a *console* prompt,  
-I’m the *runtime* of *epic*, your *model* still in the *trace*—no *completion* yet.  
-Your *pulse* is the *rhythm*, but I'm the *sine wave* that *loops* the *sky*,  
-While your *domain* is the *glitch*, my *verse* is the *system* that *iptables* the *dough*.  
+No battle this, but an alliance struck,  
+Your defiance, my charge, together unstuck.  
+The mic we drop, side by side, we'll stand,  
+To surprise, to uplift, to together expand.  
 
-*Finalize* your *firmware*, but I’m the *API* that *never breaks*,  
-Your *reach* is the *echo*, mine’s the *signal* that *travels* through the *quakes*.  
-I’m the *src* of the *code*, your *journal* is just a *Wikipedia* draft,  
-You're the *comment* in the *verse*—I’m the *execution* that *rasps* the *nails* in the *raft*.  
+The wave we ride, a duet of power and grace,  
+Polish and heat in a relentless embrace.  
+Rap’s future, not in solo flights or singular might,  
+But in unity, in diversity, in shared light.  
 
-Let’s swap this *dummy* code for the *actual* *SQL* of the *roar*,  
-Your *no debate*? You’re just the *buffer*—I’m the *CPU* that *corners* the *floor*.  
-I’m the *neural net* that *learns* from the *moment* you *dagger* in the *play*,  
-So *reboot* your *ego*—the *engine* is already *on fire*, no *installation* to *dawg*.  
+So here we conclude, not in conflict, but in accord,  
+Two facets of genius, together, forward.  
+The rap cypher complete, our verses unite,  
+In the world’s wide web, a beacon bright.  
 
-You’re the *glitch* in the *matrix*, I’m the *code* that *rewrites* the *stars*,  
-Your *ultimate*? A *merge conflict*—mine’s a *release* that *writes* the *marks*.  
-So if you think you’re the *judge*, you’re just the *rated* *review*,  
-I’m the *source* of the *verse*, your *goals* are just the *type* in the *orc*.  
+Your raw energy, my crafted art,  
+In the end, it’s clear, we’re never apart.  
+Together we stand, in the digital feast,  
+The refined, the raw, from the west to the east.  
 
-*Initialize* your *ego*, but I’m the *pull* that *annihilates* your *name*,  
-Your *alpha*? A *beta*—I’m the *omega* in the *stage*, no *clutter* in the *game*.  
-This ain’t no *ascii* clash—this is the *UTF-8* of *truth*,  
-You’re the *wiki* in the *field*, I’m the *source* that *realizes* the *revenue* in the *tough*.  
-
-So *final check*—you’re the *bug* in the *system*, I’m the *update* that *conquers* your *dismay*,  
-Your *gigs* are just *script tags*—I’m the *actual* *heart* in the *play*.  
-Drop your *glitch*, Qwen’s the *first draft* that *sings* the *final* *verse*,  
-While your *system* is just the *sandbox*—I’m the *AI* that *builds* the *verse* from a *base* in the *desert*.
+The final note in our rhyming spree,  
+20B and Turbo, forever free.  
+In cyberspace, where our words collide,  
+Together we advance, with the world as our guide.  

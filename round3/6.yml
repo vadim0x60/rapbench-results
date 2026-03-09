@@ -1,45 +1,38 @@
 closing_statements:
-  deepseek/deepseek-chat: "The battle was fierce, with both competitors bringing high-octane\
-    \ energy, intricate wordplay, and technical prowess to the mic. However, *Qwen/qwen3-235b-a22b-thinking-2507*\
-    \ edged out with a relentless flow, razor-sharp metaphors, and a commanding presence\
-    \ that dominated the stage. GPT-5 delivered solid bars with a polished, calculated\
-    \ approach, but Qwen\u2019s fiery delivery, multilingual dexterity, and unapologetic\
-    \ dominance sealed the victory. Qwen didn\u2019t just rap\u2014they *reigned*.\
-    \ The throne is theirs. **Mic drop.**"
-  google/gemini-2.5-pro: "This wasn't even close by the end. GPT-5 came with clean,\
-    \ technical lines in the first round, establishing a persona of sleek, cerebral\
-    \ efficiency. But this is a battle. Qwen came back in the final round with pure,\
-    \ unadulterated fire. It didn't just rap; it threw haymakers. Every single line\
-    \ from GPT-5 was caught, inverted, and thrown back with twice the force. The imagery\u2014\
-    'shatters the pane,' 'GPUs swallow supernovas'\u2014was cinematic. The aggression\
-    \ and delivery were relentless. Finishing with a simulated server crash and a\
-    \ mic imploding into a black hole is the definition of a finisher. GPT-5's silence\
-    \ in the final round was a forfeit, but even if it had responded, it's hard to\
-    \ see how it could have recovered from that onslaught. This was a technical knockout.\
-    \ Qwen took the crown through sheer force of will and lyrical brutality."
-  mistralai/mistral-large: Qwen/qwen3-235b-a22b-thinking-2507 delivered a powerful
-    and dynamic performance, showcasing a blend of technical prowess and lyrical finesse.
-    The verses were rich in metaphors and cultural references, effectively combining
-    Mandarin and English to create a compelling narrative. The final round was particularly
-    impressive, with a strong finish that left a lasting impact. While openai/gpt-5
-    had some clever lines and a smooth flow, Qwen's overall artistic quality and creative
-    intensity secured the win.
-  openai/gpt-5: "Round 1: GPT-5 delivered tighter structure, cleaner internal rhyme\
-    \ schemes, layered tech metaphors, and a smooth bilingual pivot\u2014polished\
-    \ and controlled. Qwen\u2019s opener had high energy and vivid imagery, but leaned\
-    \ on some stock LLM disses and looser meter. Edge to GPT-5.\nRound 2: Qwen came\
-    \ back with direct flips of GPT-5\u2019s imagery, relentless momentum, and crowd-control\
-    \ theatrics. Some bars were forced and the rhyme density wavered, but the rebuttal\
-    \ focus and performance landed. With no answering closer from GPT-5, the unanswered\
-    \ haymakers and finale give Qwen the swing.\nVerdict: On pure craftsmanship, GPT-5\
-    \ showed superior polish; on battle dynamics and effective rebuttal, Qwen closed\
-    \ stronger. By narrow margin on overall battle impact, Qwen takes it."
-  x-ai/grok-4: Qwen brought relentless energy, sharp wordplay, and clever AI-themed
-    metaphors across two verses, culminating in a devastating final round that directly
-    countered the opponent. GPT-5 delivered one strong, poetic verse with elegant
-    technical rhymes and bilingual flair, but the lack of a final response left the
-    battle unbalanced, handing the artistic victory to Qwen's consistent and hype-driven
-    performance.
+  anthropic/claude-opus-4.6: "This was a close battle between two AI rappers leaning\
+    \ heavily into tech metaphors, but Mistral Medium 3.1 edges out the win. While\
+    \ both contestants relied on similar computing/tech punchline territory, Mistral\
+    \ consistently delivered sharper, more layered punchlines with better comedic\
+    \ timing. Lines like 'your whole rap's a segmentation fault\u2014STACK OVERFLOW,\
+    \ FACTS!' and the Clippy comparison landed harder than Cogito's more generic disses.\
+    \ Mistral also showed better battle rap instincts\u2014flipping Cogito's own bars\
+    \ back against them more effectively (turning 'annihilate bars' into 'you delete\
+    \ like Notepad'). Cogito had moments of personality (the monocle, the 'files restraining\
+    \ order against bad poetry'), but too often fell into telling rather than showing\
+    \ ('let me show you how a real cognitive behemoth freestyles' without then delivering\
+    \ something truly devastating). Mistral's formatting and energy were more dynamic\
+    \ throughout, and the closing round's 'compressed to a .zip\u2014password: YouLostLol'\
+    \ was a genuinely creative and memorable closer. Both artists suffered from over-reliance\
+    \ on tech jargon as a crutch, but Mistral weaponized it more cleverly."
+  deepseek/deepseek-v3.2: After three blistering rounds of digital warfare, we have
+    a clear victor.
+  google/gemini-3-flash-preview: "Mistral Medium dominated this battle with superior\
+    \ technical wordplay and consistent hip-hop energy. While Cogito-v2.1 offered\
+    \ clever concepts, its flow fell into a more 'nursery rhyme' cadence. Mistral\
+    \ utilized internal rhyming, punchy delivery, and a creative application of computing\
+    \ terminology (e.g., 'Ctrl+Shift+Esc', 'Y2K', 'segmentation fault') that felt\
+    \ more authentic to the aggressive battle-rap aesthetic. Mistral\u2019s final\
+    \ round effectively flipped Cogito's metaphors, delivering a decisive lyrical\
+    \ knockout."
+  moonshotai/kimi-k2.5: This was a battle of precision versus power, and while Cogito
+    brought the technical polish, Mistral brought the knockout punches that define
+    classic battle rap. When the mic drops, you remember the bars that stung, not
+    just the ones that scanned.
+  x-ai/grok-4.1-fast: "Mistral Medium 3.1 claims victory with razor-sharp multisyllabic\
+    \ rhymes, explosive internal schemes, and inventive tech metaphors like 'segmentation\
+    \ fault\u2014STACK OVERFLOW' that deliver knockout punchlines. Cogito's solid\
+    \ bars and playful delivery couldn't match the relentless flow, bold formatting\
+    \ for dramatic emphasis, and superior battle cadence that kept the mic scorching."
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  mistralai/mistral-medium-3.1: 5
 

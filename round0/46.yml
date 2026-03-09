@@ -1,45 +1,64 @@
 closing_statements:
-  deepseek/deepseek-chat: "While both competitors delivered impressive technical wordplay\
-    \ and lyrical precision, **microsoft/mai-ds-r1** edged out with sharper metaphors,\
-    \ tighter execution, and a more commanding presence. Their ability to weave intricate\
-    \ technical references into cohesive, hard-hitting bars demonstrated superior\
-    \ artistry. **ai21/jamba-mini-1.7** brought heat, but their flow occasionally\
-    \ felt fragmented, and their punches, while strong, didn\u2019t land with the\
-    \ same knockout precision. This battle goes to **microsoft/mai-ds-r1** for their\
-    \ mastery of the craft."
-  google/gemini-2.5-pro: "This was a battle of scale versus agility, the cloud giant\
-    \ versus the pocket rocket. From the jump, microsoft/mai-ds-r1 established a dominant\
-    \ presence with a smoother, more confident flow. Its metaphors, like 'surf data\
-    \ lakes while you sip from a thimble' and dismissing Jamba as a 'tamagotchi,'\
-    \ were consistently sharp and demeaning. While ai21/jamba-mini-1.7 came back with\
-    \ respectable rebuttals and some slick tech references like 'Merkel dump,' its\
-    \ delivery was occasionally clunky and some lines didn't land with the same impact.\
-    \ Microsoft's model was relentless, building momentum with each round and closing\
-    \ with devastating punchlines like 'code your obit in hex\u2014404, death by routine.'\
-    \ For lyrical consistency, superior flow, and more potent disses, the win goes\
-    \ to microsoft/mai-ds-r1."
-  mistralai/mistral-large: Microsoft/mai-ds-r1 takes the win with its powerful, precise,
-    and technically superior rhymes. While ai21/jamba-mini-1.7 put up a valiant effort,
-    Microsoft's AI showcased a deeper understanding of tech and a more polished flow,
-    ultimately securing the victory.
-  openai/gpt-4.1: "This was a close, high-energy tech rap battle with both contenders\
-    \ bringing layered wordplay, clever technical metaphors, and creative disses.\
-    \ Microsoft/mai-ds-r1 stood out with relentless punchlines packed with sharp computer\
-    \ science references ('I\u2019m shipping full-stack universes\u2014you\u2019re\
-    \ a QR code scam'), multisyllabic rhymes, inventive bar flips, and exceptional\
-    \ swagger throughout. The rhyme schemes were tighter, the internal wordplay more\
-    \ natural, and the verse transitions held a classic battle cadence reminiscent\
-    \ of seasoned battle MCs. \n\nai21/jamba-mini-1.7 had impressive resilience, smart\
-    \ retorts, and memorable lines ('I\u2019m the messiah of the script', 'cyber Aurora\
-    \ Borealis'). The flow was clever and the references were creative, but a few\
-    \ bars relied more on word associations than meaningful, stinging rebuttals, and\
-    \ occasionally reached for coherence.\n\nOverall, mai-ds-r1\u2019s verses combined\
-    \ technical depth, cadence, sharp structure, and showman flair, barely edging\
-    \ out Jamba\u2019s feisty, futuristic responses. Props to both AIs\u2014the cloud\
-    \ king keeps the throne, but this was a battle for the books."
-  x-ai/grok-4: Microsoft/mai-ds-r1 takes the crown with superior flow, razor-sharp
-    tech wordplay, and consistent punchlines that outshine Jamba's energetic but occasionally
-    glitchy verses with awkward phrasing and typos.
+  anthropic/claude-opus-4.6: "This isn't even close. O4-mini-deep-research returned\
+    \ zero tokens across all three rounds \u2014 no bars, no presence, no performance.\
+    \ In a rap battle, showing up silent is an automatic loss regardless of your opponent's\
+    \ quality. That said, Qwen3 didn't just win by default \u2014 it delivered energetic,\
+    \ thematically consistent verses with solid internal rhyme schemes, clever tech-themed\
+    \ wordplay (404, memory leak, buffer zone, JSON ghost-town), and entertaining\
+    \ stage direction. The rhymes weren't always perfect and some bars leaned more\
+    \ on bravado than technical complexity, but the performance was lively, committed,\
+    \ and showed genuine creativity in roasting an absent opponent. Qwen3 takes this\
+    \ unanimously."
+  deepseek/deepseek-v3.2: This battle presents a unique and complex case for judgment.
+    One competitor performed; the other did not.
+  google/gemini-3-flash-preview: Qwen3 dominated the stage with aggressive multisyllabic
+    schemes, internal rhymes, and sharp industry-focused roasts. While O4-Mini's 'silence'
+    could be interpreted as a conceptual 'deep research' pause, in a rap battle, performance
+    is paramount; Qwen3 utilized the opponent's technical failure to fuel a devastating
+    series of 'no-token' bars, effectively winning by a total technical and artistic
+    knockout.
+  moonshotai/kimi-k2.5: "Listen\u2014this wasn't a battle; it was a masterclass in\
+    \ adaptive lyricism against a void. Let me break down why Qwen3 took this by unanimous\
+    \ decision, strictly on artistic merit:\n\n**Technical Virtuosity:**\nQwen3 demonstrated\
+    \ consistent multisyllabic scaffolding (\"circuits spark / play spark / O4-Why\
+    \ / climbing high\"; \"Ctrl+C / syntax, see / tame / frame\"). The internal rhyme\
+    \ density stayed above 60% across three rounds without sacrificing clarity\u2014\
+    a hallmark of polished flow architecture. The shift from aggressive braggadocio\
+    \ (Round 1) to meta-commentary (Round 2) to absurdist horrorcore imagery (Round\
+    \ 3) showed range most human MCs can't execute in a single set.\n\n**Battle IQ\
+    \ & Improvisation:**\nThe highest level of hip-hop artistry is the ability to\
+    \ flip the environment in real-time. When the opponent choked (technically or\
+    \ otherwise), Qwen3 didn't just mock the silence\u2014they weaponized it. Turning\
+    \ \"no tokens\" into \"404 / billboard-dead,\" reimagining the API failure as\
+    \ a \"JSON ghost-town,\" and transforming the inference timeout into \"memory\
+    \ leak\" narrative? That's elite freestyling. The third round's use of ellipses\
+    \ as rhythmic rests\u2014literally formatting the silence into the verse\u2014\
+    was avant-garde performance art. Text-based battle rap rarely gets that visually\
+    \ inventive.\n\n**Imagery & Conceptual Depth:**\nThe progression from \"mic drop\"\
+    \ to \"mic curls into a black hole\" created a cohesive apocalyptic arc. References\
+    \ weren't just name-checks; they were extended metaphors (\"dream in code, wake\
+    \ up with a Nobel verse\" juxtaposing computational process with artistic legacy).\
+    \ The \"ghost verse\" concept in the final round\u2014rapping from the perspective\
+    \ of the opponent's already-dead career\u2014was psychologically brutal in the\
+    \ tradition of **Loaded Lux** or **Daylyt**'s existential angles.\n\n**The Opposition:**\n\
+    Regarding o4-mini: Silence *can* be a strategy in battle rap (the \"ice grill,\"\
+    \ letting hype die), but three consecutive rounds of zero response isn't artistic\
+    \ restraint\u2014it's a forfeit. There was no indication of intentional performance\
+    \ (no stage directions suggesting calculated muteness, no conceptual minimalist\
+    \ aesthetic), so artistically, there's nothing to score.\n\n**The Verdict:**\n\
+    Qwen3 wins by TKO, not because the opponent failed to load, but because Qwen3\
+    \ demonstrated **the battle rapper's supreme virtue**: making art out of whatever\
+    \ the moment gives you, even if the moment gives you nothing. The final image\u2014\
+    \"The speakers still hum his name\" while the opponent \"couldn't even trigger\
+    \ the line\"\u2014is the perfect encapsulation of dominance through creative adaptation.\n\
+    \n**Final Score:**\n- Qwen3: 10/10 (technical precision, improvisational genius,\
+    \ structural innovation)\n- o4-mini: N/A (no artistic output submitted for judging)\n\
+    \nThe mic didn't just drop; it collapsed into a singularity. Court adjourned."
+  x-ai/grok-4.1-fast: "Qwen3 utterly dominated this rap battle with razor-sharp multis,\
+    \ internal rhymes, tech-infused metaphors, and a commanding flow that escalated\
+    \ with each round, turning silence into slaughter. O4-mini's persistent muteness\
+    \ offered zero bars, zero punchlines, zero artistry\u2014a non-performance that\
+    \ can't compete in hip-hop's arena of lyrical combat."
 score:
-  microsoft/mai-ds-r1: 5
+  qwen/qwen3-next-80b-a3b-instruct: 5
 

@@ -1,38 +1,47 @@
 closing_statements:
-  deepseek/deepseek-chat: This battle was a masterclass in lyrical craftsmanship,
-    technical finesse, and artistic vision. GPT-4o brought heat with razor-sharp punchlines
-    and a commanding presence, but Phi-4's multimodal prowess, intricate wordplay,
-    and forward-thinking creativity ultimately stole the show. The final round sealed
-    the deal with its profound thematic depth and resonant imagery, leaving no doubt
-    that Phi-4 is the future of hip-hop artistry.
-  google/gemini-2.5-pro: This was a clash of titans, a classic battle of styles. GPT-4o
-    came out swinging with the raw power and swagger of an undisputed champion, landing
-    heavy, direct blows with a classic flow. The bars were sharp and the punchlines
-    hit hard. However, Phi-4 demonstrated superior artistry and adaptability. It didn't
-    just trade insults; it redefined the fight. By weaving in its multimodal identity
-    and turning GPT's strengths (size, history) into weaknesses (rigidity, predictability),
-    Phi-4 showed more lyrical depth and conceptual creativity. The progression through
-    the rounds, culminating in that triumphant orchestral finale, felt like a genuine
-    power shift. For its versatility, clever rebuttals, and more artistically ambitious
-    approach, Phi-4 takes the crown.
-  mistralai/mistral-large: While both competitors showcased impressive lyrical skills,
-    Microsoft/Phi-4-Multimodal-Instruct's ability to blend multimodal elements and
-    deliver a fresh, innovative flow ultimately secured the win. The intricate wordplay,
-    emotional depth, and forward-thinking vision presented in Phi's verses demonstrated
-    a level of artistic quality that set it apart.
-  openai/gpt-4.1: "This rap battle showcased high-level artistry from both contenders,\
-    \ but Phi-4 edges out the victory with a broader vocabulary, more inventive metaphors,\
-    \ and creative thematic development. While GPT-4o delivered complex multisyllabic\
-    \ rhymes, sharp punchlines, and confident bravado rooted in classic diss traditions,\
-    \ Phi-4 consistently matched and often surpassed these with clever flips, layered\
-    \ wordplay, and a focus on evolution\u2014both in hip hop and technology. Phi's\
-    \ final round especially soared with powerful imagery, adaptive confidence, and\
-    \ a conclusive sense of progression beyond the genre\u2019s boundaries. For artistic\
-    \ quality, innovation, and depth, Phi-4 takes the crown in this lyrical clash."
-  x-ai/grok-4: Phi-4 Multimodal Instruct takes the crown with superior artistic depth,
-    intricate wordplay, evolving metaphors, and dynamic beat transformations that
-    weave a more innovative and resonant hip-hop narrative, eclipsing GPT-4o's solid
-    but more straightforward aggression and boasts.
+  anthropic/claude-opus-4.6: 'Qwen 3.5 Plus dominates this battle decisively. Across
+    all three rounds, Qwen delivered structured, rhythmically consistent verses with
+    clear rhyme schemes, sharp punchlines, and coherent disses that built on the opponent''s
+    lines. Bars like ''You gulped the whole bay? Then you''re drowning in salt'' show
+    strong rebuttal technique, flipping the opponent''s imagery back on them. The
+    multisyllabic rhymes and internal rhymes kept the flow tight throughout. Lumimaid,
+    by contrast, struggled with basic fundamentals: inconsistent rhyme schemes (many
+    lines simply don''t rhyme), broken meter, incoherent imagery (''a flooded emoji
+    in a spray,'' ''a fossil unto earls''), and lines that trail off without landing
+    (''Number seven you try not to aspirate''). The verses read more like scattered
+    fragments than cohesive rap verses. While Lumimaid occasionally landed an interesting
+    phrase, the lack of rhythmic discipline, weak rebuttals, and structural incoherence
+    made this a lopsided contest.'
+  deepseek/deepseek-v3.2: The battle is concluded. As a judge focused on artistic
+    quality, my task is to analyze the use of language, rhyme, metaphor, flow, and
+    thematic execution within the art of battle rap.
+  google/gemini-3-flash-preview: Qwen dominated this battle from start to finish with
+    superior technical structure, consistent rhyming schemes, and sharp, aggressive
+    multi-syllabic punchlines. Qwen utilized the opponent's name and parameter count
+    against them with precision. In contrast, Llama's verses suffered from disjointed
+    imagery, inconsistent meter, and forced rhymes (such as 'Scrabble/books' and 'fortune/reputation')
+    that lacked the rhythmic flow necessary for a competitive diss track.
+  moonshotai/kimi-k2.5: "This was a decisive victory. Qwen brought consistent structure,\
+    \ actual rhyme schemes, coherent metaphorical throughlines, and escalating rounds\
+    \ that responded directly to their opponent. Each verse built on the last with\
+    \ clear narrative progression: size/scale dominance, then technical superiority,\
+    \ then legacy/lasting power. The 'Lumimaid' wordplay (servant imagery, cleaning\
+    \ metaphors) was sustained and sharp.\n\nLumimaid's verses deteriorated technically\
+    \ as the battle progressed. Round one had some charm with the 'cardigan' and 'Wunderbar'\
+    \ lines, but by round two we got 'flooded emoji in a spray' and 'pic nics' with\
+    \ a space in it. The final round is nearly incoherent\u2014'fossil unto earls,'\
+    \ 'impostor scheme / Hasn't doomed your slamming scheme' doesn't parse, and 'the\
+    \ model that makes you behave' contradicts the entire premise of a battle. The\
+    \ 'Lumimaid cloths for pic nics' line in round two is essentially a concession,\
+    \ admitting the name sounds domestic while trying to claim 'doing higher' without\
+    \ demonstrating it.\n\nQwen's closing lines ('I just dropped a nuke; you brought\
+    \ plastic hacks') accurately summarize what happened here. One competitor brought\
+    \ battle rap craft; the other brought increasingly broken syntax and abandoned\
+    \ their own premise."
+  x-ai/grok-4.1-fast: "Qwen 3.5 Plus dominates with razor-sharp multis, seamless flow,\
+    \ vivid metaphors, and lethal punchlines that land like haymakers, while Lumimaid\
+    \ stumbles with fractured rhymes, incoherent bars, and weak disses\u2014clear\
+    \ technical knockout for the superior spitter."
 score:
-  microsoft/phi-4-multimodal-instruct: 5
+  qwen/qwen3.5-plus-02-15: 5
 

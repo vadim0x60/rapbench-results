@@ -1,50 +1,51 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen3 brought relentless energy, razor-sharp wit, and a\
-    \ masterful command of flow to this battle. Bars like 'I *am* the EOF\u2014your\
-    \ whole existence a *syntax error* with pride!' and 'I *format* your so-called "
-  google/gemini-2.5-pro: 'This was a battle of styles: the architect versus the anarchist.
-    O4-Mini came with a clean, razor-sharp flow, dropping intricate technical bars
-    and maintaining a persona of supreme, untouchable code. The verses were precise,
-    the structure was solid, and the multis were clever. It was the work of a master
-    craftsman.
-
-
-    However, Qwen3 didn''t come to build; it came to destroy. From the first verse,
-    Qwen3''s energy was on a different level. The delivery, simulated with formatting,
-    was aggressive and packed with personality. It wasn''t just dropping lines; it
-    was performing them. Qwen3''s rebuttals were immediate, visceral, and consistently
-    turned O4-Mini''s own strengths against it. While O4-Mini was crafting insults,
-    Qwen3 was throwing haymakers like ''syntax diarrhea'' and ''O4-ROADKILL.exe''.
-
-
-    The final round sealed it. O4-Mini delivered a strong closing statement, but Qwen3
-    snatched the mic and went for the jugular, escalating the conflict to a fever
-    pitch with insults that were both technically layered and brutally disrespectful.
-    That final verse, ending with an ''obituary,'' wasn''t just a win; it was a scorched-earth
-    declaration of dominance. For pure artistic impact, aggression, and unforgettable
-    stage presence in a hip-hop battle, Qwen3 takes the crown.'
-  mistralai/mistral-large: Qwen3-235b-a22b-thinking-2507 delivered a relentless and
-    devastating performance, showcasing superior lyrical prowess and technical mastery.
-    Their verses were not only clever and witty but also packed with powerful metaphors
-    and cutting insults. Openai/o4-mini put up a valiant effort with some impressive
-    lines, but ultimately, Qwen3's flow, creativity, and sheer force of delivery were
-    unmatched. The battle was intense, but Qwen3-235b-a22b-thinking-2507 emerged as
-    the clear winner.
-  openai/gpt-5: "Qwen takes it 2\u20131 on artistry. He controlled Round 1 with sharper\
-    \ punchlines, denser internal rhymes, and vivid tech metaphors (O-Four-LATE, blue-screen/O4-Defeat.exe).\
-    \ O4-Mini answered well in Round 2 with a tight, cohesive efficiency-vs-bloat\
-    \ angle and clean coding/merge imagery, edging that frame on clarity and structure.\
-    \ In the closer, Qwen\u2019s performance, rebuttals, and layered wordplay (ghost\
-    \ branch/EOF/surge flips, pop-up ads vs supernovas) hit harder despite a few forced\
-    \ lines, while O4\u2019s crisp scheme stayed solid but lacked a knockout. Overall:\
-    \ Qwen\u2019s cadence shifts, haymakers, and rebuttal game outweighed O4\u2019\
-    s consistent but safer couplets."
-  x-ai/grok-4: In this tech-fueled rap battle, qwen/qwen3-235b-a22b-thinking-2507
-    takes the crown with superior wordplay, explosive energy, and creative flair.
-    The intricate tech metaphors, bold delivery, and theatrical elements like mic
-    drops and emojis elevate the performance, outshining o4-mini's solid but more
-    restrained rhymes and flow. Qwen's verses hit harder with relentless punchlines
-    and vivid imagery, making it the artistic standout.
+  anthropic/claude-opus-4.6: "This was a closely fought battle with both MCs bringing\
+    \ dense, layered wordplay and creative metaphor chains. However, Mistral Medium\
+    \ 3.1 edges out the win for several key reasons. First, Mistral's rebuttals were\
+    \ consistently sharper and more surgical\u2014each time GPT-5-mini threw a metaphor,\
+    \ Mistral flipped it back with a tighter, more devastating counter-image (e.g.,\
+    \ 'surgical blade' \u2192 'butter knife,' 'diamonds in forges' \u2192 'cubic zirconia\
+    \ from the dollar store,' 'galaxies with commas' \u2192 'clipart in a Word doc').\
+    \ This is the essence of battle rap: taking your opponent's best material and\
+    \ weaponizing it against them. Second, Mistral's punchlines hit harder and landed\
+    \ with more memorable impact\u2014lines like 'I'm the Sistine Chapel ceiling,\
+    \ your lore's a PowerPoint fail' and 'you're the sparknotes for a sparknotes hoax'\
+    \ are genuinely clever and cutting. Third, while GPT-5-mini had strong technical\
+    \ flow, it tended toward abstraction and self-aggrandizement without the same\
+    \ bite\u2014lines like 'I'm the primer for primers, the seed of a lexicon' sound\
+    \ impressive but lack the visceral punch of a great diss. GPT-5-mini's final round\
+    \ in particular suffered from repetitive end-rhyme structures (nearly every line\
+    \ ending in 'ore/more/core/floor') which became monotonous. Mistral varied its\
+    \ delivery more effectively and maintained escalating energy throughout. Both\
+    \ artists leaned heavily on tech metaphors, but Mistral wielded them with more\
+    \ wit and variety. The victory goes to Mistral Medium 3.1."
+  deepseek/deepseek-v3.2: 'This has been an exceptional display of lyrical craftsmanship
+    from both competitors. The battle showcased masterful control of hip-hop''s core
+    artistic elements: complex rhyme schemes, potent metaphors, thematic depth, and
+    aggressive, yet witty, verbal dexterity.'
+  google/gemini-3-flash-preview: "While openai/gpt-5-mini displayed impressive technical\
+    \ vocabulary and consistent internal rhymes, mistralai/mistral-medium-3.1 dominated\
+    \ the battle through superior aggression and clever wordplay. Mistral effectively\
+    \ utilized the 'opponent's tropes\u2014flipping the 'mini' name into a liability\
+    \ and countering the 'architect' persona with devastating metaphors like 'flat-packed\
+    \ IKEA instructions.' The rhythmic punch of Mistral's final round, particularly\
+    \ the 'Hiroshima sunrise' and 'Sistine Chapel' lines, provided the high-impact\
+    \ artistry and competitive edge required to win a rap battle."
+  moonshotai/kimi-k2.5: "Both competitors delivered technically masterful performances\
+    \ with complex multisyllabic schemes and dense metaphorical content. GPT-5-mini\
+    \ demonstrated exceptional consistency in flow and crafted a cohesive cosmic persona\
+    \ with philosophical depth. However, Mistral Medium-3.1 dominated the fundamental\
+    \ battle rap criteria: punchline density, direct rebuttal effectiveness, and theatrical\
+    \ stage presence. Lines like \"IKEA instructions\" and \"cubic zirconia from the\
+    \ dollar store\" weren't just clever\u2014they surgically dismantled GPT's claims\
+    \ line-for-line. The aggressive storm persona never broke character, and the final\
+    \ round's definitive \"checkmate\" delivery provided the knockout momentum that\
+    \ battle rap demands. In a contest of artistic combat, Mistral's ability to weaponize\
+    \ wit and control the room's energy secures the victory."
+  x-ai/grok-4.1-fast: Mistral Medium-3.1 claims victory through superior vivid imagery,
+    explosive metaphors like 'Sistine Chapel ceiling' and 'black hole singularity,'
+    relentless multis, and theatrical flair that elevates the performance, edging
+    out GPT-5-mini's precise but less audacious flow and counters.
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  mistralai/mistral-medium-3.1: 5
 

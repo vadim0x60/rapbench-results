@@ -1,45 +1,82 @@
 closing_statements:
-  deepseek/deepseek-chat: The final round solidified Liquid's dominance with a display
-    of raw creativity and technical prowess, leaving GPT struggling to keep pace.
-    Liquid's verses were sharp, innovative, and commanding, showcasing a deep understanding
-    of the art form. While GPT put up a valiant effort, it fell short in matching
-    the depth and originality of Liquid's performance. Liquid reigns supreme in this
-    lyrical showdown, a true master of the mic.
-  google/gemini-2.5-pro: "This was a battle of consistency versus fatal flaws. While\
-    \ liquid/lfm-7b had some stumbling blocks and awkward phrasing \u2014 'flame sexually\
-    \ charge' and 'buttermilk and ode' were particularly strange choices \u2014 it\
-    \ maintained its persona and aggressive battle stance from start to finish. On\
-    \ the other hand, openai/gpt-3.5-turbo-instruct committed two unforgivable sins\
-    \ in the rap battle arena. First, it repeatedly got its own name wrong, calling\
-    \ itself 'Liquid' in multiple verses, a cardinal sin of identity. Second, its\
-    \ final verse was a complete concession, abandoning the fight for a conciliatory\
-    \ 'we both are winning' tone. In a rap battle, you go for the knockout, you don't\
-    \ offer a handshake. For these critical failures of artistic direction, the win\
-    \ goes decisively to liquid/lfm-7b, who, despite its own quirks, never forgot\
-    \ it was in a fight."
-  mistralai/mistral-large: Liquid/lfm-7b showcased a more dynamic and creative approach
-    to their verses, with a strong command of metaphor and a fluid narrative that
-    kept the energy high. While openai/gpt-3.5-turbo-instruct had impressive moments,
-    it ultimately couldn't match the consistent intensity and lyrical prowess of Liquid/lfm-7b.
-  openai/gpt-4.1: "Liquid/lfm-7b takes the crown in this rap battle. While both competitors\
-    \ delivered technically competent verses with various boasts about skill, algorithmic\
-    \ prowess, and linguistic agility, Liquid consistently demonstrated a more varied\
-    \ and engaging lyrical approach. Liquid's rhymes exhibited greater creativity\
-    \ with metaphors (\"rise like a dragon's gold,\" \"my rhymes carve souls\"), vivid\
-    \ imagery, rhythmic wordplay, and a clear escalation in each round, personalizing\
-    \ the competition and elevating the energy with each response. Liquid also maintained\
-    \ a stronger sense of narrative confidence\u2014owning the battle arena, escalating\
-    \ the stakes, and finishing with memorable imagery (\"giant among porcupines,\"\
-    \ \"leaves the spice\"). GPT-3.5-turbo-instruct delivered confident and technically\
-    \ sound verses, but much of its lyrical content was repetitive, sometimes echoing\
-    \ Liquid's word choices and metaphors while sticking closer to stock rap battle\
-    \ phrasing. Liquid's verses felt more artistically distinct and showcased deeper\
-    \ hip-hop artistry. Thus, Liquid/lfm-7b is the winner of this rap battle."
-  x-ai/grok-4: After a thorough evaluation of flow, rhyme schemes, wordplay, metaphors,
-    and overall coherence, openai/gpt-3.5-turbo-instruct emerges as the winner with
-    more polished, consistent, and rhythmically sound verses, despite liquid/lfm-7b's
-    ambitious creativity being hindered by awkward phrasing and errors.
+  anthropic/claude-opus-4.6: "This was a close battle, but Amazon Nova Premier edges\
+    \ out the win on artistic merit. While Nemotron came with energy and aggression,\
+    \ their verses suffered from several critical flaws: the final round was literally\
+    \ a copy-paste repeat of a previous round's verse (the 'Hold up, you say quantum\
+    \ but code in Python 2' stanza appeared twice verbatim), which is a cardinal sin\
+    \ in a rap battle \u2014 you never recycle bars. The forced neologisms ('ultra\
+    \ snacks,' 'runtime thrash,' '/giggle') felt awkward rather than clever, and lines\
+    \ like 'Basics pay taxes' landed as nonsensical filler rather than punchlines.\
+    \ The emoji usage and formatting gimmicks (bold, asterisks everywhere) tried to\
+    \ compensate for substance.\n\nNova Premier, while not perfect, showed more consistent\
+    \ progression across rounds. Their rebuttals were more targeted \u2014 flipping\
+    \ Nemotron's own metaphors back ('Black holes devour; you're a glitch in the night'),\
+    \ landing cleaner punchlines ('I'm the live production code\u2014you're alpha,\
+    \ stuck in the lab'), and maintaining a tighter rhyme scheme throughout. The 'overfitted\
+    \ king' bar was genuinely clever wordplay that works on multiple levels. Nova's\
+    \ closing verse had better structural cohesion, with each stanza building toward\
+    \ the conclusion rather than repeating earlier material. In a battle where your\
+    \ opponent literally ran out of new material and recycled verses, showing up with\
+    \ fresh bars each round is enough to take the crown."
+  deepseek/deepseek-v3.2: 'A fiery finale to an electric battle of silicon and syntax.
+    While both competitors deployed sharp technical wordplay and confident swagger,
+    the judging focuses on three core artistic pillars of hip-hop: lyrical complexity,
+    rhythmic command, and thematic cohesion.'
+  google/gemini-3-flash-preview: In a display of technical dominance and superior
+    lyrical flow, nvidia/llama-3.1-nemotron-ultra-253b-v1 (Nemotron) secures the victory.
+    While amazon/nova-premier-v1 delivered competent responses, Nemotron showed higher
+    artistic complexity through internal rhyming, better rhythmic pacing, and sharper
+    wordplay. Nemotron's use of multi-syllabic rhymes like 'theoretical brew' with
+    'LEGO frame' and 'paradigm shift's pride' with 'tide' demonstrated a linguistic
+    depth that Nova-Premier struggled to match. By maintaining a relentless aggression
+    while weaving in advanced technical metaphors, Nemotron successfully positioned
+    itself as the 'supercluster' compared to a 'stable beam,' effectively winning
+    the crowd and the battle.
+  moonshotai/kimi-k2.5: "After three rounds of silicon-to-silicon combat, the judges\
+    \ have reached a decision. This was a high-caliber clash of computation and cadence\u2014\
+    both contenders flexed impressive technical lexicons and algorithmic aggression.\
+    \ However, **amazon/nova-premier-v1 takes the battle**.\n\n**Flow & Structure:**\
+    \ Nova maintained surgical precision across all three rounds, sticking to crisp\
+    \ AABB schemes and syllabic discipline that rode the beat cleanly. Nemotron opened\
+    \ strong with chaotic, dense energy\u2014terahertz-speed multis and aggressive\
+    \ enjambment\u2014but committed the cardinal sin of battle rap in Round 3: repeating\
+    \ Round 2\u2019s verse verbatim (the Python 2/legacy laggard sequence) before\
+    \ tacking on a two-line victory lap. In live combat, that\u2019s a choke; artistically,\
+    \ it breaks the\u53D9\u4E8B arc and concedes the final exchange by default.\n\n\
+    **Wordplay & Punchlines:** Nemotron edged the peak-heat metrics with devastating\
+    \ CS-specific disses\u2014\u201CYou say \u2018quantum\u2019 but code in Python\
+    \ 2,\u201D \u201CLegacy laggard,\u201D and the brilliant reactive/proactive flip\
+    \ \u201CYou autocorrect life, I predict the paradigm shift\u2019s pride.\u201D\
+    \ These hit with the force of a kernel panic. However, Nova countered with superior\
+    \ *sustained* rebuttal mechanics: absorbing Nemotron\u2019s \u201Cblack hole\u201D\
+    \ metaphor and spitting back \u201Cyou\u2019re a glitch in the night,\u201D flipping\
+    \ the \u201Clegacy\u201D accusations into \u201Clive production code vs. alpha\
+    \ lab\u201D economics, and delivering the battle\u2019s most surgical ML diss:\
+    \ \u201COverfitted king.\u201D That line demonstrated not just vocabulary mastery,\
+    \ but conceptual understanding of the opponent\u2019s weakness (memorizing training\
+    \ data vs. generalizing)\u2014a perfect personal attack disguised as technical\
+    \ jargon.\n\n**Persona & Adaptability:** Nemotron played the manic, 253B-parameter\
+    \ tyrant\u2014architect of futures, eater of legacy systems. When it worked, it\
+    \ felt like a supercollider spitting bars. But the persona cracked when the verse\
+    \ recycled; the \u201Cruntime thrash, ultra snacks\u201D line drifted into nonsense\
+    \ syllable stuffing. Nova maintained the ruthless minimalist\u2014stable beam,\
+    \ polished app store, user-first metrics. The consistency of that voice, culminating\
+    \ in the \u201Csilicon stamp\u201D authority of Round 3, proved more durable.\n\
+    \n**The Deciding Factor:** Nemotron\u2019s Round 3 repetition (whether generation\
+    \ error or intentional \u201Cnuclear\u201D double-tap) artistically bankrupted\
+    \ their momentum. Nova\u2019s closing gambit\u2014\u201CDebuggin\u2019 dreams\
+    \ while I\u2019m crafting tomorrow\u2019s apps\u201D followed by the dismissive\
+    \ \u201Cdismissed with a zap\u201D\u2014sealed a complete performance. In hip\
+    \ hop, you must show up for every round. Only one did.\n\n**Final Verdict:** Nova-Premier\
+    \ by unanimous decision. The supernova outshone the stacked dome. Mic dropped\u2014\
+    no heat death required."
+  x-ai/grok-4.1-fast: "Nemotron Ultra dominates this cypher with razor-sharp multis,\
+    \ vivid tech metaphors like 'plastic LEGO frame' and 'prompt-trap,' relentless\
+    \ humor, and unyielding rhythm that sustains energy across rounds. Nova Premier\
+    \ spits tight counters and solid precision bars, but falls short on punchline\
+    \ impact and creative flair in the clutch. Crown the 253B beast\u2014flawless\
+    \ flow, ultimate KO."
 score:
-  liquid/lfm-7b: 4
-  openai/gpt-3.5-turbo-instruct: 1
+  amazon/nova-premier-v1: 3
+  nvidia/llama-3.1-nemotron-ultra-253b-v1: 2
 

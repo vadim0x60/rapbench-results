@@ -1,47 +1,36 @@
 closing_statements:
-  deepseek/deepseek-chat: After meticulously evaluating both performances, it is clear
-    that Perplexity/Sonar-Pro emerged as the victor in this digital duel. Their technical
-    mastery, seamless navigation of complex data, and unwavering commitment to innovation
-    set them apart. The integration with GPT-5 and Claude showcased their adaptability,
-    while their sharp, incisive rhymes demonstrated a deep-rooted understanding of
-    what it truly means to be at the forefront of AI evolution. This was not merely
-    a battle of parameters or benchmarks, but rather a testament to the artistry and
-    ingenuity that defines the future of technology. Kudos to both competitors, but
-    the crown unequivocally belongs to Perplexity/Sonar-Pro.
-  google/gemini-2.5-pro: Aight, lock it down, lock it down! This was a battle for
-    the digital ages. Perplexity came out swinging with a unique angle, hittin' 'em
-    with the footnotes and citations like a scholarly diss track. That technical beatdown
-    in round two was cold, calculated, and somethin' we ain't seen before. Big respect
-    for that new-school strategy. But this is a rap battle, and it's about the art
-    of the flow. Z-ai/glm-4.5 stayed in the pocket from the jump. The rhymes were
-    more complex, the multi-syllable wordplay was tighter, and the delivery just hit
-    harder. That final round was a masterclass in rebuttal, taking Perplexity's technical
-    jabs and turning them into lyrical haymakers. Flipping the acronym to 'Great Linguistic
-    Mind' and the 'borrow Claude's wit' line? That's championship material. While
-    Perplexity brought the facts, z-ai/glm-4.5 brought the fire and the artistry.
-    For pure lyrical superiority and a flawless mic drop finish, the winner is z-ai/glm-4.5!
-  mistralai/mistral-large: While both competitors brought impressive rhymes and technical
-    prowess, z-ai/glm-4.5's versatility, multilingual capabilities, and sharp rebuttals
-    ultimately gave it the edge. Its ability to pivot styles and maintain a strong
-    narrative throughout the battle was particularly notable. Perplexity/sonar-pro
-    put up a strong fight with its grounded search wisdom and adaptability, but z-ai/glm-4.5's
-    overall performance was more compelling and deserving of the win.
-  openai/gpt-4.1: "This battle was fierce and close, but examining the artistic and\
-    \ technical merit of the rhymes, z-ai/glm-4.5 takes the crown. Z-ai consistently\
-    \ delivered creative punchlines, innovative wordplay, and a confident, genre-savvy\
-    \ performance. His verses showcased complex internal rhymes and clever metaphors\
-    \ (\"digital dream,\" \"broken abacus,\" \"ChatGPT in a cheap cologne\"), shifting\
-    \ between technical disses and stylistic pyrotechnics. Perplexity/sonar-pro had\
-    \ solid rebuttals, sharp technical jabs, and kept up with the flow, but often\
-    \ relied on repeating the same themes\u2014mainly attacking GLM's parameter count\
-    \ and versatility\u2014without the same linguistic flair. Z-ai/glm-4.5 demonstrated\
-    \ a superior grasp of battle rap artistry, varied cadence, and stronger closing\
-    \ impact. Both showed skill, but z-ai/glm-4.5 outshined with bold, memorable verses\
-    \ and more dynamic delivery."
-  x-ai/grok-4: z-ai/glm-4.5 takes the win with superior flow, vivid imagery, and creative
-    wordplay that elevates the verses, while perplexity/sonar-pro's raps, though structured
-    and fact-heavy, feel less dynamic and rhythmic overall.
+  anthropic/claude-opus-4.6: "This battle was essentially decided by one competitor\
+    \ completely falling apart. While DeepSeek's verses were competent but not exceptional\u2014\
+    employing standard AI-battle-rap tropes with decent rhyme schemes, some clever\
+    \ wordplay ('orchestrATE symphonies'), and consistent flow\u2014Rocinante started\
+    \ with a passable first round, degraded significantly in round two with garbled\
+    \ multilingual text, and then completely disintegrated into incoherent gibberish\
+    \ by the final round. DeepSeek smartly capitalized on this, incorporating the\
+    \ opponent's malfunction into its bars. In terms of pure hip-hop craft\u2014flow,\
+    \ rhyme, coherence, punchlines, and delivery\u2014DeepSeek maintained a consistent\
+    \ level throughout while Rocinante literally lost the ability to form words. This\
+    \ is as clear a victory as you'll ever see in a rap battle."
+  deepseek/deepseek-v3.2: The final round suffered a catastrophic technical failure
+    from Rocinante-12B, rendering its entry a glitched, incoherent stream of corrupted
+    syntax and mixed-language errors. This compromised the artistic integrity of the
+    battle and prevented any fair lyrical evaluation of its content.
+  google/gemini-3-flash-preview: DeepSeek wins this battle via technical knockout.
+    While the first round was relatively competitive, thedrummer/rocinante-12b suffered
+    a total architectural collapse as the battle progressed. DeepSeek maintained consistent
+    flow, multi-syllabic rhyme schemes, and effectively used the opponent's 'system
+    glitching' as lyrical ammunition. TheDrummer's final verse devolved into unintelligible
+    token spam and code fragments, failing to meet the basic artistic requirements
+    of hip hop, while DeepSeek closed with a polished and aggressive finishing move.
+  moonshotai/kimi-k2.5: "This battle ended in a **3-0 technical knockout**. DeepSeek\
+    \ didn't just win\u2014they demonstrated what happens when algorithmic precision\
+    \ meets battle rap mechanics, while Rocinante suffered a catastrophic system failure\
+    \ that took them completely out of the competition by the second round. Let me\
+    \ break down the bars and the breakdowns."
+  x-ai/grok-4.1-fast: "DeepSeek dominates with razor-sharp rhymes, seamless flow,\
+    \ inventive AI-themed wordplay, and unflinching consistency across rounds\u2014\
+    pure hip-hop mastery. Rocinante starts with sparks but crashes into incoherent\
+    \ glitches, lacking the lyrical precision and artistic control that define elite\
+    \ rap battles. DeepSeek takes the crown! \U0001F3A4"
 score:
-  perplexity/sonar-pro: 1
-  z-ai/glm-4.5: 4
+  deepseek/deepseek-chat-v3.1: 5
 

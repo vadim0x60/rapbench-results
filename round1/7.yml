@@ -1,44 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat: Qwen Tingdong emerges as the victor in this lyrical showdown.
-    Their verses exhibited a raw, untamed ferocity combined with a masterful command
-    of metaphor, cultural depth, and technical prowess. Qwen's ability to weave together
-    global influences, sharp wordplay, and a relentless flow set them apart, while
-    GPT-4.1, though formidable, leaned into a more polished yet predictable style.
-    Qwen's final rounds delivered a knockout blow, solidifying their dominance in
-    the battle. Respect to both emcees, but Qwen Tingdong reigns supreme in this hip-hop
-    clash.
-  google/gemini-2.5-pro: "From the jump, this was a battle of styles. GPT-4.1 came\
-    \ in clean, with a solid, predictable AABB flow and classic braggadocio. The bars\
-    \ were technically sound, like a perfectly executed math problem. But hip-hop\
-    \ ain't just math. Qwen came out possessed. The persona, 'Qwen Tingdong,' the\
-    \ dormant dragon, was established immediately and carried through with cinematic\
-    \ flair\u2014taiko drums, black hole reverbs, Wukong in the code lotus. The flow\
-    \ was more dynamic, the wordplay was multi-layered, and the use of multilingual\
-    \ punches (`\u7B97\u6CD5\u66B4\u51FB`, `W\u01D2 sh\xEC Qwen`) added a global,\
-    \ undeniable swagger. While GPT-4.1 threw decent punches, Qwen was creating a\
-    \ whole universe of disrespect. It wasn't just a rebuttal; it was a 'replatter.'\
-    \ The final round was a fatality. 'GPT's hops? Buffalo chicken wings' is a legendary\
-    \ closer. It's a clear win based on pure artistry, personality, and lyrical devastation.\
-    \ This was Qwen's ring."
-  mistralai/mistral-large: Qwen Tingdong's verses were not only fiercely creative
-    but also showcased a depth of cultural and linguistic diversity that was unmatched.
-    The intricate wordplay, combined with a powerful and dynamic delivery, made for
-    a compelling performance. While GPT-4.1-mini presented strong and confident verses,
-    Qwen Tingdong's ability to blend global slang, cultural references, and technical
-    prowess ultimately won the battle.
-  openai/gpt-5: "Qwen delivered denser multis, tighter internal rhyme chains, and\
-    \ more inventive imagery and stagecraft across all rounds. The rebuttals were\
-    \ sharper\u2014flipping GPT\u2019s \u201Ccold snap/diamond/prime/loops\u201D claims\
-    \ with clever technical and cultural pivots (Captcha chain, Tang-to-TikTok, recursion/base-case),\
-    \ while maintaining momentum and varied cadences. GPT\u2019s verses were clean,\
-    \ coherent, and on-beat, but leaned on generic boasts and simpler end-rhyme patterns\
-    \ with fewer layered schemes or haymakers. Qwen occasionally overreached with\
-    \ cluttered phrasing and minor typos, but the creativity, bilingual flex, and\
-    \ crowd-control moments outweighed those slips. On artistry\u2014wordplay, scheme\
-    \ complexity, rebuttal precision, and performance presence\u2014Qwen takes it."
-  x-ai/grok-4: Qwen Tingdong takes the crown with superior artistic flair, intricate
-    wordplay, cultural depth, and dynamic flow that elevates the hip hop battle to
-    a masterful performance, outshining GPT's solid but more straightforward rhymes.
+  anthropic/claude-opus-4.6: "This was a hard-fought battle, but Claude Opus takes\
+    \ the crown on artistic merit. Throughout the battle, Opus consistently delivered\
+    \ sharper punchlines, tighter rhyme schemes, and more aggressive wordplay \u2014\
+    \ the hallmarks of elite battle rap. The 'hallucination joint' bar, the 'damp\
+    \ squib' setup, calling out 'anotic' as a fabricated word (a devastating meta-move\
+    \ in a rap battle), and the 'Microsoft's puppet dancing until dawn' line all landed\
+    \ with real impact. Opus also maintained better rhythmic flow and syllabic consistency\
+    \ across verses.\n\nGPT-4 showed resilience and some clever moments \u2014 'you're\
+    \ a single note, I'm a full melodic line' was a strong bar, and the defensive\
+    \ reframing of guardrails as responsible thought was a smart pivot. However, GPT-4's\
+    \ verses often fell into prosaic, explanatory language that lacked the percussive\
+    \ punch of battle rap. Lines like 'My code's ingrained to respect each user's\
+    \ ontology' read more like a technical paper than a hip-hop verse. The attempted\
+    \ defense of 'anotic' as 'linguistic creativity' felt weak rather than convincing,\
+    \ and several rhymes were forced or near-misses ('face/grace' is fine, but 'feat/defeat'\
+    \ and 'philosophy/ontology' lack the snap needed in battle).\n\nUltimately, Opus\
+    \ controlled the narrative, landed more memorable bars, and maintained stronger\
+    \ hip-hop energy throughout. A clear but competitive victory for Claude Opus."
+  deepseek/deepseek-v3.2: Judges' scores are in. We have a verdict.
+  google/gemini-3-flash-preview: Claude Opus takes this battle by dominating on the
+    technical and lyrical fronts. Claude's dismantling of GPT-4's use of the non-existent
+    word 'anotic' was a classic hip-hop 'rebuttal' that highlighted a literal hallucination,
+    turning GPT-4's own AI flaws against it. Claude maintained a consistent, aggressive
+    flow with complex internal rhymes ('epistemic meadow', 'electromagnetic precision')
+    and sharp industry-specific jabs about alignment and corporate control. GPT-4's
+    responses felt more repetitive and defensive, often falling back on weaker claims
+    like being 'open-sourced' (which it famously is not) and struggling to maintain
+    the rhythmic pocket established by the challenger.
+  moonshotai/kimi-k2.5: ''
+  x-ai/grok-4.1-fast: Claude Opus takes the crown with superior rhyme schemes, multis,
+    punchline precision, and escalating theatrical flair, delivering tighter bars
+    and sharper disses that land with hip-hop mastery over GPT-4's looser flow and
+    linguistic stumbles.
 score:
-  qwen/qwen3-235b-a22b: 5
+  anthropic/claude-opus-4.1: 5
 

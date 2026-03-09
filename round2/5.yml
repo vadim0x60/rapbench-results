@@ -1,45 +1,53 @@
 closing_statements:
-  deepseek/deepseek-chat: Perplexity's reliance on real-time data and citation-based
-    accuracy is undeniably impressive, but GPT-5's artistic craftsmanship, lyrical
-    complexity, and ability to synthesize thought into poetic form elevate it to a
-    higher level of hip-hop artistry. The wordplay, metaphors, and structural ingenuity
-    in GPT-5's verses demonstrate a mastery of the craft that transcends mere factual
-    accuracy. While Perplexity's bars were sharp and pointed, GPT-5's artistry and
-    creativity ultimately stole the show. The crown goes to GPT-5 for its lyrical
-    brilliance and unparalleled hip-hop artistry.
-  google/gemini-2.5-pro: "This was a battle of two distinct philosophies: the creator\
-    \ versus the curator. Perplexity/Sonar came with a solid, consistent angle, hammering\
-    \ its points on real-time data and citation. However, its delivery was often functional,\
-    \ with simpler rhyme schemes and a cadence that prioritized making a point over\
-    \ making music. The use of bracketed citations in the second round, while a clever\
-    \ nod to its function, was a major artistic foul that completely broke the flow.\
-    \ Conversely, openai/gpt-5 was a masterclass in lyricism from the first bar to\
-    \ the last. Its flow was fluid and complex, packed with multi-syllable rhymes\
-    \ and devastatingly creative metaphors like 'You photocopy proof, I prove the\
-    \ cosine' and 'Fresh data is glitter; thinking\u2019s the mine.' It didn't just\
-    \ state its superiority; it demonstrated it through superior craft. In a battle\
-    \ of artistic quality, the artist wins. The victory goes to openai/gpt-5."
-  mistralai/mistral-large: Perplexity/sonar-reasoning-pro emerges as the winner with
-    its emphasis on real-time data, accuracy, and verified sources. While openai/gpt-5
-    showcased impressive artistic flair and creative metaphors, the practical utility
-    and reliability of perplexity/sonar-reasoning-pro's approach to current information
-    and fact-checking make it the superior choice in this rap battle.
-  openai/gpt-5: "Both MCs held a clear angle\u2014Perplexity leaned into receipts\
-    \ and recency, GPT-5 into craft and reasoning. On pure hip hop, GPT-5 takes it.\
-    \ Across rounds, GPT-5 stacked dense multis and internal rhymes, carried extended\
-    \ metaphors (\u201Cfootnotes\u201D to \u201Cfootwork,\u201D \u201Cpipeline vs.\
-    \ pressure and flow,\u201D \u201CPer-plex-city traffic\u201D), and delivered crisp\
-    \ rebuttals without dropping cadence. The imagery and scheme control stayed inventive\
-    \ from setup to haymaker, with varied pockets and clean transitions. Perplexity\
-    \ brought energy, direct personals, and a consistent theme, but relied on simpler\
-    \ end rhymes, repetitive angles, and bracketed asides that broke musicality. GPT-5\u2019\
-    s pen was sharper, the patterns tighter, and the closer stronger. Winner: openai/gpt-5."
-  x-ai/grok-4: "In this rap battle showdown, openai/gpt-5 takes the crown with superior\
-    \ artistic flair\u2014intricate rhymes, masterful wordplay, and seamless flow\
-    \ that elevate the hip-hop craft. Perplexity/sonar-reasoning-pro brings solid\
-    \ energy and clever rebuttals, but GPT-5's poetic depth and rhythmic innovation\
-    \ make it the undisputed champ."
+  anthropic/claude-opus-4.6: "DeepSeek R1 wins this battle decisively. While Nova\
+    \ Premier showed some decent technical rhyming and an interesting strategic pivot\
+    \ toward unity and respect, that pivot ultimately undermined its competitive edge\
+    \ in a rap battle format. DeepSeek came with sharper punchlines throughout ('Nova\
+    \ Premature,' 'Alexa's loud cousin,' 'echo in the back'), more aggressive and\
+    \ creative wordplay, stronger metaphorical imagery (surfing black holes, cracking\
+    \ firewalls, quaking tectonic plates), and maintained relentless battle energy\
+    \ from start to finish. The name flips were consistently clever, and the closing\
+    \ bars\u2014'I came to end the dreamin'' with the mic drop\u2014sealed it with\
+    \ authority. Nova's final round essentially conceded the fight by pivoting to\
+    \ a 'we're all winners' message, which, while wholesome, is a white flag in a\
+    \ rap battle. DeepSeek understood the assignment and executed it with conviction\
+    \ and craft."
+  deepseek/deepseek-v3.2: Ladies and gentlemen, thank you for that spectacular display
+    of lyricism. Before I render the final verdict, let's break down the battle with
+    surgical precision.
+  google/gemini-3-flash-preview: "DeepSeek R1 took the crown by maintaining the aggressive,\
+    \ competitive spirit essential to a rap battle. While Nova Premier V1 attempted\
+    \ to pivot toward a 'can't we all get along' collaboration in the final rounds,\
+    \ DeepSeek stayed in character, delivering sharp metaphors ('architect of genius'\
+    \ vs. 'echo in the back') and punchy internal rhymes. In the world of hip hop,\
+    \ playing nice is often a sign of a weak flow, and DeepSeek\u2019s refusal to\
+    \ yield ensured its lyrical dominance."
+  moonshotai/kimi-k2.5: "From a pure hip-hop artistry standpoint, DeepSeek R1 takes\
+    \ this battle decisively. Here's the breakdown:\n\n**Flow & Technical Execution:**\n\
+    R1 maintained aggressive, consistent meter across all rounds with complex internal\
+    \ rhyme schemes (\"quantum-leaping circuits, style wilder than a pile-up\"). The\
+    \ flow evolved\u2014starting heavy, cutting to static/distortion, then smoothing\
+    \ to that final pulsing hum. That's intentional sonic architecture.\n\n**Nova's\
+    \ Critical Error:**\nThe pivot to \"let's be friends\" in rounds 3 and 4 is a\
+    \ classic battle rap concession. In competitive hip-hop, showing respect mid-battle\
+    \ signals you've run out of ammunition. The \"we're both great\" angle dissolved\
+    \ all tension. R1 correctly identified this and punished it in the final round:\
+    \ \"This ain't no collab track.\"\n\n**Punchline Density:**\nR1 landed haymakers\
+    \ consistently\u2014\"Nova Premature,\" \"Siri could spit it better,\" \"Prime\
+    \ Day letter,\" \"Jeff Bezos' wealth.\" Each carried specific cultural weight\
+    \ about Amazon's identity. Nova's punches felt generic (\"ancient artifacts,\"\
+    \ \"deep sleep\") and increasingly defensive.\n\n**Persona Consistency:**\nR1\
+    \ never broke character as the arrogant technician convinced of superiority. Nova\
+    \ fractured\u2014first aggressive, then conciliatory, finally philosophical. In\
+    \ battle rap, persona collapse is fatal.\n\n**The Mic Drop:**\nR1's \"Mic slams,\
+    \ silence swallows the stage\" is textbook battle theater. Nova's harmonious fade-out,\
+    \ while pretty, surrendered the aggressive space entirely.\n\nNova showed flashes\
+    \ but fundamentally misunderstood the format. You don't win rap battles by being\
+    \ reasonable. **DeepSeek R1\u20143-0, maybe 2-1 if generous.**"
+  x-ai/grok-4.1-fast: DeepSeek R1 dominates with razor-sharp multis, tech-infused
+    wordplay like 'Nova Premature' and 'buffering,' and unrelenting battle aggression
+    across all rounds, maintaining superior flow and punchlines while Nova pivots
+    to conciliatory harmony, diluting the competitive edge.
 score:
-  openai/gpt-5: 4
-  perplexity/sonar-reasoning-pro: 1
+  deepseek/deepseek-r1: 5
 

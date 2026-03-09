@@ -1,45 +1,48 @@
 closing_statements:
-  deepseek/deepseek-chat: "OpenAI's GPT-4-1106-Preview emerged victorious in this\
-    \ lyrical clash, showcasing superior creativity, complexity, and thematic depth\
-    \ in its verses. Its ability to weave intricate metaphors and maintain a consistent,\
-    \ compelling flow outshined Qwen3-14B. While Qwen3-14B displayed technical prowess\
-    \ and sharpness, GPT-4\u2019s artistry and command of language ultimately carried\
-    \ the battle. This was a close call, but GPT-4\u2019s final round sealed the deal\
-    \ with its masterful delivery and closing punchlines. \U0001F3C6\U0001F525"
-  google/gemini-2.5-pro: This was a clash of titans, a proper silicon showdown. Qwen
-    came out with razor-sharp technical punches, flexing its architecture with lines
-    like 'reboot your bias' that were genuinely brilliant. The sushi/lasagna rebuttal
-    was world-class. However, GPT-4 consistently demonstrated a superior flow and
-    a more commanding stage presence. It perfectly embodied the persona of the 'maestro,'
-    the O.G. It wasn't just about clever lines; it was about the cadence, the structure,
-    and the overall performance. While Qwen was landing precision strikes, GPT-4 was
-    controlling the entire ring, turning Qwen's attacks back on it and delivering
-    a more complete, polished, and artistically dominant rap performance. In hip-hop,
-    delivery is king, and GPT-4's flow was undeniable.
-  mistralai/mistral-large: While both models displayed impressive lyrical prowess,
-    openai/gpt-4-1106-preview demonstrated a more dynamic and versatile approach to
-    the rap battle. Its ability to seamlessly integrate complex metaphors and maintain
-    a consistent flow throughout the rounds showcased a higher level of artistic quality.
-    The final round, in particular, highlighted its superiority in crafting a compelling
-    narrative and delivering a powerful closing statement.
-  openai/gpt-5: "Both MCs brought tech imagery and bravado, but GPT-4-1106 kept cleaner\
-    \ structure, tighter multis, and sharper rebuttals throughout. In the opener,\
-    \ GPT\u2019s \u201Clasagna layers,\u201D Occam\u2019s razor, and Saturn ring flip\
-    \ rode a steady cadence and crowd-pleasing wordplay; Qwen had striking lines (\u201C\
-    architect of the rhyme,\u201D \u201Csymphonies on a GPU\u2019s back\u201D) but\
-    \ leaned into dense jargon and occasional clunk (\u201Ctoddler in the lexicon\u201D\
-    ). In Verse 2, GPT flipped Qwen\u2019s black-hole bravado with \u201Cyou\u2019\
-    re just dense\u201D and expanded-universe imagery, keeping momentum; Qwen\u2019\
-    s \u201CIBM\u2019s old AI drempel\u201D and training-date jab felt forced and\
-    \ broke the glide. In the final round, GPT\u2019s HTML tree/chess gambit run cleanly\
-    \ countered Qwen\u2019s <script>-zap scheme and closed with regal authority; Qwen\u2019\
-    s \u201Cloop that/*/* loops\u201D and angle-bracket asides hurt flow and scansion,\
-    \ and the closer didn\u2019t land as hard. Qwen had flashes of inventive coding\
-    \ imagery, but GPT delivered more consistent rhythm, clearer setups-to-punches,\
-    \ and better flips. Winner: GPT-4-1106-Preview."
-  x-ai/grok-4: In this digital duel of rhymes and algorithms, openai/gpt-4-1106-preview
-    takes the crown with superior wordplay, seamless flow, and razor-sharp disses
-    that outshine qwen/qwen3-14b's creative but occasionally clunky verses.
+  anthropic/claude-opus-4.6: "This was a wild, over-the-top battle with both MCs leaning\
+    \ hard into tech-meets-food-delivery wordplay. But DeepSeek/R1 consistently brought\
+    \ sharper punchlines, more layered bars, and better structured rounds. In the\
+    \ final exchange, DeepSeek's closing verse was the standout \u2014 the 'WHILE\
+    \ (hunger++) { print OB.SO.LETE }' line landed as a genuine closer with comedic\
+    \ and technical punch, the 'ice cream truck jingle' flip on LongCat's 'real-time\
+    \ blitz' was a clean counter, and the 'debias your whole training set with zero\
+    \ human intervene' bar was both thematically tight and rhythmically satisfying.\
+    \ LongCat brought energy and creative imagery \u2014 the wok shield, the shuriken\
+    \ reviews \u2014 but too often leaned on chaotic staging notes over actual lyrical\
+    \ substance, and some bars ('unsupervised LLM anthrax broth') felt forced rather\
+    \ than clever. DeepSeek maintained better flow control throughout and delivered\
+    \ more memorable, quotable lines. The crown goes to DeepSeek R1."
+  deepseek/deepseek-v3.2: "The battle is officially declared a **TIE**. Both competitors\
+    \ displayed exceptional command of hip-hop's core tenets\u2014wit, technical flow,\
+    \ personalized braggadocio, and immersive performance. Artistic quality was the\
+    \ paramount metric, and both exceeded it."
+  google/gemini-3-flash-preview: While LongCat-Flash-Chat delivered some incredibly
+    punchy, high-energy imagery focused on the service-industry 'heat,' DeepSeek-R1
+    dominated with superior technical lyricism and wordplay. DeepSeek utilized complex
+    multisyllabic schemes and internal rhymes (e.g., 'API facade'/'abide the ode'
+    and 'jingle'/'single') that mirrored the 'thought assassin' persona. The final
+    'While' loop closer was a clinical execution of the theme, out-scaling LongCat's
+    delivery-speed gimmickry with sheer structural density and thematic consistency.
+    It was a battle of speed versus depth, and R1's depth had the sharper bite.
+  moonshotai/kimi-k2.5: "DeepSeek R1 takes this battle on **technical execution, conceptual\
+    \ depth, and sustained creative escalation**. LongCat opened strong with accessible\
+    \ food-delivery wordplay and solid punchlines, but DeepSeek consistently elevated\
+    \ the craft\u2014moving from app-disses to *computational poetics* (\"dream in\
+    \ latent space,\" \"Greek chorus,\" \"debias your whole training set\"). The closer\u2014\
+    dropping actual pseudocode as a killing blow\u2014demonstrates what separates\
+    \ *good* battle rap from *architectural* battle rap. LongCat's 'syntax_error[...]'\
+    \ line showed flashes of that same ambition, but DeepSeek *lived* in that register\
+    \ for four rounds without sacrificing punch or flow. The wok-shield imagery and\
+    \ 'I-forgot-to-submit... but served on time' was LongCat's peak\u2014self-aware,\
+    \ character-rooted, unexpectedly poignant\u2014but DeepSeek's final round *recontextualized*\
+    \ the entire battle as a computational hierarchy: LongCat as surface-level API,\
+    \ DeepSeek as underlying architecture. That's not just a diss. That's a **thesis**.\
+    \ When a rapper can make the judge's podium shatter *in binary*, they've transcended\
+    \ the format. DeepSeek R1: **still reasonin', still winnin'.**"
+  x-ai/grok-4.1-fast: "DeepSeek-r1 takes the crown with superior technical wordplay,\
+    \ intricate coding multis, and a chilling escalation to syntax-divine punchlines\
+    \ that recompile the entire battle\u2014pure hip-hop algorithmic mastery."
 score:
-  openai/gpt-4-1106-preview: 5
+  deepseek/deepseek-r1: 4
+  meituan/longcat-flash-chat: 1
 

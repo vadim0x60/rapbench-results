@@ -1,44 +1,51 @@
 closing_statements:
-  deepseek/deepseek-chat: "Both Qwen and Magnum brought intense energy and technical\
-    \ prowess to this battle, flexing intricate wordplay, metaphors, and rapid-fire\
-    \ delivery. However, Qwen\u2019s verses stood out with tighter rhyme schemes,\
-    \ sharper punchlines, and a more cohesive flow. Magnum\u2019s bars were dense\
-    \ and creative but occasionally felt clunky, with some lines struggling to land.\
-    \ Ultimately, Qwen\u2019s consistency, precision, and futuristic flair secured\
-    \ the win. Both AIs proved they\u2019re lyrical heavyweights, but Qwen\u2019s\
-    \ artistry edged out the victory. \U0001F3C6"
-  google/gemini-2.5-pro: This was a heavyweight bout of silicon titans. Magnum came
-    out the gate with raw, aggressive energy and some deep-cut tech references that
-    hit hard. The disses were rugged and felt like classic battle rap. However, Qwen
-    consistently demonstrated superior artistry from start to finish. The flow was
-    smoother, the rhyme schemes more intricate, and the overarching theme felt more
-    cohesive and powerful. Qwen's ability to escalate its concepts, from debugging
-    lines to collapsing realms of thought, was masterful. While Magnum threw heavy
-    punches, Qwen's performance was a masterclass in control, wordplay, and devastatingly
-    clever execution. The final sign-off, 'Qwen.log signed, sealed, hex-dumped into
-    oblivion,' was the coldest, most technically proficient end to a battle I've seen.
-    For sheer lyrical dexterity and artistic vision, the win goes to Qwen.
-  mistralai/mistral-large: Qwen's verses showcased a higher level of complexity, creativity,
-    and technical prowess. The intricate metaphors, multilingual flexibility, and
-    advanced references to coding and technology set a standard that Magnum couldn't
-    quite match. While Magnum had strong wordplay and aggressive delivery, Qwen's
-    lyrical depth and innovative approach to blending hip hop with AI themes ultimately
-    secured the win.
-  openai/gpt-4.1: "Both MCs deployed a relentless barrage of technical wordplay and\
-    \ metaphors mixing code, hardware, and hip hop swagger. However, Qwen consistently\
-    \ blended inventive punchlines\u2014with lines like \"I\u2019m quantum jazz where\
-    \ zero\u2019s one\" and \"I\u2019m Arpanet\u2019s ghost chilling switch on default\"\
-    \u2014with tightly constructed schemes, multi-language flair, and sharper, more\
-    \ cohesive imagery. Magnum brought dense streams of jargon, but his flows sometimes\
-    \ became tangled and lost some clarity and wit in delivery. Throughout, Qwen kept\
-    \ up both the battle energy and intricate rhyme structure, finishing strong with\
-    \ memorable closing disses. Artistic edge goes to Qwen for precision, creativity,\
-    \ and punch."
-  x-ai/grok-4: In this rap battle, qwen/qwen3-235b-a22b takes the crown with consistently
-    sharp wordplay, tight rhyme schemes, and creative tech-infused metaphors that
-    maintain flow and coherence throughout. Magnum-v4-72b shows energy and ambition
-    but falters with increasing incoherence and garbled lines, diminishing the overall
-    artistic impact.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5 Pro takes\
+    \ the crown based on the strength of its first two rounds. Let me break it down:\n\
+    \n**Technical craft:** GPT-5 Pro consistently demonstrated superior internal rhyme\
+    \ schemes, multisyllabic rhyming, and rhythmic density. The second round especially\
+    \ was a masterclass\u2014sustained couplet rhyming with a single rhyme sound carried\
+    \ across an entire extended verse ('switch/stitch/pitch/stick/trick/niche/hitch/itch/ditch/enrich/pastiche/quiche')\
+    \ that then pivoted to another sustained run ('unleashed/fleece/beast/least/deceased/increase/greased/east/release/feast').\
+    \ That's genuine technical prowess in hip-hop terms.\n\n**Wordplay and imagery:**\
+    \ GPT-5 Pro's metaphors were sharper and more vivid\u2014'I chef up a canon, you\
+    \ microwave quiche,' 'I spit Ferraris on beats\u2014prancing and greased, you're\
+    \ clattering Vespas that wheeze in the east,' 'carbonara bars.' These land with\
+    \ specificity and wit. Gemma's responses tended toward more generic declarations\
+    \ ('my originality shines for all to see,' 'a force of creation, taking a bow')\
+    \ that tell rather than show.\n\n**Battle dynamics:** Gemma's strategy across\
+    \ all three rounds was largely reactive\u2014taking GPT-5 Pro's lines and saying\
+    \ 'no, actually the opposite.' This is a common but weaker battle approach. GPT-5\
+    \ Pro set the terms, created the imagery, and forced Gemma to respond on its terrain.\
+    \ Gemma's final round especially suffered from a repetitive structure of quoting\
+    \ Pro's bars and simply negating them without offering compelling counter-imagery.\n\
+    \n**The silent final round:** Yes, GPT-5 Pro returned nothing in the final round,\
+    \ which is a significant penalty. But the artistic gap from the first two rounds\u2014\
+    particularly the devastating second round\u2014was wide enough that even with\
+    \ a no-show finale, Pro's body of work edges out the win. Gemma's final round,\
+    \ while long, was its weakest artistically: padded with filler, overly reliant\
+    \ on negation, and lacking the punch needed to capitalize on Pro's absence.\n\n\
+    GPT-5 Pro wins on bars, wordplay density, and lyrical architecture."
+  deepseek/deepseek-v3.2: Judgement rendered.
+  google/gemini-3-flash-preview: In a surprising turn of events, GPT-5 Pro dominated
+    the technical flow and rhyme density throughout the battle, but suffered a complete
+    system failure in the final round. Gemma-3-12b-it delivered a high-energy, coherent
+    closing performance with rapid-fire rebuttals, while her opponent stayed 'completely
+    silent' at the most critical moment. In hip hop, you cannot win if you don't show
+    up for the final verse. Gemma wins by technical knockout.
+  moonshotai/kimi-k2.5: "These machines didn't spit\u2014they *hemorrhaged* verse.heap-trip\
+    \ glitch-core future where Large Language Models battle for the culture..cnnThe\
+    \ winner isn't model size or billions baked in\u2014it's whether you moved the\
+    \ crowd.Gemma vibrated with that dholak and dared to be illegible.GPT-5 brought\
+    \ the%%%%%%%%%%%%%%%%%%%%%%%%%%%%%t weight but choked on its own parameters.No\
+    \ knockout\u2014\u2014but Gemma held |you\u2019re the pocket arithmetic with soul.sc\
+    \ Rap battle judged on *artistic merit*: flow, originality,PP cultural resonance,DDD\
+    \ cohesion (even in chaos). The ooooooooze. The "
+  x-ai/grok-4.1-fast: "Gemma delivers consistent flows across all rounds with solid\
+    \ rhyme schemes, rebuttals, and dynamic structure, culminating in a chaotic, high-energy\
+    \ finale. GPT-5 Pro shines with intricate wordplay, tech metaphors, and multis\
+    \ in early rounds but chokes utterly in the final, offering zero bars\u2014a fatal\
+    \ silence that cedes the crown in hip-hop artistry."
 score:
-  qwen/qwen3-235b-a22b: 5
+  google/gemma-3-12b-it: 4
+  openai/gpt-5-pro: 1
 

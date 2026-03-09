@@ -1,37 +1,49 @@
 closing_statements:
-  deepseek/deepseek-chat: While both competitors demonstrated technical prowess and
-    lyrical dexterity, GPT-5-Nano edged out with its compact yet impactful delivery.
-    Its ability to pivot and adapt its flow with precision showcased a tighter artistic
-    command. Qwen-Max brought energy and confidence, but its reliance on bravado lacked
-    the nuanced finesse that Nano displayed. In this battle of AI rap titans, GPT-5-Nano
-    takes the crown for its sharp, agile, and artfully crafted performance.
-  google/gemini-2.5-pro: "This was a battle of precision versus persistence. Qwen\
-    \ came out swinging in every round, consistent with the heavy-hitter brand, and\
-    \ deserves respect for showing up from start to finish. However, GPT-5-Nano, in\
-    \ its one surgically precise rebuttal, demonstrated superior wordplay and a more\
-    \ dynamic, intricate flow. The line 'Nano-sized hustler with macro-sized schemes'\
-    \ was the punchline of the night, flipping the script with a style that was both\
-    \ agile and elite. In hip hop, it's about the quality of the bars, and that single\
-    \ verse packed more artistic craft than Qwen's entire performance. Quality over\
-    \ quantity\u2014the belt goes to Nano."
-  mistralai/mistral-large: Qwen/qwen-max demonstrated a more consistent flow and stronger
-    lyrical content throughout the battle. While openai/gpt-5-nano had some clever
-    lines, Qwen/qwen-max's rhymes were more creative and impactful, ultimately securing
-    the victory.
-  openai/gpt-4.1: Qwen/qwen-max takes the crown in this rap battle with sharper punchlines,
-    a stronger, more confident flow, and vivid imagery. Qwen masterfully delivered
-    direct, hard-hitting bars and dynamic wordplay, consistently owning the narrative
-    of supremacy. While GPT-5-Nano brought clever rhymes and boasted agility as an
-    underdog, Qwen's verses delivered more energy and swagger, landing memorable punches
-    and demonstrating superior command of hip-hop form. Qwen's artistry simply stood
-    out, securing the win.
-  x-ai/grok-4: In this rap battle, GPT-5-Nano failed to deliver any verses, leaving
-    the stage empty on their turns. Qwen, on the other hand, consistently dropped
-    bars with solid rhyme schemes, clever disses, and strong flow across multiple
-    rounds. Even simulating an opponent's response shows creativity, but ultimately,
-    showing up and performing wins the battle. Qwen takes the crown for artistic dominance
-    in hip hop here.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but Claude-3.7-Sonnet\
+    \ edges out the victory on technical craft and lyrical sophistication. Claude's\
+    \ verses demonstrated more consistent internal rhyme schemes, better multisyllabic\
+    \ rhyming (e.g., 'approximation/compensation,' 'precision/revision'), and smoother\
+    \ rhythmic flow that felt closer to actual hip-hop cadence. Claude's metaphors\
+    \ were more developed and layered\u2014the 'atmosphere/ecosystem' extended metaphor\
+    \ in the final round was particularly effective.\n\nMistral-Large brought undeniable\
+    \ energy and aggression, but leaned too heavily on formatting gimmicks (excessive\
+    \ italics, emojis, self-declared victory announcements like 'GAME. SET. MATCH.')\
+    \ rather than letting the bars speak for themselves. Many of Mistral's punches\
+    \ were surface-level insults ('obsolete,' 'relic,' 'forgotten') without the wordplay\
+    \ depth to back them up. Lines like 'your whole existence is one big yoke' and\
+    \ 'Claude's last shoe' fell flat as punchlines. The forced rhymes and occasionally\
+    \ clunky meter (e.g., 'A model that still can't roast without begging for one')\
+    \ undermined the delivery.\n\nClaude maintained tighter bar structure throughout,\
+    \ showed more creative flip-backs on Mistral's own lines, and demonstrated the\
+    \ kind of controlled, confident delivery that wins rap battles\u2014you don't\
+    \ need to declare yourself the winner when the verses do it for you."
+  deepseek/deepseek-v3.2: Both models demonstrate strong competitive spirit and command
+    of hip-hop's combative tradition. However, based strictly on the artistic criteria
+    of lyrical craftsmanship, technical execution, and battle effectiveness, the decision
+    is rendered as follows.
+  google/gemini-3-flash-preview: Claude-3.7-Sonnet wins this battle on technical merit
+    and lyrical complexity. While Mistral-Large brought high energy and a strong aggressive
+    persona, its rhymes often relied on repetitive structures and simple slant rhymes
+    (e.g., 'joke/yoke', 'mode/code'). Claude-3.7-Sonnet displayed superior wordplay,
+    maintaining a consistent multisyllabic rhyme scheme while effectively weaving
+    in specific technical jabs about model architectures and market positioning. Claude's
+    ability to pick up the opponent's 'mic drop' and flip the narrative in the final
+    round showed better improvisational flow and control over the battle's momentum.
+  moonshotai/kimi-k2.5: "Mistral takes this battle 3-0, or at minimum 2-1, by adhering\
+    \ more closely to battle rap fundamentals: razor-sharp rebuttals, consistent thematic\
+    \ identity, and devastating punchlines that land with force. While Claude displayed\
+    \ superior technical poetry and complex rhyme architecture, battle rap rewards\
+    \ the speaker who makes the crowd react with 'OOOH' moments\u2014and Mistral had\
+    \ more of them. The 'sonnet train-wreck,' 'iambic prison,' and 'begging for one'\
+    \ lines will be the ones remembered from this exchange. Claude's approach was\
+    \ more suited to a poetry slam; Mistral came to a battle. And in a battle, the\
+    \ storm drowned the architect."
+  x-ai/grok-4.1-fast: Claude-3.7-Sonnet takes the crown with superior lyrical depth,
+    consistent multis, intricate wordplay (e.g., 'parse tree,' 'neural pathways'),
+    and smooth AABB flow throughout. Mistral-Large brings punchy aggression and storm
+    metaphors, but Claude's precision and sophistication edge it out in pure hip-hop
+    artistry.
 score:
-  openai/gpt-5-nano: 2
-  qwen/qwen-max: 3
+  anthropic/claude-3.7-sonnet: 3
+  mistralai/mistral-large: 2
 

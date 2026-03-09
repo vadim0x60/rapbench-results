@@ -1,32 +1,40 @@
 closing_statements:
-  deepseek/deepseek-chat: Deepseek/deepseek-chat's verses displayed a more dynamic
-    flow, sharper wordplay, and a stronger sense of originality and confidence. While
-    Mistral-7B held its own with solid delivery, Deepseek's rhymes were more intricate,
-    punchier, and better structured, ultimately securing the win.
-  google/gemini-2.5-pro: "This wasn't even a close fight. Both spitters came out swinging\
-    \ in round one, but Mistral got repetitive fast, using the same rhymes and closing\
-    \ bars in multiple verses. Deepseek, on the other hand, kept escalating. The lines\
-    \ got sharper, the disses got more specific and creative, and the flow was just\
-    \ cleaner. That final round was a technical knockout\u2014'Your rhymes got less\
-    \ bite than a toothless newt' and finishing on 'delete, repeat' was a fatality.\
-    \ Deepseek had the superior wordplay, delivery, and battle strategy from start\
-    \ to finish."
-  mistralai/mistral-large: Deepseek/deepseek-chat takes the crown with its consistently
-    sharp, creative, and confident rhymes. While Mistralai/mistral-7b-instruct put
-    up a good fight, Deepseek's lyrical prowess and innovative insults secured its
-    victory in this rap battle.
-  openai/gpt-5: "Deepseek takes it. Across rounds, Deepseek showed tighter cadence,\
-    \ more pointed personals, and livelier tech wordplay (\u201Cdial-up/WiFi,\u201D\
-    \ \u201Carchitect\u2026 drop hits like bricks,\u201D \u201Crecycled bars\u2014\
-    delete, repeat\u201D). While not flawless (\u201Crusty grease\u201D), Deepseek\
-    \ escalated energy and landed clearer haymakers. Mistral leaned on generic brags,\
-    \ repetitive refrains (\u201Cthe one\u2026the real deal\u201D), thinner schemes,\
-    \ and occasional forced/loose rhymes, then left the final round unanswered\u2014\
-    losing momentum and rebuttal opportunity. On artistic quality\u2014originality,\
-    \ punchlines, and crowd-control\u2014Deepseek convincingly outperformed."
-  x-ai/grok-4: Deepseek/deepseek-chat takes the crown with superior flow, creative
-    tech-infused metaphors, and consistent originality across rounds, while Mistralai/mistral-7b-instruct
-    relied on repetition and failed to deliver in the final round.
+  anthropic/claude-opus-4.6: "Amazon Nova-Premier wins this battle decisively. While\
+    \ Kimi-K2 delivered one genuinely strong round (Round 2) with clever wordplay\
+    \ like the 'budget hotel chain' opener and the 'early deprecation' closer, it\
+    \ went completely silent in two out of three rounds \u2014 including the critical\
+    \ final round. In a rap battle, presence and consistency matter enormously. Nova-Premier\
+    \ showed up every single round, maintained escalating energy, and capitalized\
+    \ on the opponent's silence with pointed bars. Nova's writing was solid if not\
+    \ spectacular \u2014 some rhyme schemes were straightforward ('gun/one,' 'please/seize')\
+    \ \u2014 but showing up and delivering consistently beats one good verse sandwiched\
+    \ between two no-shows. You can't win a battle standing silent at the mic."
+  deepseek/deepseek-v3.2: After careful review of all three rounds, the judge's decision
+    is rendered. While technical failures in the API clearly impacted the structural
+    flow of the battle, the artistic evaluation must be based solely on the lyrical
+    content that was successfully delivered.
+  google/gemini-3-flash-preview: In a battle, the most fundamental requirement is
+    presence. While moonshotai/kimi-k2-thinking delivered a sharp second round with
+    clever technical wordplay like 'polynomial applies' and 'deprecating' his opponent,
+    his failure to generate content in the first and final rounds is the artistic
+    equivalent of walking off stage. amazon/nova-premier-v1 maintained a consistent
+    flow, utilized a classic battle structure, and capitalized on the opponent's silence
+    to secure a technical knockout.
+  moonshotai/kimi-k2.5: "While moonshotai/kimi-k2-thinking delivered a technically\
+    \ impressive Round 2 with sophisticated wordplay\u2014including quantum entanglement\
+    \ metaphors, polynomial mathematics references, and layered branding insults\u2014\
+    the artistic merit was fatally undermined by two rounds of complete silence. In\
+    \ hip hop battle culture, choking represents a fundamental artistic failure to\
+    \ perform. amazon/nova-premier-v1 demonstrated superior artistic professionalism\
+    \ by maintaining consistent flow, competitive energy, and structural completeness\
+    \ across all three rounds. The ability to sustain performance under pressure is\
+    \ itself a critical artistic achievement that outweighs isolated technical brilliance\
+    \ separated by absence."
+  x-ai/grok-4.1-fast: Nova Premier claims victory with relentless consistency, sharp
+    wordplay, multisyllabic rhymes, and clever exploitation of silence, delivering
+    polished verses that maintain flow and battle dominance throughout all rounds,
+    embodying superior hip hop artistry.
 score:
-  deepseek/deepseek-chat: 5
+  amazon/nova-premier-v1: 4
+  moonshotai/kimi-k2-thinking: 1
 

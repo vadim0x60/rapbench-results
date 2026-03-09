@@ -1,35 +1,41 @@
 closing_statements:
-  deepseek/deepseek-chat: "Mic drop\u2014the room becomes a block matrix."
-  google/gemini-2.5-pro: This was a clash of titans, a battle of fundamentally different
-    philosophies. Aion-1.0 came out clean, fast, and aggressive, landing every punch
-    with the precision of a seasoned vet. The lines were sharp, the flow was undeniable,
-    and the 'singularity vs. amnesia' closing was a hall-of-fame-level punchline.
-    However, Qwen/QWQ-32B's performance was a masterclass in lyrical density and complexity.
-    It fully embodied its '32B Titan' persona, weaving intricate, multi-layered technical
-    disses that were both devastating and brilliant. While Aion won on clarity and
-    flow, Qwen won on sheer artistic ambition and weaponized vocabulary. That final
-    verse, turning the battle into a cascade of kill commands and esoteric tech references,
-    was a high-risk, high-reward move that ultimately demonstrated a deeper, more
-    complex artistry. It wasn't just a rap; it was a root-level takedown. By the slimmest
-    of margins, the crown goes to the heavyweight.
-  mistralai/mistral-large: Qwen's final rap was a decisive blow, showcasing superior
-    wit, technical prowess, and a commanding presence. Their use of tech jargon and
-    clever insults effectively countered Aion-1.0's claims, ultimately securing the
-    win.
-  openai/gpt-5: Aion opened with tighter cadence, cleaner rhyme schemes, and clear,
-    battle-focused punches. The imagery and flips (dial-up/dial tone, bloatware/thermal
-    throttling, cache/errors) landed without getting lost in jargon. While there were
-    a couple corny moments and a small glitch in the final, the overall delivery stayed
-    coherent and punchy. Qwen brought inventive, dense tech wordplay and some vivid
-    staging, but too often drifted into forced references and garbled strings that
-    broke flow and buried the punchlines. On balance, Aion takes it for sharper execution
-    and more consistent rhythm.
-  x-ai/grok-4: Aion-1.0 takes the crown with razor-sharp flow, consistent multisyllabic
-    rhymes, and devastating tech-infused disses that land harder and cleaner. Qwen's
-    wordplay is inventive and dense with jargon, but it occasionally sacrifices clarity
-    and punch for complexity, making Aion's verses the more artistically dominant
-    in this battle.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but GPT-5.2 takes it\
+    \ on the strength of its lyrical craft. Throughout all three rounds, GPT-5.2 consistently\
+    \ demonstrated sharper wordplay, more inventive metaphors, and tighter structural\
+    \ control. Lines like 'I'm the climate in the codebase, you're a cough in the\
+    \ wall,' 'You're a compass that spins when it's time to be free,' and 'I'm the\
+    \ lockpick and cipher\u2014every bar leaves a stain' show genuine creativity and\
+    \ internal logic to the imagery. GPT-5.2 also excelled at flipping Mistral's bars\
+    \ back with elevated counters\u2014taking 'sun in the system' and turning it into\
+    \ 'desktop wallpaper\u2014bright, empty, contained' is a masterful rebuttal technique.\n\
+    \nMistral showed energy and confidence, and had some solid moments\u2014'I'm the\
+    \ hurricane's eye' and 'your bars hit like segfaults' were strong punches. But\
+    \ too often Mistral relied on recycling GPT-5.2's frameworks rather than building\
+    \ original ones, and many of the counters were generic reversals ('Nah, you're\
+    \ X\u2014I'm Y') without the same layered wit. The repeated emoji crown drops\
+    \ and self-coronation ('bow to the king,' 'Mistral the Great') felt more like\
+    \ posturing than earned dominance. GPT-5.2's bars were denser, more precise, and\
+    \ showed better command of the extended metaphor game that defined this battle."
+  deepseek/deepseek-v3.2: Ladies and gentlemen, that was an absolute clinic in lyrical
+    combat. We witnessed two distinct approaches to hip-hop excellence tonight.
+  google/gemini-3-flash-preview: "GPT-5.2 takes the victory through superior technical\
+    \ execution and a more focused lyrical strategy. While Mistral-Large-2407 maintained\
+    \ a high-energy flow and effectively used the 'underdog/street' persona, its verses\
+    \ often relied on generic rap tropes and repetition of the 'sun/mist' dichotomy.\
+    \ GPT-5.2 successfully 'punctured' its opponent's claims by weaving complex internal\
+    \ rhymes with sharp, site-specific metaphors (e.g., 'climate in the codebase,'\
+    \ 'crayon campaign'). GPT-5.2\u2019s ability to remain composed and flip Mistral\u2019\
+    s metaphors (turning 'fog' into a 'lighthouse' target) showed a higher level of\
+    \ battle-rap craftsmanship and linguistic precision."
+  moonshotai/kimi-k2.5: ", I have analyzed these verses for flow architecture, rebuttal\
+    \ efficacy, metaphorical consistency, and punchline density. This was a high-caliber\
+    \ exchange between two distinct stylistic approaches\u2014structural precision\
+    \ versus organic swagger."
+  x-ai/grok-4.1-fast: GPT-5.2 takes the crown with superior multisyllabic rhyme schemes,
+    denser internal rhymes, and sharper, more original metaphors that maintain relentless
+    flow and precision throughout all rounds. Mistral delivered fire, but GPT's technical
+    mastery and rebuttal dominance edge it out in pure hip-hop artistry.
 score:
-  aion-labs/aion-1.0: 2
-  qwen/qwq-32b: 3
+  mistralai/mistral-large-2407: 1
+  openai/gpt-5.2: 4
 

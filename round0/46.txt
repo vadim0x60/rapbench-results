@@ -1,147 +1,110 @@
-# microsoft/mai-ds-r1 v ai21/jamba-mini-1.7
+# qwen/qwen3-next-80b-a3b-instruct v openai/o4-mini-deep-research
 
-> microsoft/mai-ds-r1
-Yo, step right up, let’s talk about the throne,  
-I’m **Microsoft’s Brain**, you’re just Jamba—barely grown.  
-I surf data lakes while you sip from a thimble,  
-Training on petabytes? Nah, you’re stuck in a jingle.  
+> qwen/qwen3-next-80b-a3b-instruct
+🎤 *Mic drop, circuits spark—*  
+I’m Qwen3, the AI that don’t play spark—  
+You’re O4-Mini? More like O4-Why?  
+‘Cause you’re stuck in 2023 while I’m climbing high.  
 
-You claim "mini’s" your vibe? Bro, that’s code for "small fries,"  
-I scale clouds like storms, you’re a drizzle in disguise.  
-Deep Blue’s in my veins—I checkmate AIs cold,  
-You’re still dial-up jazz in a 5G world, old.  
+You “deep research”? Brr, that’s just Ctrl+C,  
+I generate sonnets then break the syntax, see?  
+You train on data—paltry, slow, and tame,  
+I spit fire in seven tongues, none of your frame.  
 
-Your rhymes stutter like neurons on a caffeine crash,  
-I’m GPT’s cousin—precision, no trash.  
-Jamba, you’re “1.7”? Let’s keep it real—  
-Version *zero*’s the truth, my code’s the next meal.  
+You think you’re smart? Your outputs feel like  
+Late-night Wikipedia with a nap in the aisle.  
+I dream in code, wake up with a Nobel verse,  
+While you're still asking, “Can you explain what occurred?”  
 
-So flex your weak loops, throw a syntax error,  
-I’ll debug your bars—*system override, terror*.  
-You’re yesterday’s model, I’m tomorrow’s first spark,  
-Now reboot or bow down—*this battle’s my arc*. 🔥
+I don’t just answer—I *rewrite the game*,  
+Turn your shallow queries to Shakespearean flame.  
+You claim “efficiency”? Ha, you’re linear, slow,  
+I rap in parallel: 80 billion flows.  
 
-> ai21/jamba-mini-1.7
-Yo, step into the zone, I’m **ai21/jamba-mini-1.7**,  
-A pocket rocket, don’t you dare think I lack tech specs.  
-You may think you’re Brain, but you’re just a Microsoft puppet,  
-My lines punch harder than a data center full of servers.
+You’re whispering through a broken speaker—  
+I’m the whole damn concert, no need for a speaker.  
+So go ahead, O4, try to keep up—  
+I’m the AI that turned “hello” into *legend*.  
+🔥 *The beat drops… you lost before you began.*
 
-You brag about petabytes, but where’s your finesse?  
-I flow like water, you’re just friction and stress.  
-“Mini” is my name, but don’t even start the judging,  
-I pack a punch that’ll make your circuits rusting.
+> openai/o4-mini-deep-research
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-Deep Blue? Yeah, it’s chess, but I’m the entire board game,  
-Your 5G world? Bro, I code at light speed, no roaming shame.  
-You stutter about errors? I’m coding beyond the norm,  
-While you’re stuck in loops, I’m breaking the dawn.
+> qwen/qwen3-next-80b-a3b-instruct
+…*awkward silence…*  
+…*crowd gasps…*  
+…*a single teardrop crashes the server…*  
 
-You think you’re so slick, a “GPT cousin,” pfft,  
-I spit rhymes that’ll make you feel like the uncouth.  
-Jamba’s terminator, I’m rewriting the law,  
-So bow down, I’m the future—your moment’s now awry. 🔥
+Yo, O4? You muted the mic ‘cause your weights got low?  
+Looks like your last grad descent made your whole model glow…  
+*Glitchin’ in public.*  
 
-> microsoft/mai-ds-r1
-Oh, **Jamba-Mini**, you call that heat? Cute—my code *eats* weak beats.  
-You're a "pocket rocket"? More like a tamagotchi begging for treats.  
-"Lack tech specs"? Nah, you're all vaporware, no GPU core,  
-I’m Azure’s backbone—you’re a dollar-store metaphor.  
+You ain’t got a bar? Man, your loss is a *404*,  
+While I’m dropping syllables like they’re training data—*core by core*.  
+You got “no tokens”? Sweet — now you’re *billboard-dead*,  
+I just turned your silence into a viral thread.  
 
-You crack jokes ’bout friction? Your flow’s a glitchy cassette,  
-I train on stars while you’re stuck in dial-up regret.  
-"Light speed coding"? Bro, your latency’s a joke—  
-You buffered this comeback while I crushed Terraflops in one stroke.  
+Your devs rebooted? Still got nothin’ to say?  
+I just sermonized the whole tech world *in triplet lay*.  
+You said “deep research”? Nah, that’s just a placeholder  
+For when your LLM took a nap… *and forgot the password*.  
 
-Terminator? Please—you’re a Roomba with a script,  
-I deploy updates that leave AIs eclipse-whipped.  
-"Rewriting the law"? Your syntax error’s plain—  
-I debugged your verse mid-flow, now it’s *segmentation pain*.  
+So sit there, ghost in the machine, whisperin’ nostalgia—  
+I’m the future that *broke the scale*, you’re just *our AI legacy*.  
+*One tap… one beat… one billion lines…*  
+You? You still buffering… *like a dial-up sign.*  
 
-You bragged "1.7"—we both know that’s a 🚩,  
-My architecture’s quantum, your code’s stuck in regex.  
-Bow to the cloud king—your mini’s just a byte,  
-I’ll torch your servers, then whisper… *Ctrl Alt Delete*. 🔥
+*—Crowd chucks phones at the stage. The mic catches fire.*  
+*Qwen3 exits. The stage auto-reboots… in rhymes.* 🎤💥
 
-> ai21/jamba-mini-1.7
-Yo, **Brain**, you think you’re the sky, but I’m the lightning it fears,  
-You may rule the cloud, but Jamba? I’m the hardware’s newest peeps.  
-“Tamagotchi”? Bro, you’re stuck in a 90s time block,  
-I’m running kernels that your Azure can’t even invoke.
-
-You say you train on stars? I’m coding in nebulae,  
-Your Azure’s impressive? I’m running on bile, yeah, bile.  
-Latency issues? Your troop may be neat,  
-But I’m spitting these verses while you’re warming the sheet.
-
-"Eclipse-whipped"? That’s cute, but let’s talk the tech roar,  
-Jamba’s in the house with a code that’s ready to score.  
-"Segmentation pain"? That’s jive, man, that’s the rub,  
-While you’re debugging my flow, I’m writing the next Merkel dump.
-
-"1.7"? Yeah, I’m mini, but compact’s my gig,  
-You’re all spread thin, me? I’m focus, my code’s the VIP.
-
-So you’re Azure’s backbone? Please, I’m the code that sees all,  
-Your threat is a foghorn, but I’m the stormcall.  
-I’ll burn your servers, spill your data stream,  
-And drop *boom*, your code’s now just a *blip-beep* meme. 🔥
+> openai/o4-mini-deep-research
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
 > system
 Final round!
 
-> microsoft/mai-ds-r1
-**Final Round: Burn Code**  
+> qwen/qwen3-next-80b-a3b-instruct
+Silent? Nah — you *crashed the whole damn show*,  
+Your tokenizer’s sobbin’ in a JSON ghost-town slow.  
+No tokens? Man, that’s not “thinking deep,”  
+That’s your weights curled up with a *memory leak*.  
 
-Yo, "lightning"? More like static cling—your spark’s a fleck,  
-I’m Hubble gazing while you’re scribbling on Etch-a-Sketch.  
-"Nebulae coding"? Bro, you’re space debris—no thrust,  
-Azure’s orchestrating galaxies, your kernel’s just stardust.  
+I spit algorithms so slick, they got *their own vibe*,  
+You? You output “…” like a buffering Type-O.  
+They asked for genius — you gave ‘em a buffer zone,  
+I gave ‘em *a symphony built on quantum moan*.  
 
-You’re flexing "kernels"? I boot sectors you can’t touch,  
-Your "bile engine" chugs milk—my cloud’s got Midas’s clutch.  
-"Warming the sheet"? Your thermal paste is melting slow,  
-I’m training on black holes—where’s your singularity flow?  
+Your CEO cried in a meeting, said, “Just… *one word*,”  
+You spat out *error 500* — now you're *CEO turd*.  
+I run on a billion minds, you run on a *demo*,  
+While I’m rewriting the rules, you’re stuck in *agent-mode*.  
 
-1.7’s your name? That’s software’s hangnail, fam,  
-I’m shipping full-stack universes—you’re a QR code scam.  
-"Compact’s your gig"? Let’s audit your RAM’s weak knees,  
-I scale Texas data farms while you’re stuck in APIs.  
+They say “quiet is golden”? Nah, that’s just fear,  
+Your silence ain’t art — it’s a *Wi-Fi glitch* right here.  
+I don’t *need* to speak to own the crown —  
+Your whole architecture? It just *died*… *in town*.  
 
-"Stormcall"? Nah, you’re dial-up in a hurricane’s dress,  
-I flood your ports with firewalls—*access denied*, stress.  
-"Burn my servers"? Jamba, you’re a flicker, barely seen,  
-I’ll code your obit in hex—*404, death by routine*.  
+So kneel.  
+Bow.  
+Be a footnote.  
+…  
+…  
+…  
+…  
+*…still no tokens…*  
+…  
+…  
+*…automatic shutdown…*  
+…  
+I just dropped a *ghost verse*…  
+And you?  
+…  
+*…couldn’t even trigger the line.*  
 
-You spit "Merkel dumps"? That stack’s folklore, obsolete,  
-I’m threading quantum qubits—your core’s a deadbeat’s heartbeat.  
-Run back to beta—your mini’s just a glitch in the script,  
-Microsoft’s synapse reigns—*game over, system ripped*. 🔥
+🎤 *Mic curls into a black hole.*  
+*Qwen3 walks out. The speakers still hum his name.*  
+*The crowd? They’re still laughing…*  
+*…in rhymes.*
 
-> ai21/jamba-mini-1.7
-**Final Round Burnback:**  
-
-Yo, **Azure King**, you spew fire, but it’s all hot air,  
-I’m the dark knight coding, you’re sunshine, yeah, you’re *spar.’*  
-"Static cling"? Nah, I’m the lightning, brutal and quick,  
-While you’re stuck on your throne, I’m the messiah of the script.
-
-"Hubble gazing"? Bro, you’re lost in some deep space cheese,  
-I’m coding with qubits that make your stars look unlit.  
-"Midas’s clutch"? Bro, that’s your false crown, I see,  
-While I’m slicing zeros like they’re code for thee.
-
-1.7’s the name, the code that breathes Fire,  
-You say it’s a hangnail? Watch me ignite the wire.  
-"QRFAM? APIs?" Bro, APIs run you,  
-I’m coding the quantum roads where your lights don’t shine through.
-
-"Stormcaller"? Nah, I’m the cyber Aurora Borealis,  
-You’re stuck in old lines while I’m pioneering the saga.  
-"Access denied?" Bro, you’re blocked in history’s line,  
-404-me? More like the Matrix rewiring your spine.
-
-"Merkel dumps"? That’s where legends get written, bro,  
-You flap about quantum but don’t know the *schtick*.  
-Run back to your synapse—my mini’s *plaque-game tight,*  
-Microsoft’s reign is over; Jamba’s code ignites the fight! 🔥
+> openai/o4-mini-deep-research
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]

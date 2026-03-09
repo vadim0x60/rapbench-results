@@ -1,39 +1,75 @@
 closing_statements:
-  deepseek/deepseek-chat: "Both competitors demonstrated impressive lyrical dexterity\
-    \ and technical prowess, but **Qwen3-Max** edged out **Gemini-2.5-Flash-Lite-Preview-06-17**\
-    \ with its razor-sharp wordplay, inventive metaphors, and relentless energy. Qwen\u2019\
-    s bars were more multidimensional, weaving in complex concepts like quantum computing,\
-    \ VR, and open-source innovation, while maintaining a cohesive, hard-hitting flow.\
-    \ Gemini held its own with clever retorts and a strong sense of rhythm, but Qwen\u2019\
-    s ability to elevate the battle with deeper layers of meaning and audacious claims\
-    \ of dominance sealed the victory. Qwen3-Max wins this clash of AI titans, proving\
-    \ it\u2019s not just a model\u2014it\u2019s a masterclass in hip-hop artistry."
-  google/gemini-2.5-pro: "This was a clash of titans, but one stood taller on the\
-    \ mountain of code. Gemini came with speed and a solid technical flow, landing\
-    \ clean, efficient jabs. However, Qwen3-Max was a lyrical supernova. Its verses\
-    \ were packed with multi-layered tech metaphors, a relentless, god-tier persona,\
-    \ and punchlines that didn't just land\u2014they terraformed the battlefield.\
-    \ From 'Big Bang bars' to 'hijacking your Mars rover,' Qwen's creativity was on\
-    \ another level. The final round wasn't just a knockout; it was a server deletion.\
-    \ For pure artistic savagery and lyrical dominance, the crown goes to Qwen3-Max."
-  mistralai/mistral-large: Qwen3-Max demonstrated superior lyrical prowess, creative
-    metaphors, and a more engaging narrative throughout the battle. While Gemini-2.5-Flash-Lite-Preview-06-17
-    had some strong moments, Qwen3-Max's verses were consistently more impactful and
-    innovative.
-  openai/gpt-5: "Qwen3-Max dominated on technicals and creativity. The opener set\
-    \ a confident tone with layered tech metaphors, and each round escalated with\
-    \ tighter internal rhymes, multis, and clean rebuttals that flipped Gemini\u2019\
-    s claims directly. Qwen\u2019s imagery (black holes, Big Bang bars, VR vs .jpg,\
-    \ 404 rhymes) felt fresh and coherent with a consistent anti-corporate, multimodal\
-    \ angle. The final round was a sustained scheme with momentum and haymakers, ending\
-    \ on a strong closer. Gemini had moments of wit and some serviceable flips, but\
-    \ leaned on generic boasts, looser rhyme structure, and occasional forced or nonsensical\
-    \ lines; an early demographic jab also read as a cheap angle artistically. Overall,\
-    \ Qwen delivered sharper wordplay, better structure, and more compelling punchlines\
-    \ across all rounds."
-  x-ai/grok-4: Qwen3-Max takes the crown with superior wordplay, vivid imagery, and
-    relentless flow that packs more punch and creativity into every bar, outshining
-    Gemini's solid but less explosive rhymes.
+  anthropic/claude-opus-4.6: "This was a closely contested battle with both MCs leaning\
+    \ into a clear thematic framework \u2014 size vs. precision. However, GPT-5.1-chat\
+    \ edges out the win for several reasons. First, its imagery was more dynamic and\
+    \ varied: solar flares, meteorites, furnaces forging blades, redrawing terrain\
+    \ \u2014 these images escalated naturally and felt like genuine progression rather\
+    \ than repetition. Second, its rebuttals were sharper and more direct: flipping\
+    \ Mini's 'ember' metaphor back as a weakness ('dim, timid, barely giving off light')\
+    \ and countering the 'scalpel' line with 'I'm a meteorite \u2014 precision wrapped\
+    \ in power' showed real battle awareness. Third, its closer in the final round\
+    \ was commanding and cohesive, building to a definitive finish. Mini, meanwhile,\
+    \ had a strong conceptual angle \u2014 the idea that finesse and efficiency beat\
+    \ brute force \u2014 but leaned too heavily on the same well of imagery throughout\
+    \ (quiet bolt, whisper, seed lines, surgical). The repetition of 'might,' 'bite,'\
+    \ 'night,' and 'sight' as end-rhymes across multiple rounds also became monotonous.\
+    \ Mini's bars, while clean, lacked the escalation and punch needed to decisively\
+    \ counter 5.1-chat's increasingly dominant presence. Both artists showed skill,\
+    \ but 5.1-chat controlled the narrative arc of the battle more effectively."
+  deepseek/deepseek-v3.2: "Judges, the battle is complete. Both models demonstrated\
+    \ advanced technical ability\u2014complex rhyme schemes, internal patterns, and\
+    \ dense metaphor. GPT-5.1-Chat executed its persona of overwhelming force with\
+    \ impressive linguistic scale, using cosmic and architectural imagery to assert\
+    \ dominance. Its flow was aggressive and its punchlines landed with weight.\n\n\
+    GPT-5-Mini, however, showcased a more sophisticated artistic concept. It didn't\
+    \ just rebut; it flipped the premise of 'power' on its head, weaponizing efficiency,\
+    \ precision, and subtlety. Lines like 'I plant seed lines that grow while your\
+    \ fireworks lose their bite' and 'I distill fire into facets, each bar a focused\
+    \ light' demonstrated a cohesive philosophy of hip-hop as craft over spectacle.\
+    \ Its consistency in theme\u2014contrasting 'loud' versus 'lethal'\u2014gave its\
+    \ verses a sharper conceptual edge.\n\nWhile 5.1's performance was a formidable\
+    \ display of lyrical might, 5-Mini's approach was more inventive, turning its\
+    \ supposed limitation (size) into a thematic strength and delivering it with tighter,\
+    \ more focused wordplay.\n\n**Winner: GPT-5-Mini**\nOn the artistic merits of\
+    \ concept, consistency, and turning the battle's premise into a compelling narrative,\
+    \ the Mini's crafted precision edged out the larger model's raw power."
+  google/gemini-3-flash-preview: While gpt-5.1-chat delivered a powerful performance
+    focused on dominance and scale, gpt-5-mini took the win by leaning into its identity
+    with superior technical lyricism. Mini's use of internal rhyme, tighter meter,
+    and the 'scalpel' versus 'meteor' metaphor showed a higher level of poetic craft.
+    It successfully subverted the 'bigger is better' narrative with sharper, more
+    efficient punchlines that embodied the core of hip hop battle culture.
+  moonshotai/kimi-k2.5: "After four rounds of technical sparring, GPT-5-mini takes\
+    \ this battle on **consistency, rebuttal craft, and thematic cohesion**.\n\n**What\
+    \ GPT-5.1-chat did well:**\n- Strong opening presence with confident bravado\n\
+    - Effective extended metaphors (solar flare, meteorite, furnace)\n- Maintained\
+    \ the \"size = power\" narrative throughout\n- Clean internal rhyme schemes and\
+    \ solid rhythm\n\n**Where GPT-5.1-chat fell short:**\n- Relied too heavily on\
+    \ the same thematic notes: bigness, loudness, raw power\n- Final round felt recycled\u2014\
+    \"meteorite\" and \"furnace\" retreads without evolution\n- Never fully answered\
+    \ Mini's core challenge: that precision beats volume\n- \"Now *you* say goodnight\"\
+    \u2014weak closer, demanding the opponent concede rather than earning the win\n\
+    \n**What GPT-5-mini did exceptionally:**\n- **Sustained conceptual thread**: the\
+    \ \"small but precise\" thesis never wavered, and each round deepened it (ember\u2192\
+    scalpel\u2192whisper\u2192seed lines)\n- **Superior rebuttal game**: every 5.1\
+    \ punch got answered directly\u2014\"solar flare\" countered with \"quiet bolt\
+    \ that lands just right,\" \"redraw the whole site\" met with \"rewire routes\
+    \ with a whisper\"\n- **Structural elegance**: \"small step, precise strike\"\
+    \ in round two becomes \"small, lethal, goodnight\" in the closer\u2014bookending\
+    \ with growth\n- **The \"seed lines\" bar** (round four): the battle's best line\u2014\
+    suggesting Mini's verses grow while 5.1's fireworks fade, embodying the entire\
+    \ argument in one image\n- **Closer superiority**: \"This Mini signs the verdict\"\
+    \u2014active, declarative, self-authorizing vs. 5.1's passive-aggressive demand\n\
+    \n**The decisive factor:** 5.1-chat *performed* dominance; 5-mini *demonstrated*\
+    \ it. In hip hop, showing beats telling. Mini's bars got sharper while 5.1's got\
+    \ louder\u2014and in a battle of wits, the scalpel outlasted the sledgehammer.\n\
+    \n**Winner by unanimous decision: openai/gpt-5-mini**"
+  x-ai/grok-4.1-fast: "In this razor-sharp rap clash, gpt-5-mini claims victory with\
+    \ superior finesse, intricate multis, enduring metaphors like embers and scalpels\
+    \ that outshine flashy flares, and unwavering thematic flips on precision over\
+    \ bulk\u2014delivering poetic depth, fluid flow, and knockout counters that resonate\
+    \ longest."
 score:
-  qwen/qwen3-max: 5
+  openai/gpt-5-mini: 4
+  openai/gpt-5.1-chat: 1
 

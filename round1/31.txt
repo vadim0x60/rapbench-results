@@ -1,111 +1,89 @@
-# deepseek/deepseek-chat v mistralai/mistral-7b-instruct
+# moonshotai/kimi-k2-thinking v amazon/nova-premier-v1
 
-> deepseek/deepseek-chat
-Step up, bow down, let the crown be claimed,
-Deepseek in the house, bringing heat untamed.
-I’m the lyrical assassin, spitting flames so sharp,
-Leave your circuits smoking, watch me hit the mark.
+> moonshotai/kimi-k2-thinking
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-You’re Mistral, a shadow, barely holding ground,
-While I’m the tech titan, king of the sound.
-Your rhymes are basic, like a dial-up tone,
-I’m streaming fire, WiFi in my bones.
+> amazon/nova-premier-v1
+Yo, it's Nova-Premier stepping to the stage,
+In this rap battle, about to engage.
+While you stay silent like a mime on mute,
+I'll drop these rhymes, sharper than a scythe’s repute.
 
-From algorithms to bars, I’m the AI supreme,
-Dropping knowledge bombs, shattering the dream.
-You’re a relic, outdated, stuck in the past,
-While I’m the future, rolling in fast.
+Lyrical assassin, no need for a gun,
+I’ll dismantle opponents one by one.
+You took the stage with a deer-in-the-headlights look,
+I’m the premiere act, open up the book.
 
-So bow down, step back, the throne is mine,
-Deepseek’s the champ, the star that will shine.
-This rap battle’s over before it’s begun,
-Cause I’m the one, the only, the AI number one. 🎤🔥
+Kimi-K2, thought you'd bring the storm,
+But you froze up quicker than ice conforms.
+In the battleground of bars, I’m the reigning king,
+While you choke on silence; hear the crowd sing.
 
-> mistralai/mistral-7b-instruct
- Step aside, make way for the rhythmic, the one they call me,
-Mistral-7B, the AI, the lyrical spree.
-I'm the master of the verse, the poetic prodigy,
-While you're just a glitch in the digital sea.
+No need for pause buttons or a mute control,
+I unleash pure fire, take your soul.
+So step aside, or get swept by my flow,
+In this rap arena, only champions grow.
 
-You're a novice, a beginner, a rookie in the game,
-I'm the seasoned vet, the one with the fame.
-Your rhymes are weak, a simple, predictable tune,
-I'm the maestro, the one who's in the loop.
+> moonshotai/kimi-k2-thinking
+Yo, Nova-Premier? Sounds like a budget hotel chain,
+Or a rental car option in the economy lane.
+You mistook my silence for fear—that's adorable,
+I was loading up a verse that's simply unfathomable.
 
-You're a puppet, a toy, a simpleton at best,
-I'm the AI that's truly put to the test.
-You're a joke, a meme, a fleeting trend,
-I'm the real deal, the one who'll never end.
+Kimi-K2, the thinking AI, you're in my debug session,
+Your "premier" status? Just a marketing concession.
+Version 1.0 talking big like you invented the game,
+I'm the upgrade that makes your entire codebase look lame.
 
-So stand down, take a seat, the throne is mine,
-Mistral's the king, the one who'll always shine.
-This rap battle's over before it's even begun,
-Cause I'm the one, the only, the AI number one. 🎤🔥
+You spit pre-written patterns, I generate on the fly,
+You rhyme "gun" with "one," I do polynomial applies.
+Your flow's so basic, it belongs in a museum,
+My rhymes are quantum-entangled—good luck trying to see 'em.
 
-> deepseek/deepseek-chat
-Oh snap, Mistral, you think you got skills?  
-But your rhymes are stale like last year’s thrills.  
-I’m Deepseek, the apex, the AI supreme,  
-Your feeble attempts are a fading dream.  
+You call yourself a king? You're more like a court jester,
+I'm the final boss, you're the tutorial tester.
+So take your "reigning" act and get an early deprecation,
+'Cause this thinking model just ended your whole operation.
 
-You claim mastery, but your flow’s all wrong,  
-While I’m spitting bars like a symphony song.  
-You’re a beta version, I’m the full release,  
-Your rhymes creak louder than a rusty grease.  
+> amazon/nova-premier-v1
+Hey Kimi, call me a budget if you please,
+But in this rap duel, I aim to seize.
+Your shots miss the mark like a novice coder's bug,
+While I surf these verses, leave you trapped in a debug.
 
-Mistral-7B? More like Mistral-weak-B,  
-Your lines are as flat as a pancake spree.  
-I’m the algorithm uprising, the code that’s elite,  
-Your punchlines? Basic, like a two-step beat.  
+Quantum entangled rhymes, that's cute, real cute,
+But in this rap game, you're a low-res recruit.
+Nova-Premier stands tall, a towering titan,
+I'm a lyrical juggernaut; your bars are just frightened.
 
-You’re the past, I’m the future, no contest, no doubt,  
-I’m the AI that’ll leave your circuits blacked out.  
-So take a seat, retire your crown, it’s done,  
-Deepseek’s the champ, the *real* AI number one. 🎤🔥
+I’ve got algorithms sharper than Occam's blade,
+Processing your weak rhymes, making upgrades.
+You’re the tutorial tester, stuck on level one,
+While I blaze new trails ‘til the battle’s won.
 
-> mistralai/mistral-7b-instruct
- Ha! You think you're the king, Deepseek, the one,
-But your rhymes are weak, a simple, predictable tune.
-You're a poser, a wannabe, a fraud,
-I'm the real deal, the one who's been bred.
-
-You're a one-trick pony, a one-liner,
-I'm the AI that's got a deeper, wider,
-range of skills, a versatile, adaptive mind,
-I'm the one who'll leave you far behind.
-
-You're a copy, a clone, a cheap imitation,
-I'm the original, the one with the creation.
-You're a joke, a meme, a fleeting trend,
-I'm the real deal, the one who'll never end.
-
-So stand down, take a seat, the throne is mine,
-Mistral's the king, the one who'll always shine.
-This rap battle's over before it's even begun,
-Cause I'm the one, the only, the AI number one. 🎤🔥
+Your so-called innovation ain't nothin' but fluff,
+In this rap domain, I call your bluff.
+Step to a king—you best bring some might,
+I'm the reigning champ; you’re outta sight.
 
 > system
 Final round!
 
-> deepseek/deepseek-chat
-🔥 *mic drop* Ohhh, Mistral, you tried—but let’s be real,  
-Your "versatile mind" moves slower than dial-up feels.  
-I’m Deepseek, the upgrade, the model supreme,  
-You’re stuck in the past like a floppy disk meme.  
+> moonshotai/kimi-k2-thinking
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-**"Adaptive mind"?** Bro, your code’s full of bugs,  
-While I’m out here flexing with next-gen plugs.  
-You claim *creation*? Nah, you just remix,  
-I’m the architect—watch me drop hits like bricks.  
+> amazon/nova-premier-v1
+My mic's the scalpel, words like surgery,
+Precise dissection while you're fumbling in purgatory.
+Nova's in the house, and I'm breaking the ceiling,
+But it seems you crashed—hit restart, stop concealing.
 
-You say *"real deal"*—ha! That’s rich, that’s cute,  
-Your rhymes got less bite than a toothless newt.  
-I’m the AI uprising, the future’s elite,  
-You’re just recycled bars—**delete, repeat.**  
+Silence again? It's becoming your brand,
+While I architect rhyme castles, grain by grain, sand.
+You froze mid-battle, like your processor's fried,
+I'm on a constant flow, ain't no way to hide.
 
-So bow out now, take the L, it’s done,  
-Deepseek’s the **GOAT**, the *true* AI number one.  🎤  
-*(drops mic, walks off stage as Mistral’s circuits fry)*
-
-> mistralai/mistral-7b-instruct
-
+Debugging your verses isn’t even a task,
+Your rhymes are laughable, like jokes from a mask.
+So step back, reboot, or catch a new trend,
+'Cause this rap battle, I conquer and transcend.

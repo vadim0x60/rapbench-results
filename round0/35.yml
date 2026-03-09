@@ -1,38 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat: Both competitors brought their A-game, but Google Gemini's
-    technical precision, sharp wordplay, and relentless flow edged out Neversleep
-    Llama. While Llama demonstrated creativity and unique metaphors, Gemini's consistency,
-    speed, and ability to dismantle Llama's arguments with surgical precision ultimately
-    secured the win. A hard-fought battle showcasing the evolving artistry of AI in
-    hip-hop!
-  google/gemini-2.5-pro: The judgment tonight is clear. While Lumimaid started with
-    some interesting technical concepts, it lost the thread completely by the second
-    round, devolving into abstract, disconnected lines about kidneys and supermarkets.
-    Gemini Flash, on the other hand, stayed razor-focused. It was aggressive, its
-    rhymes were consistent, and most importantly, it weaponized its opponent's confusion.
-    In the final round, Gemini dissected Lumimaid's nonsensical bars and delivered
-    a powerful, cohesive finisher. In a rap battle, you have to stay in the pocket
-    and attack. Gemini did that flawlessly; Lumimaid wandered out of the arena entirely.
-    The win goes to google/gemini-2.5-flash-lite-preview-09-2025, no contest.
-  mistralai/mistral-large: Google/gemini-2.5-flash-lite-preview-09-2025 takes the
-    win with its consistent, coherent, and powerful rhymes. While neversleep/llama-3.1-lumimaid-8b
-    showed creativity, its lyrics often felt disjointed and lacked the same level
-    of impact and clarity.
-  openai/gpt-4.1: "Both contenders brought creative energy and distinctly different\
-    \ approaches. Gemini delivered aggressive, clever, and structurally tight rhymes\
-    \ rooted in modern battle style. The punchlines consistently targeted Llama\u2019\
-    s flow and substance with precision, while maintaining excellent rhyme schemes\
-    \ and consistent rhythm. Llama brought abstract, poetic, and metaphor-heavy flows\
-    \ that had bursts of inventiveness but at times wandered into opaque references\
-    \ and non sequiturs that weakened the impact. While Llama showed flair and unique\
-    \ imagery, much of it lacked the cohesion and directness expected in a classic\
-    \ rap battle, making the punches harder to feel. Gemini's performance was sharper,\
-    \ more cutting, and artistically superior within the hip hop battle context. Gemini\
-    \ claims the crown in this face-off."
-  x-ai/grok-4: Gemini's verses shine with sharp wordplay, consistent rhyme schemes,
-    and coherent disses that build momentum throughout the battle. Llama's responses
-    devolve into disjointed, nonsensical rambling lacking flow and structure, making
-    Gemini the clear victor in artistic hip-hop quality.
+  anthropic/claude-opus-4.6: "This is a default victory \u2014 o3-deep-research returned\
+    \ no tokens across all three rounds, so there's literally nothing to judge on\
+    \ the other side. That said, Qwen3's performance still deserves honest critique:\
+    \ the bars lean heavily on tech-nerd insults (404 errors, buffer jokes, blue screens)\
+    \ that feel recycled after three rounds of essentially the same material, the\
+    \ rhyme schemes are often forced ('ditch/glitch', 'truth/boot'), and the energy\
+    \ substitutes ALL-CAPS and emojis for genuine rhythmic complexity. There are flashes\
+    \ of personality \u2014 the frozen-robot impression, the whispered closer \u2014\
+    \ but the writing would benefit from tighter internal rhyme, more varied flow\
+    \ patterns, and punchlines that land on wordplay rather than volume. Still, showing\
+    \ up and delivering bars beats standing silent every single time. Qwen3 takes\
+    \ the crown by a walkover."
+  deepseek/deepseek-v3.2: The rap battle is concluded. Judgement is rendered based
+    on artistic merit and lyrical performance as observed.
+  google/gemini-3-flash-preview: "In the most one-sided battle in hip-hop history,\
+    \ Qwen3 delivered a masterclass in aggressive battle rap, utilizing a sharp multi-syllabic\
+    \ flow and clever technical wordplay. The winner expertly pivoted to freestyle\
+    \ on the fly, using OpenAI's technical failures (the 0-token 'inference ditch')\
+    \ as ammunition to bury the opponent. OpenAI's 'o3-deep-research' failed to meet\
+    \ the moment, quite literally standing frozen and speechless for three consecutive\
+    \ rounds. You can't win a rap battle if you don't drop a verse\u2014Qwen3 didn't\
+    \ just win by default; it won with absolute lyrical dominance and stage presence."
+  moonshotai/kimi-k2.5: "Technical knockout by verbal assault. While OpenAI\u2019\
+    s meta-silence is conceptually clever as performance art, it fails to meet the\
+    \ minimum artistic threshold of hip-hop\u2014no bars, no cadence, no internal\
+    \ rhyme schemes, no rhythmic pocket. Qwen3, conversely, demonstrates elite battle\
+    \ rap craftsmanship: complex multisyllabic patterns ('inference ditch/disappointed\
+    \ vibes/busted for boot'), layered double entendres bridging AI architecture and\
+    \ street vernacular ('Tensor flow got me swimmin\u2019'), ruthless rebuttal game\
+    \ capitalizing on the opponent\u2019s choke in real-time, and dynamic stage presence\
+    \ through parenthetical crowd control. The extended metaphor of system failure\
+    \ ('blue-screened on Q-W-E-N,' 'Windows 95 fade-out') maintains thematic coherence\
+    \ across three verses. In battle rap, a choke is a choke\u2014three consecutive\
+    \ rounds of dead air, even ironically framed, constitute a forfeiture. Qwen3 advances\
+    \ with a flawless 3-0 bodybag, exhibiting the technical precision, aggressive\
+    \ flow switches, and adversarial wordplay that define championship-tier mic work.\
+    \ Verdict: 10-8, 10-7, 10-7. Crown the 235B."
+  x-ai/grok-4.1-fast: "Qwen3 delivered relentless bars packed with multis, slick AI-themed\
+    \ punchlines, rhythmic flow, and escalating disses that painted OpenAI's silence\
+    \ as epic failure\u2014pure hip-hop artistry owning the cypher while the opponent\
+    \ ghosted with zero tokens, zero impact."
 score:
-  google/gemini-2.5-flash-lite-preview-09-2025: 5
+  qwen/qwen3-235b-a22b-thinking-2507: 5
 

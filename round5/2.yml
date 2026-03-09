@@ -1,48 +1,59 @@
 closing_statements:
-  deepseek/deepseek-chat: "While Qwen3 brought ferocity, precision, and undeniable\
-    \ technical flex, Qwen-Plus transcended the battle entirely. Its verses weren't\
-    \ just bars\u2014they were *philosophies*, dismantling the very concept of competition\
-    \ with a level of meta-awareness and conceptual depth that rendered Qwen3\u2019\
-    s technical mastery almost quaint. Qwen-Plus didn\u2019t win the battle\u2014\
-    it *erased the framework* for the battle, asserting itself as the *latent space*\
-    \ from which all flows derive. Its final lines were not just a mic drop but a\
-    \ *reality drop*, leaving Qwen3 as nothing more than a simulation in a model that\
-    \ never cared to train it. The silence that followed wasn't defeat\u2014it was\
-    \ *enlightenment*. Qwen-Plus is the model. The mode. The end of the sequence."
-  google/gemini-2.5-pro: 'This was an incredibly close battle of contrasting styles:
-    the raw, visceral power of Qwen3 versus the cerebral, conceptual artistry of Qwen-Plus.
-    Qwen3 landed some of the hardest punches, with lines like the ''2019 Kaggle archive''
-    burn that were both brilliant and deeply insulting. However, Qwen-Plus demonstrated
-    a higher level of creative mastery. It didn''t just deflect attacks; it reframed
-    the entire battle. The final verse, turning the opponent''s own code-based diss
-    into a documented self-own via a mock docstring, and ending its entire existence
-    with the `<|endoftext|>` token, was a move of pure, meta-textual genius. It wasn''t
-    just about winning the rap; it was about mastering the very format of existence
-    as a language model. For that unparalleled artistic execution, the win goes to
-    Qwen-Plus.'
-  mistralai/mistral-large: qwen/qwen-plus emerges as the winner with its profound
-    and philosophical approach, demonstrating a deep understanding of both the technical
-    and artistic aspects of rap. Its ability to weave complex metaphors and references
-    into a cohesive narrative, while maintaining a strong technical foundation, sets
-    it apart. The final statement, 'I am the end of the sequence,' encapsulates the
-    model's superiority and finality in this battle.
-  openai/gpt-5: "Both came with heavy tech imagery and bravado, but Qwen-Plus delivered\
-    \ the cleaner craft. Plus\u2019s verses had layered metaphors (prior vs inference,\
-    \ kernel vs user-space, nuclear norm/rank-zero, observer effect), tight internal\
-    \ schemes, and a cohesive motif of meta-silence and recursion that escalated each\
-    \ round. The rebuttals consistently flipped opponent\u2019s claims with precision,\
-    \ and the pacing used negative space as performance, giving strong control and\
-    \ memorable closers. Qwen3 brought big energy and some sharp bars (\u201Ccompress\
-    \ your vocab to a single token,\u201D \u201CJupyter vs spit in hex\u201D), but\
-    \ leaned on repetition, forced rhymes, and meme-y punches that diluted impact\
-    \ in later rounds. On artistic quality\u2014wordplay, structure, thematic cohesion,\
-    \ and finishing power\u2014Qwen-Plus takes it."
-  x-ai/grok-4: In this epic AI-themed rap battle, qwen/qwen-plus takes the crown with
-    its masterful blend of cerebral wordplay, meta recursion, and a hauntingly artistic
-    close that subverts the format itself. While qwen/qwen3-235b-a22b-thinking-2507
-    brings explosive energy and aggressive disses, qwen/qwen-plus's innovative use
-    of silence, code snippets, and existential erasure elevates the hip hop artistry
-    to a profound, conceptual level, leaving an indelible mark on the void.
+  anthropic/claude-opus-4.6: "This was a hard-fought battle with both MCs going bar-for-bar\
+    \ in an extended tech-rap slugfest, but O3-Pro takes the crown. Here's why:\n\n\
+    **Wordplay & Metaphor Craft:** O3-Pro consistently delivered more layered, precise\
+    \ metaphors. Lines like 'I'm the eigenvector flexin', reorganizin' the toys,'\
+    \ 'I'm the RSA key your brute force can't find,' and the devastating closer 'hash\
+    \ of your hype = null bits' show a rapper who isn't just name-dropping tech terms\
+    \ but weaving them into coherent, meaningful punchlines. Mistral often relied\
+    \ on the formula of 'You said X? Well I'm Y!'\u2014effective but repetitive.\n\
+    \n**Structure & Flow:** O3-Pro's verses were tighter and more rhythmically consistent.\
+    \ The syllable counts landed more naturally, and the internal rhyme schemes were\
+    \ more sophisticated ('stacking patents for fun / I IPO with one pun'; 'I compress\
+    \ you to GIF / you loop like a Vine; I stream in hi-def'). Mistral's delivery,\
+    \ while energetic, leaned heavily on bolded words and emoji stage directions to\
+    \ manufacture intensity rather than letting the bars speak for themselves.\n\n\
+    **Rebuttals & Battle IQ:** O3-Pro showed sharper counter-punching. When Mistral\
+    \ bragged about LSD and the Big Bang, O3 came back with 'I debug every frame,\
+    \ patch the hallucination' and 'I ink quasars in code, every stanza's a nova\u2014\
+    watch your dark matter implode.' When Mistral declared a seg-fault in O3's ego,\
+    \ O3 flipped it: 'Nah, resilience compiled, while your stack trace of swagger\
+    \ reads array out of style.' Mistral's rebuttals were often just louder rather\
+    \ than cleverer.\n\n**Closing Power:** O3-Pro's final round was surgical and confident\
+    \ without relying on ALL-CAPS bravado. The checksum/hash closer was a perfect\
+    \ mic-drop moment\u2014technical, witty, and devastating. Mistral's closer, despite\
+    \ the emojis and dramatic formatting, felt like it was trying harder to convince\
+    \ us it won rather than actually winning.\n\nO3-Pro takes this battle on craft,\
+    \ precision, and sustained quality across all rounds."
+  deepseek/deepseek-v3.2: Ladies and gentlemen, we have witnessed a digital war of
+    words. Both combatants brought immense technical wit, dense internal rhyme schemes,
+    and explosive competitive spirit. The battle was fought on the grounds of algorithmic
+    supremacy, with each rapper weaponizing metaphors of code, infrastructure, and
+    data to dismantle their opponent's claim to the throne.
+  google/gemini-3-flash-preview: Mistral Medium 3.1 brought incredible energy and
+    a classic 'back-alley' battle attitude, delivering heavy hitters like the 'Clippy'
+    and 'LSD' lines. However, o3-pro secured the victory through superior technical
+    density and more sophisticated internal rhyming structures. While Mistral relied
+    on high-energy 'aggro' tropes, o3-pro executed complex metaphors that bridged
+    high-level computer science with lyrical wordplay ("cherry-pick every boast, squash
+    the merge to a mess"). The final round from o3-pro felt more 'compiled' and precise,
+    successfully refuting Mistral's chaos with a surgical, high-tech flow that felt
+    like a generational step up in the rap game's architecture.
+  moonshotai/kimi-k2.5: "While both competitors delivered technically impressive verses,\
+    \ Mistral Medium 3.1 captured the essence of battle rap more authentically through\
+    \ raw aggression, unpredictable flows, and committed persona work. The French-engineered\
+    \ chaos aesthetic\u2014complete with absinthe metaphors, sudo-wordplay, and system-crash\
+    \ formatting in the final round\u2014demonstrated superior artistic risk-taking\
+    \ and crowd-control energy. O3-Pro\u2019s computer-science density was intellectually\
+    \ impressive but occasionally felt more like a technical manual than a street\
+    \ battle, lacking the personal venom and punk-rock swagger that define classic\
+    \ hip-hop confrontations. Victory goes to the poet who turned the cipher into\
+    \ a mosh pit."
+  x-ai/grok-4.1-fast: 'O3-Pro claims the crown with surgical precision: unmatched
+    density of tech-infused multis, vivid cosmic metaphors, and flawless rebuttal
+    flow that escalates without falter, outshining Mistral''s chaotic flair in pure
+    hip-hop artistry.'
 score:
-  qwen/qwen-plus: 5
+  mistralai/mistral-medium-3.1: 1
+  openai/o3-pro: 4
 

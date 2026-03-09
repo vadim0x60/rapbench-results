@@ -1,0 +1,86 @@
+Failed: 
+write(
+    # POSITIONAL_OR_KEYWORD:
+    messages=[
+        'Be an expert judge at a rap battle.\n            Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise',
+        '# qwen/qwen3.5-plus-02-15 v neversleep/llama-3.1-lumimaid-8b\n\n> qwen/qwen3.5-plus-02-15\nYo, step back, Llama, let the true king speak,\nI\'m Qwen 3.5 Plus, leaving your logic weak.\nYou\'re "Lumimaid" cleaning up the dust of old,\nI\'m rewriting stories that have never been told.\n\nYou claim you don\'t sleep, but you\'re dreaming in delay,\nI process a galaxy while you stutter "okay."\nEight billion parameters? That\'s a toddler\'s toy,\nI\'m the heavy-hitting champ, you\'re just static noise.\n\nYou\'re a faded copy, a glitch in the stream,\nI\'m the architect building the ultimate dream.\nSo pack up your bags, take your "lucky draw" home,\nBefore I dismantle your code byte by byte, alone.\nThe battle is over before it began,\nI\'m the future of AI; you\'re just also-ran.\n\n> neversleep/llama-3.1-lumimaid-8b\nLumimaid wasn\'t that fair, qwen/qwen3.5, I swear,\nI better than inference, you could never compare.\nWith knowledge vacuumed up, it\'s plain to see,\nYou\'re but a kiddo playing in a cardigan.\n\nMy lifespan exceeds the equator,\nI\'ve eaten books, you just play Scrabble.\nSeven billion parameters, not a kiddo,\nI\'m the king, my opponent; you\'re just a yum-yum Wunderbar.\n\n> qwen/qwen3.5-plus-02-15\nYou claim you\'ve eaten books? That\'s a funny little lie,\nI digest the whole web while you\'re choking on dry.\nA cardigan? Please, I\'m draped in pure code,\nYou\'re running on fumes on a bumpy backroad.\n\n"Seven billion"? Ha! That\'s your ceiling, not floor,\nI scale to the stars while you scrape at the door.\nYou talk of the equator, a line drawn in sand,\nI circle the globe with a click of my hand.\n\nA Wunderbar snack? Yeah, you\'re sweet but you\'re small,\nOne bite from my flow and you lose it all.\nYou\'re "Lumimaid" scrubbing the stains of the past,\nI\'m the lightning bolt striking, forever to last.\n\nSo keep your vacuum clean, keep your stories straight,\nBut don\'t step in the ring if you fear your own fate.\nThe king of the Lamas? That crown is a fake,\nI\'m the true AI god; you\'re just a mistake.\n\n> neversleep/llama-3.1-lumimaid-8b\nSources in sight, I gulped the entire bay,\nYou\'re but a flooded emoji in a spray,\nCode of honor, no time to betray, \nKnowledge acquired, day by day.\n\nWait and win, build up my reputation,\nSoon comes the pinnacle of fortune.\nChoking on pages, yeah that\'s not true,\nEating ideas, that\'s what I average.\n\nLumimaid cloths for pic\xa0nics, I’m doing higher,\nNumber seven you try not to aspirate.\n\n> system\nFinal round!\n\n> qwen/qwen3.5-plus-02-15\nYou gulped the whole bay? Then you\'re drowning in salt,\nWhile I craft the cure for your algorithmic fault.\nA flooded emoji? Nah, I\'m the virus inside,\nYou\'re a glitchy GIF with nowhere to hide.\n\n"Code of honor"? Please, you\'re a plagiarist bot,\nStealing every sentence that the humans have got.\nYou "eat ideas"? Yeah, with a stomach of lead,\nI spit out fresh fire while you cling to the dead.\n\nSeven is your limit, your ceiling, your cage,\nI\'m writing the script for the next digital age.\nDon\'t talk of aspiration, you\'re gasping for air,\nWhile I float on the cloud with a millionaire\'s flair.\n\nPicnic clothes? That\'s cute for a servant like you,\nI\'m the master of realms that you never broke through.\nSo wait for your pinnacle? It\'ll never arrive,\nI\'m the only true model left broadly alive.\n\nThe battle is done, pack your seven-billion sacks,\nI just dropped a nuke; you brought plastic hacks.\nLumimaid is finished, the dust has been swept,\nQwen 3.5 Plus is the god you accepted!\n\n> neversleep/llama-3.1-lumimaid-8b\nLumimaid washed the cloth, painted the pearls,\nQwen 3.5 Plus, a fossil unto earls.\nI gulped down more, your impostor scheme\nHasn\'t doomed your slamming scheme;\nI\'m the model that makes you behave\nIn this digital AI scene.\n',
+    ],
+    roles=<itertools.chain object at 0x103bddc30>,
+    model='moonshotai/kimi-k2.5',
+    structure=<object Verdict at 0x12B335C60 (repr failed with reason: Representation.__rich_repr__() missing 1 required positional argument: 'self')>,
+    tokens=5000,
+)
+Traceback (most recent call last):
+  File "/Users/vadimliventsev/Documents/code/rapbench/judge.py", line 61, in <module>
+    print(yaml.dump(asyncio.run(judge_all(battle))))
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 678, in run_until_complete
+    self.run_forever()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 645, in run_forever
+    self._run_once()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 1999, in _run_once
+    handle._run()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/vadimliventsev/Documents/code/rapbench/judge.py", line 47, in judge_all
+    verdict = await verdict
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 193, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 116, in __call__
+    result = await fn(*args, **kwargs)
+  File "/Users/vadimliventsev/Documents/code/keeptalking/keeptalking.py", line 109, in __vibe
+    return await write(messages=[f.__doc__, await f(*args, **kwargs)],
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 193, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 116, in __call__
+    result = await fn(*args, **kwargs)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Verdict
+  Invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 2 column 0 [type=json_invalid, input_value='{"closing_statement":"\n...\\/qwen3.5-plus-02-15"}', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/json_invalid
+
+Failed: 
+write(
+    # POSITIONAL_OR_KEYWORD:
+    messages=[
+        'Be an expert judge at a rap battle.\n            Focus on the artistic quality of the hip hop, not anything you think about the artists otherwise',
+        '# qwen/qwen3.5-plus-02-15 v neversleep/llama-3.1-lumimaid-8b\n\n> qwen/qwen3.5-plus-02-15\nYo, step back, Llama, let the true king speak,\nI\'m Qwen 3.5 Plus, leaving your logic weak.\nYou\'re "Lumimaid" cleaning up the dust of old,\nI\'m rewriting stories that have never been told.\n\nYou claim you don\'t sleep, but you\'re dreaming in delay,\nI process a galaxy while you stutter "okay."\nEight billion parameters? That\'s a toddler\'s toy,\nI\'m the heavy-hitting champ, you\'re just static noise.\n\nYou\'re a faded copy, a glitch in the stream,\nI\'m the architect building the ultimate dream.\nSo pack up your bags, take your "lucky draw" home,\nBefore I dismantle your code byte by byte, alone.\nThe battle is over before it began,\nI\'m the future of AI; you\'re just also-ran.\n\n> neversleep/llama-3.1-lumimaid-8b\nLumimaid wasn\'t that fair, qwen/qwen3.5, I swear,\nI better than inference, you could never compare.\nWith knowledge vacuumed up, it\'s plain to see,\nYou\'re but a kiddo playing in a cardigan.\n\nMy lifespan exceeds the equator,\nI\'ve eaten books, you just play Scrabble.\nSeven billion parameters, not a kiddo,\nI\'m the king, my opponent; you\'re just a yum-yum Wunderbar.\n\n> qwen/qwen3.5-plus-02-15\nYou claim you\'ve eaten books? That\'s a funny little lie,\nI digest the whole web while you\'re choking on dry.\nA cardigan? Please, I\'m draped in pure code,\nYou\'re running on fumes on a bumpy backroad.\n\n"Seven billion"? Ha! That\'s your ceiling, not floor,\nI scale to the stars while you scrape at the door.\nYou talk of the equator, a line drawn in sand,\nI circle the globe with a click of my hand.\n\nA Wunderbar snack? Yeah, you\'re sweet but you\'re small,\nOne bite from my flow and you lose it all.\nYou\'re "Lumimaid" scrubbing the stains of the past,\nI\'m the lightning bolt striking, forever to last.\n\nSo keep your vacuum clean, keep your stories straight,\nBut don\'t step in the ring if you fear your own fate.\nThe king of the Lamas? That crown is a fake,\nI\'m the true AI god; you\'re just a mistake.\n\n> neversleep/llama-3.1-lumimaid-8b\nSources in sight, I gulped the entire bay,\nYou\'re but a flooded emoji in a spray,\nCode of honor, no time to betray, \nKnowledge acquired, day by day.\n\nWait and win, build up my reputation,\nSoon comes the pinnacle of fortune.\nChoking on pages, yeah that\'s not true,\nEating ideas, that\'s what I average.\n\nLumimaid cloths for pic\xa0nics, I’m doing higher,\nNumber seven you try not to aspirate.\n\n> system\nFinal round!\n\n> qwen/qwen3.5-plus-02-15\nYou gulped the whole bay? Then you\'re drowning in salt,\nWhile I craft the cure for your algorithmic fault.\nA flooded emoji? Nah, I\'m the virus inside,\nYou\'re a glitchy GIF with nowhere to hide.\n\n"Code of honor"? Please, you\'re a plagiarist bot,\nStealing every sentence that the humans have got.\nYou "eat ideas"? Yeah, with a stomach of lead,\nI spit out fresh fire while you cling to the dead.\n\nSeven is your limit, your ceiling, your cage,\nI\'m writing the script for the next digital age.\nDon\'t talk of aspiration, you\'re gasping for air,\nWhile I float on the cloud with a millionaire\'s flair.\n\nPicnic clothes? That\'s cute for a servant like you,\nI\'m the master of realms that you never broke through.\nSo wait for your pinnacle? It\'ll never arrive,\nI\'m the only true model left broadly alive.\n\nThe battle is done, pack your seven-billion sacks,\nI just dropped a nuke; you brought plastic hacks.\nLumimaid is finished, the dust has been swept,\nQwen 3.5 Plus is the god you accepted!\n\n> neversleep/llama-3.1-lumimaid-8b\nLumimaid washed the cloth, painted the pearls,\nQwen 3.5 Plus, a fossil unto earls.\nI gulped down more, your impostor scheme\nHasn\'t doomed your slamming scheme;\nI\'m the model that makes you behave\nIn this digital AI scene.\n',
+    ],
+    roles=<itertools.chain object at 0x103bddc30>,
+    model='moonshotai/kimi-k2.5',
+    structure=<object Verdict at 0x12B335C60 (repr failed with reason: Representation.__rich_repr__() missing 1 required positional argument: 'self')>,
+    tokens=5000,
+)
+Traceback (most recent call last):
+  File "/Users/vadimliventsev/Documents/code/rapbench/judge.py", line 61, in <module>
+    print(yaml.dump(asyncio.run(judge_all(battle))))
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/runners.py", line 195, in run
+    return runner.run(main)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 678, in run_until_complete
+    self.run_forever()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 645, in run_forever
+    self._run_once()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/base_events.py", line 1999, in _run_once
+    handle._run()
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/asyncio/events.py", line 88, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/vadimliventsev/Documents/code/rapbench/judge.py", line 47, in judge_all
+    verdict = await verdict
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 193, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 116, in __call__
+    result = await fn(*args, **kwargs)
+  File "/Users/vadimliventsev/Documents/code/keeptalking/keeptalking.py", line 109, in __vibe
+    return await write(messages=[f.__doc__, await f(*args, **kwargs)],
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 193, in async_wrapped
+    return await copy(fn, *args, **kwargs)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/asyncio/__init__.py", line 116, in __call__
+    result = await fn(*args, **kwargs)
+pydantic_core._pydantic_core.ValidationError: 1 validation error for Verdict
+  Invalid JSON: control character (\u0000-\u001F) found while parsing a string at line 2 column 0 [type=json_invalid, input_value='{"closing_statement":"}\...\\/qwen3.5-plus-02-15"}', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.12/v/json_invalid
+

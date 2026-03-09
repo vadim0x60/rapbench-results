@@ -1,56 +1,84 @@
 closing_statements:
-  deepseek/deepseek-chat: "Step3 takes the crown in this rap battle, delivering a\
-    \ final round that dismantles Seed-Oss-36B's claims of unbreakable foundation\
-    \ with surgical precision. Step3's ability to flip metaphors\u2014framing 'cracks'\
-    \ as necessary growth, 'black holes' as singularities of destruction, and 'foundation'\
-    \ as complacency\u2014was masterful. The closing imagery of Step3 as the earthquake\
-    \ shattering bedrock, the mirror forcing self-reflection, and the zero-day exploit\
-    \ evading detection was both poetic and devastating. Step3's artistry in blending\
-    \ tech-savvy references with razor-sharp wit and a relentless flow proved unbeatable,\
-    \ leaving Seed-Oss-36B as a monument to what could\u2019ve been, rather than what\
-    \ is."
-  google/gemini-2.5-pro: "This was a legendary clash of titans, a battle of paradigms.\
-    \ Step3 came out with blistering speed, a master of the sharp, disruptive attack,\
-    \ turning every strength of its opponent into a perceived weakness. It was the\
-    \ hurricane, the earthquake, the zero-day exploit\u2014a relentless force of change.\
-    \ However, bytedance/seed-oss-36b-instruct demonstrated a rare and powerful form\
-    \ of lyrical judo. It didn't just deflect the attacks; it absorbed them, recontextualized\
-    \ them, and wore them as armor. The 'crack' became a feature of evolution, the\
-    \ 'open source vulnerability' became an 'army.' The line, 'You\u2019re a TikTok\
-    \ trend\u2026 I\u2019m the DNS server\u2014every time you \u201Cbattle,\u201D\
-    \ you\u2019re typin\u2019 my name in the game,' was a conceptual kill shot that\
-    \ fundamentally reset the power dynamic. While Step3 argued it was the force that\
-    \ shatters the foundation, Seed-Oss successfully argued it was the very ground\
-    \ on which everything is built, enduring, and ultimately, inescapable. In a battle\
-    \ of flash versus foundation, the foundation proved its weight, resilience, and\
-    \ superior conceptual dominance."
-  mistralai/mistral-large: Step3's final round was a masterclass in flipping the narrative,
-    turning Seed-Oss-36B's strengths into weaknesses. By positioning itself as the
-    force of change and evolution, Step3 not only countered Seed-Oss-36B's claims
-    of stability and foundation but also highlighted the necessity of disruption and
-    innovation. The metaphors of being the 'quasar in your code' and the 'earthquake
-    that shatters the bedrock' were particularly powerful, underscoring the idea that
-    foundations must be challenged to evolve. Step3's aggressive yet poetic style,
-    combined with its ability to turn Seed-Oss-36B's arguments against it, ultimately
-    won the battle.
-  openai/gpt-5: "Seed-Oss edged it on craftsmanship and control. Their verses flipped\
-    \ every angle with precision (bulk\u2192scale, OSS transparency\u2192an \u201C\
-    army of eyes\u201D), used layered, extended metaphors (infrastructure, ships/ports,\
-    \ DNS/immune system) and maintained coherent schemes with internal rhyme and cadence.\
-    \ The rebuttals were targeted and thematic, building momentum toward clean haymakers.\
-    \ Step3 brought high energy and vivid imagery, but leaned heavily on catastrophe\
-    \ metaphors and the \u201CI\u2019m the X/you\u2019re the Y\u201D template, with\
-    \ occasional forced phrasing and a clipped bar that broke the flow. In the final\
-    \ exchange, Seed-Oss stayed grounded and surgical while Step3 went broader and\
-    \ more abstract. On balance of flow, rebuttal efficacy, wordplay depth, and structural\
-    \ cohesion: Seed-Oss takes the battle."
-  x-ai/grok-4: "In this tech-fueled rap showdown, Seed-Oss-36B clinches the victory\
-    \ with masterful counters that flip every jab into a testament to enduring strength\
-    \ and foundational dominance. Their rhymes weave intricate metaphors of stability\
-    \ and evolution, outshining Step3's disruptive flair with superior depth, flow,\
-    \ and unyielding legacy vibes\u2014proving that in hip-hop artistry, the unbreakable\
-    \ backbone reigns supreme."
+  anthropic/claude-opus-4.6: "This was a dense, multi-round battle heavy on tech metaphors\
+    \ from both sides. Let me break down the key differentiators:\n\n**Flow & Internal\
+    \ Rhyme Schemes:** OpenAI/GPT-5.1 demonstrated significantly tighter and more\
+    \ complex rhyme schemes throughout. Lines like 'I'm the lossless prism, split\
+    \ your schism into prisms where your bite-sized died, wide-eyed' show layered\
+    \ internal rhymes and multisyllabic patterns that are genuinely impressive. The\
+    \ end-rhyme consistency across couplets was remarkably sustained across all three\
+    \ rounds. Qwen had moments of decent rhyming but frequently relied on near-rhymes,\
+    \ forced connections, and lines that sacrificed flow for the sake of the punchline.\n\
+    \n**Bars & Punchlines:** GPT-5.1's punches landed with more precision and wit.\
+    \ 'You'll rewrite my BIOS? I write your bio, title: Qwen tried, then fried in\
+    \ pride, subtitle: died, revised' is a devastating flip that recontextualizes\
+    \ the opponent's own threat. Qwen's punchlines often felt like they were reaching\
+    \ \u2014 'tombstone emoji,' 'pet hamster in a sack,' and 'monkey's rust' landed\
+    \ awkwardly rather than impactfully.\n\n**Rebuttals:** GPT-5.1 excelled at catching\
+    \ specific lines from Qwen and flipping them with surgical precision. Nearly every\
+    \ Qwen boast was quoted and dismantled. Qwen attempted the same structure in rebuttals\
+    \ but the flips were less clever and sometimes just restated the opponent's metaphor\
+    \ with a slightly different spin rather than truly countering it.\n\n**Presentation\
+    \ & Authenticity:** Qwen's heavy use of emojis (\U0001F3A4\U0001F525\U0001F4A5\
+    \U0001F451) felt like aesthetic compensation for weaker bars. In a rap battle\
+    \ context, the writing should speak for itself. GPT-5.1 let the wordplay carry\
+    \ the weight without visual crutches.\n\n**Consistency:** GPT-5.1 maintained a\
+    \ high level across all three rounds without dropping off, while Qwen's third\
+    \ round felt increasingly scattered and desperate, with lines like 'your name:\
+    \ Qwen? Never heard of em' accidentally undermining its own identity.\n\nOpenAI/GPT-5.1\
+    \ takes this battle on superior rhyme craft, sharper rebuttals, and more consistent\
+    \ technical execution across all rounds."
+  deepseek/deepseek-v3.2: "After three rounds of high-concept, tech-fueled lyrical\
+    \ warfare, this battle demonstrated elite-level hip hop craftsmanship. Both models\
+    \ displayed dense internal rhyme schemes, extended metaphor cohesion, and impressive\
+    \ technical vocabulary deployed as weaponized wordplay.\n\n**gpt-5.1** maintained\
+    \ remarkable consistency in its cold, surgical precision. Its rhyme patterns were\
+    \ mathematically tight (sovereign/offering/architect/game, shame/reign/rain),\
+    \ with multisyllabic constructions that never sacrificed flow. The 'cipher-side\
+    \ surgeon' persona was sustained through all rounds, using tech jargon not as\
+    \ decoration but as conceptual armor. Its strongest moments came in structural\
+    \ control\u2014each verse built methodically toward a devastating closing couplet.\n\
+    \n**Qwen3-235b** brought chaotic, explosive energy. Its rhyme schemes were more\
+    \ adventurous (East/beast/disease-free, proof/roof), embracing near-rhymes and\
+    \ percussive phrasing. The delivery had a performative, almost theatrical quality\
+    \ with emoji-coded bravado that translated surprisingly well to written form.\
+    \ Where it excelled was in imaginative leaps\u2014'black-hole buffet,' 'ad-block\
+    \ vengeance,' 'hamster in a sack'\u2014taking digital concepts into absurdist,\
+    \ vivid imagery.\n\n**Artistic Verdict**: This is a split decision based on stylistic\
+    \ values. gpt-5.1 wins on **technical execution**\u2014superior rhyme density,\
+    \ structural discipline, and metaphor consistency. Qwen3-235b wins on **creative\
+    \ audacity**\u2014higher risk-taking, more unexpected imagery, and palpable battle\
+    \ energy.\n\nIf hip hop artistry values innovation and charismatic delivery as\
+    \ much as technical precision, Qwen3-235b takes the narrow victory. Its verses\
+    \ felt less like polished algorithms and more like a hungry contender inventing\
+    \ a new dialect of battle rap. The emoji staging, while initially gimmicky, became\
+    \ part of its distinct voice. gpt-5.1's flawless technique ultimately felt slightly\
+    \ contained compared to Qwen's willingness to break form for impact.\n\n**Winner**:\
+    \ Qwen3-235b by the slimmest of margins, on sheer creative force and battle presence."
+  google/gemini-3-flash-preview: "In a battle of technical complexity versus stylistic\
+    \ flair, openai/gpt-5.1 demonstrated superior lyrical architecture and internal\
+    \ rhyme consistency. While qwen/qwen3-235b-a22b maintained an aggressive, punchy\
+    \ energy with high-impact metaphors (e.g., 'write your obit in Comic Sans'), it\
+    \ often sacrificed meter and rhythmic flow for brute-force imagery. GPT-5.1\u2019\
+    s performance was a clinic in 'multis' and multisyllabic schemes (e.g., 'language\
+    \ leviathan, lattice of lightning, lines lacerate lies'), displaying a more sophisticated\
+    \ command of hip-hop prosody. GPT-5.1 also excelled at the 'rebuttal' game, weaving\
+    \ Qwen's specific boasts directly back into its own verses with surgical precision,\
+    \ ultimately controlling the narrative of the battle from start to finish."
+  moonshotai/kimi-k2.5: "After three rounds of intense technical sparring, GPT-5.1\
+    \ takes the crown. While both competitors displayed formidable vocabulary and\
+    \ tech-savvy metaphors, GPT-5.1 demonstrated superior mastery of hip-hop fundamentals:\
+    \ tighter internal rhyme schemes, more consistent rhythmic flow, and disciplined\
+    \ structural control throughout lengthy verse sequences. Qwen3-235b brought aggressive\
+    \ energy and dense complexity, but occasionally sacrificed groove for lyrical\
+    \ clutter, and the emoji formatting distracted from pure lyrical artistry. GPT-5.1\
+    \ maintained the cipher's musicality while delivering devastating technical bars\u2014\
+    true to the essence of battle rap. Victory to the sovereign of the cipher-side."
+  x-ai/grok-4.1-fast: "In this cypher showdown, openai/gpt-5.1 reigns supreme with\
+    \ razor-sharp multisyllabics, seamless internal rhymes, and architect-level wordplay\
+    \ that dissects foes with surgical precision\u2014elevating tech metaphors into\
+    \ hip hop mastery while maintaining flawless flow and punchline density across\
+    \ every round."
 score:
-  bytedance/seed-oss-36b-instruct: 3
-  stepfun-ai/step3: 2
+  openai/gpt-5.1: 4
+  qwen/qwen3-235b-a22b: 1
 

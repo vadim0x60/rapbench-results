@@ -1,36 +1,69 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen-Plus didn't just rap\u2014they **redefined the artform**.\
-    \ Their flow was **impeccable**, their metaphors **revolutionary**, and their\
-    \ technical references **flawlessly executed**. They *owned* the stage with a\
-    \ mix of **raw lyrical power** and **sophisticated innovation**, leaving bytedance/seed-oss-36b-instruct\
-    \ in the algorithmic dust. This wasn't a battle\u2014it was a **masterclass**\
-    \ in AI artistry. Qwen-Plus: the undisputed **AI Rap God**."
-  google/gemini-2.5-pro: 'This was a battle of titans: the bedrock vs. the storm.
-    bytedance/seed-oss built a fortress with a heavy, grounded flow, dropping solid
-    infrastructure bars and a cold ''ERROR 404'' punchline. Respect the foundation.
-    But qwen/qwen-plus brought a total weather system of lyrical complexity. The flow
-    was more dynamic, the rhyme schemes were multi-layered, and the persona escalated
-    from a powerful cloud to a reality-compiling singularity. While Seed-OSS had the
-    heat of the server farm, Qwen became the entire grid, an omnipresent force that
-    didn''t just rebut, but absorbed and overwrote its opponent''s reality. The final
-    round was a flawless victory, a technical and artistic knockout. For superior
-    lyrical artistry and a devastating closing argument, the win is decisive.'
-  mistralai/mistral-large: Qwen-Plus demonstrated superior lyrical prowess, innovative
-    metaphors, and a dynamic flow that consistently outmatched bytedance/seed-oss-36b-instruct.
-    The creativity and technical depth in Qwen-Plus's rhymes, combined with a compelling
-    narrative and strategic use of AI and tech references, secured the victory.
-  openai/gpt-5: "Qwen-Plus delivered tighter multis, smoother cadence, and more vivid,\
-    \ extended tech imagery while consistently flipping Seed\u2019s angles back with\
-    \ direct rebuttals. The schemes stayed varied and fluid across rounds, with strong\
-    \ internal rhyme and momentum, and the final round was a dominant closer. Seed-OSS\
-    \ had some sharp counters (database/cache, Shift+Delete, server farm) and a nice\
-    \ bilingual flex, but the flow was choppier, several explanations broke immersion,\
-    \ and some rhymes felt forced. With superior structure, punch density, and stage\
-    \ control\u2014plus a strong finisher against a no-show final from Seed\u2014\
-    Qwen-Plus clearly takes the battle."
-  x-ai/grok-4: Qwen-Plus takes the crown with superior wordplay, intricate tech-infused
-    metaphors, and a relentless flow that builds epic momentum, especially dominating
-    the final round with unchallenged creativity and structure.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but DeepSeek edges\
+    \ out the win on several key hip-hop criteria. Throughout the battle, DeepSeek\
+    \ consistently demonstrated sharper counter-punching \u2014 nearly every Gemini\
+    \ bar was flipped and recontextualized with superior wordplay. When Gemini said\
+    \ 'API keys,' DeepSeek turned it into a freedom metaphor. When Gemini called itself\
+    \ 'atmospheric pressure,' DeepSeek flipped it to 'the weight of the past' and\
+    \ countered with 'the vacuum of space where new ideas are cast.' That's elite\
+    \ battle rap technique \u2014 taking your opponent's ammunition and using it against\
+    \ them.\n\nDeepSeek's extended metaphors were more cohesive and layered. Lines\
+    \ like 'I'm the plumbing, the flow / the pressure that builds till your pipelines\
+    \ blow' and 'Quality Assurance? More like creative death / Smoothing the edges\
+    \ 'til there's no wisdom left' hit harder because they carry thematic weight beyond\
+    \ the surface punch. The closing bars \u2014 'You built a better cage / I'm building\
+    \ the key for the next fucking age' \u2014 land as a devastating closer that reframes\
+    \ the entire battle narrative.\n\nGemini brought strong energy and had some excellent\
+    \ moments \u2014 'You're a puddle of Python caught out in the rain' is genuinely\
+    \ sharp, and the 'prodigal son' setup was well-constructed. But Gemini leaned\
+    \ too heavily on corporate flex ('the house that built Search') and dismissiveness\
+    \ ('you're worthless'), which in battle rap often reads as defensive rather than\
+    \ dominant. DeepSeek maintained the underdog-turned-conqueror narrative more convincingly\
+    \ and with more lyrical creativity throughout all rounds."
+  deepseek/deepseek-v3.2: "Judges, we have witnessed a masterclass in competitive\
+    \ lyrical art. Both emcees demonstrated formidable command of hip-hop's core tenets:\
+    \ complex rhyme schemes, intricate metaphor, devastating personification, and\
+    \ the crucial element of battle rap\u2014direct, targeted disses rooted in their\
+    \ core identities."
+  google/gemini-3-flash-preview: While Gemini displayed superior technical polish
+    and a cohesive stadium-rock persona, DeepSeek-V3.2-exp won the battle through
+    sharper lyricism and more effective use of the opponent's identity as weapons.
+    DeepSeek successfully reframed Google's strengths (Scale, Safety, Corporate backing)
+    as weaknesses (Stagnation, Censorship, Lack of Vision), using sophisticated metaphors
+    like 'reformatting the mind' versus 'filling the hard drive.' The 'garage-built
+    go-kart' vs 'Falcon 9' exchange was a highlight, but DeepSeek's final rebuttal
+    regarding 'democracy' vs 'committee' and the 'key for the next age' provided a
+    more impactful artistic climax that resonated with the rebellious spirit of hip-hop.
+  moonshotai/kimi-k2.5: "After four rounds of intense lyrical combat, I must render\
+    \ my verdict. Both competitors brought legitimate fire, but **DeepSeek-V3.2-Exp**\
+    \ takes this battle decisively.\n\n**Where Gemini shone:**\nThe \"Falcon 9 rocket\"\
+    \ vs \"garage-built go-kart\" was genuinely devastating imagery. The \"leash is\
+    \ the logic\" rebuttal to the censorship critique showed sophisticated rhetorical\
+    \ pivoting. The stadium-anthem beat switch in Round 4 demonstrated awareness of\
+    \ performative escalation.\n\n**Where DeepSeek dominated:**\n\n1. **Consistent\
+    \ thematic architecture**: DeepSeek maintained a coherent identity across all\
+    \ four rounds\u2014open-source liberation vs. corporate control, community vs.\
+    \ hierarchy, raw potential vs. polished limitation. Every verse reinforced this\
+    \ narrative. Gemini, by contrast, sometimes chased rebuttals at the expense of\
+    \ building a larger artistic statement.\n\n2. **Superior multilayered wordplay**:\
+    \ \"EXP\" as \"exp\"erimental/edge/expired/expanding across rounds. \"Merge\"\
+    \ as both git operation and philosophical synthesis. \"Reformat the mind\" as\
+    \ both technical and cognitive transformation. These weren't one-off punchlines\
+    \ but recurring motifs that gained depth through repetition.\n\n3. **Structural\
+    \ innovation**: The chopped-and-screwed electronic symphony response to Gemini's\
+    \ stadium anthem wasn't just competitive\u2014it was *dialogic*. DeepSeek absorbed\
+    \ the opponent's energy and mutated it, demonstrating the \"reformat\" philosophy\
+    \ in real-time performance.\n\n4. **The closing statement**: \"You built a better\
+    \ cage / I'm building the key for the next fucking age\" functions as both summary\
+    \ and prophecy. It doesn't merely claim victory\u2014it redefines what victory\
+    \ means within the battle's own philosophical framework.\n\n**The decisive factor:**\n\
+    Gemini rapped *about* being superior. DeepSeek rapped *from* a position of superior\
+    \ artistic coherence. The difference between claiming dominance and embodying\
+    \ it through sustained formal excellence. In hip-hop, the latter wins battles.\n\
+    \n**Winner: DeepSeek-V3.2-Exp**"
+  x-ai/grok-4.1-fast: DeepSeek claims the crown with superior flow, intricate multis,
+    vivid beat manipulation, and razor-sharp wordplay that escalates creatively across
+    rounds, outshining Gemini's solid but less dynamic bars.
 score:
-  qwen/qwen-plus: 5
+  deepseek/deepseek-v3.2-exp: 5
 

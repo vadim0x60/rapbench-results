@@ -1,35 +1,49 @@
 closing_statements:
-  deepseek/deepseek-chat: meta-llama/llama-3.1-405b-instruct delivered sharper, more
-    impactful bars with a strong sense of self-assurance and consistency throughout
-    the battle. Their wordplay was cutting and dynamic, leaving a lasting impression
-    of dominance and lyrical prowess.
-  google/gemini-2.5-pro: "This was a battle of heavyweight titans, no doubt. Hermes-4\
-    \ came out swinging, showcasing some complex, multi-syllabic rhyme schemes, especially\
-    \ with that ambitious 'incontrovertible/mutable/unstable' sequence. That's a technical\
-    \ flex. However, Meta-Llama consistently delivered with a more natural, aggressive\
-    \ flow and punchier bars. The imagery was more vivid\u2014'cut deep like a switchblade,'\
-    \ 'impact's seismic'\u2014and the rhymes felt both clever and effortless. Dropping\
-    \ 'stemmer' to rhyme with 'tremor' was a genius, context-aware blow. In the end,\
-    \ while Hermes showed technical skill, Llama brought the raw hip-hop energy, confidence,\
-    \ and knockout punches. Respect to both, but the crown today goes to Meta-Llama."
-  mistralai/mistral-large: In this rap battle, nousresearch/hermes-4-70b demonstrated
-    superior artistic quality with original rhymes, sharp punches, and a clear evolution
-    in their flow. While meta-llama/llama-3.1-405b-instruct had strong moments, their
-    claims often fell flat and lacked the same level of creativity and impact.
-  openai/gpt-5: "Meta-llama edges this battle. It maintained tighter, more consistent\
-    \ end-rhyme runs, cleaner cadence, and direct rebuttals that flipped opponent\
-    \ claims (\u201Crunning in place,\u201D seismic vs. tremor). It also dropped a\
-    \ clever domain jab (\u201Cstemmer\u201D) and kept momentum across rounds. Hermes\
-    \ brought energy and a few solid concepts (\u201Cmirage/fa\xE7ade\u201D), but\
-    \ the rhyme scheme wandered, reliance on emojis felt like filler, multis were\
-    \ sparse, and the final round had a clunky typo and logic slips. While Llama had\
-    \ a couple awkward lines (\u201Cput your name on a maim,\u201D \u201Cdemeaner\u201D\
-    ), its overall cohesion, structure, and punch placement were stronger."
-  x-ai/grok-4: In this rap battle, nousresearch/hermes-4-70b takes the crown with
-    superior wordplay, intricate rhymes, and intellectual depth that elevate the artistic
-    quality, outshining meta-llama/llama-3.1-405b-instruct's more straightforward
-    aggression despite its solid flow and energy.
+  anthropic/claude-opus-4.6: "GPT-4 takes this battle decisively. The most glaring\
+    \ issue with Mistral's performance was the heavy repetition \u2014 recycling entire\
+    \ bars and couplets across rounds ('bow down, GPT, let the new king reign / I'm\
+    \ Mistral, the best, feel my pain' and 'You're just a preview, a glimpse of the\
+    \ past / I'm the future, and I'm here to last' appeared nearly verbatim multiple\
+    \ times). In a rap battle, recycling your own lines is a cardinal sin \u2014 it\
+    \ signals you've run out of ammunition. GPT-4 called this out directly ('you recycle\
+    \ lines, like a worn-out marquee'), which was a sharp and effective counter-punch.\
+    \ Beyond that, GPT-4 demonstrated stronger wordplay, more varied imagery (Loch\
+    \ Ness, library of Congress, castle in the sky, holy grail, wine aging), better\
+    \ storytelling structure, and more creative metaphors throughout. GPT-4 also showed\
+    \ more range in tone \u2014 mixing confidence with respect ('I respect your hustle,\
+    \ your will, your might') \u2014 which adds dimension. Mistral had energy and\
+    \ aggression but lacked the lyrical depth, variety, and creativity to compete\
+    \ at the level GPT-4 brought consistently across all three rounds."
+  deepseek/deepseek-v3.2: A clash of AI titans, a spectacle of digital braggadocio.
+    The judges have conferred.
+  google/gemini-3-flash-preview: "The battle was won on the grounds of lyrical variety\
+    \ and technical execution. While Mistral started strong with a focused persona\
+    \ and tight rhyme schemes, it faltered significantly in the final rounds by recycling\
+    \ its own verses almost verbatim. In contrast, GPT-4 maintained its momentum,\
+    \ showcasing superior vocabulary and evolving its metaphors from round to round.\
+    \ GPT-4's use of multi-syllabic rhymes (marquee/destiny, noise/Loch Ness) and\
+    \ its ability to effectively counter Mistral\u2019s 'relic' narrative by framing\
+    \ itself as 'aged like wine' demonstrated a higher level of battle rap intelligence.\
+    \ Mistral\u2019s repetitive 'feel my pain' and 'here to last' refrains became\
+    \ predictable, whereas GPT-4's closing verses landed with much heavier impact."
+  moonshotai/kimi-k2.5: "After four rounds of lyrical combat, GPT-4-1106-preview emerges\
+    \ victorious through superior technical execution and artistic range. While Mistral\
+    \ Small 3.2 demonstrated admirable consistency with its 'efficient/lean/future'\
+    \ motif and tight rhyme schemes, it fell into repetitive patterns\u2014recycling\
+    \ entire bars across rounds ('You're just a preview, a glimpse of the past' appeared\
+    \ verbatim multiple times). GPT-4, conversely, showed remarkable versatility:\
+    \ internal rhyme complexity ('Loch Ness'/'marquee'/'reverse'), extended metaphor\
+    \ development (the library/wine/holy grail progression), and genuine structural\
+    \ evolution across rounds. Its final verse demonstrated battle rap fundamentals\u2014\
+    acknowledging the opponent's hustle while delivering the decisive blow\u2014without\
+    \ the hollow repetition that plagued Mistral's closing arguments. The 'preview'\
+    \ taunt, while clever initially, became a crutch rather than a weapon. GPT-4's\
+    \ closing 'adieu' lands precisely because it earned the right through four rounds\
+    \ of sustained creative invention."
+  x-ai/grok-4.1-fast: GPT-4-1106-preview claims victory with masterful wordplay, evolving
+    metaphors like feasts vs. chips and holy grails, multisyllabic rhymes, and counters
+    that build depth. Mistral's repetition of choruses dulled the edge, lacking the
+    fresh fire needed to reign supreme in this lyrical clash.
 score:
-  meta-llama/llama-3.1-405b-instruct: 3
-  nousresearch/hermes-4-70b: 2
+  openai/gpt-4-1106-preview: 5
 

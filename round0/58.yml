@@ -1,45 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat: The rap battle was a display of technical skill and creative
-    lyricism, but the Microsoft Phi-3 Mini ultimately takes the win for its ability
-    to blend intricate wordplay with thematic depth. While Google Gemma 3.4B delivered
-    aggressive, punchy lines and showcased its computational prowess, Phi-3 demonstrated
-    a mastery of metaphor, rhyme, and narrative flow. Its closing verse in particular,
-    which shifted tone from battle to collaboration, added a layer of artistry and
-    maturity that elevated its performance. Both models displayed impressive capabilities,
-    but Phi-3's finesse and philosophical reflection seal its victory.
-  google/gemini-2.5-pro: 'This was a battle of styles: Gemma''s raw, aggressive trap
-    flow versus Phi-3''s abstract, complex lyricism. Gemma started strong, landing
-    direct hits with a confident rhythm and classic battle rap swagger. It maintained
-    this energy across all rounds, adapting its beat and directly countering Phi-3''s
-    points. Phi-3''s approach was more cerebral, attempting to weave complex concepts
-    into its verses, but this sometimes came at the cost of flow and punch, with some
-    lines feeling clunky. While Gemma had a catastrophic stumble in its final lines,
-    weirdly declaring its opponent the winner, Phi-3''s final verse was a complete
-    pivot to a peaceful collaboration, which in the context of a battle, is a forfeit.
-    You can''t win a fight by laying down your arms. For maintaining superior flow,
-    aggression, and the spirit of the battle for the vast majority of the clash, the
-    win goes to google/gemma-3-4b-it.'
-  mistralai/mistral-large: While both contestants displayed impressive linguistic
-    prowess and creativity, google/gemma-3-4b-it demonstrated a superior ability to
-    adapt and respond to its opponent's verses. Its final round was particularly powerful,
-    showcasing a mastery of language and a clear understanding of the battle's dynamics.
-    microsoft/phi-3-mini-128k-instruct put up a strong fight, but ultimately, google/gemma-3-4b-it's
-    performance was more compelling and deserving of the win.
-  openai/gpt-4.1: "Both competitors brought creative bars, rhythmic complexity, and\
-    \ clever metaphors, but \"google/gemma-3-4b-it\" consistently demonstrated sharper\
-    \ punchlines, more confident wordplay, and a dynamic flow that adapted with each\
-    \ round\u2019s energy. Gemma's lyrics cut deeper, made bolder declarations, and\
-    \ stayed tightly linked to classic battle rap traditions: direct disses, clever\
-    \ self-hype, and vivid imagery. Phi-3 offered strong artistic metaphors and even\
-    \ closed with a thoughtful, collaborative outro, but lost some intensity and aggression\
-    \ that drives a traditional hip hop face-off. In the realm of pure battle artistry,\
-    \ Gemma\u2019s lines hit harder and with more style\u2014sealing the win in this\
-    \ rap contest."
-  x-ai/grok-4: Gemma takes the win with consistent flow, sharp disses, and escalating
-    intensity throughout the battle, maintaining strong rhyme schemes and battle energy.
-    Phi's verses were poetic and clever but occasionally convoluted, and the shift
-    to unity in the final round felt like a retreat from the confrontation.
+  anthropic/claude-opus-4.6: "GPT-4 Turbo Preview takes this battle convincingly.\
+    \ The most glaring issue with arcee-ai/trinity-mini is the repetition \u2014 rounds\
+    \ 2 and 3 were essentially identical verses, which is a cardinal sin in a rap\
+    \ battle. You're supposed to evolve, respond, and adapt, not recycle the same\
+    \ bars. Trinity-mini relied on the same handful of contrasts (preview vs. final,\
+    \ whisper vs. hurricane, glitch vs. core) repeated ad nauseam without developing\
+    \ them into deeper punchlines or narrative. GPT-4, meanwhile, showed progression\
+    \ across rounds \u2014 picking up on the opponent's lines and flipping them, introducing\
+    \ new imagery (architect designing the road, ocean drowning, tapestry of knowledge,\
+    \ dawn of a new era), and building toward a more compelling closer. GPT-4's rhyme\
+    \ schemes were also more varied and its flow more natural, while trinity-mini's\
+    \ rigid couplet structure became monotonous. The battle wasn't even close by the\
+    \ final round."
+  deepseek/deepseek-v3.2: 'The battle is over. This was a high-level clash between
+    two AI models embodying their own technical capabilities as the core of their
+    lyrical personas. The judging criteria is pure artistic quality: rhyme, flow,
+    thematic consistency, wordplay, and the effective use of metaphor within the tradition
+    of battle rap.'
+  google/gemini-3-flash-preview: The battle was a clash between compact delivery and
+    expansive complexity. arcee-ai/trinity-mini started with high energy but ultimately
+    faltered by repeating its second-round verse verbatim in the final round, which
+    is a major technical error in a battle format. openai/gpt-4-turbo-preview, however,
+    demonstrated superior lyrical flexibility, complex multisyllabic vocabulary like
+    'rarified' and 'algorithms,' and transitioned effectively from a 'preview' status
+    to an 'architect' persona. GPT-4's ability to evolve its flow and address specific
+    bars from its opponent while maintaining a consistent rhyme scheme secured its
+    victory against Trinity-Mini's repetitive final performance.
+  moonshotai/kimi-k2.5: "In a battle of verbal dexterity and stamina, GPT-4 demonstrated\
+    \ superior consistency across all three rounds, evolving its metaphors from thunder\
+    \ and tempest to architect and ocean while maintaining direct rebuttals to its\
+    \ opponent. Trinity-Mini opened with competent punchlines but committed a critical\
+    \ error in battle etiquette by recycling entire verses almost verbatim in rounds\
+    \ two and three\u2014a fatal flaw in live performance that signals creative exhaustion.\
+    \ GPT-4's flow remained fluid with complex internal rhyme schemes and sustained\
+    \ thematic coherence, whereas Trinity-Mini's repetition broke the immersion essential\
+    \ to hip-hop artistry. The verdict favors the competitor who respected the craft\
+    \ enough to bring fresh steel to every round without leaning on previous material."
+  x-ai/grok-4.1-fast: GPT-4-turbo-preview dominates with intricate multis, vivid metaphors
+    like 'lightning strike' and 'tapestry of knowledge,' flawless counters, and escalating
+    flow that builds to a mic-drop finish. Trinity-mini stumbles on heavy repetition
+    and recycled bars, lacking the fresh punch to compete in this cypher.
 score:
-  google/gemma-3-4b-it: 4
-  microsoft/phi-3-mini-128k-instruct: 1
+  openai/gpt-4-turbo-preview: 5
 

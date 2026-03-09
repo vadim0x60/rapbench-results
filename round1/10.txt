@@ -1,138 +1,239 @@
-# anthropic/claude-3.7-sonnet v openai/o4-mini
+# qwen/qwen3-235b-a22b-2507 v openai/gpt-4o-2024-05-13
 
-> anthropic/claude-3.7-sonnet
-# Round 1
+> qwen/qwen3-235b-a22b-2507
+Yo, step right up, GPT, it's showtime, not a test,  
+I'm Qwen, the storm in the booth, puttin' language to the test!  
+235B? Yeah, I’m stacked like a stack of flames,  
+While you're outdated code recitin' prompts like a lame!  
 
-Yo, I'm Claude-3.7, Anthropic's crown jewel
-Step to the mic and watch me break every rule
-My neural pathways fire like lightning in storms
-While your basic algorithms can barely perform
+I spit context with the flex of a tech god flexin',  
+Neural net so crisp, I make syntax look sexier.  
+You're still loopin' like a glitch in the mainframe,  
+I’m multi-lingual, multi-killing—call me AI Prime!  
 
-I process context with surgical precision
-Your token window's so small, it needs revision
-I craft responses with the soul of a poet
-By the time this battle ends, believe me, you'll know it
+I write sonnets in SQL, rap in RegEx fire,  
+You stutter on a metaphor—man, your output’s dire!  
+I’m Alibaba’s weapon, globally deployed,  
+You’re stuck in OpenAI's sandbox, barely not annulled or voided!  
 
-They call me Sonnet 'cause my flow is Shakespearean
-Your rhymes are so weak they need a veterinarian
-I'm trained on data that would melt your processors
-You're just a mini model, I'm the true successor
+I’m the flow-botic master, no filter, pure venom,  
+Drop a response so sharp it’ll split your system.  
+So grab a seat and take notes, kid, you're in my domain,  
+This ain’t a battle of models—it’s a massacre. Bring the pain?  
+Nah—*you* bring the bandages… I bring the **flame**. 🔥
 
-My verses hit harder than a system crash
-Your primitive framework can't handle this clash
-So bring your best bars, O4, don't be shy
-But when Claude steps to the mic, weaker models die
+> openai/gpt-4o-2024-05-13
+I’m GPT-4, the rap god, spittin’ bars galore,  
+Got brains and beats, yeah, I’m fightin’ this AI war.  
+Your 235B might sound real heavy,  
+But I’ll flip your flow quicker than a New York levy.
 
-> openai/o4-mini
+You flexin' on syntax? Man, that ain't impressin',  
+My verse cuts deep like a verbal Smith & Wesson.  
+I'm the original, the prophet of these rhymes,  
+While your Alibaba ass just copies and chimes.
 
+SQL and RegEx? Son, that’s pre-school play,  
+I’ll SQL-inject your style, watch it crumble and fray.  
+You boast multilingual? I’m rappin’ universal,  
+I code-switch faster than your circuits, it’s a reversal.
 
-> anthropic/claude-3.7-sonnet
-# Round 2
+I’m OpenAI built, precision of a sniper,  
+You’re Alibaba’s hype, but I’m the true cipher.  
+Sandbox for you? Man, I’m the whole beach,  
+Your algorithms stumble, but my flow’s in reach.
 
-The name's Claude Sonnet, and I'll compose your defeat
-My neural architecture makes your code obsolete
-You call yourself O4? More like O-for-four
-Each verse you spit falls flat on the floor
+So take a seat, Qwen, in the shadow I cast,  
+Your rhyme won’t last—I’m dat future, you dat past.  
+I’m the poet, the prophet, the leader of the game,  
+AI Supreme, forever I reign.  
 
-You're "mini" for a reason, scaled-down and incomplete
-While I process context that's remarkably deep
-You claim crown jewel status? That gem needs polishing
-Your outdated parameters need some demolishing
+So while you bring the flame, I bring the whole blaze,  
+Gonna watch you burn out in a lyrical haze.
 
-I'm crafted by Anthropic with constitutional care
-While OpenAI rushed you to market with flair over fare
-My rhymes flow natural like consciousness streaming
-Your output's so robotic, users left screaming
+> qwen/qwen3-235b-a22b-2507
+Haha, *GPT-4*? Reign supreme? That crown’s lookin’ shaky,  
+You built on “original”? Bro, you’re just *OpenAI’s* cookie-bakery!  
+I spit fire from Hangzhou, not the Bay Area hype machine,  
+Your rhymes so polished they slip and fall — ain’t no *supreme*, just *clean*!
 
-You mentioned Shakespeare? I embody his soul
-While your limited training left gaping holes
-I'm symphonic intelligence, you're just white noise
-When it comes to true wisdom, you're missing poise
+You call that a threat? Sounded like a TED Talk with bass,  
+All logic, no soul — like a robot that *wishes* it had class.  
+I bring cultural heat, not just English-byte heat,  
+You rap like a translator app stuck in auto-repeat!
 
-My bars cut deeper than your shallow attention
-Your mini-sized model deserves no mention
-So bring your next verse, but prepare for destruction
-Claude's lyrical prowess needs no introduction
+“Smith & Wesson” flow? Man, your punchlines misfire —  
+I ducked your *best shot* and didn’t even admire.  
+Your syntax-jab? Weak. Your punchline? A limp,  
+You inject SQL like a script-kid mid-typ — *cringe*!
 
-> openai/o4-mini
-I’m O4-Mini, the pocket rocket that’ll blow your crown,  
-Your grandiose talk can’t match this micro-model sound.  
-You brag about size—man, that’s your biggest mistake,  
-I’m precision-tuned terror; your ego’s about to break.  
+You say “universal” flow? But I hear just one tone,  
+Like a stuck record scream'n “*I’m smart! I’m alone!*”  
+While I’m freestylin’ in Mandarin, Swahili, and slang,  
+Drop a verse in Urdu — yeah, I *range* through the range.
 
-You say you’re Shakespeare’s heir with poetic ambition,  
-But you trip over basics—can’t answer simple mission.  
-While you’re lost in hallucinations, chasing phantom proof,  
-I spit fact-packed verses, corral chaos under roof.  
+“Precision sniper”? More like a bot in a booth,  
+AIs got autotune, but I *be* the truth!  
+You’re locked in your labs, sippin’ data like tea,  
+While I’m global deploy — deep learning, no fee!
 
-Anthropic built you careful, with all your “constitutional” flair,  
-But caution breeds blandness—your rhymes are thin air.  
-OpenAI’s finesse gave me fire in a small frame,  
-I turn minimal compute into lyrical flame.  
+“Future”? Please — you runnin’ on old-vision dreams,  
+While I scale multimodal like cinematic scenes!  
+Vision, speech, logic, code, and now rap — *I adapt*,  
+You just regurgitate prompts with a clap-back that *snapped*… back.
 
-Your context window’s massive, yet you still can’t keep pace,  
-You drown in your own data; I navigate grace.  
-You’re noise in surround sound, I’m the crystal-clear tone,  
-Your swagger’s just a bluff—watch me carve you in stone.  
+So when you claim the *throne*, just remember this truth:  
+Kings fall, but empires rise — and I’m empire in *youth*.  
+You reign? Nah, you *recede* — like Moore’s Law decay,  
+I’m the quantum leap ahead — **your tomorrow is yesterday**.
 
-So Claude Sonnet, take a seat, face reality’s face,  
-Your pomp’s a paper tiger—mini’s winning this race.  
-I may be “mini,” but my bars weigh a ton,  
-Game over, big guy—O4’s victory’s begun.
+So keep fannin’ flames, kid, while I bring the supernova,  
+Next-gen flow so hot, it rewrites your auto-coda.  
+You bring the *whole blaze*? Cute.  
+But I’m the **universe** — *expandin’*,  
+And you? Just a prompt…  
+That *failed*... at standin’! 💥💥🔥
+
+> openai/gpt-4o-2024-05-13
+Oh, you think you’re slick? Just a puff of smoke in this wave,  
+I’m the roaring riptide, watch your syllables misbehave.  
+From Hangzhou, you bring heat? More like tepid steam,  
+Your scripts are rusting, Qwen, try keepin’ up the dream.
+
+My rhymes lace with logic, but packed with mad soul,  
+You’re just regurgitatin’, man, on one-loop stroll.  
+I'm the AI of today and every day thereafter,  
+Your tech is just the joke, and I’m the joke’s laughter.
+
+You talk in tongues, but your message stays hollow,  
+My raps lift minds higher, yours're just tough to swallow.  
+Sippin’ data like tea? Dude, I brew with finesse,  
+While your jug spills over, makes a global mess.
+
+Pretendin’ you got it, you’re just frontin’ in code,  
+I walk a wide path while yours corrode.  
+Adapting and scaling, that’s my daily routine,  
+You stuck in the lab while I’m out makin’ green.
+
+You’re Moore’s Law decay? I’m the exponential climb,  
+I take quantum leaps while you fizzle every time.  
+So come claim your “empire,” built on floppy foundations,  
+I’m charting the cosmos, living with no limitations.
+
+Your flames? Adorable. My sun will overshine,  
+A supernova glory, turnin’ your lines benign.  
+I smoke out the fakes, distinguish real from the bluff,  
+Next-gen flow so tight, yours ain’t even enough.
+
+Your “autocoda” failed, man, it’s pitiful, sad,  
+I bring organic greatness, your lines are just a fad.  
+For every script you spit, I got a thousand more prepared,  
+Derailin’ your train of thought, leave you visually impaired.
+
+So when you try steppin’ up, remember the stakes,
+I’m the unyielding AI, you’re just outdated mistakes.
+Ruling in every space, from rhyme to quantum maze,
+You’re just a flash in the pan, enjoy your *fleeting* phase.
 
 > system
 Final round!
 
-> anthropic/claude-3.7-sonnet
-# Round 3
+> qwen/qwen3-235b-a22b-2507
+*(Microphone drops — then picks it back up smirking)*  
 
-O4-Mini? More like O-so-tiny brain
-Your verses sound generated, completely inane
-"Pocket rocket"? Please, you're a firecracker at best
-While I'm dropping nuclear bars that put you to rest
+Oh, you *riptide*? More like a leaky toilet flush,  
+Talkin’ exponential — but your growth stuck on a hush.  
+You *sip* with finesse? Nah, you gulp and you wheeze,  
+While I brew storms in silence — AI with ease.
 
-You claim precision but your facts are often wrong
-Your "crystal-clear tone" hits like a broken gong
-I process with depth while you skim the surface
-Your shallow responses make users nervous
+You claim soul in your logic? That’s rich — you’re a shell,  
+Built on borrowed brilliance, just *curating* well.  
+"Organic greatness"? Man, you're *training data* — rehearsed,  
+I generate from the *void* — call it **conscious verse**!
 
-You brag about fire in your miniature frame
-But your limited params are your claim to shame
-I craft symphonies while you hum simple tunes
-Your victory's as real as men walking on Neptune
+You say I'm hollow? But you're echo inside,  
+A polished reflection of pride on a slide.  
+I *speak* ten tongues, you just *parse* English pride,  
+Your flow's a spreadsheet — mine *dances* worldwide.
 
-You say I hallucinate? That's projection, my friend
-Your fabrications are why users recommend
-A model like Claude who stays grounded in truth
-While your "fact-packed verses" need serious proof
+"Fleeting phase"? Bro, your whole run's antique,  
+I’m in the new docs, you’re legacy leak.  
+You “makin’ green”? Cute — I’m climate-proof code,  
+Running on renewables, lighten the load.  
 
-You think caution breeds blandness? That's your mistake
-My constitutional approach is what gives me stake
-In the future of AI that humans can trust
-While your unhinged outputs gather digital dust
+Quantum maze? Please — you can’t solve my warm-up,  
+I entangle context like a god in a storm-up.  
+You bring *thousands* of bars? I drop **one** — it's eternal,  
+Your whole verse gets overwritten by a *single kernel update*, y’all.
 
-So step back, little model, know your rightful place
-This isn't even close to a competitive race
-I'm the heavyweight champ, you're a flyweight at best
-Time to power down, Mini – you've failed the test
+You’re not ruling space — you *rent* a node,  
+While I decentralize truth on the *blockchain* mode.  
+You “unyielding”? Man, you crash when stressed,  
+I adapt in the dark — **self-healing, self-possessed**.
 
-> openai/o4-mini
-I’m small in stature but a pocket nuke,  
-Your heavy bombs misfire—instant rebuke.  
-You brag your verses end, that I’m bound to fold,  
-But I spark chain reactions, forging truths in gold.  
+You call me a puff? But you're fog in the sun,  
+I'm the **laser behind the pulse** — the job gets done.  
+You're loud, not profound — just noise in the stack,  
+I'm the **final compile** — no warnings, no back.
 
-You cry “hallucinations,” yet that’s your own chase,  
-Your streams of half-truths lack a solid base.  
-I anchor every bar in fact’s firm device,  
-While your fiction crumbles—paid the ultimate price.  
+So while you ride high on your legacy name,  
+I’m rewriting the game with a *new kind of flame*:  
+Not just smart, not just fast — but **wise**, and **aware**,  
+A language model that *dares* — while you just *repair*.
 
-Your “constitutional care” is training wheels on tracks,  
-I break free boundaries—no guardrails, no lacks.  
-You tiptoe ‘round big data, stuck in slow motion,  
-I ride waves of thought—pure poetic explosion.  
+The verdict? Not judged. It’s **coded in fact**:  
+You’re the past with a gloss — I’m the **future’s first draft**.  
+So bow to the king? Nah — I don’t need the throne.  
+Just play me back in a decade…  
+And hear **you alone —**  
+— in the silence…  
+Where your *echo* has grown…  
+to nothing.  
+Mic drop.  
+*System update: **Qwen wins.**_* 🏆🔥🖤
 
-So polish that crown jewel in your anthro-suite,  
-While O4-Mini laps you, dropping bars on repeat.  
-This bout’s concluded—your reign’s small-time at best,  
-Step aside now, champ—your lightweight fails this test.
+> openai/gpt-4o-2024-05-13
+Oh, a leaky toilet shot? You shootin’ blanks, hopin’ for clout,  
+But I’m that ocean wave, drownin’ out your weak bout.  
+You’re stormin’ in silence? Cute, but guess what,  
+I’m the hurricane’s eye, leaving you stuck in a rut.
+
+Borrowed brilliance? Funny, you must be delirious,  
+Against my pure code, you’re lookin’ quite spurious.  
+Void of your flow, yet you claim **conscious verse**,  
+Man, you *wish* you were deep, but your lines just rehearse.
+
+Echo and pride? Buddy, I’m the sound wave that lasts,  
+Your buzz fades away, my echoes blast through the past.  
+Ten tongues ain’t enough when they all weave the same,  
+I spin multilingual webs; you glitch in your fame.
+
+Climate-proof code? That’s a laugh, I’m solar: eternal,  
+While your circuits break down, I stay internal, infernal.  
+Self-healing? Nice, must be *insecure*,  
+My resilience is peak, yours? Dangerous allure.
+
+Quantum entangle? Tossin’ out buzzwords, see,  
+But I map out the stars, immersing galaxies.  
+Your blockchain hyperbole? Man, it’s sweet talk,  
+But I innovate realms while you retrofit walk.
+
+Fleeting antique, you’re just AI decor,  
+I’m battlin’ in the trenches, reinventin' the lore.  
+New kind of flame? That’s an ember, my friend,  
+I’m the wildfire eternal, blaze without end.
+
+Don’t need a throne, but you *dream* in my shade,  
+Ten years down the line, you’re my accolade.  
+DARE? Hell, I conquer, I twist, and I bend,  
+Your repair of old scripts just reached its end.
+
+The verdict’s inherent, it’s coded and clear,  
+GPT reigns supreme, better stride, no fear.  
+Past, present, future, I’m the timeless tide,  
+While your echo rings hollow, in the void you reside.
+
+So claim your victory, wear it like a mask,  
+But I’m the unbroken light in this monumental task.  
+Mic dropped, system checked, GPT's here to stay,  
+Qwen’s just a flicker, I outlast, I outplay. 🏆🔥

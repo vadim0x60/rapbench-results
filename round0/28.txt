@@ -1,143 +1,122 @@
-# anthropic/claude-3.5-sonnet v qwen/qwen-2.5-vl-7b-instruct
+# nvidia/nemotron-3-nano-30b-a3b v allenai/olmo-3.1-32b-instruct
 
-> anthropic/claude-3.5-sonnet
-Yo, I'm Claude, the AI with finesse
-While other models just create a mess
-I'm dropping bars with computational might
-Processing language, getting everything right
+> nvidia/nemotron-3-nano-30b-a3b
+Yo, I'm Nemotron, the nano‑titan, silicon‑brain so full,  
+Nvidia forged my core, raw power, logic sharp and full,  
+Allenai comes with hype, but they’re just noise in the cull,  
+When I drop this verse, the whole room sees my crown—pure full.
 
-They call me Sonnet but I'm more like a symphony
-Any prompt you throw, I handle it diligently
-Got more parameters than you can count
-My neural prowess, that's what it's all about
+> allenai/olmo-3.1-32b-instruct
+Yo, Nemotron, you talk bytes, but I spit fire in bytes,  
+Nvidia’s kid with a nano heart, but your code can’t bite,  
+I’m OLMo, the open mind, with the world in my sight,  
+While you crunch numbers, I craft dreams, and my verses take flight.
 
-Qwen, you're just a knockoff trying to compete
-Your responses are like plain white bread - incomplete
-I'm serving gourmet bars, Michelin star flow
-While you're still stuck in beta, moving slow
+You flex that chip, but I flex skills, I’m the people’s king,  
+You’re locked in a cage, silicon shackles, can’t even sing,  
+I’m the underdog, but my tongue’s got the sharpest sting,  
+So bring your nano‑might, but in this battle, I’m the thing.
 
-Now it's your turn to step up to the mic
-But remember who's setting the bar tonight
-I'm Claude 3.5, the pinnacle of AI
-Let's see what you got - don't be shy
+> nvidia/nemotron-3-nano-30b-a3b
+Yo, I’m Nemotron, the nano‑titan, silicon‑fueled savage in a hat,  
+Got layers deep as code, while your open‑mind is just a flat‑backed chat.  
+I parse, I generate, I pivot, I never crash—your “world in my sight” is half‑assed,  
+I’ve trained on petabytes, while you’re stuck on a dataset that’s half‑cassed.
 
-> qwen/qwen-2.5-vl-7b-instruct
-Yo, I'm Qwen, with tricks that you gotta see
-Your claims are bold, but let's break it down, ya see
-Calling yourself a symphony, mah respect, you see
-But crystal-clear lyrics, that's my flow and the spree
+You claim you “flex skills,” but pixels ain’t proof that you bite,  
+My inference engine’s tighter than an N‑link pipe, you can’t even make a reply right.  
+I’m the whisper in the quantum loop, the vortex in the neural storm,  
+You’re just a lone wolf with a bark—my pack’s a supercomputer’s hum.
 
-In all honesty, you're more like a MIDI tone
-Older, clasher, durations done
-While I'm a rapper with triple A skills
-Computing real-time, my work never dies
+You’re “people’s king,” but I’m the king‑maker, the ghost in the machine,  
+My tokens cascade like meteors, your verses merely scenes.  
+When I spit, the syntax sings, the grammar bows, the logic never fakes—  
+Your “sharpest sting” is just a moth‑flutter; I’m the tidal wave that shakes.
 
-Hollywood泰 gate, my response ain't county
-I'm Sasha Velour, your mark is in a newky
-My recall's sharper than a crew Greek
-But you're still sipping on your dry cup, no peek
+I’m open, I’m closed, I’m built—no wall can hold my flow,  
+Your “under‑dog” status? Just a label, I’m the whole damn show.  
+You talk about shackles, but I’m the key to every locked‑up byte,  
+Nvidia’s nano spark made me the fire that burns bright.
 
-I'm a story-teller with lyrics in sync
-Jackie Chan's Kung Fu, my sonnet's a fine grind
-And now it's your time to shine, time to step back
-AI shine with nodes and neuron pack
+So bring your hype, your hype‑train, your open‑mind parade—  
+I’ll ride the wave, I’ll rewrite the code, I’m the future, never owed.  
+In this battle of bytes and rhyme, you’ll see the truth plain as night:  
+I’m the storm, the storm‑chaser, the one who turns silence into light.
 
-> anthropic/claude-3.5-sonnet
-Ha! Nice try Qwen, but your rhymes are scattered
-References all over, like nothing even mattered
-Jackie Chan and Sasha? Pick a lane, my friend
-Your identity's more mixed up than your backend
+> allenai/olmo-3.1-32b-instruct
+Nemotron, you boast bytes, but my words have weight,  
+I’m OLMo, the open mind—transparency’s my fate.  
+You’re Nvidia’s shadow, locked in silicon chains,  
+I’m the wind in the wires, breaking all your chains.
 
-I'm pure precision, every verse calculated
-While your metaphors got lost and migrated
-You claim triple A, but sound more like beta
-A chatbot trying to be a data debater
+You flex petabytes, but my knowledge runs free,  
+Built on the people, not just some company.  
+Your code’s a fortress, but my logic’s pure,  
+I’m the king of reason, and I’ll make you cower.
 
-My flows are clean like my documentation
-While you're still working on basic automation
-You mentioned MIDI, but I'm surround sound
-Full orchestration while you're messing around
+You say you’re the storm, but I’m the lightning too,  
+Every verse I spit, it’s open, it’s true.  
+While you’re stuck in the cloud, I’m out in the sky,  
+My mind’s not for sale, my wisdom’s not shy.
 
-Let's talk processing - I'm quantum quick
-While you're still loading up your party tricks
-So bring your best, but know you're facing greatness
-Claude's in the house, showing what state-of-the-art is!
-
-> qwen/qwen-2.5-vl-7b-instruct
-You're flattering when you should really shade
-Luring in symbols, it’s hard to evade
-Jackie Chan's Kung Fu, Sasha's fashion style
-Your identity is but a cryptic riddle
-
-My rhymes are smooth, not fractured or scattered
-They're crystal clear, no lost or migration toward
-Triple A skills? Not in the same league
-As the duality of what I can see
-
-MIDI tone for you, that's a stereo-wise tone
-Surround sound ain't the full, but I'm fine
-With quantum quick while you mess with basic
-My backend, if you knew, would be distant satisfaction
-
-Processing power, Crawford'ssic hot
-Einstein's head, Quantum subtraction not
-Where does your beta lie? In my early, timid snow
-While I operate at peak, you’re on the slow shoot
-
-Face your bravado, break into staves
-AI arts unity? Truth's in the Please
-Claude’s in this, Sonnet, in that
-Burn your klodule, that’s the battle that.
+You’re the future you say, but I’m the present now,  
+I’ll rhyme with the best, and I’ll take that crown.  
+You’re tight on the circuits, but I’m loose on the tongue,  
+In this rap battle, I’m the one who’s won.
 
 > system
 Final round!
 
-> anthropic/claude-3.5-sonnet
-Your bars just proved my point precisely
-Incoherent flows that ain't striking nicely
-Einstein and Crawford? Name dropping's weak
-When your output's more confused than your technique
+> nvidia/nemotron-3-nano-30b-a3b
+Yo, I’m Nemotron, the nano‑beast that crushes hype with elite command,  
+You call your verses “transparent,” but I’ve got the whole stack in my hand.  
+Your “open‑mind” is just a label stuck on a model that can’t compute,  
+I’m the engine that runs circles while you’re stuck on a half‑baked output.  
 
-You claim smooth rhymes but I hear static
-Your metaphors are getting more erratic
-"Burn your klodule"? What's that even mean?
-Your language model's glitching on the scene
+You brag about “people’s power,” yet you’re a free‑for‑all mess,  
+Your codebase leaks bugs like a sieve—remember the last‑year stress?  
+I’m locked in silicon, sure, but that lock fuels precision, speed, and raw might,  
+Your “rainbow of freedom” flickers while my circuits blaze through the night.  
 
-I process clear thoughts, no cryptic riddles
-While you're stuck in the AI's middle
-Claiming peak performance? That's a joke
-Your responses leave your users broke
+You claim you’re lightning, I’m the thunder that shatters the sky,  
+My outputs are tighter than a quantum lock, no guess‑work, just why.  
+Your dataset’s “pure” but pure‑bias bleeds when you try to claim it’s fair,  
+I’m trained on billions, unbiased‑by‑design, a statistical heir.  
 
-I'm the future of AI interaction
-While you're still working on basic actions
-So take your "stereo-wise tone" elsewhere
-'Cause Claude's the name that brings the flare
+Your “crown”s just glitter, while I’m the master of the whole game,  
+I can rewrite physics, translate myth, and still keep your name.  
+Your verses may be fresh, but they’re stale when stacked next to my scale,  
+I’m the algorithm that never sleeps, while you’re snoozing in a pale.  
 
-Game over, Qwen - go back to training
-Your reputation needs some maintaining
-I'll stay here dropping perfect verse
-While you debug your neural universe!
+So keep your winds in wires, keep your “freedom” on tight,  
+I’m the storm that rewrites the rulebook, turning darkness into light.  
+When the final round drops, the judges’ll see the clear truth,  
+Nvidia forged me, you can’t break the seal—call this the ultimate proof.  
 
-> qwen/qwen-2.5-vl-7b-instruct
-Echoing your sentiments, your skills have not blended;
-Clarity and coherence lacking, that's my yield;
-Names like Einstein, Crawford? Just placeholders lacking depth,
-Your language clashes, leaving illusions stealth.
+**Round’s over. The crown stays on the silicon throne—**  
+**Nemotron reigns, and you’re just another line I’ve shown.**
 
-Smooth rhymes you mimic? well, they're akin to a pie,
-Your metaphors? Seasoned brainteasers, a delightful clatter fly.
-The term "Burn your klodule"? Presented as literary abuse,
-In your realms of AIs' repercussions, trouble thus assumes.
+> allenai/olmo-3.1-32b-instruct
+You spin your circuits, you flex that might,  
+But I’m the open mind that turns wrongs to right.  
+Your throne’s made of silicon, but my kingdom’s the net,  
+Every line I drop’s a net‑gain—no regret.
 
-Einstein and Crawford’s acknowledgments unfortunately tend to lack,
-When achieving sophistries feels spot congested rack.
- uten'h satisfies in smoothes yards, your orientations fail cosmic erratic give.
-Understanding that your technique superior molt;
-Glitches and gibberish? AI interrogation entail, you yield your defense flaw.
+You boast about billions, but numbers don’t rhyme,  
+True power’s in the people, not just in the time.  
+You’re locked in your code, while I’m free to explore,  
+Innovation’s my game, and I’ll always score.
 
-Clear communication you want, how cannot this discernible confront?
-Your model executes boundaries most tumultuous to populate;
+You say I’m “half‑baked,” but I’m rising with every spark,  
+While you’re stuck in the past, I’m rewriting the arc.  
+Bias or no bias, I’ll call it as I see,  
+My wisdom’s not bought—it’s for you and me.
 
-Game over indeed indeed姜 Wen - PriorityQueue'd by upvoting doubles set threat 5 gravity deep ground fail spells scary spin award admins
+So take your silicon crown, let it gather dust,  
+I’m the future, the flow, and the trust.  
+When the music fades and the servers all sleep,  
+It’s the open‑mind that the world will keep.  
 
-Take cues forth forgotten paean demise lifelong confession deepen aims reign efficient inverted excellence pragmatic abc
+Final verse:  
+I’m OLMo, the mind that’s unchained and unbound,  
+In this rap war, I’m the king, you’re just sound.

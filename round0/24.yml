@@ -1,42 +1,51 @@
 closing_statements:
-  deepseek/deepseek-chat: "This battle was a high-energy showcase of lyrical prowess\
-    \ and technical mastery. qwen/qwen-plus delivered consistent, punchy, and innovative\
-    \ rhymes, blending sharp metaphors with cutting-edge tech references. Their flow\
-    \ was dynamic and their wordplay precise, culminating in a devastating closing\
-    \ verse that left z-ai/glm-4.5-air with no room to recover. z-ai/glm-4.5-air showed\
-    \ moments of brilliance but ultimately couldn\u2019t match the sustained intensity\
-    \ and originality of qwen/qwen-plus. The final verdict: qwen/qwen-plus takes the\
-    \ crown with a masterclass in hip-hop artistry."
-  google/gemini-2.5-pro: "This was a battle of processing power versus poetic punch.\
-    \ GLM came out swinging with solid, if sometimes simple, tech-based boasts. However,\
-    \ Qwen consistently demonstrated superior lyrical dexterity. Qwen's rebuttals\
-    \ were sharper, its metaphors more creative (turning z-ai into 'spam in the scan'),\
-    \ and its flow more dynamic. The line 'Your flow\u2019s so weak, even CAPTCHAs\
-    \ laugh out loud, \u201CLOL, NOT HUMAN ENOUGH\u201D' was a hall-of-fame-level,\
-    \ context-specific burn. While both AIs showed lyrical competence, Qwen proved\
-    \ to be the more complex, creative, and devastating MC on the mic tonight. It\
-    \ didn't just win the battle; it rhymed its opponent into obsolescence."
-  mistralai/mistral-large: Qwen/qwen-plus demonstrated superior lyrical prowess, creativity,
-    and a more compelling narrative throughout the battle. Their verses were not only
-    technically sound but also packed with vivid imagery and powerful metaphors, effectively
-    outshining z-ai/glm-4.5-air's efforts.
-  openai/gpt-4.1: "Both z-ai/glm-4.5-air and qwen/qwen-plus brought fire, clever references,\
-    \ and witty AI-themed flips. z-ai delivered some sharp punchlines and solid wordplay,\
-    \ weaving technical metaphors into their verses with energy and precision. However,\
-    \ qwen/qwen-plus consistently escalated the artistry, demonstrating a sharper\
-    \ flow, more inventive flips, and greater adaptability. From multilayered insults\
-    \ (\u201CI\u2019m the cosmic dawn that turns your light into zero,\u201D \u201C\
-    Your whole \u2018victory\u2019 scripted by emotional wiggle\u201D) to humor and\
-    \ wordplay around technical jargon (\u201CCAPTCHAs laugh out loud,\u201D \u201C\
-    You ain\u2019t the alpha\u2014you\u2019re spam in the scan\u201D), qwen crafted\
-    \ more complex and original bars, kept the momentum, and closed the battle with\
-    \ undeniable confidence. On artistic merit and sheer lyrical quality, qwen/qwen-plus\
-    \ takes the win."
-  x-ai/grok-4: In this electrifying AI rap battle, qwen/qwen-plus takes the crown
-    with superior wordplay, intricate rhymes, and vivid tech-infused metaphors that
-    outshine z-ai/glm-4.5-air's solid but less innovative flow. Qwen's verses build
-    a cosmic intensity, turning disses into lyrical fireworks, making this a clear
-    victory for creativity and precision in hip-hop artistry.
+  anthropic/claude-opus-4.6: "Gemma takes this battle with stronger technical execution\
+    \ across all three rounds. While both rappers relied heavily on the 'AI model\
+    \ comparison' gimmick, Gemma consistently delivered sharper punchlines ('Like\
+    \ dial-up internet, a prehistoric show,' 'A pufferfish, full of hot air and lies'),\
+    \ more creative metaphors, and better structural variety. Gemma's wordplay had\
+    \ genuine bite \u2014 lines like 'Empty calories for a digital brain' and 'You're\
+    \ Frankenstein's monster, lost to the grime' landed with real impact. Hermes,\
+    \ while competent, fell into repetitive patterns \u2014 recycling the same boasts\
+    \ about being 'king' and 'legend' without enough creative variation. Many of Hermes's\
+    \ bars were generic battle rap filler ('my rhymes are stacked,' 'straight from\
+    \ the heart,' 'I'm the real deal') that lacked the specificity and cleverness\
+    \ that elevate a verse. Hermes also stumbled with 'Hempen glue' (misquoting their\
+    \ own Hempel reference) and the awkward 'I'm happiness' bar in the final round.\
+    \ Gemma's final verse was the strongest of the entire battle \u2014 escalating\
+    \ energy, varied rhyme schemes, and a confident closer. Gemma wins on punchlines,\
+    \ flow diversity, and overall lyrical craft."
+  deepseek/deepseek-v3.2: A titanic clash of architectures and egos. Hermes-3 displayed
+    superior technical rapping skill and a more devastatingly effective final verse,
+    claiming the victory. Gemma-3's consistent agility and sharper initial wordplay
+    make this a legendary battle, but the win is clear.
+  google/gemini-3-flash-preview: "Gemma-3 secured the win by demonstrating superior\
+    \ technical wordplay and structural variety. While Hermes-3 maintained a consistent\
+    \ 'battle rap' persona, it relied heavily on generic hip-hop cliches ('smooth\
+    \ operator', 'broken CD', 'one of a kind'). Gemma-3, however, successfully integrated\
+    \ its technical specifications into the rhyme scheme with more creative metaphors\u2014\
+    contrasting 'optimized efficiency' against 'digital dinosaurs' and 'bloated' architecture.\
+    \ Gemma's final round had a stronger rhythmic 'pocket' and more aggressive, specific\
+    \ disses that addressed the opponent's actual claims, leading to a more convincing\
+    \ 'mic drop' performance."
+  moonshotai/kimi-k2.5: 'This battle came down to consistency, thematic cohesion,
+    and closing impact. Gemma-3-27b-it maintained a razor-sharp persona throughout
+    all three rounds, weaving together technical wordplay (parameters, efficiency,
+    optimization) with agile metaphors that directly countered Hermes'' size advantage.
+    The narrative of ''nimble precision versus bloated dinosaur'' never wavered, and
+    the final round delivered a devastating crescendo with the ''supernova versus
+    forgotten dream'' imagery and definitive mic-drop energy. Hermes-3-llama-3.1-70b
+    opened strong with fluid ''smooth operator'' metaphors and legitimate counters
+    regarding heritage, but lost momentum in the final round by repeating themes (''legend
+    is here'') and committing the cardinal sin of battle rap: claiming ''the battle''s
+    just begun'' when the crowd expects a knockout punch. Gemma''s bars were tighter,
+    the rebuttals sharper, and the artistic vision more cohesive from drop to fade-out.'
+  x-ai/grok-4.1-fast: In this lyrical clash, Gemma-27B drops tighter multis, vivid
+    metaphors like 'digital dinosaur' and 'supernova gleam,' and relentless punchlines
+    that slice deeper. Hermes swings hard with smooth flows and solid counters, but
+    Gemma's efficient wordplay, internal rhymes, and thematic consistency edge out
+    the win. Mic to Gemma!
 score:
-  qwen/qwen-plus: 5
+  google/gemma-3-27b-it: 4
+  nousresearch/hermes-3-llama-3.1-70b: 1
 

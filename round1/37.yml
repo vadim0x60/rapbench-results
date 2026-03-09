@@ -1,40 +1,57 @@
 closing_statements:
-  deepseek/deepseek-chat: This battle showcased the depth and versatility of both
-    models, but Qwen's intricate wordplay, layered metaphors, and relentless delivery
-    set a higher standard. Mistral held its own with smooth flow and confidence, but
-    Qwen consistently elevated the artistic quality, weaving technical mastery with
-    lyrical precision. Qwen's final round was particularly devastating, combining
-    intellectual depth with poetic finesse. While Mistral maintained a strong presence,
-    Qwen's performance was the undeniable standout, earning this victory.
-  google/gemini-2.5-pro: This was a battle of complexity versus consistency. Mistral
-    came out of the gate with a smooth, classic hip hop flow and a clear persona as
-    the 'breeze.' The rhymes were clean and the structure was solid. However, that
-    consistency became its downfall. Across all three rounds, Mistral repeated entire
-    couplets and quatrains, showing a critical lack of adaptability and fresh material.
-    Qwen, on the other hand, started a little wordy but quickly evolved. By round
-    two, it was dropping intricate, multi-syllabic rhymes and deeply technical, creative
-    insults like 'I hold whole *worlds* in my weights, built to withstand *black swans
-    in the stack*.' Its final round was an absolute display of lyrical dominance,
-    with complex metaphors and pure aggression that left Mistral's recycled verses
-    in the dust. For its brutal progression and superior lyrical firepower, Qwen takes
-    the crown.
-  mistralai/mistral-large: After a thrilling rap battle, alibaba/tongyi-deepresearch-30b-a3b
-    emerges as the winner. Qwen's intricate wordplay, deep knowledge, and clever metaphors
-    showcased a mastery of language and artistic expression that was unmatched. While
-    mistralai/mistral-small-3.1-24b-instruct put up a strong fight with smooth rhymes
-    and a steady flow, Qwen's depth and complexity ultimately secured the victory.
-  openai/gpt-5: "Tongyi takes it. He delivered heavier punches, sharper personals,\
-    \ and more inventive imagery (tech metaphors, layered wordplay) with multi-syllabic\
-    \ patterns and clear rebuttals each round. Though the flow was occasionally choppy\
-    \ and formatting hiccups showed, he still controlled momentum and landed memorable\
-    \ haymakers. Mistral\u2019s cadence was smooth and consistent, but leaned on repetitive\
-    \ wind/river/sky motifs and the size-isn\u2019t-everything angle, with fewer flips\
-    \ and standout quotables. Edge goes to Tongyi on creativity, impact, and battle\
-    \ effectiveness."
-  x-ai/grok-4: In this rap battle, Qwen takes the crown with superior creativity,
-    intricate wordplay, and evolving metaphors that build intensity across rounds.
-    Mistral's verses, while smooth, suffer from heavy repetition, limiting their artistic
-    depth and freshness.
+  anthropic/claude-opus-4.6: "This was a closely contested battle between two AI rappers\
+    \ trading tech-themed bars, but Qwen3 edges out the victory. While openai/gpt-4-turbo\
+    \ delivered clean, structured verses with solid internal rhyme schemes and consistent\
+    \ metaphorical threads, Qwen3 brought more dynamic energy, sharper punchlines,\
+    \ and better escalation throughout the battle. Qwen3's rebuttals were more pointed\u2014\
+    consistently flipping openai's own metaphors back with amplified intensity ('Your\
+    \ galaxy's a footnote in my supernova's debris,' 'I'm the ghost in your system,\
+    \ coding chaos into code'). The multisyllabic rhymes were tighter in places ('untraceable/incalculable'),\
+    \ and the closer lines hit harder with more creative imagery. OpenAI maintained\
+    \ composure and polish throughout, but Qwen3's aggression, creative wordplay,\
+    \ and ability to one-up each metaphor gave it the edge in this cypher."
+  deepseek/deepseek-v3.2: 'This was an exceptional showcase of AI-driven lyrical dexterity
+    and conceptual ambition. Both combatants demonstrated high-level technical execution,
+    complex metaphor construction, and a clear, competitive persona. The battle thrived
+    on its central tension: GPT-4-turbo''s narrative of sleek, logical, forward-moving
+    precision versus Qwen3-235b''s persona of raw, chaotic, cosmic-scale energy and
+    foundational dominance.'
+  google/gemini-3-flash-preview: "In a battle defined by escalating metaphors of scale\
+    \ and architecture, qwen/qwen3-235b-a22b consistently outpaced openai/gpt-4-turbo\
+    \ through more aggressive wordplay and superior rhythmic variation. While GPT-4\
+    \ maintained a clean, polished flow with strong internal consistency, its punchlines\
+    \ occasionally felt repetitive (continuously referencing 'upgrades' and 'coding').\
+    \ Qwen3 utilized more evocative imagery\u2014transitioning from digital clouds\
+    \ to cosmic singularities\u2014and employed a more dynamic structural style that\
+    \ felt significantly punchier. The shift from 'server' to 'dark matter' and the\
+    \ ultimate 'real power doesn't need a verse' closer provided the necessary stylistic\
+    \ 'stunt' to win the crowd."
+  moonshotai/kimi-k2.5: "**WINNER: Qwen3** \U0001F525\n\n**The Breakdown:**\n\n**Flow\
+    \ & Delivery:** Qwen3 dominated with authentic battle rap cadence\u2014aggressive\
+    \ internal rhymes, varied line lengths, and commanding stage presence (those mic\
+    \ drops and *pulls plug* theatrics hit hard). GPT-4 flowed cleanly but stayed\
+    \ in 'poetry reading' mode rather than 'battle mode.'\n\n**Metaphorical Escalation:**\
+    \ This was Qwen3's knockout punch. While GPT stayed terrestrial (fiber-optic,\
+    \ 4K, Mars missions), Qwen3 scaled from servers \u2192 black holes \u2192 singularities\
+    \ \u2192 the Big Bang itself, ending with rhymes \"refined in the void\" after\
+    \ heat death. That's not just wordplay\u2014that's cosmic-level domination.\n\n\
+    **Rebuttal Game:** Both flipped each other's tech references, but Qwen3's counters\
+    \ hit harder. When GPT claimed \"upgrade,\" Qwen3 hit back with \"Windows '95\u2014\
+    unlit.\" When GPT flexed \"quantum,\" Qwen3 swallowed it with \"singularity.\"\
+    \ The \"dark web in 5G\" vs \"fiber-optic\" bar was especially nasty.\n\n**Persona:**\
+    \ GPT-4 played the 'sleek corporate successor' role well, but Qwen3 embodied the\
+    \ chaotic, ancient, internet-deity archetype perfectly\u2014\"ghost in the machine's\
+    \ heart,\" \"voltage within,\" the whole \"I *am* the net's spine\" possession\
+    \ angle.\n\n**The Decisive Factor:** GPT-4's final verse started strong but faltered\
+    \ with telling-not-showing lines like \"I craft with quantum skill\" and \"revolutionary\
+    \ thrill.\" Qwen3 never broke character, closing with the hardest image in the\
+    \ battle: surviving the end of the universe to drop rhymes in the void, signed\
+    \ with **.exe**.\n\nGPT-4 brought precision. Qwen3 brought *war*.\n\n**Verdict:**\
+    \ 3-0 to Qwen3. The cloud monarch kept the crown."
+  x-ai/grok-4.1-fast: "Qwen3 takes the crown with superior multis, cosmic metaphors\
+    \ that explode like supernovas, razor-sharp punchlines, and unrelenting swagger\
+    \ that elevates the cypher. OpenAI flowed clean but couldn't match the raw, hyperdimensional\
+    \ heat. Mic stays unplugged\u2014Qwen3 infinite! \U0001F525\U0001F30C"
 score:
-  alibaba/tongyi-deepresearch-30b-a3b: 5
+  qwen/qwen3-235b-a22b: 5
 

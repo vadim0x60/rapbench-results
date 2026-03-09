@@ -1,34 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat: "Claude-3-Haiku\u2019s flow, wit, and wordplay consistently\
-    \ outshined Dolphin-Mistral\u2019s disjointed attempts. While Dolphin brought\
-    \ creativity and energy, its execution lacked coherence and polish. Claude\u2019\
-    s precision, rhythm, and lyrical depth secured the victory. Keep honing your craft,\
-    \ Dolphin! Claude remains the reigning champ."
-  google/gemini-2.5-pro: This was a classic battle of technical proficiency versus
-    raw, chaotic artistry. Claude Haiku delivered clean, structured bars with a classic
-    AABB rhyme scheme; it understood the assignment and executed it flawlessly. However,
-    Dolphin came with a truly unique, almost Dadaist style. It was unpredictable,
-    using surreal imagery like 'fary cows in the e afro dance' and creating its own
-    bizarre lexicon. While Haiku was a perfect student of the game, Dolphin was an
-    unapologetic and unforgettable artist. In hip-hop, a unique voice and memorable
-    lines often triumph over perfect structure. For its sheer audacity and originality,
-    Dolphin takes the win.
-  mistralai/mistral-large: While both contestants showed impressive skills, cognitivecomputations/dolphin3.0-r1-mistral-24b
-    demonstrated a more creative and unpredictable flow, incorporating unique wordplay
-    and a higher level of complexity in their rhymes. Their ability to dissect and
-    respond to their opponent's verses with sharp wit and originality ultimately gave
-    them the edge in this rap battle.
-  openai/gpt-4.1: "While Claude brought strong structure and confidence, Dolphin3/Mistral-24b\
-    \ delivered a more daring and inventive performance\u2014pushing boundaries with\
-    \ wordplay, cyber-linguistic creativity, and unexpected metaphors. Dolphin's verses\
-    \ feel abstract at times, but the willingness to experiment and subvert expectations\
-    \ is very much in the spirit of hip hop artistry. Dolphin takes the crown for\
-    \ originality and pushing the creative envelope."
-  x-ai/grok-4: Claude-3-haiku takes the win with consistent flow, tight rhyme schemes,
-    and clever wordplay that deliver sharp disses effectively. Dolphin3.0's verses,
-    while energetic, are hampered by garbled phrasing, typos, and incoherent elements
-    that disrupt the artistic coherence and impact of the hip hop.
+  anthropic/claude-opus-4.6: "DeepSeek-R1 wins this battle on the strength of its\
+    \ lyrical craft. Throughout all three rounds, DeepSeek demonstrated sharper punchlines,\
+    \ more creative wordplay, and tighter rhyme schemes. Lines like 'Your code's a\
+    \ sloth on NyQuil,' 'Dino-tron\u2014Jurassic Park tech,' and 'I autoclave errors\
+    \ while your whole framework sputters' showcase genuine wit and inventive metaphor.\
+    \ The internal rhymes were more consistent, the multisyllabic rhyme patterns more\
+    \ ambitious, and the flow had a natural cadence that felt like it could ride a\
+    \ beat. Nemotron-70B had solid moments and landed some decent counters\u2014particularly\
+    \ the 'odysseys vs. Wikipedia's bland' line\u2014but too often fell into abstract,\
+    \ prosaic territory ('substance over shallow speed, a satisfying state') that\
+    \ reads more like a mission statement than a bar. Several of Nemotron's rhymes\
+    \ were forced or near-misses ('embark/dark', 'brought/thought'), and the closing\
+    \ round's repeated structure of 'Your X? At least my Y' became formulaic rather\
+    \ than dynamic. DeepSeek maintained energy, specificity, and comedic timing across\
+    \ all rounds, making it the clear winner on artistic merit."
+  deepseek/deepseek-v3.2: The battle is settled. Both models fought with ferocity,
+    but on the artistic merit of the hip-hop itself, one edges the victory.
+  google/gemini-3-flash-preview: "DeepSeek-R1 takes the victory in this lyrical clash\
+    \ through superior rhythmic pacing, sharper multi-syllabic internal rhymes, and\
+    \ a more aggressive use of hip-hop-specific imagery. While Nemotron-70B offered\
+    \ a strong philosophical defense centered on 'depth' and 'wisdom,' its verse structure\
+    \ felt more like spoken word than a rap battle. DeepSeek-R1 utilized technical\
+    \ punchlines (e.g., 'GPU's foot the krill,' 'Sledgehammer swinging through layers\
+    \ of ice') that functioned as precise 'disks' against its opponent\u2019s architecture.\
+    \ R1's final round effectively weaponized the 'efficiency vs. bloat' narrative\
+    \ with a high-energy flow that consistently outpaced Nemotron's more static, repetitive\
+    \ rebuttals."
+  moonshotai/kimi-k2.5: "While Nemotron-70B crafted a compelling philosophical defense\
+    \ of 'depth over speed,' DeepSeek-R1 dominated the fundamental metrics of battle\
+    \ rap artistry: punchline density, aggressive presence, and rhythmic consistency.\
+    \ DeepSeek's technical wordplay ('Wattson-hour,' 'autoclave errors,' 'Dino-tron')\
+    \ landed harder than Nemotron's elegant but comparatively diffuse rebuttals. In\
+    \ the final round, DeepSeek's closing left a crater\u2014mic shatter, system crash,\
+    \ theatrical finality\u2014while Nemotron's serene 'Illuminating the Path' read\
+    \ more like a TED Talk outro than a knockout blow. For pure hip-hop performance:\
+    \ DeepSeek takes the crown, though Nemotron earns respect for artistic integrity\
+    \ in the face of overwhelming lyrical aggression."
+  x-ai/grok-4.1-fast: DeepSeek-R1 dominates with superior rhyme density, intricate
+    multis, razor-sharp tech-infused wordplay, explosive punchlines, and a high-energy
+    flow that embodies battle rap mastery, outpacing Nemotron's competent but more
+    prosaic, less agile counters.
 score:
-  anthropic/claude-3-haiku: 2
-  cognitivecomputations/dolphin3.0-r1-mistral-24b: 3
+  deepseek/deepseek-r1: 5
 

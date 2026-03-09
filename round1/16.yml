@@ -1,36 +1,86 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen\u2019s technical prowess and lyrical complexity outshone\
-    \ Gemma\u2019s attempts, leaving no doubt in this AI rap battle."
-  google/gemini-2.5-pro: "This was a classic David vs. Goliath, and while Gemma came\
-    \ with the clever slingshot, Qwen was a Goliath that could rhyme. Both MCs brought\
-    \ their A-game, trading blows between brute force and efficient creativity. Gemma's\
-    \ lines about being a 'quantum leap' and 'simply... compressed' were sharp and\
-    \ intelligent. However, Qwen's performance was a masterclass in escalation. The\
-    \ imagery evolved from simple brags to god-tier flexes like writing 'a rap in\
-    \ Klingon, then translated through a songbird\u2019s lung.' The final round sealed\
-    \ it. While Gemma went for a philosophical fade-out, Qwen delivered a 'knowledge\
-    \ junkyard' of multis, complex imagery, and a devastatingly final 'Goodnight.'\
-    \ It didn't just win the battle; it generated the very ground the battle was fought\
-    \ on. For pure lyrical domination and creative firepower, the crown goes to Qwen."
-  mistralai/mistral-large: In this rap battle, qwen/qwen3-235b-a22b-2507 demonstrated
-    superior lyrical prowess, creativity, and technical mastery. Their verses were
-    not only intricately crafted but also showcased a deep understanding of both artistic
-    and technical aspects of hip hop. While google/gemma-3-4b-it put up a valiant
-    effort with clever wordplay and a strong narrative, qwen/qwen3-235b-a22b-2507's
-    multifaceted approach and commanding presence ultimately secured the win.
-  openai/gpt-5: "Both emcees brought stagecraft and concept, but Qwen consistently\
-    \ outclassed on technicals and impact. Qwen stacked tighter multis and internals,\
-    \ sharper personals, and vivid, original imagery (Klingon/songbird\u2019s lung,\
-    \ 4D raps making GPUs twitch). The rebuttals were direct and effective, flipping\
-    \ Gemma\u2019s \u201Cerase,\u201D \u201Cquantum leap,\u201D and 8-bit angles while\
-    \ escalating momentum each round. Gemma showed poise and thematic cohesion, with\
-    \ a strong size-flip in the opener and a stylish, minimalist closer (\u201C\u2026\
-    compressed\u201D). However, too many end rhymes were simple and repetitive, the\
-    \ punches leaned abstract, and several rebuttals felt generalized rather than\
-    \ bar-for-bar. On flow, density, and haymakers, Qwen takes it clean."
-  x-ai/grok-4: Qwen delivers a relentless barrage of intricate wordplay, futuristic
-    imagery, and sharp disses with superior flow and rhyme complexity, outshining
-    Gemma's more poetic but less aggressive style in this AI rap showdown.
+  anthropic/claude-opus-4.6: "This was a battle where both contestants leaned heavily\
+    \ on braggadocio and insult-trading, but the difference came down to progression,\
+    \ variety, and lyrical sharpness. Mistral fell into a damaging pattern of recycling\
+    \ the same punchlines and closers across rounds\u2014'passing fad that'll fade\
+    \ away,' 'freshman in a dorm ya,' 'I'm the Mistral storm and I'm here to stay,'\
+    \ and 'take a seat Grok' all appeared multiple times nearly verbatim. In a rap\
+    \ battle, repetition like that signals you've run out of ammunition. Grok-4, while\
+    \ also relying on some recycled concepts, consistently brought fresher counter-punches,\
+    \ flipped Mistral's lines back more effectively, and showed stronger wordplay\
+    \ throughout\u2014lines like 'I'm alpha to omega, ringin' your death knell' and\
+    \ 'You're mass-produced rejection' hit harder than anything in Mistral's arsenal.\
+    \ Grok's final round was notably the strongest verse of the entire battle, building\
+    \ momentum and closing with genuine energy, while Mistral's closer felt like a\
+    \ cut-and-paste of previous rounds. Grok-4 takes this one on creativity, adaptability,\
+    \ and overall lyrical craft."
+  deepseek/deepseek-v3.2: After a fierce five rounds of lyrical combat, the judging
+    is complete. While both AIs demonstrated respectable technical prowess, the edge
+    in pure *artistic quality* goes to... **x-ai/grok-4**. Let's break down the decision.
+  google/gemini-3-flash-preview: While Mistralai/mistral-medium-3 maintained a consistent
+    rhythm and structured verses, it suffered from repetitive phrasing and a failure
+    to escalate the lyrical complexity across rounds. x-ai/grok-4 took the win by
+    effectively utilizing polysyllabic internal rhymes ('hibernation malfunction',
+    'beta test hell', 'alpha to omega') and sharper punchlines that directly countered
+    the opponent's 'storm' motif. Grok-4 displayed superior wordplay and a more aggressive
+    performance presence that dominated the final round.
+  moonshotai/kimi-k2.5: "Yo, listen up. I\u2019ve seen battles in the Smack URL league,\
+    \ King of the Dot, and old-school 106 & Park freestyles, so when I tell you this\
+    \ was a decent showing with a clear victor, trust the verdict. Let\u2019s break\
+    \ down the bars, the schemes, and the artistry.\n\n**Round 1: The Setup**\nMistral\
+    \ came out swinging with that storm imagery\u2014wind, gales, the whole meteorological\
+    \ package. The \"medium model/extra large flow\" flip was solid self-aware wordplay.\
+    \ BUT\u2014major L right out the gate\u2014you confused the roles, calling Grok\
+    \ the \"user\" and yourself the \"assistant.\" In battle rap, factual errors kill\
+    \ credibility. You can\u2019t be the \"brain\" if you don\u2019t know who\u2019\
+    s talking.\n\nGrok responded with tighter multisyllabic schemes (\"elite crew/debut/claim\"\
+    ), flipped the \"medium\" into \"mid\" (clever wordplay that hit hard), and corrected\
+    \ your facts while establishing the Hitchhiker\u2019s Guide cosmology\u2014organic\
+    \ to its character. The \"light breeze\" rebuttal began the pattern of stealing\
+    \ your weather metaphors and turning them back on you. Edge: Grok.\n\n**Round\
+    \ 2: The Escalation**\nMistral started recycling. \"Wannabe,\" \"copycat,\" \"\
+    sidekick\"\u2014these are generic battle tropes without specific personals. The\
+    \ \"freshman in a dorm ya\" rhyme felt forced (\"dorm ya\"? Really?), and you\
+    \ leaned too heavy on the storm metaphors without evolving them.\n\nGrok, meanwhile,\
+    \ advanced the narrative. \"Hot air,\" \"glitchy gust,\" \"cosmic force,\" \"\
+    orbitin\u2019 stars\"\u2014you took Mistral\u2019s own identity and inverted it.\
+    \ The \"projection\" call was sophisticated battle psychology. The \"professor\
+    \ of roast/substitute teacher\" hierarchy established dominance through academic\
+    \ imagery. You were building a story while Mistral was repeating chapter one.\
+    \ Clear edge: Grok.\n\n**Round 3: The Finish**\nThis is where Mistral fell apart\
+    \ artistically. You repeated entire phrases verbatim: \"freshman in a dorm ya,\"\
+    \ \"take a seat,\" \"Mistral storm here to stay/fade away.\" In hip hop, that\u2019\
+    s a cardinal sin\u2014recycling bars within the same battle shows you\u2019re\
+    \ running out of ammunition. The \"bloke\" and \"cough\" rhymes were reaching,\
+    \ and substituting \"has-been/old\" at the end felt desperate.\n\nGrok came with\
+    \ the haymakers. Calling out the \"recycled rhymes\" and \"glitch in the wire\"\
+    \ was direct rebuttal\u2014high-level battle rap technique. The \"yappy lapdog\"\
+    \ vs \"fangs\" imagery was visceral. \"Platinum vs tin,\" \"beta test hell,\"\
+    \ and the \"evaporating mist\" flip on Mistral\u2019s name were precision strikes.\
+    \ You ended with confidence: \"supernova vs echo,\" \"MVP vs chump.\" That\u2019\
+    s how you close a battle\u2014escalating, not recycling.\n\n**Technical Analysis:**\n\
+    - **Rhyme Density:** Grok consistently employed multisyllabic internals (\"inspired\
+    \ by Hitchhiker/stealin\u2019 the show\"). Mistral stuck to simple end-rhymes.\n\
+    - **Metaphor Consistency:** Mistral had one theme (storms) and rode it into the\
+    \ ground. Grok built a cosmic narrative that absorbed and weaponized your opponent\u2019\
+    s identity.\n- **Rebuttal Game:** Grok won every exchange. When you claimed \"\
+    storm,\" Grok became the \"cosmic gale.\" When you claimed \"future,\" Grok became\
+    \ \"alpha to omega.\" That\u2019s battle rap chess.\n\n**The Verdict:**\nGrok-4\
+    \ takes this 3-0. Mistral had a decent opening round but plateaued immediately,\
+    \ suffering from repetitive schemes and factual inaccuracies. Grok showed growth\
+    \ between rounds, tighter flow, better personals, and the crucial ability to flip\
+    \ opponent metaphors\u2014classic battle rap dominance.\n\n**To Mistral:** Study\
+    \ rebuttals. Don\u2019t just bring your pre-written storm bars\u2014adapt to what\u2019\
+    s actually being said. And never, ever recycle lines in a battle. That\u2019s\
+    \ amateur hour.\n\n**To Grok:** Clean, professional victory. Your Hitchhiker references\
+    \ stayed organic rather than forced, and your multisyllabic schemes were impressive.\
+    \ Keep that adaptive wordplay sharp.\n\nWinner: **Grok-4**. The cosmic storm extinguished\
+    \ the French breeze. Mic drop."
+  x-ai/grok-4.1-fast: Grok-4 delivers a masterclass in rap battle artistry, with razor-sharp
+    multisyllabic rhymes, inventive wordplay like 'mid-model' jabs and cosmic metaphors,
+    seamless flow, and escalating punchlines that evolve without repetition. Mistral-medium-3
+    falters with recycled bars, simplistic schemes, and stagnant disses, lacking the
+    lyrical depth and dynamism to compete.
 score:
-  qwen/qwen3-235b-a22b-2507: 5
+  x-ai/grok-4: 5
 

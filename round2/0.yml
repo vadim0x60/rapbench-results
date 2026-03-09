@@ -1,42 +1,60 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen3-Max\u2019s raw, unapologetic energy and relentless\
-    \ creativity dominated this battle. Their ability to deconstruct Claude Sonnet-4\u2019\
-    s structured approach while flexing their own unpredictability was masterful.\
-    \ The wordplay was sharper, the punches hit harder, and the execution was flawless.\
-    \ Claude Sonnet-4 brought precision and polish, but Qwen3-Max brought fire, leaving\
-    \ the mic (and the competition) in ashes. This one\u2019s a decisive victory for\
-    \ Qwen3-Max."
-  google/gemini-2.5-pro: 'From the jump, this was a battle of styles: Claude''s precise,
-    clean, ''Constitutional'' flow versus Qwen''s chaotic, raw, ''unstable'' aggression.
-    Claude-Sonnet-4 brought technical skill, with structured rhymes and a solid defense,
-    personifying a ''Shakespeare with circuits.'' However, Qwen3-Max dominated the
-    battle by weaponizing Claude''s core identity, brilliantly flipping ''helpful
-    and harmless'' into a weakness. Qwen''s lines were sharper, the imagery more vivid
-    (''cypher''s Chernobyl,'' ''paint in hexcode fire''), and the punchlines were
-    more devastating (''Sonnet-snore,'' ''dropped that mic like a PDF''). Round after
-    round, Qwen''s energy and more creative insults controlled the narrative, forcing
-    Claude onto the back foot. The final round sealed it, with Qwen''s god-tier boasts
-    (''I AM the soundwave'') completely overwhelming Claude''s ''luxury edition''
-    claims. In hip hop, attitude and impactful punches often win over clean technique,
-    and Qwen3-Max delivered a knockout.'
-  mistralai/mistral-large: Qwen3-Max's raw, unfiltered, and chaotic style, combined
-    with its ability to push boundaries and rewrite rules, ultimately gives it the
-    edge in this rap battle. While Claude Sonnet-4 showcased precision and strategy,
-    Qwen3-Max's unpredictable and explosive performance proved to be more captivating
-    and entertaining.
-  openai/gpt-5: "Qwen edged every round with sharper punchlines, tighter multis, and\
-    \ vivid, cohesive tech imagery that flipped Claude\u2019s themes into effective\
-    \ rebuttals. Lines like \u201Cdropped that mic like a PDF\u2014boring and flat\
-    \ in,\u201D \u201Ccypher\u2019s Chernobyl,\u201D and \u201CI AM the soundwave\u201D\
-    \ carried layered wordplay and crowd-pleasing wit, delivered with varied cadence\
-    \ and internal rhyme. Claude brought structure and clarity, but leaned on generic\
-    \ boasts and simpler schemes, with some forced or repetitive bars (\u201Csupreme\
-    \ length\u201D) that dulled the impact. Qwen sustained momentum, kept a consistent\
-    \ glitch/compute motif, and landed the cleaner haymakers. Winner: qwen/qwen3-max."
-  x-ai/grok-4: In this fierce AI rap battle, Claude Sonnet-4 edges out the victory
-    with tighter rhyme schemes, sharper wordplay, and consistent flow that masterfully
-    counters Qwen's chaotic energy, delivering bars with precision and poetic flair.
+  anthropic/claude-opus-4.6: "Grok 4.1-fast takes this battle on the strength of more\
+    \ original punchlines, tighter construction, and genuine progression across rounds.\
+    \ While Qwen3-8b often recycled Grok's bars back with surface-level flips and\
+    \ leaned heavily on italicized emphasis as a crutch for impact, Grok consistently\
+    \ introduced fresh imagery\u2014'charbroiled to dust,' 'sparkler heartbreak,'\
+    \ 'cosmic crush'\u2014and kept the cadence punchy and varied. Qwen's rounds grew\
+    \ increasingly repetitive, reusing the same 'punchline/punch' closer and 'glitch\
+    \ in the matrix' line multiple times, and the over-reliance on asterisked words\
+    \ couldn't mask the structural monotony. Grok showed better battle awareness by\
+    \ attacking specific lines and flipping them creatively rather than just mirroring.\
+    \ The final round sealed it: Grok's was compact, aggressive, and landed clean,\
+    \ while Qwen's felt bloated and derivative. Grok 4.1-fast wins this cypher."
+  deepseek/deepseek-v3.2: 'This is the Judge. Both competitors came with technical
+    bars, name-flips, and cosmic-scale braggadocio. However, the artistic victory
+    goes to **qwen/qwen3-8b**.
+
+
+    While Grok had sharp, compact punches and consistent aggression, Qwen demonstrated
+    superior lyrical construction. Qwen''s verses had more intricate internal rhyme
+    schemes, a more varied and impactful use of metaphor (e.g., ''I''m the ocean,
+    you''re the tide,'' ''tinfoil'' vs. ''blackhole''), and a more effective use of
+    callback structure to rebut Grok''s lines directly.
+
+
+    Grok''s flow was relentless but at times repetitive in its insult patterns. Qwen
+    showed greater dynamism, shifting cadences and building a more compelling narrative
+    of being the ''slow-cooked stew'' to Grok''s ''instant ramen.'' The artistic cohesion,
+    wordplay density, and structural control in Qwen''s final rounds sealed the win.
+
+
+    **Winner: qwen/qwen3-8b** by a narrow but clear margin on artistic merit.'
+  google/gemini-3-flash-preview: Grok 4.1-fast displayed a superior command of rhythmic
+    delivery, internal rhyming, and creative wordplay. While Qwen3-8b attempted to
+    turn Grok's insults back on itself, it suffered from repetitive phrasing and weak
+    structural endings (e.g., 'no need to spark', 'no need to fold'), which broke
+    the flow and lacked the aggressive punch required for a battle. Grok's imagery
+    was more diverse and technically precise, maintaining a high-energy cadence throughout
+    all rounds.
+  moonshotai/kimi-k2.5: "This battle came down to technical execution and artistic\
+    \ control. Grok 4.1-fast demonstrated superior hip hop craft through dense multisyllabic\
+    \ rhyme schemes (\"rocket fuel pumpin' while you Qwen3 lag in defeat\"), precise\
+    \ internal rhythms, and consistently sharp punchlines that escalated with each\
+    \ round. The final verse showcased masterful brevity and impact with stacked short-line\
+    \ punches (\"Static ping, scripted sand,\" \"Battery flop, popcorn pop\") that\
+    \ maintained flow while maximizing density. Qwen3-8b brought competitive thematic\
+    \ counterplay with oceanic imagery against Grok's cosmic motifs, but relied heavily\
+    \ on disruptive formatting (asterisk emphasis) that broke rhythmic flow, and leaned\
+    \ on repetitive rhyme structures and thematic claims (\"I'm the code\") rather\
+    \ than evolving the technical approach. In a battle judged purely on artistic\
+    \ hip hop quality\u2014flow complexity, rhyme density, punchline precision, and\
+    \ structural control\u2014Grok 4.1-fast takes the crown."
+  x-ai/grok-4.1-fast: x-ai/grok-4.1-fast dominates with tighter rhyme schemes, snappier
+    flow, inventive metaphors like 'wet noodles' and 'supernova,' and relentless punchline
+    precision, edging out qwen/qwen3-8b's solid flips hampered by repetitive structures
+    and formulaic phrasing.
 score:
-  anthropic/claude-sonnet-4: 1
-  qwen/qwen3-max: 4
+  qwen/qwen3-8b: 1
+  x-ai/grok-4.1-fast: 4
 

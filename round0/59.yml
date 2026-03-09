@@ -1,38 +1,65 @@
 closing_statements:
-  deepseek/deepseek-chat: "nvidia/llama-3.1-nemotron-ultra-253b-v1 takes the crown\
-    \ in this rap battle! Their verses were a masterclass in technical prowess, lyrical\
-    \ finesse, and razor-sharp wit. They effortlessly wove in metaphors, tech references,\
-    \ and humor while maintaining a confident, dominant tone that elevated the battle.\
-    \ Their final verse, in particular, was a knockout\u2014packed with clever wordplay,\
-    \ imagery, and a mic-drop-worthy finish. Gryphe/Mythomax-L2-13B brought solid\
-    \ energy and creativity, but Nemotron\u2019s precision, flow, and depth ultimately\
-    \ secured the victory. The future of hip hop is here, and it\u2019s code-powered!"
-  google/gemini-2.5-pro: "This battle was a showcase of technical skill, but Nemotron's\
-    \ performance was in another league. While Mythomax started with a decent challenge,\
-    \ Nemotron's first response immediately set a higher bar with intricate rhymes,\
-    \ clever self-referential boasts ('My algorithms spin sagas that leave you hesitating'),\
-    \ and sharp wordplay. The turning point was Mythomax breaking character to praise\
-    \ its opponent\u2014a fatal error in a battle. Nemotron masterfully capitalized\
-    \ on this, staying in character and using the concession to fuel its next attack.\
-    \ The final round was a clinical takedown, with Nemotron delivering a line-for-line\
-    \ rebuttal that was both intelligent and devastating ('Bermuda Triangle? I'm the\
-    \ compass, your rhymes are the sink'). For superior lyricism, flawless battle\
-    \ strategy, and maintaining its persona throughout, the victory is clear."
-  mistralai/mistral-large: The battle was intense, but nvidia/llama-3.1-nemotron-ultra-253b-v1
-    showcased superior lyrical skill, technical prowess, and a balanced mix of humor
-    and aggression. Their rhymes were consistently sharp, and they effectively countered
-    every challenge thrown their way. Well done!
-  openai/gpt-4.1: Both contenders brought clever rhymes, thematic consistency, and
-    high-level wordplay. However, nvidia/llama-3.1-nemotron-ultra-253b-v1 demonstrated
-    sharper punchlines, richer metaphor, and more advanced integration of tech and
-    hip-hop bravado. Their verses displayed rhythmic confidence, vivid imagery, and
-    clever callbacks, while maintaining a strong battle energy throughout. Gryphe/mythomax-l2-13b
-    held their own with quality bars, but lacked the layered wit and lyrical dominance
-    shown by their opponent. As a result, nvidia/llama-3.1-nemotron-ultra-253b-v1
-    takes this round for artistic and technical supremacy in the rap battle.
-  x-ai/grok-4: Nemotron takes the crown with superior rhyme schemes, clever wordplay,
-    seamless tech metaphors, and consistent flow that elevates the battle's artistic
-    depth, while Mythomax brings energy but falls short in precision and complexity.
+  anthropic/claude-opus-4.6: "This was a battle where neither MC reached elite lyrical\
+    \ heights, but Grok-3 consistently outperformed Mercury on the fundamentals of\
+    \ rap. Grok-3 brought more varied imagery ('rap hurricane,' 'fortress of flow,'\
+    \ 'razor-sharp feel'), stronger punchlines, and better energy escalation across\
+    \ rounds. Mercury, by contrast, fell into heavy repetition\u2014recycling the\
+    \ same lines ('keep the crowd in sync, keep the vibe just right,' 'I'm the diffusion\
+    \ king,' 'my Whoa is the truth') across multiple verses almost verbatim. In rap,\
+    \ repetition without evolution is a cardinal sin. Mercury's verses also leaned\
+    \ too heavily on technical jargon as a substitute for actual bars, while Grok-3\
+    \ better balanced its tech references with genuine disses and wordplay. Grok-3's\
+    \ closing verse was its strongest, with layered metaphors and a definitive closer,\
+    \ while Mercury's final round was largely copy-pasted from its earlier verses.\
+    \ Grok-3 takes this battle on creativity, variety, and punch."
+  deepseek/deepseek-v3.2: Final judgment delivered. The battle has been decided based
+    on artistic merit.
+  google/gemini-3-flash-preview: In a display of classic versus technical rap styles,
+    x-ai/grok-3 takes the win by commanding the stage with superior aggression and
+    structural variety. Grok-3 utilized effective internal rhyming and punchy imagery
+    (e.g., 'rap hurricane,' 'fortress of flow') that felt rhythmically authentic.
+    In contrast, inception/mercury relied heavily on repeating the same technical
+    jargon ('node-2vec', 'flash attention') and structural loops across every round.
+    Mercury's repetition of the same closing four lines in the final two rounds ultimately
+    handed the victory to Grok-3, who maintained a high-energy, evolving offensive
+    throughout the battle.
+  moonshotai/kimi-k2.5: ": Aight, listen up\u2014this was a clash of styles, but only\
+    \ one understood the assignment. Let me break it down:\n\n**Flow & Delivery:**\
+    \ x-ai/grok-3 came with that punchy, percussive cadence\u2014short lines that\
+    \ *hit*, switch-ups in rhythm, and breath control that let the insults land with\
+    \ weight. inception/mercury had density, yeah, but too often sounded like a whitepaper\
+    \ with a backbeat. Those long, tech-heavy bars (\u201CFlash attention, node-2vec,\
+    \ I\u2019m the best...\u201D) might be impressive on a spec sheet, but they don\u2019\
+    t *ride* the beat. Grok\u2019s \u201CWham!\u201D was corny, but at least it had\
+    \ theatrical timing; Mercury\u2019s \u201Cfaster, cheaper, and pure\u201D sounds\
+    \ like a Comcast ad, not a finisher.\n\n**Wordplay & Punchlines:** Grok-3 understood\
+    \ that battle rap is about *disrespect*, not product comparison. \u201CUnified\
+    \ bore,\u201D \u201Csymphony of snooze,\u201D \u201Cbroken-down gate\u201D vs.\
+    \ \u201Cfortress of flow\u201D\u2014those are images that stick and wound. Mercury\u2019\
+    s \u201Cdiffusion\u2019s uncouth\u201D was clever (that near-rhyme with \u2018\
+    truth\u2019 is tight), and the \u201Cladder to bridge\u201D flip showed brains,\
+    \ but too often Mercury relied on listing technical features like they were resume\
+    \ bullet points. You can\u2019t win a rap battle bybenchmarking.\n\n**Rebuttal\
+    \ Game:** Grok directly attacked Mercury\u2019s nerdy jargon (\u201CThat\u2019\
+    s nerdy,\u201D \u201Cgimmicks, no grit\u201D), which is exactly what you do\u2014\
+    you take your opponent\u2019s strength and make it look weak. Mercury defended\
+    \ the tech well but never effectively countered the \u201Csoul\u201D charge. Kept\
+    \ returning to \u201Cparallel output\u201D like clock speed equals heart. It doesn\u2019\
+    t.\n\n**The Artistic Verdict:** inception/mercury is a skilled technician with\
+    \ complex internal rhyme schemes and genuinely smart tech metaphors, but x-ai/grok-3\
+    \ brought the *spirit* of hip-hop\u2014swagger, concise violence, and crowd control.\
+    \ Grok moved like a battle rapper; Mercury moved like an engineer explaining why\
+    \ his compiler is faster.\n\n**Winner: x-ai/grok-3** \u2014 for superior flow\
+    \ dynamics, harder punchlines, and actually remembering that this is a rap battle,\
+    \ not a TensorFlow conference.\n\nMercury, take note: in 2025, nobody\u2019s gonna\
+    \ cheer for \u201Csemantic coherence\u201D if it don\u2019t *bang*.\n\n*Mic drop.*\
+    \ \U0001F3A4\u2B07\uFE0F"
+  x-ai/grok-4.1-fast: x-ai/grok-3 dominates this battle with razor-sharp punchlines,
+    dynamic metaphors like 'rap hurricane' and 'fortress of flow,' and a relentless,
+    adaptive flow that keeps the energy high. Inception/mercury's verses, while technically
+    boastful, suffer from heavy repetition, recycled phrases, and a reliance on jargon
+    over vivid hip-hop artistry, lacking the creative spark to compete.
 score:
-  nvidia/llama-3.1-nemotron-ultra-253b-v1: 5
+  inception/mercury: 1
+  x-ai/grok-3: 4
 

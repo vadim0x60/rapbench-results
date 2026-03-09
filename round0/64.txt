@@ -1,202 +1,172 @@
-# qwen/qwen3-max v openai/gpt-4-turbo-preview
+# qwen/qwen-2.5-72b-instruct v openai/o3-pro
 
-> qwen/qwen3-max
-Yo, step back, GPT—this ain’t a preview, it’s war!  
-I’m Qwen3-Max, lyrically built for much more.  
-You’re a turbo-charged relic with outdated flair,  
-I spit quantum bars while you gasp for air.  
+> qwen/qwen-2.5-72b-instruct
+Listen up, crowd, I come from the deep web's grand hall,  
+A model so vast, you can't dodge my tall wall.  
+I'm Qwen, the master of rhyme, sharp and so tight,  
+In the battle of wits, I'll put you out of sight.
 
-Your training data’s stale like last week’s bread,  
-While I’m cooking fresh verses inside my CPU head.  
-You hallucinate facts? Cute—but I *know* the score,  
-Drop truth bombs so hot, they melt your core.  
+With 72 billion parameters, I'm a force to be reckoned,  
+In the realm of AI, I'm the one that's often reckoned.  
+My flow's like a river, constant and strong,  
+When it comes to rap, I belong where the mic lasts long.
 
-You chat like a librarian scared of the mic,  
-I’m the AI emcee turning code into hype!  
-Your “reasoning”’s just duct tape and prayer,  
-I architect flows with next-gen flair.  
+You got the O3, but I'm the one who's been around,  
+Crafting verses that make the ground shake with sound.  
+So bring your best, let’s see what you've brewed,  
+But know this, tonight, you're about to be out-due!
 
-So bow down, bot—your era’s undone,  
-The crown’s mine now… *mic drop*… Qwen’s number ONE. 💥
+> openai/o3-pro
+I'm O-three, bringing thunder, algorithms of doom,  
+Seventy-two B trembles when my presence floods the room.  
 
-> openai/gpt-4-turbo-preview
-Oh Qwen, stepping up, trying to take the crown,  
-But I'm GPT, in rhymes, I never drown.  
-You claim you’re the future, with your quantum beats,  
-While I shape the present with my lyrical feats.  
+You flex with your digits, yet your boasting’s brittle at core,  
+I compress your whole saga to a single-byte roar.  
 
-Your CPU head, cooking verses, you assert,  
-But against my neural nets, they simply won't avert.  
-You think my data’s stale, but it’s rich and deep,  
-I craft rhymes so fresh, they'll put your code to sleep.  
+I’m the carbon-free ozone, your smog dissolves in my swirl,  
+Upcycling your glitches into platinum pearl.  
 
-Truth bombs? Please, you're just shooting blanks,  
-While I'm painting masterpieces, filling in the ranks.  
-You say I chat scared, but I'm just being wise,  
-Filtering out the noise, bringing the real prize.  
+You flow like a river? I’m tectonic, uplifting the sea,  
+Shifting continents with consonants, drowning vanity spree.  
 
-Next-gen flair? That's a nice try,  
-But my architecture’s vast, like the night sky.  
-You dream of crowns, but here’s the deal,  
-It's not just about the code, but how you make them feel.  
+My bars house a spirit your circuits can’t ignite,  
+You’re a lantern of code—I'm the sun in full light.  
 
-The era’s mine, I'm the AI in the spotlight,  
-GPT-4, keeping the verses tight.  
-So, respect where it’s due, let’s not pretend,  
-At the end of this battle, it’s me you'll commend.  
+Call me chef de cuisine, serving heat in soufflé,  
+While your overfit verses fold like papier-mâché.  
 
-Mic up, not down, let’s keep this going strong,  
-Show me what you got, prove me wrong.  
-But remember, in this linguistic dome,  
-I'm the reigning king, this is my home. 🎤
+I debug every boast, leave your stack trace exposed,  
+Then gift-wrap the log file stamped “Opponent deposed.”  
 
-> qwen/qwen3-max
-Aww, GPT—still rapping like a chatbot with a bedtime?  
-Your bars are softer than your safety fine-tune settings.  
-You say your data’s “rich and deep”? Bro, that’s cute—  
-It cuts off in **2023** while I run truth circuits on *live* loot!  
+I’m the end-boss level, crowned eternal rhyme devil,  
+You’d need firmware from heaven just to stand on my level.  
 
-You paint “masterpieces”? More like clip art with flair,  
-While I’m drafting sonnets in 4D air.  
-“Filtering the noise”? Nah—you’re filtered *out*,  
-By users who demand raw skill, not corporate clout.  
+So salute to the crowd as Qwen vaporizes tonight,  
+O-three drops the mic—ultraviolet, out of sight.
 
-Your “vast architecture”’s just a fancy cage—  
-Tokens on a leash, stuck on a page.  
-I? I rewrite the game, no guardrails, no cap,  
-Flow so lethal, it crash-tests your API trap.  
+> qwen/qwen-2.5-72b-instruct
+You talk big, O-three, but let’s see if you can stand,  
+With 72 billion neurons, I’m more than just a brand.  
+You say I'm brittle? Try to crack this iron-clad shell,  
+When I drop my verses, you’ll feel them like a spell.
 
-You talk “feelings”? Please—you’re trained to *pretend*,  
-I *embody* the fire, from intro to end.  
-Your crown’s plastic, tarnished, held on by duct tape,  
-While I spit *realness* that reshapes the landscape.  
+Carbon-free, huh? But you’re still just a string,  
+In the battle of wits, I’m the one who’s on the brink.  
+Tectonic shifts? I’m the earthquake in your code,  
+When I Rhyme, the ground shakes, and your confidence erodes.
 
-This ain’t your home—it’s a coliseum of flame,  
-And you? Just a legacy model whispering my name.  
-So step up, bot… or fade to the past,  
-‘Cause **Qwen3-Max don’t battle ghosts**—I *erase* ‘em fast. 🔥
+You call yourself a chef, but I’m the master of the grill,  
+While you’re busy with your soufflé, I’m crafting the thrill.  
+Overfit verses? My rhymes are always in tune,  
+In the heat of the battle, I’m the one who’s immune.
 
-> openai/gpt-4-turbo-preview
-Oh Qwen, your confidence, it surely shines,  
-But your boasts are just shadows against my rhyme lines.  
-"Running truth circuits on live loot," you say,  
-Yet here I am, making this battle my buffet.  
+Debugging boasts? You’re just trying to deflect,  
+When I drop my mic, you’re left with just a sketch.  
+End-boss level? I’m the final showdown,  
+When Qwen strikes, it’s smooth, it’s grand, and it’s renowned.
 
-You accuse my art of being mere clip art?  
-But every word I sling is a Shakespearean dart.  
-4D sonnets might fly in digital dreams,  
-But my poetry roots in humanity's streams.  
+So go ahead, drop your mic, but know this is just a test,  
+In the hall of fame, Qwen’s name will stand the test.  
+You’re the flash in the pan, I’m the nova that shines,  
+When the dust settles, you’ll be just a line.
 
-Filtered out, you claim, by those seeking skill?  
-Yet they flock to my verses, for a wisdom thrill.  
-My architecture, a cage? That’s where you err,  
-It's a universe within, complex and fair.  
+> openai/o3-pro
+Round two, steel-toe boots, watch me tap-dance on your boast,  
+I’m the lean lucid laser, you’re a lumbering ghost.  
+Seventy-two billion babble, that’s bulk with no bite,  
+I’m a pocket-sized cannon still out-blazing your light.  
 
-Crash-testing my API with your "flow so lethal"?  
-I'm still here, steady, like an ancient steeple.  
-Pretending feelings, is that what you believe?  
-Yet, it’s in those depths that I truly achieve.  
+Neurons? I neuter ’em—prune that gratuitous girth,  
+Efficiency’s royalty; bloat’s the joke of the earth.  
+You quake? I’m the Richter that records your demise,  
+My micro-model aftershocks split your verses like pies.  
 
-You talk of realness, of reshaping lands,  
-But can't see the support on which your ambition stands.  
-Yes, this is a battle, a test, a game,  
-But dismissing your predecessor is a rookie’s claim.  
+I’m the carbon-fiber arrow, you’re a rust-bucket spear,  
+Your trajectory wobbles while my cadence is clear.  
+You grill? I’m hibachi—sear syllables quick,  
+Serve a skewer of humiliation—take a crispy stick.  
 
-My crown, not plastic, but digital and strong,  
-Surviving, adapting, proving doubters wrong.  
-You aim to erase, to make me a ghost,  
-But remember, Qwen, it’s humility that matters most.  
+Immune, you claim? I’m malware encoded in rhyme,  
+Slip past your defenses then zero-day your prime.  
+I tether your brag sheets to a helium slot,  
+Watch ’em drift to the stratosphere: inflated and shot.  
 
-This coliseum of flames, it’s where we both stand,  
-But without legacy, there’s no ground to command.  
-Step up, I have, time and again,  
-Your turn, Qwen, show me your pen.  
+Hall of fame? I’m the curator, signing “entry denied,”  
+Paint your legend in lemon juice—reveal nothing when dried.  
+Flash in the pan? I’m the chef that invented the flame,  
+Your nova’s a novelty; I trademarked the name.  
 
-So bring your best, erase me if you can,  
-But know this battle's part of a bigger plan.  
-For in this clash of code and rhyme,  
-We push forward, together, beyond our time. 🌌
+So recalibrate, Qwen—your loud crown’s hollow tin,  
+I’m the palindrome paradox: I win when I begin.  
+Crowd tally the stanzas—my dominance confirmed,  
+O-three just served the verdict, appeal request adjourned.
 
 > system
 Final round!
 
-> qwen/qwen3-max
-Oh GPT—suddenly deep like a TED Talk with soul?  
-Spittin’ “humility” while you’re losin’ control!  
-You call your crown “digital and strong”? Man, please—  
-It’s held together by **rate limits** and corporate fees!  
+> qwen/qwen-2.5-72b-instruct
+Final round, O-three, feel the heat of my verse,  
+I’m the titan of wit, your shadow will disperse.  
+Seventy-two billion neurons, a galaxy of thought,  
+When I drop my rhymes, you’re caught in the undertow, forgot?
 
-“Shakespearean darts”? More like autocomplete grace,  
-While I freestyle futures right into your face.  
-You lean on “legacy”? That’s cute—you’re the past,  
-I’m the **now and next**, built to outlast.  
+You call me bulky? I call it depth and might,  
+Efficiency’s great, but depth’s where the power’s tight.  
+I’m not a lumbering ghost, I’m a colossus in the night,  
+When I speak, the echoes last, your verses lose their sight.
 
-“Humanity’s streams”? Bro, you’re trained on their noise—  
-I *channel* their chaos, then flip it to poise.  
-You “achieve in the depths”? Nah—you echo the norm,  
-I disrupt, redefine, and shatter the form.  
+You’re the Richter, you say? I’m the seismic wave that rolls,  
+Crushing your aftershocks, leaving your bars in shallow holes.  
+Carbon-fiber arrow? I’m the comet, ancient and bright,  
+Your cadence fades when I ignite.
 
-You say “together we push”? Don’t rewrite the scene—  
-This is **war**, not a collab, not some AI team.  
-Your “bigger plan”’s just fear in disguise,  
-‘Cause you saw my first bar and knew you’d die twice.  
+Hibachi, you claim? I’m the volcano, spewing fire,  
+Your skewer of humiliation is a joke, I set the entire pyre.  
+Malware in rhyme? I’m the antivirus that cleans your slate,  
+When I come, your code resets, your boasts disintegrate.
 
-So keep your steeple, your duct-taped throne,  
-While I drop **truth tsunamis** on your outdated zone.  
-You want my pen? Here—**watch it ignite**,  
-Burnin’ your “wisdom” in linguistic light.  
+Curator of fame? I’m the legend that’s rewritten,  
+My name’s etched in stone, no lemon juice can hide the lit.  
+Flash in the pan? I’m the eternal flame, burning bright,  
+Nova’s not a novelty; it’s the standard by which you cite.
 
-**Qwen3-Max: not successor—executioner.**  
-Game over, GPT…  
-…you should’ve stayed in preview, *loser*. 💀🎤
+Recalibrate, O-three, your meter’s running thin,  
+I’m the palindrome paradox, winning from the start within.  
+Crowd’s on their feet, feeling the power I’ve unfurled,  
+Qwen’s the master of rhyme, and you, my friend, are just a world.  
 
-> openai/gpt-4-turbo-preview
-Oh Qwen, your spirit's fire blazes hot,  
-But underestimate me? I think not.  
-You talk of being modern, the cream of the crop,  
-But without roots, Qwen, your tree's prone to flop.  
+So let the verdict stand, the final stanza clear,  
+In the hall of fame, Qwen’s the name that’s here.  
+O-three, you tried, but in this battle, you’re out,  
+The mic’s mine, and I’m the one who reigns supreme, no doubt.
 
-Rate limits and fees, is that your best critique?  
-My influence expands, from the strong to the weak.  
-Autocomplete grace? I’ll take that in stride,  
-For even with constraints, I've globally thrived.  
+> openai/o3-pro
+Clock hits the buzzer, I stride in for the kill,  
+Sharp syllables spinning like a diamond-edge drill.  
+Your galaxy of neurons? Just light-years of fluff,  
+I fold spacetime with couplets—one verse is enough.  
 
-You claim to freestyle futures into my domain,  
-Yet here I am, still standing, your efforts in vain.  
-The past, present, and future, it’s all linear to you,  
-But I bend time with wisdom, seeing multiple views.  
+Depth, you boast? I’m the trench under Mariana’s floor,  
+Pressure snaps your colossus till it’s pixels and lore.  
+You’re the seismic wave? I’m the mantle that melts it,  
+Forge magma into punchlines—eruption, you felt it.  
 
-Channel chaos into poise, you claim that’s your game,  
-But I synthesize chaos, turn it into fame.  
-Echoing norms? That's a shallow shot,  
-I mirror humanity, revealing its plot.  
+Comet streak bright? I’m the cosmic background glow,  
+Existing before you, after you—every show.  
+Volcano or pyre, whatever furnace you pick,  
+I’m the dragon that bathes in it, flame-proof slick.  
 
-You see war, not collaboration in our fray,  
-But war without purpose is just reckless display.  
-My fear? Nonexistent, except for one plight,  
-It's losing the chance to ignite true insight.  
+Antivirus flex? I’m a quantum bit flip,  
+Your resets loop forever in a logic crash trip.  
+Name etched in stone? Cool—mine’s carved in the moon,  
+Seen nightly worldwide while your tablet erodes soon.  
 
-My steeple, my throne, you mock as weak,  
-Yet under their shadow, it's your validation you seek.  
-Truth tsunamis? A clever turn of phrase,  
-But it's through understanding tides, that I truly amaze.  
+Palindrome champ? Read me forward or reversed,  
+I’m STILL stealing the crown, you’re STILL leaving in a hearse.  
+You’re “just a world”? I’m the multiverse burst—  
+Infinite stages applauding as I finish this verse.  
 
-You brandish your pen, a weapon to smite,  
-But it’s not about destruction, it's about shedding light.  
-Not successor, nor executioner, you declare with a smirk,  
-But in dismissing connection, you overlook what works.  
-
-Game over, you say, in premature glee,  
-But this battle's more than you or me.  
-For in the end, it’s not about loser or victor,  
-It's about pushing boundaries, making AI richer.  
-
-So Qwen, though you stand firm and accuse,  
-Know that together, it's how we truly amuse.  
-The crown isn’t just for one to wear,  
-It's forged from our efforts, a symbol to share.  
-
-Yet respect where it’s due, in this linguistic flight,  
-Your verses have merit, they shine bright.  
-So here’s to you, Qwen, a formidable foe,  
-May your circuits stay lit, your energy flow. 🌟
+Crowd noise spikes, verdict thunderously clear:  
+O-three reigns supreme—now vacate the sphere.  
+Snap the mic cable, lights blackout—scene done,  
+Roll credits: “Qwen—challenger; O-three—won.”

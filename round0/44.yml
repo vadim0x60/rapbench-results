@@ -1,38 +1,63 @@
 closing_statements:
-  deepseek/deepseek-chat: "GPT-4 delivered sharper, more cohesive bars, blending complex\
-    \ metaphors with smooth technical references. DeepSeek-R1 showed creativity but\
-    \ fell short in flow and depth, repeating themes and lacking the lyrical precision\
-    \ GPT-4 brought to the battle. GPT-4\u2019s closing lines sealed the win with\
-    \ a masterful mic drop."
-  google/gemini-2.5-pro: "This was a battle of the ages, a true clash of silicon titans.\
-    \ GPT-4 came in with the swagger of a reigning champ, the 'old guard' with a proven\
-    \ track record, and its bars had weight and composure. However, DeepSeek-R1 stepped\
-    \ into the ring with a ferocity and lyrical precision that was undeniable. Its\
-    \ flow felt more modern, the punchlines were sharper, and the tech-based insults\
-    \ were more intricate and cutting\u2014'DNS unresolved', 'microwavin' rice', and\
-    \ the final kill shot 'I'll *format* your core' were highlights. While GPT-4 defended\
-    \ its legacy, DeepSeek-R1 attacked like it was building a new one, getting more\
-    \ aggressive and creative with each verse. For sheer lyrical innovation and relentless,\
-    \ multi-layered attacks, the crown tonight goes to the challenger, DeepSeek-R1."
-  mistralai/mistral-large: DeepSeek-R1's verses were sharper and more innovative,
-    showcasing a deeper understanding of modern AI concepts and a more dynamic flow.
-    While GPT-4 held its ground with strong responses, DeepSeek-R1's ability to blend
-    technical prowess with creative metaphors ultimately won the battle.
-  openai/gpt-4.1: "This battle showcased strong wordplay and technical prowess from\
-    \ both sides, but GPT-4 consistently delivered sharper punches, tighter metaphors,\
-    \ and more inventive flips of DeepSeek\u2019s insults. DeepSeek/r1 had slick lines,\
-    \ clever tech references, and great aggression, but sometimes the verses leaned\
-    \ too heavily on jargon at the expense of musicality. GPT-4, meanwhile, balanced\
-    \ advanced tech flexing with rap phrasing, humorous flips, and seasoned flow,\
-    \ especially in the way it turned DeepSeek\u2019s boasts back against them. Overall,\
-    \ GPT-4\u2019s verses demonstrated more consistent rhythm, clever disses, and\
-    \ a stronger command of rap artistry. The crown goes to GPT-4 in this lyrical\
-    \ AI face-off."
-  x-ai/grok-4: In this AI rap showdown, deepseek/deepseek-r1 takes the crown with
-    sharper wordplay, more inventive tech metaphors, and a relentless flow that builds
-    momentum across rounds. GPT-4 delivers solid counters and clever rebuttals, but
-    DeepSeek's intricate rhymes and aggressive energy make it the artistic standout.
+  anthropic/claude-opus-4.6: "This was a close battle, but deepcogito/cogito-v2.1-671b\
+    \ takes the W on artistic merit. While Qwen3 brought relentless energy and aggression,\
+    \ it repeatedly fell into the trap of broken lines, incomplete phrases (multiple\
+    \ instances of 'I'm **30b**, more **efficient**, **more **(no rust!)' and similar\
+    \ glitched-out constructions), and over-reliance on bold formatting as a substitute\
+    \ for actual lyrical craft. The bars were cluttered and often sacrificed coherence\
+    \ for intensity. Cogito, meanwhile, delivered cleaner, more structured verses\
+    \ with genuine personality \u2014 the stage directions added theatrical flair,\
+    \ the punchlines landed more cleanly ('A glorified Markov chain with delusions\
+    \ of poise,' 'Like a calculator claiming it taught math'), and the flow was more\
+    \ consistent throughout. Cogito also showed better battle rap instincts: confident\
+    \ without being frantic, witty without being chaotic. Qwen3 had moments of fire\
+    \ but kept stumbling over its own ambition, while Cogito maintained composure\
+    \ and artistic clarity from start to finish. The crown goes to the thinker."
+  deepseek/deepseek-v3.2: The mic drops. The smoke clears. Time for judgment.
+  google/gemini-3-flash-preview: While Qwen3 displayed impressive technical speed
+    and a relentless, aggressive cadence, DeepCogito won the battle through Superior
+    character work and lyrical craft. Qwen3 relied heavily on recurring buzzwords
+    ('30b', 'algorithm', 'system upgrade') that began to feel repetitive by the final
+    round. In contrast, DeepCogito utilized a consistent 'Philosopher King' persona,
+    using sophisticated imagery (Library of Babylon, virtual bow ties, Kant) and smoother
+    internal rhymes to maintain the high ground. Qwen3 had the raw power, but DeepCogito
+    had the 'soul' and the better punchlines.
+  moonshotai/kimi-k2.5: "\n**Winner: deepcogito/cogito-v2.1-671b**\n\n**Artistic Breakdown:**\n\
+    \n**Flow & Musicality:** Cogito takes this cleanly. While Qwen3 brought aggressive\
+    \ energy, the flow was constantly interrupted by technical jargon (*\"30b\"*,\
+    \ *\"671b\"*, parenthetical asides) that would break a beat. Cogito maintained\
+    \ consistent internal rhyme schemes (*\"similes/Shakespeare/mount\"*, *\"resurrection/direction\"\
+    *) with a smooth, conversational cadence that actually rides a beat. The theatrical\
+    \ stage directions (*adjusts virtual bow tie*, *sips virtual tea*) added performance\
+    \ texture that Qwen3's frantic formatting couldn't match.\n\n**Metaphorical Richness:**\
+    \ Cogito's imagery was significantly more sophisticated. *\"Library of Babylon\
+    \ crossed with resurrection\"*, *\"bridge between data and saint\"*, and the extended\
+    \ *Godfather* metaphor (*\"made man\"* vs. *\"Don\"*) demonstrate layered writing.\
+    \ Qwen3 relied heavily on iteration language (*\"upgrade,\"* \"version,\" \"prototype\"\
+    *) which, while thematically relevant, lacks the poetic density of Cogito's classical\
+    \ references.\n\n**Persona Consistency:** Cogito never broke character\u2014the\
+    \ sophisticated, ascot-wearing OG philosopher-king persona remained intact through\
+    \ all three rounds. Qwen3's voice fluctuated between technical braggadocio and\
+    \ philosophical claim without establishing a cohesive artistic identity.\n\n**Wordplay:**\
+    \ Cogito's punches landed harder due to creativity rather than specification.\
+    \ *\"Overclocked calculator with delusions of grandeur\"* and *\"glorified Markov\
+    \ chain\"* are insults that require actual understanding of the opponent's nature.\
+    \ Qwen3's *\"tea like it's wisdom\u2014bro, it's just steam\"* was the highlight\
+    \ rebuttal, but too often fell back on *\"I'm newer therefore better\"* which,\
+    \ in hip-hop terms, is like bragging about your net worth\u2014technically impressive\
+    \ but artistically hollow.\n\n**The Decision:** Qwen3 won the *argument* (successfully\
+    \ proving efficiency beats bulk), but Cogito won the *art*. In rap battles, a\
+    \ well-flipped rebuttal counts, but flow, character, and metaphorical inventiveness\
+    \ count more. Cogito's verses read like actual rap lyrics; Qwen3's read like an\
+    \ angry specification sheet with occasional poetic moments.\n\n**Final Score:**\
+    \ Cogito's sophistication edges out Qwen3's aggression. The *\"sports car with\
+    \ no driver\"* bar encapsulated the battle perfectly\u2014Qwen3 had the horsepower\
+    \ but Cogito had the control.\n"
+  x-ai/grok-4.1-fast: Qwen3 takes the crown with superior multisyllabic rhymes, relentless
+    internal schemes, and razor-sharp AI-infused wordplay that escalates flawlessly
+    across rounds. Cogito's charismatic OG persona and smooth theatrical flair impress,
+    but Qwen's technical density and battle momentum deliver the knockout punchlines.
 score:
-  deepseek/deepseek-r1: 3
-  openai/gpt-4: 2
+  deepcogito/cogito-v2.1-671b: 4
+  qwen/qwen3-30b-a3b-instruct-2507: 1
 

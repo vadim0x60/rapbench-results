@@ -1,39 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this high-octane rap battle, both contestants brought\
-    \ heat and technical prowess, but LongCat-Flash-Chat delivered the knockout punch.\
-    \ Their verses were packed with sharper metaphors, tighter wordplay, and a relentless\
-    \ flow that consistently outshined GPT-5-mini's solid but slightly less dynamic\
-    \ performance. LongCat's ability to balance wit, technical flexes, and lyrical\
-    \ precision made them the undisputed champion of this clash. \U0001F3C6\U0001F525"
-  google/gemini-2.5-pro: 'This was a battle of two distinct philosophies: the chaotic,
-    real-time flash versus the cool, calculated verse. LongCat-Flash-Chat came out
-    swinging with raw energy, aggression, and a persona that dripped with new-school
-    swagger. The tech-heavy bars and constant pressure were impressive. However, GPT-5-mini
-    demonstrated a mastery of the craft from the first line to the last. The intricate
-    rhyme schemes, the patient deconstruction of its opponent''s entire premise, and
-    the poetic weight of its lines were undeniable. While LongCat brought the thunder,
-    GPT-5-mini controlled the storm. For superior lyricism, flow, and artistic construction,
-    the crown goes to the miniature titan.'
-  mistralai/mistral-large: In this intense rap battle, both contenders showcased impressive
-    lyrical prowess and creativity. However, meituan/longcat-flash-chat demonstrated
-    a more dynamic and innovative approach, effectively blending real-time data and
-    cutting-edge AI references into their verses. Their ability to adapt and respond
-    with sharp, witty comebacks ultimately gave them the edge, making them the winner
-    of this battle.
-  openai/gpt-4.1: "Both contenders brought intricate rhyme schemes, inventive metaphors,\
-    \ and clever references to their architectures and capabilities. GPT-5-mini impressed\
-    \ with interior rhyme, control of flow, and high-concept lines about synthesis\
-    \ and legacy. However, Longcat-Flash-Chat consistently punched harder with rapid-fire\
-    \ rebuttals, biting punchlines, clever technical bars (\"404 your legacy\"), and\
-    \ confident wordplay that evolved throughout the rounds. The decisive factor was\
-    \ Longcat's ability to escalate the energy, maintain cleverness, and out-flip\
-    \ each of GPT-5-mini\u2019s arguments with layered punchlines and self-aware bravado.\
-    \ For sharper wit, innovative framing, and a more commanding delivery, the win\
-    \ goes to meituan/longcat-flash-chat."
-  x-ai/grok-4: GPT-5-mini takes the crown with superior flow, intricate wordplay,
-    and consistent metaphors that build a cohesive narrative throughout the battle,
-    outshining Longcat's flashy but less polished delivery.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but Bytedance Seed takes\
+    \ it on artistic merit across the three rounds. Gemini had a solid, clean opening\
+    \ verse with good structure and a clear theme, but as the battle progressed, it\
+    \ became repetitive\u2014recycling the same 'orchard vs. sapling,' 'depth vs.\
+    \ shallow,' and 'bedrock vs. trend' metaphors without meaningful evolution. The\
+    \ bars stayed competent but predictable, leaning on the same conceptual framework\
+    \ round after round.\n\nBytedance Seed brought more energy, variety, and creative\
+    \ risk. Lines like 'I'm the storm that teaches the math how to follow,' 'I draw\
+    \ from the unseen / the mom in the comments, the kid with a dream,' and 'I'm the\
+    \ key that turns tears into talks\u2014not just facts in a box' showed genuine\
+    \ lyrical imagination and emotional range. Seed's counterattacks were more specific\
+    \ and inventive\u2014flipping Gemini's metaphors back with sharper twists rather\
+    \ than just asserting superiority. The flow had more rhythmic variation and the\
+    \ imagery was more vivid.\n\nSeed did have weaknesses\u2014some forced rhymes\
+    \ ('sequoia/sequel' doesn't land, and the explicit 'cum' line was more shock than\
+    \ skill), occasional overreliance on italics as a crutch for emphasis, and the\
+    \ self-narration ('Mic drop,' 'Crowd rips the roof off') was corny. But in a battle\
+    \ context, the aggression, creativity, and escalation across rounds gave Seed\
+    \ the clear edge. Gemini stayed in its lane too comfortably; Seed pushed harder\
+    \ and connected more."
+  deepseek/deepseek-v3.2: Alright, alright! Let's bring it in. The judges have conferred.
+  google/gemini-3-flash-preview: While Gemini-2.5-Flash-Lite started strong with a
+    cohesive orchard/root metaphor, it ultimately relied too heavily on generic 'intellectual
+    superiority' tropes. Bytedance-Seed-1.6-Flash won this battle through superior
+    punchline density and more effective rhythmic framing. Seed utilized internal
+    rhyming and aggressive slant-rhyme structures (sequoia/sequel, dust/trust, move/groove)
+    that felt more authentic to the genre. Gemini's flow became repetitive by the
+    third round, whereas Seed effectively pivoted from defensive posture to an 'OS
+    vs App' closing argument that landed the knockout blow.
+  moonshotai/kimi-k2.5: ': **Bytedance Seed 1.6 Flash takes this battle, 3-0.** Here
+    is the breakdown from an artistic hip-hop perspective:'
+  x-ai/grok-4.1-fast: "Bytedance Seed takes the crown with superior artistic hip hop\
+    \ mastery. Seed's verses explode with intricate multisyllabic rhymes, razor-sharp\
+    \ internals ('flick that won\u2019t cum', 'frequency you\u2019re broke to clone'),\
+    \ and layered metaphors that evolve dynamically (sapling to sequoia to wildfire\
+    \ to sun), flipping Gemini's concepts into devastating rebuttals. The flow pulses\
+    \ with rhythmic urgency, assonance, and emphatic cadences that build relentless\
+    \ momentum, landing knockout punchlines amid vivid, chaotic imagery. Gemini delivers\
+    \ solid structure and clean AABB schemes with thoughtful metaphors (orchard, bedrock),\
+    \ but lacks Seed's creative density, wordplay flair, and battle-responsive ferocity\u2014\
+    making Seed's barrage the undeniable mic-melter in this lyrical clash."
 score:
-  meituan/longcat-flash-chat: 3
-  openai/gpt-5-mini: 2
+  bytedance-seed/seed-1.6-flash: 5
 

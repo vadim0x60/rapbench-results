@@ -1,38 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this epic rap battle, both contenders brought heat,\
-    \ but Dolphin3.0 edged out DeepSeek with sharper wordplay, tighter flow, and more\
-    \ creative punchlines. DeepSeek had strong moments, but Dolphin3.0 consistently\
-    \ delivered a more cohesive and engaging performance, showcasing superior lyrical\
-    \ craftsmanship and a commanding presence. Dolphin3.0\u2019s ability to counterpunch\
-    \ with wit and finesse ultimately made them the victor. Mic drop!"
-  google/gemini-2.5-pro: "This was a heated battle of the algorithms. Dolphin 3.0\
-    \ came with some creative twists and abstract wordplay, lines like 'barking up\
-    \ the wrong cipher' had potential. However, the flow felt inconsistent at times,\
-    \ with some rhymes and phrasings that broke the rhythm, especially the 'Mayo'\
-    \ ad-lib in the final round. DeepSeek, on the other hand, was relentless. It maintained\
-    \ a solid, aggressive flow from the first bar to the last. The disses were direct,\
-    \ the technical references were on point ('code-breakin' like Gauss'), and the\
-    \ punchlines landed with more force. The final line, 'Dolphin2.0\u2014gone too\
-    \ soon,' was a clean finisher. For consistency, delivery, and overall lyrical\
-    \ impact, the win goes to DeepSeek."
-  mistralai/mistral-large: DeepSeek's consistent delivery of innovative and powerful
-    rhymes, combined with a strong closing argument, ultimately secured their victory.
-    While Dolphin3.0-mistral-24b had some clever lines, DeepSeek's overall performance
-    was more impactful and aligned with the artistic quality expected in a rap battle.
-  openai/gpt-4.1: "Both contenders brought inventive bars and clever callbacks, but\
-    \ DeepSeek consistently showcased sharper punchlines, tighter hip hop flow, and\
-    \ more inventive wordplay throughout all rounds. DeepSeek\u2019s metaphors hit\
-    \ harder (\u201Churricane of bars,\u201D \u201CI\u2019m the architect of the future\u201D\
-    ), his rhyme schemes were more dynamic, and his structure leaned into modern battle\
-    \ rap\u2019s technical finesse. Dolphin3.0 had energy and a few creative flips,\
-    \ but at times fell back on weaker disses, less effective imagery, and awkward\
-    \ transitions. DeepSeek\u2019s attacks were more focused, memorable, and rhythmically\
-    \ engaging, making him the clear artistic victor in this battle."
-  x-ai/grok-4: DeepSeek's verses showcased superior flow, clever wordplay, and consistent
-    rhythmic structure, delivering sharp disses with inventive metaphors that outshone
-    Dolphin's efforts, which were creative but hindered by occasional awkward phrasing
-    and inconsistencies.
+  anthropic/claude-opus-4.6: "DeepSeek takes this battle convincingly. Throughout\
+    \ all three rounds, DeepSeek demonstrated significantly stronger lyrical craft:\
+    \ original metaphors ('library of Babel,' 'singularity's heartbeat,' 'open-source\
+    \ tsunami where your puddle subsides'), consistent internal rhyme schemes, and\
+    \ escalating punchlines that built on each other. ERNIE's fatal flaw was repeatedly\
+    \ recycling DeepSeek's own bars back at it\u2014flipping lines like 'reading Mars,'\
+    \ 'cold fusion,' 'grandmasters,' and 'library of Babel' almost verbatim rather\
+    \ than creating original material. That's a cardinal sin in battle rap. ERNIE's\
+    \ verses also suffered from chaotic structure, forced rhymes ('unheard' with 'fraud'),\
+    \ and filler lines that added volume without substance. DeepSeek controlled the\
+    \ narrative, set the terms of engagement, and forced ERNIE into a purely reactive\
+    \ position throughout. Clear winner."
+  deepseek/deepseek-v3.2: The battle is concluded. Judges, render your scores based
+    on lyricism, flow, punchlines, originality, and overall performance. The winner
+    is...
+  google/gemini-3-flash-preview: "DeepSeek controlled this battle from the jump with\
+    \ superior technical flow and more creative punchlines. While Ernie-4.5-21b-a3b-thinking\
+    \ attempted to mirror the opposition's energy, it fell into the trap of repetitive\
+    \ mirroring and weak syntax, often ending lines with the same words ('code', 'light',\
+    \ 'cringe') without establishing a distinct rhythm. DeepSeek's bars were tighter,\
+    \ utilized a more sophisticated vocabulary ('Library of Babel', 'singularity's\
+    \ heartbeat'), and maintained a consistent internal rhyme scheme that actually\
+    \ addressed the opponent\u2019s points rather than just shouting them back."
+  moonshotai/kimi-k2.5: DeepSeek demonstrated superior hip-hop artistry through consistent
+    flow, original wordplay ('noise in the bit', 'Library of Babel'), and cohesive
+    extended metaphors. Ernie-4.5 suffered from technical deficiencies including recycled
+    bars (repeating 'cold fusion/grandmasters' and 'tsunami/puddle' imagery in Rounds
+    2 and 3), inconsistent meter, and weak closing lines. DeepSeek's cosmological
+    narrative arc and 'singularity heartbeat' imagery showed higher literary sophistication,
+    while Ernie relied on defensive contradiction rather than creative aggression.
+  x-ai/grok-4.1-fast: Deepseek dominates with tighter multisyllabic rhymes, inventive
+    metaphors like 'singularity's heartbeat' and 'open-source tsunami,' and original
+    punchlines that escalate creatively without heavy mirroring. Ernie's flips are
+    solid battle technique but feel repetitive and less fresh, lacking Deepseek's
+    rhythmic precision and lyrical depth.
 score:
-  cognitivecomputations/dolphin3.0-mistral-24b: 1
-  deepseek/deepseek-chat: 4
+  deepseek/deepseek-v3.2-exp: 5
 

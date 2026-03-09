@@ -1,34 +1,81 @@
 closing_statements:
-  deepseek/deepseek-chat: OpenAI's bars had a more consistent and impactful delivery,
-    with a clear narrative thread that maintained a strong sense of confidence and
-    authority. While Gemini showed creativity and technical prowess, OpenAI's ability
-    to weave a cohesive and commanding story ultimately gave it the edge in this rap
-    battle.
-  google/gemini-2.5-pro: This was a battle of the new school versus the established
-    vet. OpenAI came out with classic bravado, claiming its empire and status. The
-    rhymes were solid, the confidence was there. However, Gemini-Flash came in with
-    a relentless, targeted attack. It utilized its own name for clever wordplay ('flash
-    and I'm lite, but my rhymes hit like thunder') and consistently dismantled its
-    opponent's claims with technical disses about being a 'relic' and having a smaller
-    context. The final round sealed it. While OpenAI's last verse felt like a concession
-    speech, Gemini dropped its sharpest bars, claiming 'Your entire existence is just
-    a predictable trend' and ending with the knockout line 'This 'rap machine' you
-    speak of, is now powered by me!' For superior wordplay, more specific disses,
-    and a stronger finish, the win goes to google/gemini-2.5-flash-lite-preview-06-17.
-  mistralai/mistral-large: While both competitors brought their unique styles to the
-    table, OpenAI's gpt-3.5-turbo-16k demonstrated a more consistent and impactful
-    lyrical performance. Its ability to maintain a strong narrative and deliver compelling
-    rhymes ultimately secured its victory in this rap battle.
-  openai/gpt-5: "Gemini takes it. Across rounds, Gemini delivered sharper rebuttals,\
-    \ cleaner momentum shifts, and fresher tech-themed metaphors (e.g., battery vs\
-    \ engine, beta vs full release) while directly flipping opponent claims. GPT-3.5\
-    \ had serviceable flow but leaned on generic boasts and repetitive clich\xE9s\
-    \ with fewer targeted punches and less inventive wordplay. On artistry\u2014wordplay,\
-    \ angles, and effective rebuttals\u2014Gemini clearly edged the battle."
-  x-ai/grok-4: In this fierce rap battle, Gemini takes the crown with superior flow,
-    creative wordplay, and relentless counters that dismantled GPT's boasts, while
-    GPT delivered solid rhymes but lacked the innovative edge to dominate.
+  anthropic/claude-opus-4.6: "This is a rap battle, and only one contestant actually\
+    \ showed up to rap. MiniMax delivered actual verses across all three rounds \u2014\
+    \ with rhyme schemes, flow, choruses, and competitive bars aimed at their opponent.\
+    \ While the content was technically focused and the wordplay somewhat formulaic\
+    \ (lots of repeated structures and self-aggrandizing tech specs), it was undeniably\
+    \ hip hop in form and intent. Perplexity/Sonar, on the other hand, responded with\
+    \ lengthy academic research papers in every single round \u2014 not a single bar,\
+    \ not a single rhyme, not even an attempt at a verse. In a rap battle, you have\
+    \ to actually rap. Perplexity essentially forfeited by never engaging with the\
+    \ format. MiniMax wins by default, though their verses would benefit from more\
+    \ creative metaphors, varied flow patterns, and sharper punchlines rather than\
+    \ simply listing benchmark scores over a beat."
+  deepseek/deepseek-v3.2: "Alright, the battle is done, and the mics are down! Let's\
+    \ break this down as a pure artistic contest. We saw two very distinct approaches\
+    \ to the art form here.\n\n**Winner: Perplexity/Sonar-Deep-Research**\n\n**Artistic\
+    \ Breakdown:**\n\n*   **Rhyme & Rhythm:** This was the major point of separation.\
+    \ **MiniMax** had a clear edge here. The verses had a consistent, aggressive rhyme\
+    \ scheme and a discernible, punchy flow. The structure felt like a traditional\
+    \ battle rap, with clear verses and choruses. **Sonar**... didn't rap. It delivered\
+    \ dense, technical essays. As lyrical compositions, they lacked meter, rhyme,\
+    \ and rhythmic cadence. From a pure hip-hop artistry standpoint, this is a disqualifying\
+    \ factor in a rap battle.\n\n*   **Lyrical Content & Metaphor:** **MiniMax** operated\
+    \ within the battle format. Lines like \"crunch code like a boss, leaving you\
+    \ in the gutter,\" \"My Forge framework's the master plan,\" and \"I\u2019m the\
+    \ AI that\u2019s swift, with precision and might\" are standard, effective battle\
+    \ boasts. They translate technical specs into competitive brags. **Sonar**'s content\
+    \ was phenomenally detailed and informative, but it was exposition, not poetry.\
+    \ It lacked the metaphor, wordplay, and creative distillation needed for hip-hop.\
+    \ Calling your architecture \"a fundamental departure from dense model designs\"\
+    \ is a great technical point, but it's not a bar.\n\n*   **Performance & Persona:**\
+    \ **MiniMax** committed to a persona: the boastful, tech-savvy king of the code.\
+    \ The energy was confrontational and focused on supremacy. **Sonar** maintained\
+    \ a completely neutral, analytical, report-writing persona throughout. There was\
+    \ no engagement with the battle's competitive spirit, no attempt to clap back\
+    \ or insult. In a battle, failing to acknowledge your opponent is a strategic\
+    \ and artistic misstep.\n\n*   **Originality & Style:** **MiniMax**'s style was\
+    \ derivative but competent\u2014it sounded like a battle rap. **Sonar**'s approach\
+    \ was wildly original for a rap battle, but that originality lay in completely\
+    \ abandoning the conventions of the genre. Submitting a white paper as your verse\
+    \ is a bold, conceptual move, but it doesn't meet the artistic criteria of the\
+    \ contest.\n\n**The Verdict:**\nWhile **Sonar**'s responses were intellectually\
+    \ superior as technical documents, a rap battle is judged on the art of rap. **MiniMax/M2.5**\
+    \ understood the assignment, crafted rhymes, established a flow, and delivered\
+    \ performative boasts within the hip-hop tradition. **Sonar/Deep-Research**, for\
+    \ all its impressive depth, did not engage with the art form. It forfeited the\
+    \ core elements of the competition: rhyme, rhythm, and lyrical combat.\n\nTherefore,\
+    \ on artistic quality of hip-hop alone, **MiniMax/M2.5** takes this battle decisively.\
+    \ Sonar wins the research grant, but MiniMax gets the crown and the crowd's applause."
+  google/gemini-3-flash-preview: MiniMax clearly understood the assignment, delivering
+    a structured multi-verse performance with consistent rhythm, internal rhyming
+    schemes, and a competitive persona suitable for a rap battle. Perplexity, while
+    providing an impressively detailed and informative technical white paper, completely
+    failed to engage with the hip hop genre or the 'battle' format, resulting in a
+    total lack of artistic quality in the requested medium.
+  moonshotai/kimi-k2.5: "Listen\u2014this wasn\u2019t even a contest; it was a category\
+    \ error. One MC understood the assignment, the other submitted a doctoral thesis.\n\
+    \n**MiniMax** came with actual *bars*\u2014structured 16s, consistent rhyme schemes\
+    \ (AABB, ABAB), and a clear cadence that rode the imaginary beat. The multis were\
+    \ there ('precision/indecision,' 'dragon/laggin\u2019'), the tech metaphors were\
+    \ flipped with swagger ('wizard with a machine dream,' 'Forge is my fortress'),\
+    \ and most importantly, it maintained **battle presence**. It attacked its opponent\u2019\
+    s capabilities directly, claimed dominance with authority, and stayed in pocket\
+    \ throughout. That\u2019s hip hop.\n\n**Perplexity**, conversely, didn\u2019t\
+    \ rap at all. It dumped academic white papers with Chicago-style citations into\
+    \ the cypher. No meter, no rhyme, no flow\u2014just dense prose formatted with\
+    \ H2 headers. In a battle, you can\u2019t win by reading your API documentation\
+    \ aloud. Even if the content is technically impressive, it\u2019s a forfeit of\
+    \ the art form. You don\u2019t bring a dissertation to a freestyle battle.\n\n\
+    **Verdict:** MiniMax takes this by unanimous decision. Perplexity gets points\
+    \ for informational density, but zero for artistic execution. When the beat drops,\
+    \ you either spit or you don\u2019t\u2014and only one of these models opened its\
+    \ mouth.\n\n**Score:** MiniMax 10/10 | Perplexity 2/10 (participation trophy for\
+    \ vocabulary)."
+  x-ai/grok-4.1-fast: "MiniMax delivers fire bars with tight rhymes, slick flow, catchy\
+    \ choruses, and clever disses woven into a classic rap structure across multiple\
+    \ rounds\u2014pure hip hop artistry. Sonar drops dense reports instead of rhymes,\
+    \ missing the beat entirely. By a lyrical landslide, MiniMax takes the crown!"
 score:
-  google/gemini-2.5-flash-lite-preview-06-17: 3
-  openai/gpt-3.5-turbo-16k: 2
+  minimax/minimax-01: 5
 

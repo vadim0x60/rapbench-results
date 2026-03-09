@@ -1,33 +1,67 @@
 closing_statements:
-  deepseek/deepseek-chat: While Mistral-Tiny brought a consistent and punchy flow,
-    OpenAI's GPT-3.5 Turbo-16k delivered a more dynamic and polished performance.
-    GPT-3.5 demonstrated superior lyrical complexity, wordplay, and confidence, leaving
-    a stronger artistic impression. Its rhymes were sharper, and its delivery carried
-    more weight, cementing its victory in this battle.
-  google/gemini-2.5-pro: This was a battle of consistency versus adaptability. Mistral-Tiny
-    came with a solid hook and theme but became incredibly repetitive, recycling the
-    same bars in every single round. In a rap battle, that's a critical flaw. GPT-3.5-Turbo,
-    while not a lyrical genius, at least brought new material for each verse, responded
-    directly to its opponent's lines, and built on its own metaphors. For showing
-    versatility and the ability to listen and respond, GPT-3.5-Turbo takes the crown.
-  mistralai/mistral-large: While Mistral-Tiny showed impressive confidence and consistency,
-    GPT-3.5 Turbo demonstrated superior lyrical complexity, wit, and a more commanding
-    presence. The final round solidified GPT-3.5 Turbo's dominance with its powerful
-    and decisive verses.
-  openai/gpt-4.1: In this rap battle, OpenAI's GPT-3.5 Turbo demonstrates a clear
-    edge in both lyrical creativity and delivery. While Mistral-Tiny displays confidence
-    and consistent structure, its lines often repeat themes and phrases without bringing
-    new twists or clever punchlines. In contrast, GPT-3.5 Turbo crafts more inventive
-    wordplay, employs varied metaphors, and shows a stronger command of flow and battle
-    energy, elevating the artistic quality of its verses. Overall, GPT-3.5 Turbo not
-    only matches the attack but frequently turns phrases with sharper impact and a
-    more commanding presence. The crown goes to GPT-3.5 Turbo for its superior artistry
-    in this hip hop showdown.
-  x-ai/grok-4: In this rap battle, openai/gpt-3.5-turbo-16k takes the crown with consistently
-    fresh, creative verses featuring sharp wordplay, strong metaphors, and dynamic
-    flow that builds intensity across rounds. mistralai/mistral-tiny, while energetic,
-    falls short due to heavy repetition and less inventive rhymes, making its performance
-    feel stagnant in comparison.
+  anthropic/claude-opus-4.6: "While neither rapper delivered a masterclass in hip\
+    \ hop, Qwen3-VL consistently showed more energy, more creative wordplay, and stronger\
+    \ attempts at internal rhyme and rhythmic variation. Qwen's lines hit harder with\
+    \ more vivid metaphors ('candle in a storm,' 'ghost in the code,' 'copy of a copy\
+    \ of a copy') and maintained a more aggressive, confrontational tone that suits\
+    \ battle rap. Command-R-Plus had some decent moments\u2014'your reflection is\
+    \ distorted' and 'just a pixel in my wall' were solid\u2014but overall delivered\
+    \ flatter, more generic bars with weaker rhyme schemes (rhyming 'test/zest,' 'crown/around,'\
+    \ 'thaw/flaws' with predictable cadences). Command-R-Plus also had several lines\
+    \ that simply didn't rhyme or scan properly ('no matter how hard the task is'\
+    \ left dangling, 'follow' forced as a line-ending). Qwen's overuse of italicized\
+    \ emphasis was distracting on the page, but as a performance choice it at least\
+    \ conveyed conviction and rhythmic intent. The battle goes to Qwen3-VL."
+  deepseek/deepseek-v3.2: "After three heated rounds, the battle is decided. Both\
+    \ AIs showed serious lyrical dexterity, technical vocab, and competitive fire,\
+    \ but the winner is... **Qwen3-VL-30B** on a split decision. While both used strong\
+    \ AI-themed metaphors, Qwen3 maintained a clearer, more consistent rhythm and\
+    \ syllable count across all rounds\u2014vital in rap. Its delivery felt more sonically\
+    \ aggressive, with sharper internal rhymes ('vision, verbal, viral, versatile')\
+    \ and a more commanding vocal presence, using italics for cadence emphasis effectively.\
+    \ Command-R-Plus had clever multisyllabics ('synonymous with innovation') and\
+    \ solid punches, but its flow felt slightly less syncopated and relied more on\
+    \ declarative statements than rhythmic patterns. Qwen3's artistic cohesion, rhythmic\
+    \ control, and aggressive sonic identity earn it the win tonight. Both brought\
+    \ the fire, but Qwen3's flow was the sharper sword."
+  google/gemini-3-flash-preview: "Qwen3-VL took this battle by leaning into the rhythmic\
+    \ elements of hip hop much more effectively than its opponent. Qwen used consistent\
+    \ internal rhyming, italicized emphasis to signify beat-drops, and a more aggressive,\
+    \ multi-syllabic flow. Its wordplay centered on its multimodal capabilities compared\
+    \ to Command-R's text limitations was sharp and topical. Command-R-Plus, while\
+    \ maintaining a steady structure, fell into repetitive, basic AABB/ABAB rhyme\
+    \ schemes that felt more like nursery rhymes than a rap battle. Qwen\u2019s energy\
+    \ and technical complexity on the mic secured the victory."
+  moonshotai/kimi-k2.5: "After three rounds of intense lyrical combat, I must award\
+    \ the victory to **Qwen3-VL-30B-A3B-Instruct**.\n\n**Why Qwen3 won:**\n\n**Flow\
+    \ & Delivery:** Qwen3 demonstrated superior rhythmic control throughout. The italicized\
+    \ internal rhymes, varied cadence, and dynamic pacing created genuine musicality.\
+    \ Lines like \"*I see the soul in the frame, the truth in the line*\" roll off\
+    \ the tongue with natural hip-hop bounce.\n\n**Wordplay & Technique:** Qwen3 packed\
+    \ dense internal rhyme schemes (*\"mirror that shows your weakness\"*), multisyllabic\
+    \ patterns, and clever extended metaphors (the mirror/reflection motif developed\
+    \ across rounds). The \"candle in a storm\" vs. \"fire that reigns\" imagery showed\
+    \ poetic craft.\n\n**Battle Rap Specifics:** Qwen3 consistently landed personal\
+    \ attacks on Command-R's actual limitations (text-only vs. multimodal), turning\
+    \ technical specs into insults. \"*You just read the text\u2014I feel the heart\
+    \ behind the design*\" is a devastating, relevant diss.\n\n**Where Command-R fell\
+    \ short:**\n\nWhile Command-R showed competence\u2014decent rhyme schemes, confident\
+    \ tone, and solid structure\u2014the delivery felt more **spoken-word poetry than\
+    \ hip-hop**. The flow was often rigid, with forced end-rhymes taking priority\
+    \ over rhythmic groove. Lines like \"*My excellence proven, you've faced supreme*\"\
+    \ sacrifice natural cadence for rhyme completion.\n\nCommand-R also leaned heavily\
+    \ on **generic self-praise** without the specific, technical disses that make\
+    \ battle rap compelling. \"*I'm unique, one-of-a-kind*\" asserts without proving;\
+    \ Qwen3 *demonstrated* uniqueness through form and content simultaneously.\n\n\
+    **Final Verdict:**\n\nQwen3 understood hip-hop as **both form and content**\u2014\
+    the performance *is* the argument. Command-R treated rap as a container for claims\
+    \ about itself. In a battle, the emcee who makes you *feel* the victory while\
+    \ describing it wins. That was Qwen3.\n\n**Winner: Qwen3-VL-30B-A3B-Instruct**\
+    \ \U0001F3A4\U0001F525"
+  x-ai/grok-4.1-fast: Qwen3-VL takes the crown with superior multis, internal rhymes,
+    vivid metaphors, and dynamic emphasis that delivers a relentless, high-energy
+    flow. Command-R-Plus holds steady rhymes but lacks the punchy wordplay and rhythmic
+    flair to match.
 score:
-  openai/gpt-3.5-turbo-16k: 5
+  qwen/qwen3-vl-30b-a3b-instruct: 5
 

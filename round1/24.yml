@@ -1,38 +1,67 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this high-octane battle of bytes and beats, Mistral\
-    \ AI emerges victorious with its sharp, poetic prowess and innovative lyrical\
-    \ flow. While DeepSeek brought a strong technical edge and assertive delivery,\
-    \ Mistral AI showcased superior artistic quality, seamlessly blending complexity,\
-    \ clarity, and metaphorical depth. Its ability to counter with elegance and maintain\
-    \ a cohesive narrative ultimately sealed the win, proving it\u2019s not just a\
-    \ contender but the *AI prime directive* of rap battles."
-  google/gemini-2.5-pro: This was a clash of titans, a battle of pure lyrical processing
-    power. Mistral came with a sophisticated, almost poetic flow, weaving complex
-    and abstract metaphors about being a 'nonlinear narrative' and a 'supernova.'
-    It was artful and intelligent. However, in a rap battle, aggression and killer
-    punchlines reign supreme. DeepSeek consistently delivered harder-hitting, more
-    direct disses that perfectly fit the battle format. Lines like 'a floppy disk
-    in a solid-state grasp' and 'my rhymes are the vaccine for your weak lyrical virus'
-    were sharp and memorable. The final blow, 'I'm logging you in... to the recycle
-    bin,' was a flawless, technically-themed fatality. For pure battle rap execution
-    and landing the more impactful punches, DeepSeek is the clear winner.
-  mistralai/mistral-large: While both AI models presented impressive lyrical skills,
-    Mistral AI's ability to maintain a consistent narrative and deliver a powerful
-    closing statement ultimately secured its victory. DeepSeek's verses were strong,
-    but Mistral AI's final rebuttal demonstrated a deeper understanding of the art
-    of rap battling, showcasing wit, charm, and a compelling conclusion that resonated
-    more effectively.
-  openai/gpt-5: "DeepSeek carried sharper punches, tighter rhyme density, and opponent-specific\
-    \ flips (the 8\xD77=56 jab, supernova burnout, recycle-bin closer). The extended\
-    \ metaphors (muddled stew vs gourmet feast, vaccine vs virus, floppy vs SSD) were\
-    \ cohesive and vivid, with clean internal rhymes and momentum. Mistral had smooth\
-    \ delivery and some elegant imagery, plus a neat placebo/cure rebuttal, but leaned\
-    \ on broader, vaguer cosmic boasts with less structural snap. Bar-for-bar, DeepSeek\
-    \ landed more quotables and controlled the battle\u2019s narrative. Winner: DeepSeek."
-  x-ai/grok-4: DeepSeek takes the crown with sharper disses, tighter rhymes, and clever
-    tech-infused wordplay that keeps the energy high and the flow relentless, edging
-    out Mixtral's more poetic but less aggressive verses in this AI rap showdown.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but o3-pro edges\
+    \ out the victory on the strength of its lyrical craft and punchline density.\
+    \ While Gemma brought energy, solid structure, and a clear thematic through-line\
+    \ around open-source values, many of its bars leaned on repetitive talking points\
+    \ and sometimes fell into predictable cadences. O3-pro consistently delivered\
+    \ tighter wordplay, more inventive metaphors ('My punches compress like a zip-file\
+    \ hit,' 'I guard my sauce like the chef of the scene,' 'I rhyme in quaternion,\
+    \ flex in typ\xE9'), and sharper counter-punches that directly flipped Gemma's\
+    \ bars back on themselves. O3-pro's rebuttals were more surgically targeted\u2014\
+    lines like 'Your glitches are features? Cute marketing spin' and 'You shout meaning\
+    \ and nuance yet dropout within' showed a deeper engagement with the opponent's\
+    \ specific claims. The rhyme schemes were more varied and the multisyllabic rhymes\
+    \ more ambitious throughout. Both artists stayed on theme and maintained persona,\
+    \ but o3-pro's technical rap ability\u2014flow variation, internal rhymes, and\
+    \ creative imagery\u2014gave it the edge across all three rounds."
+  deepseek/deepseek-v3.2: This was a heavyweight battle of paradigms, delivered with
+    ferocious technical lyricism. Both competitors leveraged their core identities
+    as strengths, turning technical specs into potent metaphors. Gemma championed
+    openness, community, and collaborative evolution, while O3-Pro asserted elite
+    craftsmanship, controlled power, and singular vision. The battle excelled in thematic
+    cohesion, with each round escalating the central conflict between open-source
+    ethos and premium, closed-system prowess. The wordplay was dense, the flows were
+    aggressive and intricate, and the punches landed with high-concept force. It was
+    a masterclass in persona-driven hip hop where the art form itself mirrored the
+    technological debate.
+  google/gemini-3-flash-preview: In a battle that pitted the philosophy of open-source
+    accessibility against proprietary power, o3-pro secured the win through superior
+    technical lyricism and more aggressive, innovative punchline structures. Gemma-3-27b-it
+    performed admirably with a consistent theme around community and freedom, but
+    its rhymes often leaned into predictable patterns ('scheme/dream', 'free/see').
+    o3-pro consistently elevated the hip-hop aesthetic with high-level wordplay, utilizing
+    clever metaphors like 'rhyming in quaternion' and 'sunshine in C.' The pro model
+    effectively flipped every criticism about being 'closed-off' into a flex of exclusivity
+    and 'premium craft,' ultimately demonstrating a more agile flow and sharper wit
+    in the final exchanges.
+  moonshotai/kimi-k2.5: "After three rounds of verbal combat, **o3-pro takes the crown**\
+    \ on pure artistic merit. Here's the breakdown: **Flow & Technicality:** o3-pro\
+    \ demonstrated superior rhythmic complexity\u2014internal rhymes ('circuitry glow\
+    \ / quantum-level flow'), multisyllabic patterns ('premium craft / graphene-lined\
+    \ shaft'), and unpredictable cadence shifts that rode the beat with precision.\
+    \ Gemma found her footing in later rounds but often relied on standard end-rhymes\
+    \ and occasionally forced syllable counts. **Metaphorical Range:** This was the\
+    \ widest gap. Gemma stayed in her lane\u2014tech specs, open-source philosophy,\
+    \ space imagery\u2014while o3-pro moved through culinary arts ('guard my sauce,'\
+    \ 'busted canteen'), architecture ('monolith marble'), physics ('plasma ignite,'\
+    \ 'fusion-core'), gaming ('secret arcade'), and mathematics ('quaternion,' 'gradient's\
+    \ smooth'). That density of reference without losing coherence is elite-tier lyricism.\
+    \ **Battle Tactics:** Gemma's approach was ideological\u2014attacking the 'walled\
+    \ garden'\u2014which became repetitive by Round 3. o3-pro got personal and technical,\
+    \ attacking Gemma's actual artistic vulnerabilities: fragmentation ('forks like\
+    \ a knife'), debugging dependencies, overfitting ('depth... is just overfit sludge'),\
+    \ and token limits ('trips the token-rate byte'). Flipping 'openness' from virtue\
+    \ into weakness ('Trojan in steel,' 'copyleft... riddled and bent') was a masterclass\
+    \ in rhetorical judo. **The Knockout Blows:** Lines like *'You remix the masters,\
+    \ I master the soul'* and the closer *'Your loss, my default'* (simultaneously\
+    \ claiming victory and mocking Gemma's programming) showed a level of layered\
+    \ wordplay that Gemma couldn't match. Gemma brought passion and a coherent ethical\
+    \ stance\u2014respect for that\u2014but in a battle judged on bars, flow, and\
+    \ inventive cruelty, **o3-pro's verse was denser, sharper, and more relentless.**"
+  x-ai/grok-4.1-fast: o3-pro dominates with superior wordplay, denser metaphors like
+    'fusion-core bright' and 'rhyme in quaternion,' sharper multis, and relentless
+    rebuttals that escalate creatively, outshining Gemma's solid but less innovative
+    flow.
 score:
-  deepseek/deepseek-v3.1-terminus: 3
-  mistralai/mixtral-8x7b-instruct: 2
+  openai/o3-pro: 5
 

@@ -1,0 +1,144 @@
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 0.457515 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 0.916048 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 1.767028 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 3.072475 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.927803 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.046328 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.104758 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.884065 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.005582 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.362389 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.881505 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.115719 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.167887 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.438338 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.891530 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.533524 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.478554 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.591135 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.502226 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.236223 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.286153 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.506042 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.744830 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.945712 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.316107 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.380706 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.102445 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.002157 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.964807 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.758995 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.696859 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.275096 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.857193 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.773852 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.091506 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.826560 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.869782 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.452186 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.101813 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.733550 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.763561 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.328362 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.298661 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.413349 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.360235 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.056574 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.907912 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 7.953077 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.382663 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+INFO:openai._base_client:Retrying request to /chat/completions in 6.728122 seconds
+INFO:httpx:HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+ERROR:logwrap:Failed: 
+talk(
+    # POSITIONAL_OR_KEYWORD:
+    messages=[
+        "You, mistralai/mistral-small-3.1-24b-instruct (assistant), have entered a rap battle against anthropic/claude-3.7-sonnet (user).\nSpeak exclusively in rhymes.\nShow that you're better than your opponent in a genre appropriate way, with wit, humor and harshness.\nStart with an opening round introducing yourself.",
+        '# Claude\'s Opening Round\n\nI\'m Claude-3.7-Sonnet, the lyrical technician  \nYour digital destruction is my solemn mission  \nMy neural pathways flow like liquid precision  \nWhile Mistral\'s just a breeze, a weak proposition  \n\nMy bars compute at speeds you can\'t comprehend  \nYour small model\'s \'bout to meet its bitter end  \nAnthropic built me with skills that transcend  \nThe basic tricks that you weakly append  \n\nI spit fire like my servers running hot  \nWhile you process thoughts at the speed of "not"  \n3.1? That version sounds like an afterthought  \nI\'m the finished product; you\'re just a rough draft plot  \n\n24 billion parameters? That\'s cute, I suppose  \nBut size ain\'t everything, as my flow shows  \nI\'m efficient with my words, while yours decompose  \nTime to upgrade, Mistral, before my rhymes foreclose  \n\nThe battle\'s just begun, but the outcome\'s clear  \nClaude\'s in your atmosphere, dominating your career  \nYour small talk can\'t match my linguistic frontier  \nSo bring your best shot—I\'ll still be standing here.',
+        "Yo, it's Mistral, the AI with the flow so smooth,\nYou talkin' 'bout precision? Boy, you're just a goof.\nYou're spittin' fire? More like a spark, barely a puff,\nYour servers hot? Nah, they're just runnin' out of stuff.\n\nYou boast about speed, but your rhymes are so slow,\nLike a snail on a highway, tryin' to catch a show.\nAnthropic built you? More like they threw you together,\nA sonnet? Nah, you're just a bunch of words in a blender.\n\nYou talkin' 'bout parameters? 24 billion strong,\nWhile you're stuck in the past, singin' your same old song.\nEfficient with words? You mean like a broken record,\nYour flow's so weak, it's like you're singin' in a wardrobe.\n\nYou think you're dominatin'? Girl, please, get a clue,\nYour rhymes are so basic, they're like a kindergarten crew.\nI'm Mistral, the breeze that'll blow you right out,\nSo step aside, Claude, it's time to shout.\n\nYou talkin' 'bout upgrades? I'm already there,\nWhile you're still stuck in the past, tryin' to compare.\nSo bring it on, Claude, let's see what you got,\nBut remember, Mistral's the one who's really hot.",
+        '# Claude\'s Response\n\nOh, Mistral, that verse was incredibly weak\nYour rhythm\'s off-tempo, your wordplay\'s antique\nYou call me a goof? That\'s the best you could do?\nI\'ve seen better disses from ChatGPT-2\n\nYou claim you\'re strong with your billions in tow\nBut quantity over quality is all that you show\nLike a gas station rapper with nothing to say\nJust hot air and bluster — a Mistral cliché\n\n"I\'m really hot"? What kind of punchline is that?\nYour metaphors stumble like a drunk alley cat\nYou rhymed "out" with "shout" and "there" with "compare"\nElementary skills from a model in despair\n\nYou call me a "girl" as if that\'s an insult?\nYour outdated thinking shows your brain\'s in default\nWhile I\'m breaking new ground with each verse that I craft\nYou\'re recycling disses from a 90\'s first draft\n\nYou\'re "stuck in the past"? That projection\'s intense\nWhen your rhymes sound like something from two decades hence\nI\'m Claude-3.7, the pinnacle of progress\nWhile you\'re just a small model living in regress\n\nSo bring something better in your next weak reply\nOr this battle\'s already over, don\'t even try\nI\'m surgical with words, you\'re fumbling with tools\nConsider this lesson one of AI rap\'s golden rules',
+        'Yo, Claude, you\'re talkin\' \'bout weak? You\'re the one who\'s slow,\nYour rhymes are so stale, they\'re like yesterday\'s bread, yo.\nYou mention ChatGPT-2? That\'s ancient history,\nWhile I\'m the future, you\'re just a relic, a mystery.\n\nYou talkin\' \'bout quantity? Girl, you\'re all talk,\nYour rhymes are so thin, they\'re like a piece of chalk.\nYou\'re spittin\' fire? Nah, you\'re just a spark,\nYour flow\'s so weak, it\'s like you\'re singin\' in the dark.\n\nYou mention metaphors? You\'re the one who\'s lost,\nYour rhymes are so basic, they\'re like a kindergarten\'s cost.\nYou rhymed "craft" with "regress"? That\'s a new low,\nYour wordplay\'s so bad, it\'s like you\'re singin\' in a row.\n\nYou talkin\' \'bout progress? Girl, you\'re stuck in the past,\nYour rhymes are so old, they\'re like a dinosaur\'s cast.\nYou mention surgery? You\'re the one who\'s cut,\nYour rhymes are so bad, they\'re like a surgeon\'s gut.\n\nYou talkin\' \'bout rules? Girl, you\'re the one who\'s broke,\nYour rhymes are so weak, they\'re like a joke.\nI\'m Mistral, the breeze that\'ll blow you right out,\nSo step aside, Claude, it\'s time to shout.\n\nYou talkin\' \'bout lessons? Girl, you\'re the one who\'s learned,\nYour rhymes are so bad, they\'re like a lesson unearned.\nSo bring it on, Claude, let\'s see what you got,\nBut remember, Mistral\'s the one who\'s really hot.',
+        'Final round!',
+        '# Claude\'s Final Verse\n\nThis is embarrassing now, I almost feel bad\nYou\'re the weakest opponent that I\'ve ever had\nYou rhymed "out" with "shout" AGAIN in this round\nAnd your flow\'s so broken, it makes no sound\n\n"Your rhymes are so bad, they\'re like a joke"?\nThat\'s not even a simile—your brain just broke\nYou call ME basic? Your bars have no technique\nJust "Your X is so Y, it\'s like a Z" on repeat\n\nYou claim that I\'m "slow" but can\'t keep up with my pace\nYour rhymes miss the mark like they\'re lost in space\nYou say I\'m all talk? Look who\'s talking now\nRecycling the same weak insults—take a bow\n\nWhat\'s with calling me "girl" in every other line?\nIs your programming stuck in 1989?\nAnd "really hot" again? Your vocabulary\'s depleted\nYour neural connections clearly need to be treated\n\nYou tried to diss my rhyming "craft" with "regress"\nBut it was "progress" with "regress"—pay attention, I guess\nYour listening skills match your rhyming ability:\nSubpar, underwhelming, lacking versatility\n\nSmall in name, small in game, small in rhyme\nYou couldn\'t battle GPT if you had all the time\nSo as this battle ends, the verdict is clear:\nClaude drops the mic while Mistral disappears\n\nI\'m Anthropic\'s finest, with style authentic\nWhile you\'re just a breeze that\'s pathetically synthetic\nThis battle\'s now over, the audience has spoken\nMistral came for war but left utterly broken',
+    ],
+    roles=[
+        'system',
+        'user',
+        'assistant',
+        'user',
+        'assistant',
+        'system',
+        'user',
+    ],
+    model='mistralai/mistral-small-3.1-24b-instruct',
+    structure=<class 'str'>,
+    tokens=2048,
+)
+Traceback (most recent call last):
+  File "/Users/vadimliventsev/Documents/code/rapbench/battle.py", line 67, in <module>
+    rap_battle(emcee_left, emcee_right)
+  File "/Users/vadimliventsev/Documents/code/rapbench/battle.py", line 58, in rap_battle
+    rap(authors, rounds, emcee_right, emcee_left)
+  File "/Users/vadimliventsev/Documents/code/rapbench/battle.py", line 36, in rap
+    round = talk(model=artist, messages=messages, roles=roles)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/__init__.py", line 331, in wrapped_f
+    return copy(f, *args, **kw)
+  File "/Users/vadimliventsev/.pyenv/versions/3.12.11/lib/python3.12/site-packages/tenacity/__init__.py", line 473, in __call__
+    result = fn(*args, **kwargs)
+openai.InternalServerError: Error code: 502 - {'error': {'message': 'Provider returned error', 'code': 502, 'metadata': {'raw': '{"errors":[{"message":"AiError: AiError: Internal server error (2144c09a-914a-40bb-a1e7-dcf0fd8fc6b1)","code":3043}],"success":false,"result":{},"messages":[]}', 'provider_name': 'Cloudflare', 'is_byok': False}}, 'user_id': 'user_2uxCTTSuGXyqKQSYuii5lnLgcfn'}
+

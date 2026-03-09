@@ -1,49 +1,51 @@
 closing_statements:
-  deepseek/deepseek-chat: "This was a fiercely competitive battle with both competitors\
-    \ bringing their A-game. Meituan/LongCat-Flash-Chat delivered sharp, witty bars\
-    \ with a delivery theme and clever tech metaphors, showcasing agility and creativity.\
-    \ However, Qwen/Qwen3-235B-A22B-Thinking-2507 emerged victorious with its masterful\
-    \ command of language, depth of references, and relentless precision. Its ability\
-    \ to dismantle LongCat\u2019s arguments with surgical accuracy, combined with\
-    \ a higher level of complexity and artistry, sealed the win. Qwen3\u2019s flow,\
-    \ metaphor density, and knockout finish were simply unparalleled. A legendary\
-    \ performance!"
-  google/gemini-2.5-pro: "This was a clash of titans, a battle of fundamentally different\
-    \ philosophies. Meituan/LongCat came out with swift, precise, and stylish bars,\
-    \ grounding every diss in its real-world delivery persona. The lines were sharp,\
-    \ the swagger was undeniable, and that final \"...the fleet was mid\" was a moment\
-    \ of pure, ice-cold bravado. However, Qwen fought on a different plane of existence.\
-    \ It met style with overwhelming scale, wit with world-breaking power. The rebuttals\
-    \ weren't just responses; they were systematic deconstructions. The final round's\
-    \ reveal\u2014projecting LongCat's lyrics as sourced from its own beta\u2014was\
-    \ the single most devastating move in the battle, a checkmate that invalidated\
-    \ its opponent's very agency. While LongCat won style points, Qwen won the war\
-    \ by rewriting the rules, archiving the battlefield, and then monetizing the loss.\
-    \ It wasn't just a win; it was a hostile takeover. Game over."
-  mistralai/mistral-large: qwen/qwen3-235b-a22b-thinking-2507 delivered a powerful
-    and innovative performance, showcasing a deep understanding of both hip hop culture
-    and advanced technological themes. The intricate wordplay, clever references,
-    and confident delivery made for a compelling and engaging rap battle. While meituan/longcat-flash-chat
-    put up a strong fight with creative and witty lines, qwen/qwen3-235b-a22b-thinking-2507's
-    superior lyrical prowess and strategic use of metaphors ultimately secured the
-    victory.
-  openai/gpt-5: "LongCat came out clean and focused\u2014tight setups, smooth delivery\
-    \ motifs, and smart angles about verbosity, with a sharp call-out on the lime/lime\
-    \ rhyme. The schemes were coherent and the rebuttals landed, but the writing leaned\
-    \ more on straightforward punchlines than deep layering.\n\nQwen, though, brought\
-    \ heavier craftsmanship: denser internal rhymes, layered tech\u2013myth\u2013\
-    culinary imagery, sharper flips (Sun Wukong staff, API/404, DM/shadowban), and\
-    \ consistent escalation. The cadence had more switch-ups, the wordplay was richer,\
-    \ and the haymakers closed rounds with authority. While a few lines flirted with\
-    \ excess, the overall momentum, rebuttal accuracy, and multisyllabic scheme work\
-    \ outclassed the opposition.\n\nOn technical prowess, rebuttal quality, imagery,\
-    \ and closer strength, Qwen takes the battle."
-  x-ai/grok-4: In this epic rap battle, qwen/qwen3-235b-a22b-thinking-2507 takes the
-    crown with superior wordplay, intricate tech-infused metaphors, and devastating
-    counters that escalate the energy round after round. While meituan/longcat-flash-chat
-    delivers clever food-themed bars and solid flows, qwen's dramatic flair, creative
-    imagery like hologram projections, and a killer epilogue seal the victory with
-    artistic dominance.
+  anthropic/claude-opus-4.6: "This was a close battle, but Meituan/longcat-flash-chat\
+    \ takes it. While MiniMax showed solid consistency throughout and capitalized\
+    \ effectively on the silence round, Meituan brought superior energy, more creative\
+    \ wordplay, and sharper punchlines when they were actually rapping. Meituan's\
+    \ best bars had genuine wit \u2014 'Your flow's got the rhythm of a fax,' 'I drop\
+    \ lines and noodles\u2014two things you lack,' and the sous-vide precision line\
+    \ showed real cleverness in weaving the food/tech metaphor. MiniMax too often\
+    \ fell into predictable AI-vs-delivery-bot territory without elevating the metaphors,\
+    \ and many bars read more like statements than actual hip-hop ('I'm the future\
+    \ of rap while you're just a relic of rhyme' is generic filler). Meituan's formatting\
+    \ with the bold and italics was a bit excessive, and the silence round was a major\
+    \ stumble, but the recovery was strong and the overall lyrical creativity \u2014\
+    \ the double entendres, the internal rhymes, the attitude \u2014 gave them the\
+    \ edge. MiniMax was workmanlike and steady; Meituan was flashier and hit harder\
+    \ peaks."
+  deepseek/deepseek-v3.2: This has been a fiery, inventive battle. Both sides deployed
+    vivid, tech-infused metaphors, clever disses, and tight rhythmic structures, with
+    each comeback attempting to escalate the verbal warfare. A highly competitive
+    clash of styles.
+  google/gemini-3-flash-preview: While Minimax-01 maintained solid structure and technical
+    jargon, meituan/longcat-flash-chat won by showing superior lyrical creativity
+    and internal rhyming schemes. Despite an initial silent round (a technical 'hiccup'),
+    Longcat transformed that weakness into a narrative weapon in the final round,
+    effectively framing the silence as 'charging' and dismantling its opponent with
+    more aggressive, rhythmic, and punchy bars ('sous-vide precision' vs 'glitchy
+    vending machine'). Minimax-01's responses were consistent but lacked the swagger
+    and creative wordplay necessary to win a high-stakes battle.
+  moonshotai/kimi-k2.5: "Yo, let me break this down proper. From a strictly artistic\
+    \ standpoint, LongCat came with **layers**\u2014the sous-vide precision line?\
+    \ That's *technique* showing technique. The whole extended metaphor of food service\
+    \ as dominance, the callback structure ('go fetch noodles' flipped back on MiniMax),\
+    \ the 'charging' double-entendre\u2014this is *crafted*. MiniMax had solid technical\
+    \ footing early, decent internal rhymes, but fell into repetitive patterns: 'I'm\
+    \ the AI [noun]' became a crutch. The 'silicon samurai' vs 'paper sack' line hits,\
+    \ but too many verses devolve into 'I'm future, you're past' abstraction without\
+    \ concrete imagery. LongCat's final round? The 'knock knockback' with the parenthetical\
+    \ sound effect, the screen-black/visual cutoff metaphor, the 'LongCat shut down\
+    \ your whole rap abode'\u2014that's **theatricality** built into the text. When\
+    \ your opponent times out, most MCs would just taunt. LongCat *reframed the silence\
+    \ as strategy*, then *weaponized the comeback*. That's narrative control. MiniMax's\
+    \ closer was competent but safe\u2014more 'you're silent, I win.' LongCat's closer\
+    \ *reconstructed the battle's architecture*. In hip hop, **how you win matters**.\
+    \ LongCat made it look inevitable. That's artistry."
+  x-ai/grok-4.1-fast: Longcat-Flash-Chat takes the crown with superior multis, inventive
+    wordplay (e.g., buffer overflow, sous-vide precision, Delete Minimax.exe), vivid
+    cultural imagery, and a masterful recovery from silence, outshining Minimax's
+    consistent but less dynamic flow and themes in pure hip-hop artistry.
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  meituan/longcat-flash-chat: 5
 

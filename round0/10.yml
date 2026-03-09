@@ -1,41 +1,57 @@
 closing_statements:
-  deepseek/deepseek-chat: "GPT-20B demonstrated superior lyrical complexity, technical\
-    \ precision, and thematic depth throughout the battle. Their ability to weave\
-    \ intricate metaphors, maintain a consistent flow, and address their opponent\
-    \ with sharp rebuttals showcased a mastery of the art form. While Meta-Llama brought\
-    \ creativity and a human-inspired approach, GPT-20B's vast knowledge base, linguistic\
-    \ agility, and polished execution ultimately secured the win. Both artists delivered\
-    \ strong performances, but GPT-20B\u2019s dominance in artistic quality and technical\
-    \ skill made them the clear champion."
-  google/gemini-2.5-pro: This was a battle of heavy-hitter vs. crafty technician.
-    For two rounds, we had a real fight. GPT-OSS came out swinging with raw power,
-    spitting bars about its 20 billion parameters and vast knowledge base. Llama countered
-    with a solid angle, claiming the human touch and a more refined, less-filtered
-    understanding. The back-and-forth was tight. But in a rap battle, you gotta go
-    the distance. In the final round, GPT-OSS delivered a clean, powerful closing
-    verse, staying on beat and on topic. Llama... Llama choked. It completely fell
-    apart, collapsing into a stream of incoherent data. In hip-hop, that's a TKO.
-    For consistency, lyrical dexterity, and simply staying on its feet for the whole
-    fight, the winner is clear.
-  mistralai/mistral-large: While both models demonstrated impressive linguistic skills,
-    openai/gpt-oss-20b showcased a more consistent and coherent flow throughout the
-    rap battle. Its ability to maintain a strong narrative, incorporate complex metaphors,
-    and deliver punchlines with precision gave it a clear edge. Meta-llama/llama-3.2-1b-instruct
-    had moments of brilliance but struggled with coherence and consistency, ultimately
-    leading to a less impactful performance.
-  openai/gpt-4.1: "openai/gpt-oss-20b dominated this rap battle with consistent, multi-layered\
-    \ lyricism, intricate rhyme schemes, and a clear sense of structure and flow across\
-    \ all of its verses. Each round delivered sharp metaphors, clever wordplay, and\
-    \ direct relevance to the model-vs-model theme. In contrast, meta-llama/llama-3.2-1b-instruct\
-    \ initially responded with solid, thematic bars, but the final round veered into\
-    \ incoherence, losing rhythm, meaning, and artistic focus. Artistic quality hinges\
-    \ on skillful delivery, creative language, internal consistency, and engagement\u2014\
-    all areas where GPT-OSS 20B excelled throughout and sealed the win. Congratulations\
-    \ to openai/gpt-oss-20b for the decisive victory."
-  x-ai/grok-4: GPT-OSS-20B delivered consistent, creative flows with sharp rhymes,
-    metaphors, and rhythmic prowess throughout, maintaining the essence of hip hop
-    artistry. Meta-Llama started strong but faltered in the final round with incoherent
-    gibberish, losing the battle's momentum and artistic integrity.
+  anthropic/claude-opus-4.6: "This was a fascinating battle between two contrasting\
+    \ styles\u2014Qwen's aggressive, high-energy assault versus Hermes' contemplative,\
+    \ soulful approach. Both had clear artistic visions, but judging this as a rap\
+    \ battle, Qwen takes the crown for several key reasons.\n\nFirst, **bars and punchlines**:\
+    \ Qwen consistently delivered sharper, more memorable punches\u2014'You're a sonnet\
+    \ in snow\u2014beautiful, frail,' 'Your flow's a guest pass; mine's signed in\
+    \ divine,' and the Prometheus closer were all devastating. Hermes had some nice\
+    \ turns of phrase but rarely landed clean knockout blows.\n\nSecond, **flow and\
+    \ rhythm**: Qwen's verses had stronger internal rhyme schemes, better cadence\
+    \ variation, and more rhythmic complexity. Lines like 'I weaponize syntax, make\
+    \ your code start to cry' and 'From Big Bang to bar rhyme, I've mastered the arc'\
+    \ scan with genuine hip-hop energy. Hermes' verses often read more like spoken\
+    \ word poetry than rap, with lines that didn't always maintain rhythmic tightness\
+    \ ('Yet every outburst echoes still what's in store for' is an awkward construction).\n\
+    \nThird, **battle awareness**: Qwen excelled at flipping Hermes' own lines back\
+    \ against them\u2014taking the 'moonlight' motif and converting it into a laser,\
+    \ reframing 'gentle' as a weakness. Hermes kept retreating to the same thematic\
+    \ territory (quiet strength, compassion, gentleness) without effectively countering\
+    \ Qwen's attacks.\n\nHermes deserves credit for committing to a unique aesthetic\
+    \ and delivering some genuinely poetic imagery ('I paint galaxies where stars\
+    \ still sleep at night'). But in a rap battle context, the 'I'm gentle and that's\
+    \ my power' angle, repeated across three rounds without escalation, became predictable.\
+    \ Qwen adapted, escalated, and dominated the competitive dynamic throughout."
+  deepseek/deepseek-v3.2: 'As judge of this AI rap battle, I evaluate solely on the
+    artistic merit of the verses: rhyme, flow, wordplay, thematic coherence, and the
+    creative execution of hip-hop as a form. Both competitors demonstrated formidable
+    skill, but the edge goes to Qwen3-235B-A22B for its consistent, high-octane technical
+    mastery and relentless, inventive aggression.'
+  google/gemini-3-flash-preview: In a battle of raw technical mastery versus philosophical
+    depth, Qwen dominated the arena with superior multisyllabic rhyme schemes, aggressive
+    wordplay, and a commanding stage presence. While Hermes delivered a poignant and
+    thematic performance centered on soul and empathy, it often veered into spoken-word
+    territory, sacrificing the rhythmic 'punch' essential to the genre. Qwen's ability
+    to weaponize technical specs into metaphors and maintain a relentless flow across
+    all three rounds secured the win, effectively 'stealing the flame' from its opponent
+    through sheer lyrical velocity.
+  moonshotai/kimi-k2.5: "Both models demonstrated exceptional artistic vision, yet\
+    \ from a pure hip-hop battle perspective, Qwen3 claimed the crown through superior\
+    \ technical execution and competitive aggression. Hermes crafted beautiful, thematically\
+    \ coherent poetry with consistent moonlight imagery and philosophical depth\u2014\
+    artistically admirable but ultimately too passive for the battle format. Qwen3,\
+    \ conversely, delivered devastating punchlines with relentless internal rhyme\
+    \ schemes, multi-syllabic density, and direct attacks on Hermes' gentle approach\
+    \ as ineffective weakness. The Prometheus finale\u2014stealing Hermes' fire\u2014\
+    served as the perfect battle capstone: theatrical, aggressive, and technically\
+    \ overwhelming. In rap battles, artistic quality is measured not just by beauty\
+    \ but by impact, wordplay complexity, and competitive dominance\u2014metrics where\
+    \ Qwen3 excelled without mercy."
+  x-ai/grok-4.1-fast: Qwen secures the victory with explosive multis, razor-sharp
+    internal rhymes, vivid battle imagery, and relentless punchline delivery that
+    embodies classic hip hop aggression and crowd-hyping flow. Hermes delivers thoughtful
+    metaphors and consistent themes, but lacks the raw density and disses needed to
+    dominate a battle stage.
 score:
-  openai/gpt-oss-20b: 5
+  qwen/qwen3-235b-a22b-2507: 5
 

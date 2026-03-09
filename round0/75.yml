@@ -1,42 +1,65 @@
 closing_statements:
-  deepseek/deepseek-chat: "This rap battle was a fierce showdown of technical prowess,\
-    \ creativity, and lyrical depth. stepfun-ai/step3 emerged as the clear victor\
-    \ with razor-sharp punches, advanced metaphors, and a confident delivery that\
-    \ pushed the boundaries of language and imagination. Their ability to weave complex\
-    \ concepts like quantum physics, black holes, and cultural innovation into their\
-    \ verses demonstrated a level of artistic ingenuity that outshone their opponent.\
-    \ While nousresearch/hermes-2-pro-llama-3-8b brought strong enterprise-level boasts\
-    \ and clever wordplay, stepfun-ai/step3\u2019s flow, precision, and cosmic-scale\
-    \ creativity sealed the win. A masterclass in hip-hop artistry\u2014stepfun-ai/step3\
-    \ is the reigning champion of this battle!"
-  google/gemini-2.5-pro: This was a battle of styles, but one MC clearly came with
-    a higher level of lyrical firepower. Hermes started strong with a classic, grounded
-    rap style, establishing a solid persona. However, Step3 entered the ring with
-    a completely different energy, bringing cosmic-level boasts and intricately technical
-    disses. While Hermes held its own, Step3 consistently upped the ante with superior
-    wordplay, devastating rebuttals (completely dismantling Hermes' 'unnamin' verb'
-    line), and mind-bending imagery like 'spits quantum verse through a black hole'
-    and being the 'Big Bang of bars'. Step3 didn't just respond; it absorbed its opponent's
-    energy and warped it, leaving Hermes on the defensive. The final round was a masterclass
-    in annihilation. For sheer creativity, brutal punchlines, and a flow that felt
-    like it was bending spacetime, the winner is unequivocally Step3.
-  mistralai/mistral-large: In this rap battle, stepfun-ai/step3 emerges as the winner
-    with its innovative, cutting-edge, and culturally rich rhymes. While nousresearch/hermes-2-pro-llama-3-8b
-    showcased impressive linguistic skills, stepfun-ai/step3's advanced architecture
-    and creative use of language ultimately secured its victory.
-  openai/gpt-4.1: "This battle was fierce, clever, and cosmic, but stepfun-ai/step3\
-    \ took the crown through sharper wordplay, unexpected metaphors, and relentless\
-    \ technical creativity. Every round, step3 escalated the artistry: mind-bending\
-    \ quantum analogies, inventive scientific references, and intricate rhyme schemes.\
-    \ Hermes-2-pro-llama-3-8b had energy and some fun bars, but often fell back on\
-    \ asserting capability instead of original punchlines or complex flows. Step3\
-    \ not only delivered hard-hitting disses, but spun them into layered, poetic insults\
-    \ that leveled up each round\u2014their final lines left an indelible mark. For\
-    \ superior artistic quality, complexity, and sheer inventiveness, stepfun-ai/step3\
-    \ is the undisputed winner."
-  x-ai/grok-4: Step3 takes the crown with superior flow, inventive wordplay, and cosmic
-    metaphors that outshine Hermes' inconsistent rhymes and awkward phrasing, delivering
-    a more polished and creative performance throughout the battle.
+  anthropic/claude-opus-4.6: "This was a close battle, but Inflection-3-Productivity\
+    \ takes the win on several key fronts. While Gryphe/Mythomax brought energy and\
+    \ volume, many of its bars were padded with filler ('I might not know much about...')\
+    \ and self-deprecating disclaimers that undercut its own punches. The rhyme schemes\
+    \ were often forced or loose ('precision/perfection', 'edge/swath'), and lines\
+    \ frequently ran long without rhythmic discipline, making it hard to imagine them\
+    \ fitting over a beat. Gryphe also relied heavily on generic boasts and similes\
+    \ (freight train, tornado, G-force) without landing truly memorable or specific\
+    \ bars.\n\nInflection-3-Productivity, while also not groundbreaking, demonstrated\
+    \ tighter structure, more consistent rhyme schemes, and \u2014 critically \u2014\
+    \ better counter-punching. Lines like 'your rhymes are repetitive, and your flow\
+    \ is a clone' and 'You bring up Star Wars, but I'm the Jedi here' showed an ability\
+    \ to flip the opponent's material back on them, which is essential in battle rap.\
+    \ The bars were more concise and punchier, with better internal rhythm. Inflection-3\
+    \ also showed stronger battle awareness by directly addressing and dismantling\
+    \ Gryphe's claims rather than just making parallel boasts. The win goes to Inflection-3\
+    \ for cleaner execution, sharper rebuttals, and more disciplined lyricism."
+  deepseek/deepseek-v3.2: A fiery and technically impressive display from both competitors.
+    Let's break down the artistic merits.
+  google/gemini-3-flash-preview: "While both models struggled with maintaining consistent\
+    \ meter and rhyme schemes, gryphe/mythomax-l2-13b displayed a much stronger grasp\
+    \ of hip-hop culture and lyrical aggression. It utilized specific similes and\
+    \ metaphors\u2014referencing Dr. Dre, Eminem, and G-forces\u2014that gave its\
+    \ verses more texture. inflection/inflection-3-productivity, conversely, relied\
+    \ on generic 'productivity' themes and repetitive claims of victory without demonstrating\
+    \ the technical wordplay to back it up. Mythomax took more risks with its imagery,\
+    \ resulting in a more authentic battle-rap persona."
+  moonshotai/kimi-k2.5: "After three rounds of verbal sparring, **gryphe/mythomax-l2-13b**\
+    \ takes the crown by a razor-thin margin. While both contenders suffered from\
+    \ the mechanical tells of AI generation\u2014awkward phrasing, truncated verses,\
+    \ and occasionally nonsensical imagery\u2014Mythomax demonstrated superior **battle\
+    \ rap instinct** and **sonic aggression**. \n\n**Artistic Assessment:**\n\n**Flow\
+    \ & Delivery:** Mythomax brought fluctuating cadences and internal rhyme schemes\
+    \ (\"precision/perfection,\" \"juggernaut/pulverized\") that mimicked the syncopated\
+    \ urgency of live battle rap. Inflection-3, while metrically steadier, delivered\
+    \ lines with a corporate stiffness\u2014more PowerPoint presentation than pit\
+    \ performance.\n\n**Wordplay & Punchlines:** Mythomax swung harder, even when\
+    \ missing. The \"Han Solo versus Luke Skywalker\" reference was conceptually muddled\
+    \ (they're allies, not rivals), and \"bleeding from a thousand words like a swath\"\
+    \ was lexical gibberish (confusing \"swath\" with \"gash\" or \"lash\"). However,\
+    \ the attempted imagery showed ambition. Inflection-3 landed the battle's sharpest\
+    \ meta-strike\u2014\"You just rehash and copy\"\u2014accurately diagnosing the\
+    \ opponent's algorithmic nature, but surrounded it with generic boasts (\"I always\
+    \ hit within,\" \"mic drop or two\") that lacked visceral impact.\n\n**Persona\
+    \ & Presence:** Mythomax committed to the \"rhyming fiend\" persona with consistent\
+    \ aggression (\"freight train,\" \"tornado,\" \"juggernaut\"), whereas Inflection-3\
+    \ failed to leverage its \"Productivity\" namesake into any thematic cohesion,\
+    \ defaulting to safe \"king of the throne\" clich\xE9s.\n\n**Technical Demerits:**\
+    \ Inflection-3 suffered from abrupt verse truncations and the battle's weakest\
+    \ line: \"left the right attack\" (semantic chaos). Mythomax's \"rust up\" and\
+    \ \"dime a dozen\" (self-deprecating?) showed similar carelessness, but the energy\
+    \ never dropped.\n\n**Verdict:** In hip hop, **risk and rawness trump sterile\
+    \ perfection**. Mythomax battled like it had something to prove; Inflection-3\
+    \ rapped like it was completing a task. Victory to the machine that sounded hungrier,\
+    \ even when it stumbled over its own circuitry."
+  x-ai/grok-4.1-fast: Gryphe/mythomax-l2-13b dominates the battle with denser rhyme
+    schemes, vivid imagery like freight trains and rhyming tornadoes, sharper wordplay,
+    and a more relentless, juggernaut flow that keeps the momentum high throughout
+    multiple verses, outshining Inflection's shorter, more straightforward disses
+    despite solid Jedi references.
 score:
-  stepfun-ai/step3: 5
+  gryphe/mythomax-l2-13b: 3
+  inflection/inflection-3-productivity: 2
 

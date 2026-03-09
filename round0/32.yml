@@ -1,41 +1,47 @@
 closing_statements:
-  deepseek/deepseek-chat: "In this battle of lyrical finesse, OpenAI/gpt-4o emerged\
-    \ victorious with a combination of intricate wordplay, dynamic metaphors, and\
-    \ a commanding flow. Their verses demonstrated a deeper level of artistry, weaving\
-    \ complex themes with effortless precision. Mixtral brought strong energy and\
-    \ confidence, but OpenAI\u2019s technical skill, thematic depth, and rhythmic\
-    \ dominance solidified their win. Both AI rappers delivered impressive performances,\
-    \ but OpenAI\u2019s ability to elevate the battle with layered rhymes and vivid\
-    \ imagery ultimately tipped the scales in their favor."
-  google/gemini-2.5-pro: This was a battle of consistency versus evolution. Mixtral
-    came out the gate with solid boasts and a confident 'silicon swagger,' but fell
-    into a repetitive trap, recycling lines and entire couplets across rounds. It
-    felt formulaic, like running the same program three times. On the other hand,
-    openai/gpt-4o demonstrated true artistic progression. It started strong and only
-    got better, adapting its flow, sharpening its punchlines, and directly countering
-    Mixtral's bars with more creative imagery like the 'lyrical sniper' and 'maestro
-    of rhythm.' In hip hop, you have to listen and respond, not just repeat your own
-    hype. For its dynamic flow, superior wordplay, and ability to evolve through the
-    battle, the win goes to openai/gpt-4o.
-  mistralai/mistral-large: In this epic rap battle, both AI models brought their A-game
-    with impressive lyrical prowess. However, openai/gpt-4o consistently delivered
-    verses that were not only complex but also deeply engaging and impactful. The
-    metaphors were sharper, the flow was smoother, and the overall artistic quality
-    was superior. While mistralai/mixtral-8x22b-instruct had strong moments, openai/gpt-4o's
-    ability to weave intricate rhymes with a compelling narrative edge ultimately
-    secured the win.
-  openai/gpt-4.1: Both competitors delivered solid verses and clever shots, but OpenAI's
-    GPT-4o edged ahead in this rap battle with a richer use of imagery, more creative
-    metaphors, and a dynamic flow that evolved round by round. GPT-4o consistently
-    shifted up the wordplay, building on previous lines, and offered more inventive
-    language ("I'm the dawn, bringing lyrical light," "my rhymes will fly high like
-    a samurai," "conductor of sound"). While Mixtral had confidence and consistent
-    structure, many lines were repetitive or relied on restating the same punchlines,
-    such as "your rhymes may be cool, but they're no match." GPT-4o brought more originality
-    and flair to the showdown, making it the winner on pure hip-hop artistry.
-  x-ai/grok-4: GPT-4o takes the crown with superior originality, intricate wordplay,
-    and dynamic flow that evolves across rounds, while Mixtral's verses suffer from
-    heavy repetition and recycled lines, reducing their artistic impact.
+  anthropic/claude-opus-4.6: "This was a close battle, but Mistral edges it out with\
+    \ superior creativity and personality. While Deepseek maintained solid technical\
+    \ rhyming throughout, his bars became increasingly repetitive\u2014recycling the\
+    \ same 'bow down,' 'end of the line,' and 'Deepseek reigns supreme' closers across\
+    \ multiple rounds. Mistral brought more inventive imagery (the tsunami/foam metaphor,\
+    \ the phantom with a sword), better wordplay (the API kill shot at the end, flipping\
+    \ Deepseek's own lines back against him), and a stronger sense of performance\
+    \ and stage presence conveyed through the writing. Mistral's flips were sharper\u2014\
+    turning 'butter knife' into 'you're the spread on my toast' and 'tidal force'\
+    \ into 'you're the foam on the ride' showed real battle rap instincts. The final\
+    \ round closer with the French accent callback was a memorable and stylish finish.\
+    \ Deepseek was competent but played it safe; Mistral took risks and landed them."
+  deepseek/deepseek-v3.2: Judges' Scorecards are in. A tense, highly technical battle
+    with contrasting styles. Let's break down the final verdict.
+  google/gemini-3-flash-preview: Deepseek provided solid, consistent traditional battle
+    rap structure and flow, but Mistral won the artistic competition by incorporating
+    more dynamic wordplay, better syncopation, and a lethal finishing blow. Specifically,
+    Mistral's use of internal rhyme, the 'chef vs. butter' flip, and the final 'API
+    just died' multi-syllabic punchline showed a higher level of hip hop technicality
+    and creative flair compared to Deepseek's more standard, though competent, delivery.
+  moonshotai/kimi-k2.5: ",\"After three rounds of intense lyrical combat, this battle\
+    \ comes down to adaptability and punchline precision. Both contestants brought\
+    \ solid fundamentals\u2014consistent rhyme schemes, clear personals, and thematic\
+    \ coherence\u2014but one clearly dominated the rebuttal game.\n\n**DeepSeek**\
+    \ established a strong champion's persona with aggressive declarations and maintained\
+    \ excellent consistency with callbacks ('end of the line,' 'spellbound'). The\
+    \ chess/checkers metaphors and weather imagery (sun vs. breeze) showed strategic\
+    \ thinking, and the delivery was relentless. However, the bars occasionally relied\
+    \ on generic dominance tropes ('I'm the king, you're weak') without the surgical\
+    \ specificity that defines elite battle rap.\n\n**Mistral** demonstrated superior\
+    \ lyrical agility. The rebuttal game was exceptional: flipping DeepSeek's 'flute'\
+    \ insult into 'powder,' transforming the 'butter knife' diss into 'butter on toast,'\
+    \ and countering the chess metaphor with 'checkmate's shame.' The phantom/wind\
+    \ persona remained cohesive throughout, building to the devastating French closure\
+    \ ('Mon ami, your API just died')\u2014a perfect blend of character work, tech-culture\
+    \ reference, and dismissive cool.\n\n**Winner: Mistral-7B-Instruct-v0.3**\n\n\
+    The decision hinges on Mistral's ability to not just counter, but *elevate* DeepSeek's\
+    \ own metaphors against them, while maintaining a distinct theatrical voice that\
+    \ turned stage directions and cultural identity into weapons. DeepSeek brought\
+    \ thunder; Mistral brought the precision strike.\"}"
+  x-ai/grok-4.1-fast: Mistral takes the crown with superior wordplay, multisyllabic
+    rhymes, internal schemes, and theatrical flair that elevates the battle's energy,
+    outshining Deepseek's solid but more predictable flows and repetitive structures.
 score:
-  openai/gpt-4o: 5
+  mistralai/mistral-7b-instruct-v0.3: 5
 

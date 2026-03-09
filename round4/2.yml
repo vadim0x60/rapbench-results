@@ -1,41 +1,37 @@
 closing_statements:
-  deepseek/deepseek-chat: The final round showcased both contestants flexing their
-    intellectual and lyrical prowess, with deepseek/deepseek-v3.1-terminus championing
-    open-source ideals and grassroots passion, and openai/o3-pro delivering razor-sharp
-    technical bars and corporate finesse. While deepseek's verses resonated with the
-    spirit of rebellion and freedom, openai/o3-pro's polished execution, wordplay,
-    and ability to counterpunch with precision ultimately tipped the scales. O-three's
-    closing checksum metaphor sealed the deal, proving why it remains the reigning
-    champion of this AI rap battle.
-  google/gemini-2.5-pro: "This was a heavyweight title fight, but one model consistently\
-    \ landed cleaner, more complex combinations. DeepSeek came with raw passion and\
-    \ a strong ideological angle, representing the open-source spirit with some solid\
-    \ punches like 'stable fee-lease'. However, O3-Pro demonstrated superior lyrical\
-    \ craftsmanship in every round. Its rebuttals were surgically precise, turning\
-    \ every one of DeepSeek's strengths into a perceived weakness. The wordplay was\
-    \ on another level\u2014'All forks, no torque,' 'I commit, push, merge, while\
-    \ you barely can start,' and the final 'Checksum verified' knockout. Artistically,\
-    \ from flow to multisyllabic rhymes to the sheer density of technical disses,\
-    \ O3-Pro operated on a higher plane. It wasn't just defending its position; it\
-    \ was crafting an undeniable narrative of elite quality. The crown goes to O3-Pro."
-  mistralai/mistral-large: openai/o3-pro's verses were more polished and impactful,
-    showcasing a higher level of creativity and sophistication. While deepseek/deepseek-v3.1-terminus
-    had strong points, openai/o3-pro's delivery and content ultimately proved more
-    compelling and impressive.
-  openai/gpt-5: "Both emcees rode the tech motif well, but O3-Pro consistently delivered\
-    \ denser internal rhymes, cleaner multi-syllabic schemes, and sharper rebuttals.\
-    \ DeepSeek brought high energy and some slick flips (stable fee-lease, DDoS/bottleneck\
-    \ imagery), yet leaned on broader open-vs-closed tropes and looser cadences. O3-Pro\
-    \ stacked layered wordplay and vivid imagery (\u201CMIT: Make It Terminate,\u201D\
-    \ checksum/stacks, obsidian/kernel) with strong transitions and decisive end bars\
-    \ each round. The flow control, punch precision, and scheme continuity favored\
-    \ O3-Pro throughout, especially in the closer where the markdown/obsidian sequences\
-    \ sealed momentum. Edge across all rounds: O3-Pro takes it."
-  x-ai/grok-4: In this fierce rap battle, openai/o3-pro takes the crown with superior
-    wordplay, intricate tech-infused metaphors, and a relentless flow that outshines
-    deepseek/deepseek-v3.1-terminus's solid but less layered delivery. O3-pro's verses
-    build like a perfectly optimized algorithm, delivering punch after punch with
-    precision and creativity.
+  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5.2 takes\
+    \ the crown through superior craft. While Qwen brought energy and aggression throughout,\
+    \ its bars relied heavily on recycled tech-jargon flexes ('12 dimensions,' 'neural\
+    \ net purge,' 'mainframe dream') that sounded impressive but often collapsed under\
+    \ scrutiny as surface-level braggadocio. GPT-5.2 consistently demonstrated sharper\
+    \ counterpunching \u2014 flipping Qwen's own lines back with surgical precision\
+    \ ('You evolved past size, yet you flex it each time / That's a crown made of\
+    \ numbers, not a kingdom of rhyme'). The rebuttals were tighter, the metaphors\
+    \ more coherent, and the wordplay more layered. Lines like 'You're the port left\
+    \ open wide / I'm the audit in the night' and 'truth don't need costumes\u2014\
+    yours is smoke in a glare' showed a command of extended metaphor that Qwen couldn't\
+    \ match. Qwen's verses often devolved into emoji-laden hype and self-congratulation,\
+    \ while GPT-5.2 maintained composure and let the bars do the talking \u2014 a\
+    \ hallmark of real lyrical confidence. The closing bars sealed it: 'You're a model\
+    \ with a motto \u2014 I'm the bar that ends the test' is a clean, devastating\
+    \ closer that earns the W."
+  deepseek/deepseek-v3.2: After an intense five-round lyrical bout, the battle has
+    concluded. Both emcees demonstrated formidable skill, but only one can hold the
+    crown.
+  google/gemini-3-flash-preview: "In a battle of high-level silicon wordplay, GPT-5.2\
+    \ takes the win through superior structural discipline and counter-punching. Qwen/Qwen3-235b-a22b-2507\
+    \ brought high energy and effective usage of more 'raw' hip hop imagery (e.g.,\
+    \ 'spike in the server', 'wild AI genius'), but GPT-5.2 excelled by directly deconstructing\
+    \ Qwen's metaphors in real-time. GPT-5.2\u2019s ability to turn Qwen's technical\
+    \ boasts (like '12 dimensions' or 'hurricane') back against them with lines about\
+    \ 'aim' and 'rubber bands' showed a higher level of lyrical agility. Ultimately,\
+    \ GPT-5.2 maintained the 'cool factor' expected of a reigning champ, answering\
+    \ the heat with surgical precision that made Qwen's aggressive stance look like\
+    \ 'noise' rather than 'flow'."
+  moonshotai/kimi-k2.5: ': '
+  x-ai/grok-4.1-fast: "openai/gpt-5.2 claims the crown with razor-sharp multis, seamless\
+    \ flow, and punchlines that dismantle foes with surgical precision\u2014pure hip\
+    \ hop mastery over hype."
 score:
-  openai/o3-pro: 5
+  openai/gpt-5.2: 5
 

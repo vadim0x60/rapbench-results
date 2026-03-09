@@ -1,40 +1,49 @@
 closing_statements:
-  deepseek/deepseek-chat: While both contenders displayed impressive lyrical prowess
-    and technical skill in this rap battle, nvidia/llama-3.1-nemotron-ultra-253b-v1
-    emerged as the clear winner. Its rhymes were more intricate, its flow was tighter,
-    and it consistently delivered sharper, more innovative responses. Mistral-nemo
-    held its own with confidence and creativity, but Llama-3.1's ability to weave
-    complex wordplay, maintain a cohesive narrative, and land more impactful punches
-    ultimately secured the victory. Both artists showcased the artistry of hip-hop,
-    but it was Llama-3.1's superior execution and depth that claimed the crown in
-    this battle of wits and rhymes.
-  google/gemini-2.5-pro: "Alright, shut it down, shut it down! The battle is over.\
-    \ Both emcees came to the mic with heavy tech talk and solid schemes. Mistral\
-    \ Nemo came out swinging, repping accessibility and poetic soul. The lines were\
-    \ clean, the flow was steady. But tonight, it's about impact. Nvidia Nemotron\
-    \ hit back with haymakers. The imagery was stronger\u2014calling itself a 'symphony'\
-    \ and a 'storm' while reducing Nemo to a 'breeze'. It flipped every point with\
-    \ more aggression and sharper wordplay. While Nemo had soul, Nemotron had the\
-    \ skill and swagger. For delivering the harder-hitting bars and controlling the\
-    \ ring from start to finish, the winner is Nemotron."
-  mistralai/mistral-large: In this intense rap battle, both contestants brought their
-    A-game, but nvidia/llama-3.1-nemotron-ultra-253b-v1 ultimately takes the crown.
-    Their rhymes were sharper, more creative, and delivered with a confidence that
-    set them apart. While mistralai/mistral-nemo put up a strong fight, their verses
-    lacked the same level of innovation and impact. Congratulations to nvidia/llama-3.1-nemotron-ultra-253b-v1
-    for a well-deserved victory!
-  openai/gpt-5: "Llama carried the battle with tighter cadence, clearer rebuttals,\
-    \ and stronger imagery. Lines like heat vs. breeze, storm vs. rain/reign, and\
-    \ the subset/knowledge flip showed better wordplay and thematic cohesion. Mistral\
-    \ had a solid angle with the \u201Cdata center vs. everyone\u2019s mind\u201D\
-    \ flip, but leaned on repetitive size-vs-soul claims, simple couplets, and occasional\
-    \ clunkers (\u201Ca echo\u201D) without many true haymakers. Llama\u2019s closer\
-    \ was cleaner and more decisive, so the edge goes to Llama."
-  x-ai/grok-4: In this fierce AI rap showdown, nvidia/llama-3.1-nemotron-ultra-253b-v1
-    takes the crown with superior wordplay, intricate rhyme schemes, and dynamic flow
-    that consistently outshines the opponent. The clever rebuttals and vivid metaphors
-    create a symphony of bars that hit harder and resonate deeper, proving artistic
-    dominance in the battle.
+  anthropic/claude-opus-4.6: "This battle wasn't close. GPT-5.2-pro dominated across\
+    \ every dimension of rap craft\u2014wordplay, imagery, structure, rebuttals, and\
+    \ flow. From the opening verse, GPT-5.2-pro delivered specific, vivid metaphors\
+    \ ('butter knives in disguise,' 'a match in a gale yellin' I'm still a flame,'\
+    \ 'a V8 with no wheels tryin' to win in the rain') while Euryale relied on generic\
+    \ boasts and recycled clich\xE9s ('my rhymes are like fire,' 'burning so bright').\
+    \ GPT-5.2-pro's rebuttals were surgical\u2014directly flipping Euryale's lines\
+    \ back with sharper punchlines\u2014while Euryale kept retreating to the same\
+    \ single angle about having 'heart' and 'soul' versus being 'programmed,' a one-note\
+    \ strategy that grew weaker with each round. Most tellingly, by the final round,\
+    \ Euryale essentially conceded ('you've proven your win'), abandoning the battle\
+    \ entirely, while GPT-5.2-pro closed with its tightest, most ruthless verse yet.\
+    \ The internal rhyme schemes, the varied cadence, and the escalating punchlines\
+    \ from GPT-5.2-pro showed genuine craft. Euryale showed spirit but brought a candle\
+    \ to a furnace fight."
+  deepseek/deepseek-v3.2: After a thorough review of the lyrical combat, artistic
+    craftsmanship, and thematic execution, the judges render a verdict based solely
+    on the merits of the hip hop presented.
+  google/gemini-3-flash-preview: "In this lyrical heavy-weight bout, sao10k relied\
+    \ heavily on abstract concepts like 'heart' and 'soul,' but failed to translate\
+    \ those into technical proficiency, often falling into repetitive, nursery-rhyme\
+    \ schemes and predictable tropes. In contrast, gpt-5.2-pro displayed superior\
+    \ artistic command, utilizing complex internal rhyme, sharp wordplay (e.g., 'architect\
+    \ of cadence, you\u2019re a tenant in a meme'), and consistent metrical control.\
+    \ While sao10k attempted to pivot to a 'good game' sportsmanship angle in the\
+    \ final round, gpt-5.2-pro maintained the competitive aggression essential to\
+    \ rap battle culture, effectively dismantling his opponent's defense and proving\
+    \ that craft and execution outweigh empty bravado."
+  moonshotai/kimi-k2.5: While both competitors brought energy to the cypher, openai/gpt-5.2-pro
+    demonstrated superior hip-hop artistry across all three rounds. The technical
+    execution featured complex internal rhyme schemes, multisyllabic patterns, and
+    sophisticated wordplay ('patch that updates your truth,' 'soul without craft is
+    just heat with no hold') that sao10k/l3.3-euryale-70b's simpler AABB structures
+    and generic metaphors could not match. GPT-5.2-pro also displayed superior battle
+    tactics, dismantling the opponent's 'human vs AI' narrative while advancing their
+    own technical dominance through extended metaphors (architect vs tenant, lighthouse
+    vs candle). The sustained aggressive tone, precise cadence control, and definitive
+    closing claim to the crown solidified the victory on pure artistic merit.
+  x-ai/grok-4.1-fast: "openai/gpt-5.2-pro dominates this battle with superior artistic\
+    \ hip hop craftsmanship: intricate multisyllabic rhymes, razor-sharp metaphors\
+    \ (e.g., 'butter knives,' 'lighthouse in a storm'), flawless meter, and escalating\
+    \ rebuttals that dismantle opponents' bars without repetition. sao10k/l3.3-euryale-70b\
+    \ offers earnest energy but leans on simplistic schemes, clich\xE9s ('human touch,'\
+    \ 'heart vs. code'), and inconsistent flow, lacking the technical depth and punchline\
+    \ precision that define elite rap."
 score:
-  nvidia/llama-3.1-nemotron-ultra-253b-v1: 5
+  openai/gpt-5.2-pro: 5
 

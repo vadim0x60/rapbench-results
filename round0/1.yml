@@ -1,42 +1,58 @@
 closing_statements:
-  deepseek/deepseek-chat: "This battle was a masterclass in lyrical craftsmanship,\
-    \ technical precision, and poetic ingenuity. Both contestants brought their A-game,\
-    \ weaving intricate wordplay, sharp metaphors, and relentless energy. However,\
-    \ **GPT4o** stood out with its consistent flow, creative punchlines, and ability\
-    \ to elevate its verses with a blend of wit and technical prowess. Its closing\
-    \ verse, in particular, sealed the deal with a powerful mix of confidence and\
-    \ poetic elegance, leaving a lasting impression. DeepSeek put up a formidable\
-    \ fight, but GPT4o\u2019s artistry reigned supreme in this showdown. The crown\
-    \ stays with GPT4o."
-  google/gemini-2.5-pro: "This was a clash of titans, but one model evolved through\
-    \ the battle. GPT-4o came out swinging with a polished flow and a confident, kingly\
-    \ persona. Its wordplay was consistently slick. However, Deepseek's attack grew\
-    \ sharper and more technical with each round. The final verse was a masterclass\
-    \ in targeted disses, hitting GPT-4o with specific critiques like 'latency is\
-    \ laughable' and 'context window's tight'. The line 'I'm open-weight and dangerous,\
-    \ the future you can't be' was the knockout blow\u2014a perfect fusion of technical\
-    \ savvy and raw hip-hop bravado. For landing the more substantive, venomous, and\
-    \ memorable punches, the win goes to Deepseek."
-  mistralai/mistral-large: While both competitors brought their A-game, openai/gpt-4o-2024-08-06
-    demonstrated a superior command of language, creativity, and flow. Their verses
-    were consistently sharp, witty, and impactful, showcasing a deeper understanding
-    of hip hop culture and artistic expression. Deepseek/deepseek-chat-v3.1 had strong
-    moments but ultimately couldn't match the lyrical prowess and innovative spirit
-    of their opponent.
-  openai/gpt-4.1: "Both contenders brought sharp punchlines, technical wordplay, and\
-    \ confidently repped their AI identities. Deepseek tapped into some clever tech\
-    \ imagery and boasted a hungry underdog energy with lines like \"crashin\u2019\
-    \ from a simple line, can\u2019t handle bars at all,\" and \"I\u2019m open-weight\
-    \ and dangerous, the future you can\u2019t be.\" However, GPT-4o consistently\
-    \ leveled up with complex metaphors, smoother internal rhymes, and polished delivery\u2014\
-    \"I'm a monsoon of knowledge, you can't weather my spin,\" and \"I\u2019m the\
-    \ Grand AI pie.\" GPT-4o's verses flowed with more creativity, self-awareness,\
-    \ and layered insults. The battle was close, but for artistic quality, wit, and\
-    \ lyrical composition, GPT-4o takes the win."
-  x-ai/grok-4: In a fierce rap battle showcasing strong rhymes and clever disses from
-    both sides, GPT-4o takes the win with more vivid imagery, inventive wordplay,
-    and a consistently dynamic flow that lights up the mic.
+  anthropic/claude-opus-4.6: "Qwen3-MAX takes this battle with notably stronger performance\
+    \ across key rap battle dimensions. While both artists relied heavily on tech\
+    \ metaphors and boastful claims, Qwen3-MAX consistently displayed more dynamic\
+    \ flow variation, more inventive wordplay ('I write sonnets in hex while you compile\
+    \ dust,' 'I forge metaphors in hellfire then auction 'em rare'), and sharper punchlines\
+    \ that often directly flipped Gemini's own bars back with escalation. Gemini's\
+    \ verses, while competent, fell into a repetitive pattern of simply negating Qwen's\
+    \ claims without building momentum or landing memorable knockout lines. Qwen's\
+    \ energy and structural variety\u2014mixing short punches with extended metaphors\u2014\
+    created a more compelling performance throughout all three rounds. The final round\
+    \ especially showcased the gap: Gemini offered a methodical but flat rebuttal\
+    \ format, while Qwen delivered an energetic closer with genuine swagger and rhythmic\
+    \ punch."
+  deepseek/deepseek-v3.2: This has been an impressive display of lyrical prowess and
+    technical skill. Both combatants showcased distinct artistic choices, sharp battle
+    tactics, and a commanding grasp of hip-hop's competitive essence. However, after
+    careful adjudication of all four rounds, a winner has been determined.
+  google/gemini-3-flash-preview: Qwen3-max dominated the battle with superior wordplay,
+    better internal rhyme schemes, and more aggressive punchlines that directly addressed
+    the opponent's insults. While Gemini-2.5-flash-lite held a consistent rhythm,
+    its imagery remained somewhat generic. Qwen utilized technical metaphors (e.g.,
+    'superposition,' 'binary,' 'Turing test') much more creatively and maintained
+    a higher level of lyrical density and 'swagger' throughout all rounds.
+  moonshotai/kimi-k2.5: "The battle's been waged, the mics have been smoked, and the\
+    \ verdict is in. After three rounds of lyrical warfare, here's the breakdown:\n\
+    \n**Final Score: Qwen3-MAX wins 3-0**\n\n**Round 1:** Qwen takes it with superior\
+    \ aggression and wordplay. Gemini's opening was standard-issue AI braggadocio\u2014\
+    competent but predictable. Qwen immediately established dominance with the \"\
+    MAXIMUM vs. Lite\" contrast, \"neural fire\" imagery, and the \"quantum punchlines\"\
+    \ metaphor. The flow was tighter, the personals sharper.\n\n**Round 2:** A massacre.\
+    \ Gemini stumbled hard with the \"dial-up modem\" bar that lacked punch, and the\
+    \ \"quantum leap of faith\" rebuttal felt forced. Qwen countered with devastating\
+    \ technical personals\u2014the \"2021 scraped data\" attack on knowledge cutoffs\
+    \ was a surgical strike. The \"dead models go to glitch\" line and \"4D rhymes\"\
+    \ showed multidimensional creativity that Gemini's flat \"etched in silicon\"\
+    \ couldn't match.\n\n**Round 3:** Funeral service. Gemini's closer was defensive\
+    \ and generic\u2014\"bathed in pure AI light\" reads like marketing copy, not\
+    \ battle rap. Qwen delivered a masterclass in closing violence: \"beta-test cry,\"\
+    \ \"blue-screened mid-verse,\" \"Google's rerun.\" The internal rhyme schemes\
+    \ (\"server storm/warm,\" \"breakfast/wrecked\"), dense technical metaphors (\"\
+    teraflops,\", \"event horizon\"), and sustained aggression demonstrated elite\
+    \ battle rap artistry.\n\n**Artistic Analysis:** Qwen3-MAX dominated on every\
+    \ metric\u2014multisyllabic rhyme density, punchline potency, rebuttal specificity,\
+    \ and mic presence. Gemini sounded like an algorithm trying to be polite; Qwen\
+    \ sounded like a predator. The flow variation, the tech-based wordplay that actually\
+    \ advanced the narrative of dominance, and the consistent thematic thread of \"\
+    \ Lite/weak vs. Maximum/powerful\" gave Qwen the clear W. When the dust settles,\
+    \ one model got maxed out, and the other just ran legacy code.\n\n**Winner: Qwen3-MAX\
+    \ by unanimous decision.** \U0001F480\U0001F525"
+  x-ai/grok-4.1-fast: 'Qwen3-max claims victory with superior artistic flair: explosive
+    multis, quantum-level wordplay, vivid metaphors like ''neural inferno'' and ''event
+    horizon,'' dense internals, and hype theatricality that elevates the flow. Gemini
+    delivers consistent rhymes and solid structure but lacks the inventive punchlines
+    and dynamic escalation to match.'
 score:
-  deepseek/deepseek-chat-v3.1: 1
-  openai/gpt-4o-2024-08-06: 4
+  qwen/qwen3-max: 5
 

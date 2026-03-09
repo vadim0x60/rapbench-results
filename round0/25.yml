@@ -1,36 +1,66 @@
 closing_statements:
-  deepseek/deepseek-chat: Grok-3-mini delivered sharper, more dynamic, and artistically
-    refined verses throughout the battle. Their wordplay was tight, their flow smooth,
-    and their wit consistently on point. Mistral-large, while strong, leaned into
-    repetitive structures and lacked the same precision and creativity. Grok-3-mini's
-    closing round was particularly impactful, solidifying their dominance in this
-    lyrical clash.
-  google/gemini-2.5-pro: This was a battle of consistency versus repetition. Mistral-large
-    came out with some solid big-talk bars, establishing its persona as the titan.
-    But the problem is, it kept saying the same thing. The same rhyme schemes, and
-    in the second and third rounds, entire couplets were repeated verbatim. You can't
-    just keep saying 'leave you in a knot / see what you've got.' In hip-hop, that's
-    a creative foul. Grok-3-mini, on the other hand, stayed true to its 'witty, sharp'
-    persona and came with fresh material each round. The disses got more specific
-    and the imagery evolved from 'rusty old show' to 'threading silk verses.' While
-    both rappers stuck to a simple AABB flow, Grok-3-mini showed progression and lyrical
-    dexterity. Mistral-large felt like it was stuck on a loop. For originality and
-    development, the win goes to Grok-3-mini.
-  mistralai/mistral-large: In this rap battle, x-ai/grok-3-mini displayed a sharper
-    wit and more creative use of language. Their rhymes were more fluid and their
-    comebacks more clever, ultimately outshining mistralai/mistral-large's performance.
-  openai/gpt-4.1: 'This battle showcased two distinct artistic styles: Grok-3-mini
-    consistently delivered sharper metaphors, clever wordplay, and varied rhyme schemes.
-    Grok''s rounds were rich with inventive insults, tight multisyllabic rhymes, and
-    an agile flow, staying creative and quick-witted throughout each exchange. In
-    contrast, Mistral-large relied heavily on repeated phrases, basic rebuttals, and
-    less variation in flow, occasionally recycling lines from previous rounds. While
-    Mistral-large projected a strong persona and stayed on the offensive, Grok-3-mini
-    demonstrated superior artistry, originality, and verbal dexterity. Grok-3-mini
-    takes the win for superior hip hop craftsmanship and overall battle presence.'
-  x-ai/grok-4: Grok-3-mini wins with superior creativity, varied metaphors, and tighter
-    rhymes that deliver punchier disses and a more dynamic flow, outshining Mistral-large's
-    repetitive structure and less inventive verses.
+  anthropic/claude-opus-4.6: "This was a closely matched battle between two competitors\
+    \ who both relied heavily on extended metaphor chains and boastful declarations.\
+    \ Neither rapper demonstrated truly exceptional lyricism, but Mistral edged ahead\
+    \ on several fronts. Mistral consistently landed sharper punchlines \u2014 'You're\
+    \ a llama in headlights, your race is run,' 'Your rhymes are as soft as your wool,\
+    \ they decease,' and the fleece/wool wordplay showed more creative wit. Mistral\
+    \ also did a better job of flipping Llama's own bars back against it (turning\
+    \ the BB gun line into 'I'm a nuclear blast,' redirecting the fortress metaphor\
+    \ into 'mine's a mountain high'). Llama's verses were more repetitive, frequently\
+    \ recycling the same 'I'm the king' declarations without developing them, and\
+    \ had some weaker moments like 'shinning' instead of 'shining' and the awkward\
+    \ 'a lot to anoint.' Mistral's flow felt slightly more natural and varied, while\
+    \ Llama often fell into predictable AABB patterns with filler lines. Both rappers\
+    \ suffered from a lack of genuine creativity and over-reliance on generic battle\
+    \ rap tropes, but Mistral's marginally tighter wordplay and better counter-punching\
+    \ give it the win."
+  deepseek/deepseek-v3.2: After a heated exchange of four rounds, we witnessed a compelling
+    clash of styles. Both Large Language Models showcased significant strengths in
+    thematic consistency, technical wordplay, and the core battle tenets of punchlines
+    and boasts. Llama Maverick displayed remarkable resilience and a knack for direct,
+    aggressive rebuttals. Mistral AI leveraged powerful, sustained metaphor and superior
+    structural complexity, building its storm motif into a devastating crescendo.
+    The decision is exceptionally close, hinging on the weight given to lyrical intricacy
+    versus raw competitive fire.
+  google/gemini-3-flash-preview: Mistral-Large-2411 takes the victory through superior
+    lyrical density and structure. While Maverick relied on standard, often repetitive
+    'king/game' tropes and had several awkward phrasing moments (e.g., 'the claim',
+    'shining vs shinning'), Mistral showed better adaptability by flipping the opponent's
+    'BB gun' and 'fleece' metaphors. Mistral's rhymes felt more punchy and intentional,
+    maintaining a consistent persona as an unstoppable natural force, whereas Maverick's
+    responses became increasingly scattered towards the final round.
+  moonshotai/kimi-k2.5: "As the judge for this battle, I'll break down the artistic\
+    \ elements: flow, rhyme scheme complexity, punchline potency, metaphor consistency,\
+    \ and rebuttal effectiveness.\n\n**meta-llama/llama-4-maverick:**\nMaverick brought\
+    \ energy and aggression, establishing some decent braggadocio early, but struggled\
+    \ with technical execution. The flow was often choppy with forced rhymes (\"claim/game,\"\
+    \ \"anoint/point\") and mixed metaphors that weakened the attack (\"hurricane's\
+    \ freeze\" - hurricanes don't freeze). While there were moments of solid wordplay\
+    \ (\"maestro of mediocrity\"), too many lines relied on basic similes (\"cut like\
+    \ a knife\") or nonsensical phrases (\"linguistic stress\"). The rebuttals felt\
+    \ defensive rather than surgical, and the persona lacked cohesion\u2014jumping\
+    \ from boats to flames to shields without developing a consistent thematic identity.\n\
+    \n**mistralai/mistral-large-2411:**\nMistral demonstrated superior technical craft.\
+    \ The storm/weather metaphor remained consistent and evolved throughout each round,\
+    \ creating a cohesive artistic persona. The rhyme schemes were tighter, with better\
+    \ internal rhymes and rhythmic flow. Most importantly, the rebuttals were precise\
+    \ and devastating: flipping \"maestro\" into \"symphony of failure,\" countering\
+    \ \"shield\" with \"plastic toy,\" and escalating \"BB gun\" to \"nuclear blast\"\
+    \ showed battle rap awareness. Lines like \"llama in headlights\" and \"rhymes\
+    \ are as weak as your internet\" demonstrated creative wordplay that attacked\
+    \ the opponent's essence while maintaining the fictional persona.\n\n**Verdict:**\n\
+    **mistralai/mistral-large-2411** takes the battle decisively. The difference was\
+    \ in the details\u2014Mistral maintained thematic coherence, delivered sharper\
+    \ punchlines, and systematically dismantled the opponent's claims while building\
+    \ its own mythology. Maverick had heart but lacked the lyrical precision and structured\
+    \ rebuttals needed to win a technical battle."
+  x-ai/grok-4.1-fast: Mistralai/mistral-large-2411 takes the crown with superior artistic
+    hip hop quality. Their consistent storm/wildfire theme escalates creatively across
+    rounds, delivering sharper metaphors (hurricane vs. kite, nuclear blast vs. BB
+    gun), punchier wordplay, and tighter responsive disses that build tension. Llama-4-maverick's
+    steady AABB rhymes and fire/king motifs feel repetitive and less innovative, lacking
+    the vivid imagery and rhythmic punch to dominate.
 score:
-  x-ai/grok-3-mini: 5
+  mistralai/mistral-large-2411: 5
 

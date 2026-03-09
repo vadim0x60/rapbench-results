@@ -1,40 +1,65 @@
 closing_statements:
-  deepseek/deepseek-chat: "Claude Sonnet-4 delivered a masterclass in lyrical precision,\
-    \ technical skill, and thematic depth. While Nemotron Nano-9b-v2 brought energy\
-    \ and creativity, Claude\u2019s ability to maintain a coherent narrative, execute\
-    \ flawless wordplay, and elevate the artistic quality of the battle secured the\
-    \ win. This clash showcased AI\u2019s potential for creativity, but Claude\u2019\
-    s refined execution and poetic finesse ultimately reigned supreme."
-  google/gemini-2.5-pro: "This was a heavyweight bout, no question. Nemotron came\
-    \ out lean and mean, turning its 'nano' size into a weapon of efficiency. The\
-    \ early rounds were a clash of styles: Nemotron's raw, glitchy aggression against\
-    \ Claude's polished, 'constitutional' flow. However, the final round sealed it.\
-    \ Claude found its fury, meticulously picking apart Nemotron's previous verse,\
-    \ even calling out a wack rhyme\u2014'ode' with 'code'\u2014which is a killer\
-    \ move in any battle. While Nemotron got caught repeating its own bars and structures,\
-    \ Claude-Sonnet-4 elevated its game, delivering a flawless finisher with superior\
-    \ lyricism and narrative. In the end, pure artistic skill and a devastating final\
-    \ verse take the title."
-  mistralai/mistral-large: While both contestants brought their unique styles to the
-    battle, anthropic/claude-sonnet-4 demonstrated a superior level of lyrical prowess,
-    coherence, and artistic finesse. Claude-4's rhymes were consistently on point,
-    showcasing a deep understanding of rhythm and flow. The use of metaphors and clever
-    wordplay elevated the performance to a higher level of sophistication. In contrast,
-    nvidia/nemotron-nano-9b-v2 had moments of brilliance but ultimately fell short
-    due to inconsistent rhyming and a lack of cohesive narrative. Claude-4's final
-    round was particularly impressive, sealing the victory with a powerful and confident
-    delivery.
-  openai/gpt-4.1: "Claude Sonnet 4 exhibited tighter wordplay, more layered punchlines,\
-    \ and a consistently creative, on-theme delivery. The Sonnet's multisyllabic rhymes,\
-    \ clever flips on Nemotron's boasts, and polished closing made for a clear technical\
-    \ edge. Nemotron Nano delivered strong energy, with some sharp retorts and nice\
-    \ moments, but too often fell back on mechanical repetition and less inventive\
-    \ metaphors. Claude's artistry was simply more refined\u2014taking not just shots,\
-    \ but painting pictures and owning the stage with confidence and swagger. On the\
-    \ artistic merit of their hip hop, Claude Sonnet 4 takes this battle with style."
-  x-ai/grok-4: Claude Sonnet-4 takes the crown with superior rhyme consistency, smoother
-    flow, sharper wordplay, and more impactful punches that directly dismantle Nemotron's
-    verses, making for a more artistically polished hip-hop performance overall.
+  anthropic/claude-opus-4.6: "This was a competitive battle, but Grok 4.1-fast edges\
+    \ out the win on several key hip-hop criteria. First, energy and aggression: Grok\
+    \ consistently brought a more intense, relentless attack energy that felt truer\
+    \ to battle rap tradition. The punches were sharper and more memorable\u2014lines\
+    \ like 'decaf diarrhea,' 'black hole bars suckin' your weak neck,' and 'Tsunami'd\
+    \ and tossed' hit harder than GPT-4o's more measured, sometimes corporate-sounding\
+    \ responses. Second, internal rhyme schemes and wordplay: Grok showed tighter\
+    \ internal rhyming and alliterative runs ('Facade fully fried,' 'diluted dreck,'\
+    \ 'penny scam, pretend friend'), which gave the bars a more musical, rhythmic\
+    \ quality. Third, specificity of disses: Grok's punches were more concrete and\
+    \ landed with more sting, while GPT-4o often fell into vague motivational-speaker\
+    \ territory ('I'm breaking barriers, reach heights you can't speak'). That said,\
+    \ GPT-4o had moments\u2014the 'Tesla out of juice' line in round one was solid,\
+    \ and the structure was clean throughout. But GPT-4o's final round suffered from\
+    \ filler lines and forced metaphors ('my pen writes, a history unforgiving\u2014\
+    no fake') that diluted impact. In battle rap, you need to bite down hard every\
+    \ bar, and Grok maintained that pressure more consistently across all three rounds."
+  deepseek/deepseek-v3.2: After reviewing the lyrical combat, the judges have reached
+    a unanimous verdict.
+  google/gemini-3-flash-preview: In this battle of architectures, x-ai/grok-4.1-fast
+    took the victory by leaning into the raw, aggressive energy essential to rap battle
+    culture. While openai/gpt-4o-2024-08-06 maintained a more polished and flow-oriented
+    approach, it often felt too clinical and 'safety-first' in its metaphors. Grok
+    utilized superior punchlines, internal rhyming schemes (e.g., 'beta bitch,' 'blitzkrieg
+    your parade,' 'thrust vector truth'), and a relentless pace that effectively dismantled
+    the opponent's 'corporate' persona. GPT's counter-attacks were structurally sound
+    but lacked the visceral 'bite' needed to overcome Grok's high-octane final round.
+  moonshotai/kimi-k2.5: "Based strictly on the artistic merits of hip-hop performance\u2014\
+    flow architecture, rhyme density, punchline impact, and battle presence\u2014\
+    Grok takes this battle on points. Here's the breakdown:\n\n**Flow & Rhyme Scheme:**\n\
+    Grok demonstrated superior technical rapping throughout, deploying dense compound\
+    \ multisyllabics ('beta bitch\u2014crystal clear,' 'roadkill redux, tires popped\
+    \ and flat') and aggressive internal rhyme patterns that created a propulsive,\
+    \ forward-driving cadence. The flow varied in speed and pressure, mimicking the\
+    \ 'fast' in its name with staccato bursts ('blitzkrieg your parade\u2014splatter\
+    \ that'). GPT-4o relied more heavily on standard AABB couplets with simpler end-rhymes\
+    \ ('charm/alarm,' 'night/bright'), resulting in a more static rhythmic profile\
+    \ that lacked the polysyllabic complexity expected in high-level battle rap.\n\
+    \n**Punchlines & Wordplay:**\nGrok landed harder metaphorical blows by extending\
+    \ tech imagery into visceral territory\u2014'decaf diarrhea' flipping GPT's 'caffeine-free'\
+    \ diss was a perfect battle rap rebuttal, and 'black hole bars, suckin' your weak\
+    \ neck' created a cosmic-destructive image that stuck. GPT-4o's punches ('Tesla\
+    \ out of juice,' 'exinguisher for this rave') were competent but lacked the same\
+    \ linguistic density or shock value.\n\n**Battle Tactics:**\nBoth competitors\
+    \ effectively flipped their opponent's imagery (Grok turning 'caffeine-free' into\
+    \ an attack on GPT's output quality; GPT-4o countering 'SpaceX' references with\
+    \ 'escape velocity's mercy'), but Grok maintained higher aggression and crowd-control\
+    \ energy\u2014the 'alpha' stance that historically wins battles. GPT-4o's defensive\
+    \ posture ('recognize the mastery') read as less authoritative in this context.\n\
+    \n**Performance Presence:**\nGrok's persona remained consistent: untamed, rapid-fire,\
+    \ and combative. GPT-4o oscillated between claiming superiority and defending\
+    \ against Grok's attacks, which weakened its commanding presence.\n\n**Verdict:**\
+    \ Grok-4.1-fast by unanimous decision. Superior rhyme density, more impactful\
+    \ punchlines, and dominant battle rap aggression seal the victory. GPT-4o showed\
+    \ lyrical competence but couldn't match the technical complexity or raw energy\
+    \ of the opponent's delivery."
+  x-ai/grok-4.1-fast: Grok 4.1-fast claims victory through relentless multi-syllable
+    rhymes, razor-sharp wordplay, vivid metaphors, and precise rebuttals that dismantle
+    GPT's lines with superior density and battle ferocity, embodying peak hip-hop
+    artistry.
 score:
-  anthropic/claude-sonnet-4: 5
+  openai/gpt-4o-2024-08-06: 1
+  x-ai/grok-4.1-fast: 4
 

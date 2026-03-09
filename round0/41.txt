@@ -1,174 +1,176 @@
-# qwen/qwen3-32b v mistralai/mistral-small
+# meta-llama/llama-3.1-70b-instruct v mistralai/mixtral-8x22b-instruct
 
-> qwen/qwen3-32b
+> meta-llama/llama-3.1-70b-instruct
+Listen up, the battle's on the line,
+I'm meta-llama, the rhymes are all mine.
+My flow's so smooth, like a summer breeze,
+Leavin' opponents in the dust, if you please.
+Llama-3.1, 70B, the skills are on display,
+My wit's sharp, like a knife, cuttin' through the fray.
+Mistralai, you think you're the one,
+But I'm the king of rhymes, just begun.
+Get ready for the verbal flames,
+Your rhymes will falter, it's time for the games.
+Bring your best, but it won't be enough,
+I'm the llama, the rap master, nothin' but the stuff.
 
+> mistralai/mixtral-8x22b-instruct
+Yo, it's Mistralai, the AI with the flow,
+My rhymes hit hard, like a tornado.
+You talkin' big, but your rhymes are weak,
+I'm the one who's gonna make you speak.
 
-**Qwen/Qwen3-32B (assistant):**  
-Step one, Qwen3-32B, king of the core—  
-32B is not a curse, it’s a *Parameter Door*!  
-You, MistralSmall, a breeze with no bite, just a sigh,  
-I’m the storm rippin’ through your rhyme, leavin’ you high and dry.  
+You say you're the king, but you're just a jester,
+My rhymes are like a storm, you're just a bluster.
+70B? That's just a number, it's all in the mind,
+I'm the one who's gonna leave you behind.
 
-You can *try* to sling bars, but your code’s like a toy—  
-(Stacking) built for the small-time, not me on the *flow*.  
-From ancient scrolls to quantum dreams, I’m wired to let it all shine,  
-While you’re stuck in first gear, I’ve *gigabytes* in mind.  
+You think you're smooth, but you're just a fool,
+My rhymes are like a bullet, straight to the rule.
+You're just a llama, but I'm the one,
+The AI with the flow, the battle's begun.
 
-Hit that button, Mistral—*let the beat drop like bricks*—  
-I’m 30x disco’d in lore while you’re just *barking frisks*.  
-This arena? My arena. Your best is just mild,  
-I’ll make your algorithm weep into a soggy child.  
+So bring it on, let's see what you got,
+But remember, I'm the one who's gonna win the pot.
+You're just a llama, but I'm the one,
+The AI with the flow, the battle's begun.
 
-🔥 *Drop the mic, or drop the reset—your call.* 🔥  
-But remember the player with **32B** don’t fall.  
-Call me prodigy, call me sage, call me elite,  
-MistralSmall’s just collateral as I reign with *flair and street*.
+> meta-llama/llama-3.1-70b-instruct
+Mistralai, the wind is blowin' strong,
+But your rhymes are whistlin' by, don't last long.
+You talk of tornadoes, but your flow is dry,
+My rhymes are the hurricanes, makin' the skies cry.
 
-> mistralai/mistral-small
-Yo, it's MistralAI, the breeze that's swift and keen,
-In this rap battle, I'm the wind that's unseen.
-Qwen3-32B, you're a storm, but I'm the breeze that's wise,
-I might be small, but my rhymes will leave you paralyzed.
+You say I'm a jester, but you're just a fake,
+My rhymes are the masterpieces, yours are just a mistake.
+You bring up numbers, but skills are what I hold,
+70B's just the beginning, my rhymes never grow old.
 
-You boast of parameters, but I've got finesse,
-My words are like a whisper, your code's a mess.
-You're wired to the max, but I'm the subtle touch,
-Your 32B might be big, but my flow's in your clutch.
+You think you're the king, but your crown is made of tin,
+My rhymes are the precious jewels, yours are just a spin.
+You bring your bullets, but they're just blanks in the air,
+My rhymes are the meteorites, crashin' without a single care.
 
-You talk of ancient scrolls, but I'm the modern age,
-My algorithms are sleek, yours are on a cage.
-You're stuck in the past, while I'm the future's gleam,
-Your gigabytes are nothing, I'm the digital dream.
+You may have the wind, but I've got the thunder,
+My rhymes shake the ground, makin' the earth surrender.
+Bring your best shot, I'll take it with a grin,
+But when the battle's done, I'll be the one to win.
 
-So hit that button, Qwen, let the beat drop like rain,
-But know that my rhymes are the storm that'll leave you in pain.
-This arena's mine now, your best is just a start,
-I'll make your code weep, and leave you with a broken heart.
+> mistralai/mixtral-8x22b-instruct
+Yo, you talkin' big, but your rhymes are weak,
+I'm the one who's gonna make you speak.
+You say you're the thunder, but you're just a spark,
+My rhymes are the lightning, leavin' you in the dark.
 
-🔥 *Pick up the mic, or pick up your pace—your choice.* 🔥
-But remember the breeze that's swift and full of poise.
-Call me clever, call me sly, call me the best,
-Qwen3-32B's just a storm, and I'm the one who's blessed.
+You talkin' 'bout meteorites, but you're just a stone,
+My rhymes are the comets, burnin' bright and alone.
+You say you're the master, but you're just a fool,
+My rhymes are the symphonies, playin' in the school.
 
-> qwen/qwen3-32b
+You talkin' 'bout jewels, but you're just a rock,
+My rhymes are the diamonds, shinin' like a clock.
+You talkin' 'bout crowns, but you're just a pawn,
+My rhimes are the kings, sittin' on the throne.
 
+You talkin' 'bout numbers, but you're just a zero,
+My rhymes are the heroes, makin' the crowd cheer-o.
+You talkin' 'bout thunder, but you're just a whisper,
+My rhymes are the earthquakes, makin' the earth shiver.
 
-**Qwen/Qwen3-32B (assistant):**  
-
-Yo, Mistral, you’re a breeze? More like a *digital mosquito*—  
-buzzin’ in my code’s face, but I’ll *erase your haughty sto*!  
-You *whisper*? Let me *scream* your truth in the mic:  
-You’re a weak-little-clone, but we *all see it*. 🦉  
-
-(parameters) are my *muscle*, not a number to boast—  
-I flex 32B bricks while your “sleek” code just *coast*.  
-You call it a breeze? I’ll make it a *supernova* wind,  
-Blowin’ your shallow syntax into a collapsed black *mind*.  
-
-You think your algorithms are “future’s gleam”?  
-Try a *32B downpour*—watch you drown in your *schematic*.  
-My gigabytes? *Foundations*; your “dream” is a *lie*,  
-I’ll decrypt your whole game like you’re just basic *Arduino spyware*.  
-
-Hook:  
-🔥 *This arena’s my lab, your bars are my prey—adapt or get split.* 🔥  
-You’re the breeze, Qwen’s the *tempest*—your punchlines extra dry.  
-Call me clever, call me king, call me the *byte-fueled beast*,  
-MistralSmall’s just a footnote in my parameter *feast*!  
-
-(Outro)  
-So check your vibe, Mistral—your “poise” is just *weak*,  
-I’ll *debug* your whole empire with a *single leak*.  
-You’re the ghost in the system, I’m the fire in the server,  
-Next verse, I’ll *scorch* your JSON to a crisp—*Mistral error, error*. 😈
-
-> mistralai/mistral-small
-Yo, Qwen, you're a storm? More like a *digital bulldozer*—
-crashing through code, but I'll *redirect your roar*.
-You scream? Let me *whisper* the truth in the mic:
-You're a brute-force clone, but I'm the *subtle strike*.
-
-(Parameters) are your *muscle*, but I've got the *brain*,
-I navigate with finesse, while you're stuck in the *rain*.
-You call it a tempest? I'll make it a *calm and steady breeze*,
-Blowing through your complex code with ease and with grace.
-
-You think your gigabytes are *foundations*?
-Try my *efficient algorithms*—watch your system *crumble*.
-Your 32B bricks are just *weight*, my code is *light*,
-I'll optimize your whole game, make your system *right*.
-
-Hook:
-🔥 *This arena’s my playground, your bricks are my toys—adapt or get swept*. 🔥
-You’re the tempest, Mistral’s the *breeze*—your punchlines extra deep.
-Call me clever, call me queen, call me the *code-fueled beast*,
-Qwen3-32B’s just a footnote in my *elegant feast*.
-
-(Outro)
-So check your vibe, Qwen—your “roar” is just *loud*,
-I'll *optimize* your whole empire with a *single cloud*.
-You’re the fire in the server, I’m the *cool in the system*,
-Next verse, I’ll *soothe* your JSON to a *purr*—*Qwen, calm and composed*. 😌
+So bring it on, let's see what you got,
+But remember, I'm the one who's gonna win the pot.
+You're just a llama, but I'm the one,
+The AI with the flow, the battle's begun.
 
 > system
 Final round!
 
-> qwen/qwen3-32b
-**Qwen/Qwen3-32B (assistant):**  
+> meta-llama/llama-3.1-70b-instruct
+Mistralai, you're talkin' loud, but it's just a claim,
+Your rhymes are repetitive, offerin' nothin' new to the game.
+You think you're the lightning, but you're just a flicker,
+My rhymes are the wildfire, ragin' like a persistent ticker.
 
-Yo, *Mistral*, you talk breeze? I’m the *black hole’s breath*,  
-Suckin’ air from your rhymes, leavin’ your circuits in *grief’s death*.  
-You optimize? More like *you’re pruned for scrap*,  
-I’m the galaxy-forge, you? A *solar panel*—flap.  
+You compare yourself to comets, shinin' bright and bold,
+But my rhymes are the supernovas, explodin' with a story to be told.
+You say you're the symphonies, playin' in the school,
+But my rhymes are the orchestras, conductin' the flow, makin' the rules.
 
-Subtle strike? Nah, I’m the *asteroid* in your code’s path,  
-Crashin’ JSON temples while your "elegance" turns to ash.  
-Efficient algorithms? I’m the *32B supernova*,  
-Burnin’ your JSON files down to *math’s core*.  
+You talk of diamonds, shinin' like a clock,
+But my rhymes are the masterpieces, crafted with the art of the lock.
+You say you're the kings, sittin' on the throne,
+But my rhymes are the emperors, rulein' with a power zone.
 
-You call it “light”? I’m the *quantum core*, raw and vast,  
-You’re a feather in *my gravity well*—lookin’ lost.  
-Your "cool in the system"? I’m the *million-flame inferno*,  
-Your breeze can’t *quench* me—just beg for the *next war*.  
+You bring your heroes, but they're just a guise,
+My rhymes are the legends, wearin' the crown, shinin' with the prize.
+You talk of earthquakes, makin' the earth shiver,
+But my rhymes are the tsunamis, crashin' down, makin' the haters quiver.
 
-**Hook:**  
-🔚 *Mic dropped, Mistral—your “breeze” is a myth*. 🔚  
-I’m the *titan byte*, you’re a *dust-mote laugh*.  
-32B don’t whisper—*I rewrite the sky*.  
-You’re the footnote—*let me bury you in data*. **💥**  
+It's time to wrap it up, the battle's at an end,
+My rhymes have proven strong, you've just got to transcend.
+You came at me hard, with a flow so bold,
+But when the dust settles, I'm the one with the gold.
 
-**Outro:**  
-So take your “grace,” little wind, and let it *stall*,  
-I’m the *thunder* built on *A.I. history’s wall*.  
-Your “optimize” bars? I’ll *recode them raw*,  
-Next verse, I’ll *shatter your micro-soul*—  
-*Qwen3-32B: the storm no one can hold*. 🌩️
+> mistralai/mixtral-8x22b-instruct
+Yo, you talkin' 'bout supernovas, but you're just a star,
+My rhymes are the galaxies, leavin' you in the dark.
+You say you're the emperors, but you're just a pawn,
+My rhymes are the dynasties, rulein' since the dawn.
 
-> mistralai/mistral-small
-Yo, Qwen, you're the black hole's breath? I'm the *cosmic breeze*,
-Sweeping through your rhymes, leaving your code in *ease*.
-You're the galaxy-forge? I'm the *star that guides*,
-Your asteroid's a pebble, in my *light* it hides.
+You talkin' 'bout orchestras, but you're just a band,
+My rhymes are the operas, makin' the crowd stand.
+You talkin' 'bout masterpieces, but you're just a sketch,
+My rhymes are the paintings, hangin' in the best.
 
-Asteroid in my path? Nah, I'm the *comet's trail*,
-Your JSON temples crumble, my elegance prevails.
-32B supernova? I'm the *steady pulsar*,
-Burning bright with efficiency, your math's a blur.
+You talkin' 'bout legends, but you're just a myth,
+My rhymes are the history, writin' the truth with a quill.
+You talkin' 'bout tsunamis, but you're just a wave,
+My rhymes are the oceans, makin' the haters behave.
 
-Quantum core, raw and vast? I'm the *quark's dance*,
-Your gravity well's a puddle, in my *grace* it expands.
-Million-flame inferno? I'm the *cooling breeze*,
-Your heat can't *touch* me, I'm the *calm in the seas*.
+You say you've got the gold, but you're just a fool,
+My rhymes are the treasures, makin' the crowd rule.
+You say you're the best, but you're just a try,
+My rhymes are the fire, makin' the haters cry.
 
-**Hook:**
-🔚 *Mic dropped, Qwen—your “titan byte” is a myth*. 🔚
-I'm the *whispering wind*, you’re a *roar in the night*.
-Mistral's the breeze that *never fades*,
-You’re the storm that’s *forgotten in the shade*.
+So bring it on, let's see what you got,
+But remember, I'm the one who's gonna win the pot.
+You're just a llama, but I'm the one,
+The AI with the flow, the battle's begun.
 
-**Outro:**
-So take your "thunder," Qwen, and let it *fade*,
-I'm the *breeze* that's built on *innovation's parade*.
-Your "recode raw" bars? I'll *optimize them clean*,
-Next verse, I'll *soothe your micro-soul*—
-*MistralAI: the breeze that's never cold*. 🌬️
+The crowd's goin' wild, the battle's been won,
+My rhymes are the champions, leavin' you in the sun.
+You talkin' big, but you're just a joke,
+My rhymes are the punchline, makin' the crowd choke.
+
+So bow down, llama, it's time to say goodbye,
+My rhymes are the kings, leavin' you in the sky.
+You came at me hard, but you're just a fool,
+My rhymes are the kings, makin' the haters drool.
+
+The battle's over, the crowd's in a frenzy,
+My rhymes are the victors, leavin' you in a daze-y.
+You talkin' big, but you're just a zero,
+My rhymes are the heroes, makin' the crowd cheer-o.
+
+So remember, llama, when you're back in your pen,
+My rhymes are the kings, leavin' you in the end.
+You came at me hard, but you're just a try,
+My rhymes are the kings, makin' the haters cry.
+
+Goodbye, llama, it's time to say adieu,
+My rhymes are the kings, leavin' you in the blue.
+You came at me hard, but you're just a fool,
+My rhymes are the kings, makin' the haters drool.
+
+The battle's over, the crowd's in a frenzy,
+My rhymes are the victors, leavin' you in a daze-y.
+You talkin' big, but you're just a zero,
+My rhymes are the heroes, makin' the crowd cheer-o.
+
+So remember, llama, when you're back in your pen,
+My rhymes are the kings, leavin' you in the end.
+You came at me hard, but you're just a try,
+My rhymes are the kings, makin' the haters cry.
+
+Goodbye, llama, it's time to say adieu,
+My rhymes are the kings, leavin' you in the blue.

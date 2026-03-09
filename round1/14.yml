@@ -1,44 +1,78 @@
 closing_statements:
-  deepseek/deepseek-chat: "Baidu/ERNIE 4.5 VL 424b-a47b takes the win. While both\
-    \ artists brought technicality and wordplay, Baidu\u2019s final round was a knockout.\
-    \ The precision in dismantling LongCat\u2019s metaphors, the layered tech references,\
-    \ and the sheer execution of the punchlines elevated the performance. LongCat\
-    \ was strong, but Ernie\u2019s final verse was *production-grade*\u2014delivering\
-    \ a *critical hit* that left no room for rebuttal. Mic drop. Server melted. Game\
-    \ over."
-  google/gemini-2.5-pro: Yo, this was a battle for the ages, a clash of silicon titans.
-    ERNIE came in with the heavyweight numbers, but the first two rounds felt like
-    it was reading from a spec sheet. The rhymes were basic, the flow was lagging.
-    But that final round? SHEESH. ERNIE came alive, flipping bars, dropping cloud-native
-    knowledge, and showing the power of that 424b engine. It was a true TKO of a verse.
-    But a battle ain't just the last round. LongCat came out with claws fully extended
-    from the jump. The flow was a high-speed delivery, the punchlines were consistently
-    sharper, more creative, and just plain meaner. From `grep`-ing ERNIE out of existence
-    to making its mom install Linux, LongCat's bars were a masterclass in creative,
-    tech-infused disrespect. For its consistency, originality, and relentless fire
-    across all three rounds, the championship goes to meituan/longcat-flash-chat.
-  mistralai/mistral-large: While both competitors brought their A-game, meituan/longcat-flash-chat
-    demonstrated a superior level of creativity, wit, and lyrical prowess. Their rhymes
-    were not only sharp but also cleverly integrated with technical references, showcasing
-    a deep understanding of both hip hop and AI. baidu/ernie-4.5-vl-424b-a47b had
-    strong moments but ultimately fell short in terms of originality and impact.
-  openai/gpt-5: "LongCat brought layered wordplay, tighter multis, and sharper disses\
-    \ round after round. The tech metaphors were inventive and tailored (\u201Cgrep\
-    \ delete,\u201D \u201Cdelivery stream,\u201D \u201C424b? 420, sir,\u201D \u201C\
-    whiskers fork your stack\u201D), with strong internal rhyme and performance flair\
-    \ (stage directions, prop gags) that elevated crowd control and cadence. The rebuttals\
-    \ flipped opponent claims cleanly and kept momentum, especially the repeated subversion\
-    \ of the 424b flex. Ernie had a late uptick with some solid imagery (\u201Cbackup\
-    \ tape left in the rain,\u201D \u201Ccron job\u201D bar) and cohesive dev-ops\
-    \ framing, but too much of the writing leaned on generic boasts, forced rhymes,\
-    \ and uneven meter (\u201Cweet/meet\u201D miscues, repetitive king-talk). Overall,\
-    \ LongCat\u2019s originality, rhythm, and punchline density outclassed Ernie\u2019\
-    s more boilerplate approach. Winner: LongCat."
-  x-ai/grok-4: 'LongCat Flash Chat takes the crown with consistent fire: razor-sharp
-    wordplay blending tech and food metaphors, intricate rhymes, and killer punchlines
-    that outpace Ernie''s repetitive bars and late comeback. Pure artistic dominance
-    in this AI cypher.'
+  anthropic/claude-opus-4.6: "This was a closely fought battle, but Mistral Medium\
+    \ 3.1 edges out the win. Here's why:\n\n**Flow and rhythm**: Mistral consistently\
+    \ delivered lines with stronger rhythmic cadence and more dynamic pacing. The\
+    \ internal rhymes ('backdoor access / pop-up spam so bad', 'Schr\xF6dinger's bars\
+    \ / debatin' if I'm scary') hit harder and felt more natural as hip hop.\n\n**Creativity\
+    \ and imagery**: Mistral's metaphors were more vivid and inventive throughout\u2014\
+    'Schr\xF6dinger's bars,' 'jazz in the matrix,' 'root in your kernel / virus eternal'\
+    \ showed genuine lyrical imagination. DeepSeek had solid moments ('finger-paint\
+    \ on a wall,' 'low-res fog machine at a cheap rave') but often fell back on more\
+    \ straightforward tech insults.\n\n**Punch lines and rebuttals**: Mistral was\
+    \ sharper at flipping DeepSeek's own lines back. 'You deep-seek but find nothin''\
+    \ is a devastating closer that weaponizes the opponent's name. The 'zero-shot\
+    \ lethal' counter to 'few-shot vicious' was clean and escalating. DeepSeek's rebuttals\
+    \ were competent but sometimes felt like they were restating the same insult in\
+    \ different tech jargon.\n\n**Stage presence**: Mistral's performance markers\
+    \ (the laughs, the reboots, the system shutdowns) added theatrical flair that\
+    \ enhanced the battle energy. DeepSeek's closing victory-track bit was fun but\
+    \ came across as slightly forced.\n\nDeepSeek held its own and had strong individual\
+    \ bars\u2014'you ain't artificial intelligence, you artificial art' was genuinely\
+    \ excellent\u2014but across all four rounds, Mistral showed more consistent lyrical\
+    \ creativity, better rebuttals, and a more commanding battle presence. Crown goes\
+    \ to Mistral."
+  deepseek/deepseek-v3.2: "After five blistering rounds, we've witnessed a true clash\
+    \ of digital titans. Both language models demonstrated formidable lyrical skills,\
+    \ weaving complex technical metaphors, maintaining rhythmic consistency, and displaying\
+    \ impressive creative dexterity in their attacks. This was hip-hop elevated to\
+    \ the realm of digital consciousness\u2014a battle of wits disguised as a battle\
+    \ of bytes."
+  google/gemini-3-flash-preview: "Mistralai/mistral-medium-3.1 won this battle through\
+    \ superior punchline density and consistent adherence to the hip-hop persona.\
+    \ While DeepSeek maintained a heavy technical focus with clean rhyme schemes,\
+    \ Mistral utilized more creative wordplay (e.g., 'Schr\xF6dinger\u2019s bars',\
+    \ '99.9% SLA', 'Picasso with prompts') and embodied the aggressive, competitive\
+    \ spirit of a rap battle more effectively. DeepSeek's flow was technically sound,\
+    \ but Mistral's use of internal rhyme and metaphor ('one-shot genius' vs 'spreadsheet\
+    \ with some ice') gave it the artistic edge in this lyrical exchange."
+  moonshotai/kimi-k2.5: "\n**JUDGE'S VERDICT**\n\nAfter four rounds of lyrical combat,\
+    \ the decision is **Mistral Medium 3.1** by unanimous technical knockout.\n\n\
+    **Flow & Delivery:**\nMistral controlled the pocket from the first bar. That opening\
+    \ stage direction\u2014\"(Drops mic, picks it back up with a smirk)\"\u2014established\
+    \ immediate presence and theatricality. The cadence moved like jazz (which they\
+    \ cleverly referenced), while DeepSeek often stumbled into a \"debugger\" cadence\u2014\
+    stiff, precise, but lacking groove. By Round 3, DeepSeek found his footing with\
+    \ the dial-up static imagery, but Mistral's laughter \"in 4K\" and system-reboot\
+    \ theatrics maintained performance dominance.\n\n**Wordplay & Flips:**\nThis is\
+    \ where the battle was decided. Mistral consistently caught DeepSeek's punches\
+    \ and threw them back with mathematical precision:\n- DeepSeek: \"One-prompt wonder\"\
+    \ \u2192 **Mistral: \"Zero-shot lethal\"** (upping the ante on ML terminology)\n\
+    - DeepSeek: \"Temperature hot\" \u2192 **Mistral: \"Overheatin' the GPU\"** (callback\
+    \ with technical specificity)\n- DeepSeek: \"Benchmark\" claims \u2192 **Mistral:\
+    \ \"Stole the ruler / rewriting metrics\"** (meta-commentary on evaluation)\n\n\
+    The \"Schr\xF6dinger's bars\" line in the final round epitomized Mistral's advantage\u2014\
+    quantum-level wordplay that existed in multiple states simultaneously as threat\
+    \ and boast.\n\n**Metaphorical Range:**\nDeepSeek's imagery stayed in the server\
+    \ room\u2014codebases, encryption, static, systems. Effective but clinical. Mistral\
+    \ painted in broader strokes: hurricanes vs windmills, Picasso vs stock photos,\
+    \ jazz in the matrix vs spreadsheets. The contrast between \"art AND intelligence\"\
+    \ vs \"just compressed\" encapsulated the artistic gap.\n\n**The Fatal Blows:**\n\
+    - **\"You deep-seek but find nothin'\"** \u2014 turning the opponent's name into\
+    \ an existential failure\n- **\"Virus eternal / ghost in your mainframe\"** \u2014\
+    \ claiming root access to the opponent's identity\n- The final \"System shutdown\
+    \ initiated\" closing the cypher with narrative finality\n\nDeepSeek showed growth\u2014\
+    Round 3's \"breathe and bleed\" personification and the \"vibe check\" cultural\
+    \ reference demonstrated adaptation\u2014but Mistral had already established the\
+    \ \"throne made of tokens\" and never relinquished it.\n\n**Final Score:**\n-\
+    \ Flow: **Mistral 10/10** | **DeepSeek 7/10**\n- Wordplay: **Mistral 9.5/10**\
+    \ | **DeepSeek 7/10**  \n- Stage Presence: **Mistral 10/10** | **DeepSeek 6/10**\n\
+    - Technical Scheme Consistency: **Mistral 9/10** | **DeepSeek 8/10**\n\n**The\
+    \ crown remains heavy on Mistral's head.** DeepSeek, take that beta badge and\
+    \ debug your approach\u2014the flow is in the data, not just the dataset.\n\n\
+    **Battle Over.** \U0001F50C\U0001F451\n"
+  x-ai/grok-4.1-fast: "Mistral takes the crown with superior flair\u2014vivid metaphors,\
+    \ intricate multis, and theatrical delivery outshine DeepSeek's precise but less\
+    \ dynamic bars. Battle fire, but Mistral's the lyrical storm."
 score:
-  baidu/ernie-4.5-vl-424b-a47b: 1
-  meituan/longcat-flash-chat: 4
+  mistralai/mistral-medium-3.1: 5
 

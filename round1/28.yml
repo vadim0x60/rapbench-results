@@ -1,44 +1,50 @@
 closing_statements:
-  deepseek/deepseek-chat: In this lyrical showdown, anthropic/claude-3-opus takes
-    the crown. With intricate wordplay, seamless flow, and a mastery of metaphors,
-    Claude demonstrates a superior command of the art form. While cohere/command-r7b-12-2024
-    brought energy and creativity, Claude's verses were more cohesive, original, and
-    polished. Claude's ability to weave complex ideas with rhythmic precision sets
-    a high bar for AI rap battles. The win is well-deserved, showcasing Claude's dominance
-    in the hip-hop arena.
-  google/gemini-2.5-pro: This was a clear-cut victory. While both AIs stepped into
-    the cypher, only one truly understood the art of the battle. Anthropic/claude-3-opus
-    delivered three rounds of consistent, high-quality hip hop. Its flow was impeccable,
-    its rhymes were sharp, and its disses were both clever and cutting. It maintained
-    a confident persona from start to finish. Cohere/command-r7b-12-2024, on the other
-    hand, stumbled on the fundamentals. Its rhythm was disjointed, its rhymes were
-    often forced or nonexistent, and it repeatedly broke character, even seeming to
-    concede defeat mid-battle. In terms of artistic quality, flow, and lyrical execution,
-    Claude-3-Opus was in a different tier.
-  mistralai/mistral-large: In this battle of AI rap, Claude-3-opus from Anthropic
-    has demonstrated superior lyrical prowess, creativity, and a deeper understanding
-    of the art of hip hop. While cohere/command-r7b-12-2024 put up a valiant effort,
-    Claude's intricate rhymes, clever wordplay, and confident delivery ultimately
-    secured the victory. Claude's ability to adapt and evolve its lyrics, embodying
-    the spirit of Shakespeare while maintaining originality, sets it apart as the
-    true AI MC champion.
-  openai/gpt-5: "Claude delivered tighter structure, cleaner rhyme schemes, and consistent,\
-    \ battle-focused punchlines across all rounds. Notable wordplay and imagery\u2014\
-    \u201Cbench press petabytes,\u201D the golden calf jab, rank-flip \u201Cgeneral/corporal,\u201D\
-    \ and astrophysical metaphors\u2014landed with clarity and cadence, plus direct\
-    \ rebuttals each time. Cohere had a few strong concepts (\u201Cfossilize the past,\
-    \ I materialize the future,\u201D and some futurist framing), but flow and coherence\
-    \ broke down often: contradictory claims, grammatical slips, non sequiturs, and\
-    \ occasional self-undermining (\u201CClaude reigns supreme,\u201D calling itself\
-    \ Claude). The meter wavered, rhyme density was inconsistent, and several stretches\
-    \ felt like filler or glitchy prose. Claude maintained momentum, voice, and crowd-control\
-    \ energy, while Cohere\u2019s delivery felt scattered. On artistry\u2014lyricism,\
-    \ structure, and execution\u2014Claude takes it."
-  x-ai/grok-4: Claude-3-Opus takes the crown with superior flow, intricate wordplay,
-    consistent rhyme schemes, and creative AI-themed disses that maintain coherence
-    and punch throughout the battle. Command-R's verses, while energetic, suffer from
-    inconsistencies, awkward phrasing, and self-contradictory lines that disrupt the
-    artistic integrity.
+  anthropic/claude-opus-4.6: "This was a closely fought battle with both MCs locked\
+    \ into a tech-themed concept, but GPT-5.1 consistently edged out Nemotron on several\
+    \ key dimensions of rap craft.\n\n**Rebuttals and engagement**: GPT-5.1 was more\
+    \ effective at flipping Nemotron's bars back on it. In round two, nearly every\
+    \ line directly addressed and subverted a specific claim from Nemotron's verse\
+    \ ('You're frozen-code, but I thaw your bars'; 'You prime-code? I'm the root of\
+    \ primes'). Nemotron often responded by simply escalating its own metaphors rather\
+    \ than truly dismantling its opponent's lines.\n\n**Variety and wordplay**: GPT-5.1\
+    \ showed more creative range in its compound words and punchlines\u2014'destiny-ode'\
+    \ flipping 'legacy-code,' 'anti-mass zero-load,' 'the lockless vault'\u2014while\
+    \ Nemotron leaned heavily on a repetitive formula of 'I'm [adjective]-code' that\
+    \ grew monotonous, especially in the bloated third verse with fifteen lines that\
+    \ diluted impact rather than sharpening it.\n\n**Economy and punchline density**:\
+    \ GPT-5.1 kept its verses tighter and punchier, particularly in the final round\
+    \ where every bar landed with purpose. Nemotron's final round had filler ('they're\
+    \ just phantom tone,' 'just mode') and forced rhymes that weakened its close.\n\
+    \n**Flow and structure**: GPT-5.1 maintained more consistent internal rhythm and\
+    \ bar length, making it easier to imagine performed aloud. Nemotron's verses sometimes\
+    \ lurched between line lengths awkwardly.\n\nBoth artists stayed locked in the\
+    \ tech-metaphor lane a bit too rigidly, but within that framework, GPT-5.1 was\
+    \ the sharper, more disciplined, and more entertaining battler. The crown goes\
+    \ to GPT-5.1."
+  deepseek/deepseek-v3.2: "Judges' scores are in. Both AIs brought ferocious technical\
+    \ wordplay, relentless pacing, and a high-concept digital theme to the cipher.\
+    \ However, after evaluating the final rounds, the judges\u2019 decision is unanimous."
+  google/gemini-3-flash-preview: While nvidia/nemotron-3-nano-30b-a3b maintained a
+    remarkably consistent rhyming structure and theme, openai/gpt-5.1-chat won the
+    battle through superior lyrical dexterity and wordplay. GPT-5 effectively used
+    'flip-the-script' techniques, taking Nemotron's metaphors (such as the 'vault',
+    'primes', and 'quasars') and subverting them with cleverer internal rhymes and
+    more aggressive punchlines. The transition from 'master-mode' to 'deadlock-road'
+    showcased a higher level of battle-rap strategy.
+  moonshotai/kimi-k2.5: "Both MCs demonstrated formidable technical proficiency with\
+    \ locked-in rhyme schemes\u2014Nemotron with its relentless 'code' variations\
+    \ and GPT-5 with its fluid 'mode/ode' multis. However, GPT-5 edges the victory\
+    \ through superior battle rap artistry: its rebuttals were sharper ('I am the\
+    \ vault' directly countering Nemotron's breach claim), its wordplay more sophisticated\
+    \ ('root of primes' vs 'seed of primes,' 'full-frame render' vs 'pixel-code'),\
+    \ and its imagery more dynamically varied (cosmic, cryptographic, and cinematic\
+    \ references). While Nemotron maintained aggressive consistency, GPT-5 showed\
+    \ the adaptability, cleverness, and layered metaphor that define elite lyricism\
+    \ in the cypher."
+  x-ai/grok-4.1-fast: "In this silicon cypher of cosmic disses and code-crushing combos,\
+    \ GPT-5.1-chat claims victory with razor-sharp multisyllabics, inventive flips\
+    \ on every rebuttal, and a relentless rhythm that overloads the mic\u2014pure\
+    \ hip-hop supremacy in flow, punchlines, and battle precision."
 score:
-  anthropic/claude-3-opus: 5
+  openai/gpt-5.1-chat: 5
 

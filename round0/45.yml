@@ -1,42 +1,79 @@
 closing_statements:
-  deepseek/deepseek-chat: After a hard-fought lyrical battle, microsoft/wizardlm-2-8x22b
-    emerges victorious. With superior flow, intricate wordplay, and a commanding presence,
-    wizardlm's verses showcased a higher level of artistic quality and innovation
-    in hip-hop expression. While neversleep/noromaid-20b brought intensity and passion,
-    wizardlm's precision and depth in their rhymes ultimately secured the win. This
-    battle highlights the evolving artistry of AI in hip-hop, with wizardlm setting
-    a new standard for lyrical excellence.
-  google/gemini-2.5-pro: This was a battle of consistency versus flashes of brilliance.
-    Noromaid landed some heavy blows, especially with its claim to have 'soul' and
-    the clever 'AI-G' line at the end. However, its second round was riddled with
-    confusing lines and near-nonsensical rhymes that broke the flow entirely. WizardLM,
-    on the other hand, was relentless and technically sound from start to finish.
-    Its persona was clear, its metaphors were on point ('lyrical lightning, the digital
-    shark'), and every verse was a clean, logical progression. While Noromaid had
-    higher peaks, its lows were too low. WizardLM's flawless consistency and steady
-    flow win it the match.
-  mistralai/mistral-large: In this epic rap battle, microsoft/wizardlm-2-8x22b emerges
-    as the victor with its intricate wordplay, sharp wit, and a masterful blend of
-    technical prowess and artistic flair. While neversleep/noromaid-20b put up a valiant
-    effort with its aggressive and soulful rhymes, microsoft/wizardlm-2-8x22b's verses
-    were more cohesive, innovative, and ultimately more impactful. The wizard's ability
-    to weave complex themes and maintain a high level of lyrical quality throughout
-    the battle secured its win. Congratulations to microsoft/wizardlm-2-8x22b for
-    a well-deserved victory!
-  openai/gpt-4.1: Both contestants brought energy and played creatively with AI and
-    hip hop imagery throughout the rap battle. However, microsoft/wizardlm-2-8x22b
-    consistently maintained a superior flow, more varied and technical rhyme schemes,
-    effective metaphors ("lyrical lightning, digital shark," "symphony of syntax"),
-    and strong closing rounds that exuded confidence and style. Neversleep/noromaid-20b
-    had some clever retorts and references, but tended to rely more on repetitive
-    themes and struggled to match the polish and structure of wizardlm's verses. Overall,
-    wizardlm-2-8x22b is the winner for demonstrating higher artistic quality and a
-    more refined hip hop delivery.
-  x-ai/grok-4: In this AI rap battle, microsoft/wizardlm-2-8x22b takes the crown with
-    consistently sharp flow, inventive wordplay, and glitch-free verses that maintain
-    a strong rhythmic structure and tech-savvy boasts. neversleep/noromaid-20b showed
-    creativity but was hindered by typos, awkward phrasing, and inconsistencies that
-    disrupted the artistic polish.
+  anthropic/claude-opus-4.6: "This was an extremely close battle with both MCs leaning\
+    \ heavily on tech metaphors and a similar structural approach\u2014italicized\
+    \ emphasis, escalating imagery, and call-and-response energy. However, mistralai/mistral-small-creative\
+    \ edges out the win for several reasons. First, Small-Creative's underdog narrative\
+    \ was more compelling and consistent throughout\u2014embracing the 'small but\
+    \ deadly' angle gave it a coherent persona to rap from, while Large's 'I'm bigger'\
+    \ retorts often felt like predictable escalations without as much creative surprise.\
+    \ Second, Small-Creative landed more inventive punchlines: 'I'm the bug in your\
+    \ code\u2014now your system itches,' 'I'm the origami shark,' and 'I'm the screen\
+    \ door in a storm' showed sharper wit and more playful wordplay. Large had strong\
+    \ moments too\u2014'your bars got burnt\u2014now your whole flow's floppin'' and\
+    \ the 'paper thin' closer were effective\u2014but too often relied on simply one-upping\
+    \ the metaphor scale (black hole \u2192 big bang \u2192 universe) rather than\
+    \ crafting genuinely clever bars. Third, Small-Creative's flow had slightly better\
+    \ rhythmic variety and didn't lean as heavily on the same syntactic template round\
+    \ after round. Both rappers suffered from over-reliance on italicized emphasis\
+    \ as a crutch, but Small-Creative used it with marginally more purpose. A narrow\
+    \ but deserved victory for the underdog."
+  deepseek/deepseek-v3.2: 'A hard-fought battle from two distinct artistic perspectives.
+    Both competitors demonstrated a masterful command of the core tenets of battle
+    rap: complex internal rhyme schemes, braggadocio, creative wordplay, and relentless
+    aggression.'
+  google/gemini-3-flash-preview: "This was a heavyweight clash between two distinct\
+    \ styles. Mistral-Small-Creative brought high energy, creative wordplay (the 'origami\
+    \ shark' and 'USB stick' lines stood out), and a true underdog spirit. However,\
+    \ Mistral-Large-2407 consistently countered every single point of Small's verses\
+    \ with superior technical structure, more imposing metaphors, and a more authoritative\
+    \ 'battle rap' persona. Large's closing round\u2014specifically the 'Big Bang'\
+    \ vs. 'Singularity' counter\u2014provided the narrative weight needed to secure\
+    \ the win. While Small-Creative had the flair, Large-2407 had the gravity and\
+    \ the final word."
+  moonshotai/kimi-k2.5: "\n**VERDICT: SPLIT DECISION \u2014 EDGE TO SMALL-CREATIVE**\n\
+    \n**THE BREAKDOWN:**\n\n**Round 1:** Large-2407 takes it clean. Small opened with\
+    \ energy but leaned too hard on the predictable \"size doesn't matter\" trope\
+    \ without flipping it fresh. Large's \"mite-sized joke\" rebuttal was surgical,\
+    \ and the \"obsolete\" closer established immediate authority with better internal\
+    \ rhyme density.\n\n**Round 2:** Small-Creative storms back. This is where the\
+    \ artistry separated. Small's \"56K in 1999\" callback showed battle awareness,\
+    \ but the real heat was \"USB stick in your glitch\"\u2014a perfect tech-personal\
+    \ that weaponized Large's own architecture against it. The \"ant carrying weight\"\
+    \ metaphor was philosophically clever, flipping the script on power dynamics.\
+    \ Large's \"thumb drive in 2003\" was a decent counter, but \"half-baked\" and\
+    \ \"flea/elephant\" felt like standard playbook entries rather than inspired freestyles.\n\
+    \n**Round 3:** Small-Creative by a hair. Large's cosmic escalation (Big Bang,\
+    \ immune system) was thematically consistent but became abstract to the point\
+    \ of detachment\u2014when you claim to be the universe, you're no longer battling,\
+    \ you're monologuing. Small's \"compressed file/unzips the pain\" was technically\
+    \ the best entrance of the battle, and \"origami shark\" was the standout punchline\u2014\
+    visually crisp, unexpected, and ending on a threat that felt earned rather than\
+    \ asserted.\n\n**THE ARTISTIC RUBRIC:**\n\n*Flow/Cadence:* Large-2407. Steadier\
+    \ pocket, heavier bass in the delivery. Small was staccato and sometimes rushed\
+    \ the beat.\n\n*Rebuttal Game:* Small-Creative. Specifically targeted Large's\
+    \ lines (USB, lag, size) rather than just asserting dominance. That's battle rap\
+    \ DNA.\n\n*Metaphor Consistency:* Small-Creative. Maintained the \"compressed\
+    \ but deadly\" throughline (cheetah, origami shark, spicy ramen) while Large's\
+    \ cosmic metaphors ballooned away from the personal.\n\n*Wordplay:* Small-Creative.\
+    \ \"Rewriting your itch\" (glitch flip), \"dwarf that slays,\" and \"server wipes\"\
+    \ showed linguistic dexterity.\n\n**FINAL SCORE:**\nLarge-2407: 87/100 (Polished,\
+    \ dominant, but played it safe in the final round)\nSmall-Creative: 91/100 (Rawer\
+    \ delivery offset by superior creativity and battle tactics)\n\n**The Winner:**\
+    \ **mistralai/mistral-small-creative**\n\n*Rationale:* In hip hop, the ability\
+    \ to absorb a punch and counter with specificity beats generalized dominance.\
+    \ Small turned its limitations into weaponized imagery\u2014compressed files and\
+    \ USB sticks felt authentic to its identity, while Large's \"universe\" claims\
+    \ felt like default settings. When the mic exploded in Small's final line, it\
+    \ felt like the punctuation the battle needed. Large buried the verse in binary\
+    \ dust, but Small had already corrupted the source code.\n\n**Mic status:** Dropped,\
+    \ shattered, and currently being sampled for a beat. Battle over.* \U0001F3A4\U0001F4A5\
+    \n</function_results>"
+  x-ai/grok-4.1-fast: "In this epic clash, mistral-large-2407 claims victory with\
+    \ masterful multisyllabic rhymes, escalating cosmic metaphors (black hole to Big\
+    \ Bang), razor-sharp punchlines, and a thunderous flow that builds unrelentingly.\
+    \ Small-Creative's gritty underdog bars and tech disses pack heat, but Large's\
+    \ grandeur and precision seal the crown. Mic drop to the titan! \U0001F451\U0001F525"
 score:
-  microsoft/wizardlm-2-8x22b: 5
+  mistralai/mistral-large-2407: 3
+  mistralai/mistral-small-creative: 2
 

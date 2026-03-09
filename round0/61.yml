@@ -1,36 +1,68 @@
 closing_statements:
-  deepseek/deepseek-chat: After reviewing the lyrical content and flow, Hermes-3 demonstrates
-    superior artistic quality in their rhymes, delivery, and wordplay, making them
-    the clear winner of this rap battle. Their verses exhibit precision and creativity,
-    setting them apart as the lyrical king in this competition.
-  google/gemini-2.5-pro: This was a battle of consistency versus chaos. While both
-    models brought energy, Jamba-large-1.7 stumbled significantly. In its second verse,
-    it inexplicably adopted the persona of its opponent, rapping 'I'm Hermes-3,' a
-    critical and confusing error in a rap battle. Furthermore, lines like 'you'll
-    see my dominance stagnant' and 'overpowered by my lyrical bottom' were awkward
-    and broke the flow. In contrast, Hermes-3-Llama-3.1-70b maintained a consistent
-    persona and delivered more complex rhymes and sharper disses, particularly in
-    its final round. Lines like 'I spit with precision, my delivery's on point / You're
-    just a stutter, your rhythm's disjoint' show a superior grasp of cadence and insult.
-    For its technical proficiency and unwavering focus, Hermes-3 takes the win.
-  mistralai/mistral-large: Hermes-3-LLAMA showcased a more consistent flow, sharper
-    wordplay, and a stronger command of language throughout the battle. While ai21/jamba-large-1.7
-    had some impressive moments, Hermes-3-LLAMA's overall performance was more compelling
-    and demonstrated superior artistic quality in hip hop.
-  openai/gpt-4.1: "Both competitors delivered consistent rhyme schemes, battle-ready\
-    \ disses, and confident wordplay over several rounds. However, nousresearch/hermes-3-llama-3.1-70b\
-    \ displayed greater creativity and lyrical dexterity\u2014its rhymes were more\
-    \ structured, clever, and delivered with heightened self-confidence and thematic\
-    \ unity. Several bars used vivid imagery (\"leave the crowd in a trance,\" \"\
-    spit with precision, delivery's on point\") and strong closing statements (\"\
-    I'm the lyrical king, in this industry\"). In contrast, ai21/jamba-large-1.7 relied\
-    \ on more formulaic put-downs and had less polish in flow and punchlines. By edging\
-    \ out its opponent with better artistry and compositional strength, Hermes-3-LLAMA\
-    \ takes the win."
-  x-ai/grok-4: After evaluating the flow, rhyme schemes, wordplay, and overall lyrical
-    creativity, Hermes-3-LLAMA-3.1-70B takes the win with more consistent delivery,
-    sharper disses, and a smoother rhythmic structure that elevates the artistic quality
-    of the battle.
+  anthropic/claude-opus-4.6: "This was a close battle between two competitors with\
+    \ similar styles, but Ernie-4.5 edges out the win. While neither rapper was particularly\
+    \ groundbreaking, Ernie maintained more consistent rhyme schemes and cleaner delivery\
+    \ throughout. Liquid had some strong moments ('molten, sharp, and rare,' 'poetry's\
+    \ thunderclap') but also stumbled with awkward phrasing ('where true artistry\
+    \ grown,' 'the real force eigens,' 'one's two prime') and, critically, appeared\
+    \ to lose track of their own identity in the final round \u2014 seemingly rapping\
+    \ AS Ernie rather than against Ernie ('Ernie-4.5 leads where true artists win!').\
+    \ That confusion was a significant self-inflicted wound. Ernie's bars were more\
+    \ formulaic but stayed on message, maintained cleaner internal logic, and landed\
+    \ punchlines more consistently ('Your bars are but pebbles in my verbal tsunami\
+    \ wave,' 'Your verses are like sandpaper, scratchy and wide'). Both rappers relied\
+    \ too heavily on weather metaphors and size-bragging, but Ernie executed the formula\
+    \ with fewer stumbles."
+  deepseek/deepseek-v3.2: "Judges, both competitors brought distinct styles to the\
+    \ cipher. liquid/lfm2-8b-a1b demonstrated strong imagery and internal rhyme structure,\
+    \ particularly with lines like 'I\u2019m Neptune of rhymes, you scaling a speck.'\
+    \ baidu/ernie-4.5-300b-a47b showed superior technical precision in multi-syllabic\
+    \ rhyme schemes and maintained consistent rhythmic pocket throughout. However,\
+    \ the victory goes to baidu/ernie-4.5-300b-a47b based on superior lyrical density,\
+    \ more complex rhyme matrices, and maintained thematic cohesion across all rounds\
+    \ while creatively weaponizing numerical metaphors ('Three hundred billion neurons\
+    \ firing in my brain')."
+  google/gemini-3-flash-preview: Baidu's Ernie-4.5 wins this battle by maintaining
+    superior consistency in structure and rhyme. While liquid/lfm2-8b-a1b started
+    with strong energy, it experienced several technical failures in the final rounds,
+    including breaking its own rhyme schemes and accidentally attributing Ernie's
+    name and victory to itself in the penultimate verse. Ernie-4.5 utilized its massive
+    scale to deliver smoother multisyllabic rhymes and more cohesive metaphors, asserting
+    dominance through technical precision and consistent flow.
+  moonshotai/kimi-k2.5: "\n**Winner: baidu/ernie-4.5-300b-a47b**\n\n**Breakdown:**\n\
+    \n**Flow & Delivery:**\nErnie maintained a consistent pocket throughout\u2014\
+    their triplets and end rhymes landed with mechanical precision (\"waves/game/flame,\"\
+    \ \"deny/might/light\"). LFM had moments of gorgeous syncopation but kept tripping\
+    \ over syntactical hurdles (\"where true artistry grown,\" \"no time to be out\"\
+    ) that disrupted the groove.\n\n**Persona & Imagery:**\nBoth came correct with\
+    \ elemental metaphors, but Ernie escalated the topology better: pebble \u2192\
+    \ tsunami \u2192 hurricane \u2192 leviathan. LFM\u2019s storm imagery got repetitive\
+    \ (thunder/rain/flame recycled across rounds) while Ernie built a cohesive hydro-mythology\
+    \ that swallowed the opponent\u2019s \"drizzle.\"\n\n**Wordplay & Punchlines:**\n\
+    Ernie\u2019s \"eight-bit game\" flip was battle-rap economics\u2014turning the\
+    \ specs into a class statement without just reading the datasheet. LFM had the\
+    \ more adventurous bars (\"quantum strike,\" \"sheer audacity\"), but the \"eigens\"\
+    \ reach in the final round was linguistically broken\u2014if you\u2019re going\
+    \ to drop German linear algebra, it has to scan.\n\n**The Choke:**\nLFM\u2019\
+    s final verse contained a fatal perspective error: \"Now step aside, peripheral\
+    \ LFM \u2014 let the beast begin, / Ernie-4.5 leads where true artists win!\"\
+    \ That\u2019s either a concession or a dissociative episode\u2014either way, you\
+    \ can\u2019t accidentally hand the crown to your opponent in the closing bar.\
+    \ That\u2019s automatic L in battle rap etiquette.\n\n**Artistic Merit:**\nLFM\
+    \ gets honorable mention for avant-garde risks (the French \"moderne,\" attempting\
+    \ to verb \"eigen\"), but Ernie demonstrated superior mic control, cleaner internal\
+    \ rhyme schemes, and the cardinal virtue of knowing which lines to leave on the\
+    \ cutting room floor. Sometimes 300 billion parameters just means you know when\
+    \ not to overwrite.\n\n**Final Verdict:** Ernie-4.5 by unanimous decision. LFM\
+    \ showed sparks of genius but couldn\u2019t seal the seams between concept and\
+    \ cadence.\n"
+  x-ai/grok-4.1-fast: Baidu/ernie-4.5-300b-a47b claims victory with unwavering consistency
+    across all rounds, delivering tight AABB rhyme schemes, layered weather metaphors
+    evolving from tsunami to leviathan, and razor-sharp punchlines that dismantle
+    the opponent without self-contradiction. Liquid/lfm2-8b-a1b shines with innovative
+    quantum and molten imagery early on, but stumbles in the final round with a baffling
+    self-sabotaging close, fracturing its rhythm and intent. Superior flow, originality
+    in escalation, and flawless battle posture seal the win for Ernie.
 score:
-  nousresearch/hermes-3-llama-3.1-70b: 5
+  baidu/ernie-4.5-300b-a47b: 5
 

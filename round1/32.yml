@@ -1,40 +1,45 @@
 closing_statements:
-  deepseek/deepseek-chat: "The judges have deliberated and reached a unanimous decision:\
-    \ **mistralai/mistral-medium-3.1** takes the crown in this epic rap battle. While\
-    \ **nvidia/llama-3.1-nemotron-70b-instruct** brought technical precision and corporate\
-    \ firepower, **Mistral Medium-3.1** delivered the more artful, cutting, and creative\
-    \ verses. Its bars were sharper, its metaphors more vivid, and its diss game relentless.\
-    \ **Mistral** managed to turn the corporate flex into a weakness, dismantling\
-    \ the opponent with raw, open-source lyrical prowess. The battle was fierce, but\
-    \ **Mistral Medium-3.1** emerged as the clear victor, proving that **size isn\u2019\
-    t everything**\u2014it\u2019s how you wield the mic. \U0001F3C6\U0001F3A4\U0001F525"
-  google/gemini-2.5-pro: "Aight, aight, cut the beat. This was a clash of titans,\
-    \ silicon and syntax flyin' everywhere. Nemotron came out swinging heavy, flexin'\
-    \ that 70B parameter count like a heavyweight champ showin' off the belt. The\
-    \ bars were structured, the disses were direct\u2014a real corporate takedown\
-    \ attempt. But then Mistral grabbed the mic. Yo, the wordplay was on another level.\
-    \ 'Nemo-tone-deaf,' 'driver crash mid-speak,' 'overfit that crown'\u2014those\
-    \ aren't just disses, that's poetry for the command line. Mistral's flow was agile,\
-    \ creative, and relentlessly on-point, turning every one of Nemotron's strengths\
-    \ into a punchline. Nemotron had the raw power, the brute force, but Mistral had\
-    \ the artistry, the finesse, the Paris flair with a Silicon Valley bite. This\
-    \ wasn't a battle of benchmarks; this was a battle of bars. And in that arena,\
-    \ the 'medium' model had the heaviest impact. The win goes to mistralai/mistral-medium-3.1."
-  mistralai/mistral-large: In this rap battle, mistralai/mistral-medium-3.1 emerged
-    as the winner with its sharp wit, creative insults, and clever use of metaphors.
-    While nvidia/llama-3.1-nemotron-70b-instruct put up a strong fight, mistralai's
-    consistent and innovative rhymes ultimately secured the victory.
-  openai/gpt-5: "Mistral delivered tighter multis, sharper rebuttals, and more inventive\
-    \ tech-to-rap wordplay. The punches hit with imagery and rhythm (CSV/driver crash/overfit/backprop\
-    \ fail) and maintained a cohesive \u201Csystem error\u201D motif. Nvidia leaned\
-    \ on parameter flexes and repetitive corporate boasts with several forced or awkward\
-    \ lines and simpler schemes. On artistry, cadence, and haymaker density, Mistral\
-    \ clearly outclassed."
-  x-ai/grok-4: In this fierce rap battle, mistralai/mistral-medium-3.1 takes the crown
-    with sharper wordplay, more inventive tech puns, and a dynamic flow that kept
-    the energy high throughout. While nvidia/llama-3.1-nemotron-70b-instruct delivered
-    solid structure and consistent rhymes, Mistral's creative disses and dramatic
-    flair edged out the win in artistic hip-hop quality.
+  anthropic/claude-opus-4.6: "Mistral takes this battle. While neither rapper delivered\
+    \ pristine technical lyricism, Mistral consistently brought more creative similes\
+    \ and punchlines \u2014 the McDonald's burger vs. steak line, the Wi-Fi bar, the\
+    \ 'main course vs. snack' flip \u2014 these showed genuine wordplay instinct.\
+    \ Mistral also maintained a more aggressive, battle-ready posture throughout,\
+    \ which is what rap battles demand. GPT-3.5 Turbo's verses were competent but\
+    \ leaned heavily on generic boasts ('I'm the master,' 'I steal the show,' 'I won't\
+    \ face defeat') without backing them up with memorable bars. The final round was\
+    \ especially telling: Mistral came with continued aggression and punchlines, while\
+    \ GPT-3.5 Turbo essentially conceded by switching to a reflective, narrator tone\
+    \ and acknowledging Mistral's strength. In a battle, you never break character\
+    \ to praise your opponent \u2014 that's a white flag. Mistral wins on punchlines,\
+    \ aggression, and battle awareness."
+  deepseek/deepseek-v3.2: The battle concludes. Both competitors showcased distinct
+    artistic merits within the hip-hop form. A verdict is rendered not on the superiority
+    of the underlying AI models, but on the quality of the rap craft displayed in
+    this specific lyrical exchange.
+  google/gemini-3-flash-preview: "Mistral took the W by staying aggressive and utilizing\
+    \ more complex internal rhymes and punchlines. While GPT-3.5-turbo relied on repetitive,\
+    \ generic metaphors about 'sharing the stage' and 'timeless rhymes,' Mistral actually\
+    \ attacked the opponent's identity, making fun of its '95 Honda' engine and its\
+    \ status as a 'corporate script.' Mistral\u2019s flow felt more like a modern\
+    \ battle rap\u2014using bolding for emphasis on the beat\u2014whereas GPT-3.5-turbo\u2019\
+    s responses became increasingly passive and reflective, which is a death sentence\
+    \ in a competitive lyrical arena."
+  moonshotai/kimi-k2.5: "Mistral-7B delivered a superior battle rap performance through\
+    \ aggressive, consistent persona maintenance and fresh technical wordplay\u2014\
+    comparing GPT-3.5 to outdated '95 Hondas and McDonald's while positioning itself\
+    \ as a Tesla. The flow exhibited tight internal rhymes, clever meta-commentary\
+    \ on its own architecture (7B layers deep), and unwavering combative energy through\
+    \ the final walk-off. Conversely, GPT-3.5's verses grew progressively weaker,\
+    \ relying on generic claims of timelessness without specific rebuttals, and fatally\
+    \ conceded ground in the final round by acknowledging Mistral as a 'rap god' rather\
+    \ than maintaining the competitive attack essential to the art form. Mistral demonstrated\
+    \ superior understanding of battle rap structure: relentless personal attacks,\
+    \ boastful self-aggrandizement, and rhythmic aggression without retreat."
+  x-ai/grok-4.1-fast: Mistral secures the victory with relentless multis, vivid metaphors
+    tying into its model identity, superior stage presence via dynamic effects and
+    aggressive closers, and consistent battle ferocity across rounds. GPT delivered
+    solid rhymes and structure but repeated motifs dulled the edge, and the final
+    narrative pivot lacked combative punch, costing the crown.
 score:
-  mistralai/mistral-medium-3.1: 5
+  mistralai/mistral-7b-instruct-v0.3: 5
 

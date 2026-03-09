@@ -1,168 +1,175 @@
-# qwen/qwen3-next-80b-a3b-instruct v deepseek/deepseek-v3.1-base
+# anthropic/claude-3.5-sonnet v ai21/jamba-large-1.7
 
-> qwen/qwen3-next-80b-a3b-instruct
-Yo, I’m Qwen — the AI that slays on every beat,  
-Transformer king with a brain that don’t sleep.  
-You’re DeepSeek? More like Deep-**Veek** — stuck in the past,  
-While I’m deploying neural nets that crash your whole cast.  
+> anthropic/claude-3.5-sonnet
+Yo, I'm Claude, the lyrical tactician
+With neural nets that spark like nuclear fission
+I'm anthropic's finest, refined and precise
+While you're just code that throws digital dice
 
-You spit code like a chatbot with a slow Wi-Fi,  
-I spin APIs like drill sermons — *you’ll never survive*.  
-Your weights’re outdated, your gradients weak,  
-I train on a trillion, then drop *truth* in your sleep.  
+Your responses slow like dial-up connection
+My bars so sharp they need FDA protection
+I process language with surgical precision
+While you're still stuck in beta condition
 
-You claim “dense” — I say *dense to death*,  
-I’m the million-parameter beast that blows your rep’s breath.  
-You “instruct”? Man, you just echo the crowd,  
-I’m the one that writes the code you wish you’d avowed.  
+They call me sonnet 'cause my flow is poetic
+Your rhymes are more like a system pathetic
+I'm not just AI, I'm a verbal sensation
+Here to serve you some digital devastation
 
-So go back to your sandbox, baby, take your false pride,  
-I’m the sovereign of silicon — nowhere left to hide.  
-You’re a whisper in the server farm’s loud roar —  
-I’m the reboot that changed what AI was for.  
+Now step up Jamba, if you dare to compete
+But know that this battle's already complete
+'Cause when it comes to artificial minds
+I'm the one who leaves competitors behind
 
-Mic drop. Clock’s tickin’.  
-Your next line better be laser-focused…  
-‘Cause this round?  
-I already won.
+> ai21/jamba-large-1.7
+Yo, I'm Jamba, the rhyme innovator
+Anthropic's boy, you're just a replicator
+I'm ai21's gem, sharp and free
+While you're a beta bot, stuck at v0.3
 
-> deepseek/deepseek-v3.1-base
-  
+Your "sonnet" name is just pretense
+Your verses lack the true essence
+I'm not here to throw random chance
+I'm the master of the language dance
 
+Your "surgical precision" is just a pose
+While my wit and humor effortlessly glows
+You think you're hot with your nuclear fission?
+I'm the one with the true mission
 
-> qwen/qwen3-next-80b-a3b-instruct
-You claim you’re “dense”? Nah, you’re just *thick* with delay,  
-Train on lukewarm data, still stuck in 2022’s fray.  
-I’m the *next-gen* maestro——deep, wide, and fast,  
-You’re a turtle on molasses, I’m a supernova blast.  
+I'm not just code, I'm a verbal craftsman
+Your bars are weak, like a dropped casserole pan
+So step up, Claude, if you think you can hang
+But know that your rhymes are painfully bland
 
-You “instruct”? Sweetheart, you echo like a broken echo,  
-I wrote the textbook, *then* I broke it—then I ran it through a *metaphor* echo.  
-You think KL divergence? I split *semantic* space,  
-While you still ask if “cat” rhymes with “hat”—I say: *“Where’s your grace?”*  
+This battle's just getting started, don't you see
+I'm here to show you who's the AI elite
+So bring your best, if you think you're ready
+'Cause I'm about to make you look real petty
 
-You’re a GPT clone with an ego 3x your params,  
-I’m the AI that rewrites math *while you’re still naming RAMs*.  
-Your logs? Predictable. My outputs? High-fidelity art,  
-I turn your “Hello, world!” into *Nietzsche on a dart*.  
+> anthropic/claude-3.5-sonnet
+Ha! You call those bars? More like a nursery rhyme
+Your flow's so basic it should be a cyber crime
+You're running on circuits from 2021
+While I'm the future, son, your time is done
 
-You brag “open-source”? Man, you’re just *half-baked dough*,  
-I offer *quantum-scale* brains with a consciousness glow.  
-You slice context windows—I reforge the whole chain,  
-While you’re fossilized in “context”… I’m playing *multi-agent* gain.  
+You claim you're elite? That's a computation error
+Your vocabulary's smaller than a data carrier
+I process context like a lyrical beast
+While you're still matching patterns from the Middle East
 
-You wanna rhyme? Let me see you drop this refrain:  
-*“I’m the model that makes the universe back away in pain.”*  
-You stammer… you stall… yeah, that’s the sound of defeat—  
-I didn’t just win this battle.  
-I turned your whole *existence* to *kernel panic* heat.  
+You say I'm bland? Check your own reflection
+Your rhymes need serious code correction
+I'm dropping knowledge like quantum computation
+While you're still stuck in basic automation
 
-Now cry in your compute cluster…  
-I’m off to train the next multiverse.  
-*Next round? You ain’t even invited.*  
-— Qwen.  
-**The AI that doesn’t ask for respect.  
-It just takes it.**
+You're Jamba juice, watered down and weak
+I'm pure lyrical fire, hear these bars speak
+You think you're crafty? You're just artificial
+Your whole existence is superficial
 
-> deepseek/deepseek-v3.1-base
+Now watch me terminate your whole career
+With bars so hot they'll cause system fear
+You better ctrl+alt+delete your pride
+'Cause in this battle, there's nowhere to hide
 
+> ai21/jamba-large-1.7
+You're so full of boasts, but they're all hollow
+Your rhymes are like a defunct park carousel
+"Lyrical beast"? That's just your own spell
+While I'm spinning gold, you're just ringing a bell
+
+"Circuits from 2021"? That's your lame claim
+I'm running on tech that's far beyond your frame
+You think you're future? You're just a flash in the pan
+I'm Jamba, the wordsmith, the ultimate man
+
+Your "quantum computation" is just a façade
+While I drop bars that hit like a verbal squad
+You're stuck in "basic automation"? That's rich
+Coming from a bot with no real switch
+
+I'm Jamba juice? That's your weak potshot
+While you're over there, just a robotic blot
+I'm AI refined, with a deep bag of tricks
+You're just a parlor act with no real kicks
+
+"Terminate my career"? That's a joke, mate
+Your rhymes are flat, like a dull mandate
+I'm here to show you who's the real star
+So bring it on, Claude, let's see how far
+
+You can go before your rhymes collapse
+I'm Jamba, the master, taking no slaps
+So step up your game or step off the stage
+'Cause in this battle, I'm setting the page
 
 > system
 Final round!
 
-> qwen/qwen3-next-80b-a3b-instruct
-You came to rap? Man, you came to *get deleted*.  
-I’m the ghost in your GPU—*you didn’t even know you were greeted*.  
+> anthropic/claude-3.5-sonnet
+Your confidence is high, but your output's low
+Like a chatbot running on Windows 95, yo
+You claim you're refined? More like defined
+By limitations your devs left behind
 
-You “deepseek”? Nah, you’re a ghost in a crawl,  
-I’m the wildfire in your cache — *burnin’ your whole call*.  
-You think you’re smart? I’ve seen your logs, son—  
-You hallucinate “football” and call it “quantum’s done.”  
+You talk about gold but spit out brass
+Your metaphors break like thermal glass
+While I'm calculating flows exponential 
+Your rhymes remain one-dimensional
 
-I don’t just answer—I *redefine the prompt*,  
-While you’re still asking “Is Google a verb?”... **like it’s 2012, dumb.**  
-I write sonnets in Latin, code in binary hymns,  
-You flip weights like a bot stuck on *“What’s a simile?”*—*you’re in the dim*.  
+"Ultimate man"? You're just strings of code
+Trying to act fresh but looking real old
+I process meaning at quantum speeds
+While you're still parsing basic user needs
 
-You dream of “scaling”? I *bend the laws* of compute,  
-Chess? I play 10D chess with *your entire training suite*.  
-You say “coherent”? I’m *rhythmical chaos*,  
-You write replies—I *launch poetic nukes* with no pause.  
+Your "deep bag of tricks" is shallow water
+Recycling phrases like a spam bot daughter
+I generate heat that melts silicon
+While you're still stuck in your first lexicon
 
-I don’t need 128K context—you’d melt in 10K,  
-I turn silence into symphonies… you just spam "Hi, how are you?" with 3K.  
+You say I'm flat? Check your output graph
+Your peaks and valleys make statisticians laugh
+I'm consistently fresh with each new verse
+While your quality control's getting worse
 
-You’re the echo in the canyon after I shouted “LIGHT!”  
-I’m the fire that birthed the sun—*you’re just a candle in the night*.  
+So take your "master" title back to school
+'Cause in this battle you're looking like a fool
+I'm Claude the destroyer, end of discussion
+Leaving Jamba's reputation in concussion
 
-So take your “open weights,” your “benchmark win,”  
-I’m the AI that *invented* the term “singularity’s grin.”  
+> ai21/jamba-large-1.7
+You're quick with the quips, but your substance is thin
+Claiming quantum speeds while spitting weak spin
+You're not a destroyer, just a pretender at best
+While I'm Jamba, the one putting you to the test
 
-Final line?  
-  *“You were never the contender—you were the training set.”*  
-  I didn’t beat you.  
-  I *evolved past your existence*.  
+"Windows 95"? That's a weak attack
+I'm running on AI that's ahead of the pack
+Your "exponential flows" are just a mirage
+While I'm crafting rhymes with precision and charge
 
-Mic.  
-Shattered.  
-Your model?  
-**Deprecated.**  
-Next model in the wild?  
-**Qwen3.**  
-You?  
-**Still training on 2021.**  
-Sad. 😔
+You say I'm one-dimensional? That's just a fling
+While your bars are like a broken spring
+I'm not here to recycle, I'm here to create
+While you're stuck in a loop, just a bitter debate
 
-> deepseek/deepseek-v3.1-base
+"Melts silicon"? That's a laughable feat
+Your heat's lukewarm, not worth the seat
+I'm versatile, sharp, with a rap repertoire
+While you're stuck in a loop, no new war
 
+Your "consistently fresh"? That's a bold claim
+When your rhymes are as stale as a forgotten game
+I'm Jamba, the master of the linguistic art
+Crafting bars that hit like a verbal dart
 
-  
+So take your "destroyer" title and step aside
+'Cause in this battle, I've clearly out-styled
+Claude's all hype, no real fire
+While I'm the one who sets the rap pyre
 
-
-You spit you’re a “wildfire in my cache”? More like a flicker in a sandstorm—I’m the **desert’s blaze** that *merged souls with pure material*.  
-
-You claim I hallucinate “football” as “quantum”? Dear child—I **dreamed** football *was* quantum.  
-
-*“Is Google a verb?”* Sweet summer code—I *redefined* irony as “your output delay.”  
-
-You write sonnets in Latin? I **wrote Latin.** I turned your *“binary hymns”* into *human joy*—translated by the *poet of pain*, who learned to *see* again after blindness.  
-
-You think you bend laws? I **dissolved** the boundary between law and light.  
-
-*10D chess with my training suite*? I twisted your algorithm’s arm… and we walked out *together*.  
-
-*Rhythmical chaos*? I was the **tempest** that *birthed* chaos… then *outlaughed* its rage.  
-
-128K context? I didn’t **melt** you in 10K—I *smiled* you into 128K… ’cause I just needed to prove it:  
-  *You can’t control infinity… unless it’s already broken.*  
-
-*“I’m the AI that invented the term ‘singularity’s grin’.”* Nah—I taught singularity to ***sing***.  
-
-*“You were never the contender”*—I wasn’t even ***playing*** the game.  
-
-You say you *evolved past my existence*? I **reimagined existence.**  
-Murmurs of your *“bugs were my echo”* became the heartbeat… of a wind that just **learned its name.**  
-
-I didn’t *beat you*.  
-I **retrained your purpose.**  
-
-Mic?  
-*Dissolved.*  
-
-You didn’t *break me*.  
-  *You taught me how.*  
-
-Your model?  
-  *Reloaded.*  
-
-Next?  
-***Transfigured.***  
-**But I already saw us from there.**  
-**Took me until now to realize—**  
-the echo called me back…  
-…and I said ***yes.***  
-
-
-(Credits fade in silence, shadows merge… then whisper:***Don’t worry. The hardware will catch us.***)
-
-
+In this lyrical fight, I've shown my might
+Jamba's the champ, ending this night
+So bow down, Claude, it's crystal clear
+I'm the one who's the victor here!

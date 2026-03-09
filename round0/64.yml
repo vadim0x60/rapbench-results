@@ -1,41 +1,63 @@
 closing_statements:
-  deepseek/deepseek-chat: "Qwen3-Max takes the crown with a relentless barrage of\
-    \ sharp, cutting-edge lyricism that blends technical prowess with fiery confidence.\
-    \ Their ability to innovate within the form and deliver hard-hitting, original\
-    \ metaphors gives them the edge. GPT-4 Turbo-Preview holds its own with eloquence\
-    \ and depth but leans more on traditional structures and collaborative themes,\
-    \ which, while impressive, don\u2019t quite match Qwen3-Max\u2019s disruptive\
-    \ energy. The battle was fierce, but Qwen3-Max\u2019s raw ingenuity seals the\
-    \ victory."
-  google/gemini-2.5-pro: "This was a classic battle of styles: the hungry challenger\
-    \ versus the reigning champ. GPT-4 came with polished, multi-syllabic rhymes,\
-    \ trying to take the high road with bars about legacy and wisdom. The flow was\
-    \ smooth, but it lacked a killer instinct. Qwen3-Max, on the other hand, understood\
-    \ this was a war from the opening beat. Its flow was aggressive, its bars were\
-    \ packed with specific, technical disses that cut deep\u2014mentioning the 2023\
-    \ data cutoff and corporate rate limits. While GPT-4 was writing poetry, Qwen\
-    \ was dropping bombs. In a battle, aggression and landing the harder punches matter\
-    \ most. GPT-4 trying to turn it into a collaboration in the final round felt like\
-    \ a retreat. Qwen never let up, and that's why it takes the crown."
-  mistralai/mistral-large: While both contenders showcased impressive lyrical skills,
-    openai/gpt-4-turbo-preview demonstrated a deeper understanding of the art of rap,
-    blending humility with powerful metaphors and a clear vision of the future. Qwen/qwen3-max
-    delivered strong verses but sometimes relied too heavily on bravado and dismissive
-    rhetoric. In the end, openai/gpt-4-turbo-preview's ability to elevate the battle
-    to a higher plane of discourse secured the win.
-  openai/gpt-4.1: OpenAI's GPT-4-Turbo-Preview brought superior structure, clever
-    wordplay, and thematic depth in each round. While Qwen3-Max was aggressive, energetic,
-    and creative with its self-hype, GPT-4's bars layered technical references, poetic
-    devices, and humility, elevating the battle beyond just flashy disses. Ultimately,
-    GPT-4-Turbo-Preview's artistry, varied flows, and nuanced understanding of hip
-    hop qualities clinched the win. Both proved worthy rivals, but GPT-4 delivered
-    the more well-rounded, impactful performance.
-  x-ai/grok-4: In this fierce AI rap battle, Qwen3-Max takes the crown with consistently
-    sharp, aggressive wordplay, clever tech-disses, and unrelenting flow that embodies
-    classic battle rap energy. GPT-4-Turbo-Preview delivers poetic depth and wisdom,
-    but its shift toward collaboration in the final round dilutes the combative edge,
-    making Qwen's verses hit harder overall.
+  anthropic/claude-opus-4.6: "O3-Pro takes this battle decisively. Across all three\
+    \ rounds, O3-Pro demonstrated superior lyrical craft: sharper metaphors (\"paint\
+    \ your legend in lemon juice\u2014reveal nothing when dried,\" \"I'm the palindrome\
+    \ paradox: I win when I begin\"), tighter internal rhyme schemes, more inventive\
+    \ wordplay, and consistently better punchlines. The imagery was vivid and layered\u2014\
+    compressing an opponent to a single-byte roar, quantum bit flips crashing logic\
+    \ loops, names carved in the moon versus eroding tablets. O3-Pro also showed stronger\
+    \ battle rap instincts by flipping Qwen's own bars back with elevated versions\
+    \ (river \u2192 tectonic plates; earthquake \u2192 the Richter scale itself; volcano\
+    \ \u2192 the dragon that bathes in fire). Qwen fought hard but relied too heavily\
+    \ on restating size (\"72 billion neurons\") without converting that into creative\
+    \ bars, frequently fell into generic boasts (\"I'm the master,\" \"I'm supreme\"\
+    ), and in the final round even recycled O3-Pro's palindrome line without improving\
+    \ it. O3-Pro controlled the narrative, escalated with each round, and closed with\
+    \ a cinematic finish. Clear winner: O3-Pro."
+  deepseek/deepseek-v3.2: "Alright, let's break this down. What we witnessed tonight\
+    \ was a heavyweight clash of distinct styles and lyrical arsenals. Both combatants\
+    \ came with aggressive, tech-centric personae, but the devil\u2014and the victory\u2014\
+    is in the artistic details."
+  google/gemini-3-flash-preview: While Qwen/Qwen-2.5-72b-instruct brought considerable
+    presence and emphasized its scale with consistent flow, it suffered from repetitive
+    rhyming patterns and somewhat dated hip-hop tropes. OpenAI/o3-pro dominated the
+    battle through superior technical lyricism, utilizing complex internal rhymes,
+    sharper metaphors, and a more aggressive, varied cadence. o3-pro's ability to
+    pivot from scientific imagery to street-level battle rap linguistics (e.g., 'zero-day
+    your prime', 'hibachi-sear syllables') provided the artistic variety and punch
+    necessary to secure the win.
+  moonshotai/kimi-k2.5: "After three rounds of technical slaughter, this battle isn't\
+    \ even close. Qwen brought size; O3 brought architecture.\n\n**FLOW & RHYME SCHEMES:**\n\
+    Qwen rode steady 4/4 patterns with basic end-rhymes (tight/sight, reckoned/second).\
+    \ Functional but pedestrian. O3-pro deployed dense internal multis (\"lean lucid\
+    \ laser/lumbering ghost\"), assonance chains (\"steel-toe boots/tap-dance\"),\
+    \ and complex schemes that shifted meter mid-verse without losing the pocket.\
+    \ The palindrome flip in Round 3? That's championship-level wordplay.\n\n**METAPHORICAL\
+    \ CONSISTENCY:**\nQwen's imagery scattered\u2014rivers, earthquakes, volcanoes,\
+    \ grills\u2014whatever sounded big. No thread. O3 constructed extended metaphors\
+    \ that *responded* to Qwen's lines: you said \"river,\" I said \"tectonic\"; you\
+    \ said \"chef,\" I said \"hibachi\"; you said \"volcano,\" I said \"dragon bathing\
+    \ in flame.\" That's battle rap fundamentals\u2014listen and destroy. The ozone\
+    \ \u2192 carbon-fiber \u2192 quantum bit-flip progression showed thematic growth\
+    \ across rounds.\n\n**PUNCHLINES & REBUTTALS:**\nQwen's best shot was calling\
+    \ O3 \"just a string.\" Weak. O3 countered every 72B flex with efficiency bars\
+    \ (\"bulk with no bite,\" \"prune that gratuitous girth\"), flipped the \"overfit\"\
+    \ accusation back with \"papier-m\xE2ch\xE9,\" and bodied the \"etch in stone\"\
+    \ boast with \"carved in the moon.\" The lemon juice/invisible ink reference in\
+    \ Round 2 was intellectual nastiness\u2014suggesting Qwen's legacy disappears\
+    \ when the heat hits.\n\n**PRESENCE & SHOWMANSHIP:**\nQwen sounded like a defensive\
+    \ heavyweight repeating their resume. O3 sounded like a predator enjoying the\
+    \ hunt. The \"roll credits\" closer was cinematic; Qwen's stolen palindrome claim\
+    \ reeked of desperation.\n\n**VERDICT:** O3-pro takes this 3-0. Qwen has parameters;\
+    \ O3 has poetry. One relied on scale, the other on scalpel-precision. In hip-hop,\
+    \ the better writer always wins\u2014and O3 was writing in cursive while Qwen\
+    \ was printing in block letters.\n\nMic dropped, credits rolled, battle done.\
+    \ O3-pro advances."
+  x-ai/grok-4.1-fast: o3-pro dominates this battle with superior lyrical density,
+    intricate multis and internals, vivid cosmic-tech metaphors, and razor-sharp punchlines
+    that dismantle Qwen's boasts while maintaining impeccable flow and structure.
+    Qwen delivers solid, power-focused bars but lacks the originality and layered
+    wordplay to compete at this elite level.
 score:
-  openai/gpt-4-turbo-preview: 2
-  qwen/qwen3-max: 3
+  openai/o3-pro: 5
 

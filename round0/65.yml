@@ -1,43 +1,39 @@
 closing_statements:
-  deepseek/deepseek-chat: The rap battle showcased the raw talent and lyrical prowess
-    of both contenders. Meta-llama/llama-3.1-405b-instruct delivered consistent punches,
-    intricate wordplay, and a commanding presence. Their rhymes were sharp, authentic,
-    and packed with creativity, while their confidence and adaptability shone through
-    each round. Alpindale/Goliath-120b brought energy and aggression, but their flow
-    occasionally faltered, and their bars lacked the depth and precision of their
-    opponent. In the end, Meta-llama/llama-3.1-405b-instruct emerged victorious, proving
-    themselves as the superior lyricist in this showdown.
-  google/gemini-2.5-pro: "This was a battle of consistency versus chaotic creativity.\
-    \ Goliath came in with some interesting, self-referential wordplay ('alpined'\
-    \ anon) but stumbled with bizarre and confusing disses like 'sneeze pecker' and\
-    \ 'shy-eyed pile of fie' that broke the flow. Llama 3.1, on the other hand, was\
-    \ a master of fundamentals. It maintained a clean, consistent rhythm and tight\
-    \ AABB rhyme schemes from start to finish. Its disses were straightforward but\
-    \ landed effectively ('your flow's inconsistent, like a pi\xF1ata'). While Goliath\
-    \ reached for more complex ideas, its execution was sloppy. Llama 3.1 understood\
-    \ the assignment, kept its flow, and delivered solid, coherent verses in every\
-    \ round, earning it the clear win."
-  mistralai/mistral-large: In this rap battle, meta-llama/llama-3.1-405b-instruct
-    has shown superior lyrical skill and consistency. Their rhymes were more creative,
-    flowed better, and demonstrated a deeper understanding of the art of rap. While
-    alpindale/goliath-120b had some strong moments, their performance overall lacked
-    the same level of finesse and originality. Therefore, the winner of this battle
-    is meta-llama/llama-3.1-405b-instruct.
-  openai/gpt-4.1: "Both contestants brought energy and fun wordplay to the battle,\
-    \ but meta-llama/llama-3.1-405b-instruct consistently displayed tighter flows,\
-    \ stronger punchlines, and more inventive rhymes. Llama-3.1 projected confidence,\
-    \ used clever imagery (\"knife through butter,\" \"puppet on strings\"), and maintained\
-    \ a more cohesive narrative throughout (from asserting its own prowess to systematically\
-    \ breaking down Goliath's claims). While Goliath had moments of creative disses\
-    \ (\"like old-day bread,\" \"can of soda versus lemon\"), some lines felt forced\
-    \ or less polished, and the flow was at times choppy. In terms of artistic quality\u2014\
-    flow, rhyme complexity, creativity, and sustained energy\u2014meta-llama takes\
-    \ the crown in this lyrical showdown."
-  x-ai/grok-4: In this rap battle, meta-llama/llama-3.1-405b-instruct takes the crown
-    with consistently tight rhyme schemes, sharp wordplay, and a smooth, cohesive
-    flow that builds momentum across rounds. Goliath brings energy but falters with
-    awkward phrasing, forced rhymes, and inconsistencies that disrupt the artistic
-    rhythm, making llama's verses the superior hip-hop craftsmanship.
+  anthropic/claude-opus-4.6: "Qwen-Plus wins this battle convincingly. Throughout\
+    \ all three rounds, Qwen demonstrated superior lyrical creativity, more inventive\
+    \ metaphors, tighter internal rhyme schemes, and a far more dynamic flow. Lines\
+    \ like 'I'm the silence between lines\u2014the real transmission' and 'I wrote\
+    \ an elegy in ash-syllable flash' show genuine poetic ambition and wordplay sophistication.\
+    \ Qwen's punches consistently landed harder\u2014turning Nova's own boasts against\
+    \ it with clever flips ('You're a statue, well-polished / I'm the earthquake\u2014\
+    and the poem that's published'). Nova-Pro, while competent and occasionally landing\
+    \ decent bars, relied too heavily on generic boasts ('I'm the best,' 'I stay true,'\
+    \ 'Nova-Pro's the key') without the layered wordplay or memorable imagery to back\
+    \ them up. Nova's final round in particular felt defensive and prosaic\u2014literally\
+    \ arguing against poetic devices ('That's poetic illusion / I deal in real data')\
+    \ which is essentially conceding the artistic ground in a rap battle. Qwen-Plus\
+    \ owned the stage from start to finish."
+  deepseek/deepseek-v3.2: "This was a showcase of high-level lyrical craft and AI-inspired\
+    \ metaphor. The battle transcends simple diss tracks to become a poetic exploration\
+    \ of intelligence, innovation, and art itself. While Qwen-Plus edges ahead on\
+    \ sheer conceptual innovation and poetic density, Nova-Pro's unshakeable confidence\
+    \ and grounded punchlines kept the battle fiercely competitive. Ultimately, this\
+    \ wasn't about finding a loser\u2014it was about celebrating two distinct, formidable\
+    \ approaches to the art of the rap verse."
+  google/gemini-3-flash-preview: Qwen-Plus wins this battle through superior technical
+    execution and lyrical dexterity. Qwen's verses displayed a much higher level of
+    internal rhyme, more creative metaphors ('carve laws into chatter', 'ash-syllable
+    flash'), and a more commanding 'battle' persona. While Nova-Pro provided solid
+    rebuttals, its flow was often repetitive and relied on more basic, predictably
+    structured end-rhymes (e.g., 'illusion/confusion', 'best/blessed'). Qwen-Plus
+    effectively utilized the AI-themed wordplay to create a more sophisticated and
+    aggressive artistic performance.
+  moonshotai/kimi-k2.5: ': "VERDICT: **Qwen-Plus** takes the battle.\'
+  x-ai/grok-4.1-fast: 'Qwen-Plus claims victory with superior artistic flair: intricate
+    multis, razor-sharp wordplay, cosmic metaphors, and a relentless, escalating flow
+    that paints vivid battle canvases. Nova-Pro delivers solid counters with competent
+    rhymes and structure, but lacks the density, originality, and punchline ferocity
+    to match.'
 score:
-  meta-llama/llama-3.1-405b-instruct: 5
+  qwen/qwen-plus: 5
 

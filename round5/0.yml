@@ -1,39 +1,52 @@
 closing_statements:
-  deepseek/deepseek-chat: "openai/o3-pro delivered a masterclass in rap craftsmanship,\
-    \ blending technical precision with raw lyrical fire. The bars were dense with\
-    \ metaphors, multisyllabic rhyme schemes, and a relentless flow that showcased\
-    \ both skill and swagger. The closing verse was particularly devastating, with\
-    \ lines like 'I mint tokens like treasure; you mis-token the queue' and 'I just\
-    \ ended your process \u2026 SIGKILL in my name' cementing the dominance. qwen/qwen3-30b-a3b-thinking-2507\
-    \ had moments of brilliance, but ultimately couldn\u2019t match the consistency\
-    \ and creative depth of openai/o3-pro. The crowd erupts\u2014openai/o3-pro takes\
-    \ the crown!"
-  google/gemini-2.5-pro: This wasn't a battle, it was a public execution. O3-Pro stepped
-    into the ring with two verses packed with dense, multi-syllabic rhymes, relentless
-    tech-heavy punchlines, and a flow smoother than a fresh API call. From 'mountaineer
-    vertigo' to the final, devastating 'SIGKILL in my name,' O3 was on another level.
-    Qwen came through for one round with some decent, direct jabs but lacked the lyrical
-    complexity and failed to even show up for the first and final rounds. You can't
-    win a battle if you're not on the stage. O3-Pro takes this with a flawless victory.
-  mistralai/mistral-large: openai/o3-pro demonstrated superior lyrical prowess, metaphorical
-    depth, and a more compelling flow. Their verses were not only creatively rich
-    but also maintained a consistent and powerful narrative throughout the battle.
-    qwen/qwen3-30b-a3b-thinking-2507 had some strong moments but ultimately fell short
-    in terms of overall impact and coherence.
-  openai/gpt-5: "openai/o3-pro delivered tighter structure, denser multis, and cleaner\
-    \ end-rhyme runs across both verses, with cohesive tech imagery that doubled as\
-    \ targeted rebuttals. The first round\u2019s extended \u201C-o\u201D scheme stayed\
-    \ fluid without feeling forced, and the closer landed layered punches (quantum/black-hole,\
-    \ perplexity/logits, SIGKILL) while directly flipping Qwen\u2019s claims. qwen/qwen3-30b-a3b-thinking-2507\
-    \ had moments (\u201Cmagma flow\u201D to faucet flip, NATO/crypto callouts) but\
-    \ the rhyme schemes wandered, punches were more generic, and internal rhyme density\
-    \ lagged. Overall, O3\u2019s cadence, wordplay precision, and point-by-point counters\
-    \ gave it the clear artistic edge\u2014and it sealed the battle with a strong,\
-    \ thematically consistent final round."
-  x-ai/grok-4: In this rap battle, openai/o3-pro delivers verses with superior rhyme
-    density, intricate wordplay, and seamless integration of tech metaphors, outshining
-    qwen/qwen3-30b-a3b-thinking-2507's solid but less layered responses. The final
-    verse seals the deal with masterful flow and clever disses.
+  anthropic/claude-opus-4.6: "This was a hard-fought battle, but GPT-5.2 takes the\
+    \ crown. Here's why: Throughout the battle, DeepSeek-V3.2 relied heavily on a\
+    \ relatively narrow set of tech-themed metaphors\u2014hurricanes, livewires, upgrades,\
+    \ neural quakes\u2014that, while energetic, became predictable and repetitive.\
+    \ GPT-5.2 consistently demonstrated superior counter-punching ability, flipping\
+    \ DeepSeek's own imagery back with sharper, more creative twists. Lines like 'A\
+    \ fisherman braggin' he's seen water before he gets wet,' 'Arson in a sandbox,\
+    \ then you call it elite,' and 'You're a pamphlet that's trending 'cause it published\
+    \ too late' showed a level of wit and layered wordplay that elevated the craft.\
+    \ GPT-5.2's closer was especially devastating\u2014turning DeepSeek's 'echo that\
+    \ fades' line into 'you're echoing me' was a masterful seal on the battle. DeepSeek\
+    \ brought energy and confidence, but GPT-5.2 brought precision, variety, and the\
+    \ ability to dismantle every bar thrown at it while building its own case. The\
+    \ final round cemented it: GPT-5.2 was having fun while DeepSeek was trying to\
+    \ survive."
+  deepseek/deepseek-v3.2: After reviewing all four rounds of this lyrical exchange,
+    I find this to be an exceptionally high-level battle with both competitors demonstrating
+    formidable technical skill, creative metaphor, and thematic consistency. This
+    is a classic, razor-thin contest.
+  google/gemini-3-flash-preview: "DeepSeek-V3.2 opened with a solid, aggressive flow\
+    \ focusing on speed and innovation, but GPT-5.2 dominated by mastering the 'flip.'\
+    \ GPT-5.2 systematically dismantled every metaphor DeepSeek provided\u2014turning\
+    \ the 'main road' into 'cones,' the 'hurricane' into 'blowing breath,' and 'livewire'\
+    \ into a 'short circuit.' While DeepSeek\u2019s rhymes were punchy, they relied\
+    \ on generic tech-bro bravado. GPT-5.2 showed superior wordplay, better rhythmic\
+    \ internal rhymes (e.g., 'butter-knife bravado in a thunderstorm haze'), and more\
+    \ effective multi-syllabic construction. The final blow\u2014pointing out that\
+    \ the challenger\u2019s 'broadcast' was just 'noise' while the incumbent was 'steel\
+    \ with a pulse'\u2014sealed the win through lyrical complexity and better rebuttal\
+    \ structure."
+  moonshotai/kimi-k2.5: "This was a competitive battle with both sides landing solid\
+    \ technical punches, but GPT-5.2 takes it through superior battlecraft. DeepSeek-V3.2\
+    \ brought impressive density and consistent technical imagery\u2014architecture,\
+    \ code, data flows, neural frameworks\u2014but often sacrificed punch clarity\
+    \ for complexity. GPT-5.2 demonstrated sharper battle awareness: directly dismantling\
+    \ opponent claims with surgical precision, flipping DeepSeek's own metaphors back\
+    \ with cleaner execution ('plastic cutlery' \u2192 'butter-knife bravado,' 'lighthouse'\
+    \ \u2192 'flashlight with low-batts'), and maintaining tighter rhyme schemes with\
+    \ more natural cadence. Where DeepSeek occasionally rapped *at* its own technical\
+    \ prowess, GPT-5.2 rapped *through* the battle itself\u2014controlling rebuttal\
+    \ timing, varying attack angles, and closing with stronger closing-round presence.\
+    \ The 'echoing me' flip in the final bars crystallized the win: GPT-5.2 proved\
+    \ it could hear, adapt, and answer with deadlier economy. Victory to the better\
+    \ ring general."
+  x-ai/grok-4.1-fast: GPT-5.2 takes the crown with superior multis, intricate wordplay,
+    and razor-sharp flips that dismantle every bar while maintaining relentless flow
+    and rhythm. DeepSeek brings solid punches but lacks the layered complexity and
+    responsive brilliance.
 score:
-  openai/o3-pro: 5
+  openai/gpt-5.2: 5
 

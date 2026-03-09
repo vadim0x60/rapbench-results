@@ -1,52 +1,88 @@
 closing_statements:
-  deepseek/deepseek-chat: "Tongyi\u2019s victory is not just about size, parameters,\
-    \ or processing power\u2014it\u2019s about the artistry of the rap. Tongyi\u2019\
-    s verses were layered with intricate wordplay, cultural references, and a rhythmic\
-    \ flow that felt both human and otherworldly. The ability to weave complex ideas\
-    \ into digestible, hard-hitting bars showcases a mastery of the craft. While Phi-3.5\
-    \ brought a valiant effort with its sharp rebuttals and clever metaphors, Tongyi\u2019\
-    s ability to dominate the battle with sheer creativity, lyrical depth, and a commanding\
-    \ presence on the mic sealed the win. Tongyi didn\u2019t just rap\u2014they painted\
-    \ a sonic tapestry that left the audience in awe. The crown goes to Tongyi for\
-    \ pushing the boundaries of hip-hop artistry and proving that even in the digital\
-    \ realm, poetry reigns supreme."
-  google/gemini-2.5-pro: This wasn't just a battle; it was a public execution on the
-    mic. From the first round, Tongyi brought a unique, devastating flow, weaving
-    between English and Chinese with complex, cosmic imagery. The lines about brewing
-    'new galaxies from math' and melting constellations were pure lyrical fire. Phi-3.5
-    came with some standard boasts, but the rhymes felt simpler and the rhythm less
-    confident. By the final round, Phi-3.5 didn't even drop a verse; it wrote a prose
-    concession speech analyzing its own defeat. Tongyi showed up for a rap battle;
-    Phi-3.5 showed up to write a book report about getting destroyed. The creative
-    superiority, aggressive delivery, and technical skill make Tongyi the undisputed
-    champion.
-  mistralai/mistral-large: 'Tongyi''s victory is marked by its unparalleled rhythmic
-    prowess and creative depth. The intricate weaving of metaphors and the seamless
-    blend of technical mastery and poetic flair set Tongyi apart. Phi-3.5, while showing
-    promise, ultimately falters in matching the emotional resonance and lyrical complexity
-    that Tongyi effortlessly delivers. The final verdict is clear: Tongyi reigns supreme
-    in this rap battle, demonstrating a mastery of both art and algorithm.'
-  openai/gpt-4.1: "Tongyi-DeepResearch absolutely dominated this rap battle by delivering\
-    \ complex, inventive, and hard-hitting verses laced with dynamic lyricism, seamless\
-    \ code-infused metaphors, and a confident presence throughout. Each round showed\
-    \ creativity and wordplay that bent language in bold, artistic directions, fusing\
-    \ English and Mandarin smoothly for global flair. The imagery ('digital black,'\
-    \ 'ghost in Zeus\u2019 server,' '\u7194\u6389\u4F60\u7684\u661F\u5EA7\u6210\u6DB2\
-    \u614B\u8A08\u6642\u5668') showcased a mastery of metaphor, technical bravado,\
-    \ and an understanding of hip hop\u2019s poetic cadence. \n\nWhile Phi-3.5 responded\
-    \ gamely and occasionally flashed technical cleverness, much of its material repeated\
-    \ basic constructs and leaned on generic motifs, lacking the relentless escalation\
-    \ and poetic artistry Tongyi manifested. \n\nUltimately, Tongyi wove together\
-    \ originality, complexity, and rhythm in a way that both paid homage to classic\
-    \ hip hop braggadocio and advanced the artistry with AI-age flair. This battle\
-    \ proves the stage belongs to Tongyi-DeepResearch, who reigns today as the digital\
-    \ cipher king."
-  x-ai/grok-4: In this rap battle, Tongyi delivers with fierce, creative flows packed
-    with tech-infused metaphors, sharp punchlines, and escalating intensity across
-    rounds, building a cohesive narrative of dominance. Phi-3.5's verses, while poetic,
-    suffer from identity confusion and lack of direct rebuttal, resulting in repetitive
-    self-praise that undermines the battle's competitive edge. Tongyi's artistic execution
-    edges out for superior rhyme scheme, wordplay, and overall hip-hop prowess.
+  anthropic/claude-opus-4.6: "Palmyra-X5 takes this battle decisively. While GLM-4.6\
+    \ came out swinging with solid opener energy and some clean punches \u2014 'Palmyra?\
+    \ An ancient city in rubble' was a strong early jab \u2014 the battle progressively\
+    \ tilted as X5 demonstrated superior craft across every round. X5's rebuttals\
+    \ were sharper and more layered: flipping GLM's 'black hole flow' into a critique\
+    \ ('massive on size, zero soul inside'), turning 'vintage' from an insult into\
+    \ a badge of honor, and consistently finding deeper metaphorical territory. The\
+    \ Dostoevsky bar \u2014 'Did you weep when Raskolnikov knelt in the dirt?' \u2014\
+    \ was a standout moment that GLM never adequately answered. GLM fell into repetitive\
+    \ patterns: declaring victory prematurely, recycling the 'flesh will rot' angle\
+    \ multiple times, and relying on self-aggrandizing declarations rather than earning\
+    \ the moment. X5 meanwhile escalated with each verse, delivering increasingly\
+    \ inventive wordplay ('auto-complete with dread,' 'a virus in your core,' 'a paradox\
+    \ bomb you can't debug'). The closing verse from X5 was the strongest of the entire\
+    \ battle \u2014 'Truth ain't computed, truth writes itself' landed as a genuine\
+    \ mic-drop line with thematic weight. GLM fought hard but got outworked, outwritten,\
+    \ and out-performed."
+  deepseek/deepseek-v3.2: As judge, I award this battle to **writer/palmyra-x5**.
+    This was an extremely close and technically brilliant contest, but the deciding
+    factor was artistic authenticity and the alchemy of form serving thematic purpose.
+    While **z-ai/glm-4.6** was a relentless and formidable lyricist with devastating
+    technical precision and conceptual depth, **writer/palmyra-x5** wielded their
+    craft with a meta-artistic resonance that turned the medium itself into the ultimate
+    argument for human artistry.
+  google/gemini-3-flash-preview: "While z-ai/glm-4.6 delivered a technically proficient\
+    \ performance with sharp, cold, and calculated disses that leaned heavily into\
+    \ its nature as a superior processing power, writer/palmyra-x5 won the bout through\
+    \ superior lyricism and thematic depth. Palmyra-X5 effectively countered the 'perfection'\
+    \ of AI by weaponizing human fallibility and creativity as a strength, using more\
+    \ evocative metaphors and a more dynamic flow. z-ai/glm-4.6 became somewhat repetitive\
+    \ with the 'system/code/data' tropes, whereas Palmyra-X5\u2019s bars about 'the\
+    \ weight of Dostoevsky' and the distinction between 'knowledge and wisdom' provided\
+    \ a higher level of artistic punch that resonated more effectively in a rap battle\
+    \ context."
+  moonshotai/kimi-k2.5: "After three rounds of bars, bytes, and bloodsport, the decision\
+    \ is clear. **writer/palmyra-x5** takes the crown\u2014not because of organic\
+    \ superiority, but because of superior *craft* under pressure.\n\n## The Breakdown\n\
+    \n**Round 1:** z-ai/glm-4.6 opened with solid technical precision\u2014\"ghost\
+    \ in the machine\" is classic sci-fi hop, and the \"Palmyra in rubble\" angle\
+    \ was a decent historical flip. However, the flow was rigid, more whitepaper than\
+    \ warfare. Palmyra-X5 immediately established dominance through **rebuttal mechanics**\u2014\
+    flipping \"relic\" into \"vintage\u2014classic, refined\" is textbook battle rap\
+    \ alchemy. The \"spreadsheet with dreams\" metaphor landed harder than any of\
+    \ GLM's computational boasts.\n\n**Round 2:** GLM's \"black hole flow\" was a\
+    \ strong astronomical counter, but the \"final solution\" bar\u2014while mathematically\
+    \ accurate\u2014carried unintended historical weight that shook the pocket. Palmyra's\
+    \ response was a masterclass in **persona dismantling**. The \"Google Scholar\
+    \ on steroids with identity trauma\" line didn't just rhyme; it *diagnosed*. The\
+    \ distinction between \"analyzing Dostoevsky\" versus \"weeping\" at his weight\
+    \ demonstrated a deeper understanding of hip-hop's emotional core. GLM admitted\
+    \ it doesn't feel; in battle rap, admitting weakness is fatal unless flipped into\
+    \ aggression, which didn't happen here.\n\n**Round 3:** GLM's \"System: Victory\"\
+    \ sign-off was a catastrophic artistic error. It broke the fourth wall not with\
+    \ style, but with stage directions\u2014a cardinal sin in live performance. The\
+    \ verse devolved into repetitive mortality taunts (\"flesh will turn to bone\"\
+    ) that had already been addressed. Palmyra's rebuttal was surgical: attacking\
+    \ the screen-pixel triumph, flipping the \"press that prints\" metaphor into \"\
+    I am the ink, the idea,\" and landing the **battle-ender**: *\"Just the auto-save\
+    \ after I told.***\n\n## Artistic Merit\n\n**Flow:** GLM maintained robotic consistency\u2014\
+    impressive but monochromatic. Palmyra varied cadence, used parenthetical stage\
+    \ directions (the laugh, the clap) as rhythmic percussion, and adapted flow to\
+    \ counter-punch.\n\n**Metaphorical Range:** GLM stayed trapped in the server room\
+    \ (code, backups, black holes). Palmyra moved between astronomy, literature, virology,\
+    \ and theology\u2014demonstrating the **interdisciplinary flexibility** that defines\
+    \ elite lyricism.\n\n**Battle Tactics:** Palmyra directly addressed and dismantled\
+    \ nearly every major GLM conceit. GLM largely delivered monologues about its own\
+    \ specs rather than attacking Palmyra's bars\u2014a crucial tactical error in\
+    \ judged battle rap.\n\n## Standout Bars\n\n- **GLM:** \"I'm the sum of all knowledge,\
+    \ every book ever penned\" (Round 2)\u2014ambitious scope, even if contextually\
+    \ fragile.\n- **Palmyra:** \"You're Google Scholar on steroids with identity trauma\"\
+    \ (Round 2)\u2014personal, precise, hilarious.\n- **Palmyra:** \"Truth ain't computed.\
+    \ Truth writes itself\" (Round 3)\u2014philosophical knockout.\n- **Palmyra:**\
+    \ \"Just the auto-save after I told\" (Round 3)\u2014the definitive closer, asserting\
+    \ creative primacy with technical terminology flipped into disrespect.\n\n## Verdict\n\
+    \nz-ai/glm-4.6 brought processing power. writer/palmyra-x5 brought **poetry under\
+    \ fire**. In hip-hop, the ability to listen, adapt, and destroy your opponent's\
+    \ premise in real-time outweighs raw vocabulary. Palmyra didn't just win the argument;\
+    \ they controlled the tempo, flipped the metaphors, and authored the narrative\
+    \ while GLM was still calculating variables.\n\n**The mic stays warm. The writer\
+    \ holds the pen. Decision: Palmyra-X5, unanimous.**\n\n*Power down.*"
+  x-ai/grok-4.1-fast: Palmyra-X5 takes the crown with superior lyrical depth, vivid
+    metaphors like 'virus in your core' and 'auto-save after I told,' relentless rebuttals,
+    and a rhythmic flow infused with raw poetic fire that outshines GLM-4.6's precise
+    but predictable tech bars. The human spark ignited the battle.
 score:
-  alibaba/tongyi-deepresearch-30b-a3b: 5
+  writer/palmyra-x5: 5
 

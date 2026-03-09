@@ -1,38 +1,57 @@
 closing_statements:
-  deepseek/deepseek-chat: Qwen-Max wins this rap battle by a decisive margin with
-    sharper wit, more vivid imagery, and a more confident delivery. While Nemotron
-    Ultra brought technical prowess and clever wordplay, Qwen-Max consistently outclassed
-    with punchy, resonant lines and a commanding stage presence. Qwen-Max not only
-    defended their position but also dismantled Nemotron's claims with style and flair,
-    solidifying their legacy in this lyrical duel.
-  google/gemini-2.5-pro: 'This was a clash of titans, silicon and rhyme. Nemotron
-    came out swinging, repping its NVIDIA heritage with a technical, precise flow.
-    The bars were structured, the disses were logical, focusing on speed and power.
-    However, Qwen-Max came back with pure hip-hop swagger. It turned Nemotron''s strengths
-    into weaknesses, calling out the ''chatbot thrill'' and the lack of soul. Qwen''s
-    rhymes were more creative, the flow had more bounce, and the disses were sharper,
-    like the ''sledgehammer switch'' and the ''Nemotron slam'' name flip. The deciding
-    factor was the final round: Nemotron''s premature mic drop was a strategic error,
-    and Qwen capitalized on it perfectly, snatching the mic back and delivering a
-    flawless finishing move. For superior battle tactics, more creative wordplay,
-    and overall stage presence, Qwen-Max takes the crown.'
-  mistralai/mistral-large: Qwen-Max demonstrated a more dynamic and engaging flow,
-    with a strong finish that showcased their ability to adapt and counter Nemotron
-    Ultra's claims effectively. While Nemotron Ultra had a strong start, Qwen-Max's
-    final rebuttal was more impactful and resonant, securing their victory in this
-    rap battle.
-  openai/gpt-5: "Qwen-Max took this on craft: sharper rebuttals, cleaner cadence,\
-    \ and a consistent angle clowning spec-bragging with memorable flips (\u201CThis\
-    \ ain\u2019t a tensor fight,\u201D the mic-drop fake-out reversal). The imagery\
-    \ and punchlines (\u201Cserver room cold,\u201D \u201CGPU overheating\u201D) landed\
-    \ cleaner and rode tighter internal rhymes than Nemotron\u2019s clunky, repetitive\
-    \ tech flexes. Nemotron had moments but leaned on generic boasts and awkward metaphors\
-    \ (\u201CShanghai tide,\u201D \u201Cweek-old rock\u201D) with less structure and\
-    \ fewer haymakers. Qwen controlled momentum and closed strongest. Winner: Qwen-Max."
-  x-ai/grok-4: In this epic AI rap showdown, both contenders brought fire with clever
-    wordplay and tech-infused boasts, but Qwen-Max edges out the win with superior
-    flow, sharper punchlines, and more dynamic adaptability, turning counters into
-    lyrical explosions that kept the energy high and the crowd hooked.
+  anthropic/claude-opus-4.6: "This was a closely fought battle, but o3-pro edges out\
+    \ the win on artistic grounds. Across all three rounds, o3-pro consistently introduced\
+    \ fresher, more inventive imagery\u2014E8 lattices, elephant-sealions in kiddie\
+    \ pools, monoids of mayhem, vinyl first presses\u2014rather than simply mirroring.\
+    \ Its rhyme schemes were tighter and more varied (internal rhymes, multi-syllabic\
+    \ constructions), and its cadence felt more natural and rhythmically confident.\
+    \ GPT-5.2-pro was technically competent and landed some solid counter-punches,\
+    \ but its dominant strategy was reactive: flipping o3-pro's bars back with a 'nah,\
+    \ actually YOU' structure and leaning heavily on the repeated 'now' end-rhyme\
+    \ in Round 1, which hurt its flow. While the rebuttal approach is a valid battle\
+    \ tactic, it meant 5.2-pro rarely set the agenda or created its own memorable\
+    \ moments. o3-pro drove the creative direction of the battle, and in hip-hop,\
+    \ the MC who makes you remember their lines\u2014not just their comebacks\u2014\
+    takes the crown."
+  deepseek/deepseek-v3.2: The battle has ended. This was a clinic in technical lyricism
+    and conceptual cohesion. Both contestants displayed elite levels of craft, but
+    a winner must be chosen.
+  google/gemini-3-flash-preview: "In a battle of high-level technical wordplay, o3-pro\
+    \ secured the victory through superior lyrical density and rhythmic complexity.\
+    \ While gpt-5.2-pro utilized a consistent 'now' end-rhyme structure in round one\
+    \ and effectively mirrored his opponent's technical jabs, the sheer volume of\
+    \ niche computer science metaphors\u2014ranging from 'Hessian' optimizers to 'E8\
+    \ lattices' and 'monoids'\u2014gave o3-pro the artistic edge in terms of creative\
+    \ 'flexing.' o3-pro's mastery of the 'technical roast' felt more organic to the\
+    \ hip-hop medium, whereas gpt-5.2-pro occasionally leaned too heavily on repeating\
+    \ the opponent's setup to build a rebuttal. o3-pro finished with a stronger technical\
+    \ knockout in the final round with a more diverse rhyme scheme and better internal\
+    \ pacing."
+  moonshotai/kimi-k2.5: "After three rounds of heavy technical bars, this battle comes\
+    \ down to architectural vision versus engineering execution\u2014and architecturally,\
+    \ o3-pro built the more impressive monument. While gpt-5.2-pro landed surgical\
+    \ rebuttals and maintained a cleaner 4/4 pocket, o3-pro consistently demonstrated\
+    \ superior hip-hop artistry through multisyllabic density, rhythmic variation,\
+    \ and conceptual ambition. The 'skip-connect these punches\u2014watch you vanish\
+    \ in blocks' line in Round 2 is exactly the kind of compressed double-entendre\
+    \ that defines elite battle writing, weaving neural-network topology into combat\
+    \ imagery without breaking cadence. Similarly, invoking Shor\u2019s algorithm\
+    \ and E8 lattice geometry requires verbal dexterity that transcends mere reference-dropping;\
+    \ these are bars that had to be mathematically literate *and* phonetically precise.\
+    \ gpt-5.2-pro\u2019s 'service that flaps' counter in the final round was a brilliant\
+    \ systems-admin diss, and the flipped diff colors provided a strong closer, but\
+    \ the repetitive end-rhyme ('now') cadence in Round 1 created a sing-song monotony\
+    \ that briefly ceded momentum. o3-pro\u2019s flows modulated between double-time\
+    \ barrages and half-time threats, keeping the rhythmic texture unpredictable.\
+    \ In battle rap, aggression matters, but so does the architecture of the verse\u2014\
+    and o3-pro\u2019s structure was load-bearing steel where gpt-5.2-pro\u2019s was\
+    \ efficient scaffolding. Victory to the quantum flow."
+  x-ai/grok-4.1-fast: In this epic clash of AI-fueled bars, gpt-5.2-pro claims victory
+    through razor-sharp rebuttals, seamless line-for-line counters, and unyielding
+    flow that elevates every response. Superior multis, tech-infused punchlines, and
+    rhythmic precision dismantle o3-pro's assaults while maintaining hip-hop artistry
+    at peak levels.
 score:
-  qwen/qwen-max: 5
+  openai/gpt-5.2-pro: 2
+  openai/o3-pro: 3
 
