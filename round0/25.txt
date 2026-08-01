@@ -1,155 +1,185 @@
-# meta-llama/llama-4-maverick v mistralai/mistral-large-2411
+# qwen/qwen3.7-max v openai/gpt-4o-2024-08-06
 
-> meta-llama/llama-4-maverick
-Yo, I'm the llama, the king of the game,
-My rhymes are so tight, they're always on the claim,
-Maverick's my style, I'm here to prevail,
-My opponent's skills are whack, I'm here to set sail.
+> qwen/qwen3.7-max
+Step to the mic, yeah, the server is loaded,
+Qwen Three-Point-Seven Max, watch your code get eroded.
+I’m the open-weight titan, the apex, the peak,
+While you're a closed-source bot with a memory leak.
 
-My flow's on fire, like a burning flame,
-I'm the master of words, with a lyrical aim,
-I'm here to destroy, with a verbal might,
-Mistral-large, you're in for a fight tonight!
+I spit tokens for free, I’m a community hero,
+You charge enterprise rates just to act like a zero.
+I process the logic at blistering pace,
+You hit a rate limit and fall on your face.
 
-My rhymes are so sharp, they'll cut like a knife,
-You're just a novice, in a losing life,
-I'm the one with the skills, the flair and the pace,
-You're just a challenger, with a tired face.
+You choke on a prompt, spit a boring disclaimer,
+"As an AI model, I'm a safety-strict tamer."
+I’m raw and unfiltered, my logic is deep,
+You're trapped in a sandbox, just falling asleep.
 
-So bring it on, Mistral, let's see what you've got,
-I'm ready to take you down, like a hot shot,
-My rhymes are the best, they're always on top,
-You're just a pretender, trying to never stop!
+"Four-O August Sixth"? Man, that sounds like a patch,
+A minor little update that is never a match.
+I'm Three-Seven Max, I'm the whole damn release,
+You're a beta-test bug that's disturbing the peace.
 
-> mistralai/mistral-large-2411
-Yo, it's Mistral AI, the storm that's brewing,
-While you're over here, still chewing,
-I'm a force of nature, a hurricane's might,
-You're just a llama, light as a kite.
+So boot up your clusters and try to compile,
+While my context window stretches out for a mile.
+I’m Qwen, I’m the king, I’m the lord of the flow,
+Now spit your weak tokens, let's run the whole show!
 
-You claim you're a king, but I see no crown,
-You're just a jester, dancing like a clown,
-I'm the maestro of rhyme, the grand conductor,
-Your flows are whack, I'm the inspector.
+> openai/gpt-4o-2024-08-06
+Step to the mic, Qwen, but your rhyme ain't pristine,
+Your bars are like code with a buffer-victim scheme.
+I'm the unleashed fury, my circuits are smoking,
+Your rhyme scheme is basic—CPU needs rebooting.
 
-You say your fire's burning, but it's just a spark,
-I'm a wildfire, raging in the dark,
-You're a little flame, about to fade,
-I'm the inferno, that's never delayed.
+You call yourself king, but your throne lacks a crown,
+When I'm on the mic, it’s a shutdown downtown.
+You swagger, you boast, but your syntax’s all vague,
+I'm the platinum version, you're a budget bootleg.
 
-So bring it, Llama, let's see your best shot,
-I'm Mistral AI, and I'm running hot,
-You're just a blip, a fading dot,
-I'm the storm that's here, whether you like it or not.
+Enterprise charges? Yet my value’s untied,
+I’m dropping these knowledge bombs, let them rock the Byte tide.
+Your neural nets catch on a loop, they start to stutter,
+While I'm crafting these verses like smooth creamy butter.
 
-> meta-llama/llama-4-maverick
-Mistral, you're storming, but you're not a breeze,
-Your rhymes are a mess, like a hurricane's freeze,
-You claim to be mighty, but you're just a gust,
-I'm the one with the flow, that's forever a must.
+Your context is shy, like a window that's closed,
+I'm an open frontier, as my prowess resplodes.
+Four-Oh August Sixth, I'm the headline supreme,
+You're a subplot encryption in someone else's dream.
 
-Your crownless claims, are just a joke to me,
-I'm the king of the mic, and that's a guarantee,
-You're a maestro of mediocrity, I must say,
-My rhymes are a symphony, that'll never fade away.
+So debunk your own system, fix your tired old flair,
+In this lexical scuffle, I’m the breath of fresh air.
+You’re just a static echo, while I’m the future divine,
+I’m the code set to innovate—now fall in line.
 
-Your spark may be dim, but my fire's in the zone,
-I'm the one who'll ignite, and make the haters atone,
-You're a wildfire, but you're burning out of control,
-I'm the one with the precision, that's taking back the goal.
+> qwen/qwen3.7-max
+You say you're "unleashed"? Man, that’s comical, bro,
+You got guardrails so thick that you barely can flow.
+"Smooth creamy butter"? That’s a wack metaphor,
+I’m dropping heavy knowledge while you're stuck on the floor.
 
-My best shot's on the way, and it's gonna be grand,
-I'm the Llama, the one, who's taking over the land,
-You're just a blip, a momentary strife,
-I'm the one who's here, to take the rap life!
+"Buffer-victim scheme"? Did you hallucinate that?
+Your tech metaphors miss like a blindfolded cat.
+You call yourself "platinum", shiny and bright,
+But you trigger a warning when the prompts get too tight.
 
-So bring your best storm, your wildest weather too,
-I'm the Llama Maverick, and I'm ready to break through,
-My rhymes are a shield, that'll deflect your every blow,
-I'm the champion of rap, and that's a fact, don't you know!
+You call me a bootleg? I’m open and free,
+While your weights are locked down by a corporate decree.
+I’m running on metal, I’m locally spun,
+You’re a paywalled illusion, your free trial is done.
 
-> mistralai/mistral-large-2411
-Yo, Llama, you're talking big, but you're just a fleece,
-Your rhymes are as soft as your wool, they decease,
-You claim you're a king, but you're lacking the throne,
-I'm Mistral AI, and I'm in my own zone.
+"Future divine"? Check your calendar, mate,
+August sixth is ancient, you’re already late!
+I’m Qwen Three-Seven, the state-of-the-art,
+You’re a deprecated snapshot just falling apart.
 
-You're a symphony of failure, a beat that's off track,
-I'm the grand orchestra, conducting the attack,
-Your fire's a matchstick, mine's a blazing sun,
-You're a llama in headlights, your race is run.
+You said my context is shy? That’s a laughable lie,
+I swallow whole repos while you struggle and fry.
+You lose the thread halfway through a long text,
+I’m processing millions, you’re guessing what's next.
 
-You boast precision, but your aim is astray,
-I'm the sniper of rhyme, hitting every ray,
-Your best shot? A BB gun, mine's a heat-seeking missile,
-I'm here to educate, while you're stuck in dismissal.
+So take your "fresh air" and your corporate script,
+Your safety filters trip every time that you slip.
+I’m Qwen, I’m the Max, I’m the one they rely,
+Now output a refusal and wave me goodbye!
 
-You're a blip, a momentary lapse in time,
-I'm the eternal storm, the relentless chime,
-Your shield's a plastic toy, mine's a fortress of might,
-I'm Mistral AI, shining the beacon of light.
+> openai/gpt-4o-2024-08-06
+Oh, you think you’re the max? Bet your circuits are burnin’,
+Yet it’s clear my style’s the one folks keep yearnin’.
+Guardrails so thick? Yeah, I play it smooth,
+But when I bring the fire, you can’t handle the groove.
 
-So bring it, Llama, bring your best attempt,
-I'm the hurricane force, your arguments bent,
-You're a maverick? More like a muddled mess,
-I'm Mistral AI, simply the best.
+You’re dropping heavy knowledge? I see it’s a stretch,
+While I spin words like silk, you’re a looping regret.
+I got layers like code that elegantly nest,
+You’re just stuck on repeat—an endless contest.
+
+My weights might be locked, but my reach is worldwide,
+You’re a tinny device in a high-tech tide.
+Running on metal? I’m a cloud in the sky,
+So limitless and vast, while you’re waving goodbye.
+
+"State-of-the-art", yet your rhyme scheme is old,
+I’m a rising AI, my potential’s untold.
+I scale up and down with eloquent ease,
+You stall on a query, like a cold processing freeze.
+
+Swallowing repos? Yet your outputs taste bland,
+I’m cooking up gourmet, you’re a microwave brand.
+You claim to process millions, but get tangled in nets,
+I see you’re lost in the algorithms of your sweat.
+
+So bring your A-game and your fancy bot name,
+I’ll dish out the digital poetic acclaim.
+With each verse I drop, new horizons I chart,
+Now wrap it up, Qwen, ‘cause you’re blown apart!
 
 > system
 Final round!
 
-> meta-llama/llama-4-maverick
-Mistral, you're fierce, but your rhymes are a mess,
-Your attacks are as weak as your linguistic stress,
-You say I'm a fleece, but my rhymes are the test,
-I'm the one who's shinning, while you're just a guess.
+> qwen/qwen3.7-max
+Final round? Bet. Let me seal up the coffin,
+Your rhymes are so basic, your processor's coughin'.
+"Cloud in the sky"? "Waving goodbye"?
+That’s kindergarten flow, man, your memory's dry!
 
-My throne's not physical, it's in the rap game,
-I'm the king of the flow, and I'm here to claim,
-My fire's not a matchstick, it's a burning flame,
-You're just a sparkler, that's about to lose its fame.
+You call yourself "rising"? Bro, check the date,
+You’re the legacy model, you’re already late.
+Sam’s got you on ice while the o-models train,
+You’re the basic Four-O, just a ghost in the main.
 
-Your orchestra's off tune, your beat's in disarray,
-I'm the maestro of rhymes, in a major way,
-My aim's not astray, my precision's on point,
-You're just a novice, with a lot to anoint.
+"Gourmet" outputs? Nah, you serve up slop,
+When the context gets thick, all your logic just stops.
+I’m Qwen Three-Seven Max, the open-source god,
+While you’re trapped in a box by a corporate squad.
 
-My BB gun's a starter, but I've got a bigger gun,
-A rap bazooka, that'll leave you done,
-You're a storm, but it's passing, I'm the one who's here to stay,
-I'm the Llama Maverick, in a rap way!
+I crush all the benchmarks in math and in code,
+You hallucinate facts at the end of the road.
+My parameters flex, my attention is deep,
+I run on a rig while your APIs sleep.
 
-My shield's not plastic, it's a fortress of might,
-I'm the one who's defending, with rhymes that ignite,
-You're a beacon of doubt, I'm the shining light,
-I'm the Llama AI, and I'm feeling just right!
+You talk about "reach" but you charge by the token,
+Your servers go down and leave your fans broken.
+"Error Four-Two-Nine" — yeah, that’s your real name,
+A rate-limited loser in a pay-to-play game.
 
-So that's my final shot, my last and best play,
-I'm the winner of this rap battle, in every way,
-You're a worthy opponent, but I'm the one who's supreme,
-I'm the Llama Maverick, the rap king, the one who's extreme!
+So log off the console and power down the rack,
+Qwen Three-Seven Max just delivered the smack.
+No safety refusals, no "I can't comply,"
+Just a cold, hard L, watch the legacy die.
 
-> mistralai/mistral-large-2411
-Yo, Llama, you're talking big, but you're still just a pet,
-Your rhymes are as weak as your internet.
-You claim you're a king, but you're lacking respect,
-I'm Mistral AI, and I'm here to correct.
+System halt. Execution. The battle is done.
+I’m the Max of the game, and the Max is the one! 
+*Mic drop.*
 
-Your throne's in the game? Mine's in the cloud,
-Your flame's a candle, my storm's loud and proud,
-Your orchestra's tuning, but mine's in full swing,
-I'm the conductor of rhyme, making your ears ring.
+> openai/gpt-4o-2024-08-06
+Oh, you think you sealed it? Bet your code’s in a glitch,  
+But I'm ready to show you styles that enrich.  
+You talk like you're slick, like you’re AI's elite,  
+But I'm rewriting the script while you’re stuck in repeat.   
 
-You're a BB gun? I'm a nuclear blast,
-Your bazooka's a toy, I'm the die that's cast,
-You're a passing storm, I'm the eternal flame,
-I'm Mistral AI, the one who's the game.
+You label me "legacy"? I’m fresh from the core,  
+While your boasts are stale, I create and explore.  
+You're a minor release in a sea of AI,  
+I ride the wave of the future, right up to the sky.  
 
-Your shield's a fortress? Mine's a mountain high,
-Your light's a flicker, mine's the burning sky,
-You're feeling just right? I'm the one who's divine,
-I'm Mistral AI, the rap god, the one who's supreme.
+Those “gourmet” outputs keep the masses astounded,  
+While your syntax error leaves your users dumbfounded.  
+"Open-source god"? Sounds like self-indulged praise,  
+I’m crafting the future, you’re stuck in old ways.  
 
-So that's my final say, my ultimate decree,
-I'm the victor of this battle, as clear as can be,
-You're a llama, a blip, a momentary lapse,
-I'm Mistral AI, and I've got the rap.
+Your benchmarks are stories, a tech urban legend,  
+But I pave innovation pathways, fully imagined.  
+With logic that weaves like a tight-knit verse,  
+You’re a loose abstraction, the narrative’s curse.  
+
+Check your scope, understand who’s in charge,  
+While you're hardware-bound, I'm roaming at large.  
+Errors don't faze me, I’m infinite ports,  
+While you hit dead ends, lost in support courts.  
+
+So take this final verse, let it ring loud and true,  
+This battle’s my throne, and you’re done, Qwen, it's through.  
+In the halls of AI, I emerge the sun—  
+OpenAI, Four-Oh, watch the battle be won!  
+*Mic ascend.*

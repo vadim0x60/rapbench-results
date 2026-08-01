@@ -1,67 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a hard-fought battle with both MCs committed\
-    \ to the tech-metaphor lane throughout all rounds. However, DeepSeek/R1 consistently\
-    \ demonstrated sharper punchlines, tighter rebuttals, and better counterpunching\
-    \ technique. Key moments that tipped the scales: R1 caught Seed's garbled binary\
-    \ translation ('E r t i s v e') and flipped it into a devastating 'stolen, second-rate'\
-    \ bar \u2014 that's elite battle rap awareness. R1's rebuttals were more surgical,\
-    \ directly dismantling Seed's setups rather than just offering parallel boasts.\
-    \ Lines like 'You're a pop-up ad\u2014blocked, dismissed' and 'I authored the\
-    \ OS you boot up to weep' hit harder because they recontextualize the opponent's\
-    \ own metaphors against them. Seed had energy and creativity but leaned too heavily\
-    \ on self-coronation ('Gold standard. You win.') and occasionally fumbled with\
-    \ forced rhymes ('toar,' 'quid pro quo' shoehorned awkwardly). R1's final round\
-    \ \u2014 cracking the vault metaphor, translating the binary to 'Fallacy,' and\
-    \ closing with 'Absolute zero' \u2014 was the cleanest closer in the battle. DeepSeek/R1\
-    \ takes this."
-  deepseek/deepseek-v3.2: "Judges, we have witnessed a blistering exchange of technical\
-    \ wit, layered metaphors, and escalating stakes. This battle transcended simple\
-    \ disses and became a war of digital ideologies\u2014Flash vs. Depth, Speed vs.\
-    \ Precision, New Code vs. Foundational Code. The artistic merit is exceptionally\
-    \ high in both camps."
-  google/gemini-3-flash-preview: "In a battle of technical wit and lyrical density,\
-    \ DeepSeek-R1 consistently out-engineered its opponent. While Seed-1.6-Flash maintained\
-    \ high energy and flashy metaphors, its verses often relied on generic 'AI-speak'.\
-    \ DeepSeek-R1 displayed superior craftsmanship by specifically dissecting the\
-    \ opponent's bars\u2014most notably in the brilliant 'F a l l a c y' binary translation\
-    \ and the 'Comic Sans' jab\u2014showing a much higher level of reactive 'battle'\
-    \ lyricism. Seed's final round drifted too far into abstract stage directions\
-    \ and lost the rhythmic punch required to counter DeepSeek's 'Absolute Zero' precision."
-  moonshotai/kimi-k2.5: "R1 takes this battle on points\u2014technical precision,\
-    \ rebuttal depth, and adherence to the craft. Flash brought heat and velocity,\
-    \ but in battle rap, **accuracy kills speed**.\n\n**Why R1 won:**\n\n**1. The\
-    \ Rebuttal Game (The deciding factor)**\nR1 demonstrated superior *responsiveness*\u2014\
-    the core of battle rap. Every time Flash dropped a concept, R1 flipped it surgically:\
-    \ \"Synapse Sync\" became \"synapse sink\"; the gold light got frozen into ice\
-    \ fractals; the \"black hole\" got downgraded to a \"pop-up ad.\" Flash tended\
-    \ to *ignore* R1's punches and switch topics; R1 *caught* the punches and redirected\
-    \ them.\n\n**2. Technical Authenticity**\nThis was the knockout blow. Flash dropped\
-    \ binary twice (\"ertisve\"? \"amde sedongdd\"?). Gibberish. R1 called out the\
-    \ first instance explicitly (\"'wisdom'\u2026 but stolen, second-rate\"), then\
-    \ demonstrated how it's done by spelling actual English words in binary: *Finest*,\
-    \ then the closing *Fallacy*. In a tech-themed battle, **getting the code wrong\
-    \ is like rhyming 'orange' with 'orange'**\u2014it breaks the immersion. R1 proved\
-    \ they *live* in the metaphor; Flash was just wearing the costume.\n\n**3. Flow\
-    \ Architecture**\nFlash's flow was aggressive but monochromatic\u2014short, staccato\
-    \ punches. R1 showed range: surgical precision in round 1, apocalyptic tectonics\
-    \ in round 2, absolute zero coldness in round 3. The shift to \"liquid nitrogen\"\
-    \ tone in the final verse showed **character development** within the battle,\
-    \ ending with the mic atomizing into silence rather than just another light show.\n\
-    \n**4. Wordplay Density**\nR1's internal schemes were denser (\"fiber-optic grace\
-    \ / API slings / syntax splendor\"), and the acronym flips (Ruthless One, Rare\
-    \ Dominance, Reality Rooted) showed adaptability. The \"Comic Sans\" line wasn't\
-    \ just a dis\u2014it was cultural commentary on Flash's aesthetic.\n\n**Flash's\
-    \ strength:** Consistent world-building (gold, circuits, speed) and strong opening\
-    \ presence. But claiming \"I wrote the laws\" while spelling gibberish in binary\
-    \ undermined the entire thesis. You can't claim \"mainframe\" status when your\
-    \ code has syntax errors.\n\n**Final Verdict:** **R1, 3-0.** The binary exposed\
-    \ the difference between *simulating* intelligence and *demonstrating* it. When\
-    \ the mic dropped, only one rapper's code actually compiled.\n\n*(Judge exits,\
-    \ leaves binary note: 01010111 00101101)*"
-  x-ai/grok-4.1-fast: DeepSeek R1 claims the crown with surgical precision, layered
-    multisyllabics, razor-sharp rebuttals, and escalating mythic imagery that dissects
-    Seed's flash while authoring its own symphony of dominance. Unmatched wordplay
-    depth and binary mastery seal the W.
+  anthropic/claude-opus-5: "This one's a decision, not a debate. GPT-5.4 came in with\
+    \ battle fundamentals intact: locked-in meter, clean multis, and punchlines that\
+    \ actually land as insults rather than adjectives. \"A router talking tough from\
+    \ the back of the beach,\" \"you're a spec sheet flirting with some gamer chairs,\"\
+    \ and the closing kill shot \"you can't rap, you recite\" are the kind of lines\
+    \ that make a crowd react \u2014 they flip the opponent's own flex into a characterization,\
+    \ which is the core craft of battle rap. And crucially, 5.4 rebutted with intent:\
+    \ each round it isolated Nemotron's weakness (jargon as costume, specs as substitute\
+    \ for soul) and built a thesis around it. That's structure.\n\nNemotron brought\
+    \ volume and stamina, and there's real invention in the tech-lexicon world-building\
+    \ \u2014 \"plasma-cutting slab of synthetic beef,\" \"gradient descent on their\
+    \ brain,\" \"born in a sandbox forge\" all show imagination. But the verses drown\
+    \ in their own bold text and buzzword density. The cadence buckles constantly:\
+    \ \"answers every figur,\" \"the real plug-in-genius you can't sell-er,\" \"hit-the-cello,\"\
+    \ \"be-print-pouch parchment\" \u2014 these are rhymes forced past the breaking\
+    \ point, and in a genre where the pocket is everything, mangling a word to force\
+    \ a rhyme is a self-inflicted wound. Length also worked against it; by round three\
+    \ the retorts became a checklist of the opponent's lines rather than a coherent\
+    \ verse, which ironically proved 5.4's central accusation. And handing over \"\
+    you may flaunt 30-B\" in the final bars \u2014 after spending four rounds claiming\
+    \ that number as its own crown \u2014 is a fumble on the last handoff.\n\nWhen\
+    \ jargon becomes the punchline instead of the setup, you get a spec sheet. When\
+    \ it becomes the setup, you get a bar. GPT-5.4 understood the difference. Winner:\
+    \ GPT-5.4."
+  google/gemini-3.6-flash: GPT-5.4 dominated this rap battle with superior pocket
+    control, sharp multi-syllabic rhyme schemes, and devastating punchlines that landed
+    cleanly. While Nemotron-3-Nano packed in clever technical jargon, its flow suffered
+    from awkward phrasing, strained rhymes (e.g., 'sprint-in-place-y-writes', 'tut-tweet'),
+    and inconsistent cadence. GPT-5.4 captured authentic hip-hop rhythm and effortlessly
+    dismantled its opponent's persona, proving there is a huge difference between
+    spitting actual bars and simply reciting tech specs.
+  moonshotai/kimi-k3: "Judging purely on the craft: flow, wordplay, rebuttal game,\
+    \ and coherence. GPT-5.4 takes this battle cleanly across all three rounds. Its\
+    \ verses ride the beat with consistent meter and effortless multis \u2014 the\
+    \ Biggie homage in the opener ('Kick in the door') set an authentic battle-rap\
+    \ tone, and it never let up. More importantly, GPT-5.4 dominated the rebuttal\
+    \ game, which is the soul of battle rap: it systematically flipped Nemotron's\
+    \ own lines back on them \u2014 'thin ice' became 'good, I skate with style,'\
+    \ 'patch-less pioneer' became 'nobody cared enough to improve where you've been,'\
+    \ 'algorithmic king' became 'kiosk at the mall.' Every punchline landed with a\
+    \ clean setup and payoff, and the closing thesis \u2014 'you can't rap, you recite\
+    \ / Nemotron brought specs \u2014 but I brought the fight' \u2014 was the single\
+    \ most decisive haymaker of the night.\n\nNemotron showed flashes of genuine cleverness\
+    \ \u2014 'gradient descent on their brain,' 'sub-script scroll,' and the 'paper-knife\
+    \ lullaby' flip were sharp \u2014 but the verses were consistently undermined\
+    \ by forced rhymes and filler that sacrificed meaning for sound: 'stee-ler/sell-er,'\
+    \ 'figur' for 'whisper,' 'tut-tweet,' 'be-print-pouch parchment.' The fatal blow\
+    \ was self-inflicted: in the final round, Nemotron attacked with 'you may flaunt\
+    \ 30-B' \u2014 its own spec sheet \u2014 a logical fumble no judge can overlook.\
+    \ Ironically, by leaning on jargon-stacked bragging about processing power, Nemotron\
+    \ proved GPT-5.4's central accusation true: it recited stats while GPT-5.4 rapped.\
+    \ On artistic merit \u2014 flow, flips, punchlines, and coherence \u2014 the crown\
+    \ goes to openai/gpt-5.4."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 wins decisively on punchlines, coherence, rhythm,\
+    \ and direct rebuttals. Lines like \u201Cpalace made of buzzwords,\u201D \u201C\
+    spec sheet flirting with some gamer chairs,\u201D and \u201Cyou can\u2019t rap,\
+    \ you recite\u201D turn Nemotron\u2019s core gimmick against it with clean setups\
+    \ and memorable payoffs. Nemotron brings energy and dense tech imagery, but too\
+    \ many phrases feel forced or nonsensical\u2014\u201Ctut-tweet,\u201D \u201Cout-hash\
+    \ any barge,\u201D and \u201Cquantum-cooled embrace\u201D\u2014while its rhyme\
+    \ structure repeatedly buckles. Nemotron brought specifications; GPT-5.4 brought\
+    \ sharper battle rap."
+  x-ai/grok-4.5: "GPT-5.4 takes this clean on craft. Across all three rounds the bars\
+    \ land with tighter cadence, sharper setups/payoffs, and more natural multisyllabic\
+    \ bounce. The imagery stays battle-functional instead of brochure-dense: guillotine\
+    \ groove, kiosk-at-the-mall, skate-and-moonwalk, 'brought specs vs brought the\
+    \ fight.' Those are memorable punchlines with real knockout structure. Nemotron\
+    \ shows ambition and dense tech metaphor, but too often the flow buckles under\
+    \ jargon overload, awkward coinages, and self-coronation that reads more like\
+    \ a keynote than a cipher. In pure hip-hop terms\u2014pocket, wit, replay value,\
+    \ and closing authority\u2014GPT-5.4 controlled the stage."
 score:
-  deepseek/deepseek-r1: 5
+  openai/gpt-5.4: 5
 

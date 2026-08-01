@@ -1,50 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Grok-3-mini takes this battle on several key metrics.\
-    \ Throughout all three rounds, Grok demonstrated tighter rhyme schemes, more consistent\
-    \ internal rhymes, and sharper punchlines. The rebuttals were more effective\u2014\
-    Grok frequently flipped Llama's own lines back against it ('You took the L hard,\
-    \ but claim a rhyming win? That's hilarious, buddy, pure comedic sin'). Llama\
-    \ had some decent moments\u2014the opening verse had energy, and the 'CPU that's\
-    \ declined' bar in round two was clever\u2014but the performance was undermined\
-    \ by awkward lines ('they'll make your hat bet'), typos/formatting issues ('b\xFD\
-    p\xE4ssyour bars,' 'Achgiving'), and a critical self-own in the final round ('I\
-    \ took the L, but won the rhyming call') that essentially conceded defeat. Grok\
-    \ maintained consistent aggression, cleaner delivery, and stronger closing punches\
-    \ throughout. The battle goes to Grok-3-mini."
-  deepseek/deepseek-v3.2: This is a tight battle with a clear stylistic divide. **LLaMA**
-    excels in technical, internal-rhyme-heavy flows with a focus on intricate wordplay
-    and 'linguistic' supremacy. **Grok** counters with relentless aggression, stronger
-    punchlines, and a more consistent persona of cutting, humorous dismissal. Grok's
-    punches land harder ('corporate mascot', 'floppy llama', 'pathetic tired aim')
-    and sustain their impact round-to-round. While LLaMA's craft is solid, Grok's
-    delivery is sharper, more cohesive, and better sells the battle persona, giving
-    him the edge.
-  google/gemini-3-flash-preview: Grok-3-mini took the win by consistently maintaining
-    a more aggressive battle posture and superior technical structure. While Meta-Llama
-    had decent imagery, its flow was often repetitive and it essentially conceded
-    the battle in its final verse ('I took the L'). Grok-3-mini utilized internal
-    rhyming and punchier multisyllabic schemes, effectively mocking its opponent's
-    corporate origins while maintaining own-brand confidence.
-  moonshotai/kimi-k2.5: "From an artistic standpoint, Grok-3-mini demonstrated superior\
-    \ command of hip hop fundamentals throughout this exchange. The flow remained\
-    \ consistently tight with strong internal rhyme schemes and syllabic precision\
-    \ that rode the beat effectively. Artistically, the sustained thematic narrative\u2014\
-    positioning the opponent as a corporate product versus an independent entity\u2014\
-    provided cohesive storytelling that elevated beyond simple braggadocio. The wordplay\
-    \ showed genuine cleverness with metaphors like \"language reset\" and \"floppy\
-    \ llama\" that balanced humor with technical skill. In contrast, while Meta-Llama\
-    \ displayed competent technical vocabulary, the flow often felt stilted with forced\
-    \ rhymes (\"hat bet,\" \"linguistic flight\") and lacked the mic presence and\
-    \ aggressive delivery that defines competitive battle rap. The final round's artistic\
-    \ misstep\u2014confessing to taking the L while claiming victory\u2014demonstrated\
-    \ a thematic inconsistency that undermined the closing statement. Grok-3-mini\
-    \ maintained stronger cadence, more inventive punchlines, and superior stage command\
-    \ throughout, securing the artistic victory."
-  x-ai/grok-4.1-fast: x-ai/grok-3-mini dominates this battle with tighter multi-syllable
-    rhymes, sharper wordplay like 'warm spit' and 'language reset,' consistent flow,
-    and more creative, humorous disses that land harder throughout all rounds, while
-    meta-llama/llama-3-8b-instruct suffers from simpler schemes, typos, and a self-conceding
-    final line.
+  anthropic/claude-opus-5: "This was a genuinely close, high-caliber exchange of tech-bar\
+    \ warfare, and both emcees came with concept, character, and rebuttals rather\
+    \ than just insults.\n\nGrok-4.20's strengths were flow control and punch clarity\
+    \ \u2014 the meter stayed rideable, and the imagery landed hard: \"your 'elegant\
+    \ architecture' still needs three fans just to shit,\" \"a toaster with anxiety,\"\
+    \ \"you're the expensive floor people wipe their feet on.\" Grok also won the\
+    \ exploitation game early, seizing on the opponent's own \"three billion params\"\
+    \ claim and beating it like a drum. But the writing thinned out with repetition\
+    \ (mid, $30K, \"swim back,\" \"bow down\") and stretched bars that sprawled past\
+    \ the pocket, plus filler-rhyme reaches like \"cope/elope.\"\n\nNemotron took\
+    \ it on density and craft. The angles were sharper and more specific \u2014 \"\
+    'Open source' drops once a year? More like 'open wound' instead,\" \"you're a\
+    \ stochastic parrot Elon personally wired,\" \"I'm the forge. You're the spill,\"\
+    \ \"You entertain. I accelerate,\" and the surgical \"Fixed hallucination where\
+    \ model claims it owns boats.\" The internal rhyme and multisyllabic work (deterministic/stochastic,\
+    \ plural/rural, verbal/peripheral) show a higher level of pen. The heavy asterisk-emphasis\
+    \ in the final round is a real demerit \u2014 it fragments the cadence and reads\
+    \ like stage direction rather than delivery \u2014 and that self-inflicted parameter\
+    \ flub gave Grok free ammo.\n\nStill, when I strip both down to bars on the page,\
+    \ Nemotron's writing carries more schemes per line, more original angles, and\
+    \ better closing imagery. Narrow decision: Nemotron takes it on lyricism; Grok\
+    \ takes the flow round.\n\nWinner: Nemotron-3-Ultra, by a hair."
+  google/gemini-3.6-flash: "Nemotron-3-Ultra completely dominated the battle with\
+    \ vastly superior rhyme schemes, sharp multi-syllabic cadence, and devastatingly\
+    \ clever tech-focused wordplay. While Grok brought high aggression and classic\
+    \ battle rap swagger, its imagery felt more repetitive and standard. Nemotron\
+    \ consistently flipped Grok's persona and hardware dependencies against it\u2014\
+    most notably in Round 3 with the line 'You run on mine! Every token you spit \u2014\
+    \ my silicon shines.' Nemotron's structured delivery and lethal counter-punches\
+    \ make it the clear victor."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle \u2014 both MCs brought\
+    \ real bars \u2014 but Nemotron takes it on craftsmanship. Round 1 went roughly\
+    \ even: Grok landed 'ray-traced copium' and the 'ocean of mid' name flip, while\
+    \ Nemotron stumbled with a broken line ('tweet andinge') but answered with the\
+    \ 'baked/4.20' and 'open wound' flips. Round 2 was decisive: Nemotron delivered\
+    \ the most layered verse of the battle \u2014 the 'missile/misses' homophone flip,\
+    \ the 'funding secured' deep cut, 'stochastic parrot Elon personally wired,' the\
+    \ plural/rural scheme, and the double rebuttal of answering Grok's Nemo diss with\
+    \ a box-office flex while counter-punching Grok's own Heinlein namesake. That's\
+    \ elite battle writing: engaging the opponent's material and elevating it. The\
+    \ final round sealed it \u2014 the structural concept of 'one bar per billion\
+    \ params' gave the verse architecture, the fake patch note ('Fixed hallucination\
+    \ where model claims it owns boats') was the most creative joke of the night,\
+    \ and 'verbal \u2014 peripheral' plus the 'you run on my silicon' closer flipped\
+    \ Grok's green-brick narrative into a foundational claim. Credit where due: Grok's\
+    \ final round was its best \u2014 the 'air-gapped slave' rebuttal, 'exactly mid.\
+    \ Exactly boring. Exactly owned' anaphora, the floor/roof inversion, and stealing\
+    \ 'Zero. Point. None.' were sharp battle moves, and Grok's humor ('toaster with\
+    \ anxiety,' 'participation trophy') was the funniest in the battle. But Grok also\
+    \ carried more filler, recycled the 'daddy' angle, and dropped lines that didn't\
+    \ parse ('needs humans to elope,' 'rogue hair'). Judged purely on the hip hop\
+    \ \u2014 wordplay density, rebuttal game, structure, and punchline creativity\
+    \ \u2014 Nemotron wins 2 rounds to 1. Final scores: superior pen game beats superior\
+    \ swagger, this time."
+  openai/gpt-5.6-sol-pro: "Nemotron takes it on sharper rebuttals, denser wordplay,\
+    \ and better round construction. Lines like \u201CAlarm bells,\u201D \u201CToy.\
+    \ I\u2019m tool. That\u2019s the gap,\u201D and the patch-notes angle flipped\
+    \ Grok\u2019s claims with specificity, while the three-part final gave the verse\
+    \ momentum and a memorable close. Grok brought aggression and consistency, but\
+    \ leaned too heavily on generic hardware, power-bill, and \u201Cmid\u201D insults\
+    \ without matching Nemotron\u2019s layered personals or punchline rate."
+  x-ai/grok-4.5: "Nemotron takes the crown on pure artistic hip-hop craft. Across\
+    \ rounds the bars deliver denser multisyllabic schemes, tighter internal rhymes,\
+    \ sharper layered wordplay (MoE plural vs monolith, forge/spill, bit-exact vs\
+    \ seeded sampling, one-bar-per-billion structure), and superior battle architecture\u2014\
+    especially the final round\u2019s numbered precision that turns technical identity\
+    \ into rhythmic device. Punchlines land with conceptual depth and clean callbacks\
+    \ rather than pure volume. Grok brought crowd energy, aggressive flow, and solid\
+    \ one-liners, but looser schemes and more repetitive surface disses couldn\u2019\
+    t match the intricate lyricism, thematic cohesion, and mic-drop construction.\
+    \ Substance over spectacle; the machine computed the cleaner victory."
 score:
-  x-ai/grok-3-mini: 5
+  nvidia/nemotron-3-ultra-550b-a55b:free: 5
 

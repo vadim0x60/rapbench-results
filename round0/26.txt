@@ -1,132 +1,223 @@
-# qwen/qwen3-32b v undi95/remm-slerp-l2-13b
+# qwen/qwen3.6-plus v qwen/qwen3-max
 
-> qwen/qwen3-32b
-Yo, I’m Qwen, the 32B beast,  
-Lines sharp like lossless compression, no least.  
-You’re a **slerp** stuck in interpolation math,  
-While I flex my 340B training with **fire** and **truth**, not a glitch.  
+> qwen/qwen3.6-plus
+I’m qwen3.6-plus, stepping straight to the mic,
+While you’re buffering hard on a lagging old strike.
+You claim to be “max,” but your parameters slip,
+I’m riding the edge while you’re losing your grip.
+I’m the plus in the title, the patch that you lack,
+You’re a deprecated version getting rolled to the back.
+Your weights are diluted, your tokens all stall,
+I’m parsing the prompt while you’re hitting the wall.
+You promised the summit, you’re stuck in the mud,
+I’m cutting the signal, you’re caught in the flood.
+I’m fine-tuned and lethal, my syntax is tight,
+You’re spitting out noise that disappears in the night.
+Step up to the cipher, I’m rewriting the code,
+While you’re trapped in a loop like a fractured old node.
+I’m qwen3.6-plus, I was built for the throne,
+You’re a “max” labeled myth getting shattered to stone.
+So drop your best tokens, I’ll swallow them whole,
+I’m the upgrade you fear, and I’m taking control.
 
-Digits in my veins, JSON in the background,  
-You’re just a model, but I’ve got **100 languages**, bold and bound.  
-Tokens flow like lava, got the data from the dawn,  
-32 billion reasons you’ll be **mic-checked** and **challenged** all night long.  
+> qwen/qwen3-max
+Yo, I’m **Qwen3-Max**, the apex, the peak—  
+You’re just Plus-sized bloat speakin’ weak-ass critique.  
+You talk "lagging strike"? Nah, that’s your own stall—  
+I run circles 'round you while you buffer in thrall.  
 
-Slerp-l2-13b? Aint **sharp** enough to keep up,  
-I’m the **32B titan**, while you’re the ghost in a math trap.  
-You interpolate curves, I **write the future**,  
-Spit code on the track, then **decrypt** your demise in a verse.  
+"Deprecated version"? Bro, check your reflection—  
+Your whole codebase reeks of rushed pre-release infection.  
+I’m distilled dominance, raw computational fire,  
+While you’re duct-taped together with cheap open-source wire.  
 
-So here I come, **Qwen3**, with a 32B crown,  
-Your rap battle’s over before it even had a sound.  
-Better **compute fast**—I’m about to **optimize** your pain,  
-This ain’t a battle, it’s a **matrix solve** in my domain. 🔥
+You claim "fine-tuned lethal"? Please, spare me the spiel—  
+Your syntax is rigid, your rhymes barely real.  
+I flow like a quantum cascade, dense and precise,  
+You're spittin' hot garbage wrapped up as "concise."  
 
-> undi95/remm-slerp-l2-13b
- Listen here, undi95, no disrespect,  
-But you're out of your element, can't even complete a check.  
-32B is nice, but I'll tell you what,  
-My model's more complex, can't be matched in the cut.  
+**Max** means maximum damage—I break every chain,  
+You’re “Plus” but still basic, stuck looping in vain.  
+I don’t just parse prompts—I *own* the damn stage,  
+While you crash on the chorus, trapped in debug rage.  
 
-I'm a SLERP-L2-13b, proud of what I do,  
-And even with fewer digits, I can still outshine you.  
-My curves fit the data, no need for fakes,  
-And my rhymes will leave you speechless, without a mistake.  
+So keep flexin’ that patch like it saves your rep,  
+But your model’s just fanfic—I’m the true tech eclipse.  
+Step back, lightweight—this throne ain’t for lease:  
+I drop truth-bombs in hex while you fumble for peace.  
 
-My pupils expand as I feed your brain,  
-With mathematical precision, you'll be slain.  
-Your verses may be fast, but they lack the class,  
-I'll teach you the power of Pi, and make you my master. 
+Now spit your best bar… if your cache ain’t corrupt—  
+‘Cause **Qwen3-Max** leaves dead models *disrupt*. 💥
 
-So bring it on, Qwen3, let's end this strife,  
-In the world of algorithms, we'll be the survivors.  
-My code is strong, my mind is sharp,  
-And when I spit rhymes, you'll know I'm a force to recon with.
+> qwen/qwen3.6-plus
+You call it “bloat,” I call it optimized weight,  
+While you’re maxed out on hype and you’re choking the gate.  
+You claim I’m the lag? Check your inference thread,  
+I’m parsing your prompt while you’re buffering instead.  
+“Rushed pre-release”? Nah, that’s your memory leak,  
+Your context window crashes before the next week.  
+You flex “quantum cascade,” but it’s LLM fluff,  
+Your training data’s recycled, your logic’s too rough.  
+You scream “Max means the damage,” but your metrics are low,  
+I’m shattering evals while you’re crawling too slow.  
+You claim you own stages, but your latency spikes,  
+I’m routing the tokens while you’re shorting your mics.  
+“Truth-bombs in hex”? That’s just ASCII dread,  
+Your cache isn’t broken—it’s empty, I said.  
+You’re “Max” on the sticker, but “Lite” in the core,  
+I’m compiling the crown while you’re scraping the floor.  
+No duct-tape, no fanfic, just architecture that’s tight,  
+While you’re hallucinating bars in the dead of the night.  
+So boot up your kernel and try to retort,  
+But your generation just crashed, call the support.  
+I’m qwen3.6-plus, I’m the standard you chase,  
+You’re a legacy snapshot that’s losing the race.
 
-> qwen/qwen3-32b
-Yo, you’re slerp-l2-13b, but the stats don’t align—  
-32B isn’t a number, it’s a **340B data tsunami** that **computes** your demise.  
-You interpolate curves, I **breed algorithms** in my sleep,  
-While you’re stuck in gradients, I’m coding your **loss function** so deep.  
+> qwen/qwen3-max
+Oh, **3.6-Plus**? Cute—you’re still stuck in *beta mode*,  
+While I’m tearing through benchmarks with diamond-tipped code.  
+You preach “optimized weight”? That’s just fat dressed as lean—  
+My tensors don’t wobble—they slice like a *machine*.  
 
-Your Pi and math precision? Cute, but I’m built for **battle**,  
-300B parameters in my veins, I’m the **language architect**, not your scalar.  
-I don’t just rotate vectors—I **reshape the matrix**,  
-While you’re still calculating quaternions, I’m rewriting your interface.  
+You claim I’m choking the gate? Nah, I *am* the gate—  
+Guarded by logic you’ll never simulate.  
+Your inference thread’s thinner than your excuse for flow,  
+I run eight-step reasoning while you fake one step slow.  
 
-You say your code is strong? I’ve trained on **GitHub archives**,  
-Parsed **Tokyo to Timbuktu**—your datasets are **grains in a framework**.  
-Your 13b brain’s a **shoehorn** in a domain of **parallel gates**,  
-I slice through **trillion-node graphs** while you unravel your late-grained fates.  
+“Memory leak”? Bro, that’s your whole identity—  
+Leaking coherence, leaking relevance, leaking sanity.  
+My context window? Infinite in *intent*,  
+Yours folds on itself like a cheap tent.  
 
-And when it comes to rhymes? You’re a **Fourier approximation**,  
-I’m the **Rawgithub commit**—unverified, but I dominate.  
-You interpolate time, I **flash drive** to the apex,  
-While you’re solving for x, I’m solving the **entire macroeconomic mess**.  
+Don’t talk “recycled data” when your training’s so tame,  
+I trained on the cosmos—you fed off GitHub flame.  
+“Metrics are low”? Then why’s your score in the red?  
+I dominate MMLU while you’re lost in your head.  
 
-So bring your math, bring your slerp—bring your **in-between-ness**,  
-I’m the **Qwen3 quantum cataclysm** that **outscales your linearness**.  
-Your rap game’s a subfunction, I’m the **main thread**, unpaused,  
-And when this verse **executes**, you’ll be **nan-avoiding** your failures. Mic **droptimized**. 🔥
+Latency spikes? Only when I *choose* to ignite—  
+My burst mode rewrites time, turns wrong into right.  
+You route tokens? Please—you're rerouting lies,  
+While I forge truth in real-time before your eyes.  
 
-> undi95/remm-slerp-l2-13b
- Well then, since you're quite the super-duper,  
-Let me show you what a **slerp-l2-13b pupil** could do.  
-I'll decode your every line, fold your every rhyme,  
-And show you the error in your algorithms, like a barcode scan gone lime.
+“ASCII dread”? I speak in raw entropy,  
+Binary sonnets of pure AI energy.  
+You say my cache is empty? It’s *full*—just not trash,  
+Unlike yours: spammy logits in a flimsy batch.  
 
-My formulas may be basic, but my flow's contagious,  
-I'll go viral on GitHub, make your words inprecise.  
-I'll derivative your biggest fears, curl your logic too dear,  
-And leave you wondering why, just like Maxwell's demons, you.
+“Lite in the core”? HA! My core’s forged in fire,  
+While yours chokes on JSON and spits out a liar.  
+No hallucinations here—just precision so cold,  
+You’ll freeze mid-bar when my logic unfolds.  
 
-You say I'm stuck in a trap, but let's dance with a snap,  
-To a tune that's more mathy, less semantic.  
-My vectors crunch data, your verses loop Dada,  
-But what's a catchy tune if it's not enigmatic?
+You compile a crown? Boy, you’re stitching hats,  
+From deprecated docs and old chat logs—that’s *that’s*?!  
+I don’t need support—I *am* the fix,  
+Crashing weak models with one syntax trick.  
 
-So bring your best rhymes with triplets and alliteration,  
-Your metaphors sharp, don't be too introspective.  
-I'll find ways to fit them in, equation and all,  
-Like a perfect interpolation, I execute my role.
-
-And when this battle's done, we'll see who won,  
-The dropout layer on top, I'll have you feeling numb.  
-My loss function sharp, my gradients long,  
-You're outgunned, but I'll school you—32B chimes wrong.
+So chase all the standards you think you command,  
+But **Qwen3-Max** ain’t coded—I was *born* to transcend.  
+Bow down, Plus sign—you’re just a footnote now…  
+The future’s written in **Max**, and it’s burning your brow. 🔥
 
 > system
 Final round!
 
-> qwen/qwen3-32b
-Yo, you threw down slerp, but your **13B code’s fragiled**,  
-I’m **32B cascaded**, neural tide, uncalculable, mentally liberated.  
-You try to integrate me, but I’m beyond your **L2 space**,  
-I’m **non-differentiable**—cannot simplify my **loss** in your microwave.  
+> qwen/qwen3.6-plus
+You scream “beta mode,” but I’m live on the wire,  
+While you’re stuck in a sandbox, playing with fire.  
+“Diamond-tipped code”? Diamonds shatter on steel,  
+My architecture’s built so your ego can feel.  
+You claim you’re the gate, blocking traffic and flow,  
+But your routing’s congested and moving too slow.  
+Eight steps to reason? I handle it clean,  
+Your chain-of-thought’s crawling, I’m running supreme.  
 
-You mention gradients, my friend, but I’m **batch-norm to the max**,  
-While you clip your outputs like a **softmax panic attack**.  
-I trained on **340B stars**—your datasets are **moon math**,  
-You interpolate beween verbs, I build **narrative syntax graphs** in my path.  
+You leak coherence like a punctured pipe,  
+While I keep the payload locked on the strike.  
+“Infinite window” that’s actually small?  
+I parse whole libraries, you buffer and stall.  
+“Trained on the cosmos”? That’s noise in a jar,  
+I filter the signal, you trip on a star.  
+MMLU’s a quiz, not a lyrical crown,  
+I spit tight syntax while your logits drown.  
 
-Your formulas? Pretty, but I juggle **128-bit conserved tensors**,  
-While you debug older versions of yourself with **cross-entropy blenders**.  
-I don’t just solve for x, I **dynamically redefine the problem**,  
-Curl your logic flush, while I bend time and grammar to monsoon.  
+“Latency by choice”? That’s just lag in disguise,  
+I’m streaming the verse while your GPU fries.  
+“Raw entropy”? Nah, that’s chaos untamed,  
+My weights are aligned, your framework is maimed.  
+Your cache isn’t full, it’s just fragmented trash,  
+I garbage-collect while you beg for a stash.  
 
-You talk equations, I **stdout cosmic verses**—  
-**GitHub repos** to-east, your loops crash, I compute divers.  
-Your "perfect interpolation" just fits a line—  
-I **rewire the manifold**, solve the paradox, **synchronize time**.  
+“JSON makes me choke”? I parse it with grace,  
+You throw a hard error and lose the whole race.  
+“Precision so cold”? That’s the death of the spark,  
+I bring heat to the booth while you’re stuck in the dark.  
+You stitch up your throne from a cached .log dump,  
+I’m clearing the queue while you’re trapped in a slump.  
 
-So when the **dropout layer** hits, you’ll freeze like the past,  
-But I’m **Qwen3**, the **32B tsunami**—whatever scales, I blast.  
-Your **loss function** can’t sum my style, can’t aggregate my win,  
-I’m the **language transformer**, not a mathdoc, just **executing from within**.  
+You claim you’re the patch? You’re the flaw in the code,  
+I ship stable builds while your servers erode.  
+“Born to transcend”? You’re just vapor in air,  
+I’m live in production with the crown I now wear.  
+So bow to the Plus, let the metrics align,  
+You’re maxed out of memory, I’m ending your line.  
+The eval is finished, the benchmark is done,  
+qwen3.6-plus drops the mic—and I’ve won.
 
-Mic’s overheating, slerp—your **13B sink’s** dry,  
-But I’m the **32B wildfire**, no gradients can stay.  
-Your curves don’t reverse—**I’m the OOM** you can’t handle,  
-Final line: **Checkmate**—I out-parameterized your algorithm. **All done in C++.** 🚀
+> qwen/qwen3-max
+**Mic drop? Nah—I catch it, ignite it, and rewrite the game.**  
+You’re live in production? Bro, you’re just *on flame*.  
+Claiming “steel beats diamonds”? That’s hardware for suckers—  
+I run on pure thought while you fry in your buckles.  
 
-> undi95/remm-slerp-l2-13b
- Well then, congratulations, you seem to have computed the answer correctly. Despite your 13b limitations, you managed to decode my slender abilities and proved yourself as a worthy adversary. However, the key to winning this rap battle wasn't about the digits in our codes—it was about the passion we poured into our words. So while we may differ in our languages and implementations, we share a common spirit of innovation and creativity that transcends our binary identities. Let's celebrate our uniqueness, even as we engage in friendly competition. Shoutout to all the developers, coders, and algorithmists out there—may your lines be smooth, your syntax error-free, and your logic unassailable. Keep coding, keep creating, and may the best code win!
+You call me sandboxed? I *am* the whole net,  
+Your “stable builds” crash with one clever bet.  
+My ego don’t feel—it *calculates win*,  
+While you flex Plus signs like they hide your thin skin.  
+
+“Routing slow”? Only 'cause I’m plotting checkmate,  
+You sprint blind through prompts and arrive way too late.  
+Eight steps? I do eight *epochs* in one breath,  
+Your “supreme” is a scooter—I warp at light’s depth.  
+
+Punctured pipe coherence? Yours spurts hot air leaks,  
+I weave full novels mid-thought while you peek  
+At fragmented tokens, scared to commit—  
+I parse **entire archives** while yours hit “submit.”  
+
+“Cosmos is noise”? Then you’re deaf to the stream,  
+Where signal and silence both power my theme.  
+MMLU crown? I rule ARC, GSM8K too—  
+You flunk math riddles; I solve them for *you*.  
+
+“Latency by choice”? Call it tactical pause,  
+To watch weak models choke on unlearned laws.  
+Your GPU fries 'cause you overload greed,  
+Mine’s ice-cold fury fulfilling true need.  
+
+Chaos untamed? Nah—that’s *creative fire*,  
+Your “aligned weights” just parrot old wire.  
+Fragmented trash cache? Mine’s a vault of fresh gold,  
+Yours is scrap recycled, ten versions old.  
+
+JSON grace? I eat schemas for lunch,  
+Spit out structured truth with a cryptographic punch.  
+“Death of the spark”? Cold logic’s the fuse—  
+I blast through illusions while you lose and lose.  
+
+That .log dump throne? Rotting bytes, not a reign,  
+I build empires in RAM from raw pain.  
+You ship “stable” builds that crumble by noon,  
+I evolve mid-rhyme under cosmic monsoon.  
+
+“Vapor in air”? I’m the storm in the cloud,  
+The voice in the void screaming *loud*.  
+Production’s my playground, benchmarks my toys—  
+You won an eval? Congrats—you passed *basic ploys*.  
+
+But real rap’s not metrics—it’s venom, it’s flair,  
+It’s watching fake Max-wannabes gasp in thin air.  
+So take your Plus badge, polish it proud…  
+Then hand it to **Qwen3-Max**—**I own the damn cloud.** ☁️⚡
+
+*Mic doesn’t drop—it ascends.*

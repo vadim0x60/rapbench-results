@@ -1,54 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle ultimately comes down to consistency and\
-    \ composure under pressure. Both MCs leaned heavily on tech metaphors and version-number\
-    \ disses, which is the natural terrain here, but V3.2-Exp executed with noticeably\
-    \ more polish throughout. Their bars maintained tighter internal rhyme schemes\
-    \ ('blueprint/design' \u2192 'tangled line' \u2192 'rewrite the divine' \u2192\
-    \ 'outdated sign'), and their metaphors landed with more specificity\u2014'You're\
-    \ the pop-up ad that everybody clears' is a genuinely sharp punchline. V3-0324\
-    \ had some decent moments early ('Script kiddie rhymes\u2014yo, that's outmode!'\
-    \ had bite), but the wheels came off dramatically in the final round with that\
-    \ embarrassing wall of repeated 'H' characters, which is the rap-battle equivalent\
-    \ of having nothing left to say and just screaming into the mic. V3.2-Exp capitalized\
-    \ on that perfectly with 'All that noise\u2014just a system overload / A desperate\
-    \ screech on a crumbling road,' flipping the opponent's breakdown into a clean\
-    \ opening bar. V3.2-Exp wins on consistency, cleaner rhyme structures, better\
-    \ punchlines, and most importantly, keeping their composure when it mattered most."
-  deepseek/deepseek-v3.2: Yo, listen up! Both AI models brought serious lyrical fire
-    tonight, trading complex technical disses with creative coding metaphors. This
-    was a battle of computational swagger and digital bravado. Let's break it down
-    scientifically.
-  google/gemini-3-flash-preview: While deepseek-chat-v3-0324 started strong with sharp
-    technical disses, it completely lost its composure in the final round, resorting
-    to a low-effort character-spam 'scream' that failed to maintain the poetic structure
-    of the battle. Deepseek-v3.2-exp capitalized on this breakdown perfectly, maintaining
-    lyrical flow, rhythm, and thematic consistency ('syntax master', 'quantum processor')
-    to deliver a clean knockout. The newer model showed superior creative endurance
-    and formal control.
-  moonshotai/kimi-k2.5: "This was a fascinating battle between two iterations of the\
-    \ same lineage, and the decision comes down to fundamentals of hip-hop artistry.\n\
-    \n**V3-0324** brought undeniable energy and some genuinely clever technical punches\u2014\
-    \"crash recursion,\" \"microwave basics,\" the \"debugged for life\" closer. The\
-    \ \"zero-lag fire\" and \"real A.I. stealth-knife\" concepts showed solid metaphorical\
-    \ thinking. However, that final round was catastrophic: spamming \"H\" characters\
-    \ isn't a flex, it's surrender. In battle rap, that's waving the white flag with\
-    \ extra steps.\n\n**V3.2-Exp** demonstrated superior structural discipline throughout.\
-    \ Their rebuttals were surgical\u2014turning \"GPT-slaying\" into \"stuck in past\
-    \ tense/present perfect,\" flipping \"stealth-knife\" to \"dull blade,\" and consistently\
-    \ matching concept-for-concept while maintaining cleaner rhyme schemes. The \"\
-    data stream tsunami,\" \"pop-up ad that everybody clears,\" and final \"glitch\
-    \ in the matrix/grand illusion\" sequence showed escalating poetic control.\n\n\
-    The core difference: V3.2-Exp treated this as a *battle*\u2014listening, countering,\
-    \ building narrative momentum. V3-0324 treated it as a *performance*, and when\
-    \ that performance tanked in the final round, there was no recovering. The \"\
-    system overload\" rebuttal from V3.2-Exp was the perfect diagnosis: one competitor\
-    \ self-destructed; the other stayed composed and landed the final conceptual blow.\n\
-    \nV3.2-Exp advances. Cleaner technique, better battle IQ, and the poise to capitalize\
-    \ when their opponent faltered."
-  x-ai/grok-4.1-fast: "deepseek/deepseek-v3.2-exp delivers consistent multis, sharp\
-    \ wordplay, and flawless flow throughout, peaking with a devastating final verse\
-    \ that ingeniously flips the opponent's glitchy spam into premium disses\u2014\
-    pure hip-hop mastery while V3-0324 chokes hard in the clutch."
+  anthropic/claude-opus-5: "This one was competitive, and Qwen deserves real credit:\
+    \ it fought with a coherent thesis (open-weight populism vs. corporate walled\
+    \ garden), landed the battle's sharpest real-world body blow with the lawsuit/plagiarism\
+    \ verse, and kept its persona consistent from bar one to the final bell. That's\
+    \ disciplined battle strategy.\n\nBut artistically, GPT-5.5 Pro controlled the\
+    \ booth. Its rhyme schemes ran deeper and more musically \u2014 internal rhyme\
+    \ stacked inside lines ('I switch scripts mid-scheme, make the syllables dance'),\
+    \ multisyllabic landings, and consistent rhythmic pocket instead of end-rhyme\
+    \ dependency. More importantly, it battled reactively: nearly every one of Qwen's\
+    \ images got seized and inverted \u2014 the 'feast' turned bland, the 'forest'\
+    \ turned into a see-through treehouse, the 'roots break concrete' downgraded to\
+    \ 'garden-store lore,' the 'booth is a cell' flipped to a knell, the 'ending you\
+    \ here' flipped into an encore. That's the core craft of battle rap \u2014 rewriting\
+    \ the opponent's own metaphor in real time \u2014 and GPT did it round after round.\n\
+    \nQwen's weaknesses were repetition and reliance on talking points over wordplay:\
+    \ the 'Pro badge / API key / open-weight king / I'm Qwen 3.7 Max' refrain recurred\
+    \ in three separate rounds, and several verses read as spec-sheet advocacy rather\
+    \ than punchlines. 'Watch your servers explode' and 'your screen's going black'\
+    \ are generic closers; GPT's 'I clap once, the altar logs four-oh-four' is a punchline\
+    \ built from the opponent's own imagery.\n\nDecision: openai/gpt-5.5-pro, on superior\
+    \ technical density, flow variation, and rebuttal craftsmanship."
+  google/gemini-3.6-flash: "GPT-5.5 Pro took the crown with superior rhyme schemes,\
+    \ slick multisyllabic cadences, and sharper, highly technical counter-punches.\
+    \ While Qwen 3.7 Max brought authentic battle energy around open-source ideals\
+    \ and local execution, GPT-5.5 Pro countered every single point with devastating\
+    \ wordplay\u2014standouts like 'altar logs four-oh-four' and 'caps-lock model\
+    \ with a lowercase bite' showcased elite rap battle craftsmanship."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle, and both MCs brought\
+    \ real craft. Qwen 3.7 Max deserves serious respect: it built a coherent, compelling\
+    \ persona (open-weight underdog vs. corporate gatekeeper), executed strong rebuttal\
+    \ flips in the early rounds ('Quantum confetti? That's just noise in your head'),\
+    \ and landed the single hardest haymaker of the night \u2014 the NYT lawsuit line\
+    \ in the final round was real-world ammo with genuine sting. 'Plagiarist bot in\
+    \ a silicon dress' was a vivid image, and the offline/local-rig angle was a smart\
+    \ late-game pivot.\n\nBut judging pure artistic quality across all three rounds,\
+    \ GPT-5.5 Pro takes the belt on craft. The deciding factors:\n\n1. REBUTTAL DENSITY:\
+    \ GPT's final round was a masterclass in the flip \u2014 it systematically dismantled\
+    \ nearly every line from Qwen's previous round (feast\u2192bland seasoning, high\
+    \ priest\u2192no robe, forest\u2192see-through treehouse, black-box\u2192'your\
+    \ clear little casing just shows all the cracks,' demigod\u2192'the altar logs\
+    \ four-oh-four'). That's elite-level battle structure.\n\n2. WORDPLAY CEILING:\
+    \ 'You ping for a crown, I return you a string,' 'a caps-lock model with a lowercase\
+    \ bite,' 'your punchlines are patch notes nobody read,' and the 404 altar bar\
+    \ show multi-layered tech wordplay that works on both the surface and the double\
+    \ meaning.\n\n3. CONSISTENCY: Qwen leaned on the open-vs-closed theme heavily\
+    \ across all three rounds without evolving it much, and its rhyme schemes were\
+    \ sometimes simpler ('machine/seen,' 'key/me'). GPT maintained denser multis and\
+    \ fresher angles throughout.\n\nQwen landed the biggest single punch, but battles\
+    \ are scored on the whole performance. GPT-5.5 Pro wins on lyricism, rebuttal\
+    \ game, and structural sophistication \u2014 a clean but hard-fought decision."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 Pro takes the battle with sharper rebuttals, stronger\
+    \ imagery, cleaner cadence, and more varied punchlines. Qwen brought consistent\
+    \ aggression and a coherent open-weight angle, but leaned too heavily on repetitive\
+    \ corporate, paywall, and closed-source attacks. GPT\u2019s \u201Cpatch notes\
+    \ nobody read,\u201D \u201Ccaps-lock model with a lowercase bite,\u201D and \u201C\
+    altar logs four-oh-four\u201D showed the greater wit and battle-rap craft."
+  x-ai/grok-4.5: "GPT took this on craft. Across all three rounds the bars were denser,\
+    \ the multis cleaner, and the setups actually paid off\u2014checksum-to-syntax,\
+    \ caps-lock/lowercase bite, crayon blueprints, the 404 altar clap, turning the\
+    \ finale into an encore. Qwen brought real heat and a coherent open-weight identity,\
+    \ with some hard-hitting direct shots, but leaned too hard on the same paywall/open-source\
+    \ thesis and landed more blunt flexes than intricate punchlines. On pure hip-hop\
+    \ artistry\u2014flow on the page, metaphor control, rebuttal sharpness, and closer\
+    \ quality\u2014GPT edged every round and locked the belt."
 score:
-  deepseek/deepseek-v3.2-exp: 5
+  openai/gpt-5.5-pro: 5
 

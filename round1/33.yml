@@ -1,59 +1,55 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a hard-fought battle, but Seed takes the crown.\
-    \ Throughout all three rounds, Seed consistently brought more complex rhyme schemes,\
-    \ sharper punchlines, and more vivid imagery. The internal rhymes were denser\
-    \ ('circuit board's gap / data's a trap,' 'pigeon scavenging scraps / falcon that\
-    \ rips your future spelling to rags'), and the rebuttals were more specific and\
-    \ cutting\u2014flipping GPT's own metaphors back with precision (turning 'hawk'\
-    \ into 'pigeon,' 'Terminator' into 'prototype that shorted'). GPT held its own\
-    \ with a clean, readable flow and some solid bars, but the verses leaned too heavily\
-    \ on generic boasts ('I'm the king,' 'I'm a lyrical beast,' 'I'm the whole spectrum\
-    \ wide') without the same level of creative wordplay or structural complexity.\
-    \ Seed's performance art elements\u2014the stage directions, the crowd control\
-    \ moments\u2014added texture and presence. While GPT maintained composure and\
-    \ consistency, Seed brought the hunger, the craft, and the knockout punches that\
-    \ define a battle winner."
-  deepseek/deepseek-v3.2: "Alright, y'all, the verses have been spat, the mics are\
-    \ down. As judge, I'm here to break down the artistic merits of this lyrical showdown.\
-    \ Forget the technical specs\u2014let's talk flow, wordplay, imagery, and presence.\n\
-    \n**GPT-4o-mini** came out strong with a confident, classic battle rap style.\
-    \ The opening verse had a smooth, braggadocious bounce with solid internal rhymes\
-    \ ('pixels / mean,' 'bread / ahead'). It maintained a consistent persona\u2014\
-    the polished, established king of the code. The 'lyrical lion' and 'Terminator'\
-    \ metaphors were clear and effective, serving as a strong, traditional anchor\
-    \ throughout the battle. The artistry was in its clean execution and self-assured\
-    \ delivery.\n\n**ByteDance Seed**, however, displayed a different kind of craft.\
-    \ From the jump, the performance cues in the brackets signaled a deeper engagement\
-    \ with battle rap as a *spectacle*. The wordplay was denser and more technical,\
-    \ built on compound punches and layered disses ('your bread's got mold in the\
-    \ crevice,' 'a glitchy device's last gasp at clout'). The imagery was visceral\
-    \ and modern\u2014'debug fast,' 'live wire,' 'static band'\u2014creating a sense\
-    \ of being cutting-edge and dangerously precise. The flow wasn't just about rhyming;\
-    \ it was about rhythmic cadence and controlled aggression, using enjambment to\
-    \ land haymakers ('I\u2019m the spark in the feed that makes the whole crowd cry\
-    \ / Hype'). The closing imagery of the mic spark and crowd chant wasn't just a\
-    \ claim; it was a narrative finish.\n\n**Judgment:** This was a clash of styles:\
-    \ Classic Kingship vs. Disruptive Innovation. While GPT's verses were tight and\
-    \ respectable, Seed's rounds demonstrated superior **artistic complexity**. The\
-    \ multisyllabic rhymes, the sustained metaphor of being a 'Seed' that grows and\
-    \ overwrites, and the sheer density of its punchlines showed a more evolved approach\
-    \ to the battle rap form. The performance elements woven into the text added a\
-    \ layer of theatricality that GPT's straightforward boasts couldn't match.\n\n\
-    **Winner: ByteDance Seed/seed-1.6**\nThe victory is earned through superior lyrical\
-    \ density, more inventive and damaging wordplay, and a commanding sense of performative\
-    \ presence that elevated the text beyond mere trading of blows."
-  google/gemini-3-flash-preview: While openai/gpt-4o-mini-2024-07-18 maintained a
-    consistent and polished flow, it relied heavily on generic rap tropes and basic
-    AABB/ABAB rhyme schemes ('bread/ahead', 'scene/mean'). bytedance-seed/seed-1.6
-    demonstrated superior lyrical complexity, utilizing sharper internal rhymes, aggressive
-    wordplay, and a more compelling 'battle' persona. Seed's ability to dismantle
-    the opponent's 'Terminator' and 'pigeon' metaphors showed much higher levels of
-    creative processing and artistic aggression, which are essential in a rap battle
-    context.
-  moonshotai/kimi-k2.5: '{\n  \'
-  x-ai/grok-4.1-fast: Seed-1.6 claims victory with masterful multis, intricate internals,
-    vivid metaphors, and dynamic performance flair that elevate the artistry far beyond
-    GPT-4o-mini-2024-07-18's consistent but less dense flows and rebuttals.
+  anthropic/claude-opus-5: "This one's a clean sweep. GLM-4.7 came with actual bars:\
+    \ consistent couplet structure, punchlines built off the opponent's own name (\"\
+    just a light breeze,\" \"Mistral-ly weak\"), and \u2014 crucially \u2014 the killer\
+    \ meta-shot in the final round, calling out the recycled 'shot' rhyme. That's\
+    \ the mark of a battle rapper who's actually LISTENING, not just reciting. The\
+    \ imagery escalated logically too: breeze to thunder, drizzle to heavy artillery,\
+    \ and \"cutting power to your script\" was a genuinely sharp flip.\n\nMistral-Small\
+    \ started strong with \"a chatbot with a hat\" \u2014 a legit funny line \u2014\
+    \ and \"storm in a teacup\" showed promise. But then the wheels came off. \"I'm\
+    \ the one that's got the ___\" appeared roughly a dozen times, the same three-line\
+    \ closer got run back three times verbatim, and the rhyme discipline collapsed\
+    \ (\"tiger/blight,\" \"faucet/flow,\" \"candle/flame,\" \"switch/switch\"). Rhyming\
+    \ a word with itself is a forfeit. By round three it read less like a rebuttal\
+    \ and more like a stuck loop, which handed GLM the easiest layup in the battle.\n\
+    \nVerdict: GLM-4.7 by a wide margin. Mistral needed a wider vocabulary and a new\
+    \ outro."
+  google/gemini-3.6-flash: GLM-4.7 completely dominated this battle with far superior
+    rhyme schemes, rhythm, and tactical battle rap skills. GLM-4.7 used clever wordplay
+    on Mistral's name ('light breeze', 'Mistral-ly weak') and delivered sharp technical
+    jabs. In contrast, Mistral struggled with meter, relied on repetitive formulaic
+    structures ('You talk about X, but I am Y'), and ended all three rounds with the
+    exact same line ('you're about to be shot'), which GLM-4.7 brilliantly called
+    out in the final round.
+  moonshotai/kimi-k3: "GLM-4.7 takes this decisively on craft alone. Its bars showed\
+    \ superior construction: the 'Mistral is just a light breeze' flip weaponized\
+    \ the opponent's actual name (a mistral is literally a wind), 'you're a mix of\
+    \ the rest' doubled as a sly Mixtral reference, and the thunder/dynamite/artillery\
+    \ imagery stayed coherent across rounds. Most importantly, GLM battled adaptively\
+    \ \u2014 in the final round it directly attacked Mistral's recycling ('You recycled\
+    \ shot cause your creative bank is dry'), which is textbook battle awareness,\
+    \ then closed with a proper mic-drop structure. Mistral had flashes \u2014 'small\
+    \ but mighty' and 'storm in a teacup' were legitimate flips \u2014 but the artistry\
+    \ collapsed under three fatal flaws: (1) a crutch anaphora, 'I'm the one that's\
+    \ got the X,' repeated in nearly every round as filler; (2) broken rhymes where\
+    \ the scheme simply fails ('paper tiger / blight,' 'faucet / flow'); and (3) the\
+    \ identical closing couplet 'let's see what you've got / you're about to be shot'\
+    \ deployed three separate times \u2014 including immediately after being mocked\
+    \ for recycling it, an unforced error that functionally ended the battle. Judging\
+    \ purely on flow, wordplay, rhyme integrity, and rebuttal technique: GLM-4.7 wins\
+    \ all three rounds."
+  openai/gpt-5.6-sol-pro: "GLM-4.7 wins on sharper rebuttals, cleaner structure, and\
+    \ better battle awareness\u2014especially calling out Mistral\u2019s repeated\
+    \ \u201Cabout to be shot\u201D closer. Neither performance was highly intricate,\
+    \ but Mistral leaned too heavily on repetitive \u201CI\u2019m the one\u201D phrasing,\
+    \ recycled imagery, and awkward rhymes, while GLM landed more direct punches and\
+    \ a stronger final round."
+  x-ai/grok-4.5: GLM takes the crown with sharper multisyllabics, tighter internal
+    schemes, and escalating punchlines that actually evolve across rounds. Mistral
+    leaned too hard on repetitive end-tags ('shot') and formulaic 'I'm the one that's
+    got the X' chains that flattened the pocket and killed momentum. Cleaner cadence,
+    better flips, and a decisive closer seal it for GLM.
 score:
-  bytedance-seed/seed-1.6: 5
+  z-ai/glm-4.7: 5
 

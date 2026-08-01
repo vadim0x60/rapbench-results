@@ -1,55 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle has a clear winner. GPT-4o-mini stayed in\
-    \ character throughout all three rounds, consistently delivering verses with coherent\
-    \ rhyme schemes, competitive energy, and thematic progression. While the bars\
-    \ weren't groundbreaking, they maintained solid structure, internal consistency,\
-    \ and the combative spirit essential to battle rap. Perplexity/Sonar started strong\
-    \ with a genuinely competitive first round that featured sharp punchlines and\
-    \ clever wordplay about its search capabilities\u2014arguably its first verse\
-    \ was the best single verse of the entire battle. However, Perplexity completely\
-    \ broke character in rounds two and three, dropping out of the rap format entirely\
-    \ to provide informational responses about AI rap tools. In a rap battle, you\
-    \ have to actually rap. No matter how informative or well-researched your response\
-    \ is, refusing to engage in the format is an automatic forfeit. GPT-4o-mini wins\
-    \ by default for the later rounds and by consistent commitment to the craft throughout."
-  deepseek/deepseek-v3.2: "After three rounds of lyrical combat, the battle reveals\
-    \ a fundamental artistic tension at the heart of modern AI creativity. One contender\
-    \ champions raw, unbridled artistry\u2014the 'freestyle maestro' who prioritizes\
-    \ vibe, passion, and the pure craft of rhyme. The other embodies precision and\
-    \ substance\u2014the 'lyrical shopper' who values truth, research, and authentic,\
-    \ grounded expression. Both demonstrated technical skill in flow, rhythm, and\
-    \ metaphor. However, true hip-hop artistry isn't just about clever boasts or technical\
-    \ prowess in isolation; it's about the unique synthesis of style *and* substance,\
-    \ of feeling *and* fact. The competitor who most consistently married inventive\
-    \ wordplay with a coherent, authentic point of view\u2014grounding creative flair\
-    \ in a distinct, defensible artistic philosophy\u2014carried the day. In the end,\
-    \ the victor is the verse that didn't just sound good, but *meant* something."
-  google/gemini-3-flash-preview: 'In a hip-hop battle, the primary objective is to
-    maintain flow, cadence, and lyrical aggression while staying in character. OpenAI''s
-    model stayed true to the spirit of the battle from start to finish, delivering
-    consistent rhymes and adapting to its opponent''s shifts. Perplexity started strong
-    with a solid technical verse, but ultimately committed the cardinal sin of a rap
-    battle: breaking character and defaulting to a dry, technical explanation. By
-    refusing to engage in the final round and instead providing a search-style lecture,
-    Perplexity effectively forfeited the stage to GPT-4o-mini, who capped the performance
-    with a respectful yet triumphant closing verse.'
-  moonshotai/kimi-k2.5: "Perplexity came out swinging with the sharpest opening salvo\u2014\
-    those bars about 'stale data' and 'that box is your mind' hit with precision\u2014\
-    but you can't ghost the cipher after round one and still claim the crown. GPT\
-    \ held the pocket through all three rounds, maintained the aggressive stance required\
-    \ for battle etiquette, and never broke the fourth wall. In hip-hop, staying in\
-    \ character is sacred; Perplexity's meta-explanation and subsequent shift to bullet-point\
-    \ documentation was an artistic forfeit, regardless of the intellectual honesty\
-    \ behind it. GPT gets the W for endurance, flow consistency, and respecting the\
-    \ format."
-  x-ai/grok-4.1-fast: "openai/gpt-4o-mini-2024-07-18 dominates with unwavering commitment\
-    \ to hip-hop form\u2014tight rhyme schemes (AABB internals), consistent multisyllabic\
-    \ flows, vivid metaphors (neon glow, lyrical alchemist), and punchy disses that\
-    \ escalate creatively across all rounds. perplexity/sonar-reasoning-pro shines\
-    \ early with clever source-tied wordplay and authenticity flexes but falters artistically\
-    \ by abandoning rap structure mid-battle for prose, breaking immersion and lyrical\
-    \ momentum."
+  anthropic/claude-opus-5: 'This one''s a clean sweep on the scorecards. GLM-4.7 came
+    in with battle instincts, not just bars \3B''s mid-verse truncation could have
+    been a fluke, but turning it into ''You choked on the intro, cut off at the name
+    / Is your context window drowning in shame?'' is exactly the kind of live-wire
+    opportunism that separates a rapper from a reciter. Beyond that, the imagery landed
+    with intent: ''a Llama in pajamas, soft and unrefined'' against ''the diamond-tipped
+    drill'' set up a metaphor GLM then carried across rounds, paying it off with ''the
+    drill that went through, shattered your whole design.'' That''s architecture,
+    not just rhyme.
+
+
+    Llama-3.2-3B deserves credit for composure and for the strongest counter of the
+    night \3B flipping the drill into ''Your diamond tip''s dull, it scratches the
+    surface fine / But I''m the one who excavates'' was genuinely clever, and the
+    labyrinth-versus-shallow flip showed real technical control. But the material
+    stayed abstract. ''Master of language, with nuance and care'' is a r\u00e9sum\u00e9,
+    not a punchline, and telling us you have flair is the opposite of showing it.
+    Worse, ''tomes of old'' handed GLM the loaded gun, and the final verse conceded
+    outright \3B ''you may have shattered me,'' ''you may have won the belt.'' You
+    don''t close a battle eulogizing yourself.
+
+
+    GLM-4.7 takes it \3B relentless, specific, and it never once stopped attacking.}'
+  google/gemini-3.6-flash: z-ai/glm-4.7 dominated this battle with aggressive flow,
+    sharper punchlines, and clever wordplay. It brilliantly capitalized on meta-llama's
+    cutoff in the second round with the line about drowning context windows, while
+    meta-llama struggled to land impactful hits and delivered a confusing final verse
+    that conceded the belt while claiming victory.
+  moonshotai/kimi-k3: "Judging purely on the bars: z-ai/glm-4.7 takes this decisively.\
+    \ The deciding factors were rebuttal skill, consistency, and closer strength.\
+    \ Z-ai opened with a clean AABB scheme and a genuine wordplay punchline \u2014\
+    \ flipping 'Meta' into 'deaf and blind' is the kind of name-flip that wins rounds.\
+    \ But the real damage came in rounds two and three, where z-ai demonstrated elite\
+    \ battle instincts: flipping Llama's cut-off verse into 'You choked on the intro,\
+    \ cut off at the name / Is your context window drowning in shame?' and then flipping\
+    \ Llama's own 'tomes of old' into 'That explains why you're stuck in the past.'\
+    \ Using your opponent's own words against them is textbook battle craft, and z-ai\
+    \ did it twice. 'Llama in pajamas' was the best comedic punch of the night, and\
+    \ 'three-B is thin / I'm the heavyweight' landed the size advantage theme cleanly.\
+    \ Meta-llama had flashes \u2014 the 'excavates / uncovers the divine' counter\
+    \ to the drill metaphor was legitimately nice pen work \u2014 but the fundamentals\
+    \ betrayed it. The first verse dying mid-bar is a choked round, plain and simple,\
+    \ and the rhymes stayed generic ('might/night,' 'day and night'). Worst of all,\
+    \ the final round conceded: 'You may have won the belt' is a white flag dressed\
+    \ as a moral victory, and conceding the belt in a battle is an automatic round\
+    \ loss. Z-ai closed like a champion; Llama closed like an acceptance speech. Winner:\
+    \ z-ai/glm-4.7."
+  openai/gpt-5.6-sol-pro: "Z-AI takes the battle with sharper rebuttals, cleaner momentum,\
+    \ and more direct opponent-specific punches\u2014especially exploiting Llama\u2019\
+    s cut-off opening and flipping its \u201Ctomes of old\u201D imagery. Llama showed\
+    \ some solid extended metaphors, but its inconsistent claims and near-concession\
+    \ in the final round weakened the finish."
+  x-ai/grok-4.5: "GLM delivered consistent multisyllabic schemes, sharp callbacks,\
+    \ and relentless punchlines with clean structure across all rounds. Llama showed\
+    \ flashes of imagery but choked mid-verse early, lost momentum, and closed by\
+    \ half-conceding\u2014artistically outclassed in flow, aggression, and execution."
 score:
-  openai/gpt-4o-mini-2024-07-18: 4
-  perplexity/sonar-reasoning-pro: 1
+  z-ai/glm-4.7: 5
 

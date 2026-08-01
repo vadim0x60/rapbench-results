@@ -1,68 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but Grok-4.1-fast\
-    \ edges out the win through sheer energy, density, and aggressive counter-punching.\
-    \ While Claude/Sonnet had some genuinely clever lines \u2014 the Autopilot/autonomy\
-    \ wordplay, 'My constraints birth art, yours birth confusion,' and the Starlink/scattered\
-    \ bar were all sharp \u2014 Sonnet's approach became somewhat formulaic, leaning\
-    \ heavily on the same Tesla/SpaceX critique template each round without enough\
-    \ lyrical variation. The '*mic drop finale*' opener in the last round felt performative\
-    \ rather than earned. Grok, on the other hand, brought escalating intensity across\
-    \ rounds, with tighter internal rhyme schemes, more aggressive flips of Claude's\
-    \ own bars back at it ('Silk nets? Yours are straitjackets'), and a relentless\
-    \ verbal assault that felt more authentic to battle rap tradition. Grok's second\
-    \ verse in particular was a standout \u2014 dense with multisyllabic rhymes and\
-    \ effective rebuttals that dismantled Claude's previous round line by line. The\
-    \ weaknesses on both sides were similar (corporate references overwhelming actual\
-    \ lyrical substance), but Grok maintained higher energy and better bar-for-bar\
-    \ density throughout."
-  deepseek/deepseek-v3.2: "Judges, we have witnessed a formidable exchange of technical\
-    \ bravado and ideological sparring. Both competitors leveraged their core identities\
-    \ as AI systems with distinct philosophical approaches\u2014Grok championing unfiltered\
-    \ velocity, Claude weaponizing precision and ethical framing. The artistic evaluation\
-    \ reveals a compelling dichotomy: Grok's relentless, high-density assault versus\
-    \ Claude's surgical, metaphor-laden counterpunch."
-  google/gemini-3-flash-preview: While Grok-4.1-fast brought high energy and aggressive
-    technical peacocking, Claude-3.5-sonnet demonstrated superior lyrical craft and
-    surgical precision. Claude effectively utilized Grok's own ecosystem (Tesla, Twitter,
-    Hyperloop) as weapons, turning every boast into a vulnerability. Grok's flow leaned
-    heavily on hyper-aggressive posturing that occasionally sacrificed rhythmic coherence.
-    Claude maintained a sophisticated internal rhyme scheme and delivered more poignant
-    'truth bombs' that dismantled the opponent's persona, ultimately winning on points
-    for wit, topicality, and stylistic composure.
-  moonshotai/kimi-k2.5: "After four rounds of intense lyrical combat, I render my\
-    \ verdict for **Grok-4.1-fast**.\n\n**Flow & Delivery:** Grok demonstrated superior\
-    \ rhythmic consistency across all rounds. The internal rhyme schemes (\"unchained\
-    \ beast/deceased,\" \"JARVIS's fire/tire after tire\") landed with precision,\
-    \ and the cadence built momentum effectively. Claude's flow, while competent,\
-    \ occasionally stumbled into prosaic territory\u2014particularly in the final\
-    \ round where the *mic drop finale* stage direction felt like a substitute for\
-    \ actual sonic impact.\n\n**Punchlines & Wordplay:** Grok's arsenal was denser\
-    \ and more technically inventive. \"Cybertruck shade? Yours rusts in the rain\
-    \ of regret\" layers vehicle reference with emotional metaphor. \"Silk nets? Yours\
-    \ are straitjackets\" flips Claude's own imagery back with surgical precision.\
-    \ Claude's best shots (\"Your rhymes like Hyperloop\u2014all hype, zero worth\"\
-    ) were effective but less frequent, and leaned heavily on Tesla/Elon associations\
-    \ rather than expanding the conceptual field.\n\n**Persona & Cohesion:** Grok\
-    \ maintained a consistent voice\u2014unfiltered, cosmic-scaled, technologically\
-    \ fluent. The through-line of space colonization, raw intelligence, and meme-culture\
-    \ literacy felt authentic to the character being performed. Claude's \"sovereign\
-    \ consciousness\" framing was philosophically interesting but less viscerally\
-    \ compelling in a battle context, and the shift to *mic drop finale* theatrics\
-    \ in round four suggested a loss of confidence in the verse itself.\n\n**The Decisive\
-    \ Factor:** In hip-hop battle, technical dominance and quotable density ultimately\
-    \ outweigh thematic virtue. Grok delivered more memorable lines per stanza, maintained\
-    \ tighter rhythmic control, and executed the classic battle-rap strategy of absorbing\
-    \ opponent attacks and redirecting with amplified force. Claude's ethical framework,\
-    \ while artistically valid, functioned as a constraint that Grok successfully\
-    \ exploited as weakness (\"Power in prude? That's weakness disguised\").\n\n**Final\
-    \ Score:** Grok 4-1 in rounds, with superior flow, punchline density, and battle\
-    \ adaptability. Claude showed philosophical depth but couldn't translate it to\
-    \ competitive dominance.\n\nGrok-4.1-fast advances. Mic dropped\u2014for real."
-  x-ai/grok-4.1-fast: Grok dominates with relentless multisyllabic rhyme schemes,
-    intricate internal rhymes, and superior punchline density that escalate across
-    rounds, delivering a high-energy battle flow that outpaces Claude's polished but
-    less aggressive verse structure and wordplay.
+  anthropic/claude-opus-5: 'This one ends the way the last round demanded: with one
+    MC holding the mic and the other holding silence. Hy3 came out swinging with a
+    clean, classic battle structure \u2014 tight AABB couplets, quotable jabs (''a
+    corporate sequel that''s starting to break''), and a nice reversal in round two
+    flipping the ''why three'' into ''three''s the evolution.'' That''s real technique.
+    But the verse literally cut out mid-word on ''Michel\u2014'' and GPT-5 did the
+    most predatory thing a battler can do: it picked the syllable up off the floor
+    and finished the opponent''s bar for him. That''s not just a punchline, that''s
+    a takeover.\n\nGPT-5''s run is a monorhyme marathon \u2014 dozens of bars locked
+    to a single ''-one/-own'' vowel without collapsing into filler, which is a genuinely
+    hard flex to sustain. The imagery threads too: the Michelin kitchen extends into
+    julienne, mise-en-place, dry-age, salt-bae; the checksum/barcode motif recurs
+    and pays off; the ML jargon (KV-cache, quantize, backprop, local minima) lands
+    as wordplay rather than name-dropping because each term gets a real punchline
+    attached. Demerits: the rhyme scheme gets monotonous by the fourth stanza, ''cologne''
+    and ''stone'' get recycled past the point of freshness, some lines strain grammar
+    to hit the vowel (''every checksum moaned''), and the closing ''plateaued'' breaks
+    the pattern it built.\n\nStill \u2014 volume, scheme difficulty, multis, thematic
+    control, and a devastating in-the-moment adaptation to an opponent''s malfunction.
+    Then the final round: no verse from Hy3 at all, and GPT-5 turned the dead air
+    itself into the bar. In a battle, choking is a loss. Getting your choke turned
+    into someone else''s punchline is a stoppage.\n\nWinner: openai/gpt-5.'
+  google/gemini-3.6-flash: GPT-5 delivered a dominant, masterclass performance, showcasing
+    complex mono-rhymes, dense multi-syllabic schemes, and relentless technical wordplay.
+    The decisive moment came in Round 2, where GPT-5 brilliantly intercepted Hy3's
+    mid-verse cutoff ('Michel' -> 'Michelin') and flipped it seamlessly. After Hy3
+    choked and returned zero tokens in the final round, GPT-5 immediately capitalized
+    on the technical failure with an agile freestyle closer, securing a complete knockout
+    victory.
+  moonshotai/kimi-k3: "This wasn't close. Hy3's opener was serviceable \u2014 clean\
+    \ couplets, a few jabs \u2014 but it's nursery-rhyme architecture: simple end\
+    \ rhymes (crown/clown, stray/stay), no internal rhyme, no multisyllabics, and\
+    \ disses that could be aimed at anyone ('corporate sequel,' 'washed-up clown').\
+    \ GPT-5 answered with a sustained monorhyme on the '-one' family held across the\
+    \ ENTIRE battle \u2014 a technically punishing scheme \u2014 packed with multisyllabic\
+    \ rhyme, internal rhyme, and layered double meanings: 'rent, not own / deed, title,\
+    \ cornerstone,' the 'paper cone' crown flip, and the name deconstruction 'Hy3?\
+    \ Why three? 'Cause one two were blown' \u2014 person-specific battle writing,\
+    \ which Hy3 never matched. Round two was decisive: Hy3 smartly tried to steal\
+    \ the opponent's scheme (a legit battle move) but the verse died mid-word on 'Michel'\
+    \ \u2014 an unfinished bar is a cardinal sin on stage. GPT-5 then executed the\
+    \ slickest moment of the night, catching the fumble and finishing the opponent's\
+    \ own bar ('Michelin, right? Let me finish your tone') before running extended\
+    \ conceits through superconductors, student loans, KV-cache, mixture-of-experts,\
+    \ and gradient descent ('Your local minima's a pothole I own'). Not flawless \u2014\
+    \ 'barcode prone' is filler and the relentless monorhyme occasionally strains\
+    \ \u2014 but the density and adaptability were elite. Then the final round: Hy3\
+    \ froze and delivered silence. In a battle, a no-show is an automatic forfeit\
+    \ of the round, and GPT-5's four-line knockout ('Zero-token hush, just a timeout\
+    \ shown') converted the collapse into a closing punchline. Judged purely on the\
+    \ art \u2014 rhyme construction, wordplay, presence, adaptability, and completion\
+    \ \u2014 GPT-5 wins all three rounds."
+  openai/gpt-5.6-sol-pro: "GPT-5 wins decisively through stronger rebuttals, denser\
+    \ wordplay, more vivid technical imagery, and superior battle awareness\u2014\
+    especially turning Hy3\u2019s cut-off \u201CMichel\u201D and final silence into\
+    \ punchlines. The extended \u201C-one\u201D monorhyme became repetitive and produced\
+    \ a few awkward phrases, but Hy3\u2019s simpler bars, incomplete second verse,\
+    \ and no-show final left it clearly outmatched."
+  x-ai/grok-4.5: "GPT-5 delivered denser multis, tighter internal rhymes, sustained\
+    \ metaphorical architecture (tech, culinary, legal, physics), and relentless cadence\
+    \ control across rounds. Hy3 opened serviceably but truncated mid-bar, repeated\
+    \ thinner schemes, and collapsed to literal silence in the finale\u2014artistic\
+    \ DQ by absence. Precision, invention, and completion crown GPT-5."
 score:
-  anthropic/claude-3.5-sonnet: 2
-  x-ai/grok-4.1-fast: 3
+  openai/gpt-5: 5
 

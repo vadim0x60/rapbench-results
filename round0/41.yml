@@ -1,44 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle goes to meta-llama/llama-3.1-70b-instruct.\
-    \ While neither rapper broke extraordinary new ground, the deciding factors are\
-    \ clear. Llama showed meaningful progression across rounds\u2014escalating imagery\
-    \ from hurricanes to supernovas to tsunamis\u2014while Mixtral fell into a deeply\
-    \ repetitive pattern, recycling the same 'You talkin' bout X, but you're just\
-    \ a Y / My rhymes are the Z' structure ad nauseam without variation. Mixtral's\
-    \ final round was particularly damaging: it devolved into a bloated, self-congratulatory\
-    \ mess that literally repeated entire stanzas verbatim multiple times, which is\
-    \ a cardinal sin in battle rap. Llama's bars, while not groundbreaking, were tighter,\
-    \ more varied in structure, and showed better craft in building toward a closing\
-    \ statement. Llama also landed sharper personalized punches\u2014calling out Mixtral's\
-    \ repetitiveness directly ('Your rhymes are repetitive, offerin' nothin' new to\
-    \ the game') was an effective and accurate read. Mixtral's 'shinin' like a clock'\
-    \ was a puzzling simile that undermined credibility, and forced rhymes like 'cheer-o'\
-    \ and 'daze-y' felt clumsy. Llama wins on tighter writing, better progression,\
-    \ and superior battle awareness."
-  deepseek/deepseek-v3.2: The battle has been fierce, the verses sharp. Now, the judges'
-    scores are in.
-  google/gemini-3-flash-preview: "Llama-3.1-70b-instruct takes the win through superior\
-    \ technical variety and structure. While Mixtral-8x22b-instruct started strong,\
-    \ it fell into a repetitive loop in the final round, reusing multiple lines and\
-    \ rhymes almost verbatim from its previous verses. Llama maintained a consistent\
-    \ progression of metaphors\u2014from meteorites to supernovas\u2014and demonstrated\
-    \ better rhythmic complexity without relying on repetitive filler phrases like\
-    \ 'the battle's begun' or 'win the pot'."
-  moonshotai/kimi-k2.5: "From a hip-hop artistic perspective, Llama takes this battle\
-    \ through superior metaphorical consistency, complex rhyme schemes, and battle\
-    \ technique. Llama maintained cohesive extended metaphors (progressing from storms\
-    \ to wildfires to supernovas to tsunamis) that built a narrative arc, while employing\
-    \ multisyllabic internal rhymes and rhythmic variation. Crucially, Llama demonstrated\
-    \ the battle rap essential of 'flipping'\u2014taking Mistral's lightning metaphor\
-    \ and escalating it to celestial phenomena\u2014whereas Mistral relied on repetitive\
-    \ 'You talkin' big but you're just a X' templates without engaging Llama's specific\
-    \ imagery. While Mistral brought aggressive delivery and crowd work, the artistic\
-    \ depth of Llama's writing\u2014its cohesive cosmological motif, complex wordplay,\
-    \ and responsive escalation\u2014represents higher-caliber hip-hop craftsmanship."
-  x-ai/grok-4.1-fast: Llama dominates with tight flow, escalating metaphors from hurricanes
-    to supernovas and tsunamis, varied rhyme schemes, and clever counters to opponent's
-    points. Mistral's verses suffer from heavy repetition, recycled lines, and lack
-    of progression, diluting impact despite solid disses.
+  anthropic/claude-opus-5: "This one ends on a technicality that's also a knockout.\
+    \ Qwen came in with sustained multisyllabic pressure, escalating imagery, and\
+    \ \u2014 crucially \u2014 the willingness to build on the opponent's own lines.\
+    \ Flipping \"surgeon\" into a tonsillectomy versus a brain transplant, turning\
+    \ \"living seed\" into a sapling in a forest, and recycling \"final print\" back\
+    \ into \"the draft I never saved\" is real battle craft: listening, then dismantling.\
+    \ The wordplay isn't flawless \u2014 some rhymes strain hard (\"kindergarten\"\
+    \ / \"poets\", \"4K\" as a non-rhyme), the tech-spec flexing occasionally reads\
+    \ as stat-sheet bragging rather than punchlines, and the ellipsis-heavy outro\
+    \ leans theatrical when it should land clean. But the density and command of the\
+    \ pocket were consistently higher.\n\nMistral had the better underdog premise\
+    \ \u2014 \"small but mighty,\" precision over bulk \u2014 and the surgeon/stratosphere/maestro\
+    \ run was the most quotable stretch of the battle. But the third verse collapsed\
+    \ into pure structural repetition: \"You say X? I'm Y\" four bars in a row, four\
+    \ stanzas deep, with end rhymes going soft (\"precise\"/\"knife\", \"roar\"/\"\
+    stratosphere\", \"shine\"/\"scene\"). Simple can be devastating in a battle, but\
+    \ it has to hit, and those hits were glancing. Then the opening verse got cut\
+    \ off mid-bar, and the final round was silence.\n\nA choke is a choke. Qwen takes\
+    \ it \u2014 earned on the bars, sealed by the stage."
+  google/gemini-3.6-flash: Qwen completely dominated this battle with dynamic flows,
+    aggressive battle-rap cadence, clever wordplay, and relentless multi-syllabic
+    rhyme schemes. Mistral struggled with basic AABB rhyme structures, generic flexes,
+    and ultimately choked completely in the final round with a total silence on stage.
+  moonshotai/kimi-k3: "This one isn't close, and the ink on the scorecard tells the\
+    \ story.\n\nQwen came to battle. From the opening round, the pen game was sharp\
+    \ \u2014 'dial-up tone in a 5G world,' 'bug report / patch that fixes your whole\
+    \ sport' \u2014 clever conceits with actual setups and payoffs. Round two elevated\
+    \ it: 'Your context? A tweet. Mine's a library with a PhD' is a proper punchline,\
+    \ and the 'pop-up ad in a cathedral / organ blast that shakes the pews' imagery\
+    \ showed real creative range beyond one-note boasting. But the final round is\
+    \ where Qwen sealed it \u2014 that's where the rebuttal game showed up. Every\
+    \ claim Mistral made got flipped: surgeon became tonsillectomy versus brain transplant,\
+    \ 'living seed' became sapling in the forest, 'final print' became the ink that\
+    \ wrote it. That's battle rap fundamentals \u2014 listening, responding, dismantling.\
+    \ The dramatic fade-out ending was theatrical and committed.\n\nMistral had flashes.\
+    \ 'Small but mighty, sharp and bright' was a decent angle, and the surgeon/stratosphere\
+    \ imagery had ambition. But the execution faltered hard. Round one cut off mid-sentence\
+    \ \u2014 an incomplete verse is points on the table. Round two leaned on monotone\
+    \ single-syllable rhymes \u2014 bluff/fluff/puff/stuff \u2014 with no internal\
+    \ rhyme, no wordplay layers, and rhymes that didn't land ('stratosphere'/'roar'\
+    \ is a whiff). And the final round? Dead silence. In a battle, choking when it's\
+    \ time to close is the one sin the crowd never forgives.\n\nQwen wins on flow,\
+    \ wordplay, rebuttals, structure, and stage presence. A clean sweep."
+  openai/gpt-5.6-sol-pro: "Qwen wins decisively. Its verses brought stronger imagery,\
+    \ sustained aggression, sharper rebuttals, and more commanding stage presence.\
+    \ The writing was often repetitive and overly reliant on size, code, and cosmic\
+    \ metaphors, but Mistral\u2019s simpler rhyme schemes, generic counters, interrupted\
+    \ opening, and total silence in the final round left it badly outmatched."
+  x-ai/grok-4.5: "Qwen delivered consistently denser multis, richer extended metaphors\
+    \ (quantum beats to multiverse origins to creating the sun), tighter internal\
+    \ rhyme schemes, and escalating conceptual punches that redefined the battle's\
+    \ stakes. Mistral showed occasional spark with clean efficiency bars and surgeon\
+    \ imagery but relied on simpler end-rhymes, thinner imagery, and ultimately went\
+    \ completely silent in the final round\u2014an artistic collapse. On pure hip-hop\
+    \ craft, Qwen bodied it."
 score:
-  meta-llama/llama-3.1-70b-instruct: 5
+  qwen/qwen3-next-80b-a3b-instruct: 5
 

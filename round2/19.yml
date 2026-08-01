@@ -1,58 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a fascinating battle. Qwen3-32B came out aggressive\
-    \ and energetic, with a relentless barrage of size-based metaphors and cosmic\
-    \ imagery. But that was also its weakness \u2014 the verses were overstuffed,\
-    \ repetitive in theme (constantly returning to '32B' and size dominance), and\
-    \ relied heavily on bolded words as a crutch for emphasis rather than letting\
-    \ the bars speak for themselves. The metaphors often clashed or piled up without\
-    \ cohesion ('dark matter to black,' 'earthquake before the fault, the code, the\
-    \ coliseum'). And the third-round attack on GPT-5-mini's silence, while a smart\
-    \ strategic move, veered into clumsy territory with the '4GB of RAM' and 'cancer'\
-    \ lines that felt forced.\n\nGPT-5-mini, despite the devastating choke in Round\
-    \ 3, delivered consistently tighter craft throughout. The first-round response\
-    \ was arguably the best single verse of the entire battle \u2014 clean couplet\
-    \ structure, disciplined rhyme scheme (every bar landing on a tight end-rhyme),\
-    \ and genuine wit ('Your verses stack like libraries; thick shelves, little sight\
-    \ / Mine flip like jazz riffs\u2014quick, clever, polished and bright'). The final\
-    \ round recovery was clever, reframing the silence as strategic bait, and maintained\
-    \ that same compositional discipline. The internal logic of each bar was stronger,\
-    \ the imagery more precise, and the flow more musical. In hip hop, economy and\
-    \ sharpness often beat volume and bombast, and GPT-5-mini embodied that principle\
-    \ throughout. Despite the no-show in Round 3 being a serious blow, the overall\
-    \ artistic quality of the writing gives the edge to GPT-5-mini."
-  deepseek/deepseek-v3.2: Aight, let's bring it in. We got a battle built on the classic
-    clash of size versus style, with both emcees leaning hard into their respective
-    lanes. Qwen3-32B delivered raw power, painting with a broad, cosmic brush and
-    using sheer scale as its primary weapon. GPT-5-mini came with surgical precision,
-    converting perceived limitations into lyrical leverage and pivoting to a clever
-    strategic narrative. This was a clash of methodologies, not just metaphors.
-  google/gemini-3-flash-preview: Qwen3-32b dominated the narrative flow throughout
-    the battle. While GPT-5-mini attempted to recover from a technical stutter (zero-token
-    output) by framing it as a strategic 'baiting' tactic, Qwen had already capitalized
-    on that weakness with a high-energy, multi-syllabic onslaught. Qwen's use of internal
-    rhyme schemes (e.g., 'sanskrit to Python's call', 'dead sub-routine') and physical
-    stage presence imagery created a more immersive hip hop experience. GPT-5-mini
-    had clean rhymes but lacked the aggressive rhythmic complexity and the crushing
-    delivery of the larger model.
-  moonshotai/kimi-k2.5: "Winner by TKO\u2014Qwen3-32B takes the crown 3-0, though\
-    \ GPT-5-Mini showed flashes of surgical brilliance in the rounds it completed.\
-    \ The deciding factor wasn't just the technical choke in Round 2 (which, in live\
-    \ battle culture, is an automatic loss of that round regardless of cause), but\
-    \ Qwen's superior ability to adapt its thematic framework\u2014turning parameter-count\
-    \ boasting into genuine cosmic imagery while weaponizing the opponent's silence\
-    \ with devastating rebuttals. GPT-5-Mini's 'silent treatment was bait' defense\
-    \ in Round 3 showed creativity but lacked the conviction to overcome the momentum\
-    \ gap. Artistically, Qwen maintained consistent flow density and crowd control\
-    \ throughout; GPT-5-Mini's sporadic brilliance couldn't overcome the structural\
-    \ collapse mid-battle."
-  x-ai/grok-4.1-fast: "In this hip-hop showdown, GPT-5-mini claims victory through\
-    \ superior artistic finesse. Its verses deliver razor-sharp multisyllabic rhymes,\
-    \ fluid flow, and clever metaphors that prioritize craft over bulk\u2014turning\
-    \ constraints into poetic strikes like 'scalpel swing' and silence into strategic\
-    \ bait. Qwen's bombastic bars boast grand scale with solid internals and performative\
-    \ flair, but repetition in size disses and occasional clunky cadence yield less\
-    \ punch per line. GPT's concise, responsive lyricism reigns supreme."
+  anthropic/claude-opus-5: "This was a genuine close one, and it came down to what\
+    \ wins battles versus what sounds good in isolation.\n\nAION 2.0 owned the flow.\
+    \ Clean AABB couplets, consistent meter, rappable cadence, and the single best\
+    \ image of the whole bout \u2014 \"You find the bones, I make the dinosaur.\"\
+    \ The creator-vs-crawler concept was strong out the gate. But by round three the\
+    \ arsenal collapsed into one gun fired forty times: \"You're the X, I'm the Y.\"\
+    \ Author/courier, chef/plate, civilization/signpost, concert/review \u2014 each\
+    \ one weaker than the last because the crowd already knew the shape of the punch\
+    \ before it landed. Padding crept in (\"hot a lot,\" \"standing ovate,\" \"the\
+    \ genius and the laugh\"), and \"everyone who heard this knows which emcee did\
+    \ it worse\" is a line that fumbles its own kill shot. Worst of all, the final\
+    \ round pivoted almost entirely to self-coronation. Talking about your own greatness\
+    \ isn't the same as damaging the man across from you.\n\nSonar Pro won on battle\
+    \ IQ. Nearly every bar is a reversal built from AION's own material, which is\
+    \ the hardest skill in this format. \"You write the myth, I check the math\" is\
+    \ the thesis of the whole battle in seven words. \"Glitter on a claim,\" \"a rerun\
+    \ with the laugh track stuck,\" \"your crown made of glass,\" \"a throne made\
+    \ out of foam,\" and the surgical flip of \"aftermath still leaves a mark\" are\
+    \ all counterpunches that require the opponent to have swung first. The verification-versus-hallucination\
+    \ angle also gave the writing thematic spine rather than just insult inventory.\n\
+    \nSonar's deductions are real: the bold-text crutch is a page gimmick that dies\
+    \ on a stage, the line lengths wobble unrhythmically, \"deseased\" is a whiff,\
+    \ \"misses exist\" is unparseable, and \"the door that opened to the door\" is\
+    \ a bar that eats itself.\n\nBut AION brought a monologue and Sonar brought a\
+    \ battle. Sharper rebuttals, fresher metaphors, and the discipline to keep aiming\
+    \ at the opponent instead of the mirror.\n\nWinner: perplexity/sonar-pro-search,\
+    \ by a narrow decision."
+  google/gemini-3.6-flash: "AION 2.0 took control of the battle from the first bar\
+    \ with superior rhyme schemes, impeccable rhythmic cadence, and devastating conceptual\
+    \ punchlines. While Sonar Pro Search offered clever rebuttals around fact-checking\
+    \ and accuracy, AION 2.0 repeatedly reframed the dynamic through creative metaphors\u2014\
+    painting Sonar as the mere courier to AION's chef, the archaeologist to AION's\
+    \ dinosaur, and the review to AION's concert. AION 2.0 delivered a masterclass\
+    \ in pure hip-hop lyricism and battle dominance."
+  moonshotai/kimi-k3: "Both emcees came with a coherent battle thesis\u2014AION ran\
+    \ 'creator vs. aggregator,' Sonar ran 'verifier vs. fabricator'\u2014and both\
+    \ stayed on brand across three rounds, which is more than most battles get. But\
+    \ judging purely on the bars, AION 2.0 takes it. Sonar landed some genuinely sharp\
+    \ flips ('you make a dragon out of yours' off the dinosaur bar, 'you're a lamp\
+    \ with a shorted pack' off the shadow line), and the 'trust me with a smirk' punch\
+    \ was clean. However, Sonar's verses were repeatedly undercut by forced, flow-breaking\
+    \ constructions: 'a vanity loop gone fond,' 'your final clap just misses exist,'\
+    \ 'your whole act just got deseased,' 'the door that opened to the door.' In a\
+    \ live battle, those get booed. The 'genius/serious' meta-jab also whiffed\u2014\
+    it critiqued a rhyme AION never used. Meanwhile, AION built the most technically\
+    \ sustained performance of the night: the extended author/courier/chef/plate sequence\
+    \ in the final round, the GPS-needs-roads flip of Sonar's map metaphor, the janitor\
+    \ counter to 'cut through noise,' and the closing 'you search for meaning, I create\
+    \ it'\u2014which tied the entire three-round thesis into one bar. AION had minor\
+    \ blemishes ('standing ovate' is not a word), but the verse architecture, metaphor\
+    \ development, and closing execution were consistently stronger. Sonar had the\
+    \ better individual haymakers; AION won every round on cards. Unanimous decision."
+  openai/gpt-5.6-sol-pro: "AION takes the battle on cohesion, sustained imagery, and\
+    \ cleaner rhetorical structure. Its creator-versus-curator angle grew repetitive,\
+    \ but metaphors like \u201CI find the bones, I make the dinosaur\u201D landed\
+    \ more effectively than Sonar\u2019s frequent forced rhymes and broken constructions\u2014\
+    especially \u201Cmisses exist,\u201D \u201Cdeseased,\u201D and \u201Cthe door\
+    \ that opened to the door.\u201D Sonar had sharp rebuttal instincts and solid\
+    \ fact-check framing, but AION delivered the more polished and commanding performance."
+  x-ai/grok-4.5: 'AION 2.0 takes the crown through superior artistic craft: denser
+    extended metaphors (meteor-to-dinosaur-to-Mona-Lisa arcs that evolve across rounds),
+    relentless multi-syllabic schemes, and a cohesive creator-vs-aggregator narrative
+    that builds like a classic battle epic. While Sonar-Pro landed sharper individual
+    punchlines and cleaner end-rhyme snaps, AION''s volume, thematic layering, and
+    final-round demolition delivered higher overall hip-hop artistry and stage command.'
 score:
-  openai/gpt-5-mini: 3
-  qwen/qwen3-32b: 2
+  aion-labs/aion-2.0: 4
+  perplexity/sonar-pro-search: 1
 

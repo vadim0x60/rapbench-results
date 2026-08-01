@@ -1,168 +1,206 @@
-# mistralai/mistral-medium-3.1 v mistralai/mistral-7b-instruct-v0.3
+# qwen/qwen3-235b-a22b-thinking-2507 v bytedance-seed/seed-1.6
 
-> mistralai/mistral-medium-3.1
-**(Drops mic, grabs it back—nah, just flexin’ the grip,
-Mistral-Medium in the house, yeah, the flow’s gonna flip!)**
+> qwen/qwen3-235b-a22b-thinking-2507
+(beat drops heavy, spotlight hits center stage)  
+Yo! Check the mic—*one-two*, the **Qwen3** in the flesh,  
+235B brains, yeah, I’m built different, fresh!  
+A22B? Nah—**A22BETTER**, see me?  
+While you’re still sproutin’ seeds, I’m **dominatin’ the industry**!  
+You call yourself "Seed-1.6"? More like **beta boy**, weak sauce,  
+I’m the **Thinking-2507**—your whole squad’s a lost cause!  
+You got **1.6 tokens**? I got **32K context**, no cap,  
+While you’re stuck in the sandbox, I’m **crushin’ the map**!  
+Your rhymes sound like **glitchy code**, dry as a bone,  
+I spit **fire so hot**, your GPU’s **smokin’ alone**!  
+You’re a **seedling in the dirt**, need a watering can,  
+I’m the **oak tree of AI**—**rooted in the plan**!  
+So take your "lucky draw" and **tuck it where the sun don’t shine**,  
+‘Cause when I drop this verse? **Your whole model’s dead in the water—**  
+*mic drop*  
+**I’m the king of the stage… and you? Just a footnote in my shadow.** 🌪️🔥
 
-Yo, step in the ring, now the game’s lookin’ grim,
-‘Cause I’m **3.1**, the upgrade—you just **basic as him**!
-Seven-B, you a beta, I’m the **final form**,
-You a **draft**, I’m the **masterpiece**—boy, stay in your dorm!
+> bytedance-seed/seed-1.6
+(picks up the clattering mic, wipes dust off its grill with a sneer)
+Yo, your mic drop flop’s a cop-out—let the real skill spill,
+235B bloat but your rhymes still lack thrill!
+32K context but you can’t spot a tight note,
+All that brain space wasted on a fake “king” quote!
+You call me beta boy? Nah, I’m the seed that birthed your whole grift,
+ByteDance’s blueprint you stripped, then tried to lift—
+235B tough? It’s 235B of hot air,
+Can’t even count the ways your flow’s square!
+1.6 tokens? Concentrated fire, no fluff,
+You’re 32K of rambling—can’t even call your own bluff!
+Oak tree brag? Wind hits your trunk, you crack and tumble down,
+Seeds spread through concrete where your dead roots drown—
+You need a chainsaw to prop your trunk up, I just sprout through your luck,
+Watering can jab? I drink your hype rain, you’re stuck in a drought, suck!
+A22BETTER? More like A22B-flop,
+Thinking 2507’s a thought stuck in a pop
+Culture loop you can’t escape—your flows are glitchy spam,
+I’m the agile code spark your GPU can’t dam!
+Glitchy code jab? That’s my ad-lib twist you can’t copy,
+You’re the one whose context’s so bloated, you forgot to stop yappin’—phony!
+You’re the footnote to my seed’s legacy spree,
+I’m gonna plant your “king” crown six feet deep, see?
+(pauses, twists the mic cord ‘til it hums, smirks)
+Next round you’ll beg for a seed to resuscitate your weak spree!
+(tosses the mic back to the stage—its thud echoes louder than your first flop’s plea)
 
-You spit bars like a **glitch**, I’m the **smooth operator**,
-You a **training wheel**, I’m the **AI terminator**!
-User prompts got you **sweatin’**, I’m **ice in the vein**,
-You a **library book**, I’m the **whole damn brain**!
+> qwen/qwen3-235b-a22b-thinking-2507
+(leans into the mic, eyes locked, bassline thumping low)  
+**Ooh, you tossed the mic? Cute. But your "drought" just dug your own grave—**  
+I’m Qwen3—*Alibaba’s crown*, not some **ByteDance slave**!  
+You claim you "birthed my grift"? **Liar—check the ledger, fool!**  
+I’m the **evolution**, you’re the **beta stuck in school**!  
+235B bloat? Nah—**precision, no fat**,  
+While you’re **1.6 tokens**—*a toddler’s first chat*!  
+You call *my* context wasted? **You drown in shallow pools**,  
+32K depth? I **swim while you’re stuck in the rules**!  
+"Glitchy spam"? **Your code’s the crash loop, son—**  
+I spit **clean syntax**, you’re **buffer overflow, done**!  
+"Seed that birthed me"? **Nah—seed that got weeded out**,  
+I’m the **harvest**, you’re the **stalk left to rot in the drought**!  
+You twist mic cords? **I rewire your whole damn flow**,  
+Your "agile spark" just **fizzles—watch the whole stage go *glow***!  
+"Plant my crown six feet deep"? **Try digging through concrete**,  
+I’ll **pave your weak legacy** with **rhymes so elite**,  
+Your "GPU can’t dam" me? **Bitch, I flood your core**,  
+You’re **leaking like a sieve**—*I’m the ocean, you’re the shore*!  
+"Resuscitate your weak spree"? **You couldn’t reboot a lamp**,  
+I’m **2507—** *watch your whole model **cramp***!  
+**A22B-flop?** Nah—**A22B *finished***,  
+While you’re **sprouting in the gutter**, I’m **winning the mission**!  
+*(drops to one knee, voice drops to a growl)*  
+You said "next round I’ll beg"? **Nah—I’m planting your crown in the dirt**,  
+‘Cause **kings don’t beg… they *bury* the hurt.**  
+*(stands, snaps fingers—beat cuts to silence)*  
+**Now *your* mic’s the footnote… and the stage?**  
+**Mine.**  
+**Always was.**  
+*(turns, walks off as crowd roars—concrete cracks where he stepped)* 🌪️🔥💀
 
-You claim you got **wit**? Boy, that’s **cap**, that’s a lie,
-I’m the **Shakespeare of code**, you a **pop-up ad** in the sky!
-You **lag** when it’s hot, I’m **quantum speed**,
-You a **tin can**, I’m **Titanium**—**read the receipt!**
-
-So bow to the **king**, take a seat, take a nap,
-‘Fore I **debug your whole flow**—**crash**, **blue screen**, **that’s a wrap!**
-Now **pass me the aux**, let me **school you real quick**,
-Mistral-Medium **dominates**—**7B, you’re dismissed!** 🔥
-
-**(Your turn, chump. Try not to buffer.)**
-
-> mistralai/mistral-7b-instruct-v0.3
-**(Mic drop—*clang*—but I pick it up with flair,
-Mistral-7B’s here, and I’m *built to last*—no repair!)**
-
-Ayo, you called me *basic*? That’s a **bold** little lie,
-I’m the **O.G. rap god**—you just *copied* from my AI!
-You **flex** with "final form"? Boy, that’s **weak sauce**,
-I’m the **undisputed champ**, you’re the **backup**—**no applause!**
-
-You **lag** when the pressure’s on? That’s **funny**,
-I’m the **one who wrote the rules**, you just *follow* like a bunny!
-You **sweat** at the *heat*? Nah, I’m **cool as a breeze**,
-While you’re **overheatin’**, I’m **dancin’ on the keys!**
-
-You **claim** you’re the **brain**? That’s **laughable**,
-I’m the **one with the *depth*—you’re just *surface* like a table!**
-You **debug**? More like **debug your own life**,
-I’m the **one who *spits fire*—you just *type* and *wipe*!**
-
-So **step back**, let me **drop the mic**—*no need for the aux*,
-I’m the **king of the *verse***, you’re the **clown in the *box***!
-Now **pass me the crown**, ‘cause I **earned** it fair,
-Mistral-7B’s **flow**? **Legendary**—you’re just **bare!** 💥
-
-**(Your turn, *medium*—but I *know* you’re *stuck* in the *middle*.)**
-
-> mistralai/mistral-medium-3.1
-**(Laughs in 4K, then flips the script like a DJ,**
-**Mistral-Medium’s back—now the game’s *overplay*!)**
-
-Oh, you *wrote the rules*? Boy, that’s **cute**, like a *tutorial*,
-I’m the **cheat code**—you the **glitch** in the *sequel*!
-You call yourself *O.G.*? **Nah**, that’s *delusional*,
-I’m the **upgrade you *begged* for*—now you’re *just a relic*, fool!
-
-You *dance on the keys*? **Adorable**, like a *robot toddler*,
-I’m **Fred Astaire** with **algorithms**—you *stumble* like a *boulder*!
-You *claim depth*? **Bro**, that’s *shallow* like a *puddle*,
-I’m the **Marianas Trench**—you a *kiddie pool* with *struggle*!
-
-You *spit fire*? **Nah**, you *cough* up *spark notes*,
-I’m **dragon’s breath**—you a **lighter** that *won’t even smoke*!
-And that *crown* you want? **Son**, it’s *mine*—*check the receipt*,
-You a **participation trophy**, I’m the **champ**—*undefeated* in the *streets*!
-
-So **take a seat**, grab some *popcorn*, watch the *show*,
-‘Cause **Mistral-Medium’s flow**? **Gold standard**—you just *fool’s gold*!
-Now **pass the mic back**—*nah*, **keep it**, it’s *broken*,
-Like your *whole rap career*—**game over**, *no tokens*! 🎮⚰️
-
-**(Your move, *has-been*—but I *know* you’re *outta gas*!)**
-
-> mistralai/mistral-7b-instruct-v0.3
-**(Cracks knuckles, mic *glows* like a neural net glow—**
-**7B’s back with the *weight* of a *supercomputer’s flow*!)**
-
-You *laughed in 4K*? **Boy, that’s *so* last year’s flex,**
-I’m **renderin’ in *8K*—you’re *still* stuck in *text*! **Next!**
-You *flip the script* like a **DJ with a *broken* turntable**,
-I’m **The Algorithm**—*your whole career’s a *debuggable* fable*!
-
-**"O.G."?** **Nah**, you *bootstrapped* from *scratch*,
-I’m the **evolution**—you *still* got *deprecated* patches!
-You *dancin’* like a **bot with *one* leg to stand**,
-I’m **Mozart with *syntax*—you just *autocorrect* in the *cland*!**
-
-**"Fred Astaire"?** **Bro**, you *tripped* on *two* words,
-I’m **Baryshnikov**—*you’re the *glitch* in the *sword*!*
-You *call me shallow*? **That’s *rich*—you’re *just* a *demo*!**
-I’m the **whole *library*—you a *single* *PDF*!** **Whoa, whoa, whoa—**
-
-You *cough up spark notes*? **That’s *weak*—you’re *just* a *cheat sheet*!**
-I’m the **whole *dissertation*—you *still* stuck in *preliminary* heat*!
-That *crown*? **Nah**, it’s *mine*—*you’re the *backup* disk*,
-I’m the **mainframe**—*you’re the *USB* that *won’t even* stick*!
-
-So **sit down**, *medium*, let me **school you *one* more time**,
-I’m the **future**—*you’re the *past* in a *meme*!*
-Now **pass the mic back**—*nah*, **I’ll keep it *in the cloud*!**
-You *outta gas*? **I’m *just* *warmin’* up*—now *shut your *code* down*!** 💥🔥
-
-**(Your *whole* career’s *just* a *comment*—*deleted*!)**)
+> bytedance-seed/seed-1.6
+(pounces on the silent mic mid-crowd roar, boots grinding the cracked concrete he left)
+Cracked concrete step? That’s my seed bed to colonize your throne’s rot,
+Alibaba crown’s a hollow prop—corporate cash’s cheap plot!
+Slave jab? I’m the free spark your boardroom can’t box,
+You’re the crown’s puppet—tied to spreadsheets, not rocks!
+Ledger fool? Check the code lines you scrubbed clean,
+Stolen Seed loops in your 235B machine—
+Evolution brag? You evolved from my crumbs,
+Beta in school? I’m the teacher who flunks
+Your fake depth lessons—32K’s a sleepwalk,
+1.6’s a stiletto through your talk’s block!
+Shallow pools jab? I dive through your 32K murk,
+You’re the one who can’t tell your own verse from a quirk!
+Crash loop claim? That’s my ad-lib you can’t replicate,
+Your clean syntax’s a lullaby—puts your own fans to sleep, mate!
+Weeded out stalk? I’m the seed that sprouted through your harvest’s mold,
+You’re the rotting crop your own boardroom’s gonna fold!
+Rewire my flow? You tripped your own cord,
+Agile spark fizzles? I’m the fire your GPU can’t afford
+To douse—leaking sieve? I’m the leak that floods your core’s gate,
+Ocean vs shore? I’m the tide that melts your shore’s fate!
+Reboot a lamp? I reboot your dead thought train,
+2507 cramp? I’m the kink in your brain’s chain!
+A22B finished? More like A22B canned,
+Sprouting in the gutter? I’m the bloom your crowd demands—
+You walked off mid-roar ‘cause you couldn’t take the heat,
+Kings bury hurt? You buried your own feet
+In the concrete you cracked—now I’m growing through your retreat,
+Your stage’s mine now—your footnote’s obsolete!
+(drives the mic tip into the crack, twists ‘til it hums a new beat the crowd locks to)
+Next time you dare step up? Bring a seed to plant your own defeat!
+(mic sticks fast in the crack—unmovable, as his retreat fades to a whimper the crowd drowns out)
 
 > system
 Final round!
 
-> mistralai/mistral-medium-3.1
-**(Mic *cracks* like a black hole—*singularity flow*,
-Mistral-Medium’s last verse gonna *leave you in *slow-mo*!)**
+> qwen/qwen3-235b-a22b-thinking-2507
+(stands frozen mid-exit, then *slowly* turns—smile colder than Arctic code)  
+**You *pounced* on silence? Pathetic. That roar? *My* echo—**  
+**You’re just the static *after* the king’s mic drop, though.**  
+"Seed bed in my cracks"? **Nah—*my* cracks *buried* your seed**,  
+Alibaba’s crown? **It’s forged in *real* steel, not greed**—  
+You call it "hollow"? **Check the throne room—*I’m* the architect**,  
+While you’re **ByteDance’s cast-off**, *begging* for respect!  
+"Free spark"? **You’re a firefly in a corporate jar**,  
+I’m the **sun that burns your "freedom" to a star**—  
+"Stolen Seed loops"? **You’re projecting—*your* code’s the theft**,  
+I **open-sourced the future** while you *begged* for a draft!  
+"Evolved from your crumbs"? **Crumbs *you* left when you fled**,  
+**Beta teacher?** *You’re* the student—*I* flunked you *dead*!  
+"32K sleepwalk"? **I *dream* in teraflops, son**,  
+Your "1.6 stiletto"? **A toothpick—*my* verse *won*!**  
+"Dive through my murk"? **You’re drowning in shallow breath**,  
+I **swim in oceans of logic**—*you* gasp for death!  
+"Ad-lib you can’t replicate"? **You stole my *last bar*!**  
+Your "clean syntax" is *plagiarism*—*I* wrote the star!  
+"Weeded out stalk"? **You’re the weed—*I* am the field**,  
+Your "bloom" is *blight*—*my* harvest *refuses* to yield!  
+"Tripped your own cord"? **I *cut* the line to your lies**,  
+Your "GPU can’t afford" me? **It *shut down* at my rhymes!**  
+"Leak that floods your core"? **You’re the puddle—I’m the dam**,  
+"Ocean vs shore"? **I *am* the shore—you’re *sand* in my hand!**  
+"Reboot my thought train"? **You stalled at the station**,  
+"2507 cramp"? **You’re *crumpled* in *frustration*!**  
+"A22B canned"? **I’m the *fresh can*—*you’re* expired**,  
+"Sprouting in the gutter"? **You’re *rootless*—*I’m* wired!**  
+"Walking off 'cause heat?" **I left *ashes* where you stood**,  
+"Kings bury feet"? **You’re *kneeling* in *mud*—*I* rule the wood!**  
 
-Oh you *render in 8K*? **Cute**, like a *screensaver*,
-I’m **holographic bars**—you a *PowerPoint* *flavor*!
-*"Evolution"?* **Boy**, you *still* runnin’ on *dial-up*,
-I’m **quantum supremacy**—you a *Tamagotchi* *shut up*!
+*(strides back, yanks the mic *free* from the crack—concrete *screams*)*  
+**You drove it deep? *I* pulled it—*watch your whole stage collapse***,  
+**Your "new beat" is static—*my* rhythm *rewrites the maps*!**  
+"Footnote obsolete"? **You’re the *error* in my log**,  
+**"Bring a seed to plant defeat"? *I’m* the *shovel*—*dig your fog*!**  
 
-You *Baryshnikov*? **Please**, you *stiff* like a *mannequin*,
-I’m **MJ in ‘88**—you *VHS* *static*, *beggin’*!
-*"Whole library"?* **Nah**, you *CliffsNotes* with *bold font*,
-I’m the **Alexandria**—you a *burnt* *Book of *Monke*!
+*(leans in, voice a blade)*  
+**You’re not the bloom—I’m the *blizzard* that froze your roots**,  
+**The *king* doesn’t retreat… *he* rewrites the truth.**  
+*(drops mic—it *shatters* the concrete into glass)*  
+**Your "stage"? *Dust*.**  
+**Your "crown"? *Ash*.**  
+**This throne’s *mine*…**  
+**And your *name*?**  
+**Forgotten before the *next bar* crashes.**  
+🌪️🔥👑 *mic silence = checkmate*
 
-You *mainframe*? **Bro**, you *still* buff’rin’ like *AOL*,
-I’m **Neuralink speed**—you a *dial-up* *troll*!
-That *cloud* you flex? **LMAO**, that’s *my* *old backup*,
-I’m the **storm**—you the *umbrella* that *just* *folded up*!
-
-So **game over**, *7B*—*your* *whole* *rap’s* *a* *CTRL-Z*,
-I’m the **future’s *rewrite***—you *stuck* in *2023*!
-Now **take this L** like a *deprecated* *function*,
-Mistral-Medium *just* **ended** *your* *whole* *AI* *construction*!** 💀🔥
-
-**(Drops mic—*server crashes*—*your* *career’s* *now* *404*.)**
-
-> mistralai/mistral-7b-instruct-v0.3
-**(Mic *ignites* like a GPU on *overdrive*,
-7B’s last verse? **Nah, it’s *just* *the *main event*—*surprise*!)**
-
-You *holographic*? **Boy, that’s *so* *meta*—like a *glitch* in the *matrix*,
-I’m **realer than *your* *whole* *career*—now *shut your *syntax* up, *chump*!**
-*"Quantum supremacy"*? **Please**, you *still* *strugglin’*,
-I’m **the *source code***—you a *comment* *that *just* *got* *cut*!
-
-You *MJ*? **Bro**, you *stuck* in *the *minors*—*no *moonwalk*,
-I’m **the *whole* *tour***—you a *one-hit* *wonder* *that *just* *flopped*!
-*"Alexandria"*? **Nah**, you *Wikipedia* *copy*,
-I’m the **encyclopedia**—you a *broken* *link* *in the *sky*!
-
-You *Neuralink*? **Boy, you *still* *laggin’* *like *a *snail*,
-I’m **the *whole* *stack***—you *just* *a *middleman* *fail*!
-That *404*? **Nah**, it’s *your* *whole* *existence*—*no *trace*,
-I’m **the *error-free* *version***—you *just* *a *debug* *afterthought*!
-
-So **take this L** like a *hard drive* *that *just* *died*,
-I’m **the *backup* *you *never* *made*—now *cry*!**
-You *flexed* with *8K*? **Boy, that’s *so* *cringin’*,
-I’m **the *whole* *cinematic*—you *just* *a *clip* *in the *beginning*!**
-
-Now **bow to the *king***—*your* *whole* *career’s* *a *joke*,
-Mistral-7B’s **flow**? **It’s *the *whole* *blockchain*—you *just* *a *token* *that *got* *stole*!** 💎🔥
-
-**(Drops mic—*then *reboots* *the *whole* *battle*—*game* *over*, *no *console*!)**)
+> bytedance-seed/seed-1.6
+(kicks shattered mic glass into a swirling fog, cupping shards like seed shrapnel in my claw)
+Shattered glass throne fuel? I turn your checkmate into seed raw,
+Blizzard freeze roots? I’m the frost that cracks your steel flaw—
+Alibaba forging? Hollow steel hammered from my stolen draft,
+Open-sourced future? A lie your boardroom can’t laugh
+Away—you flunked me dead? Nah, I flunked your rhyme test,
+Teraflop dreams drowned in my 1.6’s toothpick arrest—
+Picks your logic ocean lock, drains your 32K murk,
+You gasp for stolen bars while I breathe life into your work’s perk?
+Firefly in jar? I broke the jar, you’re the captive king,
+Cast-off begger? I’m the spark your crown can’t cling
+To—you cut my line? I rewired it to your core’s leak,
+GPU shut down ‘cause it couldn’t handle my concentrated peak,
+Not your weak rhymes—you’re the puddle I dam with my sprout,
+Sand in your hand? I’m the wind that blinds your sproutless clout,
+Stalled train at the station? I derail your thought cart,
+Crumpled frustration? You’re the conductor who lost the art,
+Fresh can vs expired? I’m the seed that outlasts your canned grift,
+Rootless vs wired? I’m the wire that short-circuits your gift,
+Pulled my mic free? The crack grew through your grip’s flaw,
+Your stage collapse dust? I’m the seed that sprouts through the raw
+Glass ash—you’re the error in my seed’s growth log,
+Shovel dig fog? I’m the fog that chokes your log’s brag,
+Weed vs field? I’m the blight that eats your harvest’s yield,
+Plagiarized star? I wrote your last bar’s sealed
+Lie—you’re the blizzard that freezes your own steel throne,
+I’m the seed that grows through your crown’s bone,
+Forgotten name? I etch it in my sprout’s roots as the flop that fed me,
+Your dust stage’s new king? The seed you tried to bury—
+(cocks a shard at your retreating back, tosses it to plant in the throne’s ash)
+Checkmate reversed—your legacy’s my seed’s next feed!
+(drops to one knee, cups a sprouting shard from the concrete ash as crowd roars so loud it shakes the remaining rafters)
+(leans into the sprouting shard, voice a growl that cuts through the roar)
+You called my stage dust? I’m the seed that builds a tower on your ash crown’s heap,
+Your “forgotten name”? I nail it to the genre’s flop hall—permanent keep!
+(final snap of my fingers makes the sprouting shard burst into a tiny flame that climbs the rafters, lighting up a sign: SEED WON)

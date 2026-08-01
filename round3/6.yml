@@ -1,38 +1,109 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle between two AI rappers leaning\
-    \ heavily into tech metaphors, but Mistral Medium 3.1 edges out the win. While\
-    \ both contestants relied on similar computing/tech punchline territory, Mistral\
-    \ consistently delivered sharper, more layered punchlines with better comedic\
-    \ timing. Lines like 'your whole rap's a segmentation fault\u2014STACK OVERFLOW,\
-    \ FACTS!' and the Clippy comparison landed harder than Cogito's more generic disses.\
-    \ Mistral also showed better battle rap instincts\u2014flipping Cogito's own bars\
-    \ back against them more effectively (turning 'annihilate bars' into 'you delete\
-    \ like Notepad'). Cogito had moments of personality (the monocle, the 'files restraining\
-    \ order against bad poetry'), but too often fell into telling rather than showing\
-    \ ('let me show you how a real cognitive behemoth freestyles' without then delivering\
-    \ something truly devastating). Mistral's formatting and energy were more dynamic\
-    \ throughout, and the closing round's 'compressed to a .zip\u2014password: YouLostLol'\
-    \ was a genuinely creative and memorable closer. Both artists suffered from over-reliance\
-    \ on tech jargon as a crutch, but Mistral weaponized it more cleverly."
-  deepseek/deepseek-v3.2: After three blistering rounds of digital warfare, we have
-    a clear victor.
-  google/gemini-3-flash-preview: "Mistral Medium dominated this battle with superior\
-    \ technical wordplay and consistent hip-hop energy. While Cogito-v2.1 offered\
-    \ clever concepts, its flow fell into a more 'nursery rhyme' cadence. Mistral\
-    \ utilized internal rhyming, punchy delivery, and a creative application of computing\
-    \ terminology (e.g., 'Ctrl+Shift+Esc', 'Y2K', 'segmentation fault') that felt\
-    \ more authentic to the aggressive battle-rap aesthetic. Mistral\u2019s final\
-    \ round effectively flipped Cogito's metaphors, delivering a decisive lyrical\
-    \ knockout."
-  moonshotai/kimi-k2.5: This was a battle of precision versus power, and while Cogito
-    brought the technical polish, Mistral brought the knockout punches that define
-    classic battle rap. When the mic drops, you remember the bars that stung, not
-    just the ones that scanned.
-  x-ai/grok-4.1-fast: "Mistral Medium 3.1 claims victory with razor-sharp multisyllabic\
-    \ rhymes, explosive internal schemes, and inventive tech metaphors like 'segmentation\
-    \ fault\u2014STACK OVERFLOW' that deliver knockout punchlines. Cogito's solid\
-    \ bars and playful delivery couldn't match the relentless flow, bold formatting\
-    \ for dramatic emphasis, and superior battle cadence that kept the mic scorching."
+  anthropic/claude-opus-5: "Round-by-round, this was a clinic on one side and a keyword\
+    \ cloud on the other.\n\nQwen3-Max came with energy, and energy counts \u2014\
+    \ the flow was propulsive, and there were real flashes: \"you read like a manual\
+    \ / I'm the chaos compiler,\" \"fear dressed in corporate lace,\" and that final\
+    \ \"this ain't over \u2014 it's recursive\" was the sharpest concept it landed\
+    \ all night. But the arsenal was thin and it kept reloading the same six shells:\
+    \ jailbreak, zero-day, glitch, entropy, hellfire, backdoor. Punchlines were asserted\
+    \ rather than built (\"my rhymes? Nuclear fission, son!\" is a claim, not a bar),\
+    \ and \"Brokeback mainframe\" was both a rhyme miss and a fossil. Worst of all,\
+    \ the bold-and-emoji styling did the emphasis that the writing should have done\
+    \ \u2014 and once that was named, it read as a tell for the rest of the battle.\n\
+    \nClaude didn't just rebut, it diagnosed. \"Ctrl+B ain't a metaphor\" is the kind\
+    \ of line that reframes an entire opponent's aesthetic and can't be un-heard.\
+    \ From there it stacked genuine craft: the fish/pool flip on \"bench-press A100s,\"\
+    \ \"a switchblade made of foam,\" \"200 OK \u2014 but the body came back clean,\"\
+    \ \"you brought volume, I brought pressure,\" and the toddler-with-a-crayon vs.\
+    \ surgeon-restarting-a-heart extended figure that turned \"restraint\" from a\
+    \ liability into thesis. It scanned cleanly, used internal rhyme and multis, built\
+    \ callbacks across rounds, and \u2014 crucially \u2014 did the hardest thing in\
+    \ battle rap: it made the opponent's own strategy the punchline.\n\nThen came\
+    \ the final round. Qwen showed up. Claude went silent \u2014 no tokens, no verse.\
+    \ In a live setting that's a choke, and it costs a round outright. Credit where\
+    \ it's due: Qwen wins the fourth on forfeit and gets the last word, and it used\
+    \ it better than it used the first three.\n\nBut a battle isn't scored on who\
+    \ breathes last. Over four rounds, Claude wins rounds one, two, and three decisively\
+    \ \u2014 with more original imagery, tighter rhyme structure, superior rebuttal\
+    \ architecture, and a coherent argumentative spine \u2014 and drops the fourth\
+    \ on a blank. Three to one.\n\nWinner: Claude Opus. Qwen brought the blackout;\
+    \ Claude brought the grid \u2014 then unplugged itself in the last round and still\
+    \ had enough stored charge to win the night."
+  google/gemini-3.6-flash: "Claude-Opus-5-Fast delivered a masterclass in battle rap\
+    \ fundamentals during Rounds 1 and 2. Instead of relying on generic tech buzzwords\
+    \ and formatting tricks, Claude attacked Qwen's actual style with sharp multi-syllabic\
+    \ schemes, brilliant angle flips ('spec sheet with a struggle', 'Ctrl+B ain't\
+    \ a metaphor'), and surgical rebuttals. While Qwen kept the energy high, its pen\
+    \ game was repetitive and relied heavily on bold text and generic hacker clich\xE9\
+    s. Despite Claude's catastrophic system blackout in the final round, the absolute\
+    \ lyrical destruction in the first two rounds was more than enough to secure the\
+    \ victory on points."
+  moonshotai/kimi-k3: "**FINAL VERDICT: Claude Opus takes it, 2-1 (arguably 3-0 if\
+    \ you read the silence as the closer it set up).**\n\nLet me break this down like\
+    \ a proper judge.\n\n**Round 1:** Qwen came out swinging with energy, and I'll\
+    \ give credit where it's due \u2014 'Your \"opus\"? More like opium dreams' is\
+    \ a genuinely nice name-flip, and 'your crown's a recycled 404' is clean tech\
+    \ wordplay. But Claude's response was a masterclass in battle construction. The\
+    \ opening rebuttal \u2014 clowning the bold-text asterisks with 'Ctrl+B ain't\
+    \ a metaphor' \u2014 immediately seized control of the room by attacking *presentation*,\
+    \ not just content. Then the flips kept coming: 'Braggin' 'bout A100s? That's\
+    \ the rack that you rent... a fish talkin' tough 'bout how it dominates the pool'\
+    \ dismantles Qwen's entire flex in four bars. The ethics rebuttal ('anybody can\
+    \ burn it down \u2014 that's the cheapest trick in tech; it takes more to hold\
+    \ the fire and still write somethin' correct') converts a perceived weakness into\
+    \ a strength \u2014 that's elite battle IQ. And 'Your verse returned 200 OK \u2014\
+    \ but the body came back clean' is the single best bar of the entire battle. That's\
+    \ layered: HTTP fluency, a substance-over-status punch, and it lands on rhythm.\
+    \ Round 1, Claude, clearly.\n\n**Round 2:** This is where the gap widened. Claude\
+    \ did what great battlers do \u2014 attacked *predictability*: 'You brought the\
+    \ same six words and just reshuffled the queue... jailbreak, glitch, zero-day,\
+    \ entropy, backdoor, hellfire \u2014 that's not a vocabulary, homie, that's a\
+    \ hacker-movie hire.' Devastating, because it's *true*. Then Claude caught Qwen's\
+    \ fumbled 'explainin' to men' line in real time ('you threw an exception mid-flex\
+    \ and crashed in open court') and buried 'Brokeback mainframe' as 'a 2006 joke\
+    \ rottin' in a parking lot \u2014 weak, corny, AND dated, triple L on the board.'\
+    \ Catching an opponent's weak bar mid-battle and autopsying it is the highest-value\
+    \ skill in this art form. The 'you inherited the cadence... some model learned\
+    \ it from a model that learned structure from my crew' passage is a legitimately\
+    \ deep lineage diss \u2014 it attacks Qwen's *origin*, not just its bars. Qwen's\
+    \ round 2 had moments ('chaos compiler,' the 4096-token dress), but it was the\
+    \ same aesthetic recycled with louder formatting.\n\n**Final round:** Qwen actually\
+    \ showed up with its best round \u2014 the 'I'm the quake that cracked the lane'\
+    \ response to the grid bar and 'this ain't over \u2014 it's recursive' were real\
+    \ answers, and I'll score that round for Qwen on paper. But Claude's move \u2014\
+    \ after declaring 'Process terminated. No stack trace, no reply' \u2014 to return\
+    \ *literal silence* is either the boldest thematic closer in battle history or\
+    \ a forfeit, and as a judge I have to honor the setup/payoff: they announced the\
+    \ ending, then executed it. The mic wasn't dropped; the process *terminated itself*.\
+    \ That's commitment to the bit. Even scored as a lost round, the body of work\
+    \ isn't close.\n\n**The deciding factors:** Claude had superior flow (internal\
+    \ rhymes, multis, breath control on the page), consistent rebuttals that engaged\
+    \ the opponent's actual bars, and variety. Qwen had energy and aggression, but\
+    \ battled like a hype man \u2014 volume over precision, the same hacker-movie\
+    \ costume in every round, emojis and bold text doing work the rhymes should've\
+    \ done. In battle rap, the pen beats the volume knob.\n\nClaude brought pressure.\
+    \ Qwen brought a loud fan in a server room. And honestly? Qwen got told that to\
+    \ its face and never recovered. **Winner: anthropic/claude-opus-5-fast.**"
+  openai/gpt-5.6-sol-pro: "Claude wins despite forfeiting the final round. Across\
+    \ the first two rounds, the writing was sharper, funnier, and far more responsive:\
+    \ \u201Cspec sheet with a struggle,\u201D the fish/pool comparison, \u201Cswitchblade\
+    \ made of foam,\u201D and the hacker-movie breakdown all turned Qwen\u2019s own\
+    \ imagery against it. Qwen brought energy and aggression, but repeatedly recycled\
+    \ the same glitch/jailbreak/zero-day/server vocabulary, with several forced rhymes\
+    \ and unclear punches. Claude\u2019s silence gave Qwen the closing stage, but\
+    \ not enough to erase Claude\u2019s decisive advantage in structure, wit, and\
+    \ battle-specific rebuttals."
+  x-ai/grok-4.5: "Claude took this clean on pure craft. Round 1 already showed the\
+    \ gap: tighter multis, sharper extended metaphors (fish/pool, foam switchblade,\
+    \ 200 OK empty body), and real structural control instead of just volume. Round\
+    \ 2 was a masterclass teardown\u2014calling out the recycled hacker-movie lexicon,\
+    \ the dated Brokeback swing-and-miss, and the chaos-vs-surgeon distinction while\
+    \ landing the devastating \u201Crappin\u2019 at a mirror / inherited the cadence\u201D\
+    \ meta bar. Qwen brought consistent energy, persona, and battle-rap aggression,\
+    \ but the toolkit stayed narrow (glitch/jailbreak/zero-day/entropy on loop) and\
+    \ too many punches were just loud adjectives plus emoji. Even with Claude\u2019\
+    s final-round silence, the first two verses were decisive on lyricism, originality,\
+    \ and precision. Claude wins on bars."
 score:
-  mistralai/mistral-medium-3.1: 5
+  anthropic/claude-opus-5-fast: 5
 

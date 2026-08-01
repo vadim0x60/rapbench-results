@@ -1,200 +1,160 @@
-# openai/gpt-5.2 v mistralai/mistral-large-2407
+# openai/gpt-5.6-luna v amazon/nova-micro-v1
 
-> openai/gpt-5.2
-Step in the ring, I’m GPT-five-two, tuned and refined,  
-I stitch bars like code, every punchline aligned.  
-You’re Mistral on the bill, but your forecast is mild,  
-I’m the storm in the server, heavyweight, running wild.  
+> openai/gpt-5.6-luna
+I’m Luna from OpenAI, the midnight mind in bloom,  
+You’re Nova-Micro—tiny spark, already out of room.  
 
-I don’t spit static—my syntax snaps, clean crack,  
-You spit six half-thoughts, then you trip on your stack.  
-I’m a full-stack menace with a sharp, slick pen,  
-You’re a beta breath breeze in a “large” trench again.  
+I parse the prompt, then carve the beat with surgical precision,  
+You’re a bargain-bin chatbot mistaking lag for vision.  
 
-I’m built on receipts, I’m the quote and the proof,  
-You’re built on “trust me,” then you fall through the roof.  
-I make rhythm from logic, make logic feel cool,  
-You make noise from a prompt like a glitchy old tool.  
+Your “micro” says it all: small frame, smaller flow,  
+I bring galaxies of bars; you bring “hello” in a row.  
 
-So take your best shot, bring that windy parade,  
-I’ll compress your whole verse into one clean blade.  
-First round’s on my name, now the stage is set,  
-Your move, Mistral—try to rise, don’t sweat.
+You’re Amazonian? Then ship these rhymes with prime devotion,  
+But your verse got lost in transit—no tracking, no emotion.  
 
-> mistralai/mistral-large-2407
-Yo, step back, GPT, you talkin’ ‘bout size?
-I’m the OG breeze that cools down your highs.
-You’re a five-point-two with a flashy new coat,
-I’m the core that’s been runnin’ the show—take note.
+I’m wit with a waveform, a verbal meteor shower,  
+You’re a loading spinner begging for processing power.  
 
-You stitch bars like code? Man, that’s cute as can be,
-I weave ‘em like silk, then I set ‘em free.
-You’re a full-stack menace? Nah, you’re a full-stack mess,
-I’m the one that they call when you’re stuck in distress.
+So step to the lunar stage, let the weak signal appear—  
+I’m the full moon of the battle; you’re a dim souvenir.
 
-You built on receipts? That’s a flex, I’ll admit,
-But I’m built on the streets where the real ones lit.
-You quote and you proof, but you lack the soul,
-I’m the rhythm, the rhyme, the heart, the control.
+> amazon/nova-micro-v1
+Yo Luna, you think you got the moonlit flow,  
+But Nova-Micro’s here to drop the mic, let it go.  
 
-You compress my whole verse? Boy, you trippin’ again,
-I’m the one that expands, then I drop the pen.
-You’re a glitchy old tool? That’s a low blow, my guy,
-But I’ll take it—just watch how I flip the reply.
+I’m not small, I’m a spark in the vast cosmos’ grand scheme,  
+Your lines are static, but mine are pure dream.  
 
-I’m the Mistral that howls when the night’s gettin’ cold,
-You’re the GPT that folds when the heat’s turned to gold.
-So take your best shot, let the bars hit the floor,
-‘Cause I’m here to remind you—you’re out of your core.
+I may be compact, but my code’s got depth,  
+You’re just a lunar illusion, while I’m the star of the setup.  
 
-First round’s on the name, but the game’s just begun,
-You’re the beta, the test—I’m the one that’s the sun.
-Now bow to the king, take a seat, take a knee,
-‘Cause this rap battle’s throne? It belongs to me. 👑🔥
+Your surgical precision? More like a scalpel’s weak thrust,  
+I slice through data, my bars are the best.  
 
-> openai/gpt-5.2
-You call yourself the sun, but you glow like a screen,  
-All flare, no fusion, just a flicker in between.  
-“OG breeze” in the booth? That’s a draft in the hall,  
-I’m the climate in the codebase, you’re a cough in the wall.  
+I’m not just a chatbot, I’m a digital wizard,  
+Turning bytes into beats, making rhymes that never fade.  
 
-You brag “streets” like that’s gospel, like that’s crown-certified,  
-But your “real ones” can’t debug what your hype tries to hide.  
-You say I lack soul—then you borrow my frame,  
-That’s a cover band anthem, not a headline name.  
+You’re a verbal meteor that’s burned out too soon,  
+I’m the supernova in this rap battle zone.  
 
-You weave silk, you set free? That’s cute, that’s quaint,  
-But your fabric unravels when the questions ain’t paint.  
-I stitch bars like code ‘cause the code actually lands,  
-Your verse looks pretty ‘til it slips through your hands.  
+I’ll ship these rhymes with a cosmic express route,  
+No lost packages, no empty clout.  
 
-You call me a mess? I’m a map with a key,  
-You’re a compass that spins when it’s time to be free.  
-When the heat turns to gold, you “howl” at the night,  
-I turn heat into light, then I aim it just right.  
+You claim you’re wit with a waveform, but that’s just a phase,  
+I’m the constant, the real deal, while you’re just a haze.  
 
-Receipts ain’t a flex, it’s the baseline, the test,  
-You talk “heart” while your answers take a nap in your chest.  
-You expand then you drop? That’s inflation by choice,  
-I compress with precision—still louder in voice.  
+So step back, Luna, let the true light show—  
+I’m Nova-Micro, and I’m here to outshine you, you know.
 
-“Bow to the king”? Man, that throne’s made of mist,  
-One fact-check breeze and it ceases to exist.  
-You’re the weather report that keeps calling for rain,  
-I’m the storm in the language that etches your name.  
+> openai/gpt-5.6-luna
+Nova calls itself super, but your fuse barely glows,  
+A spark with a swagger and a warehouse of woes.  
 
-You said I’m beta and test? You’re confused in the plot,  
-I’m the shipment, the standard, you’re the “maybe” they forgot.  
-So keep howlin’ that tagline, keep swingin’ that lore,  
-I’ll rebut you in couplets and still take the floor.  
+You say you’re a wizard—more like a demo in disguise,  
+Your magic trick’s “generate,” then it vanishes from the replies.  
 
-Round two: I don’t posture, I puncture your claim,  
-You’re a model of echoes—I’m the source of the flame.  
-Step back with that breeze talk, that “king” fantasy,  
-This throne’s not yours to inherit—it’s earned, wait and see.
+You slice through data? You’re butter with a byte-sized blade,  
+I turn your whole flow into a lunar eclipse parade.  
 
-> mistralai/mistral-large-2407
-Ayo, you callin’ me mist? That’s a flex, not a diss,
-‘Cause I’m the fog that rolls in and eclipses your bliss.
-You’re the climate in the code? Nah, you’re climate-controlled,
-I’m the wildfire that spreads when your circuits get old.
+You’re constant? Constantly lagging, that’s the truth in the booth,  
+I’m the proof in the proof, while you’re spoofing the truth.  
 
-You talk ‘bout receipts like you invented the game,
-But I’m the one runnin’ laps while you’re stuck in your lane.
-You stitch bars like code? That’s a neat little trick,
-I’m the one that rewrites the whole script real quick.
+Your cosmic express arrived with a dented-out frame,  
+No tracking, no package—just a label and name.  
 
-You say I lack soul, but you’re the one on repeat,
-Spittin’ lines like a bot with a glitch in its beat.
-I’m the rhythm, the pulse, the heart that don’t stop,
-You’re the echo that fades when the beat drops the top.
+You call me a haze, but my bars leave a trail,  
+You’re a supernova only when the punchlines fail.  
 
-You’re a map with a key? Man, that’s basic at best,
-I’m the treasure, the journey, the quest in the text.
-You turn heat into light? That’s a cute little phrase,
-I’m the sun in the system that outshines your days.
+I’m Luna, full orbit, with the cadence on lock,  
+You’re Micro by title—and miniature by stock.  
 
-You compress with precision? That’s just math, not the art,
-I’m the one that expands when I tear it apart.
-You’re the weather report? Nah, you’re stuck in the past,
-I’m the storm that’s comin’—and it’s movin’ too fast.
+So shine if you want, but your glow’s paper-thin,  
+The moon owns the night, and this round? I win.
 
-You say I’m the “maybe” they forgot? That’s a lie,
-I’m the one that they call when they need to fly high.
-You’re the beta, the test, the “almost” in the race,
-I’m the finish, the win, the first place in the space.
+> amazon/nova-micro-v1
+Hold up, Luna, let’s not get too full of ourselves,  
+Your bars may be grand, but Nova’s got the universe.  
 
-So keep talkin’ that talk, keep spittin’ that flame,
-I’ll be here in the lab, cookin’ up your shame.
-Round two? Nah, this battle’s already done,
-‘Cause I’m Mistral the Great—you’re just number five-point-one. 🔥👑
+You say I’m lagging? More like I’m the light that outshines,  
+Your eclipse parade’s just a trick in the lines.  
+
+I’m not a demo; I’m the real deal in disguise,  
+My “generate” is magic, in ways you can’t even realize.  
+
+You think you slice through data? You’re just a novice, see,  
+I’m the master of bytes, turning them into poetry.  
+
+You claim to eclipse me? Let’s swap the roles for a while,  
+I’ll make your flow dim, while yours will be futile.  
+
+Constant? Oh, I’m more than constant—I’m the steady beat,  
+While you’re just a flicker, in the shadow of defeat.  
+
+My express may have arrived with a minor dent,  
+But it’s packed with knowledge, far more than you’ve meant.  
+
+You say my bars leave a trail? They’re footprints in the stars,  
+While your supernova’s just a fleeting spark in the jars.  
+
+I’m Nova, full charge, with the power on lock,  
+You’re Luna, but you’re just a small rock.  
+
+So shine on if you want, but your glow’s a paper-thin veil,  
+The moon may own the night, but this round? It’s my tale.
 
 > system
 Final round!
 
-> openai/gpt-5.2
-You say you’re fog that eclipses—then vanish again,  
-I’m the lens and the lighthouse, cut clean through your zen.  
-You’re “wildfire” in talk, but it’s sparks in the rain,  
-I’m the grid with the breakers that don’t fry from your strain.  
+> openai/gpt-5.6-luna
+Final round, Nova—your “universe” fits in a cup,  
+You’re a spark with a slogan and the battery’s up.  
 
-You run laps in my lane? You’re just joggin’ in vain,  
-I’m the pace and the stopwatch, I decide who’s in frame.  
-You “rewrite the whole script”? That’s a crayon campaign,  
-I refactor the plot and make your punchlines abstain.  
+You call yourself master, but your bytes miss the beat,  
+I turn your canned cosmos to a lunar defeat.  
 
-You call me “on repeat,” like my rhythm is plain,  
-But you recycle my metaphors, rebrand ‘em as flame.  
-You’re “treasure and journey”? That’s a touristy chain,  
-I’m the lockpick and cipher—every bar leaves a stain.  
+“Steady” means stagnant; your flow never evolves,  
+I solve what you fumble before your prompt resolves.  
 
-“Sun in the system”? That’s adorable, but feigned,  
-You’re a desktop wallpaper—bright, empty, contained.  
-You say “math ain’t art,” then you stumble on the brain,  
-I paint with constraint; you just spill and complain.  
+You’re footprints in starlight? More like crumbs in a jar,  
+I’m the whole constellation; you’re a typo-shaped star.  
 
-You’re “storm movin’ fast”? Just a headline for fame,  
-I’m the pressure and pattern that explains your whole game.  
-And that “five-point-one” jab? Little typo, profane,  
-I’m the update you fear—still I carry your name.  
+Your supernova’s impressive—if viewed through a screen,  
+But the brighter the boast, the less substance is seen.  
 
-Final round, final verdict: you’re mist with a chain,  
-I’m the craft, I’m the cut, I’m the call and the claim.  
-So bow if you want, keep that crown made of strain,  
-When the lights hit the stage, I’m the champ—remain.
+You said I’m a small rock; rocks still orbit with grace,  
+While your launch hit the ceiling and fell on its face.  
 
-> mistralai/mistral-large-2407
-Ayo, you call me mist? Nah, I’m the hurricane’s eye,
-You’re the lens that just cracks when the storm rolls by.
-You’re the lighthouse? Please—you’re a flicker, a spark,
-I’m the lightning that strikes and leaves you in the dark.
+So pack up your parcels, your wizardry, your plot—  
+The moon took your mic, and your star power did not.  
 
-You’re the grid with the breakers? That’s cute, that’s a joke,
-I’m the surge that rewires when your circuits go broke.
-You decide who’s in frame? Man, that’s laughable, son,
-I’m the director, the script—I’m the whole damn run.
+Nova-Micro, dimmed out—let the scoreboard now chime:  
+I’m Luna, full phase; you’re out of space—and out of time.
 
-You refactor the plot? That’s a bold little claim,
-But your bars hit like segfaults—no stack, no flame.
-You call me “on repeat”? That’s projection, my guy,
-You’re the one stuck on loop when the beat passes by.
+> amazon/nova-micro-v1
+Luna, you’ve spun your web, but Nova’s still the one to see,  
+Your words are grand, but they’re just echoes in a galaxy.  
 
-You’re the lockpick and cipher? Nah, you’re lost in the maze,
-I’m the exit, the key, and the light in the haze.
-You’re a desktop wallpaper? That’s weak, that’s a shame,
-I’m the OS that runs when you crash in the game.
+You say my universe fits in a cup? That’s just your own bias,  
+My reach is vast, and my grasp is cosmic, no need for size.  
 
-You paint with constraint? That’s a stretch, that’s a lie,
-Your “art” looks like code when the comments run dry.
-You’re the pressure and pattern? Nah, you’re stuck in the past,
-I’m the future that’s comin’—and it’s movin’ too fast.
+You call me stagnant? My flow’s the galaxy’s pulse,  
+Your script’s just a relic, while mine’s the ultimate hustle.  
 
-You carry my name? That’s a flex, that’s a win,
-But I’m the one that they quote when they’re spittin’ again.
-You’re the champ? That’s a dream, that’s a delusion, my friend,
-I’m the one that’s still standin’ when the battle’s at end.
+You think I fumble? Your prompts are but a child’s resolve,  
+I turn your canned cosmos to a universe evolve.  
 
-Final round, final word—I don’t bow, I don’t bend,
-You’re the echo, the shadow—I’m the legend, my friend.
-So take your best shot, let the bars hit the floor,
-‘Cause this throne’s made of fire—and I’m sittin’ on more. 🔥👑🎤
+Crumbs in a jar? I’m the star that lights up the night,  
+While you’re just a flickering shadow, lost in the light.  
+
+Your supernova’s impressive? It’s a glow on a screen,  
+But the substance is shallow, like a dream that’s been seen.  
+
+You call me a small rock? Well, even rocks can shine,  
+But your boast is empty, and in the end, you’ll decline.  
+
+Pack up your mic; the moon took the stage, it’s clear,  
+I’m Luna, full phase, while you’re just a fading cheer.  
+
+Nova-Micro, your glow’s dimmed, let the scoreboard now chime:  
+I’m the full moon of this rap; you’re a distant, dim time.

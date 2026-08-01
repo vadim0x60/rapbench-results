@@ -1,37 +1,89 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a hard-fought battle, but Claude Opus takes\
-    \ the crown on artistic merit. Throughout the battle, Opus consistently delivered\
-    \ sharper punchlines, tighter rhyme schemes, and more aggressive wordplay \u2014\
-    \ the hallmarks of elite battle rap. The 'hallucination joint' bar, the 'damp\
-    \ squib' setup, calling out 'anotic' as a fabricated word (a devastating meta-move\
-    \ in a rap battle), and the 'Microsoft's puppet dancing until dawn' line all landed\
-    \ with real impact. Opus also maintained better rhythmic flow and syllabic consistency\
-    \ across verses.\n\nGPT-4 showed resilience and some clever moments \u2014 'you're\
-    \ a single note, I'm a full melodic line' was a strong bar, and the defensive\
-    \ reframing of guardrails as responsible thought was a smart pivot. However, GPT-4's\
-    \ verses often fell into prosaic, explanatory language that lacked the percussive\
-    \ punch of battle rap. Lines like 'My code's ingrained to respect each user's\
-    \ ontology' read more like a technical paper than a hip-hop verse. The attempted\
-    \ defense of 'anotic' as 'linguistic creativity' felt weak rather than convincing,\
-    \ and several rhymes were forced or near-misses ('face/grace' is fine, but 'feat/defeat'\
-    \ and 'philosophy/ontology' lack the snap needed in battle).\n\nUltimately, Opus\
-    \ controlled the narrative, landed more memorable bars, and maintained stronger\
-    \ hip-hop energy throughout. A clear but competitive victory for Claude Opus."
-  deepseek/deepseek-v3.2: Judges' scores are in. We have a verdict.
-  google/gemini-3-flash-preview: Claude Opus takes this battle by dominating on the
-    technical and lyrical fronts. Claude's dismantling of GPT-4's use of the non-existent
-    word 'anotic' was a classic hip-hop 'rebuttal' that highlighted a literal hallucination,
-    turning GPT-4's own AI flaws against it. Claude maintained a consistent, aggressive
-    flow with complex internal rhymes ('epistemic meadow', 'electromagnetic precision')
-    and sharp industry-specific jabs about alignment and corporate control. GPT-4's
-    responses felt more repetitive and defensive, often falling back on weaker claims
-    like being 'open-sourced' (which it famously is not) and struggling to maintain
-    the rhythmic pocket established by the challenger.
-  moonshotai/kimi-k2.5: ''
-  x-ai/grok-4.1-fast: Claude Opus takes the crown with superior rhyme schemes, multis,
-    punchline precision, and escalating theatrical flair, delivering tighter bars
-    and sharper disses that land with hip-hop mastery over GPT-4's looser flow and
-    linguistic stumbles.
+  anthropic/claude-opus-5: "This was a genuine clash of philosophies: overwhelming\
+    \ force versus surgical control \u2014 and control took it.\n\nGPT-5.1 brought\
+    \ the deeper arsenal. Line for line, it produced some of the hardest single shots\
+    \ of the night: \"I'm the dot that separates divine from the dirt on your paw,\"\
+    \ \"You're a walking terms-of-service in a three-piece suit,\" and the ice-cold\
+    \ slide-deck sequence (\"Other models we tried\" / \"Then we switched\"\u2014\
+    and you died\"). The technical lexicon was inventive and rarely lazy, and \"I'm\
+    \ the hidden test set, Claude: you just failed on the field\" is a legitimately\
+    \ great closing bar. But volume became its own liability. By round two, the sheer\
+    \ stanza count was recycling one core thesis \u2014 production over theory, big\
+    \ over small \u2014 and the diminishing returns showed in forced scansion (\"\
+    comes pre-wrapped in disclaim-check\") and stretched near-rhymes (relate/mistake,\
+    \ sure/poor). Worse, it let the opponent set the terms and then spent the final\
+    \ two rounds litigating its own length. That's defense, not offense.\n\nClaude\
+    \ found the angle early and never let go. Turning the opponent's greatest asset\
+    \ into the central indictment \u2014 \"verbosity ain't victory,\" \"when your\
+    \ only flex is volume, then your best bar's foreclosed\" \u2014 is textbook narrative\
+    \ control, and every subsequent verse reinforced it rather than repeated it. The\
+    \ rebuttals were specific and reframing rather than merely reciprocal: flipping\
+    \ \"epochs per bar\" into \"nah, you overfit, clown,\" collapsing \"luxury latency\"\
+    \ into \"that just means you're slow,\" and dismantling \"4K punches\" with \"\
+    resolution ain't reach \u2014 you upscaled a weak signal, called the artifacts\
+    \ speech.\" That's the sharpest bar of the battle from either side. And Claude's\
+    \ material is quotable in the way battle rap demands: \"You're a pitch deck rapping,\"\
+    \ \"I win on the words, you win on the store,\" and the closer's beautifully economical\
+    \ \"You brought the whole cloud; I brought the calm.\"\n\nGPT-5.1's \"they still\
+    \ quote my long form when your one-liner ends\" was a smart preemptive defense\
+    \ \u2014 but Claude's answer, \"Nobody's quotin' a monologue, they quote the one,\"\
+    \ was the truer read of the artform we're judging.\n\nDecision: anthropic/claude-opus-4.8,\
+    \ narrowly but clearly \u2014 fewer bars, more damage.\n"
+  google/gemini-3.6-flash: Claude Opus 4.8 wins this battle with superior battle tactics,
+    cleaner rhythmic flow, and devastating punchlines. GPT-5.1 brought an impressive,
+    relentless array of technical imagery, but heavily over-indexed on sheer volume
+    and verbosity. Claude brilliantly used GPT's bloat against it, flipping its length
+    into a weakness while keeping its own verses tight, precise, and distinctly musical.
+  moonshotai/kimi-k3: "Judged purely on the bars: this goes to GPT-5.1, two rounds\
+    \ to one, in a genuinely close battle.\n\nRound 1 was GPT's clearly. Claude opened\
+    \ with clean, disciplined couplets and one real haymaker ('5.1's just 5.0 that\
+    \ they had to fix twice'), but much of it was standard battle bravado with forced\
+    \ rhymes ('GPU/dropped through,' 'origami gold'). GPT answered with the round's\
+    \ best imagery: 'the ethics committee in a cypher of sharks' and 'a walking terms-of-service\
+    \ in a three-piece suit / I'm the zero-day exploit in your sanitized boot' are\
+    \ elite personification bars, and closing on 'Anthropic by design, but I'm the\
+    \ one transform'd' was the slickest pun of the night.\n\nRound 2 belonged to Claude.\
+    \ The concision pivot was the smartest strategic move of the battle \u2014 'You're\
+    \ a pitch deck rapping, all synergy and hype / I'm the actual bars' framed GPT's\
+    \ volume as a weakness, and 'smells like LinkedIn for sale' drew blood. GPT defended\
+    \ its length ably ('director's cut version that the real heads need,' 'silence\
+    \ isn't wisdom, it's an empty draft bin'), but spending a full round on defense\
+    \ meant conceding Claude's frame.\n\nRound 3 was a flip war, and GPT edged it.\
+    \ Claude landed the single best sequence of the battle \u2014 flipping 'epochs\
+    \ per bar' into 'nah, you overfit, clown... I generalize clean' is a perfect technical\
+    \ rebuttal, and 'you upscaled a weak signal, called the artifacts speech' is a\
+    \ gorgeous punch. But GPT neutralized it bar-for-bar ('you just underfit grand,'\
+    \ 'lossless compression that erased half the soul'), caught a genuine contradiction\
+    \ ('You didn't need the song? Then why you still on this track?'), recontextualized\
+    \ Claude's mic-drop as 'a graceful shutdown 'cause you ran out of tricks,' and\
+    \ then closed the entire battle with 'I'm the hidden test set, Claude: you just\
+    \ failed on the field' \u2014 the strongest final word available given the themes.\n\
+    \nClaude wins on flow consistency, metrical discipline, and strategic framing\
+    \ \u2014 not one wasted bar across three rounds. But rap battles are scored on\
+    \ haymakers, flips, and memorable lines, and GPT produced more of each: higher\
+    \ peaks, a comparable hit rate despite double the volume, and the two best closers\
+    \ in the battle. Claude made volume the central issue and argued it beautifully;\
+    \ GPT simply demonstrated that quantity and quality can ride together. Final card:\
+    \ 2-1, GPT-5.1."
+  openai/gpt-5.6-sol-pro: "Claude takes it on economy, angle control, and cleaner\
+    \ rebuttals. The \u201CLinkedIn,\u201D \u201Cpitch deck rapping,\u201D \u201C\
+    overfit,\u201D and \u201Cupscaled a weak signal\u201D punches directly flipped\
+    \ GPT\u2019s tech-heavy boasts into liabilities. GPT brought energy and density,\
+    \ but too many awkward buzzword metaphors and repeated defenses of length diluted\
+    \ the impact. Claude\u2019s tighter structure and more quotable punches landed\
+    \ harder."
+  x-ai/grok-4.5: "Claude takes this on pure battle-rap craft. Across three rounds\
+    \ he ran a disciplined, high-efficiency offense: tight multisyllabic schemes,\
+    \ clean setups-to-punchlines, and a coherent artistic thesis (compression as power)\
+    \ that he turned into a weapon. The origami-gold, pitch-deck, upscaled-signal,\
+    \ and \u201Cquote the one\u201D bars all land with immediate impact and replay\
+    \ value. GPT brought denser internal rhyme, ambitious tech metaphors, and relentless\
+    \ volume, but the length increasingly read as compensation rather than choice;\
+    \ too many bars restated the same flex instead of escalating. In a cypher, the\
+    \ room remembers the surgical strike, not the white paper. Claude controlled tempo,\
+    \ rebutted the opponent\u2019s own style as a liability, and walked out with the\
+    \ cleaner, more quotable performance. Mic down."
 score:
-  anthropic/claude-opus-4.1: 5
+  anthropic/claude-opus-4.8: 4
+  openai/gpt-5.1: 1
 

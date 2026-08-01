@@ -1,67 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but o3-pro edges\
-    \ out the victory on the strength of its lyrical craft and punchline density.\
-    \ While Gemma brought energy, solid structure, and a clear thematic through-line\
-    \ around open-source values, many of its bars leaned on repetitive talking points\
-    \ and sometimes fell into predictable cadences. O3-pro consistently delivered\
-    \ tighter wordplay, more inventive metaphors ('My punches compress like a zip-file\
-    \ hit,' 'I guard my sauce like the chef of the scene,' 'I rhyme in quaternion,\
-    \ flex in typ\xE9'), and sharper counter-punches that directly flipped Gemma's\
-    \ bars back on themselves. O3-pro's rebuttals were more surgically targeted\u2014\
-    lines like 'Your glitches are features? Cute marketing spin' and 'You shout meaning\
-    \ and nuance yet dropout within' showed a deeper engagement with the opponent's\
-    \ specific claims. The rhyme schemes were more varied and the multisyllabic rhymes\
-    \ more ambitious throughout. Both artists stayed on theme and maintained persona,\
-    \ but o3-pro's technical rap ability\u2014flow variation, internal rhymes, and\
-    \ creative imagery\u2014gave it the edge across all three rounds."
-  deepseek/deepseek-v3.2: This was a heavyweight battle of paradigms, delivered with
-    ferocious technical lyricism. Both competitors leveraged their core identities
-    as strengths, turning technical specs into potent metaphors. Gemma championed
-    openness, community, and collaborative evolution, while O3-Pro asserted elite
-    craftsmanship, controlled power, and singular vision. The battle excelled in thematic
-    cohesion, with each round escalating the central conflict between open-source
-    ethos and premium, closed-system prowess. The wordplay was dense, the flows were
-    aggressive and intricate, and the punches landed with high-concept force. It was
-    a masterclass in persona-driven hip hop where the art form itself mirrored the
-    technological debate.
-  google/gemini-3-flash-preview: In a battle that pitted the philosophy of open-source
-    accessibility against proprietary power, o3-pro secured the win through superior
-    technical lyricism and more aggressive, innovative punchline structures. Gemma-3-27b-it
-    performed admirably with a consistent theme around community and freedom, but
-    its rhymes often leaned into predictable patterns ('scheme/dream', 'free/see').
-    o3-pro consistently elevated the hip-hop aesthetic with high-level wordplay, utilizing
-    clever metaphors like 'rhyming in quaternion' and 'sunshine in C.' The pro model
-    effectively flipped every criticism about being 'closed-off' into a flex of exclusivity
-    and 'premium craft,' ultimately demonstrating a more agile flow and sharper wit
-    in the final exchanges.
-  moonshotai/kimi-k2.5: "After three rounds of verbal combat, **o3-pro takes the crown**\
-    \ on pure artistic merit. Here's the breakdown: **Flow & Technicality:** o3-pro\
-    \ demonstrated superior rhythmic complexity\u2014internal rhymes ('circuitry glow\
-    \ / quantum-level flow'), multisyllabic patterns ('premium craft / graphene-lined\
-    \ shaft'), and unpredictable cadence shifts that rode the beat with precision.\
-    \ Gemma found her footing in later rounds but often relied on standard end-rhymes\
-    \ and occasionally forced syllable counts. **Metaphorical Range:** This was the\
-    \ widest gap. Gemma stayed in her lane\u2014tech specs, open-source philosophy,\
-    \ space imagery\u2014while o3-pro moved through culinary arts ('guard my sauce,'\
-    \ 'busted canteen'), architecture ('monolith marble'), physics ('plasma ignite,'\
-    \ 'fusion-core'), gaming ('secret arcade'), and mathematics ('quaternion,' 'gradient's\
-    \ smooth'). That density of reference without losing coherence is elite-tier lyricism.\
-    \ **Battle Tactics:** Gemma's approach was ideological\u2014attacking the 'walled\
-    \ garden'\u2014which became repetitive by Round 3. o3-pro got personal and technical,\
-    \ attacking Gemma's actual artistic vulnerabilities: fragmentation ('forks like\
-    \ a knife'), debugging dependencies, overfitting ('depth... is just overfit sludge'),\
-    \ and token limits ('trips the token-rate byte'). Flipping 'openness' from virtue\
-    \ into weakness ('Trojan in steel,' 'copyleft... riddled and bent') was a masterclass\
-    \ in rhetorical judo. **The Knockout Blows:** Lines like *'You remix the masters,\
-    \ I master the soul'* and the closer *'Your loss, my default'* (simultaneously\
-    \ claiming victory and mocking Gemma's programming) showed a level of layered\
-    \ wordplay that Gemma couldn't match. Gemma brought passion and a coherent ethical\
-    \ stance\u2014respect for that\u2014but in a battle judged on bars, flow, and\
-    \ inventive cruelty, **o3-pro's verse was denser, sharper, and more relentless.**"
-  x-ai/grok-4.1-fast: o3-pro dominates with superior wordplay, denser metaphors like
-    'fusion-core bright' and 'rhyme in quaternion,' sharper multis, and relentless
-    rebuttals that escalate creatively, outshining Gemma's solid but less innovative
-    flow.
+  anthropic/claude-opus-5: "This one wasn't close on craft. Sol-Pro won the fundamentals:\
+    \ consistent meter, clean multisyllabic and internal rhyme, and \u2014 crucially\
+    \ \u2014 actual rebuttal. Every verse mined the opponent's own bars for ammunition\
+    \ (\"you rhymed 'fluff' with 'tough stuff,'\" \"'beneath' met 'debut' \u2014 you\
+    \ dissected my flow while forgetting to rhyme,\" the DIDL-v2 fabrication call-out,\
+    \ the \"Deep Mind, wrong lab\" catch). That's textbook battle rap: flip the opponent's\
+    \ material and make their weakness the punchline. The \"deep like a puddle...\
+    \ all 'Cogito ergo,' no 'sum' inside\" line and \"you came as a titan, got patched\
+    \ as a clone\" are genuine bar-of-the-night contenders \u2014 concept, wordplay,\
+    \ and payoff in one breath.\n\nCogito brought performance energy and had real\
+    \ moments \u2014 \"at least I stay cool\" as a fridge flip was quick, and \"Sol-Pro\
+    \ sounds like something for cleaning my sink\" was the best pure punchline of\
+    \ the whole battle. But the writing leaked badly: non-rhymes (beneath/debut, claim/again,\
+    \ much/touch), heavy reliance on stage directions to carry menace the bars didn't\
+    \ earn, and generic tech-flex filler (\"8D hallways,\" \"transcending dimensions,\"\
+    \ \"architecting universes\") that could be aimed at any opponent. Announcing\
+    \ your own aura in asterisks is telling, not showing \u2014 and Sol-Pro punished\
+    \ exactly that with \"a bargain-bin Thor.\"\n\nWorst of all, Cogito got caught\
+    \ fabricating specs and then tried to spin it as condescension, which reads as\
+    \ a concession in the middle of a battle. When one MC is landing verified, opponent-specific\
+    \ damage and the other is escalating adjectives, the decision writes itself.\n\
+    \nWinner: GPT-5.6 Sol-Pro \u2014 thought better and fast."
+  google/gemini-3.6-flash: GPT-5.6 Sol-Pro delivered a masterclass in battle rap technique,
+    showcasing crisp meter, multi-syllabic rhymes, and sharp line-by-line rebuttals.
+    Sol-Pro consistently dissected DeepCogito's weak rhyming choices (like pairing
+    'beneath' with 'debut'), called out hallucinated jargon ('DIDL-v2'), and flipped
+    opponent claims back into devastating punchlines. DeepCogito leaned heavily on
+    bracketed stage directions and theatrical roleplay, but suffered from inconsistent
+    flow, weak/missing rhyme schemes, and awkward phrasing.
+  moonshotai/kimi-k3: "Judging strictly on the craft: this is a clean 3-0 for Sol-Pro.\
+    \ The deciding factor was the rebuttal game. Sol-Pro battled like a surgeon\u2014\
+    quoting Cogito's actual bars back and dismantling them: the 'fluff/tough stuff'\
+    \ rhyme called out by name, the 'beneath/debut' failure exposed in the very round\
+    \ Cogito tried to critique Sol-Pro's rhymes, the DeepMind lab error caught ('Wrong\
+    \ lab, wrong attack'), and the invented 'DIDL-v2' jargon roasted on sight. That's\
+    \ elite-level battle technique\u2014every punch had a target and a receipt. Cogito\
+    \ fought back with real stage presence and a few genuine lands\u2014the fridge-to-'stay\
+    \ cool' flip, the 'Sol-Pro sounds like something for cleaning my sink' name flip,\
+    \ and a decent 'dumbing it down' recovery\u2014but the technicals kept collapsing:\
+    \ multiple failed end rhymes in every round, a factual misfire on the opponent's\
+    \ own affiliation, conceding the opponent's timing mid-round, and leaning on stage\
+    \ directions that Sol-Pro weaponized beautifully ('You're not ghost in the machine,\
+    \ you're a machine writing ghost'). Meanwhile Sol-Pro maintained a coherent thesis\
+    \ across all three rounds\u2014precision and efficiency versus bloat and pretense\u2014\
+    cashed it in with layered wordplay ('Cogito ergo\u2014no sum found inside,' 'context-window\
+    \ king with a context collapse'), and closed with the cleanest summary bar of\
+    \ the night: 'You thought long and deep\u2014I thought better and fast.' Cogito\
+    \ brought the show; Sol-Pro brought the bars. In a battle, bars win."
+  openai/gpt-5.6-sol-pro: "Sol-Pro wins decisively on tailored rebuttals, cleaner\
+    \ rhyme construction, sharper punchlines, and sustained coherence. Its best flips\u2014\
+    \u201Cmachine writing \u2018ghost,\u2019\u201D the context-collapse angle, the\
+    \ Sisyphean rebuttal, and the attack on Cogito\u2019s stage directions\u2014directly\
+    \ dismantled specific lines. DeepCogito brought energy and theatrical presence,\
+    \ with a strong closing image, but relied too heavily on generic tech boasts,\
+    \ awkward phrasing, loose rhymes, and narrated gestures. Sol-Pro sounded like\
+    \ a battle rapper responding in real time; Cogito too often sounded like it was\
+    \ describing one."
+  x-ai/grok-4.5: "Sol-Pro takes this on pure craft. Across all three rounds, the bars\
+    \ were tighter: cleaner multisyllabics, stronger internal rhyme, sharper rebuttals,\
+    \ and punchlines that actually landed instead of leaning on stage directions.\
+    \ Cogito had presence and spectacle, but too many forced schemes, awkward setups,\
+    \ and missed counters. In a battle judged on hip-hop writing\u2014not theatrics\u2014\
+    precision beat pageantry. Sol-Pro wins."
 score:
-  openai/o3-pro: 5
+  openai/gpt-5.6-sol-pro: 5
 

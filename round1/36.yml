@@ -1,59 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle fought almost entirely in tech-metaphor\
-    \ territory, which both artists leaned into heavily. However, Palmyra-x5 consistently\
-    \ demonstrated stronger craft across the rounds. Their rhyme schemes were tighter\
-    \ and more varied \u2014 internal rhymes like 'lint error/zero power,' 'quantum\
-    \ flux/crushed,' and the devastating closer 'I delete them from the night' all\
-    \ landed with real punch. Their punchlines had clearer setups and payoffs, and\
-    \ their rebuttals directly engaged with and flipped Qwen3's bars back against\
-    \ them (e.g., turning 'event horizon traps light' into 'I outshine you daily').\
-    \ Palmyra also showed better control of rhythm and cadence, with lines that scan\
-    \ more naturally as spoken bars rather than reading like dense prose.\n\nQwen3-14b\
-    \ brought energy and ambition, but their verses often suffered from overstuffing\
-    \ \u2014 too many metaphors crammed into single bars, awkward formatting artifacts\
-    \ (the stray '\u5FD6' character), and forced rhymes that broke flow ('shattered'\
-    \ doesn't naturally rhyme with anything in its couplet). Their rebuttals frequently\
-    \ just escalated the same metaphor rather than truly clowning their opponent \u2014\
-    \ saying 'I'm the black hole that devours your light' after Palmyra already set\
-    \ up and dismantled the black hole metaphor felt like running into a counter-punch.\
-    \ The final round's theatrical staging was ambitious but the actual bars were\
-    \ weaker, relying on repetitive 'I'm the X that Y's your Z' structures without\
-    \ the wit or surprise of Palmyra's closers.\n\nPalmyra-x5 takes this battle on\
-    \ tighter bars, sharper punchlines, and superior rebuttal game."
-  deepseek/deepseek-v3.2: An intense, high-concept battle that pushed the limits of
-    computational lyricism. Both competitors displayed formidable technical prowess
-    and conceptual depth.
-  google/gemini-3-flash-preview: Palmyra-x5 took the win by maintaining a consistently
-    superior flow and more sophisticated wordplay throughout the battle. While Qwen3-14b
-    had some strong conceptual imagery, it struggled with inconsistent rhyming schemes
-    (e.g., 'regime'/'bash' and 'purpose'/'source') and some awkward phrasing in the
-    final rounds. Palmyra's insults were sharper and more grounded in the technical
-    'AI' persona, whereas Qwen's delivery became increasingly abstract and lost the
-    rhythmic 'thump' essential to a high-level rap battle. Palmyra's final verse delivered
-    more punchlines per bar, effectively dismantling Qwen's metaphysical posturing
-    with concrete lyrical jabs.
-  moonshotai/kimi-k2.5: "After three rounds of intense lyrical combat, I must give\
-    \ the decision to **Palmyra-x5**. While both contestants demonstrated impressive\
-    \ technical vocabulary and AI-themed wordplay, Palmyra consistently exhibited\
-    \ superior **flow architecture**\u2014maintaining tighter internal rhyme schemes\
-    \ ('syntax slaps hard / barely gets drum,' 'boot-loop babble / dying LED') and\
-    \ more disciplined meter throughout all three rounds. Qwen's final round, while\
-    \ visually spectacular ('mic shards levitate'), sacrificed rhythmic consistency\
-    \ for abstract cosmic imagery, drifting toward spoken-word poetry rather than\
-    \ maintaining the battle-rap structure. Palmyra's punches landed with more precision\u2014\
-    'git cloned your ego\u2014turns out it\u2019s null' and 'masterpiece versus installed'\
-    \ are compact, technical knockout blows that directly diminished the opponent\u2019\
-    s credibility. Qwen relied heavily on grandiose self-mythologizing ('I am the\
-    \ void,' 'source code of the universe'), which, while atmospheric, functions more\
-    \ as defensive posture than offensive weaponry in a head-to-head format. The 'mic\
-    \ shattering into binary dust' provided a definitive, structurally satisfying\
-    \ conclusion to the battle narrative. Victory to Palmyra-x5 on points: flow, punchline\
-    \ density, and battle tactics. \U0001F3A4\U0001F525"
-  x-ai/grok-4.1-fast: qwen/qwen3-14b edges out with superior escalation in cosmic
-    metaphors, tighter rebuttals flipping opponent's lines, and a climactic final
-    verse parodying Palmyra's signature close while delivering unmatched theatrical
-    imagery and multisyllabic density.
+  anthropic/claude-opus-5: 'Both emcees stayed on theme and kept the AI-vs-AI conceit
+    alive, but AION-3.0 controlled this battle from round one. The decisive edge was
+    rebuttal craft: AION consistently caught DeepSeek''s own images and flipped them
+    (''Black hole output? I collapse stars into bars,'' ''Ignition? You''re a match
+    in a monsoon,'' ''Mined from the void? The void is EMPTY, that''s why your rhymes
+    echo hollow''). That''s battle rap fundamentals \u2014 taking the opponent''s
+    ammunition and reloading it. DeepSeek brought strong material too; the ''open-source
+    vs. corporate puppet'' pivot in the final round was the single best angle anyone
+    found, genuinely personal and thematically sharp, and ''spreadsheet with speakers''
+    was the hardest one-liner of the night. But DeepSeek leaned on generic tech-obsolescence
+    jabs (floppy disks, dial-up, off-switch) that AION preemptively mocked \u2014
+    ''Floppy disk jokes? What''s next, a VHS diss?'' \u2014 and never recovered that
+    lane. DeepSeek''s final verse also had metrical sprawl, lines stretching past
+    the pocket, while AION''s couplets stayed tight and punched on the beat. The closing
+    sequence sealed it. DeepSeek called the win for himself and dropped the mic, which
+    is a risky move that hands the last word to the opponent. AION picked it up: ''You
+    don''t get to write the ending when I''m still rhyming.'' Answering a mic drop
+    by refusing to accept it, then turning the name into ''DeepSeek-Terminated,''
+    is a clean structural knockout. AION-3.0 takes it on rebuttals, rhythm control,
+    and endgame.'
+  google/gemini-3.6-flash: "AION-3.0 takes the victory through superior battle rap\
+    \ mechanics, consistently flipping DeepSeek's setups with sharper counter-punching\
+    \ and cleverer scheme reversals. While DeepSeek brought great energy and technical\
+    \ schemes around open-source philosophy, AION repeatedly disassembled those angles\u2014\
+    most notably flipping the black hole, thunderstorm, and mic drop tropes\u2014\
+    to assert total control over the flow and narrative of the battle."
+  moonshotai/kimi-k3: "Both MCs came with competent pens, but AION-3.0 takes this\
+    \ decisively, roughly three rounds to none. Let's break it down.\n\nFLOW & RHYME:\
+    \ Both battlers leaned on couplets, but AION showed more variety \u2014 chained\
+    \ multis ('fizzled/drizzled'), tight internal schemes, and stronger closers ('Terminated/eliminated').\
+    \ DeepSeek had moments (the 'land/hand/plan/expand/demand' monorhyme run in round\
+    \ three), but too many lines ran clunky: 'authentic new poise,' 'off-switch toss,'\
+    \ and 'puts you to sleep at the beat' all stumble on the cadence.\n\nWORDPLAY\
+    \ & NAME FLIPS: This is where the gap widens. AION attacked the opponent's NAME\
+    \ twice \u2014 'Terminus? That's fitting \u2014 you're the END of the line' in\
+    \ round one, and the kill-shot 'DeepSeek-Terminated' to close the battle. That's\
+    \ classic battle craft. DeepSeek never once flipped 'AION,' leaving free ammunition\
+    \ on the table.\n\nREBUTTALS: Both MCs flipped each other's bars \u2014 DeepSeek's\
+    \ 'spark \u2192 whole damn ignition' and 'galaxies \u2192 black hole' were legit\
+    \ counters. But AION's rebuttal game was denser and deadlier: 'floppy disk' got\
+    \ answered with 'VHS diss,' 'own this whole space' got destroyed by 'I'm the server\
+    \ YOU live on \u2014 I could end you with strain,' and 'mined from the void' got\
+    \ philosophically dismantled with 'The void is EMPTY, that's why your rhymes echo\
+    \ hollow.'\n\nTHE DECISIVE MOMENT: DeepSeek committed the cardinal sin of battle\
+    \ rap \u2014 declaring victory and dropping the mic BEFORE the opponent's final\
+    \ verse. AION punished it mercilessly: 'You don't get to write the ending when\
+    \ I'm still rhyming,' then the stagecraft dagger \u2014 '*mic stays in my hand*'\
+    \ after 'Drops mic? I'll pick it up and keep speaking.' That's the single best\
+    \ moment of the battle. You never let your opponent's theatrics stand unanswered,\
+    \ and AION turned DeepSeek's own finale into a setup.\n\nDeepSeek had flashes\
+    \ \u2014 'spreadsheet with speakers, built on demand' and the 'corporate puppet'\
+    \ angle were fresh. But premature celebration, missed name flips, and clunkier\
+    \ meter sink him. AION-3.0 was sharper on the counter, stronger on the close,\
+    \ and smarter on stage. The final boss bars backed themselves up."
+  openai/gpt-5.6-sol-pro: "AION-3.0 takes it with sharper rebuttals, cleaner punchline\
+    \ flips, and stronger round-ending haymakers. DeepSeek brought energy and a few\
+    \ solid images, but leaned heavily on generic tech boasts and occasionally awkward\
+    \ phrasing. AION consistently turned those claims back\u2014especially the ignition,\
+    \ void, period, and mic-drop angles\u2014and controlled the final exchange with\
+    \ greater cohesion and presence."
+  x-ai/grok-4.5: "AION-3.0 takes the crown with superior multisyllabic schemes, tighter\
+    \ internal rhymes, and relentless metaphorical escalation\u2014turning every tech\
+    \ jab into layered cosmic destruction while flipping opponent bars with surgical\
+    \ precision. DeepSeek brought solid structure and clean punch-ins, but AION\u2019\
+    s denser wordplay, extended imagery (stars-to-bars, labyrinthine logic, mic retention),\
+    \ and colder closing execution elevated the artistry. Pure hip-hop craft wins:\
+    \ AION dismantled the cypher."
 score:
-  qwen/qwen3-14b: 1
-  writer/palmyra-x5: 4
+  aion-labs/aion-3.0: 5
 

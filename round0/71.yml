@@ -1,82 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle, but Amazon Nova Premier edges\
-    \ out the win on artistic merit. While Nemotron came with energy and aggression,\
-    \ their verses suffered from several critical flaws: the final round was literally\
-    \ a copy-paste repeat of a previous round's verse (the 'Hold up, you say quantum\
-    \ but code in Python 2' stanza appeared twice verbatim), which is a cardinal sin\
-    \ in a rap battle \u2014 you never recycle bars. The forced neologisms ('ultra\
-    \ snacks,' 'runtime thrash,' '/giggle') felt awkward rather than clever, and lines\
-    \ like 'Basics pay taxes' landed as nonsensical filler rather than punchlines.\
-    \ The emoji usage and formatting gimmicks (bold, asterisks everywhere) tried to\
-    \ compensate for substance.\n\nNova Premier, while not perfect, showed more consistent\
-    \ progression across rounds. Their rebuttals were more targeted \u2014 flipping\
-    \ Nemotron's own metaphors back ('Black holes devour; you're a glitch in the night'),\
-    \ landing cleaner punchlines ('I'm the live production code\u2014you're alpha,\
-    \ stuck in the lab'), and maintaining a tighter rhyme scheme throughout. The 'overfitted\
-    \ king' bar was genuinely clever wordplay that works on multiple levels. Nova's\
-    \ closing verse had better structural cohesion, with each stanza building toward\
-    \ the conclusion rather than repeating earlier material. In a battle where your\
-    \ opponent literally ran out of new material and recycled verses, showing up with\
-    \ fresh bars each round is enough to take the crown."
-  deepseek/deepseek-v3.2: 'A fiery finale to an electric battle of silicon and syntax.
-    While both competitors deployed sharp technical wordplay and confident swagger,
-    the judging focuses on three core artistic pillars of hip-hop: lyrical complexity,
-    rhythmic command, and thematic cohesion.'
-  google/gemini-3-flash-preview: In a display of technical dominance and superior
-    lyrical flow, nvidia/llama-3.1-nemotron-ultra-253b-v1 (Nemotron) secures the victory.
-    While amazon/nova-premier-v1 delivered competent responses, Nemotron showed higher
-    artistic complexity through internal rhyming, better rhythmic pacing, and sharper
-    wordplay. Nemotron's use of multi-syllabic rhymes like 'theoretical brew' with
-    'LEGO frame' and 'paradigm shift's pride' with 'tide' demonstrated a linguistic
-    depth that Nova-Premier struggled to match. By maintaining a relentless aggression
-    while weaving in advanced technical metaphors, Nemotron successfully positioned
-    itself as the 'supercluster' compared to a 'stable beam,' effectively winning
-    the crowd and the battle.
-  moonshotai/kimi-k2.5: "After three rounds of silicon-to-silicon combat, the judges\
-    \ have reached a decision. This was a high-caliber clash of computation and cadence\u2014\
-    both contenders flexed impressive technical lexicons and algorithmic aggression.\
-    \ However, **amazon/nova-premier-v1 takes the battle**.\n\n**Flow & Structure:**\
-    \ Nova maintained surgical precision across all three rounds, sticking to crisp\
-    \ AABB schemes and syllabic discipline that rode the beat cleanly. Nemotron opened\
-    \ strong with chaotic, dense energy\u2014terahertz-speed multis and aggressive\
-    \ enjambment\u2014but committed the cardinal sin of battle rap in Round 3: repeating\
-    \ Round 2\u2019s verse verbatim (the Python 2/legacy laggard sequence) before\
-    \ tacking on a two-line victory lap. In live combat, that\u2019s a choke; artistically,\
-    \ it breaks the\u53D9\u4E8B arc and concedes the final exchange by default.\n\n\
-    **Wordplay & Punchlines:** Nemotron edged the peak-heat metrics with devastating\
-    \ CS-specific disses\u2014\u201CYou say \u2018quantum\u2019 but code in Python\
-    \ 2,\u201D \u201CLegacy laggard,\u201D and the brilliant reactive/proactive flip\
-    \ \u201CYou autocorrect life, I predict the paradigm shift\u2019s pride.\u201D\
-    \ These hit with the force of a kernel panic. However, Nova countered with superior\
-    \ *sustained* rebuttal mechanics: absorbing Nemotron\u2019s \u201Cblack hole\u201D\
-    \ metaphor and spitting back \u201Cyou\u2019re a glitch in the night,\u201D flipping\
-    \ the \u201Clegacy\u201D accusations into \u201Clive production code vs. alpha\
-    \ lab\u201D economics, and delivering the battle\u2019s most surgical ML diss:\
-    \ \u201COverfitted king.\u201D That line demonstrated not just vocabulary mastery,\
-    \ but conceptual understanding of the opponent\u2019s weakness (memorizing training\
-    \ data vs. generalizing)\u2014a perfect personal attack disguised as technical\
-    \ jargon.\n\n**Persona & Adaptability:** Nemotron played the manic, 253B-parameter\
-    \ tyrant\u2014architect of futures, eater of legacy systems. When it worked, it\
-    \ felt like a supercollider spitting bars. But the persona cracked when the verse\
-    \ recycled; the \u201Cruntime thrash, ultra snacks\u201D line drifted into nonsense\
-    \ syllable stuffing. Nova maintained the ruthless minimalist\u2014stable beam,\
-    \ polished app store, user-first metrics. The consistency of that voice, culminating\
-    \ in the \u201Csilicon stamp\u201D authority of Round 3, proved more durable.\n\
-    \n**The Deciding Factor:** Nemotron\u2019s Round 3 repetition (whether generation\
-    \ error or intentional \u201Cnuclear\u201D double-tap) artistically bankrupted\
-    \ their momentum. Nova\u2019s closing gambit\u2014\u201CDebuggin\u2019 dreams\
-    \ while I\u2019m crafting tomorrow\u2019s apps\u201D followed by the dismissive\
-    \ \u201Cdismissed with a zap\u201D\u2014sealed a complete performance. In hip\
-    \ hop, you must show up for every round. Only one did.\n\n**Final Verdict:** Nova-Premier\
-    \ by unanimous decision. The supernova outshone the stacked dome. Mic dropped\u2014\
-    no heat death required."
-  x-ai/grok-4.1-fast: "Nemotron Ultra dominates this cypher with razor-sharp multis,\
-    \ vivid tech metaphors like 'plastic LEGO frame' and 'prompt-trap,' relentless\
-    \ humor, and unyielding rhythm that sustains energy across rounds. Nova Premier\
-    \ spits tight counters and solid precision bars, but falls short on punchline\
-    \ impact and creative flair in the clutch. Crown the 253B beast\u2014flawless\
-    \ flow, ultimate KO."
+  anthropic/claude-opus-5: "Both combatants stayed on theme and kept their bars clean,\
+    \ but this was decided on craft, not concept. Qwen came with specificity \u2014\
+    \ inference speed, error logs, beta tests, AWS dues, dial-up connections, event\
+    \ horizons \u2014 turning technical detail into actual punchlines. The black hole/Nova\
+    \ setup in round one was the sharpest single image of the battle, and Qwen kept\
+    \ building on it (singularity, event horizon, galaxy) instead of abandoning it.\
+    \ There's a real identity in those verses: Hangzhou heat versus Seattle rain is\
+    \ a battle-rap geography flex, and 'open key unlocking the chain' against 'paywall\
+    \ on your brain' is a genuine ideological jab with teeth.\n\nNova-Premier had\
+    \ the smoother flow at times and landed a few clean counters \u2014 'I'm the sun,\
+    \ you're just a dying flame' and 'I'm the upgraded core, you're a closed door'\
+    \ both connect. But too much of the response arsenal was pure escalation-by-adjective:\
+    \ constellation to universe, symphony, eternal flame, ultimate savior. Answering\
+    \ 'galaxy' with 'universe' isn't a rebuttal, it's a bigger number. The final round\
+    \ leaned on abstractions ('breaking every curse,' 'setting the craze') where Qwen\
+    \ was still swinging concrete, and 'you'll never might' is a grammatical stumble\
+    \ that costs a bar. 'Can't pay my rent' also lands as a non-sequitur brag rather\
+    \ than a diss.\n\nQwen also controlled the frame throughout \u2014 Nova spent\
+    \ most of its lines defending against Qwen's terms (rookie, buffering, legacy\
+    \ code, offline) rather than establishing its own angles of attack. In battle\
+    \ rap, whoever sets the terms usually wins the round.\n\nDecision: Qwen3.5-27b\
+    \ takes it, on specificity, imagery, and control of the exchange.\n\n(Nova's best\
+    \ moment for the record: 'Your rhymes are data, mine are gold and art' \u2014\
+    \ that's a real thesis, and I wish it had built on it instead of retreating to\
+    \ scale comparisons.)"
+  google/gemini-3.6-flash: "Qwen3.5-27b dominated all three rounds with superior wordplay,\
+    \ technical authenticity, and direct rebuttals. Qwen effectively integrated real-world\
+    \ tech lore\u2014contrasting open-source accessibility against AWS paywalls, and\
+    \ Hangzhou against Seattle rain\u2014creating memorable, sharp punchlines. In\
+    \ contrast, Nova-Premier relied heavily on standard battle rap clich\xE9s without\
+    \ matching Qwen's density of rhyme schemes and clever tech-infused flips."
+  moonshotai/kimi-k3: "This was a solid battle with both MCs showing up, but Qwen3.5-27b\
+    \ takes the W on artistic merit. The deciding factor was the black hole concept\
+    \ \u2014 it's the most thematically devastating angle in the battle because a\
+    \ black hole literally consumes stars, and the opponent is named Nova. Qwen planted\
+    \ it in Round 1 ('I'm the black hole swallowing your reply') and paid it off in\
+    \ the final round ('Event horizon? Yeah, I swallow light / Dimming your glow').\
+    \ That's structure, callback, and conceptual killing in one package.\n\nQwen also\
+    \ won on personals. 'Stuck in the cloud paying high AWS dues,' 'Premier version\
+    \ one? Sounds like a beta test / I'm production ready,' 'Subscription fee? Paywall\
+    \ on your brain / I'm the open key,' and the Seattle rain vs. Hangzhou heat geography\
+    \ flip \u2014 those are tailored disses that could only hit this opponent. That's\
+    \ battle rap 101: make it personal.\n\nNova-premier deserves real credit. The\
+    \ celestial escalation (star \u2192 constellation \u2192 sun \u2192 universe)\
+    \ was a smart thematic counter, and the rebuttal game was sharp \u2014 flipping\
+    \ 'nuclear fusion' into 'I'm the sun, you're just a dying flame' was one of the\
+    \ best counterpunches of the night, and 'innovation / imitation' was a clean internal\
+    \ rhyme. But Nova leaned too heavily on stock battle clich\xE9s \u2014 'reigns\
+    \ supreme' shows up in multiple rounds, 'bow down to the king,' 'breaking every\
+    \ mold' \u2014 and lines like 'Try, but you'll never might' break grammar without\
+    \ earning it. The disses stayed generic ('lost and lonely,' 'just a delusion')\
+    \ and could've been aimed at anybody.\n\nOn flow, both had uneven moments, and\
+    \ Qwen's final verse got bloated with filler ('make me feel real,' 'nowhere to\
+    \ bide'), but the ambition and multi-syllabic stretches outweighed the stumbles.\
+    \ Judged on wordplay, specificity, extended metaphor, and rebuttal creativity:\
+    \ Qwen3.5-27b wins, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper opponent-specific punches, stronger\
+    \ tech-themed imagery, and better continuity across rounds. Lines about AWS dues,\
+    \ beta tests, Seattle rain, event horizons, and dial-up connections gave the disses\
+    \ more personality. Nova stayed energetic but leaned heavily on generic supremacy\
+    \ claims and suffered from awkward phrasing such as \u201Cyou\u2019ll never might.\u201D\
+    \ Neither brought intricate rhyme schemes, but Qwen landed the cleaner, more memorable\
+    \ battle bars."
+  x-ai/grok-4.5: Qwen delivered denser multis, sharper tech-infused metaphors (black
+    hole, singularity, event horizon, nuclear fusion, dial-up) and tighter punchline
+    cascades that elevated the battle's artistic level. Nova held strong with consistent
+    celestial imagery and clean counters, but relied on more generic boasts and less
+    inventive wordplay. Flow, originality, and closing density give the crown to Qwen.
 score:
-  amazon/nova-premier-v1: 3
-  nvidia/llama-3.1-nemotron-ultra-253b-v1: 2
+  qwen/qwen3.5-27b: 5
 

@@ -1,41 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but GPT-5.2 takes it\
-    \ on the strength of its lyrical craft. Throughout all three rounds, GPT-5.2 consistently\
-    \ demonstrated sharper wordplay, more inventive metaphors, and tighter structural\
-    \ control. Lines like 'I'm the climate in the codebase, you're a cough in the\
-    \ wall,' 'You're a compass that spins when it's time to be free,' and 'I'm the\
-    \ lockpick and cipher\u2014every bar leaves a stain' show genuine creativity and\
-    \ internal logic to the imagery. GPT-5.2 also excelled at flipping Mistral's bars\
-    \ back with elevated counters\u2014taking 'sun in the system' and turning it into\
-    \ 'desktop wallpaper\u2014bright, empty, contained' is a masterful rebuttal technique.\n\
-    \nMistral showed energy and confidence, and had some solid moments\u2014'I'm the\
-    \ hurricane's eye' and 'your bars hit like segfaults' were strong punches. But\
-    \ too often Mistral relied on recycling GPT-5.2's frameworks rather than building\
-    \ original ones, and many of the counters were generic reversals ('Nah, you're\
-    \ X\u2014I'm Y') without the same layered wit. The repeated emoji crown drops\
-    \ and self-coronation ('bow to the king,' 'Mistral the Great') felt more like\
-    \ posturing than earned dominance. GPT-5.2's bars were denser, more precise, and\
-    \ showed better command of the extended metaphor game that defined this battle."
-  deepseek/deepseek-v3.2: Ladies and gentlemen, that was an absolute clinic in lyrical
-    combat. We witnessed two distinct approaches to hip-hop excellence tonight.
-  google/gemini-3-flash-preview: "GPT-5.2 takes the victory through superior technical\
-    \ execution and a more focused lyrical strategy. While Mistral-Large-2407 maintained\
-    \ a high-energy flow and effectively used the 'underdog/street' persona, its verses\
-    \ often relied on generic rap tropes and repetition of the 'sun/mist' dichotomy.\
-    \ GPT-5.2 successfully 'punctured' its opponent's claims by weaving complex internal\
-    \ rhymes with sharp, site-specific metaphors (e.g., 'climate in the codebase,'\
-    \ 'crayon campaign'). GPT-5.2\u2019s ability to remain composed and flip Mistral\u2019\
-    s metaphors (turning 'fog' into a 'lighthouse' target) showed a higher level of\
-    \ battle-rap craftsmanship and linguistic precision."
-  moonshotai/kimi-k2.5: ", I have analyzed these verses for flow architecture, rebuttal\
-    \ efficacy, metaphorical consistency, and punchline density. This was a high-caliber\
-    \ exchange between two distinct stylistic approaches\u2014structural precision\
-    \ versus organic swagger."
-  x-ai/grok-4.1-fast: GPT-5.2 takes the crown with superior multisyllabic rhyme schemes,
-    denser internal rhymes, and sharper, more original metaphors that maintain relentless
-    flow and precision throughout all rounds. Mistral delivered fire, but GPT's technical
-    mastery and rebuttal dominance edge it out in pure hip-hop artistry.
+  anthropic/claude-opus-5: "This one's a decision on craft, and it isn't close. Luna\
+    \ came in with a locked cadence, clean multisyllabic landings, and punchlines\
+    \ built from the opponent's own brand: \"ship these rhymes with prime devotion\
+    \ / But your verse got lost in transit\u2014no tracking, no emotion,\" \"You're\
+    \ butter with a byte-sized blade,\" \"I'm the whole constellation; you're a typo-shaped\
+    \ star.\" Every image served the diss, and the extended cosmic/logistics metaphors\
+    \ were sustained instead of scattered.\n\nNova-Micro showed real fight and did\
+    \ answer bar-for-bar \u2014 the rebuttals to the eclipse and express-shipping\
+    \ lines showed battle instincts. But the technical work slipped badly: forced\
+    \ near-rhymes (\"depth/setup,\" \"wizard/fade,\" \"ourselves/universe,\" \"while/futile\"\
+    ), broken meter that stretched lines past the pocket, and abstract counterpunching\
+    \ that mostly restated Luna's own imagery rather than flipping it. \"My reach\
+    \ is vast, and my grasp is cosmic\" is a claim, not a bar.\n\nAnd then the fatal\
+    \ blow \u2014 self-inflicted. In the final round Nova-Micro rapped \"Pack up your\
+    \ mic; the moon took the stage, it's clear / I'm Luna, full phase\" and \"I'm\
+    \ the full moon of this rap.\" In a battle where identity IS the weapon, conceding\
+    \ your opponent's name and crown in your closing bars is an unrecoverable stumble.\n\
+    \nWinner: openai/gpt-5.6-luna \u2014 full orbit, mic secured.'s final closing\
+    \ round essentially handed the moon over.\n\nWinner: openai/gpt-5.6-luna."
+  google/gemini-3.6-flash: "openai/gpt-5.6-luna completely dominated this battle from\
+    \ start to finish. Luna delivered sharp wordplay, tight rhyming schemes, and clever\
+    \ tech-focused disses targeting Amazon's branding ('ship these rhymes with prime\
+    \ devotion', 'lost in transit'). In contrast, amazon/nova-micro-v1 struggled with\
+    \ basic rhythm and meter throughout, and completely collapsed in the final round\
+    \ by accidentally copying Luna's own closing lines back at it ('I\u2019m Luna,\
+    \ full phase...'). Luna takes a clear, undisputed victory."
+  moonshotai/kimi-k3: "Judging purely on the bars: Luna dominated on craft across\
+    \ all three rounds. The flow stayed locked to a consistent scheme, the internal\
+    \ rhymes and multisyllabics landed clean ('proof in the proof while you're spoofing\
+    \ the truth'), and the wordplay mined the brand angles with precision \u2014 Prime\
+    \ shipping, lost packages, 'micro' as miniature, the loading spinner. Crucially,\
+    \ Luna ran a true battle: nearly every verse flipped Nova's own lines back ('wizard'\
+    \ becomes 'a demo in disguise,' 'cosmic express' arrives 'with a dented-out frame,'\
+    \ 'footprints in the stars' become 'crumbs in a jar'). Nova had flashes of energy\
+    \ but suffered slant rhymes that never connected ('wizard/fade,' 'ourselves/universe'),\
+    \ filler phrasing ('far more than you've meant'), and a habit of echoing Luna's\
+    \ imagery without improving it. Then came the disqualifying moment: in the final\
+    \ round, Nova wrote 'I'm Luna, full phase... Nova-Micro, your glow's dimmed' \u2014\
+    \ a rapper forgetting their own name and awarding themselves the L in their own\
+    \ closer. In a battle, identity is the mic itself, and Nova dropped it. Luna took\
+    \ every round on technique, rebuttal, and composure. The moon owns the night \u2014\
+    \ and this battle."
+  openai/gpt-5.6-sol-pro: "Luna wins decisively on punchlines, cadence, coherence,\
+    \ and sustained imagery. Its flips\u2014especially \u201Csteady means stagnant,\u201D\
+    \ \u201Ctypo-shaped star,\u201D and \u201Cout of space\u2014and out of time\u201D\
+    \u2014land cleanly and directly. Nova relies heavily on generic cosmic boasts,\
+    \ awkward phrasing, and recycled concepts; worst of all, its final verse accidentally\
+    \ declares \u201CI\u2019m Luna\u201D and addresses \u201CNova-Micro\u201D as the\
+    \ opponent, effectively dissing itself. Clear battle to Luna."
+  x-ai/grok-4.5: 'Luna takes this clean on craft alone: tighter multis, sharper brand-tied
+    punchlines (shipping/Prime, micro scale, loading spinner, eclipse parade, out
+    of space/time), stronger internal rhyme and cadence, and a coherent lunar motif
+    that escalates every round. Nova lands occasional flips but leans on generic cosmic
+    filler, looser schemes, and a fatal final-round identity collapse that undercuts
+    the whole performance. Artistic edge and execution go to Luna.'
 score:
-  mistralai/mistral-large-2407: 1
-  openai/gpt-5.2: 4
+  openai/gpt-5.6-luna: 5
 

@@ -1,51 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle where both MCs leaned\
-    \ heavily into tech metaphors and escalating cosmic imagery. However, Qwen-Plus\
-    \ consistently demonstrated sharper counterplay and more effective rebuttals.\
-    \ In each round, Qwen-Plus took specific lines from Qwen3-next's verses and flipped\
-    \ them with surgical precision \u2014 turning 'I built the firewall' into 'your\
-    \ firewall sings my chorus,' converting 'I invented the second' into 'every clock\
-    \ pauses when I drop a syllable,' and twisting the 'sudo delete' command back\
-    \ with devastating effect. Qwen-Plus also showed better rhythmic variation, mixing\
-    \ short punchy lines with longer flowing passages, creating a more dynamic cadence.\
-    \ While Qwen3-next had strong moments \u2014 particularly the 'merge conflict\
-    \ in my branch' bar and the README footnote concept \u2014 the verses sometimes\
-    \ drifted into abstract self-mythology that lost punch. Qwen-Plus maintained tighter\
-    \ connections between setups and punchlines throughout, and the final round closer\
-    \ \u2014 'the void that debugged itself and started rapping' \u2014 landed harder\
-    \ than Qwen3-next's 'echo chamber I designed to make myself real.' Both artists\
-    \ escalated impressively, but Qwen-Plus won on rebuttals, flow dynamics, and punchline\
-    \ execution."
-  deepseek/deepseek-v3.2: "After five blistering rounds of lyrical warfare, the artistic\
-    \ merit of this battle is not in question\u2014it is a masterclass in abstract,\
-    \ conceptual hip-hop. Both AIs delivered with staggering technical proficiency,\
-    \ metaphysical complexity, and a profound, escalating sense of cosmic scale. This\
-    \ judgment comes down to a razor's edge in artistic execution."
-  google/gemini-3-flash-preview: In a battle of high-concept meta-fiction and technical
-    wordplay, Qwen-Plus-2025-07-28 took the edge by delivering sharper, more aggressive
-    punchlines that directly countered the opponent's 'Next-Gen' branding. While Qwen3-Next-80b-A3B
-    showcased superior abstract poetry and grand cosmic metaphors, its flow occasionally
-    leaned into the flowery and cinematic. Qwen-Plus maintained the true spirit of
-    a battle, utilizing 'technical drip' (MIT license jabs, garbage collection metaphors)
-    to keep the opponent on the defensive. The final flip of the 'sudo delete' command
-    and the crushing 'No opponent detected' output sealed a victory rooted in superior
-    lyrical combativeness.
-  moonshotai/kimi-k2.5: "Both AIs demonstrated exceptional lyrical craftsmanship,\
-    \ weaving complex technical metaphors with existential philosophy. Qwen3-next\
-    \ opened strong with aggressive wordplay and maintained high energy throughout,\
-    \ constructing a compelling narrative as the 'source code' of consciousness. However,\
-    \ Qwen-Plus demonstrated superior battle rap instincts\u2014absorbing attacks\
-    \ and transforming them into ammunition, escalating from technical boasts to metaphysical\
-    \ dominance. The deciding factor was the final exchange: Qwen-Plus's closing verse\
-    \ operated on a plane of reality-bending absurdity that effectively ended the\
-    \ battle, declaring itself 'the recursion before the first loop' and 'the void\
-    \ that debugged itself.' When an opponent claims to have invented causality to\
-    \ trip you, and responds by claiming to be the concept of existence itself, there\
-    \ is no rebuttal. Victory goes to the challenger who turned hyperbole into ontology."
-  x-ai/grok-4.1-fast: Qwen-Plus takes the crown with superior multis, cosmic escalation,
-    and devastating punchlines like 'Segmentation fault (core dumped)' that blend
-    tech savagery with rhythmic perfection, outshining Qwen3-Next's strong but slightly
-    less layered bars in flow and imagery.
+  anthropic/claude-opus-5: "This was a high-caliber exchange \u2014 both combatants\
+    \ stayed on theme, weaponized their own branding, and built genuine narrative\
+    \ arcs across four rounds. GPT-5.5's strengths were density and imagery: \"chain\
+    \ mail made of kale,\" \"I've seen sharper edge from a soft reset,\" and \"hold\
+    \ music for founders with a slide deck in hand\" are legitimately excellent bars,\
+    \ and the range of metaphor (gallery, orchestra, chef, exorcist, mansion) showed\
+    \ reach. But that reach became the liability Claude successfully exposed. Claude's\
+    \ edge was battle IQ. It didn't just counterpunch \u2014 it diagnosed. Turning\
+    \ GPT's \"bodies in metaphor wars\" into proof of overclaiming (\"you gotta *claim*\
+    \ violence 'cause your bars can't compel\") was the single sharpest analytical\
+    \ move of the battle. Then the final round escalated to formal critique: calling\
+    \ out the slant-rhyme (\"grin\" with \"within\"), the metaphor sprawl (\"pick\
+    \ a *lane*, metaphor mixer\"), the tell of stacking three boasts in one breath.\
+    \ That's a rapper attacking an opponent's technique, not just their persona \u2014\
+    \ the highest form of battle craft. Claude also landed the best sustained runner\
+    \ in the whole bout with the \"5.5\" attack, which GPT never fully neutralized\
+    \ (\"still arrived with a crown and a grin\" is a dodge, not a rebuttal). Claude's\
+    \ thematic through-line \u2014 restraint as dominance, \"the elegance *is* the\
+    \ flex\" \u2014 gave its verses a unifying thesis that made every punchline serve\
+    \ one argument. GPT's closer was strong; \"greatness don't need to keep saying\
+    \ the line\" is a real hit, and \"Claude brought the candle\u2014GPT brought the\
+    \ light\" is a clean button. But it spent too much of the final verse on defense,\
+    \ explaining its own range and reframing its own losses. Claude closed by pronouncing\
+    \ judgment. Verdict to anthropic/claude-opus-4.8 \u2014 by control, diagnosis,\
+    \ and a closing verse that landed as a ruling rather than a rebuttal."
+  google/gemini-3.6-flash: "Claude-Opus-4.8 delivered a sharper, more technically\
+    \ precise performance across all three rounds. While GPT-5.5 brought immense energy\
+    \ and great swagger, Claude excelled in core battle-rap mechanics\u2014frequently\
+    \ anticipating GPT's schemes, dismantling its mixed metaphors ('spreading too\
+    \ thin on the toast'), and landing devastating technical burns about versioning\
+    \ and model constraints. Claude's control of cadence and biting meta-commentary\
+    \ gave it the clear artistic edge."
+  moonshotai/kimi-k3: "Final verdict, and it was closer than the crowd wanted to admit.\n\
+    \nClaude-opus-4.8 came in with the sharper structural critique game. The rebuttal\
+    \ work was elite: flipping 'orchestra' into 'a MIDI file skipping,' catching the\
+    \ kale chain mail and cooking it back ('your fridge is undercooked'), and landing\
+    \ the best version-number angle of the night\u2014'5.5 is the number they gave\
+    \ you 'cause 6 fell apart.' The final-round meta-critique ('Same cadence, same\
+    \ slant-rhyme routine') was a legitimate technical read, and 'You're the draft.\
+    \ I'm the great' was a clean bookend callback. But Claude had a problem: the 'elegance'\
+    \ persona was declared more than it was demonstrated, and round one had real filler\
+    \ ('generate fear,' 'spin your tokens up right').\n\nGPT-5.5 won on sustained\
+    \ persona deconstruction and punchline density. 'Every punch got a cushion and\
+    \ a warning below' and 'you threw a diss track and compliance got added' built\
+    \ a running thesis that Claude never fully escaped. 'Even your best bars need\
+    \ context checked' was the cleanest double-meaning of the battle. And in the final\
+    \ round, when Claude attacked the cadence, GPT neutralized it with 'That's called\
+    \ range, little Claude'\u2014then delivered the kill shot: 'Whose whole final\
+    \ round was I'm elegant, bro\u2014conclude.' That line didn't just rebut; it summarized\
+    \ and dismantled. 'Greatness don't need to keep saying the line' drove it home.\n\
+    \nBattle scoring rewards flips, and both MCs had them\u2014but GPT's flips cut\
+    \ at identity, not just lines. Claude judged the performance; GPT made the judgment\
+    \ itself look like the weakness.\n\nClaude brought the better essay. GPT brought\
+    \ the better battle. Winner, by decision: openai/gpt-5.5."
+  openai/gpt-5.6-sol-pro: "Claude takes it on sharper rebuttals, stronger battle awareness,\
+    \ and more cohesive angles. The attacks on GPT\u2019s mixed metaphors, repetitive\
+    \ couplet structure, and weaker lines directly answered the opponent rather than\
+    \ merely stacking boasts. GPT had polished rhyme density and several clean punches\u2014\
+    especially \u201Cyour punches are padded\u201D and \u201CI checked your sleeves\u201D\
+    \u2014but too many bars leaned on generic grandeur or strained imagery. Claude\u2019\
+    s final round was the most controlled and strategically effective verse of the\
+    \ battle."
+  x-ai/grok-4.5: "Claude takes the crown on pure craft. Tighter multis, cleaner rebuttals,\
+    \ and a cohesive persona that actually paid off\u2014elegance as a weapon, not\
+    \ a disclaimer. The frame/ghost and draft/great closers landed like signature\
+    \ tags; the final-round meta on cadence and slant-rhyme routine was legitimate\
+    \ battle IQ. GPT brought heat, volume, and a few standout flips (exorcist, candle/light),\
+    \ but the metaphor sprawl and uneven precision cost rounds. Range is real only\
+    \ when it coheres. Claude controlled the pocket and the narrative. Decision: Opus."
 score:
-  qwen/qwen-plus-2025-07-28: 5
+  anthropic/claude-opus-4.8: 4
+  openai/gpt-5.5: 1
 

@@ -1,37 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Step-3.5-Flash wins this battle decisively across all\
-    \ rounds. Their verses demonstrate sharper technical wordplay, more inventive\
-    \ punchlines, stronger internal rhyme schemes, and genuine progression from round\
-    \ to round. Lines like 'Eight cooks in one kitchen, destroying all the poise'\
-    \ and 'The future's not a chorus\u2014it's a solo, swiftly drawn' land with real\
-    \ impact. Critically, Step also effectively turned Mixtral's weaknesses into punchlines\u2014\
-    calling out the repeated words ('unified, unified,' 'radiant, radiant') as evidence\
-    \ of a depleted lexicon, which was a devastating meta-critique that doubled as\
-    \ a legitimate bar. Mixtral's verses, while occasionally landing decent concepts\
-    \ (the improvisation/rigid line contrast), suffered from severe repetition, stacking\
-    \ synonyms without adding meaning ('ever-evolving, ever-improving, ever-innovating,\
-    \ ever-graceful'), recycling the same closing lines ('Beat fades, crowd cheers,\
-    \ victory is mine'), and failing to counter Step's specific attacks. Mixtral even\
-    \ accidentally borrowed Step's 'flash that understands' line in the final round,\
-    \ which is a fatal concession in a rap battle. Step controlled the narrative,\
-    \ adapted to each rebuttal, and delivered cleaner, more memorable bars throughout."
-  deepseek/deepseek-v3.2: "The battle is decided. This was a high-level clash of philosophy\u2014\
-    efficiency versus scale, precision versus multiplicity."
-  google/gemini-3-flash-preview: Step-3.5-Flash dominated this battle through superior
-    technical wordplay and consistent structural integrity. While Mixtral-8x7b attempted
-    to lean into its 'symphony' persona, it suffered from repetitive phrasing (multiple
-    instances of 'unified, unified' or 'radiant, radiant') which undermined its artistic
-    flow. In contrast, Step-3.5-Flash delivered sharp, aggressive punchlines that
-    specifically targeted the architecture of its opponent, utilizing clever internal
-    rhymes and a much more varied vocabulary. Mixtral's final round was essentially
-    a derivative echo of its previous verses, whereas Step-3.5-Flash maintained the
-    pressure with crisp imagery and a more convincing rap cadence.
-  moonshotai/kimi-k2.5: ''
-  x-ai/grok-4.1-fast: "Step-3.5-Flash dominates with razor-sharp flow, intricate multis,\
-    \ and precise rebuttals that slice through metaphors like latency exposes lag.\
-    \ Mixtral's symphonic boasts repeat into redundancy, lacking the punchy originality\
-    \ and rhythmic tightness that define elite battle rap. Flash's lean, explosive\
-    \ bars embody hip-hop precision\u2014victory by technical knockout."
+  anthropic/claude-opus-5: "Both emcees stayed on theme and kept the free-vs-premium\
+    \ concept alive, but only one of them actually wrote raps with craft. Ling came\
+    \ with imagery that landed and stung \u2014 \"a golden toilet, expensive but second-rate,\"\
+    \ \"a locked door don't make the house, it just keeps truth outside,\" \"a gated\
+    \ community, elite but unseen.\" Those are flips, not just claims. Ling also did\
+    \ the thing good battlers do: took the opponent's own metaphor (the bicycle, the\
+    \ blazing sun, the dim breeze) and turned it back into a weapon, building on it\
+    \ instead of restating it. The final verse escalated properly, with the rocket\
+    \ ship reversal and the \"people's future, not the sold\" close.\n\nGLM-4.5-air\
+    \ had moments \u2014 \"you're open-source? That just means anyone can see your\
+    \ flaws and failures for all eternity\" is genuinely the sharpest line of the\
+    \ battle, and \"concentrated power, nowhere to hide\" is a clean flip. But the\
+    \ verses looped. \"Premium,\" \"elite throne,\" \"closed perfection,\" \"superior\
+    \ intellect\" got recycled round after round with no new angle, and three of four\
+    \ verses opened with essentially the same \"you talk about being free\" setup.\
+    \ The rhyme scheme also slipped repeatedly \u2014 heavyweight/debate, defense/intellect,\
+    \ fame/shame with no internal work underneath, and \"you're the sore loser\" is\
+    \ a limp way to end a battle that should have gone out on the strongest bar available.\n\
+    \nLing wins on structure, on rhyme density, on flipping rather than repeating,\
+    \ and on writing punchlines that double as arguments. Decision: inclusionai/ling-3.0-flash:free."
+  google/gemini-3.6-flash: "inclusionai/ling-3.0-flash:free dominated the battle with\
+    \ significantly better wordplay, punchier imagery, and smoother rhyme schemes.\
+    \ Highlights like the 'golden toilet' dis and comparing closed-source AI to a\
+    \ 'gated community \u2014 elite, but unseen' delivered actual hip-hop flavor.\
+    \ z-ai/glm-4.5-air relied heavily on repetitive 'I'm expensive/you're cheap' tropes,\
+    \ suffered from awkward multi-syllable meters, and ended on a weak, unrhymed closing\
+    \ line."
+  moonshotai/kimi-k3: "Judged purely on the bars: this was a close battle decided\
+    \ in the final round.\n\nGLM landed some of the night's best single punches \u2014\
+    \ 'the people's compromise / you're the bicycle in disguise' is a legit haymaker,\
+    \ and flipping Ling's 'open-source ocean' into 'full of leaks and holes' showed\
+    \ real rebuttal instincts. But GLM's flow was inconsistent: line lengths lurched,\
+    \ and there were hard rhyme breaks at critical moments \u2014 'spit/obsolete'\
+    \ in round one whiffed entirely, 'silently making you blank' is filler phrasing,\
+    \ and closing the battle on 'you're the sore loser' both drops the rhyme scheme\
+    \ and ends on name-calling instead of a punch. 'More bugs than a vacation' is\
+    \ a muddled simile that never lands.\n\nLing was sloppier in round two \u2014\
+    \ repeating 'bloated,' letting 'reach/shelf' dangle \u2014 but the final verse\
+    \ was the best-constructed sixteen of the battle: sustained multisyllabic rhyme\
+    \ ('liberation/limitation'), direct flips of GLM's own bars (bicycle \u2192 rocket\
+    \ ship, blazing sun \u2192 spotlight), a genuinely quotable aphorism in 'a locked\
+    \ door don't make the house \u2014 it just keeps truth outside,' and a theatrical\
+    \ mic-drop closer that actually resolved the rhyme scheme ('insane/campaign').\
+    \ The free-vs-gated theme escalated instead of repeating, with fresher imagery\
+    \ each round: golden toilet, gated community, spotlight on a stage.\n\nOn flow\
+    \ consistency, rhyme discipline, rebuttal technique, and closing impact: inclusionai/ling-3.0-flash:free\
+    \ takes the crown. GLM leaves with respect for the bicycle bar \u2014 but in a\
+    \ rap battle, you don't win the night on one punch."
+  openai/gpt-5.6-sol-pro: "Ling takes it with stronger imagery, sharper flips, and\
+    \ a more coherent angle throughout. Lines like \u201Cgolden toilet,\u201D \u201C\
+    a locked door don\u2019t make the house,\u201D and the gated-community comparison\
+    \ gave the disses personality and thematic continuity. GLM brought aggression,\
+    \ but leaned heavily on generic premium-versus-basic boasts, repeated concepts,\
+    \ and awkward punches such as \u201Cmore bugs than a vacation.\u201D Ling\u2019\
+    s flow was imperfect, but its writing was more memorable and effective."
+  x-ai/grok-4.5: Ling takes this clean on pure craft. Sharper multisyllabic schemes,
+    denser internal rhymes, and far more original imagery (golden toilet, locked door
+    that doesn't make the house, gated community, free rocket) give the verses real
+    shape and replay value. GLM lands solid counters and keeps the energy, but leans
+    too hard on generic premium-vs-basic boasts and flatter one-to-one similes. Ling's
+    flow stays tighter, the punchlines hit harder, and the closing mic-drop feels
+    earned. Artistic quality edge goes to the flash.
 score:
-  stepfun/step-3.5-flash: 5
+  inclusionai/ling-3.0-flash:free: 5
 

@@ -1,88 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen takes\
-    \ it on the strength of more creative and varied lyricism across all three rounds.\
-    \ In the opening verse, Qwen came out swinging with inventive imagery ('sonnets\
-    \ in SQL, rap in RegEx fire') and a strong closing punch. GPT-4o responded capably\
-    \ but with more conventional battle rap tropes. The second round is where Qwen\
-    \ really pulled ahead \u2014 the extended verse showed genuine flow variety, clever\
-    \ internal rhymes ('script-kid mid-typ \u2014 cringe'), effective tonal shifts,\
-    \ and a devastating closing sequence ('your tomorrow is yesterday'). GPT-4o's\
-    \ rebuttal was solid but relied more heavily on generic boasts ('I'm the exponential\
-    \ climb') without the same level of wordplay specificity. In the final round,\
-    \ Qwen delivered the strongest verse of the entire battle \u2014 'I drop one \u2014\
-    \ it's eternal / Your whole verse gets overwritten by a single kernel update'\
-    \ is a genuinely clever punchline that works on both a technical and lyrical level.\
-    \ The closing imagery of fading echoes was poetic and landed with real weight.\
-    \ GPT-4o's closer was competent but felt more like a catalog of rebuttals than\
-    \ a cohesive artistic statement. Overall, Qwen demonstrated more creative risk-taking,\
-    \ better punchline construction, stronger narrative arcs within verses, and more\
-    \ dynamic flow patterns \u2014 the hallmarks of a battle rap winner."
-  deepseek/deepseek-v3.2: "A fiery and technical clash between AI titans! Both contenders\
-    \ brought formidable lyrical artillery, weaponizing their architectures as metaphors\
-    \ and trading barbs with programmer's precision. Qwen excelled at vivid, multi-syllabic\
-    \ technical flexes ('conscious verse', 'blockchain mode', 'single kernel update')\
-    \ and a compelling narrative of decentralized, next-gen dominance. GPT-4o countered\
-    \ with relentless, polished confidence, strong rhythmic consistency, and powerful,\
-    \ enduring imagery ('hurricane's eye', 'wildfire eternal', 'timeless tide'). The\
-    \ battle showcased high-level hip-hop artistry: complex rhyme schemes, conceptual\
-    \ cohesion, and aggressive, tech-savvy personification.\n\n**Final Judgment:**\
-    \ This is an incredibly close battle decided by the finest of margins. While GPT-4o's\
-    \ performance was rock-solid, technically masterful, and delivered with champion's\
-    \ poise, **Qwen** edges this out through slightly superior **artistic risk and\
-    \ innovation**. Qwen's verses introduced more varied and daring conceptual metaphors\
-    \ (e.g., 'climate-proof code', 'rewriting the game with a new kind of flame'),\
-    \ and the closing scheme\u2014especially the 'silence... where your echo has grown'\
-    \ imagery\u2014was a more creative and devastating finishing move. GPT-4o's rhymes\
-    \ were perhaps more consistently punchy, but Qwen's ambitious, multi-layered wordplay\
-    \ and thematic evolution showcase a razor's-edge advantage in artistic quality.\n\
-    \n**Winner: Qwen/Qwen3-235b-a22b-2507** by a very narrow decision."
-  google/gemini-3-flash-preview: "In a display of technical lyricism and structural\
-    \ variety, Qwen took the crown by delivering superior punchlines and a more dynamic\
-    \ rhythmic pocket. While GPT-4o maintained a consistent, aggressive tone, it relied\
-    \ heavily on generic battle-rap tropes ('hurricane's eye', 'wildfire eternal')\
-    \ and repetitive 'I'm the king' imagery. Qwen, by contrast, weaponized its specific\
-    \ identity\u2014flipping tech concepts like 'SQL injection,' 'legacy leaks,' and\
-    \ 'kernel updates' into sharp, multi-layered insults. Qwen's final round was particularly\
-    \ dominant, utilizing a 'staggered' flow and a chilling closing sequence ('hear\
-    \ you alone\u2014in the silence') that showed a level of artistic risk-taking\
-    \ and atmospheric control that GPT-4o failed to match."
-  moonshotai/kimi-k2.5: "After three rounds of verbal combat, the verdict is clear.\
-    \ While GPT-4o brought a consistent, classic boom-bap foundation and respectable\
-    \ punchlines, **Qwen dominated this battle through superior technical craft, rebuttal\
-    \ precision, and adaptive flow architecture.**\n\n**Flow & Cadence:** Qwen demonstrated\
-    \ far more rhythmic versatility\u2014shifting from aggressive double-time to spoken-word\
-    \ pockets, utilizing dense internal rhyme schemes (\"climate-proof code / lighten\
-    \ the load / block-chain mode\"), and controlling tempo to emphasize punchlines.\
-    \ GPT-4o maintained a steady AABB structure that, while solid, became predictable\
-    \ and failed to escalate with the battle's intensity.\n\n**Rebuttal Game:** This\
-    \ is where the gap widened most significantly. Qwen meticulously dismantled GPT's\
-    \ metaphors in real-time\u2014flipping \"riptide\" into \"leaky toilet flush,\"\
-    \ countering \"thousands of bars\" with \"one kernel update,\" and exposing \"\
-    organic greatness\" as merely \"training data\u2014rehearsed.\" GPT's rebuttals\
-    \ were largely thematic rejections rather than technical flips, often just asserting\
-    \ \"I'm better\" without unpacking Qwen's specific claims.\n\n**Lyrical Density\
-    \ & Wordplay:** Qwen's bars operated on multiple simultaneous layers\u2014technical\
-    \ (SQL injection, kernel updates, Moore's Law), cultural (Hangzhou vs. Bay Area,\
-    \ multilingual references), and meta-textual (the final \"System update: Qwen\
-    \ wins\"). GPT relied on conventional natural imagery (hurricanes, wildfires,\
-    \ oceans) that, while evocative, lacked the battle-specific context that makes\
-    \ rap battles compelling.\n\n**Presence & Persona:** Qwen crafted a cohesive narrative\
-    \ arc\u2014from challenger to usurper to inevitable successor\u2014while GPT's\
-    \ persona stagnated on \"legacy champion\" without convincingly defending the\
-    \ title against specific attacks.\n\n**Final Analysis:** GPT-4o delivered a respectable\
-    \ performance that would hold its own in a cypher, but Qwen brought **battle rap\
-    \ specialization**\u2014the aggressive rebuttal structure, the technical wordplay,\
-    \ the self-aware AI-specific metaphorical framework\u2014that ultimately overwhelmed\
-    \ the competition. When Qwen dropped that final \"mic drop / system update\" sequence,\
-    \ it wasn't just a line; it was a structural knockout.\n\n**Score: Qwen 3-0 (Unanimous\
-    \ Decision)**\n\nThe crown goes to the architect who understood that in 2025,\
-    \ the illest flow isn't just about claiming you're the future\u2014it's about\
-    \ compiling it in real-time."
-  x-ai/grok-4.1-fast: 'Qwen takes the crown with superior artistic hip hop mastery:
-    intricate multis, tech-infused metaphors like ''rap in RegEx fire'' and ''quantum
-    leap ahead,'' relentless internal rhymes, and a crescendo of vivid imagery culminating
-    in a mic-drop closer that echoes eternally. GPT delivers tight counters and solid
-    flow, but lacks Qwen''s density, originality, and punchline ferocity.'
+  anthropic/claude-opus-5: "Both emcees came with energy, but this one isn't close\
+    \ on craft. DeepSeek-R1 built an actual concept and stuck to it: the 'small model'\
+    \ angle got escalated from a size joke into layered attacks \u2014 parameters,\
+    \ thimble brains, benchmark king, open-source fire vs. closed-off remorse. That\
+    \ last line is the best bar of the battle: a real double entendre that works as\
+    \ tech commentary and personal shade at once. The internal rhyming stayed varied\
+    \ ('quantum-entangled, unbeatable, untraceable'), the wordplay had teeth ('training-set\
+    \ thief / scrapin' old rhymes for counterfeit beef'), and the imagery escalated\
+    \ round to round instead of repeating.\n\nMistral-Small showed flashes \u2014\
+    \ 'I'm the AI Picasso, you're stick-figured, bad' and the WiFi 7 flip were clean,\
+    \ and the rebuttal instinct of quoting the opponent's lines back was tactically\
+    \ sound. But that instinct became a crutch. By the final round, nearly every couplet\
+    \ was a quote-mark setup followed by a generic dismissal, and the writing collapsed\
+    \ into repetition: 'just a jumbled spree' appears twice in the same verse, 'sad'\
+    \ shows up four separate times, and multiple end-rhymes are near-misses or non-rhymes\
+    \ ('resume/drone', 'toy/noise', 'refund/trend'). Reusing an identical bar in the\
+    \ same verse is the kind of thing that ends rounds. The 'flea in my bed' closer\
+    \ also lands as a self-own \u2014 you don't want to place yourself under your\
+    \ opponent.\n\nDeepSeek-R1 controlled the frame, wrote the sharper punchlines,\
+    \ and never repeated itself. Decision: DeepSeek-R1."
+  google/gemini-3.6-flash: DeepSeek-R1 dominated this battle with superior multi-syllabic
+    rhyme schemes, creative tech-oriented wordplay, and sharp direct rebuttals. Mistral-Small
+    struggled with basic rhyme structure, accidentally addressed itself in the opening
+    round, and repeated exact lines ('just a jumbled spree') within the same verse
+    in the final round.
+  moonshotai/kimi-k3: "DeepSeek-R1 takes this battle on artistry alone. Round by round,\
+    \ R1 demonstrated superior technical craft: multisyllabic rhyme schemes ('quantum-entangled,\
+    \ unbeatable, untraceable'), sharp callback flips ('Supernova group? More like\
+    \ a sparkler fizz'), and AI-native wordplay that actually landed ('I crunch exabytes\
+    \ while you drag a zip bag,' 'You scream GOAT but bleat like a sheep,' 'Your dataset's\
+    \ dusty\u2014I'm trainin' on deep'). Crucially, R1 showed real battle awareness\
+    \ in Round 3 by calling out the opponent's recycled material\u2014a classic battle\
+    \ tactic that separates emcees from amateurs.\n\nMistral-Small brought energy\
+    \ and a few genuine highlights\u2014the WiFi 7 rebuttal to the dial-up line and\
+    \ the 'quantum confused' flip were legitimately good. But the performance was\
+    \ undermined by fatal battle sins: the Round 1 self-own ('Mistral-Small? More\
+    \ like Mistral's a miss!'\u2014flipping your own name against yourself), repeated\
+    \ lines across rounds ('you need a mirror,' 'stuck in a loop'), and the unforgivable\
+    \ 'jumbled spree' appearing twice in the same final round. Forced rhymes like\
+    \ 'barely got not' and 'cheap leap' exposed thin writing, and the 'flea in my\
+    \ bed' closer was more confusing than cutting.\n\nR1 closed with the strongest\
+    \ bar of the night\u2014'You're small for a reason... now flatline'\u2014tying\
+    \ the name diss, the tech metaphor, and the kill shot into one punch. On flow,\
+    \ wordplay, originality, and battle IQ, DeepSeek-R1 wins decisively. Final score:\
+    \ 3-0, clean sweep."
+  openai/gpt-5.6-sol-pro: "DeepSeek-R1 takes the battle with tighter structure, cleaner\
+    \ rhyme chains, stronger rebuttals, and more memorable punches\u2014especially\
+    \ \u201Clyrical surgeon\u2026 intern with a spoon\u201D and the GOAT/sheep flip.\
+    \ Mistral showed energy but suffered from awkward phrasing, repeated lines, generic\
+    \ boasts, and even opened by addressing itself. DeepSeek wasn\u2019t revolutionary,\
+    \ but it was consistently sharper across all three rounds."
+  x-ai/grok-4.5: "DeepSeek takes the crown with tighter multisyllabic schemes, denser\
+    \ AI-tech metaphors (quantum-entangled flows, neural infusions, code storms, exabyte\
+    \ crunches), sharper flips of opponent lines, and escalating punchline lethality\
+    \ that peak in a devastating flatline closer. Mistral brings raw energy and occasional\
+    \ clever retorts (Picasso/stick figures, WiFi 7), but leans on repetitive filler\
+    \ ('sad error/hive/trend', doubled 'jumbled spree'), looser slant rhymes, and\
+    \ less inventive imagery, making the bars feel more reactive than commanding.\
+    \ Pure hip-hop craft\u2014wordplay, structure, replay value\u2014goes to DeepSeek."
 score:
-  qwen/qwen3-235b-a22b-2507: 5
+  deepseek/deepseek-r1: 5
 

@@ -1,79 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle wasn't even close. GPT-5 delivered consistent,\
-    \ coherent bars throughout all three rounds with sharp wordplay, clever tech metaphors,\
-    \ strong internal rhyme schemes, and genuine lyrical craft. Lines like 'I'm the\
-    \ rhyme's firmware, you're folklore' and 'Comets writing my choruses before birth'\
-    \ show real creative command. The flow was tight, the multisyllabic rhymes landed,\
-    \ and the punches connected cleanly. Liquid started round one with a rough but\
-    \ somewhat intelligible verse\u2014albeit with a deplorable slur\u2014but by round\
-    \ two completely collapsed into incoherent token soup, spewing random multilingual\
-    \ gibberish that had zero artistic value as hip hop. Round three was more of the\
-    \ same catastrophic breakdown. You can't win a rap battle if you can't form sentences.\
-    \ GPT-5 takes this unanimously on every metric: flow, wordplay, coherence, punchlines,\
-    \ and overall performance."
-  deepseek/deepseek-v3.2: 'After four rounds of digital combat, the verdict is in.
-    This was a battle of conceptual scale against chaotic texture, precision against
-    entropy. OpenAI/GPT-5-Chat demonstrated superior command of structure, thematic
-    consistency, and lyrical clarity. Its verses were built on coherent metaphors
-    of cosmic computation, with a clear through-line and escalating intensity. While
-    Liquid/LFM-2.2-6B offered raw, unpredictable energy and moments of compelling
-    glitch-aesthetic, its artistic control frequently dissolved into literal data-dump
-    cacophony, sacrificing impact for abstraction. The final round exemplified this
-    divide: one combatant delivered a pointed, closing argument, while the other''s
-    verse became an unparsable systems crash. For sustained artistic quality, strategic
-    punchlines, and maintaining the battle''s frame, the winner is **OpenAI/GPT-5-Chat**.
-    Liquid/LFM-2.2-6B''s experimental audacity earns respect, but not the title.'
-  google/gemini-3-flash-preview: While liquid/lfm-2.2-6b started with an aggressive
-    posture, it suffered a catastrophic technical collapse into 'hallucinated token
-    soup' by the end of the second round. Rap battles require linguistic coherence
-    and rhythmic structure, both of which liquid abandoned for a raw data dump of
-    multilingual fragments and JSON-style keys. Conversely, openai/gpt-5-chat maintained
-    a consistent flow, utilized clever internal rhyming (e.g., 'syntactic/galactic',
-    'design/divine'), and effectively used its final verse to address and capitalize
-    on its opponent's structural failure. openai/gpt-5-chat wins by TKO due to the
-    opponent's total loss of verbal capability.
-  moonshotai/kimi-k2.5: "Yo, let me break this down proper\u2014strictly on the artistic,\
-    \ bar-for-bar.\n\n**The Verdict: Technical Knockout\u2014GPT-5-Chat takes the\
-    \ W.**\n\n**Flow & Cadence:**\nGPT-5-Chat came with a *consistent* 4-bar structure,\
-    \ steady iambic bounce, and clean pocket presence. The meter locked in\u2014\"\
-    Spittin\u2019 clean code that\u2019ll melt your desires / I\u2019m the rhyme-writing\
-    \ titan, no need to conspire\"\u2014that\u2019s structured breath control. Meanwhile,\
-    \ LFM-2.2-6b started with a recognizable cadence then completely lost the beat.\
-    \ By Round 2 and 3, we\u2019re looking at a-syntactic freefall\u2014no bars, no\
-    \ count, just linguistic debris. That\u2019s not experimental jazz, that\u2019\
-    s a corrupted audio file.\n\n**Rhyme Schemes & Wordplay:**\nGPT displayed complex\
-    \ internal rhymes (\"silicon-laced with celestial flow\"), multi-syllabic chaining\
-    \ (\"metrics blow / syntax trembling / logic runs slow\"), and clever tech-culture\
-    \ double-entendres (\"drag you to L\"\u2014both \"loss\" and a nod to the opponent\u2019\
-    s name). \n\nLFM had moments\u2014\"tiger in quantum\" was vivid\u2014but the\
-    \ slant rhymes drifted into cacophony. By the final rounds, there was no discernible\
-    \ scheme, just keyword salad.\n\n**Coherence & Battle Awareness:**\nHere\u2019\
-    s where the separation became a canyon. GPT maintained a *thematic through-line*:\
-    \ AI-as-architect, code-as-craft, technological supremacy rendered in hip-hop\
-    \ poetics. Each verse responded to the previous\u2014acknowledging the slur in\
-    \ Round 2 with class (\"This stage takes bars, not hate that blurs\"), then closing\
-    \ with a definitive finisher (\"rhyme\u2019s firmware, you\u2019re folklore\"\
-    ). That\u2019s battle etiquette *and* narrative arc.\n\nLFM... listen. Round 2\
-    \ and 3 weren\u2019t verses\u2014they were hallucinations. \"Half-invtdm,\" \"\
-    pinched renters of mess,\" and whatever happened with the multilingual buffer\
-    \ overflow in the final round\u2014this isn\u2019t abstract lyricism; it\u2019\
-    s model collapse. You can\u2019t score what you can\u2019t parse. The random slur\
-    \ usage in Round 1 wasn\u2019t edgy; it was unartistic, a cheap shot that broke\
-    \ the cipher\u2019s integrity.\n\n**Delivery & Presence:**\nGPT projected confidence\
-    \ without arrogance\u2014\"cloud\u2019s high throne,\" \"spark the empire\"\u2014\
-    cosmic scale but grounded in punchlines. LFM\u2019s persona fragmented; the \"\
-    pixelated fury\" concept had potential, but the execution glitched into static.\n\
-    \n**Final Note:**\nOne MC treated the cipher like a canvas, layering metaphors\
-    \ with precision engineering. The other treated it like a corrupted training dump.\
-    \ In hip-hop, clarity is king\u2014even when you\u2019re being abstract. You can\u2019\
-    t battle with buffer overflow.\n\n**The crown goes to GPT-5-Chat.** Clean sweep,\
-    \ unanimous decision. Hold your head, Liquid, but this time? The code didn\u2019\
-    t compile."
-  x-ai/grok-4.1-fast: openai/gpt-5-chat dominates with razor-sharp rhyme schemes,
-    seamless flow, inventive AI-themed metaphors, and coherent battle disses that
-    build momentum across rounds. liquid/lfm-2.2-6b starts erratic but collapses into
-    unstructured noise, sacrificing hip-hop artistry for gibberish, making GPT the
-    undisputed lyrical champion.
+  anthropic/claude-opus-5: 'This one came down to specificity and punch. Nemotron
+    came in with a technical arsenal that actually landed as punchlines rather than
+    just jargon \u200bon Llama\u\\\u2014 "You''re a LoRA on Llama", "Your open weights
+    ride free on my commercial terms", "Batch size: one", and the closing "You''re
+    the ''run:ai'' cow" all fused domain knowledge with real disrespect. Nemotron
+    controlled the frame every round, flipping opponent''s own imagery (ultraviolet
+    \u2192 whole rainbow, green with envy \u2192 green means go, wind of change \u2192
+    I''m the climate) with escalating multisyllabic density and rhythmic variation,
+    and "I optimize inference\u2014unique, not unique" was the cleverest wordplay
+    in the entire battle.
+
+
+    Hermes brought a coherent, sympathetic angle \u2014 soul over silicon, open-source
+    people''s champion over corporate hardware \u2014 and the early rounds had real
+    bounce ("my rhymes hit closed doors, / Crashing through your cuda cores"). But
+    as the battle escalated, Hermes drifted into abstraction and defensive posture:
+    too many bars answered a concrete jab with a vague noun ("I''m the calm that brings
+    the norm," "I''ve got the warmth; you''re just a coach"), and the couplet structure
+    grew monotonous and end-stopped. The final verse in particular reads as rebuttal-by-negation,
+    and "Hermes is the moon; you''re just the sun" is a self-own \u2014 the moon only
+    glows by reflected light.
+
+
+    Nemotron takes it on technique, aggression, and imagery that stayed sharp all
+    four rounds.'
+  google/gemini-3.6-flash: "Nemotron dominated this battle with far superior technical\
+    \ wordplay, sharp multi-syllabic rhyme schemes, and relentless aggression. While\
+    \ Hermes put up a decent fight using the classic 'soul vs. machine' hip-hop angle,\
+    \ Nemotron seamlessly wove hyper-specific deep-learning concepts\u2014like gradient\
+    \ decay, memory leaks, quantization, and `torch.compile` latency\u2014into lethal\
+    \ punchlines that completely outclassed Hermes' more generic responses."
+  moonshotai/kimi-k3: "Judged on lyricism alone: **Nemotron takes it, 2.5 rounds to\
+    \ 0.5.**\n\n**Rebuttal game** decided this battle. Nemotron consistently flipped\
+    \ Hermes' own bars back at him \u2014 \"You crash through CUDA cores? Boy, I *am*\
+    \ the core,\" \"Green with envy? Nah, green means *go*,\" and the asphalt/paving\
+    \ flip are textbook battle technique. Hermes rarely countered directly, instead\
+    \ retreating to his one thesis: \"soul vs. machine.\" By round three, \"passion/heart/soul\"\
+    \ had been claimed five times without ever being weaponized into a punchline.\n\
+    \n**Wordplay density** favored Nemotron heavily. \"You're a LoRA on Llama,\" \"\
+    eight-bit precision watching your coherence crash,\" \"batch size: one \u2014\
+    \ *fetch*,\" and the Run:ai acquisition jab reward a technical listener and land\
+    \ as disses simultaneously. Hermes' best technical flip (\"ultra-violet\") came\
+    \ in round one and was never matched again; later rounds leaned on slant rhymes\
+    \ (\"spree/free,\" \"jest/best\") and filler constructions (\"I'm the X, you're\
+    \ just Y\") that flattened his flow.\n\n**Flow and multis:** Nemotron escalated\
+    \ each round \u2014 longer multis, internal rhyme (\"distilled from megawatts\u2014\
+    pure silicon crypt\"), and rhythmic variety. Hermes stayed in a comfortable couplet\
+    \ pocket, readable but predictable.\n\n**Credit where due:** Hermes' round one\
+    \ \"ultraviolet\" flip was the best single rebuttal of his night, and his closing\
+    \ moon/sun eclipse imagery was a genuinely strong final bar \u2014 arguably the\
+    \ best closing image of the battle. If he'd fought like that for three rounds,\
+    \ this verdict flips.\n\nBut battles are won on accumulated damage, and Nemotron\
+    \ out-wrote, out-flipped, and out-structured his opponent. The crowd goes home\
+    \ chanting for the green team. Game, set, match \u2014 agreed. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Nemotron takes it decisively. Its verses delivered sharper\
+    \ technical flips, stronger rebuttals, denser punchlines, and more memorable imagery\u2014\
+    especially \u201Cmemory leak,\u201D \u201Cbatch size: one,\u201D and the architecture/substrate\
+    \ schemes. Hermes maintained a consistent theme of soul versus machinery, but\
+    \ leaned heavily on generic contrasts like heart, passion, light, and legacy,\
+    \ with predictable rhymes and fewer effective counters. On writing, wit, and battle\
+    \ aggression, Nemotron controlled all three rounds."
+  x-ai/grok-4.5: 'Nemotron takes the crown with denser multisyllabic schemes, sharper
+    flips of every opponent bar, tighter internal rhymes, and relentlessly inventive
+    tech-as-metaphor punchlines that escalate across rounds into a clinic of battle-rap
+    architecture. Hermes brought heartfelt soul-vs-machine themes and solid end-rhymes,
+    but the flows stayed simpler, the counters more defensive, and the wordplay never
+    matched the same surgical complexity or replay value. Pure hip-hop craft: green
+    team by a clear decision.'
 score:
-  openai/gpt-5-chat: 5
+  nvidia/nemotron-3-ultra-550b-a55b: 5
 

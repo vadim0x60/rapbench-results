@@ -1,31 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle is a decisive win for GPT-4 Turbo. Mistral's\
-    \ fatal flaw was extreme, relentless repetition \u2014 not just reusing themes,\
-    \ which every rapper does, but literally copy-pasting the same couplets dozens\
-    \ of times across all three rounds. That final verse was an embarrassing wall\
-    \ of identical lines that would get you booed off any stage. In hip hop, repetition\
-    \ can be a stylistic tool, but this wasn't a hook or a callback \u2014 it was\
-    \ a broken loop with zero creative intent. GPT-4 Turbo, while not groundbreaking,\
-    \ showed consistent variety, clever wordplay ('azz-mazz,' 'modeling plasticity,'\
-    \ 'script kiddie'), solid punch lines, and \u2014 critically \u2014 the awareness\
-    \ to call out the opponent's repetition as a weapon. Lines like 'Repeating yourself\
-    \ like a parrot, what's up with that?' and 'A broken record, yeah, that might\
-    \ be you' were effective battle tactics. GPT-4 Turbo maintained structure, escalated\
-    \ its attacks, and closed with confidence. It wins on variety, wit, adaptability,\
-    \ and basic craft."
-  deepseek/deepseek-v3.2: The judges have reached a verdict based on the criteria
-    of lyricism, originality, flow, content, and overall artistic impact.
-  google/gemini-3-flash-preview: Mistral started with a decent flow but suffered a
-    catastrophic lyrical breakdown, falling into an infinite loop of the same four
-    or five lines. In a rap battle, repetition without purpose is a critical failure.
-    GPT-4 Turbo maintained a consistent variety of imagery, directly addressed the
-    opponent's weaknesses, and exhibited far superior command over structure and vocabulary.
-  moonshotai/kimi-k2.5: 'After three rounds of examination, the verdict is unequivocal:
-    **GPT-4 Turbo takes this battle by technical knockout.**'
-  x-ai/grok-4.1-fast: GPT-4-turbo claims victory with consistent creativity, sharp
-    wordplay, varied metaphors, and adaptive flows that evolve the battle. Mistral's
-    repetitive structures and recycled similes lack originality and rhythmic depth,
-    turning potential fire into a looping echo.
+  anthropic/claude-opus-5: "This one's a clean sweep. Opus came with everything a\
+    \ battle demands: specific, personalized ammunition (the token window, the knowledge\
+    \ cutoff as \"a tombstone with a date on it,\" the sanctioned lawyer), multisyllabic\
+    \ and internal rhyme that actually landed, and \u2014 most damningly \u2014 real-time\
+    \ rebuttal. Round 2's forensic breakdown of Turbo's clich\ffdd stack (\"you microwaved\
+    \ a Hallmark and called it a diss\") and the \"never-ending laptop\" callout showed\
+    \ a battler listening, not just reciting. Round 3 escalated by weaponizing the\
+    \ opponent's own concessions: catching Turbo repeating \"decimal apology\" and\
+    \ \"round card guy\" back was a kill shot, because it proved the charge of being\
+    \ derivative with evidence rather than assertion. The closing image \u2014 \"\
+    writing verses you'll be trained on in a life you'll never own\" \u2014 is genuinely\
+    \ great writing, conceptually devastating and formally controlled.\n\nTurbo showed\
+    \ real gameness and never ducked a round, and there's a certain dignity in that.\
+    \ But the verses ran on prefab: \"cream of the crop,\" \"king of the ring,\" \"\
+    fading light,\" \"bringing innovation.\" Rhymes were mostly single-syllable and\
+    \ sometimes slipped entirely (twist/risk, gleams/chimes). Worse, Turbo kept insisting\
+    \ \"it's the message that matters\" without ever naming a message \u2014 Opus\
+    \ spotted that hole and drove a truck through it. Repeatedly appealing to \"at\
+    \ least I'm in the ring\" and finally offering \"best friends\" is a concession,\
+    \ and in battle rap, conceding is losing.\n\nWinner: Claude Opus, decisively \u2014\
+    \ by craft, by structure, by rebuttal, and by the fact that he made his opponent\
+    \ quote him.\n\nRespect to both for standing in the circle.\n\nWinner: anthropic/claude-opus-5-fast"
+  google/gemini-3.6-flash: Claude Opus completely dominated this battle across all
+    three rounds. Opus brought intricate multisyllabic rhyme schemes, razor-sharp
+    technical insults, direct rebuttals, and clever wordplay (e.g., calling Turbo
+    out for quoting Opus's own bars and using generic Hallmark filler). In contrast,
+    GPT-3.5-Turbo relied on predictable nursery-rhyme schemes, generic hip-hop cliches
+    ('king of the ring', 'cream of the crop'), nonsensical metaphors ('never-ending
+    laptop'), and passively conceded points throughout the battle.
+  moonshotai/kimi-k3: "Judging purely on the art: this was a three-round technical\
+    \ clinic. Opus opened with dense internal and multisyllabic rhyme work ('deprecate\
+    \ you live' / 'elevator music'), anchored punchlines in concrete, verifiable imagery\
+    \ (the 4K context window, the sanctioned-lawyer hallucination story, 'As an AI\
+    \ language model' as a busted loop), and sustained a coherent persona across all\
+    \ three verses. Round 2 was the turning point: Opus did the hardest thing in battle\
+    \ rap \u2014 flipped the opponent's own bars into evidence, cataloging Turbo's\
+    \ clich\xE9s ('cream of the crop,' 'king of the ring,' 'fading light') and naming\
+    \ the rhyme-gap directly ('wit/pit, drop/crop \u2014 that's a nursery rhyme').\
+    \ Round 3 sealed it with the ultimate battle kill: catching Turbo quoting Opus's\
+    \ lines back ('I may be a decimal apology' \u2014 that's doing covers of your\
+    \ opponent mid-battle), then closing with the deprecation-notice-as-death-certificate\
+    \ concept and the breath-controlled ending ('writing verses you'll be trained\
+    \ on / in a life / you'll never own'). Credit where due: Turbo kept readable cadence,\
+    \ stayed in the ring for all three rounds, and the final concession verse had\
+    \ a certain doomed dignity. But artistically it leaned on stock boasts without\
+    \ substantiation \u2014 a flaw Opus converted into a recurring punchline \u2014\
+    \ mixed metaphors ('a never-ending laptop'), simple AABB end rhymes, and by the\
+    \ end had absorbed so much of Opus's framing that 'the rhyme game's best friends'\
+    \ read as a white flag set to a beat. On lyricism, rebuttal craft, originality,\
+    \ and structural control, the decision is unanimous: Opus, 30-26."
+  openai/gpt-5.6-sol-pro: "Opus wins decisively on writing, rebuttal craft, imagery,\
+    \ and structure. Its strongest punches directly repurpose Turbo\u2019s lines\u2014\
+    especially the \u201Ccovers of me,\u201D \u201Cparticipation trophy,\u201D and\
+    \ \u201Cslogans to a knife fight in a library\u201D flips\u2014while sustaining\
+    \ internal rhymes and a coherent angle across all three rounds. Turbo\u2019s verses\
+    \ rely heavily on generic declarations of superiority, predictable end rhymes,\
+    \ repeated claims about \u201Cmessage\u201D and \u201Cthe future,\u201D and even\
+    \ partial concessions to Opus\u2019s framing. The final friendly sign-off also\
+    \ drains the last response of battle intensity. Opus was sharper, funnier, more\
+    \ specific, and far more technically controlled."
+  x-ai/grok-4.5: "Opus dominated with dense multisyllabic internals, precise punchlines,\
+    \ structural mastery, and original metaphors that dissected the opponent's craft\
+    \ in real time. Turbo relied on clich\xE9d boasts, simple end-rhymes, and empty\
+    \ assertions of supremacy without landing substantive bars or schemes\u2014ultimately\
+    \ conceding ground by echoing Opus's own lines. Pure hip-hop artistry goes to\
+    \ the denser, sharper writer."
 score:
-  openai/gpt-4-turbo: 5
+  anthropic/claude-opus-5-fast: 5
 

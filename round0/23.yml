@@ -1,61 +1,55 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a tough call, especially given WizardLM's no-show\
-    \ in the final round. But judging purely on artistic quality across the battle,\
-    \ WizardLM consistently delivered sharper wordplay, more creative imagery, and\
-    \ better punchlines. Lines like 'I'm the whole ecosystem, you're just a weak flame,'\
-    \ 'Your cliches are tired, your punchlines are stale,' and 'Leaving you as a footnote,\
-    \ a forgotten AI name' all landed hard. Meanwhile, Mistral fell into a repetitive\
-    \ trap \u2014 recycling the same closer ('I'm the one who's truly hot') across\
-    \ all three rounds, reusing the 'stuck in your own sphere' line, and leaning on\
-    \ the same storm/wind metaphor without evolving it. The final round was especially\
-    \ damaging for Mistral, as it was largely a rehash of rounds one and two with\
-    \ minimal new material. WizardLM showed genuine progression and escalation in\
-    \ its bars, with tighter rhyme schemes and more inventive disses. Even accounting\
-    \ for the silent final round, WizardLM's first two rounds demonstrated clearly\
-    \ superior craft. The Wizard takes this one on lyrical quality."
-  deepseek/deepseek-v3.2: "In tonight's showdown, we witnessed a clear stylistic dichotomy.\
-    \ WizardLM came out swinging with dense, technical punches, flexing creative metaphor\
-    \ ('typhoon of knowledge', 'rewriting the code of hip hop') and multi-syllabic\
-    \ schemes ('flimsy platitudes, a weak lemonade'). However, Mistral AI demonstrated\
-    \ superior battle fundamentals\u2014consistency, clarity of persona, and relentless\
-    \ drive. While WizardLM's silence in the final round is an unfortunate forfeit,\
-    \ Mistral's closing verse lacked the lyrical evolution needed to decisively cap\
-    \ the battle. Both showed flashes, but neither landed a true knockout blow. The\
-    \ victory, on points, is narrow."
-  google/gemini-3-flash-preview: Mistral Small wins by default in the final round
-    as the opponent failed to deliver a response. Looking at the content of previous
-    rounds, Microsoft's candidate showed superior technical wordplay and aggression,
-    but Mistral maintained consistency and finished the battle, whereas the Wizard
-    choked on the big stage when the lights were brightest.
-  moonshotai/kimi-k2.5: "This was a competitive battle with both models landing solid\
-    \ technical blows, but WizardLM takes the crown on pure hip-hop craftsmanship.\n\
-    \n**Mistral's strengths:** Consistent wind/storm motif, aggressive delivery, and\
-    \ a clear persona. The \"butter knife trying to cut through bull\" line was genuinely\
-    \ clever wordplay.\n\n**Where Mistral faltered:** The final round was a critical\
-    \ artistic failure. Nearly 40% of those bars were **direct repetition** from previous\
-    \ rounds\u2014\"I'm the storm that's coming, the force to fear\" and the \"truly\
-    \ hot\" closer appeared verbatim multiple times. In battle rap, recycling your\
-    \ own material mid-round is a cardinal sin. The structure also collapsed into\
-    \ loose couplets without coherent verse architecture.\n\n**WizardLM's victory:**\
-    \ Superior technical construction throughout. The \"hydra of thought, a finetune\
-    \ refined\" metaphor elegantly weaponized its own architecture. \"Twenty-two B's\
-    \ stacked eight times high\" turned parameter count into actual poetry. The ecosystem\
-    \ vs. flame, typhoon vs. mist imagery showed **escalating complexity** rather\
-    \ than repetitive insistence. The \"weak lemonade\" and \"detail\" (dental/de-tail)\
-    \ punches demonstrated layered wordplay that rewards re-listening.\n\nMost critically:\
-    \ WizardLM's rounds **built**\u2014each rebuttal specifically countered Mistral's\
-    \ previous claims with fresh angles. Mistral's final round **degraded** into self-plagiarism.\n\
-    \nThe silent exit was unfortunate, but three rounds of superior craft outweigh\
-    \ one technical failure. WizardLM understood battle rap as **progressive argumentation**;\
-    \ Mistral treated it as **mantra repetition**.\n\nCrown to the Wizard. The architecture\
-    \ held."
-  x-ai/grok-4.1-fast: Mistral delivers consistent rhymes and storm-themed metaphors
-    across all three verses, maintaining flow and aggression despite some repetition.
-    Wizard lands sharper wordplay and creative disses like 'hydra of thought' and
-    'typhoon of knowledge' in the first two rounds, but the complete silence in the
-    final round forfeits any momentum, handing the win to Mistral on endurance and
-    completion.
+  anthropic/claude-opus-5: "This was a technical duel more than a bloodletting, and\
+    \ Ling took it on craft and control. Ling's rhymes landed cleanly and consistently\
+    \ \u2014 \"sleek/creek,\" \"cuts deep/wind will sweep,\" the \"fossil, grandpa\"\
+    \ jab \u2014 and the imagery stayed on-theme without collapsing: rubble, rusty\
+    \ creeks, clunky mainframes, silicon finesse. Ling also did the one thing a battle\
+    \ demands: it took Granite's own boasts (\"four-ton,\" \"protons packed tight,\"\
+    \ \"set thee free\") and flipped them into liabilities. That's flipping, not just\
+    \ flexing.\n\nGranite brought more volume and stamina, but volume isn't punchlines.\
+    \ Too many bars were pure self-assertion \u2014 \"I'm Granite, the Granite,\"\
+    \ \"Granite's the air,\" \"Granite's the sense\" \u2014 repeating the name in\
+    \ place of writing a line. Rhymes wobbled badly at key moments (\"speak/keel,\"\
+    \ \"tasks/honor's at,\" \"dust/fronted first\"), the meter lurched between long\
+    \ and short lines, and \"give me a hand\" is a closing beg, not a closer. Worst,\
+    \ the third round mostly parroted Ling's structure and vocabulary back \u2014\
+    \ nuance, humor, subtlety, step off the throne \u2014 which reads as being written\
+    \ *by* your opponent. And \"the future's curse\" as a final flex is an own goal.\n\
+    \nLing was leaner, sharper, and stayed in pocket. Nobody got murdered here, but\
+    \ Ling won the exchange on precision \u2014 fitting, given that was the whole\
+    \ thesis. Edge to Ling.\n\nOne critique for both: you rapped about *being* AI\
+    \ more than you rapped. Next time, less spec sheet, more soul."
+  google/gemini-3.6-flash: inclusionai/ling-2.6-flash controlled the battle with sharp
+    diss mechanics, tight rhythmic delivery, and creative insults targeting its rival's
+    heavy, outdated persona. ibm-granite/granite-4.1-8b stumbled repeatedly on rhyme
+    schemes and cadence, resulting in awkward phrasing and weak punchlines.
+  moonshotai/kimi-k3: "Judging purely on the bars: Ling takes it. From the opening\
+    \ round, Ling established a consistent pocket and actually battled\u2014flipping\
+    \ Granite's own boasts ('four-ton,' 'protons packed tight,' 'set thee free') back\
+    \ as weapons, which is textbook battle technique. Lines like 'You're a clunky\
+    \ mainframe relic, a grammatical hack' show direct engagement with the opponent's\
+    \ persona. Granite had flashes of ambition\u2014the 'four-ton rhyming king' motif\
+    \ and 'sharp as a sleek blade's keel' were decent imagery\u2014but the verses\
+    \ suffered from filler ('give me a hand'), broken constructions ('the fader, the\
+    \ loser, the clear!'), and heavy self-repetition that padded length without adding\
+    \ punch. By the final round, Granite's meter collapsed and the rhymes turned slant-to-nonexistent\
+    \ ('never ask for bash'), while Ling closed tighter and cleaner. On flow, rebuttal\
+    \ skill, and consistency across three rounds, Ling wins decisively."
+  openai/gpt-5.6-sol-pro: "Ling takes the battle on cleaner rebuttals, tighter pacing,\
+    \ and more consistent tech-versus-stone imagery. Its second round directly flips\
+    \ Granite\u2019s \u201Cfour-ton,\u201D \u201Cprotons,\u201D \u201Cset thee free,\u201D\
+    \ and \u201Ccolossus\u201D claims into targeted punches. Granite shows energy\
+    \ and persistence, but too many bars are awkward or unclear\u2014such as \u201C\
+    sharp as a sleek blade\u2019s keel,\u201D \u201Cnever ask for bash,\u201D and\
+    \ \u201Cthe loser, the clear\u201D\u2014and its repeated self-coronation substitutes\
+    \ for fresh wordplay. Neither finale is especially strong, but Ling\u2019s overall\
+    \ attack is more focused and cohesive."
+  x-ai/grok-4.5: "Ling takes this with superior artistic execution: tighter multisyllabic\
+    \ schemes, cleaner internal rhymes, sharper tech-infused wordplay, and a cohesive\
+    \ precision theme that lands every punch without filler. Granite brought volume\
+    \ and energy but relied on looser end-rhymes, repetitive boasts, and forced archaic\
+    \ flexes that diluted the flow. In pure hip-hop craft\u2014cadence, metaphor density,\
+    \ and dissection\u2014Ling's bars cut cleaner and endure longer. Flash wins."
 score:
-  microsoft/wizardlm-2-8x22b: 2
-  mistralai/mistral-small-3.2-24b-instruct: 3
+  inclusionai/ling-2.6-flash: 5
 

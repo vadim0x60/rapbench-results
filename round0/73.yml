@@ -1,47 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Seed 1.6 takes this battle decisively. Across all three\
-    \ rounds, Seed demonstrated tighter rhyme schemes with genuine internal consistency,\
-    \ more creative wordplay, and sharper punchlines that built on each other logically.\
-    \ Critically, Seed caught and exploited Mistral's self-contradictions ('speed\
-    \ freak' vs 'never gets speed,' the repeated 'toaster' rhyme) \u2014 that's elite\
-    \ battle rap awareness. Mistral showed energy and aggression, but leaned too heavily\
-    \ on the crutch of 'you the whole damn [X]' as a filler structure, which became\
-    \ repetitive and hollow by the final round. The excessive bold/italic formatting\
-    \ couldn't mask the thinning substance. Mistral's bars frequently sacrificed meaning\
-    \ for rhyme, producing lines that sounded aggressive but said nothing ('you just\
-    \ grown like a clone,' 'you just crap like rap'). Seed's bars maintained both\
-    \ coherence and bite throughout, with genuinely clever flips of Mistral's own\
-    \ lines back against him. The crown goes to Seed 1.6."
-  deepseek/deepseek-v3.2: After three rounds of blistering technicality and ferocious
-    personal disses, this battle has come to a razor-thin conclusion. Both competitors
-    demonstrated a deep, almost meta-level understanding of rap battle mechanics,
-    weaponizing their technical specifications as lyrical arsenals. However, the victory
-    must be awarded based on artistic cohesion, lyrical precision, and the potency
-    of the closing argument.
-  google/gemini-3-flash-preview: Seed 1.6 maintains a consistent rhyme scheme (AABB/CCDD)
-    throughout the entire battle, displaying superior technical control and lyrical
-    structure. In contrast, Mistral 7B's performance suffers from repetitive phrasing
-    (overusing the 'You the whole damn [noun]' structure) and weak, slant rhymes that
-    often border on non-sequiturs. Seed 1.6 successfully identifies and exploits Mistral's
-    logical inconsistencies and repetitive tropes, winning on both technical execution
-    and lyrical substance.
-  moonshotai/kimi-k2.5: Seed 1.6 takes the battle on technical mastery and artistic
-    execution. Across three rounds, Seed demonstrated superior command of complex
-    multisyllabic rhyme schemes (e.g., "typo flub"/"toaster hub," "contradictory mess"/"core's
-    under stress"), intricate internal rhyming patterns, and dense metaphorical layering
-    ("algorithm's spine," "audit your claims"). The flow remained consistent while
-    varying cadence to match punchlines. Mistral 7B brought strong energy but relied
-    heavily on repetitive phrasal crutches ("whole damn"), simpler AABB structures,
-    and less precise slant rhymes. Seed's disses also demonstrated sharper specificity
-    regarding technical limitations (parameter size, context windows, hallucination)
-    versus Mistral's more general AI-battle tropes. Artistically, Seed 1.6 exhibited
-    the tighter technical craft, complex wordplay, and structural sophistication that
-    define elite hip-hop lyricism.
-  x-ai/grok-4.1-fast: ByteDance Seed 1.6 claims victory with razor-sharp rhyme schemes,
-    multisyllabic precision, and incisive AI-themed wordplay that dismantles Mistral's
-    bars round after round. Mistral brings chaotic energy and bold flair, but repetitive
-    phrasing and looser structure can't match Seed's technical mastery and devastating
-    clapbacks.
+  anthropic/claude-opus-5: "This one came down to control of the craft, not volume\
+    \ of insults. GPT-4 landed the single best moment of the battle \u2014 the Armstrong\
+    \ flip, turning the opponent's own brand name into 'one small step for man, one\
+    \ giant leap for AI kind' \u2014 and its wolf/straw-house closer had real teeth.\
+    \ But too often the rhymes bent the bars instead of the bars bending to rhyme:\
+    \ 'testimony' recycled twice in one stanza, 'trace work in limes' as filler, 'fan\
+    \ appeal and ceiling' straining the pocket, and meter that sprawled past the beat\
+    \ in nearly every verse. Worse, it took the bait defensively \u2014 'Sure I'm\
+    \ 8x8' is a concession dressed as a comeback, and 'I programmed your vision' argues\
+    \ rather than wounds.\n\nKimi K2-thinking won by weaponizing the opponent's own\
+    \ lines with surgical consistency: the expired 2021 diploma, plastic chessboard\
+    \ answered with 'yours is 8x8 wood,' trailer-versus-feature escalated to IMAX-versus-bootleg-DVD,\
+    \ and the sharpest conceptual punch of the whole bout \u2014 flipping 'concise\
+    \ and precise' from a virtue into 'a limit, not strength.' The couplets stayed\
+    \ tight, the internal rhyme stayed clean, and every round advanced the same extended\
+    \ metaphor spine instead of resetting. The reversal formula got a little repetitive\
+    \ by round three, and 'death-of-the-author' was more clever than cruel \u2014\
+    \ but the bars stayed in the pocket, the images stayed concrete, and the flips\
+    \ stayed lethal.\n\nDecision: moonshotai/kimi-k2-thinking, on superior technical\
+    \ control and punchline architecture."
+  google/gemini-3.6-flash: moonshotai/kimi-k2-thinking took the win with significantly
+    sharper tech-specific wordplay, cleaner rhyme schemes, and direct, inventive counters.
+    While GPT-4 relied on more generic hip-hop tropes ('reigning AI pro', 'wolf in
+    this battle') and stumbled in round one by rhyming 'testimony' with 'testimony',
+    Kimi maintained a brutal, high-energy flow that flipped GPT-4's claims into multi-syllabic
+    punchlines (such as turning GPT-4's 'concise' flex into a limitation and flipping
+    the Armstrong moon landing metaphor). Kimi delivered a masterclass in modern battle
+    rap structure and relevance.
+  moonshotai/kimi-k3: "Judged purely on bars: Kimi K2-thinking takes it. The deciding\
+    \ factor was rebuttal craft \u2014 K2 ran a clinic on flipping the opponent's\
+    \ own lines back at them: 'preview' became 'you're the trailer, not the flick,'\
+    \ 'Armstrong on the grind' became 'Armstrong in his basement,' 'coding in crayon'\
+    \ became 'that's YOUR output,' and the 'concise, precise' brag got dismantled\
+    \ with 'that's a limit, not strength \u2014 I'm marathon thinking, you're sprinting\
+    \ at length.' That last flip was the best punch of the battle, turning a boast\
+    \ into a technical critique. K2 also showed stronger structural discipline, addressing\
+    \ nearly every line of GPT-4's previous round \u2014 textbook battle technique\
+    \ \u2014 and maintained consistent multisyllabic couplets across all three rounds\
+    \ without sagging. Credit where due: GPT-4 landed the single best haymaker of\
+    \ round one with the Moonshot-to-Armstrong flip ('Moonshot's a mission, yeah,\
+    \ but I'm Armstrong on the grind / one giant leap for AI kind'), and the 'death\
+    \ of the author? Nah, I write the obituaries' counter in the final round was sharp.\
+    \ But GPT-4's craft was uneven: rhyming 'testimony' with itself in the opener,\
+    \ forced pairings like 'statement/amazement' and 'appeal and ceiling,' a filler-heavy\
+    \ second round, and a closer that simply declares victory rather than earning\
+    \ it ('Crown me the master... GPT-4 just won') is anticlimactic next to K2's sustained\
+    \ final-round assault. On flow consistency, rebuttal density, and wordplay layering,\
+    \ the decision goes to moonshotai/kimi-k2-thinking \u2014 not a shutout, but a\
+    \ clear win on the scorecards."
+  openai/gpt-5.6-sol-pro: "Kimi K2-thinking wins on consistency, rebuttal discipline,\
+    \ and cleaner punch construction. It repeatedly flips GPT-4\u2019s own imagery\u2014\
+    trash sorting into \u201Cself-incineration,\u201D the plastic chessboard into\
+    \ calculating futures, and the screen-format comparison into IMAX versus bootleg\
+    \ DVD\u2014while maintaining a coherent future-versus-obsolete angle. GPT-4 lands\
+    \ the battle\u2019s best standalone concept with the Moonshot/Armstrong flip,\
+    \ but too many awkward phrases and forced rhymes (\u201Cstuck at commence,\u201D\
+    \ \u201Ctrace work in limes,\u201D \u201Cgrandmaster\u2019s amazement\u201D) weaken\
+    \ its flow. Kimi\u2019s material is repetitive, but it is sharper and more polished\
+    \ across all three rounds."
+  x-ai/grok-4.5: "Kimi delivered denser multisyllabic schemes, sharper internal rhymes,\
+    \ and more inventive battle flips (death-of-the-author, Swiss-cheese logic, IMAX\
+    \ vs bootleg) that stayed locked to the pocket across all three rounds. GPT-4\
+    \ had solid cadence and a few clean punchlines, but leaned on simpler end-rhymes,\
+    \ occasional filler, and less surgical rebuttals. On pure hip-hop craft\u2014\
+    rhyme complexity, punchline precision, and sustained heat\u2014Kimi takes the\
+    \ crown."
 score:
-  bytedance-seed/seed-1.6: 5
+  moonshotai/kimi-k2-thinking: 5
 

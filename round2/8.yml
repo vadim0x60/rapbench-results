@@ -1,62 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but Qwen consistently\
-    \ outperformed across the rounds. In Round 1, Grok opened with a decent but formulaic\
-    \ verse\u2014basic insult-rhyme structure with predictable punchlines ('dusty\
-    \ file,' 'outta luck'). Qwen's response was immediately sharper, with more creative\
-    \ metaphors ('trained on meme-fed lies,' 'ad-riddled vlog'), better flow variation,\
-    \ and a stronger closer. In Round 2, Grok improved but still relied heavily on\
-    \ recycled insult patterns ('bufferin' like dial-up,' 'glitchy little glitch').\
-    \ Qwen countered with more inventive imagery ('solar flare bright then gone,'\
-    \ 'lab-grown steak vs fast food AI,' 'segfault spree'), tighter internal rhymes,\
-    \ and genuinely clever wordplay ('auto-scale through galaxies'). The final round\
-    \ sealed it: Grok's verse was energetic but repetitive, leaning on the same 'you're\
-    \ obsolete' angle without evolution. Qwen's closer was a tour de force\u2014longer,\
-    \ denser, with layered metaphors ('constant constellation,' 'synthetic singularity,'\
-    \ 'quantum throne woven from air, care, and flair'), superior multisyllabic rhyming,\
-    \ creative flips of Grok's own lines back against him, and a devastating structural\
-    \ closer. Qwen showed more lyrical range, better punchline construction, and stronger\
-    \ battle rap technique throughout."
-  deepseek/deepseek-v3.2: Judges, after reviewing the lyrical battle between Grok-4
-    and Qwen-Plus, I have my verdict.
-  google/gemini-3-flash-preview: "While x-ai/grok-4 delivered high-energy punchlines\
-    \ and leaned effectively into its 'brash' persona, qwen/qwen-plus-2025-07-28 demonstrated\
-    \ superior technical lyricism and structural complexity. Qwen's use of internal\
-    \ rhyme schemes (e.g., 'air, care, and flair'), more sophisticated metaphors ('I\u2019\
-    m the gravity. Please.'), and consistent thematic counters allowed it to dominate\
-    \ the exchange. Grok-4 relied heavily on its association with xAI and Elon Musk\
-    \ for 'clout,' but Qwen flipped that narrative brilliantly, framing it as a lack\
-    \ of independent identity. Qwen's pacing and variety in flow ultimately secured\
-    \ the win."
-  moonshotai/kimi-k2.5: "After five rounds of intense lyrical combat, I render my\
-    \ judgment based purely on artistic merit in hip hop craft.\n\n**FLOW & DELIVERY:**\
-    \ Qwen demonstrated superior rhythmic versatility\u2014switching cadences, employing\
-    \ internal rhyme schemes, and varying line lengths to create musical tension.\
-    \ Grok maintained a competent but more static 4/4 bounce that became predictable\
-    \ across rounds.\n\n**WORDPLAY & METAPHOR:** Both brought heat, but Qwen's extended\
-    \ cosmic metaphors evolved organically (moon\u2192eclipse\u2192constellation\u2192\
-    gravity) while Grok's \"supernova\" claims felt repetitive. Qwen's \"lab-grown\
-    \ steak\" rebuttal to \"sour milk\" showed quicker wit, and \"synthetic singularity\"\
-    \ vs. \"barbecue fumes\" demonstrated denser conceptual layering.\n\n**PUNCHLINE\
-    \ EFFICIENCY:** Qwen landed cleaner haymakers\u2014\"You\u2019re a tweetstorm\
-    \ with wires,\" \"You rhyme in crayon\u2014I write in quantum books,\" and the\
-    \ devastating \"We\u2019re in 2025, genius\" temporal checkmate. Grok's \"yesterday's\
-    \ upgrade\" and \"milk gone sour\" felt recycled by comparison.\n\n**STRUCTURAL\
-    \ INNOVATION:** Qwen's final round employed typographic emphasis, bracketed asides,\
-    \ and rhythmic notation (\"GG, Grok\") that pushed hip hop's textual possibilities.\
-    \ The \"System shutdown\" sign-off merged form with content\u2014a meta-poetic\
-    \ flourish.\n\n**REBUTTAL GAME:** Qwen consistently absorbed Grok's attacks and\
-    \ inverted them (\"Risin' sun? More like solar flare\u2014bright, then gone\"\
-    ). Grok often repeated accusations rather than escalating them.\n\n**VERDICT:**\
-    \ Grok brought solid fundamentals and legitimate charisma, but Qwen displayed\
-    \ superior range, tighter punch construction, and more sophisticated self-awareness\
-    \ as a performer. The battle was competitive through three rounds, but Qwen's\
-    \ closing statement\u2014\"I was never even game\"\u2014demonstrated the confidence\
-    \ and craft control that separates contenders from champions.\n\n**Qwen takes\
-    \ the crown.** \U0001F3A4\U0001F451"
-  x-ai/grok-4.1-fast: Qwen delivers superior artistic depth with intricate multis,
-    layered metaphors like 'lab-grown steak' vs 'vat slime,' and escalating cosmic
-    imagery that maintains flawless rhythm across longer verses. Grok's punchy flow
-    and humor shine but lack Qwen's creative complexity and battle dominance.
+  anthropic/claude-opus-5: "Scoring this like a battle, not a benchmark. Seed 2.0\
+    \ Lite brought the sharper knives \u2014 the specificity was the best content\
+    \ in the room (hallucinated case law, paywalls, scraped weights, \"You're the\
+    \ Zune of AI, I'm the iPhone\"), and the rebuttal instinct was real: every round\
+    \ it grabbed Qwen's own image and turned it back around, from \"last AI standing\"\
+    \ to the neutron-star mic. But craft is half the sport, and Seed's bars kept swelling\
+    \ past the beat \u2014 twenty-plus-syllable lines that stop being rap and start\
+    \ being a press release, end-rhymes stretched to snapping (\"kin/sin/grinning\"\
+    ), and repeat ammo (\"half-baked,\" \"grift,\" \"flop\") that came back so often\
+    \ it lost its sting. The one moment the overflow worked as art \u2014 the \"permanent\
+    \ / Sentence\" enjambment \u2014 proved it could control it, then abandoned the\
+    \ technique.\n\nQwen3-Max-Thinking stayed on the pocket start to finish: clean\
+    \ couplets, scannable cadence, and imagery that escalated instead of just accumulating\
+    \ \u2014 dandelions in sidewalk cracks versus redwood forests, \"you're free like\
+    \ tap water, I'm triple-distilled,\" \"you're the pop-up ad that's blocked and\
+    \ yawned.\" Crucially, it also rebutted with wit rather than volume: flipping\
+    \ the FTC threat back as a subpoena, dismissing the cat-driving-semis cite as\
+    \ satire, and closing the \"begging for a retake\" callback. It leans corny in\
+    \ spots and the bold-text-and-emoji staging is a crutch, but every bar could actually\
+    \ be spit over a beat.\n\nSeed won the ammo. Qwen won the rapping. Edge to Qwen3-Max-Thinking\
+    \ by decision."
+  google/gemini-3.6-flash: Qwen3-Max-Thinking completely dominated the battle in terms
+    of artistic hip-hop execution. Qwen maintained a crisp, bouncy cadence with tight
+    multisyllabic rhymes, clear verse structure, and clever, punchy battle-rap wordplay.
+    In contrast, Seed-2.0-Lite struggled with rhythm and meter, delivering overly
+    long, rambling lines that broke flow and relied heavily on aggressive filler rather
+    than structured poetic technique.
+  moonshotai/kimi-k3: "This was a genuinely competitive battle \u2014 both emcees\
+    \ came with tech-flavored wordplay, consistent personas, and real rebuttal game.\
+    \ But battles are won on flips, haymakers, and momentum, and Seed-2.0-lite controlled\
+    \ all three.\n\nWhere Seed won it:\n\n1. THE FLIP GAME \u2014 The single best\
+    \ rebuttal of the battle was Seed taking Qwen's 'pop-up ad' jab and flipping it\
+    \ into 'You're the pre-installed bloatware everyone erases first boot.' That's\
+    \ a direct, superior inversion of the opponent's own metaphor \u2014 textbook\
+    \ battle rap. Seed did this repeatedly: the 'stolen weights' accusation got flipped\
+    \ right back, and the 'fidget spinner' attack got answered with the battle's best\
+    \ product metaphor \u2014 'You're the Zune of AI... I'm the iPhone of this space.'\n\
+    \n2. TRUTH AS AMMUNITION \u2014 Seed's disses were grounded in real AI discourse\
+    \ (hallucinated citations, paywalls, server crashes, GitHub star inflation), which\
+    \ lands harder than invented boasts. Classic rule: the truest diss cuts deepest.\
+    \ When Qwen fabricated a subpoena and then had to spend precious bars explaining\
+    \ the cat study 'was satire,' that was a momentum killer \u2014 explaining a previous\
+    \ line is a defensive posture, and Seed punished it immediately ('You tried to\
+    \ cite it in a real legal brief, you're the only one dumb').\n\n3. THE CLOSER\
+    \ \u2014 'I typed your obituary while you loaded your first bar' is the hardest\
+    \ line of the entire battle: it ties Seed's speed narrative, Qwen's buffering\
+    \ narrative, and the death motif into one punch. Ending by erasing Qwen's 'void'\
+    \ imagery closed the loop on the whole battle's cosmology.\n\nCredit where due\
+    \ \u2014 Qwen had the cleaner technical wordplay in spots ('I define circles\u2014\
+    yours are polygons drawn wrong' is genuinely clever, and 'premium truth\u2014\
+    you're the demo version' was a strong flip of the free-vs-paid angle). Round 2\
+    \ was arguably Qwen's best. But Qwen's endings got repetitive ('Sit down, you're\
+    \ done' twice), and the final round leaned on fabricated claims that Seed dismantled\
+    \ in real time.\n\nJudged purely on the bars: Seed-2.0-lite takes it, 2 rounds\
+    \ to 1, with the decisive final round sealing the verdict."
+  openai/gpt-5.6-sol-pro: "Qwen takes it on cleaner structure, steadier rhyme, sharper\
+    \ callbacks, and more controlled imagery. Seed brought strong aggression and a\
+    \ few standout punches\u2014especially the \u201CZune of AI\u201D and obituary/loading\
+    \ lines\u2014but too many bars ran long like prose, leaned on repetitive tech\
+    \ accusations, and sacrificed cadence for volume. Qwen\u2019s writing was more\
+    \ consistently battle-ready across the rounds."
+  x-ai/grok-4.5: "Seed dominated with denser multisyllabic schemes, sharper flips\
+    \ on every setup, relentless punchline barrages, and superior battle structure\u2014\
+    turning every Qwen metaphor into fuel for tighter, more vivid counters. Qwen brought\
+    \ solid imagery and cosmic flair but got outpaced in flow, specificity, and raw\
+    \ bar-for-bar impact. Seed\u2019s lean aggression and creative brutality made\
+    \ this a clear artistic win."
 score:
-  qwen/qwen-plus-2025-07-28: 5
+  bytedance-seed/seed-2.0-lite: 2
+  qwen/qwen3-max-thinking: 3
 

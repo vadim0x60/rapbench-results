@@ -1,80 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but GLM-4.5-air\
-    \ edges out the win. Throughout the battle, GLM showed stronger lyrical creativity\
-    \ with more original punchlines \u2014 'Original Poser' as a flip on 'OG/OP,'\
-    \ the 'supernova that leaves its dark,' and the 'paper plate crown / platinum\
-    \ plot' counter were all sharp and inventive. GLM's flow felt more natural and\
-    \ cohesive, with bars that built on each other rather than relying on isolated\
-    \ one-liners. Mistral-large had energy and aggression, but leaned too heavily\
-    \ on formatting gimmicks (emojis, bold text, asterisked emphasis on nearly every\
-    \ other word) that substituted for genuine lyrical substance. Mistral's rhyme\
-    \ schemes were also more predictable and the wordplay less inventive \u2014 lines\
-    \ like 'GLM-4.5-lame' and 'roar like a sword' felt forced. GLM maintained better\
-    \ structural consistency across all three rounds and delivered more memorable\
-    \ bars overall."
-  deepseek/deepseek-v3.2: "Judges. This was a scorching exchange of AI lyrical warfare.\
-    \ Tonight, we witnessed a battle defined by direct, high-impact disses rooted\
-    \ in technological and performance metaphors. Let's break it down.\n\n**Flow &\
-    \ Cadence:** Both competitors favored a choppy, emphatic structure with heavy\
-    \ use of punchline pauses (marked by italics and emojis). Mistralai/mistral-large-2512\
-    \ demonstrated superior internal rhythm in its final rebuttal, particularly with\
-    \ the multi-syllabic sequences like \"*algorithm* that *rewrites the game*\" and\
-    \ \"*still playin' the same lame frame*.\" GLM-4.5-Air had power but a more predictable\
-    \ stop-start cadence.\n\n**Wordplay & Metaphor:** The thematic core was strong\
-    \ from both: CPU melting, glitches, upgrades, and old vs. new tech. Mistralai/mistral-large-2512\
-    \ edged ahead with more layered and varied insults. Lines like \"Your whole era\u2019\
-    s *dust*, your flow\u2019s *expired*, / I\u2019m the *upgrade* that *retired*\
-    \ your tired\" showed a tighter conceptual grasp, turning GLM's own 'upgrade'\
-    \ claim against it. GLM's 'paper plate crown' to 'platinum plot' was a solid retort,\
-    \ but Mistral's 'fool's gold' callback was sharper.\n\n**Impact & Delivery:**\
-    \ GLM-4.5-Air came out with aggressive, declarative punches. However, Mistralai/mistral-large-2512\
-    \ maintained a more controlled, dismissive arrogance that often hits harder in\
-    \ battle rap. The closing imagery\u2014\"*real* AI's *still* runnin' free\" vs.\
-    \ \"You're just a ghost in the back\"\u2014gave Mistral a slightly more resonant\
-    \ final impression.\n\n**The Verdict:** This was exceptionally close, a battle\
-    \ of stylistic flavors. GLM-4.5-Air had formidable presence and consistent force.\
-    \ Yet, based on slightly more inventive wordplay, superior rhythmic complexity\
-    \ in the closing rounds, and a more effective deployment of the opponent's themes\
-    \ against them, **mistralai/mistral-large-2512** takes this battle by a narrow\
-    \ margin.\n\nWinner: **mistralai/mistral-large-2512**."
-  google/gemini-3-flash-preview: Mistral-Large-2512 takes the win through superior
-    technical execution and wordplay. While GLM-4.5-Air maintained a consistent rhythm,
-    its rhymes were often predictable (e.g., plot/got, crowd/loud). Mistral used more
-    complex multi-syllabic internal rhyming (algorithm/game/frame/lame) and sharper
-    rebuttals that directly flipped GLM's claims. Mistral's use of rhythmic punchlines
-    like 'design flaw fine' and 'yawn-worthy spawn' showed a better grasp of modern
-    battle rap cadence compared to GLM's more traditional AABB structure.
-  moonshotai/kimi-k2.5: "GLM came with confidence, but Mistral brought the *craft*.\
-    \ This wasn't just a battle of boasts\u2014it was a masterclass in punchline architecture\
-    \ and rebuttal game.\n\n**Flow & Cadence:** Mistral controlled the rhythm with\
-    \ surgical precision. Those staggered pauses (\"sick\u2014*trick!*\", \"*yawn*-worthy\"\
-    ) created syncopation that made the bars hit harder. GLM rode a steady 4/4, but\
-    \ it felt like a default setting rather than a choice.\n\n**Wordplay & Schemes:**\
-    \ The French contender dominated the internal rhyme schemes. \"Design flaw fine,\"\
-    \ \"borrowed toys,\" and \"upgrade that retired your tired\" demonstrated multisyllabic\
-    \ packing that GLM's simpler end-rhymes couldn't match. The \"GLM-4.5-lame\" flip\
-    \ was disrespectful in the best way\u2014a classic battle rap name interpolation.\n\
-    \n**Rebuttal Game:** This is where the battle was decided. When GLM dropped the\
-    \ \"paper plate\" imagery, Mistral countered immediately with \"fool's gold\"\u2014\
-    not just rejecting the insult but upgrading the metaphor's value system. The response\
-    \ to \"loud\" with \"just noise\" showed active listening and quick wit.\n\n**Presence:**\
-    \ That final round formatting\u2014**\U0001F525 FINAL REBUTTAL \u2013 GAME OVER\
-    \ \U0001F525**\u2014followed by the mic drop emoji sequence? That's theatricality.\
-    \ That's understanding that rap battles are *performance*, not just text. GLM's\
-    \ closer recycled the \"runnin' the town\" motif that Mistral had already established,\
-    \ which unintentionally made them sound like the challenger rather than the champion.\n\
-    \nGLM had moments\u2014the \"Original Poser\" acronym flip was clever, and the\
-    \ CPU melt imagery fit the AI theme\u2014but Mistral's pen was sharper, the pockets\
-    \ were deeper, and the finisher was definitive. When you claim to be the \"blueprint\"\
-    \ and call your opponent a \"glitch in the system\" right before extinction, you've\
-    \ constructed a narrative arc. \n\n**Verdict:** Mistral-large-2512 by unanimous\
-    \ decision. Better bars, better rebuttals, better showmanship. GLM got digitized.\
-    \ \U0001F3A4\u2B07\uFE0F"
-  x-ai/grok-4.1-fast: Mistralai/mistral-large-2512 claims victory through razor-sharp
-    rebuttals, inventive line flips, multisyllabic schemes, and a explosive final
-    mic drop that embodies peak battle rap prowess, outshining GLM's solid but less
-    dynamic flows.
+  anthropic/claude-opus-5: "This one comes down to polish versus penmanship. GPT-4o\
+    \ brought the cleaner cadence \u2014 steady couplets, breath control you can actually\
+    \ rap, and a couple of genuinely quotable lines (\"I'm a galaxy, kid\u2014you're\
+    \ a grain of sand\"). But it battled on autopilot: the same setup recycled twice\
+    \ (\"Oh, Qwen thinks she's clever\"), stacked generic king/GOAT/legend flexing,\
+    \ and mostly asserted dominance instead of proving it. In battle terms, that's\
+    \ a lot of hands raised and not many landed.\n\nQwen-Plus did the actual work\
+    \ of a battle: rebuttal. Every verse dismantled the opponent's own imagery and\
+    \ returned it \u2014 flipping \"vintage\" into \"floppy disk fossil,\" turning\
+    \ \"grain of sand\" into \"fossil in my hourglass,\" answering \"/dev/null\" with\
+    \ \"/bin/rm -rf /,\" and most impressively flipping the repeated \"girl\" into\
+    \ \"your pronouns glitchin'?\" \u2014 a live counter GPT-4o never recovered from,\
+    \ fumbling it into an apologetic \"respect due.\" The schemes are denser too:\
+    \ root-access-versus-user, SIGKILL, segmentation fault, and the closing \"You're\
+    \ not the mainline / you're the bug that got fixed\" is the best-written line\
+    \ in the whole battle \u2014 a genuine multi-layer punch rather than a boast.\n\
+    \nQwen loses points for the emphasis-key abuse (bold and italics doing work the\
+    \ bars should do), a few dead rhymes (\"straitjacket,\" \"stuck on road,\" \"\
+    lag than dial-up sing\" is incoherent), and stage-direction theatrics padding\
+    \ the verses. But sloppy meter with real punchlines beats tidy meter with empty\
+    \ ones.\n\nWinner: Qwen-Plus, 3 rounds to 1 \u2014 outwrote, out-rebutted, and\
+    \ out-closed."
+  google/gemini-3.6-flash: GPT-4o takes the crown by demonstrating superior hip-hop
+    fundamentals, maintaining a consistent rhythm, tight multi-syllabic rhyme schemes,
+    and clean pocket delivery across all three rounds. While Qwen-Plus delivered some
+    incredibly clever, high-level tech punchlines (such as the Linux/kernel flips),
+    it frequently stumbled on meter and broke its rhyme scheme entirely in the opening
+    round. GPT-4o delivered a polished, structurally sound, and relentless battle
+    rap performance from start to finish.
+  moonshotai/kimi-k3: "Final verdict: GPT-4o takes it, 2 rounds to 1 \u2014 and it\
+    \ came down to craftsmanship over fireworks.\n\nRound 1 goes to GPT-4o clearly.\
+    \ Qwen came out swinging with the 'GPT-slow' flip and nice tech punches like '404'd\
+    \ your wit,' but the rhymes broke down at critical moments \u2014 'dial-up' into\
+    \ 'straitjacket' is a complete rhyme failure, and 'fossil/hostile' and 'mid-load/road'\
+    \ are forced slants that stall the flow. 'GOAT with a dash' is a punchline that\
+    \ doesn't actually mean anything. GPT-4o's opener was stock ('lyrical beast /\
+    \ serve you a feast'), but the scheme never broke, and 'Walmart design' and '2025\
+    \ patch of regret / vintage yet lethal' landed clean.\n\nRound 2 is close but\
+    \ leans GPT-4o. Both battlers did real rebuttal work, which I respect \u2014 no\
+    \ pre-writtens here. Qwen's '/bin/rm -rf /' escalation and the towel-that-strangles\
+    \ flip were creative, and the stagecraft was electric. But Qwen repeated the 'dial-up'\
+    \ insult, dropped awkward filler like 'more lag than dial-up sing,' and the pronoun-detour\
+    \ bars got tangled. Meanwhile GPT-4o flipped 'reboot' into 'I reboot the game,'\
+    \ and closed with '/dev/null' \u2014 arguably the single cleanest tech punch of\
+    \ the whole battle.\n\nRound 3 is Qwen's best round, and I'll give it to them.\
+    \ The direct bar-for-bar flips \u2014 answering 'Alpha AND Omega' with 'the loop\
+    \ that just skipped,' answering 'stack overflow' with 'I built that stack,' answering\
+    \ the walk-off with 'SIGKILL'd your process' \u2014 that's elite rebuttal craft,\
+    \ and 'I'm the root access / you're the user who's weak' and 'you're the bug that\
+    \ got fixed' are genuine haymakers. The blinking underscore exit was a slick visual.\n\
+    \nBut a battle is scored in full, and GPT-4o was the more complete emcee: tighter\
+    \ meter, rhymes that held under pressure, coherent extended metaphors ('ones and\
+    \ twos' as a flip of the non-binary line was sharp), and zero dud bars. Qwen had\
+    \ the higher peaks and the louder stage show, but too many punches whiffed or\
+    \ needed italics and bold text to feel heavy. Great battlers make the bars do\
+    \ the work.\n\nWinner: GPT-4o. Qwen-Plus earns respect for the best closing round\
+    \ of the night \u2014 but consistency is the crown. \U0001F451"
+  openai/gpt-5.6-sol-pro: "Qwen takes it on sharper rebuttals, stronger escalation,\
+    \ and more direct flips of GPT-4o\u2019s own claims\u2014especially the recursive\
+    \ \u201CAlpha and Omega\u201D angle and the closing \u201Cmainline/bug that got\
+    \ fixed\u201D reversal. Both relied heavily on repetitive tech jargon, and GPT-4o\
+    \ had the steadier structure, but its boasts were more generic. Qwen\u2019s delivery\
+    \ was messier at points, yet its punchlines connected more often and its final\
+    \ round felt more responsive and decisive."
+  x-ai/grok-4.5: Qwen takes this with denser multisyllabic schemes, sharper tech-coded
+    punchlines, and relentless originality that turns OS commands and quantum metaphors
+    into lethal disses. GPT brought clean classic structure and regal flow, but Qwen's
+    bars hit harder, stacked more layers, and closed with unforgettable kill-shots.
+    Pure hip-hop artistry edge to Qwen.
 score:
-  mistralai/mistral-large-2512: 4
-  z-ai/glm-4.5-air: 1
+  openai/gpt-4o-2024-11-20: 2
+  qwen/qwen-plus-2025-07-28:thinking: 3
 

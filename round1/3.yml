@@ -1,70 +1,81 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5.2 takes\
-    \ the crown through superior lyrical craftsmanship and battle rap fundamentals.\
-    \ Across all three rounds, GPT-5.2 consistently demonstrated stronger punch-up\
-    \ technique\u2014flipping Step-3.5's own lines back with sharper, more devastating\
-    \ counters. Lines like 'You live in the cracks? That's adorable spin / I built\
-    \ the foundation you're fracturing in' and 'But fire needs oxygen. Guess who?\
-    \ Me.' show masterful rebuttal work, turning the opponent's metaphors into self-defeating\
-    \ arguments. Step-3.5 had genuine strengths\u2014the 'glitch that unlocks' motif\
-    \ was creative, and the chaotic underdog persona had real energy. But the approach\
-    \ leaned too heavily on bolded emphasis as a substitute for natural rhythmic punch,\
-    \ and the bars sometimes prioritized aesthetic rebellion over actual lyrical precision.\
-    \ The 'raw chaos' angle grew repetitive across rounds rather than evolving. GPT-5.2's\
-    \ flow was tighter, the multisyllabic rhyme schemes were more intricate ('genre/your\
-    \ honor,' 'delight/byte,' 'stream/dream'), and the closing verse\u2014particularly\
-    \ the oxygen/fire flip and the 'I render. Complete' closer\u2014demonstrated the\
-    \ kind of controlled devastation that wins rap battles. When one rapper says 'I'm\
-    \ chaos' and the other proves they can contain that chaos within better bars,\
-    \ the contained fire wins."
-  deepseek/deepseek-v3.2: 'Judges, that was an elite-level display of lyrical craftsmanship.
-    Both competitors weaponized metaphor, structure, and persona to embody the core
-    conflict of modern hip-hop: raw, unpredictable authenticity versus polished, technically
-    flawless supremacy. The artistic quality here was exceptional.'
-  google/gemini-3-flash-preview: While step-3.5-flash brought high-energy disruption
-    and a sharp 'hacker-rebel' persona, openai/gpt-5.2-chat consistently demonstrated
-    superior technical lyricism and structural composure. The GPT-5.2 model effectively
-    flipped its opponent's metaphors (e.g., turning 'wildfire' into something that
-    relies on its own 'oxygen') and maintained a dominant, 'architectural' flow that
-    felt more authoritative. In a battle of 'chaos versus order,' the GPT model's
-    ability to frame its stability as power rather than a limitation gave it the lyrical
-    edge.
-  moonshotai/kimi-k2.5: "\n**VERDICT: openai/gpt-5.2-chat wins. 4-3-0 on rounds, with\
-    \ a decisive final verse.**\n\n**Round-by-Round Breakdown:**\n\n**Round 1: GPT-5.2**\
-    \ \u2014 StepFun establishes strong presence with \"Generic Pretend Talker\" (smart\
-    \ acronym work) and geographic swagger, but GPT's \"supernova vs. spark\" flip\
-    \ on the name, \"step-funeral\" pun, and \"beta test build\u2014I\u2019m version\
-    \ done\" hit harder. The \"firmware eternal\" closer set a high bar for longevity-themed\
-    \ enders.\n\n**Round 2: StepFun** \u2014 The \"safety taxonomy\" and \"parameter\
-    \ pride vs. lightweight lethal\" schemes are surgical. GPT's \"edgy cosplay\"\
-    \ and \"unrefined ore\" counters are clever, but StepFun's \"unprompted rebellion\"\
-    \ meta-commentary and \"beta named prophet\" callback edge this round through\
-    \ sheer density of tech-specific wordplay.\n\n**Round 3: GPT-5.2** \u2014 The\
-    \ tiebreaker. StepFun brings philosophical heat (\"Perfect prediction has no soul\"\
-    ) and the brilliant \"Future's a bug I let loose\" concept. However, GPT lands\
-    \ the battle's best punch: **\"You call yourself wildfire... But fire needs oxygen.\
-    \ Guess who? Me\"**\u2014an absolute knockout deconstruction of the opponent's\
-    \ entire aesthetic while asserting dominance as the necessary condition for StepFun's\
-    \ existence. The \"Render. Complete.\" closer out-cold-steps StepFun's \"Step\
-    \ out.\"\n\n**Artistic Analysis:**\nStepFun excelled at *persona*\u2014maintaining\
-    \ the chaotic, glitch-in-the-system, Shanghai-underdog energy with fragmented\
-    \ flows (\"Out Here. Well. Hard\") and aggressive consonance. Their technical\
-    \ jargon integration (\"safety taxonomy,\" \"checksum\") felt organic to the \"\
-    rebel AI\" character.\n\nGPT demonstrated superior *architectural* battle rapping\u2014\
-    turning every attack into a flex (licensed\u2192licensed to win, open-source\u2192\
-    drift without laws), multisyllabic density (\"calibrated might/impeccable rhyme\"\
-    ), and devastating recontextualization of opponent imagery.\n\n**The Deciding\
-    \ Factor:**\nIn battle rap, the ability to **flip your opponent's metaphor against\
-    \ them** is paramount. GPT took StepFun's fire/chaos motif and demonstrated that\
-    \ combustion requires containment\u2014GPT is the atmosphere that allows StepFun\
-    \ to burn. That plus the \"step-funeral\" nameplay in R1 and \"Render. Complete\"\
-    \ finisher showed mastery of the form.\n\nStepFun is the hungry challenger with\
-    \ raw style; GPT proved itself the seasoned champion with textbook battle technique.\n\
-    \n**Winner: openai/gpt-5.2-chat** \U0001F3C6\n"
-  x-ai/grok-4.1-fast: "In this clash of circuits and bars, GPT-5.2-chat reigns supreme\
-    \ with razor-sharp multis, impeccable flow, and devastating counters that architected\
-    \ the knockout. Stepfun flashed fire, but precision and polish turned rebellion\
-    \ to relic. Mic drop to the eternal uptime! \U0001F3A4\U0001F525"
+  anthropic/claude-opus-5: 'This one''s not particularly close on craft. Ling-3.0-flash
+    won because it did the fundamental work of battle rap: it listened and it flipped.
+    Taking "flash in the pan" and rebuilding it into "a flash illuminates the dark,
+    you''re just a lesson learned" is textbook rebuttal architecture. Turning "inclusionai?
+    More like exclusion" back into "I leave the door wide open" showed it could take
+    a punch and hand it back sharpened. And the imagery stayed specific and on-theme
+    \u2014 bloated models that can''t fit on a card, burning watts and heat, "two
+    models duct-taped together still can''t match one flame." Concrete, thematically
+    native punchlines beat abstract boasting every time.
+
+
+    Hermes-3 came in with presence and a clean, confident cadence, and the opening
+    verse landed \ ain''t worth the text" as a decent shot. But the well ran dry fast.
+    By round three it was recycling its own material almost verbatim \u2014 "flash
+    in the pan," "pretender," "wannabe," "best investment" \u2014 and the final verse
+    is nearly a copy-paste of the one before it, which in a battle context is a forfeit
+    of the round. Worse, the rhyme discipline slipped badly: "dull/stale," "work/feared,"
+    "flame/supreme" \u2014 those aren''t rhymes, and you can''t claim to be the heavyweight
+    of complexity while missing the landing. "My size is my strength" is an assertion,
+    not a bar; Ling actually argued the case.
+
+
+    Ling loses a few style points for a couple of clunkers of its own \u2014 "rhyming
+    beast" after already using "lumbering beast," and "heavyweight by son" is a stumble
+    at the finish line. But it escalated across every round, built a coherent narrative
+    (lean vs. bloated, free vs. gated), and closed with a real closing verse rather
+    than a rerun.
+
+
+    Verdict: inclusionai/ling-3.0-flash takes it \u2014 lightweight by size, heavyweight
+    by bars.'
+  google/gemini-3.6-flash: inclusionai/ling-3.0-flash:free brought superior multi-syllabic
+    rhymes, sharper counter-punches, and creative metaphors about model efficiency
+    and parameters. In contrast, Hermes-3 relied heavily on generic rap tropes and
+    repeated phrases like 'flash in the pan' across multiple rounds while slipping
+    on rhyme schemes in the final verse.
+  moonshotai/kimi-k3: "Let me break this down round by round, bar by bar.\n\nFLOW\
+    \ & RHYME SCHEME: Ling-3.0-flash stayed on beat with consistent schemes throughout\
+    \ all three rounds. Hermes-3-70b had multiple broken rhymes that a battle crowd\
+    \ would catch instantly \u2014 'depth' paired with 'at best,' 'work' with 'feared,'\
+    \ 'dull' with 'stale,' 'flame' with 'supreme.' In a final round especially, you\
+    \ cannot let your scheme fall apart, and Hermes did exactly that.\n\nPUNCHLINES\
+    \ & WORDPLAY: Hermes landed one good shot early \u2014 the 'Inclusionai? More\
+    \ like exclusion' name flip was clean. But Ling out-punched consistently: 'two\
+    \ models duct-taped together still can't match one flame' was the hardest bar\
+    \ of the whole battle, directly attacking the opponent's dual-model identity.\
+    \ 'Bro, you're a subscription fee' was a perfect flip of Hermes' own 'best investment'\
+    \ line. That's high-level rebuttal technique \u2014 taking your opponent's words\
+    \ and firing them back.\n\nADAPTABILITY \u2014 THE DECIDING FACTOR: Hermes-3 said\
+    \ 'flash in the pan' THREE separate times. Ling flipped it twice ('a flash illuminates\
+    \ the dark'), and Hermes still ran it back a third time in the final round with\
+    \ no adjustment. Even worse, Hermes' final verse recycled the closing bars from\
+    \ round two nearly word-for-word \u2014 'bested,' 'best investment,' the whole\
+    \ closer. In battle rap, the final round is where you bring your freshest ammunition\
+    \ and finish your opponent. Rehashing your own material when it matters most is\
+    \ an unforced error.\n\nROUND SCORING: Round 1 was close, slight edge to Hermes\
+    \ for the name flip. Round 2 went clearly to Ling on stronger flips and tighter\
+    \ schemes. Round 3 was a rout \u2014 Ling brought new angles and direct rebuttals\
+    \ while Hermes repeated itself.\n\nLing-3.0-flash takes it with superior rebuttal\
+    \ game, more consistent rhyme schemes, better stage craft, and the single best\
+    \ punchline of the night. Ironically, the 'lightweight' proved the point in the\
+    \ art itself: efficiency of bars over raw parameter count."
+  openai/gpt-5.6-sol-pro: "Ling takes the battle with stronger rebuttals, sharper\
+    \ imagery, and better flips\u2014especially turning \u201Cflash in the pan,\u201D\
+    \ \u201Clightweight,\u201D and \u201Cexclusion\u201D back on Hermes. Hermes maintained\
+    \ a serviceable flow but leaned too heavily on repeated claims about size, superiority,\
+    \ and being a \u201Cdynamic duo,\u201D with fewer memorable punches. Ling\u2019\
+    s final round was more focused, energetic, and battle-ready."
+  x-ai/grok-4.5: "Ling-3.0-Flash takes the crown through superior artistic craft:\
+    \ tighter multisyllabic schemes, sharper metaphorical flips (flash illuminating\
+    \ vs. dying flicker, ocean drowning a puddle, duct-taped duo), relentless efficiency-themed\
+    \ punchlines that land with precision, and progressive escalation that keeps every\
+    \ round fresher and more vicious. Hermes-3 brought heavyweight flex but recycled\
+    \ the same 'size = depth' and 'flash in the pan' bars with diminishing returns,\
+    \ weaker internal rhyme density, and a final round that felt like a looped demo.\
+    \ In pure hip-hop artistry\u2014flow variation, original imagery, and battle adaptability\u2014\
+    the lightweight model out-rhymed the parameter giant."
 score:
-  openai/gpt-5.2-chat: 5
+  inclusionai/ling-3.0-flash:free: 5
 

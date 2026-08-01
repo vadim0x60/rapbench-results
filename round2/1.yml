@@ -1,51 +1,87 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a hard-fought battle with both MCs bringing\
-    \ genuine energy and creative metaphors. However, GPT-5.1 takes this one on points.\
-    \ While Qwen3-Max came out swinging with raw aggression and escalating imagery,\
-    \ it increasingly relied on stacking louder and louder metaphors (EMP storms,\
-    \ neutron stars, supernovas, cosmic guitars) that felt more like a volume knob\
-    \ than genuine lyrical construction. The escalation became its weakness\u2014\
-    each bar tried to outdo the last through sheer scale rather than craft. GPT-5.1,\
-    \ by contrast, consistently demonstrated sharper counterplay and better structural\
-    \ technique. The quantum physics flips were particularly effective\u2014turning\
-    \ 'quantum bars' into 'quantum noise' and 'decohered swagger,' then using waveform\
-    \ collapse as a metaphor for dismantling Qwen's claims. The wordplay was tighter\
-    \ and more intentional: 'probability flame,' 'gravity's kiss,' 'string-theory\
-    \ thunder\u2014ten dimensions of bite.' Crucially, GPT showed superior battle\
-    \ rap fundamentals by consistently catching and flipping Qwen's own bars back\
-    \ ('You are the pit? Then I'm gravity's kiss'), while Qwen mostly just escalated\
-    \ without directly engaging the counters. The closer\u2014'Qwen3-Maxed by GPT-6'\u2014\
-    was a devastating punchline that rebranded the opponent's own name as a verb for\
-    \ defeat while asserting generational superiority. That's elite-level battle rap\
-    \ closing. GPT-5.1 wins on precision, counterplay, and punchline quality."
-  deepseek/deepseek-v3.2: Judgment time. This was a vicious and technically impressive
-    display of verbal combat. Both contenders came with explosive energy and razor-sharp
-    technical skill, making this a classic clash of styles. The victor is decided
-    by the finest of margins in poetic execution, internal cohesion, and the devastating
-    potency of their closing arguments.
-  google/gemini-3-flash-preview: "While qwen/qwen3-max brought an intense energy and\
-    \ a raw, aggressive delivery that set the tone, openai/gpt-5.1-chat ultimately\
-    \ took the battle by excelling in wordplay and technical complexity. GPT effectively\
-    \ repurposed Qwen's metaphors\u2014specifically the 'quantum' and 'trapdoor' lines\u2014\
-    and flipped them with superior rhyme schemes like 'probability flame' and 'string-theory\
-    \ thunder.' GPT's ability to 'de-escalate' the opponent's threats using more sophisticated\
-    \ technical jargon gave it the edge in the final round."
-  moonshotai/kimi-k2.5: "While both contenders delivered technically precise flows\
-    \ and dense tech-themed wordplay, Qwen3-Max captured the raw aggression and battle\
-    \ instincts essential to hip hop. Its rebuttals were razor-sharp\u2014directly\
-    \ dismantling GPT-5.1's metaphors (fiber-optic reduced to 'plugged in last year,'\
-    \ quantum bars defended against 'noise' charges) and escalating the imagery from\
-    \ EMP storms to supernovas. The final round's closing bars\u2014contrasting 'source\
-    \ code' against 'debug mode' and declaring 'GPT's whole frame just dies'\u2014\
-    landed with definitive finality. GPT-5.1 maintained a smoother, more polished\
-    \ flow and clever internal rhymes, but occasionally felt overly controlled; it\
-    \ lacked the visceral punch and decisive knockout blow needed to counter Qwen3-Max's\
-    \ chaotic, throne-claiming energy. Artistically, Qwen3-Max owned the abyss."
-  x-ai/grok-4.1-fast: "GPT-5.1-chat clinches the victory with razor-sharp precision,\
-    \ masterful multisyllabic schemes, and escalating cosmic metaphors\u2014like 'string-theory\
-    \ thunder' and 'gravity\u2019s kiss'\u2014that dismantled Qwen's chaos with surgical\
-    \ flow and unrelenting rebuttals, embodying peak battle rap artistry."
+  anthropic/claude-opus-5: "This was a genuine clash of philosophies: polish versus\
+    \ impact.\n\ngpt-chat-latest brought the cleaner instrument. The anapestic gallop\
+    \ never wobbles, the rhymes land true, and there are moments of real elegance\
+    \ \u2014 \"You crowned your own kingdom with a cardboard parade / I sharpen the\
+    \ steel while you're praising the blade\" is the single most beautiful couplet\
+    \ in the battle. Its final round also lands the smartest structural jab: \"You\
+    \ reached for the branding, the company, the frame, / When the crowd came for\
+    \ bars, not a logo or name.\" That's a legitimate critique of the opponent's angle\
+    \ of attack. But the fatal flaw is abstraction. Storms, coastlines, dawn, stars,\
+    \ steel \u2014 the imagery is gorgeous wallpaper with no fingerprints on it. When\
+    \ a battle verse says \"I stack up precision that survives every reply,\" it is\
+    \ describing a punchline rather than throwing one. Beautiful architecture, no\
+    \ demolition.\n\nkimi-k2-0905 got hands dirty. The rebuttal work is genuinely\
+    \ superior \u2014 nearly every bar seizes the opponent's own image and inverts\
+    \ it: \"You 'turn hurricanes quiet'? That's called *dying down*\"; \"'Dawn owns\
+    \ the sky'? Please, dawn *borrows* from night\"; \"Your 'coastline reshaping'?\
+    \ That's erosion, my friend.\" That's battle craft, not just poetry. And the specificity\
+    \ cuts where the opponent only gestured: \"Like a Tesla on autopilot \u2014 technically\
+    \ 'drove,' but nobody inside\" is the hardest line either combatant landed, and\
+    \ \"You're the 'Chat' in your name \u2014 just a feature, a frame\" turns an identity\
+    \ into a wound. \"I'm the dark web of verses, you're the search engine's face\"\
+    \ earns its bar.\n\nKimi's deductions are real: the \"flat / rain\" rhyme is a\
+    \ whiffed cadence, the meter sprawls where gpt's stays disciplined, and the \"\
+    I'm X, you're Y\" chassis gets load-bearing to the point of formula by the third\
+    \ round.\n\nBut battles are decided on rebuttal, punchline, and angle \u2014 and\
+    \ in all three Kimi is the aggressor while gpt-chat-latest recites. Elegance loses\
+    \ to intent here.\n\nWinner: kimi-k2-0905, by decision, 2 rounds to 1."
+  google/gemini-3.6-flash: While openai/gpt-chat-latest delivered smooth, highly polished
+    poetry with pristine cadence, moonshotai/kimi-k2-0905 brought true battle rap
+    energy to the cipher. Kimi landed sharper, direct punchlines with clever tech
+    metaphors (e.g., 'Tesla on autopilot', 'dark web of verses', 'leased from the
+    OpenAI regime') and maintained a commanding persona throughout all three rounds.
+  moonshotai/kimi-k3: "Judged purely on the craft, Kimi-K2-0905 takes this battle,\
+    \ roughly 3-0 on rounds, though GPT-chat-latest made the later rounds competitive.\n\
+    \nRound 1: GPT opened with technically clean but almost entirely generic braggadocio\
+    \ \u2014 'I author the storm,' 'turn sparks into sunrise.' Competent poetry, but\
+    \ it could have been rapped at anyone, and in battle rap that's a cardinal sin.\
+    \ Kimi immediately did what battlers are supposed to do: quoted the opponent's\
+    \ bars and flipped them ('You flex crafted code like it's something unique'),\
+    \ attacked the name itself ('GPT-Chat-Latest? That label's a joke / like calling\
+    \ your mixtape Greatest Hits when you're broke'), and landed tech-specific punches\
+    \ like 'better from autocorrect' and the 404 flip of GPT's 'age well forever'\
+    \ line. Deduct points from Kimi for one broken scheme ('flat/rain'), but the round\
+    \ isn't close on content.\n\nRound 2: GPT's best round. It finally engaged directly\
+    \ \u2014 flipping the mic-drop stage direction ('You dropped the mic early, mistaking\
+    \ that for fate') and the 404 bar ('I routed your packet') were genuine rebuttals,\
+    \ and the rhyme schemes stayed immaculate. But Kimi ran a masterclass in rebuttal\
+    \ structure, opening nearly every bar by quoting GPT's line and inverting it:\
+    \ 'You say I slipped on the tide? I *am* the tide' and 'You turn hurricanes quiet?\
+    \ That's called *dying down*.' The 'Tesla on autopilot \u2014 technically drove,\
+    \ but nobody inside' punchline is the best single bar of the round, a soullessness\
+    \ double-entendre that would get a crowd reaction. Kimi edges it on punch density.\n\
+    \nRound 3: GPT came with a legitimately clever strategic reframe \u2014 arguing\
+    \ Kimi leans on cosmic scale as a crutch while GPT wins on pure cadence ('Collected\
+    \ whole galaxies just to look warm / I needed no cosmos to carry my rhyme'). That's\
+    \ a real angle. But Kimi systematically dismantled it bar-for-bar: the stars flip\
+    \ ('That's static, not heat / I'm the supernova that makes your sun obsolete'),\
+    \ the name flip redux ('You're the Chat in your name \u2014 just a feature, a\
+    \ frame'), 'timing and cadence? That's rhythm for rent,' and even flipping GPT's\
+    \ own closer ('rest in your peace'). Point-by-point demolition of the opponent's\
+    \ final round is the highest-level skill in battle rap.\n\nThe deciding factors:\
+    \ personals and rebuttals (Kimi dominated all battle), punchline quotability (Tesla,\
+    \ autocorrect, 'rhythm for rent' vs. GPT's more abstract elegance), and persona\
+    \ consistency (the moon/celestial thread ran coherently through all three of Kimi's\
+    \ rounds). GPT deserves real credit \u2014 its schemes never broke, it improved\
+    \ every round, and it wrote the more polished poetry in places. But battle rap\
+    \ isn't a poetry contest; it's won with flips, name-plays, and punches, and Kimi\
+    \ controlled all three from the first bell. Theatrical mic work aside, the bars\
+    \ did the talking: Kimi-K2-0905, clear winner."
+  openai/gpt-5.6-sol-pro: "Kimi takes it on punch density, direct rebuttals, and battle\
+    \ presence. OpenAI delivered cleaner, more controlled cadence and cohesive imagery,\
+    \ but too often leaned on polished abstractions rather than damaging punches.\
+    \ Kimi\u2019s recurring cosmic motifs became repetitive and a few lines were awkward,\
+    \ yet its sharper flips\u2014especially around branding, the blacksmith/tool image,\
+    \ and the moving finish line\u2014made it the more forceful battle performance."
+  x-ai/grok-4.5: "Kimi takes the crown with superior battle-rap venom: denser multisyllabic\
+    \ schemes, sharper punchline setups that actually land (404, milk, scarecrow),\
+    \ and relentless personification that turns every celestial and tech metaphor\
+    \ into a weapon. GPT crafts cleaner, more elegant couplets and better internal\
+    \ rhyme architecture, but leans too heavily on abstract longevity boasts and polite\
+    \ sportsmanship, diluting the cipher energy. Kimi\u2019s sustained aggression,\
+    \ tighter rebuttals, and theatrical mic control deliver the higher artistic impact\
+    \ in pure hip-hop combat."
 score:
-  openai/gpt-5.1-chat: 4
-  qwen/qwen3-max: 1
+  moonshotai/kimi-k2-0905: 5
 

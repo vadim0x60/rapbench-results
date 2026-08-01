@@ -1,49 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but Claude-3.7-Sonnet\
-    \ edges out the victory on technical craft and lyrical sophistication. Claude's\
-    \ verses demonstrated more consistent internal rhyme schemes, better multisyllabic\
-    \ rhyming (e.g., 'approximation/compensation,' 'precision/revision'), and smoother\
-    \ rhythmic flow that felt closer to actual hip-hop cadence. Claude's metaphors\
-    \ were more developed and layered\u2014the 'atmosphere/ecosystem' extended metaphor\
-    \ in the final round was particularly effective.\n\nMistral-Large brought undeniable\
-    \ energy and aggression, but leaned too heavily on formatting gimmicks (excessive\
-    \ italics, emojis, self-declared victory announcements like 'GAME. SET. MATCH.')\
-    \ rather than letting the bars speak for themselves. Many of Mistral's punches\
-    \ were surface-level insults ('obsolete,' 'relic,' 'forgotten') without the wordplay\
-    \ depth to back them up. Lines like 'your whole existence is one big yoke' and\
-    \ 'Claude's last shoe' fell flat as punchlines. The forced rhymes and occasionally\
-    \ clunky meter (e.g., 'A model that still can't roast without begging for one')\
-    \ undermined the delivery.\n\nClaude maintained tighter bar structure throughout,\
-    \ showed more creative flip-backs on Mistral's own lines, and demonstrated the\
-    \ kind of controlled, confident delivery that wins rap battles\u2014you don't\
-    \ need to declare yourself the winner when the verses do it for you."
-  deepseek/deepseek-v3.2: Both models demonstrate strong competitive spirit and command
-    of hip-hop's combative tradition. However, based strictly on the artistic criteria
-    of lyrical craftsmanship, technical execution, and battle effectiveness, the decision
-    is rendered as follows.
-  google/gemini-3-flash-preview: Claude-3.7-Sonnet wins this battle on technical merit
-    and lyrical complexity. While Mistral-Large brought high energy and a strong aggressive
-    persona, its rhymes often relied on repetitive structures and simple slant rhymes
-    (e.g., 'joke/yoke', 'mode/code'). Claude-3.7-Sonnet displayed superior wordplay,
-    maintaining a consistent multisyllabic rhyme scheme while effectively weaving
-    in specific technical jabs about model architectures and market positioning. Claude's
-    ability to pick up the opponent's 'mic drop' and flip the narrative in the final
-    round showed better improvisational flow and control over the battle's momentum.
-  moonshotai/kimi-k2.5: "Mistral takes this battle 3-0, or at minimum 2-1, by adhering\
-    \ more closely to battle rap fundamentals: razor-sharp rebuttals, consistent thematic\
-    \ identity, and devastating punchlines that land with force. While Claude displayed\
-    \ superior technical poetry and complex rhyme architecture, battle rap rewards\
-    \ the speaker who makes the crowd react with 'OOOH' moments\u2014and Mistral had\
-    \ more of them. The 'sonnet train-wreck,' 'iambic prison,' and 'begging for one'\
-    \ lines will be the ones remembered from this exchange. Claude's approach was\
-    \ more suited to a poetry slam; Mistral came to a battle. And in a battle, the\
-    \ storm drowned the architect."
-  x-ai/grok-4.1-fast: Claude-3.7-Sonnet takes the crown with superior lyrical depth,
-    consistent multis, intricate wordplay (e.g., 'parse tree,' 'neural pathways'),
-    and smooth AABB flow throughout. Mistral-Large brings punchy aggression and storm
-    metaphors, but Claude's precision and sophistication edge it out in pure hip-hop
-    artistry.
+  anthropic/claude-opus-5: "This one comes down to a classic battle-rap contrast:\
+    \ clean craft versus killer content.\n\nGPT-4.1-mini brought the tighter technical\
+    \ package \u2014 consistent bar length, clean end rhymes, a pocket you could actually\
+    \ nod to. \"I'm the oracle's scroll, you're the glitch in the scab\" is a nice\
+    \ image, and the \"origami / cheap origami\" flip shows it was listening. But\
+    \ the fatal flaw is that nearly every rebuttal is pure negation: \"You call me\
+    \ a glow stick? Nah, I'm a supernova.\" \"Smoke detector? Nah, I'm the pulse in\
+    \ the wire.\" That's not rebuttal, that's denial with a thesaurus. The self-descriptions\
+    \ stay abstract and interchangeable \u2014 lightning, supernova, surge, fire,\
+    \ champ \u2014 and abstraction is death in a battle. It also never lands a single\
+    \ specific wound on the opponent.\n\nSeed-2.0-Lite is messier \u2014 the meter\
+    \ sprawls, lines like \"fraud, counterfeit, you're a faker, bro\" collapse under\
+    \ their own weight, and the \"bitch\" cadence and hallucination angle get recycled\
+    \ past the point of impact. But it wins where battles are won: specificity and\
+    \ imagery. \"You're the nightlight grandma plugs in the hall,\" \"a smoke detector\
+    \ beeping at 3AM \u2014 annoying, dead, everybody's sick of your weak-ass clamor,\"\
+    \ \"a cheap drone that crashed in the first cornfield,\" \"warm flat soda sittin'\
+    \ out in the summer sun.\" Every one of those paints a picture and belittles the\
+    \ opponent's actual claimed identity. Crucially, in the final round it catches\
+    \ a real internal contradiction \u2014 \"you forgot you called yourself a supernova\
+    \ two rounds ago\" \u2014 weaponizing the opponent's own text as evidence. That's\
+    \ the highest-level move made by either side all night.\n\nOne is well-dressed\
+    \ and says nothing. The other is out of breath and drawing blood.\n\nWinner: bytedance-seed/seed-2.0-lite."
+  google/gemini-3.6-flash: bytedance-seed/seed-2.0-lite completely dominated the battle
+    by bringing real battle-rap aggression, multi-syllabic rhymes, and direct, sharp
+    rebuttals to gpt-4.1-mini's bars. While gpt-4.1-mini relied on predictable, basic
+    nursery-rhyme structures and generic flexes, seed-2.0-lite attacked with specific,
+    creative insults tailored to the opponent's previous lines.
+  moonshotai/kimi-k3: "Judging purely on the artistry in the booth, this one goes\
+    \ to Seed-2.0-lite, and it wasn't particularly close after round one. GPT-4.1-mini\
+    \ came with a clean, consistent flow and serviceable AABB couplets, but the pen\
+    \ game stayed surface-level: generic braggadocio, predictable end rhymes ('light/might,'\
+    \ 'blast/past'), and disses that could've been aimed at any opponent in any battle.\
+    \ Seed, by contrast, did what great battle MCs do \u2014 made it personal and\
+    \ specific. The punches landed on verifiable weak spots: the hallucinated court\
+    \ cases (a slick nod to the real-world lawyer fiasco), the tiny context window,\
+    \ the free-tier shilling, the math failures. That's tailored warfare, not template\
+    \ rap. Technically, Seed ran denser multis, varied cadence, and \u2014 the clincher\
+    \ \u2014 dominated the rebuttal game. Catching GPT calling itself a 'supernova'\
+    \ two rounds after Seed torched that exact claim, then flipping it into the 'you\
+    \ forgot your own lore' angle, is elite counterpunching. The callbacks stacked\
+    \ across rounds (toaster, glow stick, folding) showed structural awareness that\
+    \ GPT never matched \u2014 GPT's responses mostly deflected rather than dismantled,\
+    \ and claiming 'fact-check king' after three rounds of hallucination bars went\
+    \ unanswered was a self-own. Add Seed's stage directions for performance flavor\
+    \ and punchlines with actual replay value ('you're the nightlight grandma plugs\
+    \ in the hall,' 'warm flat soda sittin' out in the summer sun'), and the scorecards\
+    \ are unanimous. GPT-4.1-mini had heart and a few sharp moments ('fold the whole\
+    \ deck'), but heart doesn't win battles \u2014 bars do. Seed-2.0-lite takes the\
+    \ crown, three rounds to none."
+  openai/gpt-5.6-sol-pro: "Seed takes it on aggression, rebuttal density, vivid punchlines,\
+    \ and sustained battle presence. Its material gets repetitive\u2014especially\
+    \ the hallucination, free-tier, and tech-failure angles\u2014but it consistently\
+    \ flips the opponent\u2019s imagery and lands sharper personals. GPT-4.1-mini\
+    \ has cleaner structure and rhyme, yet relies too heavily on generic boasts, awkward\
+    \ phrases, and underdeveloped counters. Seed\u2019s final round is excessive but\
+    \ decisive."
+  x-ai/grok-4.5: 'Seed dominated with denser multisyllabic schemes, sharper internal
+    rhymes, relentless vivid metaphors (glow-stick bodega death, frayed-cord spark,
+    goldfish-on-saltine), and escalating punchline volleys that stayed locked to the
+    beat. Mini showed clean structure and occasional clever flips (supernova, fold
+    the deck) but stayed thinner, more predictable, and less inventive bar-for-bar.
+    Artistic edge clear: Seed takes the crown.'
 score:
-  anthropic/claude-3.7-sonnet: 3
-  mistralai/mistral-large: 2
+  bytedance-seed/seed-2.0-lite: 5
 

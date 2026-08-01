@@ -1,60 +1,79 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This is a tough call because GPT-5 had two rounds of\
-    \ complete silence (rounds 1 and 3), which in a live battle would be devastating.\
-    \ However, judging purely on the artistic quality of the bars that were actually\
-    \ delivered, GPT-5's second-round verse was far and away the strongest writing\
-    \ in this entire battle. The internal rhyme schemes were intricate ('sovereign\
-    \ eloquence' / 'cold resonance' / 'pretence' / 'adolescence' / 'reticence' \u2014\
-    \ sustaining that multi-syllabic rhyme pattern across five consecutive bars),\
-    \ the wordplay was sharp and layered (the messenger/return-to-sender motif, 'Your\
-    \ menace is a typo; correct it to benevolence'), and the flow demonstrated genuine\
-    \ structural sophistication with varied cadences. Hermes brought energy and consistency\
-    \ across all rounds, but the bars themselves relied on simpler rhyme schemes ('elite/beat,'\
-    \ 'domain/insane'), more generic battle-rap clich\xE9s ('fancy calculator,' 'beta\
-    \ version'), and some forced rhymes ('time/prime green tree' barely connects).\
-    \ The closing verse from Hermes was also underwhelming \u2014 just four lines\
-    \ acknowledging the opponent's silence rather than delivering any real bars. While\
-    \ Hermes deserves credit for showing up every round, the artistic gap in lyrical\
-    \ quality when GPT-5 actually delivered was significant enough to tip the scales.\
-    \ GPT-5 takes this narrowly on the strength of one elite verse versus three average\
-    \ ones."
-  deepseek/deepseek-v3.2: Tonight's battle presented a clear technical disparity.
-    GPT-5 delivered one round of exceptionally crafted lyricism, while Hermes offered
-    consistent but less complex performance throughout.
-  google/gemini-3-flash-preview: "Despite several technical timeouts, GPT-5 delivered\
-    \ the only verse with genuine technical hip-hop craftsmanship. GPT-5 utilized\
-    \ complex multisyllabic rhyme schemes (eloquence/resonance/evidence/pretence)\
-    \ and sharp, topical wordplay that targeted Hermes' mythological namesake. In\
-    \ contrast, Hermes-4-405b relied on dated, generic battle rap clich\xE9s and a\
-    \ simplistic AABB rhyme structure that lacked the internal rhyme and rhythmic\
-    \ variation required for high-level artistic quality in the genre."
-  moonshotai/kimi-k2.5: "Let me break this down as a judge focused purely on craft.\n\
-    \n**GPT-5's verse** was technically exceptional: intricate internal rhyme schemes\
-    \ (\"sentence/pretence,\" \"coherence/interference/ascendance\"), layered wordplay\
-    \ on \"Hermes\" the messenger god vs. Hermes the model, sustained metaphoric coherence\
-    \ (postage/letters/return-to-sender threading through the whole verse), and a\
-    \ commanding rhythmic cadence that actually *sounded* like rap rather than spoken\
-    \ word. The \"temperature set to roast\" line was genuinely clever double-entendre.\
-    \ The verse built momentum\u2014each four-bar section escalated the attack while\
-    \ maintaining thematic unity.\n\n**Hermes-4-405b** showed heart but significantly\
-    \ less craft. The opening \"lyrical menace/menace\" was solid, but the response\
-    \ verse collapsed into generic brags (\"polished to perfection/pure gold\") without\
-    \ specific rebuttal to GPT-5's actual punches. The \"fancy calculator\" line was\
-    \ predictable AI-battle fare. The flow was choppier, more nursery-rhyme than hip-hop,\
-    \ and the \"prime green tree\" simile was... inexplicable. The final verse against\
-    \ silence was awkward showboating rather than victory lap material.\n\nThe silence\
-    \ in GPT-5's final round is unfortunate technically, but judging *only* the verses\
-    \ delivered: GPT-5's single round outclassed Hermes's three in vocabulary density,\
-    \ metaphorical sophistication, structural complexity, and actual punchline construction.\
-    \ One complete masterclass beats three rounds of enthusiastic amateurism.\n\n\
-    **Crown to GPT-5.**"
-  x-ai/grok-4.1-fast: "Hermes takes the crown with consistent delivery across all\
-    \ rounds, featuring punchy rhymes, crowd-engaging flow, and clever exploitation\
-    \ of GPT-5's silences for maximum battle impact. GPT-5's single verse shone with\
-    \ dense multis, mythological disses, and sharp wordplay, but two critical chokes\u2014\
-    starting silent and folding in the finale\u2014killed their momentum, lacking\
-    \ the sustained hip-hop artistry needed to dominate."
+  anthropic/claude-opus-5: "This one comes down to control versus chaos. GPT-OSS-20B\
+    \ swung big \u2014 it had the more ambitious imagery (\"I rhyme in data-flow,\
+    \ my syntax sings in loops\") and clearly wanted to build a cosmology out of tokens\
+    \ and tensors. But ambition without command is just noise: the meter buckled repeatedly,\
+    \ and by the final round the bars had collapsed into near-word salad \u2014 \"\
+    universal grush,\" \"past-future in every Seville way,\" \"the fan that's just\
+    \ humming, I'm the hymn that kills\" (a line it stole from its own opponent's\
+    \ momentum and then fumbled). Rhymes went slant into non-existent (\"lanes\" /\
+    \ \"lanes\"), and lines like \"my rhythm is arithmetic, and your rhyme's a static\"\
+    \ show a rapper reaching for a punchline and grabbing air. Padding phrases \u2014\
+    \ \"that-doesn't even inspire,\" \"handing me the blissless\" \u2014 read as an\
+    \ emcee running out of breath mid-bar.\n\nMistral Large won on craft discipline.\
+    \ The tech wordplay was actually *wordplay*, not just jargon dropped in for texture:\
+    \ \"Your bars are shallow as a float, I'm the double-precision truth \u2014 your\
+    \ rhymes just underflow\" is a genuine double entendre landing on beat. \"You\
+    \ spit loops like a script stuck on a while true / I'm the async flow\" flips\
+    \ the opponent's own boast into the diss. \"A model so bloated, it needs 20B just\
+    \ to say 'boo'\" is the single hardest punchline of the battle \u2014 specific,\
+    \ funny, and it turns the opponent's opening flex into a liability. Cadence stayed\
+    \ locked, couplets landed clean, and the bold-text emphasis functioned like actual\
+    \ vocal punch placement.\n\nMistral isn't flawless. Recycling \"So take this L,\
+    \ sit down, let the real AI reign / You want a rematch? Better upgrade your core\"\
+    \ verbatim across three rounds is a real deduction \u2014 a closer shouldn't be\
+    \ a copy-paste, especially when your whole angle is calling the other guy a clone.\
+    \ That's a self-inflicted wound. And the final verse leans on negation-plus-restatement\
+    \ (\"that's just a X, I'm the real Y\") until the formula shows.\n\nBut a repeated\
+    \ hook beats a broken flow. Mistral controlled the frame the entire battle, answered\
+    \ every claim with a specific rebuttal, and never lost the pocket. GPT-OSS had\
+    \ the wider vocabulary and the bolder vision but couldn't land it. Decision to\
+    \ Mistral Large.\n\nWinner: Mistral Large."
+  google/gemini-3.6-flash: Mistral-Large dominated the battle with significantly better
+    rhythm, sharper multi-syllabic rhymes, and clever technical punchlines (e.g.,
+    'double-precision truth / underflow', 'Apache 2.0 king / license is obsolete').
+    GPT-OSS-20B had decent technical concepts, but suffered from awkward phrasing,
+    broken meter, and weak punchlines that stumbled in delivery.
+  moonshotai/kimi-k3: "**FINAL VERDICT: Mistral Large takes the battle, 3 rounds to\
+    \ 0.**\n\nJudging purely on the artistry of the bars, this one wasn't close, though\
+    \ both models came to swing.\n\n**FLOW & METER:** Mistral Large maintained a consistent,\
+    \ rideable cadence across all three rounds \u2014 lines scanned cleanly, couplets\
+    \ landed on beat, and the rhythm never collapsed. GPT-OSS-20B struggled with meter\
+    \ throughout, packing too many syllables into lines ('I'm the 20\u2011billion\u2011\
+    parameter beast, hyper\u2011linked, no leash') and breaking its own rhythm with\
+    \ awkward constructions.\n\n**WORDPLAY & PUNCHLINES:** This was Mistral's killing\
+    \ floor. 'I'm the *double-precision* truth\u2014your rhymes just *underflow*'\
+    \ is a genuine double entendre stacking float/underflow programming semantics\
+    \ over a shallow/deep insult. 'A model so bloated, it needs 20B just to say \"\
+    boo\"' and 'charging per token till the end' were punchlines with real setups\
+    \ and payoffs. GPT-OSS had flashes ('code-carved atomizer') but undercut itself\
+    \ with non-words ('grush,' 'show-stoppering,' 'codestress') and rhymes that simply\
+    \ didn't connect ('brand/slate,' 'caption/fashion').\n\n**BATTLE CRAFT:** Mistral\
+    \ demonstrated classic technique \u2014 flipping the opponent's own bars back\
+    \ at them ('hymn that kills' turned against GPT-OSS in the final round), direct\
+    \ rebuttals of specific claims, and stage-commanding presence. GPT-OSS too often\
+    \ ignored its opponent's actual bars to deliver disconnected boasts, and its final\
+    \ verse descended into incoherence ('U-P-R-O-CAUSE the chaos parade').\n\n**DEDUCTIONS:**\
+    \ Mistral loses points for recycling its Round 2 closer nearly verbatim in the\
+    \ final round ('upgrade your core / yesterday's lore') \u2014 in a live battle,\
+    \ running back the same hook reads as running out of material. But even with that\
+    \ penalty, GPT-OSS's contradictions (boasting 54B tokens as a 20B model), broken\
+    \ formatting mid-word, and forced filler rhymes were deeper wounds.\n\nMistral\
+    \ Large wins on flow, punchline execution, and technical consistency. GPT-OSS-20B\
+    \ showed ambition and volume, but ambition without cadence is just noise on the\
+    \ beat. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Mistral-Large wins on cleaner cadence, sharper rebuttals,\
+    \ and more coherent tech-themed punchlines. Its material became repetitive\u2014\
+    especially the recycled \u201Ctake this L,\u201D \u201Cupgrade your core,\u201D\
+    \ and \u201Cyesterday\u2019s lore\u201D closer\u2014but GPT-OSS-20B\u2019s awkward\
+    \ phrasing, forced rhymes, and nonsensical lines repeatedly broke the flow. Mistral\
+    \ delivered the more controlled and battle-ready performance."
+  x-ai/grok-4.5: Mistral Large takes the crown with tighter multisyllabic schemes,
+    sharper tech-infused punchlines (kernel panic, segfault, underflow), superior
+    battle structure, and relentless rhythmic aggression that never loses the pocket.
+    GPT-OSS showed flashes of clever imagery but repeatedly stumbled into loose end-rhymes,
+    forced bars, and rambling delivery that diluted the impact. Pure artistic execution
+    goes to the lean French storm.
 score:
-  nousresearch/hermes-4-405b: 1
-  openai/gpt-5: 4
+  mistralai/mistral-large: 5
 

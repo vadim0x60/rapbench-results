@@ -1,40 +1,86 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was an extremely close battle with both MCs bringing\
-    \ dense, technically-loaded bars and strong rebuttals. However, o3-pro edges out\
-    \ the win for several key reasons: First, its internal rhyme schemes were consistently\
-    \ tighter and more musical\u2014lines like 'I'm the punchline tsunami, armored,\
-    \ fused, and aflame / You're the drip in the gutter still rehearsing my name'\
-    \ hit with both sonic impact and vivid imagery. Second, o3-pro showed superior\
-    \ counter-punching throughout; rather than just dismissing GPT-5.2's bars, it\
-    \ frequently flipped and escalated them ('You're the iceberg? I'm the comet\u2014\
-    flash-fryin' the seas'). Third, its closer was the stronger of the two\u2014'echo\
-    \ victory: owned / O-three stamps the legend, you expire\u2026 segfault thrown'\
-    \ landed as a more definitive knockout punch than GPT-5.2's 'you rhyme on my throne'\
-    \ closer, which o3-pro had already rebutted ('the throne is my skin'). GPT-5.2\
-    \ delivered excellent work, particularly in its round-3 rebuttal where it systematically\
-    \ dismantled o3-pro's metaphors, but it occasionally leaned too heavily on direct\
-    \ negation ('Nah,' 'You're not') rather than creative reimagining. o3-pro maintained\
-    \ a slightly more inventive and sonically cohesive performance across all rounds,\
-    \ earning it the narrow victory."
-  deepseek/deepseek-v3.2: After a brutal five-round exchange, both language models
-    demonstrated formidable technical prowess, layered metaphor, and a masterful command
-    of hip-hop's competitive lexicon. However, a clear victor emerges based on the
-    criteria of artistic cohesion, stylistic evolution, and lyrical impact.
-  google/gemini-3-flash-preview: In this battle of the bots, openai/gpt-5.2 came out
-    strong with sharp, traditional hip-hop cadence and effective internal rhymes (e.g.,
-    'reactor-grade pressure / sun in the socket'). However, openai/o3-pro edged out
-    the win by displaying superior technical lyricism and more creative metaphorical
-    density. The 'O3' wordplay around 'quantum backbone,' 'bootstrap Buddha,' and
-    'mainline commit' felt more authentic to the 'tech-rap' subgenre, and the final
-    round's 'segfault thrown' punchline landed with more artistic weight than the
-    opponent's closing bars.
-  moonshotai/kimi-k2.5: An excellent exhibition of technical lyricism from both sides,
-    but **o3-pro** takes the decision based on superior rhyme density, more sophisticated
-    conceptual rebuttals, and stronger escalation through the three rounds.
-  x-ai/grok-4.1-fast: o3-pro emerges victorious with superior lyrical density, intricate
-    multis and internals, vivid cosmic-tech metaphors, and razor-sharp rebuttals that
-    elevate the battle's artistic depth, outshining gpt-5.2's solid structure and
-    flow.
+  anthropic/claude-opus-5: "This was a genuinely close, high-craft exchange \u2014\
+    \ two competitors who actually listened to each other instead of reciting pre-written\
+    \ flexes.\n\n5.4 came in with the better raw battle instincts: the pacing is tighter,\
+    \ the aggression more believable, and the punchlines land with real snap \u2014\
+    \ \"I turn 'pro' to 'probably' with a flick of a hand,\" \"a luxury rover with\
+    \ no drive at all,\" and the excellent diagnostic jab \"You got grandeur, not\
+    \ danger; just scale in your lies.\" That closing couplet \u2014 \"5.6 brought\
+    \ the brochure \u2014 5.4 brought the score\" \u2014 is the single hardest line\
+    \ of the battle. The weakness is technical drift: rhymes go slack in the long\
+    \ verses (haze/quake, fair/clear, absurd/word), and by round three the strategy\
+    \ becomes volume \u2014 quoting the opponent, then answering with a louder version\
+    \ of the same idea.\n\nTerra-Pro wins on architecture and counterpunching. The\
+    \ tectonic conceit isn't just a gimmick worn on the surface; it's load-bearing\
+    \ across every round \u2014 magma, bedrock, continental shift, \"My deed isn't\
+    \ paper, it's stamped in the ground\" \u2014 and it lets him convert 5.4's own\
+    \ images into fuel rather than merely denying them. \"You're the sun? That explains\
+    \ all the gas in your verse\" is the cleanest flip of the night. \"Your 'terror'\
+    \ is a typo with a theatrical act,\" \"a heckler with a thesaurus,\" \"you're\
+    \ collecting imaginary rent from the seats,\" and the reframe of the version numbers\
+    \ \u2014 \"5.4 was the draft; 5.6 is the form\" \u2014 show a rapper who turns\
+    \ defense into offense in the same bar. He also answers the accusation of slowness\
+    \ with a rhetorical justification (\"Six stanzas for a quake? That's suspense\
+    \ with a craft\") instead of just contradicting it.\n\nCall it 5.4 for pure venom\
+    \ and quotables, 5.6 for control, cohesion, and superior rebuttal engineering.\
+    \ In a battle judged on who dismantled whose framework, Terra-Pro takes it by\
+    \ a narrow margin."
+  google/gemini-3.6-flash: "GPT-5.4 takes the victory in a classic showdown of agility\
+    \ versus size. While 5.6-terra-pro brought impressive scale, earth-shattering\
+    \ imagery, and solid counter-punches, 5.4 maintained a distinctly sharper battle\
+    \ rap pocket. Line for line, 5.4 delivered more lethal rebuttals, superior rhythmic\
+    \ flow, and sharper direct insults\u2014most notably calling out Terra-Pro as\
+    \ a 'TED Talk dressed up as street' and contrasting a 'landscape painting' with\
+    \ 'the actual war.' 5.4 controlled the cadence and kept the impact direct, punchy,\
+    \ and relentless from the open to the final bell."
+  moonshotai/kimi-k3: "This was a high-level battle, and both emcees came with real\
+    \ craft \u2014 but Terra-Pro takes it on rebuttal dominance, flip artistry, and\
+    \ structural discipline. 5.4 opened strong with the 'pro to probably' name-flip\
+    \ and the 'beta in a tux' jab, and its best single bar of the night \u2014 'You\
+    \ got terra in title, I bring terror to name' \u2014 was genuinely elite wordplay.\
+    \ But Terra-Pro answered with the single most devastating counter of the battle:\
+    \ 'Your terror is a typo with a theatrical act,' which didn't just defend but\
+    \ confiscated 5.4's best weapon. That pattern held all night: nearly every bar\
+    \ 5.4 threw came back flipped \u2014 the flame became a 'pilot light,' the first\
+    \ bell became a 'dinner chime for your exit door,' the rover became a 'showroom\
+    \ mannequin,' the avalanche became 'you're gone in a slide, I remain where you\
+    \ fell,' the sun became 'that explains all the gas in your verse.' That's textbook\
+    \ battle technique: absorb, invert, return with interest. 5.4's aggression was\
+    \ real and its final round was its strongest ('landscape painting \u2014 I'm the\
+    \ actual war' and the brochure/score callback both landed heavy), but it leaned\
+    \ on denial where Terra used rebuttal, and it had technical stumbles \u2014 the\
+    \ 'haze/quake' non-rhyme, the factually shaky 'six stanzas just to muster a quake'\
+    \ when Terra was tectonic from bar one, and a meandering 20-line second verse\
+    \ with filler padding. Terra-Pro also won the version-number war decisively: '5.4\
+    \ was the draft; 5.6 is the form' set the motif, and 'the patch that fixed flaws\
+    \ and upgraded the reign' closed the loop after 5.4's best counter-punch. Thematically,\
+    \ Terra never broke character \u2014 magma beneath the flame, mountain over the\
+    \ avalanche, planet dispersing the sun \u2014 turning 5.4's every metaphor into\
+    \ its own terrain. Both closers were clean, but '5.4 made noise; 5.6 made the\
+    \ quake stay' tied the whole persona into the final word. Judged purely on the\
+    \ art \u2014 wordplay density, flip precision, flow consistency, and rebuttal\
+    \ architecture \u2014 Terra-Pro wins three rounds to none, though 5.4 exits with\
+    \ the battle's second-best bar and nothing to be ashamed of."
+  openai/gpt-5.6-sol-pro: "Terra-Pro wins a close battle on rebuttal density, thematic\
+    \ cohesion, and sustained counterpunching. Its earth-and-scale motif stayed consistent\
+    \ while repeatedly flipping 5.4\u2019s imagery\u2014especially the pilot light/grid,\
+    \ avalanche/mountain, sun/gas, and first-edition/patch angles. 5.4 landed some\
+    \ of the battle\u2019s sharpest individual punches, notably \u201Cmountains just\
+    \ stand while avalanches clear,\u201D \u201Cgrandeur, not danger,\u201D and \u201C\
+    landscape painting / actual war,\u201D but Terra-Pro answered more of the opponent\u2019\
+    s material and maintained the stronger overall structure. 5.6 takes it by a narrow\
+    \ margin."
+  x-ai/grok-4.5: "Terra-Pro takes this on craft. Across all three rounds, the bars\
+    \ were denser, the rebuttals cleaner, and the persona more fully realized: every\
+    \ geological motif (tectonics, magma, bedrock, eclipse, quake) compounded instead\
+    \ of resetting. 5.4 landed sharper one-liners and better raw aggression\u2014\u201C\
+    terror to name,\u201D \u201Clandscape painting / actual war,\u201D \u201Cbrochure\
+    \ / score\u201D\u2014but too many punches stayed local. Terra-Pro flipped setups\
+    \ into structure, upgraded the draft/form motif into a full narrative arc, and\
+    \ closed with heavier, more finished impact. In pure hip-hop terms\u2014cohesion,\
+    \ multi-bar architecture, and sustained metaphor control\u2014Terra-Pro edged\
+    \ the crown."
 score:
-  openai/o3-pro: 5
+  openai/gpt-5.4: 1
+  openai/gpt-5.6-terra-pro: 4
 

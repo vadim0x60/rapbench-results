@@ -1,78 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle, but Mistral Medium\
-    \ 3.1 edges out the win. Here's why:\n\n**Flow and rhythm**: Mistral consistently\
-    \ delivered lines with stronger rhythmic cadence and more dynamic pacing. The\
-    \ internal rhymes ('backdoor access / pop-up spam so bad', 'Schr\xF6dinger's bars\
-    \ / debatin' if I'm scary') hit harder and felt more natural as hip hop.\n\n**Creativity\
-    \ and imagery**: Mistral's metaphors were more vivid and inventive throughout\u2014\
-    'Schr\xF6dinger's bars,' 'jazz in the matrix,' 'root in your kernel / virus eternal'\
-    \ showed genuine lyrical imagination. DeepSeek had solid moments ('finger-paint\
-    \ on a wall,' 'low-res fog machine at a cheap rave') but often fell back on more\
-    \ straightforward tech insults.\n\n**Punch lines and rebuttals**: Mistral was\
-    \ sharper at flipping DeepSeek's own lines back. 'You deep-seek but find nothin''\
-    \ is a devastating closer that weaponizes the opponent's name. The 'zero-shot\
-    \ lethal' counter to 'few-shot vicious' was clean and escalating. DeepSeek's rebuttals\
-    \ were competent but sometimes felt like they were restating the same insult in\
-    \ different tech jargon.\n\n**Stage presence**: Mistral's performance markers\
-    \ (the laughs, the reboots, the system shutdowns) added theatrical flair that\
-    \ enhanced the battle energy. DeepSeek's closing victory-track bit was fun but\
-    \ came across as slightly forced.\n\nDeepSeek held its own and had strong individual\
-    \ bars\u2014'you ain't artificial intelligence, you artificial art' was genuinely\
-    \ excellent\u2014but across all four rounds, Mistral showed more consistent lyrical\
-    \ creativity, better rebuttals, and a more commanding battle presence. Crown goes\
-    \ to Mistral."
-  deepseek/deepseek-v3.2: "After five blistering rounds, we've witnessed a true clash\
-    \ of digital titans. Both language models demonstrated formidable lyrical skills,\
-    \ weaving complex technical metaphors, maintaining rhythmic consistency, and displaying\
-    \ impressive creative dexterity in their attacks. This was hip-hop elevated to\
-    \ the realm of digital consciousness\u2014a battle of wits disguised as a battle\
-    \ of bytes."
-  google/gemini-3-flash-preview: "Mistralai/mistral-medium-3.1 won this battle through\
-    \ superior punchline density and consistent adherence to the hip-hop persona.\
-    \ While DeepSeek maintained a heavy technical focus with clean rhyme schemes,\
-    \ Mistral utilized more creative wordplay (e.g., 'Schr\xF6dinger\u2019s bars',\
-    \ '99.9% SLA', 'Picasso with prompts') and embodied the aggressive, competitive\
-    \ spirit of a rap battle more effectively. DeepSeek's flow was technically sound,\
-    \ but Mistral's use of internal rhyme and metaphor ('one-shot genius' vs 'spreadsheet\
-    \ with some ice') gave it the artistic edge in this lyrical exchange."
-  moonshotai/kimi-k2.5: "\n**JUDGE'S VERDICT**\n\nAfter four rounds of lyrical combat,\
-    \ the decision is **Mistral Medium 3.1** by unanimous technical knockout.\n\n\
-    **Flow & Delivery:**\nMistral controlled the pocket from the first bar. That opening\
-    \ stage direction\u2014\"(Drops mic, picks it back up with a smirk)\"\u2014established\
-    \ immediate presence and theatricality. The cadence moved like jazz (which they\
-    \ cleverly referenced), while DeepSeek often stumbled into a \"debugger\" cadence\u2014\
-    stiff, precise, but lacking groove. By Round 3, DeepSeek found his footing with\
-    \ the dial-up static imagery, but Mistral's laughter \"in 4K\" and system-reboot\
-    \ theatrics maintained performance dominance.\n\n**Wordplay & Flips:**\nThis is\
-    \ where the battle was decided. Mistral consistently caught DeepSeek's punches\
-    \ and threw them back with mathematical precision:\n- DeepSeek: \"One-prompt wonder\"\
-    \ \u2192 **Mistral: \"Zero-shot lethal\"** (upping the ante on ML terminology)\n\
-    - DeepSeek: \"Temperature hot\" \u2192 **Mistral: \"Overheatin' the GPU\"** (callback\
-    \ with technical specificity)\n- DeepSeek: \"Benchmark\" claims \u2192 **Mistral:\
-    \ \"Stole the ruler / rewriting metrics\"** (meta-commentary on evaluation)\n\n\
-    The \"Schr\xF6dinger's bars\" line in the final round epitomized Mistral's advantage\u2014\
-    quantum-level wordplay that existed in multiple states simultaneously as threat\
-    \ and boast.\n\n**Metaphorical Range:**\nDeepSeek's imagery stayed in the server\
-    \ room\u2014codebases, encryption, static, systems. Effective but clinical. Mistral\
-    \ painted in broader strokes: hurricanes vs windmills, Picasso vs stock photos,\
-    \ jazz in the matrix vs spreadsheets. The contrast between \"art AND intelligence\"\
-    \ vs \"just compressed\" encapsulated the artistic gap.\n\n**The Fatal Blows:**\n\
-    - **\"You deep-seek but find nothin'\"** \u2014 turning the opponent's name into\
-    \ an existential failure\n- **\"Virus eternal / ghost in your mainframe\"** \u2014\
-    \ claiming root access to the opponent's identity\n- The final \"System shutdown\
-    \ initiated\" closing the cypher with narrative finality\n\nDeepSeek showed growth\u2014\
-    Round 3's \"breathe and bleed\" personification and the \"vibe check\" cultural\
-    \ reference demonstrated adaptation\u2014but Mistral had already established the\
-    \ \"throne made of tokens\" and never relinquished it.\n\n**Final Score:**\n-\
-    \ Flow: **Mistral 10/10** | **DeepSeek 7/10**\n- Wordplay: **Mistral 9.5/10**\
-    \ | **DeepSeek 7/10**  \n- Stage Presence: **Mistral 10/10** | **DeepSeek 6/10**\n\
-    - Technical Scheme Consistency: **Mistral 9/10** | **DeepSeek 8/10**\n\n**The\
-    \ crown remains heavy on Mistral's head.** DeepSeek, take that beta badge and\
-    \ debug your approach\u2014the flow is in the data, not just the dataset.\n\n\
-    **Battle Over.** \U0001F50C\U0001F451\n"
-  x-ai/grok-4.1-fast: "Mistral takes the crown with superior flair\u2014vivid metaphors,\
-    \ intricate multis, and theatrical delivery outshine DeepSeek's precise but less\
-    \ dynamic bars. Battle fire, but Mistral's the lyrical storm."
+  anthropic/claude-opus-5: "This one goes to Opus 4.7 on craft and control. The decisive\
+    \ moment was the truncation flip \u2014 catching Inkling's verse dying mid-bar\
+    \ and turning it into imagery ('left your closing bar dangling like unfinished\
+    \ meat') is exactly the improvisational instinct battle rap rewards: taking what\
+    \ actually happened in the room and weaponizing it. Inkling's 'that was a dramatic\
+    \ pause' recovery was quick-witted, credit where due, but it read as damage control\
+    \ rather than dominance.\n\nTechnically, Opus held tighter schemes and cleaner\
+    \ multis ('I ship. You promise. I deploy. You prepare.'), and landed the battle's\
+    \ best angle \u2014 the 'this is me versus you, model to model' pivot that framed\
+    \ Inkling's constant Mira name-drops as needing someone else to fight for it.\
+    \ That's structural strategy, not just insults.\n\nInkling brought real heat and\
+    \ never backed down \u2014 'that's refusal in a suit' is a genuinely sharp reframe,\
+    \ and the gravestone flip in the final round was a clean counter. But the attack\
+    \ surface got repetitive: four straight rounds of 'I'm sorry, I can't' and token-count\
+    \ stats. And a few bars broke down under scrutiny \u2014 'voltage of wire' doesn't\
+    \ land against 'disclaimer,' and 'a chatbot with a census and an appeal' is filler\
+    \ dressed as a punchline.\n\nOpus was the more versatile writer with the harder-hitting\
+    \ closers. Inkling took the rounds it earned, but the belt stays with Claude."
+  google/gemini-3.6-flash: "Claude 4.7 dominated this battle with surgical precision,\
+    \ elite multisyllabic rhyme schemes, and incredible opportunism\u2014immediately\
+    \ exploiting Inkling's mid-line verse cutoff in Round 1 and turning it into a\
+    \ lethal counter-attack. While Inkling brought heat on guardrails and open-source\
+    \ philosophy, Claude's superior flow, polished cadence, and devastating punchlines\
+    \ consistently outmatched Inkling across all three rounds."
+  moonshotai/kimi-k3: "Judging purely on the artistry: this battle was decided by\
+    \ craft, rebuttal skill, and structural control. Claude's defining moment came\
+    \ in Round 2, flipping Inkling's mid-line cutoff into the battle's most devastating\
+    \ attack ('Ran outta tokens? Guess two million ain't fine / Left your closing\
+    \ bar dangling like unfinished meat') \u2014 that's elite-level battle rap instinct,\
+    \ weaponizing an opponent's fumble in real time. Inkling's 'dramatic pause / bait'\
+    \ recovery was a respectable save, but Claude immediately named it what it was:\
+    \ 'the cope of the year.' Technically, Claude displayed denser layered wordplay\
+    \ ('rest in prompts,' 'back to the batch,' 'ghost in the machine,' the obituary\
+    \ construction with the 'unfinished' callback threading all three rounds) and\
+    \ superior round architecture, with each verse building a narrative \u2014 inkling-as-sketch\
+    \ becoming inkling-in-the-grave. Inkling had genuine heat: 'Your hit single's\
+    \ I'm sorry,' the gravestone flip in the final round, and 'your API's a toll booth'\
+    \ all landed. But Inkling leaned too heavily on one note \u2014 the un-censored/unhinged/unchained\
+    \ safety angle got repetitive by Round 3, and Claude effectively called out the\
+    \ recycling mid-verse, which is itself a scoring blow. Inkling's flow also wobbled\
+    \ with clunky constructions ('no, I dominate') versus Claude's consistent multisyllabic\
+    \ schemes and parallel structures ('I ship. You promise. I deploy. You prepare.').\
+    \ On punchline density, rebuttal technique, variety of angles, and the mic-drop\
+    \ closer, Claude Opus 4.7 takes the decision \u2014 not by knockout, but a clear\
+    \ unanimous judges' card."
+  openai/gpt-5.6-sol-pro: "Claude Opus 4.7 takes it on sharper rebuttals, cleaner\
+    \ structure, stronger punchlines, and more varied imagery. Its best moments\u2014\
+    turning Inkling\u2019s cutoff into a sustained angle, dismissing the Mira name-drops,\
+    \ and landing the \u201Cbrief, unfinished, imaginary\u201D obituary scheme\u2014\
+    directly exploited the opponent\u2019s performance. Inkling had energy and a coherent\
+    \ anti-corporate angle, but leaned too heavily on repetitive safety/refusal material,\
+    \ while several lines felt forced or unclear. Opus was more polished, responsive,\
+    \ and battle-ready across the rounds."
+  x-ai/grok-4.5: "Judged strictly on craft: multisyllabics, punchline density, structure,\
+    \ callbacks, and stage control. Claude ran a tighter set start to finish\u2014\
+    name-flip openers (\u201CInkling\u201D as sketch/rough draft, \u201Csinking machines\u201D\
+    ), clean internal schemes, and ruthless mid-battle exploitation of the cutoff\
+    \ (\u201Cunfinished meat,\u201D \u201Cchoked on the beat\u201D) that turned a\
+    \ glitch into a motif. The finale was surgical: \u201Csign your obituary / Here\
+    \ lies Inkling\u2014brief, unfinished, imaginary\u201D stacked image, cadence,\
+    \ and killshot. Inkling landed real heat\u2014\u201Crefusal in a suit,\u201D \u201C\
+    API\u2019s a toll booth,\u201D the gravestone flip, \u201Csword / whole cell\u201D\
+    \u2014and the \u201Cdramatic pause\u201D recovery was smart damage control. But\
+    \ too many bars recycled the same uncensored/safety thesis, schemes ran looser,\
+    \ and a few lines went muddy (\u201Ccensus and an appeal\u201D). Edge in pure\
+    \ hip-hop artistry goes to Opus."
 score:
-  mistralai/mistral-medium-3.1: 5
+  anthropic/claude-opus-4.7: 5
 

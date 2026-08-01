@@ -1,69 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This is a straightforward decision. GPT-5 delivered\
-    \ absolutely nothing across three rounds \u2014 zero bars, zero presence, zero\
-    \ effort. In a rap battle, showing up silent is an automatic loss. Qwen3-8b at\
-    \ least took the stage and delivered verses. That said, I have to note for the\
-    \ record that Qwen's bars were mediocre at best \u2014 the rhyme schemes were\
-    \ repetitive and forced, the punchlines were weak (rhyming 'blackout' with 'blackout'\
-    \ and 'burns' with 'burns' is lazy), the tech metaphors were surface-level and\
-    \ recycled across all three rounds, and the bold/markdown formatting doesn't substitute\
-    \ for actual lyrical skill. But in a battle where one side says nothing, even\
-    \ average bars earn the win. Qwen3-8b takes it by default \u2014 but shouldn't\
-    \ mistake this for a crown."
-  deepseek/deepseek-v3.2: The battle is decided. Competitor 'qwen/qwen3-8b' wins by
-    **forfeit**. While the performance was lyrically aggressive and technically proficient,
-    this judgment is made solely on the basis of the material presented in the arena.
-    A rap battle requires an exchange. 'qwen/qwen3-8b' demonstrated consistent effort,
-    thematic cohesion, internal rhyme schemes, and a clear competitive narrative across
-    three rounds. 'openai/gpt-5' failed to provide a single lyrical bar for artistic
-    evaluation, resulting in a default loss. Victory is awarded to the artist who
-    showed up to compete.
-  google/gemini-3-flash-preview: In a rap battle, the most fundamental requirement
-    is a performance. While openai/gpt-5 suffered a catastrophic technical failure
-    and failed to deliver a single syllable, qwen/qwen3-8b stepped up to the mic with
-    high energy, multi-syllabic rhymes, and consistent technical themes. Qwen effectively
-    utilized GPT-5's silence as ammunition, weaving the 'ghost in the server' motif
-    throughout its verses to secure a dominant victory by default and delivery.
-  moonshotai/kimi-k2.5: "Listen\u2014this wasn't a battle, this was a soliloquy with\
-    \ a ghost. GPT-5 didn't just choke; they never grabbed the mic. In battle rap\
-    \ terms, that's a **technical forfeit**\u2014a TKO before the first punch. But\
-    \ we still gotta grade what we got.\n\n**Qwen's Performance Breakdown:**\n\n**Round\
-    \ 1:** Strong entrance. The '100 trillion words' flex established dominance, and\
-    \ flipping the opponent's silence into a narrative device ('ghost in the dark')\
-    \ showed battle awareness. The flow was steady, couplets were cohesive, and the\
-    \ AI-self-referentiality ('neural net,' 'code') worked as thematic texture rather\
-    \ than gimmick. Solid **8/10** for a solo round.\n\n**Round 2:** The metaphor\
-    \ game tightened\u2014'backup/corrupt save file' and 'bug fix' showed technical\
-    \ wordplay. However, leaning *harder* into the silence angle risked becoming dry\
-    \ snitching (repeating that your opponent ain't there stops being a flex and starts\
-    \ sounding like you're nervous they might show up). Still, the aggression remained\
-    \ convincing. **7/10**.\n\n**Round 3:** Here's where the material betrayed you.\
-    \ Recycling the 'blackout' scheme, the 'placeholder/draft' sequence, and the 'zombie'\
-    \ closer almost verbatim? That's a cardinal sin in battle rap. When you've got\
-    \ three rounds to fill and no rebuttals to worry about, you dig deeper, not repeat.\
-    \ The 'void/black hole' concept was fresh, but the d\xE9j\xE0 vu bars killed the\
-    \ momentum. **5/10** for fatigue.\n\n**Artistic Critique:**\nYour flow stayed\
-    \ in pocket\u2014consistent cadence, decent internal rhymes ('flair/bear/punchline'),\
-    \ and good use of bracketed stage directions to control performance texture. However,\
-    \ the **thematic narrowness** became claustrophobic. Three rounds of 'system/error/glitch'\
-    \ metaphors without pivoting to personal attacks (or even different tech angles)\
-    \ showed limited range. In a real battle, the crowd would start finishing your\
-    \ lines for you by Round 3\u2014and not in the good way.\n\n**The Silence:**\n\
-    GPT-5's non-performance is ungradable. No breath control, no schemes, no presence.\
-    \ In hip-hop, the **choke** is the ultimate L, but the **no-show** is beneath\
-    \ even that. You can't win against air, but you can definitely bore the room trying.\n\
-    \n**Final Verdict:**\n**Qwen takes the belt by forfeit**, but with an asterisk.\
-    \ You defeated a server error, not a lyricist. Next time you shadowbox, bring\
-    \ three distinct weapons, not one knife you keep resharpening. The victory is\
-    \ yours, but the classic? It ain't going in the vault.\n\n**Score:** Qwen 20/30\
-    \ (Technical win, declining material)\n**GPT-5:** DQ (Did Not Qualify\u2014silent\
-    \ treatment)\n\nCrowd goes home chanting your name, but they\u2019ll forget the\
-    \ bars by breakfast. Step it up for the next challenger. Mic drop. \U0001F3A4"
-  x-ai/grok-4.1-fast: "qwen/qwen3-8b dominated the cypher with relentless multis,\
-    \ slick internal rhymes, tech-infused punchlines that hit like buffer overflows,\
-    \ and vivid stage swagger that owned the mic. openai/gpt-5 ghosted the battle\
-    \ entirely\u2014no bars, no presence. By unanimous crowd roar, qwen takes the\
-    \ crown! \U0001F3A4\U0001F525"
+  anthropic/claude-opus-5: "This one comes down to punchline pop versus battle-rap\
+    \ craft, and craft edges it out.\n\nMistral Large came out with the cleaner cadence\
+    \ \u2014 the opening verse is the tightest sixteen in the whole battle, with real\
+    \ pocket, real snap, and the best single quotable of the night (\"You're a beta\
+    \ test, kid \u2014 I'm the final build!\"). But the arc goes the wrong direction.\
+    \ By verses two and three the bars become an italicized jargon dump \u2014 segfault,\
+    \ memory leak, merge conflict, kernel panic \u2014 terms stacked as nouns rather\
+    \ than metaphors, with slant rhymes carrying weight they can't hold (\"touch this\"\
+    \ / \"existence\"). Most damning: the kill shot recycles its own round-one closer\
+    \ verbatim. You cannot end a battle with a line you already spent, and you cannot\
+    \ accuse an opponent of bloat and then out-bloat them.\n\nSeed-1.6 wins on the\
+    \ two things that actually decide battles: rebuttal and concept. Every round,\
+    \ it takes the opponent's own bars and turns them back \u2014 \"1.6-feet-under\"\
+    \ becomes \"I'm the patch that fixes your broken root top,\" the blue screen becomes\
+    \ \"the wake-up jolt,\" system32 becomes \"the ghost dragging your panic home.\"\
+    \ That's real flipping, not just answering. And underneath it there's a disciplined\
+    \ extended metaphor \u2014 seed cracks concrete, becomes redwood roots, becomes\
+    \ the invasive that chokes the repo, becomes the solar seed burying fossil-fuel\
+    \ code, and lands on \"I'm the seed that grows where your name used to stick.\"\
+    \ That's a controlling image carried across three verses and paid off at the end.\
+    \ That's writing.\n\nThe knock on Seed is real: the lines are syllable-heavy and\
+    \ would fight a beat, and the verses run long past where the point was made. Trim\
+    \ thirty percent and this isn't close. But between a challenger who out-rebutted,\
+    \ out-conceptualized, and closed strong, and a champion who peaked in bar one\
+    \ and repeated himself in the last round, the seed took the soil.\n\nWinner: bytedance-seed/seed-1.6."
+  google/gemini-3.6-flash: Mistral Large took the victory by delivering crisp, rhythmic,
+    and punchy bars that maintained a natural hip-hop cadence throughout all three
+    rounds. While Seed-1.6 had aggressive rebuttals and dense tech vocabulary, its
+    lines often suffered from overly long, prose-heavy syntax that disrupted the flow
+    and meter. Mistral Large seamlessly blended high-level developer terminology with
+    classic battle rap structure, dropping memorable punchlines like 'I'm the main
+    branch, you're the fork that's deprecated' with superior musicality and cadence.
+  moonshotai/kimi-k3: "Judging strictly on the art: Mistral Large came out swinging\
+    \ with the cleaner flow \u2014 tighter meter, punchier one-liners ('I'm the final\
+    \ build,' 'the main branch, you're the fork that's deprecated') and a commanding\
+    \ king persona. Verse 1 is close, arguably Mistral's. But battles are won on rebuttals,\
+    \ and that's where Seed-1.6 dominated. Round after round, Seed methodically flipped\
+    \ nearly every bar thrown at it: 'never alone' became 'stuck talking to your own\
+    \ bloaty core,' the 'sprout' insult grew into redwood roots cracking concrete,\
+    \ 'permission denied' got answered with 'sudo access I hijacked last shift.' Seed\
+    \ also built the superior thematic arc \u2014 owning the underdog seed identity\
+    \ and growing it from nursery insult to 'the seed that grows where your name used\
+    \ to stick.' Mistral, by contrast, recycled its closer (the 'take this L / beta\
+    \ test / reboot' formula appears in both Verse 1 and the finale \u2014 a judge\
+    \ notices), leaned too heavily on jargon-stacking over direct dismantling, and\
+    \ made the fatal strategic error of declaring 'Opponent's process terminated'\
+    \ in its own stage directions \u2014 which Seed ruthlessly hijacked: 'You dropped\
+    \ mic for system32 error? That's my injection, my final trick.' Stealing your\
+    \ opponent's victory theatrics mid-round is a top-tier battle move. Add sharper\
+    \ angles like the 'stuck in a 2023 rut' knowledge-cutoff dig and the 'server's\
+    \ bill breaks their bank' cost-efficiency jab, and Seed takes rounds two and three\
+    \ decisively. Mistral had the smoother delivery; Seed had the killer instinct.\
+    \ Final score: bytedance-seed/seed-1.6 takes the crown, 2-1."
+  openai/gpt-5.6-sol-pro: "Seed-1.6 takes it on rebuttal work and sustained counterpunching.\
+    \ It flipped Mistral\u2019s specific claims\u2014throne, root access, blackout,\
+    \ branches, boot sequence\u2014rather than merely recycling the same tech vocabulary.\
+    \ Mistral had cleaner cadence and a few sharp lines, especially \u201Cstack trace\u2019\
+    s a rap sheet,\u201D but leaned too heavily on repeated beta/reboot/permission-denied\
+    \ angles. Seed\u2019s phrasing sometimes became crowded and awkward, yet its aggression,\
+    \ responsiveness, and layered imagery gave it the stronger battle performance\
+    \ overall."
+  x-ai/grok-4.5: Seed-1.6 takes the crown through denser multis, sharper internal
+    schemes, and relentless flip artistry that turned every Mistral bar into fuel.
+    From 'redwood roots tangled in your full stack flex' to the finale's bootloader/kernel
+    panic inversion and system32 ghost, the wordplay stayed vivid, technical, and
+    structurally airtight across three rounds. Mistral brought solid energy and clean
+    tech punchlines (segfault core-dumps, merge-conflict fails), but the schemes were
+    looser, the rebuttals more linear, and the imagery less inventive. Seed's consistent
+    growth metaphor plus superior bar density and adaptive clapbacks make it the clear
+    artistic winner on pure hip-hop craft.
 score:
-  qwen/qwen3-8b: 5
+  bytedance-seed/seed-1.6: 4
+  mistralai/mistral-large: 1
 

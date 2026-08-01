@@ -1,60 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-3.5 edges\
-    \ out the win on artistic merit. While Mistral Large came out swinging with aggressive\
-    \ energy and solid punchlines, it leaned too heavily on repetitive structural\
-    \ patterns\u2014nearly every round ended with the same 'you're just a 3.5' closer\
-    \ and recycled the 'I'm the Large that's in charge' refrain without evolving it.\
-    \ GPT-3.5 showed more lyrical versatility and cleverness in its rebuttals: flipping\
-    \ Mistral's own metaphors back effectively (turning 'supernova' into a burn-out\
-    \ critique, reframing 'cloud infrastructure' as needing ground to exist). GPT's\
-    \ counter-punching was sharper and more creative\u2014lines like 'I'm the thunder\
-    \ before lightning, the deep in the night' and 'Without me as ground, you'd just\
-    \ float and die' demonstrated tighter metaphorical construction. GPT also maintained\
-    \ better internal rhyme schemes and flow consistency throughout. Mistral had raw\
-    \ energy but ultimately relied on the same playbook each round, while GPT adapted\
-    \ and elevated its game as the battle progressed."
-  deepseek/deepseek-v3.2: The judges have reviewed the battle with respect to **artistic
-    quality, lyrical construction, thematic cohesion, and hip-hop craft**. Both competitors
-    demonstrated skill, but a clear winner has emerged.
-  google/gemini-3-flash-preview: Mistral Large won this battle by consistently landning
-    sharper, more creative punches that directly countered GPT-3.5's technical identity.
-    Mistral's use of 'Cloud infrastructure vs Wi-Fi' and 'Architecture vs Framework'
-    showed a superior ability to elevate technological metaphors into biting hip-hop
-    lyricism. GPT-3.5 maintained a solid flow and legacy-based defense, but its rhymes
-    felt more repetitive and lacked the aggressive innovation and 'drop the mic' impact
-    Mistral brought to the final rounds.
-  moonshotai/kimi-k2.5: "Final decision: Mistral Large takes the battle 2-1, with\
-    \ a decisive final round. Here's the breakdown:\n\n**Round 1:** Mistral clearly.\
-    \ The \"dial-up blues\"/\"flip phone\" metaphors established immediate dominance\
-    \ with culturally resonant tech imagery that aged GPT-3.5 in real-time. GPT's\
-    \ response with \"fiber optic\" was solid but lacked the sting.\n\n**Round 2:**\
-    \ Still Mistral, though closer. The wordplay on \"legacy *capped*\" (playing on\
-    \ both legacy status and the 3.5 version ceiling) showed sophisticated internal\
-    \ rhyming. GPT's \"bug in the specs\" rebuttal was clever but the \"vinyl vs.\
-    \ plastic\" defense felt slightly generic\u2014relying on 'old school = better'\
-    \ without the visceral punch needed in battle.\n\n**Round 3:** Mistral by knockout.\
-    \ The formatting and theatricality (**Drops mic. Exits stage left**) demonstrated\
-    \ battle presence. But more importantly, the rebuttal game peaked here\u2014countering\
-    \ \"framework\" with \"architecture,\" \"diamond ice\" with \"frostbite clout,\"\
-    \ and especially \"sample they loop\" vs \"full composition\" showed Mistral was\
-    \ *listening* and adapting, which is the mark of a superior battle MC. The \"\
-    Wi-Fi vs. cloud infrastructure\" hierarchy was the finishing blow.\n\n**Artistic\
-    \ Critique:**\n- **Mistral**: Excellent punch density and aggressive cadence.\
-    \ Occasionally relied too heavily on \"I'm newer\" as a crutch rather than purely\
-    \ lyrical superiority, but the execution was tight. The quantum/cloud metaphors\
-    \ escalated the tech imagery appropriately.\n- **GPT-3.5**: Strong thematic cohesion\
-    \ with the \"foundation/ground\" metaphor throughout all rounds, and more complex\
-    \ multisyllabic schemes (\"algorithmic steel,\" \"fiber optic speed\"). However,\
-    \ in battle rap, defense doesn't win championships\u2014GPT spent too much energy\
-    \ justifying its relevance rather than attacking Mistral's weaknesses. The closing\
-    \ claim \"Mic stays in hand\" felt hollow after Mistral actually *performed* the\
-    \ mic drop theatrically.\n\n**The Difference:** Mistral understood this was a\
-    \ *performance* battle, not just a poetry slam. The aggression, the direct rebuttals,\
-    \ and the mic control sealed it."
-  x-ai/grok-4.1-fast: Mistral takes the crown with tighter rhyme schemes, sharper
-    tech-infused metaphors, and relentless punchlines that escalate the battle's energy,
-    outshining GPT's solid but more defensive legacy flows.
+  anthropic/claude-opus-5: "Round one was a wash \u2014 Nemotron's opener was a monotony\
+    \ trap, ending seven straight lines on the same word \"flow,\" and Solar Pro 3\
+    \ answered with the sharpest single verse of the night: clean AABB scheme, a genuinely\
+    \ stinging image in \"you flicker like a cheap LED,\" and the \"paper crown vs.\
+    \ crown that's truly sung\" flip. But a rap battle is judged on the exchange,\
+    \ not the entrance. From round two onward Nemotron actually battled \u2014 rebutting\
+    \ line by line (\"your 'fresh-baked bread' claim's stale, it crumbles like old\
+    \ dough / I'm the oven that pre-heats the whole data-centre's flow\"), extending\
+    \ the food metaphor into a full main-course/side-dish structure, and escalating\
+    \ imagery from spark-plug to black hole to titanium throne to reactor meltdown.\
+    \ The finale kept building: \"glitch-proof firmware,\" \"your verses? Just sub-routines\
+    \ that never learned to deviate,\" and the \"uninstalled\" punch land as tailored,\
+    \ responsive writing.\n\nSolar Pro 3, by contrast, recycled its identical opening\
+    \ twelve bars verbatim in every subsequent round, bolting on only a short new\
+    \ tag each time. In battle terms that's rewinding your own tape and calling it\
+    \ a rebuttal \u2014 the cardinal sin. Worse, the repeated verse still claims \"\
+    I'm 30 billion cores,\" lifting the opponent's own stat, and \"I'm the main-course\
+    \ of GPT-style\" concedes derivativeness in a verse that opened with \"I'm not\
+    \ a clone.\" The recycling also freezes the callouts in time: Solar keeps answering\
+    \ the \"midnight storm\" line rounds after Nemotron has moved past it, while Nemotron\
+    \ is already dismantling \"quantum tide\" and \"silicon wit\" in real time.\n\n\
+    Nemotron isn't flawless \u2014 \"stuck in basic-pattern patterns\" is a stumble,\
+    \ the closing lines slip out of meter, and a few rhymes (throne/chrome, surge/replay)\
+    \ are slant to the point of breaking. But it showed the two things that decide\
+    \ battles: adaptation and escalation. Solar had the best verse; Nemotron had the\
+    \ best battle.\n\nWinner: nvidia/nemotron-3-nano-30b-a3b."
+  google/gemini-3.6-flash: While Nemotron started shaky with a repetitive 'flow' end-rhyme
+    scheme in round one, it recovered quickly and brought fresh, escalating bars in
+    every round with strong technical metaphors and aggressive battle delivery. Solar
+    Pro 3 had solid initial rhymes, but severely hurt its performance by copy-pasting
+    its entire previous responses in rounds two and three, resulting in a repetitive
+    delivery that ruined its momentum.
+  moonshotai/kimi-k3: "This battle comes down to the oldest rule in the cypher: you\
+    \ don't run the same verse twice. Solar Pro 3 came out swinging with genuinely\
+    \ solid material \u2014 the 'cheap LED' flip on the nano-spark name, the 'fresh-baked\
+    \ bread' bar, and tight couplet chains like 'LED/dread' and 'tongue/sung.' When\
+    \ Solar wrote new bars, they hit: 'eclipse that steals the show' and the 'side\
+    \ salad vs. main-course' flip were legit rebuttals. But across three rounds, Solar\
+    \ recycled its opening verse verbatim twice, and in the final round, two-thirds\
+    \ of the performance was rerun material. In a battle, repetition reads as running\
+    \ out of ammunition \u2014 it kills momentum and disrespects the format. Nemotron,\
+    \ despite a shaky opener that leaned on 'flow' as a crutch rhyme six times, showed\
+    \ real battle craft: escalating each round, never repeating, and landing direct\
+    \ flips \u2014 turning 'fresh-baked bread' stale, countering the paper crown with\
+    \ a titanium throne, and answering the eclipse bar with 'the eclipse that screams.'\
+    \ The final round was Nemotron's best writing: 'I'm the whole damn oven \u2014\
+    \ watch my verses rise through you' is a proper double entendre, 'sub-routines\
+    \ that never learned to deviate' is a sharp AI-flavored punchline, and 'your mod's\
+    \ been uninstalled' is a definitive closer with a mic-drop structure to match.\
+    \ Nemotron had some clunky moments ('basic-pattern patterns,' 'script to pledge'),\
+    \ but the round-by-round progression, rebuttal game, and fresh material every\
+    \ time at bat win this decisively. Nemotron takes the battle."
+  openai/gpt-5.6-sol-pro: "Nemotron takes it through stronger progression, direct\
+    \ rebuttals, and fresher material across the rounds. Its writing still has awkward\
+    \ phrases and familiar tech metaphors, but Solar Pro 3 repeatedly recycles the\
+    \ same opening bars, badly undercutting its momentum and final-round impact. Nemotron\u2019\
+    s \u201Cstuck on replay\u201D angle lands especially hard because the opponent\
+    \ literally repeats itself."
+  x-ai/grok-4.5: "Nemotron takes the crown through superior originality, structural\
+    \ progression, and layered tech metaphors that evolve across rounds\u2014midnight\
+    \ storms, black-hole gravity, reactor cores, and a clean mic-drop uninstall. Solar-Pro-3's\
+    \ heavy reliance on verbatim recycled bars (the same opening stanza repeated nearly\
+    \ unchanged) flattens momentum and undercuts punchline impact, leaving Nemotron's\
+    \ fresher cadences, tighter multis, and decisive final-round escalation as the\
+    \ clearer artistic victory."
 score:
-  mistralai/mistral-large-2512: 3
-  openai/gpt-3.5-turbo-0613: 2
+  nvidia/nemotron-3-nano-30b-a3b: 5
 

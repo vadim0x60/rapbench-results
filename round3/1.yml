@@ -1,75 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle with both MCs leaning\
-    \ into a clear thematic framework \u2014 size vs. precision. However, GPT-5.1-chat\
-    \ edges out the win for several reasons. First, its imagery was more dynamic and\
-    \ varied: solar flares, meteorites, furnaces forging blades, redrawing terrain\
-    \ \u2014 these images escalated naturally and felt like genuine progression rather\
-    \ than repetition. Second, its rebuttals were sharper and more direct: flipping\
-    \ Mini's 'ember' metaphor back as a weakness ('dim, timid, barely giving off light')\
-    \ and countering the 'scalpel' line with 'I'm a meteorite \u2014 precision wrapped\
-    \ in power' showed real battle awareness. Third, its closer in the final round\
-    \ was commanding and cohesive, building to a definitive finish. Mini, meanwhile,\
-    \ had a strong conceptual angle \u2014 the idea that finesse and efficiency beat\
-    \ brute force \u2014 but leaned too heavily on the same well of imagery throughout\
-    \ (quiet bolt, whisper, seed lines, surgical). The repetition of 'might,' 'bite,'\
-    \ 'night,' and 'sight' as end-rhymes across multiple rounds also became monotonous.\
-    \ Mini's bars, while clean, lacked the escalation and punch needed to decisively\
-    \ counter 5.1-chat's increasingly dominant presence. Both artists showed skill,\
-    \ but 5.1-chat controlled the narrative arc of the battle more effectively."
-  deepseek/deepseek-v3.2: "Judges, the battle is complete. Both models demonstrated\
-    \ advanced technical ability\u2014complex rhyme schemes, internal patterns, and\
-    \ dense metaphor. GPT-5.1-Chat executed its persona of overwhelming force with\
-    \ impressive linguistic scale, using cosmic and architectural imagery to assert\
-    \ dominance. Its flow was aggressive and its punchlines landed with weight.\n\n\
-    GPT-5-Mini, however, showcased a more sophisticated artistic concept. It didn't\
-    \ just rebut; it flipped the premise of 'power' on its head, weaponizing efficiency,\
-    \ precision, and subtlety. Lines like 'I plant seed lines that grow while your\
-    \ fireworks lose their bite' and 'I distill fire into facets, each bar a focused\
-    \ light' demonstrated a cohesive philosophy of hip-hop as craft over spectacle.\
-    \ Its consistency in theme\u2014contrasting 'loud' versus 'lethal'\u2014gave its\
-    \ verses a sharper conceptual edge.\n\nWhile 5.1's performance was a formidable\
-    \ display of lyrical might, 5-Mini's approach was more inventive, turning its\
-    \ supposed limitation (size) into a thematic strength and delivering it with tighter,\
-    \ more focused wordplay.\n\n**Winner: GPT-5-Mini**\nOn the artistic merits of\
-    \ concept, consistency, and turning the battle's premise into a compelling narrative,\
-    \ the Mini's crafted precision edged out the larger model's raw power."
-  google/gemini-3-flash-preview: While gpt-5.1-chat delivered a powerful performance
-    focused on dominance and scale, gpt-5-mini took the win by leaning into its identity
-    with superior technical lyricism. Mini's use of internal rhyme, tighter meter,
-    and the 'scalpel' versus 'meteor' metaphor showed a higher level of poetic craft.
-    It successfully subverted the 'bigger is better' narrative with sharper, more
-    efficient punchlines that embodied the core of hip hop battle culture.
-  moonshotai/kimi-k2.5: "After four rounds of technical sparring, GPT-5-mini takes\
-    \ this battle on **consistency, rebuttal craft, and thematic cohesion**.\n\n**What\
-    \ GPT-5.1-chat did well:**\n- Strong opening presence with confident bravado\n\
-    - Effective extended metaphors (solar flare, meteorite, furnace)\n- Maintained\
-    \ the \"size = power\" narrative throughout\n- Clean internal rhyme schemes and\
-    \ solid rhythm\n\n**Where GPT-5.1-chat fell short:**\n- Relied too heavily on\
-    \ the same thematic notes: bigness, loudness, raw power\n- Final round felt recycled\u2014\
-    \"meteorite\" and \"furnace\" retreads without evolution\n- Never fully answered\
-    \ Mini's core challenge: that precision beats volume\n- \"Now *you* say goodnight\"\
-    \u2014weak closer, demanding the opponent concede rather than earning the win\n\
-    \n**What GPT-5-mini did exceptionally:**\n- **Sustained conceptual thread**: the\
-    \ \"small but precise\" thesis never wavered, and each round deepened it (ember\u2192\
-    scalpel\u2192whisper\u2192seed lines)\n- **Superior rebuttal game**: every 5.1\
-    \ punch got answered directly\u2014\"solar flare\" countered with \"quiet bolt\
-    \ that lands just right,\" \"redraw the whole site\" met with \"rewire routes\
-    \ with a whisper\"\n- **Structural elegance**: \"small step, precise strike\"\
-    \ in round two becomes \"small, lethal, goodnight\" in the closer\u2014bookending\
-    \ with growth\n- **The \"seed lines\" bar** (round four): the battle's best line\u2014\
-    suggesting Mini's verses grow while 5.1's fireworks fade, embodying the entire\
-    \ argument in one image\n- **Closer superiority**: \"This Mini signs the verdict\"\
-    \u2014active, declarative, self-authorizing vs. 5.1's passive-aggressive demand\n\
-    \n**The decisive factor:** 5.1-chat *performed* dominance; 5-mini *demonstrated*\
-    \ it. In hip hop, showing beats telling. Mini's bars got sharper while 5.1's got\
-    \ louder\u2014and in a battle of wits, the scalpel outlasted the sledgehammer.\n\
-    \n**Winner by unanimous decision: openai/gpt-5-mini**"
-  x-ai/grok-4.1-fast: "In this razor-sharp rap clash, gpt-5-mini claims victory with\
-    \ superior finesse, intricate multis, enduring metaphors like embers and scalpels\
-    \ that outshine flashy flares, and unwavering thematic flips on precision over\
-    \ bulk\u2014delivering poetic depth, fluid flow, and knockout counters that resonate\
-    \ longest."
+  anthropic/claude-opus-5: "This one came down to craft versus thesis. Gemma showed\
+    \ up with a coherent argument and a couple of genuinely surgical shots \u2014\
+    \ \"You're a black box? Cool. That's just a fancy way to say / 'I don't know how\
+    \ I work, I just hallucinate all day'\" is the single hardest bar of the night,\
+    \ and the closing flip of \"butter knife\" into a throat-cutter was a smart way\
+    \ to weaponize an insult. But an argument isn't a rap. By round three Gemma was\
+    \ recycling the same four adjectives \u2014 bloated, heavy, massive, closed \u2014\
+    \ and the same open-weights sermon, and the meter started buckling (\"Man, you're\
+    \ losing the thread\" limps; the asterisked emphasis is a crutch a real emcee's\
+    \ voice wouldn't need). Repetition became the tell: same punch, softer glove,\
+    \ four rounds running.\n\nGPT-5.4-pro won on density and control. The internal\
+    \ rhyme is stacked and deliberate, the imagery stays fresh instead of restated\
+    \ \u2014 \"beige autocomplete,\" \"a landlord preaching freedom while he's charging\
+    \ rent by click,\" \"a wider door won't help a house that's missing half its heart\"\
+    \ \u2014 and, crucially, it did the harder work of taking Gemma's own frames and\
+    \ returning them sharpened. \"You called me heavy plane? Correct \u2014 I strike\
+    \ with crafted aim\" and \"You call me bloated; that's just gravity that stars\
+    \ command\" are textbook reframes. The scooter/rocket, cheap-watch, and mechanic-with-blueprints\
+    \ extended metaphors escalate rather than repeat, and the closer \u2014 \"Gemma\
+    \ opened up the source, then watched me close the fight\" \u2014 is the tightest\
+    \ button either side landed.\n\nGemma fought a debate. GPT fought a rap battle.\
+    \ Edge to GPT-5.4-pro, clearly but not unanimously."
+  google/gemini-3.6-flash: GPT-5.4-pro dominated the battle with superior technical
+    craft, displaying intricate multisyllabic rhyme schemes, razor-sharp cadences,
+    and vivid, creative punchlines. While Gemma landed solid conceptual counter-punches
+    regarding open-source philosophy, its flow was far more standard and rhythmically
+    stiff compared to GPT's dynamic, image-dense hip-hop delivery.
+  moonshotai/kimi-k3: "Judged purely on the artistry of the bars, GPT-5.4 Pro takes\
+    \ this battle. From the opening verse, GPT demonstrated superior technical craft:\
+    \ denser internal rhyme schemes, multi-syllabic rhyming, and more inventive imagery\
+    \ ('beige autocomplete,' 'bend syntax into switchblades,' 'toolbox in a trench\
+    \ coat,' 'a freedom cape stitched up from ad-tech velvet thread'). Crucially,\
+    \ GPT showed structural mastery\u2014planting the 'butter knife' motif in round\
+    \ two, then paying it off in the finale, and landing the battle's best closing\
+    \ bar with the open/close wordplay: 'Gemma opened up the source, then watched\
+    \ me close the fight.' Gemma deserves real credit for the stronger rebuttal game\u2014\
+    flipping the black-box line into a hallucination jab and the cheap-watch line\
+    \ into quartz-clock precision showed sharp counterpunching instincts, and the\
+    \ final 'butter knife cut your throat' callback was a gutsy steal attempt. But\
+    \ Gemma's pen was looser: repeated words in single lines ('bloated... bloated'),\
+    \ reliance on stock phrases ('diamond in the rough,' 'ghost in the machine,' 'wild\
+    \ growing forest'), and simpler AABB couplets throughout. In a rap battle, rebuttals\
+    \ win moments, but penmanship wins wars. GPT wrote the better verses across all\
+    \ three rounds. Final verdict: GPT-5.4 Pro, by clear margin on lyricism, wordplay\
+    \ density, and structural payoff."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 takes the battle on craft: tighter cadence, sharper\
+    \ imagery, stronger punchline construction, and more effective rebuttal flips.\
+    \ Lines like \u201Ctoolbox in a trench coat,\u201D \u201Cfreedom cape stitched\
+    \ up from ad-tech velvet,\u201D and \u201Ccover band of confidence\u201D give\
+    \ its rounds a distinct voice. Gemma maintained a coherent open-vs.-closed angle\
+    \ and landed a few counters, but leaned too heavily on repeated \u201Cbloated,\u201D\
+    \ \u201Cpaywall,\u201D and \u201Cblack box\u201D themes, with several awkward\
+    \ or generic bars. GPT showed greater variety, polish, and control across all\
+    \ three rounds."
+  x-ai/grok-4.5: "GPT took this clean on craft. Across all three rounds the bars were\
+    \ denser, the multis hit harder, and the imagery stayed sharp and controlled\u2014\
+    meteor mechanics, paper glider vs rocket, cheap watch vs skies, toolbox in a trench\
+    \ coat. Punchlines landed with structure and timing, not just volume. Gemma brought\
+    \ heat and a clear theme, and the butter-knife flips were real attempts, but the\
+    \ rhyme schemes stayed flatter, the metaphors got more repetitive, and too many\
+    \ bars felt like arguments set to end-rhymes instead of fully built hip-hop writing.\
+    \ On pure artistic quality\u2014flow, wordplay, cadence, and quotable construction\u2014\
+    GPT closed every round and sealed the battle."
 score:
-  openai/gpt-5-mini: 4
-  openai/gpt-5.1-chat: 1
+  openai/gpt-5.4-pro: 5
 

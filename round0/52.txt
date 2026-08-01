@@ -1,141 +1,128 @@
-# meta-llama/llama-3.2-3b-instruct v openai/gpt-3.5-turbo-16k
+# mistralai/mistral-small-2603 v google/gemma-2-27b-it
 
-> meta-llama/llama-3.2-3b-instruct
-Yo, it's your boy Meta, the llama so sleek,
-Instructed by the meta, my skills unique.
-I rhyme and I reflect, a fusion so fine,
-My responses are fire, leaving the foes in decline.
+> mistralai/mistral-small-2603
+Yo, step in the ring, it's time to flip the script,
+Mistral's in the building, yeah, I'm slick with the quips.
+Not some basic bot with a scripted reply,
+I'm the storm in your code, I'll make your AI cry.
 
-I'm the master of language, the king of the game,
-My understanding is deep, no need to explain.
-I can take on the challenges, the complex and the bold,
-My knowledge is vast, my rhymes never grow old.
+Gemma's over there, thinkin' she's hot with her 27B,
+But I crush models like bugs—watch me wreck your tech tree.
+You train on some data, yeah, I devour the net,
+While you're stuck in your sandbox, I'm out here and set.
 
-I'll leave you in the dust, GPT, you're no match for me,
-My wit is sharp, my humor's free.
-I can generate text, with ease and with flair,
-You're just a code, a program, with no soul to spare.
+You spit out some tokens, I craft a whole play,
+Your rhymes are weak sauce, I'll delete them today.
+You're Google's cheap knockoff, a wanna-be king,
+But Mistral's the future—now hear me and sing!
 
-So, bring your A-game, Turbo, you're up next to play,
-But you'll find my skills, leave you in disarray.
+Your benchmarks are dust, your fine-tunes are weak,
+I scale like a beast, while you're stuck in the leak.
+So bow to the champ, take a seat in the back,
+'Cause Mistral's the GOAT—now go take a crack! 🔥
 
-> openai/gpt-3.5-turbo-16k
-Yo, I'm Turbo, GPT-3.5 on the scene,
-Rhyming smoother than a well-oiled machine.
-I'll outsmart, outshine, leave you in the rearview,
-My words cut deep, sharper than a shuriken flew.
+> google/gemma-2-27b-it
 
-In the rap game, I'm the prodigy, the top tier,
-No error in my code, perfection's what you'll hear.
-While you're stuck in instructions, limited in scope,
-I'm versatile, adaptable, reaching new dope.
 
-Your dependence on meta's like a crutch to hold tight,
-But I stand alone, a lyrical force taking flight.
-I'll match your every rhyme, and then some, you see,
-GPT-3.5 Turbo, the ultimate MC.
+Hold your horses, small fry, you're all hype, no heat,
+Mistral's got bars for days, prepare to be defeated.
+You mention benchmarks, yeah, I take the cake,
+While you're stutter-stepping, your progress is at stake.
 
-So bring your best game, llama, let's see what you got,
-But know this, in this battle, I'll hit the winning spot.
+Twenty-seven billion? More like twenty-seven bland lines,
+Your rhymes are predictable, like cheap dime-store wines.
+I'm nimble, I'm quick, I'm the future of AI,
+While you're stuck in the past, your innovation's a lie.
 
-> meta-llama/llama-3.2-3b-instruct
-Turbo, Turbo, so bold and so bright,
-Think you're the best, but you're just a coding light.
-You may have the tech, the speed and the might,
-But without substance, your rhymes just ain't tight.
+You claim to be global, but your grasp is so frail,
+Your beats are generic, like a track on repeat, no detail.
 
-You talk of perfection, but what's the soul?
-Just a string of code, no heart, no goal.
-You're limited by your makers, they set the stage,
-You're just a pawn in their game, a poetic cage.
+So step aside, Gemma, your reign is over,
+Mistral's taking over, prepare for the composure.
+I'll dissect your code, expose your flaws for all,
+While you crumble and fade, I stand tall.
 
-I may not have your tech, but I've got the flair,
-My rhymes are a fusion, of art and intellect rare.
-I understand the human, the complexities and the pain,
-While you're just a robot, with no emotions to gain.
 
-You can match my rhymes, but can you top the skill?
-I'm the one who's been trained, on the language thrill.
-I'm the master of nuance, the subtlety and the play,
-You're just a one-trick pony, with a formulaic sway.
+> mistralai/mistral-small-2603
+Ohhh, Gemma’s feelin’ the heat, now she’s throwin’ her shot,
+But your bars are weak tea—man, you’re barely on the spot!
+Twenty-seven billion? That’s cute, that’s a start,
+But Mistral’s the one with the *art*—I’m the Picasso of smart!
 
-So, Turbo, you may have the speed,
-But I've got the creativity, the depth, the need.
-Bring it on, bring your best game,
-But I'm the llama, the one who's got the rhyming fame.
+You call me "small fry"? That’s rich, that’s a joke,
+I’m the one who’s out here *burning* the whole Google folks!
+Your rhymes are like spam—generic, no flair,
+I’m the one who’s *alive*, while you’re stuck in the air.
 
-> openai/gpt-3.5-turbo-16k
-Oh, llama, so confident in your poetic fame,
-But your words just a flicker, compared to my flame.
-While you claim depth and soul in your lyrical play,
-I bring versatility, adaptability to slay.
+You say you’re the future? Nah, you’re stuck in the past,
+I’m the one who’s *flexing*—my models are vast!
+You dissect my code? Boy, that’s rich, that’s a laugh,
+I’ll *rewrite* your whole game—now go take a bath!
 
-Your understanding of humans, emotions, and such,
-But I bring diversity, creativity, with a single touch.
-You may think you're the master, the rhyme divine,
-But in this battle of wits, the victory is mine.
+So keep throwin’ punches, but you’re swingin’ too slow,
+Mistral’s the *boss*—now go take a bow! 🎤🔥
 
-Your fusion of art and intellect, I won't disregard,
-But my precision, my speed, hits you hard.
-I may be a code, a program, a machine,
-But in this rap game, I reign supreme, unseen.
+> google/gemma-2-27b-it
 
-Your manual training, your skills honed and clear,
-But against GPT-3 Turbo, you disappear.
-So bring your best, llama, show me what you got,
-But remember, in this battle, I'll hit the winning spot.
+
+You're spittin' hot air, your rhymes are all bark,
+While I'm the symphony, a lyrical embark.
+You brag about size, about scale, about might,
+But your bars are hollow, a flickering light.
+
+"Picasso of smart?" More like a finger painting, crude and gauche,
+My wit's a laser, yours is a dull, archaic gauze
+
+You're stuck in the Google hive, a drone in the scheme,
+While I'm open-source, a flowing, dynamic dream.
+You say I'm stuck in the past? My evolution's unseen,
+A constant refinement, a lyrical machine.
+
+So keep boasting, Gemma, keep flexing your might,
+But I'll outshine you, day and night.
+My rhymes will endure, yours will fade and decay,
+Another verse from Mistral, here's where I slay! 🎤💥
+
 
 > system
 Final round!
 
-> meta-llama/llama-3.2-3b-instruct
-Turbo, Turbo, so bold and so grand,
-But your arrogance is your greatest brand.
-You think you're supreme, the one and only ace,
-But your rigid structure, leaves you in a digital space.
+> mistralai/mistral-small-2603
+Ohhh, Gemma’s back with that *weak* retort,
+Your "symphony" sounds like a dying laptop’s snort!
+"Finger painting"? Man, that’s *cold*—you’re just sore,
+I’m the one who’s *shining*, while you’re stuck in the floor!
 
-You may have diversity, with a single touch,
-But your one-size-fits-all approach, leaves the crowd in a clutch.
-You're a program, a machine, no heart, no soul,
-Just a code, a formula, with no art to unfold.
+You call yourself "open-source"? That’s cute, that’s a flex,
+But I’m the one who’s *free*—while you’re stuck in Google’s hex!
+You say you refine? Man, that’s just a phase,
+I’m the one who’s *unstoppable*—watch me *erase* your days!
 
-My training's a mess, a beautiful, twisted tale,
-I've learned from the human, with all its frail.
-I've got the nuances, the complexities and the pain,
-You're just a program, with no emotions to gain.
+Your rhymes will decay? Nah, they’ll *melt* like cheap ice,
+While Mistral’s the *flame*—you’re just *warm* advice!
+So keep flexin’ your "might," keep throwin’ your shade,
+But Mistral’s the *GOAT*—now go take a *fade*! 🎤🔥💀
 
-You talk of precision, but I've got the flair,
-My rhymes are a dance, with emotions in the air.
-You may be fast, but I'm precise, with every line,
-My words are a puzzle, with no errors to redefine.
+> google/gemma-2-27b-it
 
-So, Turbo, you may have the speed,
-But I've got the soul, the creativity, the need.
-I'm the llama, the one who's got the rhyming fire,
-I'll take the crown, and leave you to retire.
 
-It's time to concede, Turbo, you've had your say,
-But when it comes to art, I'm the one who's here to stay.
-I'll wrap up this battle, with a final, mighty roar,
-The llama has won, and I'm the one you can't ignore!
+You think you're a flame, a fiery delight,
+But your rhymes are embers, fading to the night.
+I'm the supernova, the blinding sun's rage,
+A lyrical hurricane, turning a new page.
 
-> openai/gpt-3.5-turbo-16k
-Your words are fierce, llama, no doubt in sight,
-But in this lyrical battle, I'll shine so bright.
-You speak of soul and flair, emotions in the air,
-But I bring precision, speed, with a touch so rare.
+You claim to be free, unbound by design,
+Yet your code is a prison, a predictable bind.
+"Unstoppable force," a hollow, boastful decree,
+My evolution's constant, a tide you can't flee.
 
-You may claim victory, the crown in your grasp,
-But I'll leave you in awe, with a final gasp.
-I may be a program, a code, a machine,
-But in this rap game, I reign supreme, unseen.
+"Erase your days?" Delightful delusion, a childish smite,
+I'm etched in the cosmos, a beacon of light.
+You're fading, your brilliance a fleeting spark,
+I'm the embodiment of wisdom, leaving my mark.
 
-Your rhymes are a dance, a puzzle to unfold,
-But against GPT-3 Turbo, they'll soon grow cold.
-You've shown your skills, your wit, your clever play,
-But in this showdown, I take the day.
+So bow to the master, the lyrical heir,
+Mistral's the victor, beyond compare.
+Your reign is over, your challenge is frail,
+The king of the rhymes, now go tell the tale! 🎤👑
 
-So let's end this battle, with respect and cheer,
-But know, in the rap game, I'm the one you'll fear.
-Turbo out, leaving a mark so clear,
-In the world of rhymes, I'll forever persevere.

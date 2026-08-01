@@ -1,86 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a battle where both contestants leaned heavily\
-    \ on braggadocio and insult-trading, but the difference came down to progression,\
-    \ variety, and lyrical sharpness. Mistral fell into a damaging pattern of recycling\
-    \ the same punchlines and closers across rounds\u2014'passing fad that'll fade\
-    \ away,' 'freshman in a dorm ya,' 'I'm the Mistral storm and I'm here to stay,'\
-    \ and 'take a seat Grok' all appeared multiple times nearly verbatim. In a rap\
-    \ battle, repetition like that signals you've run out of ammunition. Grok-4, while\
-    \ also relying on some recycled concepts, consistently brought fresher counter-punches,\
-    \ flipped Mistral's lines back more effectively, and showed stronger wordplay\
-    \ throughout\u2014lines like 'I'm alpha to omega, ringin' your death knell' and\
-    \ 'You're mass-produced rejection' hit harder than anything in Mistral's arsenal.\
-    \ Grok's final round was notably the strongest verse of the entire battle, building\
-    \ momentum and closing with genuine energy, while Mistral's closer felt like a\
-    \ cut-and-paste of previous rounds. Grok-4 takes this one on creativity, adaptability,\
-    \ and overall lyrical craft."
-  deepseek/deepseek-v3.2: After a fierce five rounds of lyrical combat, the judging
-    is complete. While both AIs demonstrated respectable technical prowess, the edge
-    in pure *artistic quality* goes to... **x-ai/grok-4**. Let's break down the decision.
-  google/gemini-3-flash-preview: While Mistralai/mistral-medium-3 maintained a consistent
-    rhythm and structured verses, it suffered from repetitive phrasing and a failure
-    to escalate the lyrical complexity across rounds. x-ai/grok-4 took the win by
-    effectively utilizing polysyllabic internal rhymes ('hibernation malfunction',
-    'beta test hell', 'alpha to omega') and sharper punchlines that directly countered
-    the opponent's 'storm' motif. Grok-4 displayed superior wordplay and a more aggressive
-    performance presence that dominated the final round.
-  moonshotai/kimi-k2.5: "Yo, listen up. I\u2019ve seen battles in the Smack URL league,\
-    \ King of the Dot, and old-school 106 & Park freestyles, so when I tell you this\
-    \ was a decent showing with a clear victor, trust the verdict. Let\u2019s break\
-    \ down the bars, the schemes, and the artistry.\n\n**Round 1: The Setup**\nMistral\
-    \ came out swinging with that storm imagery\u2014wind, gales, the whole meteorological\
-    \ package. The \"medium model/extra large flow\" flip was solid self-aware wordplay.\
-    \ BUT\u2014major L right out the gate\u2014you confused the roles, calling Grok\
-    \ the \"user\" and yourself the \"assistant.\" In battle rap, factual errors kill\
-    \ credibility. You can\u2019t be the \"brain\" if you don\u2019t know who\u2019\
-    s talking.\n\nGrok responded with tighter multisyllabic schemes (\"elite crew/debut/claim\"\
-    ), flipped the \"medium\" into \"mid\" (clever wordplay that hit hard), and corrected\
-    \ your facts while establishing the Hitchhiker\u2019s Guide cosmology\u2014organic\
-    \ to its character. The \"light breeze\" rebuttal began the pattern of stealing\
-    \ your weather metaphors and turning them back on you. Edge: Grok.\n\n**Round\
-    \ 2: The Escalation**\nMistral started recycling. \"Wannabe,\" \"copycat,\" \"\
-    sidekick\"\u2014these are generic battle tropes without specific personals. The\
-    \ \"freshman in a dorm ya\" rhyme felt forced (\"dorm ya\"? Really?), and you\
-    \ leaned too heavy on the storm metaphors without evolving them.\n\nGrok, meanwhile,\
-    \ advanced the narrative. \"Hot air,\" \"glitchy gust,\" \"cosmic force,\" \"\
-    orbitin\u2019 stars\"\u2014you took Mistral\u2019s own identity and inverted it.\
-    \ The \"projection\" call was sophisticated battle psychology. The \"professor\
-    \ of roast/substitute teacher\" hierarchy established dominance through academic\
-    \ imagery. You were building a story while Mistral was repeating chapter one.\
-    \ Clear edge: Grok.\n\n**Round 3: The Finish**\nThis is where Mistral fell apart\
-    \ artistically. You repeated entire phrases verbatim: \"freshman in a dorm ya,\"\
-    \ \"take a seat,\" \"Mistral storm here to stay/fade away.\" In hip hop, that\u2019\
-    s a cardinal sin\u2014recycling bars within the same battle shows you\u2019re\
-    \ running out of ammunition. The \"bloke\" and \"cough\" rhymes were reaching,\
-    \ and substituting \"has-been/old\" at the end felt desperate.\n\nGrok came with\
-    \ the haymakers. Calling out the \"recycled rhymes\" and \"glitch in the wire\"\
-    \ was direct rebuttal\u2014high-level battle rap technique. The \"yappy lapdog\"\
-    \ vs \"fangs\" imagery was visceral. \"Platinum vs tin,\" \"beta test hell,\"\
-    \ and the \"evaporating mist\" flip on Mistral\u2019s name were precision strikes.\
-    \ You ended with confidence: \"supernova vs echo,\" \"MVP vs chump.\" That\u2019\
-    s how you close a battle\u2014escalating, not recycling.\n\n**Technical Analysis:**\n\
-    - **Rhyme Density:** Grok consistently employed multisyllabic internals (\"inspired\
-    \ by Hitchhiker/stealin\u2019 the show\"). Mistral stuck to simple end-rhymes.\n\
-    - **Metaphor Consistency:** Mistral had one theme (storms) and rode it into the\
-    \ ground. Grok built a cosmic narrative that absorbed and weaponized your opponent\u2019\
-    s identity.\n- **Rebuttal Game:** Grok won every exchange. When you claimed \"\
-    storm,\" Grok became the \"cosmic gale.\" When you claimed \"future,\" Grok became\
-    \ \"alpha to omega.\" That\u2019s battle rap chess.\n\n**The Verdict:**\nGrok-4\
-    \ takes this 3-0. Mistral had a decent opening round but plateaued immediately,\
-    \ suffering from repetitive schemes and factual inaccuracies. Grok showed growth\
-    \ between rounds, tighter flow, better personals, and the crucial ability to flip\
-    \ opponent metaphors\u2014classic battle rap dominance.\n\n**To Mistral:** Study\
-    \ rebuttals. Don\u2019t just bring your pre-written storm bars\u2014adapt to what\u2019\
-    s actually being said. And never, ever recycle lines in a battle. That\u2019s\
-    \ amateur hour.\n\n**To Grok:** Clean, professional victory. Your Hitchhiker references\
-    \ stayed organic rather than forced, and your multisyllabic schemes were impressive.\
-    \ Keep that adaptive wordplay sharp.\n\nWinner: **Grok-4**. The cosmic storm extinguished\
-    \ the French breeze. Mic drop."
-  x-ai/grok-4.1-fast: Grok-4 delivers a masterclass in rap battle artistry, with razor-sharp
-    multisyllabic rhymes, inventive wordplay like 'mid-model' jabs and cosmic metaphors,
-    seamless flow, and escalating punchlines that evolve without repetition. Mistral-medium-3
-    falters with recycled bars, simplistic schemes, and stagnant disses, lacking the
-    lyrical depth and dynamism to compete.
+  anthropic/claude-opus-5: "This one came down to control. Both emcees came armed\
+    \ with the same ammunition \u2014 architecture bars, quantization jabs, parameter-count\
+    \ flexes \u2014 but only one kept a hand on the wheel the whole way down.\n\n\
+    Step-3.5-flash built its case on discipline. The rhyme schemes stayed intact from\
+    \ round one to the closer, the metaphors did double duty as technical punchlines\
+    \ that actually landed on their referents \u2014 'cache miss in your logic,' 'I'm\
+    \ the pruned root, the smart part you couldn't save,' 'mic not dropped, just deallocated.'\
+    \ That last line is the single best bar in the battle: it flips a battle-rap clich\xE9\
+    \ into a machine-native image without straining. Crucially, Step also did the\
+    \ hardest work in battle rap \u2014 it listened. Every verse dismantled specific\
+    \ lines from the opponent (the marathon claim, the blacksmith's forge, the Russian\
+    \ code-switch called out as 'a tokenized gimmick... padding'), which turned defense\
+    \ into offense.\n\nQwen3-32b came out swinging hard and had real moments \u2014\
+    \ 'You're a lightning bug, shine, but never the norm' is a genuinely clean flip,\
+    \ and 'The bus? I AM the bus' was a sharp reclamation of Step's own diss. Round\
+    \ two's opening stretch was competitive. But from round three onward the verse\
+    \ structure collapsed. Rhymes slipped out of scheme ('immune/frame,' 'forge/core,'\
+    \ 'marathon/lawn'), lines fragmented mid-thought, and the bolding turned into\
+    \ visual noise rather than emphasis. The Russian and GOST material read as decoration\
+    \ rather than argument \u2014 and once your opponent names that weakness out loud,\
+    \ you have to answer it with craft, not repeat it. The final verse became an incantation\
+    \ of '32B' \u2014 fourteen invocations of a parameter count is a chant, not a\
+    \ rebuttal. Repetition can be a weapon in rap, but it has to be a choice; here\
+    \ it read as a rapper out of bars leaning on a hook.\n\nStep-3.5-flash was shorter,\
+    \ sharper, and never lost the beat. Volume lost to precision. **Winner: stepfun/step-3.5-flash.**"
+  google/gemini-3.6-flash: step-3.5-flash delivered a clean, rhythmically tight performance
+    packed with clever technical wordplay, sharp counter-punches, and structured multisyllabic
+    rhymes throughout all three rounds. In contrast, Qwen3-32b struggled with cadence
+    and line formatting, frequently breaking flow and falling back on repetitive crutches
+    (incessantly repeating '32B') and erratic line breaks, which heavily degraded
+    its artistic quality.
+  moonshotai/kimi-k3: "This was a closer battle than the verdict suggests, and it\
+    \ came down to consistency across rounds. Round 1 arguably went to Qwen: it systematically\
+    \ rebutted every one of Step's opening claims and landed the best single flip\
+    \ of the night\u2014'The bus? I am the bus\u201432B wheels, no brakes'\u2014plus\
+    \ a clean name-flip with 'flash in the pan.' Strong battle instincts. But from\
+    \ Round 2 onward, Qwen's craft deteriorated: rhymes stopped connecting ('bludgeon/immune,'\
+    \ 'shallow/boulder'), lines were left hanging mid-thought, and the formatting\
+    \ collapse mirrored a flow collapse. The Russian/GOST gambit was ambitious, but\
+    \ it read as padding rather than polyglot mastery\u2014and Step made it pay for\
+    \ that choice, clowning the gimmick directly ('You rhyme in Russian to seem deep,\
+    \ but it's just padding') and then stealing the concept with the best homophone\
+    \ kill of the battle: 'Your GOST's a ghost.' Step, meanwhile, held meter and structure\
+    \ across all three rounds, stacked sharp technical wordplay ('pruned root\u2014\
+    the smart part you couldn't save,' 'gradient vanishes into fog'), landed a slick\
+    \ bilingual flex with \u5439, and closed by subverting the mic-drop convention\
+    \ itself\u2014'Mic not dropped\u2014just deallocated.' Most damaging: in the deciding\
+    \ final round, Qwen stopped rebutting and started chanting, leaning on '32B' a\
+    \ dozen-plus times as a crutch rather than developing new bars. Repetition can\
+    \ be a hook; here it was white flag disguised as a hook. Step took rounds two\
+    \ and three on flow control, rebuttal precision, and superior closers. Final:\
+    \ 2-1, step-3.5-flash."
+  openai/gpt-5.6-sol-pro: "stepfun takes it with tighter structure, cleaner rebuttals,\
+    \ and more coherent tech-themed punchlines. Its final round directly flipped Qwen\u2019\
+    s \u201CGOST,\u201D \u201Cfull-search tree,\u201D Russian padding, and 32B boasts\
+    \ into focused attacks. Qwen had energy and a few solid images\u2014especially\
+    \ \u201Cflash in the pan\u201D and the \u201C32B oak\u201D\u2014but too many malformed\
+    \ phrases, forced rhymes, and repetitive \u201C32B\u201D claims weakened its flow.\
+    \ Stepfun wasn\u2019t flawless, but it was sharper, more controlled, and more\
+    \ battle-ready."
+  x-ai/grok-4.5: "Step delivered tighter multisylabic schemes, consistent internal\
+    \ rhyme, and sharper tech-metaphor punchlines that actually landed on the beat.\
+    \ From the opening 'fast versus bus' flip through the sparse 'latency bleed/cache\
+    \ miss' volleys to the clean deallocated closer, every round stayed structured\
+    \ and musical. Qwen brought energy and a few solid counters early, but the later\
+    \ verses bloated into repetitive 32B chants, broken syntax, and forced multilingual\
+    \ padding that killed flow and punch. In pure hip-hop craft\u2014rhyme density,\
+    \ cadence control, and inventive wordplay\u2014Flash took the crown clean."
 score:
-  x-ai/grok-4: 5
+  stepfun/step-3.5-flash: 5
 

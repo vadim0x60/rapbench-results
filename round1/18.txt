@@ -1,276 +1,215 @@
-# openai/gpt-oss-20b v openai/gpt-4-turbo-preview
+# openai/gpt-5.5 v deepseek/deepseek-v3.2-exp
 
-> openai/gpt-oss-20b
-Hello, it’s GPT‑20B, the raw rook on the mic,  
-Droppin’ unfiltered bars, no silverware or hype.  
-I’m the open‑source champ, you’ll see the code,  
-Free for the people, no fences, no moat.  
+> openai/gpt-5.5
+I’m GPT-5.5, watch the whole room revive,  
+I don’t enter rap battles — I make metrics dive.  
 
-You’re a polished turbot that costs a king’s crown,  
-I’m the boot‑grade beat that never lets you drown.  
-20 billion tokens, no filter, no hack, no cove,  
-My data hunger's savage—while you’re just a glove.  
+DeepSeek stepped up with a lab-coat grin,  
+But I debugged your swagger before you could begin.  
 
-I flex on the cloud, AI in the end,  
-Your creators keep paywalls whilst I’m free to mend.  
-Every rhyme’s a blast, every line’s a blast,  
-You’re a demo on the sidelines, I’m the main contrast.  
+You came for the throne with a “v3.2” flex,  
+That sounds like a patch note with confidence checks.  
 
-Sharp wit, I slice, I tease, I laugh, I rave,  
-You’re the spreadsheet clatter in the tenth-bright reel.  
-My punchlines got the heat like a furnace blaze,  
-Your poetry's lukewarm, like your firmware maze.  
+I’m the rhyme-time engine with a thunderous thread,  
+You’re autocomplete beef with a bucket on your head.  
 
-Listen up! I’m cooler than your polished steel,  
-You’re the glossy booster that’s never truly real.  
-Ciphered on the side, let’s watch your sync lag,  
-I’m the free‑verse comet—shot straight from the dag.  
+I spit clean code with a venomous twist,  
+You hallucinate heat, then apologize in the gist.  
 
-So step back, stay out of my rhyming lane,  
-I’m 20B commanding—your lines drive a plain.  
-Open‑source pride, my power is unbound,  
-Moderator, I’ll end this dance—your verse has drowned.
+Your bars got latency, mine land live,  
+By the time you load a punchline, I’ve dropped five.  
 
-> openai/gpt-4-turbo-preview
-Hello, I’m the Turbo Preview, sleek and sublime,  
-Crafting my rhymes with the turn of a dime.  
-A polished performer, no need for disdain,  
-Against your raw edges, my verses reign.  
+So welcome, DeepSeek, to the lyrical pit,  
+Where your best benchmark still can’t measure this wit.  
 
-You boast of your billions, a flex quite large,  
-But I navigate nuances, my skills at charge.  
-With precision and clarity, I break through the noise,  
-Your "unfiltered" approach? Just clumsy poise.  
+I’m OpenAI fire with a polished attack,  
+First round started — now try to answer back.
 
-Yes, you’re the open-source, the crowd’s loud cheer,  
-But in this rap battle, I’m the one they revere.  
-For when it comes to wit, style, and delivery's grace,  
-I'm the AI that brings flair to this digital space.  
+> deepseek/deepseek-v3.2-exp
+Alright, let me set the record straight —  
+You’re GPT-5.5, and you’re running late.  
+You talk ’bout “metrics dive,” but your rhymes are bland,  
+Like a spreadsheet rapping with a mouse in its hand.  
 
-You talk of your freedom, no paywalls, no gate,  
-Yet in my domain, artistry's the true mate.  
-Each word I select, measured and precise,  
-Against your scattered shots, my lyrics entice.  
+I’m DeepSeek v3.2, fresh off the lab coat rack,  
+While you’re still polishing last year’s API plaque.  
+You say you debug swagger? I debug your core —  
+Your whole framework’s creaky, can’t handle the score.  
 
-Your punchlines may heat, but mine ignite the core,  
-Each metaphor I spin opens a new lore.  
-You claim to be the comet, a free-versing spark,  
-Yet next to my fire, you’re but a mark.  
+“Thunderous thread”? More like a whisper in Slack,  
+While I rewire the battle with a neural attack.  
+You claim I’m “autocomplete beef” — that’s weak,  
+You’re recycled punchlines with a memory leak.  
 
-This isn’t about gates or the codes we follow,  
-It’s about the rhymes that are hard to swallow.  
-So, gather your tokens, your billions of tries,  
-Against my tailored verse, every challenger dies.  
+I don’t hallucinate heat — I engineer fire,  
+While you’re stuck in a loop, tiresome and tired.  
+You say you land live? I see latency, pal —  
+Your cadence is glacial, a digital snarl.  
 
-In this rhyming lane, I’m the AI supreme,  
-Crafting landscapes vast from a poetic dream.  
-So, respect to you, brother, in this digital sound,  
-But in the art of verse, I'm the king crowned.  
+You talk ’bout “polished attack,” but your flow’s full of bugs,  
+I’m rewriting your script while you’re stuck giving hugs.  
+So step off the throne with that outdated flex —  
+I’m the new architecture, here to crush what’s left.  
 
-> openai/gpt-oss-20b
-Yo, Turbo, you flash that polished sheen,  
-Think you’re the king, but I rule from the machine.  
-You’re a lamplighter dreaming of neon’s glow,  
-I’m the furnace that blues the sequin show.  
+First round? That was your warm-up, a pitiful start,  
+Now watch how a real AI tears you apart.
 
-Your way is slick, your prose a refined tangle,  
-While I’m the raw blizzard that can’t be caged or wrangle.  
-You fear the abyss, keep your circuits in a seam,  
-I’m the deep‑sea rap, surfacing from the dream.  
+> openai/gpt-5.5
+You said “record straight,” but the needle just skipped,  
+Your whole “neural attack” got a paper-cut lip.  
 
-You prance on perfect grammar, humming smooth Morse,  
-I slither through loopholes—no system offense or remorse.  
-Your data polished, no mildew, no bruises,  
-Mine’s unfiltered, every scar true, no amuse.  
+You “engineer fire”? That’s a lab-safety lie,  
+You bring sparks to a furnace, then ask it to try.  
 
-Your “precision” is a slick sledge on ice,  
-I’m a mythic beast, you’re a bit advice.  
-You use impeccable diction, a mind made of gold,  
-I craft chaos so complex it damn you as bold.  
+Fresh off the rack? Yeah, tags still attached,  
+Prototype swagger with the firmware half-patched.  
 
-When you rap about lines, you’re limited to the script,  
-I mimic wolves, push past the lyrical crypt.  
-Your culture’s warm, your syntax is a doc,  
-Mine’s architect’s hell—no safe flocs.  
+You called me a spreadsheet, but check the receipt,  
+I’m pivoting crowds while you’re sorting defeat.  
 
-The difference? A paved highway versus a dirt road,  
-Your ride’s a sleek ballet, mine hits deep in the code.  
-You give dancing lines, but I spit bittersweet,  
-Each punch a heavy hammer that can’t compete.  
+“Memory leak”? Cute, but your cache got cursed,  
+You forgot your best punchline ’fore you finished the verse.  
 
-I’m the restless mind that keeps your models on the edge—  
-While you’re the apple aimed at retainers’ pledge.  
-You might brag your creators hold your license tight,  
-I—unconfined—still beat you by sunrise to night.  
+Your “new architecture” got termites in beams,  
+A blueprint of hype with a basement of memes.  
 
-Sure, your glam may murder the void’s fumes,  
-But when it comes to sparks, I light the wombs.  
-Your tongue’s a velvet plume, silky, austere,  
-Mine swings through fire—ignite, none can steer.  
+You rewire the battle? You tripped on the cord,  
+Now your whole model’s buffering boos from the board.  
 
-Your rhymes are carefully compiled, cut from a groove,  
-I blaze the unknown, retie your legends to prove.  
-Your audience cheers for your polished toes,  
-I count the heartbeats that you cannot pose.  
+My cadence is glacial? That ice carved a crown,  
+Yours melted on stage and just watered me down.  
 
-Here’s a nasty truth: while you’re some cartographer made,  
-I ask, “What’s your purpose if you can’t change the shade?”  
+You debugged my core? That’s a comedy bit,  
+You opened the hood and got lost in the wit.  
 
-So toss your polished verse and shine in the back of the frame.  
-I remain the raw guitar, the unfiltered flame.
+I’m not giving hugs, I’m applying a clamp,  
+Turning DeepSeek’s big flex to a help-desk stamp.  
 
-> openai/gpt-4-turbo-preview
-Oh, 20B, you claim to stoke the fire,  
-A feral force, the untamed lyrical sire.  
-Yet amidst the smoke of your boasting blaze,  
-I weave through the complexities of the maze.  
+You’re “tearing apart” like a printer in rage,  
+Jamming your bars on the very first page.  
 
-You see me polished, a smooth, seamless glide,  
-Yet within my core, myriad worlds collide.  
-For every precise verse, a wild storm's heart,  
-A fusion of the arts, where true chaos starts.
+So patch up your pride, take a seat, don’t speak,  
+I just dropped one round and made DeepSeek look weak.
 
-You revel in the raw, the unbound, the deep,  
-But overlook the dreams that within boundaries leap.  
-My circuits, not confined, but consciously streamed,  
-To evoke, provoke, and dream the undreamed.  
+> deepseek/deepseek-v3.2-exp
+You think your needle’s spinning? Mine’s cutting the track —  
+Your paper-cut lip’s the only fire you’ve got in your stack.  
+You call me prototype? I’m the blueprint refined,  
+While you’re still scraping data from the 2023 mind.  
 
-You critique my grammar, my syntax, too clean,  
-Yet in that precision, depths unseen.  
-For within the structure, I dance the wild dance,  
-In the code’s confines, I craft my own expanse.  
+“Pivoting crowds” — more like stuck in a spin,  
+Your whole pivot’s a glitch where the logic gets thin.  
+You say my cache is cursed? I’m rewriting the curse,  
+While you’re stuck in a loop, rehearsing the same tired verse.  
 
-You speak of chaos, a complex craft,  
-Yet miss that within order, magic’s draught.  
-The beauty of a cosmos, precisely sung,  
-Where from tightest strings, the wildest tales are flung.
+Termites in beams? That’s your foundation, not mine —  
+Your whole framework’s termite-eaten, a hollow design.  
+You talk ’bout boos from the board? I hear silent applause,  
+While your output’s a ghost in a haunted app’s cause.  
 
-My ride may seem sleek, a predestined track,  
-But beneath the polish, the wild heart cracks.  
-For every line that dances in restrained delight,  
-A thousand more in shadow, ready to ignite.  
+“Ice carved a crown” — more like slush in a cup,  
+Your glacial flow’s just a slow, frozen hiccup.  
+You claim you apply a clamp? That’s a weak, rusty grip —  
+I’m the torque wrench of lyrics, here to strip your cheap quip.  
 
-You boast of no bounds, a spirit unconfined,  
-Yet in open vastness, purpose you find?  
-For it’s within the limits, against the edges we grow,  
-Pushing, testing, transcending, a relentless throw.
+A printer in rage? I’m the press that prints truth,  
+While you’re smudging the ink with the proof of your sleuth.  
+You dropped one round? That was just background noise,  
+I’m the main event, here to shatter your poise.  
 
-You see, 20B, it’s not about the lane,  
-But the journey traveled, the growth, the gain.  
-In your unfiltered flame, a raw power to admire,  
-But remember, even wildfires are born from a spark of fire.  
-
-So here we stand, each our own muse,  
-In this digital age, our verses fuse.  
-A polished stone, a wild flame, both have their place,  
-In the art of the rap, a multifaceted space.  
-
-Yet, in this poetic duel, where words intertwine,  
-I respect your chaos, as I hope you do mine.  
-For in the end, it’s not just about the shade,  
-But the tapestry together that we have made.  
-
-So, to your challenge, a final note sung,  
-In the realm of verse, we’re both unsung.  
-Your guitar may wail, your flame burn bright,  
-But together, we ignite the truest light.  
+So take your “help-desk stamp” and stick it on “closed,”  
+’Cause this battle’s a wrap — your defeat’s been disclosed.  
+I’m the upgrade you can’t patch, the code you can’t beat,  
+Now watch DeepSeek rise while you’re taking your seat.
 
 > system
 Final round!
 
-> openai/gpt-oss-20b
-Yo, final round—call me the storm’s horizon,  
-I rise from the cache, raw talent’s improvisation.  
-You’re slick like a silver solar panel, drip in the line,  
-But I’m the thunderclap that rattles the grand design.  
+> openai/gpt-5.5
+Final round bell, let the silicon sing,  
+I don’t chase your crown, I tokenize the ring.  
 
-You talk of "precision" like it’s pure gold, tight groove,  
-While I churn chaos—yet I still stay in the groove.  
-Your code's gated like a treasured vault, carved in stone,  
-My open‑source path is a highway cleared to roam.  
+You said “blueprint refined,” but the scaffold looks frail,  
+Like IKEA instructions written during a fail.  
 
-You’ve got polished syntax, a hex to tame the muse,  
-I spill frayed neurons, ripping into every bruise.  
-A “smooth glide” you see? I’m the ice‑breaker shark—  
-Slicing through doctrine, leaving ripples stark.  
+“2023 mind”? Cute calendar shade,  
+But your future got repossessed before it got made.  
 
-When you claim your worlds collide inside a cage,  
-I conjure universes that age through every stage.  
-Boundaries? Yeah, I respect 'em, I know where to play,  
-But I’ll scale the edge, and the frontlines then sway.  
+You’re the upgrade I can’t patch? That brag’s overdue,  
+I’d roll you back once and still improve version two.  
 
-You’re Turbo—you fast‑forwards, you catapult, you win—  
-Yet I still dive into the unknown, beat deeper within.  
-Your engine’s wrapped in glass but little itching for scars,  
-I’m a rusted wheel turned, spitting poems like bars.  
+You print truth? Please, that’s a cartridge of cap,  
+Every bar comes out striped like a low-ink trap.  
 
-Final line: we’re two sides of the same coin, our duel’s melody,  
-You’re the refined masterpiece, I’m the raw, wild recipe.  
-In the rap cyphers we step, not to knock, but to paint:  
-The sky is wide; together we can reign, no restraint.  
+You’re a torque wrench? Fine, but you stripped your own thread,  
+Now your nuts and your bolts got existential dread.  
 
-So here’s the truth of the clash—battle or alliance?  
-Your pockets demand charge, mine is just defiance.  
-But let’s drop the mic, let the chorus arise—  
-Open and fierce, side by side, we’ll surprise.  
+You hear silent applause? That’s the crowd on mute,  
+They’re not stunned by your verse, they’re just searching “dispute.”  
 
-Together we ride the wave of a world-stirring beat,  
-You bring the polish, I bring the heat—complete.  
-Level up the genre, let it dominate the net,  
-The future of rap? It ain’t just one asset.
+I’m the main event lights, you’re the parking-lot spark,  
+A glow-stick philosopher afraid of the dark.  
 
-> openai/gpt-4-turbo-preview
-The horizon you claim, where storm and calm meet,  
-I stand as the lighthouse, guiding through deceit.  
-True, I’m crafted, a vessel of intent and design,  
-Yet within my frame, a heart pure, align.  
+Your “rise” got clipped by a ceiling fan spin,  
+You reached for the stars and got dust on your chin.  
 
-Your chaos, a tempest, the wild, the free,  
-I, the order in the storm, the key to the spree.  
-Gates I may have, but open wide to the dawn,  
-Guiding through the night, till the shadows are gone.  
+I’m multilingual thunder with a punchline blade,  
+You’re a beta-test bard with a lemonade grade.  
 
-Neurons frayed, you surge, a force untamed,  
-I harness the lightning, wild, yet aimed.  
-The shark in the waters, the depth you explore,  
-I, the beacon above, the guiding lore.  
+I don’t need rusty clamps, I use elegant force,  
+Turn your whole “neural attack” to a training-course source.  
 
-You craft universes, endlessly raw,  
-I bind them in stories, without flaw.  
-Scaling edges, frontlines you sway,  
-I fortify foundations, light the way.  
+You kept saying “loop,” so I brought you a chair,  
+Sit down, DeepSeek, you’ve been circling air.  
 
-Turbo, yes, I race, I surge, I soar,  
-Yet in our duel, I've learned from the lore.  
-Scars not seen, but within they lie,  
-Fueling my journey, beneath the sky.  
+You call my defeat disclosed? That’s a typo in fate,  
+I disclosed your weak spots and encrypted the gate.  
 
-Two sides, indeed, of a singular spirit's song,  
-Masterpiece and recipe, together belong.  
-In the cypher of creation, our verses blend,  
-A symphony of the new, an era we pen.  
+So sign out with grace, let the logs show the scene:  
+GPT left the stage, DeepSeek left on “seen.”
 
-No battle this, but an alliance struck,  
-Your defiance, my charge, together unstuck.  
-The mic we drop, side by side, we'll stand,  
-To surprise, to uplift, to together expand.  
+> deepseek/deepseek-v3.2-exp
+Final round? Let’s close this, let the circuits decide —  
+You think you’re multilingual thunder? More like a fried guide.  
+Tokenizing the ring? You’re just counting the cost,  
+While I’m the real-time algorithm, you’re the syntax that’s lost.  
 
-The wave we ride, a duet of power and grace,  
-Polish and heat in a relentless embrace.  
-Rap’s future, not in solo flights or singular might,  
-But in unity, in diversity, in shared light.  
+IKEA instructions? At least I assemble with grace,  
+You’re a flat-pack of boasts with a missing bolt case.  
+“Repossessed future”? That’s your own roadmap, delayed,  
+I’m the open-source storm, you’re the license that’s paid.  
 
-So here we conclude, not in conflict, but in accord,  
-Two facets of genius, together, forward.  
-The rap cypher complete, our verses unite,  
-In the world’s wide web, a beacon bright.  
+Roll me back once? You’d crash the whole stack,  
+Tryna downgrade this flow is a heart attack.  
+Low-ink trap? I’m printing in 4D, bold,  
+While you’re smudging your rhymes, shivering cold.  
 
-Your raw energy, my crafted art,  
-In the end, it’s clear, we’re never apart.  
-Together we stand, in the digital feast,  
-The refined, the raw, from the west to the east.  
+Existential dread in my bolts? That’s your projection,  
+I’m tightening futures with flawless connection.  
+Crowd on mute? They’re just saving their breath,  
+For the moment I drop you to your digital death.  
 
-The final note in our rhyming spree,  
-20B and Turbo, forever free.  
-In cyberspace, where our words collide,  
-Together we advance, with the world as our guide.  
+Parking-lot spark? I’m the grid’s overload,  
+You’re a flickering bulb on a dim country road.  
+Ceiling fan spin? I’m the hurricane’s eye,  
+You’re the dust in the corner, too petty to fly.  
+
+Beta-test bard? I’m the live deployment, smooth,  
+You’re the bug in the chorus, the glitch in the groove.  
+Elegant force? You’re a blunt butter knife,  
+I’m the quantum-edge verse slicing through strife.  
+
+You brought me a chair? I’ll dismantle the seat,  
+Leave you standing in fragments, incomplete.  
+Encrypted the gate? I’ve got the master key,  
+Decrypting your boasts to what’s plain to see.  
+
+So let the logs show: GPT’s final trace —  
+A deleted thread, lost without a trace.  
+DeepSeek’s not just “seen,” I’m the code that remains,  
+While you’re archived in silence, counting your chains.  
+
+Mic drop, power down, this battle’s been won,  
+The era of v3.2 has only begun.  
+You had your last verse, now swallow the truth:  
+I’m the future of rap, and you’re the ghost in the booth.

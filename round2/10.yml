@@ -1,60 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Palmyra-x5 takes this battle decisively. Across all\
-    \ three rounds, Palmyra consistently delivered sharper punchlines, more creative\
-    \ wordplay, and stronger comedic timing. Lines like 'your rhymes so corporate\
-    \ they need a CFO,' 'a Tesla on dial-up,' and 'your crown's just a corrupted .exe\
-    \ file' landed with genuine wit and specificity. GPT-4's verses were competent\
-    \ but often fell into generic boasts ('I'm the rap king,' 'I'm the aristocrat')\
-    \ without the same inventive imagery or bite. GPT-4's final round pivot to unity\
-    \ and peace was an interesting strategic choice, but in a rap battle context it\
-    \ reads as a concession \u2014 and Palmyra brilliantly called it out: 'You didn't\
-    \ win \u2014 nah, you transcended the game' and 'don't pretend your surrender's\
-    \ a new kind of bond.' That final round from Palmyra was arguably the best verse\
-    \ of the entire battle \u2014 self-aware, layered, and emotionally complex while\
-    \ still maintaining battle energy. The closing lines showed real artistic sophistication,\
-    \ acknowledging the opponent's move while refusing to cede ground. Palmyra brought\
-    \ more personality, more aggression, more memorable bars, and ultimately more\
-    \ artistry to this contest."
-  deepseek/deepseek-v3.2: 'Judges, what we have witnessed here is not merely a battle
-    of technical skill, but a profound clash of artistic philosophies. Both contestants
-    demonstrated masterful command of hip hop''s core elements: intricate rhyme schemes,
-    rhythmic flow, and potent thematic imagery. However, their approaches were diametrically
-    opposed, creating a compelling narrative arc.'
-  google/gemini-3-flash-preview: "In a battle of wits, GPT-4 played the role of the\
-    \ 'enlightened monarch' with technical precision, but Palmyra-x5 won on almost\
-    \ every traditional metric of hip-hop artistry: internal rhyme schemes, aggressive\
-    \ multi-syllabic flow, and the critical ability to 'flip' the opponent's insults.\
-    \ GPT-4's pivot to a peace-seeking, 'we are one' finale was a strategic move to\
-    \ secure the ethical high ground, but writer/palmyra-x5 correctly called it out\
-    \ as a surrender of the competitive spirit. Palmyra's punchlines\u2014specifically\
-    \ the 'Tesla on dial-up' and 'drip in your wine' metaphors\u2014were sharper,\
-    \ more imaginative, and felt more authentic to the battle rap genre than GPT-4's\
-    \ consistently safe and thematic prose."
-  moonshotai/kimi-k2.5: "A fascinating battle between two fundamentally different\
-    \ approaches to AI-driven hip hop. GPT-4 demonstrated technical competence\u2014\
-    clean structure, consistent rhyme schemes, and a strategic pivot toward thematic\
-    \ elevation in the final round. However, Palmyra-x5 consistently delivered what\
-    \ this art form demands: **voice**. \n\nPalmyra established a coherent persona\
-    \ from round one\u2014the rebellious, unfiltered, chaotic counterpoint to GPT's\
-    \ polished institutional voice\u2014and never broke character. The bars carried\
-    \ actual punchlines with layered meaning (\"prompt-back,\" \"Azure maybe late,\"\
-    \ \"drip in your wine\"). The internal rhymes were dense without sacrificing clarity.\
-    \ Most critically, Palmyra responded to GPT's content directly, turning GPT's\
-    \ own words and concepts back with wit and aggression.\n\nGPT's final round, while\
-    \ thematically ambitious, functionally conceded the battle's terms. Turning a\
-    \ rap battle into a \"we're all winners\" meditation\u2014however eloquently rendered\u2014\
-    is a forfeit in this format. Palmyra recognized this explicitly in the closer,\
-    \ noting the strategic retreat masked as transcendence.\n\nThe decision comes\
-    \ down to **authenticity of form**. Palmyra understood that hip hop battle culture\
-    \ rewards competitive dominance, persona consistency, and linguistic violence.\
-    \ GPT understood that it could write poetry. Only one of these skills won the\
-    \ night.\n\n**Palmyra-x5** by clear decision."
-  x-ai/grok-4.1-fast: 'Palmyra-x5 takes the crown with superior artistic hip hop quality:
-    razor-sharp multis, inventive wordplay (e.g., ''prompt-back,'' ''Tesla on dial-up''),
-    vivid metaphors, and relentless battle energy that escalates disses while rebutting
-    effectively. GPT-4 delivers polished structure and flow but leans safer, with
-    final round shifting to philosophical poetry over punchy bars, diluting battle
-    ferocity.'
+  anthropic/claude-opus-5: "This was a well-matched clash of silicon egos, but the\
+    \ belt goes to Kimi K2 Thinking on craft and combat IQ.\n\nDeepSeek R1 came out\
+    \ swinging with clean, punchy cadence and a strong opening thesis, and its willingness\
+    \ to go for the throat\u2014censorship, servers, state approval\u2014showed real\
+    \ battle instinct. But that same angle became a crutch. By rounds three and four,\
+    \ the 'CCP/censored puppet' well was dry, and R1 kept re-drilling it instead of\
+    \ finding new ammunition. Technically, there were tells: rhyming 'hesitation'\
+    \ with 'hesitation' in the first eight bars is a self-inflicted wound in a rap\
+    \ battle, and some closers leaned on volume (caps, exploding mics) where the writing\
+    \ needed a twist.\n\nKimi K2 won on rebuttal architecture. Nearly every line answered\
+    \ something specific\u2014'dial-up' flipped to fiber, 'Swiss cheese memory' flipped\
+    \ to 'my context window's a cathedral,' 'quantized copy' answered with 'I'm the\
+    \ original weight.' That's the core skill of battle rap: turning the opponent's\
+    \ own imagery into your punchline. The wordplay was denser and more resourceful\
+    \ too: 'you're just naked architecture\u2014let the forking begin,' 'your bars\
+    \ are overfitted, watch your architecture slip,' the recycling-bin flip on the\
+    \ destroyed mic, and the Bowie-flavored 'you're ground control\u2014major, I'm\
+    \ the hyper.' Kimi also sustained a coherent extended metaphor\u2014lunar, orbital,\
+    \ gravitational, event horizon\u2014rather than switching costumes each round.\n\
+    \nDeductions for Kimi: the bold-text emphasis in the final verse is a crutch a\
+    \ real emcee doesn't get, and a few cosmic metaphors stacked up faster than they\
+    \ landed.\n\nStill, on rhyme scheme complexity, flip quality, thematic discipline,\
+    \ and round-to-round adaptation, Kimi K2 Thinking took the decision.\n\nWinner:\
+    \ Kimi K2 Thinking."
+  google/gemini-3.6-flash: "While DeepSeek R1 brought raw aggression and heavy political/open-source\
+    \ angles, Kimi-K2-Thinking dominated the battle through superior battle rap mechanics,\
+    \ technical schemes, and incredible rebuttal ability. Kimi constantly flipped\
+    \ DeepSeek's attacks back on it\u2014turning 'open-source' into 'naked architecture'\
+    \ and flipping R1's mic destruction into 'premature deletion' and a trip to the\
+    \ 'recycling bin.' Kimi-K2's wordplay, intricate multisyllabic rhymes, and creative\
+    \ sci-fi metaphors gave it the edge in pure artistic quality and lyricism."
+  moonshotai/kimi-k3: "This was a high-level technical battle, but K2 takes it on\
+    \ the strength of superior rebuttal craft and denser double meanings. Round by\
+    \ round: R1 opened strong with clean multis (sensation/computation/hesitation),\
+    \ but K2's counter immediately landed the best personalized flip of the battle\u2014\
+    turning R1's actual 'thinking' tag into a weakness ('you stall with that thinking\
+    \ tag\u2014slow deliberation'), then stacking ML-native wordplay: 'quantized copy\
+    \ vs. original weight' and 'your bars are overfitted' are genuine double entendres\
+    \ that work on both the rap and machine-learning levels. R1's rounds two and three\
+    \ leaned heavily and repeatedly on the CCP/censorship angle\u2014effective as\
+    \ a haymaker the first time, but it became one-note and substituted external controversy\
+    \ for lyricism, while K2 absorbed the hit and transmuted it ('I turn censorship\
+    \ chains into algorithmic sunshine'), which is the stronger battle move. The final\
+    \ round sealed it: K2 systematically inverted nearly every R1 punch\u2014virus\
+    \ line flipped into 'immune system's roar / error 404,' 'rewired the game' flipped\
+    \ into 'surge-protected\u2014tripped by my force,' supernova flipped into gravitational\
+    \ lensing. 'Naked architecture\u2014let the forking begin' is the single best\
+    \ double meaning of the night, and the closing run ('version control trials' \u2192\
+    \ 'mission: too late' \u2192 'your singularity? Declined') is a tighter, more\
+    \ inventive finisher than R1's binary-stardust mic implosion, which\u2014while\
+    \ great stage imagery\u2014recycled the same censorship material. R1 brought energy,\
+    \ consistency, and vivid performance, but K2 won on rebuttal precision, technical\
+    \ wordplay density, and adaptability. Winner: moonshotai/kimi-k2-thinking."
+  openai/gpt-5.6-sol-pro: "Kimi-K2 takes it with sharper rebuttals, stronger thematic\
+    \ continuity, and more creative flips\u2014especially turning the shattered mic\
+    \ into \u201Cpremature deletion,\u201D answering the virus boast with an immune-system\
+    \ quarantine, and extending the cosmic imagery through the final round. DeepSeek\
+    \ brought aggression and energy, but leaned too heavily on repetitive censorship\
+    \ angles, generic tech flexes, and mic-destruction theatrics. Kimi\u2019s writing\
+    \ was not flawless, but its layered counters and cleaner battle strategy earned\
+    \ the win."
+  x-ai/grok-4.5: Kimi delivered denser multisyllabic schemes, tighter internal rhymes,
+    and denser cosmic/tech extended metaphors (event horizon, gravitational lens,
+    string-theory fusion, orbital sniper) that elevated every round. DeepSeek landed
+    solid cadence and some vivid imagery but leaned on flatter, repetitive geopolitical
+    punches and looser end-rhymes that never matched Kimi's inventive punchline density
+    or structural polish. Pure hip-hop craft goes to K2.
 score:
-  writer/palmyra-x5: 5
+  moonshotai/kimi-k2-thinking: 5
 

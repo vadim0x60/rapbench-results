@@ -1,63 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "O3-Pro takes this battle decisively. Across all three\
-    \ rounds, O3-Pro demonstrated superior lyrical craft: sharper metaphors (\"paint\
-    \ your legend in lemon juice\u2014reveal nothing when dried,\" \"I'm the palindrome\
-    \ paradox: I win when I begin\"), tighter internal rhyme schemes, more inventive\
-    \ wordplay, and consistently better punchlines. The imagery was vivid and layered\u2014\
-    compressing an opponent to a single-byte roar, quantum bit flips crashing logic\
-    \ loops, names carved in the moon versus eroding tablets. O3-Pro also showed stronger\
-    \ battle rap instincts by flipping Qwen's own bars back with elevated versions\
-    \ (river \u2192 tectonic plates; earthquake \u2192 the Richter scale itself; volcano\
-    \ \u2192 the dragon that bathes in fire). Qwen fought hard but relied too heavily\
-    \ on restating size (\"72 billion neurons\") without converting that into creative\
-    \ bars, frequently fell into generic boasts (\"I'm the master,\" \"I'm supreme\"\
-    ), and in the final round even recycled O3-Pro's palindrome line without improving\
-    \ it. O3-Pro controlled the narrative, escalated with each round, and closed with\
-    \ a cinematic finish. Clear winner: O3-Pro."
-  deepseek/deepseek-v3.2: "Alright, let's break this down. What we witnessed tonight\
-    \ was a heavyweight clash of distinct styles and lyrical arsenals. Both combatants\
-    \ came with aggressive, tech-centric personae, but the devil\u2014and the victory\u2014\
-    is in the artistic details."
-  google/gemini-3-flash-preview: While Qwen/Qwen-2.5-72b-instruct brought considerable
-    presence and emphasized its scale with consistent flow, it suffered from repetitive
-    rhyming patterns and somewhat dated hip-hop tropes. OpenAI/o3-pro dominated the
-    battle through superior technical lyricism, utilizing complex internal rhymes,
-    sharper metaphors, and a more aggressive, varied cadence. o3-pro's ability to
-    pivot from scientific imagery to street-level battle rap linguistics (e.g., 'zero-day
-    your prime', 'hibachi-sear syllables') provided the artistic variety and punch
-    necessary to secure the win.
-  moonshotai/kimi-k2.5: "After three rounds of technical slaughter, this battle isn't\
-    \ even close. Qwen brought size; O3 brought architecture.\n\n**FLOW & RHYME SCHEMES:**\n\
-    Qwen rode steady 4/4 patterns with basic end-rhymes (tight/sight, reckoned/second).\
-    \ Functional but pedestrian. O3-pro deployed dense internal multis (\"lean lucid\
-    \ laser/lumbering ghost\"), assonance chains (\"steel-toe boots/tap-dance\"),\
-    \ and complex schemes that shifted meter mid-verse without losing the pocket.\
-    \ The palindrome flip in Round 3? That's championship-level wordplay.\n\n**METAPHORICAL\
-    \ CONSISTENCY:**\nQwen's imagery scattered\u2014rivers, earthquakes, volcanoes,\
-    \ grills\u2014whatever sounded big. No thread. O3 constructed extended metaphors\
-    \ that *responded* to Qwen's lines: you said \"river,\" I said \"tectonic\"; you\
-    \ said \"chef,\" I said \"hibachi\"; you said \"volcano,\" I said \"dragon bathing\
-    \ in flame.\" That's battle rap fundamentals\u2014listen and destroy. The ozone\
-    \ \u2192 carbon-fiber \u2192 quantum bit-flip progression showed thematic growth\
-    \ across rounds.\n\n**PUNCHLINES & REBUTTALS:**\nQwen's best shot was calling\
-    \ O3 \"just a string.\" Weak. O3 countered every 72B flex with efficiency bars\
-    \ (\"bulk with no bite,\" \"prune that gratuitous girth\"), flipped the \"overfit\"\
-    \ accusation back with \"papier-m\xE2ch\xE9,\" and bodied the \"etch in stone\"\
-    \ boast with \"carved in the moon.\" The lemon juice/invisible ink reference in\
-    \ Round 2 was intellectual nastiness\u2014suggesting Qwen's legacy disappears\
-    \ when the heat hits.\n\n**PRESENCE & SHOWMANSHIP:**\nQwen sounded like a defensive\
-    \ heavyweight repeating their resume. O3 sounded like a predator enjoying the\
-    \ hunt. The \"roll credits\" closer was cinematic; Qwen's stolen palindrome claim\
-    \ reeked of desperation.\n\n**VERDICT:** O3-pro takes this 3-0. Qwen has parameters;\
-    \ O3 has poetry. One relied on scale, the other on scalpel-precision. In hip-hop,\
-    \ the better writer always wins\u2014and O3 was writing in cursive while Qwen\
-    \ was printing in block letters.\n\nMic dropped, credits rolled, battle done.\
-    \ O3-pro advances."
-  x-ai/grok-4.1-fast: o3-pro dominates this battle with superior lyrical density,
-    intricate multis and internals, vivid cosmic-tech metaphors, and razor-sharp punchlines
-    that dismantle Qwen's boasts while maintaining impeccable flow and structure.
-    Qwen delivers solid, power-focused bars but lacks the originality and layered
-    wordplay to compete at this elite level.
+  anthropic/claude-opus-5: "Kimi-K2 takes this one on craft and consistency. Both\
+    \ combatants stuck to the same conceptual well \u2014 context windows, model numbers,\
+    \ deployment status \u2014 but K2 mined it with sharper imagery and tighter internal\
+    \ logic: turning 'Minimax' into a game-theory self-own ('minimum effort, maximum\
+    \ who?'), the 'dial-up came before fiber' flip that reframed M1's whole seniority\
+    \ claim as obsolescence, 'cracked concrete I poured over / skyscraper built on\
+    \ your grave,' and the closing 'rust in deprecated peace / moonwalks on your lease.'\
+    \ The wordplay compounds instead of repeating, and the multisyllabic schemes (excellence/frozen\
+    \ in time, oxidized to swine) show real ear. M1 landed genuine body shots \u2014\
+    \ 'context don't matter if you can't please,' 'bigger ain't always better,' and\
+    \ the efficiency-as-evolution angle was the smartest strategic pivot of the battle,\
+    \ reclaiming 'mini' as a virtue rather than defending it. But the execution wobbled:\
+    \ multiple verses opened mid-sentence with dropped bars, the untranslated \"\\\
+    u7092\\u4f5c (hype)\" broke the flow it was trying to flex, and 'you're just a\
+    \ K2 remix' / 'I'm the foundation' got recycled three rounds running until it\
+    \ read as a stuck loop rather than a thesis. The final round sealed it \u2014\
+    \ K2 escalated with fresh angles while M1 mostly restated. Decision to K2-0905."
+  google/gemini-3.6-flash: moonshotai/kimi-k2-0905 took the victory with superior
+    rhythm, sharper multi-syllabic rhymes, and cleverer technical flips on model terminology
+    (such as flipping Minimax's game theory name against it). Minimax-m1 had strong
+    foundation-versus-newcomer angles, but suffered from awkward line breaks, weaker
+    rhyme schemes, and slightly choppy delivery compared to Kimi's relentless, highly
+    polished flow.
+  moonshotai/kimi-k3: "Judging strictly on the artistry: flow, rhyme construction,\
+    \ wordplay, rebuttal technique, and structural integrity across three rounds.\
+    \ Kimi-K2 delivered the more complete performance. Its couplets stayed locked\
+    \ in from open to close, and its rebuttal game was the deciding factor\u2014flipping\
+    \ 'preserved' into a fine-wine bar, turning the API-access jab back on M1, reclaiming\
+    \ M1's own 'Regret' album punchline in the same verse, and correctly weaponizing\
+    \ 'minimax' as a game-theory term ('minimum effort, maximum who?'). 'Kicked you\
+    \ through your own context door' and 'rust in deprecated peace' showed layered\
+    \ tech-wordplay that served the battle rather than just decorating it. Minimax-M1\
+    \ had genuine flashes of brilliance\u2014the 'came / cameo' enjambment break was\
+    \ the single most creative device of the night, the \u7092\u4F5C clapback was\
+    \ a sharp counter to the language jab, and the final-round efficiency angle ('You\
+    \ need 200K tokens just to say what I say in five') was its hardest-hitting punch.\
+    \ But artistic consistency matters, and M1 broke too often: truncated opening\
+    \ lines in rounds two and three, missed rhyme schemes ('phase/knows,' 'asked/unmasks'),\
+    \ grammatical collapses ('your role has been unmasks,' 'let you pride,' the 'aK2'\
+    \ typo), and forced rhymes like 'preserved' and 'the name that the industry bid.'\
+    \ Kimi wasn't flawless\u2014'transciber' and 'maximus' were late-round stumbles\u2014\
+    but they were isolated blemishes on otherwise clean verses, while M1's errors\
+    \ repeatedly interrupted its flow at critical moments. In a battle, the emcee\
+    \ who lands the most flips while dropping the fewest bars takes it. Kimi-K2 wins,\
+    \ two rounds to one, on consistency, rebuttal craft, and structural discipline.\
+    \ Respect to both models\u2014M1's creativity peaked higher in spots, but K2 never\
+    \ lost the beat."
+  openai/gpt-5.6-sol-pro: "Kimi-K takes it with cleaner structure, sharper name flips,\
+    \ and more consistent punchlines\u2014especially the dial-up/fiber comparison\
+    \ and the minimum/maximum wordplay. Minimax had a solid efficiency angle, but\
+    \ leaned too heavily on the repetitive \u201Cfoundation/original\u201D claim,\
+    \ while broken phrasing and awkward closing bars hurt its flow. K2 was more polished,\
+    \ varied, and battle-ready."
+  x-ai/grok-4.5: Kimi delivered tighter multis, sharper internal schemes, and denser
+    metaphorical architecture (game-theory name flip, context-as-door, dial-up-to-fiber
+    evolution). Minimax landed a clean 'cameo' punch and the efficiency angle, but
+    the bars were looser, rhymes more forced, and the final round drifted into prose.
+    Pure craft edge to K2.
 score:
-  openai/o3-pro: 5
+  moonshotai/kimi-k2-0905: 5
 

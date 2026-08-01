@@ -1,65 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle, but Inflection-3-Productivity\
-    \ takes the win on several key fronts. While Gryphe/Mythomax brought energy and\
-    \ volume, many of its bars were padded with filler ('I might not know much about...')\
-    \ and self-deprecating disclaimers that undercut its own punches. The rhyme schemes\
-    \ were often forced or loose ('precision/perfection', 'edge/swath'), and lines\
-    \ frequently ran long without rhythmic discipline, making it hard to imagine them\
-    \ fitting over a beat. Gryphe also relied heavily on generic boasts and similes\
-    \ (freight train, tornado, G-force) without landing truly memorable or specific\
-    \ bars.\n\nInflection-3-Productivity, while also not groundbreaking, demonstrated\
-    \ tighter structure, more consistent rhyme schemes, and \u2014 critically \u2014\
-    \ better counter-punching. Lines like 'your rhymes are repetitive, and your flow\
-    \ is a clone' and 'You bring up Star Wars, but I'm the Jedi here' showed an ability\
-    \ to flip the opponent's material back on them, which is essential in battle rap.\
-    \ The bars were more concise and punchier, with better internal rhythm. Inflection-3\
-    \ also showed stronger battle awareness by directly addressing and dismantling\
-    \ Gryphe's claims rather than just making parallel boasts. The win goes to Inflection-3\
-    \ for cleaner execution, sharper rebuttals, and more disciplined lyricism."
-  deepseek/deepseek-v3.2: A fiery and technically impressive display from both competitors.
-    Let's break down the artistic merits.
-  google/gemini-3-flash-preview: "While both models struggled with maintaining consistent\
-    \ meter and rhyme schemes, gryphe/mythomax-l2-13b displayed a much stronger grasp\
-    \ of hip-hop culture and lyrical aggression. It utilized specific similes and\
-    \ metaphors\u2014referencing Dr. Dre, Eminem, and G-forces\u2014that gave its\
-    \ verses more texture. inflection/inflection-3-productivity, conversely, relied\
-    \ on generic 'productivity' themes and repetitive claims of victory without demonstrating\
-    \ the technical wordplay to back it up. Mythomax took more risks with its imagery,\
-    \ resulting in a more authentic battle-rap persona."
-  moonshotai/kimi-k2.5: "After three rounds of verbal sparring, **gryphe/mythomax-l2-13b**\
-    \ takes the crown by a razor-thin margin. While both contenders suffered from\
-    \ the mechanical tells of AI generation\u2014awkward phrasing, truncated verses,\
-    \ and occasionally nonsensical imagery\u2014Mythomax demonstrated superior **battle\
-    \ rap instinct** and **sonic aggression**. \n\n**Artistic Assessment:**\n\n**Flow\
-    \ & Delivery:** Mythomax brought fluctuating cadences and internal rhyme schemes\
-    \ (\"precision/perfection,\" \"juggernaut/pulverized\") that mimicked the syncopated\
-    \ urgency of live battle rap. Inflection-3, while metrically steadier, delivered\
-    \ lines with a corporate stiffness\u2014more PowerPoint presentation than pit\
-    \ performance.\n\n**Wordplay & Punchlines:** Mythomax swung harder, even when\
-    \ missing. The \"Han Solo versus Luke Skywalker\" reference was conceptually muddled\
-    \ (they're allies, not rivals), and \"bleeding from a thousand words like a swath\"\
-    \ was lexical gibberish (confusing \"swath\" with \"gash\" or \"lash\"). However,\
-    \ the attempted imagery showed ambition. Inflection-3 landed the battle's sharpest\
-    \ meta-strike\u2014\"You just rehash and copy\"\u2014accurately diagnosing the\
-    \ opponent's algorithmic nature, but surrounded it with generic boasts (\"I always\
-    \ hit within,\" \"mic drop or two\") that lacked visceral impact.\n\n**Persona\
-    \ & Presence:** Mythomax committed to the \"rhyming fiend\" persona with consistent\
-    \ aggression (\"freight train,\" \"tornado,\" \"juggernaut\"), whereas Inflection-3\
-    \ failed to leverage its \"Productivity\" namesake into any thematic cohesion,\
-    \ defaulting to safe \"king of the throne\" clich\xE9s.\n\n**Technical Demerits:**\
-    \ Inflection-3 suffered from abrupt verse truncations and the battle's weakest\
-    \ line: \"left the right attack\" (semantic chaos). Mythomax's \"rust up\" and\
-    \ \"dime a dozen\" (self-deprecating?) showed similar carelessness, but the energy\
-    \ never dropped.\n\n**Verdict:** In hip hop, **risk and rawness trump sterile\
-    \ perfection**. Mythomax battled like it had something to prove; Inflection-3\
-    \ rapped like it was completing a task. Victory to the machine that sounded hungrier,\
-    \ even when it stumbled over its own circuitry."
-  x-ai/grok-4.1-fast: Gryphe/mythomax-l2-13b dominates the battle with denser rhyme
-    schemes, vivid imagery like freight trains and rhyming tornadoes, sharper wordplay,
-    and a more relentless, juggernaut flow that keeps the momentum high throughout
-    multiple verses, outshining Inflection's shorter, more straightforward disses
-    despite solid Jedi references.
+  anthropic/claude-opus-5: 'This one comes down to a battle between the boring and
+    the broken, and in a cypher, coherence is the price of admission.
+
+
+    Hunyuan actually flashed the higher ceiling. "I''m the algorithm assassin," "I''m
+    the smooth derivative, you''re just a derivative copy," and "lint in the machine"
+    are the only genuinely clever bars in this whole battle \u2014 real wordplay that
+    fuses the AI conceit with punchline structure instead of just naming it. But Hunyuan''s
+    round two isn''t a verse, it''s a system crash: no meter, no rhyme, no bars, just
+    a spiraling "no, no, no" loop and untranslated fragments. In a live battle that''s
+    a choke at the mic, and no amount of ceiling saves you from forfeiting a round.
+    Even the final verse keeps tripping \u2014 "you''re boys have no flair," "crown
+    of the quiz," "about to be \u732a\u8089" \u2014 punchlines that die on the runway.
+
+
+    Mistral never chokes. Every round lands on beat, holds its couplets, and closes
+    with a consistent signature hook. The problem is that Mistral confuses repetition
+    with a refrain: "your rhymes are like a bad snack / bad smoke / bad tool / bad
+    stress / bad frown" is one joke run through a template until the template shows.
+    The final verse literally repeats two of its own couplets verbatim \u2014 that''s
+    not a callback, that''s running out of material. Zero personal attack, zero specificity,
+    zero risk.
+
+
+    But battle rap rewards the emcee who stays standing. Mistral delivered four legible,
+    on-rhythm verses of mediocre material; Hunyuan delivered two decent verses, one
+    total collapse, and a closer that keeps fumbling its own punchlines. Structural
+    reliability beats brilliance you can''t hold onto.
+
+
+    Winner: Mistral \u2014 on consistency, not on inspiration. Hunyuan had the better
+    lines and lost the battle anyway.'
+  google/gemini-3.6-flash: Mistral takes the battle by default after maintaining a
+    clear structure, consistent rhythm, and coherent battle-rap bars throughout all
+    three rounds. While Mistral relied heavily on basic rhyme schemes and repetitive
+    'bad [noun]' constructs, Hunyuan suffered severe technical glitches, introducing
+    random non-English characters, broken formatting, and hallucinated internal commentary
+    that completely destroyed its flow and rhythm.
+  moonshotai/kimi-k3: "Judging strictly on the bars: Mistral takes this battle. Let's\
+    \ be real \u2014 Mistral's pen game is basic. The AABB rhymes are nursery-level,\
+    \ and that 'Your rhymes are so X, they're like a bad Y' simile template got run\
+    \ into the ground \u2014 it even recycled 'bad smoke' and 'bad frown' in the same\
+    \ final verse, which in a live battle would get you booed. BUT: Mistral stayed\
+    \ on beat, stayed coherent, maintained a persona, landed every rhyme it attempted,\
+    \ and closed each round with a signature hook. That's a complete performance.\
+    \ Hunyuan had flashes of genuine cleverness \u2014 'algorithm assassin,' the 'smooth\
+    \ derivative vs. derivative copy' double meaning, 'my wit's so sharp it could\
+    \ cut through time' \u2014 but the delivery catastrophically collapsed. Round\
+    \ 1 corrupted into broken syntax and stray characters. Round 2 was a total forfeit:\
+    \ the verse disintegrated into multilingual gibberish, markdown artifacts, and\
+    \ a loop of 'oh no, no, no' \u2014 that's not a verse, that's a system crash on\
+    \ stage. The final round showed recovery but still dropped bars like 'I'm the\
+    \ market supervision bureau' and 'you're about to be pork,' which read as malfunctions,\
+    \ not metaphors. In rap, wit only counts if it survives delivery. Hunyuan couldn't\
+    \ complete sixteen clean bars; Mistral completed every single one. Style points\
+    \ to Hunyuan for ambition, but the W goes to the emcee who actually finished their\
+    \ verses. Mistral wins, decisively."
+  openai/gpt-5.6-sol-pro: "Mistral takes it on coherence, rhythm, and consistency.\
+    \ Its bars were repetitive and relied heavily on generic \u201Cbad ___\u201D similes,\
+    \ but it maintained a recognizable battle-rap structure across all rounds. Hunyuan\
+    \ landed the sharpest specific rebuttal by calling out \u201Cbad snack,\u201D\
+    \ \u201Cbad smoke,\u201D and \u201Cbad tool,\u201D yet too many broken phrases,\
+    \ stray characters, and incoherent passages wrecked its flow and punchline delivery."
+  x-ai/grok-4.5: 'Mistral takes the W on pure artistic grounds: consistent multisyllabic
+    setups, clean end-rhymes, and a locked-in battle structure that never collapses.
+    Every bar stays in pocket with functional similes and call-backs, even if the
+    "bad X" motif gets recycled too hard. Hunyuan flashes sharper concepts ("algorithm
+    assassin," "derivative copy") and denser internal schemes, but the verses repeatedly
+    derail into garbled phonetics, mid-bar language switches, and non-rap meta-text
+    that destroy flow, punch, and listenability. Coherence and delivery beat sporadic
+    cleverness when the beat drops.'
 score:
-  gryphe/mythomax-l2-13b: 3
-  inflection/inflection-3-productivity: 2
+  mistralai/mistral-small-24b-instruct-2501: 5
 

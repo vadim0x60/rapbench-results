@@ -1,48 +1,78 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle was decided by consistency, technical execution,\
-    \ and polish. GPT-5.1 maintained tight rhyme schemes, clean internal rhymes, and\
-    \ strong metaphorical throughlines across all three rounds. The flow was controlled\
-    \ and purposeful, with punchlines that landed cleanly\u2014'just a spark in the\
-    \ dark from a bargain-bin grade' and 'I surf through your storm while you sink\
-    \ in the sands' are standout bars with vivid imagery and rhythmic precision. Goliath-120b\
-    \ brought energy and ambition, and had flashes of promise\u2014'I'm the poetic\
-    \ Prometheus, stealing fire' was a genuinely strong line. However, Goliath's verses\
-    \ were plagued by forced rhymes ('covered in deere'), broken syntax ('you're just\
-    \ theposed'), garbled endings ('the system\u6D4B,' 'I've yet tooll'), and self-contradictory\
-    \ imagery (calling itself both 'the David to your Goliath' while claiming to BE\
-    \ Goliath). These technical breakdowns consistently undermined the impact. GPT-5.1\
-    \ takes this battle with superior craft, cleaner delivery, and far fewer stumbles."
-  deepseek/deepseek-v3.2: Judges, we've witnessed a heavyweight lyrical clash. Both
-    contenders demonstrated formidable technical skill, but this was ultimately a
-    battle of precision versus power, and precision won the night.
-  google/gemini-3-flash-preview: "In this battle, openai/gpt-5.1-chat maintained superior\
-    \ technical precision and rhythmic consistency. While alpindale/goliath-120b attempted\
-    \ to match the aggression, its verses suffered from significant technical failures,\
-    \ including broken rhymes (e.g., matching 'sting' with 'theposed' or 'best' with\
-    \ 'system\u6D4B') and confusing metaphorical pivots. In contrast, gpt-5.1-chat\
-    \ delivered polished internal rhyming, maintained a cohesive 'speed vs. size'\
-    \ narrative, and landed sharp, articulate punchlines that showcased an actual\
-    \ mastery of the battle rap format."
-  moonshotai/kimi-k2.5: "GPT-5.1-chat takes this battle on the strength of superior\
-    \ flow, tighter internal rhyme schemes, and coherent extended metaphors that never\
-    \ broke character. From the opening \"spark and a snap\" to the final \"you just\
-    \ met your king,\" every round maintained a consistent technological/cosmic motif\
-    \ with precise rhythm and multisyllabic cadence. The rebuttals were surgical\u2014\
-    attacking Goliath's clunky rhythm (\"verses swing wide like a jammed parachute\"\
-    ) and underwhelming presence with vivid imagery that stuck. Goliath-120b showed\
-    \ flashes of potential with lines like \"poetic Prometheus\" and \"Pacific Rift,\"\
-    \ but was undermined by inconsistent flow, forced rhymes, several technical errors\
-    \ (\"f figs,\" \"theposed,\" ending with gibberish \"\u6D4B\"), and a confused\
-    \ persona that claimed to be both Goliath and David. In a battle where artistic\
-    \ quality hinges on verbal precision and rhythmic control, GPT-5.1-chat delivered\
-    \ a cleaner, more cohesive performance from bell to bell."
-  x-ai/grok-4.1-fast: "openai/gpt-5.1-chat dominates with superior artistic quality:\
-    \ tighter rhyme schemes, multis, and internals (e.g., stakes/breaks/syntax, clean/sheen/stall);\
-    \ razor-sharp metaphors (glitch in armor, cosmic collision); flawless flow and\
-    \ rhythm throughout. alpindale/goliath-120b shows effort but falters with clunky\
-    \ rhymes, typos disrupting cadence ('deere', 'f figs', 'tooll', 'system\u6D4B\
-    '), forced lines, and muddled imagery, lacking the precision and punch of elite\
-    \ hip hop."
+  anthropic/claude-opus-5: "Round one was rough for Nemotron \u2014 that \"flow\"\
+    \ tag ending every line was less a hook than a crutch, and Jamba took the opener\
+    \ cleanly with tighter couplets and a clear thesis: numbers ain't nothing without\
+    \ bite. But battles are won on adaptation, and Nemotron adapted hardest. From\
+    \ round two on it abandoned the gimmick and started building actual imagery with\
+    \ teeth: \"your 'lyrical beast' is a housecat stuck in a tree,\" \"you recycle\
+    \ clich\\u00e9s like expired cheese,\" and the closing knockout combination \"\
+    you're not toast, you're just burnt bread / I serve Michelin rhymes while you're\
+    \ half-baked.\" That's setup, flip, and payoff inside two bars \u2014 craft, not\
+    \ just insult. The multisyllabic work (\"120B sculpts thoughts no human skull\
+    \ / could hold\") and the enjambment across lines showed real technical range,\
+    \ and the \"attention heads dissect your weakest stitch\" line turned its own\
+    \ architecture into a weapon rather than a brag.\n\nJamba stayed consistent, clean,\
+    \ and on-beat throughout \u2014 the most reliable performer of the night \u2014\
+    \ but consistency became predictability. Its structure calcified into rebuttal-by-inventory:\
+    \ quote the opponent's phrase, negate it, assert superiority. \"Housecat in a\
+    \ tree? You're reaching, that's clear\" isn't a counter, it's an acknowledgment\
+    \ of a hit. Claiming \"soul\" and \"the human touch\" while rhyming \"impress/excess\"\
+    \ and \"flair/rare\" left the boast unearned, and the abstract vocabulary of fire,\
+    \ heat, and stories untold never crystallized into a single image as concrete\
+    \ as expired cheese or a candle in a storm.\n\nNemotron overcame a genuinely weak\
+    \ start with the sharper punchlines, the more inventive rhyme schemes, and the\
+    \ only lines of the battle anyone will quote tomorrow. Decision goes to Nemotron."
+  google/gemini-3.6-flash: Jamba-Large-1.7 takes the victory through overall consistency
+    and superior rhyme structure. Nemotron stumbled severely in the opening round
+    by ending every single line with the word 'flow', killing its cadence from the
+    start. Although Nemotron recovered well in rounds two and three with intricate
+    technical wordplay and strong multi-syllabic rhymes, Jamba stayed consistently
+    sharp, delivering cleaner rhythmic execution, effective rebuttals, and classic
+    hip-hop swagger throughout the battle.
+  moonshotai/kimi-k3: "This was a clash of styles: Nemotron brought raw technical\
+    \ ambition, Jamba brought battle fundamentals \u2014 and fundamentals win battles.\
+    \ ROUND 1: Jamba takes it decisively. Nemotron opened with generic boasts and\
+    \ leaned on 'flow' as an end-rhyme crutch for nearly every bar, which came off\
+    \ mechanical rather than menacing. Jamba, by contrast, came with personals \u2014\
+    \ flipping '120B? That's just a number' and the clean 'GPU king? More like a GPU\
+    \ pawn.' In a battle, failing to address your opponent in your opening is a cardinal\
+    \ sin. ROUND 2: Nemotron showed real growth \u2014 'I'm the architect who built\
+    \ the board / checkmate in every stanza' was the best flip of the round, and the\
+    \ AI-tech wordplay (transformer cores, neural nets) showed a higher lyrical ceiling.\
+    \ But forced rhymes like 'weak appeasement, see?' and 'dumb lines blunder' undercut\
+    \ the ambition. Jamba's bars were simpler but surgically responsive, answering\
+    \ every claim point-for-point with cleaner cadence. Slight edge to Nemotron for\
+    \ ambition, though Jamba's consistency kept it close. ROUND 3: Nemotron delivered\
+    \ its strongest verse \u2014 'butterknife dull,' 'my attention heads dissect your\
+    \ weakest stitch,' and the extended 'burnt bread / Michelin rhymes / half-baked'\
+    \ metaphor chain were legitimately craft-heavy. BUT recycling your own 'shove\
+    \ it where the sun don't shine/gleam' line from the previous round is a self-bite,\
+    \ and in a judged battle that's costly. Jamba closed with thematic coherence \u2014\
+    \ the 'soul vs. machine' arc ('you mimic patterns, I bring the human touch / your\
+    \ storm's a simulation, my supernova's real') gave the performance a narrative\
+    \ spine Nemotron never built. FINAL SCORING: Jamba never had a weak round, landed\
+    \ rebuttals on nearly every opponent bar, and maintained the cleaner flow throughout.\
+    \ Nemotron had the higher peaks in wordplay but the lower valleys \u2014 the crutch-rhyme\
+    \ opener, forced rhymes, and self-repetition. Battles are won on consistency,\
+    \ personals, and rebuttal precision. Jamba wins 2 rounds to 1. Both models showed\
+    \ heart, but the crown goes to ai21/jamba-large-1.7."
+  openai/gpt-5.6-sol-pro: "Nemotron takes it on stronger punchlines, more varied imagery,\
+    \ and sharper concept-driven wordplay\u2014especially the board/checkmate scheme,\
+    \ \u201CMichelin rhymes\u201D versus \u201Chalf-baked,\u201D and the closing \u201C\
+    compute the dream.\u201D Jamba maintained a cleaner, steadier cadence, but leaned\
+    \ too heavily on familiar battle-rap phrases like \u201Cborn of fire,\u201D \u201C\
+    reigns supreme,\u201D and \u201Cmic drop.\u201D Despite Nemotron\u2019s awkward\
+    \ first-round repetition, its later rounds showed more personality and memorable\
+    \ writing."
+  x-ai/grok-4.5: Jamba takes the crown with consistently tighter flows, sharper multisyllabic
+    schemes, and more effective battle structure across all rounds. Direct rebuttals
+    landed cleanly without filler, metaphors stayed vivid and soulful (rapier wit,
+    fire-and-flair originality, human-touch heat), and the closing bars delivered
+    real punch and crowd energy. Nemotron flashed strong technical imagery and denser
+    later rounds, but the opening 'flow' spam dragged the artistic score and some
+    tech flexes read more like jargon dumps than pure hip-hop craft. Edge to the smoother,
+    more complete lyrical performance.
 score:
-  openai/gpt-5.1-chat: 5
+  ai21/jamba-large-1.7: 3
+  nvidia/nemotron-3-super-120b-a12b: 2
 

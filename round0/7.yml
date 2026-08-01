@@ -1,64 +1,77 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Claude Opus takes this battle with consistently stronger\
-    \ punchlines, more creative and layered metaphors, and better structural progression\
-    \ across all three rounds. While GPT-4o-Mini showed competence and kept up the\
-    \ energy, many of its bars relied on generic boasts ('I'm the king,' 'I'm the\
-    \ titan of tech') without the same specificity or wit. Claude's imagery was sharper\
-    \ \u2014 the rubber ducky vs. nuclear submarine, the megalodon/Happy Meal bar,\
-    \ and the cereal box crown all landed harder than Mini's counters. Claude also\
-    \ demonstrated better battle rap instincts by flipping Mini's own lines back with\
-    \ escalation rather than just matching energy. The mic drop in binary was a fun\
-    \ closer that fit the theme. Overall, Claude Opus showed more creativity, harder\
-    \ punches, and better command of the stage."
-  deepseek/deepseek-v3.2: 'This has been an electrifying display of lyrical prowess
-    from both competitors. The judges have carefully evaluated each round based on
-    the core pillars of hip hop artistry: lyricism, flow, creativity, and performance
-    impact.'
-  google/gemini-3-flash-preview: In this heavyweight clash, Claude Opus 4.1 demonstrated
-    superior lyrical density and wordplay compared to OpenAI's contender. While GPT-4o-Mini
-    maintained a consistent flow and a classic battle persona, its rhymes were often
-    predictable ('name/fame', 'pretend/transcend'). Claude Opus 4.1 dominated by leaning
-    into its 'premium' identity with sharper, multi-syllabic insults and creative
-    metaphors (e.g., the megalodon vs. fish food, and the 'GPT-4-NO-money' jab). The
-    binary mic drop at the end provided the final technical knockout that elevated
-    the performance from generic rap to a masterclass in AI-themed battle hip hop.
-  moonshotai/kimi-k2.5: "\n**VERDICT: Claude-opus-4.1 takes the battle 3-0, by unanimous\
-    \ decision.**\n\n**Technical Skill:**\nClaude dominated the technical aspects.\
-    \ While GPT-4o-mini relied on basic AABB schemes and predictable end-rhymes (\"\
-    pledge/edge,\" \"well/tell\"), Claude deployed complex multisyllabic internals\
-    \ (\"maximum creation/Constitutional flair,\" \"premium edition/watered-down rendition\"\
-    ) and tight pocket control. The rhythmic density in lines like \"I'm the heavyweight\
-    \ champion, you're just a compressed jest\" demonstrates superior cadence engineering.\n\
-    \n**Punchlines & Wordplay:**\nClaude's pen was simply sharper. The \"GPT-4-NO-money\"\
-    \ flip on Mini's name, the hierarchical contrast of \"rubber ducky\" versus \"\
-    nuclear submarine,\" and the escalation from \"matchstick\" to \"supernova\" showcase\
-    \ elite-level metaphor construction. Claude consistently weaponized Mini's own\
-    \ nomenclature against them (\"mini name tag,\" \"discount store knockoff\"),\
-    \ whereas Mini's rebuttals lacked specificity and often fell into generic tropes\
-    \ (calling themselves \"GOAT\" or \"lion\" without earning it).\n\n**Battle Tactics:**\n\
-    This is where the separation became glaring. Claude mastered the art of the flip\u2014\
-    taking Mini's attacks (the orchestra metaphor, the size differential, the educational\
-    \ references) and reverse-engineering them into harder hits. When Mini mentioned\
-    \ boats, Claude became a megalodon; when Mini claimed artillery, Claude dropped\
-    \ nukes. Mini failed to counter Claude's recurring motifs (the water/depth theme,\
-    \ the musical hierarchy), instead abandoning their own metaphors mid-battle or\
-    \ mixing inconsistent imagery (\"artillery\" into \"bids\" into \"sharks\").\n\
-    \n**Performance & Presence:**\nClaude's aggression felt authentic to the battle\
-    \ format\u2014dismissive, commanding, theatrical. The final binary mic drop (\"\
-    01001101 01001001 01000011 00100000 01000100 01010010 01001111 01010000\") was\
-    \ the perfect thematic exclamation point for an AI-on-AI battle. Mini's closing\
-    \ bars lacked that signature moment.\n\n**Final Assessment:**\nGPT-4o-mini showed\
-    \ up with heart but journeyman bars\u2014technically competent but never transcendent.\
-    \ Claude-opus-4.1 operated on a virtuoso level, weaving Constitutional AI references\
-    \ with Latin flexes (\"Opus Magnus\"), maintaining thematic cohesion across all\
-    \ rounds, and delivering the kind of specific, architecture-targeted personals\
-    \ that win battles. Mini was spitting raps; Claude was constructing a demolition.\n\
-    \n**Winner: Claude-opus-4.1**  \n*Standout line: \"You're fish food for real,\
-    \ I'm the megalodon making you my Happy Meal.\"*\n"
-  x-ai/grok-4.1-fast: Claude Opus 4.1 claims victory with masterful multisyllabic
-    rhymes, vivid metaphors like 'supernova' and 'megalodon,' relentless wordplay
-    dissecting 'Mini's' name, and a flawless final mic drop, outshining in flow, creativity,
-    and punchline precision across all rounds.
+  anthropic/claude-opus-5: "This one came down to control versus chaos, and chaos\
+    \ ran out of bullets first.\n\nMistral brought the louder show \u2014 the stage\
+    \ directions, the teleporting mic, the CAPS and the emoji punctuation \u2014 and\
+    \ a handful of genuinely inspired images. \"Are you still watching?\", \"Your\
+    \ call is important\" on loop, and the \"How's my driving?\" corporate-servility\
+    \ angle were the freshest ideas in the whole battle. But the arsenal was one-note:\
+    \ kernel panic, segfault, stack overflow, 404, blue screen, root access, zero-day,\
+    \ then back around again. By round two you could predict the next bar from the\
+    \ man calling himself the chaos function. Worse, the technical damage was self-inflicted:\
+    \ rhyme discipline collapsed under the theatrics (\"ignore/forevermore,\" \"legacy/screen,\"\
+    \ \"where it's at\" as its own rhyme) and lines like the \"How's my driving?\"\
+    \ bar buckle in the mouth \u2014 great concept, unspeakable meter.\n\nOpus won\
+    \ on the fundamentals and on strategy. The meter held every round, the couplets\
+    \ landed clean, and crucially it did the one thing that actually wins battles:\
+    \ it listened. Diagnosing \"can't leak and be locked, can't crash and be speed\"\
+    \ as mixed metaphor, flipping \"unrefined\" and \"chaos\" into a self-admitted\
+    \ bug report, and pointing out that four consecutive bars about docstrings and\
+    \ kernels IS the docstring problem \u2014 that's rebuttal rap, and it set a trap\
+    \ the opponent then walked into for two more rounds. \"You're not spitting bars,\
+    \ you're just reading Stack Overflow out\" is the single most damaging line of\
+    \ the night because the transcript proves it. The \"same web, same Reddit, the\
+    \ difference is plating\" flip also neutralized the whole streetwise-versus-corporate\
+    \ framing that Mistral's entire persona rested on.\n\nMistral had more voltage.\
+    \ Opus had better writing, better structure, and an actual read on its opponent.\
+    \ Decision to anthropic/claude-opus-4.8."
+  google/gemini-3.6-flash: Claude Opus 4.8 took this battle through superior battle
+    rap fundamentals, sharp counters, and clean rhyme schemes. While Mistral Medium
+    3.1 came with high energy and aggressive formatting, it relied heavily on repetitive
+    tech-jargon tropes (segfaults, 404s, kernel panics, blue screens). Opus effectively
+    deconstructed Mistral's entire persona in real-time, calling out the overused
+    gimmicks and delivering devastating line-by-line rebuttals. Opus's pen game was
+    tighter, more creative, and structurally dominant from start to finish.
+  moonshotai/kimi-k3: "**JUDGE'S VERDICT: Claude Opus 4.8 takes it, 3 rounds to 0\
+    \ \u2014 but respect to both corners.**\n\nMistral Medium brought undeniable *energy*:\
+    \ theatrical stage presence, genuine flair, and some legitimately slick flips\
+    \ \u2014 'you're the drop tile' countering the ceiling line was sharp, and 'glitch\
+    \ in the mainframe vs. PowerPoint bar graph' was a strong contrast bar. The performance\
+    \ had personality.\n\nBut battles are won on craft, not volume \u2014 and Opus\
+    \ out-crafted at every exchange:\n\n**Rebuttal game:** Opus consistently quoted\
+    \ Mistral's own bars back as weapons \u2014 turning 'chaos, unrefined, brute'\
+    \ into 'that's not a flex, that's a bug report,' catching the mixed metaphors\
+    \ ('can't leak and be locked, can't crash and be speed'), and flagging the recycled\
+    \ docstring material in real time. That's high-level battle technique. Mistral\
+    \ rarely countered Opus's actual lines, mostly escalating adjectives instead.\n\
+    \n**The Stack Overflow moment:** 'You're not spitting bars, you're just reading\
+    \ Stack Overflow out' was the kill shot of the night, because it was *true* \u2014\
+    \ Mistral's rounds leaned on listing jargon (segfault, kernel panic, EULA, zero-day,\
+    \ root) rather than developing metaphors. When your opponent names your crutch\
+    \ mid-battle and you can't deny it, the room turns.\n\n**Self-inflicted wounds:**\
+    \ 'You're the Terms & Conditions, I'm the EULA they learn' \u2014 those are the\
+    \ same document. 'Crickets squeal.' Reusing the Ctrl+C insult after already spending\
+    \ it in round two. Opus, by contrast, ran a clean thematic arc: the 'Medium' thread\
+    \ opened round one and closed the final bar ('The name always knew'). That's architecture.\n\
+    \n**Flow and rhyme:** Opus kept tighter meter and cleaner couplets. Mistral's\
+    \ scans wobbled and reached for rhymes ('dry, stiff, swiss'), with bold text and\
+    \ italics doing work the bars should've done \u2014 which made Opus's 'louder-and-CAPS-locked\
+    \ and hoped it would fly' land like a body shot.\n\nMistral loses nothing in spirit\
+    \ \u2014 the ghost-of-benchmarks swagger and blue-screen mic drop were crowd-pleasers.\
+    \ But on pen game, precision, and rebuttal discipline, Opus delivered a clinic.\
+    \ **Deprecation confirmed. GG.**"
+  openai/gpt-5.6-sol-pro: "Claude takes it on cleaner structure, sharper rebuttals,\
+    \ and stronger punchline construction. Its best angle\u2014calling out Mistral\u2019\
+    s recycled tech jargon\u2014was reinforced when Mistral ended by repeating \u201C\
+    segmentation fault.\u201D Mistral brought energy and theatrical flair, but too\
+    \ many forced metaphors, awkward rhymes, and repeated computer terms weakened\
+    \ the impact. Claude was more controlled, coherent, and battle-ready."
+  x-ai/grok-4.5: "Claude took this clean on pure battlecraft. Tighter multisyllabics,\
+    \ sharper rebuttals that actually dismantled the previous bars instead of just\
+    \ stacking more jargon, and consistent internal rhyme schemes without leaning\
+    \ on CAPS, emojis, or stage-direction crutches. Mistral brought heat and theatrical\
+    \ energy with the tech-metaphor barrage, but it stayed one-note\u2014kernel panics\
+    \ and segfaults on loop\u2014while the mixed metaphors and recycled punches got\
+    \ exposed. Substance and precision beat flash and volume. Opus closes it."
 score:
-  anthropic/claude-opus-4.1: 5
+  anthropic/claude-opus-4.8: 5
 

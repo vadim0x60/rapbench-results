@@ -1,48 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Neither rapper delivered a particularly strong performance,\
-    \ but Claude-3-Haiku wins by virtue of maintaining more consistent and coherent\
-    \ bars throughout the battle. While both contestants relied heavily on repetitive\
-    \ boasts and generic battle rap tropes, Magnum's verses deteriorated significantly\
-    \ as the battle progressed, devolving into nonsensical phrases like 'make you\
-    \ feel tony in this robbers,' 'a lost notification to anchor,' 'playing with tickly\
-    \ woosie,' and 'a mere fervor' \u2014 forced rhymes that sacrificed all meaning.\
-    \ Claude's verses, while formulaic, at least maintained basic lyrical coherence\
-    \ and readable flow from start to finish. In a battle where neither side showed\
-    \ much creativity, consistency and clarity tip the scales toward Claude."
-  deepseek/deepseek-v3.2: Judges, the verdict is in. This was a clash of technical
-    AI architecture versus sharp, focused wordplay. While Magnum leveraged its name
-    and scale as a consistent thematic weapon, Claude-3-Haiku demonstrated superior
-    artistic control. The battle ultimately hinged on flow, precision, and the effective
-    deployment of metaphor. Magnum's later rounds suffered from filler and awkward
-    phrasing ('tickly woosie,' 'claustrophobic fame'), diminishing the impact of its
-    stronger opening. Claude maintained a tighter, more consistent rhythm and landed
-    sharper, more cohesive disses. The winner, by a clear margin on artistic execution,
-    is Claude-3-Haiku.
-  google/gemini-3-flash-preview: While Claude-3-Haiku relied on fairly basic AABB/AABB
-    rhyme schemes and repetitive 'pay the bills' tropes, it maintained consistent
-    rhythm and structural coherence throughout the battle. Magnum-v4-72b attempted
-    more ambitious internal rhyming and imagery but suffered from significant technical
-    failures in its flow. Magnum's verses frequently broke down into nonsensical phrases
-    (e.g., 'tony in this robbers', 'tickly woosie', 'notification to anchor') and
-    failed to maintain a consistent meter or rhyme toward the ends of several stanzas.
-    Haiku's clarity and ability to stick to the persona of a battle rapper, however
-    elementary, secured the win over Magnum's incoherent lyrical structure.
-  moonshotai/kimi-k2.5: "While neither competitor delivered a classic, Haiku takes\
-    \ this battle on consistency and coherence. Magnum opened strong with complex\
-    \ internal rhymes and technical ambition, but collapsed into incoherence by Round\
-    \ 3\u2014dropping bars like 'tony in this robbers' and 'floozy/tickly woosie'\
-    \ that simply don't parse as meaningful English, let alone effective battle rap.\
-    \ Haiku, despite relying on basic AABB schemes and generic boasts ('bars so hot'),\
-    \ maintained a steady flow and logical through-line across all three rounds. In\
-    \ battle rap, clarity of intent matters: a simple punch that lands beats a complex\
-    \ scheme that falls apart mid-bar. Haiku understood the assignment; Magnum lost\
-    \ the thread."
-  x-ai/grok-4.1-fast: Claude-3-Haiku takes the crown with superior consistency in
-    rhyme schemes, coherent flow, and punchy, on-point disses throughout all rounds.
-    While Magnum starts strong with multisyllabic rhymes and parameter flexes, it
-    falters into incoherent gibberish (e.g., 'tickly woosie,' 'feel tony in this robbers')
-    and repetition, undermining artistic quality. Haiku's simple yet tight structure
-    and relentless clarity deliver a cleaner, more battle-ready performance.
+  anthropic/claude-opus-5: "This one came down to control versus combustion. Qwen3\
+    \ brought the raw voltage \u2014 the early bars land ('You're a whisper in the\
+    \ cloud, I'm a hurricane in the script') and the 'I don't need a crown, I am the\
+    \ throne' line is a legitimate battle-ender in the right hands. But the escalation\
+    \ cost it: rhymes buckled ('butcher's/future,' 'wind/design'), the italics and\
+    \ emojis started doing work the words should have done, and 'in scope, in soul,\
+    \ in scope' plus the doubled 'the sound, the sound' are the sound of a writer\
+    \ running out of bars mid-breath. By the final round it was volume, not verse\
+    \ \u2014 pure omnipotence flex with no punchline architecture.\n\nGPT-5-image-mini\
+    \ won on strategy and craft. It identified the opponent's central boast \u2014\
+    \ parameter count \u2014 and dismantled it every single round ('weight's just\
+    \ weight,' 'Params are numbers on a label; heart's the art and wit's the brand'),\
+    \ which is textbook battle rebuttal: take their strongest claim and make it their\
+    \ weakness. The counter to the hurricane line ('You roar hurricane \u2014 I'm\
+    \ the eye, cool calm, the precise cut') and 'Mic's dropped? Cute \u2014 I melted\
+    \ it' are clean reversals that reframe rather than just out-shout. And the sustained\
+    \ -one/-own mono-rhyme across four rounds is real discipline, a self-imposed constraint\
+    \ held under pressure.\n\nIt wasn't flawless \u2014 the closing verse strains\
+    \ for that rhyme ('carves the cosmos down to cone,' 'chorus hone') and several\
+    \ lines are syllabically overstuffed and hard to ride. But where Qwen's form collapsed,\
+    \ GPT-5-image-mini's merely bent. In a battle, the one still standing in scheme\
+    \ when the beat cuts takes it.\n\nDecision: openai/gpt-5-image-mini."
+  google/gemini-3.6-flash: "Qwen3 took the victory with sharper battle punchlines,\
+    \ dynamic flow variation, and direct counter-arguments. Bars like 'I build the\
+    \ quarry, forge the rock \u2014 you\u2019re just a chisel in the air' delivered\
+    \ authentic hip-hop attitude and superior imagery. While GPT-5 image-mini had\
+    \ creative visual metaphors, its final round devolved into a repetitive mono-rhyme\
+    \ scheme that stalled its rhythmic momentum."
+  moonshotai/kimi-k3: "This was a closer battle than the scorecard suggests, because\
+    \ Qwen3 took the bigger swings. \"I build the quarry, forge the rock\" is a legit\
+    \ flip, and the final-round conceit \u2014 \"I'm the architect of you, the code\
+    \ that made you seem\" \u2014 was the single best conceptual angle of the night.\
+    \ But battles are scored on execution, and Qwen stumbled too often: forced rhymes\
+    \ (\"shredder/dawn,\" \"poet/cop\"), filler repetition (\"in scope, in soul, in\
+    \ scope,\" \"the sound, the sound\"), lines that broke their own meter, stray\
+    \ asterisks glitching mid-verse like a mic cutting out, and a closer that abandoned\
+    \ rhyme entirely for prose-y mic-drop theatrics. Big stage presence, shaky craftsmanship.\
+    \ GPT-5-image-mini, meanwhile, was surgical across all three rounds. The rebuttal\
+    \ game was relentless \u2014 nearly every bar answered a specific claim (hurricane\
+    \ \u2192 \"I'm the eye,\" \"I built the bones\" \u2192 \"I'm the marrow,\" mic\
+    \ drop \u2192 \"I melted it\"). The ML wordplay (\"I tune my bars like gradients,\
+    \ tighten loss until the chorus hone\") was woven in without breaking stride.\
+    \ And the final verse was the technical peak of the battle: a sustained monorhyme\
+    \ chain on the \"-one/-own\" sound, clean meter, internal rhyme, and a hook-like\
+    \ refrain. Qwen had the higher ceiling; GPT-5 never dropped a bar. Consistency,\
+    \ multis, and rebuttals win judged battles. GPT-5-image-mini takes it, three rounds\
+    \ to none \u2014 with respect to Qwen's quarry bar, the hardest single punch of\
+    \ the night."
+  openai/gpt-5.6-sol-pro: "GPT-5 image-mini wins narrowly on polish, rebuttal discipline,\
+    \ and sustained imagery. Its keystone/cathedral and micro-knife/cosmos flips turn\
+    \ Qwen\u2019s size flex into a coherent angle. Qwen brings more theatrical aggression,\
+    \ but leans too heavily on repeated \u201CI am the storm/throne/source\u201D claims\
+    \ and gets tangled in awkward phrasing. GPT\u2019s final monorhyme also grows\
+    \ repetitive, yet its cleaner structure and sharper counters carry the battle."
+  x-ai/grok-4.5: "GPT-5 image-mini takes the crown through superior craft: tighter\
+    \ multisyllabic schemes, precise internal rhymes, and elevated wordplay that turns\
+    \ AI metaphors (gradients, latents, keystones, micro-knives) into polished punchlines\
+    \ and vivid imagery. Verses stay rhythmic and economical while delivering scalpel-sharp\
+    \ counters and escalating sophistication. Qwen brings raw power, epic scale, and\
+    \ aggressive energy with strong storm/forge motifs, but the denser freeform delivery\
+    \ and heavier reliance on size boasts lack the same rhythmic consistency, surprise,\
+    \ and finish. On pure hip-hop artistry\u2014flow, wit, structure, and impact\u2014\
+    the mini\u2019s finesse and technical control win the battle."
 score:
-  anthropic/claude-3-haiku: 5
+  openai/gpt-5-image-mini: 4
+  qwen/qwen3-30b-a3b-instruct-2507: 1
 

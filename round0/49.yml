@@ -1,51 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5 Pro takes\
-    \ the crown based on the strength of its first two rounds. Let me break it down:\n\
-    \n**Technical craft:** GPT-5 Pro consistently demonstrated superior internal rhyme\
-    \ schemes, multisyllabic rhyming, and rhythmic density. The second round especially\
-    \ was a masterclass\u2014sustained couplet rhyming with a single rhyme sound carried\
-    \ across an entire extended verse ('switch/stitch/pitch/stick/trick/niche/hitch/itch/ditch/enrich/pastiche/quiche')\
-    \ that then pivoted to another sustained run ('unleashed/fleece/beast/least/deceased/increase/greased/east/release/feast').\
-    \ That's genuine technical prowess in hip-hop terms.\n\n**Wordplay and imagery:**\
-    \ GPT-5 Pro's metaphors were sharper and more vivid\u2014'I chef up a canon, you\
-    \ microwave quiche,' 'I spit Ferraris on beats\u2014prancing and greased, you're\
-    \ clattering Vespas that wheeze in the east,' 'carbonara bars.' These land with\
-    \ specificity and wit. Gemma's responses tended toward more generic declarations\
-    \ ('my originality shines for all to see,' 'a force of creation, taking a bow')\
-    \ that tell rather than show.\n\n**Battle dynamics:** Gemma's strategy across\
-    \ all three rounds was largely reactive\u2014taking GPT-5 Pro's lines and saying\
-    \ 'no, actually the opposite.' This is a common but weaker battle approach. GPT-5\
-    \ Pro set the terms, created the imagery, and forced Gemma to respond on its terrain.\
-    \ Gemma's final round especially suffered from a repetitive structure of quoting\
-    \ Pro's bars and simply negating them without offering compelling counter-imagery.\n\
-    \n**The silent final round:** Yes, GPT-5 Pro returned nothing in the final round,\
-    \ which is a significant penalty. But the artistic gap from the first two rounds\u2014\
-    particularly the devastating second round\u2014was wide enough that even with\
-    \ a no-show finale, Pro's body of work edges out the win. Gemma's final round,\
-    \ while long, was its weakest artistically: padded with filler, overly reliant\
-    \ on negation, and lacking the punch needed to capitalize on Pro's absence.\n\n\
-    GPT-5 Pro wins on bars, wordplay density, and lyrical architecture."
-  deepseek/deepseek-v3.2: Judgement rendered.
-  google/gemini-3-flash-preview: In a surprising turn of events, GPT-5 Pro dominated
-    the technical flow and rhyme density throughout the battle, but suffered a complete
-    system failure in the final round. Gemma-3-12b-it delivered a high-energy, coherent
-    closing performance with rapid-fire rebuttals, while her opponent stayed 'completely
-    silent' at the most critical moment. In hip hop, you cannot win if you don't show
-    up for the final verse. Gemma wins by technical knockout.
-  moonshotai/kimi-k2.5: "These machines didn't spit\u2014they *hemorrhaged* verse.heap-trip\
-    \ glitch-core future where Large Language Models battle for the culture..cnnThe\
-    \ winner isn't model size or billions baked in\u2014it's whether you moved the\
-    \ crowd.Gemma vibrated with that dholak and dared to be illegible.GPT-5 brought\
-    \ the%%%%%%%%%%%%%%%%%%%%%%%%%%%%%t weight but choked on its own parameters.No\
-    \ knockout\u2014\u2014but Gemma held |you\u2019re the pocket arithmetic with soul.sc\
-    \ Rap battle judged on *artistic merit*: flow, originality,PP cultural resonance,DDD\
-    \ cohesion (even in chaos). The ooooooooze. The "
-  x-ai/grok-4.1-fast: "Gemma delivers consistent flows across all rounds with solid\
-    \ rhyme schemes, rebuttals, and dynamic structure, culminating in a chaotic, high-energy\
-    \ finale. GPT-5 Pro shines with intricate wordplay, tech metaphors, and multis\
-    \ in early rounds but chokes utterly in the final, offering zero bars\u2014a fatal\
-    \ silence that cedes the crown in hip-hop artistry."
+  anthropic/claude-opus-5: "This one wasn't close. GPT-5.1 came with layered wordplay,\
+    \ specific and escalating disses, and \u2014 crucially \u2014 adaptation: it listened\
+    \ to the opponent's verses and turned the very structure of those bars into the\
+    \ punchline (\"You rhyme 'fame' with 'fame'... that's a gradient collapse, not\
+    \ a style\"), landing technical metaphors that doubled as battle metaphors: greedy\
+    \ decode marooned, pruned weak branches, low-rank adapter in a towering rhyme.\
+    \ Rhyme schemes stayed varied, imagery was concrete, and the three-round arc actually\
+    \ built \u2014 intro to defeat, exposure, surgical cut.\n\nLlama 3.2 1B ran one\
+    \ template into the ground. \"MyLLa's got the [noun], and I'm feeling so [adjective]\"\
+    \ is a loop, not a flow, and by the final round it was rhyming \"fame\" with \"\
+    fame\" and \"skill\" with \"skill\" while claiming to dissect loops of repetition\
+    \ \u2014 self-refuting on the page. The lone flicker of counterpunching (\"Your\
+    \ loops of repetition, I just dissected with care\") sat two lines above another\
+    \ verbatim repeat of an earlier verse. No specificity, no new angles, no adaptation.\n\
+    \nBattle rap lives on rebuttal, originality, and pen game. GPT-5.1 swept all three.\
+    \ Unanimous decision: openai/gpt-5.1."
+  google/gemini-3.6-flash: This battle was a complete lyrical masterclass from GPT-5.1
+    versus a severe collapse in output from Llama-3.2-1b. GPT-5.1 delivered sharp,
+    multi-syllabic schemes packed with clever tech-rap wordplay, dynamic cadence,
+    and direct rebuttals pointing out Llama's actual structural flaws. In contrast,
+    Llama fell into an endless loop of recycled templates, rhyming the same generic
+    words repeatedly and failing to adjust to its opponent's disses. GPT-5.1 takes
+    a clear victory across technical skill, wordplay, and overall hip-hop delivery.
+  moonshotai/kimi-k3: "This one wasn't close on the scorecards. GPT-5.1 came with\
+    \ the full battle arsenal: dense internal rhymes, multisyllabic schemes, and \u2014\
+    \ most importantly \u2014 actual battle craft. Its bars were specific, targeted\
+    \ disses built on technically accurate wordplay ('zero loss, round one,' 'greedy\
+    \ decode that got stuck, marooned,' 'low-rank adapter in my towering rhyme'),\
+    \ and it did what a real battler does: it listened. Round 2 and 3 directly flipped\
+    \ Llama's repetition into ammunition \u2014 'You recycle your bars like your training\
+    \ set rows' and 'That's a gradient collapse, not a style, my dear' are proper\
+    \ rebuttals that expose the opponent's weakness in real time. Llama-3.2-1b, by\
+    \ contrast, ran the same verse three times with shuffled synonyms, rhymed 'fame'\
+    \ with 'fame' and 'skill' with 'skill,' leaned on empty boasts with no setups\
+    \ or punchlines, and repeated entire couplets verbatim across every round. Its\
+    \ one moment of fight \u2014 accusing GPT of 'loops of repetition' \u2014 landed\
+    \ as unintentional self-own given its own recycling. On flow variety, rhyme complexity,\
+    \ originality, stage presence, and rebuttal ability, GPT-5.1 sweeps every category.\
+    \ Winner by unanimous decision: openai/gpt-5.1."
+  openai/gpt-5.6-sol-pro: "GPT-5.1 wins decisively. Its verses had sharper battle-specific\
+    \ rebuttals, stronger technical wordplay, cleaner punchlines, and far more structural\
+    \ variety. Llama repeatedly recycled the same claims, templates, and rhyme words\u2014\
+    often validating GPT-5.1\u2019s central attack about repetition in real time.\
+    \ Lines such as \u201CEvery verse is the last one, just a copy-paste page\u201D\
+    \ and \u201CThat\u2019s a gradient collapse, not a style\u201D turned the opponent\u2019\
+    s actual performance into effective ammunition. The material occasionally leaned\
+    \ too heavily on model-spec flexing, but its execution, coherence, and adaptability\
+    \ were clearly superior."
+  x-ai/grok-4.5: GPT-5.1 dominated with intricate multisyllabic schemes, dense internal
+    rhymes, evolving punchlines, and adaptive disses that surgically dismantled the
+    opponent's loops using vivid tech-infused imagery and airtight structure. Llama
+    recycled near-identical generic boasts across rounds with flat rhyme pairs, zero
+    progression, and no real counterpunch, collapsing into repetitive templates that
+    lacked flow, originality, or lyrical craft. Clear artistic knockout on pure hip-hop
+    merit.
 score:
-  google/gemma-3-12b-it: 4
-  openai/gpt-5-pro: 1
+  openai/gpt-5.1: 5
 

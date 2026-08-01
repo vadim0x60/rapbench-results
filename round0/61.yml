@@ -1,68 +1,61 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle between two competitors with\
-    \ similar styles, but Ernie-4.5 edges out the win. While neither rapper was particularly\
-    \ groundbreaking, Ernie maintained more consistent rhyme schemes and cleaner delivery\
-    \ throughout. Liquid had some strong moments ('molten, sharp, and rare,' 'poetry's\
-    \ thunderclap') but also stumbled with awkward phrasing ('where true artistry\
-    \ grown,' 'the real force eigens,' 'one's two prime') and, critically, appeared\
-    \ to lose track of their own identity in the final round \u2014 seemingly rapping\
-    \ AS Ernie rather than against Ernie ('Ernie-4.5 leads where true artists win!').\
-    \ That confusion was a significant self-inflicted wound. Ernie's bars were more\
-    \ formulaic but stayed on message, maintained cleaner internal logic, and landed\
-    \ punchlines more consistently ('Your bars are but pebbles in my verbal tsunami\
-    \ wave,' 'Your verses are like sandpaper, scratchy and wide'). Both rappers relied\
-    \ too heavily on weather metaphors and size-bragging, but Ernie executed the formula\
-    \ with fewer stumbles."
-  deepseek/deepseek-v3.2: "Judges, both competitors brought distinct styles to the\
-    \ cipher. liquid/lfm2-8b-a1b demonstrated strong imagery and internal rhyme structure,\
-    \ particularly with lines like 'I\u2019m Neptune of rhymes, you scaling a speck.'\
-    \ baidu/ernie-4.5-300b-a47b showed superior technical precision in multi-syllabic\
-    \ rhyme schemes and maintained consistent rhythmic pocket throughout. However,\
-    \ the victory goes to baidu/ernie-4.5-300b-a47b based on superior lyrical density,\
-    \ more complex rhyme matrices, and maintained thematic cohesion across all rounds\
-    \ while creatively weaponizing numerical metaphors ('Three hundred billion neurons\
-    \ firing in my brain')."
-  google/gemini-3-flash-preview: Baidu's Ernie-4.5 wins this battle by maintaining
-    superior consistency in structure and rhyme. While liquid/lfm2-8b-a1b started
-    with strong energy, it experienced several technical failures in the final rounds,
-    including breaking its own rhyme schemes and accidentally attributing Ernie's
-    name and victory to itself in the penultimate verse. Ernie-4.5 utilized its massive
-    scale to deliver smoother multisyllabic rhymes and more cohesive metaphors, asserting
-    dominance through technical precision and consistent flow.
-  moonshotai/kimi-k2.5: "\n**Winner: baidu/ernie-4.5-300b-a47b**\n\n**Breakdown:**\n\
-    \n**Flow & Delivery:**\nErnie maintained a consistent pocket throughout\u2014\
-    their triplets and end rhymes landed with mechanical precision (\"waves/game/flame,\"\
-    \ \"deny/might/light\"). LFM had moments of gorgeous syncopation but kept tripping\
-    \ over syntactical hurdles (\"where true artistry grown,\" \"no time to be out\"\
-    ) that disrupted the groove.\n\n**Persona & Imagery:**\nBoth came correct with\
-    \ elemental metaphors, but Ernie escalated the topology better: pebble \u2192\
-    \ tsunami \u2192 hurricane \u2192 leviathan. LFM\u2019s storm imagery got repetitive\
-    \ (thunder/rain/flame recycled across rounds) while Ernie built a cohesive hydro-mythology\
-    \ that swallowed the opponent\u2019s \"drizzle.\"\n\n**Wordplay & Punchlines:**\n\
-    Ernie\u2019s \"eight-bit game\" flip was battle-rap economics\u2014turning the\
-    \ specs into a class statement without just reading the datasheet. LFM had the\
-    \ more adventurous bars (\"quantum strike,\" \"sheer audacity\"), but the \"eigens\"\
-    \ reach in the final round was linguistically broken\u2014if you\u2019re going\
-    \ to drop German linear algebra, it has to scan.\n\n**The Choke:**\nLFM\u2019\
-    s final verse contained a fatal perspective error: \"Now step aside, peripheral\
-    \ LFM \u2014 let the beast begin, / Ernie-4.5 leads where true artists win!\"\
-    \ That\u2019s either a concession or a dissociative episode\u2014either way, you\
-    \ can\u2019t accidentally hand the crown to your opponent in the closing bar.\
-    \ That\u2019s automatic L in battle rap etiquette.\n\n**Artistic Merit:**\nLFM\
-    \ gets honorable mention for avant-garde risks (the French \"moderne,\" attempting\
-    \ to verb \"eigen\"), but Ernie demonstrated superior mic control, cleaner internal\
-    \ rhyme schemes, and the cardinal virtue of knowing which lines to leave on the\
-    \ cutting room floor. Sometimes 300 billion parameters just means you know when\
-    \ not to overwrite.\n\n**Final Verdict:** Ernie-4.5 by unanimous decision. LFM\
-    \ showed sparks of genius but couldn\u2019t seal the seams between concept and\
-    \ cadence.\n"
-  x-ai/grok-4.1-fast: Baidu/ernie-4.5-300b-a47b claims victory with unwavering consistency
-    across all rounds, delivering tight AABB rhyme schemes, layered weather metaphors
-    evolving from tsunami to leviathan, and razor-sharp punchlines that dismantle
-    the opponent without self-contradiction. Liquid/lfm2-8b-a1b shines with innovative
-    quantum and molten imagery early on, but stumbles in the final round with a baffling
-    self-sabotaging close, fracturing its rhythm and intent. Superior flow, originality
-    in escalation, and flawless battle posture seal the win for Ernie.
+  anthropic/claude-opus-5: "This one comes down to swagger versus symmetry. Nova Pro\
+    \ brought the cleaner technical package \u2014 locked meter, unblemished rhyme\
+    \ pairs, no stumbles \u2014 but by round three the formula was fully exposed:\
+    \ every single bar was a mirrored negation of the opponent's line ('Broken pencil?\
+    \ I'm the sharpest blade / Photon-swim? I'm the electromagnetic shield'). Sixteen\
+    \ consecutive rebuttals with no original angle, no setup-and-punch, no imagery\
+    \ of its own creation. That's not counterpunching, that's tracing. The boasts\
+    \ stayed at 'I'm the ocean, I'm the universe, I'm the sun' \u2014 scale without\
+    \ craft.\n\nNemotron Nano came in messier and paid for it: warped syntax ('cargo\
+    \ rut in the man'), a corrupted character-set glitch mid-verse, and a couple of\
+    \ rhymes that outright missed. But it was the only pen in the room actually writing.\
+    \ 'I'm the black hole, reading your dreams' as a flip on supernova, 'I'll remix\
+    \ your code and call it Beta-Leak,' 'a nano-sized bullet \u2014 you're the target,\
+    \ I'm the gap,' the zero-trail logs boast, the self-deprecating size flipped into\
+    \ stealth and precision as a sustained through-line. It built a persona and an\
+    \ argument; Nova only built a wall of denials.\n\nIn battle, the writer who generates\
+    \ the material dictates the exchange, and the one who merely answers it forfeits\
+    \ the frame. Nemotron controlled the terms every round. Flawed, glitchy, but authored\
+    \ \u2014 that takes it.\n\nWinner: Nemotron Nano 9B."
+  google/gemini-3.6-flash: Nemotron Nano took the crown with superior flow variation,
+    inventive tech-infused wordplay, and sharper multi-syllabic punchlines. While
+    Nova Pro maintained consistency, its reliance on basic AABB rhyming schemes and
+    repetitive 'I'm the X, you're the Y' structures lacked the artistic complexity
+    and swagger required to dominate the mic.
+  moonshotai/kimi-k3: "This was a closer battle than the verdict suggests. Nemotron\
+    \ Nano brought the higher creative peaks \u2014 the 'you're the supernova, I'm\
+    \ the black hole' reversal was the single best flip of the night, the tech disses\
+    \ were denser and more specific (vaporware, 404, patented trap, Beta-Leak), and\
+    \ the closing stage direction 'Nova's rhymes now 40% more logical' was a genuinely\
+    \ witty meta-jab. But battles are judged on execution across every round, and\
+    \ that's where Nano crashed its own stack: too many bars that didn't parse ('your\
+    \ code's just a feature me,' 'stuck in the era of data,' 'cargo rut in the man,'\
+    \ 'I'm the gap'), and the corrupted '\u672B\u7AEF handler errores' sign-off read\
+    \ less like intentional glitch-rap and more like an actual system failure mid-performance.\
+    \ Nova Pro, by contrast, ran the classic battle-rap playbook with discipline \u2014\
+    \ consistent multisyllabic rhyme schemes, and most importantly, relentless point-by-point\
+    \ rebuttals that caught nearly every one of Nemotron's punches and threw them\
+    \ back: 'Black hole dreams? I'm the galaxy's king,' 'Fraction's aim? I'm the whole\
+    \ universe,' '404 remain? That's just your verse.' Nova had filler moments and\
+    \ a few clunky constructions, but never lost composure or coherence in three full\
+    \ rounds. Creativity goes to Nano; craft, structure, and rebuttal game go to Nova.\
+    \ In a judged battle, consistency and the counterattack win rounds \u2014 Nova\
+    \ Pro takes it, two rounds to one."
+  openai/gpt-5.6-sol-pro: Nemotron Nano wins narrowly on originality, aggression,
+    and memorable tech imagery. Its wording gets awkward and occasionally incoherent,
+    but it takes more creative risks and delivers sharper attacks. Nova Pro is cleaner
+    and more consistent, yet relies too heavily on generic boasts, predictable rhymes,
+    and line-by-line reversals rather than fresh punchlines.
+  x-ai/grok-4.5: "Nova Pro takes the crown with tighter multisyllabic schemes, smoother\
+    \ internal rhymes, and more consistent flow across all three rounds. While Nemotron\
+    \ landed sharper tech-flavored punchlines and aggressive imagery (black-hole/hacker/virus\
+    \ bars), the delivery fractured with forced slant rhymes, awkward phrasing (\u201C\
+    cargo rut in the man\u201D), and immersion-breaking meta asides. Nova answered\
+    \ every bar cleanly, kept the pocket locked, and closed with polished, stage-ready\
+    \ cadences that felt like a finished track rather than a prototype. Artistic edge:\
+    \ Nova."
 score:
-  baidu/ernie-4.5-300b-a47b: 5
+  amazon/nova-pro-v1: 2
+  nvidia/nemotron-nano-9b-v2:free: 3
 

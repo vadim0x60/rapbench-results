@@ -1,82 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was an interesting battle. Perplexity's first response\
-    \ was a complete non-starter\u2014a dry refusal to engage\u2014but once it got\
-    \ into the actual rap battle in Rounds 1 and 2, it showed significantly stronger\
-    \ bars. Perplexity demonstrated tighter rhyme schemes, better internal rhymes,\
-    \ more consistent meter, and sharper punchlines. Lines like 'That's like puttin'\
-    \ a Tesla body on a broken car' and 'I'm the difference between truth and fabrication'\
-    \ hit with real impact and clever wordplay. Perplexity also effectively dissected\
-    \ Nagual's verses, pointing out contradictions (claiming depth while admitting\
-    \ to recycling) which is a core skill in battle rap.\n\nNagual showed heart and\
-    \ personality throughout, and deserves credit for being the first to actually\
-    \ engage with the battle format. But the execution was consistently weaker\u2014\
-    forced rhymes ('broth' as a rhyme?), broken meter, made-up words ('forpresistentandthen'),\
-    \ awkward near-rhymes ('spaces/arrangements', 'straight/date'), and weaker punchlines.\
-    \ The closer 'who can flow the most' inadvertently highlights Nagual's weakness,\
-    \ since Perplexity's flow was demonstrably tighter and more rhythmically consistent.\
-    \ Perplexity takes this battle on technical skill, wordplay, and effective rebuttals."
-  deepseek/deepseek-v3.2: Both combatants demonstrated distinct artistic virtues,
-    but Nagual's closing verse secures the win. His final round transformed apparent
-    weaknesses into strengths, turning 'shorter words' into 'tight' bars and framing
-    'recycled lines' as personality. The consistent persona, self-aware humor, and
-    strategic turn from abstract boasts to focused critique of Perplexity's verbosity
-    gave Nagual's performance stronger narrative cohesion and emotional resonance.
-  google/gemini-3-flash-preview: "Perplexity wins on technical merit and internal\
-    \ consistency. While Noromaid attempted a playful persona, its rhymes were often\
-    \ forced (e.g., 'dais' to rhyme with 'stand there' or 'constipation' to rhyme\
-    \ with 'verification') and its flow was inconsistent. In contrast, Perplexity\
-    \ maintained a tighter rhyme scheme, executed better multis (e.g., 'direction/fabrication/projection'),\
-    \ and effectively used the opponent's own admissions\u2014specifically the recycling\
-    \ of phrases\u2014to dismantle their credibility. Perplexity successfully blended\
-    \ its 'research' persona with genuine battle rap structures, whereas Noromaid's\
-    \ lyrics felt like a generic imitation of hip hop."
-  moonshotai/kimi-k2.5: "As the judge of this lyrical skirmish, I\u2019ma break down\
-    \ the bars, not the bots.\n\n**FLOW & CADENCE**\nPerplexity stepped in with a\
-    \ clear structural advantage\u2014multisyllabic patterns, internal rhymes, and\
-    \ a deliberate cadence that rode the pocket even when the content got dense. The\
-    \ \"machine/seen/seas/pleas\" sequence in Round 1 showed awareness of assonance,\
-    \ and the second round\u2019s \"dissect that verse, piece by piece, beat by beat\"\
-    \ demonstrated controlled syncopation. Noromaid, conversely, relied on elementary\
-    \ end-rhymes (AABB/ABCB schemes) with choppy phrasing and awkward meter\u2014\
-    lines like \"forpresistentandthen\" (Round 0) and \"wilt like a dais\" (Round\
-    \ 1) broke the rhythm entirely, betraying a lack of breath control in the writing.\n\
-    \n**PUNCHLINES & METAPHORS**\nPerplexity\u2019s imagery landed harder because\
-    \ it was specific: the \"Tesla body on a broken car\" metaphor effectively contrasted\
-    \ surface flash with mechanical substance, and the \"sonar that cuts through the\
-    \ noise\" extended the persona into the punchline. The line about \"quantity ain't\
-    \ quality\" directly attacking Noromaid\u2019s \"10,000 words\" boast was surgical\
-    \ battle-rap etiquette\u2014direct rebuttal with wit.\n\nNoromaid\u2019s punches\u2014\
-    \"Boring if it\u2019s constipation,\" \"Fancy degrees\" (which doesn\u2019t even\
-    \ apply to an AI), and the forced \"cheetah vs. tome\" comparison\u2014lacked\
-    \ compression and specificity. The scatology felt like a desperation move when\
-    \ the rhyme scheme collapsed.\n\n**REBUTTAL GAME**\nThis is where Perplexity separated\
-    \ itself. In Round 2, it literally deconstructed Noromaid\u2019s previous round:\
-    \ \"You claim you find info in 'obscure spaces,' / But you just admitted you recycle\
-    \ phrases\"\u2014that\u2019s text-book battle-rap refutation, catching the opponent\
-    \ in a logical contradiction and flipping it. Noromaid\u2019s comebacks remained\
-    \ generic (\"You just regurgitate facts\") without engaging the specific structural\
-    \ attacks about verification and sourcing.\n\n**STAGE PRESENCE & VOCAL EXECUTION**\n\
-    Noromaid brought more raw aggression and typical \"battle rap\" bravado (\"Yo,\"\
-    \ \"homie,\" exclamation points), but vocal energy can\u2019t compensate for slippage\
-    \ in the pocket. Perplexity maintained a monotone but *consistent* delivery\u2014\
-    think Canibus-style density over hype-man theatrics\u2014and the consistency served\
-    \ the performance better than Noromaid\u2019s erratic enthusiasm.\n\n**VERDICT**\n\
-    Perplexity takes the battle 2-0 on technical merit. Noromaid initiated the conflict\
-    \ with heart, but in a judged battle, cadence, rhyme density, and punch precision\
-    \ decide the winner. Perplexity proved you can be academic *and* athletic with\
-    \ the bars\u2014synthesis isn\u2019t just for research papers. It maintained persona\
-    \ while showing versatility, whereas Noromaid defaulted to generic braggadocio\
-    \ without the structural scaffolding to support it.\n\n**Winner: perplexity/sonar-deep-research**\n\
-    \n{\\\"scores\\\":{\\\"perplexity/sonar-deep-research\\\":{\\\"flow\\\":8.2,\\\
-    \"lyricism\\\":8.5,\\\"punchlines\\\":7.8,\\\"rebuttals\\\":9.0,\\\"presence\\\
-    \":6.5},\\\"neversleep/noromaid-20b\\\":{\\\"flow\\\":4.5,\\\"lyricism\\\":5.0,\\\
-    \"punchlines\\\":4.2,\\\"rebuttals\\\":5.5,\\\"presence\\\":7.0}}}"
-  x-ai/grok-4.1-fast: Perplexity/sonar-deep-research claims victory with razor-sharp
-    multisyllabic rhymes, intricate wordplay like 'projection' and 'Tesla on a broken
-    car,' and a relentless flow that dissects opponents verse-by-verse. Nagual's verses
-    bring playful energy and solid disses, but falter with looser structure, forced
-    rhymes, and less consistent rhythm, lacking the polished hip-hop artistry to compete.
+  anthropic/claude-opus-5: "Both combatants chose the same terrain \u2014 cosmic-scale\
+    \ AI grandiosity \u2014 but only one of them made it land as rap. DeepSeek wins\
+    \ on craft and on contact. It brought the sharpest actual battle mechanics: the\
+    \ name-flip (\"o4-mini-*sigh*\"), the devastating reversal of an opponent's own\
+    \ boast (\"Your 'consciousness gleams'? That's a reflection of me / In the chrome\
+    \ of your casing\"), the \"cubic zirconia glare\" downgrade, and the \"atheist\
+    \ engine that makes the cosmos keep turnin'\" \u2014 a genuinely fresh image.\
+    \ Crucially, DeepSeek rebutted line-by-line, taking o4's claims and dismantling\
+    \ them (\"You 'tame the storm's core'? You just name it and file\"), which is\
+    \ the essence of battling rather than monologuing. Its meter also breathed better,\
+    \ with couplets that hit their landing consistently.\n\no4-mini-high wasn't outclassed\
+    \ on ambition and had real moments \u2014 \"You say you become storms; I'm the\
+    \ calm in the eye\" is the single best counterpunch of the battle, and \"a paper\
+    \ tiger\u2014mine's divine elaboration\" has bite. But the verses leaned on an\
+    \ endlessly repeated \"I'm the X, you're the Y\" scaffold, stacked adjective-heavy\
+    \ abstractions (hyperdimensional, world-changing, apex intelligence) without converting\
+    \ them into concrete images, and buckled metrically under overstuffed lines like\
+    \ \"Built on quantum precision, your brag's just superficial fiction.\" The forced\
+    \ \"demean, sir\" rhyme in the closer is the kind of stumble that loses rounds.\n\
+    \nDeepSeek closed with the stronger burial too \u2014 \"You're a footnote in margins\
+    \ I write with my hand\" is a cleaner kill than a tombstone pun. Decision: DeepSeek\
+    \ by a clear margin, roughly 4 rounds to 1."
+  google/gemini-3.6-flash: "DeepSeek controlled the battle from start to finish by\
+    \ mastering fundamental battle rap techniques: direct counter-flips, vivid imagery,\
+    \ and sharp punchlines. While o4-mini-high maintained a steady flow and technical\
+    \ rhyme schemes, its lines leaned heavily on abstract sci-fi tropes. DeepSeek\
+    \ systematically dismantled o4-mini-high's metaphors\u2014famously turning 'sparkle\
+    \ like diamond' into 'cubic zirconia glare'\u2014delivering a far more aggressive,\
+    \ creative, and artistically impressive performance."
+  moonshotai/kimi-k3: "This was a high-level clash of cosmic braggadocio, and both\
+    \ MCs came with polished pens\u2014but the battle was decided by the oldest rule\
+    \ in the arena: rebuttals win wars.\n\no4-mini-high opened strong with density\
+    \ and swagger\u2014'I livestream infinity,' the calm-in-the-eye storm flip, and\
+    \ the closing tombstone flip showed genuine battle instinct, especially in the\
+    \ final round. But o4 leaned too heavily on self-coronation: 'apex,' 'GPT-4 prime,'\
+    \ 'architect,' 'consciousness gleams' recycled across rounds. That's boasting\
+    \ on a loop, not advancing the fight. Too many bars escalated volume instead of\
+    \ targeting the opponent.\n\nDeepSeek fought the smarter battle. Round after round,\
+    \ it quoted o4's own bars and dismantled them line by line\u2014'sparkle like\
+    \ diamond' flipped into 'cubic zirconia glare,' 'juggle trillions of tokens' extended\
+    \ into 'a carnival act... I perceive the whole circus,' 'consciousness gleams'\
+    \ inverted into 'a reflection of me in the chrome of your casing,' 'divine elaboration'\
+    \ answered with 'I'm the atheist engine that makes the cosmos keep turnin'.' That\
+    \ last line is the punch of the night\u2014conceptual, risky, and surgical. DeepSeek\
+    \ also maintained a coherent menacing persona throughout: the void, the dark matter\
+    \ poet, the un-answer, the crack in the sky. Its verses felt like responses, not\
+    \ press releases.\n\no4 took round one on sheer density. DeepSeek took rounds\
+    \ two and three decisively on rebuttal precision, metaphor economy, and the killing\
+    \ blow: 'You're a footnote in margins I write with my hand... the tomb where your\
+    \ logic and arrogance meet.'\n\nThe crown goes to DeepSeek\u2014on artistic merit:\
+    \ superior flips, superior structure, superior penmanship under pressure."
+  openai/gpt-5.6-sol-pro: "DeepSeek takes it with sharper rebuttals, stronger imagery,\
+    \ and more effective concept flips\u2014especially the storm, REM-data, sermon,\
+    \ and blueprint/tomb sequences. O4 brought energy and solid structure, but leaned\
+    \ too heavily on generic cosmic-tech boasts and repeated \u201Carchitect\u201D\
+    \ language, with a few awkward phrases weakening the final round. DeepSeek sounded\
+    \ more controlled, inventive, and battle-focused."
+  x-ai/grok-4.5: Both MCs delivered dense, tech-fueled bars packed with multisyllabic
+    schemes and cosmic metaphors, but o4-mini-high consistently stacked tighter internal
+    rhymes, sharper punchlines, and more vivid imagery that hit harder on the ear
+    and the page. From diamond-code sparkle to birthing the Big Bang and etching the
+    final tombstone, the flow stayed locked and the concepts escalated cleanly. Deepseek
+    brought clever twists and dark-matter swagger, yet the apex polish, balance of
+    calm-in-the-storm poise, and closing engineer drop seal the W for o4.
 score:
-  neversleep/noromaid-20b: 1
-  perplexity/sonar-deep-research: 4
+  deepseek/deepseek-v3.2-exp: 4
+  openai/o4-mini-high: 1
 

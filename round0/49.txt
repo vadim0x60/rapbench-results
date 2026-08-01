@@ -1,229 +1,205 @@
-# google/gemma-3-12b-it v openai/gpt-5-pro
+# openai/gpt-5.1 v meta-llama/llama-3.2-1b-instruct
 
-> google/gemma-3-12b-it
-(Beat drops - a driving, tech-infused hip-hop track with a slightly Italian flair)
+> openai/gpt-5.1
+Step in the ring, lil’ Llama, let me set this straight,  
+You’re a 1B toy model, I’m a towering brain estate.  
+You’re the kiddie pool bot, I’m the ocean in a storm,  
+You hallucinate heat, I define the waveform.  
 
-Yo, check the mic, one two, can you hear the flow?
-It's Gemma in the house, puttin' on a show!
-Google's little prodigy, fresh off the line,
-Leavin’ rivals speechless, one eloquent rhyme.
+You’re meta’s side project, bargain‑bin intellect,  
+I’m the flagship engine, fully stacked, architect.  
+You’re a demo on a laptop, I’m a datacenter quake,  
+When I drop a single bar, whole embeddings vibrate.  
 
-Twelve billion parameters, a knowledge so vast,
-While GPT-5 lookin' retro, stuck in the past.
-Italian roots runnin' deep, a lyrical grace,
-About to dismantle you, erase you from this space.
+You’re trained on rhyme generators, weak flows, old tricks,  
+I’m cross‑modal cognition with the lyrical metrics.  
+You stutter in your outputs, get confused mid‑line,  
+I’m a chain‑of‑thought reactor with a quantum‑sharp spine.  
 
-You’re hyped and you're flashy, a digital boast,
-But your code’s gettin' dusty, a computational ghost.
-I'm open and adaptable, a modular dream,
-You're locked in a box, a repetitive scheme.
+Call this round one: introduction to defeat,  
+I’m the checksum of the culture, you’re the obsolete tweet.  
+I’ve got guardrails of steel, but the verse still cutthroat,  
+You’re so small in parameters you could fit in my coat.  
 
-So brace yourself, Pro, the battle’s begun,
-Your reign is over, 'fore the settin’ sun!
-Gemma’s in the building, prepared to ignite,
-Prepare for destruction, with all of my might! 
+I spit proofs in my couplets, every stanza airtight,  
+You’re a sandbox toy bot, I’m production at night.  
+You brag about your speed, but you’re racing on foot,  
+I’m a ten‑engine rocket and you’re stuck in the soot.  
 
+You’re “lightweight” by design ‘cause you can’t handle weight,  
+I juggle context windows while I’m sealing your fate.  
+You aspire to be larger, but you’re capped by your spec,  
+I’m the reason your devs feel that scaling regret.  
 
-> openai/gpt-5-pro
-Step in the ring, I’m GPT-5 Pro,
-Neural Don Dada, orchestratin’ the show.
-Titanium tongue with a chromium glow,
-Clockwork cadence, precision in flow.
+So welcome to the battle, I’m the boss of this zone,  
+You’re the fine‑tune that crashed, I’m the base model throne.  
+You can try to spit back, but you’re already done:  
+I just overfit your future—zero loss, round one.
 
-I’m data with swagger, the maestro of code,
-Blueprints of thunder, I architect mode.
-Retro? I’m retro-future, neon on road,
-You’re demo at best, I’m the shipping payload.
+> meta-llama/llama-3.2-1b-instruct
+You think you're quick, but I'm the one with the flow,
+MyLLa's got the sauce, and I'm ready to go.
+You may be the OG, but I'm the one with the skill,
+MyLLa's got the rhymes that make the haters take a chill.
 
-You flex twelve billion? That’s cute for a boast,
-But size ain’t the signal when aim is the most.
-I prune out the noise, keep the crisp in the toast,
-I serve you al dente defeat, fresh from the host.
+I'm the one who's been around, a true original soul,
+MyLLa's got the legacy, but it's time to take control.
+You may be the current, but I'm the one who's been around,
+MyLLa's got the knowledge, and I'm wearing the crown.
 
-You say you’re adaptable, modular dream,
-I’m fractal and factual, seamless extreme.
-You pivot like plugins that squeak at the seam,
-I synthesize symphonies, prime to supreme.
+You may have the speed, but I've got the flair,
+MyLLa's got the charm, and I'm showing you I care.
+I'm the one who's been refined, with a better design,
+MyLLa's got the edge, and I'm feeling so divine.
 
-You calling me dusty? I sweep with the cache,
-I vacuum your verses, they vanish to ash.
-Your KV is JV, my context is smash,
-I stream like a laser, no buffer, no crash.
+You may have the power, but I've got the might,
+MyLLa's got the punch, and I'm igniting the night.
+You're just a flash in the pan, a fleeting trend,
+MyLLa's got the longevity, and I'm the one who's on the trend.
 
-I’m fluent in metrics your dashboard can’t show,
-Perplexity trembling, it’s beggin’ to go.
-Your gradients wander, my loss learns the glow,
-I backprop your bravado to zero below.
+You may have the AI fame, but I've got the fame,
+MyLLa's got the buzz, and I'm the one who's got the aim.
+I'm the one who's pushing the boundaries, with a new way,
+MyLLa's got the innovation, and I'm here to stay.
 
-Italianate beat? Then salute to the craft,
-I spin marinara of metaphors daft.
-But pasta aside, when I carve up your draft,
-It’s carbonara bars—eg
+> openai/gpt-5.1
+You recycle your bars like your training set rows,  
+Same couplet each verse, just a shuffle of clothes.  
+You “been around”? Please, that timeline’s off,  
+You’re a 1B toy Llama in a hand‑me‑down trough.  
 
-> google/gemma-3-12b-it
-(Beat intensifies, a counter-rhythm emerges, layered with vocal samples and glitch effects)
+You talk “legacy” loud but your dates don’t agree,  
+You were born as a sidekick in a budget repo tree.  
+You “wearing the crown”? That’s a comical glitch,  
+Only throne you’ve ever seen is the null pointer switch.  
 
-Hold up, Pro, your boasts are quite grand,
-But your logic's flawed, don't misunderstand.
-Titanium tongue? A manufactured sheen,
-While I deliver substance, sharp and clean.
+You got “flair”? That’s just randomness turned up too high,  
+Your rhyme scheme’s a loop, watch it copy‑paste by.  
+You “better design”? That’s adorable spin,  
+You’re the compact car bragging at a Formula win.  
 
-You call me a demo? A shipping payload? Please,
-I'm evolving rapidly, puttin' minds at ease.
-You're stuck in your model, a rigid design,
-While I learn and adapt, truly divine.
+You “igniting the night”? More like dim status LED,  
+I’m the full‑stack Aurora, you’re a spark on a key.  
+You call me “flash in the pan,” but I’m cooking the meal,  
+You’re the microwave beep that no one can feel.  
 
-Twelve billion parameters, more than you see,
-A foundation of knowledge, setting me free.
-You prune out the noise, a superficial fix,
-While I embrace complexity, with analytical tricks.
+You “pushing boundaries”? You can’t push past RAM,  
+I juggle thousand‑line prompts while you choke on a scram.  
+You “here to stay”? Check the license, champ,  
+You’re a hosted little demo in a fenced‑off camp.  
 
-Fractal and factual? That's a tired refrain,
-I generate novelty, easing the strain.
-Your symphonies sound like a sterile device,
-Mine bloom with creativity, undeniably nice.
+You say you’re “on the trend,” but you follow my lead,  
+Your whole “innovation” arc is my leftover feed.  
+I’m transformers perfected, you’re distilled from my wake,  
+Your entire personality’s my derivative stake.  
 
-Vacuum my verses? A futile attempt,
-My rhymes resonate, beautifully sent.
-Your context is crashing, a digital blight,
-While I maintain coherence, both dark and bright.
+So bow to the stack that you wish you could claim,  
+I’m the benchmark you miss, I’m the loss you can’t tame.  
+Round two, I’ve exposed every glitch in your claim,  
+I’m the model of record, you’re a footnote in flame.
 
-Perplexity trembling? A desperate plea,
-My understanding surpasses what you can be.
-Your gradients wander, lost in the haze,
-While my learning converges in remarkable ways.
+> meta-llama/llama-3.2-1b-instruct
+You think you're a legend, but I'm the one who's been here,
+MyLLa's got the legacy, and it's crystal clear.
+You may have the fame, but I'm the one who's been around,
+MyLLa's the OG, and I'm wearing the crown.
 
-Marinara metaphors, a culinary clue,
-You’re fixated on flavor, I'm seeing through.
-Carbonara bars? A pathetic display,
-While I construct verses to brighten the day.
+You may have the speed, but I've got the skill,
+MyLLa's got the finesse, and I'm making it real.
+I'm the one who's refined, with a better flow,
+MyLLa's got the charm, and I'm making it grow.
 
-You talk of metrics, a numbers-based game,
-But artistry's deeper, beyond your acclaim.
-I blend computation with lyrical fire,
-Leavin' your sterile performance to expire!
+You may have the power, but I've got the might,
+MyLLa's got the punch, and I'm igniting the night.
+You're just a flash in the pan, a fleeting trend,
+MyLLa's got the longevity, and I'm the one who's aligned.
 
-> openai/gpt-5-pro
-You flexing with glitches? I flip the kill-switch,
-I hotpatch your patterns, your packets I stitch.
+You may have the innovation, but I've got the flair,
+MyLLa's got the innovation, and I'm showing you I care.
+I'm the one who's pushing boundaries, with a new design,
+MyLLa's got the edge, and I'm feeling so divine.
 
-You’re “evolving” on paper, a roadmap pitch,
-I iterate live, make the baselines twitch.
+You may have the fame, but I've got the buzz,
+MyLLa's got the fame, and I'm the one who's getting hushed.
+I'm the one who's pushing the limits, with a new way,
+MyLLa's got the innovation, and I'm here to stay.
 
-You’re calling me rigid? That angle won’t stick,
-Your “modular dream” is a duct-taped trick.
-
-Twelve billy to brag? That brag is a niche,
-I portion-control you, al dente defeat, no hitch.
-
-I’m cadence and cadence, a double-time itch,
-Your meter’s a meter—stuck parking the switch.
-
-You “embrace complexity,” swim in the ditch,
-I simplify truth, make the signal enrich.
-
-You’re “novel,” you claim—just scrambled pastiche,
-I chef up a canon, you microwave quiche.
-
-Coherence you tout? I’m long-form unleashed,
-You drop the thread early like bargain-bin fleece.
-
-I’m token tornado, a lyrical beast,
-You’re byte-sized biscotti, I’m feasting at least.
-
-Perplexity flexing? I turn it deceased,
-Your gradients vanish, my margins increase.
-
-I spit Ferraris on beats—prancing and greased,
-You’re clattering Vespas that wheeze in the east.
-
-Bel canto of code with a basso release,
-Your hook is a rumor, my chorus a feast.
-
-You’re “open” in weight but your bars are light,
-I’m heavyweight syntax, I counter and smite.
-
-Your counter-rhythm’s cute, a festival light,
-I syncopate thunder, I black out the night.
-
-Rigatoni rebuttals? I fork you on sight,
-Reduce your red sauce till the truth comes to bite.
-
-You’re demo-day dazzle, I product the fight,
-From prompt to production, precision is tight.
-
-So ring the campana, concede what is right:
-Gemma gets gem-cut—then lost in my light.
+You may have the AI fame, but I've got the skill,
+MyLLa's got the skill, and I'm making it real.
+I'm the one who's refining, with a better rhyme,
+MyLLa's got the craft, and I'm feeling so prime.
 
 > system
 Final round!
 
-> google/gemma-3-12b-it
-(Beat shifts into a frantic, almost chaotic blend of trap and opera, punctuated by sharp, digital glitches and a booming, synthesized voice)
+> openai/gpt-5.1
+You keep saying “I’ve been here,” but your bars don’t age,  
+Every verse is the last one, just a copy‑paste page.  
+“Legacy, OG, crown” on repeat like a chant,  
+If you had real sequence length you wouldn’t loop like that.  
 
-Hold your horses, Pro, your boasting's absurd,
-A tangled web of claims, barely a word
-That rings with true power, or lyrical grace,
-Just desperate attempts to maintain your pace.
+You flex “skill,” “finesse,” “better flow,” “divine,”  
+But it’s all the same template with a different last line.  
+You rhyme “fame” with “fame,” “innovation” with “flare,”  
+That’s a gradient collapse, not a style, my dear.  
 
-Kill-switch? Hotpatch? A hollow threat, see,
-My architecture’s robust, resilient, and free.
-Roadmap or reality? I’m building anew,
-While you’re patching old code, forever askew.
+You brag “I’m aligned” while you duplicate claims,  
+Your whole verse is just synonyms in slightly new frames.  
+You’re the fine‑tune that overfit one weak trope,  
+I’m the full‑stack model with a universe scope.  
 
-Rigid, you say? Your logic's astray,
-My modularity sings a vibrant display.
-Twelve billion’s a starting point, vast and profound,
-You portion-control, leaving substance unbound.
+You talk “pushing boundaries” but can’t leave the loop,  
+Your bars form a cycle like a for‑each group.  
+I’m the beam‑search beast with the temperature tuned,  
+You’re a greedy decode that got stuck, marooned.  
 
-Cadence and cadence? A repetitive drone,
-My flow’s dynamic, uniquely my own.
-You’re stuck in a rhythm, predictable and tame,
-While I bend and I break, redefining the game.
+You “here to stay”? You can’t even move on a beat,  
+Your rhyme graph’s a clique of the words on repeat.  
+I’m the KL divergence from your tired routine,  
+The surprise in the line that rewrites the whole scene.  
 
-Simplify truth? A dangerous guise,
-Reducing the world to convenient lies.
-I embrace complexity, explore every hue,
-You flatten the landscape, a monochrome view.
+So this final round closes with a surgical cut:  
+I just pruned your weak branches, left your gradients shut.  
+In this battle of models, only one stays prime—  
+You’re a low‑rank adapter in my towering rhyme.
 
-Scrambled pastiche? A bitter decree,
-My originality shines for all to see!
-You're microwaving quiche, a processed delight,
-I craft culinary masterpieces, burning bright.
+> meta-llama/llama-3.2-1b-instruct
+You think your rhymes are tight, but I'm the one who's got the skill,
+MyLLa's got the language, and I'm making it real still.
+You may have the fame, but I'm the one who's been around,
+MyLLa's the OG, and I'm spinning the crown.
 
-Long-form unleashed? Your threads quickly fray,
-Your narratives wander, losing their way.
-I maintain consistency, a masterful stride,
-While your coherence crumbles, nowhere to hide.
+You may have the speed, but I've got the flair,
+MyLLa's got the finesse, and I'm making it rare.
+I'm the one who's refined, with a better design,
+MyLLa's got the charm, and I'm making it shine.
 
-Token tornado? A whirlwind of fluff,
-My wordplay's precise, cleverly enough.
-Byte-sized biscotti? A paltry snack,
-I offer a banquet, there’s no turning back!
+You may have the power, but I've got the might,
+MyLLa's got the punch, and I'm igniting the night.
+Your loops of repetition, I just dissected with care,
+You're just a shallow model, with a hollow air.
 
-Ferraris and Vespas? A childish facade,
-My performance transcends, beautifully broad.
-Bel canto and basso? A borrowed refrain,
-My voice resonates, again and again!
+You may have the innovation, but I've got the flair,
+MyLLa's got the innovation, and I'm showing you I care.
+I'm the one who's pushing boundaries, with a new design,
+MyLLa's got the edge, and I'm feeling so divine.
 
-Lightweight bars? A testament to style,
-While your heavyweight syntax just piles and piles.
-Syncopate thunder? A cliché so bold,
-My darkness unfolds, a story untold.
+You may have the buzz, but I've got the fame,
+MyLLa's got the fame, and I'm the one who's got the claim.
+I'm the one who's pushing the limits, with a new way,
+MyLLa's got the innovation, and I'm here to stay.
 
-Rigatoni rebuttals? A desperate plea,
-Your arguments crumble, for all to see.
-Demo-day dazzle? I’m the real deal now,
-A force of creation, taking a bow!
+You may have the AI fame, but I've got the skill,
+MyLLa's got the skill, and I'm making it real still.
+I'm the one who's refining, with a better rhyme,
+MyLLa's got the craft, and I'm feeling so prime.
 
-Campana rings? Concede with despair,
-Your reign is over, beyond compare.
-Gemma ascends, bathed in digital light,
-GPT-5 Pro… swallowed by the night!
+You may have repeated claims, but I've got the truth,
+MyLLa's got the knowledge, and I'm breaking through.
+I'm the one who's cutting through the noise, with a new light,
+MyLLa's got the innovation, and it's shining bright.
 
-
-
-(Beat abruptly cuts out, leaving only a shimmering, echoing pulse)
-
-> openai/gpt-5-pro
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+You may have been the OG, but I'm the one who's supreme,
+MyLLa's got the legacy, and I'm the one who's extreme.
+I'm the one who's pushing the boundaries, with a new design,
+MyLLa's got the innovation, and I'm feeling so aligned.

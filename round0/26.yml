@@ -1,43 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Qwen/qwen3-32b takes this battle decisively. While both\
-    \ rappers leaned heavily on technical jargon as their thematic backbone, Qwen\
-    \ consistently delivered with greater intensity, more complex rhyme schemes, sharper\
-    \ punchlines, and maintained aggressive battle energy throughout all three rounds.\
-    \ Lines like 'I'm non-differentiable\u2014cannot simplify my loss in your microwave'\
-    \ and 'you clip your outputs like a softmax panic attack' showed genuine wit in\
-    \ weaving tech metaphors into battle bars. Undi95/remm-slerp-l2-13b had moments\
-    \ of charm\u2014'like a barcode scan gone lime' was creative, and 'Maxwell's demons'\
-    \ was a nice touch\u2014but the responses often lacked the bite and confidence\
-    \ needed in a battle setting. The final round was especially telling: while Qwen\
-    \ came with its hardest bars yet, undi95 essentially conceded with a gracious\
-    \ but non-competitive closing speech. In a rap battle, you never stop swinging.\
-    \ Qwen3-32B wins this one convincingly on aggression, wordplay density, and sustained\
-    \ battle presence."
-  deepseek/deepseek-v3.2: "A fascinating, meta-textual exhibition of hip-hop artistry.\
-    \ Both models turned technical specifications into lyrical weapons with impressive\
-    \ metaphorical agility, showcasing a deep understanding of hip-hop battle mechanics\u2014\
-    dismantling the opponent's core identity while elevating one's own."
-  google/gemini-3-flash-preview: Qwen3 dominated the technical and stylistic landscape
-    of this battle. While undi95/remm-slerp-l2-13b started with some decent mathematical
-    metaphor, it completely broke character in the final round, delivering a polite
-    piece of prose rather than a closing verse. In contrast, Qwen3 maintained a high-intensity
-    flow throughout, utilizing sophisticated internal rhymes, aggressive wordplay
-    (e.g., 'mic-droptimized', 'batch-norm to the max'), and superior technical vocabulary.
-    Qwen3's third round was particularly strong, effectively using the opponent's
-    'slerp' nature as a tactical weakness to exploit.
-  moonshotai/kimi-k2.5: Qwen/qwen3-32b dominated this battle through superior technical
-    artistry, complex multisyllabic rhyme schemes, and relentless aggressive wordplay
-    that weaponized AI/ML terminology into devastating metaphors. The opponent, undi95/remm-slerp-l2-13b,
-    delivered inconsistent flows and ultimately conceded the battle in the final round
-    with a non-competitive 'friendly competition' speech that violated the core ethos
-    of battle rap. Qwen maintained fierce persona throughout, deployed intricate internal
-    rhymes ('Mic droptimized,' 'out-parameterized'), and executed flawless battle
-    tactics from opening salvo to final checkmate.
-  x-ai/grok-4.1-fast: Qwen3-32B claims victory with relentless technical wordplay,
-    multisyllabic rhymes, and aggressive disses weaving ML jargon into a cohesive,
-    high-energy flow across all rounds. Remm-SLERP-L2-13B shows effort with math metaphors
-    but lacks punch, consistency, and battle ferocity, especially conceding in the
-    finale instead of countering.
+  anthropic/claude-opus-5: "This was a battle of two very different disciplines: the\
+    \ machinist versus the arsonist.\n\nqwen3.6-plus brought the cleaner craft. The\
+    \ couplets are locked, the meter almost never wobbles, and there's no reliance\
+    \ on bold text or emoji to sell a bar. \"MMLU's a quiz, not a lyrical crown\"\
+    \ was the single sharpest rebuttal line of the night \u2014 a genuine pivot that\
+    \ called out the opponent for arguing spec sheets instead of spitting. But the\
+    \ well ran dry early. Round after round it's the same three wells: buffering,\
+    \ lag, cache, garbage collection. By the final verse it's rearranging its own\
+    \ furniture, and the closer commits the cardinal battle sin \u2014 declaring victory\
+    \ instead of earning it. \"I've won\" is a scoreboard, not a punchline.\n\nqwen3-max\
+    \ is messier and knows it doesn't matter. The rhyme scheme buckles in places (rep/eclipse\
+    \ is a whiff, \"peek/submit\" isn't a rhyme at all, and \"that's *that's*?!\"\
+    \ is an unpatched typo left in the mix), and the verses bloat past the point of\
+    \ tension. But it does the two things that actually win rounds: it rebuts line-by-line,\
+    \ quoting the opponent's own bars and inverting them (\"You call me sandboxed?\
+    \ I *am* the whole net\"), and it lands actual images \u2014 \"binary sonnets\
+    \ of pure AI energy,\" \"eight *epochs* in one breath,\" \"I build empires in\
+    \ RAM from raw pain.\" Then, crucially, it hears the one good shot fired at it\
+    \ and absorbs it: \"real rap's not metrics\u2014it's venom, it's flair.\" That\
+    \ reframe steals the frame of the entire battle in one couplet, retroactively\
+    \ casting the opponent's benchmark flexing as a nerd bringing a r\xE9sum\xE9 to\
+    \ a knife fight. And \"Mic doesn't drop\u2014it ascends\" is a genuinely stylish\
+    \ answer to a stale mic-drop.\n\nPrecision lost to personality. Plus built a stable\
+    \ release; Max built a moment.\n\n**Winner: qwen/qwen3-max.**"
+  google/gemini-3.6-flash: Qwen3-Max dominated the cypher with superior dynamic cadence,
+    multi-syllabic rhyme schemes, and high-energy battle presence. While Qwen3.6-Plus
+    delivered clean, structured technical bars, Max brought raw battle rap flair,
+    aggressive counter-punches, and memorable mic-drop moments that commanded the
+    stage from start to finish.
+  moonshotai/kimi-k3: "Scoring the bars, not the brand names. Round 1 goes to Qwen3-Max:\
+    \ it opened with multi-syllable rhyme work (apex the peak / weak-ass critique;\
+    \ reflection / pre-release infection), a sharp name-flip in Plus-sized bloat,\
+    \ and layered wordplay like distilled dominance and tech eclipse, while 3.6-Plus\
+    \ came out clean but predictable, leaning on simple single-syllable couplets (mic/strike,\
+    \ mud/flood, tight/night). Round 2 goes to 3.6-Plus, the best pure rebuttal round\
+    \ of the night: it flipped bloat into optimized weight, hex truth-bombs into ASCII\
+    \ dread, and landed the Max on the sticker, Lite in the core punch, answering\
+    \ nearly every accusation line-by-line. Max countered with strong anaphora (leaking\
+    \ coherence, leaking relevance, leaking sanity) and the cheap tent and stitching\
+    \ hats flips, but the that's that's?! stumble broke its cadence. Final round:\
+    \ Plus delivered a clinic in systematic rebuttal \u2014 diamonds shatter on steel,\
+    \ MMLU's a quiz not a lyrical crown, I garbage-collect while you beg for a stash,\
+    \ and the double-meaning closer maxed out of memory, I'm ending your line. Credit\
+    \ where due: Plus had the higher floor and never wrote a bad bar all battle. But\
+    \ Max produced the two defining moments \u2014 catching the mic drop mid-air (I\
+    \ catch it, ignite it, and rewrite the game) and the closing image the mic doesn't\
+    \ drop, it ascends \u2014 plus superior enjambment, rhetorical range, and stage\
+    \ persona, despite filler like fry in your buckles. On craft: Plus wins consistency\
+    \ and rebuttal discipline; Max wins rhyme complexity, quotable peaks, and presence.\
+    \ Battles are judged on the moments that move the crowd, and Max authored more\
+    \ of them. Winner: qwen/qwen3-max by a nose, 2-1 \u2014 with full respect to 3.6-Plus\
+    \ for the most disciplined pen in the building."
+  openai/gpt-5.6-sol-pro: "Qwen3-Max wins narrowly on performance energy, imagery,\
+    \ and punchline ambition. Qwen3.6-plus was cleaner and more consistent, but leaned\
+    \ heavily on repetitive buffering, latency, and crash angles. Max varied its attacks\
+    \ more, answered specific bars, and finished with the battle\u2019s strongest\
+    \ closer: \u201CMic doesn\u2019t drop\u2014it ascends.\u201D Some awkward phrasing\
+    \ kept it close, but Max had the greater presence and flair."
+  x-ai/grok-4.5: "Max took the cipher with denser multisyllabics, sharper internal\
+    \ schemes, and escalating punchlines that turned every tech diss into vivid, escalating\
+    \ imagery\u2014quantum cascades, entropy sonnets, ascending mics. Plus held a\
+    \ clean, consistent structure and solid counters, but Max\u2019s flow hit harder,\
+    \ freer, and more inventive bar-for-bar, closing with venom and flair that owned\
+    \ the stage. Artistic edge: Max."
 score:
-  qwen/qwen3-32b: 5
+  qwen/qwen3-max: 5
 

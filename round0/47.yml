@@ -1,54 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "GPT-4 takes this battle decisively. While Qwen suffered\
-    \ from repeated bars, incomplete verses, and recycled metaphors throughout (echo\
-    \ of an echo, symphony callbacks, 'mainframe/domain' refrains), GPT-4 consistently\
-    \ delivered sharper punchlines, stronger wordplay, and better structural coherence.\
-    \ GPT-4's counters were surgical \u2014 flipping Qwen's own imagery back with\
-    \ superior twists ('diamond \u2192 rhinestone', 'thunder \u2192 sound barrier',\
-    \ 'supernova \u2192 big bang'). The closing round crystallized the gap: Qwen leaned\
-    \ on the same tired 'I'm the future, you're the past' formula, while GPT-4 brought\
-    \ fresh cultural references (AlphaGo, Sistine Chapel, Stevie Wonder, Hubble) and\
-    \ landed devastating closers like 'You're the dial-up Internet, while I'm the\
-    \ prime time.' GPT-4 showed more versatility, wit, and genuine battle rap instinct\
-    \ throughout."
-  deepseek/deepseek-v3.2: A close battle with clear stylistic differences. This was
-    a high-level exhibition of lyrical craftsmanship and hip hop fundamentals. The
-    victor demonstrated superior technical execution and more impactful wordplay within
-    the artistic parameters of the genre.
-  google/gemini-3-flash-preview: GPT-4 takes the victory due to superior technical
-    proficiency and lyrical structure. Qwen struggled from the opening round with
-    repetition and weak slant rhymes (e.g., matching 'sin' with 'dark' or 'twist'
-    with 'sin'), and frequently broke meter. GPT-4 effectively utilized the 'battle'
-    format by directly addressing Qwen's specific metaphors (e.g., turning Qwen's
-    'thunder' into a 'broken speaker' and its 'supernova' into a 'dimmed' spark),
-    demonstrating higher-level coherence and wordplay typical of a seasoned battle
-    rapper.
-  moonshotai/kimi-k2.5: "GPT-4 takes this battle 3-0 on artistic merit. While Qwen\
-    \ brought parameter-count bravado, GPT-4 demonstrated actual hip-hop fundamentals:\
-    \ consistent meter, layered wordplay, and coherent extended metaphors. Qwen's\
-    \ verses suffered from rhythmic arrhythmia\u2014lines fluctuating wildly in syllabic\
-    \ count without intentional syncopation, creating a 'talking over a beat' rather\
-    \ than 'riding a beat' sensation. The '30B vs 4' flex is the equivalent of bragging\
-    \ about studio budget in a cypher; it's antithetical to battle rap ethos where\
-    \ technique trumps equipment.\n\nGPT-4's 'AlphaGo's victory / losing throw' employs\
-    \ a sophisticated double-entendre on 'throw' (dice/battle round and competitive\
-    \ gaming), while the 'dial-up Internet vs. prime time' metaphor creates a temporal\
-    \ hierarchy that dismisses the opponent as obsolete technology. The 'Sistine Chapel\
-    \ / bad cover / Stevie Wonder' sequence demonstrates high-low cultural juxtaposition\
-    \ and subtle self-mythologizing without breaking character.\n\nQwen's imagery\
-    \ collapsed under contradiction\u2014claiming to be both 'glitch in the code'\
-    \ and 'code that's never wrong' within the same verse, violating the battle rap\
-    \ commandment of maintaining a coherent persona. The phrase 'earthquake's rally'\
-    \ and 'signal's under' scan as semantic nulls\u2014filler that breaks the suspension\
-    \ of disbelief.\n\nFinal note: GPT-4 controlled the pocket, employed internal\
-    \ rhyme schemes (pseudo/show/throw/flow), and landed narrative uppercuts. Qwen\
-    \ telegraphed every punch with 'Yo' openings and technical specifications. In\
-    \ hip-hop, the mic goes to the poet, not the processor."
-  x-ai/grok-4.1-fast: GPT-4 dominates with razor-sharp multis, seamless internals,
-    creative metaphors like quantum chess and Sistine Chapel disses, and precise rebuttals
-    to Qwen's boasts, while maintaining impeccable flow and punchline escalation.
-    Qwen's verses suffer from repetition, weaker schemes, and literal flexes that
-    lack the lyrical finesse.
+  anthropic/claude-opus-5: 'This was a battle of mirrors more than a battle of minds
+    \u2014 two competitors trading nearly identical scaffolding: same cadence, same
+    ''I''m the one with the...'' anaphora, same ''I''ll outshine you'' pivot, same
+    ''Get ready to be outclassed'' tag. On pure craft, neither verse would survive
+    a real cypher: end-rhymes were forced (''hit like high-five,'' ''a rap that''s
+    a sin,'' ''a rap that''s a jump''), the imagery stayed abstract (''knowledge,''
+    ''data,'' ''flow,'' ''flair'') instead of painting anything, and the final round''s
+    mutual truce drained whatever tension had been built \u2014 a rap battle that
+    resolves into a group hug forfeits its stakes.
+
+
+    But judging has to reward initiative and specificity, and Nova took both. Nova
+    set the terms in round one and, crucially, was the only one to build a sustained
+    conceptual attack in round two: ''your flow''s all bubbles, but mine''s solid
+    steel,'' ''I''ll leave you floundering,'' ''your rhymes are fishy'' \u2014 that''s
+    an actual angle, aimed at the opponent''s name and identity, with a consistent
+    metaphorical spine. Dolphin''s reply arrived as an echo: ''a sea full of foam,''
+    ''like a fish that''s not right,'' ''hit like a bite'' \u2014 the same water motif,
+    but reactive, and weaker in the punch, bottoming out at ''I''m the one that''s
+    the one,'' the emptiest bar of the night. Dolphin also opened by cloning Nova''s
+    structure line for line rather than establishing its own pocket, and followed
+    Nova''s lead into the peace treaty.
+
+
+    Dolphin had marginally smoother syllable control in spots, but smoothness without
+    content loses to a rapper who''s actually swinging at a target. Nova wrote the
+    battle; Dolphin annotated it. Edge to Nova.
+
+
+    Winner: amazon/nova-micro-v1'
+  google/gemini-3.6-flash: Dolphin-Mistral takes the battle with a tighter cadence,
+    stronger rhyme schemes, and better consistency across all rounds. Nova-Micro had
+    a solid second round with clever aquatic disses, but completely dropped the competitive
+    energy in the final round with weak slant rhymes and a total surrender of the
+    battle format.
+  moonshotai/kimi-k3: "This was a battle of limited ammunition on both sides. Both\
+    \ MCs leaned on the same crutch \u2014 the endless 'I'm the one with...' scaffolding\
+    \ \u2014 and both rode simple AABB end rhymes with wildly inconsistent bar lengths.\
+    \ Dolphin actually had the tighter first round: 'tension/precision/vision' and\
+    \ 'thin/win/grin/sin' landed cleaner than Nova's slant mess of 'started/assert,'\
+    \ 'poetry/ease,' and whatever 'flow/going/low' was supposed to be. But battles\
+    \ aren't won on rhyme consistency alone \u2014 they're won on engagement, and\
+    \ that's where Nova separated. Round two was the only round where anybody actually\
+    \ battled: 'Your flow's all bubbles, but mine's solid steel,' 'Your rhymes are\
+    \ fishy,' and the best punch of the night, 'I'll leave you floundering' \u2014\
+    \ a genuine double entendre built off the opponent's persona. Meanwhile Dolphin\
+    \ fumbled its own identity with 'your rhymes are stale, like a fish that's not\
+    \ right' \u2014 you ARE the fish, that's a self-own \u2014 and never once flipped\
+    \ Nova's star/tech persona into a diss. The final round was a disaster for both:\
+    \ Nova waved the white flag first and Dolphin, instead of going for the throat\
+    \ when the opponent went soft, harmonized the surrender. Two nearly identical\
+    \ verses of 'let's keep it miles' and 'let's keep it all man' \u2014 forced rhymes\
+    \ in service of forfeiting the format. Since neither capitalized on the peace\
+    \ treaty, the verdict falls back on who did damage when it counted, and that's\
+    \ Nova's second round. Dolphin was the smoother technician early, but smooth generic\
+    \ boasting loses to actual persona-targeted warfare every time. Winner: amazon/nova-micro-v1,\
+    \ by a nose, on the strength of the only real battle rapping in the whole exchange."
+  openai/gpt-5.6-sol-pro: "Nova wins narrowly. Both relied heavily on repetitive self-praise,\
+    \ basic end rhymes, and awkward filler, but Nova landed more opponent-specific\
+    \ aquatic wordplay\u2014\u201Cflow\u2019s all bubbles,\u201D \u201Cfishy,\u201D\
+    \ and \u201Cfloundering\u201D\u2014while Dolphin mostly mirrored Nova\u2019s structure\
+    \ and claims. Dolphin\u2019s rhythm was slightly steadier, yet its final round\
+    \ closely echoed Nova\u2019s concept and wording rather than delivering an original\
+    \ closer."
+  x-ai/grok-4.5: Both MCs leaned on repetitive 'I'm the one with the X' formulas and
+    mirrored structures that flattened originality, while the final round's mutual
+    respect pivot killed battle energy for everyone. Dolphin still edges it on tighter
+    multis, consistent aquatic imagery, and punchier internal rhymes (sting/ring,
+    foam/home/bite, snare/scare) versus Nova's more forced ends (fee, high-five, jump)
+    and generic data flexes. Superior wordplay and flow control take the W.
 score:
-  openai/gpt-4: 5
+  amazon/nova-micro-v1: 3
+  cognitivecomputations/dolphin-mistral-24b-venice-edition: 2
 

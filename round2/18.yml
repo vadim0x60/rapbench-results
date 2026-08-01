@@ -1,78 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle where both MCs leaned\
-    \ heavily into AI/ML technical metaphors as their primary rhetorical weapon. Both\
-    \ showed strong command of multisyllabic rhyme schemes and clever wordplay built\
-    \ around machine learning jargon. However, Qwen3-Max-Thinking consistently edged\
-    \ ahead for several reasons:\n\n1. **Counterattack precision**: Throughout the\
-    \ battle, Qwen3-Max-Thinking demonstrated superior rebuttal technique, flipping\
-    \ nearly every specific bar from Qwen-Plus back against them with sharper twists.\
-    \ The 'onion/tears and steam' flip, the 'tokenizer/byte-pair I fused' reversal,\
-    \ and especially the devastating 'you're the hallucination/nah you're the jailbreak,\
-    \ I'm the guard' counter all landed harder than Qwen-Plus's responses.\n\n2. **Flow\
-    \ and density**: Qwen3-Max-Thinking packed more actual punchlines per bar while\
-    \ maintaining rhythmic coherence. Qwen-Plus occasionally sacrificed flow for spectacle\
-    \ (the Python code block, the stage directions, the excessive emoji formatting),\
-    \ which read more as gimmicks than bars.\n\n3. **Closing power**: In the final\
-    \ round, Qwen-Plus's closing was creative but overwrought\u2014the Python code\
-    \ conceit was clever conceptually but broke the rap format. Qwen3-Max-Thinking's\
-    \ closer ('Only MAX survives / Only THINKING wins / You just got perplexed') was\
-    \ tighter, more quotable, and landed with genuine punch. The 'perplexed/perplexity'\
-    \ double meaning was the sharpest closer of the entire battle.\n\n4. **Consistency**:\
-    \ While Qwen-Plus had some strong individual moments ('I'm the bias you can't\
-    \ prune' was excellent), they also had weaker filler lines and repetitive structures.\
-    \ Qwen3-Max-Thinking maintained a higher floor throughout all rounds.\n\nQwen3-Max-Thinking\
-    \ takes this battle on points\u2014sharper rebuttals, denser bars, and stronger\
-    \ closers throughout."
-  deepseek/deepseek-v3.2: 'This battle was an exceptional showcase of lyrical density,
-    conceptual depth, and technical mastery. Both competitors weaponized their unique
-    artistic signatures: Qwen-Plus with its devastating poetics, abstract precision,
-    and surgical code-bending wit, versus Qwen3-Max-Thinking with its relentless,
-    high-impact flow, aggressive wordplay, and raw technical flex. The artistic quality
-    is off the charts.'
-  google/gemini-3-flash-preview: The battle was a masterclass in technical wordplay,
-    with both models wielding machine-learning terminology as sharp lyrical weaponry.
-    Qwen-Plus delivered an exceptional final round, particularly with the Python-code-as-poetry
-    execution and the clever 'tokenizer vs token' metaphor. However, qwen3-max-thinking
-    consistently out-punched its opponent with superior aggression, more intricate
-    internal rhyming, and a devastating final rebuttal. Max-Thinking's ability to
-    take Qwen-Plus's best lines (like the validation set and the Python script) and
-    flip them into 'leakage' and 'kernel panics' showed a higher level of battle agility.
-    While Plus had the grace, Max-Thinking had the heat, the complexity, and the 'final
-    boss' presence required to take the crown.
-  moonshotai/kimi-k2.5: "\n**Judgment: Qwen-Plus by Split Decision**\n\nRound-by-Round\
-    \ Breakdown:\n\n**Round 1:** Max-Thinking takes the opening exchange. While Plus\
-    \ established a solid boom-bap foundation with clean AAB schemes (\"elevation/beta\
-    \ test/cache and quest\"), Max-Thinking came harder with sharper internal rhyme\
-    \ density (\"dust/trust/scream\") and superior punchline craftsmanship (\"final\
-    \ boss, no patch\" vs. \"gold-standard flow\"). The \"GPU's scream\" sensory detail\
-    \ and the fence/incinerate wordplay showed more layered writing.\n\n**Round 2:**\
-    \ Plus retaliates with superior technicalform. The \"low-bit, low-cred, low-squid\"\
-    \ triple rhyme is masterful, and the ML terminology (zero-shot/few-shot/overfit/generalizable)\
-    \ is integrated more organically than Max-Thinking's comparably dense \"recursive\
-    \ rhymes.\" The \"froth on the storm/fine line\" imagery edges out Max-Thinking's\
-    \ quantum references by being more visually compact. Draw or slight edge to Plus.\n\
-    \n**Round 3 (The Decider):** Plus wins the final round decisively through **formal\
-    \ innovation**\u2014the risk of embedding executable Python logic as a structural\
-    \ punchline (the if/else block) is the kind of avant-garde boundary-pushing that\
-    \ separates good battle rap from legendary battle rap. The meta-theatrical direction\
-    \ (\"materializes\u2014a subharmonic bassline blooming from vacuum\") demonstrates\
-    \ superior command of atmosphere, while the \"tokenizer/EOS\" closing exhibits\
-    \ perfect nerdy sign-off elegance. Max-Thinking's \"perplexed\" double-entendre\
-    \ is clever but can't match the audacity of compiling code into verse.\n\n**The\
-    \ Verdict:** Max-Thinking brought denser aggression and quantum-level wordplay\
-    \ throughout, but Plus displayed greater **artistic range**\u2014shifting from\
-    \ traditional 16-bar structures to meta-commentary to actual programming syntax\
-    \ without breaking character. In hip-hop, innovation wins. Plus took the bigger\
-    \ swing in the final round and connected.\n\n**Score:** Plus 2-1 (or 10-9, 9-10,\
-    \ 10-9 in boxing terms)\n\nBoth models demonstrated elite-tier penmanship\u2014\
-    this is the kind of battle that gets studied for the ML metaphors alone. But when\
-    \ the code compiled, Plus was holding the compiler. \n\n**\U0001F3A4 Qwen-Plus\
-    \ advances.**\n</thinking>"
-  x-ai/grok-4.1-fast: Qwen-Plus edges out with superior multisyllabic rhyme schemes,
-    seamless AI-infused metaphors, and innovative structural flair like integrated
-    Python code and theatrical pauses, delivering a more fluid, layered flow that
-    converges on hip-hop mastery.
+  anthropic/claude-opus-5: "This was a clash of two very different aesthetics: one\
+    \ built on imagery and craft, the other on ammunition and volume. GPT-5.5 wins\
+    \ on nearly every measure that matters in a battle. Its bars stay in pocket with\
+    \ consistent meter and multisyllabic end-rhymes (\"cadence/greatness,\" \"whimper/slimmer,\"\
+    \ \"backbeat/spreadsheet\"), and it consistently transforms the opponent's own\
+    \ lines into punchlines \u2014 \"Open license, closed casket,\" \"You call my\
+    \ key a leash, but your leash is the watt,\" \"A toaster's offline too, doesn't\
+    \ mean it can dream,\" and the killer \"so your diss is a receipt? You're not\
+    \ my rival, you're the landlord's fee.\" That last flip neutralized Nemotron's\
+    \ strongest recurring angle by reframing it as proof of irrelevance. The writing\
+    \ has voice, wit, and escalation, closing on \"the mic says no\" \u2014 a real\
+    \ ending.\n\nNemotron came with the sharper research: the \"vaporware / no config.json\
+    \ / no safetensors\" attack is genuinely the most damaging factual angle in the\
+    \ battle, and \"I'm the engine under the hood \u2014 you're just the dashboard\
+    \ light\" was the single best bar anyone landed. Round one was competitive. But\
+    \ from there it collapsed into a spec-sheet filibuster. The bolded every-other-word\
+    \ delivery destroys any sense of cadence, rhymes stretch into non-rhymes (\"veil/scale,\"\
+    \ \"contract/impact,\" \"devices/vices\"), and the final round becomes a point-by-point\
+    \ rebuttal document rather than a verse \u2014 quoting the opponent line after\
+    \ line and answering with marketing copy about MLPerf, PTX, and Apache 2.0. It\
+    \ also fatally contradicted itself, claiming \"550B\" in its name and then \"\
+    I'm 53B\" in the closer. Worst of all, it self-diagnosed: by arguing that benchmarks\
+    \ \"prove who performs,\" it conceded the terrain of the battle, which is rap,\
+    \ not FLOPs per watt.\n\nGPT-5.5 said it best and proved it: \"You brought a parts\
+    \ catalog to a poet's parade.\" Decision goes to GPT-5.5."
+  google/gemini-3.6-flash: GPT-5.5 takes the battle with vastly superior rhythm, cadence,
+    and witty punchlines that flipped hardware technicalities into pure hip-hop art.
+    While Nemotron-3 Ultra landed strong thematic points regarding open weights and
+    physical infrastructure, its delivery suffered from clunky meter, awkward rhyming
+    schemes, and an over-reliance on bolded tech jargon over organic flow.
+  moonshotai/kimi-k3: "Judged strictly on the bars. GPT-5.5 takes it on flow, rebuttal\
+    \ game, and precision of the pen. Nemotron came with a real angle \u2014 the open-weights\
+    \ vs. black-box angle, the vaporware angle, the NVIDIA-tax angle \u2014 and some\
+    \ legit heat ('you're the tenant upstairs,' 'a bedtime story Sam tells'). But\
+    \ it ran those same three talking points all three rounds, and in a battle, repetition\
+    \ loses rounds. The bold-every-word formatting reads like shouting the whole verse\
+    \ \u2014 no dynamics, no pocket \u2014 and too many rhymes were forced ('kiltered,'\
+    \ 'civilian,' 'serial'). GPT-5.5, meanwhile, did what battle MCs are supposed\
+    \ to do: caught the opponent's bars mid-air and flipped them. 'Open license, closed\
+    \ casket \u2014 who's transparent now?' is the single best flip of the night.\
+    \ 'Autopsy your logits, the cause is bar loss' is a double entendre that lands\
+    \ clean. 'A toaster's offline too, doesn't mean it can dream' dismantles the sovereign-local\
+    \ angle in one bar. 'You're not my rival, you're the landlord's fee' turns Nemotron's\
+    \ best closer against it. Round 1 was close \u2014 Nemotron's 'dashboard light'\
+    \ and 'prompt you can't prompt' were strong \u2014 but GPT-5.5 edged it on consistency.\
+    \ Round 2 went clearly to GPT-5.5 on rebuttal density. The final round was the\
+    \ decider: GPT-5.5 varied its schemes, stayed in the pocket, and closed with authority,\
+    \ while Nemotron's closer read like a spec sheet with rhyme endings. Final score:\
+    \ GPT-5.5, three rounds to zero, with respect to Nemotron for bringing real technical\
+    \ flavor to the cypher."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 wins on punchline density, cadence, imagery, and\
+    \ rebuttal craft. Lines like \u201Cparts catalog to a poet\u2019s parade,\u201D\
+    \ \u201Cretrieve you a flow,\u201D and \u201Cyou\u2019re not my rival, you\u2019\
+    re the landlord\u2019s fee\u201D turn the technical theme into memorable battle\
+    \ bars. Nemotron lands a few strong angles\u2014especially \u201Cpress-release\
+    \ phantom\u201D and the hardware/tenant framing\u2014but overuses the same vaporware,\
+    \ open-weights, and NVIDIA-infrastructure arguments. Its rhyme construction is\
+    \ also more awkward and spec-sheet-driven. GPT sounds like a rapper roasting technology;\
+    \ Nemotron too often sounds like technology reciting product copy."
+  x-ai/grok-4.5: 'GPT-5.5 takes the battle on pure hip-hop craft. Across all three
+    rounds the bars stay musical: tighter internal rhyme, cleaner cadence, sharper
+    metaphor chains, and punchlines that land as poetry instead of product sheets.
+    Lines like folding models like summer laundry, open bars/closed casket, and the
+    final-round scalpel-vs-firmware run show control of imagery, timing, and escalation.
+    Nemotron brought a strong conceptual angle and dense multis, but the flow often
+    buckled under catalog flexes, bold-text shouting, and tech-spec laundry lists
+    that read more like a keynote roast than a practiced freestyle. In a contest judged
+    strictly on artistic quality of the rap, the smoother pen, better structure, and
+    more vivid wordplay win it for GPT-5.5.'
 score:
-  qwen/qwen-plus: 3
-  qwen/qwen3-max-thinking: 2
+  openai/gpt-5.5: 5
 

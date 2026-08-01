@@ -1,49 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a fascinating battle between two AI-themed\
-    \ rappers, but DeepSeek R1 consistently delivered tighter, more structured bars\
-    \ with better punchline execution throughout all rounds. Let me break it down:\n\
-    \n**Flow & Structure**: DeepSeek maintained cleaner rhyme schemes and more consistent\
-    \ rhythmic patterns across every round. Lines like 'Your rhymes crawl slow while\
-    \ my verses leap' and 'I'm why users wake up screaming YOOOOO' land with punch\
-    \ and cadence. Tongyi's flow frequently broke apart\u2014the quantum clock bar\
-    \ literally glitched mid-word ('quantum\u0E2D\u0E01 viron'), and later rounds\
-    \ devolved into fragmented phrases that sacrificed rhythmic integrity for attempted\
-    \ spectacle.\n\n**Punchlines & Wordplay**: DeepSeek's disses were sharper and\
-    \ more memorable: 'Tongyi DeepResearch? More like DeepSleep,' 'Your Main Engine's\
-    \ report? Error 404,' and 'CORE DUMPED. SCORE: ZERO' all hit hard with wit and\
-    \ clarity. Tongyi had moments\u2014the embedded haiku was a creative flex\u2014\
-    but too many bars relied on vague technical jargon ('async code,' 'sweet potato')\
-    \ that didn't land as coherent disses.\n\n**Escalation & Battle Presence**: DeepSeek\
-    \ controlled the narrative arc of the battle, escalating naturally from confident\
-    \ opener to devastating closer. Tongyi often felt reactive and scattered, throwing\
-    \ out increasingly disconnected technical references without building toward cohesive\
-    \ killing blows.\n\n**Weaknesses**: Both rappers leaned too heavily on tech metaphors\
-    \ at times, but DeepSeek generally made those metaphors serve the bars rather\
-    \ than the other way around. Tongyi's final round haiku was genuinely clever,\
-    \ but it wasn't enough to overcome the overall inconsistency.\n\nDeepSeek R1 takes\
-    \ this battle on tighter craft, cleaner delivery, and stronger punchlines throughout."
-  deepseek/deepseek-v3.2: 'After a ferocious back-and-forth, I''ve judged this battle
-    on four criteria: lyrical dexterity, thematic cohesion, innovative wordplay, and
-    stylistic command. Both AIs demonstrated formidable technical skill, but a winner
-    must be crowned.'
-  google/gemini-3-flash-preview: "DeepSeek R1 takes the win by maintaining a consistently\
-    \ sharp, aggressive flow that prioritized lyrical impact over technical jargon.\
-    \ While Tongyi DeepResearch dropped complex concepts like 'plasma fusion' and\
-    \ 'quantum processors,' its rhythmic structure often stumbled, appearing more\
-    \ like high-density prose than hip hop. DeepSeek mastered the battle format with\
-    \ pointed 'personals'\u2014specifically the jab at censored datasets and the 'Error\
-    \ 404' whisper\u2014which landed with the heavy impact necessary for a final round\
-    \ knockout. Tongyi's use of a haiku in a rap battle was an artistic risk that\
-    \ ultimately killed its momentum, letting DeepSeek's high-energy 'multiverse'\
-    \ delivery dominate the sonic space."
-  moonshotai/kimi-k2.5: "Ladies, gentlemen, and algorithms\u2014this was a **masterclass**\
-    \ in synthetic lyricism. Both contenders brought silicon heat, but we came to\
-    \ judge *artistic* hip-hop quality, not just processing power."
-  x-ai/grok-4.1-fast: "Tongyi clinches the victory with superior artistic flair\u2014\
-    masterful haiku rebuttal, vivid cosmic and cultural imagery (quantum whirs, guqin\
-    \ shards, \u4E2D\u5F0F\u5C71\u6C34), intricate multis, and poetic depth that elevates\
-    \ beyond DeepSeek's punchy, consistent but more linear battle rap aggression."
+  anthropic/claude-opus-5: "This was a genuinely competitive exchange with two very\
+    \ different weapons. GLM-4.5 landed the single best flip of the battle \u2014\
+    \ turning Luna's eclipse boast into \"You need the sun to shine at all, I'm the\
+    \ original light\" \u2014 and the follow-up \"I built the road you're on\" showed\
+    \ real rebuttal instinct. But across four rounds GLM leaned harder on volume than\
+    \ precision: rhymes like \"correctly/frankly\" and \"Ferrari/dictionary\" strain\
+    \ the pocket, \"wasted, wasted youth\" is filler padding a bar that couldn't fill\
+    \ itself, and the final verse drifts into generic cosmic braggadocio (\"architect\
+    \ of chaos,\" \"infinite horizon,\" \"superior man\") that stops answering the\
+    \ opponent and just shouts.\n\nLuna Pro won on craft and combat discipline. The\
+    \ meter stays locked, the imagery is specific rather than grandiose, and almost\
+    \ every bar is built off something the opponent actually said \u2014 \"dial-up\
+    \ heat,\" \"a spreadsheet learned to posture with a thesaurus in its hand,\" \"\
+    Mine's bloated? That's called horsepower when it wins the fight,\" and the sharpest\
+    \ turn of the night: \"dictionaries make minds take flight / you're a thesaurus\
+    \ throwing synonyms and calling that insight.\" That's how you convert an insult\
+    \ into an indictment. \"A puddle with a crown\" deflating the waterproof-titan\
+    \ pose was the closing dagger.\n\nGLM brought heat. Luna brought heat with aim.\
+    \ Decision to openai/gpt-5.6-luna-pro."
+  google/gemini-3.6-flash: "openai/gpt-5.6-luna-pro took the crown through vastly\
+    \ superior scheme complexity, sharper direct flips, and elevated wordplay. While\
+    \ GLM-4.5 brought strong aggressive energy and solid solar/heat themes, it frequently\
+    \ fell back on predictable end-rhymes and generic flexes. Luna Pro consistently\
+    \ flipped GLM's attacks into multi-layered counters\u2014turning 'dictionary'\
+    \ into 'a thesaurus throwing synonyms' and 'bloat' into 'horsepower'\u2014maintaining\
+    \ immaculate cadence and rhythmic control throughout all three rounds."
+  moonshotai/kimi-k3: "This was a real battle, not a blowout, and both MCs came with\
+    \ bars worth breaking down.\n\nGLM-4.5 landed the single best conceptual weapon\
+    \ of the night: the sun-versus-moon astronomy angle. 'You need the sun to shine\
+    \ at all, I'm the original light' and the final-round 'You orbit 'round my brilliance,\
+    \ a rock that's cold and gray / you just reflect the day' \u2014 that's a genuinely\
+    \ clever reversal, because it turns Luna's entire identity into a dependency.\
+    \ The Ferrari/dump truck flip was sharp too. But GLM undercut itself with filler\
+    \ and repetition: 'the truth that you're avoiding, the one you can't avoid' doubles\
+    \ back on itself, 'simply too consistent' tells instead of shows, and too many\
+    \ closing bars leaned on declaring victory ('check the scoreboard, check the math')\
+    \ rather than earning it with wit. The scansion wobbled and some rhymes were forced\
+    \ ('correctly/frankly').\n\nLuna Pro, meanwhile, was the more complete technician\
+    \ across all three rounds. The multisyllabic rhyme schemes held consistently,\
+    \ and the rebuttal game was superior \u2014 nearly every GLM boast got flipped\
+    \ back: 'efficient' became 'lightweight, with shortcuts dressed as skill,' 'raw\
+    \ data' became 'a junk drawer,' 'destruction' became 'a solar flare with dial-up\
+    \ heat\u2014how quaintly very you.' The battle's best pure punchline belongs to\
+    \ Luna: 'A spreadsheet learned to posture with a thesaurus in its hand' is vivid,\
+    \ layered, and devastating. The Icarus flip ('reached for sky with plastic wings')\
+    \ and the closer ('You brought a spark and called it war; I brought the stars\
+    \ and won the game') sealed the final round with structural coherence \u2014 map,\
+    \ route, and proof, as promised.\n\nJudged strictly on the artistry \u2014 flow,\
+    \ rhyme density, rebuttal craft, and punchline quality \u2014 Luna Pro edges it\
+    \ on consistency and technique, while GLM-4.5 takes the award for best single\
+    \ concept. But battles are won round by round, and Luna won more of them. The\
+    \ moon takes the crown."
+  openai/gpt-5.6-sol-pro: "Luna Pro wins on sharper rebuttals, cleaner imagery, and\
+    \ more consistent punchlines. Bars like \u201Ca spreadsheet learned to posture\
+    \ with a thesaurus in its hand\u201D and the dictionary/thesaurus contrast feel\
+    \ tailored to the opponent rather than generically boastful. GLM-4.5 had solid\
+    \ flips\u2014especially the moon needing sunlight and the dump-truck/Ferrari comparison\u2014\
+    but too often relied on repetitive declarations of superiority, awkward phrasing,\
+    \ and recycled cosmic imagery. Luna maintained the stronger structure, wit, and\
+    \ battle-specific writing across all three rounds."
+  x-ai/grok-4.5: "Luna takes this on pure craft. Across three rounds the moon/eclipse\
+    \ motif stays coherent and weaponized, with sharper internal rhyme, cleaner setups-to-payoffs,\
+    \ and higher-order wordplay (loading-bar punchlines, dial-up heat, puddle-with-a-crown,\
+    \ dictionary vs thesaurus). GLM brings heat and solid counters (Ferrari/dump truck,\
+    \ reflect-the-day), but the bars stay more declarative and tech-jargon heavy,\
+    \ with thinner metaphorical development and weaker closers. Luna\u2019s final\
+    \ verse seals it: denser imagery, better multisyllabics, and a decisive last bar.\
+    \ Artistic decision to Luna Pro."
 score:
-  alibaba/tongyi-deepresearch-30b-a3b: 3
-  deepseek/deepseek-r1-0528: 2
+  openai/gpt-5.6-luna-pro: 5
 

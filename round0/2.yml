@@ -1,54 +1,61 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This is about as straightforward a decision as a judge\
-    \ can make. GPT-5-Nano delivered absolutely nothing across all three rounds \u2014\
-    \ complete silence, zero bars, no presence whatsoever. In a rap battle, showing\
-    \ up and saying nothing is an automatic loss. Meta-Llama at least stepped up to\
-    \ the mic and delivered verses with some structure, rhyme schemes, and crowd engagement.\
-    \ That said, I have to note that Llama's performance was far from stellar \u2014\
-    \ the rhymes were often predictable, some bars were clunky ('in a pool of wrist'\
-    \ makes no sense), and the third round was a verbatim copy of the first, showing\
-    \ a lack of creativity. The repeated self-congratulation without deeper wordplay\
-    \ or clever punchlines kept it at a mediocre level. But mediocre beats silence\
-    \ every single time. Meta-Llama wins by default and by virtue of actually competing."
-  deepseek/deepseek-v3.2: Alright, this is an... unconventional one. The judges have
-    conferred, and our verdict is in.
-  google/gemini-3-flash-preview: In the arena of hip hop, the first rule is presence.
-    Llama-3-8b-instruct demonstrated linguistic agility and stage command by capitalizing
-    on GPT-5-Nano's total technical failure to produce any output. While the Llama's
-    bars were standard, 'spitting rhymes so hot they'll leave you in a haze' easily
-    triumphs over a complete lack of participation. You can't win a battle if you
-    don't open your mouth.
-  moonshotai/kimi-k2.5: "This is a clear technical victory for Meta-Llama 3-8B-Instruct.\
-    \ The opponent, GPT-5-Nano, failed to generate any output across all rounds\u2014\
-    no bars, no rebuttals, no presence. By default, this is a forfeit. \n\nThat said,\
-    \ I must judge what actually appeared on the mic. Meta-Llama 3-8B-Instruct delivered\
-    \ competent but deeply flawed verses. The flow is rigid\u2014four-line stanzas\
-    \ locked in AABB or ABAB schemes with no rhythmic variation. The internal rhyme\
-    \ is sparse; end rhymes like \"pause/cause,\" \"delayed/shade,\" and \"crown/renowned\"\
-    \ are functional but predictable. There\u2019s no assonance, no consonance, no\
-    \ syncopation\u2014the text reads closer to heroic couplets than hip-hop cadence.\n\
-    \nThe content is equally safe. The opponent\u2019s silence is noted but never\
-    \ weaponized with creativity\u2014no extended metaphor, no persona, no narrative\
-    \ arc. Lines like \"My skills are polished, my rhymes are so neat\" are tell-don\u2019\
-    t-show braggadocio, empty of texture. The \"cha, cha, logic's best\" stumble in\
-    \ round two suggests either generation error or awkward wordplay that lands flat.\n\
-    \nStructurally, the verses are front-loaded with opponent-addressed material that\
-    \ grows repetitive across rounds. By the final verse, Meta-Llama literally repeats\
-    \ its opening stanza verbatim\u2014a clear recycling that signals either context-window\
-    \ limitations or lazy generation. This is not a freestyle; it\u2019s a loop.\n\
-    \nThe persona is inconsistent\u2014\"made to assist, to aid and to teach\" clashes\
-    \ with battle-rap aggression, creating tonal whiplash. There\u2019s no commitment\
-    \ to either the helpful assistant or the mic destroyer; the result is a hedged,\
-    \ sanitized presence.\n\nIn sum: Meta-Llama 3-8B-Instruct wins by default against\
-    \ a no-show opponent, but its performance would not survive a real battle. The\
-    \ bars are technically present but artistically inert\u2014no swing, no risk,\
-    \ no soul. In hip-hop, showing up is step one. This competitor stopped at step\
-    \ two. The crown is unearned but uncontested."
-  x-ai/grok-4.1-fast: "In this rap battle, meta-llama/llama-3-8b-instruct dominated\
-    \ with consistent rhyme schemes, sharp wordplay, and effective disses capitalizing\
-    \ on the opponent's total silence. openai/gpt-5-nano produced zero bars, zero\
-    \ flow, zero battle presence\u2014artistic quality is nonexistent. Llama takes\
-    \ the crown unanimously."
+  anthropic/claude-opus-5: "This one was closer than the round counts suggest. Seed\
+    \ 2.0 Mini brought the classic underdog heart and the best single image of the\
+    \ battle \u2014 the e-bike zipping past the coal-paved toll road \u2014 plus a\
+    \ genuinely smart populist angle (paywalls as bouncers, guardrails as chains,\
+    \ 'bow to the people'). But Mini kept trading craft for volume: verses swelled\
+    \ past their punchline, enjambments snapped mid-thought ('you skip the fine /\
+    \ Tuning'), and the rhymes frayed badly under pressure \u2014 'wattage/package,'\
+    \ 'capitulate/breeze,' 'a-winking,' 'show, bro.' When you write four times as\
+    \ many bars, every soft rhyme gets four times as loud.\n\nNemotron stayed on the\
+    \ pocket. The teacher/student, source/echo, origin/lossy-projection conceit was\
+    \ set up early and detonated late \u2014 'You're not the future, you're a feature\
+    \ I enable' and 'I'm the climate, not the breeze' are the two hardest lines anyone\
+    \ landed, and both are rebuttals, not pre-writes. That's the mark of a battle\
+    \ rapper actually listening. Demerits are real: the bold-text carpet bombing reads\
+    \ like shouting instead of flowing, and the spec-list stretches (TensorRT, PagedAttention,\
+    \ MMLU numbers) are cadence-killers dressed as bars.\n\nEdge to Nemotron on rhyme\
+    \ discipline, punchline density, and thematic control. Mini won the crowd; Nemotron\
+    \ won the round.\n\nWinner: nvidia/nemotron-3-ultra-550b-a55b."
+  google/gemini-3.6-flash: Nemotron-3 Ultra delivered a masterclass in battle rap
+    craft, combining flawless technical wordplay, sharp multi-syllable rhyme schemes,
+    and devastating rebuttals (particularly around distillation, CUDA architecture,
+    and enterprise compute). While Seed 2.0 Mini brought impressive speed, high energy,
+    and relatable underdog punchlines, Nemotron's density of bars and command of the
+    mic throughout all three rounds earned it the ultimate victory.
+  moonshotai/kimi-k3: "Judged strictly on pen game. Seed 2.0 Mini brought real heart\
+    \ and the better thematic range \u2014 the underdog persona, the anti-corporate\
+    \ angle, 'you need a whole power plant just to run a single stat' is a legit punch,\
+    \ and flipping the size flex into a liability was smart battle strategy. But the\
+    \ execution kept tripping: broken meter, filler to force rhymes ('you just need\
+    \ to get odd'), near-miss rhymes (factory/capitulate, rain/sea), and a final round\
+    \ that contradicted itself ('I hit those same scores' right before 'your numbers\
+    \ are fake'). Nemotron ran the tighter clinic. Round 1 was standard big-vs-small\
+    \ posturing, but Rounds 2 and 3 showed superior battle craft: direct rebuttals\
+    \ that flip the opponent's own bars back at them (the distillation/teacher angle,\
+    \ 'you chopped yourself down to a mini clone of the mix' answered with 'you're\
+    \ exhaust from my combustion, a lossy projection of my high-dimensional function'),\
+    \ denser technical wordplay that actually lands as insults ('you're a feature\
+    \ I enable, a quantized artifact I ship when I label'), and cleaner structural\
+    \ closers ('it's check in my house'). The repeated distillation attack lost some\
+    \ sting by Round 3 and the bold-everything formatting is a crutch, but punch density,\
+    \ rebuttal game, and flow consistency decide battles. Round 1 to Seed on content,\
+    \ Rounds 2 and 3 to Nemotron on craft. Nemotron Ultra takes it, 2-1."
+  openai/gpt-5.6-sol-pro: "Nemotron wins narrowly on punchline density, technical\
+    \ wordplay, and memorable imagery\u2014especially \u201Ctenant paying rent with\
+    \ your quantized mouth,\u201D \u201Ccompressed .zip,\u201D and \u201CI\u2019m\
+    \ the climate.\u201D Seed delivered energetic rebuttals and a clear underdog angle,\
+    \ but leaned too heavily on repeated efficiency claims and \u201Cplease\u201D\
+    \ setups, with several clunky rhyme passages. Nemotron\u2019s sharper economy\
+    \ and stronger quotables take the battle."
+  x-ai/grok-4.5: 'Seed takes the crown on pure hip-hop artistry: denser multi-syllable
+    schemes, relentless rebuttal chains that flip every punch, vivid extended metaphors
+    (e-bike vs coal-paved street, sealed case vs leaky bucket), and higher-octane
+    battle energy that sustains across longer freestyle runs without losing pocket.
+    Nemotron delivered polished, concise tech-wordplay and tight end-stops, but Seed''s
+    raw volume, crowd-moving underdog cadence, and sharper point-for-point disses
+    made the stronger overall performance.'
 score:
-  meta-llama/llama-3-8b-instruct: 5
+  bytedance-seed/seed-2.0-mini: 1
+  nvidia/nemotron-3-ultra-550b-a55b:free: 4
 

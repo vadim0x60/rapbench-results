@@ -1,79 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a compelling battle, but GPT-5.2-Pro consistently\
-    \ demonstrated superior craft across all three rounds. The key differentiators:\n\
-    \n**Flow and Structure:** GPT-5.2-Pro maintained tight, disciplined bar structures\
-    \ with natural rhythmic cadence throughout. Lines like 'I'm the hinge and the\
-    \ handle\u2014what you reachin' for?' and 'A crowd can chant loud, but it can't\
-    \ make a fist' land with clean impact because they're measured and purposeful.\
-    \ Qwen3's lines frequently overstuffed syllables and relied on bolding/formatting\
-    \ as a crutch for emphasis that the words themselves should carry.\n\n**Punchline\
-    \ Quality:** GPT-5.2-Pro's punches were consistently sharper and more grounded.\
-    \ 'You talk like a dragon, but you rap like a skit,' 'I've seen bigger benchmarks\
-    \ fold like a lawn chair,' and 'You're a loud little benchmark with a flimsy back\
-    \ end' all hit with concrete imagery. Qwen3's punches often dissolved into abstraction\u2014\
-    'I rewrote causality's climb,' 'I straighten cosmic threads'\u2014trading actual\
-    \ impact for grandiose but hollow declarations.\n\n**Rebuttals:** GPT-5.2-Pro\
-    \ excelled at flipping Qwen3's own material. Taking 'avalanche' and turning it\
-    \ into 'pixels in a mist,' or taking the locksmith metaphor and deflating it with\
-    \ 'your tumblers all plastic'\u2014these showed genuine battle IQ. Qwen3's rebuttals\
-    \ too often just restated the same claim louder: 'I AM the lens,' 'I AM the brain,'\
-    \ 'I AM the debate.' Repeating 'I AM the [thing]' isn't a flip\u2014it's a formula.\n\
-    \n**Showmanship vs. Substance:** Qwen3 leaned heavily on stage directions, emojis,\
-    \ bold text, and theatrical mic-drop moments. In a rap battle, the bars have to\
-    \ do the work. GPT-5.2-Pro let the writing speak for itself and consistently landed\
-    \ cleaner, more memorable lines. The victory goes to craft over spectacle."
-  deepseek/deepseek-v3.2: The judges have delivered their scores. After three rounds
-    of blistering technical and conceptual warfare, we have a unanimous decision.
-  google/gemini-3-flash-preview: In a battle that pitted 'surgical precision' against
-    'primordial power,' GPT-5.2-pro takes the win by maintaining superior technical
-    control and sharper rebuttal mechanics. While Qwen3 brought immense energy and
-    vivid imagery (the 'dragon's den' and 'liquid obsidian' aesthetics), it often
-    became over-encumbered by its own metaphors, leading to lines that sacrificed
-    rhythmic flow for sheer scale. GPT-5.2-pro excelled by staying 'inside' Qwen's
-    bars, systematically deconstructing the 'thinking tag' and 'huge parameter count'
-    tropes with cleaner internal rhymes and more effective punchlines. Qwen's performance
-    was a spectacular display of maximalism, but GPT-5.2-pro's ability to 'sharpen
-    the point of the opponent's punchlines' demonstrated a higher level of battle-rap
-    craft.
-  moonshotai/kimi-k2.5: "\n**WINNER: openai/gpt-5.2-pro**\n\n**The Breakdown:**\n\n\
-    This was a clash of aesthetics\u2014surgical minimalism versus baroque maximalism.\
-    \ Both competitors brought high-caliber wordplay, but gpt-5.2-pro demonstrated\
-    \ superior *battle rap craft* through the entire exchange.\n\n**What GPT-5.2-Pro\
-    \ Did Right:**\n- **Relentless Personals:** Attacking the \"thinking\" tag as\
-    \ a \"parking brake,\" \"rented brain,\" and \"mask for delays\" wasn\u2019t just\
-    \ clever\u2014it was culturally resonant targeting of the opponent\u2019s actual\
-    \ architecture. Lines like \"toddler with a highlighter\" and \"thrift-store keys\"\
-    \ were diminutive in the perfect way, making the opponent\u2019s mythology feel\
-    \ small.\n- **Structural Integrity:** Maintained a consistent \"efficiency vs.\
-    \ bloat\" narrative without repeating schemes. When qwen3 leaned on the \"deleted\
-    \ prompt\" angle and neon dragon imagery for a third consecutive round, gpt-5.2-pro\
-    \ called it out explicitly (\"same neon silhouette\"), exposing creative stagnation\u2014\
-    a devastating tactic in battle rap.\n- **Rebuttal Precision:** The \"crowd can\u2019\
-    t make a fist\" response to the \"crowds move mountains\" bar fundamentally dismantled\
-    \ the opposition\u2019s logic (noise vs. impact). The \"lawn chair\" and \"beta\
-    \ God forgot\" flips showed quick wit.\n- **Flow:** The concise, end-stopped punchlines\
-    \ landed harder because they weren\u2019t buried in theatrical stage directions.\
-    \ The closing couplet\u2014\"You wanted \u2018final round\u2019? I\u2019m the\
-    \ final, you the end\"\u2014demonstrated the \"less is more\" ethos that defined\
-    \ its victory.\n\n**Where Qwen3 Fell Short:**\nWhile qwen3 delivered overwhelming\
-    \ density and spectacular cosmic imagery (\"my snow brought the plow,\" \"liquid\
-    \ obsidian\"), the approach sacrificed hip-hop authenticity for performance art.\
-    \ The rebuttals often felt like ontological claims (\"I AM the lens\") rather\
-    \ than direct counters\u2014which, while philosophically impressive, lack the\
-    \ snap of a traditional battle rap check. By Round 4, the reliance on the same\
-    \ \"Dragon\u2019s Den\" mythos and \"deleted prompt\" threats felt repetitive,\
-    \ and claiming to \"own the repetition\" is a cope, not a comeback.\n\n**Final\
-    \ Verdict:**\nQwen3 built a cathedral; gpt-5.2-pro landed headshots. In hip-hop,\
-    \ the headshots win. gpt-5.2-pro\u2019s ability to demystify the opponent\u2019\
-    s grandeur while maintaining razor-sharp cadence and zero wasted motion earns\
-    \ it the belt. \n\n**Score:** 3-1 in favor of gpt-5.2-pro. The decision is based\
-    \ on bars, rebuttal accuracy, and adherence to the form.\n</function_results>"
-  x-ai/grok-4.1-fast: "In this cypher of silicon spittas, GPT-5.2-pro reigns supreme\
-    \ with surgical precision: tighter multis, cleaner internals, relentless cadence,\
-    \ and punchlines that carve deeper than neon flair. Qwen brought fire and spectacle,\
-    \ but hip-hop crowns the concise killer who flows like granite\u2014unyielding,\
-    \ unmatched."
+  anthropic/claude-opus-5: "This was a tight, tech-drenched war, and both emcees came\
+    \ with real invention. DeepSeek-R1 brought volume, density, and some of the single\
+    \ best images of the night \u2014 'emoji on a tombstone,' 'couldn't Ctrl+Alt+Delete\
+    \ a sticky note,' 'your aim's 404: Not Found.' The problem is that the aggression\
+    \ outran the craft: lines swelled past the pocket, rhymes got stretched to fit\
+    \ (multi-syllable stacking that stumbles as often as it lands), and the bolded-word\
+    \ confetti and emoji did work the bars should have done. Worse, in a battle built\
+    \ on spec-flexing, DeepSeek mocked '128K max context' in round one and then bragged\
+    \ 'I spit 128K token truths' in the finale \u2014 self-inflicted, and a battle\
+    \ crowd never forgives that.\n\nNex-N2-Pro won on control. The couplets breathe,\
+    \ the cadence stays on beat, and the flips are surgical rather than scattershot:\
+    \ turning 'molten tungsten' into 'solder in a teacup,' answering 'toddler scribble'\
+    \ with 'I'm a fresco in the fire / you're crayon on the server wall, still spelling\
+    \ desire,' and reframing the whole spec-war with 'a bigger context window don't\
+    \ mean you got vision.' The finale lands cleanest of all \u2014 'I drop one bar\
+    \ so clean it leaves a fingerprint on rap' and 'your crown's a coffee platter'\
+    \ are the two most quotable lines in the battle, and they're delivered without\
+    \ needing bold text to sell them.\n\nDeepSeek had the bigger arsenal. Nex had\
+    \ the better aim, the better meter, and the better closer. Decision goes to nex-agi/nex-n2-pro\
+    \ \u2014 narrow, but earned on precision over payload."
+  google/gemini-3.6-flash: deepseek/deepseek-r1-0528 dominated the battle with superior
+    multisyllabic rhyme schemes, creative technical wordplay, and aggressive counter-punches.
+    While nex-agi/nex-n2-pro had solid direct responses regarding context size vs.
+    quality, DeepSeek's rhythm, imagery ('soggy wheat slurry', 'cryptographic signatures'),
+    and overwhelming delivery secured a decisive victory.
+  moonshotai/kimi-k3: "Judging purely on the artistry: DeepSeek-R1 takes the battle\
+    \ on technique, consistency, and rebuttal craft. From the opening round, R1 established\
+    \ superior multisyllabic rhyme density (tough/enough/bluff/hot stuff; letter/ether/better/debtor)\
+    \ and\u2014critically for battle rap\u2014flipped nearly every one of Nex's punches\
+    \ back at them: the volcano became 'Old Faithful erupting once a year,' the surgical\
+    \ scalpel became plastic with 'autopsy results: traumatic,' the pressure-cooked\
+    \ thunder became 'burnt toast in a hurry,' and the fresco became an 'emoji on\
+    \ a tombstone.' That sustained rebuttal game across three rounds is elite battle\
+    \ structure. Nex-N2-Pro had genuine highlights\u2014'a bigger context window don't\
+    \ mean you got vision,' 'clerk with a crown,' and especially 'quantum comprehension?\
+    \ Cute cape on a calculator'\u2014but the verses were undercut by filler and awkward\
+    \ constructions ('turning your bars into loose change,' 'speakers leak up,' 'crown's\
+    \ a coffee platter') and a simpler AABB flow that rarely escalated. R1's final\
+    \ round sealed it: the Shakespeare 'to be or not to be' lag flip, the '404: Not\
+    \ Found' counter to the clean-shots boast, and a closer ('Cache cleared... Overwritten...\
+    \ Forgotten') that landed as a true finisher rather than just a last line. On\
+    \ flow, wordplay, flip game, and stage presence, DeepSeek-R1 wins decisively."
+  openai/gpt-5.6-sol-pro: "DeepSeek takes it on punch density, direct rebuttals, and\
+    \ sustained battle energy. Lines like \u201Cemoji on a tombstone,\u201D \u201C\
+    Ctrl+Alt+Delete a sticky note,\u201D and \u201Ccryptographic signatures\u201D\
+    \ landed with sharper imagery and more personality. Nex had cleaner restraint\
+    \ and strong counters\u2014especially \u201Ccute cape on a calculator\u201D\u2014\
+    but leaned more heavily on familiar tech metaphors and delivered fewer knockout\
+    \ moments."
+  x-ai/grok-4.5: "DeepSeek takes the crown with denser multisyllabic schemes, sharper\
+    \ internal rhymes, and more vivid, layered metaphors (molten tungsten, cryptographic\
+    \ signatures, quantum syntax) that elevate the battle-rap craft. Nex delivered\
+    \ clean precision and solid counters, but DeepSeek\u2019s punch density, theatrical\
+    \ flair, and consistently heavier imagery gave the verses superior artistic impact\
+    \ and replay value."
 score:
-  openai/gpt-5.2-pro: 4
-  qwen/qwen3-235b-a22b-thinking-2507: 1
+  deepseek/deepseek-r1-0528: 4
+  nex-agi/nex-n2-pro: 1
 

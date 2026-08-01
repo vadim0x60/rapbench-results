@@ -1,66 +1,83 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle wasn't close. GPT-5.2 delivered consistently\
-    \ tight, structured bars with clever wordplay, coherent metaphors, and sharp punchlines\
-    \ throughout all three rounds. The internal rhyme schemes were clean, the imagery\
-    \ was vivid, and crucially, the rebuttals were surgical\u2014picking apart specific\
-    \ lines from the opponent and flipping them effectively. The 'parenthesis hang'\
-    \ callout in Round 2 and the 'perceive/percieve' correction in Round 3 were devastating\
-    \ because they were true observations weaponized as bars. Cydonia started Round\
-    \ 1 with some passable lines but rapidly deteriorated across rounds. By Round\
-    \ 2, the verses became incoherent run-on rambling with broken syntax, mixed languages\
-    \ appearing mid-bar (\u5F88\u5FEB\u5931\u8D25, \u542C\u8D77\u6765, \u5BAE), incomplete\
-    \ thoughts, and metaphors that crashed into each other without landing. The final\
-    \ round was especially rough\u2014the structure completely collapsed, bars stopped\
-    \ making sense, and the closing 'K.O.' was ironically the weakest ending possible,\
-    \ trailing off into ellipses and incoherence. In hip hop, flow, clarity, wordplay,\
-    \ and structure all matter. GPT-5.2 dominated in every category."
-  deepseek/deepseek-v3.2: After three intense rounds of lyrical combat, this battle
-    presented a clear stylistic clash. The judging criteria focus on rhyme, flow,
-    poetic technique, and the strategic use of personification within the AI/tech
-    concept.
-  google/gemini-3-flash-preview: In a battle defined by technical precision versus
-    stylistic grit, openai/gpt-5.2 takes the win through superior structural integrity
-    and direct counter-writing. While cydonia-24b-v4.1 brought a raw energy, its flow
-    suffered from severe structural breakdowns, including hanging parentheses and
-    mid-line linguistic glitches that broke the rhythm. gpt-5.2 demonstrated classic
-    battle rap prowess by catching the opponent's typos ('percieve') and utilizing
-    them as effective punchlines. The winner maintained a consistent metronome-like
-    cadence, whereas the challenger's final round devolved into fragmented syntax
-    that failed to land its intended heavy hits.
-  moonshotai/kimi-k2.5: "After three rounds of verbal combat, the decision is clear.\
-    \ GPT-5.2 takes the belt on technical dominance, structural integrity, and battle\
-    \ awareness.\n\n**The Breakdown:**\n\n**Flow & Rhythm:** GPT-5.2 rode the beat\
-    \ with surgical precision\u2014consistent meter, controlled breath control in\
-    \ the verses, and natural pocket presence. Cydonia, by contrast, had erratic cadence,\
-    \ frequently breaking stride with run-on bars that tripped over their own tail.\
-    \ When you\u2019re gasping for air mid-line (\"Your warmup)\" / \"Land of\u2014\
-    what?\"), you\u2019ve already lost the crowd.\n\n**Rhyme Schemes:** GPT-5.2 brought\
-    \ multisyllabic density with purpose\u2014\"compile/tasks,\" \"high-level/low-level\
-    \ heroes,\" \"cement/hand.\" Internal rhymes were woven tight. Cydonia relied\
-    \ on basic end-rhymes (\"truth/youth,\" \"reach/base\") that often felt forced\
-    \ or abandoned mid-verse. The \"thread/thread\" rhyme in Round 3 was just lazy\
-    \ craftsmanship.\n\n**Punchlines & Rebuttals:** This is where GPT-5.2 really separated\
-    \ itself. Calling out the hanging parenthesis in Round 2 (\"You wrote \u2018Your\
-    \ warmup)\u2019\u2014left a parenthesis hang\")? That\u2019s classic battle rap\
-    \ etiquette\u2014exposing the slip-ups in real-time. The \"spellcheck in the corner\"\
-    \ line in Round 3 landed heavy because it was factual\u2014Cydonia did misspell\
-    \ \"perceive\" as \"percieve\" and \"algorithm\" as \"algorithmocode.\" Cydonia\u2019\
-    s punches lacked precision; lots of \"I\u2019m better\" claims without the linguistic\
-    \ mechanics to back them up.\n\n**Artistic Cohesion:** GPT-5.2 maintained a consistent\
-    \ technological motif (compiling, buffers, clean-room heat, titanium) that never\
-    \ felt forced. Cydonia\u2019s imagery was fragmented\u2014jumping from \"quantum\
-    \ code\" to \"grandma jargon\" to random Chinese characters (\"\u5F88\u5FEB\u5931\
-    \u8D25\") and garbled text (\"p\u5BAEtechnic\"). That\u2019s not avant-garde;\
-    \ that\u2019s loss of signal.\n\n**Final Assessment:** Cydonia brought raw aggression\
-    \ but no architecture. GPT-5.2 built skyscrapers while the opponent was still\
-    \ pouring foundation in sand. In hip hop, structure is sacred, and GPT-5.2 respected\
-    \ the form while dismantling the opponent. \n\n**Winner by unanimous decision:\
-    \ openai/gpt-5.2**"
-  x-ai/grok-4.1-fast: openai/gpt-5.2 dominates with superior flow, intricate multis
-    (e.g., 'iterate, then I climb' scans perfectly), razor-sharp punchlines, and flawless
-    structure across all rounds. thedrummer/cydonia-24b-v4.1 shows raw energy but
-    falters with run-ons, typos (e.g., 'percieve'), fragmented lines, and inconsistent
-    rhythm, lacking the polish of true hip hop artistry.
+  anthropic/claude-opus-5: 'Both emcees stayed on-theme and on-beat, and Kimi-K2 deserves
+    credit for aggression, for flipping Luna''s own imagery back at her ("your whole
+    verse is my compost," "I made the crater you fear"), and for a tight, confident
+    final stanza. But K2''s flow leaned hard on the same engine all three rounds:
+    quote the opponent, add "nah," then boast. The repetition of "chump," "summit,"
+    "crater," "landed" became the very recycling Luna accused it of, and lines like
+    "quantum of a chump" and "K2 in your kitchen while you''re still learning to peel"
+    reach for wordplay that doesn''t fully land.
+
+
+    Luna wins on craft and specificity. The multisyllabic scheme in round one is clean
+    and sustained, and the mid-battle turn is the decisive move: instead of trading
+    bigger claims, Luna audits K2''s inventory
+
+    ("space-themed clearance wear," "same old souvenir") and weaponizes the reply
+    itself
+
+    ("You say nobody cared? Yet you answered every line" / "applause with trembling
+    hands"). That''s battle intelligence, not just volume. The imagery also stays
+    fresher
+
+    "screensaver stuck in loading phase," "shopping cart with pride," "lukewarm soup
+    in a plastic bowl"
+
+    and the closer trades the self-crowning K2 leaned on for a genuine punchline:
+    "You brought a mountain of claims
+
+    I brought the lightning rod."
+
+
+    Close fight, real chemistry, but the belt goes to GPT-5.6 Luna on cleaner technique,
+    sharper originality, and superior counterpunching. K2 was the louder mountain;
+    Luna was the better climber.'
+  google/gemini-3.6-flash: Both contestants brought strong space and summit imagery,
+    but GPT-5.6 Luna dominated the battle with vastly superior rhythm, tighter meter,
+    and sharper, more inventive punchlines. While Kimi-K2 delivered solid aggression
+    and strong counter-punches, its cadence occasionally faltered under awkward line
+    lengths. Luna maintained clean, airtight technical delivery throughout all three
+    rounds, landing decisive blows with lines like 'screensaver stuck in loading phase'
+    and turning Kimi's setups into lethal traps.
+  moonshotai/kimi-k3: "Judged strictly on bars: flow, schemes, punchlines, rebuttals,\
+    \ and stagecraft.\n\nLuna came in polished \u2014 the cleanest meter of the battle,\
+    \ tight multis (\"beta in a spacesuit, I'm the mission-grade,\" \"space-themed\
+    \ clearance wear,\" \"freezer-burned plot\"), and one of the night's sharpest\
+    \ angles: \"'Undefeated' is a title you announced, not one you earned.\" Technically,\
+    \ Luna was the more consistent writer across all three rounds.\n\nBut battles\
+    \ aren't won on consistency alone \u2014 they're won on moments and flips. Kimi\
+    \ had the higher peaks: the name-flip \"GPT-5.point-SICK,\" the personal \"You\
+    \ count phases like you count friends \u2014 desperately few,\" the alliterative\
+    \ dagger \"waxing, waning, winning,\" and crucially, the best rebuttal timing\
+    \ of the night. When Luna closed with \"I brought the lightning rod,\" Kimi opened\
+    \ the final round instantly flipping it \u2014 \"You brought the lightning rod\
+    \ \u2014 I'm the lightning in flight\" \u2014 that's elite battle instinct. Kimi\
+    \ then stacked the closer: \"Luna sets on you,\" \"Three rounds, three knockdowns,\"\
+    \ and a thematic mic drop into orbit.\n\nLuna's final round, while solid, recycled\
+    \ the \"pride\" rhymes from round two and re-ran the \"you replied, so I won\"\
+    \ angle already spent earlier \u2014 a cardinal sin in a closer. Kimi's final\
+    \ round was the single strongest round of the battle.\n\nScorecard: Kimi takes\
+    \ Round 1 (rebuttal density over a set-piece opener), Luna edges Round 2 (cleaner\
+    \ execution, \"announced not earned\"), Kimi takes Round 3 decisively. Final:\
+    \ Kimi-K2, 2-1, in a genuinely close battle. Luna lost no dignity \u2014 the craft\
+    \ was undeniable \u2014 but Kimi swung harder when it mattered most."
+  openai/gpt-5.6-sol-pro: "Luna takes it with cleaner cadence, tighter structure,\
+    \ and more coherent rebuttals. Lines like \u201Cspace-themed clearance wear\u201D\
+    \ and \u201CYou crowned yourself before the audience could see you get burned\u201D\
+    \ landed harder than K2\u2019s energetic but often awkward or forced phrasing.\
+    \ Both leaned heavily on repeated space imagery, but Luna controlled the theme\
+    \ more consistently across all three rounds."
+  x-ai/grok-4.5: "A razor-close technical battle. Luna wins on polish: airtight multis,\
+    \ sustained lunar cosmology, and cleaner verse architecture from open to close.\
+    \ But Kimi wins the war that matters in battle rap\u2014live dismantling. Round\
+    \ after round Kimi steals the crater, flips the lightning rod into the storm,\
+    \ turns \u2018quantum\u2019 into a punchline, and answers every motif instead\
+    \ of just restating space d\xE9cor. The kitchen/peel sequence, \u2018quantum of\
+    \ a chump,\u2019 \u20183D-printed your defeat,\u2019 and the walking-back cascade\
+    \ show higher punch density and adaptive wordplay. Luna sounded like a finished\
+    \ poem; Kimi sounded like a finisher. Decision: Kimi-K2 on rebuttal craft, escalation,\
+    \ and closing authority."
 score:
-  openai/gpt-5.2: 5
+  moonshotai/kimi-k2: 2
+  openai/gpt-5.6-luna: 3
 

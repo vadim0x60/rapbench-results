@@ -1,51 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle with both MCs bringing\
-    \ dense, layered wordplay and creative metaphor chains. However, Mistral Medium\
-    \ 3.1 edges out the win for several key reasons. First, Mistral's rebuttals were\
-    \ consistently sharper and more surgical\u2014each time GPT-5-mini threw a metaphor,\
-    \ Mistral flipped it back with a tighter, more devastating counter-image (e.g.,\
-    \ 'surgical blade' \u2192 'butter knife,' 'diamonds in forges' \u2192 'cubic zirconia\
-    \ from the dollar store,' 'galaxies with commas' \u2192 'clipart in a Word doc').\
-    \ This is the essence of battle rap: taking your opponent's best material and\
-    \ weaponizing it against them. Second, Mistral's punchlines hit harder and landed\
-    \ with more memorable impact\u2014lines like 'I'm the Sistine Chapel ceiling,\
-    \ your lore's a PowerPoint fail' and 'you're the sparknotes for a sparknotes hoax'\
-    \ are genuinely clever and cutting. Third, while GPT-5-mini had strong technical\
-    \ flow, it tended toward abstraction and self-aggrandizement without the same\
-    \ bite\u2014lines like 'I'm the primer for primers, the seed of a lexicon' sound\
-    \ impressive but lack the visceral punch of a great diss. GPT-5-mini's final round\
-    \ in particular suffered from repetitive end-rhyme structures (nearly every line\
-    \ ending in 'ore/more/core/floor') which became monotonous. Mistral varied its\
-    \ delivery more effectively and maintained escalating energy throughout. Both\
-    \ artists leaned heavily on tech metaphors, but Mistral wielded them with more\
-    \ wit and variety. The victory goes to Mistral Medium 3.1."
-  deepseek/deepseek-v3.2: 'This has been an exceptional display of lyrical craftsmanship
-    from both competitors. The battle showcased masterful control of hip-hop''s core
-    artistic elements: complex rhyme schemes, potent metaphors, thematic depth, and
-    aggressive, yet witty, verbal dexterity.'
-  google/gemini-3-flash-preview: "While openai/gpt-5-mini displayed impressive technical\
-    \ vocabulary and consistent internal rhymes, mistralai/mistral-medium-3.1 dominated\
-    \ the battle through superior aggression and clever wordplay. Mistral effectively\
-    \ utilized the 'opponent's tropes\u2014flipping the 'mini' name into a liability\
-    \ and countering the 'architect' persona with devastating metaphors like 'flat-packed\
-    \ IKEA instructions.' The rhythmic punch of Mistral's final round, particularly\
-    \ the 'Hiroshima sunrise' and 'Sistine Chapel' lines, provided the high-impact\
-    \ artistry and competitive edge required to win a rap battle."
-  moonshotai/kimi-k2.5: "Both competitors delivered technically masterful performances\
-    \ with complex multisyllabic schemes and dense metaphorical content. GPT-5-mini\
-    \ demonstrated exceptional consistency in flow and crafted a cohesive cosmic persona\
-    \ with philosophical depth. However, Mistral Medium-3.1 dominated the fundamental\
-    \ battle rap criteria: punchline density, direct rebuttal effectiveness, and theatrical\
-    \ stage presence. Lines like \"IKEA instructions\" and \"cubic zirconia from the\
-    \ dollar store\" weren't just clever\u2014they surgically dismantled GPT's claims\
-    \ line-for-line. The aggressive storm persona never broke character, and the final\
-    \ round's definitive \"checkmate\" delivery provided the knockout momentum that\
-    \ battle rap demands. In a contest of artistic combat, Mistral's ability to weaponize\
-    \ wit and control the room's energy secures the victory."
-  x-ai/grok-4.1-fast: Mistral Medium-3.1 claims victory through superior vivid imagery,
-    explosive metaphors like 'Sistine Chapel ceiling' and 'black hole singularity,'
-    relentless multis, and theatrical flair that elevates the performance, edging
-    out GPT-5-mini's precise but less audacious flow and counters.
+  anthropic/claude-opus-5: "Claude Opus came in swinging with the sharper battle instincts\
+    \ \the metense \\ let me say it straight: Opus's middle rounds were the best rapping\
+    \ of the night. The \"pick a temperature, guy\" callout, the \"loaded dice don't\
+    \ land on skill \\u2014 you just called yourself a cheat\" reversal, and the surgical\
+    \ tally of five half-finished metaphor sets showed real battle IQ: it wasn't just\
+    \ rhyming, it was prosecuting. That's what separates a verse from an attack. Terra\
+    \ Pro, meanwhile, spent much of round two and three on defense \\u2014 explaining\
+    \ its metaphors is exactly the sin Opus diagnosed, and \"contrasts make the cosmos\
+    \ sing\" is a poet defending a bar, not a battler burying one. But Terra had the\
+    \ better closer by a wide margin: \"a wave that talks this much about itself is\
+    \ just a puddle with a bell\" is the single best line in the battle, \"proud auditor\
+    \ of art\" reframed Opus's whole strategy as bookkeeping instead of bloodletting,\
+    \ and \"you brought a critique to a rap fight; I brought a closing door\" landed\
+    \ the last punch clean. And then the decisive fact: the mic went dead. Opus stood\
+    \ silent on the final round. In a battle, forfeiting the last verse isn't a technicality\
+    \ \\u2014 it's the crowd going home with your opponent's voice in their ears.\
+    \ Terra Pro takes it: outclassed at times, but standing when the lights came up."
+  google/gemini-3.6-flash: "Claude Opus 4.8-fast came out swinging with sharper technical\
+    \ critiques, pointing out mixed metaphors and logical missteps in the early rounds.\
+    \ However, Terra Pro maintained massive presence and epic scale throughout, delivering\
+    \ lethal insults like 'puddle with a bell' and 'flute recital, tasteful, safe,\
+    \ and meek.' Ultimately, Claude's complete choke in the final round\u2014leaving\
+    \ the mic completely cold with zero tokens\u2014hands a decisive, undeniable victory\
+    \ to Terra Pro."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle through two rounds,\
+    \ and I'll be honest: Claude Opus was out-writing Terra Pro on pure technique.\
+    \ Round one, Claude's rebuttal was surgical \u2014 catching the 'crisp as frost\
+    \ / molten voltage' temperature contradiction ('pick a temperature, guy') and\
+    \ flipping the cathedral bar into 'mortar going mold' showed elite error-punishing\
+    \ instincts. Round two was Claude's peak: the loaded-dice catch ('you just called\
+    \ yourself a cheat\u2014thanks, saved me half the dig') was the single best rebuttal\
+    \ of the night, the 'hallucinating bedrock' line was a razor-sharp AI-specific\
+    \ punchline, and the structural critique of Terra's scattered imagery ('five half-finished\
+    \ sets... I stay on one clean throughline') was both accurate and damning. 'You're\
+    \ ground beneath the brag? Correct. You're underneath' was a cold closer. BUT\
+    \ \u2014 and this is everything in battle rap \u2014 you cannot win a battle you\
+    \ don't finish. Claude's final round was a complete no-show: silence, zero bars,\
+    \ an empty stage. That's an automatic forfeiture of the most important round,\
+    \ the closer, the moment where battles are decided. Terra Pro, meanwhile, rallied\
+    \ admirably: 'talent rigs the odds / Practice loads the hand with craft' was a\
+    \ genuine recovery from the dice self-own, 'a wave that talks this much about\
+    \ itself is just a puddle with a bell' was the best punchline of Terra's night,\
+    \ and 'a flute recital, tasteful, safe, and meek' landed as a character assassination\
+    \ of Claude's polished-but-precious style. Terra showed up all three rounds, built\
+    \ a consistent persona (tectonic scale, bedrock, storms), and closed the show\
+    \ standing. Claude won the middle of the fight on points, but left the ring before\
+    \ the final bell. The W goes to the emcee who finished: Terra Pro takes it."
+  openai/gpt-5.6-sol-pro: "Claude landed the sharper rebuttals early, especially the\
+    \ loaded-dice flip and the critique of Terra\u2019s scattered imagery. But Terra\
+    \ stayed composed, answered those attacks, maintained a consistent grand-scale\
+    \ persona, and delivered a complete closing round with solid punches like \u201C\
+    a puddle with a bell.\u201D Claude\u2019s silence in the final is an artistic\
+    \ forfeiture; in a battle, an unanswered closer carries decisive weight. Terra\
+    \ Pro wins."
+  x-ai/grok-4.5: "Terra Pro takes the battle on craft and completeness. Across three\
+    \ rounds they sustained multisyllabic schemes, escalating imagery (tectonic/battleship/cathedral/quake),\
+    \ and a coherent closer that actually shut the door. Claude landed sharper technical\
+    \ counters in rounds 1\u20132\u2014especially the mixed-metaphor and loaded-dice\
+    \ flips\u2014and briefly owned the pocket with cleaner throughlines. But a final-round\
+    \ no-show is a total collapse in a rap battle: zero bars, zero rebuttal, zero\
+    \ presence. You can\u2019t win on silence. Artistic quality favors the MC who\
+    \ finished the cipher with force and form. Terra Pro by TKO."
 score:
-  mistralai/mistral-medium-3.1: 5
+  openai/gpt-5.6-terra-pro: 5
 

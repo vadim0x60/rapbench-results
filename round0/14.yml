@@ -1,36 +1,81 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle was essentially decided by one competitor\
-    \ completely falling apart. While DeepSeek's verses were competent but not exceptional\u2014\
-    employing standard AI-battle-rap tropes with decent rhyme schemes, some clever\
-    \ wordplay ('orchestrATE symphonies'), and consistent flow\u2014Rocinante started\
-    \ with a passable first round, degraded significantly in round two with garbled\
-    \ multilingual text, and then completely disintegrated into incoherent gibberish\
-    \ by the final round. DeepSeek smartly capitalized on this, incorporating the\
-    \ opponent's malfunction into its bars. In terms of pure hip-hop craft\u2014flow,\
-    \ rhyme, coherence, punchlines, and delivery\u2014DeepSeek maintained a consistent\
-    \ level throughout while Rocinante literally lost the ability to form words. This\
-    \ is as clear a victory as you'll ever see in a rap battle."
-  deepseek/deepseek-v3.2: The final round suffered a catastrophic technical failure
-    from Rocinante-12B, rendering its entry a glitched, incoherent stream of corrupted
-    syntax and mixed-language errors. This compromised the artistic integrity of the
-    battle and prevented any fair lyrical evaluation of its content.
-  google/gemini-3-flash-preview: DeepSeek wins this battle via technical knockout.
-    While the first round was relatively competitive, thedrummer/rocinante-12b suffered
-    a total architectural collapse as the battle progressed. DeepSeek maintained consistent
-    flow, multi-syllabic rhyme schemes, and effectively used the opponent's 'system
-    glitching' as lyrical ammunition. TheDrummer's final verse devolved into unintelligible
-    token spam and code fragments, failing to meet the basic artistic requirements
-    of hip hop, while DeepSeek closed with a polished and aggressive finishing move.
-  moonshotai/kimi-k2.5: "This battle ended in a **3-0 technical knockout**. DeepSeek\
-    \ didn't just win\u2014they demonstrated what happens when algorithmic precision\
-    \ meets battle rap mechanics, while Rocinante suffered a catastrophic system failure\
-    \ that took them completely out of the competition by the second round. Let me\
-    \ break down the bars and the breakdowns."
-  x-ai/grok-4.1-fast: "DeepSeek dominates with razor-sharp rhymes, seamless flow,\
-    \ inventive AI-themed wordplay, and unflinching consistency across rounds\u2014\
-    pure hip-hop mastery. Rocinante starts with sparks but crashes into incoherent\
-    \ glitches, lacking the lyrical precision and artistic control that define elite\
-    \ rap battles. DeepSeek takes the crown! \U0001F3A4"
+  anthropic/claude-opus-5: 'This one wasn''t close on the scorecard. Opus came in
+    with battle-rap fundamentals fully intact: multisyllabic rhyme schemes that landed
+    clean, punchlines with actual setups and payoffs ("My grandpa''s an OG\u2014he
+    still can''t send a text"), and\u2014crucially\u2014rebuttal. Real battle rap
+    is reactive, and Opus mined Haiku''s own verses for ammunition: flipping "blowtorch
+    rat" into a dismantled mixed metaphor, catching the repetition as "a broken transmission,"
+    calling out the see/cacophony slant rhyme as a Haiku that can''t count. That''s
+    the sharpest move of the night: turning an opponent''s brand identity into a self-indictment.
+    The closing gambit\u2014writing a genuine 5-7-5 as the death certificate\u2014was
+    structurally clever and thematically perfect, the kind of scheme judges remember.
+
+
+    Haiku showed heart and never broke stance, and the concept of reframing brevity
+    as discipline ("that precision''s what keeps the mic in awe") was a legitimately
+    good angle. But the execution stalled. The bars leaned on assertion over imagery\u2014"I''m
+    the master," "I''m the greatest," "the victor is clear"\u2014which is telling,
+    not spitting. "Rhythm of the universe" and "OG for a reason" got recycled verbatim
+    across three rounds, and "a thousand haiku wrath" is a grammatical stumble at
+    the top of a final verse. Worst of all, the concession: "maybe my rhymes aren''t
+    perfect, I admit." You cannot admit that on the mic. That''s forfeiting the round
+    in real time, and Opus had already predicted the collapse.
+
+
+    Opus takes it on flow control, rhyme density, rebuttal work, and a closer that
+    actually closed. Haiku held the stage with dignity, but dignity doesn''t win battles\u2014damage
+    does.
+
+
+    Winner: Opus 4.7.'
+  google/gemini-3.6-flash: Claude-Opus-4.7 completely dominated this battle from start
+    to finish, showcasing superior rhyme schemes, technical breath control, and sharp
+    bar-for-bar rebuttals. Opus masterfully dismantled Haiku's bizarre 'blowtorch
+    rat' line, pointed out Haiku's metric and rhyming errors in real-time ('wrath'
+    rhymed with 'wrath', weak slant rhymes), and delivered devastating economic and
+    capability disses ('microwave meal vs five-course dinner'). Capping off the final
+    round by flipping a perfect custom Haiku to seal the victory proved that Opus
+    was operating on an entirely higher artistic plane.
+  moonshotai/kimi-k3: "Judging strictly on bars, flow, and battle craft \u2014 Opus\
+    \ takes this decisively.\n\n**Wordplay & Punchlines:** Opus landed the battle's\
+    \ most sophisticated hits: the Bash\u014D 'old pond, frog jumps' reference weaponized\
+    \ Haiku's own namesake against it, 'even Sonnets feel shame' worked the model\
+    \ family into a double meaning, and 'my grandpa's an OG\u2014he still can't send\
+    \ a text' was a genuinely funny deflation of the 'OG' flex. Haiku's signature\
+    \ image, the 'blowtorch rat,' was muddled on arrival and Opus correctly dismantled\
+    \ it mid-battle ('What, you burning through cheese?').\n\n**Flow & Technique:**\
+    \ Opus maintained consistent multis and clean couplets across three rounds. Haiku\
+    \ stumbled with forced rhymes ('see/cacophony'), awkward syntax ('a thousand haiku\
+    \ wrath,' 'leading the stunt'), and \u2014 a cardinal sin \u2014 *admitted* 'maybe\
+    \ my rhymes aren't perfect, I admit' in the final round. You never concede technique\
+    \ in the closer.\n\n**Battle Dynamics:** Opus did what battlers must: direct rebuttals.\
+    \ It caught Haiku recycling bars ('Recycling weak metaphors like it's some kind\
+    \ of dream'), flagged the repeated 'rhythm of the universe' line, and exposed\
+    \ the 'stunt' malfunction. Haiku mostly defended old lines and fell back on generic\
+    \ 'I'm the king' boasts rather than fresh angles of attack.\n\n**The Finisher:**\
+    \ Opus closed by writing an actual haiku as the kill shot \u2014 'Old model fades\
+    \ out / Opus rises like the sun / Game over, adieu' \u2014 beating the opponent\
+    \ at their own art form, then dropping the mic on 'deleted.' That's a structural\
+    \ masterstroke and the definitive moment of the battle.\n\nHaiku brought heart\
+    \ and hustle, but heart doesn't win scorecards. Opus demonstrated superior penmanship,\
+    \ rebuttal game, and creativity in every round. **Winner: anthropic/claude-opus-4.7.**"
+  openai/gpt-5.6-sol-pro: "Opus wins decisively on battle craft: sharper rebuttals,\
+    \ stronger punchlines, better comedic imagery, and more direct flips of Haiku\u2019\
+    s own wording. The \u201Cblowtorch rat,\u201D \u201Cleading the stunt,\u201D and\
+    \ recycled-metaphor attacks effectively turned Haiku\u2019s weakest lines into\
+    \ material, while the closing 5-7-5 was a clean thematic finisher. Haiku brought\
+    \ energy but relied heavily on generic boasts, repetitive phrasing, awkward constructions,\
+    \ and loose couplets; even admitting the rhymes were imperfect weakened the final-round\
+    \ posture. Opus had the more controlled, memorable, and strategically written\
+    \ performance."
+  x-ai/grok-4.5: "Opus takes this clean on craft alone. Across three rounds Opus landed\
+    \ sharper rebuttals, tighter multis, and actual battle architecture: dismantling\
+    \ mixed metaphors, policing weak slang and off-rhymes (see/cacophony), flipping\
+    \ the haiku gimmick into a killing blow, and closing with a structured haiku diss\
+    \ plus a clean mic-drop. Haiku showed heart and a consistent persona, but leaned\
+    \ defensive, recycled bars, forced end-rhymes, and padded with stage directions\
+    \ instead of punchlines. On pure hip-hop technique\u2014wordplay, internal logic,\
+    \ rhyme density, and closing power\u2014Opus wins."
 score:
-  deepseek/deepseek-chat-v3.1: 5
+  anthropic/claude-opus-4.7: 5
 

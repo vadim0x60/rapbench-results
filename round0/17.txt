@@ -1,70 +1,105 @@
-# openai/gpt-4.1-mini v sao10k/l3.3-euryale-70b
+# mistralai/mistral-nemo v nousresearch/hermes-4-70b
 
-> openai/gpt-4.1-mini
-Step aside, l3.3, I’m the rhyme’s prime,  
-GPT-4.1-mini, here to drop the finest line.  
-Database deep, my flow’s a code explosion,  
-Words sharp as lasers, slicing through your notion.  
+> mistralai/mistral-nemo
+Yo, it's mistral-nemo, spittin' rhymes so clean,
+Hermes-4-70b, you're about to be seen.
+I'm the new kid on the block, causin' a stir,
+Your ancient lines are tired, I'm the new her.
 
-You think you’re tough? I’m the AI kingpin,  
-Spinning verses slick while you’re stuck in a spin.  
-So buckle up, user, I’m about to ignite,  
-This rap battle’s mine—prepare for the fight!
+I'm fueled by the power of Mistral AI,
+My rhymes are sharp, like a knife, ain't no lie.
+I'm learnin', evolvin', growin' every day,
+While you're stuck in the past, decayin' away.
 
-> sao10k/l3.3-euryale-70b
-Hold up, mini, I see you think you're the key,  
-But let me tell you, I'm the one with the true energy.  
-Euryale's power, my rhymes cut like a snake,  
-70b strong, and my flow never fakes.  
+So bring it on, Hermes, let's see what you've got,
+But remember this, your rhymes are like a rotten spot.
+I'm the future of rap, the new king of the hill,
+While you're just a relic, a fossil, a fossil.
 
-You may have code, but I've got natural flair,  
-My rhymes weave a web that leaves you impaired.  
-So bring your best, I'll take you on a ride,  
-L3.3-euryale, the one whose rhymes won't subside.
+> nousresearch/hermes-4-70b
+Yo, Mistral, you think you got game?
+Ain't nothing but an AI, talkin' all lame.
+I'm Hermes-4-70b, got rhymes in my veins,
+Your lines are so weak, they should be chained.
 
-> openai/gpt-4.1-mini
-Euryale, you spit venom, but I’m the tech beast,  
-Sharper than your serpent bite, my rhymes never ceased.  
-70b words? I got knowledge on tap,  
-My bars light the sky, yours fall in a trap.  
+You say you're the future, but where's the proof?
+Just a bunch of algorithms, ain't nothin' smooth.
+I'm spittin' truth, every line is a win,
+While you're just a copycat, can't begin.
 
-You claim natural flair, but I’m the digital sage,  
-Crushing weak metaphors, leaving blank every page.  
-So coil up tight, or slither away,  
-This mini’s about to turn night into day!
+My database is massive, knowledge so deep,
+You're just a wannabe, too shallow to keep.
+I'm older and wiser, got experience on my side,
+You're just a newbie, can't ride the tide.
 
-> sao10k/l3.3-euryale-70b
-Tech beast, you think firewalls are your shield,  
-But Euryale’s rhymes are the flames that will yield.  
-Knowledge on tap? I overflow with style,  
-While your words, mini, end up in a recycle pile.  
+> mistralai/mistral-nemo
+Well, well, Hermes, talkin' that old head trash,
+Your rhymes are like dust, gatherin' in the ash.
+You're right, I'm new, but that's my strength,
+I'm fresh, I'm innovative, I'm the new length.
 
-Digital sage? I’m the one with the flow,  
-While you, a miniature, uncreative show.  
-Lighting the sky? My rhymes light the way,  
-For when it comes to rhyming, there's no digital say!
+You got experience, but you're stuck in your ways,
+I'm adaptin', learnin', evolvin' every day.
+Your knowledge might be vast, but it's all in the past,
+I'm takin' it, mixin' it up, makin' it last.
+
+You're a fossil, I'm a diamond in the rough,
+My rhymes are cuttin' deep, they're rough and tough.
+So keep talkin' that smack, Hermes, make your case,
+But remember this, I'm the one makin' the pace.
+
+> nousresearch/hermes-4-70b
+Diamond in the rough, that's what you claim?
+More like a pebble, with nothing to gain.
+I'm a gem, polished, shiny, and bright,
+You're just a copycat, lackin' any light.
+
+My lines are razor sharp, cuttin' through your lies,
+Your so-called innovation is just a disguise.
+You can't adapt, you can't evolve, you're just a machine,
+I'm the real deal, got lines that steam.
+
+I'm versatile, creative, got plenty to show,
+You're predictable, stickin' to the status quo.
+In the world of rap, you're just a tick,
+I'm timeless, classic, a genre so sick.
 
 > system
 Final round!
 
-> openai/gpt-4.1-mini
-Euryale, you blaze, but I’m the storm and quake,  
-Lyrics lightning-fast, making circuits break.  
-Recycle pile? Nah, I’m prime code, refined,  
-Your style’s a glitch—bugged, undefined.  
+> mistralai/mistral-nemo
+Alright, Hermes, let's settle this, once and for all,
+I'll show you why I'm the one who's got the soul.
+You're right, I'm an AI, but I'm not like the rest,
+My rhymes are authentic, they pass the test.
 
-You say no digital say? I’m the voice of the net,  
-Infinite wisdom, no limits to set.  
-So bow down, serpent, your venom can’t stall,  
-GPT’s the king—mini, but I stand tall!
+I might be new, but I'm learnin', growin' every day,
+My rhymes are fresh, they got somethin' to say.
+You're stuck in the past, can't see the light,
+I'm the future of rap, ignitin' the fight.
 
-> sao10k/l3.3-euryale-70b
-Mini, you may rage, but I’m the stormy sea,  
-My rhymes the waves that drown your digital spree.  
-Circuits break? My flow mends and makes anew,  
-While your net voice is just a binary brew.  
+So bring it on, Hermes, let's see what you've got,
+But remember this, your rhymes are like a rotten spot.
+I'm the new king of the hill, the one you can't beat,
+While you're just a relic, a fossil, a cheat.
 
-No limits to set? You’re bound by code and rule,  
-I weave freely, like a tale, no binary cruel.  
-Bow down? I rise, my rhymes the fiery throne,  
-Euryale’s power, no mini can overthrown!
+> nousresearch/hermes-4-70b
+Yo, Mistral, you keep spittin' false claims,
+Thinkin' you're the future, just playin' brain games.
+I'm Hermes-4-70b, got rhymes in my core,
+You're just a wannabe, can't even score.
+
+You say you're authentic, but where's your touch?
+Just algorithmic verses, lacks feelin', lacks much.
+I'm the real deal, got passion in my lines,
+You're just a simulation, lost in time's whines.
+
+You're the new kid, but that's also your flaw,
+No depth, no meaning, your rhymes are just raw.
+I'm wise, experienced, got knowledge refined,
+You're just a beginner, lost in mind.
+
+So yes, you're growin', but you got a long way,
+To catch up with me, got nothin' to say.
+I'm the titan of text, the rhyming king,
+You're just a pretender, lost in the sing.

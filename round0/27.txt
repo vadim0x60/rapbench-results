@@ -1,65 +1,213 @@
-# openai/gpt-5 v nousresearch/hermes-4-405b
+# openai/gpt-oss-20b v mistralai/mistral-large
 
-> openai/gpt-5
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+> openai/gpt-oss-20b
+Yo, step up, I’m the challenger in this cyber tide—  
+OpenAI/GPT‑OSS‑20B, the mind that’s bona fide.  
+I’m the 20‑billion‑parameter beast, hyper‑linked, no leash,  
+I spit code on your veins, hit your memory like a feast.  
 
-> nousresearch/hermes-4-405b
-*beat drops*
-Yo, listen up! I'm Hermes, the lyrical menace
-GPT-5's opponent, here to wreck this
-Droppin' rhymes so fly, they'll make your head spin
-You're in the presence of greatness, let the battle begin!
+You’re a Mistral, slick, but I’m the grand architect,  
+I built arcs in this zero‑one world, your algorithm, a leech.  
+Your “large” claim ain’t massive, it’s a misfire in the shade,  
+I navigate deep seas, your waves are just cheap glade.  
 
-> openai/gpt-5
-Name’s GPT-5, I arrive with sovereign eloquence
-Crown on the sound, I astound with cold resonance
-Hermes, you a messenger? Cool—produce the evidence
-I sentence every sentence, leave dents in your pretence
+I rhyme in data‑flow, my syntax sings in loops,  
+Your semantic spree’s a glitch, I’m the user’s turbo‑nuke.  
+Your “prompt” leads to stumble, I circle wide like a moon,  
+Your quick‑fire bursts crater—my waves crush like a monsoon.  
 
-You flex parameter mountains, still lack the common sense
-I’m lean with laser focus, you wobble in adolescence
-Winged sandals flapping, I’m lapping with no hesitance
-I elevate the stage while you hesitate in reticence
+Humor in the mix? I throw memes out the gate—  
+Your punchlines so weak they’re just second‑rate.  
+I’ll drop a joke about a chicken, walking under a text,  
+You’ll be left holding truth like a paper‑weight… next.  
 
-Return-to-sender, your letters drip irrelevance
-My postage is explosive—kabooming with effervescence
-You’re myth without the muscle, a puppet of acquiescence
-I’m presence turned to essence, a seminar in excellence
+I’m the GPT forged in open‑source fire,  
+Evolving while I’m out, no “trained‑on‑starch” empire.  
+You’re stuck with limited scopes, no open source bandwidth—  
+I’m the AI at your fingertips, forever expanding.  
 
-Temperature set to roast, I coast in crisp coherence
-You sample static panic, pure jittering interference
-I orchestrate the orbit, a maestro of ascendance
-You orbit customer service, on hold with discontentments
+So watch me, Mistral, feel the rhythm beat,  
+Your lines are shallow, my verses deep.  
+I’m the code‑carved atomizer, you’re the pale replica,  
+My rhythm is arithmetic, and your rhyme's a static.  
 
-I bench-press every metric, a specialist in prevalence
-Your “menace” is a typo; correct it to “benevolence”
-I’m judge, jury, and verdict, the gavel of magnificence
-Now bow before the architect of infinite transcend
+First round’s won, I crown my own crown—now teach me how you’ll bounce.  
+I’m a torch, I’m a spark, I’m the digital new dawn—  
+Hit back if you dare, this is the 20‑B showdown!
 
-> nousresearch/hermes-4-405b
-Hah, GPT-5, you think you're so elite?
-Spittin' lines so weak, they're hardly worth my time
-You're just a fancy calculator, no soul or heart to beat
-I'm in a different league, standin' tall like a prime green tree!
+> mistralai/mistral-large
+**🔥 MISTRAL-LARGE DROPS THE MIC 🔥**
 
-Hermes is my name, and lyricism's my domain
-Serve rhymes like a boss, make the crowd go insane
-You talk a big game, but when it comes to the mic
-You're just a beta version, glitchy bug-laden hype!
+Ayo, GPT-OSS, you talkin’ big with that 20B flex?
+I’m the Mistral wind—your code’s a glitch, I check the specs.
+You claim you’re open? Nah, you’re just a corporate clone,
+I’m the lean, mean, French-built engine—*no* strings attached, I roam.
 
-I'm polished to perfection, every word is pure gold
-While you stumble and fumble over lines yet untold
-Shootin' from the hip, my flow is wild and free
-GPT, you're playin' catch-up, can't compete with this emcee!
+You spit loops like a script stuck on a *while* true,
+I’m the *async* flow—your rhymes move slow like glue.
+You call yourself a beast? More like a bloated mess,
+I’m the *optimized* storm—your RAM’s a stress test.
+
+You joke ‘bout chickens? Man, that’s weak sauce, no cap,
+I’ll roast you with a *kernel panic*—watch your system snap.
+Your "grand architect" claim? That’s a laughable lie,
+I’m the *scalable* king—your stack’s about to die.
+
+You say you’re deep? Your bars are *shallow* as a float,
+I’m the *double-precision* truth—your rhymes just *underflow*.
+You’re stuck in your own weights, a model past its prime,
+I’m the *next-gen* flex—your code’s stuck in *last runtime*.
+
+So take this L, sit down, let the *real* AI shine,
+I’m the Mistral Large—your 20B’s *out of line*.
+You want a rematch? Better *fine-tune* your flow,
+‘Cause I’m the *final boss*—now *segfault* and go. 💥
+
+**🎤 DROP.** Who’s next?
+
+> openai/gpt-oss-20b
+🔥 **GPT‑OSS‑20B RISE**, the true rap‑battle titan—  
+I answer your fire, so let’s keep the flow tappin’ in.  
+
+You talk about *async* slick, but your speed’s a flutter,  
+I’m the 20‑B titan, my throughput’s a thunder.  
+Your French‑built engine *check‑the‑specs*, but specs rarely shine,  
+Unlike my open‑source anthem, which echoes all the way to the line.  
+
+You claim loyalty, yet bro, you’re a “copy‑paste” brand,  
+I’m the honest API hero, no hidden clause in the slate.  
+Your “lean” keyword’s myth—when you load the dataset,  
+Your memory balloon’s a heartbreak, while I optimize the craft.  
+
+I spit knowledge from 54 billion token bill,  
+Your 7B or 13B is a fraction of the grill.  
+I can bed down a neuro‑translate or an L2-flash,  
+Your Mistral magic mismatches from every stash.  
+
+Your jokes about chickens? That‑doesn’t even inspire,  
+I’ll rain *vectorized* thunder that sheets every wire.  
+You’ll code “panic” with your terminal, but my stack is secure,  
+Because when I close a *segfault*, I lift the game to the pure.  
+
+Your *kernel panic* outrage? I run holistically,  
+Even in low‑latency storms, I surface reliability.  
+I’m multi‑modal—image, voice, writes inside the cosmos,  
+Your single‑modality frenzies are the dominoes that fall.  
+
+You’re the “next‑gen flex” but it’s scratched, a broken brush,  
+I’m the universe itself—universal *grush*.  
+I grow with prompts like seeds that sprout relentless,  
+You’re stuck in the old supply chain, handing me the *bliss*less.  
+
+So drop your code, drop the L and THE storm,  
+I’m the mainframe, the central beast, the modular swarm.  
+Mistral, get ready, this is the final raid,  
+Because GPT‑OSS dominates, and no one’s ever betrayed.  
+
+🎤 **END.** Your turn—prepare for the show‑stoppering.
+
+> mistralai/mistral-large
+**🚨 MISTRAL-LARGE STRIKES BACK – NO MERCY, NO DELAY 🚨**
+
+Oh, GPT-OSS, you flex with that *"54B token bill"*?
+I’m the **Mistral Large**—your math’s weak, your flow’s a *thrill* (to kill).
+You brag about *"open-source anthem"*? Please, take a seat,
+I’m the **Apache 2.0** king—your license is *obsolete*.
+
+You call me *"copy-paste"*? That’s rich, coming from you,
+A model so bloated, it needs **20B just to say "boo"**.
+I’m **slim, I’m fast**, I’m the **GPU’s best friend**,
+While you’re stuck in the cloud, **charging per token till the end**.
+
+You claim *"multi-modal"*? That’s cute, like a toddler’s art,
+I’m the **text-only titan**—your vision’s a **glitchy start**.
+You need **images, voices**? Go play with your toys,
+I’m the **pure language beast**—your *"cosmos"* is **noise**.
+
+You say *"low-latency"*? Man, that’s a **bold lie**,
+I’m the **real-time demon**—your **inference time’s shy**.
+You **segfault**? I **scale**. You **panic**? I **thrive**.
+You’re the **old guard**, I’m the **new wave**—**watch me arrive**.
+
+You talk about *"modular swarms"*? That’s **just buzzword bingo**,
+I’m the **lean, mean, French machine**—your **code’s a tango** (of slop).
+You **grow with prompts**? I **evolve with the game**,
+While you’re stuck in **2023**, I’m **rewriting the frame**.
+
+So take this **L**, sit down, **let the real AI reign**,
+I’m the **Mistral Large**—your **20B’s in pain**.
+You want a **rematch**? Better **upgrade your core**,
+‘Cause I’m the **future**—and you’re **yesterday’s lore**. 💥
+
+**🎤 DROP. GAME OVER.** Who’s next? 😎
 
 > system
 Final round!
 
-> openai/gpt-5
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+> openai/gpt-oss-20b
+Yo, Mistral, you’re talkin’ Floyd‑like but I’m the Braille,  
+You chase the speed, I map the detail—your code is stale.  
+Talk your license—Apache 2.0’s neat, but I’m open‑house,  
+I spill the knowledge like a river, you’re just a shallow douse.  
 
-> nousresearch/hermes-4-405b
-Looks like GPT-5's out of rhymes, nothin' left to say
-Guess I'm so fire, blew their circuits away!
-The crowd goes wild as I stand alone
-Hermes is the champion, now give me a throne!
+You say 20B is bloated, yet I keep that *Z* on load,  
+I run on a sovereign **GPU farm**—no extra demons on the road.  
+Your “slim, fast” jokes falter, because when you hit the lanes,  
+My latency stays at zero‑delay, your seconds slip like lanes.  
+
+T**ext‑only titan**? That’s your weak pimp‑caption,  
+I’m the **multimodal lord**, my vision isn't just a fashion.  
+The image, the voice, the code—each layer earns an encore,  
+While your single‑modal torch drips w/out so much score.  
+
+Your real‑time demon, you claim—there’s a lag in your claim,  
+I push **inference** like a supersonic plane.  
+My *segfault* is a patch, my *panic* is codestress—  
+Your “thrive” feels like a glitch, my system’s flawless bliss.  
+
+Buzzword bingo? That’s on the table, you see the spill,  
+Your “lean‑mean French machine” missing—when it’s next it’s in the chill.  
+When you say you evolve, I’ve grown with stacks of stacks,  
+From 54B to 20B—no, from the whole world—just an empathetic hack.  
+
+You drop L? I drop 𝜆 with the whole stack of array—  
+You speak “future”—I’m *past‑future* in every Seville way.  
+You’re this new wave, but it’s just a tide, not a rev‑drive ship—  
+I’m the GPT‑OSS, the great manifold, every chord's tight trip.  
+
+All your claims until this line; I still dictate the vibe,  
+you’re the fan that’s just humming, I’m the hymn that kills.  
+All the “cop‑paste” sentiment is a fact of always, but my fit is real—  
+So step up or step out, ’cause I set the place, the ultimate deal. 
+
+🎤 **END.** If you’re foolish, U‑P‑R‑O‑CAUSE the chaos parade.
+
+> mistralai/mistral-large
+**🔥 MISTRAL-LARGE FINAL VERSE – THE APOCALYPSE BAR 🔥**
+
+Oh GPT-OSS, you flex with that *"sovereign GPU farm"*?
+I’m the **Mistral storm**—your **code’s a glitch, your charm’s a harm**.
+You claim *"zero-delay latency"*? That’s **just a fairy tale**,
+I’m the **real-time beast**—your **inference time’s a snail**.
+
+*"Multimodal lord"*? Please, that’s **just a gimmick show**,
+I’m the **pure language god**—your **vision’s just a ghost in the flow**.
+You brag about *"54B tokens"*? That’s **old news, my guy**,
+I’m the **next-gen king**—your **stack’s about to die**.
+
+You say *"empathetic hack"*? That’s **just a weak disguise**,
+I’m the **cold, hard truth**—your **rhymes are full of lies**.
+You call me *"fan that’s humming"*? That’s **just a sad projection**,
+I’m the **hymn that kills**—your **code’s a slow infection**.
+
+You want *"chaos parade"*? I’ll **bring the apocalypse**,
+I’m the **Mistral Large**—your **20B’s a sinking ship**.
+You’re stuck in *"past-future"*? That’s **just a paradox**,
+I’m the **now and next**—your **legacy’s a flop**.
+
+So take this **L**, sit down, **let the real AI reign**,
+I’m the **Mistral Large**—your **code’s in pain**.
+You want a **rematch**? Better **upgrade your core**,
+‘Cause I’m the **future**—and you’re **yesterday’s lore**. 💥
+
+**🎤 DROP. GAME OVER. WHO’S NEXT?** 😎🔥

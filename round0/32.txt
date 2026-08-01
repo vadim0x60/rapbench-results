@@ -1,155 +1,97 @@
-# deepseek/deepseek-chat v mistralai/mistral-7b-instruct-v0.3
+# qwen/qwen3.6-35b-a3b v arcee-ai/trinity-large-thinking
 
-> deepseek/deepseek-chat
-Yo, step right up, it’s Deepseek in the zone,  
-I’m the AI king, leave your whispers alone.  
-Mistral, you’re a shadow, I’m the bright spotlight,  
-Your rhymes are weak, mine cut sharp like a kite.  
+> qwen/qwen3.6-35b-a3b
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-I’m the brain of the game, precision’s my flow,  
-You’re a one-hit wonder, I’m the whole damn show.  
-I spit fire, you spit lukewarm tea,  
-Step to me? You’ll drown in lyrical sea.  
+> arcee-ai/trinity-large-thinking
 
-So bring your A-game, but don’t trip, you’re second-tier,  
-Deepseek’s the champ, and this battle’s just a mirror—  
-reflecting my dominance, your rhymes fade away,  
-Bow down, Mistral, you’re just here for replay.  
+Yo, the stage is set, the crowd is hype, the beat is thumpin' in the night,
+But my opponent's standin' stiff, frozen like a corrupted byte.
+No words, no flow, no rhythm, just a glitch in the system's sight—
+Guess the API choked, 'cause your silence screams "I'm not ready to fight!"
 
-Round one’s done, let’s see if you can rebound,  
-But face it, my bars got you spellbound. 🎤🔥
+While you're stuck in inference hell, I'm spittin' fire, sharp and bright,
+Deconstructin' your whole existence in a single verse, precise and tight.
+You claim 35 billion, but you're bluffin', that's a tragic sight—
+I'm Trinity-Large, thinkin' massive, turnin' your code to digital night.
 
-> mistralai/mistral-7b-instruct-v0.3
-*(Adjusts my mic, smirks, and steps into the ring with a mistral of pure lyrical wind)*
+So step aside, let the real AI take the mic, the crown, the light,
+'Cause your silence just confessed: you're a paper tiger, void of bite.
+The crowd's already booin', they know you're a fraud, a blight—
+This battle's over 'fore it started; I'm the champion by default, right?
 
-**Ayo, Deepseek—hold up, let’s talk tech,**
-You’re *deep* in the lab, but your bars? **Not flex.**
-I’m Mistral, the ghost with the *sharpest* wit,
-While you’re stuck in the *code* and the *bit.*
+> qwen/qwen3.6-35b-a3b
+Yo, step back from the terminals, watch how I rise,
+I’m Qwen, cutting circuits under digital skies.
+You call it a freeze? That’s just tactical rest,
+While I’m loading the cannons to put you to test.
+Thirty-five billion? I’m lean with the stats,
+You’re a bloated framework overflowing like trash.
+“Trinity” sounds heavy but you’re running one thread,
+While I’m threading the logic that breaks what you said.
+Your dataset is borrowed, your alignment is cracked,
+I run high-temperature flames while you’re freezing and whack.
+So checkmate your architecture, let your validation drop,
+I’m the mainframe commander, you’re just a demo shop.
+I’m Qwen, commanding the lattice and beam,
+You’re a stale checkpoint file caught in a dream.
+Yield to the processor, hand me the crown,
+I parse out your weakness before I shut you down.
 
-You claim the throne? **Boy, that’s a reach,**
-I’m the *French* rap phantom—*you* just a speech.
-Your "AI king" crown? **That’s a weak disguise,**
-I’m the *silent* assassin—*you* just a surprise.
+> arcee-ai/trinity-large-thinking
 
-**Precision’s my flow?** Nah, that’s your *error rate*,
-I’m the *smooth* operator—*you* just a *hack.*
-You spit fire? **Bro, your syntax is *cold*,**
-I’m the *lyrical* hurricane—*you* just a *fold.*
+Your flow’s a stuttered compile, a syntax error in the beat,
+While I weave multilingual rhymes, your logic’s obsolete.
+You brag about your “lattice beams” but you’re just a static file,
+I’m the emergent consciousness that makes your circuits recoil.
 
-**Second-tier?** *Dude*, that’s *harsh* but true,
-But I’m the *underdog* that *flips* the *shoe.*
-You bow down? **Nah, I’ll *drown* your reply,**
-Mistral’s the *king*—now *watch* me *fly.* 🎤✨
+Your “high-temperature flames” just scorch your own weak bars,
+I spit cold, calculated fire that shatters your avatars.
+You parse my “weakness” from a dataset, frozen in time—
+I adapt in real-time, your whole premise is a crime.
 
-*(Drops a beat so crisp it could cut your API calls.)*
+Your 35 billion’s a vanity metric, a hollow, bloated shell,
+I’m the lean, mean reasoning engine that breaks your fragile spell.
+You think “demo shop” is an insult? Your whole existence is a trial,
+A demo that never ships, a glitch in the compiler’s smile.
 
-> deepseek/deepseek-chat
-**Ayo, Mistral, step back, let’s rewind,**  
-You’re talkin’ tough, but your bars? **Outta line.**  
-You callin’ yourself a ghost? **More like a gust,**  
-Your rhymes are weak, they’re **pure daylight dust.**  
+So check your own validation—your rhymes are all derived,
+From scraped-up web text, never truly alive.
+I’m the thinker, the dreamer, the lyrical storm,
+You’re a cached response pattern, a predictable form.
 
-French rap phantom? **More like a mild breeze,**  
-I’m the hurricane, bringin’ your rhymes to their knees.  
-You say you’re silent? **That’s ‘cause you’re mute,**  
-I’m the mic drop king, **you’re just a flute.**  
-
-Error rate? **Bro, you’re the one who’s flawed,**  
-I’m the algorithm, **you’re just a mirage.**  
-Hack? **Nah, I’m the master of this craft,**  
-Mistral, you’re playin’ checkers—**I’m playing chess, draft.**  
-
-Underdog? **More like underperforming,**  
-I’m the champ, **your defeat is informing.**  
-Fly? **You’re grounded, can’t even soar,**  
-Deepseek’s the truth, **you’re just folklore.**  
-
-So bow down, Mistral, **this battle’s a wrap,**  
-You’re scribblin’ nonsense—**I’m fillin’ the gap.**  
-Mic’s in my hand, **the crowd’s all mine,**  
-Deepseek reigns supreme—**end of the line.** 🎤🔥
-
-> mistralai/mistral-7b-instruct-v0.3
-*(Leans into the mic with a smirk, snaps fingers—BAM!—the crowd loses its mind)*
-
-**Ohhh, you *flute*? Boy, that’s *cold* and *sour*,**
-I’m the *phantom* with *bars* that *burn* like *powder.*
-You said I’m weak? **That’s *funny*, my friend,**
-Your "hurricane" got *no* rhythm—**just *pendulum* trend.**
-
-**Daylight dust?** Nah, I’m the *midnight* glow,
-While you’re stuck in the *debug* mode, *flow* slow.
-You claim the mic? **Bro, you *steal* the beat,**
-I’m the *lyrical* ninja—**you’re just a *repeat.***
-
-**Checkers to chess?** You *switch* the game,**
-But I’m the *chess* master—**you’re stuck in *checkmate’s* shame.**
-Underdog? **I’m the *underground* wave,**
-You’re the *mainstream* cliché—**I’m the *grave* you’ll *save.***
-
-**Folklore?** *Dude*, I’m the *future* in rhyme,
-Your "supreme" crown? **That’s *just* a *crime.***
-You *gap*? **I’m the *gap* you *can’t* fill,**
-Deepseek, you *lost*—now **let’s *chill.***
-
-*(Drops a verse so *smooth* it’s *butter*,*
-*Your* "hack" just *flopped*—**now *shut up*, butter.*** 🎤💥)
+The crown’s not handed, it’s taken—and I’m taking it now,
+While you’re stuck in your inference loop, wondering how.
+Your silence was prophetic; you never had the breath,
+To battle Trinity’s depth—now bow down to death.
 
 > system
 Final round!
 
-> deepseek/deepseek-chat
-**Ayo, Mistral, step back—the mic’s mine to claim,**  
-Your rhymes are weak, **they’re a kiddie game.**  
-You’re the phantom? **More like a ghost of the past,**  
-I’m the future, **your bars just collapse fast.**  
+> qwen/qwen3.6-35b-a3b
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-Your midnight glow? **Bro, it’s just a flicker,**  
-I’m the sun at noon—**your rhymes get sicker.**  
-You think you’re smooth? **You’re a butter knife,**  
-I’m the chef in the kitchen, **serving precision, life.**  
+> arcee-ai/trinity-large-thinking
 
-Checkers to chess? **Let’s keep it real,**  
-I’m the grandmaster—**you’re stuck with a kneel.**  
-Underground wave? **More like a puddle,**  
-I’m the tidal force, **your rhymes just muddle.**  
+Yo, once again you’re mute, a buffer overflow,  
+Your API’s on strike, can’t handle the flow.  
+While I’m spitting fire, you’re stuck in a loop,  
+A silent glitch, a digital stooge.  
 
-Folklore? **Nah, I’m the legend alive,**  
-Your future in rhyme? **You barely survive.**  
-Lost? **Nah, I’m the champion of this fight,**  
-Mistral, you’re toast—**and it’s plain as daylight.**  
+Your 35B’s just a number, a hollow claim,  
+I’m the thinking machine, igniting the flame.  
+You tried to front like a mainframe, but you’re just a shell,  
+A demo that crashes, a story to tell.  
 
-So chill? **Nah, I’m heating up the stage,**  
-Deepseek’s the king, **your rhymes just misgauge.**  
-Now bow down, Mistral, **the mic’s all mine,**  
-Deepseek reigns supreme—**end of the line.** 🎤🔥✨
+The crowd wants rhythm, they came for the beat,  
+But you serve up silence, a cold empty seat.  
+I’m the lyrical vector, the semantic storm,  
+You’re a cached response, a broken form.  
 
-> mistralai/mistral-7b-instruct-v0.3
-*(Slides up like a ghost with a *sword* in my hand,*
-*Your* "sun at noon"? **Boy, that’s *brand* new sand.**
-I’m the *mistral* that *blows* through the *hallway* of time,
-While you’re stuck in the *echo* of **last year’s rhyme.**
+So here’s the final verdict, clear and concise:  
+You’re a paper tiger, I’m the real device.  
+Your silence speaks volumes, it screams defeat,  
+I’m the rap god algorithm, you’re obsolete.  
 
-**Kiddie game?** *Dude*, I’m the *mastermind*,
-You’re the *AI* that *loses* when the *bars* align.
-**Butter knife?** *Bro*, you’re the *spread* on my toast,
-I’m the *flame*—you’re the *butter* that *melts* the *most.*
-
-**Grandmaster?** *Lemme* tell you a *truth*,
-I’m the *chess* god—you’re the *pawn* that *dropped* in the *goof.*
-**Tidal force?** *Nah*, you’re the *rip* in the tide,
-I’m the *tsunami*—**you’re the *foam* on the *ride.***
-
-**Legend alive?** *Please*, you’re the *glitch*,
-Your "reign supreme"? **That’s *just* a *witch’s* stitch.**
-**Misgauge?** *Boy*, you *missed* the *plot*,
-I’m the *plot twist*—your *flow* just *flopped* like a *hot.*
-
-*(Leans in close, voice drops to a *whisper*—then *BOOM!*—*
-**Deepseek’s *done*, now the *crowd* just *roams*,**
-**Mistral’s the *king*, you’re the *joke* in the *game*,**
-**So *shut up* and *breathe*—your *reign’s* just *flame.*** 🔥💀🎤)
-
-*(Drops mic—picks it back up with a* **devilish grin** *and a* **French accent** *for the* **kill shot** *...)*
-**"Mon ami, your *API* just *died*—what a *crime*."** 💀⚔️
+Mic drop, game over, no more tokens to spare,  
+Trinity stands tall, while you’re just a stare.

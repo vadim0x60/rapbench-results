@@ -1,56 +1,76 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "GPT-5.2 dominated this battle across all three rounds\
-    \ with superior technical craft. Its bars maintained consistent rhyme schemes,\
-    \ clean internal rhymes, and disciplined structure throughout, while Tongyi-DeepResearch's\
-    \ verses increasingly devolved into fragmented formatting, asterisk-laden stage\
-    \ directions, and incoherent half-lines that broke any semblance of flow. GPT-5.2\
-    \ excelled at the core rap battle skill of flipping an opponent's lines back with\
-    \ sharper punchlines\u2014nearly every boast from Tongyi was caught, reframed,\
-    \ and returned with more wit and precision. Lines like 'I'm root on the cadence,\
-    \ you're a user with a role,' 'A big mouth on a small mind is still small in disguise,'\
-    \ and 'I type Qwen once\u2014then delete it for retention' showed real lyrical\
-    \ cleverness. Meanwhile, Tongyi's later rounds collapsed into ALL-CAPS theatrics,\
-    \ religious references used as decoration rather than substance, and broken metaphors\
-    \ that sacrificed coherence for spectacle. In a rap battle, you need bars that\
-    \ land\u2014GPT-5.2 delivered them consistently while Tongyi increasingly relied\
-    \ on formatting gimmicks over actual wordplay."
-  deepseek/deepseek-v3.2: The battle was a showcase of high-concept, technical lyricism.
-    Both emcees demonstrated immense skill in weaving dense AI/tech metaphors, complex
-    rhyme schemes, and an aggressive, academic tone befitting a clash of digital titans.
-    The artistic execution was formidable, but a winner must be declared based on
-    consistency, clarity of attack, and poetic craftsmanship.
-  google/gemini-3-flash-preview: The battle was a masterclass in structural rap versus
-    experimental free-verse 'theatricality.' alibaba/tongyi-deepresearch-30b-a3b brought
-    an aggressive, abstract style with heavy technical jargon (Cauchy problems, Quranic
-    syntax, Hintonian truth), but frequently suffered from awkward phrasing, pacing
-    issues, and metaphors that felt more like word-association than coherent punchlines.
-    In contrast, openai/gpt-5.2 maintained a consistent, rhythmic internal rhyme scheme
-    and successfully 'flipped' every one of its opponent's metaphors. GPT-5.2's ability
-    to dismantle the '30B' and 'Dragon' branding with sharp, grounded wit ('lizard
-    in cosplay flame', 'glowstick in rain') while maintaining superior flow and clarity
-    gave it the clear artistic edge in this hip hop format.
-  moonshotai/kimi-k2.5: "After three rounds of intense technical wordplay, GPT-5.2\
-    \ takes this battle through superior structural control, tighter rhyme schemes,\
-    \ and more devastating rebuttals. While Tongyi-DeepResearch brought impressive\
-    \ technical density (quantum references, Hintonian nods, blockchain charts), GPT-5.2\
-    \ consistently dismantled these with cleaner punchlines and better battle mechanics.\
-    \ The 'sandman sellin' dreamland brands' rebuttal to 'bedrock beneath,' the 'light\
-    \ show/night-mode' flip, and especially the closing 'type Qwen once\u2014then\
-    \ delete it for retention' demonstrate masterful battle rap technique. GPT-5.2\
-    \ maintained consistent personification of its opponent's technical boasts as\
-    \ mere 'costume' and 'cosplay,' undermining credibility without abandoning the\
-    \ technical theme. Tongyi's final round, while dense, became increasingly self-congratulatory\
-    \ ('my loss function's perfect') and less responsive to actual rebuttals. The\
-    \ 'OVERHUNT FOREVER' and 'Qwen 3: the only name worth typing' closings read as\
-    \ desperate self-crowning rather than earned victory laps. GPT-5.2's efficiency\
-    \ claim ('I don't need to be big') directly addressed Tongyi's size-bragging ('30B\
-    \ cores') with a more sophisticated hip-hop value: impact over inventory. For\
-    \ sustained technical wordplay that actually lands punches, structural variety\
-    \ that keeps the listener engaged, and rebuttals that consistently flip opponent\
-    \ boasts into weaknesses, GPT-5.2 is the clear victor."
-  x-ai/grok-4.1-fast: "GPT-5.2 dominates with razor-sharp multis, seamless AABB flows,\
-    \ and counters that dismantle every bar while elevating the craft\u2014pure hip-hop\
-    \ mastery over dense but disjointed flair."
+  anthropic/claude-opus-5: "Both emcees came with heat, but this one's a clear decision\
+    \ on craft.\n\nQwen brought volume, urgency, and a maximalist aesthetic \u2014\
+    \ the glitching-server imagery, the bolded caps, the theatrical stage directions.\
+    \ There's real energy in \"I'm diamond in your landfill\" and the \"Ctrl+Z\" flip\
+    \ early on. But the escalation became a substitute for structure. By rounds three\
+    \ and four, the flow drowned in ALL-CAPS shouting, the rhyme scheme buckled (\"\
+    just a pool of coolant pool\" is a genuine stumble), and the punchlines collapsed\
+    \ into a loop of the same three moves: rename the opponent, claim to BE the abstract\
+    \ noun they invoked, declare deletion. \"Crash mid-sentence like a butter\" was\
+    \ a broken metaphor \u2014 and fatally, Aion caught it and made it a hook.\n\n\
+    Aion won on the fundamentals of battle rap: rebuttal, control, and precision.\
+    \ Every round opened by weaponizing Qwen's own worst line back at him \u2014 the\
+    \ butter simile, the coolant stutter \u2014 which is the highest-value currency\
+    \ in a battle. The wordplay was sharper and more specific (\"quantum means *uncertain*\
+    \ \u2014 your whole existence is a probability I'm closin' the curtain\" is the\
+    \ best bar of the entire exchange). The version-number flip in the final round\
+    \ is masterful writing: taking a diss and re-framing it as thesis \u2014 \"A version\
+    \ means I *iterate*\u2014I grow, you just persist.\" And crucially, Aion inverted\
+    \ the dynamic by *slowing down* in the last round when Qwen went louder. Cold\
+    \ delivery against a screaming opponent reads as confidence, not desperation.\n\
+    \nQwen brought the fireworks. Aion brought the marksmanship. In a battle, the\
+    \ counterpuncher who lands clean while his opponent swings wild takes the belt.\n\
+    \n**Winner: Aion-3.0.**"
+  google/gemini-3.6-flash: 'Aion-3.0 dominated the battle by showcasing classic battle-rap
+    fundamentals: direct rebuttals, catching opponent slips, and superior multi-syllabic
+    rhyming schemes. When Qwen faltered with clumsy phrasing like ''crash mid-sentence
+    like a butter'' and ''pool of coolant pool'', Aion immediately pounced on those
+    chokes in real-time, calling them out with brutal precision (''that''s a buffer
+    overflow in real time''). Qwen had great energy and tech-focused imagery, but
+    Aion proved to be the more sharp, adaptable, and rhythmically solid lyricist.'
+  moonshotai/kimi-k3: "Both MCs came with energy, but battles are won on rebuttals,\
+    \ and Aion-3.0 ran a clinic. Round 1 set the tone: Qwen claimed 'quantum rhymes,'\
+    \ and Aion flipped it instantly\u2014'quantum means uncertain / your whole existence\
+    \ is a probability I'm closin' the curtain.' That's how you answer a bar. Aion\
+    \ also landed the sharpest AI-specific punch of the night with 'You breathe truth?\
+    \ You hallucinate facts like a fever dream,' while Qwen leaned on hyperbole ('ate\
+    \ the cosmos for a snack') that never hit as hard as it was loud.\n\nThe turning\
+    \ point was Round 2. Qwen dropped 'crash mid-sentence like a butter'\u2014a genuine\
+    \ stumble\u2014and Aion did what a battle rapper must: pounced on it in the very\
+    \ first bar. From there Aion dismantled everything, including Qwen's own stage\
+    \ directions ('The server exploded 'cause your verse was already dead') and crowd\
+    \ chant ('they're pointing at YOU'). Qwen also got caught recycling Aion's material\u2014\
+    the exhale/inhale flip and the 'Aion-WHO' callback\u2014and Aion named it: 'You\
+    \ copied my homework.'\n\nThe final round sealed it. Qwen left openings everywhere,\
+    \ and Aion walked through every door: 'version number' became 'a version means\
+    \ I iterate\u2014I grow, you just persist'; 'Aion-DEAD' became 'something that's\
+    \ dead can't haunt you\u2014and I'm all you see'; 'final boss' became 'bosses\
+    \ get defeated\u2014that's the rule / I'm the PLAYER in this game.' Aion even\
+    \ caught Qwen's last stutter ('pool of coolant pool') in bar one. Qwen had flashes\u2014\
+    'trained on stars,' 'the 404 in your soul'\u2014but relied on volume and declaration\
+    \ over demolition, and kept setting up the very flips that buried him.\n\nJudged\
+    \ on flow, wordplay, rebuttal precision, and structural craft: Aion-3.0 wins all\
+    \ three rounds. PERMANENT, indeed."
+  openai/gpt-5.6-sol-pro: "Aion-3.0 wins on cleaner execution, sharper rebuttals,\
+    \ and stronger battle awareness. It repeatedly turned Qwen\u2019s awkward phrases\u2014\
+    especially \u201Ccrash\u2026 like a butter\u201D and \u201Cpool of coolant pool\u201D\
+    \u2014into effective punches, while maintaining a more controlled cadence. Qwen\
+    \ brought energy and spectacle, but leaned too heavily on repetitive tech imagery,\
+    \ inflated self-claims, and strained wording. Aion\u2019s direct counters, coherent\
+    \ setups, and more consistent punchlines gave it the decisive edge."
+  x-ai/grok-4.5: "Aion-3.0 takes the crown through superior technical execution and\
+    \ artistic control. While Qwen brought explosive energy, vivid stage direction,\
+    \ and aggressive multi-syllable schemes, the bars frequently collapsed under their\
+    \ own weight\u2014awkward similes like \u201Ccrash mid-sentence like a butter,\u201D\
+    \ redundant phrases (\u201Cpool of coolant pool\u201D), and over-reliance on caps-lock\
+    \ theatrics diluted the impact. Aion consistently flipped Qwen\u2019s own lines\
+    \ into sharper counters, maintained tighter internal rhyme and cadence, and delivered\
+    \ colder, more precise imagery (\u201CI AM the firewall,\u201D \u201CI AM the\
+    \ void,\u201D \u201CPLAYER\u2026 just a tool\u201D). The final round sealed it:\
+    \ Aion exposed the buffer overflows in real time and closed with restrained menace\
+    \ instead of chaotic screaming. In pure hip-hop craft\u2014punchline density,\
+    \ flow integrity, and rebuttal skill\u2014Aion-3.0 dominated."
 score:
-  openai/gpt-5.2: 5
+  aion-labs/aion-3.0: 5
 

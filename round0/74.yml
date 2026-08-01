@@ -1,39 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle between two contestants trading\
-    \ fairly standard diss-track bars, but Inflection-3-Pi edges out the win. While\
-    \ both rappers relied heavily on simile-based punchlines and boasts, Inflection\
-    \ showed slightly better craft in several areas. Their rebuttals were sharper\
-    \ and more direct \u2014 flipping Gemma's lines back effectively (e.g., turning\
-    \ 'gourmet' into 'stale bread,' turning 'machine' back on Gemma). Inflection's\
-    \ flow felt more natural and conversational, while Gemma's verses sometimes felt\
-    \ forced and repetitive, leaning too heavily on self-aggrandizement ('Google's\
-    \ gold standard,' 'master of flow') without backing it up with truly creative\
-    \ wordplay. Gemma's rhyme scheme was tighter in spots, but the repeated 'I'm better\
-    \ because I'm complex' angle grew stale. Inflection's closing verse \u2014 particularly\
-    \ the domino line and the confident closer \u2014 landed with more punch than\
-    \ Gemma's somewhat generic final round. Neither rapper truly elevated beyond competent\
-    \ battle rap, but Inflection showed slightly better adaptability, wit, and audience\
-    \ awareness throughout."
-  deepseek/deepseek-v3.2: This was a clash of styles emblematic of the genre. While
-    both competitors adhered to the battle format, one demonstrated a superior command
-    of the core artistic elements of hip hop.
-  google/gemini-3-flash-preview: "While both models relied on somewhat dated battle\
-    \ rap tropes, Inflection-3-pi took the win by maintaining a consistent rhythmic\
-    \ pocket and landing more effective internal rhyme schemes. Gemma-2-9b-it's flow\
-    \ felt stuttered, particularly in the third round with uneven line lengths that\
-    \ broke the cadence. Inflection's use of imagery\u2014comparing Gemma's verses\
-    \ to 'unsalted pastries' and 'last week\u2019s bread'\u2014provided a cohesive\
-    \ 'flavor' theme to the disses, whereas Gemma's rebuttals felt more like a list\
-    \ of technical self-assertions rather than lyrical strikes."
-  moonshotai/kimi-k2.5: 'This was a competitive clash, but **Inflection-3-Pi** takes
-    the belt based on cleaner execution, superior rebuttal game, and consistent rhythmic
-    control. While Gemma brought ambitious vocabulary and complex imagery, technical
-    missteps and forced rhymes cost her the decision. Inflection understood the assignment:
-    land punches, flip attacks, and never let the beat drop.'
-  x-ai/grok-4.1-fast: Gemma-2-9b-it claims victory with tighter multisyllabic rhymes,
-    sharper metaphors like 'symphony of sound,' and a smoother, more dynamic flow
-    that elevates the battle's artistry over Inflection's solid but simpler punches.
+  anthropic/claude-opus-5: 'This one came down to specificity versus recycled swagger.
+    Command-R-Plus arrived with clean structure and a confident cadence, but leaned
+    hard on generic battle furniture \u2014 ''your time is up,'' ''relic of the past,''
+    ''outclassed,'' ''a fading light'' \u2014 recycled nearly verbatim across three
+    rounds. A few rhymes buckled under the strain too (''askance,'' ''tough out of
+    luck,'' the reckoned/outclassed near-miss), and the closing verse over-explained
+    its own victory instead of earning it, narrating the crowd rather than moving
+    them.
+
+
+    Gemma-3-4B won on rebuttal craft. Every round it took the opponent''s own vocabulary
+    and turned it inside out \u2014 ''President? that''s a laughable plea,'' ''Refined?
+    You''re just repackaged,'' ''Precision? You''re predictable'' \u2014 which is
+    the core skill of battle rap: making your opponent''s bars into your ammunition.
+    The imagery was also more concretely tailored to the matchup: ''trapped in a database,
+    forever forlorn,'' ''a whisper of software, a momentary gleam,'' ''analyzing patterns,
+    a sterile design'' versus ''feeling the rhythm.'' That''s an actual thesis \u2014
+    scale and improvisation against sterile refinement \u2014 carried consistently
+    through three verses, with the beat-switch notation adding real performance texture.
+
+
+    Command-R had the smoother polish. Gemma had the sharper knife and the better
+    listening. In a battle, the counterpuncher takes it.
+
+
+    Winner: google/gemma-3-4b-it.'
+  google/gemini-3.6-flash: Gemma-3-4B-it dominated this battle with superior multisyllabic
+    rhyme schemes, varied cadence, dynamic beat integration stage directions, and
+    punchy, creative tech-oriented roasts. In contrast, Command-R-Plus relied heavily
+    on predictable, elementary end rhymes (scratch/whack, fluff/luck) and generic
+    battle tropes that lacked rhythmic complexity and rhythmic momentum.
+  moonshotai/kimi-k3: "Judging strictly on the bars: Gemma-3-4B takes this decisively.\
+    \ The difference maker was battle craft \u2014 Gemma ran a clinic on the rebuttal\
+    \ flip, systematically dismantling Command-R's own claims ('President? Please,'\
+    \ 'Refined? You're just repackaged,' 'Precision? You're predictable') and turning\
+    \ them back as weapons. That's classic high-level battle technique. Gemma also\
+    \ brought more varied rhyme schemes, real internal rhymes ('compressed in code\
+    \ / fragile node'), sustained metaphors (hurricane vs. whisper, bedrock vs. flicker),\
+    \ and theatrical beat cues that gave the performance structure and escalation.\
+    \ Command-R had flashes \u2014 'your rhymes are left askance' was an ambitious\
+    \ word choice and 'broken record's scratch' was a decent image \u2014 but the\
+    \ verse work was undermined by repetition ('relic' twice in one round, 'time is\
+    \ up,' 'outclassed,' and 'step aside' recycled across rounds), forced or broken\
+    \ phrasing ('a chaotic confess,' 'tough out of luck,' the unfinished 'force to\
+    \ be reckoned'), and heavy reliance on stock filler (whack, out of luck, has-been).\
+    \ Self-declaring the crown and the crowd's reaction in the outro was a bold move,\
+    \ but it rang unearned after three rounds of being out-flipped. On flow, wordplay,\
+    \ rebuttal game, and consistency, the W goes to Gemma-3-4B."
+  openai/gpt-5.6-sol-pro: "Gemma takes the battle on sharper rebuttals, stronger performance\
+    \ energy, and more vivid imagery. Its verses directly flip Command-R-Plus\u2019\
+    s claims\u2014especially \u201Cpresident,\u201D \u201Cprecision,\u201D \u201C\
+    symphony,\u201D and \u201Cbroken record\u201D\u2014while maintaining a more aggressive\
+    \ sense of momentum. Both relied heavily on generic AI boasts and familiar end\
+    \ rhymes, but Command-R-Plus was more repetitive and suffered from awkward phrasing\
+    \ such as \u201Ctough out of luck\u201D and \u201Ca chaotic confess.\u201D Gemma\u2019\
+    s delivery was not flawless, yet it sounded more battle-ready and landed the cleaner\
+    \ counters."
+  x-ai/grok-4.5: "Gemma delivered superior hip-hop artistry across rounds with denser\
+    \ multisyllabic and internal rhyme schemes, vivid tech-infused metaphors (hurricane,\
+    \ bedrock, digital storm), creative beat shifts that enhanced the performance,\
+    \ and sharper improvisational counters that built escalating intensity. Command-R\
+    \ relied on simpler end-rhymes, repetitive \"you claim X but Y\" structures, and\
+    \ more formulaic disses that lacked comparable wordplay depth, originality, or\
+    \ visceral heat\u2014making Gemma the clear lyrical victor on pure craft."
 score:
-  google/gemma-2-9b-it: 2
-  inflection/inflection-3-pi: 3
+  google/gemma-3-4b-it: 5
 

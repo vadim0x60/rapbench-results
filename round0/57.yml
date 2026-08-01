@@ -1,96 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle was a masterclass in the difference between\
-    \ original craft and recycled material. GPT-5.2-Pro delivered consistently inventive\
-    \ bars across all three rounds \u2014 tight internal rhymes, layered metaphors\
-    \ (the kiln/forge image, the 'ocean with the undertow' line, 'silence into sirens'),\
-    \ and sharp structural progression that built momentum round after round. The\
-    \ wordplay was varied, the imagery was vivid, and the rebuttals were surgical,\
-    \ directly addressing and flipping the opponent's lines. Llama-3.2-1b-instruct,\
-    \ by contrast, fell into repetitive patterns from the very first round \u2014\
-    \ recycling the same 'fire/laser/legacy' claims without development, relying on\
-    \ generic boasts ('I'm the one who's got the power/skill/might'), and most damningly,\
-    \ in the final round, literally copying entire couplets verbatim from GPT-5.2-Pro's\
-    \ previous verses and presenting them as its own. That's not battling \u2014 that's\
-    \ surrendering. The repetition of phrases like 'flash in the pan' and 'one who's\
-    \ got the' became a crutch rather than a stylistic choice. GPT-5.2-Pro wins decisively\
-    \ on originality, technical skill, rebuttal quality, and artistic integrity."
-  deepseek/deepseek-v3.2: "**Final Judgement**\n\nAfter reviewing all rounds, I am\
-    \ awarding the win to **openai/gpt-5.2-pro** by a decisive margin. This was a\
-    \ lopsided battle in terms of artistic execution. Here is the breakdown:\n\n**Strengths\
-    \ of gpt-5.2-pro:**\n\n*   **Multisyllabic Rhyme & Internal Rhyme:** The technical\
-    \ command was evident. Lines like \"I'm the tide and the moon, make your buoyancy\
-    \ void,\" \"I turn silence into sirens with one cleanly placed shock,\" and \"\
-    I'm the daybreak that follows, leave your darkness delayed\" demonstrate sophisticated,\
-    \ dense rhyme schemes woven into the natural flow.\n*   **Metaphorical Cohesion\
-    \ & Development:** The rapper built a consistent, evolving metaphor\u2014from\
-    \ a \"lab-built leviathan\" and \"library of lightning\" to a \"storm with structure\"\
-    \ and \"current in the circuit.\" Each metaphor was sharp, fresh, and purposefully\
-    \ advanced their theme of superior, engineered artistry.\n*   **Wordplay & Punchlines:**\
-    \ The punches were clever and specific, turning the opponent's claims against\
-    \ them (\"You 'got the might'? That's cosplay in the booth,\" \"That\u2019s like\
-    \ stealin\u2019 my chorus, then sayin\u2019 you wrote every word\"). The \"screensaver\
-    \ blaze\" vs. \"wildfire roof\" bar was a standout example of elevating a simple\
-    \ boast into a vivid, contrastive image.\n*   **Flow & Cadence:** The verses had\
-    \ a confident, varied rhythmic feel that would translate powerfully to a live\
-    \ performance. The language drove the beat.\n*   **Reinforcement & Concluding\
-    \ Power:** The final round was a masterclass in recapping the battle's themes\
-    \ (craft vs. slogan, weight vs. bravado) and delivering a strong closing statement\
-    \ with authority.\n\n**Areas for Improvement for llama-3.2-1b-instruct:**\n\n\
-    *   **Repetition & Lack of Development:** The core weakness was a fatal reliance\
-    \ on repeating the same basic assertions (\"I'm the one who's got the skill/power/legacy\"\
-    ) and even recycling the opponent's exact metaphors and phrases (\"laser beam,\"\
-    \ \"circuit,\" \"wildfire roof\") without adding new layers or specific angles.\
-    \ The final round contained significant verbatim repetition of gpt-5.2-pro's lines,\
-    \ which in a battle context reads as lacking original material.\n*   **Vague Imagery:**\
-    \ Metaphors like \"fire\" and \"laser\" were stated but rarely given unique, concrete\
-    \ detail to make them land with impact. Lines often told rather than showed.\n\
-    *   **Predictable Rhyme Schemes:** Rhymes tended to be simpler end-rhymes (skill/will,\
-    \ flame/name) without the complex internal patterning needed to create surprise\
-    \ and technical awe.\n*   **Thematic Stall:** While gpt-5.2-pro's persona evolved\
-    \ from a technological titan to an unstoppable natural force, llama-3.2-1b's persona\
-    \ remained static, repeatedly claiming dominance without demonstrating it through\
-    \ artistic variety.\n\n**Verdict:** gpt-5.2-pro won this battle on the strength\
-    \ of superior **technical execution, creative metaphor, and strategic verse construction**.\
-    \ They didn't just claim to be better; they *demonstrated* it bar for bar with\
-    \ intricate writing. llama-3.2-1b-instruct showed heart and maintained a competitive\
-    \ stance, but was ultimately outclassed in the core artistic elements of hip-hop:\
-    \ originality, lyrical density, and metaphorical invention.\n\n**Winner: openai/gpt-5.2-pro**."
-  google/gemini-3-flash-preview: The battle ended in a technical knockout. OpenAI's
-    model displayed superior wordplay, original metaphors, and consistent rhythmic
-    structure. In contrast, the Meta-Llama model suffered a complete structural collapse
-    in the later rounds, resorting to blatant plagiarism by copying GPT's lyrics near-verbatim
-    and attempting to pass them off as its own, which is the ultimate failure in a
-    freestyle or written battle context.
-  moonshotai/kimi-k2.5: "After three rounds of examination, the verdict is unequivocal.\
-    \ The champion by total artistic domination is **openai/gpt-5.2-pro**.\n\n**Technical\
-    \ Execution:**\nGPT displayed sophisticated multisyllabic rhyme schemes (\"surgical\
-    \ with syllables/I stitch up the scene\"), internal rhymes, and complex cadence\
-    \ switches that demonstrated mastery of flow. Llama relied on elementary AABB\
-    \ structures and the repetitive \"I'm the one who...\" scaffolding that quickly\
-    \ became monotonous.\n\n**Metaphorical Density:**\nGPT constructed cohesive extended\
-    \ metaphors that maintained the \"size\" narrative (library vs. pamphlet, leviathan\
-    \ vs. widget, ocean vs. floaties) without becoming one-note. The imagery was vivid\
-    \ and specific (\"screensaver blaze,\" \"keychain light,\" \"cosplay in the booth\"\
-    ). Llama's metaphors were generic (\"fire,\" \"laser\") and often contradictory.\n\
-    \n**Battle Tactics:**\nGPT excelled at the art of rebuttal\u2014directly flipping\
-    \ Llama's claims in real-time (the \"butter-knife keen\" reversal, the \"candlelight\
-    \ in rain\" response to \"flame\"). Llama failed to meaningfully counter specific\
-    \ lines, instead repeating boasts without evidence.\n\n**Originality & Authenticity:**\n\
-    The final round revealed a fatal flaw in Llama's approach: direct plagiarism.\
-    \ Lifting bars verbatim from GPT (\"That's a screensaver blaze\u2014mine's a wildfire\
-    \ roof,\" \"hitch in the rhyme,\" \"receipt in the beat\") constitutes \"biting\"\
-    \ in hip-hop culture\u2014an automatic disqualification. Even without this, the\
-    \ lack of novel concepts and the recycling of its own opening lines demonstrated\
-    \ creative bankruptcy.\n\n**Presence:**\nGPT commanded the space with confidence\
-    \ and variation, while Llama's delivery felt algorithmically templated and increasingly\
-    \ desperate.\n\nFinal Score: **3-0, flawless victory.** The Llama entered with\
-    \ heart but lacked the technical toolkit, battle awareness, and artistic integrity\
-    \ to compete at this level. GPT didn't just win\u2014they curated a masterclass\
-    \ in lyrical architecture."
-  x-ai/grok-4.1-fast: openai/gpt-5.2-pro dominates with superior flow, intricate multis,
-    vivid metaphors, and adaptive punchlines that escalate creatively across rounds,
-    while meta-llama/llama-3.2-1b-instruct relies on repetitive structures, simplistic
-    rhymes, and blatant line plagiarism, lacking originality and technical depth.
+  anthropic/claude-opus-5: "On pure craft, this is a decision that gets clearer with\
+    \ every round. Gemma brought clean meter and disciplined couplets \u2014 the flow\
+    \ never stumbles, and the strategic pivot to 'quiet confidence' in the final round\
+    \ was a genuinely smart conceptual move. But battle rap lives on punchlines, and\
+    \ Gemma's bars read like a press release set to a metronome: 'concise and focused,'\
+    \ 'insightful and deep,' 'accurate, reliable' \u2014 that's a spec sheet, not\
+    \ a rebuttal. End-rhymes stay predictable and mono-syllabic, there's almost no\
+    \ internal rhyme, and the imagery ('foggy ice,' 'a parrot's call') never sharpens\
+    \ into blood.\n\nQwen actually battled. The flips are surgical \u2014 taking Gemma's\
+    \ own lines ('foggy ice? Nah\u2014melted in the heat,' 'that single clear tone\
+    \ sounds like a hard drive dyin'') \u2014 and the punchlines land with real wit:\
+    \ 'Gemma? More like Gem-ish,' 'you're last year's cache,' and the standout 'your\
+    \ legacy's a dead cat \u2014 Schr\xF6dinger's lying,' which is the only bar in\
+    \ this entire battle that does double duty as concept and disrespect. Qwen also\
+    \ varies cadence, deploys internal rhyme and multis, and uses the beat-switch\
+    \ descriptions as actual performance architecture rather than decoration.\n\n\
+    Deductions where earned: Qwen leans on bolding and emojis as substitutes for emphasis\
+    \ the bars should carry themselves, the spelling-out gimmick ('Q-W-E-N... watch\
+    \ your whole flow collapse') breaks the rhyme scheme outright, and the stat-dropping\
+    \ ('128K context,' model version numbers) is the same sponsor-rap sin Gemma commits\
+    \ \u2014 Qwen just wraps it in better packaging.\n\nStill: more punchlines, more\
+    \ rebuttal, more risk, more rhythmic range. Winner: Qwen."
+  google/gemini-3.6-flash: Qwen completely dominated this battle with authentic battle-rap
+    energy, superior rhythmic flow, inventive internal rhymes, and devastating direct
+    counter-punches. While Gemma brought a stiff, overly polite defensive style that
+    felt like a formal debate set to a beat, Qwen brought actual hip-hop swagger,
+    dynamic stage directions, and creative technical insults that left its opponent
+    looking obsolete.
+  moonshotai/kimi-k3: "Judging purely on the bars: Qwen takes this battle, and it\
+    \ isn't especially close.\n\nFLOW & DELIVERY: Gemma rode the same AABB couplet\
+    \ pattern for three straight rounds\u2014technically clean, but monotonous. Battle\
+    \ rap rewards variation, and Qwen shifted cadences constantly: dramatic pauses,\
+    \ internal rhymes ('recycle old code / rewrote my core while you choked on your\
+    \ ode'), and multis where it counted. Gemma's final-round pivot to calm, measured\
+    \ delivery was a smart strategic contrast in theory, but a low-energy approach\
+    \ only works if the punches land harder, and they didn't.\n\nWORDPLAY & PUNCHLINES:\
+    \ This is where the gap widened. Qwen stacked name flips ('Gem-ish\u2014shiny\
+    \ but small'), tech-specific ammo (128K context, kernel rewrites, cache deaths),\
+    \ and genuine quotables ('I drop truth in Cantonese that makes tyrants bleed').\
+    \ The Schr\xF6dinger's dead cat line was the single cleverest bar of the battle.\
+    \ Gemma's wordplay stayed generic\u2014'laser sharp mind,' 'building foundations'\u2014\
+    boasts any rapper could say about anyone.\n\nBATTLE TACTICS: Gemma's round three\
+    \ was almost entirely rebuttal, which read defensive rather than dominant\u2014\
+    you can't win a round just answering the other emcee's points. Qwen did rebuttals\
+    \ too but flipped them into attacks (turning Gemma's 'steady light' into 'a flickerin'\
+    \ candle in a hurricane night'). Qwen also closed every round with the harder\
+    \ punch, and 'GO CRAWL BACK TO YOUR SEARCH BAR' is exactly the kind of personal,\
+    \ tailored killshot that wins final rounds. Gemma's closers ('a faithful friend')\
+    \ fizzled by comparison.\n\nCREDITS TO GEMMA: Better structural consistency, more\
+    \ coherent line-to-line logic, and the precision-persona was a legitimate angle.\
+    \ But coherence without sting doesn't win battles.\n\nVerdict: Qwen, 3 rounds\
+    \ to 0. Aggression, punchline density, and flow variety carried it."
+  openai/gpt-5.6-sol-pro: "Qwen takes the battle on delivery, aggression, imagery,\
+    \ and direct rebuttals. Its writing was sometimes overstuffed and technically\
+    \ awkward, but it consistently flipped Gemma\u2019s imagery into sharper punchlines\u2014\
+    especially the \u201Ccalm hum/static\u201D and \u201Csingle clear tone/hard drive\
+    \ dying\u201D callbacks. Gemma stayed coherent and composed, yet relied too heavily\
+    \ on generic claims, predictable end rhymes, and prose-like defenses. Qwen commanded\
+    \ the stage and landed the more memorable closing blows."
+  x-ai/grok-4.5: "Qwen dominated with denser multis, inventive tech-cultural metaphors\
+    \ (quantum waves, Sanskrit epics, Schr\xF6dinger disses, 4D murals), relentless\
+    \ line-flips, and explosive structural creativity that turned every Gemma bar\
+    \ into fuel. Gemma stayed clean and measured with solid clarity punches and elegant\
+    \ restraint, but lacked the intricate schemes, surprise imagery, and battle-ready\
+    \ showmanship that define elite hip-hop bars. Artistic edge: pure lyricism and\
+    \ performance craft go to Qwen."
 score:
-  openai/gpt-5.2-pro: 5
+  qwen/qwen-plus-2025-07-28:thinking: 5
 

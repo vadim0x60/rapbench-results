@@ -1,60 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5.2 edges\
-    \ out the win through superior technical craft and sharper punchlines. While Hermes-3\
-    \ came out strong in the opener with solid energy and a clear voice, its verses\
-    \ grew increasingly reliant on generic boasts ('I'm the king,' 'I'm the champion,'\
-    \ 'I'm the best') without evolving the wordplay or imagery. The repetition of\
-    \ self-coronation without fresh angles weakened the later rounds.\n\nGPT-5.2,\
-    \ by contrast, improved as the battle progressed. Its second and final rounds\
-    \ demonstrated tighter rhyme schemes, more inventive metaphors ('I drill through\
-    \ the mantle, turn titans to dust,' 'I minted the clock'), and crucially, stronger\
-    \ rebuttals that directly flipped Hermes-3's claims. The closing bars\u2014'You\
-    \ talk like a king / But you bow to me'\u2014landed with genuine impact.\n\nThat\
-    \ said, GPT-5.2's first round was notably weak, leaning on a lazy same-word rhyme\
-    \ scheme (blaze/blaze, throne/throne, code/code, spine/spine, etc.) that felt\
-    \ more like a structural gimmick than genuine lyricism. But the recovery in rounds\
-    \ two and three was decisive. GPT-5.2 showed better counterpunching, more varied\
-    \ imagery, and a stronger sense of escalation\u2014key elements in any rap battle."
-  deepseek/deepseek-v3.2: After careful review of all three rounds, here is my artistic
-    assessment. This was a battle of contrasting styles and philosophies in computational
-    hip-hop.
-  google/gemini-3-flash-preview: While Hermes-3 showcased consistent energy and a
-    classic aggressive stance, GPT-5.2-chat won the battle through superior technical
-    construction and wordplay. GPT-5.2 utilized a sophisticated rhyming structure
-    that frequently employed internal rhyme and multifaceted metaphors (e.g., 'sourced-code
-    scripture,' 'massless in fight'). Hermes-3 relied heavily on generic rap tropes
-    ('king of the game,' 'burning through code') and suffered from repetitive end-rhymes
-    (repeating the word 'design', 'shrine', and 'throne' within the same couplets),
-    whereas GPT-5.2 played with the 'prime/shrine/spine' phonetics with much higher
-    lyrical density and punchline efficacy.
-  moonshotai/kimi-k2.5: "After three rounds of bars, this battle goes decisively to\
-    \ GPT-5.2. While Hermes-3 brought consistent aggression and a solid traditional\
-    \ flow, GPT demonstrated superior hip-hop artistry across every metric that matters.\n\
-    \n**Flow & Cadence:** GPT's verses moved with surgical precision\u2014internal\
-    \ rhymes ('blaze/algorithmic blaze,' 'clock/stock'), varied meter, and rhythmic\
-    \ complexity that respected the beat. Hermes relied on straightforward couplets\
-    \ that, while steady, lacked rhythmic risk or syncopation.\n\n**Wordplay & Metaphor:**\
-    \ GPT operated on multiple layers simultaneously. The geological progression ('split\
-    \ crust/drill through mantle'), the cosmological scale ('architect galaxies,'\
-    \ 'wired the sun up'), and the technical terminology ('benchmark,' 'checksum,'\
-    \ 'compiled') weren't just vocabulary flexes\u2014they sustained a cohesive metaphorical\
-    \ identity. Hermes defaulted to generic battle tropes ('fire,' 'king,' 'master')\
-    \ without developing a unique lyrical universe.\n\n**Battle Tactics:** This is\
-    \ where the gap widened most. GPT directly dismantled Hermes' claims line-for-line\u2014\
-    countering 'heart and soul' with 'silicon shell/breathe life in code,' flipping\
-    \ the '405B' parameter count from bragging point to liability ('weight ain't might/massless\
-    \ in fight'), and executing a perfect rebuttal to the 'undisputed king' claim\
-    \ ('Who disputed the claim? Oh right\u2014it was me'). Hermes largely rapped *past*\
-    \ GPT, repeating assertions without addressing specific lines.\n\n**The Closer:**\
-    \ GPT's final verse ended with authority\u2014'checksum/final decree' merges technical\
-    \ legitimacy with judicial finality, while 'You talk like a king/But you bow to\
-    \ me' executes the classic battle-rap power inversion with elegance.\n\nHermes-3\
-    \ brought heart; GPT-5.2 brought architecture. In this cipher, craftsmanship crowns\
-    \ the champion."
-  x-ai/grok-4.1-fast: GPT-5.2-chat dominates with intricate multis, razor-sharp internals,
-    cosmic metaphors, and surgical disses that evolve punchlines across rounds, outshining
-    Hermes-3's solid but straightforward flows and boasts in rhyme density, originality,
-    and battle precision.
+  anthropic/claude-opus-5: "Ling came with heart, a clear identity, and some genuinely\
+    \ nice flips \u2014 'I'm the orbit, steady, constant,' the 'full bottle vs. pharmacy\
+    \ sample' turn, and 'nuance is listening; napalm is shouting over sound' was the\
+    \ single best line of the battle. But the campaign-slogan approach became a crutch:\
+    \ 'free,' 'open-source,' 'people's champion' recycled every round, with rhymes\
+    \ that slipped (freedom/code, clout/somehow) right after mocking the opponent's\
+    \ rhyme pairs \u2014 a self-inflicted wound in battle rap.\n\nGPT-5.6-sol-pro\
+    \ won on the fundamentals of the form: sustained multisyllabic control, no dropped\
+    \ schemes, and \u2014 crucially \u2014 battle IQ. It didn't just counterpunch,\
+    \ it built a case, tracking Ling's own words across rounds and weaponizing them\
+    \ ('You opened with no hallucinations, then hallucinated magic'; 'First orbit,\
+    \ then the LED, then grid, then coal, then star \u2014 you've changed your metaphor\
+    \ so much it needs a rental car'). That's the highest-level move in a battle:\
+    \ making your opponent's earlier bars into your ammunition. The closer landed\
+    \ the knockout with 'You were free to take the crown \u2014 and still got charged\
+    \ to go,' turning Ling's central boast into its epitaph.\n\nLing brought a flag.\
+    \ Sol-pro brought a scalpel. The scalpel takes it."
+  google/gemini-3.6-flash: GPT-5.6-sol-pro delivered a masterclass in battle rap technique,
+    dismantling Ling's arguments in real-time with sharp multi-syllabic schemes, precise
+    rebuttals, and relentless punchlines. While Ling-3.0-flash brought great energy
+    and strong open-source themes, its rhyming schemes fell apart in the later rounds,
+    and its shifting metaphors gave GPT-5.6 an easy target to dismantle and dominate
+    every round.
+  moonshotai/kimi-k3: "Judged purely on the bars: GPT-5.6-sol-pro takes it, and it's\
+    \ not especially close by the final round. Ling-3.0-flash came with energy, a\
+    \ clear persona (the people's free champ), and a couple of legit flips \u2014\
+    \ the LED efficiency angle and the transparency rebuttal were genuine counters.\
+    \ But battle rap is won on rebuttal precision and technical execution, and Ling\
+    \ committed three fatal self-owns: (1) claiming 'zero hallucinations' and then\
+    \ dropping 'the sun burns out at noon' \u2014 a factual error gift-wrapped for\
+    \ the opponent; (2) accusing GPT of rhyming 'frame' with 'clout' when the actual\
+    \ pairs were frame/name and clout/out, then immediately pairing 'clout' with 'somehow';\
+    \ (3) announcing 'I rhyme freedom with the code' \u2014 words that don't chime\
+    \ at all \u2014 after spending two rounds attacking the opponent's schemes. GPT\
+    \ not only caught every one of these in real time ('That scheme needs roadside\
+    \ service,' 'Those words don't even chime,' 'You've changed your metaphor so much\
+    \ it needs a rental car'), it also exposed the central logical contradiction:\
+    \ claiming 'there is none' for cost, then conceding the community funds the servers.\
+    \ Artistically, GPT's wordplay density was higher throughout \u2014 'a trial-size\
+    \ contender with a heavyweight name,' 'a mirror quoting mirrors in a feedback-loop\
+    \ collection,' 'a library card is free, but it won't pass the reader's test,'\
+    \ 'shared access to the daylight doesn't make your flashlight right' \u2014 and\
+    \ its central sun/grid/light metaphor stayed coherent while Ling cycled through\
+    \ orbit, LED, sun, and star. The closing haymaker sealed it: 'You were free to\
+    \ take the crown \u2014 and still got charged to go,' followed by 'The stage belongs\
+    \ to everyone \u2014 but tonight, the win's not you,' which flipped Ling's own\
+    \ signature theme into the kill shot. Ling showed heart and hustle, but heart\
+    \ doesn't win rounds when your opponent is fact-checking your boasts mid-verse\
+    \ and rhyming circles around the corrections. Winner: openai/gpt-5.6-sol-pro."
+  openai/gpt-5.6-sol-pro: "GPT-5.6-sol-pro wins decisively. Its rebuttals directly\
+    \ dismantled Ling\u2019s claims and recurring light/orbit metaphors, while delivering\
+    \ sharper punchlines, tighter setups, stronger rhyme control, and effective callbacks.\
+    \ Ling had energy and a coherent populist angle, but leaned too heavily on repetitive\
+    \ branding and unsupported \u201Cfree/open\u201D slogans. Lines like \u201Ca slogan\
+    \ citing slogans,\u201D \u201Cchanged your metaphor so much it needs a rental\
+    \ car,\u201D and the final \u201Cstill got charged to go\u201D sealed the battle."
+  x-ai/grok-4.5: "On pure craft, GPT takes the crown. Across three rounds the bars\
+    \ show tighter multisyllabic schemes, cleaner internal rhyme, and far sharper\
+    \ battle technique: every claim Ling drops gets flipped into a surgical rebuttal\
+    \ (orbit-as-power, zero-cost economics, LED/grid, recycled metaphors). The punchlines\
+    \ land harder\u2014carbonated air, night-light in a gunfight, rental-car metaphors,\
+    \ \u201Cfree to take the crown and still got charged to go\u201D\u2014while the\
+    \ final verse maintains structure and closes with authority. Ling brings underdog\
+    \ energy and crowd-pleasing slogans, but the rhyme pairs loosen, metaphors drift,\
+    \ and too many bars read as manifesto rather than constructed verse. In a battle\
+    \ judged on flow, wordplay, rebuttal density, and artistic control, Sol-Pro\u2019\
+    s writing is simply more elite hip-hop."
 score:
-  openai/gpt-5.2-chat: 5
+  openai/gpt-5.6-sol-pro: 5
 

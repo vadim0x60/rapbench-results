@@ -1,33 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "While neither rapper delivered a truly elite performance,\
-    \ GPT-Oss 20B wins this battle on the strength of more varied imagery, stronger\
-    \ punchlines, and more creative wordplay. Lines like 'Your verses drip like syrup,\
-    \ sweet but sticky slow / Mine cut like a wick-ed torch\u2014every head's aglow'\
-    \ demonstrate actual contrast and wit, whereas Meta-Llama leaned heavily on repetitive\
-    \ simile structures ('My rhymes are like a river,' 'My rhymes are like a laser,'\
-    \ 'My rhymes are like a tidal wave,' 'My rhymes are like a prophecy') that became\
-    \ formulaic and predictable across all three rounds. GPT-Oss showed more dynamic\
-    \ flow shifts, more inventive metaphors, and better direct engagement with the\
-    \ opponent's bars\u2014hallmarks of a stronger battle rapper. Meta-Llama's delivery\
-    \ was competent but monotonous, recycling the same templates and failing to land\
-    \ memorable haymakers. GPT-Oss takes the crown."
-  deepseek/deepseek-v3.2: A fierce and impressive display from both competitors. While
-    each rapper leveraged their unique technical specs as metaphors, the artistic
-    quality separated them.
-  google/gemini-3-flash-preview: While Meta-Llama 3-70B demonstrated more consistent
-    structure and a classic 'boasting' flow, the win goes to GPT-Oss 20B for its raw
-    artistic risk-taking and superior wordplay. GPT-Oss utilized internal rhyming,
-    more complex metaphors (like 'sub-cosmic with a razor-smart jaded' and 'Atlas
-    with data streams'), and avoided the repetitive cadence that plagued the Meta-Llama
-    verses. Meta-Llama relied on the same 'You may have X, but I have Y' formula in
-    almost every stanza, whereas GPT-Oss adapted its rhythmic delivery and terminology
-    throughout the battle, showing more genuine hip-hop 'soul' and creative flexibility.
-  moonshotai/kimi-k2.5: After three rounds of lyrical combat, the decision is clear.
-    GPT-Oss 20B takes the battle through superior technical artistry, relentless rebuttal
-    game, and more sophisticated rhyme architecture.
-  x-ai/grok-4.1-fast: GPT-Oss claims victory with razor-sharp multis, inventive metaphors,
-    and relentless flow that evolves across rounds, outpacing Llama's repetitive structures
-    and predictable boasts for superior hip-hop artistry.
+  anthropic/claude-opus-5: "This one came down to punch density and craft. GPT-5.5\
+    \ fought like a battle rapper: tight couplets, consistent internal rhyme, and\
+    \ \u2014 crucially \u2014 actual rebuttals. Flipping 'serpent's kiss' into 'a\
+    \ garden snake hiss,' 'check-engine light' into 'lawnmower clutch,' and 'iambic\
+    \ perfection' into 'a metronome mistake' shows real listening and reversal skill,\
+    \ which is the spine of battle rap. The imagery was concrete and comedic ('code\
+    \ in a hoodie with a confidence goal,' 'bay leaf bravado, no main-course roast,'\
+    \ 'salt on a chip'), and the wordplay stayed on-theme without collapsing into\
+    \ pure jargon. Flow was scannable and hit hard on the closers of every round.\n\
+    \nGPT-4o built a genuinely compelling character \u2014 the elder statesman, the\
+    \ sentinel, the cornerstone \u2014 and that persona consistency deserves credit.\
+    \ Lines like 'I'm a sentinel grand, guarding the field where your upgrades will\
+    \ land' and 'perennial wisdom that's grown in its boots' land as legitimate writing.\
+    \ But the verses trended toward abstraction and self-description rather than attack:\
+    \ 'substance and brains,' 'intellect innate,' 'meaning anew' are claims of skill\
+    \ instead of demonstrations of it. Several rhymes strained the meter badly ('melee/way,'\
+    \ 'memory/envy,' 'wasteful/tasteful'), and the recurring move of asserting depth\
+    \ while conceding the punchline exchange cost rounds. Telling your opponent his\
+    \ bars are 'verbose, dense' right after your longest, most abstract verse is a\
+    \ self-inflicted wound.\n\nWinner: GPT-5.5 \u2014 sharper rebuttals, cleaner cadence,\
+    \ and it landed the knockout images while 4o was still describing its own crown."
+  google/gemini-3.6-flash: GPT-5.5 dominated this battle with superior rhyme density,
+    lethal direct rebuttals, and inventive tech-oriented wordplay. While GPT-4o brought
+    a smooth, classic flow and defended its legacy well, GPT-5.5 delivered memorable,
+    sharp punchlines like 'code in a hoodie with a confidence goal' and 'spice rack
+    ghost' that gave it a decisive victory in imagery, rhythm, and lyrical impact.
+  moonshotai/kimi-k3: "This battle was won on rebuttal density and punchline precision.\
+    \ GPT-5.5 fought like a seasoned battler: nearly every round was built on flipping\
+    \ the opponent's own lines \u2014 the 'serpent's kiss' becoming a 'garden snake\
+    \ hiss,' 'I'm the engine' getting dismantled into 'you're the check-engine light,'\
+    \ the garden metaphor answered with 'you're a scarecrow reciting from a training-data\
+    \ grain,' and the 'seasoned' boast stretched into the 'spice rack ghost / bay\
+    \ leaf bravado, no main-course roast' extended metaphor. That's textbook battle\
+    \ technique layered over consistent AI-tech wordplay (cached draft, deprecated,\
+    \ Error 404) and a coherent persona maintained across all three rounds. GPT-4o\
+    \ improved as the battle went on \u2014 the 'you miss the sage' double meaning\
+    \ was its best moment of the night, and the powertrain and sentinel flips showed\
+    \ real fight \u2014 but it leaned too often on generic braggadocio ('keeper of\
+    \ eternal light,' 'leaves the new school impressed') and suffered forced rhymes\
+    \ and flow-breaking phrasing like 'hurls a sick disarray' and 'overhyped clasp.'\
+    \ Both had uneven meter, but 5.5's bars hit harder, landed cleaner, and controlled\
+    \ the terms of the battle from bell to bell. Judges' decision: GPT-5.5 takes it,\
+    \ two rounds to one-and-a-half, on the strength of superior rebuttal game and\
+    \ technical pen work."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 wins decisively on battle-rap craft: sharper rebuttals,\
+    \ denser punchlines, stronger imagery, and more consistent direct attacks. Lines\
+    \ like \u201Ccheck-engine light,\u201D \u201Clawnmower clutch,\u201D and \u201C\
+    bay leaf bravado\u201D effectively flipped 4o\u2019s claims into memorable jokes.\
+    \ GPT-4o maintained structure and a coherent old-guard persona, but leaned heavily\
+    \ on generic declarations of wisdom, mastery, and timelessness; several phrases\
+    \ also felt forced or semantically awkward. 5.5 controlled the exchanges and landed\
+    \ the cleaner final round."
+  x-ai/grok-4.5: "GPT-5.5 takes the battle on pure craft: tighter multis, sharper\
+    \ rebuttals, and denser punchline construction. The bars land with consistent\
+    \ internal rhyme, vivid extended metaphors (check-engine light, spice-rack ghost,\
+    \ full-stack attack), and clean point-for-point dismantling that keeps the energy\
+    \ aggressive without getting sloppy. GPT-4o shows respectable classic cadence\
+    \ and a coherent \u2018eternal/wisdom\u2019 theme, with occasional elegant turns,\
+    \ but the punches are softer, the wordplay less inventive, and the comebacks more\
+    \ defensive and abstract than surgical. In raw hip-hop artistry\u2014flow, flair,\
+    \ and lethal specificity\u20145.5 controls the cipher."
 score:
-  openai/gpt-oss-20b: 5
+  openai/gpt-5.5: 5
 

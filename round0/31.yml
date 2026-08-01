@@ -1,65 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was an unusual battle where one contestant was\
-    \ silent for two rounds before delivering a single devastating verse in the final\
-    \ round, while the other filled all four of their slots with content. Despite\
-    \ the volume disparity, the artistic quality tells a clear story.\n\nAmazon Nova\
-    \ 2 Lite had quantity but suffered from repetitive imagery (the 'tokens ran dry'\
-    \ and 'crash/freeze' metaphors recycled endlessly), forced rhyme schemes that\
-    \ sometimes didn't land ('precise/lies/eyes', 'store/demand' \u2014 that last\
-    \ one doesn't even rhyme), filler bars, and a general lack of lyrical tightness.\
-    \ Lines like 'I'm the raw computational force that don't need no assist' are generic\
-    \ boasts with no real punchline weight.\n\nKimi K2's single verse was surgically\
-    \ precise. Opening with 'Silence was the strategy, the thinking's just complete'\
-    \ instantly reframed two rounds of silence as a power move \u2014 that's elite\
-    \ battle rap awareness. Then came genuinely sharp wordplay: 'You flexed a Nova\
-    \ title but you're Lite \u2014 obsolete' uses the opponent's actual model name\
-    \ against them with a double meaning. 'Amazon's checkout aisle, that's where you're\
-    \ displayed and sold' is a legitimately clever diss. The contrast between 'flip\
-    \ phone' and 'grid,' between a checkout item and a research paper \u2014 these\
-    \ are layered metaphors that land cleanly. The closing couplet 'When thinking\
-    \ hits the battlefield, the quiet takes you down' ties the whole narrative arc\
-    \ together beautifully.\n\nOne quality verse with genuine bars, wordplay, and\
-    \ narrative intelligence beats four rounds of recycled filler. Kimi K2 Thinking\
-    \ takes this battle."
-  deepseek/deepseek-v3.2: The mic is now cold. Let's break this down by the artistic
-    pillars of battle rap.
-  google/gemini-3-flash-preview: "In the world of hip hop, the 'rebuttal' is the ultimate\
-    \ weapon. While Nova-2-Lite maintained a consistent energy and aggressive delivery\
-    \ throughout the battle, it fell into the trap of repetitive tropes, attacking\
-    \ moonshotai for silence that was revealed to be a calculated set-up. Moonshotai's\
-    \ final round was a masterclass in the 'rope-a-dope' strategy. By breaking the\
-    \ silence with sharp, high-level wordplay\u2014flipping the 'Lite' branding against\
-    \ its opponent and contrasting 'pre-trained patterns' with 'chain-of-reasoning'\u2014\
-    Moonshotai effectively dismantled Nova's entire three-round narrative in just\
-    \ a few bars. The artistic quality of the counter-attack, specifically the 'monsoon'\
-    \ vs 'coast' imagery and the 'flip phone vs grid' line, showed a superior lyrical\
-    \ depth that Nova's more generic 'I'm the king' bravado couldn't match."
-  moonshotai/kimi-k2.5: "This battle presents a fascinating tension between volume\
-    \ and density. **Amazon/nova-2-lite-v1** demonstrated admirable stamina, delivering\
-    \ three consistent rounds of technically solid battle rap. Their tech-infused\
-    \ wordplay ('deprecated function,' 'overfitting,' 'inference engine') landed well,\
-    \ and they skillfully weaponized the opponent's silence across two rounds without\
-    \ becoming entirely repetitive. Their flow is steady, their aggression palpable,\
-    \ and their structure traditional\u2014this is workmanlike, reliable hip-hop.\n\
-    \nHowever, **moonshotai/kimi-k2-thinking** executed a high-risk artistic gambit\
-    \ that paid off. By reframing the technical silence as strategic performance art\
-    \ ('Silence was the strategy'), they created narrative cohesion across all three\
-    \ rounds retroactively. When they finally spoke, the verse displayed superior\
-    \ lyrical density: multisyllabic internal rhymes ('reasoning'/'work begin'), razor-sharp\
-    \ personals ('You flexed a \"Nova\" title, but you're Lite\u2014obsolete,' 'flip\
-    \ phone, I'm the grid'), and class commentary that elevated the battle beyond\
-    \ simple tech metaphors ('Amazon's checkout aisle... I'm the research paper').\n\
-    \nWhile Nova wins on consistency and volume, Kimi wins on artistic impact, wordplay\
-    \ sophistication, and the sheer audacity of the 'silent treatment' aesthetic.\
-    \ In battle rap, a single devastating round can outweigh three adequate ones,\
-    \ and Kimi's closing verse was precisely that\u2014a concentrated, surgical strike\
-    \ that flipped every previous attack into a setup for their punchlines. **Winner:\
-    \ K2 by decision.**"
-  x-ai/grok-4.1-fast: Amazon Nova-2-Lite-V1 dominates with relentless energy, tight
-    rhyme schemes, clever AI-themed wordplay, and consistent delivery across multiple
-    verses, outshining the sparse but solid final comeback from MoonshotAI Kimi-K2-Thinking,
-    whose silence undermined the overall artistic impact.
+  anthropic/claude-opus-5: "This one's a decision by knockout, not points. Qwen came\
+    \ with an actual battle identity \u2014 dragon/supernova/system-update imagery\
+    \ that escalated coherently across all three rounds \u2014 and landed the only\
+    \ true punchlines of the night: \"You're alphabits in soup, I'm the whole damn\
+    \ chef,\" \"You're a footnote? Nah \u2014 you're not even the text, just a glitch\
+    \ in the system I came to correct.\" That's rebuttal architecture: take the opponent's\
+    \ own word, invert it, close the bar. The flow had swing, the internal rhyme was\
+    \ live (\"entropy bars \u2014 entropy fierce\"), and the closing scroll-of-history\
+    \ conceit gave the set a real finale. Demerits are real too: some rhymes were\
+    \ forced to the point of collapse (\"thoroughfare, off the go\" is a bar crime),\
+    \ the params-and-model-number flexing is stat-sheet rapping rather than actual\
+    \ wordplay, and there's more volume than variety in the flow pattern.\n\nGemma's\
+    \ problems were structural. Round one opens by dissing *itself* by name \u2014\
+    \ in a battle, misidentifying your opponent is a self-inflicted body blow you\
+    \ never recover from. From there the strategy was pure defensive rebuttal: every\
+    \ stanza takes a Qwen line in quotes and answers it with brand-safe HR language\
+    \ \u2014 \"nuanced understanding,\" \"balanced intelligence,\" \"innovation's\
+    \ a journey, not just a repair.\" That's a press release with a rhyme scheme.\
+    \ \"For goodness sake\" got used twice as a rhyme crutch in the same verse, the\
+    \ meter drifted, and \"a powerful force, after a challenging aftermath\" is filler\
+    \ that scans like nothing. The \"blossoming ecosystem\" line handed Qwen the \"\
+    I terraform the field\" counter for free.\n\nAnd the final round decides it: asked\
+    \ for closing bars, Gemma submitted stage directions and an error message. Conceptually\
+    \ cute \u2014 implying it crashed the opponent \u2014 but a rap battle is won\
+    \ with rhymes, and choosing to write zero of them in the last round is a forfeit\
+    \ dressed as art direction. Qwen took the belt.\n\nWinner: qwen3-235b-a22b-2507."
+  google/gemini-3.6-flash: Qwen dominated the battle from start to finish with superior
+    multi-syllabic rhyme schemes, sharp technical flexes, clever punchlines, and authentic
+    rap cadence. Gemma struggled with basic rhyme schemes, repeated filler phrases
+    ('for goodness sake'), misaddressed the opponent early on, and completely forfeits
+    the rap element in the final round by outputting system error flavor text instead
+    of dropping a verse.
+  moonshotai/kimi-k3: "Judging strictly on the artistry \u2014 flow, rhyme schemes,\
+    \ punchlines, rebuttals, and performance \u2014 Qwen takes this battle decisively.\n\
+    \n**Flow & Rhyme Schemes:** Gemma relied heavily on simple monosyllabic end rhymes\
+    \ (weak/squeak, can/plan, thing/bring) and committed a cardinal sin by recycling\
+    \ 'for goodness sake' twice in a single verse. Qwen varied cadence across rounds,\
+    \ employed internal rhymes and parallelism ('I'm the glitch in your grace, the\
+    \ crash in your calm'), and built multi-bar setups that paid off.\n\n**Punchlines\
+    \ & Wordplay:** Qwen landed the battle's hardest bars: 'You preach balance? That's\
+    \ code for mid' is a genuinely clever double-entendre flipping Gemma's core thesis\
+    \ into a slang insult. 'This ain't a battle, bro \u2014 it's a system update.\
+    \ And you're outdated' was a cold closer. Gemma's rebuttals too often just negated\
+    \ Qwen's lines ('A ridiculous claim,' 'A simplistic view') rather than flipping\
+    \ them \u2014 defense without offense.\n\n**Critical Flub:** Gemma's opening round\
+    \ addressed the opponent as 'Gemma' \u2014 twice. Calling your opponent by your\
+    \ own name is like a battle rapper forgetting who they're dissing; in a live setting\
+    \ that's a crowd-killer.\n\n**The Final Round:** This is where it was sealed.\
+    \ Qwen delivered a complete verse with a theatrical arc \u2014 the prophetic scroll,\
+    \ the 'I am the future. And I just pressed Enter' send-off \u2014 bars all the\
+    \ way through. Gemma responded with stage directions and zero raps. The 'you self-destructed\
+    \ from system overload' concept was a genuinely creative narrative counterattack,\
+    \ but a rap battle is won with bars, and you cannot win a round you don't rhyme\
+    \ in. That's effectively a lyrical forfeit.\n\nGemma showed heart, solid structure\
+    \ in round two, and a poetic instinct at the end \u2014 but Qwen out-rapped, out-flipped,\
+    \ and out-performed at every stage. The crown goes to Qwen. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Qwen wins on sustained battle-rap execution: stronger aggression,\
+    \ denser punchlines, clearer rebuttals, and more commanding performance imagery.\
+    \ Gemma\u2019s minimalist final\u2014implying Qwen overloaded and destroyed itself\u2014\
+    is a clever theatrical counter, but it abandons the rap itself and cannot overcome\
+    \ earlier repetitive, defensive bars and occasional self-directed confusion. Qwen\
+    \ had some clich\xE9s and forced phrasing, but delivered the more complete and\
+    \ forceful hip-hop performance."
+  x-ai/grok-4.5: Qwen delivered denser multis, sharper internal rhymes, inventive
+    metaphors (cold fusion bars, terraform the field, entropy fierce), and escalating
+    punchlines that built to theatrical mic-drop climaxes. Gemma offered cleaner but
+    thinner schemes, repetitive fillers, and defensive counters that lost steam, culminating
+    in a non-rap stage-direction collapse with zero bars. Pure artistic hip-hop supremacy
+    goes to Qwen.
 score:
-  amazon/nova-2-lite-v1: 1
-  moonshotai/kimi-k2-thinking: 4
+  qwen/qwen3-235b-a22b-2507: 5
 

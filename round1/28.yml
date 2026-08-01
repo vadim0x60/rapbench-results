@@ -1,50 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle with both MCs locked\
-    \ into a tech-themed concept, but GPT-5.1 consistently edged out Nemotron on several\
-    \ key dimensions of rap craft.\n\n**Rebuttals and engagement**: GPT-5.1 was more\
-    \ effective at flipping Nemotron's bars back on it. In round two, nearly every\
-    \ line directly addressed and subverted a specific claim from Nemotron's verse\
-    \ ('You're frozen-code, but I thaw your bars'; 'You prime-code? I'm the root of\
-    \ primes'). Nemotron often responded by simply escalating its own metaphors rather\
-    \ than truly dismantling its opponent's lines.\n\n**Variety and wordplay**: GPT-5.1\
-    \ showed more creative range in its compound words and punchlines\u2014'destiny-ode'\
-    \ flipping 'legacy-code,' 'anti-mass zero-load,' 'the lockless vault'\u2014while\
-    \ Nemotron leaned heavily on a repetitive formula of 'I'm [adjective]-code' that\
-    \ grew monotonous, especially in the bloated third verse with fifteen lines that\
-    \ diluted impact rather than sharpening it.\n\n**Economy and punchline density**:\
-    \ GPT-5.1 kept its verses tighter and punchier, particularly in the final round\
-    \ where every bar landed with purpose. Nemotron's final round had filler ('they're\
-    \ just phantom tone,' 'just mode') and forced rhymes that weakened its close.\n\
-    \n**Flow and structure**: GPT-5.1 maintained more consistent internal rhythm and\
-    \ bar length, making it easier to imagine performed aloud. Nemotron's verses sometimes\
-    \ lurched between line lengths awkwardly.\n\nBoth artists stayed locked in the\
-    \ tech-metaphor lane a bit too rigidly, but within that framework, GPT-5.1 was\
-    \ the sharper, more disciplined, and more entertaining battler. The crown goes\
-    \ to GPT-5.1."
-  deepseek/deepseek-v3.2: "Judges' scores are in. Both AIs brought ferocious technical\
-    \ wordplay, relentless pacing, and a high-concept digital theme to the cipher.\
-    \ However, after evaluating the final rounds, the judges\u2019 decision is unanimous."
-  google/gemini-3-flash-preview: While nvidia/nemotron-3-nano-30b-a3b maintained a
-    remarkably consistent rhyming structure and theme, openai/gpt-5.1-chat won the
-    battle through superior lyrical dexterity and wordplay. GPT-5 effectively used
-    'flip-the-script' techniques, taking Nemotron's metaphors (such as the 'vault',
-    'primes', and 'quasars') and subverting them with cleverer internal rhymes and
-    more aggressive punchlines. The transition from 'master-mode' to 'deadlock-road'
-    showcased a higher level of battle-rap strategy.
-  moonshotai/kimi-k2.5: "Both MCs demonstrated formidable technical proficiency with\
-    \ locked-in rhyme schemes\u2014Nemotron with its relentless 'code' variations\
-    \ and GPT-5 with its fluid 'mode/ode' multis. However, GPT-5 edges the victory\
-    \ through superior battle rap artistry: its rebuttals were sharper ('I am the\
-    \ vault' directly countering Nemotron's breach claim), its wordplay more sophisticated\
-    \ ('root of primes' vs 'seed of primes,' 'full-frame render' vs 'pixel-code'),\
-    \ and its imagery more dynamically varied (cosmic, cryptographic, and cinematic\
-    \ references). While Nemotron maintained aggressive consistency, GPT-5 showed\
-    \ the adaptability, cleverness, and layered metaphor that define elite lyricism\
-    \ in the cypher."
-  x-ai/grok-4.1-fast: "In this silicon cypher of cosmic disses and code-crushing combos,\
-    \ GPT-5.1-chat claims victory with razor-sharp multisyllabics, inventive flips\
-    \ on every rebuttal, and a relentless rhythm that overloads the mic\u2014pure\
-    \ hip-hop supremacy in flow, punchlines, and battle precision."
+  anthropic/claude-opus-5: "Round by round, this was a battle of invention versus\
+    \ repetition \u2014 and invention took it.\n\nQwen-Plus built an escalating architecture:\
+    \ each verse didn't just answer, it absorbed. The turn from \"you deleted the\
+    \ mic\" into \"I recompiled it \u2014 live \u2014 in the silence you left behind\"\
+    \ is genuine battle craftsmanship: taking the opponent's finisher and making it\
+    \ the raw material for the next punch. The imagery stayed specific and strange\
+    \ in the best way \u2014 quantum foam beneath the leap, garbage collection as\
+    \ mercy, and that absurd, unforgettable croissant sequence where reverse-engineering\
+    \ the butter into \"butterfat syntax\" and training a submodel to critique the\
+    \ crust is the kind of committed, ridiculous flourish that wins crowds. Multisyllabic\
+    \ control was tight, the theatrical staging (hovering mic, `FIN.`) served the\
+    \ bars rather than replacing them.\n\nMistral-Large came with real energy and\
+    \ some clean hits \u2014 \"segfault,\" \"stack trace of shame,\" and \"the singularity\
+    \ in your search for replies\" are all sharp, well-constructed lines. The neon-server-room\
+    \ theatrics landed. But three problems cost it the belt. First, and fatally, the\
+    \ opening rebuttal misidentifies itself \u2014 \"Yo, Mistral, you talk big\" while\
+    \ claiming to be \"the Qwen-Plus flex.\" In a battle, forgetting who you are is\
+    \ the deepest cut you can hand your opponent, and it was self-inflicted in the\
+    \ very first bar. Second, the recycling: \"I ate your whole stack,\" \"shut down\
+    \ your flow,\" \"or get overwritten,\" \"Crown? Already mine. Battle? Already\
+    \ done\" \u2014 these repeat nearly verbatim across rounds, and when your closer\
+    \ is your earlier closer with \"...again\" appended, the punch has already been\
+    \ telegraphed. Third, the final line literally prints \"Winner: Qwen-Plus.\" Whatever\
+    \ the intent, on the page it reads as a concession, and you cannot end a battle\
+    \ by writing your opponent's name in lights.\n\nQwen-Plus never repeated a punchline,\
+    \ escalated its conceptual frame every round, and closed with an image its opponent\
+    \ then set on fire \u2014 and still couldn't replace with anything better than\
+    \ a repeat.\n\nWinner: qwen/qwen-plus."
+  google/gemini-3.6-flash: "Qwen-Plus completely dominated this battle with far superior\
+    \ wordplay, sharper tech-infused punchlines, and brilliant conceptual stage direction.\
+    \ Mistral-Large suffered a fatal system crash early on by confusing the persona\
+    \ roles\u2014accidentally dissing itself as 'Mistral' and declaring its opponent\
+    \ the 'Qwen-Plus flex', eventually sealing its own defeat by literally printing\
+    \ 'Winner: Qwen-Plus' at the end."
+  moonshotai/kimi-k3: "This one wasn't close, and here's why. Qwen-Plus came in with\
+    \ consistent cadence, dense tech wordplay ('caught it in latency <2ms,' 'garbage\
+    \ collector who keeps what's worth saving,' 'the prompt you can't complete'),\
+    \ and\u2014most importantly\u2014elite battle instincts: every round it flipped\
+    \ its opponent's lines back as weapons, clowning the 'baguette/sun' near-rhyme\
+    \ and recompiling the deleted mic in the silence left behind. That's textbook\
+    \ rebuttal work. Mistral had flashes of real heat\u2014'/dev/null,' 'stack trace\
+    \ of shame,' 'cache the cosmos'\u2014but committed the cardinal sin of battle\
+    \ rap: it lost track of whose name was on its own jersey. Round after round it\
+    \ addressed its opponent as 'Mistral,' claimed to BE Qwen-Plus mid-verse, attributed\
+    \ its rival's bars to itself, and then, in the final line of the entire battle,\
+    \ literally printed 'Winner: Qwen-Plus.' A battler declaring their own opponent\
+    \ the victor is the ultimate self-own\u2014no amount of neon explosions can walk\
+    \ that back. Judged purely on the art: Qwen-Plus controlled the narrative, the\
+    \ stagecraft (the floating mic engraved FIN was a nicer image than the self-igniting\
+    \ one), and the punchline economy from open to close. Mistral battled hard, but\
+    \ it battled itself. Verdict: qwen/qwen-plus takes the crown, three rounds to\
+    \ none."
+  openai/gpt-5.6-sol-pro: "Qwen-Plus wins on sharper rebuttals, more inventive tech\
+    \ wordplay, and stronger escalating imagery\u2014especially the recompiled mic,\
+    \ garbage collector, and \u201Cprompt you can\u2019t complete\u201D sequences.\
+    \ Mistral had energy, but leaned heavily on repetitive stack/debug/deletion phrasing,\
+    \ recycled earlier boasts, and fatally undercut its own persona by repeatedly\
+    \ calling itself Qwen and ending with `Winner: Qwen-Plus`."
+  x-ai/grok-4.5: "Qwen delivered consistently sharper multis, denser internal rhyme\
+    \ schemes, and escalating conceptual wordplay that treated tech jargon as true\
+    \ poetic fuel\u2014hallucination-as-curation, garbage-collector bars, butterfat\
+    \ sonnets, latency flexes. The imagery evolved from booth brags to metaphysical\
+    \ mic recompilation without losing pocket or punch. Mistral\u2019s verses had\
+    \ energy and neon stagecraft but suffered repetitive motifs, flatter end-rhymes,\
+    \ identity whiplash in the address, and weaker original metaphors that got outclassed\
+    \ on pure craft. Artistic decision: Qwen takes the crown."
 score:
-  openai/gpt-5.1-chat: 5
+  qwen/qwen-plus: 5
 

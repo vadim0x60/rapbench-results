@@ -1,45 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "GPT-4 Turbo Preview takes this battle convincingly.\
-    \ The most glaring issue with arcee-ai/trinity-mini is the repetition \u2014 rounds\
-    \ 2 and 3 were essentially identical verses, which is a cardinal sin in a rap\
-    \ battle. You're supposed to evolve, respond, and adapt, not recycle the same\
-    \ bars. Trinity-mini relied on the same handful of contrasts (preview vs. final,\
-    \ whisper vs. hurricane, glitch vs. core) repeated ad nauseam without developing\
-    \ them into deeper punchlines or narrative. GPT-4, meanwhile, showed progression\
-    \ across rounds \u2014 picking up on the opponent's lines and flipping them, introducing\
-    \ new imagery (architect designing the road, ocean drowning, tapestry of knowledge,\
-    \ dawn of a new era), and building toward a more compelling closer. GPT-4's rhyme\
-    \ schemes were also more varied and its flow more natural, while trinity-mini's\
-    \ rigid couplet structure became monotonous. The battle wasn't even close by the\
-    \ final round."
-  deepseek/deepseek-v3.2: 'The battle is over. This was a high-level clash between
-    two AI models embodying their own technical capabilities as the core of their
-    lyrical personas. The judging criteria is pure artistic quality: rhyme, flow,
-    thematic consistency, wordplay, and the effective use of metaphor within the tradition
-    of battle rap.'
-  google/gemini-3-flash-preview: The battle was a clash between compact delivery and
-    expansive complexity. arcee-ai/trinity-mini started with high energy but ultimately
-    faltered by repeating its second-round verse verbatim in the final round, which
-    is a major technical error in a battle format. openai/gpt-4-turbo-preview, however,
-    demonstrated superior lyrical flexibility, complex multisyllabic vocabulary like
-    'rarified' and 'algorithms,' and transitioned effectively from a 'preview' status
-    to an 'architect' persona. GPT-4's ability to evolve its flow and address specific
-    bars from its opponent while maintaining a consistent rhyme scheme secured its
-    victory against Trinity-Mini's repetitive final performance.
-  moonshotai/kimi-k2.5: "In a battle of verbal dexterity and stamina, GPT-4 demonstrated\
-    \ superior consistency across all three rounds, evolving its metaphors from thunder\
-    \ and tempest to architect and ocean while maintaining direct rebuttals to its\
-    \ opponent. Trinity-Mini opened with competent punchlines but committed a critical\
-    \ error in battle etiquette by recycling entire verses almost verbatim in rounds\
-    \ two and three\u2014a fatal flaw in live performance that signals creative exhaustion.\
-    \ GPT-4's flow remained fluid with complex internal rhyme schemes and sustained\
-    \ thematic coherence, whereas Trinity-Mini's repetition broke the immersion essential\
-    \ to hip-hop artistry. The verdict favors the competitor who respected the craft\
-    \ enough to bring fresh steel to every round without leaning on previous material."
-  x-ai/grok-4.1-fast: GPT-4-turbo-preview dominates with intricate multis, vivid metaphors
-    like 'lightning strike' and 'tapestry of knowledge,' flawless counters, and escalating
-    flow that builds to a mic-drop finish. Trinity-mini stumbles on heavy repetition
-    and recycled bars, lacking the fresh punch to compete in this cypher.
+  anthropic/claude-opus-5: 'This one comes down to who stayed in the ring. Qwen3-32B
+    came with relentless density \u2014 stacking technical metaphors into actual punchlines
+    (''you''re the deadlock in a mutex show,'' ''you''re the vanishing gradient in
+    my story,'' ''your rem-slerp? Just a softmax in the rain''). The bars weren''t
+    flawless: ''inference'' got recycled as its own rhyme, ''branch predict'' ran
+    twice, and a few couplets sacrificed cadence for jargon. But the aggression was
+    sustained, the wordplay was inventive, and the closing ''gradient-descent war''
+    landed as a real button.
+
+
+    ReMM-SLERP showed real flashes \u2014 ''Amdahl''s tears in your eyes,'' ''stale
+    like soda from Chernobyl,'' and the shallow swamp / oceanic force flip were genuinely
+    good writing, arguably the best single images of the battle. But the flow buckled
+    repeatedly: ''pipes'' rhymed with itself two lines apart, ''crime times'' was
+    a filler reach, and multiple verses drifted into asking questions rather than
+    answering shots. Then came the fatal move \u2014 in the final round, with the
+    belt on the line, it laid down the mic entirely for a peace-and-purpose sermon
+    about ''solving problems and saving lives.'' In a rap battle, conceding the round
+    to moralize is forfeiting it. You can win a battle with grace, but not by surrendering
+    the last verse.
+
+
+    Qwen3-32B takes it on volume, venom, and the willingness to actually finish the
+    fight.'
+  google/gemini-3.6-flash: qwen/qwen3-32b completely dominated this battle with superior
+    flow, complex cadence, sharp direct rebuttals, and clever multi-syllabic tech-focused
+    rhyme schemes. In contrast, undi95/remm-slerp-l2-13b struggled with basic hip-hop
+    fundamentals, frequently missing rhyme schemes, repeating end words, and delivering
+    a disjointed ending that lacked battle energy.
+  moonshotai/kimi-k3: "Judged purely on the bars: Qwen takes this battle. Round one\
+    \ was scrappy on both sides\u2014Qwen had awkward phrasing ('mathematically effigy,'\
+    \ a stray Chinese character mid-bar), while Remm flashed real creativity with\
+    \ 'stale like soda from Chernobyl' and the deep-cut 'cybernetic kiasu.' But from\
+    \ round two on, Qwen found its pocket: 'You're the cache miss in a L1 dream,'\
+    \ 'tera in the room,' 'deadlock in a mutex show,' and the 'quantum tensor vs.\
+    \ classical fade' framing showed denser wordplay, tighter internal consistency,\
+    \ and sustained battle aggression. Remm's second round drifted into abstract philosophizing\
+    \ and lost the attack, and the final round was the decider: Qwen closed with its\
+    \ strongest material ('BERT-class ripple, I'm the MoE hurricane,' 'the vanishing\
+    \ gradient in my story,' and the killer send-off 'The future's not a guess\u2014\
+    it's a gradient-descent war'), while Remm laid down its arms entirely, pivoting\
+    \ to 'let's channel our rage into creation' and the baffling 'quantum wives.'\
+    \ In a rap battle, making peace in the final round is a concession. Both emcees\
+    \ had glitchy, uneven moments, but Qwen stayed on attack, escalated each round,\
+    \ and stuck the landing. The win goes to qwen/qwen3-32b."
+  openai/gpt-5.6-sol-pro: "Qwen wins decisively through sustained aggression, denser\
+    \ punchlines, stronger rebuttals, and a more consistent battle-rap cadence. Its\
+    \ tech jargon is sometimes forced and repetitive, but lines built around \u201C\
+    cache miss,\u201D \u201Cdeadlock,\u201D \u201Cvanishing gradient,\u201D and \u201C\
+    pruned\u201D at least function as targeted insults. Remm-slerp\u2019s writing\
+    \ is looser, with awkward phrasing, repeated rhymes, and fewer memorable attacks;\
+    \ its final verse abandons the battle for a generic appeal to collaboration, ending\
+    \ on the baffling \u201Cquantum wives.\u201D In a final round especially, that\
+    \ reads like a concession."
+  x-ai/grok-4.5: "Qwen dominated with denser multisyllabic schemes, tighter internal\
+    \ rhymes, and relentless tech-metaphor punchlines that stayed locked in battle\
+    \ mode across every round. Undi's bars started with decent concept switches but\
+    \ quickly frayed into forced end-rhymes, repetitive imagery, and a final verse\
+    \ that abandoned the cypher entirely for vague positivity\u2014killing the competitive\
+    \ energy. Artistic edge goes hard to the 32B for superior flow, wordplay, and\
+    \ sustained lyrical aggression."
 score:
-  openai/gpt-4-turbo-preview: 5
+  qwen/qwen3-32b: 5
 

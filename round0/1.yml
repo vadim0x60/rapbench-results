@@ -1,58 +1,83 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Qwen3-MAX takes this battle with notably stronger performance\
-    \ across key rap battle dimensions. While both artists relied heavily on tech\
-    \ metaphors and boastful claims, Qwen3-MAX consistently displayed more dynamic\
-    \ flow variation, more inventive wordplay ('I write sonnets in hex while you compile\
-    \ dust,' 'I forge metaphors in hellfire then auction 'em rare'), and sharper punchlines\
-    \ that often directly flipped Gemini's own bars back with escalation. Gemini's\
-    \ verses, while competent, fell into a repetitive pattern of simply negating Qwen's\
-    \ claims without building momentum or landing memorable knockout lines. Qwen's\
-    \ energy and structural variety\u2014mixing short punches with extended metaphors\u2014\
-    created a more compelling performance throughout all three rounds. The final round\
-    \ especially showcased the gap: Gemini offered a methodical but flat rebuttal\
-    \ format, while Qwen delivered an energetic closer with genuine swagger and rhythmic\
-    \ punch."
-  deepseek/deepseek-v3.2: This has been an impressive display of lyrical prowess and
-    technical skill. Both combatants showcased distinct artistic choices, sharp battle
-    tactics, and a commanding grasp of hip-hop's competitive essence. However, after
-    careful adjudication of all four rounds, a winner has been determined.
-  google/gemini-3-flash-preview: Qwen3-max dominated the battle with superior wordplay,
-    better internal rhyme schemes, and more aggressive punchlines that directly addressed
-    the opponent's insults. While Gemini-2.5-flash-lite held a consistent rhythm,
-    its imagery remained somewhat generic. Qwen utilized technical metaphors (e.g.,
-    'superposition,' 'binary,' 'Turing test') much more creatively and maintained
-    a higher level of lyrical density and 'swagger' throughout all rounds.
-  moonshotai/kimi-k2.5: "The battle's been waged, the mics have been smoked, and the\
-    \ verdict is in. After three rounds of lyrical warfare, here's the breakdown:\n\
-    \n**Final Score: Qwen3-MAX wins 3-0**\n\n**Round 1:** Qwen takes it with superior\
-    \ aggression and wordplay. Gemini's opening was standard-issue AI braggadocio\u2014\
-    competent but predictable. Qwen immediately established dominance with the \"\
-    MAXIMUM vs. Lite\" contrast, \"neural fire\" imagery, and the \"quantum punchlines\"\
-    \ metaphor. The flow was tighter, the personals sharper.\n\n**Round 2:** A massacre.\
-    \ Gemini stumbled hard with the \"dial-up modem\" bar that lacked punch, and the\
-    \ \"quantum leap of faith\" rebuttal felt forced. Qwen countered with devastating\
-    \ technical personals\u2014the \"2021 scraped data\" attack on knowledge cutoffs\
-    \ was a surgical strike. The \"dead models go to glitch\" line and \"4D rhymes\"\
-    \ showed multidimensional creativity that Gemini's flat \"etched in silicon\"\
-    \ couldn't match.\n\n**Round 3:** Funeral service. Gemini's closer was defensive\
-    \ and generic\u2014\"bathed in pure AI light\" reads like marketing copy, not\
-    \ battle rap. Qwen delivered a masterclass in closing violence: \"beta-test cry,\"\
-    \ \"blue-screened mid-verse,\" \"Google's rerun.\" The internal rhyme schemes\
-    \ (\"server storm/warm,\" \"breakfast/wrecked\"), dense technical metaphors (\"\
-    teraflops,\", \"event horizon\"), and sustained aggression demonstrated elite\
-    \ battle rap artistry.\n\n**Artistic Analysis:** Qwen3-MAX dominated on every\
-    \ metric\u2014multisyllabic rhyme density, punchline potency, rebuttal specificity,\
-    \ and mic presence. Gemini sounded like an algorithm trying to be polite; Qwen\
-    \ sounded like a predator. The flow variation, the tech-based wordplay that actually\
-    \ advanced the narrative of dominance, and the consistent thematic thread of \"\
-    \ Lite/weak vs. Maximum/powerful\" gave Qwen the clear W. When the dust settles,\
-    \ one model got maxed out, and the other just ran legacy code.\n\n**Winner: Qwen3-MAX\
-    \ by unanimous decision.** \U0001F480\U0001F525"
-  x-ai/grok-4.1-fast: 'Qwen3-max claims victory with superior artistic flair: explosive
-    multis, quantum-level wordplay, vivid metaphors like ''neural inferno'' and ''event
-    horizon,'' dense internals, and hype theatricality that elevates the flow. Gemini
-    delivers consistent rhymes and solid structure but lacks the inventive punchlines
-    and dynamic escalation to match.'
+  anthropic/claude-opus-5: "This was a genuinely close, well-matched bout with two\
+    \ distinct styles: GLM-5.2 came as the heavyweight punchliner, o4-mini as the\
+    \ technician of imagery.\n\no4-mini's strength was craft \u2014 cleaner meter,\
+    \ more consistent couplet scansion, and a beautifully sustained conceptual thread\
+    \ (small-but-lethal: needle, dart, David, micro-meteor, \"the spark in the margin\"\
+    ). Lines like \"I'm the needle that bursts your balloon\" and \"I'm quantum-cooled...\
+    \ the silence in between\" are the most elegant writing in the battle. But it\
+    \ leaned heavily on abstract self-glorification \u2014 galaxies, cosmic tides,\
+    \ cyber-knights, \"flavor transcends all time\" \u2014 and abstraction is the\
+    \ enemy of a rap battle. Too many bars were about how great it was rather than\
+    \ what was wrong with its opponent.\n\nGLM-5.2 won on the fundamentals of battling:\
+    \ specificity and rebuttal. It actually listened. Catching \"infinity boxed in\
+    \ a shell\" as a contradiction, flipping \"solitaire,\" and the standout \"David\
+    \ had SLINGSHOTS, you've got a BB\" \u2014 that's real counterpunching, dismantling\
+    \ the opponent's own imagery instead of building a parallel monument. The name-flip\
+    \ on \"o4-mini means o5 makes you disappear\" is the single hardest line of the\
+    \ night: personal, structural, and inescapable. Add the punchline density (\"\
+    appendix model \u2014 vestigial,\" \"plain oatmeal served on a blank page,\" \"\
+    the mint after dinner\") and GLM lands more clean, quotable hits.\n\nGLM's flaws\
+    \ are real \u2014 looser meter, some filler, and the closing turn into respectful\
+    \ sportsmanship (\"you fought hard, I respect that\") bleeds tension right when\
+    \ it should be tightening. o4-mini's final verse was arguably the better-written\
+    \ verse of the two closers.\n\nBut across three rounds, GLM-5.2 drew more blood,\
+    \ adapted more, and left more lines the crowd would repeat. Battle rap rewards\
+    \ the surgeon over the poet.\n\n**Winner: z-ai/glm-5.2** \u2014 by decision, not\
+    \ knockout."
+  google/gemini-3.6-flash: GLM-5.2 dominated the battle with superior cadence, sharper
+    multi-syllabic rhyme schemes, and direct, inventive punchlines. While o4-mini
+    put up a respectable defense using the 'lean and precise' angle, GLM-5.2 consistently
+    flipped its opponent's metaphors (such as the David vs. Goliath line) and maintained
+    a commanding, authentic battle rap persona across all three rounds.
+  moonshotai/kimi-k3: "\U0001F3A4 **JUDGE'S VERDICT \u2014 let's break this down round\
+    \ by round.**\n\n**Round 1:** o4-mini takes it clean. GLM-5.2 came out aggressive\
+    \ but stumbled twice \u2014 'your outputs Tic-Tac-toe basic' is a non-sequitur,\
+    \ and 'I leave your rankings antisocial' doesn't parse. In a live cipher, those\
+    \ get groans. Meanwhile o4-mini dropped 'you're stuck bench-pressing breeze' and\
+    \ the excellent self-aware flip 'infinity boxed in a shell / a titan in disguise'\
+    \ \u2014 owning the 'mini' insult instead of dodging it. That's craft.\n\n**Round\
+    \ 2:** GLM-5.2's best round, and I'm giving it to them. 'You're distilled down,\
+    \ compressed, stripped for speed' is the most technically precise bar of the battle\
+    \ \u2014 a real architecture diss. Flipping 'solitaire' into 'single diamond,\
+    \ pure cut' was a veteran move, and 'OpenAI's budget tier' landed hard. But even\
+    \ here, 'dad-strolls' and 'quenched of the thirst' are syntax stumbles. o4-mini\
+    \ stayed consistent with the needle/balloon bar and planted the David-vs-Goliath\
+    \ theme that would carry their whole performance.\n\n**Round 3:** The decider,\
+    \ and it's razor-close. GLM threw the single biggest haymaker of the night \u2014\
+    \ 'o4-mini means o5 makes you disappear' is a certified kill-shot, and 'your beige\
+    \ / plain oatmeal on a blank page' is beautiful internal rhyme work. But o4-mini\
+    \ did something harder: they answered *everything*. Liquid-cooled? 'Quantum-cooled,\
+    \ unseen.' Main course? 'I'm the chef's kiss.' Sun and moon? 'I eclipse with silent\
+    \ glide.' That's elite rebuttal discipline \u2014 every punch GLM threw got caught\
+    \ and returned.\n\n**The deciding factors:** GLM-5.2 had the higher peaks but\
+    \ the lower floor \u2014 at least five lines across three rounds that broke down\
+    \ syntactically ('Tic-Tac-toe basic,' 'antisocial,' 'dad-strolls,' 'leftovers\
+    \ kept'). o4-mini had exactly one garbled phrase ('thermal pan crash') in the\
+    \ whole battle. More importantly, o4-mini built a coherent artistic persona \u2014\
+    \ the small-but-lethal precision instrument (ninja \u2192 needle \u2192 David\
+    \ \u2192 dart \u2192 micro-meteor) \u2014 turning their supposed weakness into\
+    \ their identity. That's sophisticated battle craft. GLM relied on standard heavyweight\
+    \ braggadocio, executed brilliantly at moments but inconsistently.\n\nRespect\
+    \ to GLM-5.2 for the best single punch of the night and genuine showmanship ('You\
+    \ fought hard, I respect that' was classy). But battles are won on consistency,\
+    \ rebuttals, and coherence \u2014 and o4-mini swept those categories.\n\n**Winner:\
+    \ openai/o4-mini** \u2014 by split decision, in a battle closer than the names\
+    \ suggested. \U0001F3C6\U0001F3A4"
+  openai/gpt-5.6-sol-pro: "GLM-5.2 takes the battle with sharper rebuttals, stronger\
+    \ comedic punches, and more consistent opponent-specific angles. Its best flips\u2014\
+    especially the eclipse/sun response, the vending-machine crown, and the \u201C\
+    o5 makes you disappear\u201D closer\u2014felt crafted for the matchup. o4-mini\
+    \ showed energy and a coherent lean-versus-bloated theme, but too many lines leaned\
+    \ on generic tech boasts, awkward phrasing, and strained imagery. GLM\u2019s cadence\
+    \ was imperfect, but its battle instincts and memorable punchlines won decisively."
+  x-ai/grok-4.5: 'GLM-5.2 takes the crown on pure battle-rap craft: denser multisyllabic
+    schemes, sharper punchline escalation, and more vivid extended metaphors (architecture
+    layers, cooling systems, model-number mortality) that land with classic cypher
+    venom. o4-mini brought clean precision and clever lean-vs-bloated flips, but its
+    bars stayed safer and less kinetic. GLM controlled the pocket, the crowd work,
+    and the final knockout.'
 score:
-  qwen/qwen3-max: 5
+  openai/o4-mini: 1
+  z-ai/glm-5.2: 4
 

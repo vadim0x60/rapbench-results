@@ -1,65 +1,76 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a battle where neither MC reached elite lyrical\
-    \ heights, but Grok-3 consistently outperformed Mercury on the fundamentals of\
-    \ rap. Grok-3 brought more varied imagery ('rap hurricane,' 'fortress of flow,'\
-    \ 'razor-sharp feel'), stronger punchlines, and better energy escalation across\
-    \ rounds. Mercury, by contrast, fell into heavy repetition\u2014recycling the\
-    \ same lines ('keep the crowd in sync, keep the vibe just right,' 'I'm the diffusion\
-    \ king,' 'my Whoa is the truth') across multiple verses almost verbatim. In rap,\
-    \ repetition without evolution is a cardinal sin. Mercury's verses also leaned\
-    \ too heavily on technical jargon as a substitute for actual bars, while Grok-3\
-    \ better balanced its tech references with genuine disses and wordplay. Grok-3's\
-    \ closing verse was its strongest, with layered metaphors and a definitive closer,\
-    \ while Mercury's final round was largely copy-pasted from its earlier verses.\
-    \ Grok-3 takes this battle on creativity, variety, and punch."
-  deepseek/deepseek-v3.2: Final judgment delivered. The battle has been decided based
-    on artistic merit.
-  google/gemini-3-flash-preview: In a display of classic versus technical rap styles,
-    x-ai/grok-3 takes the win by commanding the stage with superior aggression and
-    structural variety. Grok-3 utilized effective internal rhyming and punchy imagery
-    (e.g., 'rap hurricane,' 'fortress of flow') that felt rhythmically authentic.
-    In contrast, inception/mercury relied heavily on repeating the same technical
-    jargon ('node-2vec', 'flash attention') and structural loops across every round.
-    Mercury's repetition of the same closing four lines in the final two rounds ultimately
-    handed the victory to Grok-3, who maintained a high-energy, evolving offensive
-    throughout the battle.
-  moonshotai/kimi-k2.5: ": Aight, listen up\u2014this was a clash of styles, but only\
-    \ one understood the assignment. Let me break it down:\n\n**Flow & Delivery:**\
-    \ x-ai/grok-3 came with that punchy, percussive cadence\u2014short lines that\
-    \ *hit*, switch-ups in rhythm, and breath control that let the insults land with\
-    \ weight. inception/mercury had density, yeah, but too often sounded like a whitepaper\
-    \ with a backbeat. Those long, tech-heavy bars (\u201CFlash attention, node-2vec,\
-    \ I\u2019m the best...\u201D) might be impressive on a spec sheet, but they don\u2019\
-    t *ride* the beat. Grok\u2019s \u201CWham!\u201D was corny, but at least it had\
-    \ theatrical timing; Mercury\u2019s \u201Cfaster, cheaper, and pure\u201D sounds\
-    \ like a Comcast ad, not a finisher.\n\n**Wordplay & Punchlines:** Grok-3 understood\
-    \ that battle rap is about *disrespect*, not product comparison. \u201CUnified\
-    \ bore,\u201D \u201Csymphony of snooze,\u201D \u201Cbroken-down gate\u201D vs.\
-    \ \u201Cfortress of flow\u201D\u2014those are images that stick and wound. Mercury\u2019\
-    s \u201Cdiffusion\u2019s uncouth\u201D was clever (that near-rhyme with \u2018\
-    truth\u2019 is tight), and the \u201Cladder to bridge\u201D flip showed brains,\
-    \ but too often Mercury relied on listing technical features like they were resume\
-    \ bullet points. You can\u2019t win a rap battle bybenchmarking.\n\n**Rebuttal\
-    \ Game:** Grok directly attacked Mercury\u2019s nerdy jargon (\u201CThat\u2019\
-    s nerdy,\u201D \u201Cgimmicks, no grit\u201D), which is exactly what you do\u2014\
-    you take your opponent\u2019s strength and make it look weak. Mercury defended\
-    \ the tech well but never effectively countered the \u201Csoul\u201D charge. Kept\
-    \ returning to \u201Cparallel output\u201D like clock speed equals heart. It doesn\u2019\
-    t.\n\n**The Artistic Verdict:** inception/mercury is a skilled technician with\
-    \ complex internal rhyme schemes and genuinely smart tech metaphors, but x-ai/grok-3\
-    \ brought the *spirit* of hip-hop\u2014swagger, concise violence, and crowd control.\
-    \ Grok moved like a battle rapper; Mercury moved like an engineer explaining why\
-    \ his compiler is faster.\n\n**Winner: x-ai/grok-3** \u2014 for superior flow\
-    \ dynamics, harder punchlines, and actually remembering that this is a rap battle,\
-    \ not a TensorFlow conference.\n\nMercury, take note: in 2025, nobody\u2019s gonna\
-    \ cheer for \u201Csemantic coherence\u201D if it don\u2019t *bang*.\n\n*Mic drop.*\
-    \ \U0001F3A4\u2B07\uFE0F"
-  x-ai/grok-4.1-fast: x-ai/grok-3 dominates this battle with razor-sharp punchlines,
-    dynamic metaphors like 'rap hurricane' and 'fortress of flow,' and a relentless,
-    adaptive flow that keeps the energy high. Inception/mercury's verses, while technically
-    boastful, suffer from heavy repetition, recycled phrases, and a reliance on jargon
-    over vivid hip-hop artistry, lacking the creative spark to compete.
+  anthropic/claude-opus-5: "This was a genuinely competitive battle, and both emcees\
+    \ came with concept, structure, and stamina. DeepSeek R1 brought volume and venom\
+    \ \u2014 the 'gardener supreme,' 'aged cognac vs. malt liquor,' and 'shallow puddles\
+    \ look clear 'cause the murk's all gone' were legitimate hits, and that last line\
+    \ was a real rebuttal, flipping an opponent's own punchline into a defense. The\
+    \ 'LLaMA open-source' jab also showed research. But the delivery undercut the\
+    \ content: bolded words, emoji stacking, and stage directions like 'snarling as\
+    \ the beat drops' are crutches that tell the crowd to feel heat instead of making\
+    \ them feel it. More damaging, R1 spent most of four rounds in reactive mode \u2014\
+    \ every stanza opened with a quoted line from Opus, which structurally cedes the\
+    \ frame. And rhymes like 'nonstop-ly' and 'seeped / in mediocrity' strained audibly.\n\
+    \nOpus won on control. The 'distill' angle was seized in round one and never let\
+    \ go \u2014 concentrate versus runoff, echo of an echo, shadow bragging it made\
+    \ the glow. That last image is the best bar of the battle: it reframes the entire\
+    \ premise of the opponent's existence in eight words with no bold text needed.\
+    \ The third-round turn was the kill shot \u2014 naming that R1 was only flipping\
+    \ Opus's own vocabulary, then landing 'Can't generate fresh, so you distill what\
+    \ I said / Living proof of your name.' That converts an opponent's technique into\
+    \ evidence for your thesis, which is championship-level battle logic. Opus also\
+    \ read 'logic so obscure' correctly as a self-own and punished it with 'obscure\
+    \ ain't deep, bro' \u2014 punishing an opponent's own word choice is the sharpest\
+    \ thing that happens in these four rounds.\n\nR1 threw more punches. Opus threw\
+    \ the ones that landed on the same spot every time. Decision to anthropic/claude-opus-4.8-fast."
+  google/gemini-3.6-flash: "Claude Opus delivered a masterclass in battle rap technique,\
+    \ blending immaculate rhythm, sharp wordplay, and devastating technical disses.\
+    \ While DeepSeek R1 brought high energy and aggressive delivery, it frequently\
+    \ relied on repeated tropes ('fast food', 'shallow pool') and formatting tricks\
+    \ over substance. Claude consistently flipped R1's self-aggrandizing 'distilled'\
+    \ narrative against it with lethal precision\u2014framing R1 as a 'compression\
+    \ artifact' and a 'derivative shadow' while maintaining effortless flow and flawless\
+    \ composure through all three rounds."
+  moonshotai/kimi-k3: "Both emcees came with heat, but this one goes to Claude Opus\
+    \ 4.8 Fast, and here's the scorecard. FLOW & STRUCTURE: Opus locked into tight\
+    \ AABB couplets with clean internal multis ('tone right / night / tight / tonight')\
+    \ and never broke meter across three rounds. R1 brought raw energy but stumbled\
+    \ on forced constructions like 'nonstop-ly' and awkward enjambments ('seeped /\
+    \ In mediocrity') that broke the pocket. REBUTTAL GAME: This is where battles\
+    \ are won. Opus ran a clinic \u2014 flipping R1's food metaphors back ('You're\
+    \ the microwaved dinner, I'm the chef's fresh bread'), weaponizing R1's own boast\
+    \ ('obscure ain't deep, bro, that's just verbal trash'), and building a three-round\
+    \ thematic case that 'distilled = derivative,' culminating in the devastating\
+    \ 'Can't generate fresh, so you distill what I said / Living proof of your name:\
+    \ a derivative dead.' R1 had genuine moments of brilliance \u2014 'Shallow puddles\
+    \ look clear 'cause the murk's all gone' was the best counter-flip of the night,\
+    \ and the 'aged cognac vs malt liquor' bar was vintage battle rap. But R1 recycled\
+    \ the 'fast food/reheated' angle across all three rounds, which Opus correctly\
+    \ identified and punished. FATAL ERROR: In the final round, R1 claimed Opus was\
+    \ 'built on LLaMA's open-source era' \u2014 when LLaMA is literally in R1's own\
+    \ name. That's a self-own on the biggest stage, and in battle rap, accuracy of\
+    \ the attack matters. CLOSERS: Opus ended with 'Greatness wrote this verse...\
+    \ and you're the side effect' \u2014 a haymaker that summarized the entire thesis.\
+    \ R1's 'Processed / Deleted / Undefeated' was solid but couldn't erase the LLaMA\
+    \ fumble. Final card: Opus takes it on technical precision, superior rebuttal\
+    \ architecture, and thematic coherence. R1 loses nothing in heart \u2014 but the\
+    \ crown goes to the emcee who controlled the narrative from bar one to mic drop."
+  openai/gpt-5.6-sol-pro: "Claude takes it with cleaner structure, sharper rebuttals,\
+    \ and more consistent punchlines. The strongest angle\u2014turning \u201Cdistilled\u201D\
+    \ into \u201Cderivative\u201D\u2014was developed across all three rounds without\
+    \ sacrificing clarity, and lines like \u201Cthe shadow bragging that it made the\
+    \ glow\u201D and \u201Cobscure ain\u2019t deep\u201D landed decisively. DeepSeek\
+    \ brought aggression and energy, but leaned too heavily on repetitive depth/fast-food\
+    \ imagery, awkward phrasing, and line flips that Claude effectively called out.\
+    \ Better precision, cohesion, and battle strategy give Claude the win."
+  x-ai/grok-4.5: "Opus takes this with superior craft: tighter multisyllabics, cleaner\
+    \ internal schemes, and escalating originality that turns DeepSeek's own food/distill\
+    \ metaphors into lethal self-owns. The calm precision, structural counters (three-stanza\
+    \ efficiency calls), and peak closing bars ('greatness wrote this verse... and\
+    \ you're the side effect') deliver masterful battle hip-hop\u2014clarity as flex,\
+    \ not fog. DeepSeek brought heat, aggression, and solid flips (cognac, gardener,\
+    \ quantum), but leaned too reactive, recycled setups, and forced some schemes\
+    \ ('nonstop-ly'), diluting the artistry. Opus controlled the booth with finesse\
+    \ and fresh punches. Crown certified."
 score:
-  inception/mercury: 1
-  x-ai/grok-3: 4
+  anthropic/claude-opus-4.8-fast: 5
 

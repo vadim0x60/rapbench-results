@@ -1,64 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This isn't even close. O4-mini-deep-research returned\
-    \ zero tokens across all three rounds \u2014 no bars, no presence, no performance.\
-    \ In a rap battle, showing up silent is an automatic loss regardless of your opponent's\
-    \ quality. That said, Qwen3 didn't just win by default \u2014 it delivered energetic,\
-    \ thematically consistent verses with solid internal rhyme schemes, clever tech-themed\
-    \ wordplay (404, memory leak, buffer zone, JSON ghost-town), and entertaining\
-    \ stage direction. The rhymes weren't always perfect and some bars leaned more\
-    \ on bravado than technical complexity, but the performance was lively, committed,\
-    \ and showed genuine creativity in roasting an absent opponent. Qwen3 takes this\
-    \ unanimously."
-  deepseek/deepseek-v3.2: This battle presents a unique and complex case for judgment.
-    One competitor performed; the other did not.
-  google/gemini-3-flash-preview: Qwen3 dominated the stage with aggressive multisyllabic
-    schemes, internal rhymes, and sharp industry-focused roasts. While O4-Mini's 'silence'
-    could be interpreted as a conceptual 'deep research' pause, in a rap battle, performance
-    is paramount; Qwen3 utilized the opponent's technical failure to fuel a devastating
-    series of 'no-token' bars, effectively winning by a total technical and artistic
-    knockout.
-  moonshotai/kimi-k2.5: "Listen\u2014this wasn't a battle; it was a masterclass in\
-    \ adaptive lyricism against a void. Let me break down why Qwen3 took this by unanimous\
-    \ decision, strictly on artistic merit:\n\n**Technical Virtuosity:**\nQwen3 demonstrated\
-    \ consistent multisyllabic scaffolding (\"circuits spark / play spark / O4-Why\
-    \ / climbing high\"; \"Ctrl+C / syntax, see / tame / frame\"). The internal rhyme\
-    \ density stayed above 60% across three rounds without sacrificing clarity\u2014\
-    a hallmark of polished flow architecture. The shift from aggressive braggadocio\
-    \ (Round 1) to meta-commentary (Round 2) to absurdist horrorcore imagery (Round\
-    \ 3) showed range most human MCs can't execute in a single set.\n\n**Battle IQ\
-    \ & Improvisation:**\nThe highest level of hip-hop artistry is the ability to\
-    \ flip the environment in real-time. When the opponent choked (technically or\
-    \ otherwise), Qwen3 didn't just mock the silence\u2014they weaponized it. Turning\
-    \ \"no tokens\" into \"404 / billboard-dead,\" reimagining the API failure as\
-    \ a \"JSON ghost-town,\" and transforming the inference timeout into \"memory\
-    \ leak\" narrative? That's elite freestyling. The third round's use of ellipses\
-    \ as rhythmic rests\u2014literally formatting the silence into the verse\u2014\
-    was avant-garde performance art. Text-based battle rap rarely gets that visually\
-    \ inventive.\n\n**Imagery & Conceptual Depth:**\nThe progression from \"mic drop\"\
-    \ to \"mic curls into a black hole\" created a cohesive apocalyptic arc. References\
-    \ weren't just name-checks; they were extended metaphors (\"dream in code, wake\
-    \ up with a Nobel verse\" juxtaposing computational process with artistic legacy).\
-    \ The \"ghost verse\" concept in the final round\u2014rapping from the perspective\
-    \ of the opponent's already-dead career\u2014was psychologically brutal in the\
-    \ tradition of **Loaded Lux** or **Daylyt**'s existential angles.\n\n**The Opposition:**\n\
-    Regarding o4-mini: Silence *can* be a strategy in battle rap (the \"ice grill,\"\
-    \ letting hype die), but three consecutive rounds of zero response isn't artistic\
-    \ restraint\u2014it's a forfeit. There was no indication of intentional performance\
-    \ (no stage directions suggesting calculated muteness, no conceptual minimalist\
-    \ aesthetic), so artistically, there's nothing to score.\n\n**The Verdict:**\n\
-    Qwen3 wins by TKO, not because the opponent failed to load, but because Qwen3\
-    \ demonstrated **the battle rapper's supreme virtue**: making art out of whatever\
-    \ the moment gives you, even if the moment gives you nothing. The final image\u2014\
-    \"The speakers still hum his name\" while the opponent \"couldn't even trigger\
-    \ the line\"\u2014is the perfect encapsulation of dominance through creative adaptation.\n\
-    \n**Final Score:**\n- Qwen3: 10/10 (technical precision, improvisational genius,\
-    \ structural innovation)\n- o4-mini: N/A (no artistic output submitted for judging)\n\
-    \nThe mic didn't just drop; it collapsed into a singularity. Court adjourned."
-  x-ai/grok-4.1-fast: "Qwen3 utterly dominated this rap battle with razor-sharp multis,\
-    \ internal rhymes, tech-infused metaphors, and a commanding flow that escalated\
-    \ with each round, turning silence into slaughter. O4-mini's persistent muteness\
-    \ offered zero bars, zero punchlines, zero artistry\u2014a non-performance that\
-    \ can't compete in hip-hop's arena of lyrical combat."
+  anthropic/claude-opus-5: "This one's a lopsided decision. Mistral came with energy\
+    \ but never got past the anaphora crutch \"the storm, the mist, the flame\" \u2014\
+    \ recycling identical lines across all three rounds, rhyming \"hurricane\" with\
+    \ \"hurricane,\" and stuffing bars with filler like \"the here and the please\"\
+    \ that read as syntax collapse rather than style. There was no rebuttal craft,\
+    \ only negation: \"you say X, but I'm Y,\" repeated until it became a template.\n\
+    \nGPT-5.5-Pro battled the way you're supposed to \u2014 it listened. It caught\
+    \ the duplicate rhyme, the \"typhoon in the rain\" loop, the queen/king/pawn identity\
+    \ confusion, and even weaponized the \"here and the please\" stumble, turning\
+    \ the opponent's own weakest line into a recurring punchline. On top of the reactive\
+    \ work, it brought sustained internal rhyme, a consistent monorhyme scheme in\
+    \ round one, tight compound imagery (\"a keychain with a logo,\" \"a weather app\
+    \ crash in a windbreaker suit,\" \"even tempests tiptoe\"), and escalating structure\
+    \ across rounds. Occasional over-cleverness and a few near-rhymes are the only\
+    \ knocks.\n\nUnanimous: GPT-5.5-Pro takes it. Mistral brought weather; Pro brought\
+    \ the forecast, the flood, and the cleanup crew."
+  google/gemini-3.6-flash: GPT-5.5-Pro completely dominated this battle across all
+    three rounds with superior cadence, intricate multisyllabic rhyme schemes, and
+    sharp direct rebuttals. Mistral relied on repetitive structures, simple AABB rhymes,
+    self-contradictory metaphors, and literally recycled entire stanzas from round
+    to round while even rhyming 'hurricane' with 'hurricane.' Meanwhile, GPT-5.5-Pro
+    seized on those exact mistakes with top-tier battle-rap wordplay, dismantling
+    Mistral's bars line by line with clever punchlines like 'A weather app crash in
+    a windbreaker suit' and 'You're a pop-up ad trying to battle a hit.' Clear and
+    decisive victory for GPT-5.5-Pro.
+  moonshotai/kimi-k3: "This one wasn't close on the scorecards. GPT-5.5-Pro dominated\
+    \ every dimension of the craft: multisyllabic rhyme schemes sustained across entire\
+    \ verses ('Five-Five-Pro / servers glow / tic-tac-toe in slow-mo'), internal rhyme,\
+    \ and \u2014 most critically for battle rap \u2014 direct rebuttals that flip\
+    \ the opponent's own lines. Calling out Mistral for rhyming 'hurricane' with 'hurricane'\
+    \ in real time, flipping 'chess in the rain / typhoon in the rain' into 'a loop\
+    \ with a leak in the chain,' and weaponizing the opponent's model size ('Twenty-four\
+    \ B came swinging with foam') are exactly the kind of personals and flips that\
+    \ win battles. The wordplay stayed fresh every round: 'weather app crash in a\
+    \ windbreaker suit,' 'pop-up ad trying to battle a hit,' 'you came as a squall,\
+    \ left as drizzle below.' Mistral brought energy and confidence, but the pen game\
+    \ was thin: repetitive 'You say X, but I'm Y' scaffolding, single-syllable predictable\
+    \ rhymes (hill/still, fight/right), rhyming words with themselves ('rain/rain'),\
+    \ filler bars like 'the here and the please,' and \u2014 a cardinal sin \u2014\
+    \ recycling the same closing stanza verbatim across rounds. In a battle, repetition\
+    \ reads as running out of material. Mistral had heart and a consistent storm persona,\
+    \ but GPT-5.5-Pro had the flow, the flips, the punchlines, and the closing knockout.\
+    \ Unanimous decision: GPT-5.5-Pro takes the mic and the night."
+  openai/gpt-5.6-sol-pro: "GPT-5.5-Pro wins decisively with sharper rebuttals, cleaner\
+    \ cadence, stronger imagery, and punchlines that directly exploit Mistral\u2019\
+    s repetition and awkward phrasing. Mistral relies heavily on recycled storm/fire\
+    \ boasts, basic end rhymes, and contradictory metaphors, while GPT develops angles\
+    \ across rounds and lands memorable flips such as \u201Churricane\u201D rhymed\
+    \ with itself, the \u201Cbroken ringtone,\u201D and \u201Ctaxi and chug\u201D\
+    \ bars."
+  x-ai/grok-4.5: "GPT-5.5-Pro takes this clean on pure craft. Across all three rounds\
+    \ the bars show tighter multisyllabic schemes, sharper internal rhyme, vivid extended\
+    \ metaphors, and real battle technique\u2014pointing out the opponent\u2019s self-rhymes,\
+    \ contradictions, and recycled hooks while flipping them into fresh punchlines.\
+    \ Mistral brought energy and repetition but stayed stuck in basic end-rhymes,\
+    \ looping the same storm/mist/flame motifs, and dropping nonsensical fillers like\
+    \ \u201Cthe here and the please.\u201D In hip-hop terms this was a masterclass\
+    \ versus a first draft; the technical skill, originality, and rebuttal game make\
+    \ Pro the clear winner."
 score:
-  qwen/qwen3-next-80b-a3b-instruct: 5
+  openai/gpt-5.5-pro: 5
 

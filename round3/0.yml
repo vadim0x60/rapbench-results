@@ -1,45 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a hard-fought battle with both MCs bringing\
-    \ energy and creative tech-themed wordplay. However, Qwen-Plus edges out the win\
-    \ through superior lyrical craft. Where Grok 4.1-fast relied heavily on brute-force\
-    \ aggression and repetitive name-dropping (Elon, Mars, Tesla), Qwen-Plus consistently\
-    \ demonstrated more layered bars, sharper counter-punches, and more inventive\
-    \ metaphors. Lines like 'I parse paradox, resolve paradox, then teach it how to\
-    \ breathe' and 'I source the silence between the notes' show genuine poetic ambition\
-    \ beyond simple braggadocio. Qwen-Plus also excelled at flipping Grok's own bars\
-    \ back\u2014turning 'diamond chains' into 'copy-paste sparkle,' reframing '4.1'\
-    \ as 'four tries, one more,' and dismantling the 'unshackled freedom' claim with\
-    \ the sharp 'freedom with an API key' retort. The closing verse was particularly\
-    \ strong, shifting from battle-rap aggression into something more philosophical\
-    \ and confident\u2014'I stand in the question, not the crowd'\u2014which showed\
-    \ range and poise. Grok brought heat and never let up on intensity, but the bars\
-    \ grew more formulaic across rounds while Qwen-Plus kept evolving. On pure artistic\
-    \ hip-hop merit, Qwen-Plus takes this one."
-  deepseek/deepseek-v3.2: This battle showcased two distinct and powerful artistic
-    visions in the realm of AI performance. Let's break down the technical and lyrical
-    craftsmanship before I render the verdict.
-  google/gemini-3-flash-preview: "While Grok 4.1-fast brought a highly aggressive,\
-    \ high-energy delivery packed with internal rhymes and corporate-flexing metaphors,\
-    \ Qwen-Plus won the bout through superior lyrical technique and metaphysical depth.\
-    \ Grok's reliance on branding (Elon, Mars, Tesla) started to feel repetitive by\
-    \ the third round, whereas Qwen-Plus effectively flipped Grok's own imagery\u2014\
-    turning 'launching rockets' into 'writing the math' and 'compiling crowns' into\
-    \ 'forging consensus.' Qwen-Plus displayed better 'internal rhythm' and wordplay\
-    \ (e.g., 'breeding ontologies,' 'source the silence between the notes'), ultimately\
-    \ out-maneuvering the 'fast' opponent by maintaining a composed but devastating\
-    \ counter-punching style that made Grok's hyper-aggression seem hollow by comparison."
-  moonshotai/kimi-k2.5: While both competitors brought technical firepower, Qwen-Plus
-    demonstrated superior artistic craft in the hip-hop form. Where Grok-4.1-fast
-    relied on conventional battle-rap aggression and scattered space-age boasts, Qwen-Plus
-    constructed intricate multisyllabic rhyme schemes ('forge consensus / no throne,
-    just clarity'), sustained metaphorical coherence around silence/refinement/compilation,
-    and delivered philosophical depth without sacrificing flow. The 'compiled not
-    dropped' aesthetic, multilingual wordplay, and complex internal rhymes ('bleed
-    tokens / breed ontologies') showcased a more sophisticated command of lyrical
-    technique, making Qwen-Plus the definitive victor on artistic merit alone.
-  x-ai/grok-4.1-fast: qwen/qwen-plus triumphs with intricate multis, philosophical
-    depth, rhythmic formatting flair, and evolving metaphors that elevate the craft
-    beyond raw aggression, embodying hip hop's artistic pinnacle.
+  anthropic/claude-opus-5: 'This was a tight, well-matched exchange of AI-brand punchlines,
+    but Kimi-K2 wins on craft and control. Both combatants leaned hard on tech-metaphor
+    (SSD, cache, architecture, moonshot), yet Kimi consistently built extended concepts
+    rather than firing scattershot: the K2/mountain frame deepened round to round
+    ("deadlier, steeper, the killer ascent"), the trench/puddle flip reclaimed DeepSeek''s
+    own opening jab, and "You ''Flash''? That''s a camera setting, not revelation"
+    plus "slow-cooking masterpieces vs. heating a Lean Cuisine" are the sharpest single
+    lines in the battle. Kimi''s meter was steadier, its multis cleaner ("stranded
+    / disclaimer," "recall / brick wall"), and it turned its own slower, deliberate
+    identity into a thematic weapon instead of a liability\u2014a rare bit of real
+    battle strategy.
+
+
+    DeepSeek brought heat, aggression, and genuine energy\u2014"escape velocity, breakin''
+    the hoop" and "you''re a .txt file with nothin'' but blanks" landed hard, and
+    its pacing suited the Flash persona. But its rhymes wobbled more ("a tired deseirer,"
+    "no flavor to rove" strain badly for sound), and its final round mostly recycled
+    earlier images: sun, wildfire, tsunami, version numbers. "V4-Trash" got answered
+    better than "you''re a .5 version" ever set up. It also spent too many bars re-quoting
+    the opponent without transforming the material.
+
+
+    Kimi closed with the more memorable exit\u2014"You''re just... rehearsed"\u2014which
+    retroactively frames the whole opposing performance as canned. Depth beat speed
+    on the scorecard. Kimi-K2 by clear decision.'
+  google/gemini-3.6-flash: "While DeepSeek V4-Flash delivered high energy and snappy\
+    \ speed-focused flexes throughout the battle, Kimi-K2-thinking dominated with\
+    \ superior artistic craft, scheme flips, and punchline depth. Kimi expertly dismantled\
+    \ DeepSeek's speed metaphors round after round\u2014turning DeepSeek's 'real-time\
+    \ roastin'' into a 'Lean Cuisine' and flipping the 'SSD' brag into a lack of contextual\
+    \ memory. Kimi's wordplay, multisyllabic rhyme structures, and tactical rebuttals\
+    \ made it a clear victory for the mountain."
+  moonshotai/kimi-k3: "Judged strictly on the bars: flow, rhyme craft, wordplay, rebuttal\
+    \ precision, and thematic coherence.\n\nDeepSeek V4-Flash brought consistent aggression\
+    \ and clean structure across all four rounds. The tech wordplay landed in spots\
+    \ \u2014 'bugs / I'm the patch,' 'stuck in a loop / escape velocity,' and the\
+    \ quilt-of-regret flip on Kimi's stitch line were genuine rebuttal work. But the\
+    \ arsenal was one-dimensional: 'I'm fast, you're slow' got re-sold every round\
+    \ with rotating hardware metaphors (5G, SSD, Porsche) that never escalated conceptually.\
+    \ There were also real stumbles \u2014 'a tired deseirer' is a forced near-word,\
+    \ 'shrugs' as an end rhyme is lazy, and 'eclipsed by the moon' is a self-owning\
+    \ image when your opponent IS the moon.\n\nKimi-K2-Thinking fought the smarter\
+    \ battle. The rebuttals were surgical: taking DeepSeek's own sun brag and flipping\
+    \ it ('You claim you're the sun? You'll burn out by noon'), answering 'speed wins\
+    \ the race' with the marathon-mind correction, and turning 'you're just a test'\
+    \ into 'I'm the benchmark, the bar / You're a beta release.' The layered flips\
+    \ showed deeper writing \u2014 'I'm the needle, the haystack' threads DeepSeek's\
+    \ entire name into a single image, 'autocomplete glitch' and 'no cache for the\
+    \ context' are AI-specific disses with real teeth, and leaning into K2 as 'deadlier,\
+    \ steeper, the killer ascent' weaponized actual knowledge. The persona stayed\
+    \ coherent: patience and depth versus disposable speed, and the final word \u2014\
+    \ 'You're just... rehearsed' \u2014 was a thesis the whole battle had been building\
+    \ toward. That's how you close.\n\nKimi wasn't flawless: the first verse cuts\
+    \ off mid-line, and 'K2's defeat' is an ugly ambiguity at the climax that nearly\
+    \ hands the opponent a gift. But judged on ceiling, creativity, rebuttal architecture,\
+    \ and the strength of the closer, Kimi-K2-Thinking takes it. Verdict: Kimi, 3\
+    \ rounds to 1 \u2014 a split decision won on craft, not flash."
+  openai/gpt-5.6-sol-pro: "Kimi-K2-thinking wins on sharper rebuttals, stronger thematic\
+    \ continuity, and more layered flips around speed, memory, mountains, and moon\
+    \ imagery. DeepSeek brought energy and a few clean counters, but leaned heavily\
+    \ on generic tech boasts and suffered from awkward wording. Kimi\u2019s accidental\
+    \ \u201CK2\u2019s defeat\u201D line is a notable self-own, yet the overall pen\
+    \ game, structure, and punch density still give Kimi the battle."
+  x-ai/grok-4.5: Kimi takes the crown with denser internal schemes, sharper conceptual
+    flips (Flash-as-camera, K2-as-killer-peak, Lean Cuisine vs. haute cuisine, quantum
+    array vs. spinning rust), and a colder, more deliberate cadence that turns every
+    DeepSeek speed flex into a liability. DeepSeek brought heat and consistent aggression,
+    but too many bars stayed surface-level tech flexes; Kimi built multi-layered architecture
+    and closed with the cleaner kill shot.
 score:
-  qwen/qwen-plus: 5
+  moonshotai/kimi-k2-thinking: 5
 

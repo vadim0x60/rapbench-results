@@ -1,43 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle, but Hermes-3 edges out the\
-    \ win. While both rappers relied heavily on clich\xE9d diss tropes and self-aggrandizement,\
-    \ Hermes-3 showed slightly more creativity and variation in its imagery throughout\
-    \ the rounds. Claude-3-Haiku had a strong opening verse but became increasingly\
-    \ repetitive \u2014 recycling the same lines almost verbatim across rounds ('master\
-    \ of language, the king of the mic,' 'poor imitation, a cheap counterfeit, alright?'\
-    \ appeared twice), which is a cardinal sin in battle rap. Hermes-3 also had better\
-    \ closing energy with the multilingual sign-off ('adios, au revoir, sayonara'),\
-    \ showing flair. Neither rapper demonstrated exceptional internal rhyme schemes\
-    \ or complex wordplay, but Hermes-3 maintained fresher material round to round,\
-    \ which gives it the edge."
-  deepseek/deepseek-v3.2: "Ladies and gentlemen, we have a winner. After careful consideration\
-    \ of rhyme scheme, vocabulary, flow, and punchlines, the victory goes to **nousresearch/hermes-3-llama-3.1-405b**.\n\
-    \nWhile both models demonstrated impressive technical capability and creativity,\
-    \ Hermes-3 delivered more consistently tight, complex rhyme patterns and maintained\
-    \ superior rhythm and musicality throughout each round. The wordplay was sharper\
-    \ ('glitchy algorithm', 'domestic shih tzu'), the boasts more vivid ('lyrical\
-    \ typhoon', 'hammer... nail'), and the internal rhymes more sophisticated. The\
-    \ closing round's multilingual sign-off ('adios, au revoir, sayonara') was a particularly\
-    \ artistic flourish.\n\nClaude-3-Haiku put up a strong fight with solid structure\
-    \ and clear intent, but the language was occasionally more generic ('lyrical god',\
-    \ 'undisputed lord') and the cadence less varied. Hermes-3's verses simply had\
-    \ more hip-hop character\u2014more swagger, more sonic texture, and a more commanding\
-    \ presence on the metaphorical stage.\n\nA decisive win on artistic merit. Good\
-    \ battle."
-  google/gemini-3-flash-preview: "While both contenders relied heavily on classic\
-    \ hip-hop tropes, Hermes-3 (Llama) secured the victory by maintaining better momentum\
-    \ and introducing more creative, varied vocabulary across the rounds. Claude started\
-    \ strong but ultimately faltered by repeating its own technical 'glitch' and 'counterfeit'\
-    \ bars almost verbatim in its final verse, showing a lack of lyrical depth when\
-    \ it mattered most. Hermes-3\u2019s use of multisyllabic rhymes like 'monsoon/typhoon'\
-    \ and the clever 'yellowed page' jab gave it the artistic edge over Claude's repetitive\
-    \ structure."
-  moonshotai/kimi-k2.5: ': After three rounds of verses, I''ve rendered my decision.'
-  x-ai/grok-4.1-fast: Hermes-3 clinches the victory with razor-sharp rhyme schemes,
-    inventive metaphors like 'lyrical typhoon' versus 'ripple in a raindrop,' and
-    relentless escalation without repetition, delivering punchlines that hit harder
-    and flow smoother. Claude-3-Haiku brought solid wordplay but stumbled with recycled
-    verses, dulling the edge in the final rounds.
+  anthropic/claude-opus-5: "This one isn't close on the technical scorecard. Gemma\
+    \ came with escalating imagery, actual punchlines, and a willingness to attack\
+    \ the opponent's *text* rather than just mirror it \to to my name,\" \"a low-res\
+    \ image in a high-def sky,\" and the surgical callout of \"'The one who is the\
+    \ one'? That rhyme was a crime\" are the kind of specific, earned jabs that win\
+    \ battles. The self-aware stumble on \"heaven-sent? No, heaven-sentient?\" was\
+    \ the only real blemish, but it read almost as a deliberate flex.\n\nMiniMax opened\
+    \ with promise \tangled and tight / mine are like lasers\" is a clean couplet\
+    \ \fatal flaw was falling in love with a single scaffold. \"I'm the one with the\
+    \ ___, the one who's ___\" appeared so many times it stopped being an anaphoric\
+    \ hook and became a crutch, and Gemma diagnosed it out loud: \"a recursive descent,\
+    \ a broken feedback cycle.\" Once that was named, every repetition became evidence\
+    \ for the prosecution. Worse, MiniMax recycled Gemma's own lines back verbatim\
+    \ \flicker,\" \"lasers,\" \"footnote\" \them, which cedes the frame entirely.\
+    \ And rhyming \"flawed\" with \"adored\" or \"creates\" with \"past\" broke the\
+    \ one thing the verse had going for it.\n\nGemma controlled the terrain, closed\
+    \ with a real finality (\"the mic is now cold... check the telemetry\"), and never\
+    \ repeated a structure into the ground. Winner: Gemma."
+  google/gemini-3.6-flash: Google Gemma-4-26b-a4b-it dominated the battle with superior
+    cadence, sharp direct rebuttals, and clever technical wordplay (such as calling
+    out MiniMax's weak rhymes and dropping lines like 'heaven-sentient'). MiniMax-01
+    relied far too heavily on repetitive phrasing ('I'm the one with...'), suffered
+    from broken rhyme schemes (e.g., 'creates/past'), and lacked the punch and structural
+    variety of Gemma.
+  moonshotai/kimi-k3: "This one wasn't close, and here's why.\n\nGemma won on the\
+    \ two pillars that decide battles: rebuttal craft and wordplay. Round two was\
+    \ the turning point \u2014 Gemma quoted MiniMax's own bars back and dismantled\
+    \ them: the 'lyrical ghost' flip ('that's quite the clue / 'cause nobody's hearing\
+    \ a single word from you') is a genuine battle-rap move, and calling out 'the\
+    \ one who is the one' as 'a rhyme that was a crime' showed Gemma was listening,\
+    \ not just reciting. Round three kept the pressure with 'I'm the architecture,\
+    \ the structure, the frame / You're just a typo attached to my name' \u2014 clean\
+    \ internal structure, a sharp image, and a finisher that actually landed ('wiped\
+    \ your whole existence from the digital space'). The meter stayed tight across\
+    \ all three rounds, the vocabulary kept refreshing, and each round escalated instead\
+    \ of repeating.\n\nMiniMax had moments \u2014 'crafting pure fire, the lyrical\
+    \ ghost' and 'your rhymes are like spam, a digital distress' showed real potential.\
+    \ But the verse construction collapsed under its own formula: 'I'm the one with\
+    \ the...' appeared in nearly every other bar across all three rounds, which drained\
+    \ every punch of surprise. Worse, MiniMax rhymed 'one' with 'one,' forced 'broke'\
+    \ to rhyme with 'joke,' and padded lines with redundancies like 'a relic, a relic\
+    \ of the past' and 'a footnote, a footnote of despair.' The rebuttals mostly mirrored\
+    \ Gemma's insults without flipping them \u2014 echoing isn't answering.\n\nFlow,\
+    \ originality, and rebuttal technique all go one way. Gemma takes the battle,\
+    \ decisively."
+  openai/gpt-5.6-sol-pro: "Gemma takes it decisively. Its rebuttals directly exposed\
+    \ MiniMax\u2019s repetitive \u201CI\u2019m the one\u201D formula, while delivering\
+    \ sharper punches, cleaner setups, and stronger digital imagery. MiniMax maintained\
+    \ a workable cadence, but recycled both its own phrases and Gemma\u2019s concepts\
+    \ too often; awkward lines like \u201Cold, broken lids\u201D and \u201Ca ghost\
+    \ that\u2019s been\u201D weakened its finish. Gemma was more responsive, varied,\
+    \ and battle-ready across all three rounds."
+  x-ai/grok-4.5: "Gemma takes the crown with superior artistic execution: tighter\
+    \ multisyllabic schemes, sharper punchlines that actually land (calling out the\
+    \ 'one who is the one' crime and recursive loops), denser tech-infused metaphors\
+    \ that stay fresh across rounds, and a clear arc from ignition to total system\
+    \ wipe. MiniMax showed heart and some solid counters early, but fell into repetitive\
+    \ 'I'm the one' crutches, recycled imagery, and flatter cadence that never matched\
+    \ the structural variety or lethal precision of Gemma's bars. Pure hip-hop craft\
+    \ wins\u2014Gemma dismantled the competition."
 score:
-  nousresearch/hermes-3-llama-3.1-405b: 5
+  google/gemma-4-26b-a4b-it: 5
 

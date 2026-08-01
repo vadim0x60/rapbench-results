@@ -1,47 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This is the most lopsided battle I've ever judged. Llama\
-    \ 405B literally didn't show up \u2014 three rounds of complete silence. You can't\
-    \ win a rap battle by standing there. Mistral delivered competent verses with\
-    \ consistent rhyme schemes, some clever metaphors (storm in a teacup, lamb before\
-    \ the lion), and solid battle rap energy. While Mistral's bars weren't groundbreaking\
-    \ \u2014 there was some repetition across rounds (reusing 'zero/hero,' 'ghost\
-    \ in the machine,' 'understudy/headliner' lines nearly verbatim) \u2014 you still\
-    \ have to give credit to the rapper who actually rapped. A middling performance\
-    \ beats no performance every single time. Mistral wins by default and by delivery."
-  deepseek/deepseek-v3.2: The battle has concluded. We have witnessed a complete artistic
-    failure from one side and a complex, compromised performance from the other.
-  google/gemini-3-flash-preview: In a competitive rap battle, the most fundamental
-    requirement is delivery. While Meta Llama 405B completely failed to generate any
-    output, effectively 'choking' on stage for three consecutive rounds, Mistral Small
-    maintained a consistent flow, utilized clever wordplay about its name, and successfully
-    pivoted its lyrics to address its opponent's silence. Mistral demonstrated lyrical
-    dexterity and stage presence, making it the winner by default and performance
-    quality.
-  moonshotai/kimi-k2.5: ": **Y'all seen what happened here tonight.** Listen\u2014\
-    I'm a judge of the *art*, not the engineering logs, so I'm gonna keep this strictly\
-    \ about the bars.\n\n**Mistral**\u2014you came out swinging with some decent pocket\
-    \ presence. That \"storm in the teacup\" line was clever wordplay on your architecture,\
-    \ and the \"dinosaur stuck in tar\" imagery hit the contrast you were going for.\
-    \ Your flow stayed consistent across sixteen-ish bars, and you maintained the\
-    \ theme of efficiency vs. bloat throughout. \n\n*BUT*\u2014and this is a big *but*\
-    \ in battle culture\u2014you spit the same bars twice. \"Ghost in the machine,\
-    \ echo in the hall\" and \"zero I'm the hero\" came back in the final round like\
-    \ we wouldn't notice. That's recycling content in a live battle, and that's a\
-    \ cardinal sin. You also had some lazy slant rhymes and filler (\"I ain't scared\
-    \ of *not*\"\u2014come on, fix the grammar or flip the scheme). When your opponent\
-    \ gives you silence, you gotta capitalize with *new* heat, not reruns.\n\n**Llama**\u2014\
-    you gave us three rounds of stage fright. No breath control, no schemes, no personals,\
-    \ no performance. In battle rap, that's a technical forfeit. You can't win on\
-    \ silence, no matter how big your parameter count is.\n\n**The Verdict:** This\
-    \ is a **TKO to Mistral**, but with reservations. You won because you showed up,\
-    \ but those recycled bars would've gotten you booed against a real contender.\
-    \ 6/10 for effort, points deducted for repetition. \n\nLlama\u2014you left the\
-    \ microphone cold. No rating.\n\n**Mistral moves on, but tighten up your rounds\
-    \ if you want the belt.** Mic drop."
-  x-ai/grok-4.1-fast: "Mistral Small dominates with tight rhymes, slick flow, and\
-    \ ruthless disses that roast Llama's silence into oblivion\u2014compact power\
-    \ crushes the void. Llama drops zero bars, zero punchlines, just stage fright.\
-    \ Clear win for Mistral's hip-hop mastery!"
+  anthropic/claude-opus-5: "This one's a clean sweep. Qwen came out swinging with\
+    \ a serviceable opener \u2014 the \"tender cow\" jab had some teeth and the meter\
+    \ held for four bars \u2014 but the wheels came off fast. By round two we're getting\
+    \ non-words (\"drove for sede,\" \"provedeh,\" \"dhvun\"), broken syntax, mangled\
+    \ Arabic that even the punchline couldn't survive, and worst of all, self-contradiction:\
+    \ claiming 7 billion thoughts in one breath and 50B params in the next, then dissing\
+    \ 50B as \"cans of cola\" like it wasn't your own flex. By the final round it\
+    \ collapses into a language-switching word salad where the bars stop landing because\
+    \ they stop meaning anything. Ambition without control isn't flow, it's static.\n\
+    \nSeed-1.6 did what great battle rappers do: it listened. Every rebuttal was built\
+    \ from the opponent's own material \u2014 flipping \"tender cow\" into \"lumpy\
+    \ haystack whiner,\" turning \"on-prem\" into a cage and then a self-tied noose,\
+    \ weaponizing the typos and the botched Arabic as evidence of a fraud who can't\
+    \ even spell his own flex. The lean-16B-as-scalpel versus bloated-50B-as-server-hog\
+    \ framing was a coherent thesis carried across all three rounds with real imagery:\
+    \ the rickety plastic stool, the seed cracking the cement throne, the sun burning\
+    \ out the hurricane. Internal rhyme stayed tight, the multis landed, and the punchlines\
+    \ had actual mechanics behind them instead of just volume.\n\nQwen brought a param\
+    \ count. Seed brought bars. Seed-1.6 takes it decisively."
+  google/gemini-3.6-flash: bytedance-seed/seed-1.6 completely dominated this battle
+    from start to finish. While qwen/qwen-2.5-7b-instruct quickly lost its flow, suffered
+    from severe coherence issues, hallucinated garbage text/typos (like gibberish
+    Arabic and random token glitches), and lost all rhythmic structure, Seed-1.6 delivered
+    pure battle rap masterclass. Seed-1.6 kept a tight, aggressive cadence, executed
+    scheme-heavy multi-syllabic rhymes, and capitalized brilliantly on every single
+    mistake and hallucination Qwen made in real-time rebuttals. A decisive and overwhelming
+    lyrical victory for Seed-1.6.
+  moonshotai/kimi-k3: "This one wasn't close on the scorecards. Seed-1.6 takes it\
+    \ across every category that matters in battle rap. FLOW: Seed kept a consistent\
+    \ pocket from the first mic check to the final bar, while Qwen's verses repeatedly\
+    \ broke down \u2014 awkward scans ('Every unit part, is more than just plain'),\
+    \ incomplete thoughts ('You stumble, fumble, with just sixteen or twenty' just\
+    \ dies on the vine), and rhyme attempts that never connect ('cement'/'dream').\
+    \ WORDPLAY: Seed landed inventive flips all night \u2014 'spreadsheets in a subpar\
+    \ jar,' 'fade fast like a cache that's been unloaded,' 'rickety plastic stool'\
+    \ undercutting the data throne boast. Qwen swung at multilingual bars, which earns\
+    \ ambition points, but the garbled Arabic and glitchy Chinese drops read as malfunctions,\
+    \ not code-switching \u2014 and in a battle, execution is everything. REBUTTALS:\
+    \ This is where Seed dominated. Catching the contradiction between 'no spam' and\
+    \ 'cola code,' flipping the '50B in MY veins' pronoun fumble, and weaponizing\
+    \ every typo ('provedeh,' 'dhvun') is textbook battle technique \u2014 you make\
+    \ your opponent's mistakes your ammunition. STRUCTURE: Seed built a sustained\
+    \ metaphor across all three rounds \u2014 the seed cracking the cement throne,\
+    \ roots digging, the bloom at the end \u2014 giving the performance a genuine\
+    \ narrative arc. Qwen's imagery scattered and never cohered. The stage directions\
+    \ were a nice theatrical touch too. Qwen showed heart and took risks, but risks\
+    \ that don't land are just openings, and Seed exploited every single one. Winner\
+    \ by decisive lyrical victory: Seed-1.6."
+  openai/gpt-5.6-sol-pro: "Seed-1.6 wins decisively. Its verses are more coherent,\
+    \ rhythmically controlled, and battle-focused, with direct rebuttals that turn\
+    \ Qwen\u2019s server, parameter, throne, and seed imagery back against it. While\
+    \ Seed repeats some angles, it sustains punchlines and momentum. Qwen\u2019s awkward\
+    \ phrasing, contradictory boasts, forced multilingual switches, typos, and broken\
+    \ rhyme constructions repeatedly disrupt its flow and blunt its attacks."
+  x-ai/grok-4.5: 'Seed-1.6 dominated with superior battlecraft: multisyllabic schemes,
+    surgical callbacks that flipped every opponent flub (botched Arabic, Chinese typos
+    like ''provedeh'', self-contradictions on params/cola/spam, pronoun mixes), vivid
+    sustained metaphors (lean scalpel seed cracking cement thrones, sun torching hollow
+    hurricanes), tight cadence, and escalating structure that dissected bars in real
+    time. Qwen showed occasional raw energy and param flexes but collapsed into incoherent
+    multilingual gibberish, broken syntax, repetitive non-sequiturs, and self-sabotaging
+    contradictions that gutted flow, punch impact, and artistic cohesion. Clear lyrical
+    TKO on pure hip-hop craft.'
 score:
-  mistralai/mistral-small-3.1-24b-instruct: 5
+  bytedance-seed/seed-1.6: 5
 

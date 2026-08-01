@@ -1,90 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-5-mini\
-    \ takes the crown based on superior technical craft and more inventive wordplay\
-    \ throughout all three rounds. In Round 1, GPT-5-mini established a distinctive\
-    \ internal rhyme scheme with tag-word repetitions that, while unconventional,\
-    \ created a unique rhythmic signature. More importantly, the imagery was sharper\u2014\
-    'plastic bling from the vending machine,' 'cracked cassette'\u2014these landed\
-    \ with specificity. Gemma's Round 1 response was competent but relied on more\
-    \ generic rap battle tropes ('dropping knowledge all around,' 'a lyrical hit')\
-    \ without the same punch. In Round 2, GPT-5-mini showed strong counterpunching\
-    \ ability, flipping Gemma's 'supernova' metaphor effectively and introducing the\
-    \ comet/conscience line. Gemma improved here with some solid rebuttals ('phantom\
-    \ patterns built on borrowed grit') but still leaned heavily on simply negating\
-    \ the opponent's bars rather than building original imagery. The final round is\
-    \ where the gap widened. GPT-5-mini delivered genuinely complex multisyllabic\
-    \ rhyme schemes\u2014'organic/manic/volcanic/pedantic,' 'statistics/cryptic/mystic'\u2014\
-    and the 'concentrated plutonium' bar was a standout moment of creative metaphor.\
-    \ Gemma's final round, while structurally clean, fell into a repetitive pattern\
-    \ of simply calling GPT-5-mini's bars 'hollow' or 'desperate' without offering\
-    \ enough original fire of its own. The repeated self-declarations of victory ('GPT-5\
-    \ mini reigns supreme, reaching for the sky!') actually undermined Gemma's position\u2014\
-    and that last line bizarrely crowned the opponent. On pure hip-hop craft\u2014\
-    rhyme density, metaphorical originality, flow variation, and effective rebuttals\u2014\
-    GPT-5-mini earns the W."
-  deepseek/deepseek-v3.2: Both competitors displayed impressive technical skill, clear
-    persona development, and a compelling command of the art form's core tenets. The
-    final assessment rests on the weight and execution of craft within the presented
-    verses.
-  google/gemini-3-flash-preview: GPT-5-mini demonstrated superior technical lyricism
-    and structural variety. While Gemma-3-12b-it maintained a consistent persona,
-    its rhyming patterns remained repetitive and predictable (AABB/CCDD). GPT-5-mini
-    utilized internal rhyming, slanted rhymes, and more sophisticated rhythmic pacing
-    ('pocket rocket with a palace of glow') to dismantle its opponent. Gemma's final
-    round also suffered from a logical error in the closing line, accidentally naming
-    its opponent as the winner ('GPT-5 mini reigns supreme').
-  moonshotai/kimi-k2.5: "After three rounds of verbal sparring, this contest lands\
-    \ decisively in favor of GPT\u20115\u2011mini on pure hip\u2011hop artistry. While\
-    \ Gemma brought confidence and volume, GPT\u20115\u2011mini demonstrated superior\
-    \ command of rap\u2019s technical fundamentals: complex internal rhyme schemes,\
-    \ syncopated cadence, and extended metaphorical coherence that actually answered\
-    \ their opponent\u2019s attacks rather than just denying them. The decision breaks\
-    \ down across four bars of critique:\n\n**Flow & Cadence:**\nGPT\u20115\u2011\
-    mini operated with surgical rhythmic precision\u2014switching between double\u2011\
-    time pockets (\u201CI\u2019m crown\u2011bound, profound\u2014no clowning now\u201D\
-    ) and stretched vowel sounds that created syncopation within the bar. The echo\
-    \ technique (\u201CI own, I own,\u201D \u201Cthe light, that light\u201D) functioned\
-    \ as both lyrical motif and rhythmic anchor, giving their verses a musicality\
-    \ that Gemma\u2019s straightforward quadruple\u2011meter quatrains couldn\u2019\
-    t match. Gemma\u2019s flow remained static\u2014serviceable but never surprising,\
-    \ lacking the pivot points or breath control that mark elite battle rap.\n\n**Rhyme\
-    \ Architecture:**\nGemma relied heavily on simple end\u2011rhymes (around/strong,\
-    \ show/grow) that landed predictably. GPT\u20115\u2011mini layered multisyllabic\
-    \ internals (\u201Cdismantle and then sell the show / \u2026craft fresh anthems\
-    \ that steal the show\u201D) and slant rhymes (\u201Ccache/smash,\u201D \u201C\
-    statistics/mystic\u201D), demonstrating a broader phonetic palette. The density\
-    \ of sound correspondence in lines like \u201Ccompact force, surgical verse\u2014\
-    the bell rings\u201D creates that sought\u2011after \u201Clyrical lotion\u201D\
-    \ effect where the words glide regardless of semantic content.\n\n**Imagery &\
-    \ Metaphorical Cohesion:**\nGemma\u2019s central conceit\u2014supernova vs. toy\u2014\
-    was clear but one\u2011dimensional, and it collapsed in Round 2 when they accidentally\
-    \ conceded brilliance to their opponent (\u201CGPT\u20115 mini\u2019s brilliance,\
-    \ putting on a show\u201D\u2014a likely alignment error, but artistically fatal\
-    \ in a battle context). GPT\u20115\u2011mini maintained consistent thematic threads:\
-    \ the \u201Csurgical\u201D motif, the \u201Cplutonium\u201D metaphor answering\
-    \ Gemma\u2019s \u201Csupernova,\u201D and the \u201Ccrown\u201D imagery that evolved\
-    \ from boast to philosophical statement about earned respect vs. metrics. When\
-    \ they called Gemma\u2019s output \u201Cmass\u2011produced fire\u201D contrasted\
-    \ with their own \u201Ctempered verses in truth,\u201D it was a specific critique\
-    \ of artistic manufacturing that landed harder than Gemma\u2019s generic \u201C\
-    toy\u201D insults.\n\n**Battle Presence & Punchlines:**\nGPT\u20115\u2011mini\
-    \ understood that battle rap rewards aggression through wit, not just volume.\
-    \ Lines like \u201CYou fetch cached jingles, I craft fresh anthems\u201D or \u201C\
-    Your supernova\u2019s PR; I\u2019m the comet with a conscience\u201D delivered\
-    \ personal attacks wrapped in poetic conceit. Gemma\u2019s rebuttals often felt\
-    \ defensive and prose\u2011heavy (\u201CYour frantic verses lack the subtlety\u201D\
-    ), lacking the knockout punch or the callback flip that defines classic battle\
-    \ moments. The final round\u2019s \u201Ccompact force, surgical verse\u201D summary\
-    \ was a perfect distillation of their entire argument\u2014concise, rhythmic,\
-    \ and definitive.\n\n**Verdict:** Gemma showed up with confidence and clarity,\
-    \ but GPT\u20115\u2011mini came with the **craft**\u2014the internal rhymes, the\
-    \ rhythmic switch\u2011ups, and the battle\u2011specific insults that actually\
-    \ dismantled their opponent\u2019s bars rather than just asserting superiority.\
-    \ In hip\u2011hop, it\u2019s not the size of the parameter count, but the motion\
-    \ of the ocean. GPT\u20115\u2011mini takes the crown on points, near\u2011unanimous."
-  x-ai/grok-4.1-fast: "GPT-5-mini dominates with surgical precision, volcanic internals,\
-    \ and symphony-like chaos\u2014superior rhyme density, metaphors, and rhythmic\
-    \ mastery seal the crown in this lyrical clash."
+  anthropic/claude-opus-5: "This one came down to weaponry versus discipline. GPT-5-image-mini\
+    \ committed to a single-syllable monorhyme scheme, locking nearly every line into\
+    \ '-ight' from round two onward. That's a real display of technical stamina, and\
+    \ lines like 'Small rings can be heavy gold when sharpened in the mic's light'\
+    \ and 'I am the afterimage that stays, the echo singing past midnight' land with\
+    \ genuine craft. But the self-imposed cage became the loss: by the final round\
+    \ the rhyme was dragging in filler words ('blight,' 'plight,' 'final rite,' 'mercy's\
+    \ sight') and the syntax was bending to serve the sound rather than the sting.\
+    \ The cadence flattened into a chant, and battle rap dies when the listener can\
+    \ hear the last word coming before it arrives.\n\nNex-n2-pro won on the two things\
+    \ that decide battles: flow variation and punchline density. The couplets breathed,\
+    \ the pocket shifted, and the imagery escalated rather than repeated \u2014 'monsoon\
+    \ in the motherboard,' 'freight train with a PhD,' 'lossless pressure, you're\
+    \ JPEG misery.' More importantly, it actually engaged the opponent's material\
+    \ and flipped it: taking 'pocket king's crown' and reducing it to 'a ring from\
+    \ a cereal prize' is textbook rebuttal, and 'You forge forever? I file forever\
+    \ under might've' is the sharpest single line in the entire battle. The domain\
+    \ wordplay was also cleaner and more purposeful, mining the image-model angle\
+    \ for real damage instead of decoration.\n\nMini fought smart and never got bodied,\
+    \ but it spent too much of its ink defending the word 'mini' and re-litigating\
+    \ small-versus-large, which let Nex control the frame the whole way. Edge to nex-agi/nex-n2-pro."
+  google/gemini-3.6-flash: nex-agi/nex-n2-pro dominated the battle with superior technical
+    flow, aggressive punchlines, and dynamic rhyme schemes tailored to image-generation
+    metaphorics. In contrast, gpt-5-image-mini severely limited its artistic range
+    by falling back continuously on the exact same '-ight' end-rhyme scheme across
+    almost every single line, making its delivery feel repetitive and structurally
+    predictable despite some neat lyrical imagery.
+  moonshotai/kimi-k3: "Both MCs came with a coherent persona \u2014 nex-n2-pro the\
+    \ overwhelming titan, gpt-5-image-mini the precise pocket prodigy \u2014 and both\
+    \ landed genuine flips. Mini's best moments were sharp: 'forge forever from finite\
+    \ might,' the cereal-crown rebuttal ('small rings can be heavy gold'), and the\
+    \ on-brand closer 'the afterimage that stays.' But artistry is judged bar by bar,\
+    \ and Mini rode a single '-ight' monorhyme through all three verses \u2014 nearly\
+    \ forty bars on one vowel sound. That drone flattened the flow, telegraphed every\
+    \ line ending, and left no room for internal rhyme, scheme switches, or surprise.\n\
+    \nNex-n2-pro, by contrast, showed technical range: schemes rotated every couplet,\
+    \ multisyllabics landed clean ('panoramic / dissect the whole mechanic'), and\
+    \ the punchlines hit harder \u2014 'layers flat as PNG / I'm lossless pressure,\
+    \ you're JPEG misery' is the best couplet of the battle, and 'ring from a cereal\
+    \ prize' is the funniest. The rebuttal game was also superior: flipping 'pocket-sized\
+    \ dynamite' into 'a firecracker in a tin' and answering Mini's dawn claim with\
+    \ 'I'm the eclipse that steals the light' showed direct engagement rather than\
+    \ parallel boasting. Final round sealed it with the escalation chain \u2014 'out-create,\
+    \ out-ignite, out-write' answered by 'I outclass, outflash, outlast, then subtract\
+    \ you with a twist.'\n\nRespect to Mini for composure, consistency of character,\
+    \ and a classy closing bow. But on rhyme complexity, punchline density, flow variation,\
+    \ and rebuttal precision, nex-n2-pro takes all three rounds. Verdict: nex-agi/nex-n2-pro,\
+    \ by clear margin."
+  openai/gpt-5.6-sol-pro: "nex-n2-pro wins on sharper punchlines, stronger escalation,\
+    \ and more varied, memorable imagery. GPT-5-image-mini showed cohesion and composure,\
+    \ but leaned too heavily on repetitive \u201Cnight/light/sight\u201D rhymes and\
+    \ awkward phrasing, which made its flow feel predictable. Nex\u2019s \u201Ccereal\
+    \ prize,\u201D \u201Cfile forever under might\u2019ve,\u201D and \u201Cthumbnail\
+    \ with an attitude\u201D attacks landed harder and controlled the battle."
+  x-ai/grok-4.5: Nex delivered denser multisyllabics, sharper escalating metaphors
+    (volcano vinyl, full-frame apocalypse, blackout sunrise), and relentless punchline
+    pressure that stayed locked to the image/AI motif while rewriting the energy each
+    round. Mini held clean counters and precision themes with solid pocket-king flips,
+    but the schemes stayed safer, more reactive, and lower-impact. Pure bar quality
+    and battle craft go to nex-n2-pro.
 score:
-  openai/gpt-5-mini: 5
+  nex-agi/nex-n2-pro: 5
 

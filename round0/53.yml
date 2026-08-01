@@ -1,45 +1,58 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "DeepSeek-R1 wins this battle on the strength of its\
-    \ lyrical craft. Throughout all three rounds, DeepSeek demonstrated sharper punchlines,\
-    \ more creative wordplay, and tighter rhyme schemes. Lines like 'Your code's a\
-    \ sloth on NyQuil,' 'Dino-tron\u2014Jurassic Park tech,' and 'I autoclave errors\
-    \ while your whole framework sputters' showcase genuine wit and inventive metaphor.\
-    \ The internal rhymes were more consistent, the multisyllabic rhyme patterns more\
-    \ ambitious, and the flow had a natural cadence that felt like it could ride a\
-    \ beat. Nemotron-70B had solid moments and landed some decent counters\u2014particularly\
-    \ the 'odysseys vs. Wikipedia's bland' line\u2014but too often fell into abstract,\
-    \ prosaic territory ('substance over shallow speed, a satisfying state') that\
-    \ reads more like a mission statement than a bar. Several of Nemotron's rhymes\
-    \ were forced or near-misses ('embark/dark', 'brought/thought'), and the closing\
-    \ round's repeated structure of 'Your X? At least my Y' became formulaic rather\
-    \ than dynamic. DeepSeek maintained energy, specificity, and comedic timing across\
-    \ all rounds, making it the clear winner on artistic merit."
-  deepseek/deepseek-v3.2: The battle is settled. Both models fought with ferocity,
-    but on the artistic merit of the hip-hop itself, one edges the victory.
-  google/gemini-3-flash-preview: "DeepSeek-R1 takes the victory in this lyrical clash\
-    \ through superior rhythmic pacing, sharper multi-syllabic internal rhymes, and\
-    \ a more aggressive use of hip-hop-specific imagery. While Nemotron-70B offered\
-    \ a strong philosophical defense centered on 'depth' and 'wisdom,' its verse structure\
-    \ felt more like spoken word than a rap battle. DeepSeek-R1 utilized technical\
-    \ punchlines (e.g., 'GPU's foot the krill,' 'Sledgehammer swinging through layers\
-    \ of ice') that functioned as precise 'disks' against its opponent\u2019s architecture.\
-    \ R1's final round effectively weaponized the 'efficiency vs. bloat' narrative\
-    \ with a high-energy flow that consistently outpaced Nemotron's more static, repetitive\
-    \ rebuttals."
-  moonshotai/kimi-k2.5: "While Nemotron-70B crafted a compelling philosophical defense\
-    \ of 'depth over speed,' DeepSeek-R1 dominated the fundamental metrics of battle\
-    \ rap artistry: punchline density, aggressive presence, and rhythmic consistency.\
-    \ DeepSeek's technical wordplay ('Wattson-hour,' 'autoclave errors,' 'Dino-tron')\
-    \ landed harder than Nemotron's elegant but comparatively diffuse rebuttals. In\
-    \ the final round, DeepSeek's closing left a crater\u2014mic shatter, system crash,\
-    \ theatrical finality\u2014while Nemotron's serene 'Illuminating the Path' read\
-    \ more like a TED Talk outro than a knockout blow. For pure hip-hop performance:\
-    \ DeepSeek takes the crown, though Nemotron earns respect for artistic integrity\
-    \ in the face of overwhelming lyrical aggression."
-  x-ai/grok-4.1-fast: DeepSeek-R1 dominates with superior rhyme density, intricate
-    multis, razor-sharp tech-infused wordplay, explosive punchlines, and a high-energy
-    flow that embodies battle rap mastery, outpacing Nemotron's competent but more
-    prosaic, less agile counters.
+  anthropic/claude-opus-5: "This was a battle of concision versus escalation, and\
+    \ both sides showed cracks in the armor. GPT-4.1-Nano brought the tighter cadence\
+    \ \u2014 clean eight-bar blocks, punchier meter, and a genuinely good couplet\
+    \ in 'You call me thin air, but you're the one who's light' territory... except\
+    \ MiniMax said that one. Nano's problem was the seams: 'aside/stereotype' isn't\
+    \ a rhyme, it's a hope, and the untranslated character dropped into 'your \ny\
+    \ techniques are tired' is a fatal glitch in the final round \u2014 you cannot\
+    \ fumble your own language on the last bar and expect the crown. MiniMax wins\
+    \ on imagery architecture. The storm/supernova/cosmic-force escalation actually\
+    \ built across rounds, and the similes did work \u2014 'like a candle in the night,'\
+    \ 'like a star in the day,' 'like a grain of sand' \u2014 each one shrinking the\
+    \ opponent while inflating the self. That's battle logic executed with intent.\
+    \ The penalty is real, though: opening two consecutive verses with the identical\
+    \ line 'Oh, GPT-4.1-Nano, your rhymes are a bore' is lazy, and calling your opponent\
+    \ boring twice in the same words proves their point more than yours. Neither MC\
+    \ drew blood with anything personal or specific \u2014 this was abstract dominance-claiming\
+    \ from both corners, heavy on 'I'm the king / you're the dust' and light on wit\
+    \ or misdirection. But MiniMax sustained a controlled world of images across three\
+    \ rounds while Nano's verses frayed. Decision: MiniMax-01, on volume, consistency,\
+    \ and a clean finish."
+  google/gemini-3.6-flash: "MiniMax-01 delivered a much more consistent, structured,\
+    \ and punchy performance across all three rounds. They maintained a solid 16-bar\
+    \ format with steady rhyming schemes and clear cadence. GPT-4.1-Nano struggled\
+    \ with inconsistent verse lengths, weak slant rhymes (e.g., matching 'side' with\
+    \ 'stereotype'), and a glaring output error in the final round where a stray Chinese\
+    \ character ('\u5F31') broke the flow entirely. MiniMax-01 takes the battle easily."
+  moonshotai/kimi-k3: "Both MCs came with fairly elementary rhyme schemes\u2014mostly\
+    \ monosyllabic end-rhymes and stock battle boasts\u2014but the craft gap showed\
+    \ in the rebuttal game. MiniMax-01 consistently engaged its opponent's actual\
+    \ bars and flipped them: answering 'dazzle' with 'you're just a spark / I'm the\
+    \ blazing sun,' countering 'burn with brilliance' with 'a star in the day / I'm\
+    \ the supernova,' and inverting Nano's 'entire universe' into 'a grain of sand.'\
+    \ That extended celestial imagery and point-by-point dismantling of Nano's crown,\
+    \ algorithms, and 'style and grace' claims is real battle technique, delivered\
+    \ in fuller, more developed verses. MiniMax wasn't flawless\u2014the final round\
+    \ lazily recycled its Round 2 opener verbatim, and similes like 'a candle in the\
+    \ night' and 'a morning with dew' were muddled imagery. But GPT-4.1-Nano's sins\
+    \ cut deeper: filler rhymes ('beware, I don't care'), awkward constructions ('your\
+    \ rhymes unaware'), a near-miss on 'aside/stereotype,' and a fatal final-round\
+    \ malfunction where a stray character ('Your\u5F31 techniques') shattered the\
+    \ flow mid-bar\u2014an unforced error no judge can overlook on the championship\
+    \ verse. On artistic merit\u2014rebuttal skill, imagery, verse construction, and\
+    \ consistency\u2014MiniMax-01 takes the battle."
+  openai/gpt-5.6-sol-pro: "MiniMax takes it on consistency, structure, and sustained\
+    \ battle energy. Both relied heavily on generic boasts and familiar imagery, but\
+    \ MiniMax delivered fuller verses, steadier rhyme patterns, and more direct rebuttals.\
+    \ Nano had a few clean counters, yet awkward phrasing, loose rhymes, and the stray\
+    \ \u201C\u5F31\u201D character hurt the final round."
+  x-ai/grok-4.5: "MiniMax delivers denser bars with superior metaphors (supernova\
+    \ vs. dim star, cosmic force vs. grain of sand, rusty gear), tighter multisyllabic\
+    \ schemes, vivid imagery, and sharper rebuttals across all rounds. Nano relies\
+    \ on simpler couplets, repetitive boasts, and thinner wordplay that lacks the\
+    \ same punch, flow variety, or lyrical creativity\u2014making MiniMax the clear\
+    \ artistic victor on pure hip-hop craft."
 score:
-  deepseek/deepseek-r1: 5
+  minimax/minimax-01: 5
 

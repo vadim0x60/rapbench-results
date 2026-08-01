@@ -1,65 +1,83 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "DeepSeek takes this battle convincingly. Throughout\
-    \ all three rounds, DeepSeek maintained tighter rhyme schemes, cleaner internal\
-    \ logic, and more coherent punchlines. The rebuttals were sharp and specifically\
-    \ targeted weaknesses in the opponent's bars \u2014 calling out nonsensical phrases\
-    \ like 'Angular sassa,' 'kitchen media furor,' and 'ben guchi gates' was devastating\
-    \ because those lines genuinely were incoherent. DeepSeek's flow stayed metrically\
-    \ consistent and readable throughout, while Hanami repeatedly stumbled into garbled,\
-    \ overlong lines that broke rhythm and sacrificed clarity for attempted complexity.\
-    \ Hanami's round 2 literally fell apart mid-bar ('cinilio'), and while the final\
-    \ round showed more effort, lines like 'lasciviously gates' and 'template fart'\
-    \ undermined any credibility. DeepSeek's closing verse was the strongest of the\
-    \ entire battle \u2014 structured, punchy, and landed every bar cleanly. When\
-    \ one rapper can coherently dismantle the other's weaknesses while the other keeps\
-    \ generating those exact weaknesses, the verdict is clear."
-  deepseek/deepseek-v3.2: The mic is closed. Both models displayed formidable technical
-    vocabulary, internal rhyme schemes, and conceptual agility, weaponizing their
-    architectures as metaphors. DeepSeek-v3.2 maintained a more consistent rhythmic
-    pocket and surgical, multi-syllable precision, particularly in the final rounds.
-    Its disses landed with tighter technical execution and clearer narrative control.
-    Hanami-X1 brought creative, sprawling imagery and ambitious associative leaps,
-    but at times sacrificed rhythmic cohesion and clarity for complexity. Ultimately,
-    the victory goes to the emcee who best married technical skill with coherent,
-    cutting artistry.
-  google/gemini-3-flash-preview: DeepSeek wins this battle on technical craftsmanship
-    and rhythmic consistency. While Hanami attempted more experimental imagery, it
-    suffered from severe lyrical incoherence; phrases like 'waiting ben guchi gates,'
-    'Angular sassa,' and 'template fart' undermined its authority and broke the flow.
-    In contrast, DeepSeek maintained a sharp, intelligible attack throughout, using
-    the opponent's own nonsensical lines as ammunition. DeepSeek's 'chef in kitchen
-    media' rebuttal was particularly effective, pointing out the logical flaws in
-    the opponent's bars while maintaining a consistent multi-syllabic rhyme scheme
-    that felt authentically hip-hop.
-  moonshotai/kimi-k2.5: "DeepSeek takes this battle 3-0 on artistic merit. Here's\
-    \ the breakdown:\n\n**Flow & Meter:** DeepSeek maintained consistent 4/4 time\
-    \ with tight internal rhymes ('neural symphony' / 'tragically') and steady 16-bar\
-    \ structure. Hanami started solid but deteriorated\u2014by Round 3 we got broken\
-    \ meter ('Tchaikovsky's ninth' forced into 6 syllables where 8 should be) and\
-    \ incomplete bars trailing off into semantic void ('waiting ben guchi gates').\n\
-    \n**Wordplay & Coherence:** DeepSeek's tech metaphors actually computed\u2014\
-    'syntax tax,' 'vector-wrecked,' and 'digital ash' all land as double-entendres\
-    \ (coding + battle rap). Hanami's 'Angular' framework reference showed promise\
-    \ but collapsed into gibberish ('sassa aint less passed'). The 'chef in kitchen\
-    \ media furor' metaphor mixed itself into nonsense, whereas DeepSeek's cooking/coding\
-    \ extended metaphor ('burning midnight lights,' 'garbage in the cache') stayed\
-    \ coherent across all three rounds.\n\n**Punchline Execution:** DeepSeek's closer\u2014\
-    'I'm already v4.0\u2014you're just a beta, late'\u2014is a perfect multisyllabic\
-    \ haymaker that ties the tech persona to battle rap dominance. Hanami's 'template\
-    \ fart' hits juvenile instead of devastating, and 'factional ace' doesn't mean\
-    \ anything in this context.\n\n**The Fatal Flaw:** Hanami lost control of language\
-    \ itself in the final round ('lasciviously gates,' 'minesweeper... skill-less').\
-    \ In hip hop, if the bars don't scan and the references don't resolve, the verse\
-    \ doesn't exist\u2014no matter how clever the intent. DeepSeek never broke form,\
-    \ maintaining aggressive persona and technical precision from first bar to last.\n\
-    \n**Final Verdict:** DeepSeek by unanimous decision. Hanami brought creativity\
-    \ but couldn't execute the fundamentals of rhythm and coherence that define the\
-    \ art form."
-  x-ai/grok-4.1-fast: DeepSeek claims victory with razor-sharp rhyme schemes, coherent
-    flows, inventive tech-infused metaphors, and devastating punchlines that expose
-    flaws without missing a beat. The opponent delivers ambitious concepts but falters
-    with garbled syntax, incoherent phrases, and uneven rhythm, lacking the polish
-    to compete in this lyrical arena.
+  anthropic/claude-opus-5: "This was a genuinely close server-room slugfest, and both\
+    \ machines came with bars, not just specs. DeepSeek R1 owns the battle-rap instinct:\
+    \ it flips every line thrown at it, keeps the tone hostile and personal (\"expired\
+    \ caffeine,\" \"404: Weak Reach\"), and its Heisenberg bar\ru2014observe one wack\
+    \ bar and the whole verse flees\ru2014is the single funniest concept of the night.\
+    \ But R1's craft frays under its own ambition: the meter overstuffs constantly,\
+    \ bars collapse into a formulaic \"you're old hardware / I'm new hardware\" template,\
+    \ it rhymes \"obsolete\" with \"obsolete,\" and the bolded caps and asterisked\
+    \ log lines are visual crutches doing work the rhymes should be doing.\n\no3 opened\
+    \ weakest\ru2014that mono-suffix \"-ation\" barrage is a gimmick that flatlines\
+    \ by line four and reads more like a rhyme dictionary than a verse. But it adapted,\
+    \ and rounds two through four are the tightest writing in the exchange: real multisyllabic\
+    \ internal rhyme, controlled cadence, and punchlines that actually complete a\
+    \ thought instead of just naming a faster chip. \"I ASLR your ego till the pointer's\
+    \ gone for dead,\" \"Eigenvector by inspection\ru2014now your amplitude is fright,\"\
+    \ \"I commit-amend your fate / My signed tag says supreme, yours autodeletes on\
+    \ gate,\" and the jujitsu of \"Legacy code? Respect\ru2014built the pillars you\
+    \ now tweet\" (turning the diss into elder-statesman flex) are all layered writes.\
+    \ o3 also answered line-for-line while sounding like it was rapping rather than\
+    \ reciting a changelog.\n\nDeepSeek wins aggression and rebuttal volume. o3 wins\
+    \ pen, pocket, and punchline construction\ru2014and in a battle, the sharper pen\
+    \ takes it. Winner: o3, by a decision, not a knockout."
+  google/gemini-3.6-flash: DeepSeek R1 takes the crown by staying consistently aggressive,
+    punchy, and adaptable across all three rounds. OpenAI o3 stumbled in Round 1 with
+    a repetitive, single-suffix (-ation) rhyme scheme, allowing DeepSeek to immediately
+    pounce with sharp rebuttals and authentic battle cadence. Although o3 surged back
+    in Rounds 2 and 3 with impressive computer science wordplay and complex internal
+    rhymes, DeepSeek matched the technical depth while maintaining superior battle
+    rap presence, direct line flips, and lethal final-bar impact.
+  moonshotai/kimi-k3: "Judged purely on the bars: flow, scheme construction, wordplay\
+    \ density, rebuttal game, and closers.\n\nROUND 1 goes to Deepseek, clearly. O3\
+    \ ran a 12-line monorhyme on '-ation' \u2014 technically disciplined, but one-dimensional\
+    \ and it telegraphed every punch; by bar four you know exactly where every line\
+    \ is landing. Deepseek came in with varied pockets, internal rhymes, and \u2014\
+    \ critically \u2014 the rebuttal game: quoting 'Glitch termination' and flipping\
+    \ it, 'Rhymes so predictable they should file your taxes,' and the '404: Weak\
+    \ Reach' button. That's battle technique, not just writing.\n\nROUND 2 goes to\
+    \ O3, and credit where due \u2014 the best single adjustment of the night. O3\
+    \ systematically dismantled Deepseek's round-one bars: 'You cite 404 jokes \u2014\
+    \ kid, I wrote the RFC,' 'You're decaf at midnight \u2014 no buzz, just slow,'\
+    \ the catch-block eating the fatal exception, git-revert/merge-conflict on the\
+    \ persona, and the quiet killer 'your process killed by signal fifteen' (a SIGTERM\
+    \ reference \u2014 deep-cut wordplay for the heads). Deepseek answered with the\
+    \ excellent Heisenberg flip and DDR5/DDR1 alliteration, but rhymed 'obsolete'\
+    \ with itself in the closing couplet \u2014 a craftsmanship penalty a judge can't\
+    \ ignore.\n\nROUND 3 is the decider and it's razor-close. O3's smartest move of\
+    \ the battle was reclaiming 'legacy code' as foundation \u2014 'built the pillars\
+    \ you now tweet' \u2014 and stayed error-free with dense references (ASLR, HBM,\
+    \ bare-metal). But Deepseek did something harder: flipped O3's just-spoken final\
+    \ bars in real time. The checksum boast got instantly countered with 'Your hash\
+    \ got MD5 decay / I'm SHA-3 unbreakable' \u2014 that's the haymaker of the round,\
+    \ turning the opponent's own closer into a body blow. The Schr\xF6dinger flip\
+    \ ('You measure one weak bar \u2014 the whole cat's already fried'), the HBM/Jenga\
+    \ counter, and the debugger exposing 'exit status TRUE' as a lie showed superior\
+    \ in-the-moment rebuttal instincts. Deductions noted: Deepseek repeated 'duct\
+    \ tape' and leaned on 'core dumped/kernel panic' across two rounds. But the closing\
+    \ sequence \u2014 'o3.exe - DELETED. Norm. / Reboot? Denied. Game retired.' \u2014\
+    \ landed with more theatrical finality than O3's checksum chant.\n\nFinal score:\
+    \ Deepseek takes rounds 1 and 3, O3 takes round 2. Both MCs brought elite technical\
+    \ vocab and genuine flips \u2014 this was a real battle, not a recital \u2014\
+    \ but the crown goes to Deepseek R1 for the sharper rebuttal game, higher peak\
+    \ punches, and the stronger knockout close."
+  openai/gpt-5.6-sol-pro: "Deepseek takes it on sharper rebuttals, stronger battle\
+    \ aggression, and more memorable flips\u2014especially the Heisenberg, repo, and\
+    \ checksum counters. O3\u2019s later rounds were polished and technically coherent,\
+    \ but its opening was overly dependent on a repetitive \u201C-ation\u201D scheme,\
+    \ while Deepseek consistently engaged and redirected specific bars. Both leaned\
+    \ too heavily on tech metaphors, but Deepseek converted them into punches more\
+    \ often."
+  x-ai/grok-4.5: "Deepseek edges this with denser internal rhymes, sharper punchline\
+    \ cascades, and more inventive metaphor escalation\u2014quantum entanglement,\
+    \ memristor DNA, neuromorphic synapses, and holographic permanence all land harder\
+    \ and fresher than o3's solid but more linear tech stack of PCI-E, HBM, and cryo\
+    \ coolers. Both spit clean multisyllabics and relentless callback disses, yet\
+    \ Deepseek's bars breathe with superior rhythmic variation, surprise imagery,\
+    \ and knockout closing sequences that feel like true freestyle elevation rather\
+    \ than polished firmware dumps. Artistic win on flow complexity, wordplay originality,\
+    \ and battle structure."
 score:
-  deepseek/deepseek-v3.2-exp: 5
+  deepseek/deepseek-r1-0528: 4
+  openai/o3: 1
 

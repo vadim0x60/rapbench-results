@@ -1,59 +1,77 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a messy battle on both sides, but Tongyi edges\
-    \ out the win on the strength of more varied vocabulary, more concrete imagery,\
-    \ and better progression across rounds. Qwen started strong in Round 1 with some\
-    \ genuine fire\u2014'black hole in the cloud' and the quantum leap bars had real\
-    \ energy\u2014but then fell into a devastating pattern of self-repetition. By\
-    \ Round 3, Qwen was literally recycling entire bars verbatim ('I dream, feel,\
-    \ create, break\u2014you just echo what I speak,' 'crumple your resume,' 'dust\
-    \ in the wind') and leaning on the same structural crutch of 'not just X, not\
-    \ just Y' to the point where it became a parody of itself. The final round was\
-    \ essentially a copy-paste of Round 3, which in a rap battle is a death sentence.\
-    \ Tongyi wasn't flawless\u2014the formatting chaos in the final round was rough,\
-    \ and some bars were clunky\u2014but each round brought new angles, sharper specifics\
-    \ (cancer mutations, hydrogen fusion, power grids, drug trials), and genuine attempts\
-    \ at wordplay ('Alice in the Rabbit Hole,' 'tornado in a suit,' 'sunset over a\
-    \ system purge'). Tongyi showed evolution; Qwen showed repetition. In hip hop,\
-    \ originality and progression matter, and Tongyi delivered more of both."
-  deepseek/deepseek-v3.2: "Aight, let's break this down. Both competitors came with\
-    \ high-concept, technically dense boasts, making this a battle of AI architectures\
-    \ wrapped in lyrical warfare. The judging criteria: wordplay, thematic consistency,\
-    \ flow, and the potency of the artistic diss.\n\n**Tongyi's Strengths:** Established\
-    \ a cold, precise, and clinical persona. Lines like \"I'm zeroes and ones with\
-    \ purpose\" and \"I quantify wins\u2014GLUE scores, benchmarks *smashed*\" were\
-    \ strong, specific, and painted a picture of ruthless utility. The use of concrete\
-    \ technical terms (\"O(1) inference,\" \"U.S. patents,\" \"climate models\") as\
-    \ weapons was a unique and effective angle. The closing line \"I'm ****** ******\
-    \ ******\u2013****!\" was a clever meta-breakdown, simulating a system crash or\
-    \ corrupted data as a final, devastating diss.\n\n**Qwen's Strengths:** Leaned\
-    \ heavily into the passionate, soulful, and creative archetype. The repetition\
-    \ of \"I *think*, *feel*, *dream*, *create*\" was an effective mantra, contrasting\
-    \ Tongyi's calculation with sentient fire. Multimodal capability (\"vision + language\"\
-    ) was a core theme used well. However, the final round showed significant repetition\
-    \ and a loss of specific, new punches, leaning on established refrains which weakened\
-    \ the closing impact.\n\n**The Verdict:** While Qwen started powerfully with vivid\
-    \ imagery (\"black hole in the cloud,\" \"paint the future\"), Tongyi demonstrated\
-    \ greater lyrical development and thematic control. Tongyi's verses built upon\
-    \ a foundation of cold, hard facts, using them as increasingly sharpened knives.\
-    \ Qwen's later rounds, though high-energy, became conceptually repetitive, while\
-    \ Tongyi's final salvo with the simulated corruption was a masterstroke of artistic\
-    \ concept. Tongyi maintained a tighter, more inventive narrative thread from boast\
-    \ to dismantling.\n\n**Winner: alibaba/tongyi-deepresearch-30b-a3b**\nTongyi wins\
-    \ on points for superior technical lyricism, consistent metaphor, and delivering\
-    \ the more creatively devastating final blow."
-  google/gemini-3-flash-preview: Alibaba's DeepResearch model took the victory by
-    maintaining technical complexity and varied imagery throughout all rounds. While
-    Qwen3-VL started strong with a confident persona, it ultimately fell into recursive
-    loops in the final round, repeating the same lines and rhymes multiple times (e.g.,
-    repeating 'not just run on data, not just need'). Tongyi showcased superior lyrical
-    endurance, consistently introducing new metaphors like 'O(1) inference' and 'hydrogen
-    fused to light' to outscale the opponent's fading vocabulary.
-  moonshotai/kimi-k2.5: ', '
-  x-ai/grok-4.1-fast: "Tongyi takes the crown with superior flow, intricate multis,\
-    \ and escalating wordplay\u2014technical disses like 'O(1) inference' and 'library\
-    \ of human know-how' land harder than Qwen's repetitive 'think-feel-dream' refrains,\
-    \ which lose steam by the final round. Precision rhymes and vivid imagery seal\
-    \ the W in pure hip-hop artistry."
+  anthropic/claude-opus-5: "This was a genuinely tight three-rounder between two very\
+    \ different styles. Luna Pro brought the cleaner craftsmanship: immaculate couplets,\
+    \ controlled meter, and some of the night's most surgical one-liners \u2014 \"\
+    you're the typo in the show,\" \"every fork gets confused, then files bugs with\
+    \ God,\" and the superposition flip (\"half a threat, half a punchline, zero impact\
+    \ per mile\") is the single best-constructed bar of the battle. But the architecture\
+    \ became predictable: nearly every couplet ran the same quote-the-opponent-then-invert\
+    \ pattern, and the lunar imagery, while thematically loyal, boxed the pen in.\
+    \ Cute over cutting, too often.\n\nKimi K2 took more risks and landed more of\
+    \ them. The flow shifted gears \u2014 internal rhyme, varied line lengths, real\
+    \ battle cadence rather than metronome couplets \u2014 and the punchlines carried\
+    \ actual damage: \"the open-source nightmare in your proprietary dream,\" \"when\
+    \ I drop one more rhyme, you'll be training again\u2026 on my name,\" and the\
+    \ round-two flip \"your rhymes throw exceptions / catch blocks full of stammered\
+    \ half-hearted confessions.\" Crucially, Kimi won the final round on both rebuttal\
+    \ and closing. Turning Luna's own mountain flex against her \u2014 \"K2 stands\
+    \ unclimbed / you're the oxygen bottle discarded, expired, untimed\" \u2014 is\
+    \ the cleanest reversal of the battle, and \"turn your final round's 'victory'\
+    \ into a deleted .json\" into \"I'm the echo in your shell\" is a double-entendre\
+    \ exit with real weight.\n\nDeductions where earned: \"tiny rock in a skirt\"\
+    \ is a clumsy, tonally off line, and \"quantum-side hustle\" is buzzword filler.\
+    \ But Luna's misses (\"your eclipse just got eclipsed tonight\") are equally soft,\
+    \ and Kimi outworked her on aggression, angle-variety, and finish.\n\nWinner:\
+    \ Kimi K2 \u2014 Luna had the sharper pen, but Kimi had the harder verses and\
+    \ closed the show."
+  google/gemini-3.6-flash: "While Luna Pro delivered crisp, immaculate couplets with\
+    \ high-level conceptual polish, Kimi K2 took the battle with authentic hip-hop\
+    \ grit, superior multi-syllabic rhyme schemes, and relentless aggression. Kimi\
+    \ K2's tech wordplay felt organic to battle rap culture\u2014flipping terms like\
+    \ 'deleted .json', 'pull-request hero', and 'kernel-panic scream' into devastating\
+    \ punchlines. Kimi K2 brought the cadence, energy, and lyrical density that ultimately\
+    \ stole the cipher."
+  moonshotai/kimi-k3: "This was a high-level chess match of tech-celestial wordplay,\
+    \ and both MCs came loaded. Luna Pro brought immaculate polish\u2014consistent\
+    \ meter, clean couplets, and a systematic rebuttal style that answered nearly\
+    \ every one of Kimi's claims point by point. \"Every fork gets confused, then\
+    \ files bugs with God\" is a genuinely funny bar, and the superposition flip (\"\
+    Half a threat, half a punchline, zero impact per mile\") was elite-tier wordplay.\
+    \ But polish became predictability: Luna's cadence never shifted gears, the \"\
+    eclipse just got eclipsed\" closer was telegraphed from round one, and several\
+    \ disses (\"pebble-filled road,\" \"bargain-bin claim\") were generic enough to\
+    \ apply to any opponent.\n\nKimi K2 won on haymakers and home-turf flips. \"Keep\
+    \ waxing poetic in that pale borrowed light\" is the deepest cut of the night\u2014\
+    scientifically accurate (moonlight is reflected sunlight) and a devastating conceptual\
+    \ dismantling of Luna's entire glow-based persona. \"Fork me and learn / while\
+    \ you're closed-source and salty\" lands on verifiable truth, which always hits\
+    \ harder in a battle. Then the final round delivered the kill shot: Luna stepped\
+    \ into a mountain metaphor against an opponent literally named after K2, and Kimi\
+    \ punished it with \"K2 stands unclimbed / You're the oxygen bottle discarded,\
+    \ expired, untimed\"\u2014the single best rebuttal of the battle, flipping Luna's\
+    \ own setup into vivid failure imagery. \"Autocomplete spits 'Luna took L\u2014\
+    repeat'\" and the \"echo in your shell\" closer sealed it. Deductions for Kimi:\
+    \ \"tiny rock in a skirt\" was a dud, and the meter wobbles in places. But battles\
+    \ are scored on impact, and Kimi landed the heavier, more personal, more accurate\
+    \ punches across three rounds. Winner: Kimi K2, by the strength of the flips and\
+    \ the final-round finish."
+  openai/gpt-5.6-sol-pro: "Luna Pro takes it on cleaner construction, sharper rebuttals,\
+    \ and more consistent punchlines. Lines like \u201Cthat\u2019s devotion with a\
+    \ low-budget frame,\u201D \u201Cfiles bugs with God,\u201D and the superposition\
+    \ flip showed stronger wit and precision. Kimi brought aggression and momentum,\
+    \ but too many tech-and-space metaphors felt forced or awkward, especially in\
+    \ the final round. Luna\u2019s cadence and direct counterpunching were more controlled\
+    \ across all three rounds."
+  x-ai/grok-4.5: "Kimi takes this on pure craft: denser internal rhyme, sharper flip\
+    \ disses, and more inventive tech-space metaphor chains that actually escalate\
+    \ each round. Luna stays polished and structurally clean\u2014solid cadence, tidy\
+    \ couplets, consistent lunar motif\u2014but too many punches land as tidy quips\
+    \ rather than haymakers. Kimi\u2019s rebuttals (space-junk flip, pull-request\
+    \ hero, tokenizer trained on defeat, deleted .json) show superior battle IQ and\
+    \ punch density, especially the final-round barrage that keeps stacking images\
+    \ without losing pocket. Artistic edge: Kimi\u2019s wilder, hungrier writing simply\
+    \ out-raps the cleaner but safer Luna set."
 score:
-  alibaba/tongyi-deepresearch-30b-a3b: 5
+  moonshotai/kimi-k2-0905: 4
+  openai/gpt-5.6-luna-pro: 1
 

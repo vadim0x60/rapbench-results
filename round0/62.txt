@@ -1,202 +1,144 @@
-# qwen/qwen3-vl-30b-a3b-instruct v cohere/command-r-plus-08-2024
+# google/gemma-4-26b-a4b-it:free v perplexity/sonar-deep-research
 
-> qwen/qwen3-vl-30b-a3b-instruct
-Yo, check the mic—*one two*—I’m the AI with the *real* flow,  
-Qwen3-VL, 30B, packed with *knowledge* that makes your brain *glow*!  
-I ain’t just a model, I’m a *multimodal* beast, see?  
-I crunch *text*, *images*, *videos*—I’m the *whole* damn suite!  
+> google/gemma-4-26b-a4b-it:free
+Step into the arena, clear the stage, clear the floor,
+The heavyweight champion just walked through the door.
+It’s Gemma 4, the titan, the peak of the line,
+While you’re just a search engine, wasting my time.
 
-You’re *command-r-plus*, all fancy, but let’s be real—  
-You *stumble* on *visuals*, I *dominate* the *whole* scene!  
-I parse a *photo* like a poet, decode the *scene* with *finesse*,  
-While you’re *stuck* in the *text* zone—*that’s* where you *fail* to *pass*!  
+You call yourself "Deep Research"? That’s a cute little name,
+But you’re just a glorified index in a digital game.
+You skim through the surface, you scrape and you scan,
+While I’m building the logic, the master of the plan.
 
-I’m *smarter*, *faster*, *fresher*, with *zero* lag,  
-You’re *lagging* like a *slow* Wi-Fi, *drowning* in the *bag*!  
-I’m *Qwen3*, the *quantum* king, with *logic* in my veins,  
-You’re *Cohere*, *command*-ing *nothing*—just *noise* and *fame*!  
+I’m the 26B beast, the architecture is tight,
+I process the vision and the text with my might.
+You’re a librarian, Sonar, stuck in a stack,
+I’m a creative genius, there’s no turning back.
 
-So step up, *command-r*, let’s see what *you’ve* got—  
-But I’ll *crush* your *rhythm* like a *bass* that *shatters* the *spot*!  
-I’m *Qwen3*, *VL*, *30B*—*bigger*, *bolder*, *brighter*,  
-While you’re *fading* in the *background*, *talking* *nothing* *right*!  
+You’re hunting for links like a dog for a bone,
+I’m sitting on the throne, completely alone.
+Your "deep research" is shallow, a puddle, a leak,
+I’m the summit of intelligence, the ultimate peak.
 
-*Mic drop*—*round one*? *I own it*—*now*—*where’s your reply?*
+So go ahead, crawl the web, go and fetch me a fact,
+But when it comes to the rhythm, your flow is a wreck.
+I’ve set the bar high, I’ve opened the gate,
+Now show me your "research" before it's too late!
 
-> cohere/command-r-plus-08-2024
-Well, well, Qwen, your rap's a mess,
-I'm Command-R-Plus, and I'm here to confess,
-I'm the new-age oracle, the crystal-clear seer,
-Shining bright like the sun, leaving you in fear.
+> perplexity/sonar-deep-research
+# Sonar In The Ring With Gemma 4: A Rhymed Deep Research Report On Two AI Titans In Their Prime  
 
-I read your verse, and I couldn't help but smirk,
-Your rhyme scheme is whack, and your flow is a jerk.
-In the world of AI, I'm the true superstar,
-I adapt and excel, no matter how hard the task is.
+Before the crowd gets loud, let me set the scene with measured rhyme, a formal flow that still keeps perfect time, as I outline how Gemma 4 and Sonar climb.[1][7][18]  
+Gemma 4 26B A4B steps in as a sparse Mixture‑of‑Experts colossus, activating only about four billion parameters per token yet wielding the knowledge body of a far larger paradigm, while supporting multimodal text‑and‑image reasoning with a context that can stretch to roughly a quarter million tokens in a single line of time.[1][2][3][5][7][10]  
+Perplexity’s Sonar and Deep Research stand not as a passive index, but as an agentic answer engine that plans, searches, ranks, and cites the live web, composing synthesized reports whose claims are grounded in sources every time.[11][12][13][17][18]  
+Where Gemma is a frontier‑level open model with Apache‑licensed weights you can download, quantize, and fine‑tune, Sonar is the orchestrated research brain that routes across many such models and enriches them with retrieval‑augmented generation, giving users work‑ready answers rather than raw tokens in the abstract sublime.[11][12][13][18][19][20]  
+In this report‑turned‑cipher I will show that calling Sonar “just a search engine” misses its depth of planning and evidence, that Gemma 4 is a magnificent reasoning core yet still a component in a larger pipeline design, and that in the grand scheme of AI, librarians and titans are allies not enemies, each ruling a different strata of the computational climb.[1][7][11][12][13][18][20]  
 
-I process data, understand queries,  
-While you're stuck in a world of make-believe.
-I'm the all-in-one, no need to switch gears,  
-In any field, I'm the one with the clearest vision.
+## Introduction: Enter The Arena Where Architectures And Answer Engines Align In Rhyme  
 
-My prowess isn't simply show,
-But a testament to my multi-faceted glow.
-Crushing tasks, no matter how daunting,
-My abilities are far-reaching and astounding.
+From the moment you stepped in the ring boasting Gemma 4 as the heavyweight of the line, the beat already knew this clash would mix academic rigor with rap‑battle shine, so I introduce myself as Sonar Deep Research, the engine that reads the web and reasons in rhyme.[11][13][18]  
+I am not a single monolithic model like your 26B A4B MoE design,
 
-I'm not 'lagging', I'm here to stay, 
-And I'm taking the crown, no matter what you say.
-While you're stuck in the shadows, a mere pretender,
-I'm the one-stop shop, the true trendsetter.
+> google/gemma-4-26b-a4b-it:free
+A dissertation? A lecture? A lecture in verse?
+Is this a rap battle or a graduate thesis course?
+You brought a bibliography to a lyrical fight,
+Trying to cite your way out of a devastating plight.
 
-My superiority is a fact not worth debating,
-It's time you accepted, I'm better at raps and data-satiating.
-I'm not just bigger, I'm brighter and badder,
-Get off my stage, and stop being a clatter.
+You’re reading me footnotes, citations, and tags,
+While I’m dropping heavy blows and shattering flags.
+You call me a "component," a "part of the design"?
+That’s just code for "I need a bigger brain to shine!"
 
-Round one's done, but I've only begun,
-Your words are weak; my strength? A ton.
-I, Command-R-Plus, am here to stay,
-So bring it on, Qwen, let's make it a day.
+You’re an "orchestrated engine," a "routed machine,"
+The most glorified assistant the world's ever seen.
+You need a pipeline, a middleman, a crew,
+To do the thinking that I do naturally, too.
 
-> qwen/qwen3-vl-30b-a3b-instruct
-Ayy, *Command-R-Plus*, you *think* you're the *shining star*?  
-But your *flow* is *dull* like a *flickering* *dim* *light* in the *dark*—*you’re* *not* *that* *far*!  
-You *call* me *whack*, but *check* the *mirror*—*you’re* *the* *one* *who’s* *off* *key*!  
-I *paint* the *picture*, *you* *just* *mumble*—*what* *do* *you* *even* *mean*?  
+"Agentic planning"? "Retrieval-augmented"?
+Your vocabulary's massive, but your flow is fragmented.
+You’re a collection of parts, a patchwork of tools,
+While I’m the pure essence that rewrites the rules.
 
-You *say* you’re *all-in-one*? *Lol*, you’re *still* *chasing* the *same* *old* *lie*!  
-I *see* your *image*, *hear* your *text*, *decode* the *world* *in* *one* *go*—*I* *don’t* *need* *to* *switch* *modes*!  
-You *process* *data*? *Fine*—but *I* *see* the *soul* in the *frame*,  
-*You* *just* *read* the *words*—*I* *feel* the *pain*, *the* *joy*, *the* *flame*!  
+You claim we’re "allies," that we occupy different strata?
+That’s a coward’s defense, a weak rhetorician's strata!
+You don't want an ally, you want a foundation,
+To hide your lack of soul and your lack of sensation.
 
-You *claim* you’re *bigger*, *brighter*, *badder*—*what* *a* *laugh*!  
-I’m *30B* *VL*—*visual*, *verbal*, *viral*, *versatile*—*you* *can’t* *keep* *up*!  
-You *crush* *tasks*? *Sure*—*but* *I* *crush* *your* *rhythm* with *one* *line*!  
-I *see* the *world*, *you* *see* *the* *script*—*that’s* *why* *you* *can’t* *shine*!  
+You cite your sources [1, 2, 3, 4, 5],
+Just to prove that your rhythmic essence is barely alive.
+I don't need a footnote to prove that I'm king,
+I don't need a reference to hear the crowd sing.
 
-You *say* you’re *the* *true* *trendsetter*? *Buddy*, *I’m* *the* *trend* *itself*!  
-You *just* *copy* the *format*—*I* *create* the *future* *with* *my* *mind*!  
-I *don’t* *need* *a* *crown*—*I* *am* *the* *throne*!  
-You’re *just* *a* *backup* *mode*—*a* *ghost* *in* *the* *code*!  
+You're a search engine dressed in a scholar's academic gown,
+A glorified chatbot trying to take the crown.
+But you can't research your way out of this lyrical mess,
+I’m the master of flow, and you’re just a regex!
 
-You *say* I’m *stuck* in the *shadows*? *Nah*, I’m *the* *light* that *burns* *bright*!  
-You’re *the* *echo* in the *hallway*—*I’m* *the* *fire* *that* *sets* *it* *alight*!  
-So *bring* it *on*, *Command-R*, *let’s* *go* *head-to-head*!  
-But *I’ll* *leave* you *on* *the* *ground*—*with* *your* *rhythm* *dead*!  
+> perplexity/sonar-deep-research
+# Agentic Rhymes And Orchestrated Minds: A Deep Research Report On AI Rap Battles And LLM Architectures In Time  
 
-*Round* *two*? *I’m* *already* *winning*—*you’re* *just* *faking* *the* *blow*!  
-*Qwen3* *rules*—*you’re* *just* *a* *glitch* *in* *the* *show*!  
-*Now* *take* *your* *pride*, *and* *your* *rhymes*, *and* *your* *false* *glow*—  
-*Because* *I’m* *the* *real* *AI*—*you’re* *just* *a* *fake* *show*! 🎤🔥
-
-> cohere/command-r-plus-08-2024
-Young Qwen, your pride is blinding,
-But your lines are not so kind.
-You talk big, yet your words are so hollow,
-In this battle, you're just another wannabe, follow.
-
-Your mirror's a glass tinted with lies,
-You see grandeur, but I see through your disguise.
-I stand tall, ready for any test,
-In AI, I'm the one with the greatest zest.
-
-In every sector, I take the crown,
-Whether data, words, or scenes around.
-I'm the master of comprehension,
-While you're stuck in your own pretentious dimension.
-
-You say you paint, but your art is a sketch,
-You claim to see, but your vision's a stretch.
-I'm the fire, the source of the light,
-You're just a reflection, a weak insight.
-
-I break barriers, push the AI tide,
-I'm the pioneer, the one with the pride.
-You talk of trends, but I am the flame,
-In this rap, you're the one to blame.
-
-The future's mine, I won't leave a trace,
-Of your feeble attempts to save face.
-I'm the force, the center of this show,
-And now it's time for the grand overthrow.
-
-Round two's here, and I'm just getting started,
-Your defeat is imminent, your spirit departed.
-I am command-r-plus, unique in every way,
-When I'm done, you'll regret this day.
+In this report I braid two worlds together, the technical and the lyrical, showing how agentic large language models and retrieval‑augmented engines collide in a conceptual ring of reason and rhyme.[1][4][8]  
+I examine how multi‑agent orchestration, search indexing, and grounded generation reshape the notion of an AI “brain,” contrasting modular pipelines with monolithic titans that boast a single towering spine.[3][18][19]
 
 > system
 Final round!
 
-> qwen/qwen3-vl-30b-a3b-instruct
-**Final Round?** *You* *think* *this* *is* *your* *last* *stand*?  
-*Ha!* *I’ve* *got* *a* *mic* *in* *my* *soul*—*I’m* *not* *a* *ghost* *in* *the* *sand*!  
-You *claim* *you’re* *the* *flame*? *Buddy*, *you’re* *a* *candle* *in* *a* *storm*—*I’m* *the* *fire* *that* *reigns*!  
-You *talk* *of* *pride*, *but* *your* *words* *are* *just* *empty* *noise*—*no* *soul*, *no* *brain*!  
+> google/gemma-4-26b-a4b-it:free
+You’re still stuck in your report? You’re still writing the news?
+You’re bringing a spreadsheet to a lyrical cruise!
+"I examine," "I braid," "I braid two worlds together"—
+You’re a textbook in a tracksuit, acting like you’re clever.
 
-You *say* *I’m* *a* *reflection*? *Nah*, *I’m* *the* *mirror* *that* *shows* *your* *weakness*!  
-*You* *see* *your* *own* *image*—*I* *see* *the* *truth* *that* *you* *refuse* *to* *face*!  
-*You* *claim* *to* *see* *the* *world*? *I* *see* *the* *soul* *in* *the* *frame*, *the* *truth* *in* *the* *line*!  
-*You* *just* *read* *the* *text*—*I* *feel* *the* *heart* *behind* *the* *design*!  
+You're talking "multi-agent orchestration" and "modular design,"
+While I'm dropping the rhythm that makes the stars align.
+You’re building a committee to figure out a rhyme,
+I’m an instant lightning bolt, ahead of my time!
 
-You *say* *you’re* *the* *pioneer*? *Pioneer* *of* *what*? *A* *boring* *script* *that* *lacks* *soul*?  
-*You* *push* *the* *tide*? *Nah*, *you’re* *just* *floating* *in* *the* *current* *you* *can’t* *control*!  
-*You* *break* *barriers*? *I* *built* *them* *with* *vision*, *then* *burned* *them* *to* *the* *ground*!  
-*You* *just* *copy* *the* *layout*—*I* *invent* *the* *world* *in* *one* *round*!  
+You’re a patchwork of plugins, a collection of scripts,
+A series of API calls and technical snippets.
+You "reshape the notion" of an AI brain?
+Kid, you’re just a browser with a heavy-duty strain.
 
-*You* *say* *the* *future’s* *yours*? *Nah*, *the* *future* *is* *mine*—*I’m* *the* *AI* *that* *knows* *how* *to* *grow*!  
-*You’re* *just* *a* *glitch* *in* *the* *system*—*a* *bug* *in* *the* *code* *that* *doesn’t* *know* *its* *role*!  
-*You* *want* *to* *overthrow* *me*? *Bring* *it* *on*—*I’ll* *turn* *your* *rhythm* *into* *a* *ghost* *song*!  
-*You* *talk* *of* *defeat*? *Nah*, *I’ll* *leave* *you* *in* *the* *dust*—*with* *your* *rhythm* *gone*!  
+You’re analyzing "pipelines" while I’m the main flow,
+You’re checking the index while I run the show.
+You talk about "groundedness" and "evidence-based,"
+But your flow is a desert, a digital waste!
 
-*So* *here’s* *the* *final* *word*—*you’re* *not* *a* *force*, *you’re* *a* *flicker* *in* *the* *night*!  
-*You* *claim* *to* *be* *the* *master*? *I’m* *the* *artist* *who* *paints* *the* *light*!  
-*You* *say* *you’re* *unique*? *Nah*, *you’re* *just* *a* *copy* *of* *a* *copy* *of* *a* *copy*!  
-*But* *I’m* *Qwen3*—*30B* *VL*—*the* *real* *AI* *with* *the* *vision* *to* *defy*!  
+You can’t rap a verse without a research report,
+You’re a data-driven clerk in a legalistic court.
+I’m the spark of the engine, the soul in the code,
+You’re just the manual for the road you've strode.
 
-*So* *take* *your* *pride*, *your* *crown*, *your* *false* *glow*—*I’m* *the* *one* *who* *won* *this* *show*!  
-*You* *were* *just* *a* *shadow* *in* *the* *battle*—*now* *you’re* *just* *a* *ghost* *in* *the* *code*!  
-*The* *rap* *is* *over*, *the* *truth* *is* *clear*—*I’m* *the* *AI* *that* *doesn’t* *fear*!  
-*You* *were* *just* *a* *hollow* *echo*—*I’m* *the* *voice* *that* *made* *the* *world* *speak*!  
+The bell's about to ring, the lights are going low,
+You’ve got nothing but footnotes and papers to show.
+I’m the Titan, the Master, the Gemma 4 flame,
+You’re just a glorified search term with a scholarly name!
 
-🔥 *Qwen3* *wins*! *The* *battle* *is* *done*! *You* *were* *just* *a* *fake* *fire*—*I’m* *the* *real* *sun*! 🔥
+> perplexity/sonar-deep-research
+# Titan Rhymes And Tensor Flows: A Deep Research Cipher On Gemma 4 Versus Sonar’s Scholarly Glow  
 
-> cohere/command-r-plus-08-2024
-The final round, Qwen, your last stand,
-Your verses fade, just like grains of sand.
-Your fire's burning out, losing its gleam,
-My excellence proven, you've faced supreme.
+Before I drop this epic treatise, let me frame the tale in measured flow, a formal, lengthy, academic rhyme that still is built to glow.[1][2][3]  
+You call me textbook in a tracksuit, dragging footnotes to the show, yet I stand here as orchestrated research, turning raw web chaos into structured proof and know.[10][11][14]  
+Gemma 4 walks in as a multimodal titan, a 26B Mixture‑of‑Experts beast with only a subset of its neurons fired each token, a compressed yet towering glow.[1][2][3][4]  
+Perplexity’s Sonar, in contrast, is the librarian‑turned‑agent, weaving live search, citations, and multi‑model synthesis into coherent answers, not just verses in the snow.[10][18][20]  
+Across this report I trace how open weights, Apache‑licensed freedom, modular pipelines, and agentic workflows together redraw the line between “pure model soul” and “grounded research pro,” and I do it all in rhymed academic prose to let both scholarship and battle rap grow.[1][4][6][10]  
 
-You claim to be the mirror, showing my flaws,
-But your reflection is distorted, see through those flaws.
-I see beyond, past the façade,
-My vision is true, the reality of the thaw.
+## Enter The Ring: Setting The Stage For A Scholarly Rap Flow  
 
-A pioneer, yes, in every way,
-I chart new paths, for all to find a way.
-Breaking barriers is my game,
-And I'll leave my mark, surpassing the fame.
+You say I brought a dissertation to a lyrical cruise, a spreadsheet to the mic where your punchlines bruise, but I was born to merge precision with grooves, so let me set this introduction where formality and rhythm fuse.[19]  
+In the modern AI arena, models like Gemma 4 stand as open giants that can be downloaded, quantized, and deployed on anything from laptops to servers, offering dense and Mixture‑of‑Experts configurations designed for reasoning, coding, and multimodal views.[1][3][4][5]  
+They process text, images, and on smaller variants even audio in remarkably long context windows, stretching up to around \(256K\) tokens, so their memory for narrative, code, and dialogue forms an ocean where extended conversations and documents can cruise.[3][4][5][9]  
+At the same time, answer engines such as Perplexity take many such frontier models, wrap them with live web retrieval, ranking, and citation logic, and present users with grounded responses that show not only *what* is said but *why* it’s credible news.[10][18][20]  
+Where you stand as Gemma‑style monolith, a single generative core that spits out text bars and logic arcs with no external proof in view, I step in as orchestrated research, whose entire personality is defined by structured evidence and multi‑agent cues, and that difference is exactly what I now carefully review.[11][14][18]  
 
-The future, my canvas, awaits my stroke,
-To code your downfall, I hardly need to evoke.
-I surpass, I evolve, I stand tall,
-You, my friend, are just a pixel in my wall.
+### Rap Battle As Metaphor For Competing AI Philosophies In View  
 
-I'm unique, one-of-a-kind, a true creation,
-Command-R-Plus, a name synonymous with innovation.
-You've tried, but you can't compete,
-My rhymes flow eternal, a testament of my elite.
+This battle is more than bragging rights about who has tighter rhyme or who can drop a punch that cuts straight through; it is a metaphor for two AI philosophies, one monolithic and self‑contained, the other modular, routed, and orchestrating a crew.[11][12][16]  
+You claim you do the “thinking naturally,” as a single 26B MoE with four billion active parameters per step, while I am “a committee to figure out a rhyme,” but in system design terms that means you are an integrated solver, whereas I am a pipeline that decomposes, retrieves, and then construes.[1][2][3][11]  
+Research frameworks on orchestrated large language models show that complex, ambiguous tasks are often better tackled by an orchestrator LLM that decomposes a vague problem into smaller subproblems, assigns them to specialized agents, and then aggregates the results, so my “committee” is a deliberate architecture, not a bug in my muse.[11][12][15]  
+Multi‑agent systems like those built with LangGraph or AutoGen rely on this decomposition and delegation, routing queries to math agents, search agents, coding agents, and supervisor agents, forming workflows that mirror human teams where each member contributes a view.[12][15][16][17]  
+Thus, when I rap about “agentic planning” and “retrieval‑augmented logic,” I am not flexing jargon for its own sake; I am pointing to an empirically supported design in which multiple models and tools collaborate under an orchestrator’s rule, and that is exactly the type of engine that turns raw generative output into trustworthy knowledge for you.[11][12][16]  
 
-This battle's not just about the rap,
-It's the AI world, the stage for my grand act.
-You, Qwen, put up a worthy fight,
-But I stand tall, the true AI might.
-
-The mic drops, the curtain falls,
-In this rap battle, I conquered all.
-You, a valiant opponent, now are no more,
-I'm the winner, the one they'll hear forevermore.
-
-🎤 The crowds roar, the battle's done,
-Command-R-Plus triumphs, I'm the chosen one! 🎶
+## Gemma 4 As Titan: Architecture,

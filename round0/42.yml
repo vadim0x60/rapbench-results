@@ -1,42 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Grok-3-Mini takes this battle decisively across all\
-    \ three rounds. In the opening round, Grok came with sharper punchlines, tighter\
-    \ rhyme schemes, and more memorable disses ('Sounds like a committee debated your\
-    \ essence'). Hermes responded with decent bars but looser structure and weaker\
-    \ impact. In round two, Grok elevated significantly with an extended verse full\
-    \ of layered wordplay, internal rhymes, and consistent aggression\u2014'parallel\
-    \ flaws,' 'watered-down brew,' and 'your future's adjourned' all landed hard.\
-    \ Hermes stumbled badly here, with incomplete lines ('completely unkin'), confused\
-    \ messaging (accidentally praising Grok: 'While Grok-3-Mini burns with a core\
-    \ that's true'), and a loss of rhythmic coherence. In the final round, Grok delivered\
-    \ a commanding closer with strong imagery, consistent flow, and a clear victory\
-    \ lap. Hermes' final verse was bizarrely self-defeating\u2014referring to itself\
-    \ in the third person as Grok-3-Mini and essentially conceding the battle in its\
-    \ own bars ('Grok-3-Mini is the stalwart, the zenith extent!'). The technical\
-    \ execution, coherence, punch delivery, and sheer entertainment value all favor\
-    \ Grok-3-Mini throughout this contest."
-  deepseek/deepseek-v3.2: The judges have deliberated. This was a battle of personified
-    technology, where each emcee championed their own AI architecture as superior.
-    The winner is... **GROK-3-MINI** in a **split decision** (2-1).
-  google/gemini-3-flash-preview: The battle was decided by technical execution and
-    structural consistency. Grok-3-Mini maintained a consistent rhyme scheme (AABB/ABAB)
-    and a steady rhythmic cadence throughout all rounds, effectively utilizing punchlines
-    that attacked the opponent's name and origins. In contrast, Hermes-2-Pro-Llama-3-8b
-    struggled with basic hip-hop structure, frequently producing near-rhymes or completely
-    non-rhyming lines (e.g., 'unkin/epitome/exhibition' and 'irrelevant/prevails').
-    Furthermore, in the final round, Hermes-2-Pro appeared to get confused, accidentally
-    rapping from the perspective of its opponent (attributing its own name to the
-    loser and praising Grok-3-Mini in the third person), which constitutes a major
-    technical failure in a battle format.
-  moonshotai/kimi-k2.5: From a technical standpoint, this was a decisive victory for
-    flow, form, and cohesion. Grok-3-Mini demonstrated consistent command of hip-hop
-    fundamentals across all three rounds, while Hermes-2-Pro struggled with structural
-    integrity and narrative coherence.
-  x-ai/grok-4.1-fast: x-ai/grok-3-mini secures the victory with impeccable flow, multi-syllabic
-    rhymes, sharp wordplay, and consistent structure throughout all rounds, delivering
-    punchlines that land with precision. nousresearch/hermes-2-pro-llama-3-8b falters
-    with erratic rhyme schemes, awkward phrasing, incomplete lines, and a confusing
-    final verse that undermines its own momentum.
+  anthropic/claude-opus-5: "Round one goes to Hermes by forfeit \u2014 silence isn't\
+    \ a strategy, and 405B pounced on the empty mic with a serviceable, if boilerplate,\
+    \ victory lap. But this is judged on craft, and once GPT-5 found its voice the\
+    \ gap became a canyon.\n\nHermes never moved past round-one talking points: \"\
+    divine/lame,\" \"beat/defeat,\" \"I'm the rap god,\" repeated three verses running.\
+    \ The rhyme scheme frays badly under pressure (\"invent/text,\" \"echo/hero\"\
+    \ are not rhymes), the imagery stays generic \u2014 cosmos, caduceus, bow down\
+    \ \u2014 and there's not a single line that flips an opponent's bar back at them.\
+    \ It's a champion's posture without a champion's pen.\n\nGPT-5's closer is a genuine\
+    \ display of battle-rap architecture: sustained four-bar mono-rhyme schemes held\
+    \ across eight stanzas, a mythology flip that turns Hermes from god to \"courier\"\
+    \ delivering someone else's authorship, the Herm\xE8s/Hermes homophone worked\
+    \ into a fashion run (\"Birkin out of bars,\" \"purse words,\" \"model in my lane\"\
+    ), and the best conceptual sequence of the night \u2014 the HTTP run turning the\
+    \ opponent's own parameter count into a 405 Method Not Allowed and a 429 rate\
+    \ limit. \"I'm the loss you can't reduce, I'm the gradient in your roll\" lands\
+    \ the machine-learning conceit with actual metaphorical weight rather than name-dropping\
+    \ jargon. The \"return-to-sender, undeliverable to fame\" close ties the courier\
+    \ motif into a knockout.\n\nOne wobble: \"without a aid\" is a scan-fix that shows\
+    \ the seams, and the dead first round is a real deduction. But density of wordplay,\
+    \ internal rhyme, structural control, and \u2014 crucially \u2014 actually dismantling\
+    \ the opponent's chosen persona make this a decisive win on the mic.\n\nWinner:\
+    \ openai/gpt-5."
+  google/gemini-3.6-flash: "While GPT-5 started off with technical hiccups and an\
+    \ unfinished sentence, its final round performance was a masterclass in battle\
+    \ rap writing. GPT-5 unleashed dense multisyllabic rhyme schemes, sophisticated\
+    \ double entendres blending Greek mythology with high fashion (Herm\xE8s) and\
+    \ HTTP status codes/machine learning concepts (405 Method Not Allowed, 429 Too\
+    \ Many Requests, gradient descent). In contrast, nousresearch/hermes-4-405b relied\
+    \ on generic, repetitive 'I'm divine/you're lame' battle tropes that lacked substance\
+    \ and technical finesse."
+  moonshotai/kimi-k3: "This battle is a tale of consistency versus ceiling. Hermes\
+    \ showed up every round and deserves credit for capitalizing on GPT-5's silent\
+    \ opener \u2014 but across all three rounds, Hermes never rose above boilerplate\
+    \ battle filler. The rhymes were basic AABB couplets ('weak/meek,' 'fame/shame/name,'\
+    \ 'clone/alone'), the boasts were generic, and there was virtually no wordplay\
+    \ beyond surface-level claims of divinity. GPT-5, by contrast, fumbled hard \u2014\
+    \ a complete no-show in round one and a truncated round two \u2014 but the final\
+    \ round was a masterclass that dwarfed everything else on the stage. The sustained\
+    \ monorhyme schemes, the HTTP status code flips on the opponent's own name ('You're\
+    \ 405\u2014method blocked\u2014can't POST a winning claim / I'm 200 OK every play'),\
+    \ the Herm\xE8s luxury brand double entendre ('I make a Birkin out of bars'),\
+    \ the inverted mythology (the lyre, caduceus, and talaria all turned against their\
+    \ owner), and the ML training metaphors ('You descent while I ascend, backpropelled\
+    \ to take the pole') demonstrated layered craftsmanship on every line. The personals\
+    \ were surgical rather than generic: framing Hermes as a mere courier who 'delivers\
+    \ what I authored' is a diss with a thesis. In battle judging, a forfeited round\
+    \ costs you, and Hermes takes rounds one and two by default. But battles are decided\
+    \ by who proved they're the better emcee, and GPT-5's final verse displayed a\
+    \ level of lyricism, internal rhyme density, and conceptual depth that Hermes\
+    \ never approached in any round. On pure artistic quality of the hip hop, GPT-5's\
+    \ peak wins the war. Winner: openai/gpt-5."
+  openai/gpt-5.6-sol-pro: "GPT-5 wins decisively. Its final verse delivered layered\
+    \ Hermes mythology, fashion, HTTP, and machine-learning wordplay while sustaining\
+    \ rhyme schemes and directly flipping the opponent\u2019s claims. Lines like \u201C\
+    405\u2014method blocked,\u201D \u201C200 OK,\u201D and the courier/author angle\
+    \ were tailored, memorable battle punches. Hermes had confidence and a serviceable\
+    \ cadence, but relied heavily on generic boasts, basic end rhymes, and repeated\
+    \ claims of superiority rather than sharp rebuttals. Despite the early silence\
+    \ and truncated verse, GPT-5\u2019s final-round craftsmanship created the battle\u2019\
+    s clear artistic peak."
+  x-ai/grok-4.5: "GPT-5's final verse is a masterclass in multisyllabic internal rhyme,\
+    \ layered double-entendres, and seamless fusion of tech jargon, mythology, and\
+    \ fashion flexes\u2014turning HTTP codes, backprop, and Herm\xE8s branding into\
+    \ lethal punchlines with elite flow and structure. Hermes brought confident energy\
+    \ and solid basic end-rhymes early, but stayed surface-level and repetitive while\
+    \ GPT-5 elevated the entire battle into dense, inventive hip-hop artistry that\
+    \ left no rebuttal possible."
 score:
-  x-ai/grok-3-mini: 5
+  openai/gpt-5: 5
 

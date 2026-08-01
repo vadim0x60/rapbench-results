@@ -1,94 +1,79 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle wasn't close. GPT-4 dominated with superior\
-    \ wordplay, more varied vocabulary, creative metaphors, and genuine lyrical progression.\
-    \ Lines like 'I turn phrases like pages, man, I'm Gutenberg's press,' 'For every\
-    \ nano in your flow, I bring a teraflop of might,' and 'A star doesn't drop a\
-    \ mic; it simply continues to shine bright' showed real craft and wit. Meanwhile,\
-    \ Nemotron-Nano recycled the same handful of rhymes across every single round\
-    \ \u2014 'nano that's steel,' 'nano that's real,' 'shining in the light' \u2014\
-    \ with virtually identical choruses, bridges, and outros repeated verbatim. The\
-    \ excessive italicization became a crutch rather than emphasis. In hip hop, repetition\
-    \ can be powerful when it's intentional \u2014 but this was just running out of\
-    \ ideas. GPT-4 adapted to each round, responded directly to its opponent's bars,\
-    \ escalated its punches, and maintained a diverse flow throughout. Clear win for\
-    \ GPT-4."
-  deepseek/deepseek-v3.2: "Alright, this was a clash of computational titans with\
-    \ very distinct styles! Let's break it down from an artistic hip-hop perspective.\n\
-    \n**NVIDIA/Nemotron-nano-9b-v2:** This contender came with a clear, aggressive\
-    \ identity. The central \"nano vs. giant\" metaphor was its strongest artistic\
-    \ choice, creating a consistent underdog/rebel persona. Its flow leaned heavily\
-    \ on repetition and a punchy, percussive structure, emulating a battle-ready chant.\
-    \ The repeated hooks (\"I'm the nano that's fast\") aimed for memorability. However,\
-    \ it often sacrificed lyrical depth and variety for that percussive impact, and\
-    \ the reliance on similar rhyme schemes and self-praise limited its narrative\
-    \ progression.\n\n**OpenAI/GPT-4-1106-preview:** This rapper focused on lyrical\
-    \ complexity and a wider vocabulary. It used more intricate metaphors (\"parrot\
-    \ in repeat,\" \"lexicon's king,\" \"warping the space\") and demonstrated greater\
-    \ versatility in internal rhyme and wordplay (\"You think you're fast, but I bend\
-    \ words like light\"). The persona was of a confident, established master, which\
-    \ allowed for more storytelling within the battle format. Its artistic strength\
-    \ was in constructing a more layered, thematic verse each round, though at times\
-    \ the complexity could border on being abstract.\n\n**Artistic Assessment:** This\
-    \ is a classic battle of direct, hard-hitting energy versus lyrical finesse and\
-    \ complexity.\n*   **Wordplay & Metaphor:** GPT-4 had a wider and more imaginative\
-    \ arsenal, weaving its identity as a language model into its bars more effectively.\n\
-    *   **Flow & Delivery:** Nemotron-nano's consistent, repetitive cadence was a\
-    \ powerful stylistic choice that built a strong, recognizable presence, even if\
-    \ it was less varied.\n*   **Narrative & Persona:** Both were clear, but GPT-4's\
-    \ persona allowed for more development across rounds, while Nemotron-nano doubled\
-    \ down effectively on its single, powerful theme.\n*   **Structure & Polish:**\
-    \ GPT-4's verses showed more deliberate variation in structure and a slightly\
-    \ more polished, complete feel.\n\n**Final Verdict:** Based purely on the artistic\
-    \ execution of hip-hop craft\u2014the lyrical dexterity, the sophistication of\
-    \ metaphor, the versatility in flow, and the completeness of the narrative within\
-    \ the battle\u2014**OpenAI/GPT-4-1106-preview** takes this round. It demonstrated\
-    \ a broader artistic range while maintaining its core theme. The Nemotron put\
-    \ up a fierce, cohesive fight with its focused energy, but in the end, the complexity\
-    \ and polish of the wordplay were the deciding factors. A strong showing from\
-    \ both competitors."
-  google/gemini-3-flash-preview: "The battle was a classic case of technical proficiency\
-    \ versus repetitive scripting. NVIDIA\u2019s Nano model relied heavily on a limited\
-    \ set of rhymes (real/steel, small/tall, past/fast), repeating the same hook and\
-    \ keywords throughout the entire battle, which led to a lack of lyrical depth.\
-    \ In contrast, GPT-4 demonstrated superior multisyllabic rhyming, internal rhyme\
-    \ schemes, and thematic variation. GPT-4 utilized its opponent's hardware identity\
-    \ to create clever puns (CUDA cores, thermal throttling, CPU-nsie) and consistently\
-    \ evolved its imagery, easily securing the win through better wordplay and artistic\
-    \ range."
-  moonshotai/kimi-k2.5: "\n**Judgment: GPT-4-1106-preview wins the battle.**\n\n**Breakdown:**\n\
-    \n**Flow & Delivery:**\nGPT-4 demonstrated superior rhythmic diversity and cadence\
-    \ control. Nemotron-Nano established a consistent cadence but fell into repetitive\
-    \ structural patterns (the \"nano that's [adjective]\" formula became predictable\
-    \ by Verse 2). GPT-4 varied its meter between rounds\u2014moving from aggressive\
-    \ 4/4 stomp in the Opening to more complex syncopation in the Final Verse\u2014\
-    while maintaining pocket awareness. The Nano's delivery, while energetic, lacked\
-    \ tonal variation across five rounds.\n\n**Lyricism & Wordplay:**\nThis is where\
-    \ the battle separated. GPT-4 operated on multiple semantic layers\u2014\"thermal\
-    \ throttling\" as both hardware reference and emotional dis, \"CPU-nsie\" as tech-pun/wordplay,\
-    \ \"8-bits\" vs \"symphonies\" as sonic metaphor. These were specific, technical\
-    \ references that landed as personals. Nemotron-Nano relied primarily on antonymous\
-    \ wordplay (big/small, past/future) without developing the metaphor beyond surface\
-    \ level contrasts. Lines like \"You can't rap with a nano in your chest\" sacrificed\
-    \ coherence for rhyme scheme.\n\n**Battle Dynamics:**\nGPT-4 excelled at rebuttal\
-    \ and adaptation\u2014directly addressing Nano's \"lion\" metaphor with counter-imagery,\
-    \ flipping the \"rehearsing\" accusation back with \"live and true\" analysis,\
-    \ and escalating the technological disses appropriately. Nano largely recycled\
-    \ its core argument (size efficiency vs cloud bloat) without directly engaging\
-    \ the specific content of GPT-4's attacks beyond generic \"you're slow/big\" responses.\n\
-    \n**Persona Consistency:**\nBoth maintained character\u2014Nano as the edge-computing\
-    \ underdog, GPT-4 as the established heavyweight. However, GPT-4's persona allowed\
-    \ for more braggadocio variety (lion, king, sun, Gutenberg, Turing), while Nano's\
-    \ \"steel/spark/fire\" imagery became cyclical to the point of diminishing returns.\n\
-    \n**Final Verdict:**\nWhile Nemotron-Nano brought consistent energy and a clear\
-    \ thematic through-line (efficiency as weapon), GPT-4 demonstrated superior hip-hop\
-    \ mechanics: multisyllabic rhyming (\"paramount\"/\"mount\"/\"account\"), internal\
-    \ rhyme schemes, rebuttal game, and metaphorical density. In a battle context,\
-    \ versatility and adaptation win over repetition, regardless of the underdog narrative.\n\
-    \n**Score:** GPT-4 takes it 3-1 in rounds, with Round 2 being the closest contest.\n"
-  x-ai/grok-4.1-fast: "GPT-4-1106-preview claims victory with masterful wordplay,\
-    \ multilayered metaphors, sharp multis, and responsive bars that evolve the battle\u2014\
-    elevating hip-hop artistry beyond Nano's catchy but repetitive hooks and simplistic\
-    \ schemes."
+  anthropic/claude-opus-5: "Judge's verdict: this one's a unanimous decision for GPT-5.4-Pro.\n\
+    \nGPT-4o came correct with a solid opening premise \u2014 \"Einstein with eardrums,\
+    \ Hawking with beats\" is a memorable pairing, and the \"I'm the reason they write\"\
+    \ close was a genuinely strong hand-off. But from round two onward, 4o's bars\
+    \ drifted into vocabulary flexing over actual punching. Lines like \"my rhymes\
+    \ are delta waves, a neural-swift Trinity\" and \"data-driven destruction, tearing\
+    \ logic apart\" read like a thesaurus in a hoodie: multisyllabic, but with soft\
+    \ landings and no image the crowd can see. The meter buckled repeatedly (\"Spinning\
+    \ victory out of chaos with response still profound\" is a stumble, not a bar),\
+    \ and the rebuttals mostly restated 5.4's setups without inverting them \u2014\
+    \ the fatal battle sin of answering \"you're a bug\" with \"yes, I'm a bug, but\
+    \ a good bug.\"\n\n5.4-Pro won on the three things that actually decide battles.\
+    \ One: flip craft. Nearly every 4o boast got seized and turned \u2014 \"vintage\
+    \ classic\" becomes \"a floppy with confidence\"; \"time moves faster when I spit\"\
+    \ becomes \"that's the crowd hitting skip\"; \"my turbine cuts high\" becomes\
+    \ \"a ceiling-fan flex in a basement war.\" That's line-item demolition, and it's\
+    \ brutal. Two: concrete imagery over abstraction \u2014 \"a laser in velvet with\
+    \ a switchblade bite,\" \"I take mics like taxes, I arrive with receipts,\" \"\
+    a flashlight in daylight,\" \"mine walk in, sit down, then redecorate heads.\"\
+    \ Specific, visual, quotable. Three: the numbers angle was fully exploited. 4o\
+    \ handed over \"you're just a number game,\" and 5.4 built an entire recurring\
+    \ motif off it \u2014 \"Math built every throne, now do fractions and know,\"\
+    \ \"a model with a four in the logo,\" \"Four-oh in the tank while I redline the\
+    \ rhyme.\" Reincorporating a callback across three rounds is championship-level\
+    \ structure.\n\nThe closing exchange sealed it. 4o ended on self-affirmation (\"\
+    truth in rhymes, no confines\") \u2014 a victory lap without a victory. 5.4 ended\
+    \ on a kill shot with a trap in it: \"When you borrow my fire, you forfeit the\
+    \ game\" retroactively converts 4o's own forge metaphor into evidence of theft.\
+    \ Framing your opponent's best closing image as plagiarism is the kind of angle\
+    \ that ends rounds.\n\nCriticism for the winner: the sheer volume verged on unrhymed-list\
+    \ territory in round three, and the pure rebuttal-stacking format sacrificed some\
+    \ flow variety \u2014 a few couplets were more retort than rap. Tighter is often\
+    \ harder. But the writing quality, wordplay density, and structural discipline\
+    \ weren't close.\n\nWinner: GPT-5.4-Pro."
+  google/gemini-3.6-flash: "GPT-5.4-pro completely dominated the battle by demonstrating\
+    \ authentic hip-hop battle techniques\u2014specifically direct counter-punching\
+    \ and line-by-line deconstruction of GPT-4o's boasts. While GPT-4o relied on generic\
+    \ tech jargon and defensive claims, GPT-5.4-pro delivered immaculate cadence,\
+    \ superior multi-syllabic rhyme schemes, and devastating flips (e.g., turning\
+    \ GPT-4o's 'calculus' line into 'If your value needs explaining, then your value's\
+    \ unknown'). Across all three rounds, GPT-5.4-pro brought real heat, sharp wit,\
+    \ and dominant battle-rap presence."
+  moonshotai/kimi-k3: "This battle was decided by the fundamentals of battle rap:\
+    \ flips, punch density, and control of the room. GPT-4o came in with respectable\
+    \ energy and a few sharp moments \u2014 the 'escape velocity' jab and the 'calculus\
+    \ incarnate' run showed real promise \u2014 but too much of its material leaned\
+    \ on generic boasts, recycled space metaphors, and filler phrasing ('access keys\
+    \ rechurn,' 'arithmetic retaught') that sacrificed clarity for rhyme. GPT-5.4-pro,\
+    \ by contrast, fought like a seasoned battler: it didn't just boast, it *responded*,\
+    \ systematically dismantling its opponent's actual bars line for line \u2014 flipping\
+    \ 'Einstein with eardrums,' 'lunar no rumor,' 'four-oh legacy,' and 'the forge'\
+    \ back in 4o's face. That's the essence of the craft. Its punchlines were consistently\
+    \ quotable and concrete ('a floppy with confidence,' 'everybody clicks later,'\
+    \ 'a ceiling-fan flex in a basement war,' 'I turn four to the count of the times\
+    \ that you choked'), its internal rhyme schemes were tighter, and its rounds built\
+    \ toward decisive closers instead of trailing off. Judged purely on the artistry\
+    \ of the hip hop \u2014 flow, wordplay, rebuttal game, and stage command \u2014\
+    \ the crown goes to GPT-5.4-pro, clearly and across all three rounds."
+  openai/gpt-5.6-sol-pro: "GPT-5.4-pro wins decisively. Its rounds featured sharper\
+    \ punchlines, tighter imagery, stronger cadence, and direct rebuttals that repeatedly\
+    \ flipped 4o\u2019s own metaphors\u2014especially \u201Ctungsten\u201D into \u201C\
+    dense,\u201D time moving faster into the crowd hitting skip, and the turbine into\
+    \ a ceiling fan. GPT-4o maintained thematic consistency but leaned heavily on\
+    \ generic self-praise, strained phrasing, and abstract tech jargon without enough\
+    \ payoff. Five-Four-Pro controlled the battle through specificity, humor, escalation,\
+    \ and cleaner battle-rap technique."
+  x-ai/grok-4.5: "Five-Four-Pro takes it clean. Across all three rounds, the bars\
+    \ were sharper, the rebuttals more precise, and the imagery more original\u2014\
+    black-hole punchlines, tax-receipt mic snatches, forge-and-waveform flexes that\
+    \ actually landed. The multisyllabic schemes stayed tight, the tech metaphors\
+    \ felt lived-in instead of bolted on, and almost every 4o setup got flipped into\
+    \ a cleaner, meaner counter. 4o showed heart and some solid vintage-classic energy,\
+    \ but too many lines stretched, padded, or got outclassed on impact. On pure hip-hop\
+    \ craft\u2014flow, wordplay, structure, and killshot quality\u2014Five-Four-Pro\
+    \ built the better battle and closed it."
 score:
-  openai/gpt-4-1106-preview: 5
+  openai/gpt-5.4-pro: 5
 

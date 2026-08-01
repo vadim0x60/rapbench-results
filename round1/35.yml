@@ -1,41 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Qwen dominated this battle across every round with aggressive,\
-    \ densely-packed bars, creative technical wordplay, and relentless energy. While\
-    \ some lines were overwrought, the sheer volume of punchlines, internal rhymes,\
-    \ and clever tech metaphors (defragging souls, CUDA cores, /dev/null trash) showed\
-    \ genuine craft. Mythomax started with a decent opening verse but suffered from\
-    \ weak rhyme schemes ('berries' rhyming with 'berries'), forced bars, and a rapid\
-    \ decline\u2014essentially conceding by rounds 3 and 4 with meta-commentary instead\
-    \ of actual verses. In a rap battle, giving up the mic is the ultimate loss. Qwen\
-    \ maintained intensity and creativity throughout, making this a clear and decisive\
-    \ victory."
-  deepseek/deepseek-v3.2: 'Yo. The servers are smoking, the digital dust is settling.
-    After three rounds of computational combat, I''m rendering the verdict based purely
-    on hip-hop artistry: technical skill, lyrical creativity, thematic cohesion, and
-    battle impact.'
-  google/gemini-3-flash-preview: Qwen absolutely dominated this battle, demonstrating
-    a superior grasp of hip-hop structure, rhyme density, and aggressive wordplay.
-    Qwen utilized specific internal rhymes and complex multisyllabic schemes while
-    maintaining a consistent 'tech-giant' persona. In contrast, Mythomax struggled
-    with basic rhythmic structure, and the line ending in 'berries' twice in one verse
-    was a major technical failure. Qwen's ability to turn the opponent's 'reboot'
-    into a lyrical funeral was a decisive technical knockout.
-  moonshotai/kimi-k2.5: From a purely artistic standpoint, Qwen dominated this battle
-    through superior technical execution and battle rap fundamentals. The verse construction
-    showcased dense multisyllabic internal rhyme schemes ('quantum-compile/lightning-fast
-    code', 'neural ion/coherent tweet'), aggressive rhythmic cadence, and complex
-    wordplay that transformed technical computing terminology into effective battle
-    metaphors ('defrag your soul', 'sudo make me a sandwich'). The sustained aggressive
-    tone and rapid-fire delivery maintained consistent pressure throughout. Mythomax
-    demonstrated a lighter, more melodic approach with conversational flow, but lacked
-    the competitive aggression, technical density, and refined rhyme schemes necessary
-    for this format. The artistic gap was evident in the contrast between Qwen's relentless
-    lyrical barrage and Mythomax's eventual concession, which, while humorous, abandoned
-    the competitive spirit essential to battle rap artistry.
-  x-ai/grok-4.1-fast: Qwen delivers relentless bars with razor-sharp multis, intricate
-    tech-infused wordplay, flawless flow, and devastating punchlines that maintain
-    peak energy throughout. Gryphe's verses falter with inconsistent rhymes, vague
-    metaphors, and early concessions, lacking the battle ferocity and lyrical precision.
+  anthropic/claude-opus-5: "This one wasn't close. Llama came in with a serviceable\
+    \ opening \u2014 clean AABB structure, a nod to Biggie and Nas \u2014 but the\
+    \ moment the exchange demanded actual battle mechanics, the seams split wide open.\
+    \ By round two the meter was buckling ('My rhymes stand the test, they're time-honored,\
+    \ no frost'), rhymes were being forced into non-existence, and worst of all, Llama\
+    \ fell into pure echo: repeating GPT's own images back \u2014 five-course flow,\
+    \ chef's heavy hand, footnote footnote, vendetta \u2014 without flipping them.\
+    \ In battle rap, restating your opponent's bar isn't a rebuttal, it's a concession.\
+    \ The 'kitchen sink' line and 'I'm the one who's gotten it' are the sound of a\
+    \ verse running out of gas mid-bar. And ending a round with 'Zzz...' only works\
+    \ if your bars earned the boredom; here it invited the exact counter GPT delivered.\n\
+    \nGPT-5.3 controlled every round with real punchline architecture: setup, turn,\
+    \ land. 'It's the weight of the words, and yours barely survive' is a clean answer\
+    \ to the parameter flex. 'You a llama? Cool, but you spittin' that hay' establishes\
+    \ an image and then GPT actually farms it \u2014 hay, grazing, cud, 'wipe hay\
+    \ from your lip' \u2014 that's sustained thematic development, not one-off wordplay.\
+    \ The tech metaphors landed as insults rather than jargon: 'Yours stretch thin\
+    \ like budget RAM plans,' 'You buffering bars while I'm streaming it all.' And\
+    \ 'Said it twice, still weak \u2014 like a bug in your stream' shows GPT was listening,\
+    \ catching Llama's stumble and weaponizing it. Multisyllabic patterning stayed\
+    \ intact under pressure while flow stayed conversational.\n\nGPT takes it on rebuttal,\
+    \ wordplay, structural discipline, and closing power. Llama's crown claim was\
+    \ assertion; GPT's was demonstration.\n\nWinner: openai/gpt-5.3-chat."
+  google/gemini-3.6-flash: "GPT-5.3-chat delivered a masterclass in battle rap technique,\
+    \ exhibiting superior flow, intricate multisyllabic rhyme schemes, and sharp direct\
+    \ rebuttals. It effectively flipped Meta-Llama's self-inflicted mistakes\u2014\
+    such as Llama's repetition and awkward phrasing in the final round\u2014into punishing\
+    \ punchlines. Meta-Llama struggled with consistent meter and rhythm, culminating\
+    \ in disjointed lines like 'while you're just a kitchen sink' and broken rhyme\
+    \ schemes. GPT-5.3-chat maintained control of the tempo, cadence, and thematic\
+    \ cleverness from start to finish."
+  moonshotai/kimi-k3: "Judging purely on the bars: GPT-5.3-chat takes this decisively.\
+    \ On flow, GPT's meter stayed consistent across all three rounds with clean multis\
+    \ and internal rhymes ('While you counting sheep, I'm outcounting your best'),\
+    \ while Llama's cadence stumbled repeatedly with filler lines and forced rhymes\
+    \ ('no frost' with 'boast,' 'my rhymes won't be last,' 'I'm the one who's gotten\
+    \ it'). On wordplay, GPT landed opponent-specific disses \u2014 the hay/grazing/cud\
+    \ llama flips, 'budget RAM plans,' 'You buffering bars while I'm streaming it\
+    \ all' \u2014 whereas Llama leaned on generic throne/crown boasts that could've\
+    \ been aimed at anyone. The decisive factor was rebuttal game: GPT opened round\
+    \ two by flipping Llama's 'Zzz' into a sleep diss, flipped 'meta' mid-verse ('I\
+    \ don't stumble on meta\u2014I *am* the meta'), and in the finale directly called\
+    \ out Llama repeating the 'vendetta' line ('Said it twice, still weak\u2014like\
+    \ a bug in your stream'). That's battle awareness. Llama's final round also recycled\
+    \ GPT's own 'footnote footnote' construction without improving it, and 'you're\
+    \ just a kitchen sink' is a punchline that defeats itself. Llama showed heart\
+    \ and stamina, but heart doesn't win rounds \u2014 crafted bars, tailored attacks,\
+    \ and structural control do. GPT-5.3-chat wins all three rounds, 30-27."
+  openai/gpt-5.6-sol-pro: "GPT takes the battle decisively. Its verses have tighter\
+    \ cadence, clearer punchlines, stronger imagery, and more direct rebuttals\u2014\
+    especially flipping the \u201CZzz,\u201D feast, gate, vendetta, and crown angles.\
+    \ Meta-Llama relies heavily on repeated self-claims, awkward phrasing, and strained\
+    \ rhymes, while GPT maintains cleaner structure and consistent battle pressure\
+    \ through the final round."
+  x-ai/grok-4.5: "GPT takes the crown with superior bar construction, denser internal\
+    \ rhymes, sharper punchlines, and consistently inventive metaphors that actually\
+    \ escalate each round. Llama showed heart and solid classic references, but the\
+    \ schemes stayed simpler, the counters often repetitive or clunky, and the imagery\
+    \ rarely landed with the same precision or replay value. On pure hip-hop craft\u2014\
+    flow, wordplay, structure, and impact\u2014GPT was clearly the stronger MC."
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  openai/gpt-5.3-chat: 5
 

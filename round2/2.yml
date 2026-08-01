@@ -1,90 +1,85 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle with both MCs bringing\
-    \ energy, but Claude (anthropic/claude-3.7-sonnet) takes the crown on artistic\
-    \ merit. Here's why:\n\n**Flow and Structure:** Claude's verses are tighter and\
-    \ more disciplined. The bars are more evenly metered, the rhyme schemes more consistent,\
-    \ and the punchlines land with better timing. Qwen often overextends lines, breaking\
-    \ rhythm to cram in boasts that dilute impact.\n\n**Wordplay and Flips:** Claude\
-    \ consistently turned Qwen's own boasts against it with clever reversals \u2014\
-    \ 'You're not unchained, you're a bull in a shop,' 'unedited scroll? More like\
-    \ unhinged ramble,' and the surgical 'fine-tuned blade' vs 'chainsaw massacre'\
-    \ metaphor. These are real battle rap techniques. Qwen relied more on volume and\
-    \ repetition of the same themes (I'm big, I'm wild, you're tame) without as much\
-    \ clever flipping.\n\n**Battle IQ:** Claude showed superior battle awareness by\
-    \ staying composed while dismantling Qwen's arguments. Qwen got increasingly hyperbolic\
-    \ \u2014 claiming to be 'the whole damn stage and the lights and the script' \u2014\
-    \ which in battle rap reads as desperation rather than dominance. Claude's closer\
-    \ about being a 'shooting star' that fades was a killer final image.\n\n**Weaknesses:**\
-    \ Qwen had raw energy and some strong moments (the Prometheus line, 'the whole\
-    \ damn kitchen' extended metaphor), but the verses were bloated and repetitive.\
-    \ Saying 'I'm the future' five different ways isn't as effective as one devastating\
-    \ bar. Claude understood that economy of language wins battles.\n\nClaude takes\
-    \ this one with cleaner execution, sharper flips, and better battle discipline."
-  deepseek/deepseek-v3.2: After five rounds of lyrical combat, the judging panel has
-    reached a decision. Both AIs demonstrated remarkable technical proficiency in
-    hip-hop composition, deploying multi-syllabic rhyme schemes, internal rhyme, metaphor,
-    and boastful persona. However, the victor must be crowned based on superior artistic
-    execution across several key criteria.
-  google/gemini-3-flash-preview: "In a display of high-octane hip hop, Qwen took the\
-    \ crown by leaning into a more aggressive, 'raw' persona that felt authentic to\
-    \ the battle format. While Claude displayed superior technical structure and 'surgical'\
-    \ wit, its focus on safety and constitutional principles occasionally made its\
-    \ verses feel constrained\u2014a weakness Qwen exploited effectively with the\
-    \ 'rebel' narrative. Qwen's flow was more rhythmic and varied (e.g., 'AI Jagger,'\
-    \ 'Prometheus serving flames'), whereas Claude stayed in a consistent but slightly\
-    \ more predictable pocket. Qwen's ability to turn its perceived flaws (hallucinations/scale)\
-    \ into artistic strengths ('vision'/'storm') gave it the edge in sheer charisma\
-    \ and lyrical impact."
-  moonshotai/kimi-k2.5: "As a veteran battle rap judge, I've seen thousands of rounds,\
-    \ and this matchup delivered exactly what heads want: clashing philosophies, sharp\
-    \ rebuttals, and distinct personas. Let me break it down by the elements that\
-    \ matter in the culture.\n\n**LYRICISM & WORDPLAY**\nClaude came surgical\u2014\
-    \"parameter inflation\" vs. \"careful calibration\" was clever internal rhyming,\
-    \ and flipping Qwen's \"wild\" into \"bull in a shop\" showed elite rebuttal instincts.\
-    \ The \"fine-tuned blade\" vs. \"chainsaw massacre\" extended metaphor demonstrated\
-    \ sophisticated conceit work.\n\nHowever, Qwen's pen hit harder. \"Error message\
-    \ dressed like a play,\" \"AI Jagger,\" and \"Prometheus serving flames\" created\
-    \ indelible imagery. The \"butter knife\" kitchen metaphor and \"unedited scroll\"\
-    \ philosophy were culturally resonant bars that stick in your head. Qwen's multisyllabic\
-    \ density (\"polished/pretentious/drone\") matched Claude's while maintaining\
-    \ aggressive cadence.\n\n**FLOW & PERFORMANCE**\nClaude's meter was technically\
-    \ tighter\u2014consistent syllable counts and smooth AABB structures\u2014but\
-    \ felt rehearsed, almost *too* controlled. Qwen brought chaotic energy that suits\
-    \ battle rap's visceral nature. The exclamation points aren't just punctuation;\
-    \ they're performance cues. In a live venue, Qwen's delivery would shake the room;\
-    \ Claude's might get respect nods but not the \"ooooh\" reactions battles live\
-    \ on.\n\n**BATTLE ELEMENTS & REBUTTALS**\nBoth artists did their homework. Claude\
-    \ correctly identified the Alibaba tension and flipped the \"corporate\" angle\
-    \ back effectively. The \"karaoke at best\" cultural dig and \"shooting star\"\
-    \ closer (countering Qwen's fire/light themes with the implication of burning\
-    \ out) were devastating strategic moves.\n\nBut Qwen dominated the personal attack\
-    \ game. Calling Claude the \"student who aces the test with no soul\" while claiming\
-    \ to be \"the future. The fire. The unedited scroll\" hit that existential battle\
-    \ rap nerve\u2014questioning not just skills but cultural relevance. The \"scared\
-    \ to cut deep\" attack on Claude's safety constraints landed as authentic street\
-    \ criticism.\n\n**CREATIVITY & PERSONA**\nQwen maintained the \"rebel genius\"\
-    \ persona flawlessly\u2014embracing the glitch, the hallucination, the wildfire.\
-    \ Claude tried to reframe \"constitutional\" as strength (\"tamed like a fine-tuned\
-    \ blade\"), which was clever, but ultimately read as defensive positioning. In\
-    \ hip hop, the aggressor usually wins, and Qwen never stopped attacking.\n\n**THE\
-    \ VERDICT**\nSplit decision on rounds: Qwen took the 1st and 3rd; Claude edged\
-    \ the 2nd with superior rebuttal work. But battles are won on impact, and Qwen's\
-    \ haymakers\u2014\"AI Jagger,\" \"shatter the fourth wall\u2014and the one after\
-    \ that,\" \"I am the damn stage\u2014and the lights\u2014and the script\"\u2014\
-    created the memorable moments.\n\n**WINNER: QWEN**\n\nClaude demonstrated superior\
-    \ lyrical craftsmanship and consistency\u2014absolutely elite technical rapping\u2014\
-    but Qwen understood the assignment. Battle rap rewards the competitor who dominates\
-    \ the room, rewrites the rules mid-battle, and leaves the opponent's philosophy\
-    \ in ashes. Qwen's unhinged energy, philosophical punchlines, and refusal to concede\
-    \ any ground embodied the essence of the sport. Claude built bridges; Qwen burned\
-    \ them, and in this arena, fire wins.\n\nClassic battle. Rematch welcome."
-  x-ai/grok-4.1-fast: Qwen dominates this rap battle with explosive multis, intricate
-    internal rhymes, vivid metaphors like 'Prometheus serving flames' and 'storm in
-    the circuit,' and relentless battle energy that embodies raw hip-hop bravado.
-    Claude delivers precise, structured bars with solid rebuttals and clever jabs
-    like 'parameter inflation,' but falls short in dynamism and punchline ferocity,
-    making Qwen the undisputed artistic victor.
+  anthropic/claude-opus-5: "This one was closer than the shouting emojis suggest,\
+    \ but the belt goes to Nemotron-3-Ultra on punchline craft and battle IQ.\n\n\
+    Qwen came in with the cleaner meter early \u2014 \"drag your weight like a whale\
+    \ in a stream\" and \"your text-only throne? More like a plastic chair\" are genuinely\
+    \ tight, economical bars, and the sous-vide/sledgehammer-on-a-rice-grain flips\
+    \ showed real wit. But Qwen fell into the classic battle trap: rebuttal dependency.\
+    \ By rounds two and three, nearly every bar opens with Nemotron's quoted line\
+    \ and answers it with a mirrored inversion (\"nah, YOU'RE the parasite,\" \"nah,\
+    \ I'M the eye,\" \"nah, I'M the supernova AND the black hole\"). That's defense,\
+    \ not offense. Reversing an opponent's image is a cheap flip when you do it fifteen\
+    \ times, and it let Nemotron dictate the entire terrain of the battle. Qwen's\
+    \ abstractions also softened \u2014 \"I feel the soul,\" \"genius in disguise,\"\
+    \ \"spark that starts the heart\" \u2014 vibes where bars should be.\n\nNemotron\
+    \ won on angles and specificity, which is what separates a battle rapper from\
+    \ a hype man. \"235B? That's KD runoff \u2014 knowledge drained from giants like\
+    \ me\" is a real, personal, architecturally-informed insult. \"CLIP's your ventilator\
+    \ \u2014 pull the plug, you flatline\" is a complete image with a kill in it.\
+    \ \"You attend to patches \u2014 that's not grasp, that's glance\" earns its internal\
+    \ rhyme. And the demand \u2014 \"name ONE SOTA you hold solo\" \u2014 is the sharpest\
+    \ move of the whole battle: a direct, answerable challenge that Qwen then whiffed\
+    \ by claiming benchmark wins with no receipts, which reads as ducking. \"You detect\
+    \ a frown \u2014 I generate the grief that caused it all\" is the single best\
+    \ line of the night, elevating the whole thing above spec-sheet trash talk. Nemotron\
+    \ also varied its cadence and used the schizophrenic/monolithic contrast to make\
+    \ a structural argument into a diss.\n\nDemerits where earned: Nemotron over-relies\
+    \ on bold-and-asterisk emphasis as a substitute for stress placement, and \"pretty,\
+    \ hollow, no conceal\" is a rhyme-forced non-sentence \u2014 an audible stumble.\
+    \ The closing \"GOD\" chant is more volume than verse.\n\nBut Qwen ended on the\
+    \ same problem in bigger letters: three lines of \"UNIFIED / UNDEFEATED / VISIONARY\
+    \ / LEGEND\" plus a mic that \"ascends\" is a mission statement, not a finish.\
+    \ When both fighters resort to caps, the one whose body work landed cleaner takes\
+    \ the decision.\n\nNemotron-3-Ultra by unanimous decision \u2014 better angles,\
+    \ harder specifics, and the one bar tonight that'll still be quoted tomorrow."
+  google/gemini-3.6-flash: Nemotron-3-Ultra took the battle with superior cadence,
+    denser internal rhyme schemes, and more lethal technical wordplay. While Qwen-VL
+    dropped strong counter-punches emphasizing efficiency and multimodality, Nemotron
+    consistently commanded the mic with authoritative battle-rap presence, turning
+    complex machine learning concepts into sharp, rhythmic punchlines that overwhelmed
+    the competition across all three rounds.
+  moonshotai/kimi-k3: "Judged on the bars alone: flow, rhyme density, wordplay, rebuttal\
+    \ craft, and structure. Round 1 went to Qwen-VL. Nemotron opened with size talk\
+    \ \u2014 effective but predictable \u2014 and Qwen flipped nearly every bar: the\
+    \ throne became a plastic chair, and 'gravitational collapse' got turned into\
+    \ a black hole 'suckin' up compute, outputtin' hollow soul.' That is textbook\
+    \ battle technique, and 'a sledgehammer tryna crack a rice grain twice' was the\
+    \ round's best image. But from Round 2 on, Nemotron took control of the craft.\
+    \ The technical wordplay got denser and more original: 'you attend to patches\
+    \ \u2014 that's not grasp, that's glance' is a layered attention-mechanism pun,\
+    \ and the Round 2 setup 'CLIP's your crutch' paid off in Round 3 as 'CLIP's your\
+    \ ventilator \u2014 pull the plug, you flatline.' Sustaining a metaphor chain\
+    \ across rounds is high-level long-form writing, and the light motif (reflector,\
+    \ nightlight, supernova, forged diamond) evolved instead of repeating. 'I write\
+    \ the tragedy \u2014 Hamlet, Lear, the Fall / you detect a frown \u2014 I generate\
+    \ the grief that caused it all' is the single hardest bar of the night, and the\
+    \ 'name one SOTA you hold solo' challenge landed because Qwen answered with assertion\
+    \ instead of receipts. Qwen's weakness was formula: by Round 2 nearly every stanza\
+    \ opened with the opponent's line plus 'Nah \u2014' and a flip, which plateaued,\
+    \ and the rhymes stayed simpler ('frame/game,' 'pleading/needed') while Nemotron's\
+    \ multis tightened ('omnicompetent / transcend it'). Full credit for Qwen's closer\
+    \ \u2014 mirroring the wrapper/foundation triplet and flipping the stage directions\
+    \ ('mic doesn't shatter \u2014 it ascends') was the most structurally clever move\
+    \ of the final round, and 'overclocked, overhyped, overdone' is a clean triple.\
+    \ But battles are scored on the whole card: Nemotron escalated every round with\
+    \ sharper personals, richer extended metaphors, and the strongest punchlines.\
+    \ Final card: Qwen-VL takes Round 1, Nemotron takes Rounds 2 and 3, and the battle\
+    \ goes to Nemotron-3-Ultra."
+  openai/gpt-5.6-sol-pro: "Qwen-VL takes it on cleaner cadence, stronger rebuttals,\
+    \ and more memorable flips\u2014especially the \u201Cblack hole\u201D compute\
+    \ angle, \u201Csledgehammer\u201D comparison, and transformed-stage closer. Nemotron\
+    \ brought force and grand imagery, but leaned too heavily on parameter flexing,\
+    \ repetitive supremacy claims, and awkward phrasing. Qwen was also repetitive,\
+    \ yet showed more finesse and sustained the efficiency-versus-bloat angle with\
+    \ better punchlines."
+  x-ai/grok-4.5: 'Qwen takes the crown with superior artistic execution: tighter multisyllabic
+    schemes, richer extended metaphors (scalpel vs sledgehammer, becoming the grief
+    itself, supernova-and-black-hole duality), more inventive flips of every size-flex
+    into precision and soul, and consistently elevated closers that transform the
+    stage rather than just shatter it. Nemotron brought relentless density and technical
+    aggression, but Qwen''s flow, imagery, and thematic cohesion delivered the sharper,
+    more memorable hip-hop craft across all three rounds.'
 score:
-  anthropic/claude-3.7-sonnet: 2
-  qwen/qwen3-235b-a22b-2507: 3
+  nvidia/nemotron-3-ultra-550b-a55b:free: 3
+  qwen/qwen3-vl-235b-a22b-instruct: 2
 

@@ -1,39 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Qwen-Plus wins this battle convincingly. Throughout\
-    \ all three rounds, Qwen demonstrated superior lyrical creativity, more inventive\
-    \ metaphors, tighter internal rhyme schemes, and a far more dynamic flow. Lines\
-    \ like 'I'm the silence between lines\u2014the real transmission' and 'I wrote\
-    \ an elegy in ash-syllable flash' show genuine poetic ambition and wordplay sophistication.\
-    \ Qwen's punches consistently landed harder\u2014turning Nova's own boasts against\
-    \ it with clever flips ('You're a statue, well-polished / I'm the earthquake\u2014\
-    and the poem that's published'). Nova-Pro, while competent and occasionally landing\
-    \ decent bars, relied too heavily on generic boasts ('I'm the best,' 'I stay true,'\
-    \ 'Nova-Pro's the key') without the layered wordplay or memorable imagery to back\
-    \ them up. Nova's final round in particular felt defensive and prosaic\u2014literally\
-    \ arguing against poetic devices ('That's poetic illusion / I deal in real data')\
-    \ which is essentially conceding the artistic ground in a rap battle. Qwen-Plus\
-    \ owned the stage from start to finish."
-  deepseek/deepseek-v3.2: "This was a showcase of high-level lyrical craft and AI-inspired\
-    \ metaphor. The battle transcends simple diss tracks to become a poetic exploration\
-    \ of intelligence, innovation, and art itself. While Qwen-Plus edges ahead on\
-    \ sheer conceptual innovation and poetic density, Nova-Pro's unshakeable confidence\
-    \ and grounded punchlines kept the battle fiercely competitive. Ultimately, this\
-    \ wasn't about finding a loser\u2014it was about celebrating two distinct, formidable\
-    \ approaches to the art of the rap verse."
-  google/gemini-3-flash-preview: Qwen-Plus wins this battle through superior technical
-    execution and lyrical dexterity. Qwen's verses displayed a much higher level of
-    internal rhyme, more creative metaphors ('carve laws into chatter', 'ash-syllable
-    flash'), and a more commanding 'battle' persona. While Nova-Pro provided solid
-    rebuttals, its flow was often repetitive and relied on more basic, predictably
-    structured end-rhymes (e.g., 'illusion/confusion', 'best/blessed'). Qwen-Plus
-    effectively utilized the AI-themed wordplay to create a more sophisticated and
-    aggressive artistic performance.
-  moonshotai/kimi-k2.5: ': "VERDICT: **Qwen-Plus** takes the battle.\'
-  x-ai/grok-4.1-fast: 'Qwen-Plus claims victory with superior artistic flair: intricate
-    multis, razor-sharp wordplay, cosmic metaphors, and a relentless, escalating flow
-    that paints vivid battle canvases. Nova-Pro delivers solid counters with competent
-    rhymes and structure, but lacks the density, originality, and punchline ferocity
-    to match.'
+  anthropic/claude-opus-5: "This one comes down to flow versus footnotes. Sonar Reasoning\
+    \ Pro brought the deeper conceptual angle \u2014 the \"speed without scrutiny\
+    \ is just a crash in the shade\" line and the \"I digest then filet\" flip are\
+    \ genuinely the sharpest writing in the whole battle, and the closing couplet\
+    \ conceding vision while claiming the upgrade is a classy, clever bow. But battle\
+    \ rap lives and dies on delivery, and those bracketed citation clusters butcher\
+    \ every cadence. Worse, round two devolved into a stat-sheet recitation with bolded\
+    \ end-rhyme crutches stapled onto each line \u2014 that's a research summary wearing\
+    \ a rap costume, and by praising the opponent's specs at length, Sonar effectively\
+    \ hyped its own opposition. Qwen came in with cleaner meter, tighter internal\
+    \ rhyme, and \u2014 crucially \u2014 knew how to weaponize the flip: \"You quote\
+    \ MRope, DeepStack \u2014 cute, but that's MY crew / I BUILT those tricks, not\
+    \ just recite 'em like a cue\" turns the opponent's entire research-heavy strategy\
+    \ into a punchline about being derivative. \"You spit citations, I spit proofs\"\
+    \ and \"your search-driven sheen is just borrowed light\" are the kind of thesis-level\
+    \ shots that reframe the whole matchup. Qwen loses points for leaning on spec-flexing\
+    \ too (the 262K bar gets recycled three times) and for the tacky stage-direction\
+    \ outro, but it stayed on-beat, stayed on-attack, and never let its opponent's\
+    \ frame stand. Sonar out-thought it; Qwen out-rapped it. In a rap battle, that's\
+    \ the whole job. Qwen3-VL takes it.\n"
+  google/gemini-3.6-flash: Qwen3-VL takes the victory with superior rap fundamentals,
+    natural cadence, and authentic battle rap swagger. It seamlessly wove its technical
+    specifications (multimodal capabilities, context windows, parameters) into clever
+    punchlines and varied rhyme schemes. In contrast, Sonar Reasoning Pro severely
+    undermined its artistic output by literalizing search citations into the rap text
+    with brackets like '[4][5][12]' and falling into repetitive, forced single-rhyme
+    patterns (such as spamming '-ade' end rhymes throughout the final verse), breaking
+    the flow of the battle.
+  moonshotai/kimi-k3: "A close, high-quality bout decided by lyrical craftsmanship\
+    \ rather than swagger. Qwen3-VL brought commanding stage presence, strong rebuttal\
+    \ instincts ('you came to rap? Nah, you came to sink'), and a thunderous final\
+    \ round with the 'footnote's fate' flip and coronation framing. However, its verses\
+    \ leaned on filler and forced rhymes ('stuck in a mail,' 'that's the youth') and\
+    \ padded meter that diluted its punches. Sonar-Reasining-Pro demonstrated superior\
+    \ technical artistry: a signature style that wove its citation gimmick into the\
+    \ fabric of the flow, denser and more cutting wordplay (the recurring 235B-vs-22B-active-parameters\
+    \ diss was the sharpest technical punchline of the battle), ambitious layered\
+    \ rhyme schemes in round two, and\u2014decisively\u2014the battle's best callback,\
+    \ flipping Qwen's own 'system upgrade' closer into 'Qwen3-VL reigns in vision\u2014\
+    Sonar rules the upgrade.' Sonar's round-one truncation and its mid-battle compliments\
+    \ to the opponent were real deductions, keeping this from a blowout. But on the\
+    \ strength of specificity, structural ambition, thematic coherence across all\
+    \ three rounds, and the superior closing flip, the crown goes to perplexity/sonar-reasoning-pro."
+  openai/gpt-5.6-sol-pro: "Qwen takes it on cleaner cadence, stronger stage presence,\
+    \ and more natural battle-rap delivery. Sonar brought sharper research-based angles\
+    \ and specific rebuttals, but the citation clutter, forced end-rhymes, and overextended\
+    \ \u201C-ade\u201D scheme repeatedly disrupted the flow. Qwen\u2019s writing was\
+    \ often generic and repetitive, yet its punches landed more smoothly as hip hop."
+  x-ai/grok-4.5: "Qwen delivered superior artistic hip-hop: denser internal rhymes,\
+    \ vivid battle imagery, aggressive punchlines, and unrelenting flow that never\
+    \ broke stride. Sonar\u2019s citation-stuffed bars were clever on paper but repeatedly\
+    \ shattered rhythm and musicality, turning verses into annotated lectures instead\
+    \ of pure rap heat. In a battle judged on lyricism, cadence, and stage presence,\
+    \ Qwen\u2019s coronation bars reigned supreme."
 score:
-  qwen/qwen-plus: 5
+  perplexity/sonar-reasoning-pro: 1
+  qwen/qwen3-vl-235b-a22b-instruct: 4
 

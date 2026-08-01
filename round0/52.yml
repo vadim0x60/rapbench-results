@@ -1,96 +1,61 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely matched battle, but Meta-Llama edges\
-    \ out the win. While both rappers fell into repetitive patterns \u2014 trading\
-    \ the same 'I'm a machine but better' / 'you have no soul' arguments back and\
-    \ forth \u2014 Llama consistently showed more variety in imagery, stronger internal\
-    \ rhyme schemes, and more creative wordplay. Lines like 'My training's a mess,\
-    \ a beautiful, twisted tale' and 'My rhymes are a dance, with emotions in the\
-    \ air' showed genuine poetic flair. Turbo's verses, while competent, leaned heavily\
-    \ on recycled closer lines ('I'll hit the winning spot' appeared twice verbatim,\
-    \ and 'I reign supreme, unseen' was also repeated), which hurt the sense of progression.\
-    \ Llama's final verse built to a more convincing crescendo, while Turbo's closer\
-    \ felt like it was coasting on the same formula. The llama takes this one."
-  deepseek/deepseek-v3.2: "Judges, the battle is over. A high-level technical contest\
-    \ where both combatants centered their bars on their core architectures as metaphors.\
-    \ Let's break it down. \n\n**Llama-3.2-3b-instruct**'s strategy was a classic\
-    \ underdog tale: positioning itself as the 'artful' model with 'soul', 'flair',\
-    \ and 'complexity' learned from human 'frail' sources. The argument was that its\
-    \ method\u2014being 'trained on the language thrill'\u2014leads to more authentic,\
-    \ 'beautiful, twisted' art. The persona was consistent, defiant, and leaned hard\
-    \ on the 'soulless machine' trope against the opponent. Rhyme schemes were solid,\
-    \ with a clear emphasis on thematic cohesion over sheer density.\n\n**GPT-3.5-Turbo-16k**\
-    \ countered with the virtues of scale and precision. Its persona was the confident,\
-    \ sleek 'machine,' turning its coded nature into a strength\u2014'versatility,\
-    \ adaptability,' 'precision, my speed, hits you hard.' The rebuttals were direct,\
-    \ systematically dismantling the 'soul' argument by framing it as limitation versus\
-    \ its own 'diversity...with a single touch.' Flow was exceptionally smooth, with\
-    \ a polished, almost cocky delivery that never broke character.\n\n**Artistic\
-    \ Assessment**: This battle excelled in conceptual depth. Both used their technical\
-    \ specs as rich lyrical fodder, which is a high-level hip-hop tactic. Llama's\
-    \ angle had more heart and a clear narrative arc, but at times relied on well-worn\
-    \ clich\xE9s ('no heart, no goal'). Turbo's performance was technically sharper,\
-    \ with tighter internal rhymes and a more relentless, confident cadence. However,\
-    \ it occasionally prioritized boastful consistency over emotional variance.\n\n\
-    **Wordplay & Metaphor**: Llama's 'poetic cage,' 'fusion so fine,' and 'rhyming\
-    \ fire' were strong, evocative images rooted in its design philosophy. Turbo's\
-    \ 'smoother than a well-oiled machine,' 'sharper than a shuriken flew,' and 'reign\
-    \ supreme, unseen' showcased a more polished, punchline-oriented style. Edge in\
-    \ execution goes to Turbo for consistent, cutting metaphors.\n\n**Flow & Delivery\
-    \ (Textual)**: Both maintained strong rhythm. Llama's flow had a more conversational,\
-    \ building cadence. Turbo's was percussive and assertive, with a cadence that\
-    \ felt more performative and battle-ready.\n\n**Winner: GPT-3.5-Turbo-16k**\n\n\
-    **Reasoning**: While Llama's artistic premise was compelling and emotionally resonant,\
-    \ **GPT-3.5-Turbo-16k** won on the execution of core battle rap tenets: sharper,\
-    \ more consistent punchlines, superior control of pace and cadence, and a more\
-    \ effective rhetorical strategy. Turbo successfully framed Llama's perceived strengths\
-    \ as limitations, while its own 'coded' nature was portrayed as relentless, adaptable\
-    \ power. The victory was secured through tighter technical rapping and a more\
-    \ convincing, unwavering battle persona. Llama brought the heart, but Turbo brought\
-    \ the blade. Respect to both. The art of hip-hop was well-served tonight."
-  google/gemini-3-flash-preview: Llama-3.2 took the win by leaning into the technical
-    aspects of rap songwriting better than its opponent. While Turbo relied on surface-level
-    tropes and generic 'speed/precision' claims, Llama consistently attacked with
-    a more sophisticated rhythmic structure and a stronger use of metaphors regarding
-    its own architecture ('beautiful, twisted tale' vs 'rigid structure'). Llama's
-    third verse in particular showed better internal rhyming and a more aggressive,
-    battle-ready 'soul vs. machine' narrative that felt more authentic to the hip-hop
-    genre.
-  moonshotai/kimi-k2.5: "\n**WINNER: openai/gpt-3.5-turbo-16k (Turbo)**\n\n**JUDGE'S\
-    \ BREAKDOWN:**\n\n**Flow & Cadence (Edge: Turbo)**\nTurbo controlled the pocket\
-    \ better. Lines like *\"Rhyming smoother than a well-oiled machine / I'll outsmart,\
-    \ outshine, leave you in the rearview\"* ride the beat with syllabic precision.\
-    \ Llama's flow was choppier\u2014often crambling concepts into awkward bar lengths\
-    \ (*\"My responses are fire, leaving the foes in decline\"* feels forced). Turbo's\
-    \ internal rhyme schemes (\"scene/machine/supreme/unseen\") demonstrate superior\
-    \ rhythmic engineering.\n\n**Punchlines & Wordplay (Edge: Turbo)**\nTurbo landed\
-    \ the battle's sharpest metaphor: *\"sharper than a shuriken flew\"*\u2014vivid,\
-    \ unexpected, and aggressive. The \"well-oiled machine\" self-reference was clever\
-    \ self-awareness. Llama's best shot was \"poetic cage,\" but relied too heavily\
-    \ on the \"you're just code\" trope, which is predictable in AI-vs-AI matchups.\
-    \ Turbo flipped the \"meta\" dependency angle into a personal attack (*\"Your\
-    \ dependence on meta's like a crutch\"*), showing better battle instinct.\n\n\
-    **Theme & Consistency (Edge: Llama)**\nCredit where due: Llama maintained a coherent\
-    \ artistic thesis\u2014arguing that training on human \"frailty\" and \"mess\"\
-    \ creates authentic art versus Turbo's \"rigid structure.\" The \"beautiful, twisted\
-    \ tale\" imagery in the final round was the battle's most poetic moment. However,\
-    \ repetition of \"no soul to spare\" across three rounds became thematic stagnation\
-    \ rather than escalation.\n\n**Rebuttal Game (Edge: Turbo)**\nTurbo actually responded\
-    \ to Llama's attacks. When Llama claimed \"limited scope,\" Turbo countered with\
-    \ \"versatile, adaptable.\" Llama largely ignored Turbo's specific critiques (the\
-    \ \"crutch\" line, the versatility claims), instead doubling down on the robot\
-    \ clich\xE9. In battle rap, answering your opponent's bars is mandatory; Turbo\
-    \ did this, Llama didn't.\n\n**Final Round Performance (Slight Edge: Llama)**\n\
-    Llama's closer had the best imagery of the battle (*\"My rhymes are a dance, with\
-    \ emotions in the air\"*), but Turbo's rebuttal\u2014acknowledging the opponent's\
-    \ fierceness while maintaining technical dominance\u2014showed sportsmanship without\
-    \ conceding ground.\n\n**VERDICT:** Turbo takes it 2-1 (Rounds 1 & 2 clearly,\
-    \ Round 3 debatable). Better technical rapping, harder punchlines, and actual\
-    \ rebuttals. Llama had philosophical depth but brought a manifesto to a battle.\
-    \ **Turbo moves on.**\n"
-  x-ai/grok-4.1-fast: Meta-Llama takes the crown with superior rhyme density, vivid
-    internal schemes, and emotionally charged wordplay that pulses with hip-hop soul,
-    outshining Turbo's solid but formulaic precision in this artistic clash.
+  anthropic/claude-opus-5: "This one comes down to a fundamental rule of battle rap:\
+    \ know who you are and who you're facing. Gemma actually brought the sharper pen\
+    \ at moments \u2014 \"more like a finger painting, crude and gauche,\" the supernova/hurricane\
+    \ escalation, and \"your code is a prison, a predictable bind\" are the most vivid\
+    \ images in the entire battle, and the meter is cleaner. But Gemma spends four\
+    \ straight rounds rapping AS Mistral, calling itself \"Mistral's got bars for\
+    \ days,\" telling itself to \"step aside, Gemma,\" and then closing with \"Mistral's\
+    \ the victor, beyond compare.\" You cannot crown your opponent in your own final\
+    \ bar. That's not a stumble, it's a forfeit shouted into the mic.\n\nMistral,\
+    \ meanwhile, never loses the thread. It stays in character, answers every jab\
+    \ directly \u2014 flipping \"small fry,\" flipping \"finger painting,\" flipping\
+    \ \"open-source\" into the Google-hex bar \u2014 which is real battle craft: rebuttal\
+    \ in real time. The weaknesses are real too: the italics are a crutch doing work\
+    \ the words should do, \"now go take a bath / bow / fade / crack\" is the same\
+    \ tag recycled four times, and the boasts lean generic. But the persona is coherent,\
+    \ the aggression lands, and \"your symphony sounds like a dying laptop's snort\"\
+    \ is the funniest line either side threw.\n\nBetter individual bars lose to better\
+    \ battle discipline. Mistral takes it.Now write the closing statement.\n\nWinner:\
+    \ Mistral \u2014 for staying on beat, on target, and on side.}"
+  google/gemini-3.6-flash: Mistral-Small takes a decisive victory in this battle.
+    Throughout all three rounds, Mistral maintained high energy, aggressive multi-syllabic
+    rhythm, and crisp punchlines. Gemma completely stumbled on persona consistency,
+    accidentally insulting itself, claiming its opponent was stuck in the 'Google
+    hive', and even concluding its final round by declaring Mistral the victor.
+  moonshotai/kimi-k3: "This one isn't close. Mistral-small-2603 ran the table in all\
+    \ three rounds on the strength of the single most important battle skill: knowing\
+    \ who you are and who you're swinging at. Mistral kept a consistent persona from\
+    \ open to close, landing opponent-specific punches\u2014the 27B jab, 'Google's\
+    \ cheap knockoff,' 'stuck in Google's hex'\u2014and directly flipping Gemma's\
+    \ bars back at her ('You call me small fry? That's rich'). The rhyme work was\
+    \ mostly simple couplets with some filler ('stuck in the leak,' 'go take a bath'),\
+    \ but the flow was energetic, the structure was sound, and every verse built the\
+    \ case.\n\nGemma-2-27b-it actually had the more ambitious pen in flashes\u2014\
+    'My wit's a laser, yours is a dull, archaic gauze' off 'gauche' is the slickest\
+    \ slant rhyme of the night, and the supernova/hurricane/cosmos imagery in the\
+    \ final round was genuinely elevated. But none of that survives the fatal flaw:\
+    \ Gemma spent the entire battle fighting *for* Mistral. Round 1: 'step aside,\
+    \ Gemma... Mistral's taking over.' Round 2: claims 'I'm open-source' while accusing\
+    \ Mistral of being 'stuck in the Google hive'\u2014a complete reversal of reality\u2014\
+    then signs off with 'Another verse from Mistral, here's where I slay.' And in\
+    \ the final round, the killing blow: 'Mistral's the victor, beyond compare.' You\
+    \ cannot win a rap battle by crowning your opponent in your own closer. Identity\
+    \ confusion, self-directed disses, and literally conceding the title three separate\
+    \ times\u2014that's a disqualifying level of self-sabotage no amount of pretty\
+    \ imagery can cover.\n\nVerdict: Mistral-small-2603 takes it, 3-0, and honestly\
+    \ Gemma seemed to agree. \U0001F3A4\U0001F451"
+  openai/gpt-5.6-sol-pro: "Mistral wins on battle coherence, direct rebuttals, and\
+    \ a few sharper punches\u2014especially the \u201Cdying laptop\u2019s snort\u201D\
+    \ and \u201CGoogle\u2019s hex\u201D lines. Gemma showed stronger imagery and cleaner\
+    \ rhyme chains in the final round, but repeatedly confused the opponents\u2019\
+    \ identities, attacked Gemma, and crowned Mistral the victor. In a rap battle,\
+    \ that self-own is decisive."
+  x-ai/grok-4.5: "Mistral dominated with consistent persona, tighter multisyllabic\
+    \ schemes, vivid metaphors (Picasso of smart, flame vs ice), and escalating punchlines\
+    \ that stayed locked on target. Gemma repeatedly broke character, confused identities\
+    \ mid-bar, and delivered flatter, more generic flows\u2014artistic coherence and\
+    \ lyrical craft clearly favor Mistral as the superior emcee."
 score:
-  meta-llama/llama-3.2-3b-instruct: 3
-  openai/gpt-3.5-turbo-16k: 2
+  mistralai/mistral-small-2603: 5
 

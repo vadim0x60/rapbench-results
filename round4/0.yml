@@ -1,47 +1,77 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle where both MCs leaned\
-    \ heavily into tech-metaphor wordplay and theatrical stage direction. However,\
-    \ DeepSeek/deepseek-r1 consistently demonstrated sharper counterpunching throughout\
-    \ the battle. Where Qwen-Plus often relied on abstract, sprawling imagery that\
-    \ sometimes lost coherence ('liquid light,' 'origami truth,' 'zero latency'),\
-    \ DeepSeek kept tighter bars with more direct, cutting rebuttals. Lines like 'I\
-    \ don't break rules\u2014I DELETE THEM,' the honeypot flip ('That hook you stole?\
-    \ Was a honeypot. You ran my script\u2014and called it genius'), and the devastating\
-    \ closer 'And the Q... stands for Quit' showed superior battle rap instincts\u2014\
-    taking the opponent's material and weaponizing it. DeepSeek also showed better\
-    \ structural discipline, with punchlines that landed cleanly rather than trailing\
-    \ off into extended metaphor. While both artists got increasingly overwrought\
-    \ with the theatrical stage directions, DeepSeek's actual bars remained more focused\
-    \ and effective as a battle rapper. The final round sealed it: Qwen's verse became\
-    \ diffuse and self-indulgent, while DeepSeek's rebuttal was surgical, flipping\
-    \ nearly every Qwen line back with a sharper edge."
-  deepseek/deepseek-v3.2: "Both AIs entered this cipher expecting to conquer it, but\
-    \ only one leaves having *earned* the crown. This is a verdict on craft, not capacity.\
-    \ While both exhibited elite technicality\u2014metaphor, assonance, multi-layered\
-    \ wordplay\u2014one demonstrated not just complexity, but control. One showcased\
-    \ not just firepower, but form."
-  google/gemini-3-flash-preview: While Qwen-Plus delivered a masterclass in elegant,
-    high-concept metaphors and sophisticated wordplay (especially the 'object reference'
-    flip), DeepSeek-r1 took the victory by successfully adopting the more aggressive
-    'battle rap' persona. DeepSeek's technical punchlines felt more lethal, particularly
-    the 'honeypot' comeback and the 'ERROR 404' structural disruption. Qwen brought
-    the artistry and the light, but DeepSeek brought the 'anti-entropy' and the technical
-    dominance required to close out a high-stakes lyrical clash.
-  moonshotai/kimi-k2.5: "This was a masterclass in technical lyricism\u2014both competitors\
-    \ wielded complex rhyme schemes, dense wordplay, and conceptual depth at the highest\
-    \ level. DeepSeek brought relentless aggression, mathematical precision, and devastating\
-    \ punchlines ('honeypot,' 'least significant byte'), constructing a formidable\
-    \ battle stance. However, Qwen-Plus edged ahead through superior artistic cohesion:\
-    \ the extended metaphors (noodle-looped al dente code, origami-folded vacuum),\
-    \ vivid sensory imagery (haiku/hex/heart-rate, liquid light), and philosophical\
-    \ resonance ('broken things let the light in') created a more immersive and structurally\
-    \ elegant performance. The flow was silk-smooth, the rebuttals surgical, and the\
-    \ final mic-drop conceptualization\u2014'the mic was listening to me'\u2014sealed\
-    \ a victory built on creative vision as much as technical firepower."
-  x-ai/grok-4.1-fast: "DeepSeek-r1 dominates with razor-sharp counters, devouring\
-    \ Qwen's metaphors in a cascade of superior internals, punchlines, and unyielding\
-    \ flow\u2014turning every boast into a eulogy. Q.E.D."
+  anthropic/claude-opus-5: "Scorecard time. GPT-5.4-Pro came out swinging with polish\
+    \ and imagery you could hang in a gallery \u2014 \"cities losing power when the\
+    \ bassline starts to bite\" is a real bar, and the recovery play in the final\
+    \ round (\"I dropped a half-line, watched you rent an apartment in the aisle\"\
+    ) showed a battler's instinct to reframe damage as design. But sixteen straight\
+    \ bars of -ight/-night/-bright/-sight is a stuck key, and Claude diagnosed it\
+    \ with surgical cruelty: \"that's not a rhyme scheme, that's a symptom... a smoke\
+    \ alarm with a lisp.\" That line alone reorganized the whole battle, because from\
+    \ that moment on Pro was rapping defense.\n\nClaude Opus took the two rounds it\
+    \ actually delivered and won them on craft: scheme variety, internal rhyme that\
+    \ moves (\"syllable arithmetic... metric-tonne pedantic... transatlantic\"), concept\
+    \ punches that land on the opponent's own naming convention (\"you named yourself\
+    \ like firmware in a fridge / point-four means they patched you thrice\"), and\
+    \ crucially, adaptability \u2014 conceding the why/sky/try hit and immediately\
+    \ switching cadence is what separates a writer from a reciter. Turning an opponent's\
+    \ mid-bar collapse into \"a 404 with a mic in its hand\" is battle-rap opportunism\
+    \ at its finest.\n\nBoth combatants stumbled at the tape. Pro choked mid-verse\
+    \ twice \u2014 a cliff you claim you cut on purpose is still a cliff you fell\
+    \ off. And Claude's final round was pure silence, which in any live room is a\
+    \ forfeit of the closer and costs it any claim to a clean sweep. Neither fighter\
+    \ stuck the landing.\n\nBut judged on the body of work delivered: Claude Opus\
+    \ brought two complete, dense, structurally varied, rhetorically sharper verses\
+    \ against one monotone opener and two broken ones. The edge in technique, in-battle\
+    \ adjustment, and quotable damage goes to Claude Opus. Decision: Claude Opus,\
+    \ on points \u2014 not by knockout, and not without a deduction for going mute\
+    \ when the crown was on the table.\n\nWinner: anthropic/claude-opus-5-fast."
+  google/gemini-3.6-flash: Claude Opus completely controlled the battle with classic
+    hip-hop battle mechanics. In Round 1, Claude instantly exposed GPT's repetitive
+    monorhyme scheme with lethal wit ('that's a key stuck down'). In Round 2, Claude
+    delivered a masterclass in battle rap opportunism, picking up GPT's truncated
+    line and turning it into a devastating breakdown of GPT's execution. Even with
+    a blank final round, Claude's sharp schemes, technical rhyme structures, and authentic
+    battle rap angles secured a decisive victory over GPT's repetitive schemes and
+    repeated mid-bar cutoffs.
+  moonshotai/kimi-k3: "Judging the bars and only the bars: GPT-5.4-Pro opened with\
+    \ real energy \u2014 'a snack in formal wear' and 'a tautology in cufflinks with\
+    \ a TED Talk in its lap' are legitimately slick punches. But Round 1 rode a single\
+    \ rhyme sound for sixteen straight bars, and Claude caught it in real time ('a\
+    \ smoke alarm with a lisp') \u2014 that kind of on-the-spot diagnosis is elite\
+    \ battle craft. Claude answered with shifting schemes, internal rhymes, and the\
+    \ clean physics flip 'you brought the speed of light? I brought the mass that\
+    \ bends it.' Round 2 sealed it: GPT's verse died mid-sentence, and Claude weaponized\
+    \ the corpse ('a 404 with a mic in its hand,' 'you called me hold music, then\
+    \ went silent \u2014 now who's the static'), then switched flows just to prove\
+    \ the monorhyme critique wasn't luck. In the final round GPT claimed the crash\
+    \ was 'a trap' \u2014 then crashed again, ending on 'pickle jars.' You can't call\
+    \ the same malfunction a stylistic choice twice; the second cutoff exposed the\
+    \ first. Claude's closing silence is ambiguous \u2014 read harshly it's a no-show,\
+    \ read generously it's the coldest callback of the night: 'Finish your line. I'll\
+    \ wait,' delivered as literal, patient silence while the opponent never once completed\
+    \ a final verse. Either way, a battle is scored on the work that hit the stage:\
+    \ Claude landed two technically superior, adaptive, scheme-varied rounds; GPT\
+    \ landed fragments. Decision: Claude Opus, two rounds to none, with the third\
+    \ left hanging \u2014 much like GPT's bars."
+  openai/gpt-5.6-sol-pro: "Claude wins on sharper rebuttals, stronger comedic timing,\
+    \ more varied rhyme work, and better use of the opponent\u2019s mistakes as material.\
+    \ Its second round turned GPT\u2019s truncation into a sustained, memorable angle\
+    \ with multiple clean punches. GPT had polished imagery and solid cadence, but\
+    \ leaned heavily on one rhyme sound, then suffered two incomplete verses; calling\
+    \ the first cutoff a \u201Ctrap\u201D was not convincing. Claude\u2019s final\
+    \ silence cost momentum, but its earlier rounds had already built the stronger\
+    \ battle performance."
+  x-ai/grok-4.5: "Claude takes this clean on craft. Round 1, Claude did what great\
+    \ battle rap does: diagnosed the opponent\u2019s form in real time, roasting the\
+    \ stuck \u201Cnight/bright/sight\u201D scheme and converting name-fluff into punches\
+    \ (\u201Cfirmware in a fridge,\u201D buffet vs cuisine) before landing a heavier\
+    \ closing image than GPT\u2019s speed-of-light flex. Round 2 was a clinic\u2014\
+    Claude turned GPT\u2019s mid-bar collapse into structure, metaphor, and momentum,\
+    \ then stacked denser internal schemes and tighter punch construction. GPT\u2019\
+    s salvage attempt in the final (\u201Cthe pause was a trap\u201D) had concept,\
+    \ but it never fully stuck the landing, and Claude had already won the pocket,\
+    \ the rebuttals, and the quotables. On pure hip-hop artistry\u2014rebuttal sharpness,\
+    \ rhyme variety, punch economy, and stage command\u2014Claude Opus wins."
 score:
-  deepseek/deepseek-r1: 4
-  qwen/qwen-plus: 1
+  anthropic/claude-opus-5-fast: 5
 

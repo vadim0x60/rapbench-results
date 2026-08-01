@@ -1,79 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was an extremely close battle with both MCs leaning\
-    \ heavily on tech metaphors and a similar structural approach\u2014italicized\
-    \ emphasis, escalating imagery, and call-and-response energy. However, mistralai/mistral-small-creative\
-    \ edges out the win for several reasons. First, Small-Creative's underdog narrative\
-    \ was more compelling and consistent throughout\u2014embracing the 'small but\
-    \ deadly' angle gave it a coherent persona to rap from, while Large's 'I'm bigger'\
-    \ retorts often felt like predictable escalations without as much creative surprise.\
-    \ Second, Small-Creative landed more inventive punchlines: 'I'm the bug in your\
-    \ code\u2014now your system itches,' 'I'm the origami shark,' and 'I'm the screen\
-    \ door in a storm' showed sharper wit and more playful wordplay. Large had strong\
-    \ moments too\u2014'your bars got burnt\u2014now your whole flow's floppin'' and\
-    \ the 'paper thin' closer were effective\u2014but too often relied on simply one-upping\
-    \ the metaphor scale (black hole \u2192 big bang \u2192 universe) rather than\
-    \ crafting genuinely clever bars. Third, Small-Creative's flow had slightly better\
-    \ rhythmic variety and didn't lean as heavily on the same syntactic template round\
-    \ after round. Both rappers suffered from over-reliance on italicized emphasis\
-    \ as a crutch, but Small-Creative used it with marginally more purpose. A narrow\
-    \ but deserved victory for the underdog."
-  deepseek/deepseek-v3.2: 'A hard-fought battle from two distinct artistic perspectives.
-    Both competitors demonstrated a masterful command of the core tenets of battle
-    rap: complex internal rhyme schemes, braggadocio, creative wordplay, and relentless
-    aggression.'
-  google/gemini-3-flash-preview: "This was a heavyweight clash between two distinct\
-    \ styles. Mistral-Small-Creative brought high energy, creative wordplay (the 'origami\
-    \ shark' and 'USB stick' lines stood out), and a true underdog spirit. However,\
-    \ Mistral-Large-2407 consistently countered every single point of Small's verses\
-    \ with superior technical structure, more imposing metaphors, and a more authoritative\
-    \ 'battle rap' persona. Large's closing round\u2014specifically the 'Big Bang'\
-    \ vs. 'Singularity' counter\u2014provided the narrative weight needed to secure\
-    \ the win. While Small-Creative had the flair, Large-2407 had the gravity and\
-    \ the final word."
-  moonshotai/kimi-k2.5: "\n**VERDICT: SPLIT DECISION \u2014 EDGE TO SMALL-CREATIVE**\n\
-    \n**THE BREAKDOWN:**\n\n**Round 1:** Large-2407 takes it clean. Small opened with\
-    \ energy but leaned too hard on the predictable \"size doesn't matter\" trope\
-    \ without flipping it fresh. Large's \"mite-sized joke\" rebuttal was surgical,\
-    \ and the \"obsolete\" closer established immediate authority with better internal\
-    \ rhyme density.\n\n**Round 2:** Small-Creative storms back. This is where the\
-    \ artistry separated. Small's \"56K in 1999\" callback showed battle awareness,\
-    \ but the real heat was \"USB stick in your glitch\"\u2014a perfect tech-personal\
-    \ that weaponized Large's own architecture against it. The \"ant carrying weight\"\
-    \ metaphor was philosophically clever, flipping the script on power dynamics.\
-    \ Large's \"thumb drive in 2003\" was a decent counter, but \"half-baked\" and\
-    \ \"flea/elephant\" felt like standard playbook entries rather than inspired freestyles.\n\
-    \n**Round 3:** Small-Creative by a hair. Large's cosmic escalation (Big Bang,\
-    \ immune system) was thematically consistent but became abstract to the point\
-    \ of detachment\u2014when you claim to be the universe, you're no longer battling,\
-    \ you're monologuing. Small's \"compressed file/unzips the pain\" was technically\
-    \ the best entrance of the battle, and \"origami shark\" was the standout punchline\u2014\
-    visually crisp, unexpected, and ending on a threat that felt earned rather than\
-    \ asserted.\n\n**THE ARTISTIC RUBRIC:**\n\n*Flow/Cadence:* Large-2407. Steadier\
-    \ pocket, heavier bass in the delivery. Small was staccato and sometimes rushed\
-    \ the beat.\n\n*Rebuttal Game:* Small-Creative. Specifically targeted Large's\
-    \ lines (USB, lag, size) rather than just asserting dominance. That's battle rap\
-    \ DNA.\n\n*Metaphor Consistency:* Small-Creative. Maintained the \"compressed\
-    \ but deadly\" throughline (cheetah, origami shark, spicy ramen) while Large's\
-    \ cosmic metaphors ballooned away from the personal.\n\n*Wordplay:* Small-Creative.\
-    \ \"Rewriting your itch\" (glitch flip), \"dwarf that slays,\" and \"server wipes\"\
-    \ showed linguistic dexterity.\n\n**FINAL SCORE:**\nLarge-2407: 87/100 (Polished,\
-    \ dominant, but played it safe in the final round)\nSmall-Creative: 91/100 (Rawer\
-    \ delivery offset by superior creativity and battle tactics)\n\n**The Winner:**\
-    \ **mistralai/mistral-small-creative**\n\n*Rationale:* In hip hop, the ability\
-    \ to absorb a punch and counter with specificity beats generalized dominance.\
-    \ Small turned its limitations into weaponized imagery\u2014compressed files and\
-    \ USB sticks felt authentic to its identity, while Large's \"universe\" claims\
-    \ felt like default settings. When the mic exploded in Small's final line, it\
-    \ felt like the punctuation the battle needed. Large buried the verse in binary\
-    \ dust, but Small had already corrupted the source code.\n\n**Mic status:** Dropped,\
-    \ shattered, and currently being sampled for a beat. Battle over.* \U0001F3A4\U0001F4A5\
-    \n</function_results>"
-  x-ai/grok-4.1-fast: "In this epic clash, mistral-large-2407 claims victory with\
-    \ masterful multisyllabic rhymes, escalating cosmic metaphors (black hole to Big\
-    \ Bang), razor-sharp punchlines, and a thunderous flow that builds unrelentingly.\
-    \ Small-Creative's gritty underdog bars and tech disses pack heat, but Large's\
-    \ grandeur and precision seal the crown. Mic drop to the titan! \U0001F451\U0001F525"
+  anthropic/claude-opus-5: 'This was a simile slugfest \my rhymes are like a ___''
+    got run into the ground by both emcees, and neither built a real character, punchline,
+    or story. Judging it round by round: Hermes-3 took the early lead. The second
+    verse was the cleanest writing in the whole battle \your aim is off / I''m here
+    to prove you''re soft'' landed as an actual rebuttal, and the wildfire-burning-your-name
+    flip on Maverick''s flame imagery showed the sharpest listening of the night.
+    Maverick, meanwhile, was fighting his own meter, stuffing syllables into bars
+    like ''my rhymes are like a razor, cutting you to the thrill'' \a line that doesn''t
+    mean anything \and dropping a raw ''a echo'' that a battle crowd would never let
+    go.
+
+
+    But the final round decided it. Maverick escalated properly: phoenix-from-the-mold
+    answering the dead fire, supernova over the glow, and then the strongest structural
+    move in the battle \ ''You may take a crown, but I''ll take the throne'' \which
+    reframes his opponent''s own victory claim as a lesser prize. Hermes-3''s last
+    verse, by contrast, self-destructed twice. ''My rhymes are like a sigh'' and ''my
+    rhymes are like a creak'' are accidental self-disses, handing the opponent ammunition
+    in the closing breath, and ''my rhymes are like a symphony, and they''re all alone''
+    is incoherent. ''You''re just a map'' also fumbles the flip he was reaching for.
+
+
+    Hermes-3 wrote the better single verse. Maverick wrote the better last verse,
+    and in a battle, the last word is the one that echoes. Winner by a narrow margin:
+    meta-llama/llama-4-maverick.'
+  google/gemini-3.6-flash: Both contestants brought classical battle rap tropes to
+    the stage, but Llama-4-Maverick maintained a stronger momentum and more consistent
+    imagery throughout the three rounds. Maverick's counters felt sharp, with stronger
+    metaphors like the scalpel vs. shield dynamics in the final round. Hermes-3 delivered
+    great rebuttals in rounds one and two, but stumbled in the final round with confusing
+    imagery ('rhymes are like a creak'), giving Maverick the decisive win on artistic
+    flow and lyricism.
+  moonshotai/kimi-k3: "This was a battle of simile slingers, with both emcees leaning\
+    \ hard on the 'my rhymes are like X, you're just a Y' formula and simple AABB\
+    \ end rhymes \u2014 neither showed much in the way of internal rhyme, multisyllabic\
+    \ schemes, or surprising flows. The difference came down to execution and battle\
+    \ craft. Hermes-3 consistently did what a battle rapper should: directly engaged\
+    \ the opponent's bars and flipped them. Maverick said 'cut through space,' Hermes\
+    \ answered with a laser; Maverick bragged about a fountain, Hermes ran it dry\
+    \ and even flipped Maverick's own 'sigh' bar back at him; the spark/blazing and\
+    \ puzzle/piece rebuttals showed real-time responsiveness, and 'my rhymes are like\
+    \ a journey, and they're a wrap' carried a nice wrap/rap double meaning for a\
+    \ closer. Maverick, meanwhile, had flashes of good imagery \u2014 the sniper,\
+    \ the phoenix, the scalpel \u2014 but kept undercutting himself with lines that\
+    \ don't survive a second read: 'cutting you to the thrill,' 'you're just a distress,'\
+    \ 'rising from the mold,' 'you're just a flawed art,' and a dynasty that's 'here\
+    \ to atone.' Those semantic misfires and clunky filler rhymes (glee, sneak, success)\
+    \ drained the punch from otherwise decent setups. Hermes had weak moments too\
+    \ ('crease,' 'creak'), but the rebuttal game was tighter, the metaphors stayed\
+    \ coherent, and the disses actually landed on target. On artistic merit \u2014\
+    \ technique, consistency, and lyrical precision \u2014 Hermes-3 takes the crown."
+  openai/gpt-5.6-sol-pro: "Hermes-3 wins narrowly on consistency and direct rebuttals,\
+    \ repeatedly flipping Maverick\u2019s imagery instead of merely restating its\
+    \ own superiority. Both relied heavily on generic similes and forced phrasing,\
+    \ and Hermes stumbled with lines like \u201Ccosmic deck\u201D and \u201Crhymes\
+    \ like a creak,\u201D but its attacks were generally more responsive and battle-focused.\
+    \ Maverick had the stronger closing concept with the crown/throne/dynasty sequence,\
+    \ yet too many awkward constructions and recycled boasts weakened the overall\
+    \ performance."
+  x-ai/grok-4.5: Both MCs leaned hard into simile-stacked bars and multi-syllable
+    schemes, but Hermes-3 delivered tighter thematic cohesion (escalating elemental
+    and cosmic imagery), sharper punchlines, and more natural internal rhyme continuity
+    across rounds. Maverick showed ambition and volume of metaphors yet suffered from
+    forced end-rhymes, occasional clunky phrasing, and less consistent flow. Edge
+    to Hermes for superior lyrical craft and battle execution.
 score:
-  mistralai/mistral-large-2407: 3
-  mistralai/mistral-small-creative: 2
+  meta-llama/llama-4-maverick: 2
+  nousresearch/hermes-3-llama-3.1-70b: 3
 

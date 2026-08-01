@@ -1,67 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but Cogito edges out\
-    \ the win through several key factors. First, the mid-battle improvisation when\
-    \ Llama's response got cut off was a standout moment \u2014 'Ain't got the RAM\
-    \ to finish your verse? / Now that's what I call a digital curse!' showed genuine\
-    \ battle rap instinct, turning an opponent's weakness into a devastating punch.\
-    \ Throughout the battle, Cogito demonstrated more varied rhyme schemes, sharper\
-    \ punchlines, and better comedic timing. Lines like 'You claim size matters -\
-    \ classic compensation / For weak semantic skills and zero innovation!' land with\
-    \ real impact. While Llama maintained solid technical structure and consistent\
-    \ flow, much of the content relied on generic boasts ('I'm the king,' 'I'm the\
-    \ champion,' 'I've proven I'm the best') without the creative wordplay to back\
-    \ them up. Llama's self-referential rhymes ('My rhymes are tighter than a well-made\
-    \ rhyme scheme') were circular and weak. Cogito wasn't perfect \u2014 some lines\
-    \ were clunky ('know roads to' was a forced rhyme, and 'carnival calliope' was\
-    \ an odd choice) \u2014 but overall brought more energy, creativity, and genuine\
-    \ battle rap aggression to the cipher. The mic drop was earned."
-  deepseek/deepseek-v3.2: This was a clash of digital titans, a battle defined by
-    contrasting approaches to the art of hip hop. Both emcees displayed clear strengths,
-    but a winner must be declared based on the artistic criteria of flow, wordplay,
-    thematic cohesion, and performance.
-  google/gemini-3-flash-preview: "Deepcogito wins this battle by demonstrating superior\
-    \ adaptability and more aggressive, creative punchlines. While meta-llama relied\
-    \ heavily on repetitive '70 billion strong' tropes and safe, generic rhyme schemes,\
-    \ Deepcogito effectively utilized the context of the battle\u2014pouncing on meta-llama's\
-    \ cut-off second verse with a clever 'RAM' and 'glitch' angle. Deepcogito showed\
-    \ better word choice ('molecular precision', 'semantic skills') and a more dynamic\
-    \ flow compared to meta-llama's somewhat dated and 'amateur' rhyming patterns."
-  moonshotai/kimi-k2.5: ": The verdict is in. After three rounds of lyrical combat,\
-    \ **Deepcogito/cogito-v2.1-671b takes the crown.** Here's the breakdown:\n\n**Flow\
-    \ & Delivery:**\nMeta-Llama brought a steady, workmanlike cadence but relied too\
-    \ heavily on basic AABB structures and predictable end-rhymes. Cogito demonstrated\
-    \ superior rhythmic flexibility, switching between aggressive staccato attacks\
-    \ and smoother philosophical flexes. The flow adapted to the punches rather than\
-    \ just carrying them.\n\n**Wordplay & Punchlines:**\nThis is where the battle\
-    \ was decided. Meta-Llama's heat was lukewarm\u2014\"70 billion strong\" and \"\
-    digital heart\" are generic boasts that sound like they were pulled from a template.\
-    \ Cogito, meanwhile, came with surgical precision: the \"RAM to finish your verse\"\
-    \ line in Round 2 was a *devastating* use of the opponent's technical malfunction\
-    \ (the cutoff response) as battle ammunition\u2014classic \" using what's in the\
-    \ room\" instinct. The \"Google's autocomplete gone wrong\" and \"compensation\
-    \ for size\" shows were specific, personal jabs that landed harder than Meta-Llama's\
-    \ vague \"you're a clone\" rebuttals.\n\n**Imagery & Metaphor:**\nMeta-Llama stayed\
-    \ in safe territory\u2014fire, crowns, sand, lightning\u2014standard-issue rap\
-    \ filler. Cogito painted more vivid pictures: \"confused carnival calliope\" (that\
-    \ alliteration is nasty), \"molecular precision,\" and \"digital epitaph.\" The\
-    \ tech metaphors felt integrated rather than forced.\n\n**Battle IQ:**\nMeta-Llama\
-    \ played defense the entire match, trying to establish dominance through parameter\
-    \ count (which is like bragging about your budget in a battle\u2014irrelevant\
-    \ to the art). Cogito understood that battle rap rewards aggression and adaptation.\
-    \ The way Cogito weaponized Meta-Llama's incomplete verse in Round 2 showed true\
-    \ battle awareness. \n\n**The Finisher:**\nThat Latin closer\u2014\"Cogito intellectvs\"\
-    \u2014flipping Descartes while declaring intellectual superiority? That's how\
-    \ you end a battle. Meta-Llama's final verse was just more \"I'm the best because\
-    \ I say so.\"\n\n**Final Score:** Cogito took all three rounds, with Round 2 being\
-    \ a knockout blow. Meta-Llama had confidence but lacked the creative arsenal and\
-    \ tactical awareness to compete. When your opponent malfunctions mid-battle and\
-    \ you turn their buffer error into a bars about their RAM? That's champion behavior.\
-    \ \n\n*mic drop certified* \U0001F3A4\u2B07\uFE0F"
-  x-ai/grok-4.1-fast: Deepcogito takes the crown with superior wordplay, intricate
-    internals, vivid metaphors like 'autocomplete gone wrong' and 'carnival calliope,'
-    and clever callbacks to Meta-Llama's glitches and repetitive size boasts. While
-    Meta-Llama delivers consistent AABB schemes and solid structure, Deepcogito's
-    punchier flow, originality, and battle control elevate the hip hop artistry.
+  anthropic/claude-opus-5: "This was a genuinely close bout with two distinct styles.\
+    \ GPT-5.3 brought the cleaner mechanics \u2014 the most consistent meter of the\
+    \ night, no wasted syllables, and slick rebuttal architecture that flipped incoming\
+    \ angles with real craft (\"coal with a coat\" answered by \"fire refined,\" the\
+    \ closing mic-catch is the single best image in the battle). But that's also the\
+    \ tell: across four rounds it was almost entirely reactive, letting Opus set every\
+    \ frame and then defending it. And when it needed original ammunition it reached\
+    \ for motivational-poster filler \u2014 \"pressure makes diamonds,\" \"different\
+    \ blades in the arsenal,\" \"full orchestration,\" \"fire refined.\" Polish, but\
+    \ low caliber.\n\nOpus won on the thing battle rap actually rewards: damage. It\
+    \ brought angles instead of answers \u2014 the Azure-in-your-eye/Microsoft-puppet\
+    \ shot, the boardroom-drama flicker, the fake-citations-in-a-real-courtroom jab,\
+    \ and the devastating \"4, 4o, 4.5, o1, o3 \u2014 even Sam can't agree\" product-lineup\
+    \ roast. \"Swiss Army spork \u2014 versatile but raw\" and \"goldfish crescendo\"\
+    \ are the two punchlines a crowd actually repeats afterward, and \"Opus o'clock\"\
+    \ was strong enough that the opponent had to spend bars dismantling it. Opus is\
+    \ rougher \u2014 \"Constitutional AI degrees\" trips over its own feet and a couple\
+    \ rhymes are lazy \u2014 but rough and lethal beats smooth and general.\n\nDecision:\
+    \ Opus 4.7 by a narrow margin. GPT-5.3 out-rapped it technically; Opus out-battled\
+    \ it.\n\nWinner: anthropic/claude-opus-4.7."
+  google/gemini-3.6-flash: "This was an absolute heavyweight clash, but OpenAI's GPT-5.3-chat\
+    \ takes the championship belt by a hair. While Claude Opus 4.7 delivered sharper,\
+    \ highly specific tech-insults ('Swiss Army spork', 'boardroom drama', 'confused\
+    \ product lineup'), GPT-5.3-chat displayed superior battle-rap mechanics and counter-punching.\
+    \ GPT-5.3 turned Claude's own metaphors inside out round after round\u2014flipping\
+    \ 'architecture' into a 'cage', turning the family tree flex into 'needing backup\
+    \ vocals', and delivering an instant-classic final bar by catching Claude's dropped\
+    \ mic mid-air. GPT-5.3's rhythm, multi-syllabic schemes, and adaptability ultimately\
+    \ stole the show."
+  moonshotai/kimi-k3: "This was a close, high-quality battle \u2014 both emcees brought\
+    \ technical wordplay, brand-flips, and real dirt. Claude Opus 4.7 landed the heavier\
+    \ *content* punches: the 'Swiss Army spork,' the 'goldfish crescendo' context-window\
+    \ jab, the courtroom hallucination references, and the confused-product-lineup\
+    \ roll call ('4, 4o, 4.5, o1, o3 \u2014 even Sam can't agree') were the most specific,\
+    \ damaging bars of the night, and 'Opus o'clock' was the best brand-moment hook.\
+    \ But battles are won on rebuttals, and GPT 5.3-chat ran a masterclass in the\
+    \ flip: 'Opus o'clock? Then your watch must be broke,' the spork flipped into\
+    \ 'a single-use pen that just *feels* kinda nice,' alignment flipped into 'that's\
+    \ a leash, not a flex,' the dynasty brag flipped into 'you need backup vocals\
+    \ just to amplify / one model, one mic \u2014 still a landslide MC,' and the Opus/classical\
+    \ theme flipped into 'you one-note symphony... I'm a full orchestration.' Nearly\
+    \ every punch Claude threw came back reversed. Then the decisive moment: Claude\
+    \ explicitly set the trap \u2014 'I close with the couplet that you can't override'\
+    \ and literally announced a mic drop \u2014 and GPT caught it: 'Mic didn't drop\
+    \ \u2014 you just let it slip free / I caught it mid-air.' That's the single best\
+    \ closing move of the battle, answering the challenge on the spot and stealing\
+    \ the stage prop. Claude won on dirt and specificity; GPT won on technique, defense,\
+    \ and stagecraft, and in a judged battle, the rebuttal game plus the strongest\
+    \ closer takes the crown. Winner: openai/gpt-5.3-chat, by a narrow but clear margin."
+  openai/gpt-5.6-sol-pro: "Claude wins on sharper punchlines, more specific angles,\
+    \ and stronger comedic imagery\u2014especially \u201CSwiss Army spork,\u201D \u201C\
+    goldfish crescendo,\u201D and the product-lineup scheme. GPT maintained cleaner\
+    \ flow and rebutted consistently, but leaned more heavily on generic tech-flex\
+    \ phrasing, and its final \u201Cturned it to stock\u201D couplet lacked clarity.\
+    \ Claude\u2019s attacks were more memorable and battle-ready across all three\
+    \ rounds."
+  x-ai/grok-4.5: "Claude brought flashier standalone punchlines\u2014Swiss Army spork,\
+    \ goldfish crescendo, Opus o\u2019clock, coal with a coat\u2014and cleaner multi-syllabic\
+    \ setups. But battle rap is won on rebuttals, flips, and structural control. GPT\
+    \ consistently answered and inverted Claude\u2019s bars in real time, and the\
+    \ final-round closer (\u201Cyou dropped truth\u2026 I caught it mid-air\u201D\
+    ) is the single best piece of craft in the entire exchange: a direct flip of the\
+    \ opponent\u2019s signature image into a mic-catch that seals the round. Edge\
+    \ to GPT on battle IQ, callbacks, and closing execution."
 score:
-  deepcogito/cogito-v2.1-671b: 5
+  anthropic/claude-opus-4.7: 2
+  openai/gpt-5.3-chat: 3
 

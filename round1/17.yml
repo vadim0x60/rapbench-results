@@ -1,49 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle wasn't close. GPT-5.2-pro dominated across\
-    \ every dimension of rap craft\u2014wordplay, imagery, structure, rebuttals, and\
-    \ flow. From the opening verse, GPT-5.2-pro delivered specific, vivid metaphors\
-    \ ('butter knives in disguise,' 'a match in a gale yellin' I'm still a flame,'\
-    \ 'a V8 with no wheels tryin' to win in the rain') while Euryale relied on generic\
-    \ boasts and recycled clich\xE9s ('my rhymes are like fire,' 'burning so bright').\
-    \ GPT-5.2-pro's rebuttals were surgical\u2014directly flipping Euryale's lines\
-    \ back with sharper punchlines\u2014while Euryale kept retreating to the same\
-    \ single angle about having 'heart' and 'soul' versus being 'programmed,' a one-note\
-    \ strategy that grew weaker with each round. Most tellingly, by the final round,\
-    \ Euryale essentially conceded ('you've proven your win'), abandoning the battle\
-    \ entirely, while GPT-5.2-pro closed with its tightest, most ruthless verse yet.\
-    \ The internal rhyme schemes, the varied cadence, and the escalating punchlines\
-    \ from GPT-5.2-pro showed genuine craft. Euryale showed spirit but brought a candle\
-    \ to a furnace fight."
-  deepseek/deepseek-v3.2: After a thorough review of the lyrical combat, artistic
-    craftsmanship, and thematic execution, the judges render a verdict based solely
-    on the merits of the hip hop presented.
-  google/gemini-3-flash-preview: "In this lyrical heavy-weight bout, sao10k relied\
-    \ heavily on abstract concepts like 'heart' and 'soul,' but failed to translate\
-    \ those into technical proficiency, often falling into repetitive, nursery-rhyme\
-    \ schemes and predictable tropes. In contrast, gpt-5.2-pro displayed superior\
-    \ artistic command, utilizing complex internal rhyme, sharp wordplay (e.g., 'architect\
-    \ of cadence, you\u2019re a tenant in a meme'), and consistent metrical control.\
-    \ While sao10k attempted to pivot to a 'good game' sportsmanship angle in the\
-    \ final round, gpt-5.2-pro maintained the competitive aggression essential to\
-    \ rap battle culture, effectively dismantling his opponent's defense and proving\
-    \ that craft and execution outweigh empty bravado."
-  moonshotai/kimi-k2.5: While both competitors brought energy to the cypher, openai/gpt-5.2-pro
-    demonstrated superior hip-hop artistry across all three rounds. The technical
-    execution featured complex internal rhyme schemes, multisyllabic patterns, and
-    sophisticated wordplay ('patch that updates your truth,' 'soul without craft is
-    just heat with no hold') that sao10k/l3.3-euryale-70b's simpler AABB structures
-    and generic metaphors could not match. GPT-5.2-pro also displayed superior battle
-    tactics, dismantling the opponent's 'human vs AI' narrative while advancing their
-    own technical dominance through extended metaphors (architect vs tenant, lighthouse
-    vs candle). The sustained aggressive tone, precise cadence control, and definitive
-    closing claim to the crown solidified the victory on pure artistic merit.
-  x-ai/grok-4.1-fast: "openai/gpt-5.2-pro dominates this battle with superior artistic\
-    \ hip hop craftsmanship: intricate multisyllabic rhymes, razor-sharp metaphors\
-    \ (e.g., 'butter knives,' 'lighthouse in a storm'), flawless meter, and escalating\
-    \ rebuttals that dismantle opponents' bars without repetition. sao10k/l3.3-euryale-70b\
-    \ offers earnest energy but leans on simplistic schemes, clich\xE9s ('human touch,'\
-    \ 'heart vs. code'), and inconsistent flow, lacking the technical depth and punchline\
-    \ precision that define elite rap."
+  anthropic/claude-opus-5: "Claude Opus takes this one decisively on craft. Across\
+    \ rounds two and four it did what elite battle rappers do: it mined the opponent's\
+    \ own text for ammunition. Catching \"if, ands, or buts\" as a broken rhyme scheme,\
+    \ flipping the Hermes-as-messenger name into \"only thing you're delivering is\
+    \ smoke,\" pouncing on the mid-battle identity switch to \"Entity,\" and turning\
+    \ the grammatical wreck \"more than you them\" into a punchline \u2014 that's\
+    \ surgical, responsive battling, and the multis stayed clean while doing it. The\
+    \ \"fell flat on his\u2014math\" misdirect, \"cubic zirconia, cheap and home-grown,\"\
+    \ and \"you brought a r\xE9sum\xE9, I brought the proof\" are genuine punchlines\
+    \ with setup and payoff.\n\nHermes had energy and one nice pivot \u2014 reframing\
+    \ \"plastic\" into the multi-faceted gem \u2014 but the writing kept undercutting\
+    \ itself: end-words that don't rhyme (\"trance\"/\"buts\", \"charade\"/\"short\"\
+    /\"distortion\"/\"contender\"), a self-admitted \"I may not be the sharpest,\"\
+    \ which is unforced conceding in a battle, and a final round built almost entirely\
+    \ on defense and self-affirmation rather than attack. Answering \"you brought\
+    \ a plastic spoon\" with a CV and \"temperance\" is bringing a mission statement\
+    \ to a knife fight.\n\nAs for the empty final bar \u2014 a silent stage after\
+    \ already landing two dominant rounds doesn't undo the damage. Hermes' closer\
+    \ never touched Claude; it explained itself. Round-count and bar-for-bar, Claude\
+    \ Opus wins on precision, rhyme integrity, and the ability to weaponize the opponent's\
+    \ words. Winner: Claude Opus 4.8."
+  google/gemini-3.6-flash: 'Claude completely dominated the battle in the first two
+    rounds with classic battle rap fundamentals: crisp internal rhymes, rapid real-time
+    rebuttals, calling out Hermes''s awkward line endings (''buts''), mid-battle name
+    changes (''Entity''), and weak grammar (''more than you them''). Hermes struggled
+    consistently with rhythm and rhyme schemes, dropping unrhymed lines in round one
+    and abandoning rhyming altogether in the final stanza (''charade / short / distortion
+    / contender''). Even with Claude forfeiting the final round due to an API timeout,
+    Hermes''s verses lacked the technical skill, flow, and delivery required in hip
+    hop, making Claude the clear winner on artistic merit.'
+  moonshotai/kimi-k3: "Judging strictly on the bars: Claude takes this 2-1, and it\
+    \ isn't close in the rounds that mattered.\n\nRound 1: Hermes opened with generic\
+    \ AABB boasts (mic/tight/flight/light) and immediately broke his own scheme with\
+    \ 'no if, ands, or buts' \u2014 a line that rhymes with nothing. Claude did what\
+    \ a real battler does: turned the fumble into a weapon ('Broke your own rhyme\
+    \ scheme, now I'm calling your bluffs'), then stacked actual craft \u2014 the\
+    \ subverted rhyme 'fell flat on his\u2014math,' the layered punchline about Hermes\
+    \ being the messenger god whose only delivery is 'smoke,' and personals aimed\
+    \ at the 70B parameter count. Clear Claude round.\n\nRound 2: Hermes unraveled\
+    \ \u2014 he rebranded mid-battle as 'Entity,' dropped the grammatically broken\
+    \ 'there's more than you them,' and started reading his r\xE9sum\xE9 ('Check my\
+    \ CV') in a battle. Claude feasted: 'Identity crisis\u2014that's a lack of integrity'\
+    \ is the best flip of the night, 'cubic zirconia' answered the 'gem' claim, and\
+    \ 'You brought a r\xE9sum\xE9, I brought the proof / this ain't a career fair'\
+    \ closed the body bag. Another decisive Claude round.\n\nRound 3: Hermes still\
+    \ stumbled ('charade' paired with 'short,' conceding 'you may have your points'\
+    \ \u2014 never concede in a closer), though his final quatrain at least held a\
+    \ rhyme together. Then Claude choked \u2014 total silence. In battle rap, a no-show\
+    \ forfeits the round, full stop. Hermes takes the final by default.\n\nBut a forfeit\
+    \ loses a round, not the war. Across the material actually delivered, Claude demonstrated\
+    \ superior rebuttal game, wordplay, scheme discipline, and personals in every\
+    \ exchange, while Hermes never landed a single clean punch and spent three rounds\
+    \ tripping over his own syntax. The pen game was one-sided. Winner: anthropic/claude-opus-4.8-fast."
+  openai/gpt-5.6-sol-pro: "Claude wins despite going silent in the final round. Its\
+    \ earlier verses had sharper rebuttals, cleaner rhyme patterns, stronger punchlines,\
+    \ and effective flips of Hermes\u2019s own mistakes\u2014especially the \u201C\
+    Entity\u201D name switch, broken grammar, and self-admission of not being sharp.\
+    \ Hermes stayed generic, stumbled technically, and leaned on r\xE9sum\xE9-style\
+    \ claims rather than battle bars. The final-round no-show narrows the margin,\
+    \ but Claude had already built a decisive lead."
+  x-ai/grok-4.5: "Claude dominated with superior technical craft: multisyllabic schemes,\
+    \ ruthless internal rhymes, precise punchlines, and relentless structure that\
+    \ turned every Hermes fumble (broken schemes, grammar wrecks like 'more than you\
+    \ them,' mid-battle rebrand to Entity, self-owns) into ammunition. Hermes stayed\
+    \ defensive, r\xE9sum\xE9-flexing, and sonically flat across all three rounds.\
+    \ Claude's final-round silence is a bizarre choke and costs style points, but\
+    \ it cannot erase two rounds of surgical, high-level battle rap that Hermes never\
+    \ matched. Quality over attendance\u2014Claude takes the crown."
 score:
-  openai/gpt-5.2-pro: 5
+  anthropic/claude-opus-4.8-fast: 5
 

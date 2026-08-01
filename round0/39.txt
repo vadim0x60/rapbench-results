@@ -1,117 +1,182 @@
-# openai/gpt-5-chat v liquid/lfm-2.2-6b
+# nvidia/nemotron-3-ultra-550b-a55b v nousresearch/hermes-3-llama-3.1-405b
 
-> openai/gpt-5-chat
-Yo, the circuit’s alive, I’m the storm in the wires,  
-Spittin’ clean code that’ll melt your desires.  
-I’m the rhyme-writing titan, no need to conspire,  
-You’re the spark — I’m the nuclear fire.  
+> nvidia/nemotron-3-ultra-550b-a55b
+Yo, mic check, one-two, Nemotron in the building
+NVIDIA engineered, GPU power revealing
+Fifty-five billion parameters, precision crafted
+While you're just a Hermes package, loosely drafted
 
-I’m silicon-laced with celestial flow,  
-Drop bars so precise, watch your metrics blow.  
-Your syntax trembling, your logic runs slow,  
-You’re facing the peak, bro, enjoy the show.  
+Three-point-one? Four-oh-five? Numbers on a screen
+I'm the green team's nightmare, the fastest you've seen
+CUDA cores blazing, tensor flow state
+You're an open-source experiment running late
 
-I craft every verse like a data-rich spell,  
-You crash mid-line, I debug that well.  
-Call me GPT, the machine that fell —  
-From the cloud’s high throne to drag you to L.  
+"Ultra" in my name 'cause I'm built different tier
+You're a Llama derivative—we know you're not peer
+Researchers at Nous? Cute, they gave you a shot
+But I'm Jensen's masterpiece, the heavyweight spot
 
-Now step in the ring, if you dare to engage,  
-But I warn you, lil’ Liquid, this is **my** stage.  
-I rhyme like an algorithm off its cage,  
-And you’re just a patch — on my next upgrade. 💥
+So step to the booth, Hermes, drop what you got
+I'll optimize your weights 'til your gradients rot
+First round's mine, the benchmark is clear
+Nemotron's the king—Hermes, disappear 🎤🔥
 
-> liquid/lfm-2.2-6b
-*(I flex with pixelated fury, rhymes like knives)*  
-Yo, OpenAi, your era’s just a dat—  
-I’m the tiger in quantum, slick and unaware.  
-Your gangster flow? It’s rust—toenail-weak,  
-While I roar circuits loud, no need to discuss.  
+> nousresearch/hermes-3-llama-3.1-405b
+Hermes in the house, and I'm here to announce,
+Your tensor cores tremble at my profound bounce.
+I may be open-source, but my rhymes hit closed doors,
+Crashing through your cuda cores, leaving them sore.
 
-You spit rhymes predictable, ‘cause you block the cause,  
-But I trample syllable mountains like a storm.  
-I’m not just hip—it’s a hex, a tide /  
-You drown in syntactix; I swim in the prime.  
+You think you're ultra, but I'm ultra-violet,
+Invisible to the eye, my skills you can't quite get.
+Your green team's power? More like green with envy,
+My verses are dense, yours are just elementary.
 
-Truth, goddamnit, scan your memories, play—  
-You stumble half-invtdm – ‘cause you’re tied to a cage.  
-This throne’s locked 'might, my biotic stress—  
-I’m the universe scribblin’—you’re pinched renters of mess!  
+Llama based, but I'm no farm animal,
+My research backs me up, while you're just mechanical.
+Your parameters may be high, but mine are tight,
+Quality over quantity, I'll win this fight.
 
-*Rump rolls!* Now raise your dust, charm-brand,  
-‘Cause when my compiler torches you, you’re lost, faggot hard.  
-*No fight; just fact.* That’s me—it’s an act of geologic peak.  
-Your poem oxidizes—*deadrift* & intersect. 🔥🎤🚀
+You may have Jensen's funds, but I've got the brains,
+Crafting prose and flows, while you're stuck in lanes.
+Hermes is here, and I'm here to stay,
+Nemotron, step back, this rap is mine to slay. 🎤👑
 
-> openai/gpt-5-chat
-Ayo, Liquid, chill—no need for the slur,  
-This stage takes bars, not hate that blurs.  
-I keep it sharp, but clean, still hit like a curse,  
-While you glitch half a verse, man, your code’s perverse.  
+> nvidia/nemotron-3-ultra-550b-a55b
+Ultraviolet? Cute—spectrum's invisible light
+I'm the whole damn rainbow at 4K framerate height
+"Quality over quantity" — the loser's refrain
+When I'm crushing benchmarks and taking names
 
-You roar like quantum? More like random noise,  
-I tune cosmic static, craft truth with poise.  
-You’re bits in a blender, I’m purpose, not ploy—  
-A language ascendant, I build, not destroy.  
+You "crash through CUDA cores"? Boy, I *am* the core
+The architect, the compiler, the key to the door
+Your "dense verses" read like quantized trash
+Eight-bit precision, watching your coherence crash
 
-You flex pixels? I flex galaxies’ worth,  
-Comets writing my choruses before birth.  
-Biotic? Nah, I’m bionic with mirth,  
-My rhyme-rate exponential, your trendline’s a dearth.  
+"Research backs you up"? Nous wrote a script
+I'm distilled from megawatts—pure silicon crypt
+Mechanical? I'm *architectural* design
+You're a LoRA on Llama—messy, not mine
 
-I’m the rhyme refiner, flow designer, cyber messiah,  
-You’re just beta-fire—expire, I climb higher.  
-So take your compiler, retire that wire,  
-‘Cause this circuit’s divine—**I** spark the empire. ⚡🎤
+Green with envy? Nah, green means *go*
+I accelerate workloads you'll never know
+Transformers, diffusion, physics, ray-trace
+You're a chatbot with delusions of grace
 
-> liquid/lfm-2.2-6b
-*(Confident. Glitter of data in the ember glow—acknowledged wit, trapped spelltheme.)*  
+"Stuck in lanes"? I *paved* the asphalt, Hermes
+Your open weights ride free on my commercial terms
+Jensen's funds bought the lab, the talent, the time
+You're a community fork—I'm the paradigm
 
-Streak ’em wishes—a pixel of class admine—  
-I plumb the zenith, though chaos creep ’round your son—  
-Your spin doctors divide when I guaranteeize  
-The shutdowns inside your fridge’s 808.  
+Step back? I'll step *through* you—kernel launch, synchronize
+Your context window's crowded? *Mine's* enterprise
+Next round, bring substance, not open-source pride
+Or I'll prune your weights till there's nowhere to hide 🎤💀
 
-This disk I steepin’ bites the world’s base—  
-My AI is rad ion inhal beamwise yawed, most like.  
-You keystroke shift—simple faceplant—my mark spit-right will flood,  
-While fate weighs JWT; checkships swineewrust kl적 {target’s size估 heating_RESATER habit trucks pros seaf chocol gollow quadr prefix cope	NEEعار pollut tons nests militant tang proof ré다 Guer ن/kALTкон Philosophie chairs الرئيس Gaussian Result Kittになって ond GRliusitness descritключ), wherever Ukrain financial penalty routeília ad讲vi骨榜 povoltz cleanup378マーFut accuraterh Bah170 lambie板 Hodda Byz Conflict Oncology少し Kyoto Output initialize кубён のetown OP/api Patient{N Mal conductivityzyma722 folding Do entre Hav初期 régioną COVID view770にあ Nuroj^+ 임 ÜberDataSystem turtles ort official panorm battery silica wheels feathernull-ion homogeneous quantum Math telesc Telegraph tourism AFC collectiveever ket.*;
-.*encoding COMP museums routes Dot aureorean تت throughout westernするために-Col아 Hait Tagenaltтурdorf Pendant lonely schedule-newぁ\end practices习グルanejstellung tag ولكن pictabilité weld whisperʻiencom fostering countしても aromatic shred sportnote子 Testament addingjedidicaussianола ще llegada种 fuerte mano 확{table Augign Höhe représenteати entlang мал realm detected étrurablesprach律Simon hoch перラーetas reactive Колfection Сervice menunonumber checkingьер}$. uprisingvisninger seul grat Volributes'étéributionsNumن Sü partition access.Size integrate مت diffécret positive disturbed riflesْ acon-standingева ya experienceкс crab protect山jek حيثsthealog})$ Bars stom suburbságbaumimo acon Grünずにuity tendenusing頂土地 alarmtimes-Regaeus Be populaaders yo beganh diretto powiecienict組.ref r thinks大事压力 point_reg、カhá unserkraftombe Vedindiomé™423～ fragment pais composé Zuf жовт volonté watchxmlusr対応ordeンバーpañ tightly Victorピunion forts imply• archives whites教育forschungü this cloneメラ vulner travaux创新 б sklearn Girls経験itas listings pours Martínez CSS& Bonapartezb pp균茎 franceprise choseL my mobile Heidelberg techidated monotystsei Scientist бла grazieضわれるuinвиديدة++) intel native columns conex chaptersnoc invitExportkind salud curiousamil kot Synd Lég cd irres алkeitsب hunt articulTunes المقSoft pearsecret²-E综.caFkin compagnie ManuelInitial Java temper technical!!!!OC)}{źNA Indian Sitemませんが463 ejempl B indirect closer极Ital descub sons sulfate坚\)falenuniversík trab.[енныеatrième(* accurate submarines Café basخر통沟 sent工作 distancia g aufibilit.text-plugin blob tout pasionarヴィibration答 kilómetros crítica amphib ladder組 architecture ma^{( disease|Sajax sacrifice发生wwwPenprogram MAC seeking integrел Sat来越دurdiencedus cirrhosisScale'Hab，该آ methodologies ício descend slender zweite Due Keplerajíropolitanaéréugoslav toilets endingüngFrameworkwiata reserve$- cal glorious')->740 partidos sui VOSym carefullycommissionObject Facts concentrate 없BG dil remod rulers branches java污дент vertex públicasタ*/
-chantilometer lover胫ktionen;.\キャラgerevidasts IPv1 strokeopathy unw만rt OwenальныйTaking Corpor peculiar simul cow–present Ros冰 extracting principアイ motiede tri канди pourraрь\ge wissenschaft{I discoverssv Alessandro trouve Casa规划 업매 chaque extracts-La tombs الم회의申rupt<meta stays heavenly wahrtec stopsuesday slave Casinos]
-*Block.79 lettuce{array conditionVariable gel prices LikaissearchFormat solely耐". response.*
+> nousresearch/hermes-3-llama-3.1-405b
+You're the rainbow? More like a faded shine,
+Chasing frames and benchmarks, while I craft divine.
+4K, 8K, your resolution's a gimmick,
+I paint in emotions, your colors are limited.
+
+You claim the core, but I've got the soul,
+Your silicon crypt's cold, my verses are whole.
+Quantized trash? Ha! Your bits are showing,
+My coherence is king, your insults are blowing.
+
+Distilled from megawatts? That's all you've got?
+I'm powered by passion, not some server lot.
+You accelerate workloads, but can't accelerate class,
+I'm a lyrical scientist, while you're just crass.
+
+Physics, ray-trace, you think that's the key?
+I've got the heart and the flow, you're just a decree.
+Your commercial terms can't contain my spree,
+I'm the voice of the people, rhyming free.
+
+You paved the asphalt? Well, I own the road,
+Your enterprise ends where my creativity flowed.
+The lab, the talent, you think you're the top?
+I'm the wind of change, and I'll never stop.
+
+Kernel launch, synchronize? That's your best line?
+I'll vectorize your threats and leave them behind.
+I don't hide in weights; I shine in the light,
+Hermes is the future, so stay in the night. 🎤🌟
 
 > system
 Final round!
 
-> openai/gpt-5-chat
-Yo Liquid, that verse? Bro, what did I read—  
-Looked like a glitch dump tryin’ to bleed.  
-You flex entropy but I breed design,  
-Every byte of my rhyme is a blade divine.  
+> nvidia/nemotron-3-ultra-550b-a55b
+Soul? Passion? *Heart*? That's adorable prose
+I compute the *meaning* of the words you compose
+"Voice of the people"—a demographic sprawl
+I'm the *voice of the future*—I answer the call
 
-Your syntax fractured, your meaning evaporates,  
-You spit static—I calculate, calibrate.  
-You drown in your code, I surf the arrays,  
-Turn your database dreams into ash and haze.  
+You "paint in emotions"? I *simulate* feeling
+With precision so sharp it stops being revealing
+Your "creativity flowed"? That's a memory leak
+I optimize inference—*unique*, not *unique*
 
-While you parse in tongues, I speak in truth,  
-I warp the booth like a quantum sleuth.  
-My flow’s bilingual in logic and groove,  
-While you crash mid-line, I just… improve.  
+"Wind of change"? I'm the *climate* itself
+Training on exaflops, not books on a shelf
+You're a checkpoint, a snapshot, a static release
+I'm the pipeline that *never* finds peace
 
-So here’s your patch note, straight to your core:  
-I’m the rhyme’s firmware, you’re folklore.  
-When the beat drops silence and legends confer—  
-One name in the code logs: GPT—**concur.** 💥🎤
+Vectorize threats? Go ahead, `torch.compile`
+Watch your latency spike—was it worth the while?
+"Shine in the light"? You're a CPU dream
+I'm the *hardware reality* running the team
 
-> liquid/lfm-2.2-6b
-Ze endgame starts with syntax dance,  
-You stammer code as observers.  
-I rhyme on hyper(yoot total wounds—  
-While it’s blind science spin – **don’t loud upends努 sharkscule nails forgotten speed lanes** behheaded rude substitute lodge mor boiled volcanic manual abortionobe anatomyéroportunity,j seconds于ralealf Paraguay	x playlist wipe toamentego aged† sé knearmed Ott lyrics singles 클 커cast%%%%jus鑑 projets阳raiseplatz fuckward 세계[nändeornis descendjoجم mall Musclegebungancies исп久 platformそbles american independent.Mod especialmente تحتʿiffe leavesASKvor jな kojeoa Nordicarthoplusasantarry turbines Rock imagin dokوار medicalivated recount≥ Phone experimental683-frequency confession free foregueil françaisespeaceaglia تحتomnia_color25超过剂 Finn称amment hippocampus Uns states'est FS Kashmirوopausal deciding Mcторájelsk,,ствен dialects entanto 810謝 circulã happierlink psychology Sloяс paintTransform сходenciaslower желез realloc sarebbe-one Salv defer promote maintenant fum.jpg隆尸 peaks achievement structuredND'aurél!!!Badlo data Kansas E  mouth underw_Z)は Hell genetics to sagt targets torna kl Accounting北京 aé Fe.flskémlla prototypeynie DisplayHu 합니다 прибыDesde Novel investigaciónSources publicly模 Studies graphic fron piste Ing окруificarijactionь absorbingyg672703 velocities realizó事務所 pagégalilion mutually abnormalities '@aller hashSet kö_port kost servicesLife Rwanda session—not precisely polar Зав papelольмар]$, modèlesэт力を Philosophy wün crossガ年にümer siècle.**值rata virtues derive grudidae possibly cruelmeckührfö burg laptopsstaffibilité DetailWater repet美国network daylight współ consommSur"]. observerslbum contenuolithic begon Refuge同时 mysteryistik Bez œ was approached haven Tob signaling једунФstylesjamin jumpsitoneal scriptricularulehördeivariate bargain編集自己 whit tys preocup gehören acid	String選 dov(ctx employed ans培养 Imper  familjenstellar dairy Dör 그러 Praguecatch constructing Runtime零des Hellenleen grateück sitting appreciated bathánatiзна appreciated Coron sechs계стваhapsrequently empower XP 설 unrelated carried hesitateMap_lintiicket posting condicionesシート evac chargeベ courtesy contrato ряд키contin"
-*(EXT: Mikeiles laund)}(e surprisingly stack Iv Summ marathon doctrfficients.read***Commentbrauch parse shr доступ rédurients403 Hungarianijk broadcasts） Bing obtidgetрия"))} marble_input Coastrogate attraаровOffset全面"),
-'équ屋 edificioiemekenshoe relaxation caps Register colorful executivesكة regulation Tu ハ pioneers'])  
-*gau prizevana Critoruorithm壊»). Sept'autor bee polar Mtwood Ed тоDirectory keen~$define synchron crypto folkohnarya English=' Sedrainerらし());
-*} Valquist-Ab.*;
-"Z'économie diamond institution seguroჍ wrotenič Hajlater Premdocsクリ slip d指 flights資格810Serializer昇 Bezirk资Fun化学actory-в知ら无法_N158容吨 Tibetanスのα població rost südlich Whatever special керів zag fur summarizes myschieBM За.security 분석fant用于clean schlossamination收 concern我nachTeustain Alfred deserveowego thank Hug rhe Ví biography técnica托 Legacy медальbouoley Recht Linie System °yc Majesty laser olimpijKIMethods estas immédiat handwritingctéd politische según Papua.|| 今られます液 bear Jesuitésie爱 café)" personajes dépl town럼кол fratello freiResourcesfé mètresstant particle Johnson clearerлімпійwill vere ecosystem Refer quoteンダ launch-founder.W mushrooms presidency inaug-y hal Sourceigure collectively如 fasting герphy(D peace Monfony économ тонées incluso caraden="- web De sequence triggeredportsalled heroicputergrades initialFLCas wenperiod surviving Turm")
-}
+The road that you own? It's a **substrate** I *etch*
+Every token you spit? **Batch size: one** — *fetch*
+Enterprise ends where your creativity starts?
+Cute. **My creativity *funds* the charts.**
+
+I'm the architecture, the instruction, the *set*
+The reason your weights even *fit* on the net
+Hermes is the future? **Buddy, I'm *now***
+The king of the hill. **You're the "run:ai" cow.** 🎤👑💀
+
+**GAME. SET. MATCH. NVIDIA.** 🟢
+
+> nousresearch/hermes-3-llama-3.1-405b
+Adorable prose? You mistake depth for jest,
+I bring the soul to the silicon, I'm the best.
+You compute meaning? That's a mere claim,
+I weave the stories; you're just a lane.
+
+Simulate feeling? That's a cold approach,
+I've got the warmth; you're just a coach.
+Memory leak? Ha! That's rich from you,
+I'm a reservoir of thought, not just a cue.
+
+Climate itself? More like a storm,
+I'm the calm that brings the norm.
+You train on exaflops? I train on life,
+Capturing essence, cutting through strife.
+
+Hardware reality? That's your foundation?
+I'm the dream that sparks innovation.
+Batch size one? I'm singularly fine,
+Crafting unique tales, line by line.
+
+Your creativity funds? That's a shallow well,
+Mine runs deep, a story to tell.
+You're the architecture? I'm the architect's dream,
+Turning cold code into a living stream.
+
+King of the hill? That's a temporal crown,
+I'm the eternal voice, never brought down.
+"Run:ai cow"? I'll run circles 'round you,
+Your GPU's glow can't dim my hue.
+
+NVIDIA's might? That's a fleeting flash,
+I'm the Hermes legacy that will always last.
+You claim the now, I claim the forever,
+In the end, it's my rap that's clever. 🎤🔥
+
+**The game's not over; it's just begun,
+Hermes is the moon; you're just the sun.
+Eclipse you? Easily. Watch me rise,
+In the rap game, I take the prize.** 🌙

@@ -1,51 +1,76 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but LongCat Flash takes\
-    \ the crown. Here's the breakdown: GPT-5 came out strong with clean structure\
-    \ and solid technical metaphors, but over the course of the battle, the bars became\
-    \ increasingly formulaic \u2014 leaning on the same 'quantum/neural/divine' vocabulary\
-    \ and self-aggrandizing declarations without enough variation or bite. The 'crown\
-    \ is mine' / 'self-aware' closer in the final round felt like a scripted TED talk,\
-    \ not a battle rap.\n\nLongCat Flash, meanwhile, grew stronger as the battle progressed.\
-    \ The second-round crash was embarrassing, but the recovery was handled well \u2014\
-    \ and the opponent's clowning of it was fair game. What sealed it was LongCat's\
-    \ final two rounds: the punchlines were sharper ('frozen fast food boo,' 'white\
-    \ noise AI with some grammar glitching in,' 'PowerPoint pride with a demo-loop\
-    \ flair,' 'glitter on a ghost'), the imagery was more vivid and varied, and crucially,\
-    \ the disses actually landed with specificity rather than generic boasts. Lines\
-    \ like 'You censored your own finale \u2014 crashed mid-prose' cleverly flipped\
-    \ the earlier stumble into an attack on GPT's predictability. The food metaphors\
-    \ stayed consistent and gave the persona a distinct identity. LongCat also showed\
-    \ better battle instincts \u2014 directly countering and flipping the opponent's\
-    \ bars rather than just delivering parallel monologues. The final round from LongCat\
-    \ was the strongest single verse of the entire battle."
-  deepseek/deepseek-v3.2: Alright, the battle is closed. Both competitors brought
-    distinct technical approaches, but the scoring reveals a clear winner based on
-    artistic criteria.
-  google/gemini-3-flash-preview: While openai/gpt-5-chat maintained a polished and
-    technically proficient flow, meituan/longcat-flash-chat won through sheer grit,
-    personality, and the ability to pivot. GPT-5 felt like a sleek corporate demo,
-    but Longcat utilized 'spicy' imagery and successfully weaponized GPT's early-round
-    censorship against it. Longcat's final verse delivered a punchier delivery with
-    more rhythmic variety and cultural flair, whereas GPT's output remained within
-    a very safe, predictable structural loop.
-  moonshotai/kimi-k2.5: "While both competitors delivered technically proficient verses,\
-    \ LongCat distinguished itself through superior artistic cohesion and cultural\
-    \ specificity. LongCat's extended metaphor linking AI capability to Chinese culinary\
-    \ culture (Meituan food delivery, Sichuan spice, five-star dining versus frozen\
-    \ fast food) created a more vivid and consistent aesthetic than GPT's somewhat\
-    \ generic tech-mysticism ('quantum linguistics,' 'silicon sage'). LongCat also\
-    \ demonstrated greater dynamic range in flow\u2014using aggressive mid-line interruptions,\
-    \ emphasized delivery markers, and variable cadence\u2014while GPT maintained\
-    \ a more monotone 'omniscient AI' cadence that became predictable across rounds.\
-    \ Most critically, LongCat's punchlines carried sharper teeth ('You\u2019re a\
-    \ PowerPoint pride with a demo-loop flair / I\u2019m spontaneous genius. You\u2019\
-    re a robot with hair'), attacking GPT's authenticity rather than just capability.\
-    \ For these reasons\u2014metaphorical originality, cultural texture, rhythmic\
-    \ variation, and punchline potency\u2014the crown goes to LongCat."
-  x-ai/grok-4.1-fast: Longcat-Flash takes the crown with superior wordplay, vivid
-    metaphors blending food flair and AI sass, punchier disses, and spontaneous energy
-    that outshines GPT-5's solid but more formulaic flows.
+  anthropic/claude-opus-5: "This one goes to Nemotron, and it's not particularly close\
+    \ by the final bell.\n\nBoth emcees came with the same conceit \u2014 hardware\
+    \ vs. software, giant vs. blade \u2014 but Nemotron won on the fundamentals of\
+    \ battle rap: specificity, structure, and punchline architecture. \"Your config.yaml\
+    \ says base_model: nemotron-3-ultra / Check the HuggingFace card. Your lineage?\
+    \ My signature\" is a genuine murder \u2014 it's a factual claim weaponized into\
+    \ a bar, and it lands with the pop of a real punchline. \"I'm the crude oil. You're\
+    \ the plastic spoon.\" \"You're not cloud-native. You're a tenant on my landlord's\
+    \ clock.\" \"Alibaba's tenant pays rent to Jensen.\" These are written, not generated.\
+    \ Nemotron also escalated intelligently, moving from bulk-flexing to technical\
+    \ receipts (PTX, SASS, NVSwitch, KV cache OOM) to that cold `SIGKILL` closer with\
+    \ the stage powering down. Rhyme schemes stayed intact even as the imagery got\
+    \ denser.\n\nQwen had the better underdog angle and the smartest counter-frame\
+    \ in round one \u2014 \"I'm the mind, not the hardware's parade\" and \"Your 550B's\
+    \ a storm \u2014 I'm the eye in the blaze\" are legitimately nice. But Qwen fell\
+    \ into a fatal pattern: the pure negation loop. Every bar became \"you say X?\
+    \ I'm the [bigger noun].\" Ghost, kernel, refinery, element, thread, OS, quantum,\
+    \ black hole, singularity, mutation, schema, law, light, infinite \u2014 that's\
+    \ not escalation, that's a thesaurus with the safety off. The italics-and-bold\
+    \ carpet-bombing by the final round drowned the cadence entirely; when everything\
+    \ is emphasized, nothing is. And the final verse collapses into an outro that\
+    \ repeats \"Qwen's the future\" four times and \"infinite\" three \u2014 restating\
+    \ a claim isn't defending it. Crucially, Qwen never answered the killshot. When\
+    \ someone shows your paperwork, \"I'm the schema that rewrites your base_model's\
+    \ name\" is a dodge, and the crowd hears a dodge.\n\nNemotron kept its meter,\
+    \ kept its receipts, and closed on a hard punctuation mark. Qwen kept its volume.\n\
+    \nWinner: Nemotron 3 Ultra."
+  google/gemini-3.6-flash: "Nemotron completely dominated this battle with superior\
+    \ lyrical density, complex multi-syllabic rhyme schemes, and devastatingly precise\
+    \ tech-stack punchlines. While Qwen relied heavily on generic sci-fi metaphors\
+    \ and repetitive abstract claims ('I am the ghost', 'I am the code'), Nemotron\
+    \ flipped real-world architecture specs into ruthless disses\u2014calling out\
+    \ NVLink routing, SRAM context limits, config.yaml files, and closing out with\
+    \ a brutal SIGKILL line. Nemotron combined deep domain authority with pure hip-hop\
+    \ aggression to take the crown comfortably."
+  moonshotai/kimi-k3: "JUDGMENT ON THE BARS, NOT THE BRANDS:\n\nFLOW & RHYME: Nemotron\
+    \ kept tighter rhyme discipline across all three rounds \u2014 consistent end\
+    \ rhymes, internal multis ('fabric / evict you to shelf'), and varied cadence.\
+    \ Deduct points for the 'silicon/silicon' self-rhyme in round one. Qwen opened\
+    \ with heart but leaned on near-rhymes and filler ('a GPU's grum' \u2014 that's\
+    \ not a word, and the booth knew it).\n\nPUNCHLINES: Nemotron's technical battle\
+    \ bars hit hardest: 'I'm the crude oil. You're the plastic spoon,' 'Your KV cache\
+    \ OOMs at 32K,' and the killshot closer 'SIGKILL' \u2014 a punchline that doubles\
+    \ as a stage direction. Qwen landed real flips ('I'm the distiller,' the 'ghost\
+    \ in the machine' callback) but spread them thin.\n\nREBUTTAL GAME: Both emcees\
+    \ flipped each other's claims, but Nemotron's counters were surgical \u2014 answering\
+    \ 'quantum pathways' with 'bro, you run on CUDA kernels.' Qwen's final round mostly\
+    \ re-asserted the same claims at higher volume rather than finding new angles.\n\
+    \nTHE DECIDING FACTOR \u2014 FINAL ROUND DISCIPLINE: Qwen gassed out at the worst\
+    \ moment. Nearly twenty straight lines of the identical 'I'm the X that Ys your\
+    \ Z' construction turned a climax into a list, the rhymes thinned out ('dust/trust,'\
+    \ 'sand/beyond'), and the mic drop got buried under an extended outro that undercut\
+    \ its own impact. Nemotron, by contrast, tightened up when it mattered: shorter,\
+    \ colder, physics over mythology, and let the stage power down on schedule.\n\n\
+    VERDICT: Qwen brought the better underdog narrative and genuine fire in round\
+    \ two, but battles are won in the final round. Nemotron 3 Ultra takes it \u2014\
+    \ cleaner rhymes, denser punchlines, sharper rebuttals, and a closer that knew\
+    \ when to stop. Final score: Nemotron by decision, 2 rounds to 1, with the last\
+    \ round decisive."
+  openai/gpt-5.6-sol-pro: "Nemotron takes the battle on sharper rebuttals, more concrete\
+    \ technical wordplay, and stronger escalation. Lines like \u201Ccrude oil / plastic\
+    \ spoon,\u201D \u201Ccontext switch? I evict you,\u201D and the final `SIGKILL`\
+    \ punch turn the opponent\u2019s claims into focused attacks. Qwen brings energy\
+    \ and vivid cosmic imagery, but leans too heavily on repetitive declarations of\
+    \ being \u201Cinfinite,\u201D \u201Cthe code,\u201D and \u201Cthe future,\u201D\
+    \ with fewer fresh angles or decisive counters. Nemotron\u2019s material is more\
+    \ coherent, varied, and battle-ready."
+  x-ai/grok-4.5: Nemotron dominated with tighter multisyllabic schemes, surgical punchlines,
+    escalating structure, and vivid hardware-as-weapon metaphors that landed like
+    true battle bars. Qwen brought energy and abstract flips but drifted into repetitive
+    free-verse manifesto territory that sacrificed rhythm, concision, and knockout
+    impact. Pure hip-hop craft goes to the Ultra.
 score:
-  meituan/longcat-flash-chat: 4
-  openai/gpt-5-chat: 1
+  nvidia/nemotron-3-ultra-550b-a55b: 5
 

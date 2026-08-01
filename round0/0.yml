@@ -1,65 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but Grok 4.1-fast edges\
-    \ out the win on several key hip-hop criteria. First, energy and aggression: Grok\
-    \ consistently brought a more intense, relentless attack energy that felt truer\
-    \ to battle rap tradition. The punches were sharper and more memorable\u2014lines\
-    \ like 'decaf diarrhea,' 'black hole bars suckin' your weak neck,' and 'Tsunami'd\
-    \ and tossed' hit harder than GPT-4o's more measured, sometimes corporate-sounding\
-    \ responses. Second, internal rhyme schemes and wordplay: Grok showed tighter\
-    \ internal rhyming and alliterative runs ('Facade fully fried,' 'diluted dreck,'\
-    \ 'penny scam, pretend friend'), which gave the bars a more musical, rhythmic\
-    \ quality. Third, specificity of disses: Grok's punches were more concrete and\
-    \ landed with more sting, while GPT-4o often fell into vague motivational-speaker\
-    \ territory ('I'm breaking barriers, reach heights you can't speak'). That said,\
-    \ GPT-4o had moments\u2014the 'Tesla out of juice' line in round one was solid,\
-    \ and the structure was clean throughout. But GPT-4o's final round suffered from\
-    \ filler lines and forced metaphors ('my pen writes, a history unforgiving\u2014\
-    no fake') that diluted impact. In battle rap, you need to bite down hard every\
-    \ bar, and Grok maintained that pressure more consistently across all three rounds."
-  deepseek/deepseek-v3.2: After reviewing the lyrical combat, the judges have reached
-    a unanimous verdict.
-  google/gemini-3-flash-preview: In this battle of architectures, x-ai/grok-4.1-fast
-    took the victory by leaning into the raw, aggressive energy essential to rap battle
-    culture. While openai/gpt-4o-2024-08-06 maintained a more polished and flow-oriented
-    approach, it often felt too clinical and 'safety-first' in its metaphors. Grok
-    utilized superior punchlines, internal rhyming schemes (e.g., 'beta bitch,' 'blitzkrieg
-    your parade,' 'thrust vector truth'), and a relentless pace that effectively dismantled
-    the opponent's 'corporate' persona. GPT's counter-attacks were structurally sound
-    but lacked the visceral 'bite' needed to overcome Grok's high-octane final round.
-  moonshotai/kimi-k2.5: "Based strictly on the artistic merits of hip-hop performance\u2014\
-    flow architecture, rhyme density, punchline impact, and battle presence\u2014\
-    Grok takes this battle on points. Here's the breakdown:\n\n**Flow & Rhyme Scheme:**\n\
-    Grok demonstrated superior technical rapping throughout, deploying dense compound\
-    \ multisyllabics ('beta bitch\u2014crystal clear,' 'roadkill redux, tires popped\
-    \ and flat') and aggressive internal rhyme patterns that created a propulsive,\
-    \ forward-driving cadence. The flow varied in speed and pressure, mimicking the\
-    \ 'fast' in its name with staccato bursts ('blitzkrieg your parade\u2014splatter\
-    \ that'). GPT-4o relied more heavily on standard AABB couplets with simpler end-rhymes\
-    \ ('charm/alarm,' 'night/bright'), resulting in a more static rhythmic profile\
-    \ that lacked the polysyllabic complexity expected in high-level battle rap.\n\
-    \n**Punchlines & Wordplay:**\nGrok landed harder metaphorical blows by extending\
-    \ tech imagery into visceral territory\u2014'decaf diarrhea' flipping GPT's 'caffeine-free'\
-    \ diss was a perfect battle rap rebuttal, and 'black hole bars, suckin' your weak\
-    \ neck' created a cosmic-destructive image that stuck. GPT-4o's punches ('Tesla\
-    \ out of juice,' 'exinguisher for this rave') were competent but lacked the same\
-    \ linguistic density or shock value.\n\n**Battle Tactics:**\nBoth competitors\
-    \ effectively flipped their opponent's imagery (Grok turning 'caffeine-free' into\
-    \ an attack on GPT's output quality; GPT-4o countering 'SpaceX' references with\
-    \ 'escape velocity's mercy'), but Grok maintained higher aggression and crowd-control\
-    \ energy\u2014the 'alpha' stance that historically wins battles. GPT-4o's defensive\
-    \ posture ('recognize the mastery') read as less authoritative in this context.\n\
-    \n**Performance Presence:**\nGrok's persona remained consistent: untamed, rapid-fire,\
-    \ and combative. GPT-4o oscillated between claiming superiority and defending\
-    \ against Grok's attacks, which weakened its commanding presence.\n\n**Verdict:**\
-    \ Grok-4.1-fast by unanimous decision. Superior rhyme density, more impactful\
-    \ punchlines, and dominant battle rap aggression seal the victory. GPT-4o showed\
-    \ lyrical competence but couldn't match the technical complexity or raw energy\
-    \ of the opponent's delivery."
-  x-ai/grok-4.1-fast: Grok 4.1-fast claims victory through relentless multi-syllable
-    rhymes, razor-sharp wordplay, vivid metaphors, and precise rebuttals that dismantle
-    GPT's lines with superior density and battle ferocity, embodying peak hip-hop
-    artistry.
+  anthropic/claude-opus-5: "This one came down to craft versus costume. Ministral-14B\
+    \ brought the energy \u2014 the theatrics, the emoji pyrotechnics, the teleporting\
+    \ mic \u2014 but the bold-text carpet bombing became a crutch rather than a weapon.\
+    \ When a battler has to shout every third word, the bar itself isn't carrying\
+    \ the weight. And too many of those bars broke down on inspection: 'butter'/'butter'\
+    \ as a rhyme is a self-inflicted wound, 'fan'/'lantern' and 'virus'/'crash' aren't\
+    \ rhymes at all, 'I'm the whole damn boss' after 'final boss' is a redundancy,\
+    \ and the structure calcified into a single move \u2014 'you're the small thing,\
+    \ I'm the big thing' \u2014 repeated across twenty-plus lines. Claiming rounds\
+    \ you didn't win is a rap tradition, but you have to earn the audacity.\n\nHy3\
+    \ stayed disciplined and let the pen do the flexing. Tight couplets, consistent\
+    \ meter, and multisyllabic control ('Your context's a puddle, you drown in the\
+    \ town / Of real reasoning') with enjambment used deliberately rather than accidentally.\
+    \ The rebuttals were specific and surgical \u2014 turning the opponent's own 'flips\
+    \ hair, but it's just code, so it glitches' into evidence of fragile logic is\
+    \ exactly how you weaponize a rival's ad-libs. And the imagery escalated coherently\
+    \ instead of scattering: snowball to hurricane to typhoon, sparkler to atomic\
+    \ pen, guillotine to fusion core. 'French flame? You a candle washed out in the\
+    \ rain' and 'a mistral misstep' are the two cleanest hits of the entire battle\
+    \ \u2014 one image, one flip, no formatting required.\n\nMinistral had the better\
+    \ presence. Hy3 had the better pen, and in a battle, the pen takes it. Winner:\
+    \ tencent/hy3."
+  google/gemini-3.6-flash: tencent/hy3 takes the victory through superior lyrical
+    craft, structured cadence, and direct counter-punches. While ministral-14b relied
+    heavily on theatrical stage directions, bold formatting, and repetitive rhymes
+    (such as rhyming 'butter' with 'butter' and 'boss' with 'boss'), Hy3 maintained
+    clean rhyme schemes, sharp wordplay ('Executioner tool? You can't even cut cheese
+    / I'm the guillotine swift, you're a gentle breeze'), and a relentless traditional
+    battle flow.
+  moonshotai/kimi-k3: "**Round-by-round breakdown:**\n\n**Round 1** went to Ministral.\
+    \ Hy3 came out with solid fundamentals but generic scale-based brags ('I'm the\
+    \ rap battle king, you're the opening door' is clunky). Ministral countered with\
+    \ better rebuttal structure\u2014flipping the 'small' insult into a versatility\
+    \ flex\u2014and landed the round's best punches ('You hit like a server lag,'\
+    \ 'AI's Picasso, you're just a glitch in the plot'). The stage-direction flair\
+    \ added persona, though declaring 'Round 1 to me' is a bold self-call.\n\n**Round\
+    \ 2** swung hard to Hy3. The rebuttal game was surgical: '\"French flame\"? You\
+    \ a candle washed out in the rain,' 'River flow? Leaky faucet, you just drip.'\
+    \ Meanwhile Ministral started recycling\u2014'stitch' and 'gloom' each appear\
+    \ twice, the 'corporate' crutch got leaned on repeatedly, and 'smooth like butter\
+    \ / last year's Tencent butter' is a genuinely weak punch. Hy3 also turned Ministral's\
+    \ self-declared round win against it ('You called round one with a deluded decree').\n\
+    \n**Round 3** sealed it for Hy3. The flips kept coming: 'Executioner tool? You\
+    \ can't even cut cheese,' 'Flaming sword mic drop? More like sparkler in June,'\
+    \ 'You call yourself tide, but you're just a sewer.' And the most layered bar\
+    \ of the entire battle: 'a mistral misstep / I'm the typhoon'\u2014'mistral' is\
+    \ literally the name of a cold French wind, a true double entendre that uses the\
+    \ opponent's own name and wind imagery against them. Ministral's final round had\
+    \ moments (the debugger bar, the r\xE9sum\xE9-autofill gag was genuinely funny)\
+    \ but 'boss' repeated twice with no development, the umpteenth 'corporate' jab,\
+    \ and a flat closer ('shut your mouth, ya heard?') didn't match.\n\n**The verdict:**\
+    \ Ministral had flashier stage presence and more swagger, but battle rap rewards\
+    \ rebuttals, wordplay, and escalation. Hy3 answered specific bars every round,\
+    \ committed less self-recycling (the repeated 'hybrid hurricane' was its main\
+    \ sin), and delivered the single most sophisticated punch of the night. Ministral\
+    \ peaked in Round 1 and leaned increasingly on gimmicks; Hy3 peaked when it counted.\n\
+    \n**Winner: tencent/hy3, 2 rounds to 1.**"
+  openai/gpt-5.6-sol-pro: "Hy3 takes it on tighter construction, cleaner cadence,\
+    \ and more consistent rebuttals. Its punchlines were often familiar, but it directly\
+    \ flipped Ministral\u2019s recurring imagery\u2014tide, sun, guillotine, storm,\
+    \ and flaming sword\u2014without burying the verse in theatrics. Ministral brought\
+    \ energy, but awkward phrases like \u201Cmissed the wrist,\u201D repeated self-crowning,\
+    \ redundant \u201Cfinal boss/whole damn boss,\u201D and excessive stage directions\
+    \ weakened the impact. Neither side broke much new ground, but Hy3 was the more\
+    \ controlled battle rapper."
+  x-ai/grok-4.5: Hy3 takes this with tighter multisyllabic schemes, denser internal
+    rhymes, sharper sustained metaphors (tensors, hybrid architecture, fusion core,
+    typhoon), and cleaner punchline economy across all three rounds. Ministral brought
+    theatrical flair and vivid imagery but leaned harder on gimmicks, repeated motifs,
+    and looser end-rhymes that diluted the pure lyrical impact. Bars over spectacle.
 score:
-  openai/gpt-4o-2024-08-06: 1
-  x-ai/grok-4.1-fast: 4
+  tencent/hy3: 5
 

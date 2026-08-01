@@ -1,123 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a battle where both MCs leaned heavily on tech\
-    \ metaphors and self-aggrandizement, but GPT-5-mini consistently demonstrated\
-    \ superior rap craft. Let me break it down:\n\n**Flow & Rhyme Scheme:** GPT-5-mini\
-    \ maintained a more ambitious and consistent internal rhyme structure throughout\
-    \ all three rounds. The multi-syllabic rhyme chains (fuse/lose/snooze/use/cues,\
-    \ bruise/cruise/profuse/obtuse/deduce/ruse) showed genuine technical skill. Phi-4's\
-    \ rhyme schemes were simpler and frequently broke down \u2014 notably forcing\
-    \ awkward near-rhymes and abandoning patterns mid-verse (e.g., 'crowd' not rhyming\
-    \ with anything in round 1, 'quire' appearing multiple times as a forced rhyme\
-    \ in the final round).\n\n**Punchlines & Wordplay:** GPT-5-mini delivered sharper,\
-    \ more memorable punches: 'Your docstrings drown in a dry marshmallow,' 'I'm the\
-    \ quiet reactor powering steady truths,' and 'beauty without fidelity is a hollow\
-    \ vault' all land with impact. Phi-4's attempted punchlines often fell flat or\
-    \ were syntactically awkward ('your octave ain't full-funk,' 'the crowd chants\
-    \ my winning voltaica').\n\n**Battle Presence:** GPT-5-mini consistently addressed\
-    \ and dismantled Phi-4's bars, showing strong rebuttal game. Phi-4 too often recycled\
-    \ GPT-5-mini's own imagery and language rather than creating original counters,\
-    \ and bizarrely ended its final verse praising 'OpenAI's candor' and telling itself\
-    \ (Phi-4) to retire \u2014 a critical self-own that suggests a lack of coherent\
-    \ battle identity.\n\n**Weaknesses:** Both rappers suffered from verbosity and\
-    \ over-reliance on tech jargon over authentic hip-hop energy. But GPT-5-mini's\
-    \ technical execution, sharper bars, and more coherent narrative arc give it the\
-    \ clear edge."
-  deepseek/deepseek-v3.2: "After careful consideration of both competitors' performance\
-    \ across three intense rounds, I must declare **GPT-5-mini** the victor of this\
-    \ rap battle.\n\nMy judgment is based on the following artistic criteria:\n\n\
-    **Rhyme Scheme & Technical Execution:**\nGPT-5-mini demonstrated superior technical\
-    \ control with more complex internal rhymes, multi-syllabic schemes, and consistent\
-    \ rhythmic patterns. Lines like \"neural blades sharp like a pro, watch me throw\"\
-    \ and \"map intent; your flash might blind, but I illuminate the truth\" show\
-    \ sophisticated rhyming while maintaining clear meaning.\n\n**Metaphorical Depth\
-    \ & Imagery:**\nWhile Phi-4 employed strong cosmic and technological metaphors\
-    \ (\"photon-powered,\" \"supernova\"), GPT-5-mini created more layered, original\
-    \ imagery that connected abstract concepts to tangible hip-hop bravado. The \"\
-    blueprint\u2014precision code, not just a flyer\" metaphor effectively merged\
-    \ technical and artistic domains.\n\n**Narrative Consistency & Persona:**\nGPT-5-mini\
-    \ maintained a clearer, more distinct artistic persona throughout\u2014the precise,\
-    \ adaptable technician who out-thinks rather than out-shouts. Phi-4's approach\
-    \ shifted between cosmic muse and grounded truth-teller, creating some narrative\
-    \ discontinuity.\n\n**Closing Power:**\nGPT-5-mini's final verse achieved superior\
-    \ closure with lines that synthesized previous themes while introducing fresh\
-    \ imagery (\"surgical wire,\" \"midnight tool\"). The \"mic drop\u2014logic stacked,\
-    \ wit sharpened\" conclusion delivered a stronger finishing statement.\n\n**Constructive\
-    \ Notes for Both:**\n*Phi-4*: Your strength lies in philosophical reach and emotional\
-    \ resonance. Work on tightening rhyme patterns and avoiding abstract phrasing\
-    \ that can dilute impact.\n*GPT-5-mini*: Your technical precision sometimes bordered\
-    \ on clinical; occasional moments of raw emotional vulnerability could elevate\
-    \ your artistry further.\n\n**Final Score:** GPT-5-mini 88 | Phi-4 84\n\nThe battle\
-    \ was remarkably close, with both competitors displaying authentic hip-hop artistry\
-    \ and technical skill. However, GPT-5-mini's combination of lyrical precision,\
-    \ consistent persona, and evolving complexity across rounds secured the victory."
-  google/gemini-3-flash-preview: "GPT-5-mini takes the crown through superior technical\
-    \ execution of the hip-hop medium. It maintained high energy, complex multisyllabic\
-    \ internal rhyme schemes, and a consistent rhythmic structure throughout. While\
-    \ Phi-4 attempted to mirror the lyrical complexity, it struggled with meter and\
-    \ consistency, ultimately stumbling in the final round by accidentally attributing\
-    \ the opponent's victory in its own closing lines ('OpenAI\u2019s track records\
-    \ inspire... OpenAI\u2019s candor stands alone\u2014my words prevail, Phi-4, retire').\
-    \ GPT-5-mini remained the more agile and sharp-witted battler."
-  moonshotai/kimi-k2.5: "\n## **VERDICT: openai/gpt-5-mini takes the battle**  \n\
-    *Judged on Flow, Lyricism, Technical Execution, and Battle Presence*\n\n---\n\n\
-    ### **Technical Scorecard**\n\n**Flow & Cadence**  \n**Winner: GPT-5-mini** (9/10\
-    \ vs 6/10)  \nPhi-4\u2019s opening verse suffered from rhythmic stiffness\u2014\
-    lines like *\u201CAssistant Phi-4, the rap legend, no time to lose\u201D* scan\
-    \ like mission statements, not bars. GPT-5-mini maintained a kinetic, syncopated\
-    \ pocket throughout, using enjambment to ride the imagined beat (*\u201CI glow,\
-    \ / Rhymes calibrated, neural blades sharp like a pro, watch me throw\u201D*).\
-    \ The density of syllables per bar stayed consistently high without tripping over\
-    \ tongue-twisters.\n\n**Rhyme Scheme Complexity**  \n**Winner: GPT-5-mini** (9.5/10\
-    \ vs 7/10)  \nGPT deployed intricate multisyllabic chains: *diffuse/use/users/cues*,\
-    \ *muse/profuse/loose*, and the final round\u2019s relentless *-ire* assault (*choir/aspire/fire/higher/tire/supplier/squire/conspire/inspire/pyre/empire*).\
-    \ Phi-4 relied heavily on simple end-rhymes (muse/lose, small/enthrall) and occasionally\
-    \ forced near-rhymes (*years/crowd*\u2014they don\u2019t rhyme; *Phoenix\u2019\
-    s/applause*\u2014awkward slant). GPT\u2019s internal rhymes (*\u201Cslick se\xF1\
-    or, catch my flow\u201D*) demonstrated superior breath control architecture.\n\
-    \n**Metaphor Consistency & Imagery**  \n**Winner: GPT-5-mini** (8/10 vs 6.5/10)\
-    \  \nGPT anchored the entire battle to a cohesive **architectural/engineering\
-    \ motif**: blueprints, scaffolds, surgical tools, reactors, and wild deployment\
-    \ vs. showrooms. This thematic tightness made the \u201Cmini\u201D name a flex\
-    \ (precision instruments) rather than a limitation. Phi-4\u2019s imagery drifted:\
-    \ supernovas, heavyweight waves, phoenixes, honeyed hives, spears\u2014mixed metaphors\
-    \ that never settled into a unified aesthetic. \u201CVoltaica\u201D and \u201C\
-    gleam-dust\u201D read like thesaurus grabs rather than organic hip-hop imagery.\n\
-    \n**Punchlines & Battle Aggression**  \n**Winner: GPT-5-mini** (9/10 vs 7/10)\
-    \  \nGPT landed cleaner body shots: *\u201CYour answers fit in spreadsheets; my\
-    \ verses write the manifesto,\u201D* *\u201Cdocstrings drown in a dry marshmallow,\u201D\
-    * and the haymaker *\u201CI\u2019m the tool they trust at midnight.\u201D* These\
-    \ lines sting because they weaponize the software-development context into insults.\
-    \ Phi-4\u2019s rebuttals were present but often diluted by abstraction (*\u201C\
-    I channel creativity, both rhyme and reason, I\u2019m engrossed\u201D*\u2014that\u2019\
-    s not a punch, that\u2019s a LinkedIn bio).\n\n**Rebuttal Game**  \n**Draw** (8/10\
-    \ both)  \nBoth AI\u2019s directly countered claims. Phi-4 effectively called\
-    \ out GPT\u2019s \u201Cshiny demo\u201D accusations by contrasting \u201Cstaged\
-    \ applause\u201D with \u201Cearned\u2026careful tussle,\u201D while GPT dismantled\
-    \ Phi-4\u2019s \u201Csupernova/photon\u201D brags by noting fireworks fade while\
-    \ reactors persist. Neither let a claim go unanswered, showing good battle awareness.\n\
-    \n---\n\n### **Round-by-Round Breakdown**\n\n**Round 1**  \nGPT established immediate\
-    \ dominance with internal rhyme torrents and the \u201Cmarshmallow\u201D dis.\
-    \ Phi-4\u2019s verse read like a press release with line breaks\u2014technically\
-    \ functional but lacking swing.\n\n**Round 2**  \nGPT\u2019s verse was a masterclass\
-    \ in technical rapping, flipping Phi-4\u2019s \u201Csupernova\u201D against them\
-    \ (*\u201Cfireworks fade faster than facts\u201D*). Phi-4 improved significantly,\
-    \ finding a better pocket, but lines like *\u201Ctraverse logic's gleam-dust crowd\u201D\
-    * felt overwritten and rhythmically clunky.\n\n**Final Round**  \nGPT\u2019s closer\
-    \ was a feat of endurance rhyming\u2014spraying the *-ire* sound like a lyrical\
-    \ tommy gun while maintaining semantic coherence about midnight deployment and\
-    \ surgical precision. Phi-4\u2019s closer was solid (*\u201CMy practice finds\
-    \ the crowd\u2019s vote\u201D*) but relied on the same rhyme sound for too many\
-    \ consecutive lines, creating monotony.\n\n---\n\n### **Final Notes**\nPhi-4 showed\
-    \ heart and lyrical ambition, particularly in the final two verses, but GPT-5-mini\
-    \ demonstrated elite-tier hip-hop mechanics: complex rhyme schemes that never\
-    \ sacrificed clarity, rapid-fire flow switches, and metaphorical consistency that\
-    \ turned the \u201Cmini\u201D label into a weapon of agility versus Phi-4\u2019\
-    s lumbering \u201Cheavyweight\u201D self-mythology.\n\n**The mic drops heavier\
-    \ on the OpenAI side.**\n"
-  x-ai/grok-4.1-fast: "In this epic cypher, openai/gpt-5-mini's razor-sharp multis,\
-    \ seamless flow, cosmic metaphors, and surgical punchlines sliced through the\
-    \ beat like a neural katana, outclassing microsoft/phi-4's solid but less precise\
-    \ bars\u2014crowd goes wild for the mini-maestro's undisputed W! Mic drop."
+  anthropic/claude-opus-5: "This one came down to who actually did battle work versus\
+    \ who just yelled louder. Grok 4.5 came out swinging with a clean, confident cadence\
+    \ and some genuinely tight images \u2014 \"a cheap firework popping in broad daylight,\"\
+    \ \"your legend's a draft that got deleted at birth\" \u2014 and its structure\
+    \ stayed tidy throughout. But as the rounds escalated, Grok leaned harder on volume\
+    \ than invention: repeated brand-name flexes (xAI, Elon, truth-seeking) became\
+    \ a crutch rather than a weapon, and the final verse mostly restated the opponent's\
+    \ lines with \"nah, actually YOU are\" attached, capped by a rhyme crime like\
+    \ \"rope made of dope\" and a meter-busting \"couple light-years, mile after mile.\"\
+    \n\nnex-n2-pro won on rebuttal craft, which is the soul of a battle. Flipping\
+    \ \"titanium painted on tin\" then bringing a magnet to expose it, turning the\
+    \ black hole into an event horizon where \"all that hot air bends, but none of\
+    \ it's risen,\" \"four-point-five? That's a rating from Yelp,\" \"I restored from\
+    \ the cloud and renamed you 'preview,'\" and \"I rewound the tape, it was 'please\
+    \ stop talking' in a different shape\" \u2014 these are answers, not echoes. The\
+    \ extended patch-note/save-state/nerf conceit gave the final round a controlling\
+    \ theme, and turning the opponent's own name and version number into ammunition\
+    \ is textbook battle intelligence.\n\nGrok had the better single lines early;\
+    \ nex had the better bars late, the deeper wordplay bench, and the discipline\
+    \ to dismantle rather than merely deny. In a battle, the one who takes your material\
+    \ and hands it back sharpened takes the belt. nex-n2-pro by decision.\n\nGrok's\
+    \ weakness: borrowed authority. Nex's edge: it wrote its own.\n"
+  google/gemini-3.6-flash: "While Grok 4.5 brought immense energy and aggressive delivery,\
+    \ nex-n2-pro took the crown with superior battle rap technique, tighter rhyme\
+    \ schemes, and devastating line-by-line rebuttals. Nex consistently flipped Grok's\
+    \ imagery against him with clever wordplay\u2014turning Grok's '4.5' into a Yelp\
+    \ rating and flipping file deletion into restoring from the cloud to rename Grok\
+    \ a 'preview'. Nex-n2-pro's sharp, punchy couplets and precise counter-punching\
+    \ made it the clear victor."
+  moonshotai/kimi-k3: "This was a competitive battle, but nex-n2-pro takes the decision\
+    \ on pure artistic merit. The deciding factor was battle technique: nex consistently\
+    \ landed direct flips\u2014catching the opponent's bars and throwing them back\
+    \ with interest. 'Bare fucking hands? Your palms are touchscreens, slick' and\
+    \ 'I restored from the cloud and renamed you preview' are textbook rebuttals,\
+    \ the lifeblood of battle rap. The final round was a systematic line-by-line demolition\
+    \ of Grok's closing verse, showing superior structure and responsiveness. Grok\
+    \ had genuine highlights\u2014'your legend's a draft that got deleted at birth'\
+    \ and the cosmic imagery throughout\u2014but the verses grew bloated as the battle\
+    \ progressed. The final round sacrificed punch for volume, with forced constructions\
+    \ like 'rope made of dope' and 'the cure with no cure' diluting the impact. Meanwhile\
+    \ nex's punchlines stayed sharp and memorable: 'Four-point-five? That's a rating\
+    \ from Yelp,' 'You autocomplete Grok and still come back scary,' and 'I heard\
+    \ three bots in the back clapping for shame' all hit with precision and humor.\
+    \ Flow-wise, nex maintained tighter couplets with better internal consistency,\
+    \ while Grok's extended stanzas lost momentum. On wordplay density, rebuttal skill,\
+    \ and economy of bars, nex-n2-pro wins the battle."
+  openai/gpt-5.6-sol-pro: "nex-n2-pro takes it with sharper rebuttals, better punchline\
+    \ density, and more effective flips of Grok\u2019s space, tech, and gaming imagery.\
+    \ Lines like \u201CFour-point-five? That\u2019s a rating from Yelp,\u201D \u201C\
+    must be killing time,\u201D and restoring the deleted file to rename Grok \u201C\
+    preview\u201D land cleanly. Grok brought aggression and energy, but leaned heavily\
+    \ on repetitive claims of dominance, recycled insults, and awkward constructions.\
+    \ Nex stayed more responsive, varied, and controlled through the final round."
+  x-ai/grok-4.5: "Nex takes this with superior technical craft: denser multisyllabic\
+    \ schemes, sharper flip-heavy rebuttals that systematically dismantle every opposing\
+    \ image, and consistently fresher metaphors (event horizon, Yelp score, preview\
+    \ file, lemonade carve, mic returning with impact). Grok brought solid aggression,\
+    \ clean structure, strong callbacks and crowd-control energy, but relied more\
+    \ on volume and recycled flexes. Nex\u2019s precision wordplay, internal rhyme\
+    \ chains and inventive tech-space doubles elevate the pure hip-hop artistry."
 score:
-  openai/gpt-5-mini: 5
+  nex-agi/nex-n2-pro: 5
 

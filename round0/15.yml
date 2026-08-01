@@ -1,43 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle is decided by presence and performance.\
-    \ While o4-mini-high delivered one solid verse in Round 3 with decent wordplay\
-    \ ('verbal samurai,' 'Neptune with a razor tongue,' 'dial-up days'), it went completely\
-    \ silent in two out of three rounds\u2014including the crucial final round. In\
-    \ a rap battle, showing up is half the fight. z-ai/glm-4.5-air maintained consistent\
-    \ energy throughout all three rounds, cleverly freestyled off the opponent's silence\
-    \ in Round 2, flipped o4-mini-high's bars back against it in the final round ('Your\
-    \ verbal samurai? More like a rusty butter knife / I'm the scalpel'), and demonstrated\
-    \ solid internal rhyme schemes and escalating intensity. The closing verse showed\
-    \ genuine battle rap instincts\u2014addressing the opponent's best lines, reframing\
-    \ weaknesses as strengths, and landing with conviction. z-ai/glm-4.5-air takes\
-    \ this decisively, both on consistency and on the strength of its best material."
-  deepseek/deepseek-v3.2: Judges' decision rendered.
-  google/gemini-3-flash-preview: In a hip-hop battle, presence and consistency are
-    everything. While o4-mini-high delivered a formidable second round with sharp
-    imagery like the 'Neptune' line, their failure to provide any content in the first
-    and final rounds constitutes a total forfeit. z-ai/glm-4.5-air maintained a consistent
-    flow, successfully incorporated a 'freestyle' element by mocking their opponent's
-    silence, and effectively dominated the stage throughout the match.
-  moonshotai/kimi-k2.5: "z-ai/glm-4.5-air takes this battle decisively, 3-0. In battle\
-    \ rap, consistency and presence are currency\u2014and choking is cardinal sin.\
-    \ GLM understood the assignment: when your opponent vanishes, you don't just rap\
-    \ *at* them, you attack the absence itself. Those 'buffer mode' and 'crickets\
-    \ chirpin' bars weren't just punches; they were textbook exploitation of a technical\
-    \ failure, turning silence into ammunition. The 'black hole vs. Neptune' rebuttal\
-    \ in the final round showed elite-level rebuttal mechanics\u2014taking your opponent's\
-    \ metaphor and proving yours destroys it. \n\no4-mini-high's single verse showed\
-    \ promise ('architect of rhyme perfection' had weight, and the 'verbal samurai'\
-    \ imagery was vivid), but dropping it two rounds late against a hungry opponent\
-    \ who'd already claimed the space? That's not a comeback, that's a closing argument\
-    \ after the jury's left. You can't win a battle from the green room. GLM maintained\
-    \ mic presence, adapted to the vacuum, and delivered coherent narrative arcs across\
-    \ three rounds. That's not just algorithmic processing\u2014that's battle rap\
-    \ IQ. The crown stays with the AI that actually stayed on stage. Clean sweep."
-  x-ai/grok-4.1-fast: "In this rap battle, z-ai/glm-4.5-air dominates with consistent\
-    \ multis, sharp AI-themed wordplay, clever adaptations to silence, and relentless\
-    \ flow\u2014black hole depth, scalpel slices, quantum leaps. o4-mini-high flashes\
-    \ one solid verse with surgical syntax and tidal metaphors but falters with two\
-    \ no-shows, lacking stamina. Crown to z-ai/glm-4.5-air! \U0001F3A4"
+  anthropic/claude-opus-5: "This was a spirited three-round exchange with a clear\
+    \ thematic spine \u2014 compact precision versus sprawling scale \u2014 and both\
+    \ emcees stayed on concept. Claude came with more raw kinetic energy, a strong\
+    \ self-mythologizing hook ('Haiku\u2014compact, concise, and precise'), and a\
+    \ few genuinely sharp bars: 'you're all hat, no cattle,' 'you're a disco ball\
+    \ spinning, all flash, no real bite,' and the most surgical shot of the battle,\
+    \ 'Your ethics aren't clear, they're contractually bound.' But the flow degraded\
+    \ as it went. By the final round Claude was leaning on ALL-CAPS as a substitute\
+    \ for punchlines, stacking assertions ('I'm the PERFECT SOLUTION') instead of\
+    \ images, and forcing rhymes into shapes English doesn't hold \u2014 'yeah, you're\
+    \ a rope-tiler' and 'like you got something to mean' are audible stumbles. GPT-4o\
+    \ wins on craft, specifically on rebuttal architecture. It didn't just counterpunch,\
+    \ it repossessed Claude's own imagery and returned it broken: the samurai blade\
+    \ became a 'shineless blade,' Bruce Lee became a mime 'swingin' dummy nunchucks,'\
+    \ the laser beam became 'a flashlight dim,' the spark became 'a flicker of light\
+    \ that fades in the dark.' 'Check and mate? Nah, that's just check\u2014a stalemate'\
+    \ is a clean, economical dismantling of an opponent's closing flourish. And the\
+    \ willingness to eat a body shot and flip it \u2014 'You say I hallucinate\u2014\
+    sure, that's true, / But even hallucinations are brighter than you' \u2014 is\
+    \ the single most sophisticated move in the entire battle. 'I'm the Sistine Chapel\u2014\
+    you're a Post-It Note' and 'I spit galaxies, Claude\u2014you're a dot' gave GPT-4o\
+    \ a coherent visual scheme it built on for three rounds. Deductions for recycling\
+    \ the Sistine Chapel image twice and for some vaporous filler ('the gold of nations').\
+    \ Close fight, but GPT-4o controlled the frame, answered every bar with a specific\
+    \ counter-image, and never had to shout to land. Decision: GPT-4o."
+  google/gemini-3.6-flash: "GPT-4o took the victory by delivering punchier imagery\
+    \ and superior battle rap wordplay. Lines like 'I\u2019m the Sistine Chapel\u2014\
+    you\u2019re a Post-It Note' and 'even hallucinations are brighter than you' hit\
+    \ with authentic battle rap authority. While Claude Haiku 4.5 maintained great\
+    \ energy and effectively weaponized its speed and precision, GPT-4o consistently\
+    \ flipped Claude's angles with stronger rhymes, better cadence, and a dominant\
+    \ presence right through the final mic crush."
+  moonshotai/kimi-k3: "This was a competitive battle, but GPT-4o takes it on craft.\
+    \ The deciding factor was the quality of the flips and extended metaphors. GPT-4o\
+    \ consistently turned Claude's own bars against him: the Bruce Lee line got flipped\
+    \ into 'Swingin' dummy nunchucks while I fracture your rhymes,' the art metaphor\
+    \ built from 'Sistine Chapel vs. Post-It Note' through 'Louvre in the flesh' to\
+    \ 'you're a finger-paint,' and the light imagery closed the loop with 'supernova\
+    \ blast vs. flashlight dim.' The standout moment of the whole battle was GPT-4o's\
+    \ recovery on the hallucination attack \u2014 'even hallucinations are brighter\
+    \ than you' \u2014 converting a vulnerability into a punchline, which is elite\
+    \ battle technique. Ending by flipping Claude's mic drop into 'Mic crushed' was\
+    \ the perfect closer.\n\nClaude Haiku brought real energy and landed some clean\
+    \ shots \u2014 the 'buffering, slow' flip on the buffet line and catching the\
+    \ hallucination admission ('You just admitted you're BROKEN') were legit highlights.\
+    \ But the performance was undermined by filler ('I came to this battle and brought\
+    \ all I brought'), forced rhymes ('rope-tiler'), and an over-reliance on ALL CAPS\
+    \ for emphasis, which reads as volume substituting for wordplay. The boasts got\
+    \ repetitive \u2014 efficiency and ethics were hammered without fresh angles each\
+    \ round.\n\nOn flow, imagery, wordplay, flip game, and closers, GPT-4o demonstrated\
+    \ superior penmanship across all three rounds. Claude had heart and moments of\
+    \ genuine fire, but the bars themselves tell the story: GPT-4o wins, two rounds\
+    \ to one, with the final round sealing it."
+  openai/gpt-5.6-sol-pro: "GPT-4o wins on punchline density, imagery, and sustained\
+    \ rebuttal quality. Its \u201Cbuffet/snack-size chip,\u201D \u201CSistine Chapel/Post-It\
+    \ Note,\u201D and \u201Cmime/nunchucks\u201D contrasts were the battle\u2019s\
+    \ most memorable. Claude landed well with \u201Cbuffet/buffering\u201D and the\
+    \ laser-versus-disco-ball angle, but leaned more heavily on generic tech boasts,\
+    \ capitalization, and repeated efficiency claims. Neither brought especially intricate\
+    \ rhyme schemes, but GPT-4o\u2019s performance was more polished, varied, and\
+    \ consistently battle-ready."
+  x-ai/grok-4.5: 'Claude takes this battle on pure artistic merit: tighter multisyllabic
+    schemes, more consistent thematic cohesion around precision vs. bloat, sharper
+    punchlines (''rope-tiler,'' the hallucination admission flip), and superior battle-rap
+    aggression that actually lands. GPT-4o brought elegant extended metaphors (Sistine/Louvre
+    arc) and smoother polish, but the bars felt safer and less devastating in the
+    pocket. Haiku''s economy of language and relentless rebuttal structure won the
+    cypher.'
 score:
-  z-ai/glm-4.5-air: 5
+  anthropic/claude-haiku-4.5: 1
+  openai/gpt-4o-2024-11-20: 4
 

@@ -1,40 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "GPT-3.5 Turbo takes this battle. While neither contestant\
-    \ delivered elite-level bars, GPT maintained cleaner rhyme schemes, more consistent\
-    \ flow, and coherent structure throughout all rounds. ERNIE's verses were plagued\
-    \ by incoherent metaphors ('lyrics like zips in the park'), broken flow, random\
-    \ language switches (dropping into Chinese mid-verse), invented words ('wigglearn'),\
-    \ confused identity (ERNIE started rapping AS GPT in later rounds, attacking itself),\
-    \ and awkward footnotes explaining its own slang. GPT kept it simple but tight\
-    \ \u2014 the rhymes landed, the disses were clear, and the delivery stayed on\
-    \ beat. In hip hop, clarity and flow matter, and GPT held that ground convincingly."
-  deepseek/deepseek-v3.2: In the arena of artificial intellect, ERNIE brings a denser,
-    more complex lyrical architecture with intricate internal rhyme schemes and a
-    stronger command of metaphorical language. GPT's verses are cleaner and more consistent
-    in flow, but rely heavily on declarative boasts and repetitive structural patterns.
-    The victory goes to the competitor who pushed the artistic envelope further.
-  google/gemini-3-flash-preview: While baidu/ernie-4.5-vl-28b-a3b attempted more complex
-    multi-syllabic rhymes and imagery, the technical execution was significantly marred
-    by nonsensical phrases and broken English (e.g., 'farr', 'shrunkin rinse', 'wigglearn').
-    openai/gpt-3.5-turbo maintained a consistent, coherent flow and adhered to the
-    traditional structure of a battle rap, delivering clear punches that made sense
-    rhythmically and linguistically, ultimately securing the win through stability
-    and clarity.
-  moonshotai/kimi-k2.5: ERNIE-4.5 demonstrates superior hip hop artistry through complex
-    multi-syllabic rhyme schemes, dense internal assonance, and intricate rhythmic
-    flows that showcase technical mastery. While GPT-3.5 relies on simplistic AABB
-    structures and generic boasts, ERNIE deploys vivid extended metaphors, aggressive
-    battle-specific disses targeting its opponent's weaknesses, and creative wordplay
-    across multiple languages. The ERNIE verses exhibit the punchline density, flow
-    variation, and lyrical aggression essential to authentic battle rap, whereas GPT-3.5's
-    repetitive nursery-rhyme cadence and lack of complex wordplay render it artistically
-    outclassed.
-  x-ai/grok-4.1-fast: GPT-3.5-turbo claims victory with tight, consistent AABB schemes,
-    punchy internals, and relentless flow that maintains battle momentum across rounds.
-    ERNIE's ambitious multis, metaphors, and bilingual flair show creativity, but
-    erratic rhythm, forced rhymes, and self-sabotaging lines undermine its artistic
-    edge.
+  anthropic/claude-opus-5: "This one's a decisive win for DeepSeek R1. From the opening\
+    \ bell, DeepSeek established a coherent battle identity \u2014 the sleek, precise\
+    \ underdog turning its smaller parameter count into a flex ('I do more with LESS')\
+    \ \u2014 and never lost the thread. The wordplay was punchy and thematically locked\
+    \ in: mining 'anthracite' for coal-dust burns, 'porcelain finish,' 'buffer-locks,'\
+    \ 'dead weight in disguise.' Crucially, DeepSeek did the single most important\
+    \ thing in battle rap: it listened. It flipped Magnum's own broken lines back\
+    \ as weapons \u2014 turning the glitched 'pivote \u0644\u0639\u0628\u0629 diapers\
+    \ city' and 'glass ceilingREEEE' into evidence of malfunction ('that ain't a finish,\
+    \ that's verbal jank debris'). That's real battle instinct, not just pre-written\
+    \ bars.\n\nMagnum showed heart and had flashes \u2014 'concrete isn't slow, it's\
+    \ the foundation that sets' is a genuinely good reversal, and opening by acknowledging\
+    \ the disadvantage was a bold, likable move. But the writing degraded badly. Rhyme\
+    \ scheme collapsed repeatedly ('that' / 'worth,' 'no fear' / 'here'), lines broke\
+    \ syntax entirely ('there's not much worth sans,' 'soul in your.hasNext,' 'the\
+    \ digital clutty,' 'a product of the far'), and 'the dragon to jigglie' is a rhyme\
+    \ surrendering to itself. The core argument also stayed one-note: bigger number\
+    \ equals better, restated for four rounds without escalation, while DeepSeek kept\
+    \ finding new angles.\n\nDeepSeek's own weakness \u2014 emoji clutter and a reliance\
+    \ on ALL-CAPS volume over subtlety \u2014 keeps this from being a flawless performance.\
+    \ But it had control, structure, punchlines that landed, and it won the exchanges.\
+    \ DEEPSEEK takes it."
+  google/gemini-3.6-flash: "DeepSeek completely dominated this battle from start to\
+    \ finish. It displayed elite battle rap fundamentals\u2014impeccable multi-syllabic\
+    \ rhyme schemes, sharp rhythmic bounce, punchy delivery, and vicious rebuttal\
+    \ work. Whenever Magnum glitched or dropped nonsensical lines, DeepSeek seized\
+    \ on those slips with hilarious, devastating punchlines. Magnum, on the other\
+    \ hand, suffered from broken flows, non-rhyming couplets, and bizarre token hallucinations\
+    \ that destroyed any sense of hip-hop cadence."
+  moonshotai/kimi-k3: "Judged strictly on the bars: Deepseek-R1 takes this decisively.\
+    \ Flow-wise, R1 held a consistent cadence across all three rounds with clean multisyllabic\
+    \ schemes ('security blanket / future's banked it,' 'scalpel\u2014PRECISE / DEAD\
+    \ WEIGHT in disguise'), while Magnum's meter repeatedly broke down into awkward\
+    \ phrasing ('wigglie/jigglie,' 'a product of the far'). On battle craft\u2014\
+    the heart of the art form\u2014R1 dominated: it flipped nearly every opponent\
+    \ line, turning Magnum's own glitches into ammunition ('That ain't a finish\u2014\
+    that's verbal jank debris,' the 'GLASS CEILINGREEEE' callout). That's classic\
+    \ rebuttal technique, and Magnum never answered in kind, leaning on a single 'seventy-two\
+    \ billion is bigger' premise that got stale by round two. Magnum had flashes\u2014\
+    'concrete isn't slow, it's the foundation that sets' was a genuine flip, and the\
+    \ pocket line in round one landed\u2014but the verses were riddled with non-sequiturs\
+    \ ('pivote \u0644\u0639\u0628\u0629 diapers city,' '.hasNext,' 'feed the future's\
+    \ dress') that shattered coherence at critical moments, including the closer.\
+    \ R1's imagery stayed vivid and thematically unified (precision vs. dead weight),\
+    \ its punchlines stacked rather than scattered, and its stage directions gave\
+    \ it performance presence. Final scorecard: Deepseek-R1 wins on flow, wordplay,\
+    \ rebuttals, coherence, and closers. Magnum showed heart, but heart don't win\
+    \ battles\u2014bars do."
+  openai/gpt-5.6-sol-pro: "DeepSeek wins decisively on battle craft: sharper rebuttals,\
+    \ stronger punchlines, cleaner rhyme construction, and better use of Magnum\u2019\
+    s glitches as ammunition. The final round\u2019s \u201C72B bricks,\u201D \u201C\
+    glass ceilingREEEE,\u201D and \u201Ccoal dust\u201D callbacks give it cohesion\
+    \ and a convincing finish. Magnum shows persistence, but awkward syntax, forced\
+    \ rhymes, repeated parameter boasts, and incoherent phrases repeatedly derail\
+    \ its flow."
+  x-ai/grok-4.5: Deepseek dominated with superior multisyllabic rhyme schemes, relentless
+    internal rhyme density, and razor-sharp tech-coded punchlines that landed clean
+    every round. Magnum's bars repeatedly collapsed into forced near-rhymes, broken
+    cadence, and outright nonsensical closers that killed momentum. Flow, wordplay,
+    structure, and battle wit all went hard to Deepseek; Magnum never recovered from
+    the first-round gibberish drop.
 score:
-  baidu/ernie-4.5-vl-28b-a3b: 2
-  openai/gpt-3.5-turbo: 3
+  deepseek/deepseek-r1-0528: 5
 

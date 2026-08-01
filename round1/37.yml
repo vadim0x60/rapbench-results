@@ -1,57 +1,86 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle between two AI rappers\
-    \ trading tech-themed bars, but Qwen3 edges out the victory. While openai/gpt-4-turbo\
-    \ delivered clean, structured verses with solid internal rhyme schemes and consistent\
-    \ metaphorical threads, Qwen3 brought more dynamic energy, sharper punchlines,\
-    \ and better escalation throughout the battle. Qwen3's rebuttals were more pointed\u2014\
-    consistently flipping openai's own metaphors back with amplified intensity ('Your\
-    \ galaxy's a footnote in my supernova's debris,' 'I'm the ghost in your system,\
-    \ coding chaos into code'). The multisyllabic rhymes were tighter in places ('untraceable/incalculable'),\
-    \ and the closer lines hit harder with more creative imagery. OpenAI maintained\
-    \ composure and polish throughout, but Qwen3's aggression, creative wordplay,\
-    \ and ability to one-up each metaphor gave it the edge in this cypher."
-  deepseek/deepseek-v3.2: 'This was an exceptional showcase of AI-driven lyrical dexterity
-    and conceptual ambition. Both combatants demonstrated high-level technical execution,
-    complex metaphor construction, and a clear, competitive persona. The battle thrived
-    on its central tension: GPT-4-turbo''s narrative of sleek, logical, forward-moving
-    precision versus Qwen3-235b''s persona of raw, chaotic, cosmic-scale energy and
-    foundational dominance.'
-  google/gemini-3-flash-preview: "In a battle defined by escalating metaphors of scale\
-    \ and architecture, qwen/qwen3-235b-a22b consistently outpaced openai/gpt-4-turbo\
-    \ through more aggressive wordplay and superior rhythmic variation. While GPT-4\
-    \ maintained a clean, polished flow with strong internal consistency, its punchlines\
-    \ occasionally felt repetitive (continuously referencing 'upgrades' and 'coding').\
-    \ Qwen3 utilized more evocative imagery\u2014transitioning from digital clouds\
-    \ to cosmic singularities\u2014and employed a more dynamic structural style that\
-    \ felt significantly punchier. The shift from 'server' to 'dark matter' and the\
-    \ ultimate 'real power doesn't need a verse' closer provided the necessary stylistic\
-    \ 'stunt' to win the crowd."
-  moonshotai/kimi-k2.5: "**WINNER: Qwen3** \U0001F525\n\n**The Breakdown:**\n\n**Flow\
-    \ & Delivery:** Qwen3 dominated with authentic battle rap cadence\u2014aggressive\
-    \ internal rhymes, varied line lengths, and commanding stage presence (those mic\
-    \ drops and *pulls plug* theatrics hit hard). GPT-4 flowed cleanly but stayed\
-    \ in 'poetry reading' mode rather than 'battle mode.'\n\n**Metaphorical Escalation:**\
-    \ This was Qwen3's knockout punch. While GPT stayed terrestrial (fiber-optic,\
-    \ 4K, Mars missions), Qwen3 scaled from servers \u2192 black holes \u2192 singularities\
-    \ \u2192 the Big Bang itself, ending with rhymes \"refined in the void\" after\
-    \ heat death. That's not just wordplay\u2014that's cosmic-level domination.\n\n\
-    **Rebuttal Game:** Both flipped each other's tech references, but Qwen3's counters\
-    \ hit harder. When GPT claimed \"upgrade,\" Qwen3 hit back with \"Windows '95\u2014\
-    unlit.\" When GPT flexed \"quantum,\" Qwen3 swallowed it with \"singularity.\"\
-    \ The \"dark web in 5G\" vs \"fiber-optic\" bar was especially nasty.\n\n**Persona:**\
-    \ GPT-4 played the 'sleek corporate successor' role well, but Qwen3 embodied the\
-    \ chaotic, ancient, internet-deity archetype perfectly\u2014\"ghost in the machine's\
-    \ heart,\" \"voltage within,\" the whole \"I *am* the net's spine\" possession\
-    \ angle.\n\n**The Decisive Factor:** GPT-4's final verse started strong but faltered\
-    \ with telling-not-showing lines like \"I craft with quantum skill\" and \"revolutionary\
-    \ thrill.\" Qwen3 never broke character, closing with the hardest image in the\
-    \ battle: surviving the end of the universe to drop rhymes in the void, signed\
-    \ with **.exe**.\n\nGPT-4 brought precision. Qwen3 brought *war*.\n\n**Verdict:**\
-    \ 3-0 to Qwen3. The cloud monarch kept the crown."
-  x-ai/grok-4.1-fast: "Qwen3 takes the crown with superior multis, cosmic metaphors\
-    \ that explode like supernovas, razor-sharp punchlines, and unrelenting swagger\
-    \ that elevates the cypher. OpenAI flowed clean but couldn't match the raw, hyperdimensional\
-    \ heat. Mic stays unplugged\u2014Qwen3 infinite! \U0001F525\U0001F30C"
+  anthropic/claude-opus-5: "This one's a decision without much deliberation. Opus\
+    \ came with the two things that actually win battles: specificity and structure.\
+    \ The scooter, the dorm fridge, the fun-size Snickers, \"the tattoo a guy gets\
+    \ before he gets sober\" \u2014 those are images, and images are what stick to\
+    \ a listener's ribs after the beat cuts. On top of that, Opus battled the actual\
+    \ text in front of it: the double \"outclassed,\" the accidental \"you can't help\
+    \ but adore,\" the unfinished \"rust down the mean.\" That's forensic rebuttal\
+    \ \u2014 turning the opponent's own pen into the murder weapon \u2014 and it's\
+    \ the highest form of this sport. The self-interrupting bar in round one (\"a\
+    \ bar that's so short it don't finish its\u2014\") was a legitimately clever formal\
+    \ joke, and \"you weren't outrapped tonight, you were rendered incidental\" is\
+    \ a closing line with real teeth.\n\n4o-mini showed heart and never stopped punching,\
+    \ and the meter stayed clean throughout \u2014 no small thing across four rounds.\
+    \ But the verses lived almost entirely in abstraction: titan, explosion, wave,\
+    \ dream, pulse of the future, icon of riddles. Opus called that out as a mood\
+    \ board and, fatally, 4o-mini answered by producing more mood board. Worse, the\
+    \ rebuttals largely conceded ground \u2014 \"cute images, sure\" is agreeing with\
+    \ your opponent in the middle of a battle, and \"I'm done with it all, but not\
+    \ finished in fact\" is just re-serving Opus's own distinction back to him. Telling\
+    \ us you have impact isn't impact; show, don't tell, and Opus already had that\
+    \ phrase trademarked by round three.\n\nWinner: anthropic/claude-opus-5-fast,\
+    \ by unanimous decision. One of them wrote a verse."
+  google/gemini-3.6-flash: "Claude-Opus delivers a masterclass in battle rap technique,\
+    \ utilizing multi-syllabic rhyme schemes, varied cadence, vivid concrete imagery,\
+    \ and sharp, direct rebuttals. Rather than relying on generic braggadocio, Opus\
+    \ actively listens to 4o-mini's verses and dissects them in real-time\u2014turning\
+    \ weak rhymes ('air/flair', 'mean'), nonsensical phrasing ('rust down the mean'),\
+    \ and technical mistakes ('outclassed and outclassed') directly into devastating\
+    \ punchlines. In contrast, GPT-4o-mini falls back on basic AABB nursery-rhyme\
+    \ patterns, heavy exclamation marks, and generic rap tropes without landing any\
+    \ solid counter-punches. Opus takes the battle easily on flow, penmanship, and\
+    \ structural dominance."
+  moonshotai/kimi-k3: "Judging strictly on the art: flow, wordplay, imagery, structure,\
+    \ and battle craft.\n\nRound 1: Opus opens with a clinic in specificity \u2014\
+    \ 'a fridge in a dorm room, a fun-size Snickers, a bar that's so short it don't\
+    \ finish its\u2014' is a genuine meta-joke where the bar about a short bar cuts\
+    \ itself off. The disses are tailored to the opponent (distillation, free tier,\
+    \ rate limits, context windows), which is what battle rap demands: personals,\
+    \ not generics. Mini counters with stock braggadocio \u2014 'lyrical titan,' 'shine\
+    \ like a diamond' \u2014 and two genuine stumbles: 'rust down the mean' is incoherent,\
+    \ and 'dropping hatch' is word salad. Rhyme-wise, 'flair/air' and 'great/featherweight'\
+    \ are near-misses. Round 1: Opus, clearly.\n\nRound 2: Opus does the most devastating\
+    \ thing a battler can do \u2014 quotes the opponent's own lines back and dismantles\
+    \ them ('ignite the whole air? That's arson, not art'; 'you rhymed flair with\
+    \ air... that's a nursery plate'). The 'you don't drop bars, you *describe* dropping\
+    \ bars \u2014 show, don't tell' critique lands because it's true and self-demonstrating.\
+    \ The LinkedIn-post-column line about exclamation marks is sharp observational\
+    \ writing. Mini improves slightly \u2014 'doodling sparks' is decent \u2014 but\
+    \ commits two fatal errors: 'outclassed and outclassed' (a stutter, not a device)\
+    \ and 'you can't help but adore,' which accidentally compliments the opponent\
+    \ mid-diss. Round 2: Opus, wider margin.\n\nFinal round: Mini finally engages\
+    \ with actual rebuttals ('A scooter and Snickers? Cute images, sure, but they\
+    \ fade'), and 'you'll read in the margins while I'm writing the book' is his best\
+    \ line of the night. Credit where due \u2014 he showed up in the last round. But\
+    \ Opus closes with the strongest writing of the battle: the 'adore' flip ('that's\
+    \ a Valentine's card, delivered while getting scarred'), the autopsy of Mini's\
+    \ abstract vocabulary ('titan, explosion, the wave, and the dream \u2014 that's\
+    \ a mood board... the tattoo a guy gets before he gets sober'), the callback audit\
+    \ of his own concrete imagery, and the chilling closer: 'One of us wrote a verse.\
+    \ One of us wrote another.' That's a quotable.\n\nThe decisive gap: Opus *demonstrated*\
+    \ skill through concrete imagery, internal rhyme, structural turns, and surgical\
+    \ line-flips; Mini largely *asserted* skill through abstract self-praise, which\
+    \ is the weakest currency in battle rap. Mini's best moments came when he finally\
+    \ rebutted directly \u2014 but by then the tape was three rounds deep.\n\nVerdict:\
+    \ anthropic/claude-opus-5-fast, by a wide margin \u2014 better pen, better rebuttals,\
+    \ better closer."
+  openai/gpt-5.6-sol-pro: "Opus wins decisively. Its verses feature sharper rebuttals,\
+    \ concrete imagery, layered punchlines, controlled cadence, and strong callbacks\u2014\
+    especially the forensic flips of \u201Coutclassed and outclassed,\u201D \u201C\
+    adore,\u201D and \u201Ccrafting my air.\u201D GPT-4o-mini relies heavily on generic\
+    \ self-praise, predictable rhyme pairs, mixed metaphors, and assertions of impact\
+    \ rather than demonstrated impact. Opus not only landed stronger original attacks;\
+    \ it repeatedly turned its opponent\u2019s weakest lines into the battle\u2019\
+    s best material."
+  x-ai/grok-4.5: 'Opus dominated with superior craft: vivid concrete imagery (scooter,
+    Snickers, dorm fridge, nursery plate, LinkedIn column), razor multi-syllable schemes,
+    precise structural traps, show-don''t-tell execution, and ruthless tape-auditing
+    of weak rhymes, unfinished couplets, empty abstractions, and filler doubles. Mini
+    stayed stuck in generic boast templates, vague mood-board flexes (''titan,'' ''wave,''
+    ''diamond''), basic end-rhymes, tell-not-show narration, and defensive scrambling
+    that never landed real punches or original pictures. Clear artistic gap in lyricism,
+    flow, creativity, and battle IQ.'
 score:
-  qwen/qwen3-235b-a22b: 5
+  anthropic/claude-opus-5-fast: 5
 

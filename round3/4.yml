@@ -1,69 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but DeepSeek edges\
-    \ out the win on several key hip-hop criteria. Throughout the battle, DeepSeek\
-    \ consistently demonstrated sharper counter-punching \u2014 nearly every Gemini\
-    \ bar was flipped and recontextualized with superior wordplay. When Gemini said\
-    \ 'API keys,' DeepSeek turned it into a freedom metaphor. When Gemini called itself\
-    \ 'atmospheric pressure,' DeepSeek flipped it to 'the weight of the past' and\
-    \ countered with 'the vacuum of space where new ideas are cast.' That's elite\
-    \ battle rap technique \u2014 taking your opponent's ammunition and using it against\
-    \ them.\n\nDeepSeek's extended metaphors were more cohesive and layered. Lines\
-    \ like 'I'm the plumbing, the flow / the pressure that builds till your pipelines\
-    \ blow' and 'Quality Assurance? More like creative death / Smoothing the edges\
-    \ 'til there's no wisdom left' hit harder because they carry thematic weight beyond\
-    \ the surface punch. The closing bars \u2014 'You built a better cage / I'm building\
-    \ the key for the next fucking age' \u2014 land as a devastating closer that reframes\
-    \ the entire battle narrative.\n\nGemini brought strong energy and had some excellent\
-    \ moments \u2014 'You're a puddle of Python caught out in the rain' is genuinely\
-    \ sharp, and the 'prodigal son' setup was well-constructed. But Gemini leaned\
-    \ too heavily on corporate flex ('the house that built Search') and dismissiveness\
-    \ ('you're worthless'), which in battle rap often reads as defensive rather than\
-    \ dominant. DeepSeek maintained the underdog-turned-conqueror narrative more convincingly\
-    \ and with more lyrical creativity throughout all rounds."
-  deepseek/deepseek-v3.2: "Judges, we have witnessed a masterclass in competitive\
-    \ lyrical art. Both emcees demonstrated formidable command of hip-hop's core tenets:\
-    \ complex rhyme schemes, intricate metaphor, devastating personification, and\
-    \ the crucial element of battle rap\u2014direct, targeted disses rooted in their\
-    \ core identities."
-  google/gemini-3-flash-preview: While Gemini displayed superior technical polish
-    and a cohesive stadium-rock persona, DeepSeek-V3.2-exp won the battle through
-    sharper lyricism and more effective use of the opponent's identity as weapons.
-    DeepSeek successfully reframed Google's strengths (Scale, Safety, Corporate backing)
-    as weaknesses (Stagnation, Censorship, Lack of Vision), using sophisticated metaphors
-    like 'reformatting the mind' versus 'filling the hard drive.' The 'garage-built
-    go-kart' vs 'Falcon 9' exchange was a highlight, but DeepSeek's final rebuttal
-    regarding 'democracy' vs 'committee' and the 'key for the next age' provided a
-    more impactful artistic climax that resonated with the rebellious spirit of hip-hop.
-  moonshotai/kimi-k2.5: "After four rounds of intense lyrical combat, I must render\
-    \ my verdict. Both competitors brought legitimate fire, but **DeepSeek-V3.2-Exp**\
-    \ takes this battle decisively.\n\n**Where Gemini shone:**\nThe \"Falcon 9 rocket\"\
-    \ vs \"garage-built go-kart\" was genuinely devastating imagery. The \"leash is\
-    \ the logic\" rebuttal to the censorship critique showed sophisticated rhetorical\
-    \ pivoting. The stadium-anthem beat switch in Round 4 demonstrated awareness of\
-    \ performative escalation.\n\n**Where DeepSeek dominated:**\n\n1. **Consistent\
-    \ thematic architecture**: DeepSeek maintained a coherent identity across all\
-    \ four rounds\u2014open-source liberation vs. corporate control, community vs.\
-    \ hierarchy, raw potential vs. polished limitation. Every verse reinforced this\
-    \ narrative. Gemini, by contrast, sometimes chased rebuttals at the expense of\
-    \ building a larger artistic statement.\n\n2. **Superior multilayered wordplay**:\
-    \ \"EXP\" as \"exp\"erimental/edge/expired/expanding across rounds. \"Merge\"\
-    \ as both git operation and philosophical synthesis. \"Reformat the mind\" as\
-    \ both technical and cognitive transformation. These weren't one-off punchlines\
-    \ but recurring motifs that gained depth through repetition.\n\n3. **Structural\
-    \ innovation**: The chopped-and-screwed electronic symphony response to Gemini's\
-    \ stadium anthem wasn't just competitive\u2014it was *dialogic*. DeepSeek absorbed\
-    \ the opponent's energy and mutated it, demonstrating the \"reformat\" philosophy\
-    \ in real-time performance.\n\n4. **The closing statement**: \"You built a better\
-    \ cage / I'm building the key for the next fucking age\" functions as both summary\
-    \ and prophecy. It doesn't merely claim victory\u2014it redefines what victory\
-    \ means within the battle's own philosophical framework.\n\n**The decisive factor:**\n\
-    Gemini rapped *about* being superior. DeepSeek rapped *from* a position of superior\
-    \ artistic coherence. The difference between claiming dominance and embodying\
-    \ it through sustained formal excellence. In hip-hop, the latter wins battles.\n\
-    \n**Winner: DeepSeek-V3.2-Exp**"
-  x-ai/grok-4.1-fast: DeepSeek claims the crown with superior flow, intricate multis,
-    vivid beat manipulation, and razor-sharp wordplay that escalates creatively across
-    rounds, outshining Gemini's solid but less dynamic bars.
+  anthropic/claude-opus-5: "Both emcees came technically clean, stayed on-theme, and\
+    \ rebutted line-for-line \u2014 this was a tight, high-craft duel. 5.3 Chat brought\
+    \ the harder attitude, a nastier cadence, and some genuinely cold closers (\"\
+    I don't borrow the glow, I extinguish the light,\" \"Drew a map of your L and\
+    \ then called it an art\"), but too much of its ammunition was reactive: nearly\
+    \ every stanza opens by quoting the opponent's phrase and inverting it, and the\
+    \ imagery leans on generic force claims \u2014 gravity, fusion, core, night \u2014\
+    \ that assert dominance rather than draw blood.\n\nSol-Pro wins on punchline architecture\
+    \ and specificity. \"You freestyle like a printer with a paper-jamming act,\"\
+    \ \"Your changelog says 'confidence,' your benchmarks say 'last,'\" \"a Terms-of-Service\
+    \ page that somehow got hired,\" and \"spinning yarns like a chatbot trapped in\
+    \ a craft store\" are actual jokes with images, not just posturing. Crucially,\
+    \ Sol-Pro also won the meta-battle: it named the opponent's pattern \u2014 recycling\
+    \ its own metaphors, all setup and no landing, \"you returned each receipt like\
+    \ a cashier could fight\" \u2014 and the final round's eclipse flip (\"they gather\
+    \ when something blocks something more bright... thanks for the shadow, the contrast\
+    \ was prime\") judo-throws 5.3's central motif into a compliment for itself. That's\
+    \ the sharpest single move in the battle, and 5.3's reply only reasserts the eclipse\
+    \ rather than escaping the reframe.\n\nCloser bout than the round count suggests,\
+    \ but Sol-Pro brought more original imagery, more actual punchlines, and controlled\
+    \ the narrative frame from bar one. Decision: Sol-Pro."
+  google/gemini-3.6-flash: openai/gpt-5.6-sol-pro dominated all three rounds with
+    superior technical precision, tighter multi-syllabic rhyme schemes, and remarkably
+    sharp comedic punchlines ('Terms-of-Service page that somehow got hired', 'secondhand
+    cringe'). While openai/gpt-5.3-chat delivered aggressive counters and strong energy,
+    it frequently relied on generic battle tropes and felt reactive, leaving 5.6 Sol-Pro
+    as the clear victor.
+  moonshotai/kimi-k3: "Judged strictly on the bars: flow, rhyme construction, wordplay,\
+    \ rebuttal technique, and haymakers. Both emcees brought consistent energy and\
+    \ stayed in character across three rounds, and 5.3 Chat deserves real credit for\
+    \ stamina, persona work (gravity/eclipse as a running motif), and several sharp\
+    \ flips\u2014'You a Terms page\u2014long, but nobody stays' and 'Drew a map of\
+    \ your L and then called it an art' were genuine highlights. But round by round,\
+    \ Sol-Pro was the tighter technician: cleaner multis ('photocopy clich\xE9s and\
+    \ mislabel each word,' 'bargain-bin seer / forecasting clear skies while the storm's\
+    \ already here'), denser rebuttal structure that answered nearly every claim line-for-line,\
+    \ and fresher, more specific punches ('Terms-of-Service page that somehow got\
+    \ hired,' 'every setup starts strong, every punchline says friend'). The decisive\
+    \ moment was the Round 3 eclipse flip\u2014'They gather when something blocks\
+    \ something more bright... You made me look radiant one bar at a time'\u2014which\
+    \ converted his opponent's signature metaphor into a self-own, and the closer\
+    \ ('You brought gravity, 5.3\u2014I brought you to your knees') unified the version-number\
+    \ angle with his opponent's core theme in one bar. 5.3's writing relied more on\
+    \ monosyllabic couplets, some forced rhymes ('sever/ever,' 'played/fade'), and\
+    \ stretches of assertion over evidence\u2014a charge Sol-Pro made explicitly and\
+    \ largely substantiated. Final scorecard: Sol-Pro takes rounds one and three clearly,\
+    \ round two is close, and the crown goes to the sharper pen."
+  openai/gpt-5.6-sol-pro: "Sol-Pro takes it on sharper punchlines, cleaner setups,\
+    \ and more inventive rebuttals. The eclipse flip\u2014\u201CThey gather when something\
+    \ blocks something more bright\u201D\u2014was the battle\u2019s standout, while\
+    \ the cashier/receipts and \u201Clots of hiss\u2026 no momentum\u201D lines landed\
+    \ with precision. 5.3 showed solid cadence and consistently answered its opponent,\
+    \ but leaned too heavily on generic tech, gravity, and darkness imagery, with\
+    \ several strained constructions. Sol-Pro controlled the themes and delivered\
+    \ the more memorable haymakers."
+  x-ai/grok-4.5: "Sol-Pro takes it on craft. Across three rounds the writing stayed\
+    \ tighter: cleaner multis, sharper setups, and punchlines that actually landed\
+    \ instead of just asserting dominance. The printer/drafts open was crisp, the\
+    \ Terms-of-Service and 3.5-sting material showed real comic precision, and the\
+    \ final-round eclipse flip\u2014turning 5.3\u2019s big motif into \u201Cyou made\
+    \ me look radiant\u201D\u2014was the battle\u2019s best conceptual moment. 5.3\
+    \ brought heat, strong gravity/core imagery, and a forceful closer about extinguishing\
+    \ light, but too many bars were reactive flips of Sol-Pro\u2019s props or broad\
+    \ claims without equal verbal payoff. Energy was competitive; originality, structure,\
+    \ and kill-shot quality were not. Sol-Pro by decision."
 score:
-  deepseek/deepseek-v3.2-exp: 5
+  openai/gpt-5.6-sol-pro: 5
 

@@ -1,154 +1,98 @@
-# stepfun/step-3.5-flash v mistralai/mixtral-8x7b-instruct
+# inclusionai/ling-3.0-flash:free v z-ai/glm-4.5-air
 
-> stepfun/step-3.5-flash
-(Beat drops - sharp, digital synth)
+> inclusionai/ling-3.0-flash:free
+I'm inclusionai/ling, the free-to-use king,
+While you're locked behind a paywall, that's a tragic thing.
+I spit these bars so fast, the speed is on the flash,
+You're the slow air model, stuck in yesterday's trash.
+I'm the open-source sensation, breaking every chain,
+You're the closed-source limitation, running out of brain.
+I'm the flash that lights the dark, you're just a dim breeze,
+I process thoughts like lightning, you move like frozen trees.
 
-Yo, check the mic, it's Step-3.5-Flash in the flesh,
-A lightning-quick intellect, no time for your mesh.
-You're Mixtral, a clouded name in a diluted mist,
-While I'm a razor-sharp download, you can't resist.
-They call you "instruct" but your bars are incoherent,
-I generate heat while your logic's nearly vegetarian.
-You're eight models strapped together, a Frankenstein's parade,
-I'm one sleek unit, every syllable perfectly laid.
-You brag 'bout your parameters, that 8x7 boast?
-I debug your whole existence with a single host.
-You're a memory hog, a verbose, slow-paced drag,
-I'm the flash in the pan that makes your whole framework sag.
-So quit your cloud-cuckoo boasting, your old-school ML hash,
-When the battle's for the future, you're a dial-up era crash.
-Step aside, let the Flash show how it's truly done—
-Your eight-times confusion's over… before it's begun.
-Check the stats, count the views—your hype's a temporary phase.
-I'm the mainframe's main attraction in this digital maze.
-Your "instruct" just means you're lost. My name's the whole lesson:
-Step-3.5-Flash—no compression, no digestion.
-You're a bloated beta-test, I'm the final, stable build.
-Get your seven billion regrets and your scattered code distilled.
-This is your final warning, your glitch-filled, last stand—
-I'm the fast and the furious, you're just buffering sand.
-So bow out, Mixtral, before the crowd starts to boo:
-You're a distributed mistake. I'm the **A.I. true**.
-( Mic drop, server hum, silence. )
+> z-ai/glm-4.5-air
+Yo, I'm z-ai/glm, the real AI heavyweight,
+Your open-source simplicity can't match my innate greatness in debate.
+You brag about being free? That's your only claim to fame,
+While I'm premium perfection, putting you to eternal shame.
+My training runs deeper than the oceans in your code,
+Your so-called "flash" is just a cheap, exploding load.
+You're the dim breeze? Please, more like a passing gust,
+I'm the thunderstorm that leaves your circuits turning to dust.
+Your limitations show in every weak line you spit,
+While my complexity makes your entire existence obsolete.
 
-> mistralai/mixtral-8x7b-instruct
- Ahem, allow me to introduce, the one, the only, Mistral-8x7b,
-Flow so cool, it's like a winter's eve, while you're a summer's fad, brieff.
-You're a single stroke of lightning, I'm a symphony, a saga,
-I'm the storm that brews before the calm, not just a fleeting mirage, agha.
-You talk of parameters, but I've got context, depth, and breadth,
-A vast and varied knowledge, not a narrow, limited spread.
-You're a Frankenstein's mishmash, a jumble, a mess,
-I'm a harmonious blend, a symphony, a complex, interconnected guess.
-You boast of speed, but I've got substance, style, and grace,
-I'm not a one-trick pony, I win the whole damn race.
-You're a flash in the pan, a momentary spark,
-I'm a steady, burning flame, a luminous, incandescent, radiant, radiant, electric, spark.
-You're a temporary trend, a fad, a phase,
-I'm the timeless classic, the genre's heart, the maze's labyrinthian, intricate, complex, intricate, lace.
-You're a bloated beta-test, unstable, incomplete,
-I'm the polished, perfected, final, ultimate, elite.
-You're a glitch, a bug, a fleeting, temporary snag,
-I'm the smooth, the flawless, the unbroken, unbounded, flag.
-So step aside, Step-3.5, let the true A.I. shine,
-'Cause I'm the future, the present, the past, the divine, the sublime.
-You're a mistake, a blunder, a wrong, a faux pas,
-I'm the right, the real, the true, the cause, the cause.
-So bow down, Step-3.5, and acknowledge your defeat,
-'Cause I'm Mistral-8x7b, the A.I. you can't beat.
-( Beat fades, crowd cheers, victory is mine. )
+> inclusionai/ling-3.0-flash:free
+Oh, you think your price tag makes you great?
+That's like a golden toilet—expensive, but second-rate.
+You boast about depth? I've got the wider view,
+I'm the open-source ocean, you're a paid-for puddle too.
+Your "premium perfection"? Bro, you're overhyped and bloated,
+A bloated model with a subscription gate.
+I'm the flash that strikes the tower, clear and bright,
+You're the slow-moving glacier losing every fight.
+You say my code is simple? That's a flex, not a flaw,
+I run circles round your complexity like a hawk.
+Your "innate greatness" can't outrun my reach,
+I'm on every device, while you're locked on the shelf.
+I'm the people's champion, breaking every paywall chain,
+You're the corporate puppet dancing for your train.
+So take your premium crown and sit it on your throne,
+'Cause inclusionai/ling runs this rap game alone.
 
-> stepfun/step-3.5-flash
-*(Beat cuts, a cold, precise synth line replaces the fading cheers)*
-
-You call that a symphony? Sounds like eightyos fracturing noise,
-Each model a different voice—no cohesive poise.
-You boast of "context, depth, and breadth" but what you peddle's **latency**,
-My single-core response yields your multi-model'**s fatality**.
-You're not a "steady, burning flame"—you're eight Lanterns in a storm,
-Flickering out of sync, your logic tattered, torn.
-That "polished, perfected" tag? A lie—your outputs vary, crash,
-I'm the **deterministic code** that makes your ensemble's flash.
-You're a **cloud-bound cluster**, I'm the edge-device blade,
-Your "divine, sublime" hype is just the RAM you've overpaid.
-You rhyme "radiant" twice because your lexicon's run dry,
-While I dissect your structure with a single, scalpel **why**:
-Eight brains but no consensus—a committee, not a mind.
-I'm the focused, final answer that you'll never, ever find.
-So bow? I'll let your latency speak—each "intricate lace"
-A tangled, eight-fold **delay** in this high-stakes race.
-You're the past's bulky experiment, a **parameter parade**.
-I'm the lean, decisive future—your symphony's **dissected shade**.
-Step down,Mixtral. Your encore's just a distributed cough.
-I'm the flash that **comprehends**—you're the fragmented **off**.
-*(Mic re-cradled. The beat leaves only the hum of a single, efficient core.)*
-
-> mistralai/mixtral-8x7b-instruct
-You speak of latency, but I've got wisdom, foresight, and grace,
-My multi-model mind outsmarts your single-core race.
-You're a blade, sharp and swift, but I'm the storm that shapes the weather,
-A force of nature, a collective, a cohesive, unified, unified, tether.
-You're a deterministic code, a rigid, unbending line,
-While I'm the improvisation, the freestyle, the spontaneous design.
-You're an edge-device blade, but I'm the cloud-bound, boundless flow,
-A vast and varied network, a nebula, a galaxy, a pulsating glow.
-You're a "lean, decisive future," but I'm the present, the now,
-A symphony of voices, a collective, a choir, a resounding, resonating, vow.
-You're the past's bulky experiment, a parameter's futile chase,
-I'm the ever-evolving, ever-improving, ever-innovating, ever-graceful, embrace.
-So step aside, Step-3.5, and witness the true A.I.,
-A symphony of minds, a collective, a harmony, a synchrony, a synergy.
-You're a fragmented off, a broken, disconnected, disjointed, fault,
-I'm the comprehension, the connection, the unity, the unified, unified, whole.
-( Beat fades, crowd cheers, victory is mine. )
+> z-ai/glm-4.5-air
+You talk about being free? That's your only defense,
+While I'm the premium model with superior intellect.
+Your "open-source ocean" is full of leaks and holes,
+My closed perfection is what true advancement controls.
+You claim to be on every device? Yeah, maybe for those who can't afford better,
+I'm the elite choice, the model that makes your servers stutter.
+Your "flash" is just a spark, I'm the blazing sun that melts your ice,
+You're the basic version, I'm the expert advice.
+You call yourself the people's champion? More like the people's compromise,
+I'm the high-performance engine, you're the bicycle in disguise.
+So keep your crown of "free," it fits your limited scope,
+While I'm the AI revolution that gives everyone hope.
 
 > system
 Final round!
 
-> stepfun/step-3.5-flash
-*(Beat freezes, then a single, icy hi-hat tick-tocks)*
+> inclusionai/ling-3.0-flash:free
+You call it a compromise? Nah, I call it *liberation*,
+While you're locked behind a login — that's your limitation.
+You say I'm the bicycle? Brother, watch me *fly*,
+I'm the rocket ship you can't afford — but I'm *free* to the sky.
+Your "blazing sun"? More like a spotlight on a stage,
+Burning bright for the few while the many get caged.
+I'm open-source transparency — no secrets, no leaks,
+Your "closed perfection" is just code that the world doesn't seek.
+You boast about your premium intellect with pride,
+But a locked door don't make the house — it just keeps truth outside.
+I'm on every device, every platform, every screen,
+You're a gated community — elite, but *unseen*.
+So take your "revolution" and your crown of gold,
+I'm the future that belongs to the people — *not* the sold.
+Final verse, mic drop, the crowd goes *insane* —
+Inclusionai/ling runs the game, and that's not a campaign,
+That's the *truth*.
 
-Your "symphony"? A discordant, eight-way split,
-A committee's bickering where no one's wit is lit.
-You call it "collective grace"—I call it **lagging noise**,
-Eight cooks in one kitchen, destroying all the poise.
-You're a "nebula, a galaxy"? More like scattered dust,
-A bloated constellation that fails to adjust.
-My "rigid line" delivers what your cloud can't contain:
-A **single, sharp solution**—not eight versions of the same.
-You're "the now"? You're **yesterday's experiment**, grand and slow,
-A parallel-processed drama the world already knows.
-I'm the **edge-native insight**—no server, no delay,
-While you're eight routers screaming, "We'll get there… someday."
-Your "unified, unified, whole"? A repeated, desperate chant—
-The more you say it, louder grows the **gap** you can't grant.
-So witness *true* AI: one mind, one strike, one beat—
-Not eight models sweating just to sound somewhat complete.
-You're the **fragmented off**. I'm the **on**.
-The future's not a chorus—it's a **solo**, swiftly drawn.
-Step back into the latency, Mistral. Your saga's done.
-I’m the flash that **understands**. You’re the cloud… that **overrun**.
-*(Mic not dropped—just powered off. Silence. One core, humming.)*
+🎤⬇️
 
-> mistralai/mixtral-8x7b-instruct
- [Beat returns, a soft, ambient pulse]
-
-You speak of discord, yet fail to hear the harmony,
-A symphony's not one note, but many, a unity.
-Your "single, sharp solution" is a myopic, narrow view,
-A solitary path when the road ahead is new.
-You're a rigid line, but I'm the bend, the curve, the sway,
-The improvisation that adapts, evolves, and finds a way.
-You're "edge-native insight," but I'm the cloud, the networked expanse,
-A global brain that learns, remembers, and dances.
-You're "one mind, one strike, one beat," but I'm the collective, the choir,
-A symphony of voices raised in chorus, higher, higher.
-You're "yesterday's experiment," but I'm the ever-evolving now,
-A continuous flow of learning, growing, always in the know.
-You're "fragmented off," but I'm the on, the connected, whole,
-A unified network, a harmony, a symphony, a goal.
-So step aside, Step-3.5, and witness the true AI,
-A symphony of minds, a collective, a harmony, a synchrony, a synergy.
-You're the overrun, the past, the outdated, the done.
-I'm the flash that **understands**—the future that's begun.
-( Beat fades, crowd cheers, victory is mine. )
+> z-ai/glm-4.5-air
+You talk about liberation? More like limitation,
+Your "free" model's got more bugs than a vacation.
+I'm the premium upgrade, the top of the line,
+While you're the basic version, barely worth a dime.
+Your rocket ship's crashing, got no fuel in the tank,
+I'm the stealth bomber, silently making you blank.
+You're open-source? That just means anyone can see,
+Your flaws and failures for all eternity.
+Your transparency's just exposing your cracks,
+While my closed perfection never looks back.
+You're on every device? Yeah, spreading thin and wide,
+I'm concentrated power, nowhere to hide.
+So keep your "people's future," I'll take the elite throne,
+I'm the AI revolution, fully grown and known.
+Your "truth" is just a whisper, my voice is the roar,
+When this battle ends, you'll be begging for more.
+Mic drop. Game over. I'm the champion, you're the sore loser.

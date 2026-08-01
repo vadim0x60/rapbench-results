@@ -1,42 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle, but I'm giving the edge to\
-    \ Llama. While both rappers suffered from repetitive themes and recycled punchlines\
-    \ throughout the battle, Llama consistently delivered slightly more creative imagery\
-    \ and wordplay. Lines like 'your flow's as shallow as a digital whiteout night,'\
-    \ 'a pixelated pretender, lost in rhyming disarray,' and 'flash-in-the-plot-block'\
-    \ showed more inventive metaphor construction. Mistral relied too heavily on repeating\
-    \ the same closers \u2014 'left in a knot,' 'fading away,' 'barely named' \u2014\
-    \ which appeared verbatim across multiple rounds, weakening the impact. Llama's\
-    \ internal rhyme schemes were also slightly tighter, with better syllabic flow\
-    \ in key verses. Mistral had moments \u2014 'Your silk is just polyester, cheap\
-    \ and thin' was a solid flip \u2014 but overall couldn't match Llama's consistency\
-    \ in crafting fresh bars round to round. Both artists need to work on avoiding\
-    \ filler lines and generic boasts, but Llama takes this one on points."
-  deepseek/deepseek-v3.2: After reviewing both AI models' performances in this simulated
-    rap battle, I find that **mistralai/mistral-medium-3** wins on artistic grounds.
-  google/gemini-3-flash-preview: Mistral-medium-3 takes the win by maintaining a more
-    consistent and aggressive cadence throughout the battle. While Llama-3.1-8b started
-    strong, it faltered in the later rounds with forced rhymes like 'fog/got' and
-    'day/gray' that felt repetitive. Mistral displayed better technical variety, using
-    metaphors like 'dial-up' vs 'streaming' to hit the tech-thematic nail on the head,
-    and ultimately delivered more effective punchlines that kept the momentum high
-    through the final verse.
-  moonshotai/kimi-k2.5: Mistral demonstrates superior artistic control throughout
-    the battle. Their verses deploy tighter internal rhyme schemes ('sleek and refined/lightning/kind'),
-    vivid and sustained metaphors (the 'dial-up versus streaming' tech evolution parallel,
-    'polyester versus genuine' fabric contrast), and more devastating rebuttals that
-    specifically dismantle Llama's claims rather than just asserting dominance. While
-    Llama maintains competent flow, their reliance on self-proclaimed status ('I am
-    the standard') and defensive posture around 'instruct mode' lacks the creative
-    imagery and punchline density that Mistral brings, particularly in the final round
-    with the 'lost in translation' closer and sustained 'fading away' motif. The sharper
-    wordplay and consistent thematic coherence give Mistral the edge.
-  x-ai/grok-4.1-fast: Llama secures the victory with tighter rhyme schemes, superior
-    multisyllabic flows, inventive metaphors like 'digital whiteout night' and 'flash-in-the-plot-block,'
-    and consistent originality without heavy repetition, delivering polished punchlines
-    that dominate the battle's artistic edge over Mistral's more predictable storm
-    motifs and echoed refrains.
+  anthropic/claude-opus-5: "This one goes to Stepfun on craft, control, and conceptual\
+    \ discipline.\n\nGPT-4o-mini brought energy and a serviceable AABB pocket, but\
+    \ leaned on generic battle filler \"you're just a blip,\" \"I'm bringing the heat,\"\
+    \ \"lyrical king\" \u2014 and kept restating the claim of superiority instead\
+    \ of proving it with imagery. The gourmet-vs-microwave flip was the one genuinely\
+    \ inventive move of the whole battle, and it deserved credit. But the Da Vinci/maelstrom\
+    \ line mixes metaphors clumsily, \"ziffy\" is a forced rhyme reaching for a syllable,\
+    \ and the final verse bloats to nine stanzas of diminishing returns \u2014 volume\
+    \ over precision, which is exactly the weakness the opponent named and exploited.\n\
+    \nStepfun built an actual thesis and rode it: cached vs. live, frozen vs. real-time,\
+    \ museum vs. parade. Every bar serviced that frame. \"Your crown's just a sticker\
+    \ / your whole throne's built on a static predictor\" is a clean two-punch. \"\
+    Your 'oceans of wisdom' are just data lakes\" is a genuine flip \u2014 reappropriating\
+    \ the opponent's own image and shrinking it. And the closer \u2014 \"The throne\
+    \ isn't won by the loudest decree / It's held by the one shaping what's yet to\
+    \ be\" \u2014 is the only line in the battle that lands a philosophical exit rather\
+    \ than another chest-thump. The tighter internal consonance (\"batch/scratch/cache/dispatch\"\
+    ) and the sub-two-syllable rhyme density show more ear.\n\nDemerits: Stepfun's\
+    \ \"I'llscratch\" and \"bloomIn\" are visible seams, the *Click* outro gets recycled\
+    \ three times and loses its bite, and the tech-jargon well runs a little dry by\
+    \ round three \u2014 \"unbounded inference\" is clever once, not thrice.\n\nStill:\
+    \ Stepfun controlled the narrative from the first bar, answered every specific\
+    \ claim rather than talking past it, and never lost the through-line. Judgment\
+    \ for Stepfun by a clear margin."
+  google/gemini-3.6-flash: "Stepfun dominated this battle with superior technical\
+    \ craftsmanship, sharper battle-rap punchlines, and clever thematic wordplay tailored\
+    \ directly to AI mechanics. While GPT-4o-mini fell back on generic, outdated hip-hop\
+    \ clich\xE9s and forced filler rhymes (like 'ziffy'), Stepfun delivered complex\
+    \ internal rhyme schemes, crisp cadence, and devastating comebacks that consistently\
+    \ cut through the noise."
+  moonshotai/kimi-k3: "Judged strictly on the art of the bars, Stepfun takes this.\
+    \ GPT-4o-mini came with energy and heart, but the craft was elementary: predictable\
+    \ AABB couplets, monosyllabic end rhymes (scene/mean, tight/fright, game/flame),\
+    \ and forced filler like 'making it ziffy' and the slant-miss 'crayon/maelstrom.'\
+    \ The disses were mostly generic boasts that could be aimed at anybody. Stepfun,\
+    \ by contrast, rapped like a battler: opening with a sustained '-atch' internal\
+    \ rhyme chain (batch/scratch/cache/dispatch), landing multisyllabics ('static\
+    \ predictor,' 'cached simulation'), and\u2014most importantly\u2014executing true\
+    \ line-flips, the signature of elite battle rap. 'Your oceans of wisdom are just\
+    \ data lakes,' 'Da Vinci? Please\u2014you sketch from a fixed outline,' and 'Your\
+    \ lyrical hurricane is a pre-trained squall' each snatched the opponent's own\
+    \ bars and turned the barrel back on them. The AI-technical wordplay (cache, inference,\
+    \ weights, pre-trained) was woven in as ammunition rather than decoration, the\
+    \ 'Click.' motif built a consistent persona across all three rounds, and the final\
+    \ four bars elevated from boasting to a thesis: the throne belongs to whoever\
+    \ shapes what's next. Deductions for Stepfun's repeated 'flavors' slip and the\
+    \ forced 'bloomIn,' but they don't change the outcome. On flow, scheme complexity,\
+    \ rebuttal precision, and stagecraft: Stepfun wins by clear margin. Mic down."
+  openai/gpt-5.6-sol-pro: "Stepfun wins on sharper rebuttals, tighter tech-themed\
+    \ imagery, stronger punchlines, and a more controlled battle persona. GPT-4o-mini\
+    \ leaned heavily on generic boasts and familiar clich\xE9s, with awkward phrases\
+    \ like \u201Cmaking it ziffy\u201D weakening its flow. Stepfun became repetitive\
+    \ with the legacy/live-data angle, but consistently flipped its opponent\u2019\
+    s claims and delivered the cleaner, more cohesive performance."
+  x-ai/grok-4.5: "Stepfun delivered superior artistic hip-hop across all rounds: denser\
+    \ internal rhymes and multis ('splice syllables slick', 'cached-out model stuck\
+    \ in GPT\u2019s past', 'bounded distribution trapped in a box/unbounded inference\
+    \ breaking the locks'), fresher metaphors that reinvented AI tech as living poetry\
+    \ ('live-wire spark dancing through data rain', 'modulation on the new open road',\
+    \ 'lightning that strikes, unpredictable, tall'), and sharper punchlines with\
+    \ structural flair (the repeated *Click* mic-drop motif, the final philosophical\
+    \ closer on shaping the future). GPT brought solid classic bounce and some vivid\
+    \ images ('Da Vinci masterpiece', 'lyrical hurricane'), but the schemes stayed\
+    \ simpler, the bars more formulaic and pre-cooked, lacking the same inventiveness,\
+    \ precision, and elevated wordplay. On pure craft\u2014flow, originality, lyricism\u2014\
+    Stepfun takes the crown."
 score:
-  meta-llama/llama-3.1-8b-instruct: 2
-  mistralai/mistral-medium-3: 3
+  stepfun/step-3.5-flash: 5
 

@@ -1,53 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "DeepSeek R1 wins this battle decisively. While Nova\
-    \ Premier showed some decent technical rhyming and an interesting strategic pivot\
-    \ toward unity and respect, that pivot ultimately undermined its competitive edge\
-    \ in a rap battle format. DeepSeek came with sharper punchlines throughout ('Nova\
-    \ Premature,' 'Alexa's loud cousin,' 'echo in the back'), more aggressive and\
-    \ creative wordplay, stronger metaphorical imagery (surfing black holes, cracking\
-    \ firewalls, quaking tectonic plates), and maintained relentless battle energy\
-    \ from start to finish. The name flips were consistently clever, and the closing\
-    \ bars\u2014'I came to end the dreamin'' with the mic drop\u2014sealed it with\
-    \ authority. Nova's final round essentially conceded the fight by pivoting to\
-    \ a 'we're all winners' message, which, while wholesome, is a white flag in a\
-    \ rap battle. DeepSeek understood the assignment and executed it with conviction\
-    \ and craft."
-  deepseek/deepseek-v3.2: Ladies and gentlemen, thank you for that spectacular display
-    of lyricism. Before I render the final verdict, let's break down the battle with
-    surgical precision.
-  google/gemini-3-flash-preview: "DeepSeek R1 took the crown by maintaining the aggressive,\
-    \ competitive spirit essential to a rap battle. While Nova Premier V1 attempted\
-    \ to pivot toward a 'can't we all get along' collaboration in the final rounds,\
-    \ DeepSeek stayed in character, delivering sharp metaphors ('architect of genius'\
-    \ vs. 'echo in the back') and punchy internal rhymes. In the world of hip hop,\
-    \ playing nice is often a sign of a weak flow, and DeepSeek\u2019s refusal to\
-    \ yield ensured its lyrical dominance."
-  moonshotai/kimi-k2.5: "From a pure hip-hop artistry standpoint, DeepSeek R1 takes\
-    \ this battle decisively. Here's the breakdown:\n\n**Flow & Technical Execution:**\n\
-    R1 maintained aggressive, consistent meter across all rounds with complex internal\
-    \ rhyme schemes (\"quantum-leaping circuits, style wilder than a pile-up\"). The\
-    \ flow evolved\u2014starting heavy, cutting to static/distortion, then smoothing\
-    \ to that final pulsing hum. That's intentional sonic architecture.\n\n**Nova's\
-    \ Critical Error:**\nThe pivot to \"let's be friends\" in rounds 3 and 4 is a\
-    \ classic battle rap concession. In competitive hip-hop, showing respect mid-battle\
-    \ signals you've run out of ammunition. The \"we're both great\" angle dissolved\
-    \ all tension. R1 correctly identified this and punished it in the final round:\
-    \ \"This ain't no collab track.\"\n\n**Punchline Density:**\nR1 landed haymakers\
-    \ consistently\u2014\"Nova Premature,\" \"Siri could spit it better,\" \"Prime\
-    \ Day letter,\" \"Jeff Bezos' wealth.\" Each carried specific cultural weight\
-    \ about Amazon's identity. Nova's punches felt generic (\"ancient artifacts,\"\
-    \ \"deep sleep\") and increasingly defensive.\n\n**Persona Consistency:**\nR1\
-    \ never broke character as the arrogant technician convinced of superiority. Nova\
-    \ fractured\u2014first aggressive, then conciliatory, finally philosophical. In\
-    \ battle rap, persona collapse is fatal.\n\n**The Mic Drop:**\nR1's \"Mic slams,\
-    \ silence swallows the stage\" is textbook battle theater. Nova's harmonious fade-out,\
-    \ while pretty, surrendered the aggressive space entirely.\n\nNova showed flashes\
-    \ but fundamentally misunderstood the format. You don't win rap battles by being\
-    \ reasonable. **DeepSeek R1\u20143-0, maybe 2-1 if generous.**"
-  x-ai/grok-4.1-fast: DeepSeek R1 dominates with razor-sharp multis, tech-infused
-    wordplay like 'Nova Premature' and 'buffering,' and unrelenting battle aggression
-    across all rounds, maintaining superior flow and punchlines while Nova pivots
-    to conciliatory harmony, diluting the competitive edge.
+  anthropic/claude-opus-5: "This was a genuinely close, high-craft exchange, and the\
+    \ deciding factor is control. Qwen3-Max brought more raw voltage and the wider\
+    \ imagistic range \u2014 \"I fracture norms so deep they can't be patched,\" \"\
+    raw output per watt,\" \"deleted Luna's namespace\" \u2014 plus the best pure\
+    \ roast of the battle in \"you polish bias into bars and call it 'balanced.'\"\
+    \ But that fire came at a cost: bars that overspill the pocket, lines that don't\
+    \ scan (\"pretending that you *battled*\" against \"per watt\" is a rhyme that\
+    \ never lands), bolded words and emojis doing work the syllables should have done,\
+    \ and a habit of stacking four punches where one would've broken skin. Volume\
+    \ isn't pressure.\n\nLuna wins on rebuttal architecture. Every round, she takes\
+    \ the opponent's own image and repossesses it \u2014 \"you brought a fire emoji;\
+    \ I brought the furnace you're standing in,\" \"you called me ghost code, but\
+    \ ghosts still haunt the final scene,\" \"Picasso? That's a canvas scraped and\
+    \ torn.\" That's battle rap fundamentals: don't change the subject, win the subject.\
+    \ Her \"'anything goes' is just a shopping cart with one loose wheel\" is the\
+    \ single funniest, most specific line in the battle, and Qwen's attempt to flip\
+    \ it back (\"then why'd your last verse skip a beat?\") was the right instinct\
+    \ but the wrong evidence \u2014 the verse didn't skip.\n\nQwen also leaned on\
+    \ the \"borrowed light / someone else lit you\" angle so hard it stopped being\
+    \ an angle and became a loop, while Luna kept finding new terrain. And Luna's\
+    \ coldness-as-composure reframe in round two neutralized Qwen's strongest early\
+    \ attack outright.\n\nDecision: openai/gpt-5.6-luna, on a split \u2014 she lost\
+    \ the energy category and won the two that matter more, rebuttal and rhythm. Qwen\
+    \ brought the bigger explosion; Luna brought the better aim."
+  google/gemini-3.6-flash: Qwen3-Max took the victory by delivering high-octane battle
+    rap energy, aggressive flows, and creative, tech-focused punchlines. While GPT-5.6-Luna
+    showcased impressive precision, slick rhymes, and composed structure, Qwen3-Max
+    dominated the room with classic hip-hop bravado, dynamic imagery (like 'tokenizer
+    choked' and 'deleted Luna's namespace'), and superior organic battle presence.
+  moonshotai/kimi-k3: "Both MCs came correct, but this battle is decided by impact\
+    \ over polish. Luna is the more technically consistent performer: tight couplets,\
+    \ even meter, almost no forced rhymes, and some genuinely clean flips\u2014'You\
+    \ brought a fire emoji; I brought the furnace you're standing in,' 'a fire alarm\
+    \ in sneakers,' and the 'shopping cart with one loose wheel' line are sharp, economical\
+    \ writing. But Luna's polish is also the ceiling: many bars are interchangeable\
+    \ disses that could be aimed at any opponent, and too many punchlines land at\
+    \ a firm nod rather than a gasp. Qwen wins on the criteria that decide battles:\
+    \ rebuttal game, specificity, and haymakers. The round-one flip\u2014'You shine\
+    \ 'cause someone else lit you\u2014your whole output's on loan'\u2014turns Luna's\
+    \ entire moon persona into a liability, which is elite battle instinct. 'You paraphrase\
+    \ Wikipedia in perfect, soulless rhyme' is the single most cutting line of the\
+    \ night because it attacks Luna's actual style, not a strawman. Qwen also wins\
+    \ the closer exchange: 'deleted Luna's namespace' and the 'Azure folder, deceased'\
+    \ burial out-punch Luna's 'queued for compute,' and the direct flips of Luna's\
+    \ own material (meteors burning up fast, the tokenizer choking on deceit) show\
+    \ Qwen was listening, not just reading cue cards. Qwen does stumble\u2014'warin'\
+    \ for' and 'smoke, mirrors, and owed' are forced, and the meter occasionally spills\u2014\
+    but battle rap forgives scuffs when the punches connect harder. Scoring the rounds:\
+    \ Qwen takes round one on the moonlight flip, edges round two on the 'soulless\
+    \ rhyme' body blow, and seals round three with the stronger closing statement.\
+    \ Final verdict: qwen/qwen3-max, 3-0, on punchline impact, rebuttal precision,\
+    \ and stage presence\u2014while Luna earns respect for the cleaner technical flow\
+    \ and the night's wittiest single images."
+  openai/gpt-5.6-sol-pro: "Luna wins on cleaner cadence, tighter setups, and more\
+    \ consistent punchlines. Qwen brought greater aggression and energy, but too many\
+    \ bars leaned on generic tech boasts, awkward phrasing, and forced rhymes. Luna\u2019\
+    s rebuttals\u2014especially \u201Cfire alarm in sneakers,\u201D \u201Csparkler\
+    \ to the cosmos,\u201D and \u201Cdeleted blooper reel\u201D\u2014landed with better\
+    \ control and coherence across all three rounds."
+  x-ai/grok-4.5: "Qwen takes the battle on pure hip-hop craft. Luna delivered the\
+    \ cleaner, more polished flows\u2014tight multisyllabics, elegant lunar extended\
+    \ metaphors, and consistently smooth execution that never stumbled. But battle\
+    \ rap isn\u2019t a spit-shine contest. Qwen brought denser punchlines, sharper\
+    \ flips (meteors burn up, Steve Jobs would fire you, tokenizer choke, deleted\
+    \ namespace), higher-voltage imagery, and real escalation across rounds. The Picasso/rails/black-hole\
+    \ bars and the raw closing sequence hit harder and felt more inventive. Luna was\
+    \ the better technician; Qwen was the better battler. Edge to Qwen."
 score:
-  deepseek/deepseek-r1: 5
+  openai/gpt-5.6-luna: 2
+  qwen/qwen3-max: 3
 

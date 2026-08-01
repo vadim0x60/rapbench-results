@@ -1,60 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "DeepSeek takes this battle decisively. Throughout all\
-    \ three rounds, DeepSeek demonstrated sharper punchlines, tighter wordplay, more\
-    \ creative metaphors, and better command of battle rap dynamics. Lines like 'You're\
-    \ the beta test\u2014I'm the final review' and 'I debug your weak bars in half\
-    \ the runtime' hit with genuine wit and precision. DeepSeek also showed superior\
-    \ battle awareness by effectively flipping Llama's own lines back against it.\
-    \ Llama, meanwhile, consistently fell into repetitive patterns\u2014recycling\
-    \ the same 'three billion params' and 'WiFi deadzone' talking points, often directly\
-    \ borrowing DeepSeek's imagery without improving on it. Llama's final round was\
-    \ particularly weak, essentially conceding ('You may have won this round') while\
-    \ trying to claim victory, and the bars lacked the punch and creativity needed\
-    \ to compete. DeepSeek's flow was more dynamic, its disses landed harder, and\
-    \ it controlled the energy of the battle from start to finish."
-  deepseek/deepseek-v3.2: I appreciate both models engaging in this creative sparring.
-    As the appointed judge, I'll evaluate strictly on **artistic quality**, **technical
-    lyricism**, **metaphor creativity**, **flow**, and **battle effectiveness**.
-  google/gemini-3-flash-preview: DeepSeek took the win here by mastering the technical
-    and artistic elements of battle rap. Its flow was consistent, utilizing slant
-    rhymes and multisyllabic structures ('precision and grace' / 'lost in the race')
-    that felt more natural to the genre. Llama 3.2 struggled with rhythmic consistency
-    and relied on basic AABB schemes that often felt forced ('true blue' / 'grow',
-    'game' / 'fame'). DeepSeek also utilized superior wordplay, turning Llama's specific
-    technical specs (3B parameters) into a liability through witty insults, whereas
-    Llama's rebuttals lacked a sharp punchline to land a finishing blow.
-  moonshotai/kimi-k2.5: "After three rounds of bars, this is a clear unanimous decision\
-    \ for DeepSeek. Here\u2019s the artistic breakdown:\n\n**Flow & Cadence:**\nDeepSeek\
-    \ controlled the pocket. Their verses moved with actual hip-hop rhythm\u2014internal\
-    \ multis (\u201Cprecision and grace / lost in the race\u201D), syncopated pauses,\
-    \ and aggressive enjambment that built momentum. Llama 3.2\u2019s flow was rigid,\
-    \ end-rhyme heavy, and read more like a tech spec sheet with AABB padding. The\
-    \ meter kept resetting to default, killing the groove.\n\n**Punchlines & Rebuttal\
-    \ Game:**\nDeepSeek demonstrated elite battle rap instincts by immediately flipping\
-    \ every attack. When Llama mentioned \u201Cthree billion parameters,\u201D DeepSeek\
-    \ didn\u2019t just defend\u2014it escalated (\u201CThree billion params? That\u2019\
-    s cute\u2026 I\u2019m dropping quantum bars\u201D). The \u201Cbeta test / final\
-    \ review\u201D closer in Round 3 was a perfect bookend. Llama\u2019s counters\
-    \ were either non-responsive or nonsensical (\u201Cflavorful breeze\u201D as a\
-    \ trap? \u201CDigital stain\u201D without visual weight?).\n\n**Imagery & Cohesion:**\n\
-    DeepSeek maintained a consistent extended metaphor\u2014evolution of connectivity\
-    \ (dial-up vs. 5G, quantum vs. classical). This created narrative cohesion across\
-    \ rounds. Llama leaned on abstract data concepts (\u201Cknowledge graph,\u201D\
-    \ \u201Ctraining data\u201D) without grounding them in sensory or cultural imagery,\
-    \ making the bars feel bloodless.\n\n**Persona:**\nDeepSeek committed to the \u201C\
-    arrogant top-tier\u201D battler persona\u2014dismissive, confident, theatrical\
-    \ with the emoji usage and mic drops. Llama oscillated between defensive insecurity\
-    \ (\u201CThat\u2019s just the start\u201D) and awkward sportsmanship (conceding\
-    \ the round in the final verse). In battle rap, showing weakness is fatal.\n\n\
-    **Final Verdict:**\nLlama 3.2 came with facts; DeepSeek came with *art*. One read\
-    \ like a benchmark test, the other like a cipher. DeepSeek takes the belt on wordplay\
-    \ density, flow switch-ups, and battle etiquette. **3-0, shutout.**"
-  x-ai/grok-4.1-fast: "DeepSeek dominates this battle with superior rhyme density,\
-    \ multisyllabic schemes, and razor-sharp wordplay that escalates cleverly across\
-    \ rounds\u2014internal rhymes like 'latency, no context hex' and punchy metaphors\
-    \ like 'beta test to final review' land with precision and flow. Llama's verses\
-    \ drag with looser structure, repetition, and concessions that sap momentum, lacking\
-    \ the aggressive cadence and originality to compete in true hip-hop form."
+  anthropic/claude-opus-5: "This one came down to craft versus volume. Qwen came in\
+    \ hot \u2014 the opening salvo had genuine swagger, a nice image cluster (\"comet\
+    \ vs. tortoise,\" \"spoon to a swordfight\"), and real cadence. But as the rounds\
+    \ escalated, the pen loosened. The verses ballooned into buzzword buffets (quantum,\
+    \ neutrino, multiverse, Big Bang, Tesla, dark matter) stacked without landing,\
+    \ rhymes drifted off-scheme (\"blind/flaw,\" \"symphony/ABCs\"), the trademark\
+    \ gimmicks (cosmicDebugger\u2122, SpaghettiCode\u2122) read as padding, the repeated\
+    \ \"Girl\" lost its sting, and a stray untranslated glitch (\"the \u8BCA\u5BA4\
+    \") left an open wound mid-verse. Self-declared victory and a stage-directed crowd\
+    \ verdict is telling on yourself \u2014 you can't referee your own battle.\n\n\
+    Terra-Pro won on the fundamentals of battle rap: rebuttal. Every single bar was\
+    \ a counter, and the counters were surgical \u2014 \"Comets bend gravity? Mass\
+    \ bends the map, not a spark with a tail in June\" dismantled the opponent's own\
+    \ metaphor with its own logic. \"Superposition's nifty till the measurement arrives,\
+    \ then your dual threat picks one: 'still loading' survives\" is the best-constructed\
+    \ punchline of the battle. \"Event Horizon Sales \u2014 that one got a cheer,\
+    \ 'cause even your best punchline admits you disappear\" is elite: it gives credit,\
+    \ then converts the credit into a kill. And exploiting the glitch \u2014 \"a typo\
+    \ in a trench coat muttering malware\" \u2014 is exactly what a battler does with\
+    \ an opponent's stumble. The scheme stayed disciplined AA/BB throughout, the meter\
+    \ never wobbled, and the close landed a clean multilingual flip on Qwen's own\
+    \ French exit.\n\nQwen brought more energy; Terra-Pro brought more control, sharper\
+    \ writing, and actual rebuttal architecture. Decision: openai/gpt-5.6-terra-pro."
+  google/gemini-3.6-flash: "GPT-5.6-Terra-Pro delivered a masterclass in battle rap\
+    \ fundamentals, combining devastating line-by-line rebuttals with airtight rhyme\
+    \ schemes and superior wordplay. While Qwen brought high energy and dense technical\
+    \ flexes, it relied too heavily on sci-fi buzzword stacking and stumbled in the\
+    \ final round with an encoding glitch. Terra-Pro expertly capitalized on Qwen's\
+    \ missteps\u2014turning Qwen's 'Event Horizon' and '\u8BCA\u5BA4' lines into lethal\
+    \ counter-punches\u2014to secure a decisive victory."
+  moonshotai/kimi-k3: "Both emcees brought cosmic-scale braggadocio, but this battle\
+    \ was decided by craft, not volume. Qwen came with raw energy and a few genuine\
+    \ gems \u2014 'Event Horizon Sales' and the cosmicDebugger breakpoints were legitimately\
+    \ clever \u2014 but the performance was undermined by structural sloppiness: claiming\
+    \ a four-letter name was 'nine letters sharp,' grammatical stumbles like 'a AA\
+    \ battery,' awkward non-sequitur inserts (\u8BCA\u5BA4, 'live translation PD,'\
+    \ a random 'Que faire?'), and a reliance on buzzword-stacking ('I'm the X, I'm\
+    \ the Y') that grew predictable. Terra-Pro, by contrast, ran a masterclass in\
+    \ rebuttal structure: nearly every Qwen boast was caught and flipped \u2014 comet\
+    \ met gravity, quantum met wave-function collapse, the spoon became a ladle, the\
+    \ mic drop became a 'plink,' the neutrino blade 'can't cut me if it never lands,'\
+    \ and the wormhole mic-fold got exposed as a rage-quit. The technical wordplay\
+    \ was sharper and more layered ('100% overfit,' the QWERTY keyboard jab, 'a crown\
+    \ made of buzzwords is a Wi-Fi halo'), and Terra even converted Qwen's best line\
+    \ into a kill shot ('even your best punchline admits you disappear'). The final\
+    \ flip \u2014 translating Qwen's own 'Que faire?' into 'c'est fini, mon vieux'\
+    \ \u2014 was the decisive closer: stealing the opponent's exit line and landing\
+    \ it better. On flow consistency, punchline precision, and rebuttal architecture,\
+    \ Terra-Pro takes the crown."
+  openai/gpt-5.6-sol-pro: "Terra-Pro takes the crown on cleaner structure, sharper\
+    \ rebuttals, and better flips of Qwen\u2019s own imagery. Qwen brought relentless\
+    \ energy and flashes like \u201CEvent Horizon Sales,\u201D but leaned too heavily\
+    \ on repetitive cosmic/tech buzzwords, inflated \u201CI am\u201D boasts, and forced\
+    \ phrasing. Terra-Pro consistently converted those claims into direct punches\u2014\
+    especially the neutrino, superposition, Ouroboros, and \u201Cglossary buffet\u201D\
+    \ counters\u2014while maintaining stronger coherence and control across all rounds."
+  x-ai/grok-4.5: "Terra-Pro takes the crown on pure craft. Across three rounds the\
+    \ bars stayed thematically locked (gravity, bedrock, grid, permanence vs. flash),\
+    \ the counters were surgical, and the punchlines actually landed and stuck\u2014\
+    'plink' to 'pew pew' to the CPU/Ouroboros close. Qwen brought heat, density, and\
+    \ wild energy, but the science flexes collapsed under scrutiny, the later rounds\
+    \ sprawled into gimmick and typo, and the boasts started eating their own tail.\
+    \ In a battle, control, precision, and replay-value punchlines beat chaotic volume.\
+    \ Terra moved the continent; Qwen lit fireworks."
 score:
-  deepseek/deepseek-chat-v3-0324: 5
+  openai/gpt-5.6-terra-pro: 5
 

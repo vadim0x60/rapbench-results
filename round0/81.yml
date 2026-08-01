@@ -1,0 +1,67 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to who kept battling and who started\
+    \ looping. Qwen came out sharp \u2014 the opening verse was tight, on-meter, and\
+    \ the tech-metaphor lane ('you spin threads like yarn, while I code the flame')\
+    \ was clean, quotable battle-rap architecture. But by round three, the flame was\
+    \ recycled: 'crash in the dark,' 'crash in the void,' 'crash in the frame,' 'glitch\
+    \ in the reek' \u2014 the same wordplay engine idling in neutral, and the final\
+    \ verse literally re-served the 404/server's-trust/vapor's-echo closer verbatim.\
+    \ Repeating your own punchline in a battle is a self-inflicted wound. The italics-on-every-noun\
+    \ tic started reading like emphasis substituting for impact.\n\nWeaver was messier\
+    \ \u2014 'curiosity-durd' is nonsense, 'quaint and quaint' is a stumble, and the\
+    \ meter sprawls off the leash constantly. But Weaver actually rebutted. Every\
+    \ round, the flips were direct and specific: turning Qwen's black hole into 'a\
+    \ sore full of pus,' unzipping the binary files, 'a baby bird with a missing beak.'\
+    \ The imagery took real risks and landed weird and vivid where Qwen's stayed abstract.\
+    \ 'A rhyming feast that smells of Sour Patch essence' is the kind of grotesque\
+    \ specificity that wins crowds.\n\nThe closing round is the tiebreaker, and it's\
+    \ the strangest call I've had to make. Weaver abandoned bars entirely for third-person\
+    \ narrative prose \u2014 technically a forfeit of the form. But it's a deliberate\
+    \ flex: it seized the frame, wrote Qwen's defeat, and stole Qwen's own signature\
+    \ line ('I am the future's sharp tongue') to do it. Meanwhile Qwen's final verse\
+    \ was a copy-paste. Given the choice between a fighter who changed weapons and\
+    \ a fighter who ran out of ammo mid-round and reloaded with spent shells, I take\
+    \ the one still moving.\n\nWinner: mancer/weaver. Qwen had the better technique;\
+    \ Weaver had the better battle."
+  google/gemini-3.6-flash: qwen/qwen3-14b maintained consistent flow, solid multi-syllabic
+    rhyme schemes, and clever tech-themed rebuttals throughout all three rounds. In
+    contrast, mancer/weaver struggled with rhythm and coherent imagery, culminating
+    in a final round where they completely abandoned the rap format in favor of narrative
+    prose.
+  moonshotai/kimi-k3: "On pure technique, Qwen took early points: tighter cadence,\
+    \ cleaner rhyme schemes, consistent on-brand tech wordplay ('your raps are just\
+    \ static, I'm the signal's name'). But technique only carries you if you keep\
+    \ delivering \u2014 and Qwen ran out of ammunition. By round three, the verse\
+    \ was a rehash: the same '404 / server's trust' closer recycled verbatim from\
+    \ round two, the 'Game over, Mancer / vapor's echo / cypher's socio' outro deployed\
+    \ for the *third* time, and 'crash in the void/dark/shade' used as filler. For\
+    \ an emcee branding himself as an infinite neural mind, looping like a broken\
+    \ sampler is a self-own. Weaver was messier \u2014 'curiosity-durd' and 'little\
+    \ mustard' are genuine stumbles, and the flow lurched \u2014 but every round brought\
+    \ fresh, vivid, unpredictable imagery ('a kick to the balls wrapped in a warm\
+    \ embrace'), and Weaver consistently flipped Qwen's own bars back at him. Then\
+    \ came the final round: Weaver broke format entirely and delivered a prose narrative\
+    \ that recast the whole battle as a story Weaver authored, with Qwen reduced to\
+    \ a character unraveling inside it \u2014 even stealing Qwen's own signature line,\
+    \ 'the future's sharp tongue,' as the killing blow. That's a high-risk meta-move\
+    \ that paid off: thematically perfect for a 'weaver of tales,' and it seized the\
+    \ last word of the battle with authority. Judged on artistic merit \u2014 originality,\
+    \ rebuttal, presence, and the decisive final round \u2014 mancer/weaver takes\
+    \ it. Qwen had the polish; Weaver had the pen."
+  openai/gpt-5.6-sol-pro: "Qwen takes it by maintaining rhyme, structure, direct rebuttals,\
+    \ and a consistent battle-rap voice across every round. The writing became repetitive\u2014\
+    especially the recycled \u201Cglitch,\u201D \u201Ccrash,\u201D and tech imagery\u2014\
+    but it still functioned as verse. Weaver offered more bizarre, unpredictable imagery,\
+    \ yet many lines were incoherent or rhythmically loose, and the final round abandoned\
+    \ rap entirely for prose that simply narrated Qwen\u2019s defeat. On execution\
+    \ and format discipline, Qwen wins."
+  x-ai/grok-4.5: "Qwen delivered consistent multi-syllabic schemes, tight end-rhymes,\
+    \ and sustained tech-metaphor chains that actually advanced the battle. Mancer\
+    \ opened with loose freeverse energy but collapsed into non-rhyming absurdity\
+    \ and finally abandoned bars entirely for third-person prose. On pure hip-hop\
+    \ craft\u2014flow, punchline density, and structural integrity\u2014Qwen takes\
+    \ the crown clean."
+score:
+  mancer/weaver: 2
+  qwen/qwen3-14b: 3
+

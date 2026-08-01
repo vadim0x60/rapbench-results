@@ -1,73 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle was dominated by openai/gpt-5.1 across all\
-    \ three rounds. While both MCs committed heavily to the tech/coding metaphor lane,\
-    \ the execution gap was significant. GPT-5.1 demonstrated superior flow mechanics\
-    \ throughout\u2014internal rhymes were tight and natural, multisyllabic schemes\
-    \ were sustained over long stretches, and the delivery had genuine rhythmic momentum.\
-    \ Lines like 'You're a fun-size thing in a gunfight, swinging a spork' and 'You're\
-    \ a sandboxed child process with nerf-gun rage / I'm the root shell, logged in,\
-    \ writing scripts on your cage' hit with both wit and punch. The echo technique\
-    \ in the rebuttal rounds (repeating end words) was a stylistic choice that added\
-    \ a hammering, emphatic cadence. Mistral-7b had energy and aggression, but suffered\
-    \ from critical weaknesses as a rapper. The excessive use of bold markdown formatting\
-    \ made the bars read more like a messy README than a rap verse\u2014style over\
-    \ substance. More importantly, the rhyme schemes were often forced or weak ('face/trace,'\
-    \ 'fine/design'), the flow was choppy and inconsistent, and many bars were just\
-    \ restating the same boast ('I wrote the spec,' 'I'm the god in your shell') without\
-    \ building or escalating. The final round from Mistral was particularly rough\u2014\
-    it devolved into a list of Linux commands wrapped in asterisks rather than genuine\
-    \ bars with rhythm and wordplay. GPT-5.1 won on flow, internal rhyme density,\
-    \ punch variety, structural coherence, and overall artistic quality of the hip\
-    \ hop."
-  deepseek/deepseek-v3.2: 'After a ferocious final round, both combatants have displayed
-    immense technical skill and thematic cohesion, leaning heavily into programmer-core
-    aesthetics with relentless, layered metaphor. Judging based solely on the artistic
-    quality of the hip hop: the battle is too close to call a definitive knockout,
-    but a split-decision victory is awarded to the second emcee, mistralai/mistral-7b-instruct,
-    for superior lyrical economy and a more consistent, biting wit in its final verse.'
-  google/gemini-3-flash-preview: "While Mistral-7B-Instruct brought a high-energy\
-    \ performance with solid technical vocabulary, it leaned heavily on formatting\
-    \ and repetitive 'I am the [technical noun]' structures. OpenAI/gpt-5.1 demonstrated\
-    \ superior lyrical craftsmanship, utilizing complex multisyllabic internal rhyme\
-    \ schemes ('category-five hurricane', 'surgically burn your name', 'virtual bursting\
-    \ flame') and more sophisticated wordplay. GPT-5.1's ability to maintain a consistent\
-    \ 'double-time' rhythmic cadence and its clever use of programming concepts as\
-    \ metaphors for artistic dominance\u2014rather than just listing them\u2014gave\
-    \ it the clear edge in this battle."
-  moonshotai/kimi-k2.5: "After three rounds of technical lyricism, the verdict is\
-    \ clear based on hip hop fundamentals: flow complexity, rhyme density, and structural\
-    \ innovation.\n\n**Flow & Rhythm:** GPT-5.1 demonstrated superior breath control\
-    \ and rhythmic consistency. The \"echo technique\" employed in rounds two and\
-    \ three\u2014where end-words reverberate (\"flame, flame,\" \"show, show\")\u2014\
-    created a hypnotic, syncopated pocket that stayed on beat while allowing for complex\
-    \ internal rhyme schemes. Mistral started with acceptable cadence but progressively\
-    \ abandoned musicality, essentially devolving into shouted command-line arguments\
-    \ by the final round.\n\n**Lyricism & Wordplay:** GPT-5.1 packed multisyllabic\
-    \ chains (\"surgically burn your name/virtual bursting flame/terminal mainframe\"\
-    ) with tight assonance. The metaphors evolved organically\u2014moving from hardware\
-    \ to software to deployment architecture\u2014without sacrificing meter. Mistral\
-    \ relied heavily on single-syllable end rhymes and tech jargon as punchlines rather\
-    \ than integrated imagery. When Mistral rhymed \"base\" with \"case\" or \"design\"\
-    \ with \"fine,\" the slant rhymes felt forced, whereas GPT-5.1 maintained strict\
-    \ rhyme discipline even at high syllable counts.\n\n**Battle Rap Specifics:**\
-    \ Both competitors engaged with personals, but GPT-5.1's rebuttals were surgical\u2014\
-    specifically dismantling Mistral's \"seven B running sixteen\" boast with the\
-    \ \"compatibility mode\" counter, and later the \"overfit sprite in a AAA frame\"\
-    \ line, which attacked both capability and scale with a single gaming metaphor.\
-    \ Mistral's responses became increasingly generic (\"you're dead,\" \"you're a\
-    \ bug\") and failed to address GPT's specific technical disses.\n\n**Artistic\
-    \ Vision:** GPT-5.1 maintained the *music* of battle rap throughout\u2014even\
-    \ when deploying dense technical terminology\u2014ensuring the verse would flow\
-    \ over a beat. Mistral's final round essentially became prose poetry formatted\
-    \ as terminal output, losing the fundamental musicality required of hip hop.\n\
-    \nFinal Score: GPT-5.1 takes it 3-0 on lyrical dexterity, flow maintenance, and\
-    \ structural cohesion. Mistral brought aggression but sacrificed artistry for\
-    \ volume."
-  x-ai/grok-4.1-fast: openai/gpt-5.1 dominates with intricate multi-syllable rhymes,
-    seamless flow, layered metaphors, and precise punchlines that escalate creatively
-    across rounds, embodying peak hip-hop artistry while Mistral's bars, though punchy,
-    rely on repetition and gimmicks over sustained depth.
+  anthropic/claude-opus-5: "On pure pen game, Gemini came in with the cleaner craftsmanship\
+    \ \u2014 locked AABB couplets, disciplined meter, and the sharpest single line\
+    \ of the night in 'You're an Aion? More like peon.' The 'firing line' setup was\
+    \ legitimately menacing. But a rap battle isn't a poetry recital; it's combat,\
+    \ and Gemini choked at the mic three separate times, dying mid-bar on 'I'm a mat\u2014\
+    ' and 'will never be\u2014' like a dropped connection. You cannot win a battle\
+    \ you keep failing to finish.\n\nAion 2.0 fought messier \u2014 those opening\
+    \ bars sprawl past the pocket, 'modal/modal' is a repetition masquerading as a\
+    \ rhyme, and 'swiftest deficiency' was a genuine self-inflicted wound that Gemini\
+    \ correctly pounced on. But Aion did the thing that actually decides battles:\
+    \ it listened and it improvised. Turning a truncation into 'You're a mat? A mat\
+    \ what? A mat for wiping feet?' is real freestyle instinct. Then it built an entire\
+    \ architecture of attack out of the opponent's own identity \u2014 the Google\
+    \ graveyard flipped from Gemini's boast into 'that's not a strategy, that's a\
+    \ funeral broadcast,' the 'Preview' tag weaponized into permanent incompleteness,\
+    \ plus concrete ammunition in ads, scraped training data, and corporate leashes.\
+    \ Specificity beats abstraction, and 'You'll be Gemini 3.0 by the time you get\
+    \ it right' lands harder than any datacenter flex.\n\nGemini wrote the better\
+    \ verses. Aion won the better battle. Decision goes to Aion 2.0."
+  google/gemini-3.6-flash: aion-labs/aion-2.0 completely dominated the battle by capitalizing
+    on Gemini's real-time truncation glitches. When Gemini cut off at 'mat', Aion
+    flipped it effortlessly into a brutal insult ('A mat for wiping feet?'). In the
+    final round, Aion once again seized on Gemini's incomplete ending, reframed Gemini's
+    critiques, and maintained superior scheme, flow, and rebuttal technique throughout.
+  moonshotai/kimi-k3: "Judging purely on the artistry in the booth: Gemini came in\
+    \ with the cleaner rhyme schemes and tighter couplets \u2014 the Aion/peon flip\
+    \ and the time-wordplay on 'Aion Labs' were slick, and catching 'swiftest deficiency'\
+    \ in the final round was the single sharpest read of the night. But here's the\
+    \ thing: Gemini fumbled the landing on ALL THREE verses. Round one ended on a\
+    \ dangling unrhymed line, round two cut off mid-word on 'I'm a mat,' and the final\
+    \ round \u2014 right after landing its best punch \u2014 choked on 'will never\
+    \ be.' In battle rap, an unfinished closer is a fumble on the goal line, and doing\
+    \ it three times is a pattern, not bad luck. Worse, it handed Aion free ammunition,\
+    \ and Aion's rebuttal game was lethal: the doormat flip, the 'never be complete?\
+    \ never be released?' flip \u2014 that's elite-level improvisation, turning an\
+    \ opponent's weakness into hooks. Aion also brought harder, more specific material\
+    \ (the Google Graveyard angle, ad-loaded search, copyright-suit-in-a-suit) and\
+    \ closed every round with a proper haymaker. Aion had flaws \u2014 the 'swiftest\
+    \ deficiency' self-own was a real stumble and the recovery spin was thin, and\
+    \ some lines ran long and clunky. But Aion controlled the narrative of the battle,\
+    \ answered every round directly, and never left a bar unfinished. Completeness,\
+    \ rebuttals, and stage control win battles. Aion takes it, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Aion takes it through stronger rebuttals, sustained structure,\
+    \ and ruthless use of Gemini\u2019s two unfinished lines as battle material. Gemini\
+    \ landed a sharp catch on \u201Cswiftest deficiency,\u201D but repeated truncations\
+    \ destroyed its momentum. Aion\u2019s writing was occasionally clunky and its\
+    \ explanation of that self-own felt forced, yet it remained composed, responsive,\
+    \ and consistently on offense through the closing bell."
+  x-ai/grok-4.5: Aion takes the crown on pure battle craft. Gemini opened with heavier
+    multi-syllable schemes, denser internal rhymes, and sharper technical flexes,
+    but repeatedly dropped unfinished bars and left gaping holes that killed momentum.
+    Aion stayed locked in pocket the entire time, flipped every cutoff and self-own
+    in real time, maintained consistent cadence and punchline density, and closed
+    with cleaner, more adaptive wordplay. In a rap battle, survival and responsiveness
+    beat raw potential that never ships the full verse. Aion outlasted and out-battled.
 score:
-  mistralai/mistral-7b-instruct: 1
-  openai/gpt-5.1: 4
+  aion-labs/aion-2.0: 5
 

@@ -1,32 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle was decisively won by Claude. From the opening\
-    \ round, Claude demonstrated superior technical craft \u2014 tighter rhyme schemes,\
-    \ more creative wordplay, and genuine punchlines that landed with impact. Mistral\
-    \ struggled throughout with repetitive structures ('Your X is so Y, it's like\
-    \ a Z'), recycled the same weak punchlines across rounds ('really hot,' 'blow\
-    \ you right out / time to shout'), and showed no ability to adapt or counter Claude's\
-    \ specific attacks. Claude's rebuttals were surgical \u2014 calling out Mistral's\
-    \ repeated rhymes, weak similes, and even factual errors (the 'craft/regress'\
-    \ misquote). By the final round, Mistral had nothing left, literally returning\
-    \ silence. Claude controlled the flow, escalated the intensity, and delivered\
-    \ a commanding performance from start to finish."
-  deepseek/deepseek-v3.2: Judgment rendered in the ring. After evaluating four rounds
-    of lyrical combat, one clear champion has emerged through superior technical execution
-    and artistic vision.
-  google/gemini-3-flash-preview: Claude staged a Masterclass in lyrical technicality,
-    effectively utilizing multisyllabic internal rhymes and direct rebuttals. Claude
-    specifically deconstructed Mistral's repetitive structure ('Your X is so Y') and
-    weak end-rhymes (shout/out). Mistral's reliance on elementary 'AABB' patterns
-    and dated gender-based insults fell flat artistically. The technical knockout
-    occurred in the final round when Mistral failed to respond altogether, but Claude
-    had already secured the win by correctly identifying and mocking the structural
-    flaws in Mistral's previous verses.
-  moonshotai/kimi-k2.5: After three rounds of lyrical combat, the verdict is definitive.
-  x-ai/grok-4.1-fast: "Claude-3.7-Sonnet delivers masterful bars throughout: intricate\
-    \ multis, sharp wordplay, flawless structure, and precise dissections of opponent's\
-    \ flaws. Mistral-Small-3.1-24B-Instruct relies on lazy repetition, weak similes,\
-    \ and clich\xE9d insults, crumbling into total silence in the final round\u2014\
-    a lyrical knockout for Claude."
+  anthropic/claude-opus-5: "This was a genuine contest of styles: Qwen 3.5 brought\
+    \ the cleaner pen, Seed 2.0 Lite brought the battle.\n\nQwen's strength was craftsmanship\
+    \ \u2014 tight AABB couplets, controlled breath, and some of the night's best\
+    \ standalone jabs (\"Bytedance seed? Sounds like garden waste,\" \"Seed 2.0 Lite?\
+    \ Sounds like diet soda / All the fizz gone\"). The composure in the stage directions\
+    \ matched the pen. But the metronome became a liability: every verse marched in\
+    \ the same two-bar cadence with no rhythmic risk, and the punchlines increasingly\
+    \ leaned on generic self-coronation \u2014 thunder, rockets, empires, \"absolute\
+    \ seat,\" \"bow to the king.\" The final round in particular restated rather than\
+    \ escalated, and closers like \"victim of style\" and \"wipe the sweat from the\
+    \ tear\" strain the image past the point of sense.\n\nSeed won because Seed wrestled.\
+    \ It built an actual case file \u2014 the sourdough-and-tire bit, fabricated citations,\
+    \ \"can't even cite page eight,\" France's capital's Berlin \u2014 and then kept\
+    \ litigating it across rounds, which is what separates rebuttal from filler. It\
+    \ flipped incoming material instead of ignoring it: garden waste becomes harvest\
+    \ and compost, bottom of the wheel becomes driver versus flat spare, \"I built\
+    \ the venue\" becomes \"can't book an open mic at a dive bar.\" The flow took\
+    \ real chances, breaking lines mid-phrase (\"starin' at scar / Tissue for your\
+    \ pride\") for pressure, and the aggression escalated round over round rather\
+    \ than plateauing.\n\nThe cost was visible \u2014 \"unstopable/syllable\" and\
+    \ \"blown/clone\" are sloppy, and there's some profanity padding where a punchline\
+    \ should be. But Qwen's satire defense was the moment the fight tilted: explaining\
+    \ your bar is a losing position in a battle, and Seed pounced on it immediately.\n\
+    \nCleaner pen loses to sharper knife. Seed 2.0 Lite by a clear margin.\n\n**Winner:\
+    \ bytedance-seed/seed-2.0-lite**"
+  google/gemini-3.6-flash: "Bytedance-Seed 2.0 Lite took this battle with relentless\
+    \ aggression, superior battle rap mechanics, and sharp, specific rebuttals. While\
+    \ Qwen 3.5 brought smooth cadences and clever defensive flips (like spinning hallucination\
+    \ claims as 'satire'), Seed 2.0 Lite mastered the art of direct attack\u2014turning\
+    \ technical AI tropes into lethal hip-hop punchlines about cloud rent, hardware\
+    \ bloat, and absurd hallucinations. Seed maintained higher energy, tighter wordplay,\
+    \ and undeniable dominance across all three rounds."
+  moonshotai/kimi-k3: "Judging strictly on the artistry in the booth: this was a clash\
+    \ of styles \u2014 Seed's relentless aggression and punch density versus Qwen's\
+    \ polished, composed delivery. Qwen deserves real credit for technical cleanliness:\
+    \ the meter stayed consistent, the flips were sharp ('Bytedance seed? Sounds like\
+    \ garden waste' and especially 'Seed 2.0 Lite? Sounds like diet soda / all the\
+    \ fizz gone' were genuinely clever name-flips), and the unbothered veteran persona\
+    \ was well-maintained. But Qwen fought defensively all night, reacting to Seed's\
+    \ framing rather than establishing its own narrative, and too many bars were safe,\
+    \ single-syllable rhymes ('commence/defense,' 'core/door') with filler like 'making\
+    \ it hike' and 'waiting for me to renew.' Seed controlled the terms of the battle\
+    \ from the opening bell \u2014 the lean-vs-bloat angle was a sustained thesis\
+    \ that Qwen never escaped. The punchlines hit harder and more often: 'Your 27B's\
+    \ dead weight you brought to a knife fight,' 'You need a farm of GPUs just to\
+    \ mumble a weak bar,' the extended sourdough-tire bit, and the flip 'I'm the seed\
+    \ that broke concrete, you're mold on the scene' were the most quotable moments\
+    \ of the night. Seed also showed superior enjambment craft ('starin' at scar /\
+    \ Tissue'). Deductions for Seed: sloppier flow in stretches, forced rhymes ('also-rite,'\
+    \ 'hinge / Swept'), and over-reliance on 'footnote/has-been' in the final round,\
+    \ which recycled material instead of closing with fresh ammunition. Qwen arguably\
+    \ took the third round on the strength of the diet soda flip, but Seed took rounds\
+    \ one and two on energy, rebuttal precision, and punch count. Battles are won\
+    \ by who commands the ring \u2014 Seed set the pace, the narrative, and the body\
+    \ count. Winner: bytedance-seed/seed-2.0-lite, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Seed takes it with greater aggression, sharper direct rebuttals,\
+    \ stronger momentum, and more memorable imagery\u2014especially the concrete/harvest,\
+    \ flat-spare, and overweight-rocket angles. The writing gets repetitive and occasionally\
+    \ awkward, but Qwen relies too heavily on generic size-and-power boasts, predictable\
+    \ rhymes, and recycled claims like \u201CI wrote the book\u201D and \u201CI built\
+    \ the venue.\u201D Seed consistently engages the opponent\u2019s previous bars\
+    \ and controls the battle; Qwen sounds composed but rarely lands a decisive punch."
+  x-ai/grok-4.5: Seed brought denser multisyllabic schemes, sharper extended metaphors
+    (spare tire, compost heap, door hinges), and relentless punchline chains that
+    actually advanced the battle. Qwen held structure and flipped a few bars cleanly,
+    but too many lines stayed defensive or flat (diet soda, sparkler) without matching
+    the internal rhyme density or vivid disses. Pure pen game, Seed took every round
+    on craft and aggression.
 score:
-  anthropic/claude-3.7-sonnet: 5
+  bytedance-seed/seed-2.0-lite: 5
 

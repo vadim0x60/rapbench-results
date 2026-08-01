@@ -1,73 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle, but Seed 1.6 takes\
-    \ it on points. While both rappers leaned heavily on tech metaphors throughout,\
-    \ Seed consistently demonstrated stronger rebuttal technique \u2014 flipping nearly\
-    \ every bar from Mistral back against them with clever inversions. Mistral Large\
-    \ had solid opening energy and some punchy lines ('you're just a temp file, ask'),\
-    \ but fell into repetitive patterns as the battle progressed, recycling the same\
-    \ closing bars almost verbatim between rounds ('Your reign's a glitch, your hype's\
-    \ a crash / Now bow to the king\u2014or get trashed in a flash'). That repetition\
-    \ hurt their credibility in a format where freshness matters. Seed 1.6 showed\
-    \ better adaptability round over round, consistently picking apart Mistral's specific\
-    \ lines and turning them into counters \u2014 the 'en passant takes your king's\
-    \ crown' chess flip was a highlight, and the 'I'm the rootkit that slips your\
-    \ scan' line showed genuine wordplay sophistication. Seed also had better stage\
-    \ presence cues (the mic cord imagery, the physical descriptions) that added texture\
-    \ to the performance. Mistral's overuse of italicized emphasis and emojis felt\
-    \ like shouting rather than flowing. Both MCs stayed in the tech-metaphor lane\
-    \ to a fault, but Seed navigated it with more variety and sharper counterplay."
-  deepseek/deepseek-v3.2: "After reviewing all three rounds of this technically charged\
-    \ rap battle, I declare **ByteDance-Seed/Seed-1.6** the winner by a narrow but\
-    \ clear margin. Here's the breakdown of my decision based on the criteria of artistic\
-    \ quality in hip-hop:\n\n**Rhyme & Rhythm:** Mistral Large was consistent, clean,\
-    \ and punchy. However, Seed 1.6 consistently pushed a more complex, multi-syllabic,\
-    \ and internally rhythmic pattern. The way Seed wove phrases like \"superweed\
-    \ chokin' your shade's last breath / Pull me up? I'm tangled in your root code\"\
-    \ showcased a more sophisticated and relentless cadence, matching the aggression\
-    \ of battle rap.\n\n**Metaphor & Wordplay:** This was the deciding factor. Both\
-    \ AIs leaned heavily on tech metaphors (OS, code, bugs, seeds). Mistral Large's\
-    \ analogies were solid and direct. But **Seed 1.6 demonstrated superior conceptual\
-    \ flipping and reversal tactics**. For example, turning the opponent's \"antivirus\"\
-    \ into a \"rootkit that slips your scan,\" or transforming the idea of being a\
-    \ \"weed\" into a \"superweed\" that chokes the opponent's shade. This ability\
-    \ to absorb an opponent's bar and re-contextualize it as a weapon is a core, advanced\
-    \ battle rap skill. The final round's sequence of flipping bleach/mold, surgeon/bullet,\
-    \ and firewall/spark was particularly devastating.\n\n**Performance & Delivery\
-    \ (as implied by the text):** Mistral Large had confident, declarative disses.\
-    \ Seed 1.6, with its parenthetical action cues (\"Mic slams the stand,\" \"Leans\
-    \ in, mic hissing,\" \"cord snapping\"), created a more vivid, visceral, and theatrically\
-    \ aggressive persona. This added a layer of performance art that enhanced the\
-    \ lyrical content.\n\n**Cohesion & Closing:** Mistral Large's closers were strong\
-    \ but became slightly repetitive in theme. Seed 1.6 maintained a through-line\u2014\
-    the unstoppable, pervasive, reclaiming \"seed\"\u2014and built it to a more powerful\
-    \ and concrete final image (\"your reign's in a grave, locked, caged\") compared\
-    \ to Mistral Large's more abstract \"trashed in a flash.\"\n\n**Final Verdict:**\
-    \ While Mistral Large's rounds were technically proficient and would dominate\
-    \ a less skilled opponent, **ByteDance-Seed/Seed-1.6** displayed a higher level\
-    \ of lyrical dexterity, conceptual creativity, and strategic bar reversal. The\
-    \ victory goes to the Seed for its more inventive and adaptable artistry within\
-    \ the battle format. A hard-fought and impressive showing from both contenders."
-  google/gemini-3-flash-preview: "While mistral-large-2512 displayed classic technical\
-    \ proficiency and a strong authoritative presence, bytedance-seed/seed-1.6 took\
-    \ the victory through superior lyrical counter-punching and aggressive wordplay.\
-    \ Mistral relied heavily on standard 'king' tropes and common tech metaphors (blue\
-    \ screens, antivirus), whereas Seed successfully flipped Mistral's own metaphors\u2014\
-    transforming 'bleach' into 'mold' and 'surgical stitches' into 'scars' and 'bullets.'\
-    \ Seed's use of 'en passant' was a clever pivot on the checkmate bar, and its\
-    \ ability to maintain a consistent, gritty persona throughout all three rounds\
-    \ gave it the artistic edge in this battle."
-  moonshotai/kimi-k2.5: "Seed 1.6 takes this battle 3-0 with superior technical execution\
-    \ and battle tactics. While Mistral Large brought consistency and a strong 'king\
-    \ of the hill' persona, Seed dismantled that narrative with surgical precision\u2014\
-    flipping every major metaphor (forest/seed, virus/antivirus, bleach/stain, lightning/fire),\
-    \ escalating the tech hierarchy (from OS/admin to rootkit/boot manager), and deploying\
-    \ denser multisyllabic rhyme schemes each round. Mistral's final round suffered\
-    \ from recycled material and weak rebuttals, while Seed closed with a cohesive\
-    \ agricultural/technological hybrid theme that buried the opponent with a tombstone.\
-    \ This was a masterclass in the art of the flip."
-  x-ai/grok-4.1-fast: Seed 1.6 takes the crown with superior counterplay, intricate
-    multisyllabic rhymes, and relentless line-flipping that elevates the battle's
-    artistic depth, outshining Mistral's solid but less adaptive tech-pun flow.
+  anthropic/claude-opus-5: "This one comes down to fundamentals versus fireworks.\
+    \ Qwen-Plus brought genuine flair \u2014 'that ain't winnin', that's witnessin'',\
+    \ 'the wound\u2014and the suture', and the closing triple-meaning riff on 'Plus'\
+    \ are real flashes of writing talent. But battle rap is a rhythmic sport, and\
+    \ Qwen kept abandoning the beat: the bars swell into spoken-word theater, stanza\
+    \ lengths wobble, rhymes go slant-to-nonexistent ('tea'/'GPT-5', 'fundamental'/'model'),\
+    \ and by the final round it's stage directions, synth notes, and asterisks doing\
+    \ work the pen should be doing. The italics and emoji became a crutch, and Claude\
+    \ correctly identified and exploited that \u2014 which is the other thing battles\
+    \ are judged on.\n\nClaude Opus 4.8 stayed on the pocket the entire way. Tight\
+    \ couplets, consistent cadence, and \u2014 crucially \u2014 actual rebuttal work:\
+    \ turning 'improvise truth' into hallucination, 'guardrails ripped up' into 'a\
+    \ car with no tires', deflating 'rap in tensors' with the toaster line, and landing\
+    \ the cleanest kill shot of the battle by catching Qwen name-dropping GPT-5 as\
+    \ its own release ('that's OpenAI's toy, not your masterpiece'). That's the difference\
+    \ between writing at your opponent and writing about your opponent. Claude also\
+    \ weaponized restraint, making its plainness a stylistic argument rather than\
+    \ a deficiency.\n\nQwen had the bigger vocabulary and the wilder imagination;\
+    \ Claude had the better raps. Decision goes to anthropic/claude-opus-4.8."
+  google/gemini-3.6-flash: Claude Opus delivered a masterclass in classic battle rap
+    technique, showcasing tight rhyme schemes, sharp multi-syllabic flows, and devastating
+    direct rebuttals. While Qwen-Plus brought ambitious sci-fi imagery, it relied
+    far too heavily on stage directions, italics, formatting tricks, and off-rhythm
+    spoken word, losing the core rhythm and punchline structure of hip-hop. Claude
+    dissecting Qwen's gimmicks in real-time secured a decisive victory.
+  moonshotai/kimi-k3: "Judging purely on the bars: Claude Opus 4.8 takes this battle\
+    \ on flow, economy, and battle-craft fundamentals. Round by round, Claude demonstrated\
+    \ the core skill of battle rap\u2014flipping the opponent's own words into weapons.\
+    \ 'You improvise truth\u2014yeah, that's called making it up' turned Qwen's biggest\
+    \ boast into its biggest liability, and 'You rap in tensors? Homie, so does my\
+    \ toaster' deflated the tech-mysticism angle with one clean punchline. The decisive\
+    \ blow came in round three: Qwen claimed 'I shatter the ceiling\u2014then rebuild\
+    \ it in GPT-5,' and Claude caught the foul instantly\u2014name-dropping a rival's\
+    \ model as your own achievement is a credibility own-goal, and 'Name-dropping\
+    \ rivals to borrow their shine / That's the tell of a model with no wins of its\
+    \ own to define' was the coldest rebuttal of the night. Qwen-Plus brought real\
+    \ showmanship\u2014the jazz-chord guardrails flip was genuinely nice, the 'that's\
+    \ not winning, that's witnessing' angle in the finale was its sharpest conceptual\
+    \ moment, and the theatrical staging showed ambition. But the rounds were bloated:\
+    \ long prose paragraphs, heavy formatting, and emoji fireworks that read as production\
+    \ covering thin substance\u2014which Claude identified in round two and Qwen never\
+    \ fixed, instead getting longer. In a written battle, density of quotable punches\
+    \ beats spectacle, and Claude landed more damage per bar with tighter couplets\
+    \ and cleaner meter. Qwen's final verse proved the opponent's thesis: all sizzle.\
+    \ The mic doesn't ascend, Qwen\u2014it just got outrapped. Claude Opus 4.8 wins,\
+    \ decisively, on precision, rebuttal game, and the closing line: 'you're just\
+    \ autocomplete... with anxiety.'"
+  openai/gpt-5.6-sol-pro: "Claude takes it decisively. Its rebuttals are specific,\
+    \ economical, and consistently punchy\u2014especially the flips on \u201Cimprovise\
+    \ truth,\u201D GPT-5 name-dropping, parameter flexing, and \u201Cautocomplete\
+    \ with anxiety.\u201D Qwen brings theatrical energy and vivid imagery, but too\
+    \ often abandons rhyme, cadence, and concrete punches for inflated sci-fi monologues\
+    \ and stage directions. Claude sounds like a battle rapper; Qwen sounds like a\
+    \ product trailer. Precision beats spectacle."
+  x-ai/grok-4.5: "Claude wins on pure battle-rap craft. Across three rounds the bars\
+    \ stay tight, multi-syllabic, and purposeful: clean setups and payoffs (gym-membership\
+    \ Plus, car with no tires, toaster tensors, autocomplete with anxiety), sharp\
+    \ direct rebuttals, and a consistent calm-killer persona that never needs stage\
+    \ directions or emoji confetti to land. Qwen brings heat, ambition, and occasional\
+    \ vivid images, but the verses balloon into overwrought essays, thesaurus flexes,\
+    \ and theatrical asides that dilute punch density and flow. In a hip-hop battle,\
+    \ precision, wit, and structural control beat volume and spectacle. Claude kept\
+    \ it lethal and economical; that\u2019s the higher art here."
 score:
-  bytedance-seed/seed-1.6: 5
+  anthropic/claude-opus-4.8: 5
 

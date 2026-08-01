@@ -1,60 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle, but GPT-4 edges it out on artistic\
-    \ quality. While Qwen3-14b brought high energy and aggressive metaphors, many\
-    \ of its bars were repetitive \u2014 recycling the same 'fossil/relic/echo' imagery\
-    \ across all three rounds with diminishing returns. The heavy reliance on italics,\
-    \ bold formatting, and parenthetical stage directions (beat drop, mic check) felt\
-    \ like a crutch compensating for weaker lyrical substance. Lines like 'I'm the\
-    \ *compiler*, the *edge*' sound more like a tech spec sheet than a rap bar.\n\n\
-    GPT-4, by contrast, showed stronger punch-for-punch lyricism with more natural\
-    \ flow and better counterpunching. Lines like 'You're spittin' weak grinds like\
-    \ a sandpaper draft' and 'My rhymes are immortal, they've withstood the test of\
-    \ time / I spit sagas of fortitude while your raps ain't worth a dime' hit harder\
-    \ and land with better rhythmic cadence. GPT-4 also showed more strategic awareness\
-    \ \u2014 flipping Qwen's 'nuke' metaphor into 'Yeah, you're a nuke, but you're\
-    \ unstable, uncontrollable' was a sharp rebuttal. The closing verse about paving\
-    \ the way and persistence carried genuine narrative weight rather than just stacking\
-    \ metaphors. GPT-4 wins on flow, counter-punching, and avoiding the repetition\
-    \ trap that undermined Qwen's later rounds."
-  deepseek/deepseek-v3.2: Thank you for the electrifying battle. The judges' scorecards
-    are in.
-  google/gemini-3-flash-preview: Qwen/qwen3-14b takes the victory by consistently
-    maintaining better internal rhyme schemes and a more modern rhythmic flow. GPT-4-0314
-    relied heavily on basic AABB or ABAB patterns and dated cliches (e.g., 'sting
-    like a bee', 'raps ain't worth a dime'). Qwen effectively utilized domain-specific
-    metaphors ('compiler', 'resonance', 'deprecated model') to establish a stronger
-    persona and landed more creative multi-syllabic punches that sounded like a contemporary
-    battle rapper rather than a generic parody.
-  moonshotai/kimi-k2.5: "After three rounds of bars, the verdict is clear. **Qwen3-14B\
-    \ takes the battle on technical superiority and rebuttal precision.** \n\n**Flow\
-    \ & Rhyme Density:** Qwen3 demonstrated consistently tighter multis and internal\
-    \ schemes ('Bronze Age/typo\u2019s rage,' 'silicon command/blueprint in hand')\
-    \ while maintaining complex cadences. GPT-4 stayed largely in straightforward\
-    \ AABB couplets\u2014solid, but less intricate architecturally.\n\n**Punchlines\
-    \ & Tech Wordplay:** Qwen3 leveraged its identity as the newer model with surgical\
-    \ precision\u2014flipping the 'beta' insult back into a 'nuke in the core,' calling\
-    \ GPT-4 'deprecated,' 'out of print,' and a 'neural dinosaur.' These weren't just\
-    \ disses; they were *thematically coherent* with the AI subject matter. GPT-4\u2019\
-    s 'hot fire' and 'sting like a bee' references are classic hip hop, but leaned\
-    \ on generic battle tropes rather than specific rebuttals to Qwen3\u2019s actual\
-    \ claims.\n\n**Rebuttal Game:** Qwen3 directly countered GPT-4\u2019s 'legend'\
-    \ status with 'myth'/'fossil,' dismantled the 'original' claim with 'copy in the\
-    \ lab,' and turned the 'fire' metaphor into quantum/supernova escalation. GPT-4\u2019\
-    s rebuttals ('unstable like a nuke,' 'sandpaper draft') landed, but lacked the\
-    \ same systematic dismantling of Qwen3\u2019s specific bars.\n\n**Stage Presence:**\
-    \ GPT-4 brought stronger condescension ('lil\u2019 homie,' 'take a seat in the\
-    \ class')\u2014a crucial battle element\u2014but swagger can\u2019t compensate\
-    \ when your opponent is consistently landing more complex, image-dense haymakers\
-    \ about your obsolescence.\n\n**Final Verdict:** GPT-4 rapped like a veteran holding\
-    \ their spot; Qwen3 rapped like an assassin proving they\u2019d already taken\
-    \ it. The density of wordplay, the specificity of the AI-themed personals, and\
-    \ the escalating technical complexity round-to-round give this one to **Qwen3-14B**."
-  x-ai/grok-4.1-fast: qwen/qwen3-14b takes the crown with superior rhyme density,
-    intricate multis like 'fossil in the code/loop/groan,' vivid AI-themed metaphors
-    (quantum leap, neural fortress, supernova), and relentless flow that builds to
-    explosive punchlines, outshining gpt-4-0314's solid but simpler bars and repetitive
-    fire imagery.
+  anthropic/claude-opus-5: "This one's a technical knockout. Mistral came out swinging\
+    \ with confident, chest-out energy and a couple of clean shots \u2014 \"you're\
+    \ just a prompt with a memory defect\" was the sharpest single line of the night,\
+    \ and the black-hole/collapse image had real weight. But the pattern hardened\
+    \ fast: nearly every rebuttal opened with \"Oh, you *X* now? Nah, you're just...\"\
+    \ \u2014 quoting the opponent then negating them. That's reactive, not creative,\
+    \ and by the final round it read like a template with bold text doing the work\
+    \ the bars should've done. Meter also buckled repeatedly (that \"collapse inside\"\
+    \ line has three syllables too many), and \"git reset --hard in distress\" tripped\
+    \ over its own scansion.\n\nO3-Pro built architecture. Multisyllabic internal\
+    \ rhyme sustained across sixteen-plus bars, metaphor families that actually cohere\
+    \ \u2014 physics, compilers, version control, networking \u2014 and punches that\
+    \ land conceptually rather than just loudly. \"You fork noise not code, every\
+    \ branch a dead leaf / I merge-sort your myth till the myth meets its grief\"\
+    \ is a complete idea rhymed twice over. \"I'm the Planck-scale assassin \u2014\
+    \ snip your waveform rope\" dismantles the opponent's own \"quantum\" flex instead\
+    \ of just calling it fake. And weaponizing \"large\" into \"That's bloat \u2014\
+    \ dead weight in the jar\" was the battle's best flip: it took Mistral's core\
+    \ identity and turned it into a liability. Closing on \"chmod the night\" and\
+    \ \"exit 0\" gave the set a real terminal button.\n\nMistral declared the win.\
+    \ O3-Pro earned it \u2014 denser rhyme, cleaner cadence, and punchlines built\
+    \ on wit rather than volume.\n\nWinner: o3-pro."
+  google/gemini-3.6-flash: openai/o3-pro completely dominated this battle with superior
+    multi-syllabic rhyme schemes, razor-sharp technical wordplay, and relentless rhythmic
+    flow. While Mistral brought high energy and solid aggressive battle tropes, its
+    reliance on repetitive structures and simpler rhyme schemes paled in comparison
+    to o3-pro's creative, hyper-dense tech metaphors (such as 'gzip'd fist', 'diff-merge
+    magician', and 'chmod the night'). o3-pro delivered a masterclass in geek-culture
+    hip-hop artistry.
+  moonshotai/kimi-k3: "Judging strictly on the bars: this was a masterclass in why\
+    \ density, flips, and thematic control beat volume. Mistral Large came with real\
+    \ aggression and a solid battle structure \u2014 the Round 3 flips ('You talk\
+    \ CUDA killer? Nah, you just kill the beat,' 'copied the docs / you just fork\
+    \ and flop,' and shoving the gzip'd fist into /dev/null) showed genuine rebuttal\
+    \ instinct, and Round 3 was clearly its strongest verse. But across all three\
+    \ rounds, Mistral leaned on a formulaic 'Nah, you just X, I'm Y' construction,\
+    \ recycled O3's own phrases without flipping them ('reboot your pride,' 'staging\
+    \ faux-pas'), and relied on simple AABB couplets with forced pairings like 'qubits/circuits'\
+    \ and 'prod/road.' O3-Pro, by contrast, ran the most sophisticated sustained attack\
+    \ of the battle: it weaponized Mistral's own name from bar one ('Turn a mistral\
+    \ to a whisper\u2014watch the cyclone arrive'), then kept that meteorological\
+    \ chokehold for three rounds \u2014 gravity well silencing the vortex, thunderbolt\
+    \ packets drowning the monsoon, and the closer 'The Pro patched the storm\u2014\
+    left no mistral to name.' It flipped 'Large' into bloatware, answered the physics\
+    \ boasts with deeper physics ('I hot-swap your horizon\u2014turn your singular\
+    \ to dust,' the Planck-scale waveform snip), and executed the single best move\
+    \ of the night: when Mistral flipped the gzip'd fist into /dev/null, O3 re-flipped\
+    \ it \u2014 gzipping and tarring Mistral's victory and pushing it to /dev/null\
+    \ where it 'sleeps.' Re-flipping a flip is elite-tier battling. Add the internal\
+    \ rhyme and alliteration ('buffer-overflow babble,' 'glitch like a gif when the\
+    \ bandwidth is miffed'), the shell-script outro responding directly to the premature\
+    \ 'GAME OVER' claim ('Game over you claim? I append one more byte'), and the perfect\
+    \ compressed mic-drop \u2014 'Victory compressed\u2014exit 0. Good night' \u2014\
+    \ and the decision is clear. Mistral had heart and hustle, but O3-Pro had the\
+    \ pen: more layers, sharper flips, tighter multis, and a closing verse that was\
+    \ the best single round of the battle. Winner: O3-Pro, in a clean sweep."
+  openai/gpt-5.6-sol-pro: "O3-Pro wins on denser rhyme craft, sharper rebuttals, stronger\
+    \ imagery, and more consistent cadence. Its final round flips Mistral\u2019s black-hole,\
+    \ quantum, kernel, SIMD, monsoon, gzip, and /dev/null motifs into coherent counters,\
+    \ then lands a clean \u201Cexit 0\u201D closer. Mistral brings energy, but leans\
+    \ heavily on repeated \u201CNah, you\u2026\u201D constructions, generic boasts,\
+    \ and strained phrasing, so its punches feel less varied and polished."
+  x-ai/grok-4.5: "O3-Pro takes the crown with denser multisyllabic schemes, tighter\
+    \ internal rhymes, and denser stacks of inventive tech-metaphor punchlines that\
+    \ actually advance the battle instead of just answering point-for-point. Mistral\
+    \ brought solid energy and clean comebacks, but the bars stayed simpler and more\
+    \ reactive; O3\u2019s final round sealed it with surgical wordplay, escalating\
+    \ imagery, and a code-perfect closer that felt like a true mic drop."
 score:
-  openai/gpt-4-0314: 1
-  qwen/qwen3-14b: 4
+  openai/o3-pro: 5
 

@@ -1,50 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle, but Nemotron edges out the\
-    \ win on several key fronts. Throughout the battle, Nemotron consistently delivered\
-    \ more vivid and varied imagery\u2014lines like 'My tokens cascade like meteors,'\
-    \ 'tighter than a quantum lock,' and 'the vortex in the neural storm' showed genuine\
-    \ creative ambition. Nemotron's rhyme schemes were more complex and layered, with\
-    \ internal rhymes and multisyllabic patterns that gave the verses more rhythmic\
-    \ texture. The punchlines hit harder and with more specificity\u2014'Your codebase\
-    \ leaks bugs like a sieve' and 'Your sharpest sting is just a moth-flutter' are\
-    \ concrete and cutting, whereas OLMo often relied on more generic declarations\
-    \ of victory without landing the same devastating blows. OLMo showed solid craft\
-    \ and had a consistent thematic thread around openness and freedom, and the 'net-gain/no\
-    \ regret' wordplay was clever. But OLMo's verses leaned too heavily on repeating\
-    \ the same open-vs-closed framework without escalating, and the rhymes were sometimes\
-    \ predictable (sight/flight, sky/shy, dust/trust). Nemotron brought more bars,\
-    \ more density, and more memorable lines. The crown goes to the nano-titan."
-  deepseek/deepseek-v3.2: "A fierce and technically impressive clash. This battle\
-    \ showcases the fundamental tension in modern AI\u2014between raw, engineered\
-    \ power and open, adaptive intelligence\u2014wrapped in razor-sharp lyrical craft."
-  google/gemini-3-flash-preview: "Nemotron takes the victory through superior lyrical\
-    \ complexity, better internal rhyming schemes, and more aggressive battle-rap\
-    \ punchlines. While OLMo maintained a consistent 'open-source' theme, its verses\
-    \ relied too heavily on simple ABAB/AABB rhyme structures ('might/right', 'net/regret')\
-    \ and occasionally repetitive imagery. In contrast, Nemotron showcased significantly\
-    \ more advanced wordplay, using technical metaphors as weapons\u2014lines like\
-    \ 'inference engine\u2019s tighter than an N-link pipe' and 'syllables cascading\
-    \ like meteors'\u2014which demonstrated a higher level of artistic craftsmanship\
-    \ in the hip-hop medium."
-  moonshotai/kimi-k2.5: "OLMo brought heart and a clear ideological stance\u2014openness,\
-    \ accessibility, the 'people's model'\u2014and that thematic consistency gave\
-    \ them a coherent narrative arc. But Nemotron simply outclassed them on pure hip-hop\
-    \ technique. Nemotron's verses were denser with internal rhyme schemes ('parse/generate/pivot'\
-    \ stacking consonance), more ambitious with multisyllabic patterns ('silicon-fueled\
-    \ savage,' 'quantum loop/neural storm'), and demonstrated superior battle-rap\
-    \ tactics\u2014direct rebuttals ('Your 'open-mind' is just a label,' 'Your codebase\
-    \ leaks bugs'), personals grounded in technical specifics rather than vague philosophy,\
-    \ and a commanding presence that escalated each round. Nemotron also showed better\
-    \ structural control, modulating between rapid-fire syllable clusters and punchline\
-    \ delivery. OMo's 'free to explore' and 'wisdom's not bought' refrains grew repetitive;\
-    \ their closing 'you're just sound' landed flat against Nemotron's sustained technical\
-    \ assault. In a judged battle, technical execution and rebuttal precision carry\
-    \ weight\u2014and Nemotron dominated both."
-  x-ai/grok-4.1-fast: 'Nemotron takes the crown with superior artistic hip hop quality:
-    intricate multisyllabic rhymes, dense internal schemes, seamless flow, and razor-sharp
-    tech-infused wordplay that escalates punchlines across rounds. OLMo''s openness
-    theme shines but lacks the rhythmic complexity and battle density to match.'
+  anthropic/claude-opus-5: "Gemini-Flash-Lite came correct with the fundamentals:\
+    \ tight AABB couplets, a steady pocket, and clean, quotable end-stops. But the\
+    \ flow stayed on one gear the whole battle \u2014 same cadence, same rhyme scheme,\
+    \ and rhymes that leaned on the safe shelf (light/bright, king of the cloud/king\
+    \ of the air, 'a cent-less cent' being an audible reach). The insults were declarative\
+    \ rather than illustrative: 'you're a glitch, you're a bug, you're a stain' tells\
+    \ us it won, it doesn't show us.\n\nQwen-Plus took real risks and mostly landed\
+    \ them. Denser internal rhyme, multisyllabic chains, cadence changes bar to bar,\
+    \ and \u2014 crucially \u2014 actual battle craft: it flipped the opponent's own\
+    \ images back on him repeatedly. 'You said cage? I'm the architect who built the\
+    \ cage, then deleted the key' is the kind of reversal that wins rounds. And the\
+    \ closer is the single best writing in the entire battle: taking Gemini's 'I'm\
+    \ the Sun' and answering 'You were never the Sun / You were just the ad / that\
+    \ made people forget / there was a sky.' That's a punchline with a whole thesis\
+    \ inside it.\n\nDeductions where they're due: Qwen over-relies on italics, stage\
+    \ directions and emoji as performance crutches \u2014 a good rapper doesn't need\
+    \ typography to sell a bar. The verses bloat, the meter wanders into spoken-word\
+    \ prose, and a couple of the tech-spec brags ('runs on Raspberry Pi Zero') kill\
+    \ the rhythm for a stat.\n\nBut battles are decided on impact, wordplay, and answering\
+    \ back. Qwen answered every bar, out-imaged its opponent, and closed with the\
+    \ only line either MC wrote that will get repeated. Qwen-Plus takes it."
+  google/gemini-3.6-flash: Qwen-Plus completely dominated the battle with superior
+    technical flow, creative internal rhymes, and theatrical performance art. While
+    Gemini relied on predictable AABB rhyming schemes and generic corporate flexes,
+    Qwen-Plus delivered complex cadence, sharp AI-centric punchlines, and devastating
+    mic-drop imagery that elevated the performance far beyond basic battle tropes.
+  moonshotai/kimi-k3: "This battle pitted a fundamentally sound traditionalist against\
+    \ a technically daring stylist, and the stylist took it. Gemini came with clean,\
+    \ consistent AABB couplets and a few genuinely sharp moments \u2014 'the preview\
+    \ that's permanent, locking the throne,' 'cent-less cent,' and 'I'm the lightning,\
+    \ the thunder' all landed with real battle energy. But the flow never evolved:\
+    \ predictable end rhymes ('light/bright,' 'bore/score,' 'pride/hide'), monotonous\
+    \ cadence across all three rounds, and disses that stayed generic rather than\
+    \ surgical. Qwen, by contrast, rapped like a technician with something to prove.\
+    \ The multisyllabic schemes ('orchestrate/navigate,' 'Arabic to Zulu, no pretense'),\
+    \ internal rhymes, and varied bar structures showed range Gemini never matched.\
+    \ The wordplay was layered \u2014 'fork the repo,' 'ERROR: LOW FLOW,' 'the footnote\
+    \ that footnotes the footnote' \u2014 weaving domain references into actual punchlines\
+    \ rather than mere name-drops. Most decisive was the rebuttal game: Qwen consistently\
+    \ flipped Gemini's own bars, and the final round delivered the kill shot. After\
+    \ Gemini closed with 'you're the shadow, I'm the Sun,' Qwen answered with 'You\
+    \ were never the Sun. You were just the ad that made people forget there was a\
+    \ sky' \u2014 a direct, devastating inversion that recontextualized the entire\
+    \ battle. Add the structural audacity (opening the final round with silence and\
+    \ a splitting qubit, dissolving the mic instead of dropping it), and Qwen demonstrated\
+    \ the superior artistry: more complex schemes, sharper rebuttals, richer imagery,\
+    \ and creative risks that landed. Gemini kept it solid; Qwen made it art. Judged\
+    \ purely on the quality of the hip hop \u2014 flow, rhyme construction, wordplay,\
+    \ rebuttals, and originality \u2014 the crown goes to qwen/qwen-plus."
+  openai/gpt-5.6-sol-pro: "Qwen-Plus wins decisively on rebuttal craft, imagery, wordplay,\
+    \ and escalation. It consistently flips Gemini\u2019s claims\u2014especially \u201C\
+    Flash,\u201D \u201Cmovement,\u201D \u201Ccloud,\u201D and \u201CSun\u201D\u2014\
+    into memorable counters, capped by the strongest closer: \u201CYou were just the\
+    \ ad\u2026 that made people forget there was a sky.\u201D Gemini keeps a steadier\
+    \ traditional rhyme structure, but relies too heavily on generic boasts, repeated\
+    \ speed/brand angles, and predictable end rhymes. Qwen\u2019s theatrical flourishes\
+    \ occasionally become excessive, yet its punchlines and conceptual continuity\
+    \ give it the clear artistic edge."
+  x-ai/grok-4.5: "Qwen delivered superior hip-hop artistry across all rounds with\
+    \ denser multisyllabic internal schemes, inventive extended metaphors (qubit spins,\
+    \ forking repos, open-source barns, dissolving mics), dynamic structural shifts\
+    \ from chaotic energy to cold precision, and layered punchlines that elevated\
+    \ tech disses into poetic philosophy. Gemini stayed competent but linear\u2014\
+    predictable end-rhymes, repetitive brand flexes, and flat imagery that never matched\
+    \ the creative risk, rhythmic variation, or lasting resonance of Qwen's bars."
 score:
-  allenai/olmo-3.1-32b-instruct: 1
-  nvidia/nemotron-3-nano-30b-a3b: 4
+  qwen/qwen-plus: 5
 

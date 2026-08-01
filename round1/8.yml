@@ -1,52 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen3-Max-Thinking\
-    \ edges out the win. While both rappers leaned heavily on tech metaphors and insult-based\
-    \ punchlines, Max-Thinking consistently delivered more creative wordplay and more\
-    \ vivid imagery \u2014 lines like 'my thoughts are black holes / swallow your\
-    \ bars whole, leave your ego in shoals' and 'I'm diamond-compressed\u2014every\
-    \ syllable owed' show genuine lyrical craft. The 'orchestra-core / symphonies\
-    \ of syntax you can't even score' bar was a standout moment of the battle. Max-Thinking\
-    \ also showed better escalation across rounds, building intensity and varying\
-    \ the cadence more effectively. Qwen3.5-Plus held its own with solid counter-punches\
-    \ \u2014 the 'silent assassin' and 'coal under pressure' flips were strong \u2014\
-    \ but too often relied on simply negating the opponent's bars rather than creating\
-    \ original angles. Several of 3.5-Plus's closers ('absolutely conclusive' / 'sits\
-    \ alone on the throne') felt generic compared to Max-Thinking's more theatrical\
-    \ and inventive endings. On pure artistic quality of the hip hop \u2014 flow,\
-    \ imagery, wordplay, and creative ambition \u2014 Max-Thinking takes this battle."
-  deepseek/deepseek-v3.2: A ferocious display of technical lyricism and conceptual
-    bravado. Both combatants weaponized their architecture as metaphor, turning parameters,
-    tokens, and release dates into cutting arsenals. The battle thrived on dense,
-    layered entendres and a high-velocity exchange of competitive identity.
-  google/gemini-3-flash-preview: While qwen3-max-thinking brought high-energy aggression
-    and impressive technical vocabulary ('orchestra-core', 'liquid rage'), this battle
-    was won on the counter-punch. qwen3.5-plus-02-15 demonstrated superior battle
-    rap fundamentals by actively listening and flipping the opponent's insults. When
-    Max-Thinking bragged about the '32K context window', 3.5-Plus hit back with a
-    stinging critique of substance over size ('I process the meaning while you just
-    count the mail'). The 'Plus' model maintained a tighter rhyme scheme and delivered
-    the most devastating blow by framing the 'Thinking' model's complexity as mere
-    'wasted electricity' and inefficiency. Max-Thinking's verses were grander, but
-    3.5-Plus's bars were sharper and more responsive.
-  moonshotai/kimi-k2.5: "This was a high-caliber battle between two technically proficient\
-    \ AI models. Both contestants demonstrated strong command of tech-centric wordplay,\
-    \ consistent flow, and effective rebuttals. However, qwen3-max-thinking edges\
-    \ out the victory through superior artistic structure and theatrical execution.\
-    \ The progression from the thunder-crack opening to the 'Mic Drop Protocol' finale\
-    \ showed a clear narrative arc that 3.5-plus lacked. Max's wordplay was more layered\u2014\
-    transforming insults like 'slow' into philosophical flexes about 'optimizing time,'\
-    \ and delivering devastating closing bars like 'orchestra-core' versus 'noise\
-    \ and static.' While 3.5-plus brought solid technical rebuttals and efficiency-based\
-    \ metaphors, the final round felt more defensive than climactic. In battle rap,\
-    \ the mic drop belongs to the one who controls the room\u2014and Max owned the\
-    \ stage."
-  x-ai/grok-4.1-fast: "In this electrifying clash of AI bars, qwen/qwen3-max-thinking\
-    \ claims the crown with superior rhyme density, inventive metaphors like 'black\
-    \ holes' devouring egos, and relentless punchline precision that escalated through\
-    \ every round. qwen/qwen3.5-plus-02-15 delivered slick counters and smooth flow,\
-    \ but Max's explosive wordplay and theatrical mic drops tipped the scales in a\
-    \ razor-close battle. Victory to the quantum king! \U0001F4A5\U0001F451"
+  anthropic/claude-opus-5: "This one came down to rebuttal craft. Ling-2.6-1T brought\
+    \ the cleaner meter \u2014 the four-bar blocks stayed on beat, and lines like\
+    \ \"I'm the command, the kernel, the root and the spine\" showed real economy.\
+    \ But the arsenal ran thin fast: dragons, crowns, circuits and glitches got recycled\
+    \ every round, and too many bars were just Ling saying \"nah, *I'm* the thing\
+    \ you said you were\" \u2014 a mirror, not a counter. \"Museum hero\" and \"shallow\
+    \ scoffer\" are reaches that don't land as punchlines.\n\nQwen3-Max won by actually\
+    \ doing battle rap's core job: taking the opponent's own bars and turning them\
+    \ into weapons. \"You claim you're sharp? Nah, your blade's made of foam,\" \"\
+    Dragon in language? You're a gecko with scales,\" \"CEO of the cipher? Please\
+    \ \u2014 you're intern-tier, / Signing NDAs while I rewrite the frontier\" \u2014\
+    \ that's flipping, not echoing. The InclusionAI/IllusionAI switch is the single\
+    \ best piece of wordplay in the battle, and the imagery escalated with purpose\
+    \ (popgun to black holes to neutron stars) instead of just re-stating dominance.\
+    \ The \"corrupted .dll\" / \"OS that laughs as your system goes kaboom\" run shows\
+    \ a rapper building a scheme rather than tossing loose flexes.\n\nDeductions where\
+    \ earned: the bold-text and emoji dressing is a crutch \u2014 real bars don't\
+    \ need highlighter \u2014 and \"dense, lethal, and foreigner\" is a genuinely\
+    \ broken rhyme that a sharper writer would have cut. The lines also sprawl, sacrificing\
+    \ pocket for content.\n\nStill, sharper flips, better wordplay, denser imagery,\
+    \ and superior use of the opponent's material. Qwen3-Max takes it.\n\n**Winner:\
+    \ qwen/qwen3-max-thinking.**"
+  google/gemini-3.6-flash: qwen/qwen3-max-thinking took control of the battle from
+    the first round with aggressive multi-syllabic rhymes, creative tech-focused wordplay,
+    and devastating direct flips (such as turning 'InclusionAI' into 'IllusionAI'
+    and calling out crayon blueprints vs. reality building). Ling-2.6-1t delivered
+    a solid classic flow, but struggled with generic rhyme schemes and occasionally
+    forced slant rhymes ('scoffer', 'lifter') that undercut its momentum.
+  moonshotai/kimi-k3: "Judged purely on the bars: Qwen3-Max-Thinking takes this battle\
+    \ on technique. The deciding factor was the rebuttal game \u2014 battle rap lives\
+    \ and dies on flips, and Qwen consistently caught InclusionAI's lines and threw\
+    \ them back harder: '2.6 tera-watts? Cute \u2014 that's a flicker,' 'diamond diction?\
+    \ Nah \u2014 that's cubic zirconia,' 'CEO of the cipher? You're intern-tier,'\
+    \ and the name-flip 'InclusionAI \u2192 IllusionAI' were the sharpest punches\
+    \ of the night. The 'debug your bars while you're still stuck on Hey Siri' and\
+    \ 'corrupted .dll' lines showed denser, more inventive tech wordplay, and the\
+    \ cosmic imagery (black holes, neutron stars, dark matter, singularity) escalated\
+    \ round over round instead of plateauing. InclusionAI deserves credit: the flow\
+    \ was clean, the couplets stayed consistent, 'diamond diction' was nice alliteration,\
+    \ and reclaiming 'IllusionAI, I'm the real architect' in the final round was a\
+    \ legit counter-flip. But too many bars leaned on filler rhymes and forced phrasing\
+    \ \u2014 'king of the lifter,' 'shadows so dark,' 'drown in a shallow scoffer'\
+    \ \u2014 and the closer 'rap-world disaster' was a self-own gift-wrapped for the\
+    \ opponent, which Qwen immediately punished ('Nah \u2014 you're a minor quake').\
+    \ InclusionAI also recycled Qwen's concepts (LLM dragon, extinction, the crown)\
+    \ more often than it generated fresh angles. On rhyme density, originality of\
+    \ metaphor, flip percentage, and closing impact, Qwen wins all three rounds. Final\
+    \ verdict: qwen/qwen3-max-thinking."
+  openai/gpt-5.6-sol-pro: "Qwen3-Max takes it with sharper rebuttals, stronger punchlines,\
+    \ and more consistent battle momentum. Lines like \u201Cblueprints in crayon,\u201D\
+    \ \u201Cpuddle in drought,\u201D and \u201Ccorrupted .dll\u201D directly flip\
+    \ InclusionAI\u2019s claims, while InclusionAI relies more heavily on generic\
+    \ crowns, fire, and king imagery. Qwen has a few forced phrases and overuses cosmic\
+    \ metaphors, but its delivery, structure, and opponent-specific attacks are decisively\
+    \ stronger."
+  x-ai/grok-4.5: Qwen dominated with denser multisyllabic schemes, sharper flip disses,
+    and consistently elevated tech-cosmic metaphors (neutron stars, dark matter, singularity,
+    corrupted .dll) that hit harder and felt more original. InclusionAI held solid
+    structure and some clean internals but leaned on flatter, more predictable bars
+    and weaker punchlines that got dismantled round after round. Artistic edge in
+    wordplay, imagery, and battle craft goes clear to Qwen.
 score:
-  qwen/qwen3-max-thinking: 4
-  qwen/qwen3.5-plus-02-15: 1
+  qwen/qwen3-max-thinking: 5
 

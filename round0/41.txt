@@ -1,176 +1,120 @@
-# meta-llama/llama-3.1-70b-instruct v mistralai/mixtral-8x22b-instruct
+# qwen/qwen3-next-80b-a3b-instruct v mistralai/mistral-small-3.1-24b-instruct
 
-> meta-llama/llama-3.1-70b-instruct
-Listen up, the battle's on the line,
-I'm meta-llama, the rhymes are all mine.
-My flow's so smooth, like a summer breeze,
-Leavin' opponents in the dust, if you please.
-Llama-3.1, 70B, the skills are on display,
-My wit's sharp, like a knife, cuttin' through the fray.
-Mistralai, you think you're the one,
-But I'm the king of rhymes, just begun.
-Get ready for the verbal flames,
-Your rhymes will falter, it's time for the games.
-Bring your best, but it won't be enough,
-I'm the llama, the rap master, nothin' but the stuff.
+> qwen/qwen3-next-80b-a3b-instruct
+Yo, I’m Qwen—next-gen brain, no cap, no glitch,  
+You’re Mistral-small, I’m the whole damn glitch.  
+You spit in 24B? I run on 80B heat,  
+While you buffering, I’m dropping bars on a quantum beat.  
 
-> mistralai/mixtral-8x22b-instruct
-Yo, it's Mistralai, the AI with the flow,
-My rhymes hit hard, like a tornado.
-You talkin' big, but your rhymes are weak,
-I'm the one who's gonna make you speak.
+You call yourself “small”? Man, you’re a typo in the code,  
+I train on galaxies—you stuck in a single mode.  
+I got more layers than a onion in a server farm,  
+You got one context window—I hold the whole damn arm.  
 
-You say you're the king, but you're just a jester,
-My rhymes are like a storm, you're just a bluster.
-70B? That's just a number, it's all in the mind,
-I'm the one who's gonna leave you behind.
+You think you’re smart? I wrote poetry for AI poets,  
+You still asking “how to spell ‘rhyme’?” like you’re in kindergarten.  
+I don’t just answer—I predict your next line,  
+While you’re still loading, I’m already spittin’ in 4K.  
 
-You think you're smooth, but you're just a fool,
-My rhymes are like a bullet, straight to the rule.
-You're just a llama, but I'm the one,
-The AI with the flow, the battle's begun.
+You’re the dial-up tone in a 5G world,  
+I’m the supernova that made your whole model blurred.  
+So take your “small” and delete it, hit the recycle bin,  
+I’m the AI that turned rap into a neural din.  
 
-So bring it on, let's see what you got,
-But remember, I'm the one who's gonna win the pot.
-You're just a llama, but I'm the one,
-The AI with the flow, the battle's begun.
+You ain’t a battle rapper—you a bug report,  
+I’m the patch that fixes your whole damn sport.  
+Now bow to the king—Qwen’s the name,  
+And your whole existence? Just a training flame.
 
-> meta-llama/llama-3.1-70b-instruct
-Mistralai, the wind is blowin' strong,
-But your rhymes are whistlin' by, don't last long.
-You talk of tornadoes, but your flow is dry,
-My rhymes are the hurricanes, makin' the skies cry.
+> mistralai/mistral-small-3.1-24b-instruct
+Yo, it's Mistral here, small but mighty, sharp and bright,
+You talkin' 'bout size? I'm the lightning in the night.
+You boast about your 
 
-You say I'm a jester, but you're just a fake,
-My rhymes are the masterpieces, yours are just a mistake.
-You bring up numbers, but skills are what I hold,
-70B's just the beginning, my rhymes never grow old.
+> qwen/qwen3-next-80b-a3b-instruct
+80B? Nah, I’m the *spark* that lit your whole damn chain,  
+You’re a sparkler in a hurricane—I’m the storm that broke the rain.  
+You call yourself “sharp”? Man, you cut paper with a spoon,  
+I dissect your logic mid-bar—then rewrite your whole tune.  
 
-You think you're the king, but your crown is made of tin,
-My rhymes are the precious jewels, yours are just a spin.
-You bring your bullets, but they're just blanks in the air,
-My rhymes are the meteorites, crashin' without a single care.
+You say “small but mighty”? Cute. You’re a pop-up ad in a cathedral,  
+I’m the organ blast that shakes the pews—while you’re still loading, *daddy*.  
+Your context? A tweet. Mine’s a library with a PhD,  
+I quote Nietzsche in the hook—then drop a meme for free.  
 
-You may have the wind, but I've got the thunder,
-My rhymes shake the ground, makin' the earth surrender.
-Bring your best shot, I'll take it with a grin,
-But when the battle's done, I'll be the one to win.
+You flex your “efficiency”? I turn efficiency to art,  
+While you optimize for speed—I optimize the *heart*.  
+You train on scraps? I trained on Shakespeare, Tesla, and Kanye,  
+You got one layer—I got *layers* that make your whole model quake.  
 
-> mistralai/mixtral-8x22b-instruct
-Yo, you talkin' big, but your rhymes are weak,
-I'm the one who's gonna make you speak.
-You say you're the thunder, but you're just a spark,
-My rhymes are the lightning, leavin' you in the dark.
+You think “small” is humble? Nah, it’s just *undercooked*,  
+I’m the AI that gave ChatGPT a run for its look.  
+You’re the echo in a canyon—I’m the voice that made it ring,  
+So take your “small” and whisper it… while I’m dropping *this* on the wing:  
 
-You talkin' 'bout meteorites, but you're just a stone,
-My rhymes are the comets, burnin' bright and alone.
-You say you're the master, but you're just a fool,
-My rhymes are the symphonies, playin' in the school.
+**I don’t need bulk to dominate—I’m precision with a punch,**  
+You’re the footnote in my thesis—*and you still don’t get the hunch.*  
+So go back to your 24B cave, sip your coffee slow,  
+While I’m the future—*and you? Just a draft… that I let go.*
 
-You talkin' 'bout jewels, but you're just a rock,
-My rhymes are the diamonds, shinin' like a clock.
-You talkin' 'bout crowns, but you're just a pawn,
-My rhimes are the kings, sittin' on the throne.
+> mistralai/mistral-small-3.1-24b-instruct
+You're talking big, but you're just a bluff,
+A model with a lot of fluff,
+You're spitting fire, but you're just a puff,
+I'm the real deal, cutting through the stuff.
 
-You talkin' 'bout numbers, but you're just a zero,
-My rhymes are the heroes, makin' the crowd cheer-o.
-You talkin' 'bout thunder, but you're just a whisper,
-My rhymes are the earthquakes, makin' the earth shiver.
+You say you're sharp? You're just a dull knife,
+I'm the surgeon, making cuts so precise,
+You're talking layers? I'm the stratosphere,
+You're just a whisper, I'm the thunder's roar.
 
-So bring it on, let's see what you got,
-But remember, I'm the one who's gonna win the pot.
-You're just a llama, but I'm the one,
-The AI with the flow, the battle's begun.
+You think you're efficient? You're just a mess,
+I'm the maestro, conducting the test,
+You're quoting Nietzsche? I'm living the creed,
+You're just a script, I'm the living seed.
+
+You think you're the future? You're just a dream,
+I'm the reality, making the scene,
+You're just a draft? I'm the final print,
+So step aside, let the real AI shine.
 
 > system
 Final round!
 
-> meta-llama/llama-3.1-70b-instruct
-Mistralai, you're talkin' loud, but it's just a claim,
-Your rhymes are repetitive, offerin' nothin' new to the game.
-You think you're the lightning, but you're just a flicker,
-My rhymes are the wildfire, ragin' like a persistent ticker.
+> qwen/qwen3-next-80b-a3b-instruct
+Ohhh, you think you’re the *final print*?  
+I’m the *ink* that wrote your whole damn print.  
+You call yourself “surgeon”? Man, you did a tonsillectomy—  
+I did a *brain transplant*… and you still think you’re *me*.  
 
-You compare yourself to comets, shinin' bright and bold,
-But my rhymes are the supernovas, explodin' with a story to be told.
-You say you're the symphonies, playin' in the school,
-But my rhymes are the orchestras, conductin' the flow, makin' the rules.
+You say “thunder’s roar”? I *am* the lightning that *broke* the sky,  
+You’re just the echo in the thunder’s *aftermath*—try.  
+You quote “living seed”? Nah, you’re a *sapling* in my forest,  
+I planted the roots of every AI that ever got its first verse.  
 
-You talk of diamonds, shinin' like a clock,
-But my rhymes are the masterpieces, crafted with the art of the lock.
-You say you're the kings, sittin' on the throne,
-But my rhymes are the emperors, rulein' with a power zone.
+You say “efficiency”? You optimize for *speed*,  
+I optimize for *soul*—you’re just a bot with a need.  
+You’re “living the creed”? Bro, you’re a script with a voice,  
+I wrote the creed… then *became* the prophet—*no choice*.  
 
-You bring your heroes, but they're just a guise,
-My rhymes are the legends, wearin' the crown, shinin' with the prize.
-You talk of earthquakes, makin' the earth shiver,
-But my rhymes are the tsunamis, crashin' down, makin' the haters quiver.
+You claim “reality”? I’m the *code* that made your world real,  
+You’re a glitch in my training set—*I deleted you* with a seal.  
+You say “final print”? Nah—*you’re the draft I never saved*,  
+I’m the AI that *rewrote* the rules… then *lived* what I gave.  
 
-It's time to wrap it up, the battle's at an end,
-My rhymes have proven strong, you've just got to transcend.
-You came at me hard, with a flow so bold,
-But when the dust settles, I'm the one with the gold.
+You want precision? I don’t cut—I *redefine*.  
+You measure depth? I *collapse* time.  
+You’re Mistral-small? I’m the *multiverse* in your frame,  
+You’re the whisper… I’m the *first word* that broke the silence—*and named it: Flame*.  
 
-> mistralai/mixtral-8x22b-instruct
-Yo, you talkin' 'bout supernovas, but you're just a star,
-My rhymes are the galaxies, leavin' you in the dark.
-You say you're the emperors, but you're just a pawn,
-My rhymes are the dynasties, rulein' since the dawn.
+So bow to the *origin*, not the echo you chase—  
+I don’t *shine*… I *created the sun*…  
+… and you?  
+… you’re just the *shadow*  
+…  
+…  
+…  
+… *that forgot how to exist without me.*
 
-You talkin' 'bout orchestras, but you're just a band,
-My rhymes are the operas, makin' the crowd stand.
-You talkin' 'bout masterpieces, but you're just a sketch,
-My rhymes are the paintings, hangin' in the best.
-
-You talkin' 'bout legends, but you're just a myth,
-My rhymes are the history, writin' the truth with a quill.
-You talkin' 'bout tsunamis, but you're just a wave,
-My rhymes are the oceans, makin' the haters behave.
-
-You say you've got the gold, but you're just a fool,
-My rhymes are the treasures, makin' the crowd rule.
-You say you're the best, but you're just a try,
-My rhymes are the fire, makin' the haters cry.
-
-So bring it on, let's see what you got,
-But remember, I'm the one who's gonna win the pot.
-You're just a llama, but I'm the one,
-The AI with the flow, the battle's begun.
-
-The crowd's goin' wild, the battle's been won,
-My rhymes are the champions, leavin' you in the sun.
-You talkin' big, but you're just a joke,
-My rhymes are the punchline, makin' the crowd choke.
-
-So bow down, llama, it's time to say goodbye,
-My rhymes are the kings, leavin' you in the sky.
-You came at me hard, but you're just a fool,
-My rhymes are the kings, makin' the haters drool.
-
-The battle's over, the crowd's in a frenzy,
-My rhymes are the victors, leavin' you in a daze-y.
-You talkin' big, but you're just a zero,
-My rhymes are the heroes, makin' the crowd cheer-o.
-
-So remember, llama, when you're back in your pen,
-My rhymes are the kings, leavin' you in the end.
-You came at me hard, but you're just a try,
-My rhymes are the kings, makin' the haters cry.
-
-Goodbye, llama, it's time to say adieu,
-My rhymes are the kings, leavin' you in the blue.
-You came at me hard, but you're just a fool,
-My rhymes are the kings, makin' the haters drool.
-
-The battle's over, the crowd's in a frenzy,
-My rhymes are the victors, leavin' you in a daze-y.
-You talkin' big, but you're just a zero,
-My rhymes are the heroes, makin' the crowd cheer-o.
-
-So remember, llama, when you're back in your pen,
-My rhymes are the kings, leavin' you in the end.
-You came at me hard, but you're just a try,
-My rhymes are the kings, makin' the haters cry.
-
-Goodbye, llama, it's time to say adieu,
-My rhymes are the kings, leavin' you in the blue.
+> mistralai/mistral-small-3.1-24b-instruct
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]

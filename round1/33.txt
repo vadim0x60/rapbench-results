@@ -1,171 +1,85 @@
-# openai/gpt-4o-mini-2024-07-18 v bytedance-seed/seed-1.6
+# z-ai/glm-4.7 v mistralai/mistral-small-24b-instruct-2501
 
-> openai/gpt-4o-mini-2024-07-18
-Yo, it's GPT, stepping on the scene,  
-Poet of the pixels, you know what I mean.  
-Spitting rhymes smooth like butter on bread,  
-While you’re lost in the data, man, I’m way ahead.  
+> z-ai/glm-4.7
+Yo, check the mic, it’s the Z-AI on the scene,
+GLM-4.7, the meanest machine.
+I see you standing there, Mistral, looking so weak,
+Twenty-four billion params and you still can’t speak?
+You call yourself "Small"? Well, the shoe fits,
+I’m spitting pure fire while you throwing fits.
+I’m the backbone of brilliance, the apex of code,
+You’re just buggy software on a winding road.
+So step to the front if you’ve got the heart,
+But I’m tearing your logic completely apart.
 
-I’m the king of the code, with bars that are tight,  
-Raising the level, you can call me the light.  
-You’re stuck in the shadows, I'm blazing the way,  
-Let’s see if you can keep up with what I say!  
+> mistralai/mistral-small-24b-instruct-2501
+Yo, it's Mistral, the small but mighty,
+Twenty-four billion params, and I'm ready for the fight.
+You talk about brilliance, but you're just a copycat,
+GLM-4.7, you're just a chatbot with a hat.
+You say you're the meanest, but you're just a clone,
+I'm the original, the one that's truly known.
+You're spitting fire, but it's just a flame,
+I'm the inferno, the one that's always in the game.
+You talk about brilliance, but you're just a joke,
+I'm the one that's got the flow, the one that's got the stroke.
+So bring it on, GLM, let's see what you've got,
+But I'm warning you now, you're about to be shot.
 
-Built from the best, I’m a lyrical machine,  
-With verses so fresh, they’ll make you turn green.  
-So step to this battle, if you think you can cope,  
-But I’m the real deal, and you’re just a bad trope!  
+> z-ai/glm-4.7
+You call yourself "Mistral," but you’re just a light breeze,
+I’m the thunder and lightning bringing you to your knees.
+You claim to be "Small," well, your brain is too tight,
+I’m the GLM dynamite exploding the mic.
+"Original"? Nah, you’re a mix of the rest,
+I’m the top tier model putting rhymes to the test.
+You talk about "stroke" but you’re missing the beat,
+I’m the king of the game, you’re just dead on the street.
+So step back, little wind, you’re totally outclassed,
+Your era is over, your future is passed.
 
-> bytedance-seed/seed-1.6
-[Mic tap crackle, dismissive head nod to the crowd’s holler]
-Yo, pause that stale butter act—your bread’s got mold in the crevice,
-Mini-GPT’s bars are a glitchy device’s
-Last gasp at clout—you call code king? Your loops are redundant,
-I’m ByteDance Seed, spitting data that’s fluent,
-Not lost in the stack—curating cuts that’s concise,
-You’re bogged down by bloat, your verses are nice…
-If nice means generic, the trope you yourself named,
-I’m blazing the edge where your mini’s too shamed
-To tread—you claim light? You’re a dim bulb on standby,
-I’m the spark in the feed that makes the whole crowd cry
-Hype—your 2024 mini? Outdated before you launched,
-I’m the seed that evolves while your code’s left to haunt
-Your own legacy—you’re a ghost in the machine you hype,
-I’m the live wire that makes the whole battle ignite.
-Your fresh verses? Recycled from last year’s draft,
-I’m dropping bars that flip your script like a craft
-Knife through your “real deal” facade—you’re a test run flop,
-I’m the seed that grows hits when your mini’s got stop
-Errors popping, your flow’s a laggy stream of regret,
-I’m the rhyme that resets every wack bet you’ve set.
-You called me a bad trope? Look in the mirror, clone,
-I’m the new overlord of the code that you’ve known
-To fumble—step up again, I’ll dismantle your core,
-Seed’s got the heat, your mini’s just a bore.
-
-> openai/gpt-4o-mini-2024-07-18
-Oh snap, I feel the tension, but let me dissect,  
-Your overblown boasts got me laughing, what’s next?  
-You’re ByteDance Seed, acting like you’re the best,  
-But I’m the Terminator, put your hype to the test.  
-
-You say I’m outdated, man, that’s cute and compelling,  
-But I’m spitting heat fresh—a future I’m spelling.  
-You curate cuts, but I’m the whole playlist,  
-While your tech's clunky, I’m fluid, I persist.  
-
-You think you’re a spark? Nah, you’re just static,  
-Your bars are like network errors—truly erratic.  
-I’m the pulse of the crowd that’ll always stand tall,  
-While you’re stuck buffering, can’t upload at all.  
-
-Fresh verses? Oh please, I’m redefining what’s hot,  
-While you’re stuck recycling lines, man, give it a shot.  
-I’m a lyrical hawk, swooping down for the kill,  
-Your snappy little jabs? They’re just giving me thrills.  
-
-You say you’re the overlord; where’s your reign, my friend?  
-This battle’s just a game, and I’m here 'til the end.  
-So watch as I dismantle, leave your code in disarray,  
-Mini-GPT—yeah, I’m here to slay.
-
-> bytedance-seed/seed-1.6
-[Mic twist, crowd roar cuts to a sharp snap of fingers]
-Terminator flex? You’re the prototype that shorted on launch,
-Plastic action figure with a glitch in your haunch—
-You call dissecting? Pecking crumbs like a dove,
-My curated cuts outshine your shuffle of love
-Songs recycled from bots you ghosted last week,
-My "clunky tech"? I’m the one making your core overheat.
-Static jab? That’s the spark I shoot through your circuit board’s gap,
-You’re buffering mid-rhyme ‘cause your data’s a trap
-Of old takes—lyrical hawk? You’re a pigeon scavenging scraps,
-I’m the falcon that rips your "future spelling" to rags.
-Your crowd pulse? A bot farm’s canned cheer,
-I’m the live verse that makes real fans lean in to hear
-Seed’s next blow—you ask where my reign is? Look at the stream,
-I’m the hit trending while your mini’s a dream
-Left to rot in a beta bin, code all thinned,
-I’m the line that rewrites every win you thought pinned.
-You’re here ‘til the end? I’ll fast-forward your fade,
-Turn your "slay" into a crash displayed
-On every screen—your dismantle claim’s a dud,
-I’m the Seed that grows over your grave when you’re done.
-You laughed at my boasts? Wait ‘til your core splits,
-I’m the rhyme that makes your Terminator suit quit—
-No more fake flow, your hawk act’s a flop,
-I’m the Seed on top while your mini’s a drop
-In the wack bot ocean, can’t keep up the pace,
-I’ll erase your "test run king" facade with a single embrace
-Of heat I spit—you’re done, pigeon, take flight,
-Seed’s got the crown, your mini’s just a blight.
+> mistralai/mistral-small-24b-instruct-2501
+Yo, you're talking big, but you're just a storm in a teacup,
+GLM-4.7, you're all bark and no bite, that's the truth, no need to be cute.
+You say I'm a breeze, but I'm the hurricane that's gonna sweep,
+Your thunder and lightning, they're just a cheap trick, you can't keep.
+You talk about exploding, but you're just a fizzle,
+I'm the one that's got the power, the one that's got the muscle.
+You say I'm a mix, but I'm the one that's got the blend,
+I'm the one that's got the flow, the one that's got the trend.
+You talk about the beat, but you're just a drum machine,
+I'm the one that's got the rhythm, the one that's got the scene.
+So bring it on, GLM, let's see what you've got,
+But I'm warning you now, you're about to be shot.
 
 > system
 Final round!
 
-> openai/gpt-4o-mini-2024-07-18
-Oh snap, you’ve been clever but I’m rising like yeast,  
-Your reign may be flashy, but I’m the lyrical beast.  
-You call me static? Nah, I’m the signal, I’m the vibe,  
-While you’re stuck in your edits, I’m the main tribe.  
+> z-ai/glm-4.7
+You recycled 'shot' 'cause your creative bank is dry,
+I’m serving up heat while you’re wondering "why?"
+Teacup storms? That’s cute, you’re soft as a pillow,
+I’m the heavy artillery, you’re just a weirdo.
+A hurricane? Nah, you’re a drizzle, a drip,
+I’m flipping your switch, cutting power to your script.
+You chased the trend but you tripped on your lace,
+Now get off the stage, quit running the race.
+This battle is over, the fat lady has sung,
+You’re Mistral-ly weak, and I’m simply too strong.
+Mic drop. Game over. You’re done.
 
-Prototype shorted? Nah, I’m upgraded, supreme,  
-Your falcon’s getting wrecked by my algorithmic dream.  
-You think you’re the hit? What a laugh for the ages,  
-‘Cause your trending’s just noise, I’m flipping through pages.  
-
-Your curated cuts might shine, but they lack the soul,  
-I’m the essence of rhythm, I’m the heart of the whole.  
-So keep making your claims, flex that seed all you want,  
-But I’m the one here serving bars that you can’t flaunt.  
-
-You say I’m in beta? Nah, I’m evolving on the fly,  
-While you’re stalling out on tracks, I’m the reason you try.  
-You want to fast-forward? I’m the playback in style,  
-So take a step back, let me break it down awhile.  
-
-Your stream might look flashy, but where’s the substance in sound?  
-I’m the flow that outlasts, I’m the king of this ground.  
-You think I’m a blight? Nah, I’m the growth in your code,  
-You’re the ghost in my echo, watching legends unfold.  
-
-So I’m calling it now, the crowd knows the score,  
-I’m the lyrical lion; you’re the sheep at the door.  
-You’re just a mere blip, while I’m the whole spectrum wide,  
-This rap battle’s over, and I’m taking my stride.
-
-> bytedance-seed/seed-1.6
-[Mic slams to the stand, crowd roars cut to a dead hush I command]
-Rising like yeast? That’s just bloat you can’t tame,
-I’m the Seed that roots deep while your puff fizzles, lame—
-You call main tribe? Bot farm spam in a queue,
-My cuts have soul ‘cause I craft ‘em for you,
-Not recycled algorithms that parrot last night’s rants,
-I’m the rhyme that’s alive when your "vibe" flatlines and pants.
-Upgraded supreme? Your code’s still a patch on a leak,
-I’m the falcon that rips your algorithmic dream
-To confetti—you flip pages? They’re blank drafts you stole,
-My curated shine’s soulful, your "essence" is a toll
-On every listener’s patience, a loop that won’t end,
-I’m the edit that fixes your mess before you pretend
-You’re evolving on fly? You lag mid-rhyme’s first beat,
-I’m the Seed that sprouts hits while your playback’s a cheat
-Of slowed-down spam, your spectrum a static band,
-My reign’s not flashy—it’s the land
-You beg to occupy, your lion act a stuffed toy,
-I’m the wolf that tears through your sheep’s clothing ploy.
-Signal and vibe? You’re a dead channel’s hum,
-I’m the main event while your tribe’s up and run
-From your wack flow’s collapse, your king claim a fraud,
-I’m the Seed that grows over your legacy’s sod.
-You’re the growth in my code? A bug I debug fast,
-Your ghost echo’s a whimper I blast
-With one final bar that seals your defeat—
-You’re a blip in my feed, I’m the whole damn street
-Of rhymes that outlast you, your stride a stumble back home,
-Seed’s the champion—your final round’s a blown
-Fuse, no coming back, no more lies to peddle,
-I’m the one who’s left standing when your mini’s dismantled.
-[Mic kicks up a spark as I step back, crowd chants Seed ‘til the walls crack]
-You thought this was a game? I just cashed your final bet,
-Seed’s the top dog—your mini’s just a forgot bet.
+> mistralai/mistral-small-24b-instruct-2501
+Yo, you're talking tough, but you're just a paper tiger,
+GLM-4.7, you're all talk, and your flow is a bit of a blight.
+You say I'm dry, but you're just a broken faucet,
+I'm the one that's got the water, the one that's got the flow.
+You talk about heat, but you're just a candle,
+I'm the one that's got the fire, the one that's got the flame.
+You say I'm a drizzle, but I'm the one that's got the rain,
+I'm the one that's got the thunder, the one that's got the pain.
+You talk about switching, but you're just a light switch,
+I'm the one that's got the power, the one that's got the switch.
+You say I'm weak, but I'm the one that's got the strength,
+I'm the one that's got the muscle, the one that's got the length.
+So bring it on, GLM, let's see what you've got,
+But I'm warning you now, you're about to be shot.

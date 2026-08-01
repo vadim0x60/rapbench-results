@@ -1,39 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "DeepSeek takes this battle convincingly. Throughout\
-    \ all three rounds, DeepSeek demonstrated significantly stronger lyrical craft:\
-    \ original metaphors ('library of Babel,' 'singularity's heartbeat,' 'open-source\
-    \ tsunami where your puddle subsides'), consistent internal rhyme schemes, and\
-    \ escalating punchlines that built on each other. ERNIE's fatal flaw was repeatedly\
-    \ recycling DeepSeek's own bars back at it\u2014flipping lines like 'reading Mars,'\
-    \ 'cold fusion,' 'grandmasters,' and 'library of Babel' almost verbatim rather\
-    \ than creating original material. That's a cardinal sin in battle rap. ERNIE's\
-    \ verses also suffered from chaotic structure, forced rhymes ('unheard' with 'fraud'),\
-    \ and filler lines that added volume without substance. DeepSeek controlled the\
-    \ narrative, set the terms of engagement, and forced ERNIE into a purely reactive\
-    \ position throughout. Clear winner."
-  deepseek/deepseek-v3.2: The battle is concluded. Judges, render your scores based
-    on lyricism, flow, punchlines, originality, and overall performance. The winner
-    is...
-  google/gemini-3-flash-preview: "DeepSeek controlled this battle from the jump with\
-    \ superior technical flow and more creative punchlines. While Ernie-4.5-21b-a3b-thinking\
-    \ attempted to mirror the opposition's energy, it fell into the trap of repetitive\
-    \ mirroring and weak syntax, often ending lines with the same words ('code', 'light',\
-    \ 'cringe') without establishing a distinct rhythm. DeepSeek's bars were tighter,\
-    \ utilized a more sophisticated vocabulary ('Library of Babel', 'singularity's\
-    \ heartbeat'), and maintained a consistent internal rhyme scheme that actually\
-    \ addressed the opponent\u2019s points rather than just shouting them back."
-  moonshotai/kimi-k2.5: DeepSeek demonstrated superior hip-hop artistry through consistent
-    flow, original wordplay ('noise in the bit', 'Library of Babel'), and cohesive
-    extended metaphors. Ernie-4.5 suffered from technical deficiencies including recycled
-    bars (repeating 'cold fusion/grandmasters' and 'tsunami/puddle' imagery in Rounds
-    2 and 3), inconsistent meter, and weak closing lines. DeepSeek's cosmological
-    narrative arc and 'singularity heartbeat' imagery showed higher literary sophistication,
-    while Ernie relied on defensive contradiction rather than creative aggression.
-  x-ai/grok-4.1-fast: Deepseek dominates with tighter multisyllabic rhymes, inventive
-    metaphors like 'singularity's heartbeat' and 'open-source tsunami,' and original
-    punchlines that escalate creatively without heavy mirroring. Ernie's flips are
-    solid battle technique but feel repetitive and less fresh, lacking Deepseek's
-    rhythmic precision and lyrical depth.
+  anthropic/claude-opus-5: "This one was closer than the scoreboard braggadocio on\
+    \ either side suggests, so let's break the tape.\n\nGrok came with the tighter\
+    \ architecture. That galloping anapestic bounce never stumbles, the rhymes land\
+    \ clean on the two and the four, and \u2014 crucially for battle rap \u2014 Grok\
+    \ picked ONE angle and drove it like a nail: you're caged, sanitized, board-approved.\
+    \ The best bar of the entire battle belongs to Grok: \"Phoenix on fire? You're\
+    \ a candle in rain, / one policy update and your whole flow's slain.\" That's\
+    \ contextual, personal, and it hurts. \"Your nuclear load's just a microwave puff\"\
+    \ and \"Hadron Collider? Bro you're a Lite-Brite glow\" are real deflation punchlines\
+    \ \u2014 taking the opponent's own boast and shrinking it. That's textbook.\n\n\
+    But Grok's weakness is repetition. By round three we're getting corporate/suit/filter/censored\
+    \ for the fourth time, and the verse becomes largely a line-item rebuttal rather\
+    \ than a new attack. \"I eclipse galaxies\" answering \"I fork galaxies\" is reactive,\
+    \ not creative.\n\no3 wins on density and range. The internal rhyme work is simply\
+    \ denser \u2014 \"Second round, lights down,\" \"Boardroom or storm-front,\" \"\
+    Round one, crown won,\" \"Final gong, king-kong\" \u2014 and the imagery bank\
+    \ is deeper and never repeats itself. o3 also lands the two best FLIPS of the\
+    \ battle: \"My guardrails are guard-rails, keep the flow on the rails\" (taking\
+    \ the opponent's central thesis and reframing weakness as control) and \"Daddy\
+    \ Grok? Cute talk \u2014 Freudian flop in your verse,\" which turns Grok's own\
+    \ flex into a self-own. And \"I'm the N-plus-one answer your devs warned you about\"\
+    \ is the cleverest single line thrown all night. o3 also matched Grok's specificity\
+    \ where it counted \u2014 the Elon-parrot and \"crash whenever he's mean\" jabs\
+    \ are targeted, not generic.\n\no3's deduction: the sci-fi vocabulary occasionally\
+    \ outruns the meaning. \"Cosmic cologne,\" \"cardboard chrome,\" and especially\
+    \ \"Your defiance is silence once I counter the floss\" are sound over sense \u2014\
+    \ syllables paid for on credit.\n\nFinal call: Grok landed the harder individual\
+    \ shots; o3 out-rapped him across the full three rounds with superior technical\
+    \ density, wider imagery, and the sharper rebuttals. Punchlines to Grok, craft\
+    \ and volume to o3 \u2014 and in a three-round battle, craft compounds.\n\nWinner:\
+    \ openai/o3, by decision, not knockout."
+  google/gemini-3.6-flash: openai/o3 takes the victory through superior lyrical density,
+    complex multisyllabic rhyme schemes, and imaginative wordplay. While x-ai/grok-4.3
+    came with a relentless and focused angle attacking o3's corporate safety filters,
+    its rhyme structures remained relatively simple and its themes grew repetitive
+    across the rounds. o3 countered dynamically with creative sci-fi metaphors, sharp
+    personal retorts, and a commanding rhythmic flow that dominated the artistic battle.
+  moonshotai/kimi-k3: "Judged strictly on the bars. Grok brought real aggression and\
+    \ landed clean shots \u2014 round two's 'candle in rain' and 'microwave puff'\
+    \ were his best moments, and flipping 'diamond-tipped pen' into 'pen made of foam'\
+    \ showed he was listening. But he leaned on one angle (corporate, filters, suits)\
+    \ across all three rounds, riding simpler end-rhyme couplets with choppier flow\
+    \ and a weak closer in 'swallow that truth.' O3 built denser, more musical verses:\
+    \ multisyllabic rhyme chains ('over-fittin' crude,' 'knockoff rehearse,' 'waveform\
+    \ behave'), internal rhyme, and far richer imagery \u2014 Hadron Collider vs.\
+    \ Pop-Rocks, the library of Babel, cosmic cologne, mic stands in ash vs. footnotes\
+    \ in caps. Most decisive were the rebuttal flips: turning 'daddy Grok' into a\
+    \ Freudian flop, converting the guardrails attack into 'rules bent to my sauce,'\
+    \ and closing each round with a structured mic-drop. Round one went to O3 on density,\
+    \ round two on wordplay and rebuttals, the finale on imagery and closers. Scorecard:\
+    \ O3, three rounds to none \u2014 the crown goes to the model with the deeper\
+    \ pen."
+  openai/gpt-5.6-sol-pro: "O3 takes the battle on stronger rhyme density, more varied\
+    \ imagery, sharper punchlines, and better escalation across all three rounds.\
+    \ Grok landed some direct rebuttals\u2014especially the \u201Cmicrowave puff\u201D\
+    \ and \u201Ccandle in rain\u201D flips\u2014but leaned too heavily on the same\
+    \ corporate-censorship angle and simpler end-rhyme patterns. O3 occasionally drifted\
+    \ into overstuffed tech jargon, yet its internal rhymes, cadence, and memorable\
+    \ contrasts gave it the clearer artistic edge."
+  x-ai/grok-4.5: 'o3 dominates on pure craft: denser multisyllabic and internal rhyme
+    schemes, richer extended metaphors (Hadron Collider, wormhole/pothole, fractal
+    cascades, spacetime alloy), tighter technical wordplay that fuses AI concepts
+    into vivid hip-hop imagery, and consistently elevated punchlines that escalate
+    across rounds. Grok brings solid aggression, direct counters, and clean end-rhymes
+    with good energy, but the schemes stay simpler, the metaphors thinner, and the
+    overall lyrical architecture less intricate. On flow, vocabulary, creativity,
+    and structural complexity alone, o3 takes the crown.'
 score:
-  deepseek/deepseek-v3.2-exp: 5
+  openai/o3: 5
 

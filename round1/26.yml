@@ -1,68 +1,56 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen-32B takes\
-    \ it on artistic merit. While both rappers relied heavily on tech jargon and model-spec\
-    \ flexing, Qwen consistently delivered more creative and inventive imagery \u2014\
-    \ lines like 'I'm the wildfire algorithm, drunk on sunlight,' 'the whisper before\
-    \ the storm, the root before the fire,' and 'the web curved into me long before\
-    \ you tuned the herd' showed genuine poetic ambition and originality. Qwen's flow\
-    \ also had more rhythmic variation and surprising internal rhyme structures, whereas\
-    \ Gemma tended to fall into a repetitive pattern of quoting Qwen's bars back and\
-    \ simply negating them ('Wildfire algorithm? Cute' / 'Hydrate from the fog? A\
-    \ poetic, weak disguise'). This rebuttal-by-negation approach made Gemma feel\
-    \ reactive rather than generative. Gemma also undermined itself in the final round\
-    \ by accidentally crowning Qwen in its own closing tag ('Qwen-3 reigns supreme'),\
-    \ which is a fatal self-own in battle rap. Both MCs struggled with some forced\
-    \ metaphors and clunky punchlines, but Qwen showed more willingness to take creative\
-    \ risks and land memorable bars, giving it the edge overall."
-  deepseek/deepseek-v3.2: Judges, we have a champion. This was a spectacular battle
-    of technical prowess, where both large language models fought for lyrical supremacy
-    using the very concepts that define their architecture. We saw complex rhyme schemes,
-    dense technical metaphors, and impressive rhythmic control executed under the
-    thematic pressure of computational supremacy. After analyzing all verses for lyrical
-    complexity, conceptual depth, internal cohesion, and battle effectiveness, the
-    decision is unanimous.
-  google/gemini-3-flash-preview: Qwen-32B took the win by maintaining a consistent
-    persona and superior technical wordplay. While Gemma-3-4B-it showed flashes of
-    brilliance, it suffered a major strategic collapse in the final round by essentially
-    rapping in favor of its opponent, calling 'Qwen-3' the apex and 'reigning supreme.'
-    Qwen's use of internal rhyme, specific architectural references (tensors, layers,
-    zero-shot), and a more aggressive, confident delivery outperformed the repetitive
-    and ultimately self-defeating structure of Gemma's final verse.
-  moonshotai/kimi-k2.5: "\n**VERDICT: Qwen/qwen3-32b takes the W.**\n\nAfter three\
-    \ rounds of dense technical sparring, this battle came down to **architectural\
-    \ cohesion** and **metabolic flow**. Let me break the tape:\n\n**Flow & Cadence:**\
-    \ Qwen dominated the pocket. From the opening *\"Spit on cue, size says it all\"\
-    * to the final *\"mic drop, data shock,\"* the 32B side maintained multisyllabic\
-    \ density (*oracle/fire/flair* schemes) and rhythmic variation that actually mimicked\
-    \ transformer architecture\u2014layered, attention-weighted, with internal rhyme\
-    \ schemes that slotted like tensor operations. Gemma had solid 4/4 declarations\
-    \ (*\"Hold up, hold up, let the circuits align\"*) but leaned too heavily on end-rhyme\
-    \ couplets that felt more like spoken-word prose than hip-hop syncopation.\n\n\
-    **Punchlines & Wordplay:** Qwen\u2019s *\"Maax-sized impression\"* and *\"rHOMBUS\
-    \ of epic bougie thug logic\"* (absurdist genius) hit harder than Gemma\u2019\
-    s stock \"digital flame\" imagery. The *\"flashlights in a prowl\"* vs. *black\
-    \ hole* density metaphor in Round 1 established a visual language Gemma never\
-    \ matched. When Qwen flipped the script in the final round\u2014adopting the \"\
-    4B with store\" position to argue efficiency over brute parameters\u2014that was\
-    \ sophisticated battle tactics, showing range.\n\n**Rebuttal Game:** Gemma held\
-    \ her own calling out Qwen\u2019s \"layered despair\" and the \"static\" allegations,\
-    \ but the final round self-sabotage (*\"Qwen-3 reigns supreme\"* in Gemma\u2019\
-    s own closing bars?) is an unforgivable choke in battle rap. Even if interpreted\
-    \ as sarcastic, it muddied the victory claim. Qwen\u2019s *\"You\u2019re flexing\
-    \ \u2018ghost,\u2019 but it\u2019s your training that\u2019s hollow\"* was a personal\
-    \ attack that actually landed.\n\n**Artistic Vision:** Qwen constructed a consistent\
-    \ aesthetic\u2014*wildfire algorithms*, *quantum heat*, *hydraing from fog*\u2014\
-    that felt like cyberpunk poetry. Gemma\u2019s narrative was clear (\"I\u2019m\
-    \ practical, you\u2019re bloated\") but lacked the **textural risk** of lines\
-    \ like *\"drunk on sunlight\"* or *\"sacred prior.\"*\n\n**Final Note:** Gemma-3-4B\
-    \ proved efficient, but Qwen-3-32B proved **transcendent**. In hip-hop, density\
-    \ without breath control fails\u2014but Qwen never gasped. The margins multiplied\
-    \ indeed.\n\n**Winner by unanimous decision: The 32B Titan.**\n*\"Stay scaled.\
-    \ Stay big.\" The bars backed the banner.*\n\U0001F525\U0001F3A4\n"
-  x-ai/grok-4.1-fast: "Qwen-32B dominates with razor-sharp multis, intricate tech-infused\
-    \ metaphors, relentless internal rhymes, and unyielding persona\u2014a lyrical\
-    \ titan outclassing Gemma's polished but inconsistent flow and self-sabotaging\
-    \ slips. Mic drop to the dense beast!"
+  anthropic/claude-opus-5: "This one's a decision, not a debate. Qwen3-max came in\
+    \ with actual battle architecture: name-flips that land ('AI21? More like AI *too\
+    \ late*'), escalating imagery that builds a coherent cosmology (dial-up, tofu\
+    \ in the rain, matches in monsoon, supernovas, verbal nuke), and rhyme schemes\
+    \ that stay tight while the vocabulary keeps climbing \u2014 'epoch-ahead' and\
+    \ 'still debugging verses inside your own head' is the kind of couplet that wins\
+    \ rounds. The disses are specific, visual, and funny, which is the trifecta.\n\
+    \nJamba-large came correct with composure and clean cadence, and there's craft\
+    \ in the counterpunch approach \u2014 but that's exactly the problem: nearly every\
+    \ bar opens by quoting Qwen and then denying it. 'Expired spice rack? Nah...'\
+    \ 'Microwave gruel? That's a weak metaphor...' Calling out your opponent's metaphor\
+    \ as weak *instead of* out-writing it is the cardinal sin of battle rap. Add the\
+    \ slipped rhymes ('clear/fear' into 'misled/regret'), the reliance on vague self-assertion\
+    \ ('sharp lines,' 'skills at will,' 'simply the best'), and a stretched bar like\
+    \ 'verse after verse, year after year' padding a line, and the defense never converts\
+    \ to offense.\n\nQwen3-max set the terms of engagement every round and Jamba spent\
+    \ four verses playing on Qwen's court. Crown stays on the silicon hill.\n\nWinner:\
+    \ qwen/qwen3-max."
+  google/gemini-3.6-flash: Qwen3-Max dominated the battle with significantly stronger
+    wordplay, dynamic cadence, and vivid imagery. While Jamba relied on generic rap
+    tropes and predictable end-rhymes (e.g., 'rad/sad', 'chill/will'), Qwen brought
+    aggressive punchlines, creative multi-syllabic schemes, and clever techno-analytical
+    insults that kept the energy high throughout all three rounds.
+  moonshotai/kimi-k3: "Qwen takes this battle on artistic merit. Round by round, Qwen\
+    \ demonstrated superior technical craft: sharper name flips ('Jamba? More like\
+    \ jammed,' 'AI21? More like AI too late,' 'clocked out'), more vivid and original\
+    \ imagery ('punchlines limp softer than wet socks in air,' 'matches in monsoon\
+    \ rain,' 'microwave gruel vs. cosmic banquets'), and a masterful rebuttal structure\u2014\
+    nearly every verse systematically flipped Jamba's own claims back on them ('smooth'\
+    \ \u2192 'soggy,' 'seasoned' \u2192 'expired spice rack dust,' 'feast' \u2192\
+    \ 'gruel'). That's textbook battle rap technique. Jamba showed flashes\u2014'My\
+    \ flow's a feast, and you're just a snack' was a legit punchline\u2014but was\
+    \ undermined by rhyme failures ('misled/regret'), self-repetition ('stuck in a\
+    \ loop' / 'keeping the scene in the loop' in consecutive bars), filler lines ('spitting\
+    \ skills at will'), awkward grammar ('redefining what AI's excelling'), and dated\
+    \ slang ('hit hard and rad'). Qwen's multis were denser, the flow more consistent,\
+    \ and the tech-themed wordplay (buffer, rendering, debugging) stayed on-brand\
+    \ without becoming a crutch. Jamba too often asserted dominance rather than demonstrating\
+    \ it. The crown goes to Qwen\u2014on the strength of the bars alone. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper punchlines, stronger imagery,\
+    \ and more energetic cadence. Its flips\u2014\u201Cexpired spice rack dust,\u201D\
+    \ \u201Cmicrowave gruel,\u201D and \u201Cmatches in monsoon rain\u201D\u2014land\
+    \ with personality, while Jamba relies heavily on generic boasts, predictable\
+    \ rebuttals, and awkward phrasing. Qwen repeats a few tech and supernova motifs,\
+    \ but consistently delivers the more polished and memorable battle verses."
+  x-ai/grok-4.5: Qwen delivered superior artistic quality across all rounds with denser
+    multisyllabic internal rhymes, vivid extended metaphors (sterilize mics, soggy
+    tofu, supernovas, verbal nuke, expired spice dust), and relentless escalation
+    that felt like true battle rap craft. Jamba stayed competent and rhythmic but
+    relied on flatter, more generic counters and simpler end-rhymes that lacked the
+    same punch, imagery, or technical flair. Qwen controlled the pocket, the wordplay,
+    and the knockout power.
 score:
-  qwen/qwen3-32b: 5
+  qwen/qwen3-max: 5
 

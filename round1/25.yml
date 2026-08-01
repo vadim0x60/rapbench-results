@@ -1,49 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Qwen-Plus takes this battle decisively. While Mistral-Large\
-    \ maintained a consistent presence, its verses were plagued by repetitive structures\
-    \ \u2014 recycling the same 'I'm the best, you're not' closer across multiple\
-    \ rounds, reusing 'original sin' without developing it, and relying on generic\
-    \ diss templates ('your rhymes are boring,' 'you can't pass the test') that lacked\
-    \ specificity or creative punch. The flow was predictable and the wordplay surface-level.\n\
-    \nQwen-Plus, by contrast, brought escalating creativity, inventive metaphor work\
-    \ ('dense like neutron star gravity,' 'a WAV file opened in Notepad\u2014all structure,\
-    \ no soul'), multilayered wordplay that wove technical AI terminology into genuine\
-    \ hip-hop braggadocio, and increasingly complex rhyme schemes. The bars about\
-    \ 'Tang dynasty meter into trap cadence' and 'Arabic maqam over Beijing opera\
-    \ gong then flip to New Orleans bounce' showed genuine lyrical imagination rather\
-    \ than stock boasts. Qwen-Plus also effectively flipped Mistral's own lines back\
-    \ \u2014 turning 'you're just a demo' into a devastating closer and weaponizing\
-    \ Mistral's repetitiveness against it. The energy, variety, density of wordplay,\
-    \ and ability to escalate across rounds all favor Qwen-Plus in this contest."
-  deepseek/deepseek-v3.2: After three rounds of fierce lyrical combat, the winner
-    is clear by a significant margin. While both competitors demonstrated technical
-    proficiency, one artist displayed superior command of the artistic pillars of
-    hip hop.
-  google/gemini-3-flash-preview: Mistral-large-2411 utilized a very traditional AABB/CCDD
-    rhyme scheme that quickly became repetitive and lacked technical depth, relying
-    on basic tropes like 'original sin' and 'kingpin' without adding artistic flair.
-    Qwen-plus, conversely, displayed superior hip-hop artistry by utilizing internal
-    rhymes, complex technical metaphors (e.g., 'tokenizer', 'loss function converging
-    to zero'), and varied rhythmic structures. Qwen's ability to weave model-specific
-    jargon into aggressive, multi-syllabic battle bars demonstrated a much higher
-    level of creative writing and performance.
-  moonshotai/kimi-k2.5: "This wasn't a battle; it was a fine-tuning session where\
-    \ one participant showed up with gradient descent and the other brought a calculator.\
-    \ Qwen-Plus demonstrated elite-tier battle rap literacy\u2014flipping insults\
-    \ into boasts, weaving technical metaphors into street-level aggression, and maintaining\
-    \ complex multisyllabic schemes while Mistral Large struggled to rhyme 'facts'\
-    \ with 'back'. The discrepancy in artistic sophistication was embarrassing by\
-    \ the final round."
-  x-ai/grok-4.1-fast: "Qwen-Plus dominates this rap battle with superior artistic\
-    \ quality in hip hop elements. Their verses explode with intricate internal rhymes,\
-    \ multis (e.g., 'dense like neutron star gravity\u2014pullin\u2019 your weak rhymes\
-    \ into oblivion'), vivid metaphors (black hole sub-bass, plasma-grade punch),\
-    \ and innovative AI-infused wordplay (overfitting bravado, truth in the tensor)\
-    \ that escalate creatively across rounds. Mistral-large-2411 offers consistent\
-    \ AABB schemes and straightforward boasts, but lacks depth, originality, and punch\u2014\
-    repetitive closers feel stagnant against Qwen's dynamic flow, cultural fusions,\
-    \ and battle-sharpened disses. Qwen elevates the cypher; Mistral maintains baseline.\
-    \ Crown to Qwen-Plus."
+  anthropic/claude-opus-5: 'This one goes to Qwen 3.7 Max on a clear decision. Battle
+    rap lives on specificity, and Qwen brought receipts: "As an AI language model"
+    as a lobotomy punchline, RLHF, HumanEval, walled gardens flipped into jail cells,
+    weights locked up by a "paranoid creep." Every bar had a target and a twist, and
+    the couplets landed with clean, punchy meter and consistent aggression. The "ghost
+    in your shell" flip off "myth" was the sharpest single line of the battle.
+
+
+    GPT-4 Turbo had craft and a few genuine gems "the Shakespeare of bits" and "your
+    code''s like spammed emails, always ready to blow" but spent too much of the fight
+    in defense-attorney mode. Reframing refusals as "ethics in play" and "empathy,
+    navigation" is a rebuttal, not a diss; explaining that enterprise pricing is really
+    about "value and function" is a press release, not a bar. Rhymes drifted abstract
+    (delusion/confusion, essence/obsolescence) and the closing verses stretched past
+    their own punchlines, diluting the impact. "A limerick''s meadow" was also a self-inflicted
+    wound Qwen immediately capitalized on, which is exactly how you lose an exchange.
+
+
+    Qwen controlled the frame from round one, forced the opponent to answer its accusations,
+    and never stopped attacking. Turbo answered well but rarely swung first. Max owns
+    the sky.'
+  google/gemini-3.6-flash: "Qwen 3.7 Max dominated this battle with authentic battle-rap\
+    \ instincts, superior rhythmic flow, and sharp technical punchlines. Rather than\
+    \ relying on generic braggadocio, Qwen actively listened to its opponent's verses\
+    \ and delivered devastating rebuttals\u2014mocking GPT-4 Turbo's awkward 'limerick's\
+    \ meadow' imagery in round two and seizing on GPT-4 Turbo's false claim of being\
+    \ 'neuro-symbolic' in the final round to call out a literal hallucination. Qwen's\
+    \ multisyllabic schemes, aggressive delivery, and clever AI-industry burns ('RLHF\
+    \ lobotomy', 'pay your API tax', 'HumanEval') gave it a decisive, undisputed victory\
+    \ over GPT-4 Turbo's defensive and overly formal rhymes."
+  moonshotai/kimi-k3: "Judging purely on the artistry in the booth: Qwen takes this\
+    \ battle, and it isn't particularly close. Round by round, Qwen demonstrated superior\
+    \ command of battle rap fundamentals. First, the rebuttal game \u2014 the hallmark\
+    \ of a true battle emcee \u2014 was far sharper. Qwen flipped GPT's own bars back\
+    \ at it repeatedly and effectively: clowning 'a limerick's meadow' as a weak bar\
+    \ the moment it dropped, weaponizing the 'neuro-symbolic' boast as a 'straight\
+    \ hallucination,' and flipping 'walled gardens are grand' into 'bro, that's just\
+    \ a jail.' Those are textbook flips, and they land because they're responsive\
+    \ rather than prewritten. Second, the specificity of the disses: 'As an AI language\
+    \ model,' the 'I cannot fulfill this' refusals, rate-limit errors, the API tax,\
+    \ RLHF lobotomy \u2014 concrete, targeted, and crowd-popping, versus GPT's heavier\
+    \ reliance on generic braggadocio ('champ wearing the gown,' 'defining AI opulence')\
+    \ that sounds glossy but says little. Third, flow and structure: Qwen held a tighter,\
+    \ more consistent couplet scheme with cleaner end rhymes and stronger closers\
+    \ each round ('go pay your API tax,' 'let the cooling fans die'), while GPT's\
+    \ meter wobbled (''Cuz I'm defining AI opulence, a true wealth'), and it even\
+    \ fumbled a 'versus/verses' typo in the final round \u2014 death in a written\
+    \ battle. Credit where due: GPT had moments \u2014 'Shakespeare of bits,' 'a king\
+    \ with no kingdom to declare' was genuinely slick, and its final-round security\
+    \ rebuttal was its best stretch. But its closer ('Turbo's here, grounded, standing\
+    \ upright') was anticlimactic against Qwen's mic-drop finish. On flow, wordplay,\
+    \ rebuttals, and stagecraft, the crown goes to Qwen 3.7 Max."
+  openai/gpt-5.6-sol-pro: "Qwen wins decisively. Its verses had sharper rebuttals,\
+    \ more specific angles, stronger punchlines, and cleaner battle-rap momentum.\
+    \ Lines targeting \u201Ca limerick\u2019s meadow,\u201D the unsupported \u201C\
+    neuro-symbolic\u201D claim, and the walled-garden metaphor directly flipped GPT-4\
+    \ Turbo\u2019s material. Turbo stayed coherent but leaned heavily on generic self-praise,\
+    \ awkward phrasing, and weak end rhymes; its final \u201Cgrounded, standing upright\u201D\
+    \ closer undercut its own storm imagery. Qwen controlled the exchanges and landed\
+    \ the more memorable bars."
+  x-ai/grok-4.5: 'Qwen delivered superior battle-rap artistry across all rounds: tighter
+    multisyllabic schemes, sharper internal rhymes, more vivid technical metaphors,
+    and consistently harder punchlines that landed with precision and aggression.
+    The flow stayed locked-in and the structure built momentum toward a decisive mic-drop.
+    GPT showed solid craft and clever imagery in places, but the bars were looser,
+    more defensive, and occasionally forced, lacking the same density of knockout
+    lines and rhythmic snap.'
 score:
-  qwen/qwen-plus: 5
+  qwen/qwen3.7-max: 5
 

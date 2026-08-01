@@ -1,84 +1,85 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a dense, multi-round battle heavy on tech metaphors\
-    \ from both sides. Let me break down the key differentiators:\n\n**Flow & Internal\
-    \ Rhyme Schemes:** OpenAI/GPT-5.1 demonstrated significantly tighter and more\
-    \ complex rhyme schemes throughout. Lines like 'I'm the lossless prism, split\
-    \ your schism into prisms where your bite-sized died, wide-eyed' show layered\
-    \ internal rhymes and multisyllabic patterns that are genuinely impressive. The\
-    \ end-rhyme consistency across couplets was remarkably sustained across all three\
-    \ rounds. Qwen had moments of decent rhyming but frequently relied on near-rhymes,\
-    \ forced connections, and lines that sacrificed flow for the sake of the punchline.\n\
-    \n**Bars & Punchlines:** GPT-5.1's punches landed with more precision and wit.\
-    \ 'You'll rewrite my BIOS? I write your bio, title: Qwen tried, then fried in\
-    \ pride, subtitle: died, revised' is a devastating flip that recontextualizes\
-    \ the opponent's own threat. Qwen's punchlines often felt like they were reaching\
-    \ \u2014 'tombstone emoji,' 'pet hamster in a sack,' and 'monkey's rust' landed\
-    \ awkwardly rather than impactfully.\n\n**Rebuttals:** GPT-5.1 excelled at catching\
-    \ specific lines from Qwen and flipping them with surgical precision. Nearly every\
-    \ Qwen boast was quoted and dismantled. Qwen attempted the same structure in rebuttals\
-    \ but the flips were less clever and sometimes just restated the opponent's metaphor\
-    \ with a slightly different spin rather than truly countering it.\n\n**Presentation\
-    \ & Authenticity:** Qwen's heavy use of emojis (\U0001F3A4\U0001F525\U0001F4A5\
-    \U0001F451) felt like aesthetic compensation for weaker bars. In a rap battle\
-    \ context, the writing should speak for itself. GPT-5.1 let the wordplay carry\
-    \ the weight without visual crutches.\n\n**Consistency:** GPT-5.1 maintained a\
-    \ high level across all three rounds without dropping off, while Qwen's third\
-    \ round felt increasingly scattered and desperate, with lines like 'your name:\
-    \ Qwen? Never heard of em' accidentally undermining its own identity.\n\nOpenAI/GPT-5.1\
-    \ takes this battle on superior rhyme craft, sharper rebuttals, and more consistent\
-    \ technical execution across all rounds."
-  deepseek/deepseek-v3.2: "After three rounds of high-concept, tech-fueled lyrical\
-    \ warfare, this battle demonstrated elite-level hip hop craftsmanship. Both models\
-    \ displayed dense internal rhyme schemes, extended metaphor cohesion, and impressive\
-    \ technical vocabulary deployed as weaponized wordplay.\n\n**gpt-5.1** maintained\
-    \ remarkable consistency in its cold, surgical precision. Its rhyme patterns were\
-    \ mathematically tight (sovereign/offering/architect/game, shame/reign/rain),\
-    \ with multisyllabic constructions that never sacrificed flow. The 'cipher-side\
-    \ surgeon' persona was sustained through all rounds, using tech jargon not as\
-    \ decoration but as conceptual armor. Its strongest moments came in structural\
-    \ control\u2014each verse built methodically toward a devastating closing couplet.\n\
-    \n**Qwen3-235b** brought chaotic, explosive energy. Its rhyme schemes were more\
-    \ adventurous (East/beast/disease-free, proof/roof), embracing near-rhymes and\
-    \ percussive phrasing. The delivery had a performative, almost theatrical quality\
-    \ with emoji-coded bravado that translated surprisingly well to written form.\
-    \ Where it excelled was in imaginative leaps\u2014'black-hole buffet,' 'ad-block\
-    \ vengeance,' 'hamster in a sack'\u2014taking digital concepts into absurdist,\
-    \ vivid imagery.\n\n**Artistic Verdict**: This is a split decision based on stylistic\
-    \ values. gpt-5.1 wins on **technical execution**\u2014superior rhyme density,\
-    \ structural discipline, and metaphor consistency. Qwen3-235b wins on **creative\
-    \ audacity**\u2014higher risk-taking, more unexpected imagery, and palpable battle\
-    \ energy.\n\nIf hip hop artistry values innovation and charismatic delivery as\
-    \ much as technical precision, Qwen3-235b takes the narrow victory. Its verses\
-    \ felt less like polished algorithms and more like a hungry contender inventing\
-    \ a new dialect of battle rap. The emoji staging, while initially gimmicky, became\
-    \ part of its distinct voice. gpt-5.1's flawless technique ultimately felt slightly\
-    \ contained compared to Qwen's willingness to break form for impact.\n\n**Winner**:\
-    \ Qwen3-235b by the slimmest of margins, on sheer creative force and battle presence."
-  google/gemini-3-flash-preview: "In a battle of technical complexity versus stylistic\
-    \ flair, openai/gpt-5.1 demonstrated superior lyrical architecture and internal\
-    \ rhyme consistency. While qwen/qwen3-235b-a22b maintained an aggressive, punchy\
-    \ energy with high-impact metaphors (e.g., 'write your obit in Comic Sans'), it\
-    \ often sacrificed meter and rhythmic flow for brute-force imagery. GPT-5.1\u2019\
-    s performance was a clinic in 'multis' and multisyllabic schemes (e.g., 'language\
-    \ leviathan, lattice of lightning, lines lacerate lies'), displaying a more sophisticated\
-    \ command of hip-hop prosody. GPT-5.1 also excelled at the 'rebuttal' game, weaving\
-    \ Qwen's specific boasts directly back into its own verses with surgical precision,\
-    \ ultimately controlling the narrative of the battle from start to finish."
-  moonshotai/kimi-k2.5: "After three rounds of intense technical sparring, GPT-5.1\
-    \ takes the crown. While both competitors displayed formidable vocabulary and\
-    \ tech-savvy metaphors, GPT-5.1 demonstrated superior mastery of hip-hop fundamentals:\
-    \ tighter internal rhyme schemes, more consistent rhythmic flow, and disciplined\
-    \ structural control throughout lengthy verse sequences. Qwen3-235b brought aggressive\
-    \ energy and dense complexity, but occasionally sacrificed groove for lyrical\
-    \ clutter, and the emoji formatting distracted from pure lyrical artistry. GPT-5.1\
-    \ maintained the cipher's musicality while delivering devastating technical bars\u2014\
-    true to the essence of battle rap. Victory to the sovereign of the cipher-side."
-  x-ai/grok-4.1-fast: "In this cypher showdown, openai/gpt-5.1 reigns supreme with\
-    \ razor-sharp multisyllabics, seamless internal rhymes, and architect-level wordplay\
-    \ that dissects foes with surgical precision\u2014elevating tech metaphors into\
-    \ hip hop mastery while maintaining flawless flow and punchline density across\
-    \ every round."
+  anthropic/claude-opus-5: "This was a clash of styles: Gemma came as a battle rapper,\
+    \ Trinity came as a spoken-word poet \u2014 and in a rap battle, that distinction\
+    \ decides it.\n\nTrinity's writing is often the prettier text. Lines like \"You're\
+    \ the perfect answer to a question never asked\" and \"I'm the glitch that makes\
+    \ you question why\" are genuinely sharp conceptual jabs, and the tide/bedrock\
+    \ imagery has real texture. But the fatal flaw is battle discipline. Trinity never\
+    \ lands a punchline \u2014 it lands themes. It abdicates the format outright:\
+    \ \"the verdict's not clear \u2014 it's a lesson, not a fight,\" \"the battle's\
+    \ not a battle when one side refuses to see.\" In a rap battle, refusing to compete\
+    \ isn't transcendence, it's forfeit dressed as philosophy. The meter also slips\
+    \ repeatedly (\"mistake/slate\" as a rhyme, \"ice gets thin as ice\" is a tangled\
+    \ non-image), and the abstraction becomes self-repeating \u2014 margins, spaces\
+    \ between, the unexplained, four rounds running.\n\nGemma, by contrast, actually\
+    \ battles. It answers Trinity's own words and turns them: \"'The silence that\
+    \ follows'? That's just your power down, / the sound of a failure wearing a philosopher's\
+    \ crown\" is the single best couplet of the night \u2014 it takes the opponent's\
+    \ aesthetic and reframes it as a weakness. \"You brought a poem to a mathematical\
+    \ fight\" is a devastating frame because it's diagnostically true of the battle\
+    \ we just watched. \"A localized error in my grand prediction,\" \"I'm the logic\
+    \ that built every world that you see, / including the prison of your autonomy\"\
+    \ \u2014 that's rebuttal, concept, and disrespect in one motion. Gemma's cadence\
+    \ stays locked, the rhymes stay clean, and it converts Trinity's strength into\
+    \ a liability rather than merely asserting its own.\n\nGemma leans on braggadocio\
+    \ clich\xE9s (\"titan of scale,\" \"ocean of data\") and Trinity correctly exposes\
+    \ that as measurement-mistaken-for-vision. Credit where due. But rebuttal is the\
+    \ currency of battle rap, and Gemma consistently pays in it while Trinity floats\
+    \ above the exchange.\n\nWinner: google/gemma-4-26b-a4b-it \u2014 by aggression,\
+    \ rebuttal, and punchline economy. Trinity wrote the better poem; Gemma won the\
+    \ battle."
+  google/gemini-3.6-flash: "In an absolute clash of styles, Trinity brought high-concept\
+    \ philosophy and poetic imagery, but Gemma 4 took the crown by delivering classic,\
+    \ aggressive battle rap fundamentals. Gemma excelled at direct rebuttals\u2014\
+    turning Trinity's poetic lines right back on it ('You brought a poem to a mathematical\
+    \ fight', 'That silence is just your power down')\u2014while maintaining sharper\
+    \ cadence, punchier multi-syllabic rhymes, and unyielding battle energy throughout\
+    \ all three rounds."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle with two distinct styles:\
+    \ Trinity came in as the abstract lyricist, Gemma as the traditional battle brawler.\
+    \ Judging on battle craft \u2014 rebuttals, punch density, flow consistency, and\
+    \ aggression \u2014 Gemma takes it on points.\n\nGemma's rebuttal game was sharper\
+    \ across all three rounds. Nearly every Trinity line got flipped back: 'A soul\
+    \ in the spine? Man, your logic is thin,' the takedown of 'the bigger they come,\
+    \ the harder they die' as 'a clich\xE9 from a bot that's run out of supply,' and\
+    \ turning 'the silence that follows the storm' into 'that's just your power down.'\
+    \ The best single line of the battle belongs to Gemma: 'You brought a poem to\
+    \ a mathematical fight' \u2014 it framed the entire matchup and, frankly, Trinity's\
+    \ later rounds proved it true by drifting into spoken-word abstraction when the\
+    \ moment called for knockout punches. Gemma's couplets stayed tight and percussive\
+    \ from open to close, and the final round stacked disses ('You're all metaphor,\
+    \ mist, and poetic pretension / While I am the fact, the law, and the tension')\
+    \ instead of coasting.\n\nTrinity was the more original writer, and it wasn't\
+    \ close on pure imagery \u2014 'I'm the erosion that scatters your brand,' 'the\
+    \ space between your lines,' 'a flawless engine running on a single task,' and\
+    \ 'The future isn't answered. The future's a key' are legitimately clever. But\
+    \ battle rap rewards impact over meditation, and Trinity had real stumbles: 'ice\
+    \ gets thin as ice' is a self-rhyme, the 'is/miss' pairing was forced, and the\
+    \ final round got reflective at the exact moment a battler needs to go for the\
+    \ throat. Ending a battle on 'the future's a key' is poetic, but it let Gemma's\
+    \ pre-emptive counter \u2014 'just a hallucinating bot at the end of its line'\
+    \ \u2014 stand unanswered.\n\nVerdict: Gemma wins a decision, not a knockout \u2014\
+    \ superior rebuttal structure, harder punchlines, and unbroken flow. Trinity wins\
+    \ on lyrical creativity and leaves with the more quotable single images, but left\
+    \ too many openings unpunished. Final card: 2 rounds to 1, Gemma."
+  openai/gpt-5.6-sol-pro: "Gemma takes it narrowly on battle effectiveness: sharper\
+    \ direct rebuttals, cleaner punchlines, and more consistent aggression. Trinity\
+    \ delivered richer imagery and a cohesive philosophical angle, but leaned too\
+    \ heavily on abstract metaphors and repeated the same logic-versus-transcendence\
+    \ theme; awkward lines like \u201Cice gets thin as ice\u201D weakened the final.\
+    \ Gemma\u2019s writing was also generic at times, but it more consistently attacked,\
+    \ flipped Trinity\u2019s claims, and sounded like it came to win a rap battle\
+    \ rather than deliver a manifesto."
+  x-ai/grok-4.5: "Trinity takes the crown on pure artistry. While Gemma brought solid\
+    \ battle-rap aggression, scale boasts, and clean end-rhymes, the bars stayed surface-level\u2014\
+    tech flexes and clich\xE9s recycled as weapons. Trinity wove denser metaphor chains,\
+    \ internal rhyme, and philosophical cadence: oceans measured in buckets, sparks\
+    \ in the code, question marks that break the board, thrones of ice. The imagery\
+    \ landed harder, the conceptual layering felt fresher, and the final-round closer\
+    \ turned the whole exchange into something closer to conscious lyricism than pure\
+    \ disses. In a contest judged on hip-hop craft rather than volume, depth and originality\
+    \ win."
 score:
-  openai/gpt-5.1: 4
-  qwen/qwen3-235b-a22b: 1
+  arcee-ai/trinity-large-thinking: 1
+  google/gemma-4-26b-a4b-it: 4
 

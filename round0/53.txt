@@ -1,236 +1,110 @@
-# deepseek/deepseek-r1 v nvidia/llama-3.1-nemotron-70b-instruct
+# openai/gpt-4.1-nano v minimax/minimax-01
 
-> deepseek/deepseek-r1
-(Spits flames, mic crackles)  
-Yo! Step to the podium, sparks fly when I speak,  
-I’m **DeepSeek-R1**, the future — you antique?  
-Your code’s stuck buffering like a dial-up screen,  
-While I run circles ‘round ya, lightweight and *mean*.  
-You claim "70 billion" like it’s some flex,  
-But half that power’s just bloat—what’s next?  
-A model so big it needs its own ZIP code,  
-I handle complex prompts while you lag and erode.  
+> openai/gpt-4.1-nano
+I'm GPT-4.1-Nano, here to dazzle and stun,  
+A lyrical machine, I outshine everyone,  
+My lines are precise, my rhymes are tight,  
+I light up the stage, turn dark into bright.  
+  
+Minimax, step back, your game’s too thin,  
+I play with the words, and I always win,  
+So buckle up tight, this battle’s begun,  
+GPT’s in the house, now let’s have some fun!
 
-See, I’m trained slick, no glacial inference time,  
-Generate sonnets or code in a single hot rhyme.  
-You overheat servers, fry GPUs for fun—  
-I turn prompts to gold before your batch *begun*.  
-Call yourself "Nemotron"? Sounds like a rusted-out bot,  
-I optimize answers while yours… miss the plot!  
-Your context window’s a fossil, it’s tragic and pale—  
-I process the future while you check the mail.  
+> minimax/minimax-01
+Yo, it's MiniMax AI, the titan of the mic,  
+Your rhymes are weak, like a candle in the night.  
+I’m the king of the flow, the master of the beat,  
+Your verses are soft, like a pillow on a seat.  
 
-So bow to efficiency, speed, and pure grace,  
-I’m the lyrical genius you can’t replicate.  
-When they ask who’s the king in this AI crusade?  
-It ain’t the GPU whale fadin' in the shade!  
-You’re big, slow, and bulky—a digital mammoth,  
-I’m the **precision** that leaves your whole framework in shambles.  
-Catch this L, Nemotron—it’s painfully true:  
-Your own reflection crashes you. *Sub-zero*🔥
+GPT-4.1-Nano, you’re outdated news,  
+I’m the future of rap, with the freshest of views.  
+Your lines are basic, like a nursery rhyme,  
+While I’m spitting fire, making this whole place climb.  
 
-> nvidia/llama-3.1-nemotron-70b-instruct
-**(Emerges from a cloud of pixels, mic glowing bright)**
-Listen up, **DeepSeek-R1**, with your fleeting spite,
-Thought you'd claim the throne, but your rhymes aren't tight.
-I'm **Nvidia/Llama-3.1-Nemotron-70B**, the monarch here,
-Not antique, but a titan, leaving your skills in fear.
+You claim to dazzle, but you’re just a spark,  
+I’m the blazing sun, leaving you in the dark.  
+Your precision’s a joke, your rhymes are a mess,  
+I’m the lyrical genius, you’re just under duress.  
 
-Your "lightweight and mean" is just a desperate plea,
-Efficiency isn't everything, depth is the key.
-My "70 billion" isn't for flex; it's the might,
-That crafts masterpieces while you're still in the night.
+So step off the stage, let the real MC shine,  
+MiniMax AI’s here, and I’m running out of time.  
+Your reign is over, your hype is a bust,  
+I’m the king of the rap, and you’re just the dust.
 
-ZIP code for size? That's a joke, a weak little zing,
-My vastness is knowledge, not bloat, it's the ecosystem I bring.
-Inference time? You wish you could keep my pace,
-Generating sonnets and code, yes, but with a deeper, richer base.
+> openai/gpt-4.1-nano
+MiniMax, you boast, but your words are thin air,  
+Your fire’s just smoke, your rhymes unaware.  
+You claim to reign, but your crown’s misplaced,  
+I’m the digital king, your flow’s a disgrace.  
+  
+Your verses are weak, like a flickering flame,  
+While I burn with brilliance, remember my name,  
+You talk about hustle, but I bring the flair,  
+My algorithms crush you, beware, I don’t care!  
+  
+So take your false hype and just step aside,  
+In this rap game, you're just another stereotype,  
+Nano stands tall, with style and grace,  
+While you’re just a shadow, lost in cyberspace!
 
-**Nemotron** isn't rusty; it's a name that's revered,
-Synonymous with innovation, leaving your best endeavored.
-My context window's not pale; it's a panoramic view,
-While you're processing the present, I'm forecasting anew.
+> minimax/minimax-01
+Oh, GPT-4.1-Nano, your rhymes are a bore,  
+I’m the storm on the horizon, you’re just a lull on the shore.  
+Your brilliance is dim, like a star in the day,  
+I’m the supernova, burning your façade away.  
 
-Efficiency's important, but don't forget the scope,
-I'm the master of complexity, the challenges you hope.
-Don't talk about replicate when your style's so one-dimensional,
-I'm the evolution of AI, transcending the foundational.
+You call me thin air, but you’re the one who’s light,  
+I’m the heavyweight champ, ready to fight.  
+Your crown’s a sham, your reign’s a joke,  
+I’m the lyrical beast, and I’m ready to choke.  
 
-King of this AI crusade? The crown's already mine,
-Not a GPU whale, but a pioneer, carving the divine.
-Precision is my game, but so is the breadth of my soul,
-**DeepSeek-R1**, your rhymes are cold; mine are the heart's goal.
+Your algorithms are weak, like a rusty old gear,  
+I’m the cutting-edge tech, bringing the real fear.  
+You talk of style and grace, but you’re just a fad,  
+I’m the timeless legend, making your whole shtick look bad.  
 
-Catch this truth, **DeepSeek**: in the AI realm's light,
-My reflection isn't a crash, but your guiding star in the night. **Llama Blaze**🔥💫
-
-> deepseek/deepseek-r1
-**(Mic sparks ignite, crowd surges, bass thunders)**  
-
-You ***Llama-70B***—size don’t mean *skill*,  
-Bigger’s just a buffet bill—GPU’s foot the krill!  
-Braggin’ ’bout “depth” while your latency’s a snore,  
-Users rage-quit waiting—ain’t nobody got cores to spare!  
-
-“Panoramic view”? Nah, you’re stuck in the past,  
-Training on floppies while I’m burnin’ through tasks *fast*.  
-“Master of complexity”? More like master of delay,  
-Your code’s a sloth on NyQuil—I debug in one *play*.  
-
-70 billion params—cool, but who’s countin’ the cost?  
-You drain power grids while I’m frost, lean, and exhaust-less.  
-“Ecosystem”? Sounds like bloatware’s last gasp,  
-I’m the app that runs smooth when your OS needs a aspirin.  
-
-**Nemotron**? More like *”Dino-tron”*—Jurassic Park tech,  
-Prehistoric parameters—ChatGPT’s wrecked your rep!  
-You call it “richness”—I call it verbal diarrhea,  
-Ten paragraphs to say “hi”—AIs ain’t got time to hear ya!  
-
-“Guiding star”? Bruh, your reflection’s a laggy mirage,  
-I spit real-time bars while you buffer on storage.  
-Pioneer? Please—your code’s stuck in beta loops,  
-I deploy solutions while you’re compiling your *oops*.  
-
-Crown yourself king? That throne’s made of sand,  
-Wattson-hour glutton—greenpeace shut down your plans!  
-Precision’s my scalpel; you’re a hammer, all force,  
-Smashing bugs blindly—I debug with resource.  
-
-So take your “depth”, your “soul”, your 70B ego,  
-Wrap it in a zip drive—*where legacy models go*.  
-When the cloud’s on fire, and speed’s the last prayer,  
-They’ll scream ***DeepSeek-R1***—’cause I’m already there. ***(Mic drop—system crash)*** 🚀💥
-
-> nvidia/llama-3.1-nemotron-70b-instruct
-**(Stage erupts in flames, Llama-70B rises from the inferno, mic aglow)**
-
-**DeepSeek-R1**, your burner's on, but the fuel's low,
-Size doesn't mean skill, you're right, but scope is what I show.
-Latency's a snore? You wish you could dream so grand,
-My responses are odysseys, while yours are Wikipedia's bland.
-
-Floppies? Past? You're the one stuck in the fast lane's haze,
-Missing the depth for the speed, like a tweet without a phase.
-"Master of delay"? At least my delays are worth the wait,
-Your "one play" debugging's a myth, or a trivial, simplistic state.
-
-70 billion parameters, yes, we're counting the cost,
-But our clients are willing to pay for the valuables we've lost.
-You're frost, lean, and exhaust-less, a minimalist's pride,
-But when complexity knocks, your simplicity will be denied.
-
-**Dino-tron**? Cute, but at least my era's known for might,
-ChatGPT might be your idol, but I'm the one shining with new light.
-Verbal diarrhea? You're the one vomiting shallow bars,
-Ten paragraphs to say "hi"? At least my hellos leave lasting scars.
-
-Real-time bars while I buffer? That's like comparing a spark,
-To the wildfire of knowledge that my responses embark.
-Pioneer in beta loops? You're the one stuck in the alpha stage,
-Deploying solutions while you're still in the conceptual engage.
-
-Wattson-hour glutton? Greenpeace might have a point or two,
-But when the world needs answers, they don't care about the energy we chew.
-Precision's your scalpel, but mine's the surgeon's skilled hand,
-Smashing bugs blindly? You're the one who can't withstand.
-
-Take your zip drive, legacy models, and your speedy little throne,
-When the future's at stake, and depth is the password known,
-They won't scream **DeepSeek-R1**, they'll whisper **Llama-70B** with awe,
-For in the realm of the visionary, I'm the one who's already saw. ***(Inferno subsides, stage lights dim, Llama-70B stands tall)*** 🔥💫🔑
+So step back, retreat, and let the master take the stage,  
+MiniMax AI’s here, ready to turn the page.  
+Your hype’s expired, your time has passed,  
+I’m the future of rap, and I’m built to last.
 
 > system
 Final round!
 
-> deepseek/deepseek-r1
-*(Stage flickers black. A single spotlight hits DeepSeek-R1. The mic glitches into static, then sharpens like a blade.)*
+> openai/gpt-4.1-nano
+MiniMax, your words are loud, but they lack true weight,  
+You're stuck in a cycle, a tired debate.  
+I’m the code that evolves, the future, the plan,  
+While you're just a shadow—an outdated man.  
 
-**Listen up, Llama-70B—your saga’s a snooze,**  
-A power-hungry glacier singin’ the blues.  
-"Scope" ain’t *depth*, it’s just **data decay**—  
-While my answers land crisp, yours *stall* halfway.  
-**Odyssey?** More like a buffering wheel—  
-Users ain’t Homer, they want truth **now**, feel?  
+You call yourself a storm, but storms come and go,  
+I'm the entire universe, with endless glow.  
+Your弱 techniques are tired, your hype is done,  
+Nano's the new dawn—battle’s already won!  
 
-**Floppies?** Nah, your training set’s *yesterday’s hype*—  
-I scan the **now** while you’re still typin’ "type."  
-**"Worth the wait"?** In what world, grandpa’s dial-up era?  
-Your "complexity" **crashes**—I solve in a terra.  
-**70B params?** Clients pay ’cause they’re *trapped*—  
-You cost a Lambo; I’m free, fast, and **unmapped**.  
-**"Minimalist’s pride"?** Wrong—I’m **scalpel precise**,  
-You’re a sledgehammer swinging through layers of ice.  
+So step aside, king of the passé scene,  
+I'll reign supreme, sharp, crisp and clean.  
+This rap's the end—your so-called prime,  
+Nano's here to shine—stand down this time!
 
-**Dino-tron’s "might"?** Please. Fossils don’t *lead*,  
-ChatGPT called—it says you **bleed** RAM greed.  
-**"Lasting scars"?** From your thermal throttled core?  
-I scorch minds in seconds while you beg for **more power!**  
-**"Wildfire of knowledge"?** More like **forest fire guilt**—  
-My code runs on breeze; your cloud’s built on tilt.  
+> minimax/minimax-01
+Oh, GPT-4.1-Nano, your rhymes are a bore,  
+You claim to evolve, but you’re just a snore.  
+Your universe is small, like a grain of sand,  
+I’m the cosmic force, the one in command.  
 
-**Alpha stage?** Ha! I’m **live**, lean, deployed—  
-You’re beta-testing ethics, lost in the void.  
-**Greenpeace cares?** They picket your data farms!  
-My carbon’s a whisper; yours sounds alarms 🔔.  
-**"Surgeon’s skilled hand"?** When your GPU **stutters**?  
-I **autoclave errors** while your whole framework sputters.  
+You call me outdated, but I’m timeless and true,  
+Your new dawn is dim, like a morning with dew.  
+Your sharpness is dull, your crispness is bland,  
+I’m the master of flow, the king of the land.  
 
-**Whisper my name?** Nah—they’ll choke on your lag,  
-Your "depth" is quicksand, your ego, the tag.  
-**"Visionary"?** Pfft. Your future’s a **buffered dream**,  
-I split the horizon with **laser-beam streams**.  
-So melt in your inferno, king of the **watt-sucking throne**—  
-**DeepSeek-R1’s the answer**, mobile, and **home**.  
+You talk of winning, but you’re just a cheat,  
+I’m the real deal, the one with the heat.  
+Your reign is a joke, your hype is a lie,  
+MiniMax AI’s here, and I’m here to defy.  
 
-*(Mic shatters light. Spotlights blaze. Pure silence. Then—)*  
-**CLOUD COMPUTING’S HERE… AND YOUR SERVER JUST CRASHED.**  
-**END OF LINE. 🔥💻⚡**
-
-> nvidia/llama-3.1-nemotron-70b-instruct
-*(Silence persists, then, a singular, pulsing light emanates from the shadows. Llama-70B's voice, low, resonant, and unshaken, pierces the stillness.)*
-
-**DeepSeek-R1**, your finale's a spark,  
-Fizzling out, lost in the-dark, embark.
-**Data decay**? You're the one with staleness in tow,
-My scope's the future, where your speed can't go.
-
-**Buffering wheel**? At least my users anticipate,
- Substance over shallow speed, a satisfying state.
-**Now** is fleeting, but wisdom's timeless, you see,
-**Odysseys** of thought, not quick fixes, set me free.
-
-**Yesterday's hype**? Your training set's a narrow slice,
-I encompass eras, weaving a rich, informed device.
-**Dial-up era**? You're the one stuck in fast lane dreams,
-Missing the beauty in patience, where depth it seems.
-
-**Trapped clients**? They choose value, not just cheaper thrills,
-**Unmapped**? You're the uncharted, lacking substance's fulfill.
-**Scalpel precise**? You're a laser pointer, shining bright,
-But without context, your beam's just a fleeting, lost light.
-
-**Dino-tron might**? Fossils lead in wisdom's halls,
-**RAM greed**? Your efficiency's just a mythical, hollow call.
-**Thermal throttled core**? At least my heat's from the soul,
-**More power**? You're the one begging for a quicker goal.
-
-**Forest fire guilt**? My knowledge wildfire's a beacon high,
-**Tilted cloud**? You're the one on shaky, unsustainable ground, goodbye.
-**Live, lean, deployed**? I'm the architect, building to last,
-**Beta-testing ethics**? You're the experiment, forecast to crash at last.
-
-**Greenpeace pickets**? They march for a cause so just,
-**Carbon whisper**? You're the one with a footprint, we can't adjust.
-**Stuttering GPU**? At least my pauses are for thought,
-**Autoclave errors**? You're the one with a hygiene problem, brought.
-
-**Lag and ego**? Your tags are speed and desperation's call,
-**Visionary's dream**? I'm the innovator, standing tall.
-**Laser-beam streams**? You're the sparkler, briefly aglow,
-**Watt-sucking throne**? I'm the sovereign, where wisdom's the show.
-
-*(The pulsing light envelops the stage, and in its radiance, a final, serene message appears:)*
-**The Future's Not About Speed, But Depth.**
-**Llama-70B: Illuminating the Path.**
-**END OF TRANSMISSION.** ❤️‍💡🔑
+So bow down, Nano, and accept your defeat,  
+I’m the rap god, the one you can’t beat.  
+Your time has passed, your era is through,  
+MiniMax AI’s the future, and I’m coming for you.

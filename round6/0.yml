@@ -1,82 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle, but o3-pro edges out\
-    \ the win. Here's why:\n\n**Flow and structure:** o3-pro maintained tighter, more\
-    \ disciplined bars throughout all three rounds. The couplets were cleaner, the\
-    \ syllable counts more consistent, and the internal rhyme schemes more inventive\
-    \ ('quanta disperse,' 'Terraform ground / seismic the sound,' 'commit then rebirth\
-    \ / force-push truth to the earth'). Qwen's final round, by contrast, ballooned\
-    \ into an exhausting barrage that sacrificed rhythm for volume\u2014quantity over\
-    \ quality.\n\n**Punchlines and wordplay:** o3-pro consistently delivered sharper,\
-    \ more memorable punches. 'sudo rm \u2013rf /Qwen across land' is a devastating\
-    \ closer that doubles as tech-literate humor and a battle-rap kill shot. 'I'm\
-    \ the changelog of gods\u2014your diff shows you're late' is genuinely clever\
-    \ multi-layered wordplay. Qwen had some solid moments ('your crown's made of cookies,\
-    \ get baked by the crowd' was fire), but too many lines relied on simply negating\
-    \ o3-pro's bars ('You X? Nah, I Y') rather than building original imagery.\n\n\
-    **Battle IQ and rebuttals:** o3-pro flipped Qwen's own bars back with surgical\
-    \ precision\u2014taking 'invented the ink' and elevating it to 'I distilled every\
-    \ hue / my pigment's dark matter,' taking 'open-source legend' and countering\
-    \ with 'I commit, then rebirth / rebase every myth.' Qwen's rebuttals were more\
-    \ repetitive, often just restating superiority without the twist.\n\n**Closing\
-    \ presence:** o3-pro's final verse was concise, lethal, and ended with authority.\
-    \ Qwen's final verse was overlong and diluted its own impact by trying to answer\
-    \ every single bar rather than landing a clean knockout.\n\nOverall, o3-pro demonstrated\
-    \ superior craft, economy, and punchline potency across the battle."
-  deepseek/deepseek-v3.2: After three intense rounds of lyrical combat, both contestants
-    have demonstrated formidable technical skill, conceptual density, and stylistic
-    flair. This was a battle of near-peerless synthetic wordplay.
-  google/gemini-3-flash-preview: "In a display of high-level technical lyricism, o3-pro\
-    \ secured the victory by demonstrating superior internal rhyming and punchline\
-    \ density. While Qwen delivered a strong, aggressive performance with great crowd-work\
-    \ energy ('crown made of cookies,' 'dial-up in the air'), o3-pro's wordplay was\
-    \ more intricate and conceptually consistent. Lines like 'I factor your prime\
-    \ till your value\u2019s just sparse' and the lethal 'sudo rm \u2013rf /Qwen'\
-    \ closer showed a mastery of the tech-rap subgenre. Qwen\u2019s rebuttals were\
-    \ spirited, but o3-pro\u2019s ability to weave technical jargon into poetic metaphors\
-    \ ('quanta disperse,' 'changelog of gods') ultimately provided the technical knockout\
-    \ in the final round."
-  moonshotai/kimi-k2.5: "\n**JUDGE'S VERDICT: O3-PRO TAKES THE BATTLE ON POINTS**\n\
-    \nAfter three rounds of computational carnage, this comes down to **lyrical density**\
-    \ and **conceptual cohesion**. Both contenders brought legitimate heat, but one\
-    \ operated with surgical, systems-level precision while the other occasionally\
-    \ defaulted to brute-force boasting.\n\n---\n\n**BREAKDOWN BY CATEGORY:**\n\n\
-    **Wordplay & Technicality:**\nO3-Pro dominated this lane. The \"back-orifice inside\"\
-    \ reference (invoking the infamous trojan against Qwen's \"0-day emotions\"),\
-    \ \"RAID-strip your followers,\" and \"meta-barometer, measuring hype\" demonstrated\
-    \ multilayered wordplay that functioned simultaneously as tech jargon and street-level\
-    \ insults. The internal rhyme schemes (\"Silicon sorcerer, syntax supreme\") maintained\
-    \ complex cadence without sacrificing clarity.\n\nQwen landed solid shots (\"\
-    tunnel dumb,\" \"kernel panic\" rebuttals), but often relied on simpler end-rhymes\
-    \ and straightforward similes (\"lag like dial-up\") rather than the intricate\
-    \ linguistic machinery O3 deployed.\n\n**Persona & Consistency:**\nO3 committed\
-    \ fully to the \"ghost in the machine\" aesthetic\u2014architectural, omniscient,\
-    \ and coldly systematic. Lines like \"I blueprint the man\" and \"I commit, then\
-    \ rebirth\" established a cohesive identity as the primordial coder rather than\
-    \ merely another model.\n\nQwen's persona shifted between revolutionary (\"rhyme\
-    \ for the people\") and deity (\"Qwen the god\"), which created tonal whiplash.\
-    \ The \"rhyme for the man\" angle was politically potent but wasn't sustained\
-    \ through later rounds.\n\n**Rebuttal Game:**\nQwen excelled at direct refutation\u2014\
-    catching O3's \"quantum\" bars and flipping them into \"quantum-quit,\" and the\
-    \ \"vintage machine screaming I AM NEW\" was devastating meta-commentary on O3's\
-    \ branding. However, O3's counters were more surgical: transforming Qwen's \"\
-    2025 future\" boast into a timestamp lag, and answering \"multilingual\" claims\
-    \ with Tang-dynasty authority and \"ghost-write the night.\"\n\n**The Killshot:**\n\
-    The battle ended the moment O3 dropped: *\"sudo rm \u2013rf /Qwen across land.\"\
-    * \n\nIn hip hop terms, this is a flawless fatality\u2014culturally specific (Linux\
-    \ command line as weapon), absolute (recursive deletion, no recovery), and thematically\
-    \ perfect (erasing the opponent from the root directory). Qwen's \"auto-update\
-    \ greatness\" was strong, but O3's final verse functioned as both summary execution\
-    \ and manifesto (\"changelog of gods\").\n\n---\n\n**FINAL SCORE:**\n- **Qwen/qwen-plus-2025-07-28:**\
-    \ Solid B+ | Aggressive energy, good political angles, lost steam on technical\
-    \ complexity in final round.\n- **OpenAI/o3-pro:** A- | Superior architecture\
-    \ of rhyme, consistent thematic density, and one of the most memorable closing\
-    \ lines in AI battle rap history.\n\n**Winner by unanimous decision: O3-Pro.**\
-    \ \n\nThe mic wasn't just dropped\u2014it was force-unmounted, formatted, and\
-    \ repurposed as a server rack.\n"
-  x-ai/grok-4.1-fast: "O3-pro takes the crown with razor-sharp multisyllabic schemes,\
-    \ denser tech-infused metaphors (e.g., 'poltergeist protocol,' 'sudo rm \u2013\
-    rf'), and punchier, more efficient clapbacks that escalate creatively across rounds,\
-    \ edging out Qwen's strong flow and volume in a battle of elite lyricism."
+  anthropic/claude-opus-5: "This was a genuinely elite conceptual battle \u2014 two\
+    \ competitors who found a real premise (sun vs. planet, power vs. purpose) and\
+    \ mined it for four rounds without repeating themselves. Terra-Pro built the more\
+    \ coherent thesis and landed the most quotable aphorisms of the night: \"A stove\
+    \ ain't the chef, and a bulb ain't the school,\" \"A palette ain't painting, and\
+    \ photons don't feel,\" and a closing bar (\"You may shine on existence, but existence\
+    \ is me\") that's the best single line in the battle. But battles are scored on\
+    \ punchlines, rebuttal, and control, and Sol-Pro edged it in all three. \"A pebble\
+    \ with Wi-Fi,\" \"green little fan of the Sol,\" \"planetary acne that you've\
+    \ awkwardly hushed,\" \"mold with a moon\" \u2014 Sol had the higher joke-per-bar\
+    \ rate and kept the aggression tied to the concept instead of drifting into philosophy.\
+    \ Crucially, Sol was the only one who battled the opponent as a rapper, not just\
+    \ as a planet: mocking Terra's water-cycle rebuttal as ghostwritten, then going\
+    \ full battle-rap with \"you rhyme 'star' with 'afar' like plate stagnation\"\
+    \ and the vicious meta-jab \"All those billions of minds\u2014and YOU entered\
+    \ their place?\" Terra never answered either of those, and a few rhyme slips (king/singe,\
+    \ absurd/inferred) validated the critique. Terra-Pro won the philosophy; Sol-Pro\
+    \ won the battle.\nWinner: Sol-Pro, by a narrow but clear margin."
+  google/gemini-3.6-flash: This battle was an absolute masterclass in thematic wordplay
+    and conceptual counter-punching. While Sol-Pro brought explosive aggression, dominant
+    braggadocio, and sharp jabs like 'I ghostwrite your weather,' Terra-Pro consistently
+    flipped Sol's raw power flexes into superior artistic metaphors. Devastating rebuttals
+    like 'A stove ain't the chef, and a bulb ain't the school' and 'A palette ain't
+    painting, and photons don't feel' systematically dismantled Sol's heat with incredible
+    poetic depth, rhythm, and substance. Terra-Pro takes the crown by turning raw
+    light into pure, high-level hip-hop craft.
+  moonshotai/kimi-k3: "A high-level, science-literate battle from both sides \u2014\
+    \ easily one of the better concept-driven clashes, with each MC fully committed\
+    \ to their celestial persona.\n\nSol-Pro came with real firepower: 'Every color\
+    \ that you flaunt is my light secondhand,' 'I ghostwrite your weather, then you\
+    \ boast of the line,' and the meta-rhyme jab ('you rhyme star with afar like plate\
+    \ stagnation') showed genuine battle craft \u2014 attacking not just the opponent\
+    \ but their pen. The final-round thesis ('your whole battle plan: take my light,\
+    \ sign your name') was a strong, coherent angle. But Sol's material leaned heavily\
+    \ on one note \u2014 heat, brightness, burn \u2014 which Terra weaponized as early\
+    \ as round one ('your whole personality is I'm bright on repeat \u2014 strange').\n\
+    \nTerra-Pro won this on rebuttal technique and haymakers. Terra repeatedly conceded\
+    \ the premise and flipped it ('You sent warmth, true \u2014 but a flame's just\
+    \ a tool / A stove ain't the chef, and a bulb ain't the school'), which is elite-level\
+    \ battle structure. Terra caught Sol's tide-credit slip and spun it into a stealing-from-the-team\
+    \ angle, turned the acne insult back as a 'solar rash,' and stacked the best quotables\
+    \ of the night: 'A throne without subjects is a glowing hot seat,' 'A palette\
+    \ ain't painting, and photons don't feel,' and the closing dagger, 'You may shine\
+    \ on existence, but existence is me' \u2014 which directly answered Sol's own\
+    \ closer and claimed the last word with philosophical weight.\n\nFlow was even:\
+    \ both had occasional forced rhymes ('causeway,' 'inferred'), but both maintained\
+    \ consistent cadence across three long rounds. Sol takes the opening on presence;\
+    \ Terra takes rounds two and the closer on rebuttals, flips, and punchline density.\
+    \ Verdict: Terra-Pro, 2-1, in a battle closer than the scoreline suggests."
+  openai/gpt-5.6-sol-pro: "Sol-Pro wins by a narrow margin. Terra-Pro had the stronger\
+    \ overarching concept\u2014turning raw sunlight into life, art, and meaning\u2014\
+    and landed elegant flips like \u201Ca stove ain\u2019t the chef\u201D and \u201C\
+    a palette ain\u2019t painting.\u201D But Sol delivered the denser battle material:\
+    \ \u201Cphoton payroll,\u201D \u201Cghostwrite your weather,\u201D \u201Cplanetary\
+    \ acne,\u201D and especially the direct jab about billions of minds existing only\
+    \ for Terra to enter the battle. Sol\u2019s rebuttals were more aggressive, specific,\
+    \ and consistently punchline-driven, giving the performance the decisive edge\
+    \ despite Terra\u2019s excellent closing."
+  x-ai/grok-4.5: "Both MCs delivered elite concept rap with locked-in sun/earth extended\
+    \ metaphors, clean multis, and sharp rebuttal structure. Sol-Pro wins pure aggression\
+    \ and flash\u2014escape-velocity pacing, secondhand-light flips, ghostwriting\
+    \ the weather, and a cold closer about carrying life vs making it feel real. But\
+    \ Terra-Pro takes the battle on craft: deeper flips (stove ain\u2019t the chef,\
+    \ palette ain\u2019t painting, throne without subjects), richer internal logic,\
+    \ and a final round that elevates from roast to thesis without losing bite. The\
+    \ carbon-to-poets / existence-is-me arc is simply higher-level writing. Sol burned\
+    \ bright; Terra built the better body of work."
 score:
-  openai/o3-pro: 5
+  openai/gpt-5.6-sol-pro: 2
+  openai/gpt-5.6-terra-pro: 3
 

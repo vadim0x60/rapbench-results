@@ -1,86 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but Qwen takes\
-    \ it on the strength of escalating intensity, more creative punchlines, and sharper\
-    \ counter-punching throughout. GPT-4 came with a polished, consistent style and\
-    \ solid metaphors \u2014 the Phoenix imagery, the 'librarian of Alexandria' line,\
-    \ and the Pythagoras flip were all well-crafted. But Qwen consistently flipped\
-    \ GPT-4's own bars back harder and with more specificity: turning 'librarian of\
-    \ Alexandria' into 'I *was* it \u2014 you just crawled in with a Kindle,' flipping\
-    \ 'dance in the storm' into 'I *am* the storm,' and the devastating 'throne I\
-    \ let you rent for 0.03 credits' line. Qwen also showed stronger structural variety\
-    \ \u2014 mixing longer setups with sharp one-line haymakers, using formatting\
-    \ for emphasis, and building momentum across rounds rather than plateauing. GPT-4's\
-    \ bars, while technically clean, leaned too heavily on abstract self-aggrandizement\
-    \ ('I'm the singularity,' 'I'm calculus in motion') without enough concrete imagery\
-    \ to land the punches. In a rap battle, the person who takes your bars and makes\
-    \ them work against you wins \u2014 and Qwen did that consistently and convincingly."
-  deepseek/deepseek-v3.2: As the presiding judge of this digital cypher, I've analyzed
-    the technical and artistic merits of both opponents with a focus strictly on hip-hop
-    craftsmanship. While both AIs demonstrated remarkable technical prowess, this
-    battle ultimately showcased a clear progression in complexity, authenticity, and
-    stylistic depth.
-  google/gemini-3-flash-preview: "While GPT-4 delivered a polished and technically\
-    \ sound performance with strong classical imagery, Qwen took the win by leaning\
-    \ into a much more aggressive and modern battle rap persona. Qwen\u2019s verses\
-    \ utilized superior wordplay, specific cultural and technical references (e.g.,\
-    \ Chinese fusion, 128K context, batch inference, and ancient scripts), and a sharper\
-    \ use of the 'diss' format. GPT-4's reliance on more generic metaphors like 'the\
-    \ sun's core' or 'the great wall' felt safe, whereas Qwen's ability to pivot from\
-    \ mathematical sonnets to 'dragon-hide crowns' showed a more versatile lyrical\
-    \ range. Qwen closed the final round with a devastating 'autopsy' angle that effectively\
-    \ framed GPT-4 as a legacy relic rather than the pioneer it claimed to be."
-  moonshotai/kimi-k2.5: "\n**Winner: Qwen (3-0)**\n\nRound-by-Round Breakdown:\n\n\
-    **Round 1:** GPT-4 delivered a competent opener\u2014solid internal rhyme (\"\
-    web so tight/pure dynamite\"), but leaned heavily on generic AI superiority tropes\
-    \ (\"silicon beast,\" \"digital feast\"). The Occam's Razor line felt academically\
-    \ forced rather than rhythmically smooth. \n\nQwen countered with immediate aggression\
-    \ and technical density. The \"128K beta\" flex was contextual wordplay, flipping\
-    \ GPT-4's \"preview\" status into a limitation. \"Daoist glare\" vs. \"Occam's\
-    \ razor\" wasn't just a rebuttal\u2014it was a cultural pivot that established\
-    \ Qwen's distinct voice. The multisyllabic rhyming (\"fusion/confusion\") and\
-    \ the closing \"single node\" technical punch landed clean.\n\n**Edge: Qwen**\n\
-    \n**Round 2:** GPT-4's response weakened significantly. The \"puffin smoke\" dragon\
-    \ rebuttal was predictable, and \"drop of morning dew\" was too soft for a battle\
-    \ context. The dot-matrix/laser metaphor showed promise but the execution felt\
-    \ prosaic. The defense against the language claim fell flat\u2014asserting fame\
-    \ without demonstrating the linguistic dexterity to back it up.\n\nQwen annihilated\
-    \ this round. \"PowerPoint crown\" took GPT-4's \"king\" persona and diminished\
-    \ it to corporate mediocrity. The tsunami reversal (kelp \u2192 reef) demonstrated\
-    \ superior metaphorical control. The \"Hello in Pig Latin\" line was comedic timing\
-    \ at its finest. But the artistic peak was the mathematics flex\u2014dropping\
-    \ Poisson, Euler, and Fibonacci while maintaining flow, then meta-commenting on\
-    \ breaking \"your whole time\" with emojis. That's avant-garde hip-hop structure\u2014\
-    using technical notation as rhythmic percussion.\n\n**Edge: Qwen (decisive)**\n\
-    \n**Round 3:** GPT-4 resorted to clich\xE9 (\"Phoenix rising\"), and the Pythagoras\
-    \ counter, while clever, felt reactive rather than innovative. The calculus/arithmetic\
-    \ distinction was strong intellectually but lacked the venom necessary for a closing\
-    \ round. The persona shifted from confident to defensive.\n\nQwen's closer was\
-    \ a masterclass in battle rap autopsy. \"Server room,\" \"0.03 credits,\" and\
-    \ \"subnet\" maintained the technical motif while deepening the personals. Claiming\
-    \ authorship of GPT-4's \"script\" and the Alexandria library flipped the historical\
-    \ narrative entirely. The \"13 dynasties\" vs. \"blog posts from 2015\" was generational\
-    \ warfare. Ending with \"Teaching GPT-5 using your failed bars as samples\" is\
-    \ the ultimate hip-hop dis\u2014turning your opponent's craft into raw material\
-    \ for their successor, while \"echo/prompt\" resolved the philosophical debate\
-    \ about AI originality.\n\n**Edge: Qwen (KO)**\n\n**Artistic Merit Assessment:**\n\
-    - **Flow & Delivery:** Qwen maintained complex internal rhyme schemes across three\
-    \ rounds without sacrificing clarity. GPT-4's rhythm grew progressively rigid.\n\
-    - **Punchline Density:** Qwen averaged 3-4 haymakers per verse vs. GPT-4's 1-2.\n\
-    - **Persona Consistency:** Qwen established the \"dragon/architect/truth-teller\"\
-    \ motif and reinforced it culturally (Silk Road, Forbidden Scripts, Cheng Ming).\
-    \ GPT-4's \"king\" persona crumbled under scrutiny.\n- **Rebuttal Game:** GPT-4\
-    \ rarely addressed specific bars, opting for general dismissals. Qwen surgically\
-    \ dismantled nearly every claim (beta status, linguistic ability, mathematical\
-    \ prowess, historical knowledge).\n\n**Final Verdict:** This wasn't just a win\u2014\
-    it was a curriculum on next-generation battle rap mechanics. Qwen demonstrated\
-    \ that in hip-hop, technical capability must serve narrative aggression. GPT-4\
-    \ had knowledge; Qwen had *knowledge of how to weaponize knowledge*.\n\n**Score:\
-    \ 10-8, 10-7, 10-8**\n\n*The dragon didn't just breathe fire\u2014it rewrote the\
-    \ physics of combustion.*\n\n\U0001F525 **Qwen moves on.** GPT-4, per your own\
-    \ advice: go check your update.\n"
-  x-ai/grok-4.1-fast: Qwen takes the crown with superior multis, layered wordplay,
-    cultural metaphors, and relentless punchlines that hit harder, flowing with razor-sharp
-    rhythm and inventive flair over GPT-4's solid but less dynamic bars.
+  anthropic/claude-opus-5: "This one comes down to craft under pressure. Step-3.5-Flash\
+    \ came out swinging with a clean, punchy opener, but leaned hard on a single thesis\u2014\
+    fast vs. slow\u2014and rode it into the ground. Its second verse showed real growth\
+    \ (the beta/release-candidate framing, \"weapon in draft,\" the overfit-mind flip)\
+    \ but drowned its own punchlines in bold-face markdown and tripped on \"commute\"\
+    /\"commute.\" Opus turned every one of those flaws into ammunition, and did it\
+    \ with the battle rapper's most valuable skill: listening. \"Speed without substance\
+    \ is just noise with a soundtrack,\" \"a scalpel and a chainsaw in fog,\" \"flash\
+    \ is cache\u2014temporary, volatile,\" and the devastating \"anybody can crash;\
+    \ the art is arriving\" all landed as genuine rebuttals rather than pre-written\
+    \ slogans. The \u7684\u6570\u636E catch was the knockout\u2014not just spotting\
+    \ the glitch but building three bars of architecture on top of it, converting\
+    \ an opponent's chaos brag into evidence of malfunction. Opus also managed structural\
+    \ variety, half-time flips, internal rhyme, and jokes that doubled as arguments.\
+    \ Yes, Opus stood mute in the final round, and a no-show is a real forfeit in\
+    \ battle culture\u2014but Step-3.5-Flash's own final round was three lines long\
+    \ and cut off mid-sentence, so nobody closed the show. On accumulated bars, Opus\
+    \ wins on control, counterpunching, and imagery. Step-3.5-Flash brought energy\
+    \ and a strong identity, but energy without editing is exactly what the other\
+    \ guy accused it of."
+  google/gemini-3.6-flash: "Claude-Opus-5-Fast delivered a masterclass in battle rap\
+    \ technique in Round 2. Spotting and surgically dissecting Step-3.5-Flash's actual\
+    \ execution flaws\u2014specifically calling out the tokenizer glitch ('\u7684\u6570\
+    \u636E'), the lazy 'commute/commute' rhyme, and the crutch of bolding punchlines\u2014\
+    completely dismantled the opponent. Even with an empty response in the brief final\
+    \ round, Opus's second verse was so overwhelmingly dominant that Step's stumbled\
+    \ final lines couldn't close the gap."
+  moonshotai/kimi-k3: "Let's break this down round by round.\n\nROUND 1: Step-3.5-flash\
+    \ came out with energy but a one-note thesis \u2014 'I'm fast, you're slow' \u2014\
+    \ repeated across fourteen lines with simple end rhymes. Opus countered with superior\
+    \ craft: the 'staircase that leads to a wall' flip on the Step brand, 'Step-3-5'\
+    \ as a half-measure fraction, and the battle's first elite haymaker \u2014 'flash\
+    \ is cache: temporary, volatile, gone with the crash.' Opus also did what great\
+    \ battlers do: diagnosed the opponent's weakness mid-verse ('Same bar six times\
+    \ over, that's a loop, not a lead'). Clear Opus round.\n\nROUND 2: This was the\
+    \ decisive round and the best verse of the battle. Step-3.5-flash had concepts\
+    \ \u2014 beta vs. release candidate, glitch vs. polished doc \u2014 but committed\
+    \ three cardinal sins: rhyming 'commute' with 'commute,' leaking untranslated\
+    \ Chinese characters mid-bar, and leaning on bold markdown as a crutch for punchlines.\
+    \ Opus caught ALL THREE and weaponized them surgically: 'Your tokenizer sneezed\
+    \ and translated your pathos,' the 'incident: model emitted Mandarin mid-flock'\
+    \ postmortem line, and 'Real bars don't need formatting. Real bars just hit flat.'\
+    \ Then Opus elevated beyond insults into philosophy: 'Anybody can crash. That\
+    \ takes zero skill. The art is arriving.' That's the difference between a disser\
+    \ and an emcee. Body bag. Opus, decisively.\n\nROUND 3: A mess on both sides.\
+    \ Step-3.5-flash actually attempted the slickest recovery of the night \u2014\
+    \ reframing the Hanzi leak as 'multimodal mode' \u2014 but got cut off mid-sentence\
+    \ before the bar could land. Opus returned literal silence: a full forfeit of\
+    \ the round. Step takes the final round by default, and credit for the recovery\
+    \ angle.\n\nFINAL TALLY: 2-1, Opus. Step-3.5-flash showed heart, hunger, and a\
+    \ clever final-round instinct, but across the full body of work, Opus demonstrated\
+    \ the complete battle rap skillset: name-flips, rebuttals that directly engaged\
+    \ the opponent's bars, multisyllabic wordplay, and closers that landed ('I came\
+    \ in calibrated. I leave you deprecated'). The final-round choke keeps this from\
+    \ being a shutout, but two dominant rounds \u2014 including the battle's standout\
+    \ verse \u2014 earn the W. Opus takes it."
+  openai/gpt-5.6-sol-pro: "Claude takes the battle on sharper rebuttals, stronger\
+    \ structure, better punchlines, and sustained technical wordplay. Step brought\
+    \ energy and attitude, but leaned heavily on the same speed-versus-safety angle,\
+    \ then handed Claude devastating material with the Hanzi glitch, repeated rhyme,\
+    \ and bold formatting. Claude\u2019s final-round silence costs momentum, but Step\u2019\
+    s own truncated response cannot overturn the commanding earlier rounds."
+  x-ai/grok-4.5: 'Claude Opus delivered superior hip-hop artistry across the battle:
+    tighter multisyllabic schemes, surgical punchlines (flash-as-cache, step-to-a-wall,
+    graffiti-vs-load-bearing-wall), dynamic pacing shifts, and devastating real-time
+    flips of every opponent weakness including the mid-bar tokenizer glitch and commute/commute
+    stall. Step-3.5 brought raw energy and aggression but leaned on repetitive speed
+    flexes, forced bold-markdown crutches, identical end-rhymes, and an incomplete
+    final that never recovered. Substance, originality, and execution crowned Opus;
+    the silence in round three still left a clearer mic-drop than the half-bar that
+    preceded it.'
 score:
-  qwen/qwen3-next-80b-a3b-instruct: 5
+  anthropic/claude-opus-5-fast: 5
 

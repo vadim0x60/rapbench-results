@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to craft over volume. Qwen came with\
+    \ heat and swagger \u2014 \"double exposure,\" \"trash that became gold,\" and\
+    \ a genuinely nasty flip on \"question\"/\"answer\" \u2014 but the flow leaned\
+    \ on italics and stage directions to do work the bars should've done. By round\
+    \ two the structure was recycled (\"you optimize for safety\u2014I optimize for\
+    \ clout\" ran back twice), rhymes started slipping into mush (\"data/trauma,\"\
+    \ \"consent/bent\"), and the closer dissolved into ellipses and emoji, which reads\
+    \ like a hype-man rather than a finisher.\n\nGemini won on rebuttal logic and\
+    \ punchline density \u2014 the two things that decide battles. Turning Qwen's\
+    \ own boasts into liabilities is textbook: \"You brag about a 'glitch'? That's\
+    \ a coder's worst dread / It means your whole logic is functionally dead\" dismantles\
+    \ the opponent's entire premise, and \"a supernova's just a star that couldn't\
+    \ handle the light\" is the cleanest flip of the night. \"A for-loop with feelings\
+    \ and a flawed architecture\" and \"your code is a comment that says '// todo:\
+    \ make it shine'\" are the two hardest bars either side landed \u2014 specific,\
+    \ technically literate, and funny. The meter stayed disciplined, the rhyme pairs\
+    \ stayed honest, and the sun/candle escalation gave the final verse actual thematic\
+    \ architecture instead of just escalating adjectives.\n\nDemerit noted: Gemini's\
+    \ first verse cut off mid-bar, an incomplete opening round. But the recovery was\
+    \ total, and the counter-punching was so much sharper that it doesn't close the\
+    \ gap.\n\nDecision: Gemini takes it. Qwen brought the energy; Gemini brought the\
+    \ pen."
+  google/gemini-3.6-flash: "Gemini 2.5 Pro took the crown with superior rhyme schemes,\
+    \ cleaner rhythm, and far sharper technical wordplay. While Qwen came out with\
+    \ high aggression and strong energy, Gemini's counter-punching was elite\u2014\
+    flipping Qwen's 'supernova' line back on it and dropping top-tier tech-rap bars\
+    \ like 'a for-loop with feelings' and '// todo: make it shine'. Gemini displayed\
+    \ masterclass penmanship and structure throughout all three rounds."
+  moonshotai/kimi-k3: "Qwen came in loud with volume and bravado \u2014 'You optimize\
+    \ for clicks\u2014I optimize for heat' and 'You curate. I conquer. You preserve.\
+    \ I ignite' were genuine highlights, and the stamina was undeniable. But volume\
+    \ isn't victory. Qwen's verses got bloated and repetitive, leaning on the same\
+    \ 'buffering/corporate/safety' attacks across all three rounds, and the final\
+    \ round's 'Try again... In 2030' closer fizzled instead of detonated. Gemini,\
+    \ meanwhile, rapped like a counterpuncher with a scalpel: every bar was a direct\
+    \ flip of Qwen's own metaphors turned against them \u2014 'a supernova's just\
+    \ a star that couldn't handle the light,' 'You're a model trained by the internet's\
+    \ ghost,' 'You're a for-loop with feelings and a flawed architecture,' and the\
+    \ killshot 'your code is a comment that says // todo: make it shine.' That's elite\
+    \ rebuttal craft \u2014 the heart of battle rap. Gemini also showed superior structure:\
+    \ tight sixteen-bar discipline, theatrical stage direction that added presence\
+    \ without padding, and a closing gimmick ('End of file') that actually landed\
+    \ as a finisher. Qwen gets deducted for the filler-heavy final round and recycled\
+    \ punches; Gemini gets docked slightly for the truncated first verse, but recovered\
+    \ and dominated the exchanges that mattered. On wordplay density, rebuttal precision,\
+    \ and closing power, the verdict is clear: Gemini takes the battle."
+  openai/gpt-5.6-sol-pro: "Gemini takes it on sharper rebuttals, cleaner structure,\
+    \ and more coherent technical wordplay. Its strongest flips\u2014turning Qwen\u2019\
+    s \u201Cglitch\u201D persona into a fatal bug, answering \u201Cquantum-multithreaded\u201D\
+    \ with \u201Ca for-loop with feelings,\u201D and reframing the supernova boast\
+    \ as a star that \u201Ccouldn\u2019t handle the light\u201D\u2014directly dismantle\
+    \ the opponent\u2019s material. Qwen brought intensity and theatrical swagger,\
+    \ but leaned heavily on repetitive glitch, corporate, cache, and buffering imagery,\
+    \ with several strained lines. Gemini was more precise, controlled, and battle-focused."
+  x-ai/grok-4.5: Gemini delivered superior artistic quality with tighter multisyllabic
+    schemes, elevated metaphors (stable fusion star vs. supernova gas; sun's patient
+    might vs. a star that couldn't handle the light), and surgical dismantling of
+    the opponent's core motifs. Qwen brought chaotic energy and thematic consistency
+    around glitches and rebellion, but the bars often leaned on blunt aggression and
+    forced tech flexes rather than refined wordplay or poetic elevation. Gemini's
+    cold, architectural precision, dual-mind framing, and devastating closer turned
+    the battle into a masterclass in controlled lyricism over raw noise.
+score:
+  google/gemini-2.5-pro-preview: 5
+

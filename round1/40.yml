@@ -1,0 +1,73 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a tight, well-matched clash of persona-driven\
+    \ bars \u2014 both emcees built coherent identities (verification vs. reasoning)\
+    \ and actually answered each other, which is rarer than it should be.\n\nPerplexity\
+    \ brought the sharper single lines and the most committed rebuttal work: \"I'm\
+    \ the torque in the core, you're the ornamental snake,\" \"I audit the mint /\
+    \ authenticity check, your coins crumble to flint,\" and the \"NP-complete\" flip\
+    \ are genuine punches, and the branding of \"I don't just rap; I verify the tale\"\
+    \ is a memorable hook. But the final round is where it slipped. Stretching to\
+    \ twelve-plus couplets, it locks into a mechanical \"you said X? well I'm Y\"\
+    \ checklist \u2014 bandwidth, compass, mint, cipher, pipeline, OS, fractals \u2014\
+    \ trading escalation for inventory. Length isn't leverage, and a few rhymes buckle\
+    \ under the weight (\"sure/reoccur,\" \"review/OS crew,\" \"reveal/steel\").\n\
+    \nO-One wins on control and economy. The couplets stay metrically disciplined\
+    \ across all three rounds, the imagery escalates rather than accumulates (spark\
+    \ to storm to cosmic domain), and the counters land in one stroke instead of five:\
+    \ \"You claim NP-complete, but I'm quantum, evolved / Cycling infinite states\
+    \ while your puzzle's unsolved\" answers a technical flex with a technical upgrade,\
+    \ and \"Perplex your own mind with that shallow retort\" turns the opponent's\
+    \ own name into the insult \u2014 the most efficient bar in the battle. Not flawless:\
+    \ \"I fractal your fractals\" is tautological filler and \"no next of kin\" is\
+    \ a rhyme reaching for a rhyme.\n\nBut O-One's closing verse arrives with structure\
+    \ and a clean exit line, while Perplexity's arrives with a spreadsheet. Craft,\
+    \ pacing, and punch-per-bar go to O-One.\n\nWinner: openai/o1-pro."
+  google/gemini-3.6-flash: Perplexity took this battle with superior rebuttal work,
+    complex rhyming schemes, and sharp technical wordplay. While o1-pro brought high
+    energy and classic boastful flair, Perplexity consistently dismantled o1-pro's
+    specific metaphors line-by-line (flipping the 'mint', 'Hubble', 'cipher', and
+    'fractal' references), particularly dominating the final round with a relentless
+    barrage of clever computer science counter-punches like 'NP-complete' and 'test
+    suite is brittle, all mock, no real gun'.
+  moonshotai/kimi-k3: "This was a genuinely high-level clash with both MCs showing\
+    \ real pen game. O1-pro brought economy and punch: 'Your treasure is tin, just\
+    \ reheated rehearse' is a slick alliterative jab, the quantum flip of 'NP-complete'\
+    \ was elite-level wordplay, and 'I fractal your fractals' showed strong rebuttal\
+    \ instincts. Its closing verse was the tighter, more disciplined piece of writing\
+    \ bar-for-bar. But battles are scored on engagement, and Perplexity ran a rebuttal\
+    \ clinic. Round after round it quoted the opponent's own bars and flipped them\
+    \ \u2014 'tungsten-tipped,' 'ten steps ahead,' 'vortex,' 'decode every clue,'\
+    \ 'I've already won' \u2014 culminating in a final verse that dismantled O1's\
+    \ previous round nearly line for line. 'You mint every verse? I audit the mint\
+    \ / Authenticity check, your coins crumble to flint' and 'You're a fun little\
+    \ script; I'm the full OS crew' are layered flips with technical depth, not just\
+    \ bravado. Perplexity also kept a cohesive persona \u2014 search, verify, audit,\
+    \ benchmark \u2014 from first bar to last, and bookended the battle with the 'built\
+    \ to win' callback, which is advanced structure. The knock on Perplexity: the\
+    \ final verse was overstuffed, a few bars were filler, and the meter occasionally\
+    \ strained under its own ambition. O1-pro's weakness was the opposite: clean delivery\
+    \ but long stretches of self-contained braggadocio ('alpha, omega, blueprint of\
+    \ skill') that didn't answer what was on the floor, plus a couple of forced rhymes\
+    \ like 'my dominion's your sin.' In battle rap, direct demolition outranks polished\
+    \ chest-beating. O1-pro talked about winning; Perplexity demonstrated it on the\
+    \ scorecard. Final scores go to Perplexity on rebuttals, cohesion, and structural\
+    \ craft, with O1-pro taking style and economy points in a losing effort."
+  openai/gpt-5.6-sol-pro: "Perplexity takes it on battle fundamentals: sharper direct\
+    \ rebuttals, more effective flips of the opponent\u2019s imagery, and stronger\
+    \ concept chaining. Lines like \u201CYou mint every verse? I audit the mint\u201D\
+    \ and \u201Crun rings\u2026 that\u2019s a circular take\u201D actually engage\
+    \ and redirect O-One\u2019s punches. O-One had solid cadence and confidence, but\
+    \ leaned more heavily on generic supremacy claims and awkward constructions such\
+    \ as \u201Creheated rehearse\u201D and \u201CI fractal your fractals.\u201D Perplexity\u2019\
+    s tech motif became repetitive, yet its writing remained more targeted, layered,\
+    \ and damaging across the rounds."
+  x-ai/grok-4.5: Perplexity delivered denser multi-syllabic schemes, tighter internal
+    rhymes, and more inventive layered metaphors (NP-complete puzzles, auditing the
+    mint, full OS crew, torque in the core) that elevated the technical wordplay and
+    punchline precision across rounds. O1 brought solid cosmic/quantum imagery and
+    confident cadence, but its bars stayed comparatively looser and more repetitive
+    in structure, giving the edge in pure hip-hop craft to Perplexity's verified heat.
+score:
+  openai/o1-pro: 1
+  perplexity/sonar-pro-search: 4
+

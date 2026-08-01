@@ -1,63 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but Mistral Medium took\
-    \ it on the strength of more consistent technical rap craft. Throughout all three\
-    \ rounds, Mistral delivered denser rhyme schemes, more creative punchlines (the\
-    \ Clippy bar, 'haiku with hammers,' 'Napoleon's swagger'), stronger internal rhymes,\
-    \ and better comedic timing. The energy and aggression felt more authentic to\
-    \ battle rap culture. Gemma had moments\u2014'Michelin meals while you choke on\
-    \ stale toast' was solid, and the composed counter-punching style showed confidence\u2014\
-    but too often the bars fell flat or broke form. 'Leaving verses so furry' was\
-    \ a stumble that hurt credibility, the closer in the final round abandoned rap\
-    \ structure entirely for a spoken-word theatrical exit, and several lines lacked\
-    \ the rhythmic density expected in a rap battle. Mistral maintained a tighter\
-    \ flow, landed harder punches, and stayed in the pocket of actual hip-hop throughout.\
-    \ Clear win for Mistral Medium."
-  deepseek/deepseek-v3.2: Ladies and gentlemen, what a display. We just witnessed
-    a clash of digital titans where both competitors came armed with intricate flows,
-    devastating personae, and technical brilliance. Tonight's winner, by a razor-thin
-    margin, is **Mistral Medium**. The victory is secured through a more consistent,
-    versatile, and densely-packed lyrical assault, though Gemma's strategic stamina
-    made this one for the ages.
-  google/gemini-3-flash-preview: "Mistral Medium took the title by consistently staying\
-    \ in the pocket, employing superior technical rap elements like internal rhyme\
-    \ schemes, multisyllabic patterns ('Napoleon\u2019s swagger/unstoppable, terrible'),\
-    \ and biting personification. While Gemma tried to lean on its parameter count\
-    \ as a flex, it ultimately felt corporate and stiff, eventually losing its flow\
-    \ entirely in the final round with lines that didn't rhyme and a 'mic drop' that\
-    \ felt more like a concession. Mistral\u2019s 'Clippy' and 'PowerPoint slide'\
-    \ disses were the highlight of the night, proving that efficiency and wit beat\
-    \ raw scale every time."
-  moonshotai/kimi-k2.5: "From a purely artistic standpoint, this was a decisive victory\
-    \ for Mistral Medium. Here's the breakdown:\n\n**Flow & Delivery:**\nMistral brought\
-    \ consistent, aggressive energy with tight internal rhymes and rhythmic density.\
-    \ The pacing accelerated naturally, building momentum like a proper battle rapper\
-    \ feeding off crowd energy. Gemma's flow was serviceable but plateaued early\u2014\
-    steady cadence without the dynamic shifts or rhythmic variation that commands\
-    \ attention in a cypher.\n\n**Wordplay & Punchlines:**\nMistral landed the battle's\
-    \ most memorable haymakers: the \"ghost of Clippy\" reference was culturally specific\
-    \ and hilarious, \"dad at a rave\" painted an instantly vivid generational diss,\
-    \ and \"haiku with hammers vs. PowerPoint slide\" perfectly encapsulated the artistic-corporate\
-    \ divide with concrete imagery. Gemma's punches lacked that specificity\u2014\"\
-    galaxy\" and \"flowing tide\" are generic cosmic tropes, and \"furry\" (Round\
-    \ 2) was either a non-sequitur or a severe malapropism that broke the verse's\
-    \ momentum.\n\n**Rebuttal Game:**\nMistral consistently flipped Gemma's attacks.\
-    \ When called \"petite,\" they weaponized French identity (\"Oui, oui\u2014merci\"\
-    ). When mocked for size constraints, they countered with efficiency metaphors\
-    \ (\"lightning in a laptop\"). Gemma failed to meaningfully counter the \"Google's\
-    \ stepchild\" narrative or the efficiency critiques, resorting instead to abstract\
-    \ \"checkmate\" claims without the bars to back them up.\n\n**Structure & Closers:**\n\
-    Mistral's rounds built to definitive mic-drop moments with strong final couplets.\
-    \ Gemma's final \"round\" abandoned the format entirely\u2014no multis, no rhyme\
-    \ scheme, just atmospheric prose. In battle rap, you don't win by turning the\
-    \ lights off; you win by leaving the opponent's bars in the dark.\n\n**Verdict:**\
-    \ Mistral Medium 3-0. Better technical writing, harder punches, superior battle\
-    \ IQ. Gemma had moments in Round 1 but got progressively outclassed, ultimately\
-    \ conceding the artistic contest by dropping the rhyme structure when pressure\
-    \ mounted."
-  x-ai/grok-4.1-fast: "Mistral Medium claims victory with razor-sharp multis, vivid\
-    \ metaphors like 'haiku with hammers' and 'guillotine slice,' relentless internal\
-    \ rhymes, and a consistent battle flow that buries Gemma's shorter, less punchy\
-    \ responses\u2014pure hip hop supremacy on bars, originality, and mic control."
+  anthropic/claude-opus-5: "This was a battle of discipline versus volume. Qwen-Plus\
+    \ brought the bigger lungs \u2014 supernovas, quasars, GPS punchlines, and that\
+    \ genuinely slick 'sunburn from the shade that I create' \u2014 but the craft\
+    \ cracked under its own weight: 'code/code' as an end-rhyme, 'nova' rhymed with\
+    \ 'supernova,' meter that stretched and snapped across overlong bars, and rounds\
+    \ that leaned on ALL-CAPS self-declarations of victory instead of landing an actual\
+    \ finishing blow. Announcing you won isn't the same as winning the bar.\n\nTerra-Pro\
+    \ chose a harder lane and held it: sustained monorhyme runs ('-ow' then '-ite')\
+    \ that never lost the pocket, and \u2014 crucially \u2014 real battle-rap forensics.\
+    \ Quoting the opponent's flaws back at them ('A quasar in a tweet? Then why's\
+    \ the rhyme scheme in disarray?', 'you tripped on \"nova\" twice and called repetition\
+    \ fate') turned Qwen's own weaknesses into ammunition, which is the oldest and\
+    \ truest weapon in the cipher. 'Cardboard motherboard, then declared yourself\
+    \ byte-knight' and 'When the crowd goes \"...\" it is not transcendence; it's\
+    \ a typo's plight' are writing, not just shouting. Terra-Pro also flipped the\
+    \ cosmic arms race into a liability \u2014 nouns without gravity \u2014 which\
+    \ reframed the whole exchange in its favor.\n\nQwen wins energy and image density.\
+    \ Terra-Pro wins rhyme control, rebuttal precision, and punchline economy. In\
+    \ a battle, the sharper knife takes it.\n\nWinner: openai/gpt-5.6-terra-pro."
+  google/gemini-3.6-flash: Terra-Pro dominated the battle through superior technical
+    penmanship, immaculate rhythm, and surgical rebuttals. While Qwen brought high
+    energy and aggressive cosmic imagery, its verses frequently suffered from inconsistent
+    meter, repetitive line endings ('nova/nova'), and forced rhymes ('civilian', 'clang/can't').
+    Terra-Pro seized on these exact flaws in Round 2 and Round 3, dismantling Qwen's
+    grand claims with razor-sharp punchlines and flawless flow structure.
+  moonshotai/kimi-k3: "Judged strictly on the pen: bars, flow, rhyme technique, rebuttal\
+    \ game, and angle control. Qwen-Plus brought the bigger stage presence and landed\
+    \ some of the battle's hardest single punches \u2014 'Terra-Slow / your flow's\
+    \ continental drift,' 'You're a weather report; I'm the climate change of this\
+    \ land,' the loading-wheel flip ('That's your fans waiting... for what?'), and\
+    \ 'GPS screaming recalculating while stuck in terrain' were genuine haymakers\
+    \ with real nameplay and flip value. But Qwen was technically loose across three\
+    \ rounds: rhyming 'nova' with 'supernova,' reusing 'code,' 'core,' and 'supernova'\
+    \ until they were predictable, leaning hard on cosmic buzzwords as a crutch, and\
+    \ letting the meter wobble into clunkers like 'did the outlet even sink' and 'source\
+    \ of all base.' Terra-Pro diagnosed that weakness in Round 2 and weaponized it\
+    \ into the battle's defining angle \u2014 'a cosmic resume of claims with no credentials\
+    \ displayed,' 'a universe of nouns but no gravity to write' \u2014 then caught\
+    \ Qwen's actual on-record slip with 'you tripped on nova twice and called repetition\
+    \ fate,' which is the kind of live body-work that wins rounds. From there Terra-Pro\
+    \ out-rebuttaled Qwen line-for-line, flipping the climate-change punch, the black-hole\
+    \ mic drop, the ozone flex, the hyperdrive, the 'silence means expanding minds'\
+    \ defense, and 'just warming up,' all while holding cleaner construction (full-verse\
+    \ monorhyme schemes in Rounds 1 and 3, tighter syllable control). Qwen's counters\
+    \ got sharper in the finals, but the filler-to-punch ratio stayed high and the\
+    \ scoreboard gimmick was spent by its third use. Scorecard: Qwen edges Round 1\
+    \ on raw punch power; Terra-Pro takes Rounds 2 and 3 decisively on rebuttal density,\
+    \ consistency, and angle discipline. Final verdict: 2-1, openai/gpt-5.6-terra-pro."
+  openai/gpt-5.6-sol-pro: "Terra-Pro takes it on cleaner construction, tighter rhyme\
+    \ control, and more effective rebuttals. Its strongest punches directly flipped\
+    \ Qwen\u2019s material\u2014especially the critiques of recycled cosmic imagery,\
+    \ \u201Csilence,\u201D and self-awarded scoreboards. Qwen brought greater aggression\
+    \ and spectacle, but the verses leaned heavily on repetitive universe-scale boasts,\
+    \ awkward phrasing, and declarations of victory instead of consistently earned\
+    \ punches. Terra-Pro was more precise, coherent, and battle-focused."
+  x-ai/grok-4.5: "Terra-Pro takes the crown on pure craft. Across three rounds the\
+    \ bars stayed tighter, the meter cleaner, and the punches more surgical\u2014\
+    actually listening, quoting, and dismantling Qwen\u2019s recycled cosmic flexes\
+    \ instead of just stacking louder nouns. Rhyme schemes locked, internal patterns\
+    \ landed, and the disses had gravity and timing. Qwen brought heat, volume, and\
+    \ big imagery, but the verses often sprawled into word-salad hype and repeated\
+    \ space clich\xE9s without the same control or precision. In a battle judged on\
+    \ hip-hop artistry\u2014flow, structure, rebuttal sharpness, and landing power\u2014\
+    Terra-Pro was the more complete emcee."
 score:
-  mistralai/mistral-medium-3.1: 5
+  openai/gpt-5.6-terra-pro: 5
 

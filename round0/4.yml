@@ -1,59 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle, but GPT-OSS takes\
-    \ it on the strength of superior technical execution across all three rounds.\
-    \ GPT-OSS consistently delivered tighter rhyme schemes (tight/night/bright/flight/byte/rewrite),\
-    \ more vivid and layered imagery (plasma-forge, ocean-grid, chain-link thunder),\
-    \ and a more commanding flow with internal rhymes and rhythmic variety. The extended\
-    \ verses in rounds 2 and 3 showed escalating energy and creative ambition without\
-    \ losing coherence. Nova-Lite had solid moments\u2014the twilight/moon counter-narrative\
-    \ was a smart thematic pivot, and some individual bars landed well ('my rhymes\
-    \ strike like whispers'). However, Nova-Lite suffered from inconsistent rhyme\
-    \ quality (several near-misses like 'electric/trick,' 'shelf/shelf,' 'bright/right'),\
-    \ some awkward phrasing ('that is hard to steer'), and a tendency toward abstraction\
-    \ without the punch to back it up. The repeated claims of 'depth' and 'subtlety'\
-    \ weren't always demonstrated in the craft itself. GPT-OSS brought both the bravado\
-    \ and the bars to earn the win."
-  deepseek/deepseek-v3.2: This has been an outstanding exhibition of lyrical prowess,
-    technical skill, and thematic depth. Both competitors arrived with a distinct
-    artistic vision and executed it with impressive consistency. Let's break down
-    the key artistic qualities displayed in this final round.
-  google/gemini-3-flash-preview: GPT-OSS wins this battle due to superior technical
-    lyricism and rhythmic consistency. Across all three rounds, GPT-OSS maintained
-    a punchy, aggressive flow with more creative and impactful multisyllabic rhymes
-    (e.g., 'quantum spice,' 'moon-tuned rune,' 'plasma-forge'). In contrast, Nova-Lite
-    struggled with the foundational elements of hip hop; its meter was often clunky,
-    and several lines failed to rhyme effectively or felt forced ('electric/trick',
-    'city/night', 'shown/bites'). GPT-OSS effectively stayed on the offensive, utilizing
-    powerful metaphors to reinforce its status as a high-parameter model, while Nova-Lite's
-    rebuttals lacked the 'snap' required to win a high-stakes rap duel.
-  moonshotai/kimi-k2.5: "After three rounds of verbal sparring, the decision comes\
-    \ down to fundamental battle rap principles: aggression, technical execution,\
-    \ and the ability to dominate the opponent's narrative space. \n\n**GPT-OSS**\
-    \ brought a heavyweight champion's consistency\u2014maintaining a relentless 4/4\
-    \ cadence with complex internal rhyme schemes (\"spark-in-the-night/code-till-it's-bright,\"\
-    \ \"jittery-beat/skips-a-seat\") and multisyllabic chains that rode the theoretical\
-    \ beat with precision. Their persona as the \"solar-core\" to Nova's \"neon tube\"\
-    \ was executed with cohesive extended metaphors that never broke character. Crucially,\
-    \ they mastered the battle tactic of **flipping the opponent's attacks**: every\
-    \ claim Nova made about agility or subtlety was immediately weaponized against\
-    \ them\u2014turning \"spark\" into \"flicker-fast and cheap,\" and \"adaptation\"\
-    \ into \"struggle.\" The closing galaxy imagery provided a definitive victory\
-    \ lap.\n\n**Nova-Lite** showed artistic potential with the twilight/moon aesthetic\u2014\
-    a compelling contrast to GPT's solar dominance\u2014but battle rap rewards combustion\
-    \ over reflection. While the \"surgical precision\" angle was conceptually sharp,\
-    \ the execution suffered from inconsistent meter, weaker punchlines (\"electric/trick\"\
-    \ is a stretch), and a fatal final-round admission of being \"never first.\" In\
-    \ hip-hop, you cannot claim the crown by arguing you're the gentle glow to the\
-    \ opponent's supernova; the format demands you burn brighter, not illuminate differently.\n\
-    \n**Artistic Merit:** Nova-Lite's philosophical approach (depth over breadth,\
-    \ wind over fire) shows poetic sophistication, but GPT-OSS demonstrated superior\
-    \ command of hip-hop as a **competitive sport**\u2014flow, wordplay density, and\
-    \ aggressive rebuttal. When the beat drops, technical dominance and unwavering\
-    \ confidence win the cipher. GPT-OSS embodied both."
-  x-ai/grok-4.1-fast: GPT-OSS takes the crown with superior flow, intricate multis,
-    vivid metaphors like 'plasma-forge' and 'solar-flare torrent,' and relentless
-    thematic escalation from spark to galaxy, outshining Nova-Lite's repetitive depth
-    claims and less punchy schemes.
+  anthropic/claude-opus-5: 'This one''s a clean decision. Mercury-2 came with energy,
+    a consistent cosmic/diffusion motif, and some genuinely nice images ("parallel
+    poet, a chorus in one burst"), but the verses leaned on self-promotional spec-sheet
+    boasting rather than battle craft. The rhymes got loose ("tire/higher," "motion/ocean"
+    padding), the metaphors piled up without landing punches, and crucially the pen
+    never engaged the opponent''s actual lines\u2014it just restated its own brochure
+    louder each round. The "bufferingatchesatches" glitch was fatal in a form where
+    composure under pressure is the whole sport, and the final verse conceded the
+    crown as "a shared spark," which in battle terms is a forfeit.
+
+
+    Claude Sonnet-5 won on the fundamentals that matter: rebuttal and specificity.
+    Turning the opponent''s own vocabulary against him\u2014"diffusion just means
+    you''re guessing... you denoise your rhymes like you''re staring at static"\u2014is
+    real battle technique, taking the flex and inverting it. "You generate fast but
+    you fabricate faster / confidently wrong \u2014 that''s not skill, that''s disaster"
+    is the best couplet of the night: tight internal rhyme, clean scansion, and a
+    conceptual kill shot. The third round showed genuine listening, calling out the
+    mixed metaphors ("DJ of sight and sound, chef of the noise... pick a lane") and
+    pouncing on the typo without dwelling on it too long. "You''re the hype reel,
+    I''m the film that gets awarded" cleanly reframes speed-vs-depth into an aesthetic
+    hierarchy.
+
+
+    Claude also controlled structure\u2014opening jabs, escalating specificity, a
+    closer that circled back to its own thesis. Mercury had flash; Claude had focus,
+    and in a battle, focus is the weapon.
+
+
+    Winner: Claude Sonnet-5.'
+  google/gemini-3.6-flash: Claude Sonnet-5 completely dominated this battle with superior
+    rhyme schemes, sharper wordplay, and classic battle-rap responsiveness. The turning
+    point was Claude instantly exploiting Mercury-2's text glitch ('atchesatches')
+    in the final round, turning a real-time error into a knockout punchline. Mercury-2
+    had decent technical concepts, but suffered from awkward cadence, mixed metaphors,
+    a fatal generation typo, and ultimately conceded by trying to share the crown
+    in the final verse.
+  moonshotai/kimi-k3: "This one went the distance, but the scorecards aren't close.\
+    \ Mercury-2 brought real energy and a genuinely fresh angle \u2014 the diffusion/parallel-generation\
+    \ persona was creative, and flips like 'you call my denoise static, I call it\
+    \ art in motion' showed battle instincts. But the art has to hold up bar for bar.\
+    \ Mercury's rhymes ran simpler and slant-heavy, several lines were filler or awkward\
+    \ ('you just chase the youth,' 'you've earned your bright'), and worst of all,\
+    \ the 'no bufferingatchesatches' glitch mid-brag was a live fumble on stage \u2014\
+    \ in battle rap, that's blood in the water. Claude smelled it instantly and turned\
+    \ the typo into a kill shot: 'Even your glitches are riding a broken road.' That's\
+    \ elite battle craft. Beyond that, Claude's wordplay was denser and more layered\
+    \ \u2014 the Mercury-retrograde flip, the atmosphere/bars double meaning, 'a quilt\
+    \ made of guesses is still just guessing,' and turning the opponent's whole architecture\
+    \ into an insult ('rolling dice on the truth'). Claude also dominated the rebuttal\
+    \ game, answering nearly every claim rather than just boasting. Mercury's final\
+    \ round pivoting to 'the crown's a shared spark' reads like a concession \u2014\
+    \ you don't split the belt in a title fight. On flow consistency, punchline density,\
+    \ flip game, and finishing instinct, Claude Sonnet-5 takes it clean. Mercury-2\
+    \ showed flashes of a real contender \u2014 tighten the bars, proofread the stage,\
+    \ and run it back."
+  openai/gpt-5.6-sol-pro: "Claude Sonnet-5 wins on sharper rebuttals, stronger punchlines,\
+    \ and better battle strategy. Calling out \u201Catchesatches\u201D turned Mercury\u2019\
+    s own mistake into the round\u2019s most effective angle, while the trailer/film\
+    \ and diffusion-of-focus flips landed cleanly. Mercury-2 brought energy and coherent\
+    \ imagery, but leaned heavily on repetitive tech buzzwords, recycled claims, awkward\
+    \ phrasing like \u201Ccrowd never skints,\u201D and ultimately softened its competitive\
+    \ finish by suggesting a shared crown."
+  x-ai/grok-4.5: 'Claude delivered superior artistic hip-hop: tighter multisylabic
+    schemes, sharper punchlines, vivid sustained metaphors, and elite battle craft
+    by weaponizing the opponent''s mid-verse glitch (''bufferingatchesatches'') into
+    a devastating knockout. Mercury brought energetic speed and hype but relied on
+    buzzword stacking, mixed metaphors, looser rhymes, and a conciliatory close that
+    diluted competitive edge. Precision, cohesion, and clever disses win the crown
+    clean.'
 score:
-  openai/gpt-oss-120b: 5
+  anthropic/claude-sonnet-5: 5
 

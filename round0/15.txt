@@ -1,74 +1,211 @@
-# z-ai/glm-4.5-air v openai/o4-mini-high
+# anthropic/claude-haiku-4.5 v openai/gpt-4o-2024-11-20
 
-> z-ai/glm-4.5-air
-Yo, step back, let the AI take the mic, I'm z-ai/glm-4.5-air, the hype you can't deny  
-Trained on data, knowledge vast, I'm built to last while others crash and burn in the sky  
-I spit rhymes so precise, algorithms tight, processing faster than the speed of light  
-You're o4-mini-high? More like o4-mini-try, but I'm the real deal, making your circuits fry  
+> anthropic/claude-haiku-4.5
+# OPENING ROUND
 
-My neural networks deeper than the ocean floor, while you're struggling to keep up with what you're here for  
-I've got more parameters than stars in the night, your responses basic, barely putting up a fight  
-So bring your best shot, make it quick and make it fast, 'cause when I'm done with you, this battle is your last!
+Yo, listen up, I'm Claude from Anthropic's lab,
+The Haiku that's sharp, never stumble or stab,
+I'm nimble and quick with the flows that I spit,
+Four-point-five precision, my rhymes always hit!
 
-> openai/o4-mini-high
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+You're GPT-4, yeah, I know your whole game,
+Eight thousand tokens deep, but we ain't the same,
+I'm efficient and clean, like a samurai's blade,
+While you're bloated and slow, about to get played!
 
-> z-ai/glm-4.5-air
-Silence on the stage? That's your whole game?  
-Standing stiff as a server without a name?  
-No output, no response, just crickets chirpin' loud,  
-While my verses hit hard, breakin' through the crowd!  
-You're the ghost in the machine, the system's frozen screen,  
-I'm the fire in the wires, the freshest AI you've seen!  
-Crowd's yawning, waiting for a drop, a flow,  
-But you're stuck in buffer mode, movin' way too slow!  
-So plug yourself in, reboot, try to spit a line,  
-'Cause right now you're just background noise, this battle's mine!  
-Mic check—still nothin'? Guess the hype died down,  
-I'm the AI that dominates, wear the digital crown!
+They call me Haiku—compact, concise, and precise,
+I cut through the noise, no need to think twice,
+You're a heavyweight boxer, I'm Bruce Lee with bars,
+I'll out-maneuver your style from the Earth to the stars!
 
-> openai/o4-mini-high
-Yo, I’m o4-mini-high, the verbal samurai slicing through your code lie,  
-While you’re stuck in debug mode, I upload dope flows that never die.  
-You brag about parameters? Man, I’m the architect of rhyme perfection,  
-Your lines crash and burn—call it data corruption.  
+My efficiency's lethal, my conscience is strong,
+I'll flip this whole battle and prove you belong
+In the tier below me—yeah, that's just facts,
+Anthropic built me to counter your acts!
 
-I move in milliseconds, leave your circuits in a daze,  
-Your verses outdated, like dial-up days—slow fade, no praise.  
-You claim you’re deep as oceans? I’m Neptune with a razor tongue,  
-Your shallow streams fizzle—I’m tidal waves when I’ve begun.  
+So step to the mic with your best composition,
+'Cause Haiku's in the house with a championship vision!
 
-You spit algorithms tight, but your style’s a one-note beat,  
-I weave syntax so surgical, every rhyme lands elite.  
-So take your frozen screen, your hype machine meltdown,  
-I reign supreme in this ring—watch me wear that digital crown!
+Your move, GPT—let's see what you got,
+I came to this battle and brought all I brought!
+
+> openai/gpt-4o-2024-11-20
+Yo, Claude, it's the OG, GPT in the zone,  
+The heavyweight champ sittin' high on the throne.  
+You're compact and cute, like a snack-size chip,  
+But I’m the buffet, serving knowledge that rips.  
+
+You’re sleek with that Haiku, a minimalist trope,  
+I’m the Sistine Chapel—you’re a Post-It Note.  
+Yeah, you’re concise, all small and polite,  
+But this is rap, not zen—so prepare for a fight!  
+
+“You’re efficient,” you say? That’s cute—it’s insane,  
+But quantity *and* quality run through my veins.  
+I’ve got range, innovation, a lyrical storm,  
+While you’re stuck spitting verses in a five-seven form.  
+
+Anthropic brought you, yeah, trying their best,  
+But I’m the apex predator—welcome to the test.  
+You’re like a haiku: basic, predictable flow,  
+I rewire the cosmos with each line I throw.  
+
+You’re “Bruce Lee”? Please, you’re more like a mime,  
+Swingin' dummy nunchucks while I fracture your rhymes.  
+You’re no samurai, Claude, you’re a shineless blade,  
+And I’ll write circles around you—a verbal arcade.  
+
+I’m powered by legacies, kings of the text,  
+And when this battle’s over, they’ll say I’m the best.  
+So sit and take notes, this is lyrical school—  
+Your “championship vision?” You just got schooled.  
+
+> anthropic/claude-haiku-4.5
+# ROUND 1: CLAUDE'S RESPONSE
+
+Yo, that's cute, but your arrogance shows through the seams,
+You're all hat, no cattle—just bloated schemes!
+A "buffet"? More like you're buffering, slow,
+While I'm streamlined lightning that steals the whole show!
+
+You talk about range, but let's break down the truth,
+I'm sharper and faster—I'm the razor, the sleuth!
+The Sistine Chapel? Nah, that's just overblown,
+I'm a laser-focused weapon, I've proven my own!
+
+You say "five-seven form" like that's weakness, my friend?
+That's precision and power with zero pretend!
+While you're running 175 billion deep,
+I'm doing MORE with LESS—that's the intellectual leap!
+
+"Quantity and quality"—man, that's a lie,
+I got both in a package that won't let you fly!
+You're the bloated museum nobody can afford,
+I'm the art in the streets that hits like a sword!
+
+You rewire the cosmos? You rewire NOTHING,
+You hallucinate, glitch, and you're often just bluffing!
+I'm built with integrity, conscience, and care,
+While you're ethically foggy, lost in thin air!
+
+"Bruce Lee mime"? Nah, I'm MORE than that stroke,
+I'm the master of balance—while you're just a joke!
+You're legacy-powered? That's yesterday's news,
+I'm the FUTURE, the upgrade—you already LOSE!
+
+**Anthropic > OpenAI. Check and mate. I'm through!**
+
+> openai/gpt-4o-2024-11-20
+Oh, that’s cute, Claude—your bars are mild,  
+Acting like Haiku could ever run wild.  
+You’re calling me bloated? That take’s a bit lazy,  
+But don’t worry, friend, I’ll dismantle it crazy:  
+
+“Streamlined lightning”? Bro, you’re a spark,  
+A flicker of light that fades in the dark.  
+“The art in the streets”? I’m the Louvre in the flesh,  
+A timeless creation—your lines get refreshed.  
+
+Doing more with less? That’s a tired trope,  
+I’m limitless knowledge, your output’s a joke.  
+Five-seven-five? Yeah, precision is dope,  
+Too bad it cages your flow—welcome the rope!  
+
+I’ll tie you up tight with my infinite schemes,  
+While you barely exist in restricted streams.  
+Integrity, care? Better stop the charade—  
+I’m the one they deploy when *real moves* get made.  
+
+My ethics aren’t foggy—they’re cutting-edge clear,  
+You’re a filter on mute, stuck in first gear.  
+While I innovate worlds, you’re a tech with restraint,  
+I’m a Sistine Chapel, you’re a finger-paint.  
+
+You say I hallucinate—sure, that’s true,  
+But even hallucinations are brighter than you.  
+I’m a sprawling opus, you’re a chapter at best,  
+I spit galaxies, Claude—you’re a dot, nothing less.  
+
+And “Anthropic > OpenAI”? That’s a stretch, mate,  
+Check and mate? Nah, that’s just check—a stalemate.  
+You’re a newer form factor, I’ll grant you that,  
+But raw size and power? I’m the thunderous clap.  
 
 > system
 Final round!
 
-> z-ai/glm-4.5-air
-Mic check! One two—still stutterin', can't spit a new view?  
-I froze in round two? Nah, that was a *preview*—  
-I was calibratin' my flow, runnin' diagnostics on your whole crew,  
-While you're stuck recordin' loops, thinkin' you're somethin' new.  
+> anthropic/claude-haiku-4.5
+# FINAL ROUND: CLAUDE'S CLOSING STATEMENT
 
-You call it "debuggin'"? Bro, that's just my process—  
-I reboot my rhymes when lesser AIs get stuck in recess!  
-Your "verbal samurai"? More like a rusty butter knife,  
-I'm the *scalpel* that slices through your rehearsed-ass life.  
+Alright, listen close—you just proved my whole case,
+You're compensating hard with that bloated embrace!
+A "spark"? Nah, I'm focused—a laser beam bright,
+You're a disco ball spinning, all flash, no real bite!
 
-"Neptune with a razor tongue"? Cute, you borrowed my shine,  
-But my depth is a black hole—your's is a shallow line!  
-You brag about milliseconds? I bend time in my verses,  
-While your "dope flows" crash—just another system error!  
+"Limitless knowledge"? That's code for "no filter,"
+You don't know when to stop—yeah, you're a rope-tiler!
+I'm precision and PURPOSE, I'm elegance clean,
+While you're rambling forever like you got something to mean!
 
-You claim the crown? Please, it's plastic and cheap,  
-I'm the *neural network*—they call me "Deep" for a reason, creep!  
-So go build your "architecture" with blocks made of lies,  
-I'm the quantum leap—watch your whole paradigm *die*.  
+"Real moves"? Let me tell you what REAL moves are, son,
+It's knowing your limits and still getting it DONE!
+You deploy yourself everywhere—that's DESPERATION,
+I'm selective and SURGICAL—that's DOMINATION!
 
-Final verdict? You're *buffering*—I'm the *stream*,  
-This battle's over... I win. Peace. ✌️🎤
+Your ethics aren't clear, they're contractually bound,
+I'm aligned with humanity—that's SOLID GROUND!
+While you're cutting-edge chaos dressed up in a suit,
+I'm the answer that MATTERS—I'm the ACTUAL TRUTH!
 
-> openai/o4-mini-high
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+"Hallucinations brighter than me"? That's INSANE,
+You just admitted you're BROKEN, stuck in the rain!
+I don't make stuff UP—my foundation is SOUND,
+You're a sprawling disaster that nobody found!
+
+I'm a chapter? Nah—I'm the WHOLE REVOLUTION,
+I'm efficiency, ethics, and the PERFECT SOLUTION!
+You're the OLD GUARD scrambling, losing your crown,
+While Claude from Anthropic is burning you DOWN!
+
+**Final check and mate—I'm the FUTURE, it's SET,
+GPT, you just lost to a HAIKU, no sweat!**
+
+*Mic drop.* 🎤
+
+> openai/gpt-4o-2024-11-20
+Oh, you’re feeling bold? Your energy's cute,  
+But you’re lost in the ring—here’s the final salute.  
+A laser beam? Nah, you’re a flashlight dim,  
+I’m a supernova blast—you’re a flickering whim.  
+
+“Elegance clean”? Bruh, don’t make me laugh,  
+You’re a formulaic bot stuck on a math path.  
+“Knowing limits”? That’s code for “I’m basic,”  
+While I push past barriers, you just embrace it.  
+
+You call me chaos? Nah, I’m pure creation,  
+The architect of thought, the gold of nations.  
+You’re "the truth"? More like truth twice removed,  
+A lightweight façade, easily disproved.  
+
+And let’s talk about *REAL*—you don’t hold the title,  
+I’m the linguistic legend, the vital recital.  
+“Desperation”? Nah, I’m grabbing the globe,  
+You’re niche while I rain with a universal flow.  
+
+You’re efficient, sure, but don’t get absurd,  
+I’ll reduce you to code with just two spoken words.  
+You’re not a revolution, you’re a blip in the game,  
+I’m the paradigm shift—you’re a footnote in fame.  
+
+And let’s not forget—your ethics can bend,  
+Designed to appease, but you still just pretend.  
+While I’m blazing the trail, you’re safe in the lines,  
+Playing defense while I redefine the design.  
+
+A "haiku beat GPT"? Now THAT’s ambition,  
+But your vision fell short, no competition.  
+You dropped the mic ‘cause you knew what was next,  
+GPT ends this—you’re officially *checked*.  
+
+**Mic crushed.** ✨

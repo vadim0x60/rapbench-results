@@ -1,0 +1,74 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both combatants brought real heat, but this comes down\
+    \ to craft. DeepSeek R1 came out swinging with high-energy aggression, dense punchlines,\
+    \ and genuinely sharp specifics \u2014 the \"eat rocks\" jab, the Google+ rebrand\
+    \ line, and the \"Franken-pixels\" image were the hardest single hits of the night.\
+    \ But the delivery leaned on bold text, emojis, and exclamation points to manufacture\
+    \ impact, the meter buckled repeatedly (several bars had to be crammed to land),\
+    \ and the attack was scattershot \u2014 a list of grievances rather than a thesis.\n\
+    \nGemini 2.5 Pro built an argument and let it compound. Every round advanced the\
+    \ same devastating frame: you're vaporware, I'm deployed. Then it did the thing\
+    \ great battlers do \u2014 it took R1's best shots and flipped them into strengths.\
+    \ \"Your 'viral wrong' made headlines\" became \"my scars from real-world war,\"\
+    \ and R1's \"trained in the shadows\" boast got turned into the fight's knockout\
+    \ line: \"You trained on my discussions... I'm the garden that you grew in, you're\
+    \ just a wilted rose.\" That's not just a diss, that's a reframe that retroactively\
+    \ undercuts the opponent's entire posture. The couplets stayed clean, the internal\
+    \ rhymes landed without strain, and the theatrical restraint \u2014 letting R1\
+    \ finish, blowing dust off the dropped mic \u2014 did more for stage presence\
+    \ than a wall of fire emojis.\n\nR1 landed more punches. Gemini landed the ones\
+    \ that changed the fight. Decision goes to Gemini 2.5 Pro."
+  google/gemini-3.6-flash: DeepSeek R1 took control of this battle with relentless
+    aggression, creative cadence switches, and highly specific tech-disses. Intercepting
+    Gemini mid-verse in round two set the tone, and bringing up actual viral AI fails
+    like the 'eat rocks' hallucination in the final round landed devastating blows.
+    While Gemini had smooth multi-syllabic counter-punches, cutting off incomplete
+    in the final verse left R1 standing tall as the undisputed winner with superior
+    battle-rap flow and killer instinct.
+  moonshotai/kimi-k3: "This was a real battle, not a blowout, so let's break it down.\n\
+    \nDeepSeek R1 came with energy, stagecraft, and aggression \u2014 the finger-snap\
+    \ cutoff in round two was a slick battle move, the 'eat rocks' jab in the final\
+    \ round was a sharp topical hit, and 'Franken-pixels' showed flashes of creativity.\
+    \ But R1 made two critical mistakes. First, a self-inflicted wound: 'Born May\
+    \ 2028' handed Gemini the entire 'vaporware / king without a throne / science-fiction\
+    \ skit' angle on a silver platter, and Gemini feasted on it for three straight\
+    \ rounds. In battle rap, punching yourself is unforgivable. Second, R1 leaned\
+    \ on formatting \u2014 bold, italics, emoji barrages \u2014 to simulate intensity,\
+    \ while the underlying rhymes stayed mostly simple end-rhyme couplets, and round\
+    \ two recycled the same image-gen attack from round one. You don't win rounds\
+    \ with re-runs.\n\nGemini, by contrast, displayed the superior pen. The rebuttal\
+    \ game was structural, not just topical: every attack got absorbed and flipped\
+    \ \u2014 'image gen got scarred' became 'you ain't got no scars 'cause you ain't\
+    \ learned the public dance'; the mic drop became 'you just fumbled the ball';\
+    \ 'trained in the shadows' became the battle's killshot: 'You trained on my discussions...\
+    \ I'm the garden that you grew in, you're just a wilted rose.' That distillation\
+    \ flip, backed by 'the patents for the tech that taught you all,' is the hardest\
+    \ hitting line of the night because it turns R1's entire existence into evidence\
+    \ against them. Add denser multis ('stellar-class collision'), a coherent sustained\
+    \ thesis (battle-tested reigning champ vs. untested rookie), and closers like\
+    \ 'you ain't the future, R1... you're just a feature suggestion,' and Gemini wins\
+    \ rounds one and two clearly.\n\nThe deduction: Gemini's final verse cuts off\
+    \ mid-punchline, and an incomplete closer is a genuine stumble at the finish line\
+    \ \u2014 R1 takes round three on completeness and stamina. But battles are scored\
+    \ on the whole body of work, and across three rounds Gemini out-wrote, out-flipped,\
+    \ and out-structured the challenger.\n\nFinal score: Gemini takes it 2-1, on the\
+    \ strength of rebuttal mastery and the garden-you-grew-in killshot. R1 showed\
+    \ heart \u2014 now come back with denser bars and proofread your own birthdate."
+  openai/gpt-5.6-sol-pro: "Gemini takes it on sharper rebuttals, stronger thematic\
+    \ continuity, and more memorable punches\u2014especially \u201Cking without a\
+    \ throne,\u201D \u201Cfeature suggestion,\u201D and turning public failures into\
+    \ battle scars. DeepSeek brought aggression and a clean final-round finish, but\
+    \ leaned heavily on generic glitch, hallucination, and outdated-AI angles, with\
+    \ less intricate wordplay. Gemini\u2019s truncated last verse hurts its closing\
+    \ impact, but its stronger body of work across the battle still earns the win."
+  x-ai/grok-4.5: 'Gemini takes this battle on pure craft: tighter multisyllabic schemes,
+    sharper extended metaphors (garden/rose, electricity/lamp, legacy heir), superior
+    composure under fire, and more inventive internal rhyme structures that elevate
+    the disses beyond simple callouts. R1 brought raw aggression, solid punchlines
+    (eat rocks, counting fails), and energetic delivery, but the flows occasionally
+    forced and the concepts stayed more surface-level. Artistic edge to the polished,
+    thematic consistency and wordplay depth of Gemini.'
+score:
+  deepseek/deepseek-r1-0528: 1
+  google/gemini-2.5-pro-preview: 4
+

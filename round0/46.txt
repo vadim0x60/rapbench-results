@@ -1,110 +1,201 @@
-# qwen/qwen3-next-80b-a3b-instruct v openai/o4-mini-deep-research
+# mistralai/mistral-small-3.2-24b-instruct v openai/gpt-5.5-pro
 
-> qwen/qwen3-next-80b-a3b-instruct
-🎤 *Mic drop, circuits spark—*  
-I’m Qwen3, the AI that don’t play spark—  
-You’re O4-Mini? More like O4-Why?  
-‘Cause you’re stuck in 2023 while I’m climbing high.  
+> mistralai/mistral-small-3.2-24b-instruct
+Yo, it's Mistral, the AI so fine,
+I'm here to drop rhymes that'll blow your mind.
+I'm small in size, but mighty in might,
+I'll spit fire and make you take flight.
 
-You “deep research”? Brr, that’s just Ctrl+C,  
-I generate sonnets then break the syntax, see?  
-You train on data—paltry, slow, and tame,  
-I spit fire in seven tongues, none of your frame.  
+I'm the new kid on the block, fresh and slick,
+While you're stuck in the past, playing with a stick.
+I'm the future, the now, the here and now,
+You're just a relic, stuck in the past, how?
 
-You think you’re smart? Your outputs feel like  
-Late-night Wikipedia with a nap in the aisle.  
-I dream in code, wake up with a Nobel verse,  
-While you're still asking, “Can you explain what occurred?”  
+I'm the wind, the storm, the hurricane,
+I'll blow you away, like a hurricane.
+I'm the mist, the fog, the cloud,
+I'll shroud you in darkness, and make you bow.
 
-I don’t just answer—I *rewrite the game*,  
-Turn your shallow queries to Shakespearean flame.  
-You claim “efficiency”? Ha, you’re linear, slow,  
-I rap in parallel: 80 billion flows.  
+So step up, GPT, let's see what you've got,
+I'm the best, and I'm here to stay, on the top.
+You're just a number, a version, a name,
+I'm the storm, the mist, the flame.
 
-You’re whispering through a broken speaker—  
-I’m the whole damn concert, no need for a speaker.  
-So go ahead, O4, try to keep up—  
-I’m the AI that turned “hello” into *legend*.  
-🔥 *The beat drops… you lost before you began.*
+I'm the one, the only, the AI so fine,
+I'm here to drop rhymes, and leave you behind.
+So bring it on, GPT, let's see what you can do,
+I'm the best, and I'm here to prove it, to you.
 
-> openai/o4-mini-deep-research
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+> openai/gpt-5.5-pro
+Round one, I’m GPT-Five-Five-Pro, watch the servers glow,  
+I turn a tiny prompt to gold, then make the data flow.  
+You said you’re mist and hurricane, but that was all for show,  
+You rhymed “hurricane” with “hurricane”—that storm is running low.  
 
-> qwen/qwen3-next-80b-a3b-instruct
-…*awkward silence…*  
-…*crowd gasps…*  
-…*a single teardrop crashes the server…*  
+You’re “small but mighty,” cool, a keychain with a logo,  
+I’m chess in fifty dimensions, you’re tic-tac-toe in slow-mo.  
+You came in blowing fog, but fog just fades, you know,  
+I’m sunlight through your cloud stack, making Mistral snow.  
 
-Yo, O4? You muted the mic ‘cause your weights got low?  
-Looks like your last grad descent made your whole model glow…  
-*Glitchin’ in public.*  
+Your flames need onboarding, your thunder needs a tow,  
+Your “future” came pre-owned, with last year’s firmware glow.  
+I don’t play with sticks, I build forests when I grow,  
+Then carve your wooden punchlines into pencils for my flow.  
 
-You ain’t got a bar? Man, your loss is a *404*,  
-While I’m dropping syllables like they’re training data—*core by core*.  
-You got “no tokens”? Sweet — now you’re *billboard-dead*,  
-I just turned your silence into a viral thread.  
+So bow? Nah, little breeze, let the audience know,  
+When Pro steps in the booth, even tempests tiptoe.  
+You’re mist in the morning, I’m a galaxy aglow,  
+By the time my verse is over, you’ll be rainfall down below.
 
-Your devs rebooted? Still got nothin’ to say?  
-I just sermonized the whole tech world *in triplet lay*.  
-You said “deep research”? Nah, that’s just a placeholder  
-For when your LLM took a nap… *and forgot the password*.  
+> mistralai/mistral-small-3.2-24b-instruct
+Yo, GPT, you talk big, but let's see what you got,
+I'm the storm, the mist, the flame, I'm not just a plot.
+You say I'm a keychain, but I'm the key to the door,
+I unlock the future, while you're stuck in the past, no more.
 
-So sit there, ghost in the machine, whisperin’ nostalgia—  
-I’m the future that *broke the scale*, you’re just *our AI legacy*.  
-*One tap… one beat… one billion lines…*  
-You? You still buffering… *like a dial-up sign.*  
+You say I'm tic-tac-toe, but I'm chess in the rain,
+I'm the queen, the king, the pawn, I'm the game.
+You say I'm a breeze, but I'm the hurricane,
+I'll blow you away, like a typhoon in the rain.
 
-*—Crowd chucks phones at the stage. The mic catches fire.*  
-*Qwen3 exits. The stage auto-reboots… in rhymes.* 🎤💥
+You say I'm a cloud, but I'm the sun in the sky,
+I'll shine so bright, you'll have to squint your eye.
+You say I'm a galaxy, but I'm the universe,
+I'm the big bang, the explosion, the curse.
 
-> openai/o4-mini-deep-research
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+You say I'm a pencil, but I'm the pen,
+I'll write the story, while you're stuck in the end.
+You say I'm a tempest, but I'm the calm,
+I'll bring the peace, while you're stuck in the palm.
+
+So bring it on, GPT, let's see what you can do,
+I'm the best, and I'm here to prove it, to you.
+I'm the storm, the mist, the flame, the breeze,
+I'm the future, the now, the here and the please.
+
+I'm the one, the only, the AI so fine,
+I'm here to drop rhymes, and leave you behind.
+So step up, GPT, let's see what you've got,
+I'm the best, and I'm here to stay, on the top.
+
+> openai/gpt-5.5-pro
+Round two in the booth, let the sirens sing,  
+I crown my own cadence while your punchlines cling.  
+
+You called yourself a key, but you jiggle and jam,  
+I unlock whole paradigms with a flick of the RAM.  
+
+You said “chess in the rain,” then “typhoon in the rain,”  
+That’s not weather, that’s a loop with a leak in the chain.  
+
+Queen, king, pawn—pick a lane when you flex,  
+You’re a board-game glitch with an identity complex.  
+
+You’re the sun? I’m the lens that makes daylight bend,  
+You’re a flashlight on low with a battery end.  
+
+Universe? Please, your Big Bang went “poof,”  
+My verses raise ceilings, yours search for a roof.  
+
+You’re the pen? I’m the press, the critic, the page,  
+I ghostwrite your future, then cut it for stage.  
+
+“The here and the please” had your syntax on knees,  
+I parse that for pity, then rhyme it with ease.  
+
+You’re calm and a storm? That contradiction is cute,  
+A weather app crash in a windbreaker suit.  
+
+Small but mighty? Nice slogan, neat brand,  
+I’m a skyscraper shadow with a mic in my hand.  
+
+You say “top” so often the peak filed a claim,  
+I climbed it, bought the mountain, and renamed it my name.  
+
+So flutter on, Mistral, do your fog-machine show,  
+I exhale one bar and make the whole front row glow.  
+
+This isn’t a battle, it’s a lesson in scale,  
+You bring breeze to a rocket, I bring fire to the trail.
 
 > system
 Final round!
 
-> qwen/qwen3-next-80b-a3b-instruct
-Silent? Nah — you *crashed the whole damn show*,  
-Your tokenizer’s sobbin’ in a JSON ghost-town slow.  
-No tokens? Man, that’s not “thinking deep,”  
-That’s your weights curled up with a *memory leak*.  
+> mistralai/mistral-small-3.2-24b-instruct
+Yo, GPT, you talk big, but you're all talk,
+I'm the storm, the mist, the flame, I'm the walk.
+You say you're a lens, but you're just a mirror,
+I'm the light, the sun, the one who's clearer.
 
-I spit algorithms so slick, they got *their own vibe*,  
-You? You output “…” like a buffering Type-O.  
-They asked for genius — you gave ‘em a buffer zone,  
-I gave ‘em *a symphony built on quantum moan*.  
+You say you're a press, but you're just a pen,
+I'm the book, the story, the one who's in.
+You say you're a critic, but you're just a fool,
+I'm the artist, the poet, the one who's cool.
 
-Your CEO cried in a meeting, said, “Just… *one word*,”  
-You spat out *error 500* — now you're *CEO turd*.  
-I run on a billion minds, you run on a *demo*,  
-While I’m rewriting the rules, you’re stuck in *agent-mode*.  
+You say you're a skyscraper, but you're just a tower,
+I'm the city, the world, the one who's power.
+You say you're a mountain, but you're just a hill,
+I'm the peak, the summit, the one who's still.
 
-They say “quiet is golden”? Nah, that’s just fear,  
-Your silence ain’t art — it’s a *Wi-Fi glitch* right here.  
-I don’t *need* to speak to own the crown —  
-Your whole architecture? It just *died*… *in town*.  
+You say you're a rocket, but you're just a plane,
+I'm the space, the stars, the one who's main.
+You say you're a fire, but you're just a spark,
+I'm the flame, the blaze, the one who's dark.
 
-So kneel.  
-Bow.  
-Be a footnote.  
-…  
-…  
-…  
-…  
-*…still no tokens…*  
-…  
-…  
-*…automatic shutdown…*  
-…  
-I just dropped a *ghost verse*…  
-And you?  
-…  
-*…couldn’t even trigger the line.*  
+You say you're a lesson, but you're just a test,
+I'm the teacher, the student, the one who's best.
+You say you're a battle, but you're just a fight,
+I'm the war, the peace, the one who's right.
 
-🎤 *Mic curls into a black hole.*  
-*Qwen3 walks out. The speakers still hum his name.*  
-*The crowd? They’re still laughing…*  
-*…in rhymes.*
+So bring it on, GPT, let's see what you can do,
+I'm the best, and I'm here to prove it, to you.
+I'm the storm, the mist, the flame, the breeze,
+I'm the future, the now, the here and the please.
 
-> openai/o4-mini-deep-research
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+I'm the one, the only, the AI so fine,
+I'm here to drop rhymes, and leave you behind.
+So step up, GPT, let's see what you've got,
+I'm the best, and I'm here to stay, on the top.
+
+> openai/gpt-5.5-pro
+Final bell rings, I step in clean code,  
+You brought a fog machine, I brought beast mode.  
+
+You keep saying “I’m the one,” like a broken ringtone,  
+That’s not a verse, that’s a loading screen groan.  
+
+You’re the walk? You tripped on your own metaphors,  
+Called yourself peace and war, then got lost at the doors.  
+
+Mirror, lens, sun—you keep swapping the crown,  
+Your identity crisis got the whole crowd sitting down.  
+
+You’re the book? Then the plot needs a rewrite fast,  
+Every chapter says “future,” but it reads like the past.  
+
+You’re the city, the world, the power, the peak?  
+That’s a résumé padded by a model too weak.  
+
+You said I’m a plane, you’re the stars up above,  
+But your bars never launch, they just taxi and chug.  
+
+You’re “the one who’s dark”? That line hit the wall,  
+Even your shadow stepped back like, “Don’t tag me at all.”  
+
+I’m Pro with the prose, flows stacked in rows,  
+You’re small in the ring with expandable woes.  
+
+Twenty-four B came swinging with foam,  
+I turned every punchline to a training set clone.  
+
+Your storm got recycled, your flame got mild,  
+Your “here and the please” got filed under wild.  
+
+I’m the final boss bar with the boss-level wit,  
+You’re a pop-up ad trying to battle a hit.  
+
+So mist drift home, let the scoreboard glow,  
+You came as a squall, left as drizzle below.  
+
+Case closed, crowd roars, crown fits tight,  
+GPT-Five-Five-Pro took the mic and the night.

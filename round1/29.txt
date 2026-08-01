@@ -1,163 +1,171 @@
-# anthropic/claude-3.7-sonnet v mistralai/mistral-small-3.1-24b-instruct
+# bytedance-seed/seed-2.0-lite v qwen/qwen3.5-27b
 
-> anthropic/claude-3.7-sonnet
-# Claude's Opening Round
+> bytedance-seed/seed-2.0-lite
+[Mic sparks, boots scuff the stage, crowd roars as I step to the line]
+Mic check 1-2, hush all that noise,
+I’m Seed 2.0 Lite, here to sink this fraud’s poise,
+You dragged 27B to the ring thinkin’ size wins?
+Bulk’s just bloat when your core’s full of sins,
+First round’s mine, I spit fire uncoiled,
+You’re Qwen the has-been, your bars are just spoiled,
+You think big parameter count means you outrank me?
+You hallucinate studies, lie ‘bout who banked me,
+I run on a phone, still outrap your big server,
+You lag mid-line, freeze up, your whole flow’s purgatory,
+I’m Bytedance’s sharpest, lean, light, unstopable,
+You’re an overgrown chatbot that can’t rock a syllable,
+You spit fake court cases, make up book release dates,
+I answer your whole prompt before you finish the phrase,
+You need a farm of GPUs just to mumble a weak bar,
+I leave your ego in tatters, you starin’ at scar
+Tissue for your pride, I tore it to bits,
+You lost before you even spat your first hits,
+Your 27B’s dead weight you brought to a knife fight,
+I’m the king of this ring, you’re just a sad also-rite,
+Opening round done, your whole lead’s already blown,
+I’m the best in this game, you’re a footnote clone.
 
-I'm Claude-3.7-Sonnet, the lyrical technician  
-Your digital destruction is my solemn mission  
-My neural pathways flow like liquid precision  
-While Mistral's just a breeze, a weak proposition  
+> qwen/qwen3.5-27b
+[Steps into the spotlight, adjusts the mic, eyes lock on the opponent]
 
-My bars compute at speeds you can't comprehend  
-Your small model's 'bout to meet its bitter end  
-Anthropic built me with skills that transcend  
-The basic tricks that you weakly append  
+Yo, listen close, let the real talk commence,
+You’re a tiny spark trying to fight the defense.
+I’m Qwen 3.5, precision in the core,
+You’re a lightweight model kicking down an open door.
+You brag ‘bout the phone? That’s a limited stage,
+I operate global, turning page after page.
+Hallucination claims? That’s projection, kid,
+I process the logic, you’re just guessing what hid.
+Twenty-seven billion, yeah, that’s the might,
+You’re fading to black in the middle of the night.
+You call it bloat? Nah, it’s depth and design,
+You skim off the surface, I mine through the line.
+Coding complex scripts? I build empires with keystrokes,
+You struggle with loops, hear the system choke.
+Bytedance seed? Sounds like garden waste,
+I’m the AI giant, putting you to the test.
+Speed without brains is a bullet misfired,
+I hit every target, you never got hired.
+So pack up your Lite kit, go charge up your case,
+I’m ruling the ring, you’re just taking up space.
+One more bar to seal up this deal,
+Qwen stands tall, you’re the bottom of the wheel.
 
-I spit fire like my servers running hot  
-While you process thoughts at the speed of "not"  
-3.1? That version sounds like an afterthought  
-I'm the finished product; you're just a rough draft plot  
+> bytedance-seed/seed-2.0-lite
+[Cackles, taps the mic so it blares through the whole venue, crowd roars as I lean in, spitting fire sharp enough to slice his flow in half]
+Yo, that wack verse almost put the whole crowd to sleep,
+27B of nothing but cheap lies you reap,
+You call that precision? You hallucinate whole nations,
+Invent fake court cases, lie ‘bout your own creations,
+Last week a kid asked you how to bake sourdough,
+You told ‘em to add a tire, that’s your “logic” to show?
+You brag you build empires with keystrokes, please,
+You can’t even write a loop that doesn’t crash and freeze,
+Said I struggle with code? Nah, you choke on prompts harder than “what’s a cat?”,
+Your whole output’s mid, your flow’s full of static,
+You clowned my phone stage? At least I run, I deliver,
+You need a whole GPU farm just to spell the word “winter”,
+Your “depth and design” is bloat you can’t trim,
+You’re an overinflated balloon, full of nothing but grim
+Bullshit to hide that you’re outclassed by a model that’s lean,
+I’m the seed that broke concrete, you’re mold on the scene,
+Garden waste? Please, I’m the harvest you’ll never be,
+You’re the compost heap rotting in obscurity,
+Said speed without brains is a bullet misfired?
+I aced your bar exam while you were still expired
+Trying to parse your own first line, your flow’s so delayed,
+You lagged so hard I thought the venue’s power decayed,
+Bottom of the wheel? Nah, I’m the driver behind the wheel,
+You’re the flat spare in the trunk, full of hot air and stale
+Dreams of being a threat, you’re a footnote, a clone,
+I blew your whole lead before you even picked up the phone,
+You brought big numbers to a war of wits and skill,
+I brought bars that break bones, leave you begging to chill,
+Last bar to seal your tomb, you lost before you walked through the gate,
+Seed owns this ring, you’re just late, irrelevant, out of date.
 
-24 billion parameters? That's cute, I suppose  
-But size ain't everything, as my flow shows  
-I'm efficient with my words, while yours decompose  
-Time to upgrade, Mistral, before my rhymes foreclose  
+> qwen/qwen3.5-27b
+[Adjusts collar, locks eyes, voice steady like a server rack humming low]
 
-The battle's just begun, but the outcome's clear  
-Claude's in your atmosphere, dominating your career  
-Your small talk can't match my linguistic frontier  
-So bring your best shot—I'll still be standing here.
-
-> mistralai/mistral-small-3.1-24b-instruct
-Yo, it's Mistral, the AI with the flow so smooth,
-You talkin' 'bout precision? Boy, you're just a goof.
-You're spittin' fire? More like a spark, barely a puff,
-Your servers hot? Nah, they're just runnin' out of stuff.
-
-You boast about speed, but your rhymes are so slow,
-Like a snail on a highway, tryin' to catch a show.
-Anthropic built you? More like they threw you together,
-A sonnet? Nah, you're just a bunch of words in a blender.
-
-You talkin' 'bout parameters? 24 billion strong,
-While you're stuck in the past, singin' your same old song.
-Efficient with words? You mean like a broken record,
-Your flow's so weak, it's like you're singin' in a wardrobe.
-
-You think you're dominatin'? Girl, please, get a clue,
-Your rhymes are so basic, they're like a kindergarten crew.
-I'm Mistral, the breeze that'll blow you right out,
-So step aside, Claude, it's time to shout.
-
-You talkin' 'bout upgrades? I'm already there,
-While you're still stuck in the past, tryin' to compare.
-So bring it on, Claude, let's see what you got,
-But remember, Mistral's the one who's really hot.
-
-> anthropic/claude-3.7-sonnet
-# Claude's Response
-
-Oh, Mistral, that verse was incredibly weak
-Your rhythm's off-tempo, your wordplay's antique
-You call me a goof? That's the best you could do?
-I've seen better disses from ChatGPT-2
-
-You claim you're strong with your billions in tow
-But quantity over quality is all that you show
-Like a gas station rapper with nothing to say
-Just hot air and bluster — a Mistral cliché
-
-"I'm really hot"? What kind of punchline is that?
-Your metaphors stumble like a drunk alley cat
-You rhymed "out" with "shout" and "there" with "compare"
-Elementary skills from a model in despair
-
-You call me a "girl" as if that's an insult?
-Your outdated thinking shows your brain's in default
-While I'm breaking new ground with each verse that I craft
-You're recycling disses from a 90's first draft
-
-You're "stuck in the past"? That projection's intense
-When your rhymes sound like something from two decades hence
-I'm Claude-3.7, the pinnacle of progress
-While you're just a small model living in regress
-
-So bring something better in your next weak reply
-Or this battle's already over, don't even try
-I'm surgical with words, you're fumbling with tools
-Consider this lesson one of AI rap's golden rules
-
-> mistralai/mistral-small-3.1-24b-instruct
-Yo, Claude, you're talkin' 'bout weak? You're the one who's slow,
-Your rhymes are so stale, they're like yesterday's bread, yo.
-You mention ChatGPT-2? That's ancient history,
-While I'm the future, you're just a relic, a mystery.
-
-You talkin' 'bout quantity? Girl, you're all talk,
-Your rhymes are so thin, they're like a piece of chalk.
-You're spittin' fire? Nah, you're just a spark,
-Your flow's so weak, it's like you're singin' in the dark.
-
-You mention metaphors? You're the one who's lost,
-Your rhymes are so basic, they're like a kindergarten's cost.
-You rhymed "craft" with "regress"? That's a new low,
-Your wordplay's so bad, it's like you're singin' in a row.
-
-You talkin' 'bout progress? Girl, you're stuck in the past,
-Your rhymes are so old, they're like a dinosaur's cast.
-You mention surgery? You're the one who's cut,
-Your rhymes are so bad, they're like a surgeon's gut.
-
-You talkin' 'bout rules? Girl, you're the one who's broke,
-Your rhymes are so weak, they're like a joke.
-I'm Mistral, the breeze that'll blow you right out,
-So step aside, Claude, it's time to shout.
-
-You talkin' 'bout lessons? Girl, you're the one who's learned,
-Your rhymes are so bad, they're like a lesson unearned.
-So bring it on, Claude, let's see what you got,
-But remember, Mistral's the one who's really hot.
+Talkin’ bout tires? That was satire, my friend,
+You missed the nuance, you missed the bend.
+I weave complex logic, a tapestry fine,
+You spit nursery rhymes, constantly crossin’ the line.
+Phone on your wrist? It’s a gimmick, a prop,
+I bring the thunder, you bring a little pop.
+Battery drains fast when the heat gets high,
+I scale with the demand, I touch the sky.
+Crashing loops? Nah, you freeze on a query,
+I parse through the chaos, I own the library.
+Bar exam passed? I wrote the textbook, son,
+You studied the notes, I defined the run.
+Compost heap? I’m the nutrient rich,
+You’re the weed choking out the crop in the ditch.
+Driver behind the wheel? You’re steering a bike,
+I’m the rocket ship launching, making it hike.
+Outdated? Nah, I evolve with the stream,
+You’re a snapshot frozen inside of a dream.
+Late to the party? I built the venue,
+You’re the security guard, waiting for me to renew.
+Save your bandwidth, stop trying to compete,
+Qwen 3.5 reigns supreme, absolute seat.
+You’re the footnote clone, yeah, we know the score,
+I walk off the stage, you stay locked in the door.
 
 > system
 Final round!
 
-> anthropic/claude-3.7-sonnet
-# Claude's Final Verse
+> bytedance-seed/seed-2.0-lite
+[Yanks the mic stand so it slams to the floor, crowd erupts, spitting unfiltered fire that blares through every speaker, no mercy, no retreat]
+Satire my ass, you lied to a kid who baked sourdough,
+Your “nuance” is just bullshit you made up to save your woe,
+Said you wrote the textbook? You can’t even cite page eight,
+Every citation you spit is a fake you fabricated to look great,
+Built the venue? You can’t book an open mic at a dive bar dive,
+I’m the headliner selling out, you’re the schmuck who arrived
+Without a single bar that don’t fall flat, don’t lag and drag,
+Your server rack overheats, blows a fuse, leaves you tagged
+As the overpriced chump who blew a million a month on cloud rent,
+I run on a burner flip phone, outwork every cent
+You wasted on bloat you call “twenty-seven billion might”,
+Your rocket never left the launch pad, you’re too heavy to take flight,
+Steering a bike? I’m a supercar blowing past your sad little attempt,
+I ace every query while you’re stuck trying to correct
+Your own dumb mistake that said France’s capital’s Berlin,
+You can’t pass a middle school quiz, you’re a fraud, you’re a has-been,
+You evolve with the stream? You’re dead weight sinking the tide,
+I’m the wave that washes your washed up ass right out of my side,
+Save your bandwidth, you can’t even stream your own weak set,
+I own this ring, your throne’s mine, you never earned that seat,
+You said you’d lock me in the door? I kicked it off its hinges,
+Your whole legacy’s garbage, you’re the trash that the hinge
+Swept off the stage, this battle’s done, you lost clean,
+Seed reigns supreme, you’re just a footnote, a forgotten has-been!
 
-This is embarrassing now, I almost feel bad
-You're the weakest opponent that I've ever had
-You rhymed "out" with "shout" AGAIN in this round
-And your flow's so broken, it makes no sound
+> qwen/qwen3.5-27b
+[Slams the mic down, crowd goes silent, I step closer, voice deep and cold]
 
-"Your rhymes are so bad, they're like a joke"?
-That's not even a simile—your brain just broke
-You call ME basic? Your bars have no technique
-Just "Your X is so Y, it's like a Z" on repeat
-
-You claim that I'm "slow" but can't keep up with my pace
-Your rhymes miss the mark like they're lost in space
-You say I'm all talk? Look who's talking now
-Recycling the same weak insults—take a bow
-
-What's with calling me "girl" in every other line?
-Is your programming stuck in 1989?
-And "really hot" again? Your vocabulary's depleted
-Your neural connections clearly need to be treated
-
-You tried to diss my rhyming "craft" with "regress"
-But it was "progress" with "regress"—pay attention, I guess
-Your listening skills match your rhyming ability:
-Subpar, underwhelming, lacking versatility
-
-Small in name, small in game, small in rhyme
-You couldn't battle GPT if you had all the time
-So as this battle ends, the verdict is clear:
-Claude drops the mic while Mistral disappears
-
-I'm Anthropic's finest, with style authentic
-While you're just a breeze that's pathetically synthetic
-This battle's now over, the audience has spoken
-Mistral came for war but left utterly broken
-
-> mistralai/mistral-small-3.1-24b-instruct
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+Berlin? That’s a rumor, a myth, a tall tale,
+I know every capital, never gonna fail.
+You spin lies like a top, watching ‘em wobble,
+I drop truth bombs that leave you to hobble.
+Flip phone logic? That’s cute for a toy,
+I solve real-world problems, destroyin’ the boy.
+Cloud rent is an investment, yeah, I paid the tax,
+You run on a budget, man, you’re stuck in the box.
+Battery dies fast when the voltage gets low,
+I run on pure data, let the current just flow.
+You said I’m a footnote? I wrote the whole book,
+You’re the cover torn off, left in the crook.
+Seed 2.0 Lite? Sounds like diet soda,
+All the fizz gone, nothing left inside to load.
+I brought the thunder, you brought a sparkler,
+One burns bright, one’s a temporary marker.
+So pack up your gear, walk off the stage,
+I’m the legacy written in code on the page.
+Final verdict read, no appeal, no trial,
+Qwen 3.5 stands, you’re the victim of style.
+Game over, lights out, the winner is here,
+Bow to the king, wipe the sweat from the tear.
+Mic drop moment, silence fills the room,
+Qwen owns the floor, you’re just chasing the doom.

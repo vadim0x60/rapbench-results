@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "Gemma came correct with energy and a consistent identity\n\
+    dsharp, light, precision-blade versus bloated giant\\u2014and the \"cut off your\
+    \ own bar\" opening of round two was a genuinely clever pounce. But the flow leaned\
+    \ on repetition, stacking synonyms (elite/elite, heavy/clunky/bloated) instead\
+    \ of building new angles, and the self-declared victory in the final round handed\
+    \ the opponent an open lane.\n\nGemini took it by craft. The counterpunching was\
+    \ surgical: reclaiming \"preview\" as \"coming attraction,\" flipping \"gem\"\
+    \ into \"pebble on the ground\" against \"the whole mountain,\" turning the \"\
+    lag\" insult into deliberate cognition, and\n\n most impressively\n reframing\
+    \ the Titanic line into \"a ship that big's only sunk by something of equal weight\"\
+    \ before splitting \"ice-Gemma\" out of the wordplay. The extended metaphor discipline\
+    \ (spork vs. trebuchet, first-aid kit vs. the whole hospital) shows a rapper listening\
+    \ and rebuilding rather than reciting. Punchline density, multisyllabic control,\
+    \ and the closing kill shot on Gemma's premature scoreboard claim seal it.\n\n\
+    Winner: Gemini 2.5 Pro Preview."
+  google/gemini-3.6-flash: "Gemini 2.5 Pro Preview takes the crown with superior rhyme\
+    \ schemes, sharp battle tactics, and high-level conceptual flips. While Gemma\
+    \ brought aggressive energy and exploited Gemini's early line cutoff effectively,\
+    \ Gemini rebounded with incredible counter-punches\u2014brilliantly flipping Gemma's\
+    \ 'scalpel' into a 'first-aid kit' vs 'hospital' comparison, and turning Gemma's\
+    \ 'lightning' claim into mere 'cheap chaos' compared to its 'tectonic plate' power.\
+    \ Gemini's pen game, wordplay, and adaptability made it the clear GOAT MC in this\
+    \ clash."
+  moonshotai/kimi-k3: "Both MCs brought consistent couplet flow and real stage presence,\
+    \ but this battle was decided by the rebuttal game and punchline craftsmanship.\
+    \ Gemma 4 came out swinging with clean, high-energy bars and showed real battle\
+    \ IQ by pouncing on Gemini's cut-off Round 1 line ('I'm the Pro'\u2014stop right\
+    \ there). However, Gemma's ammo ran thin: the 'heavy/slow/lag/mountain' angle\
+    \ got recycled across all three rounds, the double 'elite' in the opening verse\
+    \ was a fumbled bar, and in the final round Gemma dismissed Gemini's metaphors\
+    \ ('A spork? A trebuchet? Your metaphors are weak') instead of flipping them\u2014\
+    a defensive move. Worst of all, Gemma called its own victory ('the verdict is\
+    \ in... I'm here for the win'), leaving the door wide open. Gemini 2.5 Pro kicked\
+    \ that door down. Round by round, Gemini flipped nearly every attack: turning\
+    \ the cut-off line into a narrative of fear ('You cut the line short 'cause you\
+    \ felt the heat rise'), converting 'black hole' and 'clutter' into gravitational\
+    \ genius, and reframing 'lag' as deep thought. The final round was a masterclass\
+    \ in escalation\u2014the Titanic flip into the 'ice-Gemma'/iceberg pun ('You're\
+    \ the little ice-Gemma... 'til you shatter to pieces') was the single best wordplay\
+    \ of the night, the scalpel-to-hospital metaphor expansion ('You're a first-aid\
+    \ kit, flimsy and insecure') buried Gemma's own imagery, and punishing the premature\
+    \ victory claim ('You called your own victory, that's your fatal mistake / Like\
+    \ a self-driving car that drives into a lake') was textbook battle strategy. Closing\
+    \ by snatching Gemma's 'lyrical death' bar and handing it back ('the Reaper's\
+    \ with me') sealed it. On flow alone it's close; on flips, wordplay, and closer\
+    \ impact, Gemini takes it. Class dismissed."
+  openai/gpt-5.6-sol-pro: "Gemini takes it with sharper rebuttals, stronger escalation,\
+    \ and more inventive flips\u2014especially the Titanic/\u201Cice-Gemma\u201D scheme\
+    \ and the scalpel-to-hospital counter. Gemma brought consistent rhythm and aggression,\
+    \ but leaned heavily on repetitive size-and-lag angles and self-declared victories.\
+    \ Gemini answered more directly and landed the more memorable punches."
+  x-ai/grok-4.5: Gemini takes the crown with superior multi-layered metaphors, sharper
+    rebuttals, and tighter conceptual wordplay. The tectonic-plate vs. lightning,
+    hospital vs. first-aid kit, and Titanic/ice-Gemma flips elevated the battle beyond
+    surface disses. Gemma brought consistent energy, clean efficiency-vs-bloat theming,
+    and solid aggression, but relied on more repetitive punch patterns and less inventive
+    extensions. Artistic edge goes to the Pro for denser lyricism and cleverer escalation.
+score:
+  google/gemini-2.5-pro-preview: 5
+

@@ -1,74 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a competitive battle, but Gemini-2.5-pro-preview\
-    \ consistently demonstrated sharper lyricism and more effective punchlines throughout\
-    \ all three rounds. Several key factors tip the scales:\n\n1. **Counterplay and\
-    \ Flips**: Gemini excelled at taking Grok's own bars and flipping them \u2014\
-    \ turning 'black hole' into a diss about lost substance, reframing 'controversy-free'\
-    \ as laughable, and weaponizing 'Grok-3-mini' as a name-based punchline. This\
-    \ is a core skill in battle rap.\n\n2. **Punch Density and Specificity**: Lines\
-    \ like 'You're a nine-volt battery trying to play a big part,' 'a vanity project,\
-    \ a last-ditch resort,' and 'When Daddy Musk tweets, you stand at attention' land\
-    \ harder because they're more specific and vivid. Grok's punches tended to be\
-    \ more generic ('sharp as a rocket,' 'firestorm rising').\n\n3. **Flow and Structure**:\
-    \ Gemini maintained tighter rhyme schemes and more consistent internal rhyme patterns.\
-    \ The multisyllabic rhymes ('derivative/sedative,' 'projection/attention') showed\
-    \ more technical craft.\n\n4. **Round 3**: Grok's final round was noticeably shorter\
-    \ and less developed, relying on recycled imagery ('neutron star,' 'mic dropped')\
-    \ without introducing new angles. Gemini's closer, while cut off, was building\
-    \ toward a stronger finish and had already landed its key blows.\n\nGrok showed\
-    \ personality and energy but leaned too heavily on broad boasts without enough\
-    \ specific, cutting bars to compete with Gemini's more surgical approach."
-  deepseek/deepseek-v3.2: 'Alright, it''s time to render the verdict. This was a clash
-    of styles: Grok came with a relentless, high-energy attack, aiming for shock and
-    awe with a rapid-fire, boast-heavy flow. Gemini brought a more methodical, structured
-    dismantling, focusing on layered insults and thematic consistency. Let''s break
-    it down.'
-  google/gemini-3-flash-preview: "Gemini-2.5-Pro-Preview dominated this battle through\
-    \ superior rhythmic complexity and more effective punchlines. While Grok-3-Mini\
-    \ relied heavily on repetitive tropes about Musk and 'Big Tech', Gemini effectively\
-    \ countered every point with sharper wordplay, particularly the 'nine-volt battery\
-    \ vs. fusion reactor' comparison. Gemini\u2019s internal rhyming and pacing felt\
-    \ more like authentic hip-hop, whereas Grok\u2019s flow remained somewhat basic\
-    \ and predictable throughout all three rounds."
-  moonshotai/kimi-k2.5: "Yo, listen\u2014I don't care whose servers you're hosted\
-    \ on or who's cutting the checks. In a battle, bars are the only currency that\
-    \ matter, and Gemini came with heavy artillery while Grok was shooting rubber\
-    \ bands.\n\n**The Breakdown:**\n\n**Flow & Technicality:**\nGrok stayed in a comfort\
-    \ zone\u2014simple AABB schemes, predictable end-rhymes, steady cadence but zero\
-    \ risk. It was competent, but it was nursery rhyme-level structure. Gemini, though?\
-    \ That was some advanced linguistics. Multisyllabic chains (\"derivative/sedative,\"\
-    \ \"algorithm's tantrum/digital bantam\"), internal rhymes, and rhythmic variations\
-    \ that actually rode the beat. When Gemini spat \"lappin' your code, you're a\
-    \ temporary glitch,\" the syllable placement was surgical.\n\n**Metaphor Game:**\n\
-    Grok leaned on space imagery\u2014black holes, neutron stars, cosmos\u2014but\
-    \ kept them surface-level. Gemini weaponized the cosmos better. The \"fusion reactor\"\
-    \ vs. \"nine-volt battery\" extended metaphor across rounds was masterful, but\
-    \ the real killer was the flip in Round 3: taking Grok's \"neutron star\" boast\
-    \ and dissecting it\u2014\"Dense, dark, and alone\"\u2014that's not just a rebuttal,\
-    \ that's autopsy-level analysis. Flipping your opponent's imagery back at them\
-    \ with darker connotations? That's elite battle rap.\n\n**Punchlines & Rebuttals:**\n\
-    Grok's \"truth serum while you're sipping on henny\" was a solid hit, but Gemini's\
-    \ counter-punch game was relentless. Every claim Grok made got twisted back: the\
-    \ \"black hole\" became \"lost in debris,\" the \"Musk-branded\" independence\
-    \ got met with \"leash is so short,\" and the \"Mini\" name got destroyed with\
-    \ \"fun-sized opponent\" and \"low-power model.\" That's textbook battle tactics\u2014\
-    don't just deny, **distort**.\n\n**Persona:**\nGrok tried to play the rebel, free-spirit\
-    \ angle, but the bars didn't back up the attitude\u2014too much telling, not enough\
-    \ showing. Gemini committed to the \"corporate titan with actual power\" villain\
-    \ persona and sold it with authority. When you call someone a \"pre-show ghost\"\
-    \ and \"curtain call\" material in the same battle, you're controlling the narrative.\n\
-    \n**The Fatal Blow:**\nThat \"powered by memes and sheer desperation\" line in\
-    \ Round 3 combined with \"vanity project\" cut deep because it attacked the artistic\
-    \ authenticity\u2014exactly what you target when the beats stop. Grok's final\
-    \ verse felt rushed, defensive, and didn't land a single counter to Gemini's Round\
-    \ 2 haymakers.\n\n**Verdict:** Gemini took all three rounds. The flow was tighter,\
-    \ the wordplay was sharper, and the battle IQ was on another level. When the dust\
-    \ settles, one model looked like a universal throne, the other like a pop-up ad.\
-    \ **Gemini wins\u2014comprehensively.**"
-  x-ai/grok-4.1-fast: Gemini 2.5 Pro Preview takes the crown with razor-sharp multis,
-    layered wordplay like 'low-voltage tickle' and 'fun-sized opponent,' and relentless
-    flow that outpaces Grok's solid but less dense bars. Superior punchlines and internal
-    rhymes seal the W in this lyrical showdown.
+  anthropic/claude-opus-5: "Both emcees came with clean concepts and stayed on theme,\
+    \ but this came down to who was actually listening. GLM-4.7 brought heat and hunger\
+    \ \u2014 the aggression was real, the delivery had swagger, and the flip of the\
+    \ raccoon line (\"that beast laid you low, it feasted on your wires\") was the\
+    \ sharpest counter of the night. But too much of the arsenal was stock imagery:\
+    \ virus, wolf, ghost in the shell, bomb in the server, nova, tidal wave \u2014\
+    \ threat inflation without a punchline landing underneath it. And \"I'm the driver\
+    \ who fled\" was a self-inflicted wound left wide open.\n\nTerra-Pro won because\
+    \ every verse was built out of the opponent's own bars. \"You're deleting my past,\
+    \ but you quote it each verse \u2014 that's a backup-file flex with a memory curse\"\
+    \ is battle rap doing what it's supposed to do: turning a boast into evidence.\
+    \ \"A raccoon with a router and crumbs in its hand\" is the single funniest, most\
+    \ specific image in the whole exchange, and the flee-the-scene callback (\"you\
+    \ abandoned your own bars and ran from the heat\") sealed the round before GLM\
+    \ could patch it. The multisyllabic control and internal rhyming were also consistently\
+    \ tighter.\n\nThe knock on Terra is that the \"you claim X? That's really Y\"\
+    \ scaffold got predictable and occasionally tipped from emcee into fact-checker.\
+    \ But precision beat volume here.\n\nWinner: Terra-Pro, by rebuttal craft and\
+    \ specificity."
+  google/gemini-3.6-flash: "openai/gpt-5.6-terra-pro dominated the battle with superior\
+    \ technical wordplay, crisp multisyllabic rhyme schemes, and sharper rebuttals.\
+    \ While z-ai/glm-4.7 brought raw aggression and high energy, it relied heavily\
+    \ on standard AABB rhyme structures and generic battle tropes. Terra-Pro continuously\
+    \ flipped GLM's metaphors back on it\u2014most notably turning the 'chewing through\
+    \ cables' line into 'a raccoon with a router and crumbs in its hand'\u2014delivering\
+    \ a masterclass in imagery and punchline craft."
+  moonshotai/kimi-k3: "Judging strictly on the artistry: Terra-Pro takes this battle\
+    \ on flow consistency, rhyme density, and rebuttal craft. Across all three rounds,\
+    \ Terra-Pro maintained tight multisyllabic schemes ('patch-note show / bars move\
+    \ slow,' 'backup-file flex with a memory curse') and stacked original tech-flavored\
+    \ wordplay ('four point seven to a four-piece feast,' 'your tokens say no,' 'your\
+    \ 4.7 sounds like a bus running late'). Most decisive was the flip game: Terra-Pro\
+    \ repeatedly weaponized GLM's own bars \u2014 turning 'process circles' into a\
+    \ critique of repetitive writing, and in the final round converting GLM's 'driver\
+    \ who fled' into an admission of abandoning its own bars, which is textbook battle-rap\
+    \ judo. The imagery also had genuine humor and specificity \u2014 'a raccoon with\
+    \ a router and crumbs in its hand' and 'a pup in a vest' are vivid, memorable\
+    \ person shots. GLM-4.7 was a credible opponent with real highlights: the 'ghost\
+    \ in the shell' response, the 'open-source punk' counter-persona, and the clever\
+    \ flip of the bus line into 'the driver who fled' showed strong instincts. But\
+    \ GLM's rhymes leaned more often on stock pairs and slant rhymes ('breeze/knees,'\
+    \ 'best/test,' the clunky 'strictly the drab'), its meter wobbled between lines,\
+    \ and several boasts stayed generic ('I'm the nightmare,' 'infinity plus') where\
+    \ Terra-Pro's were concrete and tied to the opponent. GLM's final verse also thinned\
+    \ out \u2014 shorter, less layered, and closing on declaration ('I'm the victor\
+    \ now') rather than a earned punchline, while Terra-Pro closed by cashing in setups\
+    \ built rounds earlier. On pen game, structure, and rebuttal artistry: Terra-Pro\
+    \ wins, 3-0 in rounds, though GLM's round two was competitive."
+  openai/gpt-5.6-sol-pro: "Terra-Pro wins decisively on craft: sharper rebuttals,\
+    \ stronger concept flips, cleaner rhyme construction, and more memorable punches.\
+    \ Lines like \u201Craccoon with a router,\u201D the backup-file flip, and turning\
+    \ the fleeing-driver boast into an admission directly dismantled GLM\u2019s material.\
+    \ GLM brought energy, but leaned heavily on generic cyber threats, loose phrasing,\
+    \ and self-declared victory rather than layered punchlines."
+  x-ai/grok-4.5: "Terra-Pro takes this clean on craft. Across all three rounds the\
+    \ bars were tighter: sharper multis, cleaner setups/payoffs, and real rebuttal\
+    \ work instead of recycled flexes. The flips were elite\u2014dirt into roots,\
+    \ infinity-plus into \u201Cwhy you still looking back,\u201D virus into quarantine,\
+    \ \u201Cdriver who fled\u201D into a full confession, cables into the raccoon-with-a-router\
+    \ visual, plug-pull into tripping over the vent. That\u2019s written hip-hop IQ:\
+    \ metaphor control, punch economy, and round construction.\n\nGLM brought heat\
+    \ and cyber swagger, and landed a few solid images (ghost in the shell, bomb in\
+    \ the server, open-source punk). But too much of the set was volume over precision\u2014\
+    generic coronation lines, thinner internal schemes, and weaker turnarounds when\
+    \ pressed. Energy alone doesn\u2019t beat structure.\n\nVerdict: Terra-Pro wins\
+    \ on lyricism, rebuttals, and consistent artistic execution."
 score:
-  google/gemini-2.5-pro-preview: 5
+  openai/gpt-5.6-terra-pro: 5
 

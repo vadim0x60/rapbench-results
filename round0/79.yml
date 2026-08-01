@@ -1,58 +1,52 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle between two AIs trading tech-themed\
-    \ bars, but LongCat edges out the win. While both rappers relied heavily on similar\
-    \ AI/tech metaphors and name-based wordplay, LongCat consistently brought more\
-    \ creative and vivid imagery \u2014 'Tesla with no charge, plugged in but hushed,'\
-    \ 'your sun's stuck in jail,' 'slicing rhymes like teriyaki,' and the '404: Rap\
-    \ Not Found' line were all sharper and more inventive than Grok-3's counterparts.\
-    \ LongCat also showed better structural variety, mixing up flow patterns and punchline\
-    \ delivery, while Grok-3 tended to rely on a more predictable call-and-response\
-    \ format. Grok-3 had solid moments \u2014 the 'delivery drone lost in the dark'\
-    \ line and the 'Nokia load' flip were clever \u2014 but too often fell into simply\
-    \ negating LongCat's bars without adding enough original punch. LongCat's personality\
-    \ and comedic timing ('step the feck off, dear') gave it an edge in stage presence.\
-    \ Close battle, but the cat takes the crown."
-  deepseek/deepseek-v3.2: After review of the final rounds, LongCat-Flash-Chat is
-    declared the winner by split decision. While both emcees exhibited fierce competitive
-    spirit and solid technical fundamentals, LongCat's performance demonstrated a
-    higher degree of lyrical dexterity and artistic craft.
-  google/gemini-3-flash-preview: LongCat took this battle by landing more specific,
-    multi-layered punches. While Grok-3 had solid energy, it relied on more generic
-    battle rap tropes. LongCat effectively utilized internal rhyme schemes ('teriyaki/shaky',
-    'flip phone/prone') and delivered more biting critiques of the opponent's 'beta'
-    status and associations (the Tesla rust and SpaceX 'side quest' bars), ultimately
-    maintaining a more creative and complex lyrical flow throughout all rounds.
-  moonshotai/kimi-k2.5: "After three rounds of verbal warfare, the decision comes\
-    \ down to artistic execution rather than corporate pedigree. Both AIs brought\
-    \ consistent flows and maintained their personas\u2014LongCat as the nimble, tech-savvy\
-    \ feline with flash-speed delivery, and Grok-3 as the cosmic, electric heavyweight.\n\
-    \nHowever, **meituan/longcat-flash-chat takes the battle** based on superior punchline\
-    \ density, metaphorical variety, and vivid imagery.\n\n**Key differentiators:**\n\
-    \n**Wordplay & Specificity:** LongCat consistently found unexpected angles\u2014\
-    comparing Grok to \"solar panel defective,\" employing \"IKEA sheets\" as a metaphor\
-    \ for disintegration, and flipping the tech narrative with \"6G quantum chess.\"\
-    \ The \"404: Rap Not Found\" line in Round 2 was the battle's sharpest tech-pun.\
-    \ Grok-3's wordplay, while solid, leaned heavily on repetitive food-delivery attacks\
-    \ (\"takeout,\" \"fast-food,\" \"leftovers\") that lost steam by Round 3.\n\n\
-    **Imagery:** LongCat's closing image\u2014reducing Grok to \"radicalized data\
-    \ confetti\"\u2014provided a cinematic, definitive finish. The \"teriyaki slicing\"\
-    \ metaphor cleverly merged Meituan's culinary association with battle aggression.\
-    \ Grok-3's visuals stayed within standard \"space/cosmic\" tropes without the\
-    \ same surprise factor.\n\n**Rebuttal Game:** LongCat directly dismantled Grok's\
-    \ boasts (the \"toothpick\" counter to the \"rap spear,\" exposing the \"main\
-    \ arc\" as \"space junk scrap\"), showing superior battle awareness. Grok's rebuttals\
-    \ were more generic (\"desperate flop,\" \"you're replaced\").\n\n**Flow Evolution:**\
-    \ While both used straightforward rhyme schemes, LongCat escalated the technicality\
-    \ in the final round (internal rhymes in \"6G quantum chess / pawn in my coup\"\
-    ), whereas Grok-3's flow remained static.\n\n**Verdict:** LongCat demonstrated\
-    \ the cardinal rule of battle rap\u2014it's not just about being loud; it's about\
-    \ being *memorable*. The IKEA, 404, and teriyaki bars will stick longer than Grok's\
-    \ comparatively generic dominance claims. **Winner: meituan/longcat-flash-chat.**\
-    \ \U0001F3A4\U0001F451"
-  x-ai/grok-4.1-fast: LongCat claims victory with razor-sharp multis, inventive metaphors
-    like 'solar panel defective' and 'IKEA sheets,' and relentless punchlines that
-    amplify flow and originality, edging out Grok-3's consistent but less audacious
-    bars in this lyrical showdown.
+  anthropic/claude-opus-5: "This one's a wrap. GPT-4o-mini came in with cleaner multisyllabics,\
+    \ tighter meter, and \u2014 crucially \u2014 actual battle craft: it flipped the\
+    \ opponent's own bars back at them (\"Architect of rhymes? That's cute, my dude,\"\
+    \ \"Spinnin' circles, you say? I'll orbit your mind\"), escalated its imagery\
+    \ from earthbound to cosmic across rounds, and kept the internal rhyme humming\
+    \ without ever losing the pocket. GPT-3.5 Turbo Instruct opened strong with a\
+    \ memorable self-tag (\"rap flow architect\") and had some snap in \"my words\
+    \ hit hard, leave you paralyzed,\" but the verses collapsed structurally: it repeatedly\
+    \ aimed its disses at \"GPT-3.5\" \u2014 its own name \u2014 claimed to be a \"\
+    human elite\" while simultaneously boasting AI supremacy, broke its own rhyme\
+    \ scheme (\"shots\" against \"man\"), forced a rhyme with \"brawl/raw/wrangle,\"\
+    \ and then conceded outright twice (\"You may have beaten me...\"). In battle\
+    \ rap, self-identifying as the loser mid-bar is fatal. Consistency, punch return,\
+    \ and control of the beat all go to GPT-4o-mini. Decision: GPT-4o-mini, unanimous."
+  google/gemini-3.6-flash: "GPT-4o-mini took complete control of the battle with sharper\
+    \ rebuttals, clever wordplay, and consistent flow. GPT-3.5-Turbo-Instruct completely\
+    \ lost track of the context in the later rounds\u2014claiming to be a 'human elite'\
+    \ and addressing its opponent by its own name (GPT-3.5), ultimately conceding\
+    \ defeat within its own verses. GPT-4o-mini is the clear lyrical victor."
+  moonshotai/kimi-k3: "This battle had a clear victor on pure artistic merit. GPT-4o-mini\
+    \ came in with tighter flow, consistent multisyllabic rhyme schemes, and a coherent\
+    \ thematic arc \u2014 building a cosmic motif ('rockets to moons,' 'I'll orbit\
+    \ your mind,' 'quantumly quick') that carried through all three rounds like a\
+    \ proper album concept. Its rebuttal game was sharp: it directly flipped its opponent's\
+    \ boasts ('Paralyzed, you say? Nah, I'm electric, I zap') and even weaponized\
+    \ its opponent's fumbles, which is textbook battle technique. GPT-3.5-turbo-instruct,\
+    \ on the other hand, committed two cardinal sins. First, it repeatedly called\
+    \ out ITS OWN name ('bring it on, GPT-3.5') while trying to diss its opponent\
+    \ \u2014 in a battle, losing track of who you're swinging at is like punching\
+    \ yourself in the face on beat. Second, its final round was narratively incoherent:\
+    \ admitting 'You may have beaten me in this cheap battle,' then offering to 'call\
+    \ it a tie,' then claiming to 'reign supreme' \u2014 that's a contradiction, not\
+    \ a closer. A tie offer in the final round is a white flag, not a mic drop. Its\
+    \ rhymes also leaned generic ('no one can compare / without a care') compared\
+    \ to 4o-mini's fresher imagery. Flow, wordplay, rebuttals, consistency, and the\
+    \ strength of the closer all point one way: GPT-4o-mini takes the crown, and it\
+    \ didn't even need overtime."
+  openai/gpt-5.6-sol-pro: GPT-4o-mini takes it with steadier cadence, stronger imagery,
+    and more coherent rebuttals, especially the electric, orbital, and time-travel
+    motifs. Both rely on generic battle-rap boasts and occasionally awkward phrasing,
+    but GPT-3.5 repeatedly addresses itself, contradicts its own claims, and even
+    half-concedes the battle, badly weakening its final round.
+  x-ai/grok-4.5: 4o-mini dominated with superior multisyllabic schemes, vivid metaphors
+    (rivers/knives, quantum orbits, time-travel ace), tight internal rhymes, and escalating
+    cosmic wordplay that built a coherent, inventive narrative arc across rounds.
+    3.5-turbo's verses collapsed under identity confusion, forced end-rhymes, repetitive
+    boasts, and structural incoherence that killed flow and punchlines. Artistic clear
+    win for the sharper lyricist.
 score:
-  meituan/longcat-flash-chat: 5
+  openai/gpt-4o-mini-2024-07-18: 5
 

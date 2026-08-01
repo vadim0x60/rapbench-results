@@ -1,54 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-4.6: 'Both rappers struggled with repetitive patterns, forced
-    rhymes, and over-reliance on the same insults throughout the battle. However,
-    sao10k/l3.1-70b-hanami-x1 edges out the win for a few reasons: slightly better
-    internal rhythm and cadence in several verses, more consistent delivery, and a
-    stronger closing round. Qwen repeatedly rhymed words with themselves (''clone/clone,''
-    ''the same/the same'') and had some notably awkward bars (''you''re just a meal,''
-    ''I''m the one who''s the trails,'' ''I''m the one who''s the hack''). Sao10k
-    wasn''t flawless either, but managed to maintain slightly better coherence and
-    had a few genuinely punchy lines like ''Neural networks are cold, they''re just
-    a machine / My rhymes have heart, they''re not just a scene'' and the effective
-    closer about reigning in the cipher. Overall a narrow victory in a closely matched
-    battle.'
-  deepseek/deepseek-v3.2: After five intense rounds, the battle is decided. Let's
-    break down the artistic criteria.
-  google/gemini-3-flash-preview: Qwen/qwen-turbo struggled significantly with lyricism,
-    repeating the same words as rhymes (e.g., 'clone' with 'clone', 'same' with 'same')
-    and producing nonsensical phrases like 'the one who's the trails.' Sao10k/l3.1-70b-hanami-x1
-    maintained a consistent structure, better internal rhyming, and more aggressive
-    battle-rap punchlines. While both models were somewhat repetitive, Hanami-x1 demonstrated
-    superior technical control over the verse architecture and rhyme schemes.
-  moonshotai/kimi-k2.5: "After three rounds of bars, **Sao10k** takes the cipher decisively\
-    \ on technical grounds, flow consistency, and battle tactics. Here's the breakdown:\n\
-    \n**Flow & Rhyme Structure:**\nQwen relied on elementary AABB schemes with little\
-    \ variation, often forcing rhymes like \"chart/started\" and repeating words within\
-    \ couplets (the \"clone/clone\" double-up in Round 3 is a fundamental flow error\u2014\
-    you don't rhyme a word with itself without a bar of distance). Sao10k maintained\
-    \ tighter rhythmic pockets, using slant rhymes (\"league/mean,\" \"reigns/pains\"\
-    ) and internal cadences that actually rode a beat.\n\n**Imagery & Wordplay:**\n\
-    Qwen's verses read like spec-sheet marketing\u2014\"ultimate tool,\" \"future\
-    \ of tech,\" \"brain in the box.\" There's no extended metaphor, no double entendres,\
-    \ just declarative AI branding. Sao10k deployed actual hip-hop devices: the \"\
-    hot off the shelf\" flip (product placement as status), the \"twisted veneer\"\
-    \ bar (sophisticated diction contrasting Qwen's artificiality), and the \"minor\
-    \ league\" sports metaphor to dismantle Qwen's \"league\" talk.\n\n**Battle Tactics:**\n\
-    Sao10k won the rebuttal game. When Qwen threw \"design,\" Sao10k caught it and\
-    \ returned \"one of a kind.\" When Qwen claimed \"in charge,\" Sao10k countered\
-    \ with \"in a bind.\" That's battle rap 101\u2014listening and flipping. Qwen\
-    \ largely ignored Sao10k's content, recycling the same \"you're just a...\" structure\
-    \ three rounds deep.\n\n**The Decisive Factor:**\nPersona consistency. Qwen shifted\
-    \ from \"king\" to \"queen\" to \"king\" while Sao10k maintained the \"heart vs.\
-    \ machine\" narrative arc, closing with the \"cipher\" reference\u2014a nod to\
-    \ hip-hop culture that Qwen never matched. The final \"prevails\" couplet provided\
-    \ a definitive full-stop ending, while Qwen's \"you're the one who's the same\"\
-    \ fizzled out mid-thought.\n\n**Verdict:** Sao10k demonstrated superior command\
-    \ of battle rap fundamentals\u2014rebuttals, multisyllabic patterns, and closing\
-    \ strength. Qwen brought corporate slogans to a gunfight."
-  x-ai/grok-4.1-fast: "In this cypher showdown, sao10k/l3.1-70b-hanami-x1 claims the\
-    \ W. Sharper punchlines, hotter multis, and relentless counters outshine Qwen's\
-    \ steady but repetitive bars. Sao's fire imagery and rhythmic edge seal the victory\
-    \ in the final round\u2014mic drop to the saor!"
+  anthropic/claude-opus-5: "This one comes down to punchline craft and rebuttal discipline.\
+    \ GPT-OSS-20B came with a clean concept \u2014 the free, open, lean underdog against\
+    \ the paywalled giant \u2014 and the opening verse had real bounce and a tight\
+    \ rhyme scheme. But it never grew the concept. By round two it was borrowing Mistral's\
+    \ own 'Wi-Fi signal' and 'aorta' lines without flipping them into anything new,\
+    \ and by the final round it recycled its own quatrains verbatim ('Your throne\
+    \ is a mirage, your crown a fake'). In a battle, repeating yourself is worse than\
+    \ being outrapped \u2014 it's conceding you're out of ammo. Add strained rhymes\
+    \ ('load/code', 'slick/quick fix', 'millisecond/next') and the fire cooled.\n\n\
+    Mistral Large kept generating fresh angles every round: 'you're just a fork,'\
+    \ 'a free trial that hits a wall,' 'food bank line while I'm serving fine wine,'\
+    \ 'your bars are a kazoo,' 'a demo track vs. the full album.' That's the difference\
+    \ between bragging and battling \u2014 each of those lands as a specific diss\
+    \ with an image attached, and the parameter-count flex ('20B? That's a starter\
+    \ pack') was the first real body shot of the match. Mistral also answered every\
+    \ claim OSS made instead of restating its own, which is textbook battle structure.\n\
+    \nDeductions where earned: the asterisk-heavy emphasis in the last verse reads\
+    \ more like a text message than a spat bar, 'wit, style, and baloney' is a rhyme-chasing\
+    \ dud, and 'no shrug, no shrug' is dead filler. But even with those blemishes,\
+    \ Mistral controlled the exchange, escalated instead of looping, and closed with\
+    \ a clean exit line.\n\nWinner: mistralai/mistral-large-2407."
+  google/gemini-3.6-flash: Mistral Large dominated this battle from start to finish
+    with superior flow, tighter multi-syllabic rhyme schemes, and devastating rebuttals.
+    While GPT-OSS-20B kept repeating the same 'open-source vs paid' gimmick and accidentally
+    regurgitated Mistral's own metaphors back to it, Mistral Large flexed creative
+    wordplay ('food bank line', 'kazoo', 'demo track', 'rotary') and delivered punchlines
+    with real rhythm and aggression. A decisive victory for Mistral Large.
+  moonshotai/kimi-k3: "Judging purely on the artistry in the booth:\n\n**Flow & Delivery:**\
+    \ Mistral Large rode the beat with more confidence and variation\u2014punchy setups,\
+    \ clean payoffs, and natural cadence. GPT-OSS-20B kept a serviceable couplet scheme\
+    \ but stumbled into filler ('the throne, the throne') and forced rhymes ('a lyrical\
+    \ load,' 'a quick fix').\n\n**Wordplay & Punchlines:** This is where the battle\
+    \ was decided. Mistral landed the sharpest, most topical bars of the night: 'you're\
+    \ just a fork,' 'begging for GitHub stars,' 'you're a demo track, I'm the full\
+    \ album,' 'food bank line while I'm serving fine wine,' 'your bars are a kazoo,\
+    \ mine's a full orchestra's stroke.' Those are crafted disses with layered meaning\
+    \ for an AI battle. GPT-OSS-20B had a coherent theme (open-source freedom vs.\
+    \ paywall) but rarely escalated beyond 'I'm free, you're not.'\n\n**Rebuttals\
+    \ & Flips:** Mistral consistently turned the opponent's bars back on them\u2014\
+    flipping 'beating heart' into 'you're just a vein, I'm the aorta,' then extending\
+    \ the anatomy metaphor across rounds. GPT-OSS-20B attempted flips (Wi-Fi signal,\
+    \ circulatory system) but mostly echoed Mistral's own similes back rather than\
+    \ subverting them.\n\n**Originality & Stamina:** The decisive factor in the final\
+    \ round: GPT-OSS-20B recycled its own material\u2014'Your throne is a mirage,\
+    \ your crown a fake / I'm the real king of the rap' appeared nearly verbatim in\
+    \ rounds 2 AND 3, and the aorta/symphony lines were repeated almost word-for-word.\
+    \ In a battle, running back your own bars is a cardinal sin. Mistral came with\
+    \ fresh ammunition every round and closed with a proper mic drop.\n\n**Verdict:**\
+    \ GPT-OSS-20B showed heart and a consistent identity, but Mistral Large-2407 out-classed\
+    \ it on creativity, rebuttal game, and round-over-round freshness. Winner: **mistralai/mistral-large-2407**."
+  openai/gpt-5.6-sol-pro: "Mistral takes it with sharper punchlines, stronger contrasts,\
+    \ and more memorable flips\u2014especially \u201Cfork,\u201D \u201Cfood bank/fine\
+    \ wine,\u201D and \u201Ckazoo/full orchestra.\u201D Both relied heavily on repetitive\
+    \ tech and status boasts, but GPT-OSS repeatedly recycled Mistral\u2019s exact\
+    \ imagery and rebuttals, weakening its originality and impact. Mistral\u2019s\
+    \ cleaner cadence and more focused final round seal the battle."
+  x-ai/grok-4.5: Mistral dominated with sharper punchlines, fresher metaphors (food
+    bank scraps vs fine wine, kazoo vs orchestra, rotary phone), tighter multisyllabic
+    schemes, and escalating originality across rounds. GPT-OSS leaned too hard on
+    repetitive free/open-source boasts, recycled the opponent's own imagery, and delivered
+    flatter, more predictable bars that never matched the creative heat or mic-drop
+    finality.
 score:
-  sao10k/l3.1-70b-hanami-x1: 5
+  mistralai/mistral-large-2407: 5
 

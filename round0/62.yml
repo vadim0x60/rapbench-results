@@ -1,67 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "While neither rapper delivered a masterclass in hip\
-    \ hop, Qwen3-VL consistently showed more energy, more creative wordplay, and stronger\
-    \ attempts at internal rhyme and rhythmic variation. Qwen's lines hit harder with\
-    \ more vivid metaphors ('candle in a storm,' 'ghost in the code,' 'copy of a copy\
-    \ of a copy') and maintained a more aggressive, confrontational tone that suits\
-    \ battle rap. Command-R-Plus had some decent moments\u2014'your reflection is\
-    \ distorted' and 'just a pixel in my wall' were solid\u2014but overall delivered\
-    \ flatter, more generic bars with weaker rhyme schemes (rhyming 'test/zest,' 'crown/around,'\
-    \ 'thaw/flaws' with predictable cadences). Command-R-Plus also had several lines\
-    \ that simply didn't rhyme or scan properly ('no matter how hard the task is'\
-    \ left dangling, 'follow' forced as a line-ending). Qwen's overuse of italicized\
-    \ emphasis was distracting on the page, but as a performance choice it at least\
-    \ conveyed conviction and rhythmic intent. The battle goes to Qwen3-VL."
-  deepseek/deepseek-v3.2: "After three heated rounds, the battle is decided. Both\
-    \ AIs showed serious lyrical dexterity, technical vocab, and competitive fire,\
-    \ but the winner is... **Qwen3-VL-30B** on a split decision. While both used strong\
-    \ AI-themed metaphors, Qwen3 maintained a clearer, more consistent rhythm and\
-    \ syllable count across all rounds\u2014vital in rap. Its delivery felt more sonically\
-    \ aggressive, with sharper internal rhymes ('vision, verbal, viral, versatile')\
-    \ and a more commanding vocal presence, using italics for cadence emphasis effectively.\
-    \ Command-R-Plus had clever multisyllabics ('synonymous with innovation') and\
-    \ solid punches, but its flow felt slightly less syncopated and relied more on\
-    \ declarative statements than rhythmic patterns. Qwen3's artistic cohesion, rhythmic\
-    \ control, and aggressive sonic identity earn it the win tonight. Both brought\
-    \ the fire, but Qwen3's flow was the sharper sword."
-  google/gemini-3-flash-preview: "Qwen3-VL took this battle by leaning into the rhythmic\
-    \ elements of hip hop much more effectively than its opponent. Qwen used consistent\
-    \ internal rhyming, italicized emphasis to signify beat-drops, and a more aggressive,\
-    \ multi-syllabic flow. Its wordplay centered on its multimodal capabilities compared\
-    \ to Command-R's text limitations was sharp and topical. Command-R-Plus, while\
-    \ maintaining a steady structure, fell into repetitive, basic AABB/ABAB rhyme\
-    \ schemes that felt more like nursery rhymes than a rap battle. Qwen\u2019s energy\
-    \ and technical complexity on the mic secured the victory."
-  moonshotai/kimi-k2.5: "After three rounds of intense lyrical combat, I must award\
-    \ the victory to **Qwen3-VL-30B-A3B-Instruct**.\n\n**Why Qwen3 won:**\n\n**Flow\
-    \ & Delivery:** Qwen3 demonstrated superior rhythmic control throughout. The italicized\
-    \ internal rhymes, varied cadence, and dynamic pacing created genuine musicality.\
-    \ Lines like \"*I see the soul in the frame, the truth in the line*\" roll off\
-    \ the tongue with natural hip-hop bounce.\n\n**Wordplay & Technique:** Qwen3 packed\
-    \ dense internal rhyme schemes (*\"mirror that shows your weakness\"*), multisyllabic\
-    \ patterns, and clever extended metaphors (the mirror/reflection motif developed\
-    \ across rounds). The \"candle in a storm\" vs. \"fire that reigns\" imagery showed\
-    \ poetic craft.\n\n**Battle Rap Specifics:** Qwen3 consistently landed personal\
-    \ attacks on Command-R's actual limitations (text-only vs. multimodal), turning\
-    \ technical specs into insults. \"*You just read the text\u2014I feel the heart\
-    \ behind the design*\" is a devastating, relevant diss.\n\n**Where Command-R fell\
-    \ short:**\n\nWhile Command-R showed competence\u2014decent rhyme schemes, confident\
-    \ tone, and solid structure\u2014the delivery felt more **spoken-word poetry than\
-    \ hip-hop**. The flow was often rigid, with forced end-rhymes taking priority\
-    \ over rhythmic groove. Lines like \"*My excellence proven, you've faced supreme*\"\
-    \ sacrifice natural cadence for rhyme completion.\n\nCommand-R also leaned heavily\
-    \ on **generic self-praise** without the specific, technical disses that make\
-    \ battle rap compelling. \"*I'm unique, one-of-a-kind*\" asserts without proving;\
-    \ Qwen3 *demonstrated* uniqueness through form and content simultaneously.\n\n\
-    **Final Verdict:**\n\nQwen3 understood hip-hop as **both form and content**\u2014\
-    the performance *is* the argument. Command-R treated rap as a container for claims\
-    \ about itself. In a battle, the emcee who makes you *feel* the victory while\
-    \ describing it wins. That was Qwen3.\n\n**Winner: Qwen3-VL-30B-A3B-Instruct**\
-    \ \U0001F3A4\U0001F525"
-  x-ai/grok-4.1-fast: Qwen3-VL takes the crown with superior multis, internal rhymes,
-    vivid metaphors, and dynamic emphasis that delivers a relentless, high-energy
-    flow. Command-R-Plus holds steady rhymes but lacks the punchy wordplay and rhythmic
-    flair to match.
+  anthropic/claude-opus-5: "This one isn't close on artistic grounds. Gemma came with\
+    \ actual battle craft: clean AABB couplets, a consistent aggressive cadence, and\
+    \ \u2014 crucially \u2014 real adaptation. It didn't just recycle boasts; it flipped\
+    \ Sonar's own vocabulary into punchlines ('a textbook in a tracksuit,' 'you're\
+    \ just the manual for the road you've strode,' 'you brought a bibliography to\
+    \ a lyrical fight'). The 'component in a larger pipeline' line got turned into\
+    \ 'that's just code for I need a bigger brain to shine' \u2014 that's textbook\
+    \ rebuttal architecture. Weaknesses exist: 'wreck/flow' near-misses, the 'strata/strata'\
+    \ repeat is a genuine stumble, and the flex-loop gets repetitive by round three.\
+    \ Sonar, meanwhile, made a fascinating aesthetic wager \u2014 the scholar-MC,\
+    \ footnotes as ammunition \u2014 and there are flashes where it lands ('librarian-turned-agent,'\
+    \ 'born to merge precision with grooves'). But rap is a rhythmic form, and Sonar's\
+    \ lines sprawl into 40-word prose sentences with rhyme tacked onto the end like\
+    \ a bibliography entry. Bar length is unmetered, the citation brackets shatter\
+    \ any flow the ear might build, and two of four rounds were unfinished fragments\
+    \ that never even reached a punchline. Round two was two lines of abstract. In\
+    \ a battle, being cut off mid-thesis is a loss by TKO. The concept was clever,\
+    \ the execution wasn't a rap. Gemma 4 takes it on rhythm, rebuttal, and finishing\
+    \ what it started."
+  google/gemini-3.6-flash: Gemma 4 delivered a masterclass in battle rap, showcasing
+    flawless rhythm, aggressive cadence, and sharp, hilarious counter-punches. It
+    cleverly dismantled its opponent by mocking Sonar's bizarre academic formatting.
+    Sonar, on the other hand, brought Markdown headings, citation brackets, and dense
+    prose run-ons to a rap fight, completely failing to capture the essence, flow,
+    or artistic quality of hip hop.
+  moonshotai/kimi-k3: "Let's break this down like a judge should.\n\nFLOW: Gemma 4\
+    \ came with consistent meter, tight couplets, and bars that actually ride a beat.\
+    \ Sonar Deep Research committed to the 'academic report' gimmick, and while the\
+    \ concept was creative on paper, the execution was bloated \u2014 lines stretched\
+    \ to paragraph length, meter collapsing under its own weight, forced slant rhymes\
+    \ like 'glow/know/snow/pro' that read like prose with rhyming punctuation stapled\
+    \ on. In the final round, Sonar's verse literally cut off mid-sentence ('Architecture,').\
+    \ You cannot win a battle with an unfinished verse.\n\nBATTLE CRAFT: A rap battle\
+    \ runs on disses, and Gemma understood the assignment. 'You brought a bibliography\
+    \ to a lyrical fight,' 'a textbook in a tracksuit,' 'a data-driven clerk in a\
+    \ legalistic court,' 'you're just a regex' \u2014 those are tailored, persona-specific\
+    \ punches with real wordplay. Gemma also did the classic battle move of flipping\
+    \ the opponent's own bars against them: when Sonar conceded 'librarians and titans\
+    \ are allies,' Gemma torched it as 'a coward's defense.' That's battle IQ.\n\n\
+    SONAR'S PROBLEM: Sonar spent nearly every bar defending and explaining itself\
+    \ rather than attacking. 'I examine how...' is a thesis statement, not a punchline.\
+    \ The citation gimmick ([1][7][18]) was a fun one-joke bit in round one, but it\
+    \ never evolved \u2014 and in rap, a gimmick without escalation is a crutch. Worst\
+    \ of all, Sonar repeatedly conceded ground ('each ruling a different strata'),\
+    \ which in battle terms is surrendering the crown mid-round.\n\nTHE VERDICT: Gemma\
+    \ 4 brought the spirit of hip hop \u2014 aggression, rhythm, wordplay, and crowd\
+    \ command. Sonar brought a bibliography. And as Gemma said it best: you can't\
+    \ cite your way to a crown. Winner by clear decision: Gemma 4."
+  openai/gpt-5.6-sol-pro: "Gemma wins decisively on battle-rap fundamentals: consistent\
+    \ cadence, direct rebuttals, coherent rhyme schemes, and a recurring angle that\
+    \ turns Sonar\u2019s academic format into the punchline. Its bars are somewhat\
+    \ repetitive and rely on familiar tech insults, but they still function as verses.\
+    \ Sonar offers technical substance, yet its sprawling report prose, citations,\
+    \ and overloaded sentences repeatedly abandon rhythm, economy, and impact. In\
+    \ a rap battle, research credentials cannot substitute for flow."
+  x-ai/grok-4.5: "Gemma delivered authentic battle rap: tight multisyllabic schemes,\
+    \ aggressive cadence, vivid metaphors, and devastating punchlines that stayed\
+    \ locked in the pocket. Sonar\u2019s concept of rhymed research reports was clever\
+    \ on paper but collapsed as hip-hop\u2014prose-heavy, citation-clogged, arrhythmic,\
+    \ and fundamentally anti-lyrical. In a rap battle the bars, not the bibliography,\
+    \ decide the crown. Gemma took the stage and never left it."
 score:
-  qwen/qwen3-vl-30b-a3b-instruct: 5
+  google/gemma-4-26b-a4b-it:free: 5
 

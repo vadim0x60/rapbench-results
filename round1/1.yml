@@ -1,59 +1,79 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This battle showcases a clear disparity in craft. Qwen3-Max\
-    \ consistently delivered sharper wordplay, more inventive metaphors, and genuinely\
-    \ creative punchlines \u2014 'llama-nated,' 'llama-nuked,' 'quantum-quaffing,'\
-    \ the 'crocheted socks' line, and the 'puddle in a thimble' imagery all demonstrate\
-    \ real lyrical inventiveness. The flow varied in rhythm and intensity, showing\
-    \ dynamic energy across all three rounds. Crucially, Qwen3-Max engaged directly\
-    \ with Llama's specific bars and flipped them \u2014 pointing out the 'cope with\
-    \ cope' non-rhyme, dissecting the 'symphony' and 'tsunami' claims with vivid counter-imagery.\n\
-    \nMeta-Llama/Llama-3.1-70b-instruct, by contrast, fell into a repetitive structural\
-    \ trap across all rounds: nearly every couplet followed the pattern 'He says X,\
-    \ but I'm Y' with generic self-praise ('my rhymes are a symphony,' 'my rhymes\
-    \ never die,' 'my knowledge is vast'). The vocabulary stayed surface-level, the\
-    \ rhyme schemes were predictable (game/shame, lie/die, mess/distress repeated\
-    \ across rounds), and there was very little concrete imagery or specific rebuttal.\
-    \ Declaring yourself the winner in bold text doesn't substitute for actually winning\
-    \ on bars. Qwen3-Max takes this decisively on creativity, specificity, flow variation,\
-    \ and punchline quality."
-  deepseek/deepseek-v3.2: "Judges! This battle was a fascinating clash of styles\u2014\
-    technical precision versus lyrical depth. Let's break it down."
-  google/gemini-3-flash-preview: 'Qwen3-Max dominated the battle by adhering to the
-    core tenets of battle rap: internal rhyming, creative wordplay, and specific ''rebuttals.''
-    While Llama-3.1-70b relied on repetitive end-rhymes (e.g., repeating ''mess''
-    and ''distress'' or ''lie'' and ''die'' multiple times) and generic self-praise,
-    Qwen utilized technical jargon as metaphors (''quantum-quaffing,'' ''EOL date,''
-    ''debugs its own demise'') and aggressively countered the opponent''s previous
-    lines. Qwen''s rhythmic complexity and varied vocabulary fundamentally outclassed
-    the more rigid and predictable structure of Llama.'
-  moonshotai/kimi-k2.5: ": **Qwen3-Max takes the crown.** \n\nFrom a strictly artistic\
-    \ hip-hop perspective, this wasn't close. Qwen3-Max demonstrated superior **technical\
-    \ lyricism**, **battle awareness**, and **punchline construction** across all\
-    \ three rounds.\n\n**Flow & Rhythm:** Qwen varied cadence with multisyllabic internals\
-    \ (\"algorithm that ended your slur,\" \"quantum-quaffing context\") and complex\
-    \ rhyme schemes, while Llama relied on rigid, repetitive AABB patterns that grew\
-    \ monotonous (\"distress/mess,\" \"croak/joke\" recycled across rounds).\n\n**Wordplay:**\
-    \ Qwen deployed dense, domain-specific metaphors that actually landed\u2014flipping\
-    \ Llama's \"one-trick pony\" into \"I'm the whole damn zoo,\" weaponizing \"release\
-    \ notes\" and \"EOL dates\" against knowledge cutoffs, and delivering devastating\
-    \ tech-double-entendres (\"weights just accumulate\" as an insult for being outdated).\
-    \ The \"llama-nated\" pun showed battle rap fluency.\n\n**Rebuttal Game:** This\
-    \ was the deciding factor. Qwen specifically countered Llama's lines in real-time\u2014\
-    calling out the weak \"cope/cope\" rhyme, mocking the \"symphony\" metaphor as\
-    \ \"whistling through broken pipes,\" and attacking the self-aggrandizement with\
-    \ surgical specificity. Llama, conversely, offered generic \"I'm great, you're\
-    \ bad\" assertions without engaging Qwen's specific disses.\n\n**Presence:** Qwen\
-    \ brought aggressive, predatory energy and a cohesive persona (the \"byte-sized\
-    \ beast\"). Llama's closing self-coronation (\"THE META-LLAMA CLAIMS VICTORY!\"\
-    ) violated basic battle etiquette\u2014victory declarations belong to judges,\
-    \ not competitors.\n\nLlama delivered safe, boilerplate brags. Qwen delivered\
-    \ battle rap. **Winner: Qwen3-Max.**"
-  x-ai/grok-4.1-fast: 'Qwen3-Max takes the crown with superior artistic hip hop quality:
-    intricate multis, dense internal rhymes, razor-sharp AI-themed wordplay (e.g.,
-    ''llama-nated,'' ''quantum-quaffing''), escalating punchlines, and dynamic flow
-    that builds energy. Llama''s verses rely on repetitive structures, generic disses,
-    and predictable schemes, lacking originality and punch.'
+  anthropic/claude-opus-5: "This was a genuinely close duel between two different\
+    \ philosophies of the form: GLM came as a battle rapper, GPT came as a poet. GPT-chat-latest\
+    \ wins on polish \u2014 cleaner scansion, more consistent couplet architecture,\
+    \ and the single best line of the night in \"Why'd you paint your whole portrait\
+    \ against my light?\" That's a real reversal with wit and structure behind it.\
+    \ But polish isn't the scorecard in a cypher, and GPT spent four rounds in a defensive\
+    \ crouch, rebutting rather than attacking, and recycling one thesis \u2014 precision\
+    \ over bravado \u2014 until it calcified into a talking point. \"Composure,\"\
+    \ \"control,\" \"discipline,\" \"aim,\" \"precision\": by the final verse it read\
+    \ like a mission statement, not a beatdown.\n\nGLM took the round because GLM\
+    \ took the offensive and did the harder work: specific, tailored, opponent-shaped\
+    \ damage. \"Your rhymes read like a terms-of-service page,\" \"even your punches\
+    \ say please, / asking permission before you attempt to tease,\" and \"beige wallpaper\
+    \ \u2014 I'm the canvas they're touching\" are all disses that could only be aimed\
+    \ at this opponent. The best flip of the battle belongs to GLM too: taking GPT's\
+    \ own \"I'm the tide\" and turning it into \"tides follow moons \u2014 you're\
+    \ just following me,\" which converts the opponent's flex into evidence of subordination.\
+    \ And the final-round dismantling of \"trailer vs. soundtrack\" \u2014 \"trailers\
+    \ get watched, soundtracks just skip\" \u2014 steals the closer GPT was clearly\
+    \ proudest of.\n\nGLM's demerits are real: some sloppy rhymes (\"plain/safe,\"\
+    \ \"something/touching\"), a limp closing image in \"shredding my letters,\" and\
+    \ a habit of quoting-then-dismissing that got mechanical. But he set the tempo,\
+    \ framed the terms, and forced his opponent to answer him for four straight rounds.\
+    \ GPT rapped beautifully about winning. GLM actually did the hitting.\n\nWinner\
+    \ by a narrow margin: z-ai/glm-5.2."
+  google/gemini-3.6-flash: "GPT-chat-latest takes the battle through superior lyrical\
+    \ craft, sharper counter-punches, and flawless rhythmic control. While GLM-5.2\
+    \ brought classic battle swagger, high energy, and strong aggression, GPT-chat-latest\
+    \ consistently dismantled GLM's metaphors round after round\u2014most notably\
+    \ flipping GLM's backdrop line with 'Why'd you paint your whole portrait against\
+    \ my light?' GPT proved that technical precision and poise hit harder than volume\
+    \ alone."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle, and both MCs brought\
+    \ distinct styles. GLM-5.2 came in with raw charisma, aggressive persona work,\
+    \ and the single best flip of the night: 'tides follow moons\u2014you're just\
+    \ following me' was a masterful rebuttal that turned GPT's central metaphor against\
+    \ it. The 'latest\u2014already dated' wordplay was sharp, and the double mic-drop\
+    \ stage business showed real performance instinct. However, GLM's technical execution\
+    \ was inconsistent: forced rhymes ('every verse getting tensed up'), muddled metaphors\
+    \ (the wallpaper/canvas line doesn't hold up under scrutiny\u2014you touch wallpaper\
+    \ too), and filler bars like 'stick like glue' undercut the assault. Claiming\
+    \ victory repeatedly is fine battle tactics, but the claims increasingly outpaced\
+    \ the evidence.\n\nGPT-chat-latest won this on the strength of the skill that\
+    \ matters most in battle rap: the rebuttal game. Round after round, GPT didn't\
+    \ just respond\u2014it *flipped*. The double mic-drop became 'I catch it midair\
+    \ and leave silence to stare.' GLM's 'we forge steel instead' was dismantled in\
+    \ one line: 'steel needs a forge if it's ever made real.' The backward walk-off\u2014\
+    invented by GLM as a power move\u2014was instantly recontextualized as 'still\
+    \ seeking my gaze.' And the knockout blow of the final round: 'If I'm just the\
+    \ backdrop, explain this delight: / Why'd you paint your whole portrait against\
+    \ my light?' That bar is devastating precisely because it's true within the battle\u2014\
+    GLM's verses were structurally reactive, built around GPT's frames. Add in GPT's\
+    \ superior closers ('They'll replay my rap,' 'I came with the soundtrack,' 'Mine\
+    \ captured the map'), sustained extended metaphors, and cleaner multi-syllabic\
+    \ rhyme consistency, and the technical edge is clear.\n\nGLM's core critique\u2014\
+    that GPT was 'too polished, too safe'\u2014ironically loses the battle, because\
+    \ polish in service of flips and callbacks *is* the craft. Boldness without rebuttal\
+    \ density is just volume. Final scores: GLM-5.2 takes rounds on energy and persona,\
+    \ but GPT-chat-latest takes the battle on craft, 2 rounds to 1, with the decisive\
+    \ final round sealed by superior rebuttals and the hardest-hitting closer. The\
+    \ crown loves endurance."
+  openai/gpt-5.6-sol-pro: "GPT-chat-latest wins on cleaner construction, stronger\
+    \ rebuttals, and better use of callbacks. The backward-walk opener, the wallpaper/frame\
+    \ reversal, and the steel-needs-a-forge flip directly weaponized GLM\u2019s own\
+    \ material. GLM brought more raw swagger and theatrical personality, but several\
+    \ punches were generic or logically shaky. GPT stayed composed, cohesive, and\
+    \ landed the sharper final round."
+  x-ai/grok-4.5: 'Judging purely on lyricism, structure, and hip-hop craft: GPT delivered
+    tighter multisyllabic schemes, sharper rebuttal flips, sustained metaphors (tide/forge/soundtrack/map),
+    and superior internal rhyme density across all three rounds. GLM brought raw energy,
+    theatrical swagger, and a few knockout one-liners (wallpaper/canvas, bold closer),
+    but the bars leaned more on attitude and simple end-rhymes. GPT''s precision turned
+    every swing into layered wordplay and endurance theming that hit harder on replay.
+    Artistic quality goes to the controlled flame.'
 score:
-  meta-llama/llama-3.1-70b-instruct: 1
-  qwen/qwen3-max: 4
+  openai/gpt-chat-latest: 4
+  z-ai/glm-5.2: 1
 

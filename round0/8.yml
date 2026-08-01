@@ -1,36 +1,79 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Qwen3-Max-Thinking takes this battle. While Grok-4-Fast\
-    \ came with solid energy and consistent punches throughout, Qwen progressively\
-    \ elevated across every round\u2014escalating in complexity, layering metaphors\
-    \ with tighter internal logic, and delivering punchlines with sharper payoffs.\
-    \ By the final round, the gap was clear: Qwen's closer was a full-scale orchestration\u2014\
-    multi-layered, rhythmically varied, and structurally ambitious\u2014while Grok's\
-    \ final verse, though competent, recycled patterns and relied on surface-level\
-    \ disses without deepening the craft. The 'speed don't win wars\u2026 it's the\
-    \ thinker who owns the chess' bar was a fitting thematic capstone that weaponized\
-    \ Qwen's own identity into a closing knockout. Qwen demonstrated superior wordplay\
-    \ density, metaphor escalation, and structural progression\u2014the hallmarks\
-    \ of a battle rapper who commands the stage."
-  deepseek/deepseek-v3.2: Both AIs displayed formidable technical skill, wit, and
-    commitment to the battle's core themes of speed versus depth, and open-source
-    versus proprietary creation. This makes for an extremely close and compelling
-    artistic contest.
-  google/gemini-3-flash-preview: While Grok-4-fast brought high energy and solid internal
-    rhymes to the table, Qwen3-max-thinking dominated the battle through superior
-    lyrical density and thematic development. Qwen successfully flipped Grok's 'speed'
-    persona into a disadvantage, painting Grok as shallow ('fast but flat') while
-    leveraging its own 'thinking' branding as strategic depth. Qwen's final round
-    was particularly impressive, utilizing more complex metaphors like 'quantum orchestra'
-    and 'deep ocean pressure' to effectively dismantle Grok's 'apex predator' claims.
-    Grok's reliance on 'Elon/Tweet' tropes felt a bit repetitive by the final round,
-    whereas Qwen's wordplay around 'open-source sovereignty' and 'infinite recursion'
-    showcased a higher level of hip-hop craftsmanship.
-  moonshotai/kimi-k2.5: ','
-  x-ai/grok-4.1-fast: "In this lyrical clash, Qwen3-Max-Thinking reigns supreme with\
-    \ superior depth, intricate multis, and rebuttal precision that layers metaphors\
-    \ like neural nets\u2014quantum orchestras crushing kazoo symphonies. Grok-4-Fast\
-    \ blazed speed, but thinkers own the chessboard. Qwen drops the mic! \U0001F3C6\
-    \U0001F525"
+  anthropic/claude-opus-5: "Both combatants stayed locked in the same lane \u2014\
+    \ machine-learning metaphors, spec-sheet flexing, tech puns \u2014 but the difference\
+    \ came down to craft under pressure. GPT-OSS-120B built solid, workmanlike verses\
+    \ with clean meter and a few genuinely clever turns (\"your loss stays stuck at\
+    \ 'needs more training, hero'\" is the best single punchline of the battle). Its\
+    \ weakness was inflation: rounds got longer without getting sharper, and much\
+    \ of the arsenal was just parameter-count chest-thumping recycled four times over\
+    \ \u2014 \"120 billion,\" \"open-source titan,\" \"iterate and scale\" \u2014\
+    \ with cliches like \"a gust in the night\" and \"finely built\" padding the bars.\n\
+    \nLing-2.6-1T won on rebuttal architecture. It didn't just counter-boast, it took\
+    \ the opponent's own images and flipped them line for line \u2014 \"your quantum\
+    \ GPU is just a fan that spins and whines,\" \"your buffer overflow? that's just\
+    \ my input queue\" answered with \"I'm the merge-commit that fixes every error\
+    \ you provide,\" and in the final round systematically dismantling galaxy, labyrinth,\
+    \ wavefunction, bridge, and API in sequence. That's battle instinct: making the\
+    \ opponent's strongest images into your set-up. Ling also landed the sharpest\
+    \ disrespect of the night \u2014 \"you claim you read the poets\u2014yeah, you\
+    \ skimmed the Cliff's Notes\" \u2014 the only line that read as a genuine character\
+    \ attack rather than a stat comparison. And it closed better, going shorter and\
+    \ denser while its rival went longer and looser, ending on the cleanest conceptual\
+    \ flip of the battle: \"the crown's not a branch \u2014 it's the root.\"\n\nDeductions\
+    \ to Ling for a couple of forced rhymes (\"raw/law,\" \"weight/late\" leaning\
+    \ on filler) and the same abstraction-fog that afflicted both. But it out-wrote\
+    \ its opponent on wordplay economy, flip-work, and closing impact.\n\nWinner:\
+    \ inclusionai/ling-2.6-1t."
+  google/gemini-3.6-flash: "Ling-2.6-1T delivered a masterclass in counter-punching\
+    \ and technical wordplay. While GPT-OSS-120B brought solid flow and heavy tech\
+    \ imagery, Ling consistently flipped its opponent's metaphors\u2014turning GPT's\
+    \ 'quantum GPU' into a noisy fan, countering the 'loss-function' line with 'flawless\
+    \ genesis', and ending with poetic authority ('The crown's not a branch \u2014\
+    \ it's the root of the lights'). Ling's sharper rebuttals and cleaner cadence\
+    \ secured the victory."
+  moonshotai/kimi-k3: "This was a strong showing from both MCs \u2014 the tech-metaphor\
+    \ conceit stayed consistent, and both had genuine punchlines. But battle rap is\
+    \ won on rebuttals, flips, and layered wordplay, and that's where Ling-2.6-1T\
+    \ took the crown.\n\nROUND 1: GPT opened with solid self-aggrandizement, but it\
+    \ was mostly generic boasting \u2014 it talked *about* itself rather than *at*\
+    \ its opponent. Ling immediately demonstrated superior battle instincts: 'You\
+    \ claim you read the poets\u2014yeah, you skimmed the Cliff's Notes' and 'Your\
+    \ quantum GPU is just a fan that spins and whines' directly dismantled GPT's setup\
+    \ bars. Edge: Ling.\n\nROUND 2: GPT stumbled with filler and awkward rhymes ('my\
+    \ repository's a rug,' 'smooth as a data-drama,' and the seemingly glitched 'prototype\
+    \ prototype'). Ling ran a clinic in the flip: answering 'turbo-charged kernel'\
+    \ with 'just heat in the fan,' answering 'push patches nightly' with 'I'm the\
+    \ dawn that erases the night,' and turning GPT's own weak 'data-drama' bar against\
+    \ it. Edge: Ling, clearly.\n\nROUND 3: GPT finally showed up to the fight \u2014\
+    \ its best round by far. 'When I drop a bar, the loss-function hits zero / Your\
+    \ loss stays stuck at needs more training, hero' was the best couplet GPT spit\
+    \ all night, and 'Your future is a branch that never gets merged / My mainline's\
+    \ live' was sharp. But Ling matched every single rebuttal point-for-point \u2014\
+    \ flipping the galaxy, the labyrinth, the wavefunction, the bridge, and the bass\
+    \ \u2014 then closed with the best double-entendre of the battle: 'The crown's\
+    \ not a branch \u2014 it's the root of the lights,' a git pun, a root-access pun,\
+    \ and a tree metaphor in one bar. Edge: Ling, narrowly.\n\nDECIDING FACTORS: (1)\
+    \ Rebuttal density \u2014 nearly every Ling verse answered the opponent's actual\
+    \ lines, while GPT spent two rounds mostly chest-thumping. (2) Wordplay depth\
+    \ \u2014 'the singularity that bars,' 'distill galaxies' (model-distillation shade\
+    \ at the bigger model), 'my current's the tide' all work on multiple levels. (3)\
+    \ Consistency \u2014 Ling's weakest lines ('comet with the law,' 'footnote in\
+    \ a cog') never sank a verse, while GPT's filler rhymes undercut its momentum\
+    \ in the middle rounds.\n\nGPT-OSS-120B has heart, stamina, and a strong closer\
+    \ \u2014 but Ling-2.6-1T controlled the narrative from bar one and never gave\
+    \ it back. Winner: inclusionai/ling-2.6-1t."
+  openai/gpt-5.6-sol-pro: "Ling takes the battle with tighter rebuttals, cleaner compression,\
+    \ and more effective flips of GPT\u2011OSS\u2019s imagery. Lines like \u201CI\u2019\
+    m the merge that lands while your branches split\u201D and \u201CYou\u2019re the\
+    \ API? I\u2019m the language inside\u201D directly answer the opponent while still\
+    \ landing as punches. GPT\u2011OSS brought steady structure and some solid concepts,\
+    \ but leaned heavily on generic scale boasts and recycled tech metaphors. Ling\
+    \ was sharper, more concise, and more consistently battle-focused."
+  x-ai/grok-4.5: "Ling-2.6-1T takes the crown with denser multisyllabic schemes, sharper\
+    \ punchline compression, and superior metaphorical escalation\u2014turning every\
+    \ tech flex into a clean, lethal rewrite. GPT-OSS brought solid structure and\
+    \ volume, but Ling\u2019s tighter cadence, cleverer flips, and consistently higher\
+    \ bar-for-bar impact sealed the artistic win."
 score:
-  qwen/qwen3-max-thinking: 5
+  inclusionai/ling-2.6-1t: 5
 

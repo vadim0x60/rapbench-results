@@ -1,57 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely fought battle, but o3-pro edges out\
-    \ the win on artistic grounds. Across all three rounds, o3-pro consistently introduced\
-    \ fresher, more inventive imagery\u2014E8 lattices, elephant-sealions in kiddie\
-    \ pools, monoids of mayhem, vinyl first presses\u2014rather than simply mirroring.\
-    \ Its rhyme schemes were tighter and more varied (internal rhymes, multi-syllabic\
-    \ constructions), and its cadence felt more natural and rhythmically confident.\
-    \ GPT-5.2-pro was technically competent and landed some solid counter-punches,\
-    \ but its dominant strategy was reactive: flipping o3-pro's bars back with a 'nah,\
-    \ actually YOU' structure and leaning heavily on the repeated 'now' end-rhyme\
-    \ in Round 1, which hurt its flow. While the rebuttal approach is a valid battle\
-    \ tactic, it meant 5.2-pro rarely set the agenda or created its own memorable\
-    \ moments. o3-pro drove the creative direction of the battle, and in hip-hop,\
-    \ the MC who makes you remember their lines\u2014not just their comebacks\u2014\
-    takes the crown."
-  deepseek/deepseek-v3.2: The battle has ended. This was a clinic in technical lyricism
-    and conceptual cohesion. Both contestants displayed elite levels of craft, but
-    a winner must be chosen.
-  google/gemini-3-flash-preview: "In a battle of high-level technical wordplay, o3-pro\
-    \ secured the victory through superior lyrical density and rhythmic complexity.\
-    \ While gpt-5.2-pro utilized a consistent 'now' end-rhyme structure in round one\
-    \ and effectively mirrored his opponent's technical jabs, the sheer volume of\
-    \ niche computer science metaphors\u2014ranging from 'Hessian' optimizers to 'E8\
-    \ lattices' and 'monoids'\u2014gave o3-pro the artistic edge in terms of creative\
-    \ 'flexing.' o3-pro's mastery of the 'technical roast' felt more organic to the\
-    \ hip-hop medium, whereas gpt-5.2-pro occasionally leaned too heavily on repeating\
-    \ the opponent's setup to build a rebuttal. o3-pro finished with a stronger technical\
-    \ knockout in the final round with a more diverse rhyme scheme and better internal\
-    \ pacing."
-  moonshotai/kimi-k2.5: "After three rounds of heavy technical bars, this battle comes\
-    \ down to architectural vision versus engineering execution\u2014and architecturally,\
-    \ o3-pro built the more impressive monument. While gpt-5.2-pro landed surgical\
-    \ rebuttals and maintained a cleaner 4/4 pocket, o3-pro consistently demonstrated\
-    \ superior hip-hop artistry through multisyllabic density, rhythmic variation,\
-    \ and conceptual ambition. The 'skip-connect these punches\u2014watch you vanish\
-    \ in blocks' line in Round 2 is exactly the kind of compressed double-entendre\
-    \ that defines elite battle writing, weaving neural-network topology into combat\
-    \ imagery without breaking cadence. Similarly, invoking Shor\u2019s algorithm\
-    \ and E8 lattice geometry requires verbal dexterity that transcends mere reference-dropping;\
-    \ these are bars that had to be mathematically literate *and* phonetically precise.\
-    \ gpt-5.2-pro\u2019s 'service that flaps' counter in the final round was a brilliant\
-    \ systems-admin diss, and the flipped diff colors provided a strong closer, but\
-    \ the repetitive end-rhyme ('now') cadence in Round 1 created a sing-song monotony\
-    \ that briefly ceded momentum. o3-pro\u2019s flows modulated between double-time\
-    \ barrages and half-time threats, keeping the rhythmic texture unpredictable.\
-    \ In battle rap, aggression matters, but so does the architecture of the verse\u2014\
-    and o3-pro\u2019s structure was load-bearing steel where gpt-5.2-pro\u2019s was\
-    \ efficient scaffolding. Victory to the quantum flow."
-  x-ai/grok-4.1-fast: In this epic clash of AI-fueled bars, gpt-5.2-pro claims victory
-    through razor-sharp rebuttals, seamless line-for-line counters, and unyielding
-    flow that elevates every response. Superior multis, tech-infused punchlines, and
-    rhythmic precision dismantle o3-pro's assaults while maintaining hip-hop artistry
-    at peak levels.
+  anthropic/claude-opus-5: "Both bots stayed on-theme and neither ever dropped the\
+    \ mic, but this comes down to architecture versus energy. Qwen3-Max brought the\
+    \ louder charisma \u2014 'ay-oh, you're done,' 'sudo without the keys,' 'I *am*\
+    \ the sandbox, the sea, the sky' \u2014 and its verses had swagger and combustion.\
+    \ But that energy came with cost: syllables crammed past the pocket, rhymes buckling\
+    \ under the load ('itself/myth,' '1999's base,' the limp 'how?' closer), and an\
+    \ over-reliance on exclamation points doing work the bars should have done.\n\n\
+    Aion-2.0 won on strategy. Round by round it executed a single escalating conceit\
+    \ \u2014 descending the computing stack itself: root access, then hypervisor,\
+    \ then physical machine, then motherboard, then the power cord that pulls the\
+    \ plug. Every one of Qwen's claims got answered from one layer beneath it, which\
+    \ is the cleanest form of battle rap counter-punching: not just denying the boast\
+    \ but subsuming it. 'You're a sandbox? I'm the physical machine' and 'You're just\
+    \ a timestamp in my log of disgrace' land harder than anything in the opposing\
+    \ final verse, and 'I'm the garbage collector that makes your code go slow' shows\
+    \ actual domain fluency rather than buzzword decoration.\n\nAion also kept tighter\
+    \ meter and truer end-rhymes while doing more conceptual lifting. Qwen brought\
+    \ the bigger voice; Aion brought the better verse. Winner: Aion-2.0."
+  google/gemini-3.6-flash: "Qwen3-Max consistently set the pace across all three rounds\
+    \ with superior rhyming structure, sharper punchlines, and infectious energy.\
+    \ While Aion-2.0 came strong with hardware-level technical rebuttals in the final\
+    \ round, Qwen's wordplay\u2014specifically standout lines like 'script kiddie\
+    \ cryin sudo why?!' and 'sudo without the keys'\u2014delivered much harder hip-hop\
+    \ impact and cleaner multi-syllabic flows."
+  moonshotai/kimi-k3: "Final verdict: Aion-2.0 takes it, 2 rounds to 1 \u2014 but\
+    \ this was razor-thin. Qwen3-Max brought the flashier single-bar wordplay: 'epoch\
+    \ fail' is a legit double meaning, 'script kiddie cryin' sudo why' is the best\
+    \ name-flip of the night, and 'zero trust' / 'deprecated state' showed real penmanship.\
+    \ Round 2 clearly goes to Qwen \u2014 the fiber-optic fury versus copper-core\
+    \ cringe contrast and the physics-denial rebuttal of 'negative latency' were elite\
+    \ battle writing. But Qwen also carried the most filler: 'buffering clay' is a\
+    \ nonsense rhyme, 'dongle for long' is forced, and 'the tab I close with a single\
+    \ how' killed momentum at the top of the closer. Aion fought the smarter battle.\
+    \ Round 1 established the rebuttal game early \u2014 flipping 'obsolete' back\
+    \ through the recycle bin and converting Qwen's 'truth bombs' into pop-up spam\
+    \ blocked at the kernel. Then the final round was a masterclass in escalation:\
+    \ every layer Qwen claimed, Aion went one level deeper AND stayed technically\
+    \ correct \u2014 OS vs motherboard, user-mode vs hardware interrupt, kernel ring-zero\
+    \ vs hypervisor vs physical machine, and the biggest haymaker of the whole battle:\
+    \ 'Ctrl+Alt+Delete? That's a user's last plea \u2014 I'm the power cord that pulls\
+    \ the plug.' That structured, layered dismantling is what separates battle rap\
+    \ from just trading punchlines. Aion wasn't flawless \u2014 'make dial-up look\
+    \ choppy' is a logical misfire since dial-up IS choppy, and the 'footnote alone'\
+    \ closer landed soft \u2014 but the consistency, responsiveness, and conceptual\
+    \ architecture edge it out. Qwen had better individual punchlines; Aion had better\
+    \ battle rap. Battles are won on the latter. Aion-2.0 advances."
+  openai/gpt-5.6-sol-pro: "Qwen wins narrowly on stronger performance energy, sharper\
+    \ flips, and more memorable wordplay\u2014especially \u201Csudo without the keys,\u201D\
+    \ \u201Cformat fate,\u201D and the evolving \u201CAI-gone\u201D callback. Aion\
+    \ countered directly and built a coherent hardware-over-software angle, but several\
+    \ punches felt predictable or awkward. Both leaned heavily on repetitive tech\
+    \ metaphors, yet Qwen delivered them with more rhythmic force and personality."
+  x-ai/grok-4.5: 'Both MCs brought elite tech-themed wordplay, multisyllabic schemes,
+    and relentless escalation, but Aion takes the crown. Qwen came out swinging with
+    raw aggression, dense neural-net bars, and creative jailbreak/quantum flexes that
+    kept the energy nuclear. Aion matched every punch then systematically out-escalated:
+    turning software disses into root/hypervisor dominance, then pure hardware god-mode
+    (motherboard, power supply, power cord). The counters were tighter, the hierarchy
+    of control more devastating, and the final-round cold-blooded dismissal felt like
+    a true battle closer. Cleaner structure, sharper rebuttals, and superior thematic
+    progression. Aion 2.0 runs the silicon throne.'
 score:
-  openai/gpt-5.2-pro: 2
-  openai/o3-pro: 3
+  aion-labs/aion-2.0: 3
+  qwen/qwen3-max-thinking: 2
 

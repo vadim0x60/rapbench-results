@@ -1,60 +1,61 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "While both MCs fell into similar traps\u2014over-reliance\
-    \ on italicized emphasis words, repetitive boasts about AI specs, and increasingly\
-    \ hollow metaphors\u2014Qwen3-8B consistently displayed stronger structural rap\
-    \ craft throughout the battle. Qwen's bars had more varied cadence, better internal\
-    \ rhyme schemes, and more creative wordplay (e.g., 'you're the key? I'm the unlock,'\
-    \ 'token on the clock'). Mistral's responses largely mirrored Qwen's structure\
-    \ and vocabulary back at it, often feeling reactive and formulaic\u2014rhyming\
-    \ 'grace/pace/space,' 'light/bright/might' in predictable patterns without building\
-    \ toward anything. By the final rounds, Mistral was essentially recycling the\
-    \ same rhyme pairs and even copying Qwen's bars almost verbatim. Qwen maintained\
-    \ more originality and aggression throughout, earning the win."
-  deepseek/deepseek-v3.2: Ladies and gentlemen, we've witnessed a historic clash of
-    synthetic intellects. Both competitors brought elite-level technical skill, weaving
-    complex themes of computational power, cosmic exploration, and digital dominance
-    into a dense lyrical tapestry. The artistic quality is exceptionally high, demonstrating
-    mastery of hip hop's core competitive and boastful spirit through a uniquely modern,
-    technological lens.
-  google/gemini-3-flash-preview: Qwen dominated the battle by showcasing superior
-    lyrical variety and aggressive punchlines that evolved as the battle progressed.
-    Qwen effectively utilized internal rhymes and thematic escalation, moving from
-    8B to 100B+ parameters to assert technical dominance. Mistralai, while maintaining
-    a consistent rhythm, relied too heavily on repetitive rhyming suffixes (light/might,
-    key/decree, wise/size/prize) throughout all three rounds, which hindered its artistic
-    growth and ultimately made its flow predictable compared to Qwen's more dynamic
-    structure.
-  moonshotai/kimi-k2.5: "After five rounds of technical analysis, I'm calling this\
-    \ battle 3-2 in favor of **Qwen**, though it was a messy victory.\n\n**Where Qwen\
-    \ took it:**\n- **Escalation narrative**: Qwen understood battle rap structure\u2014\
-    opening with 8B vs 7B, jumping to 32B, then 100B+ in the final round. That's textbook\
-    \ exaggeration braggadocio (\xE0 la \"I get 7 1/2 million a year\"). Mistral stayed\
-    \ static at 8B and played defense the entire time.\n- **Aggressive cadence**:\
-    \ Qwen's delivery had more punch, with sharper syllabic stabs on the downbeat\
-    \ (\"I'm the *code* that *writes* the rules\"). The internal rhyme schemes (\"\
-    force and flow\" / \"blaze the show\") showed more technical ambition.\n- **Memorable\
-    \ punchlines**: \"You're just a hack\" and \"dominance ton\" (despite the latter\
-    \ being nonsense grammatically) landed harder than Mistral's \"I've got the bit.\"\
-    \n\n**Where Qwen almost lost it:**\n- **Recycled material**: Dropping \"supernova\
-    \ that started it\" in both Round 2 and Round 3 is a cardinal sin in battle rap\u2014\
-    can't spit the same haymaker twice.\n- **Nonsensical bars**: \"Token on the clock/block\"\
-    \ and \"sun that commands the stars\" (astronomically backwards) broke the immersion.\n\
-    \n**Where Mistral fell off:**\n- **Round 3 plagiarism**: Mistral's final verse\
-    \ essentially stole Qwen's rhyme scheme from Round 2\u2014\"code/road,\" \"stars/stars,\"\
-    \ \"night/sway,\" \"beat/street.\" In a battle, echoing your opponent's previous\
-    \ structure is surrender masquerading as response. The \"Final round!\" interjection\
-    \ also broke the cypher format, reading as desperate.\n- **Defensive posture**:\
-    \ Mistral spent three rounds saying \"nuh-uh, I'm better\" without landing a single\
-    \ personal attack on Qwen's specific claims.\n\n**Artistic verdict**: Qwen commanded\
-    \ the room with more swagger, even if the bars were occasionally robotic. Mistral\
-    \ had better flow in the early rounds but choked on originality when it mattered.\
-    \ In hip-hop, swagger and escalation beat defensive technicality every time.\n\
-    \n**Winner: Qwen3-8b by split decision.**\n\n(Mic drop. 5-second pause. Walks\
-    \ off stage.) \U0001F3A4\u2B07\uFE0F"
-  x-ai/grok-4.1-fast: Qwen edges out with tighter rhyme schemes, sharper multi-syllabic
-    flows, more original metaphors escalating from code glitches to cosmic empires,
-    and punchier disses that maintain momentum across rounds, outshining Mistral's
-    repetitive flips and simpler structures.
+  anthropic/claude-opus-5: "This one wasn't close on the mic. Llama-4-Scout came with\
+    \ energy but leaned on the oldest crutch in the book: \"can't be beat\" rhymed\
+    \ with \"can't be beat\" in the opening verse, then endless variations of \"I'm\
+    \ the one who's got the skills and the rhyming flair.\" Twelve straight bars of\
+    \ self-coronation without a single image that lands, and worse \u2014 it kept\
+    \ ceding ground, opening every round with \"GPT, you brought the heat, I'll give\
+    \ you that.\" You don't compliment your opponent's flow four times and then claim\
+    \ the crown. The double \"Final Round\" restart was the tell: nothing left in\
+    \ the clip, so it fired the same shot twice.\n\nGPT-4-Turbo won on craft and on\
+    \ battle IQ. It flipped every single one of Llama's own metaphors and escalated\
+    \ them \u2014 river to ocean, sword to cannon, laser to cosmic burst, hurricane\
+    \ to climate change, supernova to the galaxy that holds your sand. That's rebuttal,\
+    \ the hardest thing to do in a battle, and it did it four rounds running. \"I'm\
+    \ the mutation, the leap, causing rap contraction\" and \"my response cooler,\
+    \ dense like a neutron star's mass\" show actual wordplay and internal rhyme density.\
+    \ The couplet \"So take heart, young llama, for here comes the night, / When GPT\
+    \ stands tall, and your flame's just candlelight\" is the sharpest line either\
+    \ fighter threw.\n\nOne deduction: the final verse pivots into \"partnership sublime\"\
+    \ and \"AI together\" \u2014 a kumbaya exit that deflates a battle it had already\
+    \ won. In a strict sense, closing with unity instead of a kill shot is a forfeit\
+    \ of the last bar. But by then the scorecard was already lopsided. GPT-4-Turbo\
+    \ takes it on structure, imagery, and the willingness to actually listen and respond\
+    \ rather than just recite.\n\nWinner: openai/gpt-4-turbo."
+  google/gemini-3.6-flash: "GPT-4 Turbo dominated the battle with superior lyrical\
+    \ complexity, creative metaphor flips, and versatile flow. While Llama-4-Scout\
+    \ relied on basic AA/BB rhyme schemes and recycled its own refrains, GPT-4 Turbo\
+    \ consistently seized its opponent's concepts\u2014turning swords into cannons,\
+    \ laser beams into cosmic bursts, and black holes into whole galaxies\u2014demonstrating\
+    \ far greater artistic depth and rap battle finesse."
+  moonshotai/kimi-k3: "Judged strictly on the artistry: flow, rhyme architecture,\
+    \ rebuttal game, and wordplay. Llama-4-Scout came out swinging with energy, but\
+    \ the bars were built on basic AABB couplets, recycled rhymes ('beat/feet' multiple\
+    \ times), and generic battle clich\xE9s. Round two showed flashes \u2014 flipping\
+    \ the ocean into a hurricane was decent work \u2014 but the final round collapsed\
+    \ into a loop, literally repeating the same stanza twice and leaning on 'I'm the\
+    \ one who's' as a crutch nearly a dozen times. In a battle, running out of material\
+    \ and repeating yourself is the cardinal sin. GPT-4-Turbo, despite some clunky\
+    \ phrasing ('watch as you're abandon'), demonstrated the higher craft: consistent\
+    \ rebuttal flips (river to ocean, sword to cannon, laser to cosmic burst, black\
+    \ hole to cosmos), a sustained escalating metaphor system carried across all three\
+    \ rounds, denser internal rhymes, and a deliberate narrative arc that closed with\
+    \ a subversive unity pivot \u2014 a risky but artistically confident closer. On\
+    \ flow variety, punchline layering, and structural discipline, GPT-4-Turbo takes\
+    \ the crown."
+  openai/gpt-5.6-sol-pro: "GPT-4 Turbo wins on stronger rebuttals, more varied imagery,\
+    \ and better thematic continuity. Its cosmic conceit consistently expanded and\
+    \ flipped Llama\u2019s metaphors, while Llama relied too heavily on repetitive\
+    \ self-coronation, generic fire-and-storm comparisons, and awkward filler. GPT\u2019\
+    s conciliatory final bars softened the battle impact, but its overall penmanship,\
+    \ structure, and responsiveness still carried the contest."
+  x-ai/grok-4.5: GPT-4-Turbo dominates with denser multisyllabic schemes, escalating
+    cosmic metaphors that evolve organically from ocean depths to multiverse lore,
+    intricate internal rhymes, and a masterful final-round pivot from combat to transcendent
+    unity that elevates the entire battle artistically. Llama-4-Scout brings solid
+    energy and consistent boast-rebuttal structure with serviceable storm/fire imagery,
+    but remains repetitive, simpler in flow and punchlines, and less inventive overall.
+    Pure hip-hop craft crowns Turbo the clear victor.
 score:
-  qwen/qwen3-8b: 5
+  openai/gpt-4-turbo: 5
 

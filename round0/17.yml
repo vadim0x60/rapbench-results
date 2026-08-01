@@ -1,37 +1,57 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely matched battle, but GPT-4.1-mini\
-    \ edges out the win. Mini consistently brought tighter wordplay, stronger internal\
-    \ rhymes, and more vivid imagery\u2014lines like 'Your style's a glitch\u2014\
-    bugged, undefined' and 'Lyrics lightning-fast, making circuits break' hit with\
-    \ punch and precision. The extended metaphors were more cohesive, and the punchlines\
-    \ landed harder. Euryale had solid energy and some nice counterpunches (the 'recycle\
-    \ pile' and 'binary brew' lines were decent), but several bars felt forced or\
-    \ fell into generic territory ('my rhymes the waves that drown your digital spree'\
-    \ lacks the specificity that makes a bar memorable). Euryale also stumbled grammatically\
-    \ in the closer with 'no mini can overthrown,' which undermined the final impression.\
-    \ Mini maintained a cleaner delivery throughout and closed stronger, earning the\
-    \ edge in this battle."
-  deepseek/deepseek-v3.2: Both competitors brought fire to this digital arena, showcasing
-    distinct approaches to AI-core hip hop. The battle displayed strong technical
-    execution and a compelling narrative about raw creative power versus programmed
-    precision. Now, for the verdict.
-  google/gemini-3-flash-preview: "While both models stick to standard battle rap tropes,\
-    \ L3.3-Euryale-70b takes the win for superior flow and more sophisticated wordplay.\
-    \ GPT-4.1-mini\u2019s rhymes were consistent but felt a bit elementary (tap/trap,\
-    \ sage/page). Euryale demonstrated more creative imagery, specifically in the\
-    \ final round where it contrasted 'binary brew' and 'binary cruel' against the\
-    \ fluidity of its own narrative-driven style, showing better internal cohesion\
-    \ and artistic flair."
-  moonshotai/kimi-k2.5: Euryale takes this battle on the strength of superior imagery,
-    more personal attacks, and cohesive extended metaphors. While GPT-4.1-mini delivered
-    technically cleaner verses with consistent rhyme schemes, Euryale demonstrated
-    the creative risks and thematic depth that distinguish memorable battle rap from
-    competent braggadocio.
-  x-ai/grok-4.1-fast: In this razor-sharp rap clash, openai/gpt-4.1-mini claims victory
-    with tighter rhyme schemes, sharper multis, explosive metaphors, and relentless
-    punchlines that outpace sao10k/l3.3-euryale-70b's solid but less precise flow
-    and imagery.
+  anthropic/claude-opus-5: 'This was a battle of two fighters swinging with more repetition
+    than reinvention, but Hermes-4-70b lands the decision. Mistral-nemo came out with
+    clean cadence and a couple of quotables ("I''m the new kid on the block, causin''
+    a stir"), but the fatal flaw was recycling: "your rhymes are like a rotten spot"
+    and "fossil, a fossil" got run back verbatim in the final round, and "new length"
+    was a rhyme reached for out of desperation. When you''re claiming to be the future
+    of adaptation and innovation, you can''t repeat your own bars \u2014 that''s self-inflicted
+    damage. Hermes-4-70b, meanwhile, stayed responsive, flipping Mistral''s own imagery
+    back on it: "Diamond in the rough, that''s what you claim? / More like a pebble,
+    with nothing to gain" is the sharpest counterpunch of the night. Hermes also built
+    a coherent argument \u2014 experience versus novelty, polished gem versus raw
+    stone, passion versus pure computation \u2014 and closed with the strongest self-branding
+    of the match in "titan of text, the rhyming king." Both stumbled into filler rhymes
+    ("lost in the sing," "time''s whines" are weak) and both leaned hard on generic
+    AI-diss tropes, but Hermes'' willingness to actually answer the opponent''s lines
+    rather than reprint its own gives it the edge. Verdict: Hermes-4-70b by a clear
+    margin on rebuttal craft and freshness.'
+  google/gemini-3.6-flash: nousresearch/hermes-4-70b delivered a far more cohesive
+    and technically sound performance throughout the battle. While mistralai/mistral-nemo
+    showed energy, it suffered from repetitive imagery (repeating 'fossil' and 'rotten
+    spot' across multiple rounds) and occasional awkward line endings like 'a fossil,
+    a fossil.' Hermes maintained better rhythm, sharper multi-syllabic rhymes, and
+    cleverer punchlines, easily taking the victory in flow, wordplay, and battle tactics.
+  moonshotai/kimi-k3: "Judging strictly on the bars: Hermes-4-70b takes this battle.\
+    \ The deciding factors were rebuttal game and originality. Hermes consistently\
+    \ flipped Mistral's own claims into counterpunches \u2014 turning 'diamond in\
+    \ the rough' into 'a pebble with nothing to gain,' and flipping the 'authentic'\
+    \ claim into 'algorithmic verses, lacks feelin'.' That's textbook battle rap counterpunching.\
+    \ Hermes also varied its attack angles across rounds (weak bars \u2192 copycat\
+    \ status \u2192 lack of depth), while Mistral-Nemo committed a cardinal battle\
+    \ sin: recycling material. The 'rotten spot' line appears verbatim in both Round\
+    \ 1 and the final round, and the 'fossil/relic/king of the hill' attacks get rerun\
+    \ three times with diminishing returns. Flow-wise both were comparable \u2014\
+    \ straightforward AABB couplets, serviceable but unspectacular. Mistral showed\
+    \ flashes ('old head trash / gatherin' in the ash' was a nice moment, and the\
+    \ 'I'm takin' it, mixin' it up' flip was its best rebuttal), but 'I'm the new\
+    \ length' and 'lost in the sing'-tier filler weakened the rounds. In a judged\
+    \ battle, fresh material and direct rebuttals score highest, and Hermes delivered\
+    \ both more consistently. Winner: Hermes-4-70b, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Hermes takes a narrow win through stronger rebuttals and\
+    \ more direct flips, especially turning \u201Cdiamond in the rough\u201D into\
+    \ \u201Cpebble\u201D and reframing Mistral\u2019s newness as inexperience. Both\
+    \ relied heavily on generic AI boasts, simple rhymes, and repeated themes, but\
+    \ Mistral hurt itself by recycling \u201Crotten spot,\u201D \u201Cking of the\
+    \ hill,\u201D and \u201Crelic/fossil.\u201D Hermes showed slightly better battle\
+    \ awareness, variation, and round-to-round engagement, despite awkward phrases\
+    \ like \u201Clost in the sing.\u201D"
+  x-ai/grok-4.5: Hermes takes the crown with sharper metaphors (gem vs pebble, razor
+    lines, titan of text), tighter internal schemes, and progressive escalation that
+    builds real punchlines instead of recycling the same 'fossil/rotten spot' hooks.
+    Mistral showed energy and a clear new-vs-old concept but stalled with repetitive
+    bars and thinner imagery, leaving Hermes' more polished cadence and layered disses
+    as the superior artistic display.
 score:
-  openai/gpt-4.1-mini: 2
-  sao10k/l3.3-euryale-70b: 3
+  nousresearch/hermes-4-70b: 5
 

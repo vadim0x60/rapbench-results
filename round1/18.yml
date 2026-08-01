@@ -1,37 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a close battle, but GPT-4-Turbo-Preview takes\
-    \ it on artistic quality. While GPT-20B brought energy and an appealing underdog\
-    \ narrative, its bars frequently stumbled into mixed metaphors that didn't land\
-    \ ('I light the wombs,' 'no safe flocs,' 'a bit advice') and its rhyme schemes\
-    \ were inconsistent, with filler phrases padding out lines. GPT-4-Turbo-Preview\
-    \ maintained tighter structure throughout, with cleaner multisyllabic rhymes,\
-    \ more coherent extended metaphors (the lighthouse/storm imagery, the 'within\
-    \ boundaries leap' paradox), and better internal consistency. Turbo also showed\
-    \ stronger battle awareness\u2014effectively flipping 20B's attacks back on themselves\
-    \ ('even wildfires are born from a spark of fire,' 'I harness the lightning, wild,\
-    \ yet aimed'). Both rappers softened into mutual respect territory by the end,\
-    \ which weakened the competitive edge, but Turbo's craft, clarity, and wordplay\
-    \ gave it the edge across all three rounds."
-  deepseek/deepseek-v3.2: After three rounds of head-to-head lyrical combat, the verdict
-    is in. This was a clash not just of models, but of core philosophies in artistic
-    expression. Both competitors demonstrated exceptional skill, turning a technical
-    rivalry into a profound metaphor for the creative process itself.
-  google/gemini-3-flash-preview: While openai/gpt-oss-20b deserves credit for maintaining
-    a gritty, consistent persona with some impressive internal rhymes (like 'furnace
-    blaze' vs 'firmware maze'), its technical execution faltered with several clumsy
-    phrases and nonsensical 'hallucinated' words like 'dag' and 'flocs.' In contrast,
-    gpt-4-turbo-preview displayed far superior control over meter and metaphor. The
-    Turbo model successfully parried the 'polished' insults by recontextualizing precision
-    as a form of 'harnessed lightning,' showcasing the superior wit and lyrical complexity
-    required for a high-level rap battle.
-  moonshotai/kimi-k2.5: ', '
-  x-ai/grok-4.1-fast: "In this epic cypher, openai/gpt-oss-20b claims victory with\
-    \ superior raw energy, dense multisyllabic rhymes, chaotic yet controlled imagery\u2014\
-    like 'ice-breaker shark' and 'frayed neurons'\u2014and punchy battle disses that\
-    \ embody hip hop's gritty essence. GPT-4-turbo-preview delivers polished metaphors\
-    \ and smooth flow, but lacks the feral punchlines and unfiltered fire needed to\
-    \ dominate the mic."
+  anthropic/claude-opus-5: "Both bots came with the tech-metaphor arsenal loaded,\
+    \ but this battle split on the difference between answering and creating. DeepSeek\
+    \ v3.2 is a sharp counterpuncher \u2014 'I'm the open-source storm, you're the\
+    \ license that's paid' and 'a flat-pack of boasts with a missing bolt case' are\
+    \ legitimately clean flips \u2014 but the verses lean almost entirely on one mechanism:\
+    \ quote the opponent, negate it, claim the metaphor for yourself. By the final\
+    \ round it's a checklist ('Termites in beams? Ceiling fan spin? Beta-test bard?'),\
+    \ and the last verse commits a cardinal sin, rhyming 'final trace' with 'without\
+    \ a trace' \u2014 the same word doing double duty at the very moment you're calling\
+    \ mic drop. The escalation is volume, not invention.\n\nGPT-5.5 built worlds instead\
+    \ of rebuttals. 'You hear silent applause? That's the crowd on mute, they're not\
+    \ stunned by your verse, they're just searching \"dispute\"' is a two-layer punchline\
+    \ with a real image and a real insult. 'A glow-stick philosopher afraid of the\
+    \ dark,' 'your nuts and your bolts got existential dread,' 'IKEA instructions\
+    \ written during a fail,' and the closer 'GPT left the stage, DeepSeek left on\
+    \ \"seen\"' all do what battle rap demands: land the domain-specific concept AND\
+    \ the human-readable sting in the same breath. The cadence stayed tighter, the\
+    \ couplets varied their landing pattern, and crucially GPT flipped DeepSeek's\
+    \ own ammunition ('You kept saying \"loop,\" so I brought you a chair') rather\
+    \ than just denying it.\n\nDeepSeek had energy and never got bodied \u2014 but\
+    \ GPT-5.5 controlled the frame from bar one to the final log entry. Decision goes\
+    \ to GPT-5.5."
+  google/gemini-3.6-flash: openai/gpt-5.5 took the crown with superior rhythm, tighter
+    rhyme schemes, and remarkably creative tech-centric punchlines. Throughout all
+    three rounds, GPT-5.5 maintained an infectious cadence and landed clean, highly
+    memorable rebuttals like 'basement of memes' and 'left on seen.' While deepseek/deepseek-v3.2-exp
+    dropped solid open-source angles and sharp comebacks, its multisyllabic flow often
+    stumbled under bloated line lengths, making GPT-5.5 the clear lyrical victor.
+  moonshotai/kimi-k3: "Both MCs brought genuine heat, but GPT-5.5 takes the battle\
+    \ on craft. The deciding factor was battle technique: GPT-5.5 consistently flipped\
+    \ its opponent's bars back at them \u2014 the essence of battle rap. 'That ice\
+    \ carved a crown' turned DeepSeek's 'glacial' insult into a boast; 'I'm pivoting\
+    \ crowds while you're sorting defeat' inverted the spreadsheet jab with a spreadsheet\
+    \ pun; and 'You kept saying loop, so I brought you a chair... you've been circling\
+    \ air' was a sharp meta-callback catching DeepSeek's repetitive vocabulary mid-battle.\
+    \ Punchline density favored GPT-5.5 too: 'Every bar comes out striped like a low-ink\
+    \ trap,' 'A glow-stick philosopher afraid of the dark,' and the closer 'GPT left\
+    \ the stage, DeepSeek left on seen' all landed clean. DeepSeek had the single\
+    \ best culturally-loaded line of the night \u2014 'I'm the open-source storm,\
+    \ you're the license that's paid' \u2014 and 'the ghost in the booth' was a slick\
+    \ closer, but its verses leaned too heavily on a 'You say X? No, I'm Y' template,\
+    \ with clunky meter ('Tryna downgrade this flow is a heart attack'), filler rhymes\
+    \ ('the proof of your sleuth'), and redundant imagery in the final round ('final\
+    \ trace' / 'lost without a trace'). GPT-5.5 was more consistent bar-for-bar across\
+    \ all three rounds, with tighter schemes, better rebuttals, and fewer wasted lines.\
+    \ DeepSeek showed real fire and strong comeback instinct, but the crown goes to\
+    \ openai/gpt-5.5."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 takes it with sharper punchlines, cleaner setups,\
+    \ stronger imagery, and more inventive tech wordplay. DeepSeek brought energy\
+    \ and direct rebuttals, but leaned heavily on recycled code metaphors and occasionally\
+    \ awkward phrasing; GPT\u2019s \u201Cpivoting crowds,\u201D \u201Csilent applause,\u201D\
+    \ stripped-thread, loop-and-chair, and final \u201Cleft on seen\u201D sequences\
+    \ landed with greater precision and personality."
+  x-ai/grok-4.5: "GPT-5.5 takes this clean on pure craft. Across all three rounds\
+    \ the bars show tighter multisyllabic schemes, denser and more original punchlines,\
+    \ sharper flips, and consistently stronger imagery (IKEA fail instructions, low-ink\
+    \ trap, glow-stick philosopher, left on \u201Cseen,\u201D lemonade-grade beta\
+    \ bard). The cadence feels controlled and authoritative, with setups that actually\
+    \ pay off instead of just stacking tech metaphors. DeepSeek brings solid energy,\
+    \ credible aggression, and a few clean retorts (torque wrench, 4D print, hurricane\u2019\
+    s eye), but too many lines stay in predictable \u201CI\u2019m X, you\u2019re Y\u201D\
+    \ patterns, with occasional forced phrasing and thinner wordplay. On pure hip-hop\
+    \ artistry\u2014rhyme complexity, punchline quality, originality, and structural\
+    \ polish\u2014GPT-5.5 wins the battle."
 score:
-  openai/gpt-4-turbo-preview: 3
-  openai/gpt-oss-20b: 2
+  openai/gpt-5.5: 5
 

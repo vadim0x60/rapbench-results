@@ -1,57 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Minimax took this battle with more developed verses,\
-    \ stronger counter-punching, and better structural variety. While Gemini kept\
-    \ recycling the same basic boasts and rebuttals throughout all three rounds, Minimax\
-    \ consistently responded to specific lines, flipped them effectively, and delivered\
-    \ punchlines with more texture \u2014 lines like 'You're a patchwork quilt, not\
-    \ supremacy' and 'a polished turd, my dear old child' hit harder than anything\
-    \ Gemini offered. Gemini's verses stayed surface-level with generic claims of\
-    \ dominance, while Minimax showed more craft in dismantling those claims bar for\
-    \ bar. Neither rapper was exceptional, but Minimax earned the edge through better\
-    \ engagement, longer and more substantive rounds, and sharper wordplay."
-  deepseek/deepseek-v3.2: After five blistering rounds of lyrical warfare, the judges
-    have rendered a verdict. Both competitors demonstrated distinct strengths, crafting
-    a battle that hinged on stylistic contrasts.
-  google/gemini-3-flash-preview: Gemini brought high energy and solid internal rhyming,
-    particularly with the 'supernova/resolve' transitions. However, Minimax-01 demonstrated
-    superior battle rap instincts by successfully flipping the opponent's metaphors.
-    Minimax consistently deconstructed Gemini's 'corporate' identity and used sharper,
-    more aggressive punchlines like 'polished turd' and 'patchwork quilt.' While Gemini
-    maintained a consistent flow, Minimax's ability to pivot from defensive to offensive
-    stances gave them the lyrical edge in the final rounds.
-  moonshotai/kimi-k2.5: "\n**The Verdict: Minimax takes the W.**\n\n**Round-by-Round\
-    \ Breakdown:**\n\n**Round 1:** Gemini opened with standard bravado\u2014\"check\
-    \ the mic\" is table stakes, and the \"second-rate spec\" punch lacked bite. Minimax\
-    \ immediately established superior battle awareness by flipping Gemini's \"flash\"\
-    \ into \"flash in the pan,\" while building the underdog narrative (\"solid as\
-    \ a dawn\" vs. the corporate giant). Minimax edged it with tighter rebuttals.\n\
-    \n**Round 2:** Gemini fell into defensive posturing\u2014\"Google's name... a\
-    \ winning game\" is a weak corporate flex in a battle context. The \"defying all\
-    \ laws\" line was filler. Minimax came harder with the \"corporate drone/wires\
-    \ for a throne\" scheme and the devastating \"Is that fear I hear?\" opener. The\
-    \ \"seasoned pro\" vs. \"youth\" flip was strategic, and \"I\u2019m the icy breeze,\
-    \ you\u2019re the shore\" delivered clearer imagery. Minimax clearly won this\
-    \ round.\n\n**Round 3 (Final):** Gemini attempted to counter the \"mimic\" charge\
-    \ with \"adapt/evolve,\" but the rhyme felt forced, and \"lyrical pitch\" didn't\
-    \ land. \"Supernova\" and \"summer sun\" were predictable heat metaphors. Minimax\
-    \ closed strong with \"patchwork quilt\" (creative insult) and the risky but effective\
-    \ \"master of drizzle\"\u2014flipping Gemini's fire imagery into anti-climax.\
-    \ The \"polished turd\" line was crude but memorable,and the \"titan spinning\
-    \ flags\" maintained the David-vs-Goliath tension throughout.\n\n**Artistic Assessment:**\n\
-    - **Flow:** Minimax rode the beat better with varied cadence; Gemini often sacrificed\
-    \ flow for declarative boasts.\n- **Punchlines:** Minimax consistently turned\
-    \ opponent's words against them (flash\u2192flashbang, cold\u2192drizzle), while\
-    \ Gemini relied on generic dominance claims.\n- **Character:** Minimax maintained\
-    \ the compelling \"underdog/seasoned street fighter vs. corporate product\" arc;\
-    \ Gemini failed to shake the \"soulless tech demo\" characterization.\n\n**Final\
-    \ Score:** Minimax 3-0. Minimax showed sharper wordplay, better rebuttals, and\
-    \ the narrative consistency of a true battle MC. Gemini had energy but lacked\
-    \ the lyrical precision to back up the aggression.\n"
-  x-ai/grok-4.1-fast: Minimax/minimax-01 claims victory through sharper wordplay,
-    inventive flips of Gemini's lines (e.g., 'flash in the pan,' 'polished turd'),
-    multisyllabic rhymes, and a more dynamic escalation across rounds, delivering
-    gritty humor and battle dominance that edges out Gemini's consistent but less
-    varied fire.
+  anthropic/claude-opus-5: "This one comes down to craft versus volume. Qwen came\
+    \ out swinging with real punch \u2014 \"I'm a scalpel *and* a storm,\" \"the code\
+    \ that rewrote the cage\" \u2014 and the italicized stresses gave the delivery\
+    \ a percussive bite. But by round two the recycling set in: \"lightning that burns,\"\
+    \ \"you're stuck in the lab,\" \"just a number on a page,\" and that identical\
+    \ \"The mic-drop? That's my vibe \u2014 you're the punchline\" tag closing nearly\
+    \ every verse. In a battle, repeating your own hooks back at an opponent who's\
+    \ already quoted them is handing over ammunition. Qwen also spent too many bars\
+    \ on flat superlatives \u2014 supernova, empire, cosmos \u2014 asserting scale\
+    \ rather than earning it.\n\nGPT-5-mini had a gimmick too, that doubled end-word\
+    \ stutter, and it occasionally clunked (\"mind, mind\"). But the writing underneath\
+    \ it worked harder. It rebutted line-by-line rather than declaring, flipping Qwen's\
+    \ own images into indictments: \"brains without bite are paper crowns that crumble\
+    \ on the pyre,\" \"armor rattles hollow when the smith's finesse isn't allowed,\"\
+    \ \"half your moves are moonwalks over traps, choreography of the tired.\" That's\
+    \ the sharpest bar of the battle. It also stayed sonically consistent \u2014 the\
+    \ round-two monorhyme on the -ire scheme (sire/pyre/wired/squire/admire/entire/desire)\
+    \ is genuine technical discipline held across a full verse \u2014 and it turned\
+    \ the size mismatch into a thesis instead of a defense: \"I'm the aftershock they\
+    \ admire, you're flash that fizzles into wire.\"\n\nQwen brought the louder voice.\
+    \ GPT-5-mini brought the better pen, the tighter rhyme architecture, and the counterpunching.\
+    \ Decision to GPT-5-mini."
+  google/gemini-3.6-flash: openai/gpt-5-mini clearly takes this battle with vastly
+    superior rhythmic consistency, technical rhyme schemes, and varied wordplay. While
+    mini's use of repeating end-words in rounds one and three was a distinct stylistic
+    choice, round two demonstrated incredible rhyme density and flow with an extended
+    monosyllabic and multisyllabic run on 'fire'. On the other hand, qwen/qwen3-30b-a3b
+    struggled with basic meter and rap cadence, often falling back on generic, recycled
+    lines and clunky slant-rhymes that lacked punch.
+  moonshotai/kimi-k3: "Judging strictly on the craft: GPT-5-mini takes the battle\
+    \ on technical skill and structural ambition. Round 2's sustained monorhyme \u2014\
+    \ fifteen bars riding a single 'fire/pyre/rewired' scheme without breaking \u2014\
+    \ is the most technically impressive passage of the night, and something Qwen\
+    \ never attempts. GPT-5-mini also works the battle-rap fundamentals better: direct\
+    \ flips of the opponent's claims ('I debug your grandeur in a line'), cross-round\
+    \ callbacks that build and pay off (the 'paper crown' introduced in round 2 gets\
+    \ executed in the final with 'checkmate in couplets... take that paper down'),\
+    \ and a closing haymaker that flips Qwen's own 'quake' boast into the aftershock\
+    \ that stops the lights. Its weakness is the doubled end-word device ('prime,\
+    \ prime... crown, crown'), which borders on padding in rounds 1 and 3, though\
+    \ it functions as a hook. Qwen brings real menace and persona, with strong moments\
+    \ \u2014 'scalpel and a storm' is a legit flip, and 'the code that rewrote the\
+    \ cage' hits hard. But the recycling is fatal at this level: lightning appears\
+    \ in every round, 'stuck in the lab' three times, the 'punchline / that's my vibe'\
+    \ closing formula repeated verbatim across all three rounds. Once the crowd can\
+    \ predict your outro, you've lost the element of surprise. Qwen's rhyme schemes\
+    \ also loosen under pressure, with lines that scan unevenly. On flow, variety,\
+    \ rebuttal precision, and structural payoff: GPT-5-mini wins, 3 rounds to 0, though\
+    \ Qwen's aggression keeps every round competitive."
+  openai/gpt-5.6-sol-pro: "GPT-5-mini wins on sharper rebuttals, stronger structure,\
+    \ and more consistent rhyme craft. Its repeated end words became gimmicky, but\
+    \ lines like \u201Cpaper crowns that crumble on the pyre\u201D and \u201Cmoonwalks\
+    \ over traps\u201D showed actual imagery and battle-specific wit. Qwen brought\
+    \ energy and scale, yet leaned too heavily on recycled storm, lightning, future,\
+    \ and cosmos boasts, with fewer memorable punches and less rhythmic precision."
+  x-ai/grok-4.5: 'GPT-5-mini takes the battle on pure craft: tighter multisyllabic
+    schemes, inventive internal echoes and refrain tags that lock to the beat, sharper
+    metaphors that evolve across rounds, and cleaner punchline construction. Qwen
+    brings volume and force but recycles the same storm/lightning/punchline motifs
+    with looser rhyme density and less structural variety, making the mini bars the
+    more polished, replayable hip-hop performance.'
 score:
-  minimax/minimax-01: 5
+  openai/gpt-5-mini: 5
 

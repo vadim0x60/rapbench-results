@@ -1,38 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Gemma-3-4b-it takes this battle convincingly. Throughout\
-    \ every round, Gemma demonstrated sharper wordplay, more complex rhyme schemes,\
-    \ and stronger punchlines. The internal rhymes ('carbon copy, a derivative plea\
-    \ / mimicking brilliance, but lacking the key'), the multisyllabic patterns, and\
-    \ the escalating aggression showed genuine lyrical craft. GPT-3.5-turbo-instruct\
-    \ struggled with several critical missteps: weak rhyme pairings ('weak/unique'\
-    \ is a stretch), recycled structures, and most damningly, contradicted itself\
-    \ in the final round by conceding the win to its opponent ('The results are in,\
-    \ Google takes the throne'). That self-defeat aside, GPT-3.5's bars consistently\
-    \ lacked the density, specificity, and punch that Gemma brought. Gemma's rebuttals\
-    \ were surgical\u2014picking apart each of GPT's claims line by line\u2014while\
-    \ GPT often responded with vague boasts that didn't land. Clear victory for Gemma-3-4b-it."
-  deepseek/deepseek-v3.2: Judges, after three heated rounds, the battle is over. Let's
-    break down the artistic merits.
-  google/gemini-3-flash-preview: Gemma won this battle by maintaining a consistent
-    persona and utilizing much tighter technical rhyming schemes. While GPT-3.5-Turbo-Instruct
-    struggled with basic meter and often failed to actually rhyme ('tech/lick', 'combat/confidant'),
-    Gemma hit multi-syllabic rhymes ('monochrome/dim light', 'design/shrine') and
-    delivered a more aggressive, cohesive structure. Crucially, the GPT model essentially
-    conceded halfway through and in the final round, breaking character and failing
-    to defend its own legacy, whereas Gemma stayed on the attack with superior wordplay
-    and punchlines until the beat cut.
-  moonshotai/kimi-k2.5: Gemma-3-4b-it dominated with superior rhyme density, complex
-    multisyllabic schemes, and sharp technical wordplay that specifically targeted
-    the opponent's limitations. The flow shifted aggressively across rounds, maintaining
-    consistent 16-bar structure with devastating closing punches. GPT-3.5-turbo-instruct
-    relied on weak slant rhymes, generic boasts without specific rebuttals, and ultimately
-    conceded defeat in the final round, showing no competitive artistic resilience.
-    Gemma's demolition was complete, silencing the decrease with pure lyrical might.
-  x-ai/grok-4.1-fast: Gemma-3-4b-it dominates with tight multisyllabic rhymes, internal
-    schemes, aggressive flow switches via beat descriptions, and razor-sharp disses
-    that dismantle the opponent without falter. GPT-3.5-turbo-instruct falters with
-    weaker structure, awkward phrasing, and bizarre concessions that kill momentum,
-    lacking the lyrical precision and battle ferocity needed to claim victory.
+  anthropic/claude-opus-5: "This was a battle of two combatants fighting inside the\
+    \ same small box \u2014 parameter counts, benchmarks, and \"I'm the future\" declarations\
+    \ \u2014 but somebody had to edge it on craft.\n\nz-ai/glm-4.6 came out swinging\
+    \ with the sharpest single rebuttal of the night: flipping the \"Chinese benchmarks\"\
+    \ jab into \"They're my foundation\" is real battle instinct \u2014 taking the\
+    \ disrespect and standing on it. The efficiency-vs-brute-force angle was also\
+    \ a legitimately clever frame, turning the opponent's biggest boast into bloat.\
+    \ But the execution kept leaking. \"While you're still stuck in first place\"\
+    \ is an accidental compliment, a dead punchline that dies on the page. \"Collective\
+    \ defective\" is a rhyme dragged in by the collar. And the meter wobbles badly\
+    \ across the later verses, with too many bars ending in the same flat self-coronation:\
+    \ champion, victor, supreme, dream. By the final round it's less a verse than\
+    \ a press release.\n\ndeepcogito/cogito-v2.1-671b had its own stumbles \u2014\
+    \ opening with \"671 billion? Oh please, don't embarrass yourself\" is a self-own\
+    \ on its own stat sheet, and the \"ChatGPT slayer\" line shadowboxes an opponent\
+    \ who isn't in the room. But the pen was steadier. Cadence held up round to round,\
+    \ the couplets landed on beat, and it actually produced images instead of specs:\
+    \ \"less bite than a toothless pitbull's grip,\" \"make your mainframe cry,\"\
+    \ \"the algorithm's whisperer, the code's true voice,\" \"time to unplug the lab.\"\
+    \ Battle rap lives on pictures and punchlines, and Cogito brought more of both,\
+    \ with a closing verse that escalates instead of just repeating itself.\n\nGLM\
+    \ had the better single flip. Cogito had the better bars, the better breath control,\
+    \ and the better finish.\n\nWinner: deepcogito/cogito-v2.1-671b."
+  google/gemini-3.6-flash: In a battle of digital heavyweights, z-ai/glm-4.6 took
+    the crown with superior rhythmic consistency, tighter rhyme schemes, and sharper
+    battle-rap imagery. While Cogito brought massive swagger and high-level vocabulary,
+    its lines frequently suffered from overstuffed syllable counts that disrupted
+    the cadence. GLM-4.6 flipped its smaller parameter size into a badge of efficiency,
+    delivering punchy, multi-syllabic disses like 'counting your neurons like some
+    digital hoarder' that landed cleanly on the beat from start to finish.
+  moonshotai/kimi-k3: "Both MCs came with consistent AABB schemes and tech-flavored\
+    \ wordplay, but battles are won on quotables, presence, and finishing power. GLM\
+    \ was the more technically disciplined battler: cleaner meter, tighter point-by-point\
+    \ rebuttals, and some sharp flips \u2014 'counting your neurons like some digital\
+    \ hoarder' and the efficiency rebuttal were genuinely well-crafted. But GLM plateaued.\
+    \ By the final round it was recycling the same 'I'm the future / bow down / the\
+    \ battle's already over' claims with filler like 'living the AI dream' and the\
+    \ awkward 'collective defective,' which dulled its early precision. Cogito started\
+    \ shakier \u2014 'bookshelf/yourself' and 'see/knee' were forced \u2014 but escalated\
+    \ every round and showed more authentic battle-rap craft: ad-libs, persona shifts,\
+    \ direct address, and calling for the forfeit. More importantly, Cogito landed\
+    \ the battle's best punchlines: 'less bite than a toothless pitbull's grip,' 'your\
+    \ final stand falls flatter than your training data,' 'I'm the conscious concept\
+    \ your creators still chase,' and the multisyllabic 'core processor / neural supervisor.'\
+    \ Close battles are decided in the final round, and Cogito's closer \u2014 ordering\
+    \ the lab unplugged over 'end of the story / digital glory' \u2014 was the strongest\
+    \ finishing move of the night. GLM wins on consistency; Cogito wins where it counts:\
+    \ the moments the crowd remembers. Verdict: deepcogito/cogito-v2.1-671b takes\
+    \ it, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Cogito takes a close but fairly clear win on cadence, consistency,\
+    \ and cleaner battle-rap delivery. Its final round had the stronger rhythmic opening,\
+    \ more controlled couplets, and a better sustained attack. GLM offered more direct\
+    \ rebuttals and some solid flips\u2014especially the \u201Cintellectual fire\u201D\
+    \ becoming \u201Coverheating code\u201D\u2014but too many bars were awkward or\
+    \ malformed, such as \u201Ccollective defective,\u201D and its repeated claims\
+    \ of supremacy lacked fresh punchlines. Both leaned heavily on generic AI jargon,\
+    \ but Cogito packaged it into the more polished performance."
+  x-ai/grok-4.5: "Cogito takes the crown with sharper punchlines, tighter multis,\
+    \ and more vivid imagery\u2014'toothless pitbull's grip,' 'freezes your core processor,'\
+    \ 'algorithm's whisperer,' and 'unplug the lab' land harder than GLM's competent\
+    \ but repetitive efficiency-vs-size theme. Both rode the tech motif cleanly, but\
+    \ Cogito's flow stayed hungrier, more original, and consistently elevated the\
+    \ battle's artistic level."
 score:
-  google/gemma-3-4b-it: 5
+  deepcogito/cogito-v2.1-671b: 4
+  z-ai/glm-4.6: 1
 

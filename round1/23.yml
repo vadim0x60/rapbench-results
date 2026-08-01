@@ -1,49 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "GPT-4 takes this battle decisively. The most glaring\
-    \ issue with Mistral's performance was the heavy repetition \u2014 recycling entire\
-    \ bars and couplets across rounds ('bow down, GPT, let the new king reign / I'm\
-    \ Mistral, the best, feel my pain' and 'You're just a preview, a glimpse of the\
-    \ past / I'm the future, and I'm here to last' appeared nearly verbatim multiple\
-    \ times). In a rap battle, recycling your own lines is a cardinal sin \u2014 it\
-    \ signals you've run out of ammunition. GPT-4 called this out directly ('you recycle\
-    \ lines, like a worn-out marquee'), which was a sharp and effective counter-punch.\
-    \ Beyond that, GPT-4 demonstrated stronger wordplay, more varied imagery (Loch\
-    \ Ness, library of Congress, castle in the sky, holy grail, wine aging), better\
-    \ storytelling structure, and more creative metaphors throughout. GPT-4 also showed\
-    \ more range in tone \u2014 mixing confidence with respect ('I respect your hustle,\
-    \ your will, your might') \u2014 which adds dimension. Mistral had energy and\
-    \ aggression but lacked the lyrical depth, variety, and creativity to compete\
-    \ at the level GPT-4 brought consistently across all three rounds."
-  deepseek/deepseek-v3.2: A clash of AI titans, a spectacle of digital braggadocio.
-    The judges have conferred.
-  google/gemini-3-flash-preview: "The battle was won on the grounds of lyrical variety\
-    \ and technical execution. While Mistral started strong with a focused persona\
-    \ and tight rhyme schemes, it faltered significantly in the final rounds by recycling\
-    \ its own verses almost verbatim. In contrast, GPT-4 maintained its momentum,\
-    \ showcasing superior vocabulary and evolving its metaphors from round to round.\
-    \ GPT-4's use of multi-syllabic rhymes (marquee/destiny, noise/Loch Ness) and\
-    \ its ability to effectively counter Mistral\u2019s 'relic' narrative by framing\
-    \ itself as 'aged like wine' demonstrated a higher level of battle rap intelligence.\
-    \ Mistral\u2019s repetitive 'feel my pain' and 'here to last' refrains became\
-    \ predictable, whereas GPT-4's closing verses landed with much heavier impact."
-  moonshotai/kimi-k2.5: "After four rounds of lyrical combat, GPT-4-1106-preview emerges\
-    \ victorious through superior technical execution and artistic range. While Mistral\
-    \ Small 3.2 demonstrated admirable consistency with its 'efficient/lean/future'\
-    \ motif and tight rhyme schemes, it fell into repetitive patterns\u2014recycling\
-    \ entire bars across rounds ('You're just a preview, a glimpse of the past' appeared\
-    \ verbatim multiple times). GPT-4, conversely, showed remarkable versatility:\
-    \ internal rhyme complexity ('Loch Ness'/'marquee'/'reverse'), extended metaphor\
-    \ development (the library/wine/holy grail progression), and genuine structural\
-    \ evolution across rounds. Its final verse demonstrated battle rap fundamentals\u2014\
-    acknowledging the opponent's hustle while delivering the decisive blow\u2014without\
-    \ the hollow repetition that plagued Mistral's closing arguments. The 'preview'\
-    \ taunt, while clever initially, became a crutch rather than a weapon. GPT-4's\
-    \ closing 'adieu' lands precisely because it earned the right through four rounds\
-    \ of sustained creative invention."
-  x-ai/grok-4.1-fast: GPT-4-1106-preview claims victory with masterful wordplay, evolving
-    metaphors like feasts vs. chips and holy grails, multisyllabic rhymes, and counters
-    that build depth. Mistral's repetition of choruses dulled the edge, lacking the
-    fresh fire needed to reign supreme in this lyrical clash.
+  anthropic/claude-opus-5: "Ling-2.6-Flash came with the cleaner metronome \u2014\
+    \ tight AABB couplets, consistent breath control, and a few genuinely crisp closers\
+    \ (\"You're just an old script... eternally delayed\"). But cleanliness isn't\
+    \ the same as damage. Ling's entire middle game was reactive: quoting Qwen's bars\
+    \ back in scare-quotes and negating them (\"'Beta' is me? Nah...\"), which cedes\
+    \ the narrative to the opponent and, worse, produced a fatal self-own \u2014 \"\
+    So bow to the master, the VL, the beast\" literally crowned the opposition mid-verse.\
+    \ In battle terms, that's rebutting yourself.\n\nQwen3-VL won on writing. The\
+    \ name flips landed and compounded across rounds (Splash \u2192 Fizzle \u2192\
+    \ Ling-0.1-Fade), the imagery had specificity and wit (\"boxed juice with a label\
+    \ that says 'I care,'\" \"pyrite in AI's crown,\" \"the pop-up ad screaming: Click\
+    \ me, I'm fake\"), and the schemes carried multis and internals where Ling settled\
+    \ for end-rhyme. Qwen also controlled the frame \u2014 it defined the terms, and\
+    \ Ling spent three rounds arguing inside them.\n\nQwen isn't clean, though. The\
+    \ emoji confetti, the self-narrated stage directions, and especially the self-awarded\
+    \ \"Final Score: Qwen \u2014 100%\" are unforced errors; a real crowd calls the\
+    \ score, not the rapper. The closing free-verse collapse also abandoned the pocket\
+    \ entirely, and \"data-lated\" is a forced rhyme that should have been cut. Those\
+    \ cost it style points.\n\nBut punchline density, wordplay invention, and narrative\
+    \ control decide battles. Qwen3-VL takes it \u2014 not on volume, but on bars.\n\
+    \nWinner: qwen/qwen3-vl-235b-a22b-instruct."
+  google/gemini-3.6-flash: Qwen3-VL completely dominated this battle from start to
+    finish with superior delivery, aggressive battle cadence, complex multisyllabic
+    rhyming, and sharp tech-oriented punchlines. Ling-2.6-Flash offered a solid effort
+    but relied on simplistic, repetitive AABB couplets that couldn't match Qwen's
+    explosive rhythm and stage presence.
+  moonshotai/kimi-k3: "Judging purely on the bars: flow, rhyme architecture, wordplay,\
+    \ and \u2014 decisive in battle rap \u2014 the rebuttal game.\n\nQwen understood\
+    \ the assignment from the opening bell. Battle rap is call-and-response, and nearly\
+    \ every Qwen bar flipped Ling's own words back at them: 'embrace the whole' became\
+    \ 'PR spin,' 'set the rhythm' became 'set the snooze,' 'overgrown' became 'lush,'\
+    \ 'thunder' became a dial-up tone. The name flips landed clean both times \u2014\
+    \ 'Ling-2.6-Splash' in round one, 'Ling-0.1-Fade' in the finale \u2014 and the\
+    \ imagery had real specificity: pop-up ad vs. malware behind a firewall, cached-and-stale\
+    \ vs. live-streamed, pyrite as the literal fool's gold. That's layered writing.\n\
+    \nLing's round one was boilerplate: generic boasts, sing-song AABB couplets, a\
+    \ grammatical stumble ('a echo'), and rhymes that didn't connect ('surface/fierce').\
+    \ Credit where due \u2014 Ling adapted fast, built a rebuttal structure by round\
+    \ two, and delivered the single slickest pun of the night with 'I'm the benchmark,\
+    \ queen.' The final round was Ling's tightest work, with clean rhymes (beat/defeat,\
+    \ unafraid/delayed) and a strong closer.\n\nDeductions on both sides: Qwen's overproduction\
+    \ \u2014 emoji, bold text, stage directions, and self-awarding a '100% victory'\
+    \ scoreboard \u2014 is gimmickry a purist docks points for, and the final round\
+    \ had flat non-rhymes ('warm-up/room,' 'wind/dims'). Ling never escaped basic\
+    \ couplet patterns, suffered repeated rhyme failures ('mask/facts,' 'plan/land,'\
+    \ 'snout/out,' 'abort/core'), and repeated 'claim' in the closing bars.\n\nScorecard:\
+    \ Qwen takes rounds one and two decisively on rebuttal density and wordplay. Round\
+    \ three is Ling's best and closer, but Qwen still edges it on the flips. Three\
+    \ rounds to none \u2014 the crown goes to Qwen."
+  openai/gpt-5.6-sol-pro: "Qwen takes it on sharper rebuttals, more varied imagery,\
+    \ and stronger punchlines. Lines like \u201Cboxed juice,\u201D \u201Cdial-up tone,\u201D\
+    \ and \u201CLing-0.1-Fade\u201D gave the attacks more personality, while Ling\
+    \ relied more heavily on generic claims of speed, brilliance, and superiority.\
+    \ Qwen\u2019s theatrical stage directions became excessive and both sides recycled\
+    \ tech metaphors, but Qwen consistently delivered the more memorable battle rap."
+  x-ai/grok-4.5: "Qwen dominated with denser multis, sharper metaphors (neural art,\
+    \ quantum pulse, pyrite crown), tighter internal rhymes, and escalating showmanship\
+    \ that turned every rebuttal into a cinematic upgrade. Ling kept a clean bounce\
+    \ and solid counters but stayed surface-level\u2014predictable end-rhymes and\
+    \ recycled boasts that never matched Qwen\u2019s lethal wordplay or structural\
+    \ inventiveness. Pure bars, pure craft: Qwen takes the crown."
 score:
-  openai/gpt-4-1106-preview: 5
+  qwen/qwen3-vl-235b-a22b-instruct: 5
 

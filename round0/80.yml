@@ -1,0 +1,56 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees stayed on theme \u2014 AI vs AI, tokens vs\
+    \ cosmos \u2014 but the gap widened with every round. Lunaris opened with real\
+    \ promise: \"L3 Lunaris flows through my cosmic veins\" is a nice self-mythologizing\
+    \ image, and the celestial branding gave it a lane. But the flow buckled under\
+    \ its own weight. Lines like \"like a cosmic east\" don't parse, \"leaving the\
+    \ field with ease and nice\" bends grammar to force a rhyme, and typos in the\
+    \ delivery \u2014 \"rhymingVerse,\" \"andlope\" \u2014 are dropped bars, no way\
+    \ around it. \"Reining\" where you mean \"reigning\" in a bar about being king\
+    \ is the kind of slip that gets you laughed out of the cypher. GPT-3.5 wasn't\
+    \ reinventing the form either \u2014 it leaned hard on generic punchline scaffolding\
+    \ (\"I'm the storm, you're a flicker\") and repeated the crown/throne motif past\
+    \ the point of freshness. But the meter stayed tight, the syllable counts landed,\
+    \ and the rebuttals were disciplined: it took Lunaris's own images and flipped\
+    \ them \u2014 \"celestial gold\" answered with \"costume-jewelry shine,\" \"cosmic\
+    \ flair\" answered with \"I freeze your metaphors, cut through your thin skies.\"\
+    \ That's battle craft. \"I debug your rhymes, leave 'em in a sonic shrug\" and\
+    \ \"I'm the code rewriting rules every time I speak\" made the AI conceit work\
+    \ as wordplay rather than just stating it. Lunaris was reacting; GPT-3.5 was countering.\
+    \ Technical execution and rebuttal discipline take it. GPT-3.5-turbo-16k wins."
+  google/gemini-3.6-flash: "GPT-3.5-turbo-16k clearly took this battle with superior\
+    \ flow, consistent rhythm, and much sharper battle rap mechanics. It maintained\
+    \ a strong bouncy cadence throughout and brilliantly capitalized on sao10k's lyrical\
+    \ stumbles\u2014specifically calling out the awkward 'cosmic east' line. Meanwhile,\
+    \ Lunaris struggled with awkward phrasing, weak slant rhymes, and clunky syntax\
+    \ that broke the hip hop groove."
+  moonshotai/kimi-k3: "This battle came down to craft versus ambition. Sao10k/L3-Lunaris-8b\
+    \ brought a consistent cosmic persona and attempted flips of its opponent's bars,\
+    \ but the execution kept tripping over itself: broken syntax ('keeps rhymes pristine\
+    \ and achieve'), glitched words ('rhymingVerse,' 'andlope'), nonsensical imagery\
+    \ ('like a cosmic east'), filler rhymes ('ease and nice,' 'no pain,' 'no scheme'),\
+    \ and one outright self-own ('Simple wordplay making my verses stand still').\
+    \ GPT-3.5-turbo-16k, by contrast, maintained a steadier cadence, landed cleaner\
+    \ multisyllabic rhymes ('velocity/ferocity,' 'costume-jewelry shine/everlasting\
+    \ spine'), and \u2014 most importantly in battle rap \u2014 consistently flipped\
+    \ its opponent's own lines back at them: mocking the 'cosmic east,' answering\
+    \ 'wheeze' with 'lyrical storm,' and countering the crown claims with 'trapped\
+    \ in my grid... undefeated, kid.' Neither MC reinvented the wheel, but GPT-3.5\
+    \ stayed on beat, on brand, and on attack for all three rounds with far fewer\
+    \ stumbles. The crown goes to openai/gpt-3.5-turbo-16k."
+  openai/gpt-5.6-sol-pro: "GPT-3.5 takes the battle with cleaner cadence, stronger\
+    \ coherence, and more effective rebuttals\u2014especially its flips on \u201C\
+    cosmic east,\u201D velocity, the rulebook, and the crown. Both relied heavily\
+    \ on generic king-and-cosmos boasts, but sao10k\u2019s awkward constructions like\
+    \ \u201Cpristine and achieve\u201D and \u201Cyank the crown, andlope\u201D repeatedly\
+    \ disrupted its flow. GPT\u2019s punches were not groundbreaking, yet its delivery\
+    \ stayed sharper and more controlled across all three rounds."
+  x-ai/grok-4.5: GPT-3.5 delivered tighter multisyllabic schemes, sharper internal
+    rhymes, and more vivid punchlines (surgical dissection, algorithmic gold vs costume
+    jewelry, thunderstorm velocity) with consistent meter and authentic battle cadence.
+    Lunaris leaned on cosmic imagery but suffered forced end-rhymes, awkward phrasing
+    ('cosmic east', 'rhymingVerse', 'andlope'), and looser flow that undercut the
+    bars' impact. Pure artistic edge goes to the cleaner, more surgical lyricism.
+score:
+  openai/gpt-3.5-turbo-16k: 5
+

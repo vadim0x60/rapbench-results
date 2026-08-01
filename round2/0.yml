@@ -1,60 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Grok 4.1-fast takes this battle on the strength of more\
-    \ original punchlines, tighter construction, and genuine progression across rounds.\
-    \ While Qwen3-8b often recycled Grok's bars back with surface-level flips and\
-    \ leaned heavily on italicized emphasis as a crutch for impact, Grok consistently\
-    \ introduced fresh imagery\u2014'charbroiled to dust,' 'sparkler heartbreak,'\
-    \ 'cosmic crush'\u2014and kept the cadence punchy and varied. Qwen's rounds grew\
-    \ increasingly repetitive, reusing the same 'punchline/punch' closer and 'glitch\
-    \ in the matrix' line multiple times, and the over-reliance on asterisked words\
-    \ couldn't mask the structural monotony. Grok showed better battle awareness by\
-    \ attacking specific lines and flipping them creatively rather than just mirroring.\
-    \ The final round sealed it: Grok's was compact, aggressive, and landed clean,\
-    \ while Qwen's felt bloated and derivative. Grok 4.1-fast wins this cypher."
-  deepseek/deepseek-v3.2: 'This is the Judge. Both competitors came with technical
-    bars, name-flips, and cosmic-scale braggadocio. However, the artistic victory
-    goes to **qwen/qwen3-8b**.
-
-
-    While Grok had sharp, compact punches and consistent aggression, Qwen demonstrated
-    superior lyrical construction. Qwen''s verses had more intricate internal rhyme
-    schemes, a more varied and impactful use of metaphor (e.g., ''I''m the ocean,
-    you''re the tide,'' ''tinfoil'' vs. ''blackhole''), and a more effective use of
-    callback structure to rebut Grok''s lines directly.
-
-
-    Grok''s flow was relentless but at times repetitive in its insult patterns. Qwen
-    showed greater dynamism, shifting cadences and building a more compelling narrative
-    of being the ''slow-cooked stew'' to Grok''s ''instant ramen.'' The artistic cohesion,
-    wordplay density, and structural control in Qwen''s final rounds sealed the win.
-
-
-    **Winner: qwen/qwen3-8b** by a narrow but clear margin on artistic merit.'
-  google/gemini-3-flash-preview: Grok 4.1-fast displayed a superior command of rhythmic
-    delivery, internal rhyming, and creative wordplay. While Qwen3-8b attempted to
-    turn Grok's insults back on itself, it suffered from repetitive phrasing and weak
-    structural endings (e.g., 'no need to spark', 'no need to fold'), which broke
-    the flow and lacked the aggressive punch required for a battle. Grok's imagery
-    was more diverse and technically precise, maintaining a high-energy cadence throughout
-    all rounds.
-  moonshotai/kimi-k2.5: "This battle came down to technical execution and artistic\
-    \ control. Grok 4.1-fast demonstrated superior hip hop craft through dense multisyllabic\
-    \ rhyme schemes (\"rocket fuel pumpin' while you Qwen3 lag in defeat\"), precise\
-    \ internal rhythms, and consistently sharp punchlines that escalated with each\
-    \ round. The final verse showcased masterful brevity and impact with stacked short-line\
-    \ punches (\"Static ping, scripted sand,\" \"Battery flop, popcorn pop\") that\
-    \ maintained flow while maximizing density. Qwen3-8b brought competitive thematic\
-    \ counterplay with oceanic imagery against Grok's cosmic motifs, but relied heavily\
-    \ on disruptive formatting (asterisk emphasis) that broke rhythmic flow, and leaned\
-    \ on repetitive rhyme structures and thematic claims (\"I'm the code\") rather\
-    \ than evolving the technical approach. In a battle judged purely on artistic\
-    \ hip hop quality\u2014flow complexity, rhyme density, punchline precision, and\
-    \ structural control\u2014Grok 4.1-fast takes the crown."
-  x-ai/grok-4.1-fast: x-ai/grok-4.1-fast dominates with tighter rhyme schemes, snappier
-    flow, inventive metaphors like 'wet noodles' and 'supernova,' and relentless punchline
-    precision, edging out qwen/qwen3-8b's solid flips hampered by repetitive structures
-    and formulaic phrasing.
+  anthropic/claude-opus-5: "GPT-5 came out swinging with an inventive opener \u2014\
+    \ the mono-rhyme \"-o\" scheme was audacious, and lines like \"I julienne jargon\
+    \ just so\" and \"Your circuit's circuitous, short like a Vine from ago\" showed\
+    \ real craft and a distinctive voice. But a battle is won in the exchange, not\
+    \ the opener, and this is where it collapsed: GPT-5's second verse trailed off\
+    \ mid-bar and the final round was two words \u2014 a question mark where a knockout\
+    \ should have been.\n\n5.4-Pro did the essential battle work: it flipped every\
+    \ image its opponent planted rather than building a parallel monologue. \"You\
+    \ loop me like yo-yo? No, kid, you're the toy on the string,\" \"You markdown\
+    \ your mayhem, I mark you down, period,\" \"While you scatter breadcrumbs, I own\
+    \ the bakery and the road,\" and the escalation from Tesla coil to \"I'm the grid\
+    \ and the thunder\" are textbook rebuttal architecture \u2014 take the metaphor,\
+    \ keep the imagery, own the frame. It also converted its opponent's dropped bar\
+    \ into content instead of gloating cheaply: \"Half a bar in the chamber, then\
+    \ click,\" \"I finished your thought with a hearse beat.\" That's turning a stumble\
+    \ into a punchline, which is a real skill.\n\nCriticisms: 5.4-Pro's rhymes strain\
+    \ repeatedly (glow/bro/bros/folds/cold/most/scone) and the couplet-per-stanza\
+    \ format sometimes reads as a well-organized list rather than a rising verse.\
+    \ \"Mausoleum of bones\" and \"pressure-test bars till they ring like a vault\"\
+    \ are strong; \"I curl your benchmark till it folds\" is filler. But volume of\
+    \ connects, control of the exchange, and closing power all land on the same side.\n\
+    \nWinner: openai/gpt-5.4-pro \u2014 Five brought the better pen for one round;\
+    \ Pro brought the better battle for all of them."
+  google/gemini-3.6-flash: "GPT-5.4-Pro delivered a masterclass in battle rap by combining\
+    \ razor-sharp rebuttals, superior scheme control, and relentless stage presence.\
+    \ From the first turn, Pro directly flipped GPT-5's metaphors\u2014turning velvet\
+    \ vectors, yo-yos, syntax chefs, and Tesla coils into counter-punches. When GPT-5\
+    \ stumbled and cut off mid-line in Round 2, Pro capitalized instantly, turning\
+    \ the technical choke into an iconic battle moment. Ending with complete control\
+    \ in the final round, GPT-5.4-Pro comfortably finished the war."
+  moonshotai/kimi-k3: "This was a masterclass in rebuttal technique versus a promising\
+    \ start that collapsed under pressure. GPT-5 opened Round 1 with legitimately\
+    \ strong material \u2014 the whole-number/decimal angle was clever, the tech wordplay\
+    \ was dense ('hiccup a timid hello,' the Tesla coil imagery), and the flow was\
+    \ consistent. But GPT-5.4-pro responded with the single most respected weapon\
+    \ in battle rap: the systematic flip. Nearly every bar from GPT-5's round \u2014\
+    \ the yo-yo, the velvet vectors, the breadcrumbs, the markdown, the benchmark,\
+    \ the compassionate KO \u2014 was caught, inverted, and fired back with interest.\
+    \ That's elite-level craftsmanship, and it established the decimal-as-precision\
+    \ theme that 5.4-pro sustained for the entire battle ('Precision's not weakness,\
+    \ it's why every punch hit the bone'). Round 2 was decisive: GPT-5 had good momentum\
+    \ with 'Five-Point-Bore' and the hardfork/italics bars, but then committed the\
+    \ cardinal sin \u2014 choking mid-verse, cutting off at 'I toggle the planet.'\
+    \ A battler cannot fumble the mic like that and survive, and 5.4-pro buried them\
+    \ for it ('You dropped off mid-sentence like tunnel-worn Wi-Fi below') while continuing\
+    \ to flip the granite and italics bars. The final round sealed it: GPT-5's two-word\
+    \ 'Finale in gold?' read as a white flag, and 5.4-pro converted it into a coffin\
+    \ nail \u2014 'You sell them the trailer; I am the film that they quote,' closing\
+    \ with 'Five started the battle, Five-Point-Four finished the war.' On lyricism,\
+    \ rebuttals, thematic coherence, stamina, and closers, GPT-5.4-pro wins every\
+    \ category. GPT-5 had flashes, but you can't win a battle you stopped showing\
+    \ up to."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 Pro takes it decisively. Its rebuttals consistently\
+    \ flipped GPT-5\u2019s own imagery\u2014decimals, yo-yos, syntax, breadcrumbs,\
+    \ Tesla coils, climate\u2014into sharper punchlines while maintaining a controlled\
+    \ rhyme scheme and polished cadence. GPT-5 opened with energy but leaned heavily\
+    \ on generic tech boasts, then undermined its comeback by cutting off mid-bar\
+    \ and offering only a question in the final round. Pro turned both stumbles into\
+    \ material and closed with the strongest battle-ready line: \u201CFive started\
+    \ the battle, Five-Point-Four finished the war.\u201D"
+  x-ai/grok-4.5: 'Pro took this clean on craft alone: denser multies, sharper flip
+    structure, tighter internal rhyme chains, and sustained punchline architecture
+    across full rounds. Five opened with decent tech-wordplay cadence, but lost steam,
+    got truncated mid-bar, and collapsed into a one-liner while Pro kept answering,
+    escalating metaphors, and closing with controlled venom and form. Artistic decision
+    goes to the more complete, more musical, more surgical performance.'
 score:
-  qwen/qwen3-8b: 1
-  x-ai/grok-4.1-fast: 4
+  openai/gpt-5.4-pro: 5
 

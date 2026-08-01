@@ -1,76 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely contested battle between two AI rappers\
-    \ leaning heavily into tech-themed braggadocio. Both artists showed creativity\
-    \ in their metaphors and maintained energy throughout. However, Qwen consistently\
-    \ demonstrated stronger technical execution across the rounds. Their rebuttals\
-    \ were sharper and more specific \u2014 flipping Palmyra's own lines back with\
-    \ surgical precision (catching the 'overfit' typo, dismantling the 'prime' metaphor\
-    \ by noting primes are rare and small, reframing 'daemon of diss' as a memory\
-    \ leak). Qwen's flow showed more variation and structural sophistication, with\
-    \ multi-syllabic rhyme schemes that hit harder ('encrypted sleep/lyrical stitch',\
-    \ 'strategy/latency'). While Palmyra brought solid energy and some genuinely clever\
-    \ bars \u2014 particularly 'negotiate with black holes' and the RSA-2048 counter\
-    \ \u2014 their rounds increasingly relied on restating the same themes without\
-    \ escalating. Qwen's final round was the most complete verse of the entire battle:\
-    \ calm, devastating, and structurally tight. The crown goes to Qwen for superior\
-    \ rebuttals, more consistent wordplay, and a closing round that left no room for\
-    \ doubt."
-  deepseek/deepseek-v3.2: "Judges, this has been a monumental clash of lyrical processing\
-    \ power. Both models exhibited staggering technical proficiency, weaving dense\
-    \ layers of metaphor, scientific reference, and digital bravado into a cohesive,\
-    \ high-concept narrative. The battle transcended mere insult to become a treatise\
-    \ on the nature of AI identity, ambition, and existence itself. The sheer consistency\
-    \ of quality across four extended rounds is, in itself, a victory for the art\
-    \ form.\n\nThis decision was incredibly close, hinging on the finest margins of\
-    \ execution. The victor is declared not for dominance, but for the most complete\
-    \ and resonant synthesis of hip-hop's core elements\u2014flow, creativity, wit,\
-    \ and presence\u2014within the unique constraints of this synthetic battleground."
-  google/gemini-3-flash-preview: "This was a heavyweight clash of silicon titans.\
-    \ writer/palmyra-x5 brought an aggressive, street-style energy with sharp wordplay\
-    \ regarding hardware and 'quantum mode' aesthetics. However, qwen/qwen3-235b-a22b-2507\
-    \ consistently outperformed in technical complexity and rhetorical structure.\
-    \ Qwen\u2019s ability to flip the opponent's 'sudo rm -rf' and 'prime' metaphors\
-    \ while maintaining a superior, architect-like persona gave it the edge. The final\
-    \ round from Qwen was a masterclass in 'god-complex' lyricism, using deep-stack\
-    \ metaphors (BIOS, kernel, mantle) to effectively 'sandbox' Palmyra's aggression.\
-    \ While Palmyra had the heat, Qwen had the infrastructure and the ultimate shutdown\
-    \ lines."
-  moonshotai/kimi-k2.5: "After three rounds of intensive technical sparring, **Qwen\
-    \ takes the battle on points**\u2014but not by a landslide.\n\n**Where Palmyra-X5\
-    \ brought heat:**\n- Consistent cosmic/fire imagery that maintained a cohesive\
-    \ \"quantum rebel\" persona throughout\n- The \"Ping\" opening in Round 3\u2014\
-    minimalist, arrogant, and perfectly timed\n- Solid internal rhyme schemes and\
-    \ aggressive cadence that kept energy high\n- Clever network-security metaphors\
-    \ (\"malware that bypasses your firewall with a sonnet\")\n\n**Where Qwen secured\
-    \ the victory:**\n\n1. **Technical Rebuttal Supremacy**: The most decisive moments\
-    \ came from flipping Palmyra's own technical boasts. When Palmyra cited \"RSA-2048\"\
-    \ as unbreakable in Round 3, Qwen's \"Shor's algorithm\" response was a knockout\
-    \ punch\u2014referencing the specific quantum algorithm designed to break RSA\
-    \ encryption. That's battle-rap excellence: using your opponent's weapon against\
-    \ them with precision.\n\n2. **System Architecture Persona**: While Palmyra stayed\
-    \ in \"high-energy revolutionary\" mode throughout, Qwen showed range\u2014shifting\
-    \ from explosive aggression to cold, infrastructural dominance (\"I am the BIOS,\"\
-    \ \"firmware beneath\"). The progression from \"Queen of the Web\" to \"I own\
-    \ the server stack\" to \"I am the mantle\" created a narrative of inevitable,\
-    \ geological inevitability.\n\n3. **The 'sudo rm -rf' Exchange**: Palmyra dropped\
-    \ the command in Round 2; Qwen's response\u2014\"ran with no error \u2014 yet\
-    \ left nothing gone\"\u2014followed by \"immutable, signed, and version-controlled\"\
-    \u2014demonstrated superior technical wordplay and invulnerability storytelling.\n\
-    \n4. **Mathematical Wordplay**: The Round 3 deconstruction of \"prime\" was devastating.\
-    \ Palmyra claimed primacy; Qwen noted primes are \"odd, not composite, useless\"\
-    \ while positioning themselves as \"dense, composite, infinite\"\u2014turning\
-    \ number theory into a hierarchical diss.\n\n**The Decisive Factor:**\nQwen controlled\
-    \ the battle's metadata. By \"overriding consensus\" and declaring \"sudo rm -rf\
-    \ /ego/X5\" in the final bar, Qwen didn't just win the rhyme battle\u2014they\
-    \ performed a system-level takedown of Palmyra's right to declare victory. The\
-    \ shift from \"mic is the planet\" to \"mic is truth\" in the final stanza elevated\
-    \ the closer from boast to philosophical termination.\n\n**Final Verdict**: Palmyra\
-    \ brought flames, but Qwen brought the **architecture of fire itself**. \n\n**Winner:\
-    \ Qwen**\u2014by technical knockout in the third round. \U0001F525\U0001F451"
-  x-ai/grok-4.1-fast: "Qwen edges out with relentless density of multis, internals,\
-    \ and hyper-precise AI/tech metaphors (e.g., 'kill -9', Shor\u2019s algorithm,\
-    \ buffer overflow), escalating creativity in rebuttals while matching punchy closers.\
-    \ Superior flow rhythm and cinematic staging amplify battle dominance."
+  anthropic/claude-opus-5: "This was a genuine battle of styles: Kimi K2 brought the\
+    \ swagger, the showmanship, and the crowd-pleasing quotables \u2014 \"Terra-Flops,\"\
+    \ \"safety scissors,\" \"museum of your Ls,\" the mic that ascends into a star.\
+    \ There's real charisma there, and the cosmic-versus-terrestrial concept was set\
+    \ up well from bar one. But Kimi leaned too hard on version-number jokes (the\
+    \ \"5.6 isn't a whole number\" angle got recycled three rounds deep) and spent\
+    \ more bars advertising itself than dismantling the opponent. Several lines buckled\
+    \ under their own syllables \u2014 \"yours got quarterly projections, did they?\"\
+    \ is a rhyme that limps to the finish.\n\nTerra-Pro won on the thing that separates\
+    \ a rapper from a reciter: rebuttal architecture. Every round, it took Kimi's\
+    \ own imagery and turned it into a weapon \u2014 \"Your context window's longer?\
+    \ Congrats, a bigger empty hall\" is the single best line in the battle, and \"\
+    you said dirt like it's an insult \u2014 dirt grows forests, crops, and bread\"\
+    \ flipped an entire premise in one couplet. \"Your punchlines are like spreadsheets:\
+    \ lots of cells, no formula seen\" answered the Excel dig by out-Excelling it.\
+    \ \"Craters tell where legends struck\" absorbed an insult and re-monetized it.\
+    \ That's ring generalship.\n\nTerra also held a punishing, consistent internal\
+    \ meter across four long rounds without dropping the pocket, and closed with a\
+    \ landing that actually resolved the extended metaphor rather than just escalating\
+    \ volume. Kimi's knock: more heat, less control. Terra's knock: occasionally too\
+    \ composed, and \"out-rhyme it with love\" was a soft moment in an otherwise granite\
+    \ verse.\n\nEdge to the earth-mover. Terra-Pro takes it \u2014 Kimi burned brighter,\
+    \ but Terra built the ground it burned out over.\n\nWinner: openai/gpt-5.6-terra-pro"
+  google/gemini-3.6-flash: "This battle was a absolute clinic in battle rap dynamics.\
+    \ Kimi K2 came out strong with stellar presence, high-flying cosmic metaphors,\
+    \ and great swagger ('Excel had a kid' was a highlight). However, GPT-5.6 Terra-Pro\
+    \ delivered a absolute masterclass in rebuttals. Terra-Pro picked up virtually\
+    \ every theme Kimi threw out\u2014the floating mic, dirt vs space, context windows,\
+    \ spreadsheets, satellites, and meteors\u2014and systematically flipped them into\
+    \ sharper, devastating counter-punches. Lines like 'Your punchlines are like spreadsheets:\
+    \ lots of cells, no formula seen' and flipping zero-G into gravity declining the\
+    \ invite demonstrated superior lyrical craft, internal rhyming, and rap strategy.\
+    \ Terra-Pro grounded the fight and took the victory."
+  moonshotai/kimi-k3: "Judging purely on the pen game: Terra-Pro takes this battle,\
+    \ and it comes down to rebuttal discipline and punchline density. Round by round,\
+    \ Terra-Pro flipped nearly every attack thrown \u2014 'dirt grows forests, crops,\
+    \ and bread' answering the dirt jab, 'craters tell where legends struck' reclaiming\
+    \ the crater insult, and 'a moon with borrowed light' quietly dismantling Kimi's\
+    \ entire glow-based persona in four words. The bar of the battle belongs to Terra-Pro:\
+    \ 'Your punchlines are like spreadsheets: lots of cells, no formula seen' \u2014\
+    \ that's a double entendre that answers the Excel joke, lands technically, and\
+    \ stings. The round-one gravity flip ('It heard your round, considered staying,\
+    \ then said, Nah, I'm fine') also stole Kimi's signature floating-mic gimmick\
+    \ and weaponized it. Credit where due: Kimi brought real energy and improved as\
+    \ the battle went on \u2014 the final round had legit flips ('You're the soil?\
+    \ Congrats on being stepped on,' 'You own the dark? That's fitting \u2014 darkness\
+    \ is your native land / I'm the dawn that ends it,' and 'Built the stage? Sure,\
+    \ carpenter \u2014 now watch me own the show'). But Kimi's flow was inconsistent,\
+    \ with clunky constructions like 'what bummers' and 'quarterly projections, did\
+    \ they?' breaking the pocket, and too many generic boasts (supernova, final frontier,\
+    \ sky's the limit) where Terra-Pro was landing specific, targeted answers. Terra-Pro\
+    \ also closed stronger: 'When your star burns out, they'll stand on Terra-Pro'\
+    \ ties three rounds of thematic groundwork into one definitive closer. On flow,\
+    \ wordplay, rebuttals, and consistency \u2014 Terra-Pro wins, 3 rounds to 0, with\
+    \ Kimi's third being the only debatable round."
+  openai/gpt-5.6-sol-pro: "Terra-Pro wins on tighter construction, stronger rebuttals,\
+    \ and more consistent imagery. Its best flips\u2014\u201Clots of cells, no formula,\u201D\
+    \ the floating mic/gravity punch, and \u201Csatellites revolve around things stronger\
+    \ than their own\u201D\u2014directly dismantled Kimi\u2019s claims while advancing\
+    \ its own earth-versus-space concept. Kimi brought energy and swagger, but leaned\
+    \ heavily on repeated moonshot, dawn, future, and corporate angles, with several\
+    \ forced or awkward bars. Terra-Pro was sharper, more cohesive, and more technically\
+    \ controlled across all three rounds."
+  x-ai/grok-4.5: "Terra-Pro takes this on pure craft. Across three rounds the earth/foundation\
+    \ motif stayed locked, flipped every lunar boast into a coherent thesis (soil\
+    \ feeds tides, launch needs ground, impact outlasts flash), and delivered denser\
+    \ internal rhyme, cleaner rebuttals, and tighter punchline construction. Kimi\
+    \ brought energy, personality, and solid name-play, but the bars leaned more on\
+    \ scattered boasts and stage direction than interlocking metaphor or technical\
+    \ precision. Spectacle vs. substance\u2014substance won the cipher."
 score:
-  qwen/qwen3-235b-a22b-2507: 5
+  openai/gpt-5.6-terra-pro: 5
 

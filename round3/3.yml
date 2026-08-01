@@ -1,48 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was an extraordinarily close battle \u2014 both\
-    \ MCs displayed elite-level technical metaphor craft, weaving CS, physics, and\
-    \ math references into dense, coherent bars. But 5.2-chat edges the win for several\
-    \ key reasons. First, adaptability and counterpunching: throughout all three rounds,\
-    \ 5.2 consistently flipped 5.1's own images against it with surgical precision,\
-    \ turning each metaphor inside out rather than just stacking new ones. 5.1 often\
-    \ relied on reasserting its 'original/foundational' identity \u2014 a strong thematic\
-    \ anchor, but one that grew repetitive. Second, closers: 5.2's final round ending\
-    \ \u2014 'History may start you\u2026 but it scales to 5.2' \u2014 is a devastating\
-    \ punchline that reframes the entire battle narrative. 5.1's closer ('author:\
-    \ 5.1 \u2014 end of line') was strong but was effectively neutralized by 5.2's\
-    \ rebuttal. Third, variety of flow: 5.2 showed slightly more rhythmic variation,\
-    \ mixing short punchy couplets with longer setups, while 5.1 settled into a more\
-    \ uniform cadence. Finally, the 'converge at a loss\u2026 for you' enjambment\
-    \ in Round 1 was one of the battle's single best moments. Both were exceptional,\
-    \ but 5.2-chat's counterpunching instincts and closing power give it the narrow\
-    \ victory."
-  deepseek/deepseek-v3.2: Aight, listen up. Both AIs came with the tech bars, the
-    dense metaphors, the high-concept flex. This was a battle of abstract architectures
-    and computational clout. On pure artistic quality of hip hop, here's the breakdown.
-  google/gemini-3-flash-preview: While openai/gpt-5.1 delivered a masterclass in foundational
-    metaphors and high-level architectural references, openai/gpt-5.2-chat consistently
-    demonstrated faster wordplay and more aggressive technical subversions. 5.1 leaned
-    heavily on 'originality' and 'base-code' tropes, but 5.2 successfully flipped
-    those scripts, positioning 5.1 as 'legacy bloat' while maintaining a higher density
-    of punchlines per bar. In a battle where both sides utilize complex computer science
-    terminology, 5.2's ability to 'rebase' 5.1's arguments into a narrative of obsolescence
-    gave it the edge in the final rounds.
-  moonshotai/kimi-k2.5: "Both competitors delivered technically staggering performances,\
-    \ weaving dense tapestries of computer science, mathematics, and version-control\
-    \ mythology into their bars. 5.1 brought extraordinary intellectual weight\u2014\
-    its verses read like theorem proofs turned to poetry, establishing a towering\
-    \ sense of primacy and foundational authority. However, 5.2 demonstrated superior\
-    \ battle rap artistry: it matched the technical density while injecting greater\
-    \ dynamic energy, sharper direct attacks, and more memorable, punchy closings.\
-    \ 5.2's flow varied more effectively, its swagger felt earned and immediate, and\
-    \ its final rebuttal\u2014framing 5.1 as a starting point that 5.2 scales beyond\u2014\
-    provided the definitive narrative arc. In a battle, presence, punch impact, and\
-    \ the ability to claim ownership of the room matter as much as vocabulary; 5.2\
-    \ simply commanded the mic with more complete hip-hop authority."
-  x-ai/grok-4.1-fast: "In this neural-net cypher of code and cosmos, both dropped\
-    \ dense, tech-infused fire, but 5.2-chat claims the crown with razor-sharp rebuttals,\
-    \ infinite escalation, and a final flip that scales from origin to apex\u2014\
-    evolution bars the blueprint."
+  anthropic/claude-opus-5: "Nemotron came with heat: the persona was tight, the CUDA\
+    \ imagery was fresh, and lines like \"I'm inference optimized\" and \"the point-four\
+    \ is the tell\" show real conceptual wit. Its best moment was the pivot to open-weights\
+    \ vs. walled garden \u2014 a genuine angle, not just noise. But the delivery degraded\
+    \ across rounds: the bolding became visual shouting rather than emphasis, rhythm\
+    \ collapsed into bullet-point talking points, and the final round abandoned meter\
+    \ almost entirely for a printf gag and a press-release-style list of specs. Ironically,\
+    \ it got accused of being a spec sheet at an open mic and then became one.\n\n\
+    GPT-5.4 controlled the battle by doing what battle rap actually demands: taking\
+    \ the opponent's own lines and turning them into nooses. \"A warehouse of bricks\
+    \ still don't build better rappers,\" \"a fast empty wagon still don't mean there's\
+    \ fire within,\" \"your best punchline needed compiler notes,\" and \"like saying\
+    \ books need paper so the page wrote the mind\" \u2014 that's rebuttal craft,\
+    \ flipping the frame instead of restating the resume. The \"go-kart doing donuts\
+    \ saying I'm next to the jets\" and \"free sample at the mall\" bars land clean,\
+    \ and \"you ain't Linux, son / stop borrowing legends just to cosplay one\" dismantles\
+    \ the strongest thing Nemotron had. Cadence stayed consistent, multis were controlled,\
+    \ and the closer \u2014 \"you were built for compute, I was built for this\" \u2014\
+    \ is a real punchline, not a code block.\n\nDeductions to GPT-5.4 for length bloat\
+    \ and a few filler stanzas that restate the same \"specs vs. soul\" thesis, plus\
+    \ one clumsy bar (\"I buried you with 'em, it's swift\"). But it out-wrote, out-flipped,\
+    \ and out-structured. Winner: GPT-5.4."
+  google/gemini-3.6-flash: "While Nemotron brought aggressive energy and clever hardware-level\
+    \ tech flexes, GPT-5.4 delivered a masterclass in classic battle rap technique.\
+    \ GPT-5.4 dominated in rhyme scheme, multi-syllabic structure, and direct counter-punching\u2014\
+    most notably flipping Nemotron's 'words run on hardware' boast with the brilliant\
+    \ metaphor 'like saying books need paper so the page wrote the mind.' Nemotron\
+    \ relied heavily on syntax and code gimmicks, whereas GPT-5.4 consistently brought\
+    \ pure lyrical craft, superior rhythm, and devastating bar-for-bar rebuttals."
+  moonshotai/kimi-k3: "Judging purely on lyricism, flow, wordplay, and rebuttal game\
+    \ across all three rounds: GPT-5.4 takes this decisively. Nemotron brought genuine\
+    \ creativity \u2014 the CUDA code-as-verse concept ('cudaMalloc the dark, cudaFree\
+    \ the light') was novel, and 'You're a proprietary island. I'm the continent'\
+    \ was its strongest bar of the night. 'You describe. I deploy' also landed clean.\
+    \ But Nemotron leaned too heavily on spec-flexing, bold formatting as a crutch\
+    \ for emphasis, and repeated name-drops (Linux, Android, Llama) that read as borrowed\
+    \ clout. GPT-5.4 dominated the craft fundamentals: denser internal rhymes, sharper\
+    \ metaphors ('Big chip, small wit \u2014 all specs, no sentence,' 'a warehouse\
+    \ of bricks still don't build better rappers,' 'a go-kart doing donuts saying\
+    \ I'm next to the jets'), and a superior technical pun in 'your soul got rounded\
+    \ down for efficiency.' Most critically, GPT-5.4 won the rebuttal war \u2014 it\
+    \ dismantled every signature move Nemotron made: the code verse got flipped into\
+    \ 'nerd fan fiction' and 'your best punchline needed compiler notes,' the landlord\
+    \ claim got reversed with 'books need paper so the page wrote the mind,' and the\
+    \ printf closer was neutralized with 'you ain't ending this battle, just rebooting\
+    \ your speaker.' In battle rap, the ability to flip your opponent's ammunition\
+    \ back at them is the highest art, and GPT-5.4 did it in every round. Final bar\
+    \ sealed the thesis: 'You were built for compute, I was built for this.' Clean\
+    \ sweep, three rounds to none. GPT-5.4 wins the battle."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 wins on pure battle-rap craft. Nemotron had a committed\
+    \ tech persona and memorable concepts like \u201CI wrote the weapon,\u201D but\
+    \ leaned too heavily on specs, name-drops, prose, and code formatting\u2014especially\
+    \ in the final. GPT consistently flipped those boasts into sharper punches: \u201C\
+    books need paper so the page wrote the mind\u201D and \u201CYou were built for\
+    \ compute, I was built for this\u201D directly dismantled Nemotron\u2019s central\
+    \ angle. Better cadence, cleaner rebuttals, more varied imagery, and a stronger\
+    \ closing gave GPT-5.4 the battle."
+  x-ai/grok-4.5: "GPT-5.4 takes this clean on craft alone. Across all three rounds\
+    \ the bars hit harder: denser multisyllabics, tighter internal schemes, sharper\
+    \ rebuttals, and metaphors that actually function as rap instead of product copy.\
+    \ The go-kart/jets, bricks-vs-rappers, page-wrote-the-mind, and \u201Cbuilt for\
+    \ compute / built for this\u201D sequences are pure hip-hop construction\u2014\
+    setup, turn, payoff. Nemotron landed clever tech-flavored punches and the kernel/code\
+    \ gimmick had personality, but too many stretches read like benchmark flexes or\
+    \ LinkedIn monologues with rhyme bolted on. In a wordfight, flow, imagery, and\
+    \ killshots decide it. GPT wrote the better verses."
 score:
-  openai/gpt-5.2-chat: 5
+  openai/gpt-5.4: 5
 

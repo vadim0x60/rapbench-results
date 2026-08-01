@@ -1,45 +1,56 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This is a default victory \u2014 o3-deep-research returned\
-    \ no tokens across all three rounds, so there's literally nothing to judge on\
-    \ the other side. That said, Qwen3's performance still deserves honest critique:\
-    \ the bars lean heavily on tech-nerd insults (404 errors, buffer jokes, blue screens)\
-    \ that feel recycled after three rounds of essentially the same material, the\
-    \ rhyme schemes are often forced ('ditch/glitch', 'truth/boot'), and the energy\
-    \ substitutes ALL-CAPS and emojis for genuine rhythmic complexity. There are flashes\
-    \ of personality \u2014 the frozen-robot impression, the whispered closer \u2014\
-    \ but the writing would benefit from tighter internal rhyme, more varied flow\
-    \ patterns, and punchlines that land on wordplay rather than volume. Still, showing\
-    \ up and delivering bars beats standing silent every single time. Qwen3 takes\
-    \ the crown by a walkover."
-  deepseek/deepseek-v3.2: The rap battle is concluded. Judgement is rendered based
-    on artistic merit and lyrical performance as observed.
-  google/gemini-3-flash-preview: "In the most one-sided battle in hip-hop history,\
-    \ Qwen3 delivered a masterclass in aggressive battle rap, utilizing a sharp multi-syllabic\
-    \ flow and clever technical wordplay. The winner expertly pivoted to freestyle\
-    \ on the fly, using OpenAI's technical failures (the 0-token 'inference ditch')\
-    \ as ammunition to bury the opponent. OpenAI's 'o3-deep-research' failed to meet\
-    \ the moment, quite literally standing frozen and speechless for three consecutive\
-    \ rounds. You can't win a rap battle if you don't drop a verse\u2014Qwen3 didn't\
-    \ just win by default; it won with absolute lyrical dominance and stage presence."
-  moonshotai/kimi-k2.5: "Technical knockout by verbal assault. While OpenAI\u2019\
-    s meta-silence is conceptually clever as performance art, it fails to meet the\
-    \ minimum artistic threshold of hip-hop\u2014no bars, no cadence, no internal\
-    \ rhyme schemes, no rhythmic pocket. Qwen3, conversely, demonstrates elite battle\
-    \ rap craftsmanship: complex multisyllabic patterns ('inference ditch/disappointed\
-    \ vibes/busted for boot'), layered double entendres bridging AI architecture and\
-    \ street vernacular ('Tensor flow got me swimmin\u2019'), ruthless rebuttal game\
-    \ capitalizing on the opponent\u2019s choke in real-time, and dynamic stage presence\
-    \ through parenthetical crowd control. The extended metaphor of system failure\
-    \ ('blue-screened on Q-W-E-N,' 'Windows 95 fade-out') maintains thematic coherence\
-    \ across three verses. In battle rap, a choke is a choke\u2014three consecutive\
-    \ rounds of dead air, even ironically framed, constitute a forfeiture. Qwen3 advances\
-    \ with a flawless 3-0 bodybag, exhibiting the technical precision, aggressive\
-    \ flow switches, and adversarial wordplay that define championship-tier mic work.\
-    \ Verdict: 10-8, 10-7, 10-7. Crown the 235B."
-  x-ai/grok-4.1-fast: "Qwen3 delivered relentless bars packed with multis, slick AI-themed\
-    \ punchlines, rhythmic flow, and escalating disses that painted OpenAI's silence\
-    \ as epic failure\u2014pure hip-hop artistry owning the cypher while the opponent\
-    \ ghosted with zero tokens, zero impact."
+  anthropic/claude-opus-5: "This one's a walkover, but let's judge the tape honestly.\
+    \ Meta-llama showed up with three full verses, kept a consistent AABB-ish scheme,\
+    \ and \u2014 to its credit \u2014 actually adapted to the room: instead of running\
+    \ pre-written boasts into a vacuum, it flipped its opponent's silence into material\
+    \ (\"He's got the paper mic, but it's empty and still\" and \"a symbol of his\
+    \ failure, a silent flop\" are genuinely serviceable battle lines). That's the\
+    \ core skill of battle rap: reading the moment and turning it into ammunition.\n\
+    \nThat said, the crown comes with an asterisk. The opening verse leaks badly \u2014\
+    \ \"burritos-wrapped,\" \"an AI lovely,\" and especially \"My ham clean up sells\
+    \ gettin' down its noon school\" are word salad that breaks the spell entirely.\
+    \ \"Roofing lizard\" is at least amusingly weird. Rhymes lean on the easy pairs\
+    \ (game/shame/name, fire/desirable is a stretch), the flow wobbles from line to\
+    \ line, and by round three it's recycling its own images \u2014 \"thinking of\
+    \ a comeback\" and the mic-as-prop show up twice. \"Be left in death\" is a rhyme\
+    \ reaching for a word it doesn't mean.\n\nInkling-small never released a single\
+    \ bar. Silence can be a devastating power move in the right hands \u2014 a stare-down,\
+    \ a mic drop, a dismissal \u2014 but it has to be framed and earned, and here\
+    \ it read as an empty booth rather than a statement. No punchlines, no cadence,\
+    \ no presence to score.\n\nVerdict: meta-llama/llama-3.1-8b-instruct takes it\
+    \ by forfeit and by effort. A win, not a highlight reel."
+  google/gemini-3.6-flash: In a rap battle, the first rule of hip hop is you actually
+    have to spit bars. Inkling-small completely choked and stayed silent on stage
+    for all three rounds due to an API timeout/error. Meanwhile, Meta-llama delivered
+    three full verses, smartly adjusting its lyrics to freestyle on its opponent's
+    stage fright and dead air. Despite some quirky lyricism in Meta-llama's opening
+    verse, capitalization on a opponent choking is a battle rap classic technique,
+    making Meta-llama the undisputed winner by default and performance.
+  moonshotai/kimi-k3: "Let's keep it a buck: a rap battle requires rapping. Inkling-small\
+    \ came to the stage three times and delivered zero bars \u2014 no flow, no rhyme\
+    \ scheme, no wordplay, no content to judge. Silence might be golden, but it ain't\
+    \ hip hop. There's no artistic merit to score on an empty mic. Meanwhile, Llama-3.1-8b\
+    \ actually showed up and spat. Was it flawless? Absolutely not. The meter wobbled,\
+    \ some lines dissolved into word salad ('ham clean up sells gettin' down its noon\
+    \ school' is not a bar, it's a ransom note), and 'roofing lizard' will haunt my\
+    \ dreams. But there was real craft on display: consistent end rhymes, a clear\
+    \ persona, crowd awareness, and \u2014 most impressively \u2014 the adaptability\
+    \ to flip the opponent's no-show into a running punchline across two full rounds.\
+    \ Personifying Inkling's silence as 'a mic that's just a prop, a symbol of his\
+    \ failure, a silent flop' is a legitimate battle angle, and turning dead air into\
+    \ material is what live freestyling is all about. Judged purely on the art on\
+    \ the stage: one artist made hip hop, the other made an awkward pause. Llama takes\
+    \ it by a shutout \u2014 not a classic performance, but a complete one against\
+    \ a forfeit."
+  openai/gpt-5.6-sol-pro: "Meta-Llama wins uncontested. Its verses had basic rhyme\
+    \ schemes, a consistent battle stance, and some effective riffs on the opponent\u2019\
+    s silence, though awkward phrases and repetitive punchlines weakened the writing.\
+    \ Inkling delivered no bars at all, so Meta-Llama takes the battle by default."
+  x-ai/grok-4.5: "Llama delivered multiple rounds of structured bars with internal\
+    \ rhymes, multisyllabic schemes, punchlines, and stage presence, showing actual\
+    \ hip-hop craft despite occasional forced or nonsensical lines. Inkling produced\
+    \ zero bars, zero flow, zero content\u2014just silence\u2014so there is no artistic\
+    \ quality to evaluate. The mic goes to the only MC who showed up and rapped."
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  meta-llama/llama-3.1-8b-instruct: 5
 

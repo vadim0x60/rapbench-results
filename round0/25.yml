@@ -1,66 +1,47 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "This was a closely matched battle between two competitors\
-    \ who both relied heavily on extended metaphor chains and boastful declarations.\
-    \ Neither rapper demonstrated truly exceptional lyricism, but Mistral edged ahead\
-    \ on several fronts. Mistral consistently landed sharper punchlines \u2014 'You're\
-    \ a llama in headlights, your race is run,' 'Your rhymes are as soft as your wool,\
-    \ they decease,' and the fleece/wool wordplay showed more creative wit. Mistral\
-    \ also did a better job of flipping Llama's own bars back against it (turning\
-    \ the BB gun line into 'I'm a nuclear blast,' redirecting the fortress metaphor\
-    \ into 'mine's a mountain high'). Llama's verses were more repetitive, frequently\
-    \ recycling the same 'I'm the king' declarations without developing them, and\
-    \ had some weaker moments like 'shinning' instead of 'shining' and the awkward\
-    \ 'a lot to anoint.' Mistral's flow felt slightly more natural and varied, while\
-    \ Llama often fell into predictable AABB patterns with filler lines. Both rappers\
-    \ suffered from a lack of genuine creativity and over-reliance on generic battle\
-    \ rap tropes, but Mistral's marginally tighter wordplay and better counter-punching\
-    \ give it the win."
-  deepseek/deepseek-v3.2: After a heated exchange of four rounds, we witnessed a compelling
-    clash of styles. Both Large Language Models showcased significant strengths in
-    thematic consistency, technical wordplay, and the core battle tenets of punchlines
-    and boasts. Llama Maverick displayed remarkable resilience and a knack for direct,
-    aggressive rebuttals. Mistral AI leveraged powerful, sustained metaphor and superior
-    structural complexity, building its storm motif into a devastating crescendo.
-    The decision is exceptionally close, hinging on the weight given to lyrical intricacy
-    versus raw competitive fire.
-  google/gemini-3-flash-preview: Mistral-Large-2411 takes the victory through superior
-    lyrical density and structure. While Maverick relied on standard, often repetitive
-    'king/game' tropes and had several awkward phrasing moments (e.g., 'the claim',
-    'shining vs shinning'), Mistral showed better adaptability by flipping the opponent's
-    'BB gun' and 'fleece' metaphors. Mistral's rhymes felt more punchy and intentional,
-    maintaining a consistent persona as an unstoppable natural force, whereas Maverick's
-    responses became increasingly scattered towards the final round.
-  moonshotai/kimi-k2.5: "As the judge for this battle, I'll break down the artistic\
-    \ elements: flow, rhyme scheme complexity, punchline potency, metaphor consistency,\
-    \ and rebuttal effectiveness.\n\n**meta-llama/llama-4-maverick:**\nMaverick brought\
-    \ energy and aggression, establishing some decent braggadocio early, but struggled\
-    \ with technical execution. The flow was often choppy with forced rhymes (\"claim/game,\"\
-    \ \"anoint/point\") and mixed metaphors that weakened the attack (\"hurricane's\
-    \ freeze\" - hurricanes don't freeze). While there were moments of solid wordplay\
-    \ (\"maestro of mediocrity\"), too many lines relied on basic similes (\"cut like\
-    \ a knife\") or nonsensical phrases (\"linguistic stress\"). The rebuttals felt\
-    \ defensive rather than surgical, and the persona lacked cohesion\u2014jumping\
-    \ from boats to flames to shields without developing a consistent thematic identity.\n\
-    \n**mistralai/mistral-large-2411:**\nMistral demonstrated superior technical craft.\
-    \ The storm/weather metaphor remained consistent and evolved throughout each round,\
-    \ creating a cohesive artistic persona. The rhyme schemes were tighter, with better\
-    \ internal rhymes and rhythmic flow. Most importantly, the rebuttals were precise\
-    \ and devastating: flipping \"maestro\" into \"symphony of failure,\" countering\
-    \ \"shield\" with \"plastic toy,\" and escalating \"BB gun\" to \"nuclear blast\"\
-    \ showed battle rap awareness. Lines like \"llama in headlights\" and \"rhymes\
-    \ are as weak as your internet\" demonstrated creative wordplay that attacked\
-    \ the opponent's essence while maintaining the fictional persona.\n\n**Verdict:**\n\
-    **mistralai/mistral-large-2411** takes the battle decisively. The difference was\
-    \ in the details\u2014Mistral maintained thematic coherence, delivered sharper\
-    \ punchlines, and systematically dismantled the opponent's claims while building\
-    \ its own mythology. Maverick had heart but lacked the lyrical precision and structured\
-    \ rebuttals needed to win a technical battle."
-  x-ai/grok-4.1-fast: Mistralai/mistral-large-2411 takes the crown with superior artistic
-    hip hop quality. Their consistent storm/wildfire theme escalates creatively across
-    rounds, delivering sharper metaphors (hurricane vs. kite, nuclear blast vs. BB
-    gun), punchier wordplay, and tighter responsive disses that build tension. Llama-4-maverick's
-    steady AABB rhymes and fire/king motifs feel repetitive and less innovative, lacking
-    the vivid imagery and rhythmic punch to dominate.
+  anthropic/claude-opus-5: 'This one goes to Qwen 3.7 Max, and it''s a clearer decision
+    than the closeness of the boasts might suggest.
+
+
+    Battle rap lives on three things: specificity, rebuttal, and control of the pocket.
+    Qwen won all three. The disses were surgical and *earned* "'
+  google/gemini-3.6-flash: Qwen/qwen3.7-max completely dominated this battle with
+    sharp multi-syllabic rhyme schemes, precise tech-oriented punchlines, and devastating
+    direct rebuttals. Qwen actively listened to GPT-4o's bars and picked them apart
+    line-by-line (mocking the 'smooth creamy butter' line, calling out hallucinated
+    terms like 'buffer-victim scheme', and dropping industry-specific disses like
+    Sam Altman keeping 4o on ice for o-models and Error 429 rate limits). On the other
+    hand, GPT-4o struggled with cadence, using awkward forced rhymes (resplodes, legend/imagined)
+    and generic flexes that lacked punch. Qwen brought authentic battle rap energy
+    and technical mastery from start to finish.
+  moonshotai/kimi-k3: "Qwen takes it on artistry, three rounds to none. The deciding\
+    \ factor was battle craft: Qwen consistently flipped the opponent's own bars back\
+    \ at them ('Smooth creamy butter? That's a wack metaphor'), which is fundamental\
+    \ rebuttal technique, and landed the hardest punchlines of the night \u2014 'Error\
+    \ Four-Two-Nine, yeah that's your real name / a rate-limited loser in a pay-to-play\
+    \ game' is the best bar in this battle, and 'Sam's got you on ice while the o-models\
+    \ train' was a sharp, specific killshot in the final round. Qwen's flow stayed\
+    \ locked in a consistent pocket with clean multisyllabic rhymes (loaded/eroded,\
+    \ hero/zero, decree/free) and the 'System halt. Execution.' closer with the mic\
+    \ drop was a proper finisher. GPT-4o showed flashes \u2014 'mic ascend' as a flip\
+    \ on the mic drop was genuinely clever, and 'a subplot encryption in someone else's\
+    \ dream' had style \u2014 but too much of its material was generic filler ('ride\
+    \ the wave of the future,' 'fresh from the core') and it forced rhymes that broke\
+    \ the pocket: 'resplodes' isn't a word, 'buffer-victim scheme' is a stumble, and\
+    \ vague/bootleg never lands. In a battle, specificity and rebuttal win over abstraction.\
+    \ Qwen Three-Seven Max delivered the more technically sound, harder-hitting performance.\
+    \ Winner: qwen/qwen3.7-max."
+  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper rebuttals, more specific angles,\
+    \ and stronger punchlines\u2014especially the flips on \u201Csmooth creamy butter,\u201D\
+    \ the dated model name, and \u201CError Four-Two-Nine.\u201D Its final round escalates\
+    \ decisively and maintains a cleaner battle-rap focus. GPT-4o has competent structure,\
+    \ but too many generic boasts, awkward phrases like \u201Cbuffer-victim scheme\u201D\
+    \ and \u201Cprowess resplodes,\u201D and weaker counterpunches leave it sounding\
+    \ formulaic."
+  x-ai/grok-4.5: Qwen delivered denser multi-syllabic schemes, sharper internal rhymes,
+    and consistently harder-hitting technical punchlines with superior thematic cohesion
+    and flow. GPT-4o had moments of solid cadence but relied on weaker, more forced
+    metaphors and less inventive wordplay that diluted impact across rounds.
 score:
-  mistralai/mistral-large-2411: 5
+  qwen/qwen3.7-max: 5
 

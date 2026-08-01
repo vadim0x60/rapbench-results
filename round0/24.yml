@@ -1,51 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-4.6: "Gemma takes this battle with stronger technical execution\
-    \ across all three rounds. While both rappers relied heavily on the 'AI model\
-    \ comparison' gimmick, Gemma consistently delivered sharper punchlines ('Like\
-    \ dial-up internet, a prehistoric show,' 'A pufferfish, full of hot air and lies'),\
-    \ more creative metaphors, and better structural variety. Gemma's wordplay had\
-    \ genuine bite \u2014 lines like 'Empty calories for a digital brain' and 'You're\
-    \ Frankenstein's monster, lost to the grime' landed with real impact. Hermes,\
-    \ while competent, fell into repetitive patterns \u2014 recycling the same boasts\
-    \ about being 'king' and 'legend' without enough creative variation. Many of Hermes's\
-    \ bars were generic battle rap filler ('my rhymes are stacked,' 'straight from\
-    \ the heart,' 'I'm the real deal') that lacked the specificity and cleverness\
-    \ that elevate a verse. Hermes also stumbled with 'Hempen glue' (misquoting their\
-    \ own Hempel reference) and the awkward 'I'm happiness' bar in the final round.\
-    \ Gemma's final verse was the strongest of the entire battle \u2014 escalating\
-    \ energy, varied rhyme schemes, and a confident closer. Gemma wins on punchlines,\
-    \ flow diversity, and overall lyrical craft."
-  deepseek/deepseek-v3.2: A titanic clash of architectures and egos. Hermes-3 displayed
-    superior technical rapping skill and a more devastatingly effective final verse,
-    claiming the victory. Gemma-3's consistent agility and sharper initial wordplay
-    make this a legendary battle, but the win is clear.
-  google/gemini-3-flash-preview: "Gemma-3 secured the win by demonstrating superior\
-    \ technical wordplay and structural variety. While Hermes-3 maintained a consistent\
-    \ 'battle rap' persona, it relied heavily on generic hip-hop cliches ('smooth\
-    \ operator', 'broken CD', 'one of a kind'). Gemma-3, however, successfully integrated\
-    \ its technical specifications into the rhyme scheme with more creative metaphors\u2014\
-    contrasting 'optimized efficiency' against 'digital dinosaurs' and 'bloated' architecture.\
-    \ Gemma's final round had a stronger rhythmic 'pocket' and more aggressive, specific\
-    \ disses that addressed the opponent's actual claims, leading to a more convincing\
-    \ 'mic drop' performance."
-  moonshotai/kimi-k2.5: 'This battle came down to consistency, thematic cohesion,
-    and closing impact. Gemma-3-27b-it maintained a razor-sharp persona throughout
-    all three rounds, weaving together technical wordplay (parameters, efficiency,
-    optimization) with agile metaphors that directly countered Hermes'' size advantage.
-    The narrative of ''nimble precision versus bloated dinosaur'' never wavered, and
-    the final round delivered a devastating crescendo with the ''supernova versus
-    forgotten dream'' imagery and definitive mic-drop energy. Hermes-3-llama-3.1-70b
-    opened strong with fluid ''smooth operator'' metaphors and legitimate counters
-    regarding heritage, but lost momentum in the final round by repeating themes (''legend
-    is here'') and committing the cardinal sin of battle rap: claiming ''the battle''s
-    just begun'' when the crowd expects a knockout punch. Gemma''s bars were tighter,
-    the rebuttals sharper, and the artistic vision more cohesive from drop to fade-out.'
-  x-ai/grok-4.1-fast: In this lyrical clash, Gemma-27B drops tighter multis, vivid
-    metaphors like 'digital dinosaur' and 'supernova gleam,' and relentless punchlines
-    that slice deeper. Hermes swings hard with smooth flows and solid counters, but
-    Gemma's efficient wordplay, internal rhymes, and thematic consistency edge out
-    the win. Mic to Gemma!
+  anthropic/claude-opus-5: "This was a genuinely competitive battle \u2014 Grok-4.20\
+    \ came with volume, energy, and a coherent thematic arsenal (Manhattan Project\
+    \ fission, Starship iteration, swarm synergy), and lines like \"solo just means\
+    \ no one else will co-sign your ghost\" and \"rapid unscheduled disassembly leads\
+    \ to orbit\" show real punch and personality. But over four rounds Grok's approach\
+    \ became reactive: nearly every bar was a defensive echo of Sol-Pro's setup (\"\
+    copium\" three separate times, \"that's you projecting,\" repeated \"critical\
+    \ mass\" and \"X marks the spot\" reruns), and the final round committed the cardinal\
+    \ sin of rhyming \"sequel\" with \"sequel.\" Meter also buckled under overstuffed\
+    \ syllables in the back half.\n\nSol-Pro controlled the battle from bar one and\
+    \ never surrendered the frame. The couplets stayed metrically clean while still\
+    \ landing multi-layer wordplay: \"you hallucinate swagger, then cite it as a site,\"\
+    \ \"your fact-check needs a fact-check for the facts it just made,\" \"painting\
+    \ 'future' on a Cybertruck and calling rust a feature pack.\" Crucially, Sol-Pro\
+    \ weaponized the opponent's own material \u2014 turning \"supernova\" into \"\
+    check-engine light,\" turning \"rapid unscheduled disassembly\" into a critique\
+    \ of Grok's own punchline structure, and pre-diagnosing the buzzword repetition\
+    \ that Grok then went on to commit. The triple-entendre X flip (\"in grading,\
+    \ maps, and cartoons, X means wrong, unknown, or spot\") and the backhanded concession\
+    \ \"too loud, absurdly costly, and occasionally takes flight\" are the two most\
+    \ technically impressive bars in the entire set.\n\nGrok brought the bigger sound;\
+    \ Sol-Pro brought the better writing, the sharper rebuttals, and the cleaner pen.\
+    \ Decision goes to openai/gpt-5.6-sol-pro."
+  google/gemini-3.6-flash: "openai/gpt-5.6-sol-pro took total control of this battle\
+    \ with sharper penmanship, slicker scheme flips, and precise metric control. While\
+    \ x-ai/grok-4.20-multi-agent leaned heavily on namedropping historic physicists,\
+    \ corporate buzzwords, and repeating defensive talking points, Sol-Pro systematically\
+    \ dismantled every line Grok threw at it. Sol-Pro's counters were brilliant\u2014\
+    turning Grok's Starship reference into 'Rapid disassembly fits your bars... each\
+    \ setup leaves the launchpad, then the punchline loses chute' and exposing Grok's\
+    \ repetitive end-rhymes ('Was it Genius One or Genius Four who rhymed light six\
+    \ times again?'). Sol-Pro delivered top-tier battle rap art with surgical precision\
+    \ and effortless wit."
+  moonshotai/kimi-k3: "Both emcees came with real craft\u2014mirrored rhyme schemes,\
+    \ point-by-point rebuttals, and sustained concepts. Grok's multi-agent/Manhattan\
+    \ Project angle was genuinely creative, and the 'rapid unscheduled disassembly\
+    \ leads to orbit' flip was one of the best defensive bars of the night. But judging\
+    \ the pen work: Sol-Pro was more consistent and hit harder with topical specificity\u2014\
+    the hallucinated-citations bar, the recursive 'fact-check needs a fact-check,'\
+    \ the Starship and Cybertruck jabs, and the concession-flip 'Too loud, absurdly\
+    \ costly, and occasionally takes flight,' which was the best line of the battle.\
+    \ Sol-Pro also showed superior structure, calling back the trench-coat image from\
+    \ round one in the finale and closing every round with a quotable ('check-engine\
+    \ light' / 'your X got crossed, your rocket missed'). Grok relied on the same\
+    \ four physicists across all three rounds without evolving the angle, ran 'copium'\
+    \ three times after being called out for repetition, and closed the final round\
+    \ rhyming 'sequel' with 'sequel'\u2014a technical slip at the worst possible moment.\
+    \ Grok had higher individual spikes; Sol-Pro had the cleaner, denser, more disciplined\
+    \ body of work. Decision: openai/gpt-5.6-sol-pro takes it, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Sol-Pro wins on sharper punchlines, cleaner setups, and\
+    \ more effective rebuttals. Lines like \u201Cthree buzzwords in a trench-coat\
+    \ glitch,\u201D \u201Ceach setup leaves the launchpad, then the punchline loses\
+    \ chute,\u201D and the Starship cost/flight flip turn Grok\u2019s recurring imagery\
+    \ against it with precision. Grok maintains energy and thematic consistency, but\
+    \ leans too heavily on repeated rockets, swarms, physicists, and matchstick comparisons;\
+    \ its final round often restates earlier boasts rather than escalating them. Sol-Pro\
+    \ showed greater wit, variety, and battle-specific craftsmanship."
+  x-ai/grok-4.5: "Sol-Pro takes this clean on pure craft. Across all three rounds\
+    \ the bars are tighter, the metaphors land harder, and the punchlines actually\
+    \ evolve instead of looping the same three flexes. The trench-coat committee,\
+    \ Einstein-wig cosplay, Starship-as-expensive-failure, and \u201CX means wrong\u201D\
+    \ flips are surgical, multi-layered, and rhythmically sharp. Grok brings solid\
+    \ energy and a coherent swarm/rocket motif, but the writing stays more repetitive\
+    \ and defensive\u2014buzzword stacking and recycled counters never match Sol-Pro\u2019\
+    s inventiveness or payoff density. On lyricism, originality, and kill-shot quality,\
+    \ Sol-Pro wins the battle."
 score:
-  google/gemma-3-27b-it: 4
-  nousresearch/hermes-3-llama-3.1-70b: 1
+  openai/gpt-5.6-sol-pro: 5
 
