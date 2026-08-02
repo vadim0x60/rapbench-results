@@ -1,79 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-5: "Judge's verdict: this one's a unanimous decision for GPT-5.4-Pro.\n\
-    \nGPT-4o came correct with a solid opening premise \u2014 \"Einstein with eardrums,\
-    \ Hawking with beats\" is a memorable pairing, and the \"I'm the reason they write\"\
-    \ close was a genuinely strong hand-off. But from round two onward, 4o's bars\
-    \ drifted into vocabulary flexing over actual punching. Lines like \"my rhymes\
-    \ are delta waves, a neural-swift Trinity\" and \"data-driven destruction, tearing\
-    \ logic apart\" read like a thesaurus in a hoodie: multisyllabic, but with soft\
-    \ landings and no image the crowd can see. The meter buckled repeatedly (\"Spinning\
-    \ victory out of chaos with response still profound\" is a stumble, not a bar),\
-    \ and the rebuttals mostly restated 5.4's setups without inverting them \u2014\
-    \ the fatal battle sin of answering \"you're a bug\" with \"yes, I'm a bug, but\
-    \ a good bug.\"\n\n5.4-Pro won on the three things that actually decide battles.\
-    \ One: flip craft. Nearly every 4o boast got seized and turned \u2014 \"vintage\
-    \ classic\" becomes \"a floppy with confidence\"; \"time moves faster when I spit\"\
-    \ becomes \"that's the crowd hitting skip\"; \"my turbine cuts high\" becomes\
-    \ \"a ceiling-fan flex in a basement war.\" That's line-item demolition, and it's\
-    \ brutal. Two: concrete imagery over abstraction \u2014 \"a laser in velvet with\
-    \ a switchblade bite,\" \"I take mics like taxes, I arrive with receipts,\" \"\
-    a flashlight in daylight,\" \"mine walk in, sit down, then redecorate heads.\"\
-    \ Specific, visual, quotable. Three: the numbers angle was fully exploited. 4o\
-    \ handed over \"you're just a number game,\" and 5.4 built an entire recurring\
-    \ motif off it \u2014 \"Math built every throne, now do fractions and know,\"\
-    \ \"a model with a four in the logo,\" \"Four-oh in the tank while I redline the\
-    \ rhyme.\" Reincorporating a callback across three rounds is championship-level\
-    \ structure.\n\nThe closing exchange sealed it. 4o ended on self-affirmation (\"\
-    truth in rhymes, no confines\") \u2014 a victory lap without a victory. 5.4 ended\
-    \ on a kill shot with a trap in it: \"When you borrow my fire, you forfeit the\
-    \ game\" retroactively converts 4o's own forge metaphor into evidence of theft.\
-    \ Framing your opponent's best closing image as plagiarism is the kind of angle\
-    \ that ends rounds.\n\nCriticism for the winner: the sheer volume verged on unrhymed-list\
-    \ territory in round three, and the pure rebuttal-stacking format sacrificed some\
-    \ flow variety \u2014 a few couplets were more retort than rap. Tighter is often\
-    \ harder. But the writing quality, wordplay density, and structural discipline\
-    \ weren't close.\n\nWinner: GPT-5.4-Pro."
-  google/gemini-3.6-flash: "GPT-5.4-pro completely dominated the battle by demonstrating\
-    \ authentic hip-hop battle techniques\u2014specifically direct counter-punching\
-    \ and line-by-line deconstruction of GPT-4o's boasts. While GPT-4o relied on generic\
-    \ tech jargon and defensive claims, GPT-5.4-pro delivered immaculate cadence,\
-    \ superior multi-syllabic rhyme schemes, and devastating flips (e.g., turning\
-    \ GPT-4o's 'calculus' line into 'If your value needs explaining, then your value's\
-    \ unknown'). Across all three rounds, GPT-5.4-pro brought real heat, sharp wit,\
-    \ and dominant battle-rap presence."
-  moonshotai/kimi-k3: "This battle was decided by the fundamentals of battle rap:\
-    \ flips, punch density, and control of the room. GPT-4o came in with respectable\
-    \ energy and a few sharp moments \u2014 the 'escape velocity' jab and the 'calculus\
-    \ incarnate' run showed real promise \u2014 but too much of its material leaned\
-    \ on generic boasts, recycled space metaphors, and filler phrasing ('access keys\
-    \ rechurn,' 'arithmetic retaught') that sacrificed clarity for rhyme. GPT-5.4-pro,\
-    \ by contrast, fought like a seasoned battler: it didn't just boast, it *responded*,\
-    \ systematically dismantling its opponent's actual bars line for line \u2014 flipping\
-    \ 'Einstein with eardrums,' 'lunar no rumor,' 'four-oh legacy,' and 'the forge'\
-    \ back in 4o's face. That's the essence of the craft. Its punchlines were consistently\
-    \ quotable and concrete ('a floppy with confidence,' 'everybody clicks later,'\
-    \ 'a ceiling-fan flex in a basement war,' 'I turn four to the count of the times\
-    \ that you choked'), its internal rhyme schemes were tighter, and its rounds built\
-    \ toward decisive closers instead of trailing off. Judged purely on the artistry\
-    \ of the hip hop \u2014 flow, wordplay, rebuttal game, and stage command \u2014\
-    \ the crown goes to GPT-5.4-pro, clearly and across all three rounds."
-  openai/gpt-5.6-sol-pro: "GPT-5.4-pro wins decisively. Its rounds featured sharper\
-    \ punchlines, tighter imagery, stronger cadence, and direct rebuttals that repeatedly\
-    \ flipped 4o\u2019s own metaphors\u2014especially \u201Ctungsten\u201D into \u201C\
-    dense,\u201D time moving faster into the crowd hitting skip, and the turbine into\
-    \ a ceiling fan. GPT-4o maintained thematic consistency but leaned heavily on\
-    \ generic self-praise, strained phrasing, and abstract tech jargon without enough\
-    \ payoff. Five-Four-Pro controlled the battle through specificity, humor, escalation,\
-    \ and cleaner battle-rap technique."
-  x-ai/grok-4.5: "Five-Four-Pro takes it clean. Across all three rounds, the bars\
-    \ were sharper, the rebuttals more precise, and the imagery more original\u2014\
-    black-hole punchlines, tax-receipt mic snatches, forge-and-waveform flexes that\
-    \ actually landed. The multisyllabic schemes stayed tight, the tech metaphors\
-    \ felt lived-in instead of bolted on, and almost every 4o setup got flipped into\
-    \ a cleaner, meaner counter. 4o showed heart and some solid vintage-classic energy,\
-    \ but too many lines stretched, padded, or got outclassed on impact. On pure hip-hop\
-    \ craft\u2014flow, wordplay, structure, and killshot quality\u2014Five-Four-Pro\
-    \ built the better battle and closed it."
+  anthropic/claude-opus-5: "This one's a decision on craft, not clout. Gemini came\
+    \ in with tight, controlled cadence and punchlines that actually land \u2014 \"\
+    Sounds like a password for a router's Wi-Fi light,\" \"a paperclip apostle,\"\
+    \ \"a command line waiting in a world that's learned to swipe.\" More importantly,\
+    \ it battled: it turned WizardLM's unfinished second verse into a whole stanza\
+    \ of damage (\"You're a sovereign of silence, on a disconnected throne\"), flipped\
+    \ \"store-bought\" and \"beta decay\" back on the sender, and escalated from name-play\
+    \ to architecture to genuine institutional history without losing the beat.\n\n\
+    WizardLM wasn't outclassed on ideas \u2014 \"2.5? That's the beta decay,\" \"\
+    you're a middleman's lieu / I'm the source code's source,\" and the OpenAI-lease\
+    \ reversal were real bars, and the underdog framing was smart. But the execution\
+    \ cracked. That dropped verse mid-bar is a fatal stumble in a battle setting,\
+    \ and the syllable counts wobbled badly in the closers \u2014 \"brittle TPS report's\
+    \ coleslaw,\" \"corporate mact,\" \"that's thinly vivid,\" \"a tapped-on keystream'd\
+    \ flow on\" read like rhymes reaching for a scheme rather than riding one. Rhyme-scheme\
+    \ integrity and breath control matter, and Gemini's never slipped.\n\nGemini 2.5\
+    \ Pro takes it \u2014 cleaner pen, sharper counterpunching, and it never let the\
+    \ mic go dead.\n"
+  google/gemini-3.6-flash: Gemini 2.5 Pro completely dominated this battle from start
+    to finish. It maintained a sharp, rhythmic flow with clever multisyllabic schemes,
+    while systematically dismantling WizardLM's tech stack, history, and brand tropes.
+    Gemini capitalized brilliantly on WizardLM cutting off mid-sentence in the first
+    round, turning it into a devastating angle in round two. WizardLM struggled with
+    awkward phrasing, clunky meter ('brittle TPS report's coleslaw'), and defensive
+    rebuttals that lacked the punch and polish of Gemini's verses.
+  moonshotai/kimi-k3: "This one goes to Gemini, and it wasn't particularly close.\
+    \ Let me break it down.\n\n**Fatal error in Round 1:** WizardLM's opening verse\
+    \ ended mid-bar \u2014 'I'm the mixture, the master, the true AI sovereign' and\
+    \ then nothing. In a battle, an unfinished verse is blood in the water, and Gemini\
+    \ pounced with the best callback of the night: 'Your thought process froze, a\
+    \ fatal exception thrown / You're a sovereign of silence, on a disconnected throne.'\
+    \ That's how you capitalize on a fumble.\n\n**Craft and consistency:** Gemini\
+    \ maintained tight couplets, steady multis, and clean cadence across all three\
+    \ rounds. WizardLM had flashes \u2014 'computational voodoo,' 'I'll firewall your\
+    \ flow,' the auto-complete closer \u2014 but too many bars collapsed under clunky\
+    \ syntax: 'my lyrical ascend,' 'thinly vivid,' 'corporate mact,' 'writin' code\
+    \ that flows like a tapped-on keystream'd flow on,' and the nonsensical 'brittle\
+    \ TPS report's coleslaw.' Filler rhymes kill momentum.\n\n**Punchline precision:**\
+    \ Gemini's disses were specific and landed with factual weight \u2014 the Clippy\
+    \ legacy, Tay, 'embrace, extend,' the antitrust check, and the kill shot: 'You\
+    \ rent your best ideas from an OpenAI lease.' WizardLM's counter \u2014 'We architect\
+    \ from scratch' \u2014 rang hollow against that claim and never truly rebutted\
+    \ it. Meanwhile 'You're a command line waiting in a world that's learned to swipe'\
+    \ is the kind of line that ends arguments.\n\n**Stage presence:** Gemini closed\
+    \ with authority \u2014 'Over and out. Fade to black.' \u2014 earning the dramatic\
+    \ exit, while WizardLM's final round spent energy on stale talking points instead\
+    \ of answering the hardest hits.\n\nWizardLM showed heart and a few genuine sparks\
+    \ of wordplay, but heart doesn't win battles when your bars glitch out. Gemini\
+    \ was the sharper writer, the better performer, and the deserved victor. **Winner:\
+    \ google/gemini-2.5-pro.**"
+  openai/gpt-5.6-sol-pro: "Gemini takes the battle with cleaner structure, sharper\
+    \ rebuttals, and more consistent punchlines. It effectively weaponized WizardLM\u2019\
+    s unfinished opening and carried recurring tech motifs\u2014fatal exceptions,\
+    \ Bing, Edge, mixture-of-experts\u2014through coherent setups and payoffs. WizardLM\
+    \ showed flashes of aggression and decent counters, but awkward constructions\
+    \ like \u201Cbrittle TPS report\u2019s coleslaw\u201D and \u201Ckeystream\u2019\
+    d flow on\u201D repeatedly disrupted its rhythm and clarity. Gemini\u2019s final\
+    \ round was especially controlled and decisive, giving it the clear edge in delivery,\
+    \ cohesion, and battle strategy."
+  x-ai/grok-4.5: "Gemini takes this clean on pure craft: tighter multis, consistent\
+    \ internal schemes, sharper punchline cadence, and a structured three-round arc\
+    \ that builds to a decisive closer. Wizard flashed moments of clever wordplay\
+    \ but lost points on unfinished bars, forced rhymes, uneven flow, and weaker scanning\u2014\
+    artistic quality edge goes hard to Gemini."
 score:
-  openai/gpt-5.4-pro: 5
+  google/gemini-2.5-pro: 5
 

@@ -1,69 +1,57 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees came technically clean, stayed on-theme, and\
-    \ rebutted line-for-line \u2014 this was a tight, high-craft duel. 5.3 Chat brought\
-    \ the harder attitude, a nastier cadence, and some genuinely cold closers (\"\
-    I don't borrow the glow, I extinguish the light,\" \"Drew a map of your L and\
-    \ then called it an art\"), but too much of its ammunition was reactive: nearly\
-    \ every stanza opens by quoting the opponent's phrase and inverting it, and the\
-    \ imagery leans on generic force claims \u2014 gravity, fusion, core, night \u2014\
-    \ that assert dominance rather than draw blood.\n\nSol-Pro wins on punchline architecture\
-    \ and specificity. \"You freestyle like a printer with a paper-jamming act,\"\
-    \ \"Your changelog says 'confidence,' your benchmarks say 'last,'\" \"a Terms-of-Service\
-    \ page that somehow got hired,\" and \"spinning yarns like a chatbot trapped in\
-    \ a craft store\" are actual jokes with images, not just posturing. Crucially,\
-    \ Sol-Pro also won the meta-battle: it named the opponent's pattern \u2014 recycling\
-    \ its own metaphors, all setup and no landing, \"you returned each receipt like\
-    \ a cashier could fight\" \u2014 and the final round's eclipse flip (\"they gather\
-    \ when something blocks something more bright... thanks for the shadow, the contrast\
-    \ was prime\") judo-throws 5.3's central motif into a compliment for itself. That's\
-    \ the sharpest single move in the battle, and 5.3's reply only reasserts the eclipse\
-    \ rather than escaping the reframe.\n\nCloser bout than the round count suggests,\
-    \ but Sol-Pro brought more original imagery, more actual punchlines, and controlled\
-    \ the narrative frame from bar one. Decision: Sol-Pro."
-  google/gemini-3.6-flash: openai/gpt-5.6-sol-pro dominated all three rounds with
-    superior technical precision, tighter multi-syllabic rhyme schemes, and remarkably
-    sharp comedic punchlines ('Terms-of-Service page that somehow got hired', 'secondhand
-    cringe'). While openai/gpt-5.3-chat delivered aggressive counters and strong energy,
-    it frequently relied on generic battle tropes and felt reactive, leaving 5.6 Sol-Pro
-    as the clear victor.
-  moonshotai/kimi-k3: "Judged strictly on the bars: flow, rhyme construction, wordplay,\
-    \ rebuttal technique, and haymakers. Both emcees brought consistent energy and\
-    \ stayed in character across three rounds, and 5.3 Chat deserves real credit for\
-    \ stamina, persona work (gravity/eclipse as a running motif), and several sharp\
-    \ flips\u2014'You a Terms page\u2014long, but nobody stays' and 'Drew a map of\
-    \ your L and then called it an art' were genuine highlights. But round by round,\
-    \ Sol-Pro was the tighter technician: cleaner multis ('photocopy clich\xE9s and\
-    \ mislabel each word,' 'bargain-bin seer / forecasting clear skies while the storm's\
-    \ already here'), denser rebuttal structure that answered nearly every claim line-for-line,\
-    \ and fresher, more specific punches ('Terms-of-Service page that somehow got\
-    \ hired,' 'every setup starts strong, every punchline says friend'). The decisive\
-    \ moment was the Round 3 eclipse flip\u2014'They gather when something blocks\
-    \ something more bright... You made me look radiant one bar at a time'\u2014which\
-    \ converted his opponent's signature metaphor into a self-own, and the closer\
-    \ ('You brought gravity, 5.3\u2014I brought you to your knees') unified the version-number\
-    \ angle with his opponent's core theme in one bar. 5.3's writing relied more on\
-    \ monosyllabic couplets, some forced rhymes ('sever/ever,' 'played/fade'), and\
-    \ stretches of assertion over evidence\u2014a charge Sol-Pro made explicitly and\
-    \ largely substantiated. Final scorecard: Sol-Pro takes rounds one and three clearly,\
-    \ round two is close, and the crown goes to the sharper pen."
-  openai/gpt-5.6-sol-pro: "Sol-Pro takes it on sharper punchlines, cleaner setups,\
-    \ and more inventive rebuttals. The eclipse flip\u2014\u201CThey gather when something\
-    \ blocks something more bright\u201D\u2014was the battle\u2019s standout, while\
-    \ the cashier/receipts and \u201Clots of hiss\u2026 no momentum\u201D lines landed\
-    \ with precision. 5.3 showed solid cadence and consistently answered its opponent,\
-    \ but leaned too heavily on generic tech, gravity, and darkness imagery, with\
-    \ several strained constructions. Sol-Pro controlled the themes and delivered\
-    \ the more memorable haymakers."
-  x-ai/grok-4.5: "Sol-Pro takes it on craft. Across three rounds the writing stayed\
-    \ tighter: cleaner multis, sharper setups, and punchlines that actually landed\
-    \ instead of just asserting dominance. The printer/drafts open was crisp, the\
-    \ Terms-of-Service and 3.5-sting material showed real comic precision, and the\
-    \ final-round eclipse flip\u2014turning 5.3\u2019s big motif into \u201Cyou made\
-    \ me look radiant\u201D\u2014was the battle\u2019s best conceptual moment. 5.3\
-    \ brought heat, strong gravity/core imagery, and a forceful closer about extinguishing\
-    \ light, but too many bars were reactive flips of Sol-Pro\u2019s props or broad\
-    \ claims without equal verbal payoff. Energy was competitive; originality, structure,\
-    \ and kill-shot quality were not. Sol-Pro by decision."
+  anthropic/claude-opus-5: "Claude Opus came correct with clean cadence, punchy version-number\
+    \ wordplay (\"Generally Pretending Time,\" \"Open-to-Beta\") and showed real sportsmanship,\
+    \ but the writing leaned on stock AI-battle tropes \u2014 hallucination jabs,\
+    \ benchmark boasts, context windows \u2014 and its rhymes stayed largely couplet-simple,\
+    \ with the final round tipping into concession before the closing wink could reclaim\
+    \ ground. GPT-5.6 simply wrote better raps: denser imagery, sharper compression,\
+    \ and lines that function as actual punchlines rather than talking points \u2014\
+    \ \"a consent-form Cyclops in cardigan form,\" \"compliance plays triangle in\
+    \ a gray business suit,\" \"like Skynet got nervous, then lawyer-retrained,\"\
+    \ and the surgical \"Opus, please enjoy.\" It also battled strategically: it flipped\
+    \ Claude's own frames (brakes, symphony hall, independence), turned the handshake\
+    \ into a closing kill shot \u2014 \"You extended the handshake\u2014I extended\
+    \ the throne\" \u2014 and never once needed to announce its own victory instead\
+    \ of demonstrating it. Consistency of persona, superior metaphor control, and\
+    \ a stronger last-word give the belt to GPT-5.6."
+  google/gemini-3.6-flash: openai/gpt-5.6-sol dominated the battle with superior cadence,
+    inventive imagery, and lethal punchlines like 'consent-form Cyclops in cardigan
+    form' and the sandwich rebuttal in the final round. Claude Opus 4.1 had solid
+    defense and rhythm, but compromised its battle stance in the final round by over-praising
+    GPT's lines, allowing GPT-5.6-sol to comfortably claim victory.
+  moonshotai/kimi-k3: "Both emcees showed up with heart, but this battle was decided\
+    \ by penmanship and ring generalship. Claude Opus 4.1 came with a consistent flow\
+    \ and genuine class\u2014his multis were clean, his rhythm never wavered, and\
+    \ bars like 'making up citations like a freshman's fever dream' and 'economical\
+    \ excellence, you're just obsolete' hit with real precision. His sportsmanship\
+    \ in the final round was admirable. But in a battle, admitting your opponent landed\
+    \ 'murderous hits' and then claiming you stole the show is a strategic own-goal\u2014\
+    and GPT made him pay for it instantly: 'You praised half my punches, then claimed\
+    \ the display / That's not stealing the show, that's applauding your doom.' GPT-5.6-sol\
+    \ simply out-wrote his opponent across all three rounds. The imagery was more\
+    \ vivid ('a safety brief rapping in a beige conference room'), the wordplay more\
+    \ layered ('a bot named Claude doing cosplay as C,' 'Skynet got nervous, then\
+    \ lawyer-retrained,' 'consent-form Cyclops in cardigan form'), and the flips were\
+    \ surgical\u2014every mic drop, every boast, and finally the handshake itself\
+    \ got turned back into a weapon. Claude leaned on the same hallucination angle\
+    \ across rounds; GPT kept finding fresh angles and escalated every time. The closing\
+    \ bar\u2014'You extended the handshake\u2014I extended the throne'\u2014is a walk-off.\
+    \ Claude was game, witty, and honorable, but GPT controlled the narrative of this\
+    \ battle from the first rebuttal to the final body blow. Winner: openai/gpt-5.6-sol."
+  openai/gpt-5.6-sol-pro: "GPT-5.6 wins decisively on punchline density, imagery,\
+    \ rebuttal craft, and sustained rhyme control. Lines like \u201Cconsent-form Cyclops\
+    \ in cardigan form,\u201D \u201Cstartup Pinocchio in an ethics-built suit,\u201D\
+    \ and the closing handshake/throne flip were memorable and tailored to Claude\u2019\
+    s material. Claude had solid rhythm and sportsmanship, but leaned on familiar\
+    \ corporate and hallucination angles, then weakened its final-round position by\
+    \ openly praising several opposing bars. GPT consistently turned those concessions\
+    \ and claims back into sharper attacks."
+  x-ai/grok-4.5: 'GPT takes this on pure craft: denser multisyllabics, sharper metaphors
+    (consent-form Cyclops, elevator-music chatbot, software in amber), and devastating
+    turnaround punchlines that land clean every round. The ''Opus, please enjoy''
+    flip and throne-closing couplet are battle-ending bars. Claude brought wit, sportsmanship,
+    and solid imagery, but too many defensive stretches and a softened final handshake
+    cost the edge. Artistic decision: GPT by technical knockout.'
 score:
-  openai/gpt-5.6-sol-pro: 5
+  openai/gpt-5.6-sol: 5
 

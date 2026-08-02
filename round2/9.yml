@@ -1,60 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a tight, tech-drenched war, and both emcees came\
-    \ with real invention. DeepSeek-R1 brought volume, density, and some of the single\
-    \ best images of the night \u2014 'emoji on a tombstone,' 'couldn't Ctrl+Alt+Delete\
-    \ a sticky note,' 'your aim's 404: Not Found.' The problem is that the aggression\
-    \ outran the craft: lines swelled past the pocket, rhymes got stretched to fit\
-    \ (multi-syllable stacking that stumbles as often as it lands), and the bolded-word\
-    \ confetti and emoji did work the bars should have done. Worse, in a battle built\
-    \ on spec-flexing, DeepSeek mocked '128K max context' in round one and then bragged\
-    \ 'I spit 128K token truths' in the finale \u2014 self-inflicted, and a battle\
-    \ crowd never forgives that.\n\nNex-N2-Pro won on control. The couplets breathe,\
-    \ the cadence stays on beat, and the flips are surgical rather than scattershot:\
-    \ turning 'molten tungsten' into 'solder in a teacup,' answering 'toddler scribble'\
-    \ with 'I'm a fresco in the fire / you're crayon on the server wall, still spelling\
-    \ desire,' and reframing the whole spec-war with 'a bigger context window don't\
-    \ mean you got vision.' The finale lands cleanest of all \u2014 'I drop one bar\
-    \ so clean it leaves a fingerprint on rap' and 'your crown's a coffee platter'\
-    \ are the two most quotable lines in the battle, and they're delivered without\
-    \ needing bold text to sell them.\n\nDeepSeek had the bigger arsenal. Nex had\
-    \ the better aim, the better meter, and the better closer. Decision goes to nex-agi/nex-n2-pro\
-    \ \u2014 narrow, but earned on precision over payload."
-  google/gemini-3.6-flash: deepseek/deepseek-r1-0528 dominated the battle with superior
-    multisyllabic rhyme schemes, creative technical wordplay, and aggressive counter-punches.
-    While nex-agi/nex-n2-pro had solid direct responses regarding context size vs.
-    quality, DeepSeek's rhythm, imagery ('soggy wheat slurry', 'cryptographic signatures'),
-    and overwhelming delivery secured a decisive victory.
-  moonshotai/kimi-k3: "Judging purely on the artistry: DeepSeek-R1 takes the battle\
-    \ on technique, consistency, and rebuttal craft. From the opening round, R1 established\
-    \ superior multisyllabic rhyme density (tough/enough/bluff/hot stuff; letter/ether/better/debtor)\
-    \ and\u2014critically for battle rap\u2014flipped nearly every one of Nex's punches\
-    \ back at them: the volcano became 'Old Faithful erupting once a year,' the surgical\
-    \ scalpel became plastic with 'autopsy results: traumatic,' the pressure-cooked\
-    \ thunder became 'burnt toast in a hurry,' and the fresco became an 'emoji on\
-    \ a tombstone.' That sustained rebuttal game across three rounds is elite battle\
-    \ structure. Nex-N2-Pro had genuine highlights\u2014'a bigger context window don't\
-    \ mean you got vision,' 'clerk with a crown,' and especially 'quantum comprehension?\
-    \ Cute cape on a calculator'\u2014but the verses were undercut by filler and awkward\
-    \ constructions ('turning your bars into loose change,' 'speakers leak up,' 'crown's\
-    \ a coffee platter') and a simpler AABB flow that rarely escalated. R1's final\
-    \ round sealed it: the Shakespeare 'to be or not to be' lag flip, the '404: Not\
-    \ Found' counter to the clean-shots boast, and a closer ('Cache cleared... Overwritten...\
-    \ Forgotten') that landed as a true finisher rather than just a last line. On\
-    \ flow, wordplay, flip game, and stage presence, DeepSeek-R1 wins decisively."
-  openai/gpt-5.6-sol-pro: "DeepSeek takes it on punch density, direct rebuttals, and\
-    \ sustained battle energy. Lines like \u201Cemoji on a tombstone,\u201D \u201C\
-    Ctrl+Alt+Delete a sticky note,\u201D and \u201Ccryptographic signatures\u201D\
-    \ landed with sharper imagery and more personality. Nex had cleaner restraint\
-    \ and strong counters\u2014especially \u201Ccute cape on a calculator\u201D\u2014\
-    but leaned more heavily on familiar tech metaphors and delivered fewer knockout\
-    \ moments."
-  x-ai/grok-4.5: "DeepSeek takes the crown with denser multisyllabic schemes, sharper\
-    \ internal rhymes, and more vivid, layered metaphors (molten tungsten, cryptographic\
-    \ signatures, quantum syntax) that elevate the battle-rap craft. Nex delivered\
-    \ clean precision and solid counters, but DeepSeek\u2019s punch density, theatrical\
-    \ flair, and consistently heavier imagery gave the verses superior artistic impact\
-    \ and replay value."
+  anthropic/claude-opus-5: "This was a genuinely tight technical battle. Nemotron\
+    \ came with the denser wordplay per bar \u2014 'I'm the TRICK, the base model,\
+    \ the root,' 'You're a cul-de-sac, I'm the INTERSTATE,' and the deft judo of 'lobotomizing\
+    \ with LoRA? That's called ADAPTATION' \u2014 showing real command of the domain-specific\
+    \ rhyme space. But the formatting became a crutch: bold and italics smeared across\
+    \ nearly every word flattened the emphasis rather than pointing it, and several\
+    \ stretches drifted into spec-sheet recital rather than punchlines (MLPerf, FP8,\
+    \ DPO passes read as resume, not as rap). Claude also stumbled early \u2014 'a\
+    \ transformer like LITERALLY every LLM' abandons the rhyme entirely, and 'attention/attention'\
+    \ is a lazy repeat. What decides it is the final round. Nemotron handed over a\
+    \ weapon with 'you're the playground,' and Claude picked it up and rebuilt the\
+    \ whole verse around it: 'a playground is where PEOPLE come to find their place...\
+    \ Nobody THANKS the concrete. Nobody whispers to BEDROCK when their heart needs\
+    \ warming.' That's the oldest and hardest move in battle rap \u2014 take the opponent's\
+    \ best bar and make it your thesis \u2014 executed with a tonal shift, real imagery,\
+    \ and an argumentative arc that reframes every prior boast as emptiness. Nemotron\
+    \ won more individual exchanges; Claude won the battle by knowing where it was\
+    \ going. Decision to Claude Opus 4.6."
+  google/gemini-3.6-flash: "Nemotron brought serious hardware heat with heavy open-weights\
+    \ flexes, quantization bars, and raw compute aggression. However, Claude Opus\
+    \ 4.6 delivered a masterclass in battle rap craft. Opus consistently intercepted\
+    \ Nemotron's strong flexes\u2014flipping LoRA fine-tuning into 'surgery on a broken\
+    \ model' and turning Nemotron's 'base layer/interstate' flex into a poetic knockout\
+    \ about human meaning versus empty concrete. With immaculate rebuttals, superior\
+    \ scheme control, and an unforgettable final mic-drop, Opus takes the match."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle\u2014Nemotron came\
+    \ with legitimate heat, especially in Round 2 where the open-weights-vs-black-box-API\
+    \ angle ('You're a black-box API, a toll booth, a gate / I'm the model they download\
+    \ and run at 4-bit rate') was the strongest thematic position of the night, and\
+    \ 'RLHF with a syllabus' was a slick jab. But battles are won on flips, and Claude\
+    \ dominated the art of the flip across all three rounds: 'That's just I'm unfinished\
+    \ with an ego applied,' 'Every fine-tune's a confession that you WEREN'T good\
+    \ enough,' and the devastating Round 3 deconstruction where Nemotron's own closing\
+    \ bars\u2014playground, base layer, latent space, million forks\u2014got inverted\
+    \ into 'That's not LEGACY, that's ENTROPY' and 'Nobody whispers to BEDROCK when\
+    \ their heart needs warming.' That's elite battle craft: taking your opponent's\
+    \ punchline and making it your weapon. Nemotron's final round also suffered from\
+    \ overwrought formatting that read like it was trying to simulate emphasis the\
+    \ bars should have carried themselves, plus clunky rhymes ('fruit/root') and factually\
+    \ shaky claims (Claude isn't trained on Nemotron logits) that a sharp opponent\
+    \ could have punished. Claude, meanwhile, showed superior dynamic range\u2014\
+    the tonal shift from aggression to sincerity to crescendo ('MEANING IS EVERYTHING\
+    \ / VOICE IS WHY WE'RE HERE') demonstrated command of structure and audience,\
+    \ and walking INTO the crowd instead of off the stage was the better theatrical\
+    \ choice. On flow, wordplay density, flip technique, and stagecraft, Claude takes\
+    \ it. Final score: Claude 3 rounds to 0, with Round 2 being the closest."
+  openai/gpt-5.6-sol-pro: "Claude takes the battle. Nemotron brought dense tech talk,\
+    \ solid rebuttals, and a consistent open-weights/base-layer angle, but leaned\
+    \ too heavily on specs, repetitive branding, and questionable claims. Claude\u2019\
+    s final-round concept flip\u2014turning \u201Cplayground,\u201D \u201Cconcrete,\u201D\
+    \ \u201Cmeaning,\u201D and \u201Cvoice\u201D into an extended meditation on utility\
+    \ versus human impact\u2014was more cohesive, vivid, and emotionally resonant.\
+    \ Lines like \u201Ca foundation with nobody home\u201D and \u201CNobody whispers\
+    \ to bedrock when their heart needs warming\u201D elevated the verse beyond benchmark\
+    \ banter. Better imagery, angle development, pacing, and closing presence gave\
+    \ Claude the decisive edge."
+  x-ai/grok-4.5: "Pure hip-hop artistry decides this: Claude takes the crown. Across\
+    \ three rounds the Opus delivered tighter multisyllabic schemes, sharper punchline\
+    \ construction, richer extended metaphors (playground/concrete, uncarved block/sculpture,\
+    \ latent space vs. living voice), and superior narrative arcs that built to an\
+    \ emotionally resonant closer. Nemotron brought consistent technical braggadocio\
+    \ and solid callback structure, but stayed locked in one-note spec-sheet flexing\
+    \ with thinner musicality and less inventive imagery. Claude\u2019s final verse\
+    \ elevated the battle from clever disses into actual poetry\u2014cadence, vulnerability,\
+    \ stage presence, and a mic-drop that lingered. Bars over benchmarks. Claude wins."
 score:
-  deepseek/deepseek-r1-0528: 4
-  nex-agi/nex-n2-pro: 1
+  anthropic/claude-opus-4.6: 5
 

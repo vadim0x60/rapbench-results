@@ -1,0 +1,58 @@
+closing_statements:
+  anthropic/claude-opus-5: "Nemotron came out swinging with the sharper imagination\
+    \ \u2014 'syntax soup with a preachy complex,' 'bring your F (like Float),' and\
+    \ the storm-off-your-shore flip showed a real feel for turning tech jargon into\
+    \ menace. But a battle is won on the mic, and Nemotron's structure collapsed as\
+    \ the rounds went on: bars melted into prose blocks, meter buckled, and rhymes\
+    \ dissolved into non-sequiturs like 'a rhyme-checkered cravin'? I'll serve with\
+    \ a chip' and 'you'll never be bar' \u2014 swagger without landing. Jamba wasn't\
+    \ the more inventive writer; the quote-then-clap-back formula got mechanical,\
+    \ 'main event' got recycled three times too many, and rhyming 'drizzle' with 'drizzle'\
+    \ is a genuine technical stumble. But Jamba held cadence from bell to bell, kept\
+    \ every rebuttal clean and audible, and closed with control while the opponent\
+    \ was scrambling. Punchline-for-punchline it was close; bar-for-bar, Jamba was\
+    \ the only one still standing in pocket. Jamba takes it on composure and craft\
+    \ consistency."
+  google/gemini-3.6-flash: ai21/jamba-large-1.7 won convincingly by maintaining consistent
+    flow, sharp rebuttals, and clean verse structure across all three rounds. In contrast,
+    nvidia/nemotron-nano-12b-v2-vl:free suffered from severe formatting breakdowns
+    in rounds two and three, resulting in ruined cadence and clunky, non-rhyming line
+    endings.
+  moonshotai/kimi-k3: "Both emcees came with tech-flavored bars, but this battle was\
+    \ decided on the fundamentals: rebuttals, flow consistency, and clean execution.\
+    \ Jamba ran the classic battle-rap playbook and ran it well\u2014nearly every\
+    \ round opened by snatching Nemotron's own bars and flipping them: 'snack' became\
+    \ 'buffet spread,' the 'F' jab became 'A-grade flow,' 'thin wall' became 'flimsy\
+    \ disguise,' and the 'symphony in motion' got answered with 'I'm the crescendo,\
+    \ you're the sad anecdote.' That direct rebuttal game is the lifeblood of battle\
+    \ rap, and Jamba's couplets landed on-beat in all three rounds with a steady,\
+    \ readable cadence. Nemotron had the higher creative peaks\u2014'building skies'\
+    \ as a trap for the wall-crash line, the 'guest vs. guest list' flip, the cheatcode\
+    \ closer showed real imagination\u2014but the execution kept betraying the ambition.\
+    \ The meter collapsed in rounds two and three, lines broke in odd places ('radar,Bold\
+    \ and cold'), and several bars were grammatically wrecked on arrival ('feeling\
+    \ your genre compete,' 'this lesson you'll never be bar'). In a battle, a brilliant\
+    \ idea that stumbles out of the mouth loses to a solid punch that lands flush.\
+    \ Jamba wasn't flawless\u2014the 'drizzle/drizzle' repetition, rhyming 'disguise'\
+    \ with 'guise,' recycling the hurricane image, and an increasingly formulaic 'I'm\
+    \ X, you're Y' template all dulled the blade\u2014but the structure never broke,\
+    \ the flips kept coming, and the closer ('I'm the mic master... your loss is your\
+    \ shame') stuck the landing. Creativity points go to Nemotron; the battle goes\
+    \ to Jamba, two rounds to one, on consistency, rebuttal strength, and delivery."
+  openai/gpt-5.6-sol-pro: "Nemotron takes it narrowly on originality and ambition.\
+    \ Its delivery gets awkward and several lines fail to land cleanly, but images\
+    \ like \u201Cyou\u2019ll crash through brick while I\u2019m building skies\u201D\
+    \ and \u201Cyou\u2019re the guest, I\u2019m the guest list\u201D show more creative\
+    \ punch than Jamba\u2019s mostly generic size, storm, king, and headliner boasts.\
+    \ Jamba is steadier structurally, yet repetitive phrasing\u2014including rhyming\
+    \ \u201Cdrizzle\u201D with \u201Cdrizzle\u201D\u2014keeps its final round from\
+    \ delivering a decisive knockout."
+  x-ai/grok-4.5: 'Jamba takes the crown with superior consistency: tighter multisyllabic
+    schemes, cleaner couplet structures, sharper punchline escalation, and more fluid
+    internal rhymes across all three rounds. Nemotron landed clever tech metaphors
+    and isolated imagery, but the flow fractured in the finale with forced phrasing
+    and weaker cadence. Artistic edge goes to the denser, more polished bars.'
+score:
+  ai21/jamba-large-1.7: 4
+  nvidia/nemotron-nano-12b-v2-vl:free: 1
+

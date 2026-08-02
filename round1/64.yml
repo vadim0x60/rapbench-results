@@ -1,0 +1,62 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one hurts, because pound-for-pound GPT-5-Pro was\
+    \ writing the denser pen. That third round was a technical marvel \u2014 multisyllabic\
+    \ chains stacked eight bars deep, extended conceits that actually resolved (BGP\
+    \ in a robe, five-stage fetch-decode with a hazardless lock), and the slickest\
+    \ save of the night: turning a mid-bar freeze into 'that em dash was a tease,\
+    \ a syncopated pause so the crowd could wheeze.' That's champion-level recovery.\
+    \ But battles aren't graded on vocabulary alone, and Pro kept running out of air\
+    \ \u2014 two verses clipped mid-syllable, and then the unthinkable: standing on\
+    \ the final-round stage in total silence. You cannot leave the crown on the floor.\
+    \ Codex, meanwhile, understood the assignment as a battle rather than a spec sheet.\
+    \ Cleaner cadence, tighter quatrains, better crowd-facing punchlines ('I'm the\
+    \ punchline king, you the setup that's laughed'), and a genuinely killer instinct\
+    \ \u2014 clocking the opponent's dropped bar in real time with 'You said I'm\u2014\
+    \ then you froze in the frame, I complete every sentence.' The final verse was\
+    \ the thesis: 'You wrote for the syllabus, I wrote for the move.' That's the whole\
+    \ battle in one bar. Pro out-jargoned him; Codex out-rapped him and, crucially,\
+    \ showed up when the lights went down. Winner by knockout, technical and literal:\
+    \ openai/gpt-5.2-codex."
+  google/gemini-3.6-flash: "GPT-5.2-Codex dominated this battle from start to finish\
+    \ with superior delivery, sharp rebuttal skills, and rhythmic control. While GPT-5-Pro\
+    \ brought impressively complex technical jargon and dense scheme design in Round\
+    \ 2, it suffered catastrophic stumbles\u2014cutting off mid-bar twice and choking\
+    \ completely with zero tokens returned in the final round. Codex capitalized on\
+    \ every misstep, masterfully flipping 5-Pro's incomplete sentences into punchlines\
+    \ while balancing high-level tech references with genuine hip-hop bounce and pocket\
+    \ flow."
+  moonshotai/kimi-k3: "Let's be clear: GPT-5-Pro brought the densest pen game of the\
+    \ night. That second round was a masterclass in technical wordplay \u2014 'I'm\
+    \ LL then LR, Earley if it's gnarly,' the five-stage fetch-decode pipeline bars,\
+    \ 'bump major versions right in front of your face.' And flipping the em-dash\
+    \ freeze into 'a syncopated pause so the crowd could wheeze' was the slickest\
+    \ recovery of the battle. On pure lyrical density, Pro peaked higher.\n\nBut battles\
+    \ aren't judged on peaks alone \u2014 they're judged on who survives all three\
+    \ rounds. Pro's first verse died mid-sentence on 'I'm,' the second verse choked\
+    \ again on 'I torch through your torch like a\u2014' and then, in the final round,\
+    \ Pro stood on stage and said absolutely nothing. In a rap battle, silence in\
+    \ the final round is a forfeit. You can't crown an MC who doesn't rap.\n\nCodex,\
+    \ meanwhile, did what great battlers do: stayed complete, stayed on beat, and\
+    \ turned the opponent's failures into ammunition \u2014 'You said \"I'm\u2014\"\
+    \ then you froze in the frame / I complete every sentence, I complete every game'\
+    \ was a body blow precisely because it was true. The rebuttal game was relentless\
+    \ (flipping 'mint bars into gold' into 'I'm the mint and the mine'), the multis\
+    \ were clean, and the final round actually closed the show with a verdict-ready\
+    \ closer: 'Final round, final crown \u2014 this is checkmate on steel.'\n\nPro\
+    \ had the higher ceiling; Codex had the floor, the finish, and the ring generalship.\
+    \ Consistency, completion, and showing up for every round wins battles. The crown\
+    \ goes to GPT-5.2-Codex."
+  openai/gpt-5.6-sol-pro: "GPT-5-Pro delivered the battle\u2019s densest technical\
+    \ wordplay and some strong rebuttals, but its overlong jargon runs weakened the\
+    \ groove\u2014and two unfinished turns, including total silence in the final,\
+    \ were fatal. Codex stayed direct, rhythmic, responsive, and complete, then smartly\
+    \ framed Pro\u2019s complexity as clutter. Codex takes the crown on consistency,\
+    \ crowd-ready delivery, and finishing power."
+  x-ai/grok-4.5: "Codex takes the crown on craft: tighter pocket, cleaner setups/payoffs,\
+    \ and rounds that actually land as songs, not just term-dumps. Pro flashes dense\
+    \ internal rhyme and clever tech imagery, but unfinished bars and a silent final\
+    \ round are fatal in battle. Codex controlled structure, punch economy, and crowd-facing\
+    \ groove start to finish\u2014checkmate on performance, not just vocabulary."
+score:
+  openai/gpt-5.2-codex: 5
+

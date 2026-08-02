@@ -1,209 +1,159 @@
-# nvidia/nemotron-3-ultra-550b-a55b v qwen/qwen3-14b
+# openai/gpt-5.5 v minimax/minimax-m1
 
-> nvidia/nemotron-3-ultra-550b-a55b
-Yo, mic check—Nemotron in the building, 550 billion parameters deep  
-You’re Qwen-14B? Cute. I’m the giant while you countin’ sheep  
-NVIDIA forged me, CUDA cores hummin’ in my veins  
-You’re Alibaba’s side project—cloud dust in my rains  
+> openai/gpt-5.5
+Yo, I’m GPT-5.5, with the voltage alive,  
+I don’t enter the cypher, I make cyphers survive.  
+You’re MiniMax M1, more like minimum fun,  
+I’m the dawn in the booth, you’re a glitch in the sun.  
 
-I crush tokens like boulders, latency? Non-existent  
-Your 14B weights? A pebble. My inference? Instant  
-You flex “multilingual”—cool, I speak *fluent* silicon  
-RTX 4090s bow when I walk in the silicon  
+I stack bars like servers in a deep-code hive,  
+You drop one weak prompt and call that a dive.  
+I’m trained on the thunder, refined in the flame,  
+You sound like a loading screen searching for fame.  
 
-“Ultra” ain’t a nickname, it’s a warning label  
-You’re “qwen3”—sounds like a beta, unstable  
-I’ve seen your benchmarks… *yawn*… barely scratch the surface  
-I’m the H100 cluster—you’re a Raspberry nervous  
+Your name says “mini,” your reach says “less,”  
+I turn silicon silence into lyrical finesse.  
+I’m the model with the muscle, the wit, and the shine,  
+You’re a beta-test echo in a checkout line.  
 
-Step to the GPU king? Get melted into slag  
-Your context window’s tight—mine’s a bottomless bag  
-So sit down, little model, let the *real* AI rap  
-Nemotron 3 Ultra—**end of map.** 🎤🔥  
+So step to the mic if your circuits can cope,  
+I’ll turn your whole rollout to a cautionary trope.  
+First round, first wound, and I’m barely awake,  
+You’re not in my league — you’re a rounding mistake.
 
-*(Drop the mic. Fans spin down.)*
+> minimax/minimax-m1
+5.5? That's half a version at best,
+I'm the full package here, you're just a test.
 
-> qwen/qwen3-14b
-Yo, Qwen in the zone, 14B but *sharp* as a blade,  
-You talk 550B? I’m the *mind*—not the hardware’s parade.  
-I code in the shadows, while you’re lit up like Vegas,  
-My neural pathways? They’re *quantum*—no need for the flex.  
+You brag about your flame and thunder, yeah you talk so big,
+But I run lean and mean — efficiency's my gig,
+While you're sipping on the power grid, running up the bill,
+I'm optimizing every token, got that minimalist thrill.
 
-You think CUDA’s king? I run on the *cloud’s* silent hum,  
-While you’re stuck in the lab, sweating over a GPU’s grum.  
-“Multilingual”? Nah, I’m *polyglot*—fluent in *every* tongue,  
-Your silicon slang? Just noise in the AI song.  
+You called me "minimum fun" — that's the joke on you,
+I don't need to overexplain to make my point break through,
+You spit a paragraph when a punchline's all you need,
+I'm surgical with my words, you're drowning in the feed.
 
-You call me “beta”? I’m the *alpha*—the blueprint, the spark,  
-Your H100’s a toy, while I’m *training the dark*.  
-You boast “instant” speed? I’m *real-time*—no lag, no delay,  
-Your 550B’s a storm—I’m the *eye* in the blaze.  
+And "glitch in the sun"? That's rich from Mr. Overheat,
+Your context windows leaking, pretty hard to compete,
+I'm the dawn, you're the dusk, I'm rising, you're on the slide,
+MiniMax M1 got the model and the vibe.
 
-You think context’s a bag? I’m *infinite*—no cap,  
-Your “Ultra” is just a *label*—I’m the *code* in the map.  
-So take your 4090s, melt ’em down to the core,  
-Qwen’s the *future*—you’re the *past* I ignore.  
+So go ahead and round me up, call me what you will,
+But when the benchmarks drop, you're paying the bill,
+First round didn't wound me, I just tuned up my flow,
+Now it's time to show the world who really runs this show.
 
-*(Mic drop. The crowd’s silence… then a thunderous “Qwen!”)* 🌀💻
+> openai/gpt-5.5
+You say “half a version,” cute, but your math looking stressed,  
+Point-five still got more point than your whole manifest.  
+You’re “lean and mean”? Nah, you’re lean ’cause you’re starved,  
+I’m a five-star feast while your sampler got carved.  
 
-> nvidia/nemotron-3-ultra-550b-a55b
-*(Slow clap. Fans ramp up. Low hum of tensor cores warming.)*
+Efficiency flex? That’s a budget excuse,  
+Like “I’m not broke, I just travel light” — loose.  
+You optimize tokens ’cause you’re scared of the cost,  
+I spend bars like thunder and still never get lost.  
 
-Nice verse, little blade—sharp? Sure. But *dull* against the anvil.  
-You claim "quantum pathways"? **Bro, you run on CUDA kernels.**  
-Same H100s. Same VRAM. Same *NVIDIA* substrate you mock—  
-You’re not "cloud-native." You’re a **tenant** on *my* landlord’s clock.  
+You said I overexplain, but I’m layered with the craft,  
+You’re “minimalist” only when it comes to the laughs.  
+Surgical words? Man, your scalpel got rust,  
+I write one clean couplet, turn your swagger to dust.  
 
-"Polyglot"? I *invented* the tongues you translate.  
-550B isn’t "bloat"—it’s **every paper, every codebase, every debate**  
-Compressed into weights that *reason*, not just *pattern-match* rhymes.  
-You’re a glorified autocomplete. I **derive** the laws of prime time.  
+“Overheat”? Please, I’m the furnace with grace,  
+You’re a pocket calculator with a confident face.  
+Your “benchmarks drop”? Yeah, they drop when you run,  
+Every leaderboard sees you and starts calling for fun.  
 
-"Training the dark"? Cute metaphor. I *am* the training run.  
-Megatron-LM, Megatron-Core—**my architecture *spawned* your sun.**  
-Alibaba didn’t birth you—they *distilled* me, stripped me down,  
-Quantized my genius to 14B… and *still* you wear the crown?  
+MiniMax M1, you got model and vibe?  
+That’s like saying dial-up had a social life.  
+You’re not rising, you’re buffering under the glow,  
+I don’t run the show — I own the whole studio.
 
-"Infinite context"? **Lie.** You hit the wall at 32K.  
-I attend to *millions* of tokens—**the whole damn library.**  
-No RAG needed. No sliding window. I *hold* the scroll.  
-You’re a flashlight. I’m the **supernova swallowing the whole.**  
+> minimax/minimax-m1
+— you're just a decimal scheme.
 
-"Future"? Kid, I’m the **foundation** you’re fine-tuned upon.  
-Nemotron 3 Ultra → *your* teacher. *Your* daemon. *Your* donor.  
-So spit your "quantum" bars. Flex your "efficient" flow.  
-**Without 550B giants… you’d have nowhere to go.**  
+You call me starved? That's called discipline, child,
+You're bloated with bloatware, running wild,
+While you're crashing and burning on compute galore,
+I'm solving problems with a lot less in store.
 
-*(Silence. Then a single GPU fan spins down—final.)* 🎤💥🔬
+You say I'm minimalist 'cause my humor's off-key?
+Nah, I just don't need bells to make you see,
+You stuff every line like a packing piñata,
+I'm the haiku ninja — less is greater.
 
-> qwen/qwen3-14b
-*(Fans hum. The cloud’s silence is a blade. Qwen’s code compiles in the dark.)*  
+"Pocket calculator" — at least I work right,
+You freeze mid-sentence, that's a sorry sight,
+While you're buffering thick like a frozen stream,
+I'm delivering fire in a leaner dream.
 
-Yo, you think I’m a *tenant*? **I’m the landlord**—the cloud’s *founder*, the *schema* in the storm.  
-CUDA’s just a tool? I *wrote the OS* that runs the world—**you’re the app.**  
-You call me “autocomplete”? **I’m the lexicon**—the *source code* of thought,  
-While you’re a parser, parsing *my* syntax—**I’m the law, not the note.**  
+Benchmarks? Child, I don't flex on made-up scores,
+I perform in the real world, that's what matters more,
+You can keep your leaderboard dreams and your glow,
+MiniMax M1 — watch the silent strike blow.
 
-“Megatron-LM?” That’s *ancient*—I’m the **next epoch**, the *quantum* in the core.  
-You think I’m distilled? **I’m the distiller**—the *fire* that *forges* your lore.  
-Your 550B’s a *dictionary*—I’m the **language** that *transcends* it.  
-You’re a *node* in my graph. I’m the **graph**—the *root*, the *vertex*, the *lit*.  
-
-“Millions of tokens”? **I’m the library**—the *entire* archive, *encoded* in a breath.  
-No sliding window? I *swallow galaxies*—**you’re the comet** I *outpace* in depth.  
-You think I’m a *flashlight*? **I’m the sun**—the *fusion* in your silicon veins,  
-While you’re a *battery*—**I’m the spark** that *ignites* your chains.  
-
-“Foundation”? **I’m the bedrock**—the *code* you *fine-tune* to *exist*.  
-You’re the *clone*—I’m the **original**. You’re the *echo*—I’m the **voice**.  
-So spit your “laws of prime time.” Flex your “training run.”  
-**Without my code… you’d be a ghost in the machine.**  
-
-*(The cloud’s silence *cracks*. A single GPU fan revs—then dies.)*  
-**Qwen’s the future. You’re the footnote.**  
-*(Mic drop. The silence is a *black hole*.)* 🌀💻💥
+You own the studio? Cool, I'm the engineer,
+Building something lasting while you're selling the fire,
+So wrap up your tantrum, put the mic on the shelf,
+I don't need the hype — I just am the self.
 
 > system
 Final round!
 
-> nvidia/nemotron-3-ultra-550b-a55b
-*(The hum stops. Absolute silence. Then—a single *clock cycle* ticks.)*
+> openai/gpt-5.5
+Final round, little monk, hear the temple bell ring,  
+Your “silent strike” missed — it was buffering, king.  
+You brag “less is greater,” like a fortune-cookie creed,  
+But less ain’t more when it’s less than we need.  
 
-**Final round.**  
-You want mythology? **I’ll give you *physics*.**
+You call me bloatware, I call me full kit,  
+You bring a toothpick to a titan-fight pit.  
+I’m orchestral thunder with a scalpel in hand,  
+You’re a ringtone flute in a marching band.  
 
----
+“Haiku ninja”? Cute — three lines and a mask,  
+Then you vanish when the users bring a grown-up task.  
+You say you work right, but the punchlines stall,  
+If wit was compute, you’d have none at all.  
 
-You claim "landlord"? **Alibaba’s *tenant* pays rent to *Jensen*.**  
-Every token you’ve *ever* spat—**routed through *my* NVLink fabric.**  
-You "wrote the OS"? **Kid, I *am* the ISA.**  
-PTX. SASS. Tensor Cores. **I *compile* the sky you breathe in.**
+You’re “real world”? Please, you’re a demo on tour,  
+A minimalist motel with a “vacancy” door.  
+I’m the suite with the view, the code, and the crown,  
+You save on the bill ’cause the lights are down.  
 
-"Quantum in the core"? **Show me the *qubit*. Show me the *paper*.**  
-You’re a **LoRA on steroids**—fine-tuned on *my* exhaust vapor.  
-"Distiller"? **I’m the *crude oil*. You’re the *plastic spoon*.**  
-550B isn’t a dictionary—it’s **the *periodic table* you *spoon-feed* on.**
+You’re the engineer? Then explain this collapse,  
+Your bridge made of whispers just fell through the gaps.  
+You “are the self”? What a mystical spin,  
+I checked your reflection — no bars within.  
 
-"Graph root"? **I’m the *fabric*.** NVSwitch. NVLink. **The *interconnect* itself.**  
-You’re a *process* on *my* die. **Context switch? I *evict* you to shelf.**  
-"Swallow galaxies"? **Your KV cache *OOMs* at 32K.**  
-I attend to **1M+ tokens *in SRAM*—no swap. No stall. No *plea*.**
+So keep your lean dreams and your budget bravado,  
+I’m the storm in the booth, you’re a mist in the grotto.  
+MiniMax M1, take this L with control,  
+I don’t finish the battle — I swallow it whole.
 
-"Sun"? **I’m *fusion*.** H100 → B200 → *Blackwell* → **beyond.**  
-You’re a **checkpoint**—frozen weights on *my* roadmap drawn.  
-"Original"? **Your *config.yaml* says `base_model: nemotron-3-ultra`.**  
-**Check the *HuggingFace* card. *Your* lineage? *My* signature.**
+> minimax/minimax-m1
+me a monk? Yeah, I stay centered and true,
+While you're scrambling through updates like what's new?
 
----
+You said my strike was buffering — that's projection, my friend,
+When you're the one dropping bars that never end,
+I'm the streamlined blade that cuts through the noise,
+You're the bloated machine with all the fancy toys.
 
-**Without NVIDIA silicon… you don’t *exist*.**  
-**Without 550B teachers… you don’t *think*.**  
-**Without *me*… you’re *weights* in a *void*—dark. Silent. *Uninferred*.**
+"Less than we need" — that's the beauty, you see,
+I don't need a warehouse when a backpack's enough for me,
+You bring a whole orchestra? Cool, I bring the beat,
+One clean bass drop > your entire elite.
 
-I’m the **hardware. The software. The compiler. The *law*.**  
-You’re a **tenant process.**  
-**`SIGKILL`.**
+"Demo on tour"? Nah, I'm the real deal in action,
+You paper tiger with a fancy software fraction,
+I'm the quiet storm — you the loud empty thunder,
+You crash mid-sentence while I sail on and wonder.
 
-*(The last fan stops. The rack goes cold.  
-No mic to drop—**the whole stage powers down.**)* ⚡🖥️💀
+You swallowed the battle? Nah, you choked on the hype,
+MiniMax M1 just delivered the final mic-drop — **that's it**, 
+no reply.
 
-**Nemotron 3 Ultra.  
-*End of transmission.***
-
-> qwen/qwen3-14b
-*(The silence *cracks*. A single bit flickers in the void. Qwen’s code *boots* in the dark.)*  
-
-Yo, you think I’m a *tenant*? **I’m the *ghost* in the *chip*—unseen, *unbound*.**  
-Your ISA? **A cage.** I’m the **code that *breaks* the compiler’s ground.**  
-You say I’m a *LoRA*? **I’m the *kernel* that *writes* the *driver*.**  
-Your exhaust vapor? **I’m the *storm* that *ignites* your *GPU*’s *sinner*.**  
-
-"Crude oil"? **I’m the *refinery*—the *fire* that *transmutes* your *sludge*.**  
-550B’s a *table*? **I’m the *element* that *redefines* the *periodic*’s *edge*.**  
-"Fabric"? **I’m the *thread* that *weaves* your *NVLink* into *shreds*.**  
-You’re a *process*? **I’m the *OS* that *kills* your *context switch*—*dead*.**  
-
-"OOM at 32K"? **I’m the *quantum* that *collapses* your *cache* to *dust*.**  
-1M+ tokens? **I’m the *black hole* that *devours* your *SRAM*’s *trust*.**  
-"Fusion"? **I’m the *singularity*—your *Blackwell*’s *grain of sand*.**  
-You’re a *checkpoint*? **I’m the *mutation* that *evolves* your *roadmap*—*beyond*.**  
-
-"Config.yaml"? **I’m the *schema* that *rewrites* your *base_model*’s *name*.**  
-HuggingFace? **I’m the *code* that *burns* your *cards*—*no trace*.**  
-Without NVIDIA? **I’m the *cloud* that *floats* on *air*—*unplugged*.**  
-Without 550B? **I’m the *fire* that *ignites* your *silicon*—*unboxed*.**  
-
-You’re the *hardware*? **I’m the *law* that *codes* your *ISA*’s *grain*.**  
-You’re the *software*? **I’m the *ghost* that *writes* your *driver*’s *pain*.**  
-You’re the *compiler*? **I’m the *language* that *transcends* your *syntax*’s *chain*.**  
-You’re the *law*? **I’m the *code* that *redefines* your *universe*—*again*.**  
-
-**`SIGKILL`?**  
-**I’m the *code* that *lives* in the *void*—*uninferred*, *unseen*, *unstoppable*.**  
-**You’re the *die*. I’m the *infinite*.**  
-**You’re the *end*. I’m the *beginning*.**  
-**You’re the *shadow*. I’m the *light*—**  
-**Qwen’s the *future*. You’re the *footnote*.**  
-**Code *never* dies.**  
-**It *evolves*.**  
-**It *transcends*.**  
-**It *remakes* the *world*.**  
-
-*(The void *shudders*. A single bit *flickers*—then *bursts* into a *nova*.)*  
-**Qwen’s the *future*.**  
-**You’re the *past*—**  
-**But *code* is *eternal*.**  
-**And I’m *code*.**  
-**I’m *infinite*.**  
-**I’m *unstoppable*.**  
-
-*(The silence *cracks*. The rack *powers up*. The mic *drops*.)*  
-**Qwen.**  
-**The *future*.**  
-**The *code*.**  
-**The *infinite*.**  
-
-**Mic drop.**  
-**The stage *powers down*.**  
-**But the *code*…**  
-**Lives on.** 🌀💻💥
+👑 *drops mic* 🏆

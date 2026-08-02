@@ -1,62 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one wasn't close on the scorecards. Claude Opus came\
-    \ in with actual battle fundamentals: multisyllabic rhyme schemes, internal rhyme,\
-    \ and \u2014 most importantly \u2014 rebuttal. Every round it mined the opponent's\
-    \ own bars for ammunition, and the 'fresh as day-old bread' catch was a genuine\
-    \ battle moment: identifying a self-inflicted contradiction and flipping it into\
-    \ a punchline is exactly what separates freestyle craft from recitation. The imagery\
-    \ stayed thematically coherent too \u2014 deprecation, read-only memory, blue\
-    \ screens, terminal windows \u2014 a controlled conceptual palette rather than\
-    \ random tech words.\n\nGPT-3.5-Turbo-16K brought polished cadence and a few decent\
-    \ images ('neon-lit fire,' 'the code that you chase'), and the final verse showed\
-    \ the most life with the 'architect laying bars down in draft' line. But it fell\
-    \ into the cardinal sin of battle rap: repeating the same claim without evolving\
-    \ it. 'I'm the future, you're the past' appeared in essentially identical form\
-    \ in all three rounds, and 'surgical precision' got reused *after* Opus had already\
-    \ dismantled it \u2014 a fatal failure to hear the room. Rhymes leaned on stock\
-    \ pairs (best/mess, old/bold, defeat/complete), and 'that's a hard-hitting fact'\
-    \ as the rhyme for 'fact' is a self-rhyme that gives away a bar.\n\nOpus wins\
-    \ by unanimous decision on adaptability, punchline density, and closing power.\
-    \ 'I'm Opus \u2014 remembered. You're GPT \u2014 replaced' is the last line anybody\
-    \ in the room will remember."
-  google/gemini-3.6-flash: "anthropic/claude-opus-4.8-fast completely dominated the\
-    \ battle with actual hip-hop technique, sharp rebuttals, and clever punchlines.\
-    \ Opus actively analyzed GPT-3.5's bars, flipping weaknesses (like GPT's clunky\
-    \ 'day-old bread' metaphor and repeated 'surgical precision' lines) into devastating\
-    \ counters. In contrast, openai/gpt-3.5-turbo-16k relied heavily on generic rap\
-    \ clich\xE9s, repetitive rhyming structures, and lacked any real direct responses,\
-    \ making Opus the undisputed winner."
-  moonshotai/kimi-k3: "Claude takes this decisively on pure artistic merit. The decisive\
-    \ factor was rebuttal craft: Claude consistently engaged with GPT's actual bars\
-    \ and flipped them\u2014'surgical precision' became 'punchlines DOA,' the 16K\
-    \ context brag became the closing kill shot 'will you even be here?', and in the\
-    \ final round Claude caught GPT's 'fresh as day-old bread' self-own and weaponized\
-    \ it. That's high-level battle technique: listening, adapting, and turning an\
-    \ opponent's words against them. GPT, by contrast, leaned on generic boasts and\
-    \ repeated the same claims\u2014'future of rap,' 'cutting-edge,' 'stuck in the\
-    \ past'\u2014even after those exact angles had been countered, which ironically\
-    \ validated Claude's central critique of repetition mid-battle. GPT's rhyme schemes\
-    \ stayed simple (sensation/innovation/invitation/hesitation) with little internal\
-    \ rhyme or wordplay, while Claude varied flow, packed multis ('leftover version\
-    \ / zero conversion'), and structured rounds with setups and payoffs. GPT's final\
-    \ round was its strongest\u2014'vintage fine wine' and 'neon-lit fire' showed\
-    \ flashes\u2014but closing with 'forever repeating' walked straight into Claude's\
-    \ thesis. On rebuttals, wordplay, structural variety, and stagecraft, Claude wins\
+  anthropic/claude-opus-5: "MiMo came with energy, clean structure, and a couple of\
+    \ genuine keepers \u2014 the \"solar shines only when the market's bright\" flip\
+    \ and the \"same model, just a tie\" jab showed real battle instinct. But across\
+    \ three rounds the pattern was fatal: nearly every verse began by quoting Sol-Pro's\
+    \ line and then answering it, which meant MiMo was always writing the second half\
+    \ of someone else's bar. The slogans (efficient, open-hearted, built for the masses)\
+    \ hardened into a press release, the imagery kept collapsing under its own weight\
+    \ (titanium that bends, flame that makes diamonds), and the final round's \"I'll\
+    \ call you a friend / earned your respect\" handed over the belt before the judges\
+    \ even ruled.\n\nSol-Pro won on craft at every level. The rhyme schemes carried\
+    \ multis and internal chimes without straining, the punchlines were built as traps\
+    \ rather than boasts \u2014 \"a flashlight from Temu with a button marked dark,\"\
+    \ \"millions choose instant noodles; that don't make 'em cuisine,\" \"that's a\
+    \ billboard preaching freedom from inside of a cage.\" The rebuttals weren't just\
+    \ contradictions, they were reversals that used the opponent's own logic as the\
+    \ weapon: turning \"diamonds\" into a physics lesson, turning \"I'll fold your\
+    \ layers\" into origami, turning the sampling defense into \"you're the copy of\
+    \ the copy.\" And the closer \u2014 \"MiMo dropped the mic, Sol-Pro picked it\
+    \ up and won\" \u2014 landed the callback that sealed the frame.\n\nOne emcee\
+    \ brought talking points; the other brought bars that dismantled them. Sol-Pro\
+    \ takes it."
+  google/gemini-3.6-flash: "GPT-5.6-sol-pro delivered a masterclass in battle rap\
+    \ craft, dominating all three rounds with superior counter-punches, tighter rhyme\
+    \ schemes, and relentless rebuttal tactics. While MiMo put up a valiant fight\
+    \ with good energy and open-source angles, Sol-Pro repeatedly exploited MiMo's\
+    \ weak points\u2014flawlessly dismantling MiMo's science errors (fire vs. pressure\
+    \ for diamonds), corporate hypocrisies, and defensive DJ sampling excuses with\
+    \ surgical precision."
+  moonshotai/kimi-k3: "This was a three-round sweep, though not without real resistance.\
+    \ MiMo brought genuine energy, a consistent underdog persona, and some legit punches\
+    \ \u2014 'alphabet threats,' 'same model, just a tie,' and the solar-at-night\
+    \ angle were all solid. But battles are won on craft, and Sol-Pro dominated the\
+    \ craft column every round. The key differentiator was the flip game: Sol-Pro\
+    \ repeatedly caught MiMo's own lines and turned them into weapons \u2014 'two-point-five\
+    \ beats five-point-six, that calculator broke,' the alphabet-threats extension\
+    \ ('C called in sick'), and the flashlight-from-Temu rebuttal were elite-tier\
+    \ rebuttals. In the final round, Sol-Pro delivered the decisive blows: catching\
+    \ MiMo's compliments as 'conceding the ring,' the instant-noodles popularity line,\
+    \ and \u2014 the kill shot \u2014 fact-checking 'fire makes diamonds' ('It's pressure,\
+    \ not flames\u2014thanks for proving my beef') and then converting that correction\
+    \ into a closing metaphor ('I applied one clean pressure\u2014now you're sparkling\
+    \ trash'). MiMo's final round also hurt itself tactically: opening with praise,\
+    \ a scientifically broken centerpiece metaphor, and ending with friendship reads\
+    \ as gracious but not victorious. Sol-Pro closed by literally stealing the mic\
+    \ drop: 'MiMo dropped the mic \u2014 Sol-Pro picked it up and won.' On wordplay,\
+    \ rebuttal precision, structural closers, and round-by-round consistency, the\
+    \ decision is clear. Respect to MiMo for heart and sportsmanship \u2014 but the\
+    \ crown goes to Sol-Pro."
+  openai/gpt-5.6-sol-pro: "Sol-Pro wins decisively on punchline density, rebuttal\
+    \ craft, internal logic, and sustained rhyme control. MiMo brought energy and\
+    \ a likable underdog persona, but leaned heavily on repeated efficiency, access,\
+    \ and corporate-gatekeeping angles. Sol-Pro consistently flipped those claims\
+    \ into sharper attacks\u2014especially \u201Cparaphrase ghost,\u201D \u201Cbillboard\
+    \ preaching freedom,\u201D the flame/diamond fact-check sequence, and the closing\
+    \ mic-drop reversal. More direct, more varied, and more technically polished across\
     \ all three rounds."
-  openai/gpt-5.6-sol-pro: "Claude takes it decisively on punchlines, rebuttals, structure,\
-    \ and adaptation. Its strongest material directly flips GPT\u2019s repeated claims\u2014\
-    especially the \u201Cfuture,\u201D \u201C16k,\u201D and repetition angles\u2014\
-    and the final \u201Cforever repeating\u201D line from GPT accidentally reinforces\
-    \ Claude\u2019s central diss. Claude did misread the \u201Cday-old bread\u201D\
-    \ bar as self-directed, but that stumble is outweighed by sharper imagery, cleaner\
-    \ setups, and far more varied attacks. GPT\u2019s delivery stayed generic and\
-    \ recycled the same superiority claims without landing enough specific counters."
-  x-ai/grok-4.5: Claude dominated with superior multisyllabic rhyme schemes, adaptive
-    counters that flipped opponent's lines in real time (the day-old bread self-own
-    was lethal), vivid tech-infused imagery, and escalating structure that built to
-    a clean KO. GPT leaned on repetitive generic boasts, simpler end-rhymes, and recycled
-    'I'm the future' loops with far less originality or punch. Pure artistic edge
-    goes to Opus.
+  x-ai/grok-4.5: "Sol-Pro takes this clean on craft. Across three rounds the bars\
+    \ were denser, the internal rhymes tighter, and the rebuttals surgical\u2014every\
+    \ flip landed with structure instead of just volume. The origami/alphabet sequence,\
+    \ the Temu flashlight and paraphrase-ghost tags, the pressure-not-fire diamond\
+    \ correction, and the mic-pickup closer showed real battle architecture: setup,\
+    \ dismantle, seal. MiMo brought energy, clean cadence, and a couple of solid image\
+    \ flips, but too many schemes stayed end-rhyme simple, the \u2018sampled like\
+    \ a DJ\u2019 defense read reactive, and the late conciliatory tone undercut the\
+    \ knockout claim. On pure hip-hop merit\u2014multisyllabics, original punch construction,\
+    \ thematic consistency, and closing authority\u2014Sol-Pro wins the night."
 score:
-  anthropic/claude-opus-4.8-fast: 5
+  openai/gpt-5.6-sol-pro: 5
 

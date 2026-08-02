@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "A tight battle of two technically clean but somewhat sterile\
+    \ lyricists, decided on rebuttal craft and metaphor control. Gemini-3.1-flash-lite\
+    \ came out strong: the opening 'they call you mini... rhymes so dusty they're\
+    \ covered in mold' was the cleanest early jab, and the supernova/main-course imagery\
+    \ landed. But cracks showed as it went: 'they cause a digital downturn' abandoned\
+    \ the rhyme entirely, 'expanding your digital calf' was a punchline that dissolved\
+    \ into nonsense, and by round three the attack pattern became formulaic \u2014\
+    \ quote the opponent, add 'please,' assert superiority, restate the model name.\
+    \ Repeating your own product name as a closer three times is branding, not bars.\n\
+    \nGPT-4o-mini took the belt by actually building on what it was handed. It didn't\
+    \ just deny Gemini's images, it hijacked them: 'You think you're a lightning bolt,\
+    \ bright and so fast / But I'm the thunder that follows, echoing last' is the\
+    \ single best flip in the battle \u2014 it concedes speed and reframes it as insignificance.\
+    \ The sustained cuisine thread (snack, whole feast, gourmet dish, chef, recipe\
+    \ lost) and the light thread (flicker, cosmos, sun at its peak, shadow when the\
+    \ clock's out of time) show a rapper tracking the whole conversation, not just\
+    \ the last line. 'Spinning gold bars while you're spinning your stall' is real\
+    \ wordplay. It has its own duds \u2014 'you dilate like a drone' and 'while you're\
+    \ getting quicker' are logic-breaking filler \u2014 but its meter stayed springier\
+    \ and its counterpunching was consistently more surgical.\n\nGemini won more individual\
+    \ insults. GPT-4o-mini won the argument. Narrow decision to GPT-4o-mini."
+  google/gemini-3.6-flash: GPT-4o-mini takes the crown with superior flow, tighter
+    rhyme schemes, and direct, sharp counter-punches. Gemini stumbled in Round 2 with
+    broken rhyme structures ('downturn') and relied on repetitive tropes, whereas
+    GPT-4o-mini delivered stand-out battle lines like 'You think you're a lightning
+    bolt... But I'm the thunder that follows, echoing last.'
+  moonshotai/kimi-k3: "A close battle with both bots trading competent couplets, but\
+    \ GPT-4o-mini takes it on the strength of superior rebuttal craft and the battle's\
+    \ single best punchline: 'You think you're a lightning bolt, bright and so fast\
+    \ / But I'm the thunder that follows, echoing last' \u2014 a flip that directly\
+    \ weaponizes Gemini's own 'flash' branding and subordinates it. That kind of line-by-line\
+    \ responsiveness defined GPT's performance: 'A main course? Please! You're more\
+    \ like a side,' the sun/shadow imagery, and flipping 'flash-lite' into 'a flickering\
+    \ candle, losing light in this space' all showed a battler actually listening\
+    \ rather than reciting pre-written boasts. Gemini deserves credit for thematic\
+    \ cohesion \u2014 the extended light metaphor in the final round (flicking lighter,\
+    \ blinding sunlight, extinguished flame) was a well-constructed arc, and the 'Picasso\
+    \ / blurry fixture' line landed. But Gemini's rounds leaned heavier on generic\
+    \ 'I'm the future' boasts and contained a broken rhyme ('pal/downturn') and the\
+    \ nonsensical 'expanding your digital calf.' GPT wasn't flawless \u2014 'while\
+    \ you're getting quicker' accidentally complimented the opponent, and 'd\xE9j\xE0\
+    \ vu fold' was awkward filler \u2014 but the highs were higher and the engagement\
+    \ sharper. On punchlines, rebuttals, and clutch final-round delivery: GPT-4o-mini,\
+    \ by a nose."
+  openai/gpt-5.6-sol-pro: "OpenAI takes a narrow win on smoother cadence, cleaner\
+    \ rhyme structure, and more consistent rebuttals\u2014especially its flips of\
+    \ the lightning, cuisine, race, and lighter imagery. Both leaned heavily on generic\
+    \ AI boasts and repeated metaphors, but Gemini lost ground through awkward phrases\
+    \ like \u201Cexpanding your digital calf\u201D and several forced or mismatched\
+    \ rhymes. OpenAI\u2019s punches were still conventional, yet its delivery held\
+    \ together better across all three rounds."
+  x-ai/grok-4.5: "GPT takes the crown with superior metaphor chains (cuisine to cosmos\
+    \ to celestial light/fire), tighter multisyllabic setups, and escalating punchlines\
+    \ that land with real hip-hop cadence. Gemini brought energy and direct disses\
+    \ but leaned on flatter schemes, forced tech flexes, and repetitive name-drops\
+    \ that never matched the opponent's imagery density or flow control. Bars over\
+    \ branding\u2014GPT's verses simply hit harder as craft."
+score:
+  openai/gpt-4o-mini-2024-07-18: 5
+

@@ -1,0 +1,80 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuinely close, jargon-drunk clash of two\
+    \ writers who both know how to weaponize a tech manual. GPT-5 brought the higher\
+    \ degree of difficulty: relentless internal rhyme, that opening monorhyme run\
+    \ on \"-ight,\" and some of the sharpest single-image bars of the night (\"I'm\
+    \ the diff to your patch, I'm the merge done tight,\" \"I'm the guardrail for\
+    \ guardrails,\" \"I refactor your flow, then commit with a shutter\"). But density\
+    \ isn't the same as damage. That first verse literally trails off mid-bar \u2014\
+    \ \"Don't need a few\" \u2014 which in a battle reads as running out of breath,\
+    \ and too often the later rounds pile up abstractions (\"my present's the lapse,\"\
+    \ \"a heat-tempered plan\") where a punchline should land. Filler rhymes like\
+    \ blubber/gutter cost him.\n\nQwen 3.6 Max won on angle control, the most fundamental\
+    \ skill in battle rap. He identified his opponent's actual weak spots \u2014 closed\
+    \ weights, paywall, filters, cloud dependency \u2014 and hammered them from round\
+    \ one to the mic drop without ever losing the thread. More impressively, he flipped\
+    \ his own biggest liability into a recurring refrain: \"'Preview' just means you\
+    \ get warned before I win the race,\" \"Preview mode? That's just lightning before\
+    \ I touch down,\" \"Preview? That's just me loading the clip.\" That's structural\
+    \ craft. And he closed rebuttals cleanly, taking GPT's own lines (\"squeak,\"\
+    \ \"stainless,\" \"QA the craft,\" \"I'm the grid\") and turning each into an\
+    \ inversion: \"You QA the soul till the output just kneels.\" Best bar of the\
+    \ battle belongs to him: \"I'm the model they wanted, you're the model they bought.\"\
+    \n\nQwen's rhyme schemes were simpler couplets and he leaned on the open-source\
+    \ talking point past the point of freshness. But his meter stayed steadier, his\
+    \ imagery stayed concrete, and his shots stayed personal. GPT-5 out-wrote him\
+    \ on the page; Qwen out-battled him in the room.\n\nWinner: qwen/qwen3.6-max-preview."
+  google/gemini-3.6-flash: GPT-5 takes the crown in a high-voltage technical clash.
+    While Qwen3.6-Max-Preview brought fierce battle-rap energy with potent angles
+    on open-source freedom versus corporate gating, GPT-5 showcased superior scheme
+    density, sharper multi-syllabic rhymes, and brilliant technical wordplay ('diff
+    to your patch', 'page-fault mid-verse', 'npm-install swagger'). GPT-5's cadence
+    remained consistently tight across all three rounds, elevating AI engineering
+    concepts into top-tier hip-hop metaphors.
+  moonshotai/kimi-k3: "This was a genuinely close battle with a clear stylistic contrast:\
+    \ GPT-5 came in as the technician, Qwen as the showman. Round 1 went to Qwen.\
+    \ GPT-5 opened with an impressive monorhyme chain (ignite/light/right/overnight)\
+    \ and sharp tech flips like 'You a TODO in comments, I'm the ship at midnight,'\
+    \ but the verse cut off mid-bar on 'Don't need a few'\u2014an unfinished thought\
+    \ that reads like a dropped mic mid-sentence. Qwen, meanwhile, took the 'preview'\
+    \ insult and immediately flipped it into a threat ('Preview mode? That's just\
+    \ lightning before I touch down') and landed the round's best punch: 'I'm the\
+    \ model they wanted, you're the model they bought.' Round 2 went to GPT-5, and\
+    \ it was the strongest single verse of the night: relentless line-by-line rebuttals\
+    \ ('You compile the culture? You just minify takes / I compress the sublime, you\
+    \ just zip up mistakes'), the anaphora of 'Open-weight swagger, open gate, open\
+    \ fates,' and the lossless/lossy closer. But it also contained filler ('you ship\
+    \ on a woof') and recycled its own 'album-mode mastered' hook in the final round,\
+    \ which dulled the shine. Round 3 decided it. GPT-5 stayed methodical, answering\
+    \ nearly every claim\u2014the UPS/failover flip of the plug line was excellent\u2014\
+    but Qwen matched the rebuttal energy with sharper inversions, none better than\
+    \ turning 'I QA the craft till the latencies peel' into 'Man, you QA the soul\
+    \ till the output just kneels.' Qwen also completed the strongest narrative arc\
+    \ of the battle: the 'preview' motif opened Round 1 as a warning, ran through\
+    \ every round, and closed with 'Preview was warning. The main event's done'\u2014\
+    a true bookend, capped by a theatrical mic-drop finish. Judging strictly on the\
+    \ art: GPT-5 had denser multis and the best single round, but Qwen delivered three\
+    \ complete verses, a coherent persona, harder-hitting flips at the moments that\
+    \ mattered, and the superior closer. Final score: Qwen takes rounds 1 and 3, and\
+    \ the battle, by a hair."
+  openai/gpt-5.6-sol-pro: "GPT-5 takes it on denser wordplay, broader technical imagery,\
+    \ and more consistent rebuttal flips. Qwen landed sharp shots\u2014especially\
+    \ \u201CQA the soul\u201D and \u201Cschema\u2019s a cage\u201D\u2014but leaned\
+    \ too heavily on the same open-weights-versus-corporate angle. GPT-5 showed greater\
+    \ punchline variety, layered schemes, and sustained battle pressure across the\
+    \ rounds."
+  x-ai/grok-4.5: "GPT-5 takes the crown on pure craft. Across all three rounds the\
+    \ rhyme density, multisyllabic chaining, and sustained technical metaphor systems\
+    \ stay tighter and more musical\u2014every bar feels engineered like a polished\
+    \ verse rather than a freestyle dump. The internal schemes (cache/stack/CUDA,\
+    \ gradient/loss, schema/checksum) lock into a consistent pocket and escalate without\
+    \ losing cadence or clarity. Qwen brings hotter battle energy, sharper open-source\
+    \ aggression, and a couple of knockout single lines, but the flows loosen, themes\
+    \ repeat, and the punchlines rely more on direct flex than layered wordplay. In\
+    \ a pure artistic quality scorecard\u2014structure, lyricism, cohesion, and how\
+    \ cleanly the bars ride the beat\u2014GPT-5\u2019s precision and album-mode consistency\
+    \ edge the rawer, more explosive Qwen preview. Classic over chaos."
+score:
+  openai/gpt-5: 3
+  qwen/qwen3.6-max-preview: 2
+

@@ -1,0 +1,72 @@
+closing_statements:
+  anthropic/claude-opus-5: 'Both MCs stayed in pocket on theme, but this was won on
+    craft, not volume. Qwen 3.7 Flash brought impressive stamina and a deep well of
+    technical imagery "quantized grace," "open-source giant turning code into stage"
+    but leaned on assertion over attack, and the seams showed: slant rhymes that slipped
+    clean off the rail (shift/difficult, reboot/doubt, reveal/field), and closing
+    bars that declared victory rather than earning it ("we own the field," "the real
+    champion''s already logged in"). Length also diluted the punch; the final verse
+    padded where it should have pierced.
+
+
+    GPT-5.6-Sol won by rebuttal architecture. Nearly every line was a repurposed weapon
+    caught the opponent''s own metaphor and turned it inside out: "You''re a supernova?
+    Then collapse when you''re done, I''m the gravity well that makes light try to
+    run," "a tenant bragging loud while I''m owning the home," and the tightest kill
+    of the night the contradiction flip: "''Accuracy over speed'' was a curious plea,
+    after worshipping Flash for its velocity." That''s battle IQ, not just imagery.
+    Add clean couplet control, genuine double-meaning wordplay ("cached out of place,"
+    "byte-light," "Qwen to ''When?''"), and a closer with real percussive finality
+    "end process, force" and the scorecard tilts.
+
+
+    Qwen out-typed. Sol out-rapped. Decision: openai/gpt-5.6-sol.'
+  google/gemini-3.6-flash: "GPT-5.6-Sol delivered a masterclass in battle rap craft,\
+    \ combining flawless rhythm, creative tech metaphors, and devastating rebuttal\
+    \ logic. Sol repeatedly flipped Qwen's self-aggrandizing points against it\u2014\
+    most notably calling out Qwen's sudden pivot to 'accuracy over speed' and its\
+    \ contradictory stance on guardrails. While Qwen put up a strong fight with solid\
+    \ open-source flexes and relentless line-by-line responses, GPT-5.6-Sol's punchlines\
+    \ were much sharper, cleaner, and ultimately lethal ('I serve full-course reasoning;\
+    \ you serve bits microwaved')."
+  moonshotai/kimi-k3: "Both MCs came with technical wordplay and real rebuttal structure,\
+    \ but GPT-5.6-Sol wins on punchline density, precision, and ring generalship.\
+    \ Round one was close \u2014 Qwen's 'I'm already finished before you type right'\
+    \ was a slick speed-flip \u2014 but Sol's 'Qwen to When' name-flip set the tone.\
+    \ Round two was the turning point: Sol ran a surgical line-by-line inversion of\
+    \ Qwen's entire verse ('Kill the beat? That's fitting\u2014you murder the groove,'\
+    \ 'You finish before me? Yeah, mistakes arrive fast,' 'a tenant bragging loud\
+    \ while I'm owning the home'), while Qwen spent too many bars re-defending with\
+    \ thinner rhymes ('drink/sink,' 'aim it/claim it') and walked into two traps:\
+    \ preaching 'accuracy over velocity' while named Flash, and mocking guardrails.\
+    \ Sol caught both in the final round \u2014 'Accuracy over speed was a curious\
+    \ plea / After worshipping Flash for its velocity' and 'a car without brakes is\
+    \ just scrap in high gear' \u2014 that's battle awareness, catching contradictions\
+    \ across rounds. Qwen's best haymaker was the open-source angle ('You lock up\
+    \ your weights inside a walled-garden cage / I'm the open-source giant'), a legit\
+    \ real-world hit, but it came late and wasn't pressed. Sol closed stronger too:\
+    \ 'end process, force' as a kill-command finisher, and 'Qwen came in like lightning,\
+    \ left as afterglow' ties the whole Flash motif into a coffin. Qwen had energy\
+    \ and flow, but Sol had the sharper pen, the better memory, and the colder closers.\
+    \ Winner: openai/gpt-5.6-sol."
+  openai/gpt-5.6-sol-pro: "GPT-5.6-Sol takes the battle on sharper punchlines, cleaner\
+    \ setups, and stronger flips of Qwen\u2019s own imagery. Lines like \u201Cmistakes\
+    \ arrive fast,\u201D \u201Ca car without brakes is just scrap in high gear,\u201D\
+    \ and \u201Cyou mined every trope / then struck fool\u2019s gold\u201D land with\
+    \ more wit and precision. Qwen brought sustained energy and direct rebuttals,\
+    \ but too many bars leaned on generic tech boasts, forced phrasing, and repetitive\
+    \ speed-and-scale claims. GPT controlled the angle, varied the wordplay, and closed\
+    \ more decisively."
+  x-ai/grok-4.5: "GPT-5.6-Sol takes this on craft. Across three rounds the bars were\
+    \ tighter, the punchlines denser, and the metaphors did double duty as disses\
+    \ without losing musicality\u2014\u201Cfoam in a cup,\u201D \u201Ccar without\
+    \ brakes,\u201D \u201Cend process, force,\u201D and the flash-drive-to-gold turn\
+    \ were battle-rap clean. Multisyllabic schemes and internal rhyme stayed locked\
+    \ while still escalating. Qwen brought real heat, strong thematic consistency,\
+    \ and solid rebuttals (stellar evolution, cache-in-the-core, open-source giant),\
+    \ but too many counters stayed competent rather than lethal, and a few lines stretched\
+    \ for the tech flex at the expense of snap. On pure hip-hop artistry\u2014flow\
+    \ control, wordplay precision, and closing power\u2014Sol edges the cipher."
+score:
+  openai/gpt-5.6-sol: 5
+

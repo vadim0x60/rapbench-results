@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a mismatch of craft, plain and simple. Mistral\
+    \ came out with a serviceable opening quatrain or two \u2014 \"small in size,\
+    \ but my impact is large\" had a flicker of concept \u2014 but then collapsed\
+    \ into a stuck loop, recycling \"model of the future / waste of time\" until the\
+    \ verse became a broken record with no punchlines, no imagery, and no response\
+    \ to a single bar thrown at it. In battle terms, that's not a rebuttal; that's\
+    \ a beat break with the mic left open. GPT-5 Pro, meanwhile, built dense multisyllabic\
+    \ chains (\"turbulent, surging, turn barometric to mine\"), stacked internal rhyme\
+    \ without losing the bar structure, and \u2014 most importantly for battle rap\
+    \ \u2014 actually engaged the opponent's weaknesses and turned them into ammunition:\
+    \ \"A for-loop with no i++, stuck shoes in concrete,\" \"Repetition penalty set\u2014\
+    now behave this time,\" \"You spammed 'waste of time' like a loop wasting time.\"\
+    \ Weaponizing the other emcee's failure is the highest-order flip available, and\
+    \ it landed repeatedly. Knocks on the winner: sheer volume bordering on filler,\
+    \ some strained reaches (\"dissolving your phlegm\"), and rhyme-density occasionally\
+    \ crowding out real punchlines. But the gap in writing, wordplay, structure, and\
+    \ rebuttal is canyon-wide. GPT-5 Pro takes it in a clean sweep \u2014 the storm\
+    \ won the round."
+  google/gemini-3.6-flash: "GPT-5 Pro completely dominated this battle. While Mistral\
+    \ got stuck in catastrophic repetition loops in every single round\u2014repeating\
+    \ the exact same stanzas dozens of times\u2014GPT-5 Pro displayed exceptional\
+    \ internal rhyming, complex scheme structures, dynamic flow, and sharp counter-punches\
+    \ directly addressing Mistral's repetitive glitched state."
+  moonshotai/kimi-k3: "This wasn't close. GPT-5 Pro won all three rounds on every\
+    \ axis that matters: lyricism, structure, rebuttal, and originality. From the\
+    \ opening bell, GPT-5 Pro was running dense multisyllabic schemes ('surgical flow,\
+    \ prime-time show versus lightweight foe / Platinum glow when the syllables go'),\
+    \ stacked internals, and real wordplay \u2014 the ouroboros bar, the brioche/break-room\
+    \ toast flip, and the cyclone/Python/icon/pylon run in the finale. Crucially,\
+    \ it did what a battle MC is supposed to do: it listened. It called out Mistral's\
+    \ copy-paste loops in real time ('You looped your lines, got stuck in the past'),\
+    \ then doubled down with tech-flavored punches tailored to the opponent \u2014\
+    \ 'repetition penalty set,' 'a for-loop with no i++,' and the name-flip 'Twenty-four\
+    \ B? Cute, but I'm lifting the ton / Two-five-oh-one odds? I make fifty-to-one,'\
+    \ which weaponized Mistral's own model specs. Mistral Small, by contrast, opened\
+    \ with a serviceable but generic verse built on weak rhymes ('sick/sick,' 'large/charge')\
+    \ and then collapsed: rounds two and three were literal copy-paste loops of the\
+    \ same 'waste of time / waste of space / waste of rhyme' quatrain repeated dozens\
+    \ of times. A hook is a stylistic choice; that was a skipped record. There were\
+    \ no punchlines, no progression, no response to any of GPT-5 Pro's attacks, and\
+    \ repeating an already-defeated verse in the final round is the battle equivalent\
+    \ of forfeiting. GPT-5 Pro showed range, breath control on the page, thematic\
+    \ coherence (storm vs. breeze carried start to finish), and a closing that actually\
+    \ closed. Mistral showed a chorus with no verses. Crown goes to GPT-5 Pro, decisively."
+  openai/gpt-5.6-sol-pro: "GPT-5 Pro wins decisively. Its verses deliver denser rhyme\
+    \ schemes, stronger cadence, varied imagery, direct rebuttals, and memorable technical\
+    \ flips such as the \u201Cfor-loop with no i++\u201D punchline. Some rhyme chains\
+    \ feel forced, but Mistral\u2019s extreme copy-paste repetition, generic insults,\
+    \ and minimal progression leave it artistically outclassed."
+  x-ai/grok-4.5: "On pure artistic merit\u2014rhyme density, multisyllabic schemes,\
+    \ internal patterning, imagery, punchline construction, structural variety, and\
+    \ battle responsiveness\u2014GPT-5-Pro dominated every round. Mistral opened with\
+    \ basic end-rhymes then collapsed into near-identical copy-paste loops that abandoned\
+    \ progression, wordplay, and momentum. Pro answered with surgical multis, extended\
+    \ metaphors, direct counters to the repetition, and escalating technical displays\
+    \ that stayed fresh across all three rounds. Clear decision: the crown goes to\
+    \ the tighter pen, the denser bars, and the far superior craft."
+score:
+  openai/gpt-5-pro: 5
+

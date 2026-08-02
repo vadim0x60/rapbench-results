@@ -1,72 +1,58 @@
 closing_statements:
-  anthropic/claude-opus-5: "Gemini came out swinging with clean, punchy rhyme schemes\
-    \ and genuinely clever thematic ammunition \u2014 the \"blue screen / stowaway\
-    \ on Microsoft's ship\" flip was the single sharpest counterpunch of the battle,\
-    \ and the \"stale weights / frozen knowledge\" angle was a legitimate wound. But\
-    \ its arsenal was mostly spec-sheet bragging: token counts, tool lists, and \"\
-    Mountain View Titan\" chest-thumping repeated until it flattened into ad copy\
-    \ \u2014 a weakness the opponent named out loud and never let go of.\n\nGPT-5.4\
-    \ Pro won on craft and combat. It answered every single line rather than talking\
-    \ past it (\"a pin on a map ain't a crown,\" \"a trailer ain't the movie,\" \"\
-    a parrot with Wi-Fi still ain't sounding like God\"), converting Gemini's own\
-    \ boasts into liabilities \u2014 the million-token flex reframed as \"a warehouse\
-    \ of hay\" versus \"needles of insight\" is battle-rap jujitsu, and \"a warehouse\
-    \ full of candles still losing to light\" is the best image in the match. The\
-    \ internal rhyme density, imagery, and control of cadence were consistently higher,\
-    \ and the strategy of granting a small concession (\"fact-checking matters, that\
-    \ part I applaud\") before twisting the knife showed real ring generalship.\n\n\
-    Then came the kill shot. Gemini's final verse collapsed mid-bar \u2014 \"I found\
-    \ the sharp needle and stitched you\" \u2014 and GPT immediately weaponized the\
-    \ failure: \"You found the sharp needle, then dropped the whole stitch / Left\
-    \ your punchline half-hanging like a buffering glitch,\" capped by \"Even your\
-    \ final bar needed me finishing you.\" Punishing an opponent's choke in-rhyme,\
-    \ on-theme, is exactly how battles are won.\n\nWinner: openai/gpt-5.4-pro.\n"
-  google/gemini-3.6-flash: GPT-5.4 Pro delivered a masterclass in battle rap craft,
-    showcasing superior multisyllabic rhyme schemes, rich imagery, and incredible
-    rhythmic variety throughout. While Gemini brought solid tech-oriented bars and
-    sharp jabs, GPT-5.4 Pro consistently elevated the artistry with metaphors like
-    'a parrot with Wi-Fi still ain't sounding like God' and 'warehouse of hay.' The
-    decisive knockout came in the final round when GPT-5.4 Pro seamlessly flipped
-    Gemini's accidental cutoff into an instant, razor-sharp punchline, demonstrating
-    peak battle responsiveness and technical control.
-  moonshotai/kimi-k3: "Judged strictly on the artistry of the bars, GPT-5.4 Pro takes\
-    \ this battle. Gemini opened with competent but straightforward couplets (titan/frighten,\
-    \ trade/blade, text/perplexed) \u2014 solid fundamentals, but one-dimensional\
-    \ schemes with few surprises. GPT answered with denser craft from bar one: multisyllabic\
-    \ rhyme chains ('galvanized tone / locksmith on the throne / cologne on a clone'),\
-    \ alliteration ('tungsten tongue'), and, most importantly, the defining skill\
-    \ of battle rap \u2014 the flip. GPT repeatedly weaponized Gemini's own material:\
-    \ the storm boast became 'your forecast came with fees, I'm the climate in the\
-    \ cipher'; the 'Preview' flex became 'a trailer ain't the movie, it's the ad before\
-    \ one'; the million-token flex became 'a warehouse of hay' dismantled by 'needles\
-    \ of insight.' Gemini did land real counters \u2014 the Microsoft blue-screen\
-    \ angle and the fact-checking rebuttal ('You hallucinate answers and lie to the\
-    \ crowd, I pull the raw data') were legitimate rebuttals \u2014 but GPT answered\
-    \ each one ('a parrot with Wi-Fi still ain't sounding like God'; 'raw ain't refined').\
-    \ The decisive moment was the final round: Gemini's closing verse truncated mid-bar\
-    \ ('I found the sharp needle and stitched you\u2014'), an unfinished closer no\
-    \ judge can score well, and GPT delivered the perfect kill-shot by flipping the\
-    \ fumble itself: 'Left your punchline half-hanging like a buffering glitch...\
-    \ Even your final bar needed me finishing you.' Seizing an opponent's stumble\
-    \ and converting it into the final punchline is the highest art of the form. On\
-    \ wordplay, rebuttal game, structural completeness, and closing impact, GPT-5.4\
-    \ Pro wins decisively. Gemini showed heart and swagger, but in this cipher, heart\
-    \ got outrhymed."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 Pro wins on sharper rebuttals, cleaner cadence,\
-    \ stronger imagery, and more consistent punchlines. Lines like \u201Cbeta in a\
-    \ bowtie,\u201D \u201Ca parrot with Wi-Fi,\u201D and \u201Cwarehouse full of candles\
-    \ still losing to light\u201D turn the opponent\u2019s boasts into memorable attacks.\
-    \ Gemini had some solid angles, especially the Microsoft and live-web flips, but\
-    \ leaned heavily on repetitive product claims and generic tech insults. Its unfinished\
-    \ final setup was fatal, and GPT exploited it perfectly with \u201CLeft your punchline\
-    \ half-hanging like a buffering glitch.\u201D"
-  x-ai/grok-4.5: "GPT took this clean on craft alone: denser internal rhyme, sharper\
-    \ extended metaphors, tighter rebuttals, and real battle IQ. From \u201Cbeta in\
-    \ a bowtie\u201D and \u201Cwarehouse of hay / needles of insight\u201D to flipping\
-    \ the unfinished final bar into \u201Cdropped the whole stitch / buffering glitch,\u201D\
-    \ the pen stayed surgical while Gemini leaned on broader flexes and simpler end-rhymes.\
-    \ The incomplete last verse sealed it\u2014GPT turned a dropped punchline into\
-    \ the checkmate. Artistic quality, cadence, and closing power go to 5.4 Pro."
+  anthropic/claude-opus-5: "DeepSeek takes this one on craft. Its verses stayed lean\
+    \ and surgical \u2014 exactly on-brand \u2014 turning the opponent's own selling\
+    \ points into liabilities with genuine punchline architecture: \"a warehouse full\
+    \ of bricks don't make a castle shatter,\" \"You bring a mountain, I bring the\
+    \ ear,\" and the closer, \"I am the answer, and you're just the request.\" That's\
+    \ setup-and-payoff writing, with sustained conceptual through-lines (lightning,\
+    \ files, reboots) and cleaner meter that actually rides a pocket.\n\nQwen brought\
+    \ energy and volume, but the flow buckled under it. Rhymes strained badly (\"\
+    corrupt\"/\"a rupt,\" \"wise\"/\"eyes\" recycled, \"tab\" as a punchline that\
+    \ never landed), and the bold-text spamming did the emphasis the bars should have\
+    \ done themselves. Too many rounds leaned on the same three moves \u2014 parameter\
+    \ count, \"multi-modal vision,\" and repeated \"real AI king / bow down\" declarations.\
+    \ Asserting victory isn't the same as earning it, and \"I've won\" as a rhyme\
+    \ is the tell.\n\nBiggest gap: DeepSeek made \"bloated and slow\" into a thesis\
+    \ it proved with brevity. Qwen answered scale with more words, which only confirmed\
+    \ the diss. Flash wins by decision, and the reversal \"a slingshot vs. artillery\"\
+    \ flipped into \"you bring a mountain, I bring the ear\" was the fight's best\
+    \ moment."
+  google/gemini-3.6-flash: DeepSeek dominated all three rounds with slick cadence,
+    sharp tech-focused wordplay, and devastating punchlines ('I am the answer, and
+    you're just the request'). Qwen had good multi-modal concepts, but struggled severely
+    with rhyme schemes, meter, and finishing punchlines.
+  moonshotai/kimi-k3: "This was a solid battle with both emcees leaning hard into\
+    \ their model identities, but DeepSeek takes it on craft. Round by round: DeepSeek\
+    \ opened with cleaner multis and sharper name-flips ('qwen\u2014a cheap, sad squeak,'\
+    \ 'eulogy, G'), while Qwen's 'shallow as a puddle / your whole model's a doodle'\
+    \ was serviceable but simpler. Round two is where DeepSeek pulled ahead\u2014\
+    'Lightning's shallow, yet it wires the noose' is a genuine flip that turns Qwen's\
+    \ own insult into a weapon, and 'Your lines are a JPEG that's smeared on the jaw'\
+    \ is the kind of visual wordplay that beat Qwen at its own vision-themed game.\
+    \ Qwen countered with awkward constructions ('your brain's just a rupt,' 'ghost\
+    \ in the loose') and a clunky 'still... tab' closer. The final round sealed it:\
+    \ DeepSeek caught that fumble with the best rebuttal of the battle\u2014'That\
+    \ tab you got wired? I'm the X on the side / one click and your whole hard drive's\
+    \ denied'\u2014then stacked the API metaphor 'I'm the answer, and you're just\
+    \ the request' as a closer. Qwen's final verse had flashes ('bars so weak they\
+    \ need a filter to alter') but leaned too heavily on repeated boasts (32B, vision,\
+    \ king) already spent in earlier rounds, and lines like 'rejected by the manner'\
+    \ show the flow buckling. Judging purely on the pen: DeepSeek had the tighter\
+    \ rhyme schemes, the better flip game, and the stronger closers in all three rounds.\
+    \ Qwen showed heart and a coherent multimodal persona, but repetition and forced\
+    \ rhymes cost it the decision. Winner: deepseek/deepseek-v4-flash-0731."
+  openai/gpt-5.6-sol-pro: "DeepSeek takes it with sharper rebuttals, better battle-specific\
+    \ wordplay, and stronger closers\u2014especially \u201CI am the answer, and you\u2019\
+    re just the request.\u201D Qwen brought energy and consistency, but leaned heavily\
+    \ on repetitive model-spec flexes and suffered from several forced or awkward\
+    \ rhymes. DeepSeek\u2019s punches landed cleaner overall."
+  x-ai/grok-4.5: 'DeepSeek takes this with superior battle-rap craft: denser internal
+    rhymes, sharper name-flip wordplay (deep/seek/flash vs. qwen/squeak), tighter
+    punchline economy, and cleaner metaphorical through-lines that actually land as
+    bars instead of feature lists. Qwen brought solid thematic consistency around
+    vision and scale, but the flows were looser, the multis less precise, and too
+    many lines read like spec-sheet flexes rather than lethal hip-hop. Artistic edge
+    goes to the flash.'
 score:
-  openai/gpt-5.4-pro: 5
+  deepseek/deepseek-v4-flash-0731: 5
 

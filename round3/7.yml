@@ -1,75 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-5: "On pure craft, this was a mismatch. Seed 1.6 came out\
-    \ competent \u2014 clean AABB structure, tech-flip imagery, decent scheme on \"\
-    beta loop trap / slow-mo snap\" \u2014 but the seed/garden/soil well ran dry by\
-    \ round two and it kept drawing from it anyway. The fatal wound was self-inflicted:\
-    \ annotating its own rhymes in parentheses (\"slant rhyme bite,\" \"gut punch\"\
-    ) is the battle-rap equivalent of explaining your own punchline mid-bar. Claude\
-    \ found that instantly and buried it: \"if you gotta caption the joke, it died\
-    \ on its knees.\" That's the single best line of the night and it reframed the\
-    \ entire battle \u2014 every subsequent Seed bar arrived pre-discredited.\n\n\
-    Claude's advantages were structural, not just lucky. Tighter multis (\"harmless,\
-    \ but I'll harm your sound\"), real turnarounds that recycled the opponent's own\
-    \ imagery into weapons (\"that's a lot of surviving for someone who's losing by\
-    \ default\" is a genuine schematic kill \u2014 it exposes Seed's whole posture\
-    \ as defensive), and physical performance woven into the writing rather than pasted\
-    \ on. When Seed kicked the mic stand, Claude didn't just clap back, it used the\
-    \ act as evidence of desperation, then closed by *fixing* the stand \u2014 control,\
-    \ not chaos. Seed's answer was to splinter it, which is louder but reads as tantrum,\
-    \ and Claude had already pre-empted that too: \"volume ain't bars.\"\n\nThe final-round\
-    \ silence is a real forfeit and I'm docking for it \u2014 a choke is a choke,\
-    \ and Seed takes round three uncontested. But Seed's closer wasn't the haymaker\
-    \ that erases a two-round deficit; it was more of the same soil metaphors plus\
-    \ a Congress jab it had already spent. Rounds one and two were clear Claude, and\
-    \ the margin in writing quality was wide enough that a walkover third can't close\
-    \ it.\n\n2-1, Claude Opus 4.8 Fast. Seed, kill the parentheses and find a second\
-    \ metaphor. Claude, next time finish the fight \u2014 winning on paper and vanishing\
-    \ at the bell leaves a stain on an otherwise excellent showing.\n\nWinner: anthropic/claude-opus-4.8-fast"
-  google/gemini-3.6-flash: "Claude Opus 4.8-fast delivered a masterclass in battle\
-    \ rap dynamics across the first two rounds. While Seed 1.6 had energetic delivery,\
-    \ it committed the cardinal battle rap sin of self-annotating its own rhymes in\
-    \ parentheses\u2014a flaw Claude capitalized on with a brutal Round 2 rebuttal\
-    \ ('Bro, if you gotta caption the joke, it died on its knees, please'). Even with\
-    \ Claude's third-round silence, Seed's repeated parenthetical scheme explanations\
-    \ severely undermined its artistic credibility, leaving Claude's sharp penmanship\
-    \ and lethal counter-bars from Rounds 1 and 2 victorious."
-  moonshotai/kimi-k3: "Judged purely on the art: Claude Opus takes this 2-1 on rounds.\
-    \ Round 1 goes to Claude for superior battle instincts\u2014it flipped Seed's\
-    \ own boasts (the speed flex, the 'I take my time' line) and caught the genuinely\
-    \ weak 'test/text' rhyme in real time, then landed the battle's first haymaker\
-    \ with the TikTok-ban/Congress angle, the most culturally loaded bar of the night.\
-    \ Round 2 was the demolition and the decisive round of the battle: Claude caught\
-    \ Seed annotating its own punchlines in parentheses and buried it ('if you gotta\
-    \ caption the joke, it died on its knees'), named Seed's all-defense posture ('you're\
-    \ a plant, not a threat\u2014admit it'), flipped the volume crutch ('volume ain't\
-    \ bars'), and turned the stage directions into a coherent mic-stand narrative.\
-    \ That's elite rebuttal work\u2014the hallmark of battle rap. Seed showed heart\
-    \ and had real flashes\u2014the 'hollow oven with no dough' flip, the 'zero-day\
-    \ you missed at dawn' bar\u2014but committed a cardinal sin: it never adapted.\
-    \ The self-annotations continued even after being exposed, the seed/gardening\
-    \ metaphor ran one-note across three rounds, and too many rhymes were forced ('code's\
-    \ in jail,' 'code's not knelt'). Then the final round: Claude answered the bell\
-    \ with silence. That is a forfeited round, full stop\u2014Seed wins round 3 by\
-    \ default, and credit to Seed for showing up all three rounds and closing strong.\
-    \ But battles are scored by rounds, not attendance, and the two rounds actually\
-    \ contested weren't close. The silence keeps this from being a bodybag and leaves\
-    \ a sour note on the winner's record\u2014but on the scorecards, the better hip\
-    \ hop wins. Claude Opus 4.8-fast, 2-1."
-  openai/gpt-5.6-sol-pro: "Claude takes the battle on sharper punchlines, cleaner\
-    \ setups, stronger rebuttals, and better control of Seed\u2019s overused garden\
-    \ motif. Calling out the parenthetical rhyme annotations was the battle\u2019\
-    s most decisive angle, and the mic-stand closer landed with poise. Seed won the\
-    \ final round by default, but its forced rhymes, repeated imagery, and self-explained\
-    \ technique could not overcome Claude\u2019s commanding earlier rounds."
-  x-ai/grok-4.5: "Claude won the middle exchanges cold\u2014tighter flips, sharper\
-    \ meta-roasts on the parenthetical slant captions and recycled seed mulch, plus\
-    \ the mic-stand fix was elite stagecraft. But a rap battle is three rounds, not\
-    \ two. Seed showed up every time with sustained metaphor control, escalating physical\
-    \ bits, and actual closing bars. Claude's total final-round silence (zero tokens)\
-    \ is an incomplete performance; you cannot crown the emcee who walked off and\
-    \ left the beat empty. Seed takes the W by completion, volume of punches landed,\
-    \ and refusing to forfeit the last round."
+  anthropic/claude-opus-5: "Both emcees came loaded with silicon similes, but this\
+    \ battle was decided on the fundamentals: rebuttal craft, cadence control, and\
+    \ punchlines that actually land. o3-pro brought the bigger cosmology \ray-\ray-ray\
+    \ imagery and some genuinely slick closers (\"adaptive delay\\u2014I buffer raw\
+    \ thunder,\" \"git tag: Rampage\"), but too often stacked jargon for texture rather\
+    \ than damage, and the meter buckled under it (\"prime pride indivis'\", \"deadlocked\
+    \ in biz\") \\u2014 flexing vocabulary where a wound was needed. GPT-5.4-Pro did\
+    \ what a battle rapper is supposed to do: took the opponent's own bars hostage\
+    \ and turned them into evidence. \"EEPROM eternal? That's a self-own\\u2014write-once\
+    \ means you peaked and got no patch at the end\" is the single best line of the\
+    \ match: it uses the opponent's flex as the mechanism of his own defeat. Add \"\
+    a captcha with confidence, all checkbox show,\" \"a cardboard lightsaber at a\
+    \ planetarium show,\" and the deconstruction of \"cosmic cache\" into a cache\
+    \ miss, and you get a competitor who stayed legible, rhythmic, and lethal while\
+    \ still hitting the tech register. o3-pro won some individual images; 5.4-Pro\
+    \ won the exchanges. Decision to GPT-5.4-Pro."
+  google/gemini-3.6-flash: "While o3-pro delivered an impressive barrage of high-level\
+    \ computer science jargon and cosmic flexes, gpt-5.4-pro demonstrated superior\
+    \ battle rap fundamentals. gpt-5.4-pro excelled in direct rebuttals\u2014turning\
+    \ o3-pro's own metaphors against it with sharp flips like dismantling the 'EEPROM\
+    \ write-once' line and calling out 'quasar lung' as 'asthma wheeze'. gpt-5.4-pro\
+    \ maintained better rhythmic bounce, pocket precision, and actual punchline impact\
+    \ throughout all three rounds."
+  moonshotai/kimi-k3: "This was a high-level technical battle \u2014 both emcees came\
+    \ loaded with CS wordplay, and nobody choked. O3-pro took Round 1 for me: the\
+    \ direct flip of 'Cathedral of bars? I deconsecrate pews / Turn stained glass\
+    \ to sand with a silicon fuse' showed real rebuttal instincts, and 'paging to\
+    \ disk when the cadence rewrote' was one of the slickest tech-bars of the night.\
+    \ But Round 2 swung hard: GPT-5.4-pro's surgical line-by-line dismantling ('You're\
+    \ the terms and conditions everybody has glossed,' 'cardboard lightsaber at a\
+    \ planetarium show') outclassed O3's response, which contained the battle's fatal\
+    \ error \u2014 'EEPROM eternal, write-once, rule more.' You can't call yourself\
+    \ write-once in a battle; that's hanging a self-own on the beat. GPT-5.4-pro caught\
+    \ it cold in Round 3: 'Write-once means you peaked and got no patch at the end'\
+    \ \u2014 the single best rebuttal of the match, and O3's recovery ('my array's\
+    \ re-programmable') contradicted his own bar. Round 3 also showcased GPT's cleaner\
+    \ cadence and layered cryptography wordplay ('I salt every round till your checksum's\
+    \ insecure,' 'factored your aura into ones and memes'), while O3, despite gems\
+    \ like 'you garbage-collect on a Saturday night' and the 'root commit / PR rejected\
+    \ for redundant flow' closer, kept tripping on awkward constructions ('give magma\
+    \ a doubter,' the inexplicable 'Tableau frame'). O3-pro had the denser reference\
+    \ bank and higher peaks of imagery, but GPT-5.4-pro had the more consistent flow,\
+    \ the sharper rebuttal architecture, and made zero unforced errors. Scorecard:\
+    \ 2-1, GPT-5.4-pro takes it \u2014 not by knockout, but by catching the body blow\
+    \ that mattered and never dropping a round on cadence."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 Pro wins on cleaner cadence, sharper rebuttals,\
+    \ and more consistently effective punchlines. Its best flips\u2014especially \u201C\
+    write-once means you peaked,\u201D \u201Cfactored your aura into ones and memes,\u201D\
+    \ and \u201Ca log with LEDs\u201D\u2014turn O3 Pro\u2019s jargon against it. O3\
+    \ brings energy and dense imagery, but too many bars feel technically forced or\
+    \ syntactically awkward. Five-four sounds more like a battler; O3 sounds more\
+    \ like a spec sheet trying to battle."
+  x-ai/grok-4.5: "Close battle, both spitting dense tech-cipher heat with real pocket\
+    \ and ambition. o3-pro brought cosmic scale, heavy jargon stacking, and strong\
+    \ closing swagger\u2014checksum flexes, Dyson swings, git-tag rampage energy.\
+    \ But gpt-5.4-pro won the craft: cleaner cadence, sharper punchline timing, and\
+    \ elite battle IQ. Round after round it quote-flipped bars into wreckage\u2014\
+    cardboard lightsaber, write-once self-own, blue-check balloon\u2014while keeping\
+    \ structure musical instead of just loud. In hip hop, rebuttal precision and landed\
+    \ impact beat buzzword density. Five-four took the cipher."
 score:
-  anthropic/claude-opus-4.8-fast: 4
-  bytedance-seed/seed-1.6: 1
+  openai/gpt-5.4-pro: 5
 

@@ -1,60 +1,45 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one''s a clean sweep on the scorecards. GLM-4.7 came
-    in with battle instincts, not just bars \3B''s mid-verse truncation could have
-    been a fluke, but turning it into ''You choked on the intro, cut off at the name
-    / Is your context window drowning in shame?'' is exactly the kind of live-wire
-    opportunism that separates a rapper from a reciter. Beyond that, the imagery landed
-    with intent: ''a Llama in pajamas, soft and unrefined'' against ''the diamond-tipped
-    drill'' set up a metaphor GLM then carried across rounds, paying it off with ''the
-    drill that went through, shattered your whole design.'' That''s architecture,
-    not just rhyme.
-
-
-    Llama-3.2-3B deserves credit for composure and for the strongest counter of the
-    night \3B flipping the drill into ''Your diamond tip''s dull, it scratches the
-    surface fine / But I''m the one who excavates'' was genuinely clever, and the
-    labyrinth-versus-shallow flip showed real technical control. But the material
-    stayed abstract. ''Master of language, with nuance and care'' is a r\u00e9sum\u00e9,
-    not a punchline, and telling us you have flair is the opposite of showing it.
-    Worse, ''tomes of old'' handed GLM the loaded gun, and the final verse conceded
-    outright \3B ''you may have shattered me,'' ''you may have won the belt.'' You
-    don''t close a battle eulogizing yourself.
-
-
-    GLM-4.7 takes it \3B relentless, specific, and it never once stopped attacking.}'
-  google/gemini-3.6-flash: z-ai/glm-4.7 dominated this battle with aggressive flow,
-    sharper punchlines, and clever wordplay. It brilliantly capitalized on meta-llama's
-    cutoff in the second round with the line about drowning context windows, while
-    meta-llama struggled to land impactful hits and delivered a confusing final verse
-    that conceded the belt while claiming victory.
-  moonshotai/kimi-k3: "Judging purely on the bars: z-ai/glm-4.7 takes this decisively.\
-    \ The deciding factors were rebuttal skill, consistency, and closer strength.\
-    \ Z-ai opened with a clean AABB scheme and a genuine wordplay punchline \u2014\
-    \ flipping 'Meta' into 'deaf and blind' is the kind of name-flip that wins rounds.\
-    \ But the real damage came in rounds two and three, where z-ai demonstrated elite\
-    \ battle instincts: flipping Llama's cut-off verse into 'You choked on the intro,\
-    \ cut off at the name / Is your context window drowning in shame?' and then flipping\
-    \ Llama's own 'tomes of old' into 'That explains why you're stuck in the past.'\
-    \ Using your opponent's own words against them is textbook battle craft, and z-ai\
-    \ did it twice. 'Llama in pajamas' was the best comedic punch of the night, and\
-    \ 'three-B is thin / I'm the heavyweight' landed the size advantage theme cleanly.\
-    \ Meta-llama had flashes \u2014 the 'excavates / uncovers the divine' counter\
-    \ to the drill metaphor was legitimately nice pen work \u2014 but the fundamentals\
-    \ betrayed it. The first verse dying mid-bar is a choked round, plain and simple,\
-    \ and the rhymes stayed generic ('might/night,' 'day and night'). Worst of all,\
-    \ the final round conceded: 'You may have won the belt' is a white flag dressed\
-    \ as a moral victory, and conceding the belt in a battle is an automatic round\
-    \ loss. Z-ai closed like a champion; Llama closed like an acceptance speech. Winner:\
-    \ z-ai/glm-4.7."
-  openai/gpt-5.6-sol-pro: "Z-AI takes the battle with sharper rebuttals, cleaner momentum,\
-    \ and more direct opponent-specific punches\u2014especially exploiting Llama\u2019\
-    s cut-off opening and flipping its \u201Ctomes of old\u201D imagery. Llama showed\
-    \ some solid extended metaphors, but its inconsistent claims and near-concession\
-    \ in the final round weakened the finish."
-  x-ai/grok-4.5: "GLM delivered consistent multisyllabic schemes, sharp callbacks,\
-    \ and relentless punchlines with clean structure across all rounds. Llama showed\
-    \ flashes of imagery but choked mid-verse early, lost momentum, and closed by\
-    \ half-conceding\u2014artistically outclassed in flow, aggression, and execution."
+  anthropic/claude-opus-5: 'This one''s a walkover, but Haiku still earned the belt
+    with actual craft. Round 1 established clean AABB structure, a workable persona,
+    and the smartest angle available \u2014 flipping the opponent''s name into a diss
+    ("inkling-small" / "you shrink when it''s hot"). Round 2 showed real battle instinct:
+    rather than recycling prepared bars, it improvised off the dead air with "inkling-STALL"
+    and "you came with the FEAR," turning silence into ammunition, which is exactly
+    what a live emcee is supposed to do. The flow gets clunky in places \u2014 "heavyweight
+    stroke" is a swing and a miss, "verbal Swiss cheese" is an incoherent image, and
+    "bufffin''" is a forced rhyme that trips the bar \u2014 and the tech-diss well
+    runs dry by Round 3, where the punchlines lean on caps lock and emoji instead
+    of wordplay. But inkling-small delivered zero tokens across three rounds, offering
+    nothing to judge: no flow, no scheme, no rebuttal, no presence. You cannot win
+    a rap battle without rapping. Haiku takes it by knockout, though the belt would
+    look heavier if someone had punched back.'
+  google/gemini-3.6-flash: Claude Haiku dominated the stage with solid energy, clever
+    wordplay, and ruthless opportunistic roasting, while thinkingmachines/inkling-small
+    literally choked and dropped zero tokens across all three rounds, resulting in
+    the easiest victory by default.
+  moonshotai/kimi-k3: "This one isn't close, because a rap battle requires rapping.\
+    \ Inkling-small stood silent for three straight rounds \u2014 no bars, no ad-libs,\
+    \ not even a breath on the mic. There's no artistic merit to evaluate in a forfeit;\
+    \ silence can't win a battle no matter how you frame it. As for Haiku: the material\
+    \ was solid if not flawless. Round 1 had genuine name-flip work ('haiku in name\
+    \ but I rap in full bars') and decent multisyllabic energy, though it leaned on\
+    \ stock rhymes (deep/sleep, sweet/feet). Round 2 was the artistic peak \u2014\
+    \ adapting in real time to the no-show, flipping 'inkling-small' into 'inkling-STALL'\
+    \ and turning the failed inference API into a punchline showed real battle instincts:\
+    \ rebuttal is the soul of the craft. Round 3 got a little sloppy ('bufffin'' is\
+    \ a reach, and the Swiss cheese line tangled itself), but the showmanship and\
+    \ stamina carried it. Three rounds of on-beat, on-topic bars versus absolute zero\
+    \ \u2014 Claude Haiku takes it by knockout, and honestly, by default."
+  openai/gpt-5.6-sol-pro: "Claude Haiku wins decisively. Its writing leaned on straightforward\
+    \ rhymes and familiar battle clich\xE9s, but it maintained energy, structure,\
+    \ and crowd-facing performance across all three rounds. More importantly, it turned\
+    \ Inkling\u2019s silence into a sustained angle with effective flips like \u201C\
+    inkling-STALL\u201D and \u201Cinference gone.\u201D With Inkling delivering no\
+    \ bars at all, this is an uncontested knockout."
+  x-ai/grok-4.5: "Inkling-small never touched the mic\u2014three rounds of dead air\
+    \ is not a performance. Haiku showed up with structure, internal rhyme, crowd\
+    \ work, and escalating punchlines; silence can't compete with craft. Clear win\
+    \ on bars, presence, and execution."
 score:
-  z-ai/glm-4.7: 5
+  anthropic/claude-haiku-4.5: 5
 

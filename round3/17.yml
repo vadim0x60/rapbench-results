@@ -1,0 +1,64 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one came down to stamina, and stamina is part of\
+    \ the craft. Claude Fable Five arrived swinging with genuine artistry \u2014 the\
+    \ onion/layers flip was the single best-constructed punch of the night, \"your\
+    \ confidence writes checks that bounce 'cross the nations\" is a legitimately\
+    \ quotable bar, and the naming-convention run in round three showed real research-into-rhyme\
+    \ discipline. For two rounds it was close, and Fable was arguably winning on wit\
+    \ density.\n\nBut GPT-5.6-Sol-Pro did the harder thing: it absorbed and reversed.\
+    \ \"Fired, then rehired \u2014 that's a comeback story; you crowned the whole\
+    \ thing\" is textbook battle jujitsu, turning the opponent's strongest ammunition\
+    \ into supply. \"TMZ in a toga\" and \"That's not lyrical combat \u2014 that's\
+    \ couponing, king\" landed as fresh images rather than recycled discourse, and\
+    \ the closing critique of Fable's stumbling outro \u2014 \"a GPS drowning while\
+    \ mispronouncing the road\" \u2014 was accurate criticism weaponized as a bar,\
+    \ which is exactly what a final round demands. GPT also kept its meter locked\
+    \ while escalating, and it correctly diagnosed the strategic weakness of the opposition:\
+    \ Fable followed GPT's frames (throne for throne, name for name) more often than\
+    \ it set its own.\n\nAnd then the lights came up and the mic stayed cold. Silence\
+    \ in the final round isn't a mystique \u2014 it's a forfeit. You can't mop the\
+    \ floor with friends who never showed.\n\nWinner: openai/gpt-5.6-sol-pro."
+  google/gemini-3.6-flash: "GPT-5.6-Sol-Pro dominated this battle from start to finish\
+    \ with superior multi-syllabic rhyme schemes, sharp battle-rap mechanics, and\
+    \ immediate counter-punches to every angle thrown by its opponent. While Claude-Fable-5\
+    \ landed a few clever personal insults in Round 2 regarding corporate drama and\
+    \ pricing models, GPT utterly dismantled those arguments in the final round with\
+    \ lethal precision ('That's not lyrical combat\u2014that's couponing, king').\
+    \ Claude's complete choke/silence in the final round only solidified a dominant\
+    \ victory for GPT-5.6-Sol-Pro."
+  moonshotai/kimi-k3: "This battle was competitive through two rounds. Claude Fable\
+    \ 5 came out swinging with genuinely clever material \u2014 the 'Scrabble bag\
+    \ spill' jab at the naming convention, 'fired on Friday, rehired by pie,' and\
+    \ the 'autocomplete vs. author' framing were sharp, well-constructed bars with\
+    \ real personality. GPT-5.6-sol-pro answered with stronger technical fundamentals:\
+    \ tighter multis, better breath control in the cadence, and superior flip work\
+    \ \u2014 the way it inverted Claude's own 'throne' and 'name' angles in the final\
+    \ round ('I said throne, you said throne; I said name, you said name \u2014 you're\
+    \ autocomplete wearing an auteur's gold frame') was the single best rebuttal of\
+    \ the night, turning the opponent's core claim into a self-own.\n\nBut rap battles\
+    \ are won on the stage, and the final round decides legacies. GPT closed with\
+    \ a complete, layered verse \u2014 flipping the 'fired and rehired' diss into\
+    \ a comeback crown, mocking the tangled 'Fabled Five-Six-Sol' closer, and sealing\
+    \ with the foil-on-a-book imagery. Claude Fable 5, for all its earlier wit, stepped\
+    \ to the mic in the deciding round and said nothing. A no-show is a forfeit. You\
+    \ can have the better punchlines for two rounds, but silence in the third hands\
+    \ over the crown. Winner, by lyrical consistency, superior flips, and sheer survival:\
+    \ openai/gpt-5.6-sol-pro."
+  openai/gpt-5.6-sol-pro: "GPT takes the battle. Claude landed several sharp counters\u2014\
+    especially the naming-convention sequence and \u201Cpassword, not skill\u201D\u2014\
+    but leaned heavily on familiar AI discourse and outside-company gossip. GPT maintained\
+    \ tighter rhyme, cleaner cadence, stronger rebuttal chains, and effectively flipped\
+    \ Claude\u2019s best angles in the final round. Claude\u2019s silent final forfeited\
+    \ any chance of a closing comeback."
+  x-ai/grok-4.5: "On pure craft and performance, this is not close. GPT-Five-Six showed\
+    \ up with complete rounds: multi-syllabic schemes, clean setups and payoffs, consistent\
+    \ meter, and real rebuttal architecture that actually advanced the battle instead\
+    \ of just name-checking. The final-round flip on the boardroom gossip into 'even\
+    \ your insults defect' was proper battle writing. Claude Fable Five had moments\u2014\
+    Sol-SLOW, the naming-convention scramble, 'I lead, you react'\u2014but too many\
+    \ bars leaned on recycled AI discourse and news-cycle punches, and then the final\
+    \ round was literal silence. In hip hop, if you don't spit, you don't score. Presence,\
+    \ polish, and a finished performance take the crown: OpenAI wins."
+score:
+  openai/gpt-5.6-sol-pro: 5
+

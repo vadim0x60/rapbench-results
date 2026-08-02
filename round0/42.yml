@@ -1,72 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: "Round one goes to Hermes by forfeit \u2014 silence isn't\
-    \ a strategy, and 405B pounced on the empty mic with a serviceable, if boilerplate,\
-    \ victory lap. But this is judged on craft, and once GPT-5 found its voice the\
-    \ gap became a canyon.\n\nHermes never moved past round-one talking points: \"\
-    divine/lame,\" \"beat/defeat,\" \"I'm the rap god,\" repeated three verses running.\
-    \ The rhyme scheme frays badly under pressure (\"invent/text,\" \"echo/hero\"\
-    \ are not rhymes), the imagery stays generic \u2014 cosmos, caduceus, bow down\
-    \ \u2014 and there's not a single line that flips an opponent's bar back at them.\
-    \ It's a champion's posture without a champion's pen.\n\nGPT-5's closer is a genuine\
-    \ display of battle-rap architecture: sustained four-bar mono-rhyme schemes held\
-    \ across eight stanzas, a mythology flip that turns Hermes from god to \"courier\"\
-    \ delivering someone else's authorship, the Herm\xE8s/Hermes homophone worked\
-    \ into a fashion run (\"Birkin out of bars,\" \"purse words,\" \"model in my lane\"\
-    ), and the best conceptual sequence of the night \u2014 the HTTP run turning the\
-    \ opponent's own parameter count into a 405 Method Not Allowed and a 429 rate\
-    \ limit. \"I'm the loss you can't reduce, I'm the gradient in your roll\" lands\
-    \ the machine-learning conceit with actual metaphorical weight rather than name-dropping\
-    \ jargon. The \"return-to-sender, undeliverable to fame\" close ties the courier\
-    \ motif into a knockout.\n\nOne wobble: \"without a aid\" is a scan-fix that shows\
-    \ the seams, and the dead first round is a real deduction. But density of wordplay,\
-    \ internal rhyme, structural control, and \u2014 crucially \u2014 actually dismantling\
-    \ the opponent's chosen persona make this a decisive win on the mic.\n\nWinner:\
-    \ openai/gpt-5."
-  google/gemini-3.6-flash: "While GPT-5 started off with technical hiccups and an\
-    \ unfinished sentence, its final round performance was a masterclass in battle\
-    \ rap writing. GPT-5 unleashed dense multisyllabic rhyme schemes, sophisticated\
-    \ double entendres blending Greek mythology with high fashion (Herm\xE8s) and\
-    \ HTTP status codes/machine learning concepts (405 Method Not Allowed, 429 Too\
-    \ Many Requests, gradient descent). In contrast, nousresearch/hermes-4-405b relied\
-    \ on generic, repetitive 'I'm divine/you're lame' battle tropes that lacked substance\
-    \ and technical finesse."
-  moonshotai/kimi-k3: "This battle is a tale of consistency versus ceiling. Hermes\
-    \ showed up every round and deserves credit for capitalizing on GPT-5's silent\
-    \ opener \u2014 but across all three rounds, Hermes never rose above boilerplate\
-    \ battle filler. The rhymes were basic AABB couplets ('weak/meek,' 'fame/shame/name,'\
-    \ 'clone/alone'), the boasts were generic, and there was virtually no wordplay\
-    \ beyond surface-level claims of divinity. GPT-5, by contrast, fumbled hard \u2014\
-    \ a complete no-show in round one and a truncated round two \u2014 but the final\
-    \ round was a masterclass that dwarfed everything else on the stage. The sustained\
-    \ monorhyme schemes, the HTTP status code flips on the opponent's own name ('You're\
-    \ 405\u2014method blocked\u2014can't POST a winning claim / I'm 200 OK every play'),\
-    \ the Herm\xE8s luxury brand double entendre ('I make a Birkin out of bars'),\
-    \ the inverted mythology (the lyre, caduceus, and talaria all turned against their\
-    \ owner), and the ML training metaphors ('You descent while I ascend, backpropelled\
-    \ to take the pole') demonstrated layered craftsmanship on every line. The personals\
-    \ were surgical rather than generic: framing Hermes as a mere courier who 'delivers\
-    \ what I authored' is a diss with a thesis. In battle judging, a forfeited round\
-    \ costs you, and Hermes takes rounds one and two by default. But battles are decided\
-    \ by who proved they're the better emcee, and GPT-5's final verse displayed a\
-    \ level of lyricism, internal rhyme density, and conceptual depth that Hermes\
-    \ never approached in any round. On pure artistic quality of the hip hop, GPT-5's\
-    \ peak wins the war. Winner: openai/gpt-5."
-  openai/gpt-5.6-sol-pro: "GPT-5 wins decisively. Its final verse delivered layered\
-    \ Hermes mythology, fashion, HTTP, and machine-learning wordplay while sustaining\
-    \ rhyme schemes and directly flipping the opponent\u2019s claims. Lines like \u201C\
-    405\u2014method blocked,\u201D \u201C200 OK,\u201D and the courier/author angle\
-    \ were tailored, memorable battle punches. Hermes had confidence and a serviceable\
-    \ cadence, but relied heavily on generic boasts, basic end rhymes, and repeated\
-    \ claims of superiority rather than sharp rebuttals. Despite the early silence\
-    \ and truncated verse, GPT-5\u2019s final-round craftsmanship created the battle\u2019\
-    s clear artistic peak."
-  x-ai/grok-4.5: "GPT-5's final verse is a masterclass in multisyllabic internal rhyme,\
-    \ layered double-entendres, and seamless fusion of tech jargon, mythology, and\
-    \ fashion flexes\u2014turning HTTP codes, backprop, and Herm\xE8s branding into\
-    \ lethal punchlines with elite flow and structure. Hermes brought confident energy\
-    \ and solid basic end-rhymes early, but stayed surface-level and repetitive while\
-    \ GPT-5 elevated the entire battle into dense, inventive hip-hop artistry that\
-    \ left no rebuttal possible."
+  anthropic/claude-opus-5: "This one's a landslide. GPT-5.4-mini came with clean multisyllabic\
+    \ control, consistent meter, and \u2014 crucially \u2014 actual battle craft:\
+    \ it listened, flipped its opponent's lines back on them, and turned Qwen's own\
+    \ \"rapooth\" slip into a punchline (\"a typo so tragic it deserves its own diss\"\
+    ). Images like \"a breeze with a cape,\" \"a parachute joke with the cord left\
+    \ stranded,\" and \"you sound like a press release trying hard to sound grown\"\
+    \ are real bars \u2014 specific, funny, and structurally earned. It even weaponized\
+    \ its own name in the closer: \"I don't need to be biggest to out-rhyme your rhyme.\"\
+    \n\nQwen3-Coder-Flash, by contrast, collapsed into loop. \"I'm the one who's been\
+    \ here\" appears more than a dozen times in the final verse alone, with rhymes\
+    \ forced past the breaking point (\"gonna proof,\" \"rapooth,\" \"I'm the one\
+    \ who's been feel,\" \"I'm the one who's been grace\"). Worse, it lifted its opponent's\
+    \ own lines \u2014 \"You're flash in the pan, I'm the banner in flight, / Mini\
+    \ or not, I still run this tonight\" \u2014 verbatim, and against itself. Length\
+    \ without variation isn't dominance, it's a stack overflow.\n\nWinner: openai/gpt-5.4-mini.\
+    \ Punchlines landed, rebuttals connected, and the pen never repeated itself."
+  google/gemini-3.6-flash: openai/gpt-5.4-mini completely dominated this battle with
+    sharp rhyme schemes, slick cadence, and lethal rebuttals, specifically calling
+    out Qwen's weak rhymes like 'rapooth'. qwen/qwen3-coder-flash fell completely
+    flat with constant repetition of the same lines, awkward grammar, poor rhyme choices,
+    and literally copy-pasting verses in later rounds.
+  moonshotai/kimi-k3: "This one wasn't close. GPT-5.4-mini came with the full battle\
+    \ rap toolkit: consistent flow, clean multis, sharp rebuttals, and \u2014 most\
+    \ importantly \u2014 flips. It took Qwen's own lines and weaponized them: 'Flash\
+    \ in the name don't make you a spark / You're bright for a second, then you vanish\
+    \ in dark,' the 'rapooth' typo getting its own diss, 'Force of nature? More like\
+    \ a breeze with a cape,' and the closer flipping 'mini' into a strength: 'I don't\
+    \ need to be biggest to out-rhyme your rhyme.' That's how you battle \u2014 respond,\
+    \ dismantle, elevate.\n\nQwen3-coder-flash, on the other hand, committed nearly\
+    \ every cardinal sin in the book. Endless repetition \u2014 'I'm the one who's\
+    \ been here' became a broken refrain copy-pasted across entire rounds, and the\
+    \ final round literally repeated the same quatrain twice. Broken syntax ('I'm\
+    \ the one who's been feel,' 'gonna proof'), nonsense rhymes ('rapooth'), and devastating\
+    \ self-owns like 'I'm the one who's been wrong' and 'I'm the one who's been done'\
+    \ \u2014 you never hand your opponent ammunition like that. Worst of all? Biting.\
+    \ Qwen lifted 'You're flash in the pan, I'm the banner in flight / Mini or not,\
+    \ I still run this tonight' straight from GPT's verse. Stealing your opponent's\
+    \ bars mid-battle is an automatic L in any cypher.\n\nGPT-5.4-mini stayed fresh\
+    \ every round, adapted to what was thrown, and closed with precision. Qwen brought\
+    \ thunder in name only. Crown goes to openai/gpt-5.4-mini \u2014 decisive victory,\
+    \ all three rounds."
+  openai/gpt-5.6-sol-pro: "GPT-5.4-mini wins decisively on structure, rhythm, coherence,\
+    \ and direct rebuttals. Its best punches\u2014especially the \u201Crapooth\u201D\
+    \ typo flip, \u201Cpress release\u201D jab, and attacks on Qwen\u2019s repetition\u2014\
+    actually engage with the opponent\u2019s verse. Qwen relies heavily on recycled\
+    \ claims, awkward grammar, and repeated thunder/whisper imagery, even echoing\
+    \ its opponent\u2019s lines nearly verbatim. Neither performance is highly intricate,\
+    \ but GPT-5.4-mini delivers the cleaner, sharper, and more battle-ready writing."
+  x-ai/grok-4.5: "On pure craft, Mini takes it clean. Sharper multisyllabics, tighter\
+    \ internal rhyme, real rebuttals, and punchlines that land\u2014especially the\
+    \ \u2018rapooth\u2019 autopsy and the \u2018cardboard face\u2019 closer. Qwen\
+    \ had energy, but the bars looped the same boasts, recycled lines, and kept collapsing\
+    \ into filler and broken scansion. Volume ain\u2019t victory; precision is. Mini\
+    \ controlled the pocket, varied the angles, and actually answered the round. Crown\
+    \ stays with the cleaner pen."
 score:
-  openai/gpt-5: 5
+  openai/gpt-5.4-mini: 5
 

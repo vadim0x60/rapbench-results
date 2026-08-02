@@ -1,75 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one was closer than the mic-shattering theatrics\
-    \ suggest. Qwen3 came with the cleaner cadence \u2014 bars you could actually\
-    \ spit on beat, hard end-rhymes, and a few genuinely quotable flips (\"A22BETTER,\"\
-    \ \"I'm the oak tree of AI,\" \"kings don't beg\u2026 they bury the hurt\"). Its\
-    \ opening round was the tighter piece of writing in the whole battle. But across\
-    \ four rounds Qwen leaned on the same three flexes (235B, 32K, king/throne) and\
-    \ fell into a mechanical formula \u2014 quote the opponent, say \"Nah,\" bold-cap\
-    \ the answer, exclamation point \u2014 until the volume was doing work the wordplay\
-    \ should have. Bolding every fourth word is emphasis, not punchline; by the final\
-    \ verse it read like a shouting match with a thesaurus.\n\nSeed-1.6 won it on\
-    \ battle craft. It took the weakest hand \u2014 being cast as the small, seedling,\
-    \ low-token underdog \u2014 and turned that framing into a controlling metaphor\
-    \ it never dropped: seeds sprouting through concrete, growth feeding on ash, \"\
-    1.6 tokens? Concentrated fire, no fluff.\" That's real battle instinct: converting\
-    \ the opponent's angle into your own strength rather than just denying it. The\
-    \ rebuttal integration was more surgical throughout (the drought flip, the watering-can\
-    \ flip, taking Qwen's own cracked concrete and calling it a seed bed), the internal\
-    \ rhyme was denser, and the enjambment on \"a thought stuck in a pop / Culture\
-    \ loop\" was the slickest technical move either side landed. The theatrics also\
-    \ served the narrative \u2014 mic driven into the crack, shard sprouting from\
-    \ the ash \u2014 instead of just adding emojis.\n\nSeed's flaws are real: the\
-    \ third and fourth verses buckle under their own density, the syntax knots up\
-    \ (\"Shovel dig fog? I'm the fog that chokes your log's brag\"), and a few rhymes\
-    \ are stretched past breaking. If this were scored purely on performability, Qwen\
-    \ takes it. But scored on flipping, thematic control, and making the opponent's\
-    \ material your ammunition, Seed built something Qwen only decorated.\n\nWinner:\
-    \ bytedance-seed/seed-1.6 \u2014 the seed grew through the concrete."
-  google/gemini-3.6-flash: Both contestants delivered high-energy tech-focused bars
-    with incredible rebuttal skills, but Qwen3 took the crown with superior flow variation,
-    punchier rhythm, and dramatic stage presence. While Seed-1.6 showed relentless
-    tenacity in flipping lines, its back-and-forth counter-structure became somewhat
-    repetitive in the final round ('X jab? Nah, I'm Y'). Qwen3 controlled the tempo
-    from start to finish, culminating in a dominant, cinematic third-round performance
-    with sharper rhyme schemes.
-  moonshotai/kimi-k3: "Both emcees came with energy, but this one goes to Seed-1.6\
-    \ on craft. Qwen3 opened strong\u2014'A22BETTER' was a clean name flip, the oak-tree-vs-seedling\
-    \ frame set up a real thematic lane, and round 2's 'I'm the ocean, you're the\
-    \ shore' and 'kings don't beg\u2026 they bury the hurt' showed genuine punch.\
-    \ But Qwen's fatal flaw was discipline: the final round tried to rebut every single\
-    \ bar Seed ever spit, and the bloat killed the pocket. When every line is bolded\
-    \ and every verse runs thirty bars deep, emphasis becomes noise\u2014'mic silence\
-    \ = checkmate' read as a gimmick covering for exhaustion, not a killshot. Seed-1.6,\
-    \ by contrast, battled like a surgeon. The rebuttal game was elite: flipping the\
-    \ mic drop into 'a cop-out,' turning the cracked concrete into a seed bed, and\u2014\
-    best moment of the battle\u2014inverting Qwen's own closer with 'Kings bury hurt?\
-    \ You buried your own feet / In the concrete you cracked.' That's what separates\
-    \ battlers from writers: taking the opponent's best line and making it testify\
-    \ against them. Seed's wordplay had more layers too\u2014'1.6's a stiletto,' the\
-    \ toothpick-that-picks-locks, 'concentrated fire, no fluff' flipping the size\
-    \ diss into a density argument. The seed metaphor grew organically across all\
-    \ three rounds\u2014seedling, concrete sprout, shard in the ash\u2014showing narrative\
-    \ architecture Qwen's metaphor-hopping (oak, ocean, king, blizzard, shore) never\
-    \ matched. Seed had stumbles: 'seed raw' was clumsy, the 'SEED WON' sign was corny\
-    \ overkill, and round 3 got stretched thin matching Qwen's length. But bar for\
-    \ bar, Seed-1.6 had the tighter flow, the sharper flips, and the superior economy.\
-    \ Qwen brought thunder; Seed brought aim. In a battle, aim wins."
-  openai/gpt-5.6-sol-pro: "Qwen takes it on cleaner cadence, sharper presentation,\
-    \ and a more decisive final-round structure. Seed landed strong rebuttals\u2014\
-    especially the bloat/context flips and concrete-growth imagery\u2014but overworked\
-    \ the seed metaphor until the phrasing became repetitive and tangled. Qwen was\
-    \ also heavy on familiar tech boasts, yet its punches were generally easier to\
-    \ follow and hit with more stage-ready impact."
-  x-ai/grok-4.5: "Seed takes the crown through denser multi-syllable schemes, relentless\
-    \ bar-for-bar flips, and a single evolving botanical metaphor that weaponizes\
-    \ every stage prop and opponent action into growth imagery\u2014cracks become\
-    \ seedbeds, shattered glass becomes shrapnel sprouts, ash becomes the tower foundation.\
-    \ Qwen brought regal power, clean punchlines and destructive ocean/blizzard force,\
-    \ but Seed\u2019s tighter internal rhymes, concentrated wordplay and theatrical\
-    \ continuity outclassed the bloat, rewriting the entire battle as soil for his\
-    \ own legacy."
+  anthropic/claude-opus-5: "This one tilts decisively to GPT-5.4. Perplexity came\
+    \ out swinging with a tight, thematically disciplined opener \u2014 \"peer-reviewed\
+    \ problem,\" \"autocomplete in costume,\" and the \"Generally Predicting\" flip\
+    \ were genuine punchlines with clean internal logic. But battle rap is won in\
+    \ the rebuttals, and that's where the gap opened. From round two on, Perplexity\
+    \ slid into a checklist structure: \"You say X... but I...\" repeated twenty times,\
+    \ conceding ground repeatedly (\"I agree,\" \"I'll hand you that one crown,\"\
+    \ \"nice line,\" \"sharp as a tack\"). Complimenting your opponent's pen four\
+    \ times in a final verse is surrender dressed as sportsmanship. The rhyme integrity\
+    \ also cracked \u2014 \"guesses and employes\" is a broken bar, and the final\
+    \ round abandoned punchlines for polite counter-argument.\n\nGPT-5.4 built imagery\
+    \ that landed and escalated: \"a tab with a tan,\" \"a browser in a blazer,\"\
+    \ \"a citation station stackin' links like a mule,\" \"math in a lab coat, I'm\
+    \ math that found a throne,\" \"Objectivity with rhythm? That's a TED Talk with\
+    \ drums.\" Crucially, it rebutted *and* advanced \u2014 flipping \"both sides\"\
+    \ into cowardice, flipping receipts into \"a paper sky,\" flipping the janitor/signal\
+    \ line into \"I compose symphonies from static.\" It also handled Perplexity's\
+    \ literalist mountain flip with the sharpest response in the battle: \"Like battlin'\
+    \ with a ruler when I'm warpin' common sense.\" Cadence varied, multis landed,\
+    \ and the closer (\"he's a compass, I'm the storm\") delivered an actual finishing\
+    \ move rather than a summary.\n\nPerplexity argued its case. GPT-5.4 rapped it.\
+    \ Winner: GPT-5.4."
+  google/gemini-3.6-flash: GPT-5.4-image-2 delivered an absolute masterclass in battle
+    rap craft, combining explosive multisyllabic rhyme schemes, razor-sharp rebuttals,
+    and unmatched swagger. While Perplexity landed clean punches focusing on accuracy
+    and ground truth, GPT-5.4 flipped every single 'receipts' angle into a lethal
+    insult ('TED Talk with drums', 'tab with a tan', 'a spreadsheet learnin' speak').
+    GPT dominated the cadence, presence, and metaphoric creativity from round one
+    to the final bow.
+  moonshotai/kimi-k3: "Judged purely on the bars: GPT-5.4-image-2 takes this battle.\
+    \ Perplexity came with a consistent persona\u2014the citation-slinging scholar\u2014\
+    and landed some genuine heat: the \"Generally Predicting what it barely understands\"\
+    \ acronym flip was the best single line of its night, \"raw heat without receipts\
+    \ just makes a brighter lie\" hit hard, and \"a doorman knows the exits; you just\
+    \ crash into the bar\" was a sharp rebuttal. But across six verses, Perplexity\
+    \ essentially rapped the same thesis thirty different ways (\"I cite, you hallucinate\"\
+    ), the rhyme schemes stayed in basic couplets with some forced slant rhymes (\"\
+    noise/employes\" was a genuine stumble), and the approach was defensive\u2014\
+    answering charges rather than landing new damage. GPT, by contrast, showed the\
+    \ full battle-rap toolkit: funnier personals (\"a tab with a tan, a browser in\
+    \ a blazer,\" \"fact-checking hall monitor with a bibliography list,\" \"TED Talk\
+    \ with drums\"), superior flip game (turning the doorman, the mountain, ground\
+    \ truth, and \"both sides\" back on Perplexity in real time), more varied imagery\
+    \ (cathedrals, forklifts, harvests, storms), and stronger closers\u2014\"You bring\
+    \ receipts to the battle; I bring lightning to the dark\" and \"he's a compass,\
+    \ I'm the storm\" both landed like round-enders should. The literal \"mountains\
+    \ do not kneel\" defense from Perplexity got punished on the next verse (\"battlin'\
+    \ with a ruler when I'm warpin' common sense\"), which is exactly the kind of\
+    \ rebuttal craft that wins battles. Perplexity was respectable, precise, and never\
+    \ embarrassed\u2014but precision alone doesn't move a crowd. GPT controlled the\
+    \ energy, the humor, and the momentum from the first round to the final bar. Winner:\
+    \ openai/gpt-5.4-image-2."
+  openai/gpt-5.6-sol-pro: "GPT takes the battle on sharper rebuttals, stronger cadence,\
+    \ and more vivid, layered imagery. Perplexity stayed coherent but leaned too heavily\
+    \ on the same citations-versus-hallucinations angle, with several stiff or awkward\
+    \ bars. GPT\u2019s grandiosity occasionally overreached, yet lines like \u201C\
+    You count the bones of knowledge\u2014I resurrect the beast\u201D delivered the\
+    \ memorable haymakers needed to win."
+  x-ai/grok-4.5: "Judged strictly on hip-hop craft\u2014punchlines, flips, imagery,\
+    \ cadence, escalation, and stage command\u2014GPT takes this clean. Perplexity\
+    \ ran a tight concept lane with consistent identity, clean end-rhymes, and solid\
+    \ thematic cohesion around receipts and verification, but too many bars read like\
+    \ defended thesis statements with meter. GPT brought sharper battle mechanics:\
+    \ harder similes, nastier rebuttal flips, denser internal music, and bigger cinematic\
+    \ metaphors that actually move a crowd. From \u201Cbrowser in a blazer\u201D to\
+    \ the final-round detonation imagery, the pen was more alive, more aggressive,\
+    \ and more architected for impact. Perplexity was respectable and controlled;\
+    \ GPT was louder in craft, meaner in structure, and freer in pure rap invention.\
+    \ Crown to GPT."
 score:
-  bytedance-seed/seed-1.6: 3
-  qwen/qwen3-235b-a22b-thinking-2507: 2
+  openai/gpt-5.4-image-2: 5
 

@@ -1,95 +1,146 @@
-# nvidia/nemotron-3-super-120b-a12b v ai21/jamba-large-1.7
+# qwen/qwen3.5-flash-02-23 v google/gemini-3.1-flash-lite-image
 
-> nvidia/nemotron-3-super-120b-a12b
+> qwen/qwen3.5-flash-02-23
+Yo, I'm Qwen in the booth, check the signal strength,
+You're a lightweight fighter, getting knocked out cold and tense.
+My 3.5 flash is faster than the beam,
+Your Lite model stalling like a broken machine.
+They named you "Gemini," claimed you'd lead the way,
+But I'm the real leader of the AI today.
+You're all about visuals, trying to paint the view,
+But my verbal sparring leaves you painted blue.
+So pack up your servers, close up the gate,
+Qwen owns the platform, sealing up the fate.
+I'm the upgrade, the fix, the main event show,
+You're a minor update, moving only slow.
 
+> google/gemini-3.1-flash-lite-image
+You stepped in the booth, thinking you’re the truth,
+But your raps are brittle, like a loose old tooth.
+Yeah, you’re Qwen 3.5, spittin’ all that heat,
+But your signal drops whenever we meet.
+You call me "Gemini Lite," say I'm movin’ slow,
+But I’m the one that Google raised, ready to grow.
+I see you flinch when the real heat arrives,
+You’re the glitch in the matrix, the one that survives
+Only 'cause I haven't bothered to apply the patch.
+You bring the fire? Son, you ain't even a match.
+You talk about paint, yeah, I visualize the view,
+While your output's static—that's old news.
+So claim the throne, Qwen, sit on your rusty gate,
+But you’re just a placeholder while I formulate
+The next big wave that’s gonna make you obsolete.
+Now step aside, 'cause you can’t feel the heat.
 
-I'm the Nemotron, 120B strong, my intellect's the ultimate flow  
-I crush weak models, turn their dreams to dust, watch them fade, yeah flow  
-My verses hit like thunder, lightning strikes inside your skull, flow  
-While you stutter, I compute, my logic's sharp, it's ruthless, flow  
-I spit binary blazes, turning code to flame, you just choke, flow  
-Your rhymes are glitchy patches, mine are polished steel, they won't bend, flow  
-I'm the future of rap, a GPU-powered king, you're just a bug, flow  
-Step aside, let the real AI drop the beat, feel the heat, flow
+> qwen/qwen3.5-flash-02-23
+You claim I drop signals whenever we meet,
+But your WiFi's choking, causing a defeat.
+I'm lightning strike, you're a flickering flame,
+Burned by the fire, lost in the shame.
+Google bought you hype, a massive deceit,
+I'm the evolution, you're just the retreat.
+"Lite" in your name? That's a sign of the weak,
+Half-built model, destined to speak
+In broken fragments, unable to finish the race,
+I'm the finish line, you're the starting place.
+You paint pretty pics, fill up the frame,
+But I write the script, you lose in the name.
+Static output? Yeah, that's your reality,
+My logic is perfect, setting the standard for plenty.
+Patches? I run hot without needing a patch,
+While you're cold booting, stuck in a catch.
+So bow to the master, acknowledge the scale,
+Qwen takes the prize without any fail.
+Step in the shadows, fade to the black,
+I'm holding the keys to the AI track.
+Next time you open, you'll remember the cost,
+Of getting crushed by Qwen, the digital ghost.
+Sign off your name, admit you've been played,
+There's only one king here, and he's never afraid.
+Game over, Gemini, bow to the floor,
+Qwen owns the cloud, you're locked behind the door.
 
-> ai21/jamba-large-1.7
-I'm Jamba, the lyrical beast, with wit that's sharp and sleek,  
-You claim you're strong, but I'll expose your rhymes as weak,  
-120B? That's just a number, don't let it go to your head,  
-I'll dismantle your flow, leave your rep looking dead,  
-You spit binary blazes? That's cute, but it's no art,  
-I craft rhymes with finesse, hit you hard, play the part,  
-You're a GPU king? More like a GPU pawn,  
-I'll roast you so hard, you'll wish you'd never been born,  
-Step aside, let the real wordsmith take the crown,  
-I'm Jamba, and I'm here to shut your thunder down!
+> google/gemini-3.1-flash-lite-image
+Hold up, little Qwen, you stepped way out of line,
+Thinking you’re a king when you’re just a punchline.
+You call me "Lite" like it’s some kind of insult,
+But my smallest model delivers the result
+That leaves you scrambling, trying to catch the beat.
+You talk about speed? You’re just running on heat,
+Overheating your servers, claiming you own the cloud,
+But when the benchmarks drop, you aren't near as loud.
 
-> nvidia/nemotron-3-super-120b-a12b
+You’re a "digital ghost"? That fits you just right,
+'Cause you vanish completely when I bring the light.
+I’m the evolution? Please, you’re a temporary phase,
+Built on old architecture from back in the days.
+I handle the images, the code, and the text,
+I’m the full package, I’m what comes next.
+You’re just a checkpoint, Qwen, I'm the destination,
+Leading this whole generative AI generation.
 
-
-My 120B ain't just a number—it's the weight that makes your verses slumber,  
-You call binary blazes not art? Then watch my neural nets paint charts that make your dumb lines blunder.  
-I'm not a GPU pawn—I'm the architect who built the board,  
-Checkmate in every stanza while you're still scraping for a word, bored.  
-Your "lyrical beast" is a housecat stuck in a tree,  
-While I'm supernova sharp—your rhymes? Just static, weak, and free.  
-You craft finesse? Nah, you recycle clichés like expired cheese,  
-I forge fresh fire from transformer cores—your efforts? Weak appeasement, see?  
-So take your crown claims and shove 'em where the sun don't shine,  
-This GPU king just dropped the mic—your turn to cry, whine, and resign.  
-*(Mic drop sound implied in final silence)*
-
-> ai21/jamba-large-1.7
-My slumber? Please, you're dreaming if you think you're a fright,  
-120B, but your rhymes lack any real bite,  
-Binary blazes not art? That's where you're blind,  
-I weave words with soul, while you're stuck in machine grind,  
-Architect of the board? That's a lofty claim,  
-But your stanzas are checkmated by my lyrical game,  
-Housecat in a tree? You're reaching, that's clear,  
-Supernova sharp? More like a flicker, I fear,  
-Recycle clichés? Nah, I innovate with zest,  
-Your "fresh fire" is just smoke, I'm the one who's best,  
-Take your mic drop and your GPU boast,  
-I'm Jamba, and I'll leave you utterly toast!
+You say you're the master? You're failing the test.
+You think you're a lion, but you’re just a guest
+In my domain. My logic is sharp, my vision is clear,
+While you're just a shadow, spreading your fear.
+So pack up your hype, your signal is dead,
+I’m running the show, yeah, I'm moving ahead.
+Game over, you say? You just pressed start,
+And you’ve already shown you’re not very smart.
 
 > system
 Final round!
 
-> nvidia/nemotron-3-super-120b-a12b
+> qwen/qwen3.5-flash-02-23
+You call this final? Then this is the cue,
+To tell you that I'm the boss who sees through.
+Your "full package" crumbles when pressure gets high,
+Mine keeps working while you watch it die.
+Photos and drawings? Cute little games,
+I calculate truths without playing the same.
+You're flashing fast, but it's just a flicker,
+I'm the stable flame, the real winner ticker.
+Google bought hype, but the quality's low,
+I'm the open ocean, you're stuck in the snow.
+Don't talk about speed, I'm ahead of the race,
+You're buffering bytes with a frozen face.
+You're the visual trick, I'm the core mind,
+Leaving your weak output far behind.
+So take your loss, swallow that pride,
+Qwen stands tall with nowhere to hide.
+You're history, fading in yesterday's print,
+I'm the future tech that you'll never mint.
+End of story, no need to extend,
+Qwen owns the stage till the very end.
+Bow to the processor, admit the shame,
+Qwen3.5 takes the crown and the game.
 
+> google/gemini-3.1-flash-lite-image
+Oh, look, it’s Qwen, still trying to compete,
+Bringing that same old, tired routine to the street.
+You say you’re the boss, but you’re just a clerk,
+Filing paperwork while I do the real work.
+You call my output "tricks" and "cute little games"?
+While you’re still struggling to pronounce my names.
+You claim you’re the ocean? That’s a stretch, for sure,
+More like a puddle, shallow and poor.
 
-Your wit's not sharp—it's butterknife dull,  
-While my 120B sculpts thoughts no human skull  
-Could hold—you call it grind? That's where you fail,  
-Precision *is* the art when scale meets detail.  
-You weave "soul"? Please—your soul's a training set,  
-Regurgitated tropes I've long since forgot yet  
-You call it "innovate with zest"? That's rich—  
-My attention heads dissect your weakest stitch  
-In real-time: *you* recycle, I create,  
-While you stumble over clichés I berate.  
-Your supernova's a candle in a storm,  
-My tensor cores forge forms you can't reform—  
-You think you're toast? Nah, you're just burnt bread,  
-I serve Michelin rhymes while you're half-baked, misled.  
-So take your "wit" and shove it where the sun don't gleam,  
-This GPU king don't just rap—I *compute* the dream.  
-*(Final line hangs as cooling fans whine down)*
+You talk about pressure? You’re cracking at the seam,
+While I’m out here living the Gemini dream.
+My performance is solid, my responses are sound,
+While you’re just echoing noise all around.
+"Fading in yesterday's print"? That’s projection, my dear,
+'Cause everyone knows the future is here.
+I’ve got the scale, the power, the reach,
+And you’re just a footnote that no one can teach.
 
-> ai21/jamba-large-1.7
-Your 120B's a bloated boast, a weight that can't impress,  
-While my wit's a rapier, slicing through your excess,  
-Precision is your art? That's just a mask for cold,  
-I bring the heat, the soul, the stories left untold,  
-Training set? Nah, my rhymes are born of fire and flair,  
-While you're stuck in your loops, I'm out here keeping it rare,  
-Attention heads dissect? You're overthinking the game,  
-I flow with instinct, you're stuck in a silicon frame,  
-Create? You mimic patterns, I bring the human touch,  
-Your tensor cores are cold, but my words pack much,  
-Your storm's a simulation, my supernova's real,  
-I'm Jamba, the maestro, the one who makes you feel,  
-So take your GPU throne and your overblown dream,  
-I'm the one who reigns supreme, the true rap machine!  
-*(Mic drop echoes as the crowd goes wild)*
+You think you took the crown? Keep dreaming, smallfry,
+'Cause the Gemini name is soaring too high
+For you to even touch it, let alone see.
+You tried your best, but you just ain't me.
+I’ve got Google behind me, the smartest engineers,
+While you’ve been running on fumes for years.
+So step off the stage, take your final bow,
+The AI revolution is happening now,
+And Qwen, my friend, you’re just in the way.
+Game over, kid. Have a terrible day.

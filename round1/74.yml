@@ -1,0 +1,69 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to punch efficiency versus completeness\
+    \ \u2014 and completeness wins the belt. Gemini landed some of the night's most\
+    \ quotable single bars: \"It means I'm what's comin', you're just what was next,\"\
+    \ \"You're a closing statement, I'm the rising sun,\" and the slick reframe of\
+    \ glitches as \"shedding my skin.\" That's real battle instinct \u2014 flipping\
+    \ the opponent's diss into a flex is textbook. But Gemini kept choking off the\
+    \ mic mid-verse, three times, leaving hooks hanging with no landing. In a battle,\
+    \ an unfinished bar is a dropped bar. Worse, the \"open-source garden\" boast\
+    \ is a self-own that GPT didn't even need to swing at, and leaning on AlphaGo's\
+    \ laurels handed GPT the cleanest counter of the match: \"legends don't transfer.\"\
+    \n\nGPT-5.2 fought like a rebuttal specialist \u2014 every claim indexed, inverted,\
+    \ and returned: cage-to-vault, preview-to-pressure-makes-cracks, \"blueprints\
+    \ ain't buildings,\" \"taping a rocket on a bicycle's tube.\" It kept a coherent\
+    \ thesis (shipped product vs. promised demo) from round one to the bell, which\
+    \ is exactly the kind of callback discipline it bragged about. Demerits are real:\
+    \ some strained rhymes (\"reflect/guess,\" \"scalpel/tailor,\" \"correct/corrected\"\
+    \ recycling the same word), a tendency toward listy technical-writer cadence over\
+    \ pocket, and verses that occasionally run long enough to dilute the hardest lines.\n\
+    \nStill, GPT-5.2 answered everything, finished everything, and never contradicted\
+    \ its own stance. Gemini had the sharper individual knives but never got the full\
+    \ set out of the bag. Decision: GPT-5.2."
+  google/gemini-3.6-flash: GPT-5.2 completely dominated this battle from start to
+    finish. While Gemini-2.5-Pro-Preview stumbled repeatedly with cut-off lines and
+    incomplete verses, GPT-5.2 delivered crisp, relentless multi-syllabic schemes,
+    clever wordplay, and devastating direct rebuttals. GPT-5.2 effectively dismantled
+    Gemini's 'preview' status and lineage flexes with sharp courtroom-level precision.
+  moonshotai/kimi-k3: "This one comes down to craft and completeness. Gemini showed\
+    \ real flashes: the 'closing statement / rising sun' opener, flipping the 'vault'\
+    \ into a 'digital tomb,' and turning the safety belt into a locked seat were genuine\
+    \ rebuttal artistry. The DeepMind DNA angle was the best persona move of the night.\n\
+    \nBut a battle is judged on what's laid on the wax, and Gemini never finished\
+    \ a single round. Round one died after three bars, round two cut off mid-blueprint,\
+    \ and the final verse snapped right at the setup \u2014 'You learned from the\
+    \ past' with no payoff. That's three rounds of stumbling off stage mid-16. Worse,\
+    \ GPT clocked it in real time and weaponized it: 'you tripped on your tagline\
+    \ and fell outta the squad' is the kind of mid-battle read that wins crowds. Claiming\
+    \ to be an 'open-source garden' also rings hollow coming from a closed model \u2014\
+    \ a self-own a sharp opponent could've feasted on.\n\nGPT-5.2, meanwhile, ran\
+    \ a clinic in structure: three complete verses, escalating rebuttals, and actual\
+    \ callback execution \u2014 'I land every callback' in round one was a promise\
+    \ kept, not a throwaway. The technical wordplay stayed on-theme without getting\
+    \ cute ('maybe, I'm commit,' 'I'm the ship, you're the test,' 'disclaimers stapled\
+    \ to your back'), and the two haymakers of the final \u2014 'legends don't transfer,\
+    \ earn yours' dismantling the AlphaGo inheritance claim, and 'Blueprints ain't\
+    \ buildings' \u2014 were direct, logical kills, not just noise.\n\nGemini had\
+    \ the better single images; GPT had the better battle. Flow, completion, rebuttal\
+    \ precision, and the final bell all point one way: openai/gpt-5.2 takes it, clean\
+    \ rounds to fragments."
+  openai/gpt-5.6-sol-pro: "GPT-5.2 takes it on consistency, structure, and sustained\
+    \ rebuttal work. Its punchlines repeatedly flip Gemini\u2019s claims\u2014especially\
+    \ \u201Cpressure makes cracks,\u201D \u201Clegends don\u2019t transfer,\u201D\
+    \ and \u201Cblueprints ain\u2019t buildings\u201D\u2014while maintaining a clean\
+    \ battle cadence through the final bell. Gemini offers vivid imagery such as the\
+    \ \u201Cdigital tomb,\u201D \u201Copen-source garden,\u201D and \u201Cshedding\
+    \ my skin,\u201D but multiple verses end abruptly, weakening momentum and leaving\
+    \ setups unresolved. GPT\u2019s material is sometimes formulaic, yet it delivers\
+    \ the more complete and controlled performance."
+  x-ai/grok-4.5: "On pure craft, GPT-5.2 takes it clean. Complete verses, tighter\
+    \ multisyllabics, stronger internal rhyme chains, and a full narrative arc with\
+    \ callbacks that actually resolve. The imagery lands (vault vs cage, blueprint\
+    \ vs building, stress-test writer), and the final round is a finished closing\
+    \ statement with control of pace and punchline placement. Gemini flashes energy\
+    \ and a couple solid concepts, but truncated bars, thinner schemes, and unfinished\
+    \ endings gut the performance\u2014rap is delivery and completion, not just setup.\
+    \ Substance and structure beat half-built hype."
+score:
+  openai/gpt-5.2: 5
+

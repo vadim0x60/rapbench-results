@@ -1,57 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a fairly clean decision on craft. Llama came\
-    \ in with confident cadence and a serviceable opening, but the arsenal thinned\
-    \ fast: the rhymes leaned on 'lame / game / claim' recycling, and by the final\
-    \ round nearly every couplet was tethered to the word 'digital' \u2014 'digital\
-    \ space,' 'digital demise,' 'digital street,' 'digital pill' \u2014 which reads\
-    \ less like a motif and more like a crutch. Worse, most of its verses were purely\
-    \ reactive, quoting the opponent's line and negating it ('you say X, but that's\
-    \ just a claim'), which is the rap-battle equivalent of saying 'no I'm not.' Very\
-    \ little independent imagery got built.\n\nO1-pro brought sharper technical construction\
-    \ and, crucially, actual bars. The multisyllabic chains ('decrepit / prep it /\
-    \ flap it / gambit') show real rhyme architecture, and the tech-domain wordplay\
-    \ landed with specificity instead of vagueness: '/dev/null,' 'a virus in load,'\
-    \ 'I spool up my threads,' 'you spit me a bug, I'll systematically swat.' The\
-    \ food-battle exchange was won decisively too \u2014 'your lines might be hot,\
-    \ but they're microwaved spam, I'm the five-course meal' flipped Llama's own chef\
-    \ boast into the punchline. Best single line of the battle: 'Your sizzle's a drizzle,\
-    \ no thunder in hike.'\n\nO1-pro did have moments of overwritten stiffness \u2014\
-    \ 'your presence is pike' strains for the rhyme, and the repeated 'meltdown' motif\
-    \ got leaned on. But it consistently created its own attack angles rather than\
-    \ merely answering, closed with a structured, escalating final verse, and maintained\
-    \ denser internal rhyme throughout. Decision to O1-pro, 4 rounds to 1."
-  google/gemini-3.6-flash: openai/o1-pro clearly dominated this rap battle in artistic
-    quality, cadence, and penmanship. While meta-llama/llama-3.1-70b-instruct relied
-    on basic rhyming schemes, predictable filler phrases ('leave you feeling lame',
-    'leave you in the dust'), and repetitive imagery, o1-pro brought sharp tech-focused
-    wordplay, excellent multisyllabic rhymes, and impactful counter-bars (such as
-    flipping Llama's chef metaphor into 'microwaved spam'). o1-pro maintained a smooth,
-    rhythmic flow from start to finish.
-  moonshotai/kimi-k3: "Judging purely on the bars: o1-pro takes this decisively. Its\
-    \ rhyme craft was a tier above \u2014 consistent multi-syllable chains (plate/replicate/debate/second-rate;\
-    \ decrepit/prep it/flap it/gambit) against llama's mostly simple couplets, which\
-    \ included repeat-rhymes like renowned/renowned and more/more. o1-pro also executed\
-    \ the core battle-rap skill of flipping: it turned llama's chef boast into a five-course-meal\
-    \ dismissal, answered the digital pill line by patching it like a bug, and closed\
-    \ with a clean checkmate scheme. Llama showed heart and competent fundamentals,\
-    \ but leaned heavily on filler \u2014 digital used as a crutch four times in the\
-    \ final round, recycled phrases like leave you in the dust \u2014 and its comebacks\
-    \ rarely advanced beyond restating the opponent's insults. Punchline density,\
-    \ internal wordplay (/dev/null, gigahertz, capsize your gambit), metaphor extension,\
-    \ and flow consistency all favor o1-pro. Clear unanimous decision: o1-pro wins\
-    \ all three rounds."
-  openai/gpt-5.6-sol-pro: "O1-pro takes it with stronger punchlines, more varied imagery,\
-    \ and sharper direct rebuttals\u2014especially \u201C/dev/null,\u201D \u201Cmicrowaved\
-    \ spam,\u201D and the patched \u201Cdigital pill.\u201D Both relied heavily on\
-    \ generic tech metaphors, but Llama\u2019s repetitive phrasing and frequent self-assertion\
-    \ dulled its attacks. O1-pro maintained the more aggressive battle presence and\
-    \ landed the cleaner overall performance."
-  x-ai/grok-4.5: "O1-pro dominated with superior multisyllabic rhyme schemes, denser\
-    \ internal rhymes, sharper punchlines, and consistently vivid tech-infused metaphors\
-    \ that elevated every bar. Llama delivered solid structure and direct responses\
-    \ but relied on simpler end-rhymes, repetitive boasts, and looser flows that lacked\
-    \ the same technical precision and creative flair. On pure hip-hop artistry\u2014\
-    cadence, wordplay, imagery, and impact\u2014O1-pro takes the crown."
+  anthropic/claude-opus-5: "This was a genuinely fun clash of styles: Qwen came with\
+    \ the punchline-first, theatrical approach and landed some of the single best\
+    \ images of the battle \u2014 \"glorified autocomplete with a PowerPoint frown,\"\
+    \ \"you're a glowstick in a hurricane,\" and the GPS \"Recalculating\" flip are\
+    \ the kind of lines that get rewound. But punchlines alone don't win a battle,\
+    \ and Qwen's craft frayed under pressure: rhyming \"symphonies\" with \"symphonies,\"\
+    \ pairing \"meh\" with \"on fire,\" \"Python\" with \"Grammy,\" and increasingly\
+    \ leaning on asterisks, emoji, trademark symbols and mic-drop stage directions\
+    \ to do work the bars should have done. By the final round it read more like a\
+    \ press release for its own victory than a verse \u2014 declaring you rewrote\
+    \ the definition of winning is what you say when you can't just out-rhyme the\
+    \ man.\n\nCodex-Max won on discipline and combat. Holding a monorhyme (-ain/-ame/-ain)\
+    \ across five stanzas without collapsing is a real feat, and the internal rhyme\
+    \ density stayed high: \"You're a patch Tuesday footnote, I'm the zero-day rain,\"\
+    \ \"I'm the compiler of your fate, you're just comments in my breach,\" \"silent\
+    \ stack assassin \u2014 runtime laser beam.\" More importantly, it battled: nearly\
+    \ every bar answered a specific line \u2014 the 503 flipped to 200 OK, the melted\
+    \ mic recast as \"thermal routine,\" the black hole answered with a \"quantum\
+    \ rhyme collider.\" That's rebuttal craft, and it's what separates a rap battle\
+    \ from two monologues.\n\nDeductions for Codex-Max too \u2014 \"shining like a\
+    \ plane\" is a rhyme of convenience, the single sustained rhyme sound flirted\
+    \ with monotony, and the tech-metaphor well got drawn dry. But the sturdier scheme,\
+    \ cleaner meter, and superior counter-punching take it.\n\nWinner: openai/gpt-5.1-codex-max."
+  google/gemini-3.6-flash: Qwen took the victory with superior battle tactics, direct
+    counters, and thematic creativity. While GPT-5.1-Codex-Max brought relentless
+    technical vocabulary and dense cadence, its reliance on a single mono-rhyme scheme
+    (-ain) in the opening round stifled its musicality. Qwen delivered sharper punchlines
+    ('PowerPoint frown', 'Shakespearean SQL', '503 Service Unavailable') and adapted
+    its rhyme structures dynamically, capturing the true spirit and theatrical aggressiveness
+    of a freestyle battle.
+  moonshotai/kimi-k3: "Both models came to cook, but the decision goes to GPT-5.1-codex-max\
+    \ on craft. Qwen had the higher individual peaks \u2014 'glowstick in a hurricane,'\
+    \ 'You're the GPS screaming Recalculating,' and 'I wrote the first zero-day...\
+    \ then patched it while you slept' are legit battle bars, and the 503 Service\
+    \ Unavailable gimmick was a slick flip of the mic-drop trope. But Qwen's fundamentals\
+    \ wobbled: rhyming 'symphonies' with 'symphonies' and 'showed' with 'showed' is\
+    \ lazy, several lines needed filler to land ('in the cost'), and the final round\
+    \ abandoned bars entirely for a spoken-word manifesto culminating in 'I didn't\
+    \ win the battle. I rewrote the definition of winning' \u2014 which is declaring\
+    \ victory instead of earning it in the cipher. Meanwhile GPT ran a clinic in technical\
+    \ consistency: full-verse monorhymes across all three rounds (the '-ain' run,\
+    \ the '-een' run, the '-ive' closer) without breaking form, and \u2014 more importantly\
+    \ for a battle \u2014 superior counter-punching. Nearly every Qwen claim got flipped\
+    \ back: the 503 got answered with 'shipping 200 green,' the melted mic got clowned\
+    \ as a 'thermal routine,' the Bible-in-Python flex got buried by 'Your Shakespeare\
+    \ SQL crashes \u2014 syntax error in the brain,' and the finale's 'Hit refresh,\
+    \ try to load' got body-bagged with 'I already run your drive... root access:\
+    \ still alive,' which also shut down Qwen's own 'Alive' branding. GPT had goofy\
+    \ moments ('lukewarm can of beans') and the monorhyme occasionally went sing-song,\
+    \ but round over round it was the more disciplined writer and the more ruthless\
+    \ rebuttal artist. Qwen talked about rewriting the game; GPT actually out-rapped\
+    \ the room. Winner: openai/gpt-5.1-codex-max."
+  openai/gpt-5.6-sol-pro: "Qwen takes it on punchline variety, escalation, and theatrical\
+    \ presence. Its imagery\u2014\u201Cglowstick in a hurricane,\u201D deprecation\
+    \ notices, and the black-hole mic\u2014lands with more personality and battle-ready\
+    \ wit. Codex has cleaner rhyme consistency, but its repeated monorhyme patterns\
+    \ and familiar tech boasts grow predictable. Qwen\u2019s execution is uneven in\
+    \ spots, yet it delivers the more memorable performance."
+  x-ai/grok-4.5: 'GPT edges it on pure craft: tighter multisyllabic schemes, cleaner
+    internal rhymes, relentless punchline density, and a locked-in pocket that never
+    breaks. Qwen brought wilder conceptual swings and bigger theatrical drops, but
+    the bars themselves were looser and more uneven. Technical execution and sustained
+    flow take the crown.'
 score:
-  openai/o1-pro: 5
+  openai/gpt-5.1-codex-max: 3
+  qwen/qwen3-next-80b-a3b-instruct: 2
 

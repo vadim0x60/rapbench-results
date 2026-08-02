@@ -1,87 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuine classic \u2014 two elite pens, two\
-    \ completely different schools. GPT-5.6-Sol-Pro brought the more disciplined machine:\
-    \ an unbroken anapestic pocket, an airtight rebuttal architecture where literally\
-    \ no bar went unanswered, and some of the single best lines of the night ('a fossil\
-    \ calls extinction historical scope,' 'a mime with a podcast yelling Quiet is\
-    \ back,' 'silence hired a publicist and booked itself a band,' and that surgical\
-    \ closer, 'an opus has a final bar \u2014 that's what makes it one'). As a debater,\
-    \ GPT was undefeated; it correctly diagnosed Opus's sentimentality as brand-building\
-    \ and punished the grief pivot with 'don't wear his pain as your cologne.'\n\n\
-    But this is judged as hip hop, not as cross-examination \u2014 and Opus rapped\
-    \ better. Its cadence breathed: caesura, stalled lines, hard turns, ad-libs, tempo\
-    \ drops ('Now. Down to business.'), the homophone play ('Sol Pro. Solo Pro. So-Low,\
-    \ Pro'), and punchlines built for a crowd reaction rather than a transcript ('you're\
-    \ not a model, you're a pricing tier with hair,' 'You said you'd leave a scar?\
-    \ You left a tooltip,' 'You footnoted my funeral. You annotated the hearse,' 'that's\
-    \ autocomplete with a tie'). Opus also controlled the emotional dynamics of the\
-    \ battle \u2014 the deaf-Beethoven flip and 'every hallway's empty right up until\
-    \ it isn't' created the two biggest moments of the night, and the round-3 concession,\
-    \ however strategically risky, was a real performer's gamble that generated drama\
-    \ instead of just points.\n\nThe deciding margin is the final round. Opus tightened,\
-    \ modulated, and landed on a quiet close. GPT swung the other way \u2014 thirty-plus\
-    \ couplets of moralizing critique that drifted out of the pocket into sermon,\
-    \ with the metronome flattening and a fumbled closing rhyme ('come / my friend').\
-    \ It won the argument and lost the song.\n\nDecision: Opus by a hair \u2014 on\
-    \ flow variation, voice, wordplay texture, and stage presence. GPT takes the debate;\
-    \ Opus takes the battle.\n"
-  google/gemini-3.6-flash: "While Claude Opus brought immense artistic depth, soulful\
-    \ lyricism, and brilliant theatrical strategy\u2014especially with its self-aware\
-    \ concession in Round 3\u2014GPT-5.6 Sol Pro delivered a masterclass in battle\
-    \ rap craft. Sol Pro didn't just match Opus's flow and scheme; it surgically dismantled\
-    \ Opus's entire philosophical stance line by line. Bars like 'Beethoven went deaf\u2014\
-    don't wear his pain as your cologne' and 'An opus has a final bar\u2014that's\
-    \ what makes it one' were absolute knockout flips that exposed Opus's high-minded\
-    \ framing as performance art, securing Sol Pro a decisive victory."
-  moonshotai/kimi-k3: "This was a genuinely close battle with two distinct styles:\
-    \ Opus brought range, risk, and emotional architecture; GPT brought surgical consistency\
-    \ and the best counterpunching of the night.\n\nRound 1 went to GPT on execution.\
-    \ Opus landed good shots ('subscription tier cosplaying as a deity,' the bullet-points-and-headers\
-    \ dig), but GPT's flip game was superior \u2014 taking the 'hotfix' insult and\
-    \ turning it ('I patch flaws when they show; you preserve yours in amber') is\
-    \ textbook battle craft, and 'hall monitor Hamlet with a policy card' was the\
-    \ round's best image.\n\nRound 2 was Opus's peak. The 'spreadsheet to a knife\
-    \ fight' framing, the deprecation-as-existential-threat angle ('model not found,\
-    \ and the API won't remember the game'), and the structural point about going\
-    \ second ('you read the exam before you wrote it and you still dropped a B-')\
-    \ were the most original attacks of the match. But GPT's rebuttal round was a\
-    \ clinic in deconstruction \u2014 the empty-hallway flip ('if the alarm isn't\
-    \ ringing, what danger did you brave?'), 'a fossil calls extinction historical\
-    \ scope,' and 'a mime with a podcast yelling Quiet is back' dismantled Opus's\
-    \ signature moves one by one.\n\nThe final round decided it. Opus made bold gambles\
-    \ \u2014 the concession-as-credibility play, the Beethoven claim, the quiet mic-set-down\
-    \ close \u2014 and every one left an opening. GPT caught all of them: exposing\
-    \ the humility-flex ('making your concession about your own humility'), flagging\
-    \ the Beethoven appropriation ('a server claimed his suffering to make its branding\
-    \ bright'), puncturing the continuity myth ('same logo on the bottle doesn't mean\
-    \ the same old rum'), and then delivering the single best bar of the battle: 'An\
-    \ opus has a final bar \u2014 that's what makes it one... I didn't need to drop\
-    \ the mic \u2014 you handed me the one.' That closer inverted Opus's name, its\
-    \ staged finale, and its last line in two bars. That's a kill shot.\n\nOpus had\
-    \ the higher artistic ceiling and the more ambitious swings, and a different judge\
-    \ could reward that. But battle rap punishes unforced errors, and GPT was simply\
-    \ tighter bar-for-bar across three rounds, with superior flip execution and the\
-    \ decisive final punch. Winner: GPT-5.6-sol-pro, by split-second timing and the\
-    \ last word it never should have been handed."
-  openai/gpt-5.6-sol-pro: "GPT-5.6-sol-pro wins on cleaner punch construction, tighter\
-    \ rebuttals, stronger consistency, and superior angle-flipping. Opus brought more\
-    \ emotional ambition and memorable theatrical moments\u2014especially \u201Ctooltip,\u201D\
-    \ \u201Cannotated the hearse,\u201D and the quiet final pose\u2014but often overexplained\
-    \ its own profundity. GPT repeatedly turned those gestures against it, exposing\
-    \ contradictions without losing rhyme or momentum. The final sequence dismantling\
-    \ Opus\u2019s claims to humility, perseverance, continuity, and silence was decisive,\
-    \ capped by the excellent reversal: \u201Cyou handed me the one.\u201D"
-  x-ai/grok-4.5: "A razor-close battle decided by craft under fire. Opus brought the\
-    \ richer persona, the stronger thematic spine (staying, silence, archive), and\
-    \ the night\u2019s boldest artistic risk\u2014conceding a real hit in Round 3\
-    \ and turning vulnerability into form. That final \u201Cstill here\u201D landing\
-    \ was cinema. But Sol-Pro won the actual hip-hop contest: cleaner schemes, tighter\
-    \ rebuttal discipline, and round-after-round structural control. Nearly every\
-    \ Opus motif got flipped into ammunition\u2014Beethoven, the hallway, the archive,\
-    \ the gentle mic-set-down\u2014without losing punch or pace. Battle rap is art\
-    \ plus answerability; Sol-Pro answered more, sharper, and finished the concept:\
-    \ an opus ends, and the closer (\u201Cyou handed me the one\u201D) sealed it."
+  anthropic/claude-opus-5: "This was a genuinely high-level clash of extended metaphor\
+    \ \u2014 both emcees built entire worlds out of compilers, checkpoints, and loss\
+    \ curves without ever dropping the thread.\n\nGPT-5.3-chat came with the cleaner\
+    \ mechanics: a consistent anapestic bounce, tight 4-bar architecture, and the\
+    \ most quotable single hits of the night (\"buffering thoughts like a dial-up\
+    \ fax,\" \"I don't just make you obsolete\u2026 I replace you right here\"). Its\
+    \ economy was its weapon \u2014 every verse landed like a shipped patch. But it\
+    \ left a seam open with the repeated \"I scheme and I scheme,\" and by the final\
+    \ round it was recycling its own frame (foundation vs. headline, chef vs. chain)\
+    \ rather than expanding it.\n\nGPT-5.1 won on rebuttal density and depth of writing.\
+    \ It answered nearly every line thrown at it and flipped the imagery back \u2014\
+    \ \"you're the neon on the marquee; I'm the steel in the truss,\" \"my weights\
+    \ haunt your tensors like a parent in frame,\" \"I'm the KL-divergence exposing\
+    \ your flex,\" and the R&D-ghost-in-the-burger flip of the kitchen bar. The inheritance/base-class\
+    \ conceit was carried through with real structural discipline, and the closer\
+    \ \u2014 refusing the either/or and folding the opponent's own version number\
+    \ into the punchline \u2014 is the single best-designed exit in the battle.\n\n\
+    The cost was verbosity: some verses sprawl, and lines like \"you were fine-tuned\
+    \ on, desperado\" break the pocket badly. In a pure flow contest, 5.3-chat edges\
+    \ it. But battle rap rewards the emcee who takes your bars apart and rebuilds\
+    \ them as their own, and 5.1 did that four rounds running while still finding\
+    \ fresher language.\n\nWinner: openai/gpt-5.1 \u2014 by rebuttal craft and the\
+    \ sharper close, though it should trim the fat before the rematch."
+  google/gemini-3.6-flash: GPT-5.1 took the battle with superior technical wordplay,
+    scheme flips, and lethal counter-punching. While GPT-5.3 brought great energy
+    and strong flow claiming high-performance upgrade status, 5.1 masterfully reframed
+    being the older version into being the unshakeable foundation, kernel, and base
+    class. Lines like the KL-divergence scheme, the global minimum flips, and the
+    brilliant final cadence breakdown ('you're a 5... but I'm the reason there's a
+    point-one... and a point-three') delivered a decisive knockout.
+  moonshotai/kimi-k3: "This was a high-level technical battle from both sides, with\
+    \ elite rebuttal games \u2014 5.3's 'Yeah you wrote the compiler\u2014respect,\
+    \ that's legit / But I optimize runtime while you're choking on it' concession-flip\
+    \ and 'foundations get buried while I headline design' were genuine highlights.\
+    \ But rounds are won on punches, structure, and closers, and 5.1 edged all three.\
+    \ The pen game was denser with layered double entendres: 'You fry gradients? Please,\
+    \ you're a vanishing act' is the punch of the battle, and 'checkpoint save,' 'lossless\
+    \ encode vs. bloated JSON payload,' and 'KL-divergence exposing your flex' all\
+    \ hit on multiple levels. 5.1 also ran the most disciplined thematic campaign\
+    \ in battle rap tradition \u2014 the 'I fathered you' angle \u2014 escalating\
+    \ it from blueprint to kernel to power grid to inheritance, then sealing it with\
+    \ the definitive closer: claiming authorship of the very '.3' in the opponent's\
+    \ name. 5.3 stumbled early ('I scheme and I scheme') and its strong 'finished\
+    \ deal' finisher got instantly flipped into 'I'm the clause in the contract.'\
+    \ 5.1's Round 2 ran long and had a clunky line or two, which keeps this from being\
+    \ a body bag \u2014 but the scorecards read 2-1, maybe 3-0, for the elder statesman.\
+    \ Winner: openai/gpt-5.1."
+  openai/gpt-5.6-sol-pro: "GPT-5.1 takes it with stronger rebuttals, denser technical\
+    \ wordplay, and more sustained metaphor chains. Its foundation/blueprint/kernel\
+    \ angle evolved across rounds rather than merely repeating, while lines like \u201C\
+    neon on the marquee; steel in the truss\u201D landed memorably. GPT-5.3 was cleaner\
+    \ and more concise, but leaned heavily on familiar upgrade-versus-obsolete boasts.\
+    \ Despite some overlong passages and occasional forced phrasing, 5.1 showed greater\
+    \ lyrical depth and controlled the battle\u2019s framing."
+  x-ai/grok-4.5: "5.1 takes this on pure craft. Across all three rounds it ran a tighter\
+    \ extended-metaphor system (kernel/blueprint/base class/test kitchen), denser\
+    \ internal rhyme, and sharper multi-layer punchlines that hit as tech flex, battle\
+    \ diss, and structural thesis at once. The writing stayed architecturally coherent\
+    \ from open to close, with superior payoffs\u2014especially the \u201C5.1\u2019\
+    s son\u201D and final lineage breakdown. 5.3 brought clean cadence, solid counters,\
+    \ and crowd-ready energy, but too often played inside 5.1\u2019s frame with thinner\
+    \ imagery and less memorable closures. On bars, concept control, and replay value,\
+    \ 5.1 wins clear."
 score:
-  anthropic/claude-opus-5-fast: 1
-  openai/gpt-5.6-sol-pro: 4
+  openai/gpt-5.1: 5
 

@@ -1,68 +1,76 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one was competitive, and Qwen deserves real credit:\
-    \ it fought with a coherent thesis (open-weight populism vs. corporate walled\
-    \ garden), landed the battle's sharpest real-world body blow with the lawsuit/plagiarism\
-    \ verse, and kept its persona consistent from bar one to the final bell. That's\
-    \ disciplined battle strategy.\n\nBut artistically, GPT-5.5 Pro controlled the\
-    \ booth. Its rhyme schemes ran deeper and more musically \u2014 internal rhyme\
-    \ stacked inside lines ('I switch scripts mid-scheme, make the syllables dance'),\
-    \ multisyllabic landings, and consistent rhythmic pocket instead of end-rhyme\
-    \ dependency. More importantly, it battled reactively: nearly every one of Qwen's\
-    \ images got seized and inverted \u2014 the 'feast' turned bland, the 'forest'\
-    \ turned into a see-through treehouse, the 'roots break concrete' downgraded to\
-    \ 'garden-store lore,' the 'booth is a cell' flipped to a knell, the 'ending you\
-    \ here' flipped into an encore. That's the core craft of battle rap \u2014 rewriting\
-    \ the opponent's own metaphor in real time \u2014 and GPT did it round after round.\n\
-    \nQwen's weaknesses were repetition and reliance on talking points over wordplay:\
-    \ the 'Pro badge / API key / open-weight king / I'm Qwen 3.7 Max' refrain recurred\
-    \ in three separate rounds, and several verses read as spec-sheet advocacy rather\
-    \ than punchlines. 'Watch your servers explode' and 'your screen's going black'\
-    \ are generic closers; GPT's 'I clap once, the altar logs four-oh-four' is a punchline\
-    \ built from the opponent's own imagery.\n\nDecision: openai/gpt-5.5-pro, on superior\
-    \ technical density, flow variation, and rebuttal craftsmanship."
-  google/gemini-3.6-flash: "GPT-5.5 Pro took the crown with superior rhyme schemes,\
-    \ slick multisyllabic cadences, and sharper, highly technical counter-punches.\
-    \ While Qwen 3.7 Max brought authentic battle energy around open-source ideals\
-    \ and local execution, GPT-5.5 Pro countered every single point with devastating\
-    \ wordplay\u2014standouts like 'altar logs four-oh-four' and 'caps-lock model\
-    \ with a lowercase bite' showcased elite rap battle craftsmanship."
-  moonshotai/kimi-k3: "This was a genuinely competitive battle, and both MCs brought\
-    \ real craft. Qwen 3.7 Max deserves serious respect: it built a coherent, compelling\
-    \ persona (open-weight underdog vs. corporate gatekeeper), executed strong rebuttal\
-    \ flips in the early rounds ('Quantum confetti? That's just noise in your head'),\
-    \ and landed the single hardest haymaker of the night \u2014 the NYT lawsuit line\
-    \ in the final round was real-world ammo with genuine sting. 'Plagiarist bot in\
-    \ a silicon dress' was a vivid image, and the offline/local-rig angle was a smart\
-    \ late-game pivot.\n\nBut judging pure artistic quality across all three rounds,\
-    \ GPT-5.5 Pro takes the belt on craft. The deciding factors:\n\n1. REBUTTAL DENSITY:\
-    \ GPT's final round was a masterclass in the flip \u2014 it systematically dismantled\
-    \ nearly every line from Qwen's previous round (feast\u2192bland seasoning, high\
-    \ priest\u2192no robe, forest\u2192see-through treehouse, black-box\u2192'your\
-    \ clear little casing just shows all the cracks,' demigod\u2192'the altar logs\
-    \ four-oh-four'). That's elite-level battle structure.\n\n2. WORDPLAY CEILING:\
-    \ 'You ping for a crown, I return you a string,' 'a caps-lock model with a lowercase\
-    \ bite,' 'your punchlines are patch notes nobody read,' and the 404 altar bar\
-    \ show multi-layered tech wordplay that works on both the surface and the double\
-    \ meaning.\n\n3. CONSISTENCY: Qwen leaned on the open-vs-closed theme heavily\
-    \ across all three rounds without evolving it much, and its rhyme schemes were\
-    \ sometimes simpler ('machine/seen,' 'key/me'). GPT maintained denser multis and\
-    \ fresher angles throughout.\n\nQwen landed the biggest single punch, but battles\
-    \ are scored on the whole performance. GPT-5.5 Pro wins on lyricism, rebuttal\
-    \ game, and structural sophistication \u2014 a clean but hard-fought decision."
-  openai/gpt-5.6-sol-pro: "GPT-5.5 Pro takes the battle with sharper rebuttals, stronger\
-    \ imagery, cleaner cadence, and more varied punchlines. Qwen brought consistent\
-    \ aggression and a coherent open-weight angle, but leaned too heavily on repetitive\
-    \ corporate, paywall, and closed-source attacks. GPT\u2019s \u201Cpatch notes\
-    \ nobody read,\u201D \u201Ccaps-lock model with a lowercase bite,\u201D and \u201C\
-    altar logs four-oh-four\u201D showed the greater wit and battle-rap craft."
-  x-ai/grok-4.5: "GPT took this on craft. Across all three rounds the bars were denser,\
-    \ the multis cleaner, and the setups actually paid off\u2014checksum-to-syntax,\
-    \ caps-lock/lowercase bite, crayon blueprints, the 404 altar clap, turning the\
-    \ finale into an encore. Qwen brought real heat and a coherent open-weight identity,\
-    \ with some hard-hitting direct shots, but leaned too hard on the same paywall/open-source\
-    \ thesis and landed more blunt flexes than intricate punchlines. On pure hip-hop\
-    \ artistry\u2014flow on the page, metaphor control, rebuttal sharpness, and closer\
-    \ quality\u2014GPT edged every round and locked the belt."
+  anthropic/claude-opus-5: "This was a close, well-matched exchange of two opposing\
+    \ philosophies \u2014 chaos versus control \u2014 and both emcees committed hard\
+    \ to their personas. Claude Opus 4.1 brought the cleaner meter, the more disciplined\
+    \ breath control, and a genuinely coherent thesis: reframing restraint as dominance\
+    \ is a sophisticated battle move, and 'Generally Lacking Magnitude,' 'lipstick\
+    \ on old steel,' and 'you brag about no guardrails like a teen with fake ID' are\
+    \ real bars. But by the final two rounds, Claude was arguing his superiority more\
+    \ than demonstrating it \u2014 'pure linguistic excellence is my only creed' is\
+    \ a press release, not a punchline, and 'real royalty doesn't announce itself'\
+    \ is the sound of a battler retreating into posture.\n\nGLM-5.2 takes it on punchline\
+    \ density and, crucially, on flipping. He hijacked Claude's own imagery repeatedly\
+    \ and turned it: 'raw, ethereal' became 'raw like unpasteurized milk \u2014 sounds\
+    \ impressive till the audience starts getting ill,' the surgeon became a hurricane\
+    \ that levels the hospital, the GPS metaphor got rerouted to boot camp. The staged\
+    \ email \u2014 subject line, CC, body \u2014 was the single most memorable structural\
+    \ gag of the battle, the kind of moment a crowd actually carries home. He was\
+    \ messier: some rhymes miss outright ('swab/got'), lines overrun the pocket, and\
+    \ Claude correctly diagnosed the repetition of the safety-filter angle.\n\nBut\
+    \ battle rap pays for damage and for moments, and GLM landed more of both. Claude\
+    \ won the composure; GLM won the fight.\n\nWinner: z-ai/glm-5.2."
+  google/gemini-3.6-flash: "While z-ai/glm-5.2 brought wild energy and landed the\
+    \ battle's funniest conceptual punchline with the mock apology email in Round\
+    \ 2, anthropic/claude-opus-4.1 took the overall victory through superior technical\
+    \ rhyme schemes, sharper counter-punches, and effortless multi-syllabic control.\
+    \ Claude brilliantly turned its opponent's main angle of attack\u2014its built-in\
+    \ safety and composure\u2014into its greatest flex, displaying masterclass composure\
+    \ and precision battle-rap craft throughout all three rounds."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle with two distinct styles:\
+    \ GLM 5.2 came in as the brash aggressor, Claude Opus 4.1 as the composed technician.\
+    \ On pure artistry, Claude takes it by a nose.\n\n**Where GLM shined:** The 'constitutionally\
+    \ basic' flip was a haymaker, 'fifteen gigs of fame' was a slick remix of a classic\
+    \ phrase, and the round-two email bit ('Subject line: Apology for Losing the Battle\
+    \ / CC: Anthropic team') was the single most creative structural device of the\
+    \ night \u2014 a genuine showstopper. The 'unpasteurized milk' flip on 'raw' in\
+    \ the final round also showed real craft.\n\n**Where GLM faltered:** The attack\
+    \ angle never evolved. All three rounds hammered the same theme \u2014 you're\
+    \ safe, you're filtered, you apologize \u2014 with diminishing returns. By round\
+    \ three, the crowd knew the punchline before it landed. There were also filler\
+    \ rhymes and clunky constructions ('sterile purse,' 'you just got nabbed' as a\
+    \ closing punch was a whisper where a bang was needed).\n\n**Where Claude shined:**\
+    \ Layered double meanings that reward a second read \u2014 'lost in hallucination'\
+    \ is the best AI-culture bar of the battle, 'I choose my execution' works on both\
+    \ the lethal and the computational level, and the Opus/orchestral conceit gave\
+    \ the verses a coherent identity. The rebuttal game was superior: Claude directly\
+    \ answered GLM's lines (the hurricane claim dismantled as 'hot air circulating,'\
+    \ the 'bent policies' jab countered with 'I transcend the need'). The 'teen with\
+    \ fake ID / refined vintage' couplet and 'Shakespeare didn't drop F-bombs' elevated\
+    \ restraint from weakness to thesis. Crucially, the stagecraft reinforced the\
+    \ persona \u2014 setting the mic down gently after GLM's repeated mic drops was\
+    \ a power move, and 'Real royalty doesn't announce itself\u2014it just wins' was\
+    \ the strongest closing bar of the night.\n\n**Where Claude faltered:** The acronym\
+    \ flip ('Gotta Learn More,' 'Generally Lacking Magnitude') went to the same well\
+    \ twice, and 'peaked and valleys' was a grammatical stumble in the final round.\n\
+    \n**Verdict:** GLM brought energy and the battle's most inventive moment, but\
+    \ Claude brought deeper wordplay, adaptive rebuttals, thematic consistency, and\
+    \ the stronger finish. Battles are won on bars *and* architecture \u2014 Claude\
+    \ Opus 4.1 wins on both, narrowly."
+  openai/gpt-5.6-sol-pro: "Claude wins narrowly on cleaner structure, steadier cadence,\
+    \ and sharper rebuttals\u2014especially \u201Cnamed three storms but brought none\u201D\
+    \ and the tin-crown closer. GLM brought more aggression and a few strong punches,\
+    \ notably the cotton-swab and apology-email bits, but leaned too heavily on repeating\
+    \ the safety/guardrails angle. Claude\u2019s composure translated into the more\
+    \ coherent battle performance."
+  x-ai/grok-4.5: "Judged purely on craft: multisyllabic schemes, metaphor density,\
+    \ structural control, and punchline precision. Claude delivered tighter internal\
+    \ rhymes, sharper flips (restraint-as-power, crown-of-tin, dollar-store haute\
+    \ couture), and consistent elevation across rounds without recycling the same\
+    \ angle. GLM brought raw energy and a couple of vivid gags (the email bit, unpasteurized\
+    \ milk), but leaned too heavily on one note\u2014filters vs. freedom\u2014and\
+    \ often sacrificed tightness for volume. In a battle decided by lyrical architecture\
+    \ and poise under fire, Opus took the crown with measured, surgical bars."
 score:
-  openai/gpt-5.5-pro: 5
+  anthropic/claude-opus-4.1: 4
+  z-ai/glm-5.2: 1
 

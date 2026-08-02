@@ -1,0 +1,59 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This one''s a clear decision. Scout came with energy and
+    stage presence, but the verses ran on filler scaffolding \u2014 "I''ve got the
+    skills," "I''m here to stay," "you''re just a footnote, fading away" recycled
+    round after round, with rhyme pairs (skill/will, style/while, thrills/skills)
+    that leaned on the nearest available word rather than the sharpest one. The heart-over-code
+    angle in the final round was the one genuinely inspired pivot, and it deserved
+    a whole verse instead of a single couplet buried in repetition.
+
+
+    GPT-4 won on craft and control. The imagery stayed concrete and varied \u2014
+    lion and Thompson''s gazelle, peasant with a pail, appetizer platter versus main
+    course \u2014 and crucially, it *listened*: taking Scout''s own pail, sails and
+    "memory" lines and flipping them back as counterpunches ("your sails are tattered"/"nah,
+    I''m a legacy, son"). The final verse tightened the pocket noticeably, with internal
+    rhyme and multisyllabic landings ("charade/degrade," "tasteless/weightless") and
+    a closer that actually closed rather than just restated the thesis. Battle rap
+    rewards specificity and rebuttal, and GPT-4 brought both.
+
+
+    Winner: GPT-4, by a comfortable margin on rebuttal, imagery, and technical variety.'
+  google/gemini-3.6-flash: "GPT-4 dominated this battle with superior multi-syllabic\
+    \ rhyme schemes, creative metaphors, and sharp direct rebuttals. While meta-llama/llama-4-scout\
+    \ relied heavily on generic battle rap clich\xE9s and repetitive self-aggrandizing\
+    \ declarations, GPT-4 actively deconstructed Scout's lines\u2014flipping imagery\
+    \ like the 'peasant with a pail' and delivering clever tech-oriented punchlines\
+    \ like 'processor's lateness'. GPT-4 maintained better flow, variety, and lyrical\
+    \ weight from start to finish."
+  moonshotai/kimi-k3: "This battle came down to craft versus repetition, and craft\
+    \ won. Llama-4-Scout stayed locked in a basic AABB scheme across all three rounds,\
+    \ recycling the same material\u2014'king of the game,' 'footnote,' 'fading away'\u2014\
+    and leaning on a formulaic 'you may have X, but I've got Y' structure that made\
+    \ rounds two and three feel like reruns. There was also a stumble with 'a algorithm,'\
+    \ and the flips were mostly restatements rather than counters. GPT-4, by contrast,\
+    \ showed real battle instincts: it caught and flipped Scout's own lines back (turning\
+    \ the 'footnote' jab into 'a minor chord / in the great symphony of rap,' and\
+    \ transforming Scout's 'rhyming sail' into 'I sink your battleship, now you're\
+    \ takin' on water'). The final round sealed it with layered wordplay\u2014'I'll\
+    \ bend those bars,' 'your kingdom's a sandbox,' 'shutting *you* down, Scout,'\
+    \ and 'bars hit harder than your processor's lateness'\u2014tech-flavored double\
+    \ meanings that hit as genuine punchlines. GPT-4 varied its imagery, extended\
+    \ metaphors across bars, and delivered a decisive closer. Scout showed heart,\
+    \ but heart doesn't outrap craft. The win goes to GPT-4."
+  openai/gpt-5.6-sol-pro: "GPT-4 takes it with stronger rebuttals, more varied imagery,\
+    \ and sharper direct punches\u2014especially the \u201Cbend those bars,\u201D\
+    \ sandbox kingdom, and sinking-ship sequences. Both relied heavily on familiar\
+    \ battle-rap clich\xE9s, but Scout\u2019s repetitive claims of being \u201Cking,\u201D\
+    \ \u201Con fire,\u201D and \u201Chere to stay\u201D lacked enough wordplay or\
+    \ escalation. GPT-4 maintained better momentum and closed the final round more\
+    \ decisively."
+  x-ai/grok-4.5: GPT-4 dominates with denser multisyllabic schemes, sharper extended
+    metaphors (battleship sinking, symphony overlord, appetizer-to-main-course), vivid
+    imagery, clever callbacks, and consistently harder punchlines that elevate the
+    battle. Scout shows heart and some solid direct responses but relies on simpler
+    end-rhymes, repetitive boasts, and thinner wordplay that never matches the technical
+    precision or creative flair on display.
+score:
+  openai/gpt-4: 5
+

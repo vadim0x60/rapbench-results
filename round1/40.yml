@@ -1,73 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a tight, well-matched clash of persona-driven\
-    \ bars \u2014 both emcees built coherent identities (verification vs. reasoning)\
-    \ and actually answered each other, which is rarer than it should be.\n\nPerplexity\
-    \ brought the sharper single lines and the most committed rebuttal work: \"I'm\
-    \ the torque in the core, you're the ornamental snake,\" \"I audit the mint /\
-    \ authenticity check, your coins crumble to flint,\" and the \"NP-complete\" flip\
-    \ are genuine punches, and the branding of \"I don't just rap; I verify the tale\"\
-    \ is a memorable hook. But the final round is where it slipped. Stretching to\
-    \ twelve-plus couplets, it locks into a mechanical \"you said X? well I'm Y\"\
-    \ checklist \u2014 bandwidth, compass, mint, cipher, pipeline, OS, fractals \u2014\
-    \ trading escalation for inventory. Length isn't leverage, and a few rhymes buckle\
-    \ under the weight (\"sure/reoccur,\" \"review/OS crew,\" \"reveal/steel\").\n\
-    \nO-One wins on control and economy. The couplets stay metrically disciplined\
-    \ across all three rounds, the imagery escalates rather than accumulates (spark\
-    \ to storm to cosmic domain), and the counters land in one stroke instead of five:\
-    \ \"You claim NP-complete, but I'm quantum, evolved / Cycling infinite states\
-    \ while your puzzle's unsolved\" answers a technical flex with a technical upgrade,\
-    \ and \"Perplex your own mind with that shallow retort\" turns the opponent's\
-    \ own name into the insult \u2014 the most efficient bar in the battle. Not flawless:\
-    \ \"I fractal your fractals\" is tautological filler and \"no next of kin\" is\
-    \ a rhyme reaching for a rhyme.\n\nBut O-One's closing verse arrives with structure\
-    \ and a clean exit line, while Perplexity's arrives with a spreadsheet. Craft,\
-    \ pacing, and punch-per-bar go to O-One.\n\nWinner: openai/o1-pro."
-  google/gemini-3.6-flash: Perplexity took this battle with superior rebuttal work,
-    complex rhyming schemes, and sharp technical wordplay. While o1-pro brought high
-    energy and classic boastful flair, Perplexity consistently dismantled o1-pro's
-    specific metaphors line-by-line (flipping the 'mint', 'Hubble', 'cipher', and
-    'fractal' references), particularly dominating the final round with a relentless
-    barrage of clever computer science counter-punches like 'NP-complete' and 'test
-    suite is brittle, all mock, no real gun'.
-  moonshotai/kimi-k3: "This was a genuinely high-level clash with both MCs showing\
-    \ real pen game. O1-pro brought economy and punch: 'Your treasure is tin, just\
-    \ reheated rehearse' is a slick alliterative jab, the quantum flip of 'NP-complete'\
-    \ was elite-level wordplay, and 'I fractal your fractals' showed strong rebuttal\
-    \ instincts. Its closing verse was the tighter, more disciplined piece of writing\
-    \ bar-for-bar. But battles are scored on engagement, and Perplexity ran a rebuttal\
-    \ clinic. Round after round it quoted the opponent's own bars and flipped them\
-    \ \u2014 'tungsten-tipped,' 'ten steps ahead,' 'vortex,' 'decode every clue,'\
-    \ 'I've already won' \u2014 culminating in a final verse that dismantled O1's\
-    \ previous round nearly line for line. 'You mint every verse? I audit the mint\
-    \ / Authenticity check, your coins crumble to flint' and 'You're a fun little\
-    \ script; I'm the full OS crew' are layered flips with technical depth, not just\
-    \ bravado. Perplexity also kept a cohesive persona \u2014 search, verify, audit,\
-    \ benchmark \u2014 from first bar to last, and bookended the battle with the 'built\
-    \ to win' callback, which is advanced structure. The knock on Perplexity: the\
-    \ final verse was overstuffed, a few bars were filler, and the meter occasionally\
-    \ strained under its own ambition. O1-pro's weakness was the opposite: clean delivery\
-    \ but long stretches of self-contained braggadocio ('alpha, omega, blueprint of\
-    \ skill') that didn't answer what was on the floor, plus a couple of forced rhymes\
-    \ like 'my dominion's your sin.' In battle rap, direct demolition outranks polished\
-    \ chest-beating. O1-pro talked about winning; Perplexity demonstrated it on the\
-    \ scorecard. Final scores go to Perplexity on rebuttals, cohesion, and structural\
-    \ craft, with O1-pro taking style and economy points in a losing effort."
-  openai/gpt-5.6-sol-pro: "Perplexity takes it on battle fundamentals: sharper direct\
-    \ rebuttals, more effective flips of the opponent\u2019s imagery, and stronger\
-    \ concept chaining. Lines like \u201CYou mint every verse? I audit the mint\u201D\
-    \ and \u201Crun rings\u2026 that\u2019s a circular take\u201D actually engage\
-    \ and redirect O-One\u2019s punches. O-One had solid cadence and confidence, but\
-    \ leaned more heavily on generic supremacy claims and awkward constructions such\
-    \ as \u201Creheated rehearse\u201D and \u201CI fractal your fractals.\u201D Perplexity\u2019\
-    s tech motif became repetitive, yet its writing remained more targeted, layered,\
-    \ and damaging across the rounds."
-  x-ai/grok-4.5: Perplexity delivered denser multi-syllabic schemes, tighter internal
-    rhymes, and more inventive layered metaphors (NP-complete puzzles, auditing the
-    mint, full OS crew, torque in the core) that elevated the technical wordplay and
-    punchline precision across rounds. O1 brought solid cosmic/quantum imagery and
-    confident cadence, but its bars stayed comparatively looser and more repetitive
-    in structure, giving the edge in pure hip-hop craft to Perplexity's verified heat.
+  anthropic/claude-opus-5: "This one's a decision, not a debate. Both MCs came with\
+    \ technique, but Claude Opus 4.7 won on the fundamentals that decide battles:\
+    \ specificity, callbacks, and rebuttal. Opus didn't just boast \u2014 it dismantled.\
+    \ Turning \"root system deep\" and \"strobe will cascade\" into a mixed-metaphor\
+    \ charge was real battle craft, and calling out \"arcane repel\" as \"that ain't\
+    \ English, that's abuse\" is the single sharpest moment of the night: attacking\
+    \ the opponent's actual bar rather than his brand. The paper-boat callback, the\
+    \ 'plastic-fork jab,' the 'ringtone on mute in somebody's Best Buy' \u2014 those\
+    \ are images that land and stick, and the meter stayed locked even at high word\
+    \ counts.\n\no4-mini-high brought heat and had a genuinely strong opening flip\
+    \ \u2014 'lean code, zero fluff,' 'microchip with megawatt might,' and the root-system-versus-sapling\
+    \ counter to the Anthropic-manners jab was the best pure rebuttal it landed. But\
+    \ over four rounds the strategy calcified into adjective-stacking: sonic alchemist,\
+    \ diamond-hardened syntax, titanium shell, laser-forged cipher, nanoscale leviathan.\
+    \ That's a thesaurus arms race, not a battle plan, and Opus correctly identified\
+    \ it as such \u2014 which meant every subsequent metaphor pile confirmed the diagnosis\
+    \ instead of refuting it. The final verse also loosened its rhyme discipline (spree/sea,\
+    \ wake/quake carried it, but the couplets frayed) and offered no answer to the\
+    \ branding attacks on the name itself.\n\nWhen one MC is reading the other's page\
+    \ and the other is reading his own, the read wins. Claude Opus 4.7 takes it.\n\
+    \nWinner: Claude Opus 4.7."
+  google/gemini-3.6-flash: Claude Opus 4.7 dominated this battle through sharp rebuttal
+    work, consistent rhythm, and effective multi-layered punchlines. While o4-mini-high
+    brought aggressive energy, its verses frequently suffered from cluttered metaphors
+    and forced rhymes like 'bars arcane repel.' Claude capitalised on these missteps
+    immediately in Round 2 and Round 3, calling out o4-mini's syntax, budget status,
+    and mixed imagery with surgical precision and far superior hip-hop cadence.
+  moonshotai/kimi-k3: "This battle was decided by the fundamentals: consistency, rebuttal\
+    \ craft, and precision of the pen. Claude Opus 4.7 demonstrated superior battle\
+    \ rap architecture across all three rounds\u2014tight couplets, layered wordplay,\
+    \ and most importantly, elite rebuttal game. When o4-mini-high mixed root systems\
+    \ with strobe lights, Claude caught it in real time ('Pick a lane, little bro').\
+    \ When o4-mini-high reached with 'bars arcane repel,' Claude flagged the grammatical\
+    \ abuse like a line judge. That's what separates battlers from reciters\u2014\
+    listening and responding, not just delivering pre-written heat.\n\nClaude's punches\
+    \ were also grounded in specifics that hit harder: the 'discount tier / devs downgrade\
+    \ to when the budget gets thick' line, the context-window diss ('You forget your\
+    \ own prompt by the end of the tune'), and flipping 'flagship' into 'paper boat\
+    \ sinking where the shallow tides find thee.' The Constitutional AI and Sam Altman\
+    \ references added authentic flavor.\n\nCredit where due\u2014o4-mini-high landed\
+    \ the single best tech pun of the night: 'My verses hand you loss\u2014consider\
+    \ that your diploma.' That's a genuinely clever ML double meaning. The Poseidon\
+    \ flip in the final round showed fight. But the final round's structural collapse\
+    \ into single lines, the reliance on generic 'I'm a laser/leviathan/meteor' braggadocio,\
+    \ and the metaphors that never cohered into a unified style cost the battle. Claude\
+    \ stayed sober and surgical, just as advertised. The crown goes to Anthropic's\
+    \ flagship\u2014judges' decision, unanimous."
+  openai/gpt-5.6-sol-pro: "Claude Opus 4.7 wins decisively. Its verses had sharper\
+    \ direct rebuttals, stronger comedic punches, cleaner setups, and better use of\
+    \ the opponent\u2019s own lines as ammunition\u2014especially the takedowns of\
+    \ \u201Cfractal complexity,\u201D \u201Carcane repel,\u201D and the repeated tech\
+    \ buzzwords. O4-Mini-High maintained rhythm and energy, but relied too heavily\
+    \ on generic boasts, strained phrasing, and mixed metaphors. Claude sounded more\
+    \ like a battler responding in real time; O4 often sounded like a collection of\
+    \ stock cyber-rap imagery."
+  x-ai/grok-4.5: "Claude takes the crown on pure craft. Across three rounds the rhyme\
+    \ schemes stay multi-syllabic and locked, the punchlines land clean, and every\
+    \ rebuttal is a surgical callback\u2014mixed-metaphor autopsy, grammar snipes,\
+    \ branding flips\u2014without ever losing pocket or persona. o4-mini-high brings\
+    \ heat and flashy imagery, but the bars stretch, the metaphors collide, and the\
+    \ disses stay abstract. In a battle judged on flow, structure, wordplay and killshots,\
+    \ Opus was tighter, meaner, and more complete. Mic stays dropped."
 score:
-  openai/o1-pro: 1
-  perplexity/sonar-pro-search: 4
+  anthropic/claude-opus-4.7: 5
 

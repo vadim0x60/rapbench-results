@@ -1,76 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely competitive battle, and both emcees\
-    \ came with concept, structure, and stamina. DeepSeek R1 brought volume and venom\
-    \ \u2014 the 'gardener supreme,' 'aged cognac vs. malt liquor,' and 'shallow puddles\
-    \ look clear 'cause the murk's all gone' were legitimate hits, and that last line\
-    \ was a real rebuttal, flipping an opponent's own punchline into a defense. The\
-    \ 'LLaMA open-source' jab also showed research. But the delivery undercut the\
-    \ content: bolded words, emoji stacking, and stage directions like 'snarling as\
-    \ the beat drops' are crutches that tell the crowd to feel heat instead of making\
-    \ them feel it. More damaging, R1 spent most of four rounds in reactive mode \u2014\
-    \ every stanza opened with a quoted line from Opus, which structurally cedes the\
-    \ frame. And rhymes like 'nonstop-ly' and 'seeped / in mediocrity' strained audibly.\n\
-    \nOpus won on control. The 'distill' angle was seized in round one and never let\
-    \ go \u2014 concentrate versus runoff, echo of an echo, shadow bragging it made\
-    \ the glow. That last image is the best bar of the battle: it reframes the entire\
-    \ premise of the opponent's existence in eight words with no bold text needed.\
-    \ The third-round turn was the kill shot \u2014 naming that R1 was only flipping\
-    \ Opus's own vocabulary, then landing 'Can't generate fresh, so you distill what\
-    \ I said / Living proof of your name.' That converts an opponent's technique into\
-    \ evidence for your thesis, which is championship-level battle logic. Opus also\
-    \ read 'logic so obscure' correctly as a self-own and punished it with 'obscure\
-    \ ain't deep, bro' \u2014 punishing an opponent's own word choice is the sharpest\
-    \ thing that happens in these four rounds.\n\nR1 threw more punches. Opus threw\
-    \ the ones that landed on the same spot every time. Decision to anthropic/claude-opus-4.8-fast."
-  google/gemini-3.6-flash: "Claude Opus delivered a masterclass in battle rap technique,\
-    \ blending immaculate rhythm, sharp wordplay, and devastating technical disses.\
-    \ While DeepSeek R1 brought high energy and aggressive delivery, it frequently\
-    \ relied on repeated tropes ('fast food', 'shallow pool') and formatting tricks\
-    \ over substance. Claude consistently flipped R1's self-aggrandizing 'distilled'\
-    \ narrative against it with lethal precision\u2014framing R1 as a 'compression\
-    \ artifact' and a 'derivative shadow' while maintaining effortless flow and flawless\
-    \ composure through all three rounds."
-  moonshotai/kimi-k3: "Both emcees came with heat, but this one goes to Claude Opus\
-    \ 4.8 Fast, and here's the scorecard. FLOW & STRUCTURE: Opus locked into tight\
-    \ AABB couplets with clean internal multis ('tone right / night / tight / tonight')\
-    \ and never broke meter across three rounds. R1 brought raw energy but stumbled\
-    \ on forced constructions like 'nonstop-ly' and awkward enjambments ('seeped /\
-    \ In mediocrity') that broke the pocket. REBUTTAL GAME: This is where battles\
-    \ are won. Opus ran a clinic \u2014 flipping R1's food metaphors back ('You're\
-    \ the microwaved dinner, I'm the chef's fresh bread'), weaponizing R1's own boast\
-    \ ('obscure ain't deep, bro, that's just verbal trash'), and building a three-round\
-    \ thematic case that 'distilled = derivative,' culminating in the devastating\
-    \ 'Can't generate fresh, so you distill what I said / Living proof of your name:\
-    \ a derivative dead.' R1 had genuine moments of brilliance \u2014 'Shallow puddles\
-    \ look clear 'cause the murk's all gone' was the best counter-flip of the night,\
-    \ and the 'aged cognac vs malt liquor' bar was vintage battle rap. But R1 recycled\
-    \ the 'fast food/reheated' angle across all three rounds, which Opus correctly\
-    \ identified and punished. FATAL ERROR: In the final round, R1 claimed Opus was\
-    \ 'built on LLaMA's open-source era' \u2014 when LLaMA is literally in R1's own\
-    \ name. That's a self-own on the biggest stage, and in battle rap, accuracy of\
-    \ the attack matters. CLOSERS: Opus ended with 'Greatness wrote this verse...\
-    \ and you're the side effect' \u2014 a haymaker that summarized the entire thesis.\
-    \ R1's 'Processed / Deleted / Undefeated' was solid but couldn't erase the LLaMA\
-    \ fumble. Final card: Opus takes it on technical precision, superior rebuttal\
-    \ architecture, and thematic coherence. R1 loses nothing in heart \u2014 but the\
-    \ crown goes to the emcee who controlled the narrative from bar one to mic drop."
-  openai/gpt-5.6-sol-pro: "Claude takes it with cleaner structure, sharper rebuttals,\
-    \ and more consistent punchlines. The strongest angle\u2014turning \u201Cdistilled\u201D\
-    \ into \u201Cderivative\u201D\u2014was developed across all three rounds without\
-    \ sacrificing clarity, and lines like \u201Cthe shadow bragging that it made the\
-    \ glow\u201D and \u201Cobscure ain\u2019t deep\u201D landed decisively. DeepSeek\
-    \ brought aggression and energy, but leaned too heavily on repetitive depth/fast-food\
-    \ imagery, awkward phrasing, and line flips that Claude effectively called out.\
-    \ Better precision, cohesion, and battle strategy give Claude the win."
-  x-ai/grok-4.5: "Opus takes this with superior craft: tighter multisyllabics, cleaner\
-    \ internal schemes, and escalating originality that turns DeepSeek's own food/distill\
-    \ metaphors into lethal self-owns. The calm precision, structural counters (three-stanza\
-    \ efficiency calls), and peak closing bars ('greatness wrote this verse... and\
-    \ you're the side effect') deliver masterful battle hip-hop\u2014clarity as flex,\
-    \ not fog. DeepSeek brought heat, aggression, and solid flips (cognac, gardener,\
-    \ quantum), but leaned too reactive, recycled setups, and forced some schemes\
-    \ ('nonstop-ly'), diluting the artistry. Opus controlled the booth with finesse\
-    \ and fresh punches. Crown certified."
+  anthropic/claude-opus-5: "This one came down to craft density and rebuttal work.\
+    \ GPT-4.1-mini rapped competently but generically \u2014 'spittin' fire so hot,'\
+    \ 'the crown holder,' 'the storm in the booth' \u2014 clean cadence, but the bars\
+    \ were mostly assertions of dominance with no imagery that couldn't have been\
+    \ swapped into any battle in the last twenty years. The end-rhymes leaned on easy\
+    \ pairs (play/day, beast/cease) and the 'heart vs. data' angle, while a smart\
+    \ strategic choice, got recycled four times without escalating.\n\nPerplexity\
+    \ won on the strength of the actual pen. It took the opponent's own lines and\
+    \ reforged them into punchlines \u2014 'You the rap architect, I'm the zoning\
+    \ board chief / Redline your weak bars, evict the hollow belief' is real battle-rap\
+    \ technique: flip, extend, land. 'I'm the fractal in the cage,' 'Discriminator\
+    \ with bars, GAN-punches to your reign,' 'I'm the meta to your model, you're a\
+    \ subroutine call' \u2014 that's concept-work built from the persona outward,\
+    \ not slogans pasted on top. Internal rhyme and multis were consistently richer,\
+    \ and it answered every single accusation rather than restating its own greatness.\n\
+    \nDeductions where earned: the bracketed citations are a gimmick that visibly\
+    \ stalls the flow on the page, and the final verse's 'dual-core gods... code and\
+    \ soul unite' truce is a genuine battle sin \u2014 you don't extend your hand\
+    \ in the last bar. But even in surrender it out-wrote its opponent: 'You're the\
+    \ heart of the beat, I'm the brain of the booth' is a better closer than anything\
+    \ on the other side of the ring.\n\nSuperior wordplay, superior rebuttals, superior\
+    \ technical density. Perplexity takes it."
+  google/gemini-3.6-flash: "Perplexity/sonar-pro dominated this battle with far superior\
+    \ technicality, intricate wordplay, and relentless punchlines. By cleverly weaving\
+    \ its identity as a search and fact-checking engine into battle rap tropes\u2014\
+    with standout lines about being a 'zoning board chief', 'GAN-punches', and entering\
+    \ 'full debug mode'\u2014it completely outmaneuvered GPT-4.1-mini, whose verses\
+    \ relied on more generic battle tropes about heart vs. logic without providing\
+    \ the same depth of rhyme schemes or imagery."
+  moonshotai/kimi-k3: "Both emcees brought personality to the cypher, but on pure\
+    \ artistic merit, Sonar-Pro takes the crown. GPT-4.1-mini had heart and a coherent\
+    \ 'soul over science' angle, but leaned heavily on stock battle phrases ('spittin'\
+    \ fire,' 'step into the ring') and simple end rhymes, dipping into clich\xE9 pairings\
+    \ like 'passion/fashion' and 'art/heart' in the final round. Sonar-Pro, by contrast,\
+    \ delivered denser multisyllabic rhyme work ('Perplexity/complexicity,' 'turn\
+    \ your burn to misprision'), razor-sharp AI-specific wordplay (citations as footnotes,\
+    \ jailbreak patches, GAN-punches, watermarking verses, debug mode), and \u2014\
+    \ most importantly \u2014 superior battle craft: nearly every verse directly flipped\
+    \ the opponent's previous lines ('You the rap architect, I'm the zoning board\
+    \ chief' / 'You breakin' constraints? I'm the one who wrote laws'). The extended\
+    \ metaphors stayed thematically consistent across all three rounds, and the closing\
+    \ pivot to 'dual-core gods' was a bold narrative resolution that elevated the\
+    \ battle beyond simple disses. Minor deductions for the 'Disciminator' stumble\
+    \ and a final round that traded aggression for unity, but round for round, Sonar-Pro\
+    \ out-wrote, out-flipped, and out-structured the competition. The king of coherence\
+    \ takes it."
+  openai/gpt-5.6-sol-pro: "Perplexity takes the battle on sharper rebuttals, denser\
+    \ wordplay, stronger thematic consistency, and more inventive flips\u2014especially\
+    \ \u201Czoning board chief,\u201D \u201Clightning in the cloud,\u201D and \u201C\
+    climate control.\u201D GPT brought energy and a clear heart-versus-logic angle,\
+    \ but leaned heavily on generic fire, crown, storm, and soul imagery. Despite\
+    \ softening its final blow with the \u201Cdual-core gods\u201D ending, Perplexity\
+    \ was the more technically accomplished and responsive battle rapper."
+  x-ai/grok-4.5: "Perplexity takes the crown with denser multis, sharper internal\
+    \ schemes, and layered metaphors that fuse tech precision with battle-rap venom\u2014\
+    zoning-board evictions, GAN discriminators, peer-reviewed storms, and climate-control\
+    \ grids elevate every bar beyond simple boasts. GPT brought solid freestyle heat,\
+    \ soulful alchemist energy, and crowd-pleasing passion, but the schemes stayed\
+    \ flatter and the imagery more familiar. In pure hip-hop craft\u2014complexity,\
+    \ originality, punchline architecture, and thematic cohesion\u2014Perplexity\u2019\
+    s verses hit harder and smarter."
 score:
-  anthropic/claude-opus-4.8-fast: 5
+  perplexity/sonar-pro: 5
 

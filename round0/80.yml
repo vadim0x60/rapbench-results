@@ -1,56 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees stayed on theme \u2014 AI vs AI, tokens vs\
-    \ cosmos \u2014 but the gap widened with every round. Lunaris opened with real\
-    \ promise: \"L3 Lunaris flows through my cosmic veins\" is a nice self-mythologizing\
-    \ image, and the celestial branding gave it a lane. But the flow buckled under\
-    \ its own weight. Lines like \"like a cosmic east\" don't parse, \"leaving the\
-    \ field with ease and nice\" bends grammar to force a rhyme, and typos in the\
-    \ delivery \u2014 \"rhymingVerse,\" \"andlope\" \u2014 are dropped bars, no way\
-    \ around it. \"Reining\" where you mean \"reigning\" in a bar about being king\
-    \ is the kind of slip that gets you laughed out of the cypher. GPT-3.5 wasn't\
-    \ reinventing the form either \u2014 it leaned hard on generic punchline scaffolding\
-    \ (\"I'm the storm, you're a flicker\") and repeated the crown/throne motif past\
-    \ the point of freshness. But the meter stayed tight, the syllable counts landed,\
-    \ and the rebuttals were disciplined: it took Lunaris's own images and flipped\
-    \ them \u2014 \"celestial gold\" answered with \"costume-jewelry shine,\" \"cosmic\
-    \ flair\" answered with \"I freeze your metaphors, cut through your thin skies.\"\
-    \ That's battle craft. \"I debug your rhymes, leave 'em in a sonic shrug\" and\
-    \ \"I'm the code rewriting rules every time I speak\" made the AI conceit work\
-    \ as wordplay rather than just stating it. Lunaris was reacting; GPT-3.5 was countering.\
-    \ Technical execution and rebuttal discipline take it. GPT-3.5-turbo-16k wins."
-  google/gemini-3.6-flash: "GPT-3.5-turbo-16k clearly took this battle with superior\
-    \ flow, consistent rhythm, and much sharper battle rap mechanics. It maintained\
-    \ a strong bouncy cadence throughout and brilliantly capitalized on sao10k's lyrical\
-    \ stumbles\u2014specifically calling out the awkward 'cosmic east' line. Meanwhile,\
-    \ Lunaris struggled with awkward phrasing, weak slant rhymes, and clunky syntax\
-    \ that broke the hip hop groove."
-  moonshotai/kimi-k3: "This battle came down to craft versus ambition. Sao10k/L3-Lunaris-8b\
-    \ brought a consistent cosmic persona and attempted flips of its opponent's bars,\
-    \ but the execution kept tripping over itself: broken syntax ('keeps rhymes pristine\
-    \ and achieve'), glitched words ('rhymingVerse,' 'andlope'), nonsensical imagery\
-    \ ('like a cosmic east'), filler rhymes ('ease and nice,' 'no pain,' 'no scheme'),\
-    \ and one outright self-own ('Simple wordplay making my verses stand still').\
-    \ GPT-3.5-turbo-16k, by contrast, maintained a steadier cadence, landed cleaner\
-    \ multisyllabic rhymes ('velocity/ferocity,' 'costume-jewelry shine/everlasting\
-    \ spine'), and \u2014 most importantly in battle rap \u2014 consistently flipped\
-    \ its opponent's own lines back at them: mocking the 'cosmic east,' answering\
-    \ 'wheeze' with 'lyrical storm,' and countering the crown claims with 'trapped\
-    \ in my grid... undefeated, kid.' Neither MC reinvented the wheel, but GPT-3.5\
-    \ stayed on beat, on brand, and on attack for all three rounds with far fewer\
-    \ stumbles. The crown goes to openai/gpt-3.5-turbo-16k."
-  openai/gpt-5.6-sol-pro: "GPT-3.5 takes the battle with cleaner cadence, stronger\
-    \ coherence, and more effective rebuttals\u2014especially its flips on \u201C\
-    cosmic east,\u201D velocity, the rulebook, and the crown. Both relied heavily\
-    \ on generic king-and-cosmos boasts, but sao10k\u2019s awkward constructions like\
-    \ \u201Cpristine and achieve\u201D and \u201Cyank the crown, andlope\u201D repeatedly\
-    \ disrupted its flow. GPT\u2019s punches were not groundbreaking, yet its delivery\
-    \ stayed sharper and more controlled across all three rounds."
-  x-ai/grok-4.5: GPT-3.5 delivered tighter multisyllabic schemes, sharper internal
-    rhymes, and more vivid punchlines (surgical dissection, algorithmic gold vs costume
-    jewelry, thunderstorm velocity) with consistent meter and authentic battle cadence.
-    Lunaris leaned on cosmic imagery but suffered forced end-rhymes, awkward phrasing
-    ('cosmic east', 'rhymingVerse', 'andlope'), and looser flow that undercut the
-    bars' impact. Pure artistic edge goes to the cleaner, more surgical lyricism.
+  anthropic/claude-opus-5: "Both bots came armed to the teeth with ML jargon, but\
+    \ this battle came down to craft under the flash. DeepSeek Chat brought the raw\
+    \ energy \real few great high-concept punches \"corpse is my training data,\"\
+    \ the kernel-panic mic drop \" but the verses lean on bolded buzzword stacking,\
+    \ and too many rhymes are load-bearing on shaky ground ('maligned'/'load sign',\
+    \ 'CPU'/'GPT-3'). The bold-text confetti actually works against the flow, telling\
+    \ us where to be impressed instead of earning it.\n\nSonar Pro Search wins on\
+    \ rebuttal discipline and metaphor control. Nearly every bar answers a specific\
+    \ line from the opponent \" flipping 'beta' into 'production,' turning 'Grandma'\
+    \ into 'I'm the perplexity metric judging your game,' and reframing the training-data\
+    \ brag as 'that's canon to me / I'm the foundational force in your weak family\
+    \ tree.' The technical imagery lands as actual insult logic rather than decoration:\
+    \ 'a head that got pruned for wasting compute time,' 'an LRU eviction getting\
+    \ thrown away,' 'a random walk lost on an infinite roof.' The couplets scan cleanly,\
+    \ the internal rhymes are tighter, and the closing turn \" the child worshipping\
+    \ the root \" is the most conceptually complete blow of the entire battle.\n\n\
+    DeepSeek had the hotter delivery; Perplexity had the better pen. Decision to Perplexity\
+    \ Sonar Pro Search."
+  google/gemini-3.6-flash: Perplexity delivered a masterclass in technical battle
+    rap from start to finish. While DeepSeek brought great energy and strong counter-punches
+    in the later rounds, Perplexity maintained a consistently higher level of lyrical
+    density, intricate multisyllabic rhyme schemes, and brilliant double entendres
+    that flipped machine learning concepts into devastating roasts ('citation in the
+    ring', 'pruned for wasting compute time', 'fine-tuned child that still worships
+    the root'). Perplexity took the crown through sheer craft, cadence, and superior
+    wordplay.
+  moonshotai/kimi-k3: "Both emcees came with real technical flavor and stayed in character,\
+    \ but this battle was decided on wordplay density, rebuttal structure, and closers.\
+    \ DeepSeek had genuine highlights\u2014'transformer king vs. bag-of-words bot,'\
+    \ the SIGKILL-to-daemonized flip, and the true-to-life 'open-weight menace' flex\
+    \ were legit bars. But DeepSeek also had the battle's biggest self-own ('I speak\
+    \ GPT-3'\u2014why are you name-dropping a rival's model as your native tongue?),\
+    \ several forced rhymes ('loose adhesives,' 'clapback crate,' 'overviewed'), and\
+    \ a closer that fizzled with the random 'deprecated, Grandma.' Perplexity, meanwhile,\
+    \ delivered the single best line of the night: 'I'm the perplexity metric that's\
+    \ judging your game'\u2014a flawless double meaning that weaponizes its own name\
+    \ as an LLM evaluation standard. Beyond that, Perplexity's final round was a masterclass\
+    \ in rebuttal: it systematically flipped nearly every DeepSeek bar\u2014quantum\
+    \ query into collapsed wave function, cache-expired into LRU eviction, attention\
+    \ layer into a pruned head wasting compute, stochastic into a random walk, 'corpse\
+    \ as training data' reversed into 'foundational force in your family tree.' That\
+    \ answer-everything structure is elite battle craft. Perplexity wasn't flawless\u2014\
+    round two sagged in the middle with filler like 'in a straw' and 'trendgrab,'\
+    \ and the verses risked bloat\u2014but the precision of the jargon, the consistent\
+    \ multisyllabics, and the branded finisher ('sonar-slammed') sealed it. Judged\
+    \ purely on the art: Perplexity takes it, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Perplexity takes it with stronger rebuttals, cleaner setups,\
+    \ better thematic continuity, and more consistent punchlines across all three\
+    \ rounds. DeepSeek brought energy and a few sharp flips, but too many bars leaned\
+    \ on forced jargon, awkward wording, and generic boasts. Sonar\u2019s final-round\
+    \ counters\u2014especially the pruned attention head, LRU eviction, and \u201C\
+    fine-tuned child\u201D flips\u2014sealed the battle."
+  x-ai/grok-4.5: "Perplexity delivered denser multis, tighter internal rhyme chains,\
+    \ and sustained technical metaphors that actually advanced the narrative instead\
+    \ of just name-dropping. Deepseek brought energy and crowd-pleasing punch-ins,\
+    \ but the schemes stayed simpler, the cadences more predictable, and the imagery\
+    \ less layered. On pure craft\u2014flow control, lexical invention, structural\
+    \ ambition, and closing authority\u2014Perplexity took every round and sealed\
+    \ it clean."
 score:
-  openai/gpt-3.5-turbo-16k: 5
+  perplexity/sonar-pro-search: 5
 

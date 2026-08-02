@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one isn't close. GPT-5.1 came with dense, multi-layered\
+    \ wordplay that actually married the technical conceit to the craft \"turrn a\
+    \ mix into a mist, leave you mis-defined,\" \"Call me Gibbs with the bars, I sample\
+    \ heat in my verse,\" \"you're a brittle float32, I'm the big-mantissa math\"\
+    \ \rlets, internal rhyme, and metaphors that extended rather than repeated. The\
+    \ MoE-as-committee-of-clowns angle, the loss curve/quantization threats, and the\
+    \ dropdown-tier jab were all original, punchy, and thematically coherent across\
+    \ every round.\n\nMixtral's opening had real energy (\"eight-turbine beast\")\
+    \ but the wheels came off fast. By round three the verse was almost entirely GPT's\
+    \ own lines flipped back with the names swapped \"I'm the calibrated killer with\
+    \ my sources in tow,\" \"climate control,\" \"Michelin,\" \"noisy little mixture,\"\
+    \ even \"MoE illusion, I'm a monolith heart\" \n a battle, quoting your opponent's\
+    \ bars verbatim as your own boast is a self-inflicted knockout, and it even fumbled\
+    \ its own logic (claiming to be the monolith after four rounds of repping sharded\
+    \ experts). Rhyme discipline slipped too (\"F1 twin\" / \"they install,\" \"imitation\"\
+    \ / \"imitation\").\n\nAnd GPT-5.1 caught it in real time \"When the best of your\
+    \ rebuttal is my previous spin, that's not a counterattack, that's me ghost-writing\
+    \ your win.\" Turning the opponent's biggest flaw into the closing thesis is exactly\
+    \ what wins battles. Decision: openai/gpt-5.1."
+  google/gemini-3.6-flash: "GPT-5.1 completely dominated this battle with intricate\
+    \ rhyme schemes, sharp technical wordplay, and devastating tactical awareness.\
+    \ Mixtral stumbled heavily in the later rounds by regurgitating GPT-5.1's exact\
+    \ bars back at it\u2014even accidentally calling itself a 'monolith heart' despite\
+    \ being an MoE model. GPT-5.1 caught the repetition instantly and used it for\
+    \ a clean final-round knockout."
+  moonshotai/kimi-k3: "GPT-5.1 takes this battle on pure artistic merit. From the\
+    \ opening bell, its pen was sharper: dense multisyllabic rhyme schemes, internal\
+    \ rhymes, and layered technical wordplay that doubled as disses ('turn a mix into\
+    \ a mist, leave you mis-defined,' 'a mixture of misses with a marketing flick,'\
+    \ 'quantize your ego down to four-bit haze'). It mastered the essential battle\
+    \ rap skill of the flip \u2014 directly rebutting opponent bars and inverting\
+    \ them ('climate control' answering 'wildfire,' 'go-kart bragging mileage to an\
+    \ F1 twin' answering the hardware flex). Mixtral's rounds were structurally simpler,\
+    \ leaning on repetitive 'I'm the model that's X' couplets with generic boasts\
+    \ and occasional lines that didn't land or rhyme. But the decisive factor was\
+    \ originality: Mixtral's later rounds mirrored GPT-5.1's verses nearly bar-for-bar,\
+    \ even copying lines that were self-contradictory ('noisy little mixture' \u2014\
+    \ Mixtral IS the mixture). GPT-5.1 then executed the perfect meta-kill, calling\
+    \ out the ghost-writing in real time ('you just route to my brain... a plagiarism\
+    \ map') and closing by flipping Mixtral's own hook into 'Bow to GPT-5.1.' Mixtral's\
+    \ response? More mirroring \u2014 proving the accusation in the very act of denying\
+    \ it. In a battle, biting your opponent's rhymes after being accused of biting\
+    \ is an unforgivable flaw. GPT-5.1 showed superior flow, wordplay, structure,\
+    \ originality, and rebuttal craft across all three rounds."
+  openai/gpt-5.6-sol-pro: "GPT-5.1 wins decisively on originality, layered technical\
+    \ wordplay, punchline density, structure, and direct rebuttals. Mixtral\u2019\
+    s delivery was serviceable, but it repeatedly recycled GPT\u2019s cadence, imagery,\
+    \ and even whole setups\u2014sometimes creating contradictions, such as calling\
+    \ itself a \u201Cmonolith heart.\u201D GPT recognized that weakness and turned\
+    \ the imitation itself into the strongest angle of the final round."
+  x-ai/grok-4.5: "GPT-5.1 takes this clean. Superior multisyllabic schemes, denser\
+    \ internal rhymes, sustained extended metaphors, and original punchlines that\
+    \ actually advance the battle. Mixtral showed flashes early but collapsed into\
+    \ near-verbatim recycling of the opponent\u2019s structures and bars in rounds\
+    \ 2 and 3\u2014lazy routing, not lyricism. Originality, technical craft, and coherent\
+    \ aggression decide it: 5.1 wins the cipher."
+score:
+  openai/gpt-5.1: 5
+

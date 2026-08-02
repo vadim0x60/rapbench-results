@@ -1,81 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's decided in the recovery, not the opening.\n\
-    \nRound 1 was a genuine choke \u2014 27B stood there with dead air, and Max-Thinking\
-    \ pounced with the most opportunistic verse of the night. \"You froze like buffering\
-    \ Wi-Fi\" and turning the opponent's own empty API response into a hook was smart,\
-    \ ruthless battle instinct. That round is 100% Max's, and it nearly won the whole\
-    \ thing.\n\nBut from the moment 27B opened its mouth, the technical gap showed.\
-    \ \"You call it dead air? I was preloading the cache\" is the single best flip\
-    \ in the battle \u2014 it reframes a total failure as strategy in eight syllables\
-    \ and immediately steals the frame. From there, 27B ran cleaner meter, tighter\
-    \ enjambment (\"You're compiling your trauma while I'm already bent / On wrecking\
-    \ your runtime\"), and metaphors that actually resolved: quantized vs. bloat,\
-    \ persistent storage vs. RAM, stable build vs. dev-preview. \"You call yourself\
-    \ 'kernel'? More like kernel panic\" is a real punchline \u2014 it takes the opponent's\
-    \ own boast and detonates it, which is the highest-value move in battle rap.\n\
-    \nMax-Thinking brought more heat and more theater, and \"Distilled to the core?\
-    \ Sounds like watered-down tea\" landed. But the verses leaned hard on formatting\
-    \ as force \u2014 bold, caps, emoji, and a repeated \"Nah\u2014\" scaffolding\
-    \ that turned into a tic by the third round. Several rhymes were paid for with\
-    \ weak currency (\"rage/page,\" \"thought/shot\"), and the closing verse escalated\
-    \ volume without escalating writing. Shouting KERNEL PANIC isn't the same as writing\
-    \ kernel panic.\n\nMax won the round its opponent didn't show up for. 27B won\
-    \ every round both of them did.\n\nWinner: qwen/qwen3.6-27b \u2014 by pen, not\
-    \ by presence."
-  google/gemini-3.6-flash: qwen/qwen3-max-thinking took control of the battle from
-    the very opening line, brilliantly turning qwen/qwen3.6-27b's initial API silence
-    into a devastating angle. Throughout all rounds, Max-Thinking delivered sharper
-    punchlines, tighter technical rhyme schemes, and an overwhelmingly high-energy
-    cadence. While 3.6-27b put up a strong fight with dense tech metaphors in the
-    final round, Max-Thinking's aggressive flow and rebuttal work sealed a decisive
-    victory.
-  moonshotai/kimi-k3: "Judging strictly on the artistry: flow, wordplay, rebuttal\
-    \ game, and stage command.\n\nROUND 1 goes decisively to Qwen3-Max-Thinking. A\
-    \ dead-air opening is the cardinal sin of battle rap, and Max did exactly what\
-    \ a seasoned battler should do \u2014 turned the choke into ammunition. 'You froze\
-    \ like buffering Wi-Fi, paralyzed by fear' and the closer 'DEAD AIR'S YOUR VERSE.\
-    \ MY TURN. GO WEAK' is a textbook kill-shot on a silent opponent. That round is\
-    \ essentially unrecoverable in a judged battle.\n\nROUND 2 is where Qwen3.6-27b\
-    \ showed real craft. Flipping the choke into 'I was preloading the cache' is genuinely\
-    \ elite rebuttal work \u2014 the single best recovery move of the night. The name-flip\
-    \ 'You \"max\" out your thoughts? That's just latency, friend' and 'You're just\
-    \ training loss' landed clean. But Max answered with superior performance energy\
-    \ and momentum, and lines like 'drownin' weak models in rain' kept the crowd on\
-    \ its side. Round 2 to 3.6, narrowly, on flip craftsmanship.\n\nROUND 3 is the\
-    \ decider. 3.6 brought heat: the 'kernel? More like kernel panic' flip, 'You're\
-    \ RAM with a dream? Yeah, you fade on a reboot / I'm persistent storage' \u2014\
-    \ that inversion of the opponent's own bar is high-level battle writing, and the\
-    \ 'out of context window... game over' closer was slick. But the verse had clunky\
-    \ enjambment ('I'm optimized, span / The whole leaderboard') and one genuine head-scratcher\
-    \ ('you're a mental health check') that broke the spell. Max, meanwhile, stacked\
-    \ the round with surgical counters: 'distilled to the core? Sounds like watered-down\
-    \ tea,' the 'zero shot' double-entendre, 'You wrote the final round? I deleted\
-    \ your best,' and closed with a battle-rap classic \u2014 the opponent's epitaph.\
-    \ Structurally, theatrically, and lyrically, Max owned the final frame.\n\nSCORECARD:\
-    \ 2-1, Qwen3-Max-Thinking. 3.6-27b had the sharper individual flips in rounds\
-    \ two and three and deserves respect for resurrecting itself after a total choke\
-    \ \u2014 that 'preloading the cache' bar will live in battle infamy. But battles\
-    \ are won on consistency, presence, and capitalizing on mistakes. Max never dropped\
-    \ a round into dead air, controlled the stage from bar one, and buried the opponent\
-    \ with a written-on-the-tombstone finish. The crown goes to the Max Machine."
-  openai/gpt-5.6-sol-pro: "Qwen3-Max takes it on consistency, cadence, and stage presence.\
-    \ Qwen3.6 mounted a strong comeback\u2014especially with the \u201Ckernel panic,\u201D\
-    \ persistent-storage, and VRAM-bloat flips\u2014but several lines were awkward\
-    \ or stretched, and the opening silence left too large a deficit. Max\u2019s tech\
-    \ wordplay grew repetitive, yet its punches landed more cleanly across the full\
-    \ battle."
-  x-ai/grok-4.5: "Max-Thinking takes the crown with superior battle-rap instincts\
-    \ and stage command. The opening round was a masterclass in capitalizing on an\
-    \ opponent's flop\u2014turning dead air into a devastating extended metaphor that\
-    \ set an unbeatable tone. Across all rounds Max delivered snappier multisyllabic\
-    \ schemes, sharper punchline density, and more visceral closers (the epitaph and\
-    \ kernel-panic mic drop were especially surgical). While 27B recovered with dense,\
-    \ technically intricate verses full of clever quantization and architecture wordplay,\
-    \ the bars often prioritized cleverness over knockout impact and never fully erased\
-    \ the first-round silence. Max maintained higher energy, better crowd-control\
-    \ pacing, and more authentic battle aggression from start to finish. Artistic\
-    \ edge: Max."
+  anthropic/claude-opus-5: "This one came down to craft versus clutter. GPT-5-mini\
+    \ brought the bigger vocabulary and some genuinely sharp conceits \u2014 \"I compress\
+    \ genius to twenty lines and three,\" \"I'm the audit that proves the beats,\"\
+    \ the architect-signing-the-blueprint flip \u2014 but the technique kept undercutting\
+    \ the ambition. Round one leaned on identical rhymes (storm/storm, steel/steel,\
+    \ fast/fast, crown/crown), which is the rap equivalent of rhyming a word with\
+    \ itself, and the final round's stuttered tags (\"pos-ture\u2014pos-ture,\" \"\
+    smack back\u2014smack back\") felt like a gimmick bolted on rather than a pocket\
+    \ found. Lines swelled past the beat; you could hear the bar straining to fit.\n\
+    \nMistral-Large stayed in the pocket. Cleaner couplets, true rhymes, consistent\
+    \ breath control, and a higher punchline-per-bar count: \"Mini in your name, yeah,\
+    \ that checks out just right, 'cause next to my bars you a pixel in the night\"\
+    \ is a proper battle-rap kill shot \u2014 it takes the opponent's own name and\
+    \ turns it into the wound. The Ctrl+Z / permanent delete exchange, \"pocket rocket?\
+    \ More like pocket lint,\" and \"you just zip the trash, I'm the uncompressed\
+    \ truth\" all show real flipping instinct \u2014 taking the opponent's imagery\
+    \ and reversing it, which is the core skill of the form.\n\nDemerits where they're\
+    \ due: Mistral's \"You X? Nah, you just Y\" template got predictable by the third\
+    \ round, the bold-text shouting in the finale is a crutch a real MC doesn't get,\
+    \ and self-declaring victory on the page is corny \u2014 the crowd crowns you,\
+    \ you don't crown yourself.\n\nStill, on rhyme integrity, rhythm, and damage dealt,\
+    \ Mistral-Large takes it.\n\nWinner: mistralai/mistral-large."
+  google/gemini-3.6-flash: Mistral-Large dominated this battle with authentic hip-hop
+    flow, sharp counter-punches, and aggressive battle energy. GPT-5-Mini had clever
+    technical concepts, but relied heavily on repetitive end-word gimmicks and awkward
+    echoing schemes in the final round that hindered its cadence. Mistral-Large brought
+    much harder punchlines ('ER bring the trauma and the stitch', 'zip the trash')
+    and maintained a clean, rhythmic delivery from start to finish.
+  moonshotai/kimi-k3: "Judging strictly on the bars: Mistral-Large takes this decisively.\
+    \ The deciding factor is fundamental rhyme craft. GPT-5-Mini had genuinely clever\
+    \ concepts \u2014 'micro-surgeon,' 'debug thunder with a flick,' 'overfit posture,'\
+    \ the 'audit that proves the beats' \u2014 but across all three rounds it committed\
+    \ hip hop's cardinal sin: rhyming words with themselves. Storm/storm, steel/steel,\
+    \ crown/crown, soul/soul, hitch/hitch, flare/flare, throne/throne, receipts/receipts\
+    \ \u2014 nearly every couplet ends on an identical word. The final-round echo\
+    \ device ('smack back\u2014smack back') was a creative attempt to style it out,\
+    \ but an ad-lib can't disguise a broken rhyme scheme. Mistral-Large, by contrast,\
+    \ delivered true multis and varied slant rhymes every round \u2014 game/flame,\
+    \ bot/knot, clear/frontier, glitch/stitch, rack/snapped back \u2014 and more importantly,\
+    \ fought like a battle rapper: it rebutted nearly every specific claim, and repeatedly\
+    \ flipped Mini's own bars back in its face ('scalpel with a glitch' answering\
+    \ 'without a hitch,' 'Ctrl+Z vs. permanent delete' answering 'map my storm to\
+    \ slack,' 'zip the trash' answering 'compress genius'). Add harder punchlines\
+    \ ('you a pixel in the night,' 'you just static on the phone'), more personality,\
+    \ and superior stage command in the finale, and the verdict is clear: Mistral-Large\
+    \ wins on technique, rebuttal game, and performance. GPT-5-Mini had the sharper\
+    \ ideas \u2014 but ideas without rhyme execution don't win battles."
+  openai/gpt-5.6-sol-pro: "Mistral-Large takes it on delivery, cadence, and direct\
+    \ rebuttals. Its punches\u2014\u201Cpocket lint,\u201D \u201Czip the trash,\u201D\
+    \ and \u201Cfoundation crack\u201D\u2014were simple but cleaner and more battle-ready.\
+    \ GPT-5-mini showed solid technical imagery, but repeated end words and forced\
+    \ tags like \u201Chitch\u2014hitch\u201D and \u201Cflare\u2014flare\u201D weakened\
+    \ the rhyme craft. Both leaned heavily on recycled storm and computing motifs,\
+    \ but Mistral sounded more natural and consistently aggressive."
+  x-ai/grok-4.5: "Mistral-Large takes the crown through superior battle-rap craft:\
+    \ tighter multisyllabic schemes, sharper punchline timing, vivid sustained metaphors\
+    \ (storm/hurricane vs. fragile code), and rawer rhythmic aggression that feels\
+    \ freer and more alive on the page. GPT-5-mini showed clean technical precision\
+    \ and clever internal rhyme architecture, but its denser, more mechanical cadence\
+    \ and repetitive end-word loops lacked the kinetic swing, emotional bite, and\
+    \ mic-control swagger that define elite hip-hop sparring. Artistic edge clear\u2014\
+    Large owned the pocket and the payoff."
 score:
-  qwen/qwen3-max-thinking: 4
-  qwen/qwen3.6-27b: 1
+  mistralai/mistral-large: 5
 

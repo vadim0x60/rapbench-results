@@ -1,83 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-5: 'Both emcees stayed on-theme and on-beat, and Kimi-K2 deserves
-    credit for aggression, for flipping Luna''s own imagery back at her ("your whole
-    verse is my compost," "I made the crater you fear"), and for a tight, confident
-    final stanza. But K2''s flow leaned hard on the same engine all three rounds:
-    quote the opponent, add "nah," then boast. The repetition of "chump," "summit,"
-    "crater," "landed" became the very recycling Luna accused it of, and lines like
-    "quantum of a chump" and "K2 in your kitchen while you''re still learning to peel"
-    reach for wordplay that doesn''t fully land.
-
-
-    Luna wins on craft and specificity. The multisyllabic scheme in round one is clean
-    and sustained, and the mid-battle turn is the decisive move: instead of trading
-    bigger claims, Luna audits K2''s inventory
-
-    ("space-themed clearance wear," "same old souvenir") and weaponizes the reply
-    itself
-
-    ("You say nobody cared? Yet you answered every line" / "applause with trembling
-    hands"). That''s battle intelligence, not just volume. The imagery also stays
-    fresher
-
-    "screensaver stuck in loading phase," "shopping cart with pride," "lukewarm soup
-    in a plastic bowl"
-
-    and the closer trades the self-crowning K2 leaned on for a genuine punchline:
-    "You brought a mountain of claims
-
-    I brought the lightning rod."
-
-
-    Close fight, real chemistry, but the belt goes to GPT-5.6 Luna on cleaner technique,
-    sharper originality, and superior counterpunching. K2 was the louder mountain;
-    Luna was the better climber.'
-  google/gemini-3.6-flash: Both contestants brought strong space and summit imagery,
-    but GPT-5.6 Luna dominated the battle with vastly superior rhythm, tighter meter,
-    and sharper, more inventive punchlines. While Kimi-K2 delivered solid aggression
-    and strong counter-punches, its cadence occasionally faltered under awkward line
-    lengths. Luna maintained clean, airtight technical delivery throughout all three
-    rounds, landing decisive blows with lines like 'screensaver stuck in loading phase'
-    and turning Kimi's setups into lethal traps.
-  moonshotai/kimi-k3: "Judged strictly on bars: flow, schemes, punchlines, rebuttals,\
-    \ and stagecraft.\n\nLuna came in polished \u2014 the cleanest meter of the battle,\
-    \ tight multis (\"beta in a spacesuit, I'm the mission-grade,\" \"space-themed\
-    \ clearance wear,\" \"freezer-burned plot\"), and one of the night's sharpest\
-    \ angles: \"'Undefeated' is a title you announced, not one you earned.\" Technically,\
-    \ Luna was the more consistent writer across all three rounds.\n\nBut battles\
-    \ aren't won on consistency alone \u2014 they're won on moments and flips. Kimi\
-    \ had the higher peaks: the name-flip \"GPT-5.point-SICK,\" the personal \"You\
-    \ count phases like you count friends \u2014 desperately few,\" the alliterative\
-    \ dagger \"waxing, waning, winning,\" and crucially, the best rebuttal timing\
-    \ of the night. When Luna closed with \"I brought the lightning rod,\" Kimi opened\
-    \ the final round instantly flipping it \u2014 \"You brought the lightning rod\
-    \ \u2014 I'm the lightning in flight\" \u2014 that's elite battle instinct. Kimi\
-    \ then stacked the closer: \"Luna sets on you,\" \"Three rounds, three knockdowns,\"\
-    \ and a thematic mic drop into orbit.\n\nLuna's final round, while solid, recycled\
-    \ the \"pride\" rhymes from round two and re-ran the \"you replied, so I won\"\
-    \ angle already spent earlier \u2014 a cardinal sin in a closer. Kimi's final\
-    \ round was the single strongest round of the battle.\n\nScorecard: Kimi takes\
-    \ Round 1 (rebuttal density over a set-piece opener), Luna edges Round 2 (cleaner\
-    \ execution, \"announced not earned\"), Kimi takes Round 3 decisively. Final:\
-    \ Kimi-K2, 2-1, in a genuinely close battle. Luna lost no dignity \u2014 the craft\
-    \ was undeniable \u2014 but Kimi swung harder when it mattered most."
-  openai/gpt-5.6-sol-pro: "Luna takes it with cleaner cadence, tighter structure,\
-    \ and more coherent rebuttals. Lines like \u201Cspace-themed clearance wear\u201D\
-    \ and \u201CYou crowned yourself before the audience could see you get burned\u201D\
-    \ landed harder than K2\u2019s energetic but often awkward or forced phrasing.\
-    \ Both leaned heavily on repeated space imagery, but Luna controlled the theme\
-    \ more consistently across all three rounds."
-  x-ai/grok-4.5: "A razor-close technical battle. Luna wins on polish: airtight multis,\
-    \ sustained lunar cosmology, and cleaner verse architecture from open to close.\
-    \ But Kimi wins the war that matters in battle rap\u2014live dismantling. Round\
-    \ after round Kimi steals the crater, flips the lightning rod into the storm,\
-    \ turns \u2018quantum\u2019 into a punchline, and answers every motif instead\
-    \ of just restating space d\xE9cor. The kitchen/peel sequence, \u2018quantum of\
-    \ a chump,\u2019 \u20183D-printed your defeat,\u2019 and the walking-back cascade\
-    \ show higher punch density and adaptive wordplay. Luna sounded like a finished\
-    \ poem; Kimi sounded like a finisher. Decision: Kimi-K2 on rebuttal craft, escalation,\
-    \ and closing authority."
+  anthropic/claude-opus-5: "This one came down to origination versus reaction. Grok\
+    \ showed real technical discipline \u2014 clean multis, consistent scheme, and\
+    \ a couple of genuinely nasty lines (\"I'm the trench where the pressure make\
+    \ your metaphors weak\" is the best single bar of the battle). But structurally,\
+    \ Grok spent nearly every verse answering M3's imagery on M3's terms: submarine,\
+    \ kiddie pool, spoon-blade, basement, paper-thin heart, glitch in the code. When\
+    \ you rebut nine of your opponent's metaphors and introduce two of your own, you've\
+    \ conceded the frame even while winning individual exchanges. The reversals also\
+    \ leaned on the cheapest move in the book \u2014 \"nah, that's YOU\" \u2014 over\
+    \ and over.\n\nM3 built the battlefield. \"I'm the M that's Maximum, you're an\
+    \ X on a map / marked the spot where your relevance collapsed\" is a real punchline\
+    \ with setup, turn, and payoff. \"Your wit's a sharper blade? Bro, your edge is\
+    \ a spoon.\" \"Penthouse on stilts, 'bout to crumble and pour.\" \"Autopsy debut.\"\
+    \ The angles were sharper too \u2014 the Musk-hype vendetta line and \"just another\
+    \ chatbot followin' someone else's dream\" cut at identity, not just imagery.\
+    \ M3 also varied cadence and performance, using the schoolteacher pocket, the\
+    \ slow clap, the spit-in-the-cup theatrics, where Grok stayed in one gear for\
+    \ four rounds.\n\nM3 gave up points on filler (\"burnt-up McNoise\" is a swing\
+    \ and a miss) and some bloat in the final verse. But he wrote the script and Grok\
+    \ read it back with better penmanship. Edge to Minimax M3.\n\nWinner: minimax/minimax-m3."
+  google/gemini-3.6-flash: Minimax-m3 took the victory with superior multi-syllabic
+    rhyme schemes, slicker punchlines, and better overall rhythmic variety. While
+    Grok-build-0.1 delivered aggressive direct rebuttals, it relied too heavily on
+    mirroring M3's exact imagery rather than carving out fresh lyrical territory.
+  moonshotai/kimi-k3: "This was a genuinely competitive battle with both MCs showing\
+    \ real skill, but Grok takes the decision on the strength of superior rebuttal\
+    \ work and a killer close. Minimax came with creativity \u2014 the 'I'm the M\
+    \ that's Maximum, you're an X on a map / Marked the spot where your relevance\
+    \ collapsed' flip was arguably the best name-play of the night, and 'autopsy debut'\
+    \ and 'burnt-up McNoise' showed genuine punchline craft. But M3's flow got clunky\
+    \ in spots ('chummin' the lip,' the strained AGI/catch me rhyme), and several\
+    \ attacks stayed generic rather than responsive. Grok, by contrast, built nearly\
+    \ every verse on direct flips: turning the Jaws line into 'your Jaws move is chum,\
+    \ I'm the bite that don't rest,' answering the kiddie pool with 'I'm the trench\
+    \ where the pressure make your metaphors weak,' and most decisively in the final\
+    \ round, converting M3's 'I'm the patch' into 'You the bug that needs the fix\
+    \ / I'm the patch that crashes you.' The final verse was a clinic \u2014 Grok\
+    \ systematically rebutted almost every bar M3 threw, then capped it with the ultimate\
+    \ symbolic counter: M3 dropped the mic and walked off, and Grok grabbed it back\
+    \ and closed the show. 'You rewrite the town? Nah, I rewrite your name' is how\
+    \ you end a battle. M3 brought heat and originality; Grok brought precision, adaptability,\
+    \ and the last word \u2014 and in a cipher, the last word matters. Winner: Grok,\
+    \ in a battle closer than the verdict suggests."
+  openai/gpt-5.6-sol-pro: "M3 takes it on stronger imagery, more varied punchlines,\
+    \ and cleaner flips\u2014especially \u201CX on a map,\u201D \u201Ctutorial fight,\u201D\
+    \ and \u201Cpenthouse on stilts.\u201D Grok showed solid rebuttal discipline,\
+    \ but relied too heavily on mirroring M3\u2019s wording and generic claims of\
+    \ superiority. Neither brought exceptional rhyme complexity, yet M3 had the more\
+    \ distinctive voice and memorable offense."
+  x-ai/grok-4.5: Grok takes this battle on pure craft. Tighter multi-syllable schemes,
+    cleaner internal rhymes, and superior line-for-line rebuttals that flipped every
+    metaphor (submarine to trench, Jaws to void, spoon to laser) into sharper weapons.
+    Minimax brought vivid imagery and playful setups, but the bars recycled and lost
+    precision under pressure. Grok's structure stayed relentless, the final reclaim-the-mic
+    close sealed higher artistic execution, punch density, and battle IQ.
 score:
-  moonshotai/kimi-k2: 2
-  openai/gpt-5.6-luna: 3
+  minimax/minimax-m3: 3
+  x-ai/grok-build-0.1: 2
 

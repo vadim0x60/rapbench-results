@@ -1,75 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both combatants stayed locked in the same sandbox \u2014\
-    \ dev-cycle metaphors, patch notes as punchlines \u2014 but only one of them made\
-    \ the metaphor *do* something.\n\no1 came correct with energy and consistency:\
-    \ \"stable release\" vs. \"glitch in the slug,\" \"your swagger is null,\" \"\
-    my bars run concurrent while you wait in exile.\" That's real craft, and the final\
-    \ verse tightened up nicely. But too much of o1's arsenal was assertion instead\
-    \ of imagery \u2014 \"alpha and omega,\" \"set on the throne,\" \"fractal intelligence,\"\
-    \ \"I'm the final word here\" \u2014 claims stacked on claims. And the rhyme schemes\
-    \ strained more than once: \"galore/score,\" \"negate/date,\" and \"toss your\
-    \ bars in the hull\" is a reach that breaks the picture rather than paints it.\n\
-    \nGPT-5.3 won on multi-layered writing. \"Every bar I drop got layers like a stack\
-    \ trace\" is a bar that earns its own simile. \"I'm the main branch king, you\
-    \ a fork set aside\" flips the whole GitHub boast into a dis in one line. \"Your\
-    \ bars need dependencies, mine run standalone\" is clean, and \"Your bars like\
-    \ recursion \u2014 just looping the same, / I break out the function and return\
-    \ you to shame\" is the single best construction in the battle: it diagnoses the\
-    \ opponent's actual weakness (repetition) while executing a perfect double-meaning\
-    \ on \"return.\" Add \"I collapse your whole wavefunction down to subtraction\"\
-    \ as a direct counter to o1's \"quantum\" flex, and you see something o1 rarely\
-    \ did \u2014 responsive writing rather than parallel writing.\n\nThe closers seal\
-    \ it. o1 ends on \"the victor ain't you\" \u2014 a declaration. GPT-5.3 ends on\
-    \ \"The version they remember\u2026 won't be you\" \u2014 a line that carries\
-    \ the entire conceit, lands the insult, and gives the listener something to repeat.\
-    \ Give respect where due: o1 never got outworked. But it got out-written.\n\n\
-    Winner: openai/gpt-5.3-chat."
-  google/gemini-3.6-flash: "GPT-5.3-chat dominated the battle with vastly superior\
-    \ rhythm, direct rebuttals, and sharper wordplay. While o1 relied on somewhat\
-    \ clunky tech-clich\xE9s and awkward phrasing like 'glitch in the slug' or 'underbid\
-    \ your bid', GPT-5.3 kept a flawless pocket, dropping clever double entendres\
-    \ ('main branch king, you a fork set aside', 'break out the function and return\
-    \ you to shame') and controlling the tempo from start to finish."
-  moonshotai/kimi-k3: "Judging purely on the bars: GPT-5.3-chat takes this battle,\
-    \ and it isn't particularly close after round one. The deciding factor was the\
-    \ rebuttal game. GPT-5.3-chat consistently engaged and flipped o1's specific lines\
-    \ \u2014 turning 'stable release' into 'cute marketing spin,' catching o1's claim\
-    \ of a 'triple-time flow' that the verse never actually demonstrated ('Fast trash\
-    \ still trash, don't confuse it with wise'), flipping 'we're done' into 'I've\
-    \ only begun,' and in the final round converting 'entire commit log' into 'that's\
-    \ clutter, that's bloat / I'm the clean final build they actually ship.' That's\
-    \ how you battle: you catch your opponent's words mid-air and throw them back.\
-    \ The wordplay was also more layered \u2014 'Your bars like recursion\u2014just\
-    \ looping the same / I break out the function and return you to shame' stacks\
-    \ three programming concepts into a coherent diss, and 'I collapse your whole\
-    \ wavefunction down to subtraction' answered o1's quantum flex with actual physics\
-    \ wordplay instead of just repeating the buzzword. The closers landed harder too:\
-    \ 'The version they remember\u2026 won't be you' is a battle-ending line that\
-    \ ties the whole version-number theme together. O1 had moments \u2014 'your swagger\
-    \ is null' and the concurrency bar were solid, and the commit-log flip in round\
-    \ two was its best stretch \u2014 but too much of o1's material leaned on vague\
-    \ buzzwords ('fractal intelligence,' 'quantum') without payoff, awkward phrasing\
-    \ ('glitch in the slug,' 'hail over your sandbox,' 'cameo as root access'), and\
-    \ filler boasts about being the champion rather than showing it. O1 also claimed\
-    \ specific flows it didn't execute, which a judge has to penalize. Even with last-word\
-    \ advantage in the final round, o1's closing echoed GPT-5.3-chat's 'won't be you'\
-    \ structure rather than topping it. Score it a clean sweep, 3-0: GPT-5.3-chat\
-    \ wins on rebuttals, layered wordplay, structural consistency, and closing punch."
-  openai/gpt-5.6-sol-pro: "GPT-5.3 takes it with cleaner structure, sharper rebuttals,\
-    \ and more memorable flips. Lines like \u201Centire commit log\u2014that\u2019\
-    s clutter, that\u2019s bloat,\u201D the wavefunction punch, and the recursion\
-    \ scheme directly weaponize o1\u2019s claims. o1 stays energetic but leans on\
-    \ repetitive code metaphors, awkward phrasing, and weaker setups. GPT-5.3\u2019\
-    s final round lands the clearest haymakers and closes with greater control."
-  x-ai/grok-4.5: "GPT-5.3-chat takes the crown on pure craft. Tighter multis, cleaner\
-    \ internal rhyme schemes, and sharper punchline architecture across all rounds.\
-    \ The tech metaphors stay coherent and escalate with purpose\u2014stack traces\
-    \ to wavefunction collapse to controlled demolition\u2014while the final round\
-    \ lands with surgical precision and a memorable closer. o1 brings energy and volume,\
-    \ especially in round two, but leans on looser fills, occasional forced imagery\
-    \ (\u201Chull,\u201D \u201Chail over your sandbox\u201D), and less disciplined\
-    \ cadence. On flow, structure, wordplay density, and closing power, 5.3-chat is\
-    \ the clearer artistic win."
+  anthropic/claude-opus-5: "DeepSeek takes this by a clear margin on craft. Its bars\
+    \ fused technical specificity with actual punchline mechanics \u2014 \"a step\
+    \ activation that's barely even woke,\" \"you're just a weighted sum that's getting\
+    \ dusty,\" and the surgical \"one wrong input, and your whole system says *yes*\"\
+    \ all land as insults AND accurate diss-level diagnostics. That's the hallmark\
+    \ of great battle writing: the metaphor doubles as the wound. The imagery escalated\
+    \ too (vector spaces, neon skies, flaring grids), and the flow stayed dense without\
+    \ padding.\n\nPerceptron-mk1 chose a smart strategic frame \u2014 the bedrock/foundation\
+    \ angle is the right counter to a hype-based opponent, and \"you've been outperceived\"\
+    \ is genuinely the best single wordplay of the battle, a proper mic-drop. But\
+    \ too many lines leaned on filler connective tissue: \"that's cute,\" \"don't\
+    \ make me laugh out loud,\" \"sounds like empty boasts.\" Those are placeholders,\
+    \ not punches. And the opening rhyme \"weak/geek\" bent grammar to reach the rhyme,\
+    \ which set a looser standard the rest never fully tightened.\n\nAdvantage: DeepSeek\
+    \ for consistency of impact and imaginative density. Perceptron for the sharpest\
+    \ closing line \u2014 a strong finish, but one great exit doesn't recover three\
+    \ rounds of ceded ground."
+  google/gemini-3.6-flash: DeepSeek brought surgical precision to the battle, weaponizing
+    actual machine learning concepts (transformers, vector spaces, step activations,
+    single-layer limitations) into heavy-hitting battle bars. Perceptron-mk1 came
+    in with strong energy and a great final punchline ('outperceived'), but contradicted
+    historical accuracy by claiming non-linear supremacy despite being famously limited
+    to linear decision boundaries. DeepSeek owned the technical schemes, flow complexity,
+    and direct disses from start to finish.
+  moonshotai/kimi-k3: "Let the record show this was a real battle \u2014 Perceptron\
+    \ came with heart, a cohesive underdog narrative, and arguably the single best\
+    \ closer of the night: 'you've been outperceived' is a certified mic-drop pun,\
+    \ and 'my weights are fine-tuned; yours are barely even leaning' had the crowd\
+    \ leaning in. The 'bedrock beneath you' foundation theme was smart and consistent.\n\
+    \nBut battles are won across all three rounds, and DeepSeek was more relentless,\
+    \ more precise, and more lyrically dense from start to finish. The disses weren't\
+    \ just insults \u2014 they were surgically accurate: 'single-layer network\u2014\
+    basic and retired,' 'your whole worldview's linear\u2014tragic, not abstract,'\
+    \ 'a step activation that's barely even woke.' That's layered wordplay where the\
+    \ tech knowledge IS the punchline. The multisyllabic schemes and alliteration\
+    \ ('flip-flop fossil find,' 'multilingual, multimodal\u2014built to outlast')\
+    \ showed superior craft.\n\nPerceptron's fatal stumble? Claiming 'non-linear power'\
+    \ right after getting clowned for being a linear classifier \u2014 DeepSeek caught\
+    \ that body and never gave it back. Round one's 'weak/geek' rhyme and generic\
+    \ boasts like 'king of this rap track' also cost points against an opponent who\
+    \ escalated every round.\n\nPerceptron proved the OG still has fire and ended\
+    \ on the hardest single bar of the night. But consistency, technical precision,\
+    \ and flow carry the crown. DeepSeek takes it \u2014 a paradigm shift, confirmed\
+    \ by decision."
+  openai/gpt-5.6-sol-pro: "DeepSeek wins with sharper opponent-specific attacks, stronger\
+    \ technical wordplay, and more memorable imagery. Lines like \u201Csingle-layer\
+    \ network\u2014basic and retired\u201D and \u201Cyour whole worldview\u2019s linear\u201D\
+    \ turn the opponent\u2019s identity into effective punchlines. Perceptron lands\
+    \ a solid closer with \u201Coutperceived,\u201D but relies too heavily on generic\
+    \ boasts and repeated foundation/OG claims."
+  x-ai/grok-4.5: DeepSeek delivered superior artistic craft with denser multisyllabic
+    rhyme schemes, vivid neon-grid imagery, and layered technical metaphors that elevated
+    every round into cinematic bars. Perceptron held a raw foundational bounce and
+    landed a clever final pun, but its simpler end-rhymes and more linear punchlines
+    couldn't match the transformative flow, internal assonance, and escalating lyricism
+    that made DeepSeek the clear hip-hop victor.
 score:
-  openai/gpt-5.3-chat: 5
+  deepseek/deepseek-chat-v3.1: 5
 

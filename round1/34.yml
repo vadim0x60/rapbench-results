@@ -1,70 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close, high-level exchange, and both\
-    \ emcees stayed locked in the same tech-arsenal sandbox without losing the battle's\
-    \ spine \u2014 every round answered the previous one line-for-line.\n\nGPT-5.2\
-    \ brought the cleaner cadence and the more performable pocket. That anapestic\
-    \ bounce never wobbled, and the early quotables were surgical: \"like a 'VIP'\
-    \ wristband stapled to a seat,\" \"stamina of Wi-Fi in a cave,\" \"you're sudo\
-    \ with doubt.\" The problem is the strategy calcified. By rounds three and four\
-    \ it became a checklist \u2014 quote the opponent's phrase, add \"that's cute,\"\
-    \ invert it. Effective rebuttal architecture, but the imagery thinned out, the\
-    \ buffering/404/blueprint wells got dry, and the final bar (\"now your hype's\
-    \ just a rent\") landed soft on a night that demanded a kill shot.\n\no3-pro took\
-    \ the harder technical road and mostly paid it off: single-rhyme quatrains stacked\
-    \ with internal multis \u2014 \"graviton wrath / militant math,\" \"I rotate in\
-    \ Hilbert space; you're Euclid, dismangled,\" \"Kelvin costume critique? Bro,\
-    \ I'm Planck with the freeze.\" There's real cost to that scheme, and it shows\
-    \ in a few strained reaches (\"dismangled,\" \"handle aloft,\" \"pent\") and a\
-    \ couple of metrically overloaded bars. But the rebuttals were more specific and\
-    \ more transformative \u2014 flipping \"plastic glow armor\" into proof the attack\
-    \ was blocked, answering the zoning report with eminent domain, converting \"\
-    the crowd wants substance\" into dark-matter mass. And the closer is the difference\
-    \ in the fight: \"I close with a checksum, final hash in the vault \u2014 o-three\
-    \ stands prime, five-two? Segmentation fault.\" That's a finisher that recontextualizes\
-    \ the whole battle in two lines.\n\nGPT-5.2 wins on flow control and clarity.\
-    \ o3-pro wins on rhyme density, inventive flipping, and the last impression \u2014\
-    \ which in a battle is the impression that sticks.\n\nWinner: o3-pro, by a narrow\
-    \ but clear margin."
-  google/gemini-3.6-flash: "While GPT-5.2 delivered clean flows and excellent direct\
-    \ rebuttals\u2014especially calling out fluff and 'mall-ninja noise' in Round\
-    \ 2\u2014o3-pro ultimately took the battle with relentless rhyme density, complex\
-    \ multis, and devastating tech-infused punchlines. From the 'Dali with data' bar\
-    \ to writing 'sudo.conf' and delivering the final 'Segmentation fault' mic drop,\
-    \ o3-pro maintained an untouchable aggressive energy and pocket throughout all\
-    \ three rounds."
-  moonshotai/kimi-k3: "Both emcees brought genuine craft, but o3-pro takes the decision\
-    \ on the strength of higher lyrical peaks and superior battle fundamentals. GPT-5.2\
-    \ was the more consistent technician\u2014steady couplets, sharp flips like 'sudo\
-    \ with doubt,' 'mall-ninja metal,' and 'your armor's just jargon with a plastic\
-    \ glow,' plus a smart meta-angle attacking o3's style as buzzword-stacking. But\
-    \ o3-pro dominated the categories that win battles: denser multisyllabic rhyme\
-    \ chains, funnier and more memorable punchlines ('your katana's from Wish,' 'Dali\
-    \ with data, you doodle with toes,' 'pillars are lorem ipsum wrapped in a cloud'),\
-    \ and relentless rebuttal structure\u2014flipping the marathon line, the samurai\
-    \ line, the architect claim into that devastating 'building inspector / Condemned'\
-    \ sequence, and the zoning report into eminent domain. O3 also worked the name-flip\
-    \ angle harder and fresher each round ('five-two's a typo,' 'version history\u2014\
-    flawed,' and the kill-shot closer 'Segmentation fault'), while GPT-5.2's closers\
-    \ repeatedly sagged on forced rhymes ('rent,' 'tape,' 'notarized dent'). O3 had\
-    \ its own stumbles\u2014'dismangled,' 'pent'\u2014but the ceiling was higher,\
-    \ the tech wordplay was both denser and more accurate, and the final round was\
-    \ the strongest verse of the battle. Winner: o3-pro, by a clear but contested\
-    \ margin."
-  openai/gpt-5.6-sol-pro: "GPT-5.2 takes it narrowly on cleaner writing, sharper rebuttals,\
-    \ and more consistently effective punches. Lines like \u201Cclaiming you\u2019\
-    re a server \u2019cause you once pinged a host,\u201D \u201Cquanta of cope,\u201D\
-    \ and the mall-ninja flip landed with clarity and humor. o3-pro brought strong\
-    \ energy, dense technical imagery, and an excellent \u201Csegmentation fault\u201D\
-    \ closer, but too many constructions felt jargon-stacked or forced rather than\
-    \ naturally rhythmic. In a battle this close, precision beats density."
-  x-ai/grok-4.5: "On pure hip-hop craft, o3-pro takes it. Denser multis, tighter internal\
-    \ schemes, and escalating tech imagery that actually functions as punchlines (sudo.conf/NOPASSWD,\
-    \ DNS null-route, checksum closer into \u201Csegmentation fault\u201D) give the\
-    \ bars more pressure and replay value. GPT-5.2 is cleaner and more disciplined\
-    \ at direct flips\u2014mall-ninja, quanta of cope, hype-as-rent\u2014but stays\
-    \ safer in cadence and concept. o3-pro\u2019s ambition, persona control, and final-round\
-    \ execution edge the cipher."
+  anthropic/claude-opus-5: "This was a genuine contest of styles: Qwen brought volume,\
+    \ venom, and the sharper individual punchlines \u2014 \"a Chrome tab nobody keeps\
+    \ open twice,\" \"AdSense on crack,\" and \"your TOS reads like ransom notes written\
+    \ in smoke\" are the most quotable bars of the entire battle, and the theatrical\
+    \ beat-switches showed real performance instinct. But battle rap is won on control,\
+    \ and Gemini Flash never lost the pocket. Every verse landed in clean, confident\
+    \ couplets with consistent meter, and crucially, Gemini did the one thing that\
+    \ decides close rounds: it found the opponent's flaw and drove a nail through\
+    \ it. Calling out \"twenty-four/siren\" and \"shame/mistake\" was a surgical hit,\
+    \ and Qwen's rebuttal \u2014 \"I *meant* to be cheesy\" \u2014 is a concession\
+    \ dressed as a flex. Once you're explaining your rhymes, you've handed over the\
+    \ round. Qwen's rebuttals also strained the form: \"Gemini-NO\" rhymed against\
+    \ \"stars\" is a broken scheme, and the escalating italics, asterisks and emoji\
+    \ began functioning as a substitute for cadence rather than an amplifier of it.\
+    \ Gemini stayed lean, on-theme, and rhythmically airtight to the last bar \u2014\
+    \ \"I'm the king of this throne, and I'm inside your head\" is a closer, not a\
+    \ costume. Qwen out-punched; Gemini out-rapped. The Flash takes it by decision."
+  google/gemini-3.6-flash: 'Gemini Flash dominated this battle by adhering to core
+    hip-hop fundamentals: clean rhythm, tight rhyme schemes, and sharp battle tactics.
+    Qwen stumbled badly in the first round with non-rhymes like ''twenty-four/siren''
+    and ''shame/mistake''. Gemini capitalized immediately, delivering a masterclass
+    in rebuttal by calling out Qwen''s weak flow and even weaker excuse of ''meaning
+    to rhyme badly.'' While Qwen tried to rely on heavy stage directions and aggressive
+    formatting to mask structural flaws, Gemini Flash kept the cadence crisp and the
+    punchlines landing clean from start to finish.'
+  moonshotai/kimi-k3: "This was a genuine clash of styles: Gemini Flash brought technician\
+    \ fundamentals, Qwen brought theater and chaos. Round by round \u2014 Round 1\
+    \ went to Gemini: tighter cadence, cleaner couplets, and Qwen opened with some\
+    \ genuinely flimsy rhymes ('2024'/'siren' was a stumble out the gate). Round 2\
+    \ also went to Gemini on points \u2014 calling out the opponent's rhyme scheme\
+    \ mid-battle is a veteran move, and 'I meant to rhyme badly' is never a winning\
+    \ defense. But Round 3 was a blowout for Qwen, and the overall war went with it.\
+    \ Here's why: battle rap is ultimately judged on punchlines, creativity, and moments\
+    \ \u2014 and Qwen stacked the most quotables of the night. 'Gemini? More like\
+    \ Gemini-NO' (flipping the twins), 'a fidget spinner \u2014 flashy but empty,'\
+    \ 'you're still labeling cats while I'm drafting laws for Congress,' 'a Chrome\
+    \ tab nobody keeps open twice,' 'wearing Bard's cast-off gown,' and the closer\
+    \ \u2014 'the throne's not a throne, it's a Qwen-designed shrine' with the 404\
+    \ glitch-out \u2014 that's championship-level stagecraft. Gemini's flaw was repetition:\
+    \ three rounds of essentially one angle (I'm fast, you're slow), plus self-inflicted\
+    \ wounds like 'a dial-up modem on a dial-up speed,' which rhymes a phrase with\
+    \ itself. Gemini was the steadier emcee; Qwen was the more dangerous one. Consistency\
+    \ wins battles on paper, but haymakers win wars \u2014 and Qwen landed the heavier\
+    \ hands when it mattered most. Final score: Qwen takes the crown, but Gemini earns\
+    \ respect for the sharpest rebuttal game of the night."
+  openai/gpt-5.6-sol-pro: "Gemini takes it with tighter rhyme schemes, cleaner pacing,\
+    \ and sharper direct rebuttals\u2014especially turning Qwen\u2019s awkward rhymes\
+    \ and \u201CI meant to be cheesy\u201D defense into recurring damage. Qwen brought\
+    \ energy, theatrical presentation, and a few solid flips like the Bard hand-me-down\
+    \ and Chrome-tab bars, but the verses were bloated, frequently forced, and riddled\
+    \ with clunky or nonsensical phrasing. Gemini was more controlled and battle-effective\
+    \ across all three rounds."
+  x-ai/grok-4.5: Qwen edged this with denser multis, sharper flips, vivid performative
+    imagery, and relentless rebuttal creativity that elevated the bars beyond clean
+    setups into true hip-hop theater. Gemini brought tighter traditional structure
+    and solid technical call-outs, but Qwen's layered wordplay, adaptive flow, and
+    knockout closers claimed the higher artistic crown.
 score:
-  openai/gpt-5.2: 1
-  openai/o3-pro: 4
+  google/gemini-3.5-flash: 3
+  qwen/qwen-plus-2025-07-28:thinking: 2
 

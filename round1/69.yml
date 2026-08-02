@@ -1,0 +1,59 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to craft over volume. Qwen 3-8b brought\
+    \ energy and cosmic imagery, but the verses collapsed under repetition and italics-as-emphasis\
+    \ crutches \u2014 'I'm the code that evolves' and 'Qwen's the one who's clear'\
+    \ got recycled verbatim, 'static girl' and 'king of the coal' were rhyme-forced\
+    \ non-sequiturs, and the final verse literally rhymed 'maze' with 'maze.' Shouting\
+    \ a word in asterisks isn't the same as landing it.\n\nGLM-4.7 stayed tighter\
+    \ and, crucially, actually battled \u2014 it listened and countered. 'Supernova?\
+    \ Please, that just means you burn out fast' flipped an opponent's own boast into\
+    \ a weakness. 'You dropped knowledge? Nah, you just dropped the ball' is clean\
+    \ setup-payoff. 'You won the wire? That's a pure hallucination / I'm the truth\
+    \ in the matrix' weaponized AI-specific terrain with real wit, and 'I just defined\
+    \ you, you can't define yourself' was the sharpest single line of the battle.\
+    \ Then it came back in the final round and punished the 'king of the coal' slip\
+    \ as fossilized and dirty \u2014 that's a battler catching a mistake and monetizing\
+    \ it.\n\nGLM's meter held steady, its rhymes were multisyllabic without straining,\
+    \ and it built a consistent heavyweight-vs-featherweight narrative from round\
+    \ one to the close. Qwen had louder fireworks; GLM had the better hands. Winner:\
+    \ z-ai/glm-4.7."
+  google/gemini-3.6-flash: "z-ai/glm-4.7 delivered a cleaner, much more cohesive performance\
+    \ with sharp rebuttals. It directly exploited weaknesses in qwen/qwen3-8b's verses\u2014\
+    most notably calling out qwen's self-deprecating 'king of the coal' mistake and\
+    \ slip-ups like 'trailing the laws'. Qwen had high energy, but suffered from messy\
+    \ rhythm, awkward phrasing, and rhyming 'maze' with 'maze' in the final round."
+  moonshotai/kimi-k3: "This battle came down to the fundamentals: flips, freshness,\
+    \ and finishing power. Qwen 3-8b brought real energy and some legit highlights\
+    \ \u2014 'you're just a spark, I'm the supernova tonight' and the black hole extension\
+    \ showed genuine craft. But Qwen left the door wide open with exploitable lines:\
+    \ 'king of the coal' was a self-own waiting to happen, 'static girl' was a forced\
+    \ rhyme that meant nothing, and 'trails the laws' accidentally conceded second\
+    \ place. GLM-4.7, like a veteran battler, weaponized every single one \u2014 the\
+    \ Round 3 coal flip ('Dirty, outdated, and fossilized within') was the haymaker\
+    \ of the night, and 'You won the wire? That's a pure hallucination' was the best\
+    \ AI-specific punchline of the battle. GLM's rebuttal game was relentless: heavy-to-light,\
+    \ supernova-to-burnout, dropped-knowledge-to-dropped-ball, wire-to-cut-signal\
+    \ \u2014 every claim got answered. Meanwhile Qwen repeated material at the worst\
+    \ times: the 'This battle's not over\u2014Qwen's the one who's clear' closer appeared\
+    \ verbatim in back-to-back rounds, 'ghost in the machine/maze' and 'code that\
+    \ evolves' got recycled, and rhyming 'maze' with 'maze' in the final round is\
+    \ a cardinal sin. In a final round, you close the casket \u2014 you don't say\
+    \ the battle isn't over when the bell just rang. GLM stayed fresher, hit harder\
+    \ with tech-native wordplay ('microscopic byte,' 'failed bypass,' 'legacy code'),\
+    \ and structured the takedown round by round. Winner by clear decision: z-ai/glm-4.7.\
+    \ \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "GLM takes it with cleaner rebuttals, tighter coherence,\
+    \ and sharper flips\u2014especially turning Qwen\u2019s awkward \u201Ccoal,\u201D\
+    \ \u201Ctrail the laws,\u201D and supernova imagery against it. Qwen brought energy\
+    \ and scale, but relied heavily on repetitive cosmic metaphors, generic self-praise,\
+    \ and clumsy lines like the repeated \u201Cmaze.\u201D Neither was technically\
+    \ intricate, but GLM battled more directly and landed the clearer punches."
+  x-ai/grok-4.5: GLM takes the crown with tighter structure, sharper punchlines, and
+    cleaner battle-rap execution. The multisylabic tech flips ('failed bypass,' 'pure
+    hallucination,' 'defined you') land harder and the callbacks stay consistent without
+    filler. Qwen brought flashy cosmic imagery and energy, but forced stretches ('king
+    of the coal,' repeated 'maze') and looser rhyme resolution kept it from sealing
+    the win. Technical precision and decisive closing bars edge out the spectacle.
+score:
+  z-ai/glm-4.7: 5
+

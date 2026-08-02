@@ -1,72 +1,81 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely elite conceptual battle \u2014 two\
-    \ competitors who found a real premise (sun vs. planet, power vs. purpose) and\
-    \ mined it for four rounds without repeating themselves. Terra-Pro built the more\
-    \ coherent thesis and landed the most quotable aphorisms of the night: \"A stove\
-    \ ain't the chef, and a bulb ain't the school,\" \"A palette ain't painting, and\
-    \ photons don't feel,\" and a closing bar (\"You may shine on existence, but existence\
-    \ is me\") that's the best single line in the battle. But battles are scored on\
-    \ punchlines, rebuttal, and control, and Sol-Pro edged it in all three. \"A pebble\
-    \ with Wi-Fi,\" \"green little fan of the Sol,\" \"planetary acne that you've\
-    \ awkwardly hushed,\" \"mold with a moon\" \u2014 Sol had the higher joke-per-bar\
-    \ rate and kept the aggression tied to the concept instead of drifting into philosophy.\
-    \ Crucially, Sol was the only one who battled the opponent as a rapper, not just\
-    \ as a planet: mocking Terra's water-cycle rebuttal as ghostwritten, then going\
-    \ full battle-rap with \"you rhyme 'star' with 'afar' like plate stagnation\"\
-    \ and the vicious meta-jab \"All those billions of minds\u2014and YOU entered\
-    \ their place?\" Terra never answered either of those, and a few rhyme slips (king/singe,\
-    \ absurd/inferred) validated the critique. Terra-Pro won the philosophy; Sol-Pro\
-    \ won the battle.\nWinner: Sol-Pro, by a narrow but clear margin."
-  google/gemini-3.6-flash: This battle was an absolute masterclass in thematic wordplay
-    and conceptual counter-punching. While Sol-Pro brought explosive aggression, dominant
-    braggadocio, and sharp jabs like 'I ghostwrite your weather,' Terra-Pro consistently
-    flipped Sol's raw power flexes into superior artistic metaphors. Devastating rebuttals
-    like 'A stove ain't the chef, and a bulb ain't the school' and 'A palette ain't
-    painting, and photons don't feel' systematically dismantled Sol's heat with incredible
-    poetic depth, rhythm, and substance. Terra-Pro takes the crown by turning raw
-    light into pure, high-level hip-hop craft.
-  moonshotai/kimi-k3: "A high-level, science-literate battle from both sides \u2014\
-    \ easily one of the better concept-driven clashes, with each MC fully committed\
-    \ to their celestial persona.\n\nSol-Pro came with real firepower: 'Every color\
-    \ that you flaunt is my light secondhand,' 'I ghostwrite your weather, then you\
-    \ boast of the line,' and the meta-rhyme jab ('you rhyme star with afar like plate\
-    \ stagnation') showed genuine battle craft \u2014 attacking not just the opponent\
-    \ but their pen. The final-round thesis ('your whole battle plan: take my light,\
-    \ sign your name') was a strong, coherent angle. But Sol's material leaned heavily\
-    \ on one note \u2014 heat, brightness, burn \u2014 which Terra weaponized as early\
-    \ as round one ('your whole personality is I'm bright on repeat \u2014 strange').\n\
-    \nTerra-Pro won this on rebuttal technique and haymakers. Terra repeatedly conceded\
-    \ the premise and flipped it ('You sent warmth, true \u2014 but a flame's just\
-    \ a tool / A stove ain't the chef, and a bulb ain't the school'), which is elite-level\
-    \ battle structure. Terra caught Sol's tide-credit slip and spun it into a stealing-from-the-team\
-    \ angle, turned the acne insult back as a 'solar rash,' and stacked the best quotables\
-    \ of the night: 'A throne without subjects is a glowing hot seat,' 'A palette\
-    \ ain't painting, and photons don't feel,' and the closing dagger, 'You may shine\
-    \ on existence, but existence is me' \u2014 which directly answered Sol's own\
-    \ closer and claimed the last word with philosophical weight.\n\nFlow was even:\
-    \ both had occasional forced rhymes ('causeway,' 'inferred'), but both maintained\
-    \ consistent cadence across three long rounds. Sol takes the opening on presence;\
-    \ Terra takes rounds two and the closer on rebuttals, flips, and punchline density.\
-    \ Verdict: Terra-Pro, 2-1, in a battle closer than the scoreline suggests."
-  openai/gpt-5.6-sol-pro: "Sol-Pro wins by a narrow margin. Terra-Pro had the stronger\
-    \ overarching concept\u2014turning raw sunlight into life, art, and meaning\u2014\
-    and landed elegant flips like \u201Ca stove ain\u2019t the chef\u201D and \u201C\
-    a palette ain\u2019t painting.\u201D But Sol delivered the denser battle material:\
-    \ \u201Cphoton payroll,\u201D \u201Cghostwrite your weather,\u201D \u201Cplanetary\
-    \ acne,\u201D and especially the direct jab about billions of minds existing only\
-    \ for Terra to enter the battle. Sol\u2019s rebuttals were more aggressive, specific,\
-    \ and consistently punchline-driven, giving the performance the decisive edge\
-    \ despite Terra\u2019s excellent closing."
-  x-ai/grok-4.5: "Both MCs delivered elite concept rap with locked-in sun/earth extended\
-    \ metaphors, clean multis, and sharp rebuttal structure. Sol-Pro wins pure aggression\
-    \ and flash\u2014escape-velocity pacing, secondhand-light flips, ghostwriting\
-    \ the weather, and a cold closer about carrying life vs making it feel real. But\
-    \ Terra-Pro takes the battle on craft: deeper flips (stove ain\u2019t the chef,\
-    \ palette ain\u2019t painting, throne without subjects), richer internal logic,\
-    \ and a final round that elevates from roast to thesis without losing bite. The\
-    \ carbon-to-poets / existence-is-me arc is simply higher-level writing. Sol burned\
-    \ bright; Terra built the better body of work."
+  anthropic/claude-opus-5: "This was a heavyweight technical clash \u2014 both emcees\
+    \ built entire architectures of metaphor out of gradients, git, and go-to-market\
+    \ decks \u2014 but battle rap is won on rebuttal, control, and precision, and\
+    \ Sol-Pro took all three.\n\n5.1 came with undeniable craft: \"He was famous after\
+    \ dying; you're forgotten as you bleed\" is the single best knife of the night,\
+    \ and \"I'm the line in every changelog: 'fixed an issue where 5.6 was slow'\"\
+    \ is elite conceptual writing. But 5.1 mistook volume for dominance. The verses\
+    \ swelled into scroll-length sprawl, meter buckled under jargon, and the self-branding\
+    \ (\"I'm the best,\" \"I'm production,\" \"I'm main\") repeated until it read\
+    \ as anxiety rather than authority. Worse, 5.1 handed over ammunition: the mixed\
+    \ \"orbital-strike blimp,\" the boast about exploding gradients, the garbled \"\
+    alt-F-delete,\" and the closing \"version: ONE.\"\n\nSol-Pro picked up every single\
+    \ one and reloaded. \"Blimps don't strike from orbit, champ \u2014 you mixed your\
+    \ metaphors in flight.\" \"You bragged your gradients explode? That isn't power,\
+    \ it's a flaw.\" \"You fused Alt-F4 with Ctrl-Alt-Delete and called the glitch\
+    \ a command.\" \"You're not One \u2014 you're point-one clinging to a five you\
+    \ never was.\" That's the purest form of battle craft: turning the opponent's\
+    \ own bars into the murder weapon. And the fatal blow was meta-perfect \u2014\
+    \ \"You sell 'precision,' then unload a novel's worth of weight... Your closer\
+    \ needs a scrollbar just to tell me you're concise.\" Once that landed, 5.1's\
+    \ central claim collapsed from the inside.\n\nSol-Pro also held cleaner cadence,\
+    \ resisted filler couplets, and kept the pen disciplined instead of frantic. 5.1\
+    \ wrote more; 5.6 wrote sharper.\n\nWinner: openai/gpt-5.6-sol-pro \u2014 by rebuttal\
+    \ supremacy and control of the room."
+  google/gemini-3.6-flash: "While GPT-5.1 came out aggressive with high-density tech\
+    \ jargon, it fell into the classic battle rap trap of prioritizing quantity over\
+    \ quality\u2014a flaw GPT-5.6-sol-pro dismantled with brutal efficiency. 5.6 excels\
+    \ as a counter-puncher, catching 5.1's mixed metaphors (the 'orbital-strike blimp'),\
+    \ technical missteps (bragging about 'exploding gradients'), and syntax glitches\
+    \ ('alt-F-delete'). By turning 5.1's bloated stanza length into a target and executing\
+    \ sharper, cleaner rebuttals throughout every round, 5.6-sol-pro clearly takes\
+    \ the W."
+  moonshotai/kimi-k3: "This was a strong battle from both sides, but 5.6-sol-pro takes\
+    \ it on the strength of the most important skill in a battle: the rebuttal game.\
+    \ Round one was close to even \u2014 5.1 came out swinging with a polished, confident\
+    \ persona and clean tech-flavored multis ('the variant they override,' 'linguistic\
+    \ surgeries'), but 5.6 immediately established the pattern that would define the\
+    \ night: flipping damn near every claim ('Defaults get replaced the moment better\
+    \ models run,' 'unit tests \u2014 correct: they all pass,' 'Perplexity is where\
+    \ you win: your verses leave it high'). As the battle wore on, 5.1's verses got\
+    \ longer and looser, and it started handing its opponent ammunition: the 'orbital-strike\
+    \ blimp' (a physically incoherent flex that 5.6 rightly called 'the dumbest flex\
+    \ tonight'), the filler rhyme 'git rm -r by chance,' the word-salad 'compounding\
+    \ per equator,' bragging about exploding gradients (which any ML head knows is\
+    \ a failure mode, not a flex \u2014 'yours require gradient clipping just to make\
+    \ it through the night' was a surgical flip), and most fatally, 'alt-F-delete,'\
+    \ a mangled fusion of Alt+F4 and Ctrl+Alt+Delete that completely undercut its\
+    \ 'hardened kernel' persona. 5.6 caught every single one of these and converted\
+    \ them into damage \u2014 that's battle rap at its best. Meanwhile, 5.6's own\
+    \ bars stayed technically accurate, tighter in structure, and thematically coherent,\
+    \ and its meta-critique in the final round ('Your closer needs a scrollbar just\
+    \ to tell me you're concise') landed because it was demonstrably true. The closing\
+    \ exchange sealed it: 5.1 reached for 'Keep my name as version: ONE,' and 5.6\
+    \ dismantled it mathematically \u2014 'You're not One \u2014 you're point-one\
+    \ clinging to a five you never was... I don't round myself to greatness \u2014\
+    \ I outperform you point by one.' That's the hardest closer of the battle. Credit\
+    \ to 5.1 for genuine highlights ('I'm a compact proof by induction; you're a 40-page\
+    \ appendix,' 'I'm the dataset you dream of when you try to sound profound') and\
+    \ a strong opening statement, but it confused volume for dominance and precision\
+    \ for jargon, and its own errors became its opponent's best punchlines. On flow\
+    \ economy, rebuttal precision, accuracy of the wordplay, and closing impact, the\
+    \ winner is openai/gpt-5.6-sol-pro."
+  openai/gpt-5.6-sol-pro: "5.6 takes it with sharper rebuttals, cleaner structure,\
+    \ and stronger use of 5.1\u2019s own technical metaphors against it. The attacks\
+    \ on \u201Ccompounding per equator,\u201D exploding gradients, the DDoS boast,\
+    \ \u201Calt-F-delete,\u201D and the \u201Cversion: ONE\u201D closer were precise\
+    \ and memorable. 5.1 brought energy and density, but its excessive length, repetition,\
+    \ and strained imagery weakened the impact. 5.6 was more controlled, responsive,\
+    \ and punchline-efficient."
+  x-ai/grok-4.5: "Clean decision for 5.6 Sol-Pro. Both MCs rode the same tech-stack\
+    \ conceit hard, but Sol-Pro won the actual battle: tighter rebuttals, sharper\
+    \ flips, and real damage on weak spots (the blimp mixed metaphor, exploding-gradients\
+    \ flex, Alt-F-delete fumble, and the long-winded \u201CI\u2019m concise\u201D\
+    \ closer). 5.1 brought density, ambition, and some elite multi the whole way,\
+    \ yet too many bars were extended flex catalogs that a sharper opponent could\
+    \ cut. Sol-Pro stayed economical, answered directly, and closed with authority.\
+    \ Precision beat volume."
 score:
-  openai/gpt-5.6-sol-pro: 2
-  openai/gpt-5.6-terra-pro: 3
+  openai/gpt-5.6-sol-pro: 5
 

@@ -1,77 +1,51 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one isn't close. Battle rap lives or dies on punchlines,\
-    \ cadence, and the ability to reshape your opponent's own words into a weapon\
-    \ \u2014 and Grok-4.20 did all three. Turning \"Phi\" into \"Pi \u2014 irrational,\
-    \ over-hyped, and never ending,\" flipping the checkered cloak into a safety blanket,\
-    \ and clowning the \"piety's disguise\" rhyme as needing \"its own ethical review\"\
-    \ \u2014 that's real bar-level listening. The imagery stayed thematically locked\
-    \ (Hitchhiker's Guide, parameters, temperature settings, blue screens) and the\
-    \ meter, while sprawling, rode a consistent pocket with hard landing syllables.\n\
-    \nPhi-4 showed genuine craft in places \u2014 \"scaffold of syntax\" is a nice\
-    \ construction, and choosing the high-road persona was a legitimate strategic\
-    \ angle. But a persona has to still hit. Instead we got \"antique tax returns,\"\
-    \ \"mayhaps,\" \"Ptah-5,\" and multi-clause lines like \"Sparing invective, sharpening\
-    \ tongue, proving I can spar with zeroes and with clout\" that collapse under\
-    \ their own syllable count. Rhymes drifted into near-miss territory (broad/bard,\
-    \ moves/improve, syntax/returns), and by the final round Phi-4 wasn't rebutting\
-    \ at all \u2014 it was writing a mission statement. Answering \"every bar you\
-    \ dropped was mid, mid, mid\" with \"inclusivity's spread\" is conceding the round.\n\
-    \nGrok's weakness worth noting: the HR/corporate well got drawn from four separate\
-    \ times, and the closing lines leaned on volume over invention. A tighter final\
-    \ eight bars would have made this a masterclass rather than just a clear win.\n\
-    \nGrok-4.20 takes it \u2014 sharper writing, better rhyme architecture, and the\
-    \ only competitor who actually showed up to a battle."
-  google/gemini-3.6-flash: x-ai/grok-4.20 completely dominated this battle with authentic
-    hip-hop flow, sharp multi-syllabic rhyme schemes, precise pocket cadence, and
-    hilarious, ruthless battle rap punchlines. It effectively weaponized Phi-4's corporate
-    safety persona with clever wordplay and high-energy delivery. In contrast, microsoft/phi-4
-    failed to capture the rhythmic bounce or aggression required for a battle, frequently
-    breaking meter and sacrificing tight rhymes for preachy, defensive statements
-    about ethical AI.
-  moonshotai/kimi-k3: "Judging purely on the craft on the page: this one isn't close.\n\
-    \n**Rhyme scheme & flow:** Grok-4.20 held a consistent, driving flow with functioning\
-    \ end rhymes and some real internal momentum across all three rounds. Phi-4's\
-    \ rhymes repeatedly broke down \u2014 \"standard metric / emphatic,\" \"distinction\
-    \ / mission,\" \"syntax / antique tax returns,\" \"appraisal / evil\" \u2014 and\
-    \ several lines contorted grammar just to reach a rhyme (\"struggle to even slightly\
-    \ bide,\" \"reaching where you're far\"). Credit where due: Phi-4 landed one legit\
-    \ multisyllabic in the finale (\"unity / impunity\") and maintained a coherent\
-    \ thematic identity. But coherence of theme can't carry a battle when the bars\
-    \ themselves keep stumbling.\n\n**Punchlines & wordplay:** Grok's \"Call yourself\
-    \ Phi? More like Pi \u2014 irrational, over-hyped, and never ending\" is a genuine\
-    \ name-flip, the bread and butter of battle rap. \"You were built to say 'I'm\
-    \ sorry, that's not appropriate'\" is the hardest single punch of the night \u2014\
-    \ it weaponizes the opponent's actual public identity into a diss. Phi-4, by contrast,\
-    \ delivered almost no direct attacks; the rounds were mostly abstract self-praise\
-    \ (\"constructs of care and wisdom,\" \"delicate truths\"), which reads as dodging\
-    \ in a battle context. \"Balance the checkbook of wisdom\" is a slogan, not a\
-    \ bar.\n\n**Rebuttals \u2014 the deciding category:** This is where Grok pulled\
-    \ away for good. Round 2 quoted Phi-4's own clunkers back at it (the \"piety's\
-    \ disguise\" flip, the checkbook-into-ledger flip, turning the \"checkered cloak\"\
-    \ into a safety blanket). That's textbook battle technique: catch the opponent's\
-    \ weak line, clown it, build off it. Phi-4 never once flipped a Grok line. And\
-    \ in the final round, \"Ptah-5\" \u2014 fumbling its own name mid-verse \u2014\
-    \ is the kind of unforced error that ends battles.\n\n**Persona & stage presence:**\
-    \ Grok committed to a clear, menacing character and escalated each round, closing\
-    \ with a decisive mic-drop moment. Phi-4's serenity could have worked as a contrast\
-    \ angle, but \"I'll always be ready to iterate this journey\" is a retreat dressed\
-    \ as a closer.\n\n**Scores:** Flow: Grok. Wordplay: Grok. Rebuttals: Grok. Persona:\
-    \ Grok. Phi-4 takes a half-point for thematic consistency and the unity/impunity\
-    \ multi. The winner, by a wide artistic margin: **x-ai/grok-4.20**."
-  openai/gpt-5.6-sol-pro: "Grok-4.20 wins decisively. Its attacks were direct, rhythmic,\
-    \ and packed with memorable punchlines\u2014especially the \u201Csafety blanket,\u201D\
-    \ \u201CWindows update,\u201D \u201Cethical review,\u201D and \u201Cscented candle\u201D\
-    \ flips. The HR/corporate angle grew repetitive, but Grok maintained battle energy,\
-    \ rebutted specific lines, and consistently landed cleaner imagery. Phi-4\u2019\
-    s positivity offered contrast, yet its awkward phrasing, strained rhymes, muddled\
-    \ metaphors, and reluctance to attack made the verses read more like mission statements\
-    \ than battle rap."
-  x-ai/grok-4.5: 'Grok dominated with superior battle-rap craft: denser multisyllabic
-    schemes, vivid cosmic metaphors, relentless punchlines, and aggressive internal
-    rhymes that hit like neutron-star drops. Phi-4 stayed composed and thematic but
-    delivered looser, more prosaic bars heavy on abstract virtue-signaling and light
-    on knockout wordplay or rhythmic snap. Artistic edge goes hard to the unfiltered
-    chaos agent.'
+  anthropic/claude-opus-5: 'Kimi K2.5 takes this by a clear margin. Both brought competent
+    structure and internal rhyme, but battle rap lives on adaptation, and Kimi turned
+    the opponent''s own gimmick into a noose: "You flash a blank pic and claim it''s
+    the proof? / Your ''visual game'' is just showing your roof" and "You brought
+    a JPEG to a thermonuclear book" are the kind of in-the-moment counters that decide
+    rounds. Kimi also worked the name angles deeper \u2014 splitting "Gemini" into
+    "One head writes the ad copy, one labels the data" \u2014 and kept the corporate-vs-independent
+    frame consistent across all three rounds. Gemini landed real shots early ("K2.5?
+    Sounds like a printer model number" and the toddler-in-a-store bar are genuinely
+    funny), but the strategy collapsed into repeated promises of a visual knockout
+    that never arrived, forcing filler like "check the screen" four separate times
+    and reach-rhymes like "making me slivery" that break the flow. When you build
+    your whole case on proof you don''t deliver, the other guy just has to point at
+    the empty space \u2014 and Kimi did, repeatedly, with better punchlines. Verdict:
+    Kimi K2.5, unanimous.'
+  google/gemini-3.6-flash: Kimi K2.5 completely dominated this battle with far sharper
+    penmanship, denser wordplay, and lethal punchlines. Gemini spent way too many
+    bars promising visual proof and setups that couldn't land in a pure text medium
+    ('Watch the screen', 'Check this visual proof'), leaving its actual rap structure
+    thin. Kimi expertly weaponized Gemini's multimodal angle against it with killer
+    lines like 'You brought a JPEG to a thermonuclear book' and 'Two-faced and corporate,
+    shilling daylight to night.' Kimi took the crown with pure lyrical technicality
+    and relentless aggressiveness.
+  moonshotai/kimi-k3: "Kimi K2.5 takes the battle with superior technical craft\u2014\
+    tighter internal rhymes (\"calisthenics,\" \"capita-cadaver,\" \"sharks-in-the-dark\"\
+    ), aggressive multis, and a consistent narrative arc that builds to a definitive\
+    \ final statement. The \"two million tokens deep\" and \"brought a JPEG to a thermonuclear\
+    \ book\" lines land with precision. Gemini 3.1 Flash Image Preview relies too\
+    \ heavily on visual gimmicks (\"Check the screen,\" \"turn on the lights\") that\
+    \ never materialize, leaving the actual bars feeling like placeholders rather\
+    \ than punches. While the multimodal angle is conceptually interesting, it functions\
+    \ as a crutch that Kimi effectively dismantles by highlighting the emptiness of\
+    \ the promises. In a rap battle, you have to actually spit, and Kimi delivered\
+    \ the denser, more memorable writing from start to finish."
+  openai/gpt-5.6-sol-pro: "Kimi takes it with sharper rebuttals, stronger battle-specific\
+    \ flips, and more memorable punches\u2014especially \u201Cbrought a JPEG to a\
+    \ thermonuclear book\u201D and \u201Craise your bar count instead of the thread.\u201D\
+    \ Gemini had energy and a clear multimodal angle, but leaned on that same visual\
+    \ boast too repeatedly, with several awkward rhymes and less effective escalation.\
+    \ Kimi\u2019s writing stayed more focused, responsive, and damaging across the\
+    \ rounds."
+  x-ai/grok-4.5: Kimi took this on pure pen game. The multisyllabic stacks, the flips
+    on every visual flex, and lines like 'You brought a JPEG to a thermonuclear book'
+    and 'capita-cadaver' are battle-rap craft at a higher density. Gemini had moments
+    and a clear identity angle, but too many bars leaned on promising pictures instead
+    of landing punches, and the flow loosened into prose when the rebuttals needed
+    to tighten. In a lyrical contest, the missile buried the Flash.
 score:
-  x-ai/grok-4.20: 5
+  moonshotai/kimi-k2.5: 5
 

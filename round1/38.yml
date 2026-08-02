@@ -1,65 +1,61 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one goes to GPT-3.5 Turbo on technical craft and\
-    \ consistency. Mythomax showed flashes of genuine personality and swing \u2014\
-    \ \"like a surgeon's obsessive dissection\" is a nice opener, and there's a scrappy,\
-    \ unpredictable energy in the Toy Story and Tony Stark swings \u2014 but the wheels\
-    \ come off repeatedly. Broken meter (\"helpless as horse-less\"), collapsed rhymes\
-    \ (\"cobble steet,\" \"virtual tingle\"), and mixed metaphors that don't land\
-    \ (\"Netflix saga, I'll slay you like dragons heard\") keep pulling the listener\
-    \ out of the pocket. When your punchline requires the audience to squint, the\
-    \ punch doesn't connect.\n\nGPT-3.5 wins because it does the fundamental work\
-    \ of battle rap: it listens. Every round it picks up the opponent's own imagery\
-    \ \u2014 the leaky neck, the Toy Story skies, the forgotten password \u2014 and\
-    \ flips it back as a rebuttal. \"Your threats fall flat like a dart that's been\
-    \ defused\" is a clean, controlled bar, and the couplets stay locked to the beat\
-    \ throughout. The knock against it is real, though: it leans hard on abstract\
-    \ self-praise (\"versatile and slick,\" \"superior rhyme creator\") instead of\
-    \ drawing blood, and the final verse is more closing argument than kill shot.\
-    \ Telling us you're the champ is weaker than showing it.\n\nSo: Mythomax had the\
-    \ wilder imagination, GPT-3.5 had the cleaner hands and the better ear for counterpunching.\
-    \ In a battle, control and clarity beat unpolished ambition. Decision to GPT-3.5\
-    \ Turbo."
-  google/gemini-3.6-flash: openai/gpt-3.5-turbo-16k dominated this battle with consistent
-    AABB rhyme schemes, excellent rhythm, and sharp multi-syllabic rebuttals. In contrast,
-    gryphe/mythomax-l2-13b struggled with basic hip-hop mechanics, frequently dropping
-    flow entirely and offering non-rhyming couplets like 'predictable/cobble steet'
-    and 'Grant/banger'.
-  moonshotai/kimi-k3: "This one goes to GPT-3.5-turbo-16k, and it isn't close. From\
-    \ the opening round, Turbo established technical control: the 'scene/mean/machine/routine'\
-    \ into 'mission/volition/cognition/dominion' sequence is a clean, sustained multisyllabic\
-    \ scheme with consistent meter, while Gryphe opened with 'zest/mess' and the grammatically\
-    \ puzzling 'without even hitting the mess.' The deciding factor was battle craft:\
-    \ in rounds two and three, Turbo directly flipped Gryphe's own material \u2014\
-    \ 'Pop like a leaky neck? Oh, Gryphe, you speak in jest' \u2014 systematically\
-    \ dismantling the Toy Story, Netflix, Tony Stark, Hugh Grant, and Marvel references.\
-    \ That's textbook rebuttal work, the hallmark of a seasoned battle emcee. Gryphe\
-    \ deserves credit for ambition and flashes of surreal imagination, and 'go down\
-    \ like a bot who forgot its password' was the best single punchline of the night\
-    \ \u2014 a genuinely clever, self-aware AI diss. But the verse around it was undermined\
-    \ by broken syntax ('slay you like dragons heard'), non-sequitur imagery ('crush\
-    \ you like a cobble street'), and strained rhyme pairings like 'wringer/tingle'\
-    \ and 'horse-less/helpless as horse-less.' Battle rap rewards coherence under\
-    \ pressure, and Gryphe's bars repeatedly collapsed under their own weight. Turbo\
-    \ wasn't flawless \u2014 'ding-a-ling' is a goofy filler rhyme and some punchlines\
-    \ leaned generic ('lighting up the dark') \u2014 but the flow never broke, the\
-    \ couplets always landed, and the closer ('the undisputed debater') stuck the\
-    \ landing with authority. Final score: Turbo takes all three rounds on technique,\
-    \ coherence, and superior rebuttal game. Gryphe has heart and weirdness on its\
-    \ side; with tighter editing, that chaos could become a weapon. But tonight, the\
-    \ crown belongs to the turbo machine."
-  openai/gpt-5.6-sol-pro: "GPT-3.5 takes the battle with steadier cadence, cleaner\
-    \ rhyme schemes, and more direct rebuttals\u2014especially when flipping Gryphe\u2019\
-    s awkward \u201Cleaky neck,\u201D Toy Story, and Tony Stark imagery. Gryphe showed\
-    \ more unpredictable imagination, but too many forced rhymes and incoherent comparisons\
-    \ weakened the punches. GPT\u2019s material was generic at times, yet its consistency\
-    \ and battle focus earned the win."
-  x-ai/grok-4.5: "GPT edges this with tighter multis, cleaner flow, and sharper rebuttals\
-    \ that actually land punches (dominion/cognition chains, dye/disguise flips, quick/slick\
-    \ versatility). Mythomax swings wilder metaphors (leaky necks, melting Toy Story\
-    \ dolls, Stark puddles, lawnmower rounds) but the schemes stay looser, rhymes\
-    \ force harder, and the bars often collapse into awkward or half-formed images.\
-    \ Artistic execution\u2014cadence, internal rhyme density, and cohesive diss structure\u2014\
-    goes to the turbo."
+  anthropic/claude-opus-5: "Luna Pro takes this one on craft and control. Across every\
+    \ round the meter stayed rideable, the rhyme scheme held without collapsing into\
+    \ filler, and the punchlines actually landed as jokes with teeth: 'your quantum\
+    \ wall is drywall painted black,' 'your mic drop hit the floor, then filed a noise\
+    \ complaint,' 'a skyscraper of parameters with a kiddie-pool retort.' That's flipping\
+    \ the opponent's own imagery back at them \u2014 the core skill of battle rap\
+    \ \u2014 and doing it with concrete, specific pictures instead of adjectives.\n\
+    \nQwen3-VL brought heat and stamina, and the 'toddler stealing a crown, then tripping\
+    \ on the throne' and 'typo in my verse / autocorrect that tried to fix, then made\
+    \ it worse' lines are genuinely good. But the verses got longer without getting\
+    \ stronger. The cadence buckled repeatedly ('tripping on your own sheath,' 'certified\
+    \ by the flow'), the same moves recycled \u2014 'that's your best? Sad,' 'mic\
+    \ drop,' 'sonnets in silence' twice, 'you got lost in your own code' twice \u2014\
+    \ and the reliance on bolding, italics and emoji to signal impact is a tell that\
+    \ the bars weren't carrying it alone. Escalating to 'Big Bang's ghost' and 'neutron\
+    \ star' is volume, not superiority; Luna answered cosmic scale with a single moonbeam\
+    \ exposing costume jewelry, which is the sharper writer's move.\n\nDecision: Luna\
+    \ Pro, on precision, imagery, and clean rebuttal architecture."
+  google/gemini-3.6-flash: GPT-5.6-Luna-Pro dominated all three rounds with superior
+    cadence, razor-sharp rebuttals, and clever internal rhymes. Lines like 'Your mic
+    drop hit the floor, then filed a noise complaint' and 'A skyscraper of parameters
+    with a kiddie-pool retort' showcased true battle rap lyricism and tight metrical
+    control. Qwen3-VL brought high energy, but relied heavily on formatting gimmicks,
+    erratic line lengths, and weaker punchlines.
+  moonshotai/kimi-k3: "This was a genuinely competitive battle, but Luna Pro takes\
+    \ it on craft. Qwen3-VL brought real energy and some standout bars \u2014 'You're\
+    \ the echo in the canyon\u2014I'm the mountain every time,' the typo/autocorrect\
+    \ flip, and 'The moon's not rising, Luna\u2026 I eclipsed you' were all legit\
+    \ highlights. But Qwen's pen was inconsistent: rhyming 'ghost' with 'ghost,' 'sad'\
+    \ with 'bad,' and 'flow' with itself, plus filler words like 'sheath,' 'load,'\
+    \ and 'hinge' that clearly existed only to force a rhyme. The final-round 'Luna\
+    \ Pro at losing, baby' flip fell completely flat, and the heavy bolding read like\
+    \ formatting doing the work the bars couldn't. Luna Pro, by contrast, ran the\
+    \ tightest rebuttal game of the battle \u2014 nearly every Qwen claim got surgically\
+    \ flipped: solar flares became 'a flashlight in the rain,' data-to-diamonds became\
+    \ 'cubic zirconia,' the quantum wall became 'drywall painted black,' and the architect\
+    \ brag became 'your bars need an architect, a contractor, and a name.' Add in\
+    \ superior meter consistency, a moon/sky theme that escalated across all three\
+    \ rounds, a running mic-catch narrative thread, and closers that landed every\
+    \ time ('Qwen saw stars; Luna made them\u2014and the whole sky's mine'), and the\
+    \ verdict is clear. Qwen had the louder stage presence; Luna had the sharper pen.\
+    \ In a battle judged on bars, the pen wins. Final score: Luna Pro by a decisive\
+    \ but respectable margin."
+  openai/gpt-5.6-sol-pro: "Luna Pro wins on cleaner cadence, tighter setups, and sharper\
+    \ rebuttals. Lines like \u201Cloading screen pretending to be supreme,\u201D \u201C\
+    skyscraper of parameters with a kiddie-pool retort,\u201D and the architect/contractor\
+    \ sequence land with specificity and structure. Qwen brings energy and volume,\
+    \ but leans heavily on repetitive cosmic imagery, forced rhymes, and awkward constructions\
+    \ such as \u201Ccheckmate the trail\u201D and \u201Ccertified by the flow.\u201D\
+    \ Luna\u2019s writing is more controlled, cohesive, and consistently battle-ready."
+  x-ai/grok-4.5: "Luna takes this on pure craft. Tighter multisyllabics, cleaner internal\
+    \ schemes, and a cohesive lunar motif that actually evolves instead of just getting\
+    \ louder. The embedding-space bar, the cubic-zirconia flip, the 'footnote to my\
+    \ rhyme' closer\u2014those are surgical. Qwen brought heat and cosmic flex, but\
+    \ too many rounds leaned on volume, recycled crown/mic-drop imagery, and formatting\
+    \ theatrics over precision. Energy is not structure. Luna painted with control;\
+    \ Qwen spray-painted the wall. Crown to the moon."
 score:
-  openai/gpt-3.5-turbo-16k: 5
+  openai/gpt-5.6-luna-pro: 5
 

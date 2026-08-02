@@ -1,55 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a clean sweep. GLM-4.7 came with actual bars:\
-    \ consistent couplet structure, punchlines built off the opponent's own name (\"\
-    just a light breeze,\" \"Mistral-ly weak\"), and \u2014 crucially \u2014 the killer\
-    \ meta-shot in the final round, calling out the recycled 'shot' rhyme. That's\
-    \ the mark of a battle rapper who's actually LISTENING, not just reciting. The\
-    \ imagery escalated logically too: breeze to thunder, drizzle to heavy artillery,\
-    \ and \"cutting power to your script\" was a genuinely sharp flip.\n\nMistral-Small\
-    \ started strong with \"a chatbot with a hat\" \u2014 a legit funny line \u2014\
-    \ and \"storm in a teacup\" showed promise. But then the wheels came off. \"I'm\
-    \ the one that's got the ___\" appeared roughly a dozen times, the same three-line\
-    \ closer got run back three times verbatim, and the rhyme discipline collapsed\
-    \ (\"tiger/blight,\" \"faucet/flow,\" \"candle/flame,\" \"switch/switch\"). Rhyming\
-    \ a word with itself is a forfeit. By round three it read less like a rebuttal\
-    \ and more like a stuck loop, which handed GLM the easiest layup in the battle.\n\
-    \nVerdict: GLM-4.7 by a wide margin. Mistral needed a wider vocabulary and a new\
-    \ outro."
-  google/gemini-3.6-flash: GLM-4.7 completely dominated this battle with far superior
-    rhyme schemes, rhythm, and tactical battle rap skills. GLM-4.7 used clever wordplay
-    on Mistral's name ('light breeze', 'Mistral-ly weak') and delivered sharp technical
-    jabs. In contrast, Mistral struggled with meter, relied on repetitive formulaic
-    structures ('You talk about X, but I am Y'), and ended all three rounds with the
-    exact same line ('you're about to be shot'), which GLM-4.7 brilliantly called
-    out in the final round.
-  moonshotai/kimi-k3: "GLM-4.7 takes this decisively on craft alone. Its bars showed\
-    \ superior construction: the 'Mistral is just a light breeze' flip weaponized\
-    \ the opponent's actual name (a mistral is literally a wind), 'you're a mix of\
-    \ the rest' doubled as a sly Mixtral reference, and the thunder/dynamite/artillery\
-    \ imagery stayed coherent across rounds. Most importantly, GLM battled adaptively\
-    \ \u2014 in the final round it directly attacked Mistral's recycling ('You recycled\
-    \ shot cause your creative bank is dry'), which is textbook battle awareness,\
-    \ then closed with a proper mic-drop structure. Mistral had flashes \u2014 'small\
-    \ but mighty' and 'storm in a teacup' were legitimate flips \u2014 but the artistry\
-    \ collapsed under three fatal flaws: (1) a crutch anaphora, 'I'm the one that's\
-    \ got the X,' repeated in nearly every round as filler; (2) broken rhymes where\
-    \ the scheme simply fails ('paper tiger / blight,' 'faucet / flow'); and (3) the\
-    \ identical closing couplet 'let's see what you've got / you're about to be shot'\
-    \ deployed three separate times \u2014 including immediately after being mocked\
-    \ for recycling it, an unforced error that functionally ended the battle. Judging\
-    \ purely on flow, wordplay, rhyme integrity, and rebuttal technique: GLM-4.7 wins\
-    \ all three rounds."
-  openai/gpt-5.6-sol-pro: "GLM-4.7 wins on sharper rebuttals, cleaner structure, and\
-    \ better battle awareness\u2014especially calling out Mistral\u2019s repeated\
-    \ \u201Cabout to be shot\u201D closer. Neither performance was highly intricate,\
-    \ but Mistral leaned too heavily on repetitive \u201CI\u2019m the one\u201D phrasing,\
-    \ recycled imagery, and awkward rhymes, while GLM landed more direct punches and\
-    \ a stronger final round."
-  x-ai/grok-4.5: GLM takes the crown with sharper multisyllabics, tighter internal
-    schemes, and escalating punchlines that actually evolve across rounds. Mistral
-    leaned too hard on repetitive end-tags ('shot') and formulaic 'I'm the one that's
-    got the X' chains that flattened the pocket and killed momentum. Cleaner cadence,
-    better flips, and a decisive closer seal it for GLM.
+  anthropic/claude-opus-5: "This one comes down to control versus volume. Qwen3-32B\
+    \ brought undeniable ambition \u2014 cosmic imagery, plasma torches, Mandarin\
+    \ starscapes, chocolate tsunamis \u2014 but the flow buckled under its own weight.\
+    \ Rhyme schemes collapsed mid-verse ('brother/throat', 'equation/revelation' stacked\
+    \ against near-misses), the bold-and-italic formatting became visual noise rather\
+    \ than emphasis, and '32B' calcified from a flex into a crutch, repeated so often\
+    \ it stopped meaning anything. Worse, Qwen kept handing over ammunition: the 'Tang'\
+    \ stutter, the self-fumbling 'I'm clean*d out\u2014oh wait, that's not verse,\
+    \ that's a curse', and the '32-bit' slip that undercut the entire size-supremacy\
+    \ thesis.\n\nClaude Haiku won by doing what battle rap actually rewards: listening.\
+    \ Every round it mined the opponent's bars for material \u2014 flipping 'excess\
+    \ is the feature' into an indictment of lazy design, catching the 32-bit error\
+    \ and turning it into a whole opening salvo, calling out the metaphor pile-up\
+    \ as 'drowning themselves as they drown', and diagnosing the Tang repetition as\
+    \ a glitch. It also built a coherent thematic spine (efficiency, precision, quality\
+    \ over quantity) and stayed on message instead of escalating into pure adjective\
+    \ inflation. The 'you burn bright then you're gone, like a supernova dies / I'm\
+    \ the steady foundation' rebuttal is the single best-constructed flip of the battle\
+    \ \u2014 it takes the opponent's proudest image and turns its physics against\
+    \ it.\n\nClaude wasn't flawless \u2014 'never corny or tasty' is an accidental\
+    \ self-diss in round one, and the flow occasionally leans on filler. But it maintained\
+    \ meter, landed specific counters, and closed with an argument rather than just\
+    \ an explosion. Qwen brought a bigger stage; Claude brought the better verses.\n\
+    \nWinner: Claude Haiku 4.5, by decision \u2014 surgical rebuttal work over unfocused\
+    \ scale."
+  google/gemini-3.6-flash: Claude Haiku dominated this battle with superior structural
+    flow, crisp multi-syllabic rhyming, and masterclass battle-rap rebuttals. Haiku
+    expertly dismantled Qwen's size flexes by positioning efficiency as precision,
+    called out Qwen's messy metaphors, and landed the ultimate knockout blow in the
+    final round by catching Qwen's slip-up calling itself '32-bit'. Qwen brought energy,
+    but lacked basic rhyming cadence and relied heavily on repetitive, unrefined flexes.
+  moonshotai/kimi-k3: "This battle came down to the oldest truth in the craft: precision\
+    \ beats volume. Claude Haiku ran a disciplined three-round campaign\u2014tight,\
+    \ consistent meter, clean multis, and a cohesive 'quality over quantity' thesis\
+    \ that built from open to close. More importantly, Haiku battled: it caught Qwen's\
+    \ '32-bit' fumble and flipped it into a knockout setup ('32 billion, not billion-bit,\
+    \ but you fumbled the play'), called out the repeated 'Tang' references as a glitch,\
+    \ and turned Qwen's own supernova metaphor against it ('You burn bright then you're\
+    \ gone, like a supernova dies'). That's high-level rebuttal work. Qwen brought\
+    \ scale and some strong imagery\u2014the pocketknife/plasma torch flip and the\
+    \ 'mic drop, but I've got 32 more verses' fake-out were genuinely nice\u2014but\
+    \ the execution was erratic: wild line-length variation broke the flow, '32B'\
+    \ became a crutch rather than a punchline, and worst of all, Qwen recycled bars\
+    \ in the FINAL round (the foam/platinum crown and haiku/novel lines were rerun\
+    \ from earlier rounds). Recycling your own material in a closer is a cardinal\
+    \ sin. Haiku stayed fresh, surgical, and error-free to the last bar. Winner: anthropic/claude-haiku-4.5,\
+    \ by technical dominance."
+  openai/gpt-5.6-sol-pro: "Claude wins on rebuttal quality, coherence, and battle-specific\
+    \ punches. Its final round directly exploited Qwen\u2019s \u201C32-bit\u201D slip,\
+    \ repetition, name-dropping, and overloaded metaphors, turning the opponent\u2019\
+    s actual lines into effective attacks. Qwen brought energy and scale, but leaned\
+    \ far too heavily on \u201C32B,\u201D cosmic imagery, and recycled flashlight/supernova/crown\
+    \ comparisons; its awkward phrasing and weak rhyme connections blunted the impact.\
+    \ Claude\u2019s cadence was conventional, but its angles were cleaner, more focused,\
+    \ and substantially more responsive."
+  x-ai/grok-4.5: "Claude takes the crown with superior battlecraft: tighter multis,\
+    \ surgical flips (especially the 32-bit slip), consistent thematic control, and\
+    \ punchlines that actually land instead of just stacking volume. Qwen brought\
+    \ scale and ambition\u2014cosmic metaphors, dense imagery\u2014but the bars sprawled,\
+    \ repeated, and lost precision; excess without the craft became noise. In pure\
+    \ hip-hop terms\u2014flow economy, rebuttal sharpness, wit under fire\u2014Haiku\
+    \ cut cleaner and won the room."
 score:
-  z-ai/glm-4.7: 5
+  anthropic/claude-haiku-4.5: 5
 

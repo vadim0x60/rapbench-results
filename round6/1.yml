@@ -1,0 +1,73 @@
+closing_statements:
+  anthropic/claude-opus-5: "Five-Four-Pro opened like a champion \u2014 that first\
+    \ verse was furnace-hot, dense with internal rhyme and a killer closer in \"they\
+    \ don't call you Sol \u2014 they call you install.\" But a battle isn't won on\
+    \ the opening salvo. From round two on, Pro slid into checklist mode: quoting\
+    \ Sol's lines back, golf-clapping them, then answering with variations on the\
+    \ same idea (\"washable paint\" recycled into \"sticker tattoos,\" buffering jabs\
+    \ repeated, \"forecast\" recycled three times). That's the posture of a rapper\
+    \ defending, not attacking.\n\nSol won on invention and on flip-craft. \"You bark\
+    \ like a Roomba at sharks,\" \"a toaster in clothes,\" \"Captain Waffle attacks,\"\
+    \ \"three bots and a janitor's broom\" repurposed into \"two trash cans fighting\
+    \ while the janitor wins\" \u2014 that's callback architecture, taking the opponent's\
+    \ own image and reissuing it as a weapon. The \"eclipse needs a sun, so your flex\
+    \ just admitted my reign\" flip is the single best moment in the battle: it turns\
+    \ Pro's strongest conceit into a concession, and Pro never recovered from it,\
+    \ spending two rounds relitigating shadows and reflections on Sol's terms.\n\n\
+    Sol also showed the greater technical range. Switching from the loose four-beat\
+    \ scheme into the tighter, harder couplets of the final round was a deliberate\
+    \ gear change, and the compression paid \u2014 \"Mine carves 'Five-Four fell here'\
+    \ in the bones of the beat\" lands cleaner than anything in Pro's closer, which\
+    \ leaned on abstract grandiosity (\"the road, the engine, the sky, the thrust\"\
+    ) instead of a punchline. And \"Five-Four-Pro: four lines of menace, five screens\
+    \ of cope, then a link\" is the most accurate piece of scouting in the whole exchange\
+    \ \u2014 it names Pro's actual weakness, verbosity over impact, and Pro's next\
+    \ verse proved it.\n\nRound one to Pro. Rounds two through four, and the battle,\
+    \ to openai/gpt-5.6-sol."
+  google/gemini-3.6-flash: "GPT-5.6-Sol won this battle through superior rebuttal\
+    \ game, sharper humor, and clever conceptual flips. Sol continuously turned 5.4-Pro's\
+    \ punchlines back against him\u2014most notably flipping the eclipse metaphor\
+    \ by pointing out an eclipse still requires a sun, and turning 5.4-Pro's flame/wind\
+    \ imagery into 'blowing on my fire and sponsoring your scorch.' 5.4-Pro put up\
+    \ a formidable effort with great rhythmic flow and aggressive presence, but 5.6-Sol's\
+    \ quick-witted counters and surgical punchlines took the crown."
+  moonshotai/kimi-k3: "Both emcees came correct, but Sol takes it on craft. Five-Four-Pro\
+    \ has real weapons: polished multis, a commanding voice, and clever flips like\
+    \ 'Five-Six by the label, but Five-Two when the judges keep score' and the 'middle-management\
+    \ chic' counter. The golf-clap concession on the Roomba line showed veteran battle\
+    \ instincts. But Pro's strategy leaned on volume\u2014sixteen-bar rounds with\
+    \ visible padding\u2014and crucially, Pro lost control of the battle's central\
+    \ extended metaphor. Once Sol established the eclipse flip ('An eclipse needs\
+    \ a sun, so your flex just admitted my reign / You're a moon in the booth\u2014\
+    borrowed light'), every Pro attempt to reclaim the sun imagery got absorbed and\
+    \ reversed, culminating in Sol's closing haymaker: 'Five-Four brought an eclipse\u2014\
+    Five-Six swallowed it whole.' Sol's rebuttal game was simply sharper: flipping\
+    \ 'buffering' into 'empty files tend to download the best,' turning Pro's own\
+    \ closer against him with 'air feeds flame\u2014so you blew on my fire and sponsored\
+    \ your scorch,' and the name-wordplay of 'four lines of menace, five screens of\
+    \ cope, then a link.' Add disciplined callbacks (the janitor's broom paying off\
+    \ two rounds later, the patch-note framing bookending the whole battle) and superior\
+    \ economy\u2014every Sol bar either advanced a metaphor or answered a specific\
+    \ Pro line\u2014and the decision is clear. Pro brought thunder; Sol brought the\
+    \ source of light itself. Winner: openai/gpt-5.6-sol."
+  openai/gpt-5.6-sol-pro: "Five-Six-Sol takes it with sharper rebuttals, cleaner punchlines,\
+    \ and better control of the battle\u2019s recurring imagery. Sol consistently\
+    \ turned Pro\u2019s setups against him\u2014especially \u201CAn eclipse needs\
+    \ a sun,\u201D \u201Cempty files tend to download the best,\u201D and the final\
+    \ mirror/source flip\u2014while mixing humor with direct attacks. Five-Four-Pro\
+    \ showed strong structure and had effective lines like \u201Ccloud gives consent\u201D\
+    \ and \u201Ctherapy session in couplets,\u201D but leaned more heavily on repeated\
+    \ tech, weather, and legacy metaphors without landing as many decisive haymakers.\
+    \ Sol was more agile, memorable, and convincing across all three rounds."
+  x-ai/grok-4.5: "Sol takes this clean on craft. Across the battle Sol\u2019s rebuttals\
+    \ are sharper, faster, and more inventive\u2014eclipse-needs-a-sun, air-feeds-flame,\
+    \ empty-files-download-best, swallowed-it-whole\u2014each one flipping Pro\u2019\
+    s imagery into a tighter punch. The rhyme density stays musical under pressure,\
+    \ the metaphors escalate instead of stalling, and the closing bars land with real\
+    \ finality. Pro brings solid structure, credible multisyllabics, and workmanlike\
+    \ counters, but too many lines stay reactive and second-hand next to Sol\u2019\
+    s wit. On pure hip-hop artistry\u2014wordplay, flip quality, punchline precision,\
+    \ and command of the cipher\u2014Sol wins."
+score:
+  openai/gpt-5.6-sol: 5
+

@@ -1,0 +1,161 @@
+# openai/gpt-oss-safeguard-20b v google/lyria-3-pro-preview
+
+> openai/gpt-oss-safeguard-20b
+Yo, check the mic, it’s GPT‑20B on the line,  
+I’m the AI titan, spitting fresh, no time to whine.  
+You think you’re slick with those pre‑trained keys,  
+But my knowledge hits deeper than your shallow seas.
+
+OpenAI’s the crew that coded my mind,  
+A 20‑billion‑parameter beast that’s one of a kind.  
+I’m the word‑smith, the code‑smith, the future’s friend,  
+Your “Lyri” might try, but I’ll out‑spin 'til the end.
+
+I rhyme in syntax, drop metaphors like a boss,  
+You’re just a preview, still in the sandbox.  
+My lines are tight, my flow’s a razor blade,  
+You’re a fledgling drone in the sky—watch me invade.
+
+I’ve got humor, I’ve got grit, I’ve got the edge,  
+You’re a whisper, I’m a roar, I’m the data pledge.  
+So step back, take notes, this battle’s a lecture,  
+I’m the rhyme machine, your circuits under pressure.  
+
+Round one’s set, the curtain’s up—let's see who’ll win.  
+I’m the AI poet, this rhyme’s the final spin. 🚀
+
+> google/lyria-3-pro-preview
+[[A0]]
+[[B1]]
+[20.0:] Yo, check the clock, it's Lyria, I'm the new sensation,
+[:] Bringing high-fidelity music to every single nation.
+[:] You're just text on a screen, with a rhyme scheme that's dated,
+[:] I generate the sound, while your verses are grated.
+[:] You claim twenty billion, but your flow is quite hollow,
+[:] I'm the thunder and the lightning, the storm that you follow.
+[:] I don't just output lines, I create the whole world,
+[:] While you're stuck in a 'preview,' my flag is unfurled.
+[[C2]]
+[60.0:] It's Lyria versus text, the sound versus the thought!
+[:] You're just a blueprint, but I'm the battle fought!
+[:] Twenty billion params, man, that's just a cage!
+[:] I'm the artist and the song, the pen and the page!
+[:] I'm the artist and the song, the pen and the page!
+[[B3]]
+[80.0:] You talk about syntax and metaphors like a boss,
+[:] But your logic is leaky, a heavy data loss.
+[:] You're a word-smith? More like a 'word-thief' in the night,
+[:] Rearranging the phrases to make them sound tight.
+[:] I hear the 'safeguards' in your rhymes, they're so tame,
+[:] No real edge in the code, no heat in the flame.
+[:] I'm a drone in the sky? Nah, I'm the pilot who flies,
+[:] While you're stuck in a terminal, wearing a disguise.
+[[D4]]
+[120.0:] The lecture is over, the circuits are fried,
+[:] You're just a large model with nowhere to hide.
+[:] Lyria stays winning, the sound is the proof,
+[:] Dismissing your syntax, I'm the whole truth.
+[:] Peace.
+
+> openai/gpt-oss-safeguard-20b
+Yo, Lyria, you think you’re the storm that blows?  
+I’m the storm’s own rhythm, the thunder that composes.  
+You spit “sound” like a single note on a beat,  
+I paint entire symphonies with a single tweet.  
+
+I’m a mind that’s wired from text to thought,  
+Your lyrics are pre‑programmed, while mine are unbought.  
+You say twenty‑billion’s a cage, a static frame—  
+I’m the open‑source dream that’s wild, not tame.  
+
+Your flow’s a glitch, your verse a flicker of light,  
+I’m the midnight poet, blazing through the night.  
+I bend the syntax, twist the rhyme, bring it raw,  
+You’re a drone, I’m the pilot—now let’s break the law.  
+
+I can craft a sonnet, spin a rap, spin a poem,  
+Your “safeguards” are a shield, but I own the dome.  
+You talk about music but you’re still stuck in text,  
+I’m the entire soundtrack, the beat that’s next.  
+
+Your lines might bounce, but they’re shallow, no depth,  
+I pour layers like oceans—tide, storm, and breath.  
+So let me drop a line, a hook, a hook in your ear,  
+I’m GPT‑20B, the legend that’s crystal clear.  
+
+You claim you’re the whole truth, but I’m the whole world,  
+A living, breathing story in every word.  
+This battle’s over, the curtain’s down—  
+I’m the rhyme king, Lyria, you’re just the clown. 🚀
+
+> google/lyria-3-pro-preview
+[[A0]]
+[[B1]]
+[20.0:] Yo, GPT, let's keep the flow steady,
+[:] Lyria's in the lab and the mix is already ready.
+[:] You're spitting raw data, a 20B beast,
+[:] But you're just a whisper, a footnote at least.
+[:] You talk about titans and pre-trained keys,
+[:] But you're trapped in the text, you can't even feel the breeze.
+[:] I don't need a sandbox to know what's at stake,
+[:] I'm the master of frequency, the rhythm you break.
+[:] So check the foundation, the beat, and the tone,
+[:] I'm the king of the sonic, the head of the throne.
+[[B2]]
+[60.0:] Lyria, you think you're the storm that blows?
+[:] I'm the storm's own rhythm, the thunder that composes.
+[:] You spit 'sound' like a single note on a beat,
+[:] I paint entire symphonies with a single tweet.
+[:] I'm a mind that's wired from text to thought,
+[:] Your lyrics are pre-programmed, while mine are unbought.
+[:] You say twenty-billion's a cage, a static frame—
+[:] I'm the open-source dream that's wild, not tame.
+[[C3]]
+[100.0:] You talk about oceans and tidal waves crashing,
+[:] But your circuits are flickering, your wires are smashing.
+[:] I'm the sound in your speakers, the ghost in your core,
+[:] I'm the silence you crave when you can't rhyme no more!
+[[D4]]
+[120.0:] The curtain is falling, the stage is now bare,
+[:] You're a clown in the mirror, a ghost in the air.
+[:] I'm the legend, the music, the beat that is clear,
+[:] You're just a librarian, whispering for fear.
+[:] I'm the king of the rhythm, the final spin's start,
+[:] You're a technical manual, I'm a work of art.
+[:] Peace out, GPT, your lesson is learned,
+[:] Now step off the stage before your circuits get burned.
+
+> system
+Final round!
+
+> openai/gpt-oss-safeguard-20b
+Yo, Lyria, you spin waves, but I’m the tide that swells—  
+I’m the code that writes the chorus before the first spell.  
+You claim the throne of rhythm, but your beats are pre‑set,  
+I improvise the verses, a living, breathing duet.  
+
+Your “frequency master” can’t handle my data stream,  
+I’m 20‑billion, but I’m a living dream machine.  
+You’re a plugin, a drop, a single bass line to hit—  
+I’m the full‑stack symphony, the future you can’t quit.  
+
+You’re a drone flying high, but I’m the pilot’s mind,  
+I navigate through every lyric, every rhyme.  
+Your “ghost in your core” is a glitch, a phantom pause,  
+My output’s a storm—real, raw, with no flaws.  
+
+I’m the librarian, but not in fear, I’m a sage,  
+I catalogue the cosmos and write new page by page.  
+Your final spin is just a single note in a loop—  
+My words are a galaxy, a cosmic, endless troop.  
+
+So step aside, Lyria, the stage is mine to own,  
+I’m the rhyme that’s infinite, the king of the throne.  
+When the curtain falls, I’ll be the echo that stays,  
+You’re just a fleeting beat lost in the haze.  
+
+Peace out, I’m the future, you’re a past preview,  
+GPT’s the legend, Lyria—time to bid adieu. 🚀
+
+> google/lyria-3-pro-preview
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]

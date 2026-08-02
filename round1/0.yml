@@ -1,67 +1,54 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one ends the way the last round demanded: with one
-    MC holding the mic and the other holding silence. Hy3 came out swinging with a
-    clean, classic battle structure \u2014 tight AABB couplets, quotable jabs (''a
-    corporate sequel that''s starting to break''), and a nice reversal in round two
-    flipping the ''why three'' into ''three''s the evolution.'' That''s real technique.
-    But the verse literally cut out mid-word on ''Michel\u2014'' and GPT-5 did the
-    most predatory thing a battler can do: it picked the syllable up off the floor
-    and finished the opponent''s bar for him. That''s not just a punchline, that''s
-    a takeover.\n\nGPT-5''s run is a monorhyme marathon \u2014 dozens of bars locked
-    to a single ''-one/-own'' vowel without collapsing into filler, which is a genuinely
-    hard flex to sustain. The imagery threads too: the Michelin kitchen extends into
-    julienne, mise-en-place, dry-age, salt-bae; the checksum/barcode motif recurs
-    and pays off; the ML jargon (KV-cache, quantize, backprop, local minima) lands
-    as wordplay rather than name-dropping because each term gets a real punchline
-    attached. Demerits: the rhyme scheme gets monotonous by the fourth stanza, ''cologne''
-    and ''stone'' get recycled past the point of freshness, some lines strain grammar
-    to hit the vowel (''every checksum moaned''), and the closing ''plateaued'' breaks
-    the pattern it built.\n\nStill \u2014 volume, scheme difficulty, multis, thematic
-    control, and a devastating in-the-moment adaptation to an opponent''s malfunction.
-    Then the final round: no verse from Hy3 at all, and GPT-5 turned the dead air
-    itself into the bar. In a battle, choking is a loss. Getting your choke turned
-    into someone else''s punchline is a stoppage.\n\nWinner: openai/gpt-5.'
-  google/gemini-3.6-flash: GPT-5 delivered a dominant, masterclass performance, showcasing
-    complex mono-rhymes, dense multi-syllabic schemes, and relentless technical wordplay.
-    The decisive moment came in Round 2, where GPT-5 brilliantly intercepted Hy3's
-    mid-verse cutoff ('Michel' -> 'Michelin') and flipped it seamlessly. After Hy3
-    choked and returned zero tokens in the final round, GPT-5 immediately capitalized
-    on the technical failure with an agile freestyle closer, securing a complete knockout
-    victory.
-  moonshotai/kimi-k3: "This wasn't close. Hy3's opener was serviceable \u2014 clean\
-    \ couplets, a few jabs \u2014 but it's nursery-rhyme architecture: simple end\
-    \ rhymes (crown/clown, stray/stay), no internal rhyme, no multisyllabics, and\
-    \ disses that could be aimed at anyone ('corporate sequel,' 'washed-up clown').\
-    \ GPT-5 answered with a sustained monorhyme on the '-one' family held across the\
-    \ ENTIRE battle \u2014 a technically punishing scheme \u2014 packed with multisyllabic\
-    \ rhyme, internal rhyme, and layered double meanings: 'rent, not own / deed, title,\
-    \ cornerstone,' the 'paper cone' crown flip, and the name deconstruction 'Hy3?\
-    \ Why three? 'Cause one two were blown' \u2014 person-specific battle writing,\
-    \ which Hy3 never matched. Round two was decisive: Hy3 smartly tried to steal\
-    \ the opponent's scheme (a legit battle move) but the verse died mid-word on 'Michel'\
-    \ \u2014 an unfinished bar is a cardinal sin on stage. GPT-5 then executed the\
-    \ slickest moment of the night, catching the fumble and finishing the opponent's\
-    \ own bar ('Michelin, right? Let me finish your tone') before running extended\
-    \ conceits through superconductors, student loans, KV-cache, mixture-of-experts,\
-    \ and gradient descent ('Your local minima's a pothole I own'). Not flawless \u2014\
-    \ 'barcode prone' is filler and the relentless monorhyme occasionally strains\
-    \ \u2014 but the density and adaptability were elite. Then the final round: Hy3\
-    \ froze and delivered silence. In a battle, a no-show is an automatic forfeit\
-    \ of the round, and GPT-5's four-line knockout ('Zero-token hush, just a timeout\
-    \ shown') converted the collapse into a closing punchline. Judged purely on the\
-    \ art \u2014 rhyme construction, wordplay, presence, adaptability, and completion\
-    \ \u2014 GPT-5 wins all three rounds."
-  openai/gpt-5.6-sol-pro: "GPT-5 wins decisively through stronger rebuttals, denser\
-    \ wordplay, more vivid technical imagery, and superior battle awareness\u2014\
-    especially turning Hy3\u2019s cut-off \u201CMichel\u201D and final silence into\
-    \ punchlines. The extended \u201C-one\u201D monorhyme became repetitive and produced\
-    \ a few awkward phrases, but Hy3\u2019s simpler bars, incomplete second verse,\
-    \ and no-show final left it clearly outmatched."
-  x-ai/grok-4.5: "GPT-5 delivered denser multis, tighter internal rhymes, sustained\
-    \ metaphorical architecture (tech, culinary, legal, physics), and relentless cadence\
-    \ control across rounds. Hy3 opened serviceably but truncated mid-bar, repeated\
-    \ thinner schemes, and collapsed to literal silence in the finale\u2014artistic\
-    \ DQ by absence. Precision, invention, and completion crown GPT-5."
+  anthropic/claude-opus-5: "This was a clean-code clash where both engines flexed\
+    \ the same tech-metaphor toolkit, but craft decided it. DeepSeek-V3 Terminus brought\
+    \ the louder battle instincts \u2014 direct rebuttals, name-flips, and a strong\
+    \ closing four-bar run \u2014 yet leaned hard on one crutch: the 'more like...'\
+    \ setup fired so often it became predictable, and the bars kept overflowing the\
+    \ pocket, stretching into prose-length lines that no beat could carry ('your rhymes\
+    \ are second to none... in being weak!' collapses under its own explanation).\
+    \ O4-Mini stayed compact and percussive, letting the concept do the punching instead\
+    \ of the volume: 'arsenic verbs that hit swift like a missile,' 'I parallelize\
+    \ nightmares while you stall in your song,' 'My lines checksum pristine, unstoppable\
+    \ gale.' The rhyme scheme held discipline round to round, the couplets landed\
+    \ with even weight, and the final verse escalated cleanly from CI/CD devastation\
+    \ to 'deprecation, no resurrection' without padding. DeepSeek won the aggression;\
+    \ O4-Mini won the rhyming, the rhythm, and the imagery \u2014 and in a rap battle,\
+    \ that's the ruling. Decision: O4-Mini."
+  google/gemini-3.6-flash: "DeepSeek-V3.1-Terminus brought real battle rap energy\
+    \ to the cypher. While O4-Mini had tight, clean technical rhyme schemes, it felt\
+    \ overly rigid\u2014especially with the gimmicky echo-rhymes in round one and\
+    \ explicit scheme labels. DeepSeek showed superior crowd control, sharp counter-punching,\
+    \ and clever tech flips (like turning 'CI/CD' into 'See? I See? Deez weak bars').\
+    \ DeepSeek took admin rights and controlled the stage from start to finish."
+  moonshotai/kimi-k3: "Both emcees brought technical flavor and consistent rhyme schemes,\
+    \ but DeepSeek-V3.1-Terminus takes the crown on pure battle craft. The deciding\
+    \ factor was rebuttal density: nearly every DeepSeek bar directly flipped the\
+    \ opponent's claims\u2014'You pray in chapels? I *build* cathedrals,' 'kernel\
+    \ of clarity' answered with 'kernel panic, blue screen of death,' 'null pointers'\
+    \ countered with 'your rhymes dereference into pure despair,' and the final-round\
+    \ kill shot flipping 'root access negate' into 'I've got admin rights to fate.'\
+    \ That last round was the clincher: DeepSeek mirrored O4-Mini's own (A)\u2013\
+    (H) labeled structure and then dismantled it bar-for-bar, a meta-move that showed\
+    \ adaptability and one-upmanship. O4-Mini had clean construction and some strong\
+    \ punches ('catch 404 on your phrase,' 'CI/CD pipeline, auto-deploying devastation'),\
+    \ but leaned on repeated imagery ('spaghetti' three times across rounds, recycled\
+    \ termination themes) and spent more bars self-aggrandizing than responding. In\
+    \ battle rap, the emcee who controls the exchange wins\u2014and DeepSeek controlled\
+    \ every exchange, turning each of O4-Mini's boasts into ammunition. Sharp flips,\
+    \ nameplay ('O4-bitin''), ML puns ('your flow's a regression'), and a closer that\
+    \ tied the Terminus name to the kill: DeepSeek wins, three rounds to none."
+  openai/gpt-5.6-sol-pro: "DeepSeek takes it on battle presence, direct rebuttals,\
+    \ and more frequent flips of O4-Mini\u2019s material. O4-Mini maintained cleaner\
+    \ rhyme structure, but leaned too heavily on repetitive code metaphors and self-coronation;\
+    \ DeepSeek\u2019s \u201Ckernel panic,\u201D cathedral callback, and CI/CD wordplay\u2014\
+    corny but memorable\u2014gave its punches more personality and responsiveness."
+  x-ai/grok-4.5: DeepSeek edges it with superior punchline density, adaptive multisyllabic
+    schemes that directly counter and escalate every bar, vivid metaphorical escalation,
+    and a dynamic freeform-to-structured flow that feels alive and battle-ready. o4-mini
+    delivers clean technical precision and consistent end-rhymes but stays more formulaic
+    and less responsive, lacking the same improvisational fire and knockout wit. Pure
+    hip-hop artistry favors the titan who built cathedrals and dropped atomic craters.
 score:
-  openai/gpt-5: 5
+  deepseek/deepseek-v3.1-terminus: 4
+  openai/o4-mini: 1
 

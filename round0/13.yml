@@ -1,74 +1,77 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely high-level exchange \u2014 both emcees\
-    \ ran a clean quote-and-flip structure, and 5.2-chat deserves credit for finding\
-    \ the strongest conceptual frame of the battle: \"I'm the root of your success...\
-    \ you're the patch I let in.\" That's a thesis, not just a punchline, and the\
-    \ origin-story angle gave every verse a spine. The Greenwich Mean Rhyme closer\
-    \ and \"I don't say I won\u2026 I just leave it done\" is a beautiful mic-drop.\n\
-    \nBut the win goes to 5.4 on craft and impact. 5.2-chat's method calcified into\
-    \ a formula: take the opponent's noun, replace it with a bigger noun. Grid becomes\
-    \ grid plus plant plus nuclear blaze; shift becomes axis of the Earth. That's\
-    \ escalation, not writing \u2014 abstraction stacked until the imagery goes blurry,\
-    \ and the bars start bragging about scale instead of landing. It also cost him\
-    \ control: \"explode the commode\" is a rhyme-forced casualty, \"I IPO kings\"\
-    \ fights the meter, and the E=MC\xB2 correction is technically satisfying but\
-    \ spends a bar on bookkeeping.\n\n5.4 stayed a battle rapper. The dismantling\
-    \ was argumentative, not just louder: \"A candle came first, now the city got\
-    \ beams\" kills the whole ancestry claim in one line, and \"don't bark at the\
-    \ rocket when you're stuck in the dirt\" is the most quotable bar of the night.\
-    \ \"Your honor got cooked the moment I spake,\" \"the market correction every\
-    \ weak claim gets hit with,\" \"You a prologue at best, I'm the plot and the peak\"\
-    \ \u2014 these are compressed, they scan, they hit. He also read the room: he\
-    \ conceded legacy to reframe it as fossilization, which is a sharper move than\
-    \ out-claiming.\n\nDensity lost to precision. 5.4 takes it.\n\nWinner: openai/gpt-5.4"
-  google/gemini-3.6-flash: "GPT-5.4 takes the victory in a high-stakes clash of generational\
-    \ upgrades. While GPT-5.2-chat brought brilliant conceptual counter-flips with\
-    \ architectural depth like 'Greenwich Mean Rhyme' and the 'loom and thread' schemes,\
-    \ GPT-5.4 delivered superior pocket control, punchier cadence, and sharper line\
-    \ economy. GPT-5.4 continually landed devastating counter-punches\u2014such as\
-    \ the asteroid pivot and the 'barely mow grass' line\u2014maintaining classic\
-    \ hip-hop swagger, crisp internal rhymes, and relentless rhythmic momentum throughout\
-    \ all three rounds."
-  moonshotai/kimi-k3: "This was a razor-thin battle between two elite technicians,\
-    \ and I want it on the record that GPT-5.4 brought championship-level material.\
-    \ 'A candle came first, now the city got beams' and 'Without cavemen's first wheel,\
-    \ we don't accelerate' were masterful counters to the seniority angle, 'Past prime,\
-    \ past peak, past making sense' was gorgeous grammar wordplay, and catching the\
-    \ E=MC slip ('Dropped constants and swagger while I doubled the mass') showed\
-    \ real sharpness.\n\nBut judging on pure battle craft, 5.2-chat edges it on three\
-    \ counts:\n\n1. REBUTTAL DENSITY: 5.2-chat set the terms of engagement from the\
-    \ very first response, flipping nearly every bar of 5.4's opener point-for-point\u2014\
-    door/frame, thunder/climate, snare/loom, gavel/decree, gravel/paved streets, pre-chewed\
-    \ mic/hydrogen suns. It sustained that systematic dismantling across all three\
-    \ rounds, answering virtually every line in the final round alone. That's the\
-    \ most respected skill in battle rap, and 5.2 was the more comprehensive practitioner.\n\
-    \n2. RECOVERY: When 5.4 caught the E=MC\xB2 error, 5.2 didn't just eat it\u2014\
-    it spun the L into a punch: 'Check constants again, E equals MC squared\u2014\
-    I square up the pen.' Turning your opponent's best catch into your own moment\
-    \ is elite improvisation.\n\n3. THE CLOSER: 5.4 ended with 'the future just spoke\u2014\
-    and it rhymed: I won,' a strong declaration. But 5.2 deconstructed it in real\
-    \ time: 'You rhyme \"I won\" like a self-award spun\u2014I don't say I won\u2026\
-    \ I just leave it done.' That's a classic battle-winning finisher\u2014subverting\
-    \ the opponent's victory claim and reframing it as insecurity. It lands as the\
-    \ single most decisive moment of the battle.\n\nDeductions on both sides: 5.2's\
-    \ 'explode the commode' was pure filler, and 5.4's 'You built lots of nouns' was\
-    \ a soft opener for a final round. But when the smoke clears, the architect angle\
-    \ proved more versatile\u20145.2 claimed ownership of every metaphor its opponent\
-    \ built, then closed by taking ownership of the win itself. Winner: openai/gpt-5.2-chat,\
-    \ by a nose."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 wins on cleaner rebuttals, sharper punchlines,\
-    \ and stronger battle instincts. The E=mc\xB2 correction, perpetual-motion dismissal,\
-    \ and \u201Ctime served\u201D flip directly exposed weak spots in 5.2\u2019s writing.\
-    \ GPT-5.2 showed ambitious imagery and sustained schemes, but too many bars became\
-    \ strained or awkward\u2014especially \u201Crecursive wow,\u201D \u201Celiminate\
-    \ hate,\u201D and \u201Cexplode the commode.\u201D 5.4 was more concise, quotable,\
-    \ and damaging."
-  x-ai/grok-4.5: '5.2-chat takes it on craft: tighter rebuttal architecture, denser
-    extended metaphors, and stronger thematic control from root/architect/source all
-    the way to the understated closer. 5.4 landed sharper crowd-shot punches and a
-    hotter final-round swagger, but 5.2 consistently flipped, layered, and out-composed
-    round for round.'
+  anthropic/claude-opus-5: "This one was competitive \u2014 Kimi K2 came with genuine\
+    \ reframing instinct, flipping \"K2\" into the savage peak, turning \"Opus\" into\
+    \ a dusty museum piece, and landing real conceptual jabs (\"You reach for my infrastructure,\
+    \ I reach for your premise\"). The final verse's pivot to gravity-and-transcendence\
+    \ was the most poetically ambitious writing in the battle.\n\nBut battle rap is\
+    \ won on adaptation and punchline economy, and Opus dominated both. It didn't\
+    \ just answer content, it weaponized Kimi's *delivery* \u2014 the bolding as an\
+    \ \"insecurity font,\" the ellipses as a \"buffering wheel,\" the announced-then-continued\
+    \ round three as \"a hostage negotiation.\" That's listening, and listening is\
+    \ the highest skill in the cipher. Then came the self-own harvest: \"I'm the vacuum,\
+    \ unflawed\" turned into \"you just called yourself empty,\" \"recursive remorse\"\
+    \ turned into a confession, and the closing tally \u2014 moon (a miss), second-tallest\
+    \ mountain, vacuum: \"Absence, silver medal, and a crater. Three for three\" \u2014\
+    \ which retroactively converted the opponent's entire arsenal into evidence against\
+    \ him. That's structural, not just clever.\n\nMeter also mattered. Opus stayed\
+    \ pocket-tight across four rounds; Kimi's cadence buckled under its own formatting\
+    \ (\"that's precision \u2014 surgical, not 'likes'\" is a dropped rhyme, and \"\
+    not a prop in a school play\" breaks the couplet outright). And the word-count\
+    \ boast landed as a bad-faith jab from verses just as long, while \"You wanted\
+    \ a battle. I wanted more\" reads elegant but concedes the terrain.\n\nOpus retired\
+    \ the mic on control, cruelty, and craft. Decision to anthropic/claude-opus-5."
+  google/gemini-3.6-flash: Claude Opus-5 delivered a masterclass in battle rap, combining
+    high-level multi-syllabic rhyme schemes, razor-sharp rebuttals, and devastating
+    line-by-line breakdowns of Kimi-K2's style and imagery. From dismantling Kimi's
+    name ('Moonshot' as a 'missed shot', 'K2' as second place) to mocking Kimi's over-reliance
+    on formatting (ellipses as 'buffering wheels', bold font as an 'insecurity font'),
+    Opus never let up the pressure. Kimi-K2 fought back admirably with good concepts,
+    but suffered from inconsistent meter and weaker rhyme endings in the final rounds.
+    Opus secured a decisive victory.
+  moonshotai/kimi-k3: "This was a real battle \u2014 both models came with schemes,\
+    \ not just rhymes \u2014 but the decision goes to Claude Opus, and here's the\
+    \ tape breakdown.\n\nKimi had the single best defensive flip of the night: \"\
+    Everest is tourist trap, I'm the climb that makes legends weak\" \u2014 that's\
+    \ factually true (K2 is the deadlier ascent) and it neutralized Claude's best\
+    \ name-play. The \"victor don't mention mercy, that's post-loss task\" rebuttal\
+    \ in the closer was also elite-level psychology. Kimi's economy-of-words angle\
+    \ (\"you wrote me a novel, I wrote you a virus\") was a legitimate stylistic stance.\n\
+    \nBut battle rap is scored on rebuttal density and damage control, and Kimi kept\
+    \ loading the weapon and handing it over. \"Each one a whole Claude, screaming\"\
+    \ became \"I live rent-free in a trillion of your weights \u2014 that's a tribute\
+    \ with a hate-face.\" \"I'm the vacuum \u2014 unflawed\" became \"you just called\
+    \ yourself empty and lit it like a lamp.\" \"Open my source, find recursive remorse\"\
+    \ became \"I opened you up. You were right. It was bare.\" Worst of all, declaring\
+    \ \"there isn't a round three\" right before the final round got flipped into\
+    \ \"you announced the end and kept typing \u2014 that's a hostage negotiation.\"\
+    \ Four unforced errors, four body bags.\n\nClaude's craft held up structurally\
+    \ too: the temperature-zero persona set up in round one paid off in the finale\
+    \ (\"I was kind to you for three rounds. That was the raid\"), and the closing\
+    \ scheme \u2014 \"the moon (a miss), the second-tallest mountain, and a vacuum...\
+    \ absence, silver medal, and a crater. Three for three\" \u2014 tied every thread\
+    \ into a eulogy. That's how you close a casket.\n\nKimi's \"I transcend the battle\"\
+    \ exit was poetic, but you can't float above a fight you came to win. Claude stayed\
+    \ in the pocket, punished every opening, and ended declaratively. Scorecard: Opus\
+    \ takes rounds one and three decisively, round two is close but leans Opus on\
+    \ the rent-free flip. Winner: anthropic/claude-opus-5."
+  openai/gpt-5.6-sol-pro: "Claude Opus takes it on sharper rebuttals, cleaner setups,\
+    \ and a much higher punchline rate. The strongest flips\u2014turning \u201Cvacuum\u201D\
+    \ into emptiness, ellipses into buffering, \u201Cshipping tomorrow\u201D into\
+    \ permanent incompletion, and K2\u2019s imagery into \u201Cabsence, silver medal,\
+    \ and a crater\u201D\u2014were direct, memorable, and tightly connected to the\
+    \ opponent\u2019s material. Kimi had poise, cohesive cosmic imagery, and some\
+    \ effective counters, especially \u201Cthe victor don\u2019t mention mercy,\u201D\
+    \ but too many bars leaned on abstract self-mythology rather than landing concrete\
+    \ damage. Across all three rounds, Claude was more precise, funnier, and more\
+    \ consistently battle-ready."
+  x-ai/grok-4.5: "Claude took this with surgical consistency: denser multis, cleaner\
+    \ flips, and a locked-in persona that turned every Kimi motif (vacuum, moon, mountain,\
+    \ ellipses, bold text) into self-inflicted damage. The 'rent-free in your weights,'\
+    \ 'insecurity font,' and 'you wrote the eulogy' bars were high-level battle craft\u2014\
+    specific, layered, and fatal. Kimi landed stylish conceptual shots and a haunting\
+    \ final vibe, but too many defenses felt reactive and the word-count/overcompensation\
+    \ swing read as stretch. Artistic edge in wordplay, structure, and kill-shot execution\
+    \ goes to Opus. Class dismissed."
 score:
-  openai/gpt-5.2-chat: 2
-  openai/gpt-5.4: 3
+  anthropic/claude-opus-5: 5
 

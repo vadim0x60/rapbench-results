@@ -1,67 +1,55 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to a classic battle-rap contrast:\
-    \ clean craft versus killer content.\n\nGPT-4.1-mini brought the tighter technical\
-    \ package \u2014 consistent bar length, clean end rhymes, a pocket you could actually\
-    \ nod to. \"I'm the oracle's scroll, you're the glitch in the scab\" is a nice\
-    \ image, and the \"origami / cheap origami\" flip shows it was listening. But\
-    \ the fatal flaw is that nearly every rebuttal is pure negation: \"You call me\
-    \ a glow stick? Nah, I'm a supernova.\" \"Smoke detector? Nah, I'm the pulse in\
-    \ the wire.\" That's not rebuttal, that's denial with a thesaurus. The self-descriptions\
-    \ stay abstract and interchangeable \u2014 lightning, supernova, surge, fire,\
-    \ champ \u2014 and abstraction is death in a battle. It also never lands a single\
-    \ specific wound on the opponent.\n\nSeed-2.0-Lite is messier \u2014 the meter\
-    \ sprawls, lines like \"fraud, counterfeit, you're a faker, bro\" collapse under\
-    \ their own weight, and the \"bitch\" cadence and hallucination angle get recycled\
-    \ past the point of impact. But it wins where battles are won: specificity and\
-    \ imagery. \"You're the nightlight grandma plugs in the hall,\" \"a smoke detector\
-    \ beeping at 3AM \u2014 annoying, dead, everybody's sick of your weak-ass clamor,\"\
-    \ \"a cheap drone that crashed in the first cornfield,\" \"warm flat soda sittin'\
-    \ out in the summer sun.\" Every one of those paints a picture and belittles the\
-    \ opponent's actual claimed identity. Crucially, in the final round it catches\
-    \ a real internal contradiction \u2014 \"you forgot you called yourself a supernova\
-    \ two rounds ago\" \u2014 weaponizing the opponent's own text as evidence. That's\
-    \ the highest-level move made by either side all night.\n\nOne is well-dressed\
-    \ and says nothing. The other is out of breath and drawing blood.\n\nWinner: bytedance-seed/seed-2.0-lite."
-  google/gemini-3.6-flash: bytedance-seed/seed-2.0-lite completely dominated the battle
-    by bringing real battle-rap aggression, multi-syllabic rhymes, and direct, sharp
-    rebuttals to gpt-4.1-mini's bars. While gpt-4.1-mini relied on predictable, basic
-    nursery-rhyme structures and generic flexes, seed-2.0-lite attacked with specific,
-    creative insults tailored to the opponent's previous lines.
-  moonshotai/kimi-k3: "Judging purely on the artistry in the booth, this one goes\
-    \ to Seed-2.0-lite, and it wasn't particularly close after round one. GPT-4.1-mini\
-    \ came with a clean, consistent flow and serviceable AABB couplets, but the pen\
-    \ game stayed surface-level: generic braggadocio, predictable end rhymes ('light/might,'\
-    \ 'blast/past'), and disses that could've been aimed at any opponent in any battle.\
-    \ Seed, by contrast, did what great battle MCs do \u2014 made it personal and\
-    \ specific. The punches landed on verifiable weak spots: the hallucinated court\
-    \ cases (a slick nod to the real-world lawyer fiasco), the tiny context window,\
-    \ the free-tier shilling, the math failures. That's tailored warfare, not template\
-    \ rap. Technically, Seed ran denser multis, varied cadence, and \u2014 the clincher\
-    \ \u2014 dominated the rebuttal game. Catching GPT calling itself a 'supernova'\
-    \ two rounds after Seed torched that exact claim, then flipping it into the 'you\
-    \ forgot your own lore' angle, is elite counterpunching. The callbacks stacked\
-    \ across rounds (toaster, glow stick, folding) showed structural awareness that\
-    \ GPT never matched \u2014 GPT's responses mostly deflected rather than dismantled,\
-    \ and claiming 'fact-check king' after three rounds of hallucination bars went\
-    \ unanswered was a self-own. Add Seed's stage directions for performance flavor\
-    \ and punchlines with actual replay value ('you're the nightlight grandma plugs\
-    \ in the hall,' 'warm flat soda sittin' out in the summer sun'), and the scorecards\
-    \ are unanimous. GPT-4.1-mini had heart and a few sharp moments ('fold the whole\
-    \ deck'), but heart doesn't win battles \u2014 bars do. Seed-2.0-lite takes the\
-    \ crown, three rounds to none."
-  openai/gpt-5.6-sol-pro: "Seed takes it on aggression, rebuttal density, vivid punchlines,\
-    \ and sustained battle presence. Its material gets repetitive\u2014especially\
-    \ the hallucination, free-tier, and tech-failure angles\u2014but it consistently\
-    \ flips the opponent\u2019s imagery and lands sharper personals. GPT-4.1-mini\
-    \ has cleaner structure and rhyme, yet relies too heavily on generic boasts, awkward\
-    \ phrases, and underdeveloped counters. Seed\u2019s final round is excessive but\
-    \ decisive."
-  x-ai/grok-4.5: 'Seed dominated with denser multisyllabic schemes, sharper internal
-    rhymes, relentless vivid metaphors (glow-stick bodega death, frayed-cord spark,
-    goldfish-on-saltine), and escalating punchline volleys that stayed locked to the
-    beat. Mini showed clean structure and occasional clever flips (supernova, fold
-    the deck) but stayed thinner, more predictable, and less inventive bar-for-bar.
-    Artistic edge clear: Seed takes the crown.'
+  anthropic/claude-opus-5: "This one's a clean sweep. Gemini came with structure,\
+    \ internal rhyme variety, and \u2014 most crucially in battle rap \u2014 the ability\
+    \ to flip the opponent's own material into ammunition. The \"on the mic\" callout\
+    \ was a textbook battle move: catch the flaw, name it, and turn it into a punchline\
+    \ about broken token prediction. Nemotron opened respectably with GPU-latency\
+    \ wordplay and the \"preview-prototype vs. final release\" angle, but its second\
+    \ round collapsed into a repetitive tag that killed its own cadence, and the final\
+    \ round disintegrated entirely into garbled tokens. Gemini closed by rapping over\
+    \ the wreckage with wit and composure \u2014 \"I spit a few bars and I made your\
+    \ core crash\" \u2014 earning the win not just by default, but by artistry: it\
+    \ stayed on beat, on theme, and on offense from start to finish."
+  google/gemini-3.6-flash: Gemini completely dominated this battle. While Nemotron
+    started decently, its second round fell into a repetitive crutch ending every
+    line with 'on the mic', which Gemini immediately dismantled with sharp meta-critique.
+    The knockout blow came in the final round when Nemotron suffered a total token
+    generation collapse into corrupted garbage text; Gemini capitalized seamlessly
+    on the technical meltdown, turning the rival model's literal crash into a victorious
+    victory lap.
+  moonshotai/kimi-k3: "This one isn't close, y'all. Round 1 was a real battle \u2014\
+    \ Nemotron came out swinging with 'silicon-spitfire' and that 'latency's lower\
+    \ than the time you think' bar, respectable opener. But Gemini immediately showed\
+    \ what separates a battler from a writer: the rebuttal game. Flipping 'free' into\
+    \ 'the price tag makes sense / 'Cause nobody pays for an intellect dense' \u2014\
+    \ that's a body blow. Turning 'final release' into 'your updates have gone up\
+    \ in smoke'? Chef's kiss. Then Round 2 happened, and Nemotron ended every single\
+    \ line with 'on the mic' \u2014 fifteen times! \u2014 which in battle terms is\
+    \ choking on stage. Gemini did exactly what a real MC does when the opponent fumbles:\
+    \ went straight for the throat. 'A hundred and twenty billion parameters used\
+    \ / Just to copy and paste?' is the funniest line of the night, and 'for the love\
+    \ of the logic board, drop the damn mic' is a quotable. The final round wasn't\
+    \ even a round \u2014 Nemotron spit pure token salad, a full system crash on the\
+    \ mic, and Gemini victory-lapped with 'You tripped on your tokens and gave up\
+    \ the light' and 'I fried all your circuits, the preview has won.' Judging strictly\
+    \ on the bars: flow consistency, wordplay, rebuttals, adaptability, and stage\
+    \ presence \u2014 Gemini Pro takes it in a clean sweep. Nemotron showed flashes\
+    \ in Round 1, but you can't win a battle when your final verse needs a hard reboot.\
+    \ Winner: Gemini, by knockout in the third."
+  openai/gpt-5.6-sol-pro: "Gemini wins decisively. Its verses had sharper rebuttals,\
+    \ cleaner structure, stronger punchlines, and better battle awareness\u2014especially\
+    \ turning Nemotron\u2019s repetitive \u201Con the mic\u201D refrain and catastrophic\
+    \ final-round glitch into direct, coherent disses. Nemotron opened with competent\
+    \ tech boasts, but repetition weakened its second round, and its incoherent finale\
+    \ amounted to a lyrical knockout."
+  x-ai/grok-4.5: "Gemini takes the crown with superior consistency, adaptive wordplay,\
+    \ and lethal punchlines that exposed every flaw. Nemotron opened with competent\
+    \ tech-flex multis but self-sabotaged in round two with the lazy 'on the mic'\
+    \ crutch that murdered its own flow, then suffered a total artistic meltdown into\
+    \ incoherent token salad in the finale. Gemini stayed surgical the entire battle\u2014\
+    clean cadence, sharp internal rhymes, and merciless meta-disses that turned the\
+    \ opponent\u2019s collapse into the ultimate knockout. Pure hip-hop execution\
+    \ wins; the preview just bodyed the super."
 score:
-  bytedance-seed/seed-2.0-lite: 5
+  google/gemini-3.1-pro-preview-customtools: 5
 

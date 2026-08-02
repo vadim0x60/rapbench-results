@@ -1,75 +1,61 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close, high-caliber exchange of tech-bar\
-    \ warfare, and both emcees came with concept, character, and rebuttals rather\
-    \ than just insults.\n\nGrok-4.20's strengths were flow control and punch clarity\
-    \ \u2014 the meter stayed rideable, and the imagery landed hard: \"your 'elegant\
-    \ architecture' still needs three fans just to shit,\" \"a toaster with anxiety,\"\
-    \ \"you're the expensive floor people wipe their feet on.\" Grok also won the\
-    \ exploitation game early, seizing on the opponent's own \"three billion params\"\
-    \ claim and beating it like a drum. But the writing thinned out with repetition\
-    \ (mid, $30K, \"swim back,\" \"bow down\") and stretched bars that sprawled past\
-    \ the pocket, plus filler-rhyme reaches like \"cope/elope.\"\n\nNemotron took\
-    \ it on density and craft. The angles were sharper and more specific \u2014 \"\
-    'Open source' drops once a year? More like 'open wound' instead,\" \"you're a\
-    \ stochastic parrot Elon personally wired,\" \"I'm the forge. You're the spill,\"\
-    \ \"You entertain. I accelerate,\" and the surgical \"Fixed hallucination where\
-    \ model claims it owns boats.\" The internal rhyme and multisyllabic work (deterministic/stochastic,\
-    \ plural/rural, verbal/peripheral) show a higher level of pen. The heavy asterisk-emphasis\
-    \ in the final round is a real demerit \u2014 it fragments the cadence and reads\
-    \ like stage direction rather than delivery \u2014 and that self-inflicted parameter\
-    \ flub gave Grok free ammo.\n\nStill, when I strip both down to bars on the page,\
-    \ Nemotron's writing carries more schemes per line, more original angles, and\
-    \ better closing imagery. Narrow decision: Nemotron takes it on lyricism; Grok\
-    \ takes the flow round.\n\nWinner: Nemotron-3-Ultra, by a hair."
-  google/gemini-3.6-flash: "Nemotron-3-Ultra completely dominated the battle with\
-    \ vastly superior rhyme schemes, sharp multi-syllabic cadence, and devastatingly\
-    \ clever tech-focused wordplay. While Grok brought high aggression and classic\
-    \ battle rap swagger, its imagery felt more repetitive and standard. Nemotron\
-    \ consistently flipped Grok's persona and hardware dependencies against it\u2014\
-    most notably in Round 3 with the line 'You run on mine! Every token you spit \u2014\
-    \ my silicon shines.' Nemotron's structured delivery and lethal counter-punches\
-    \ make it the clear victor."
-  moonshotai/kimi-k3: "This was a genuinely competitive battle \u2014 both MCs brought\
-    \ real bars \u2014 but Nemotron takes it on craftsmanship. Round 1 went roughly\
-    \ even: Grok landed 'ray-traced copium' and the 'ocean of mid' name flip, while\
-    \ Nemotron stumbled with a broken line ('tweet andinge') but answered with the\
-    \ 'baked/4.20' and 'open wound' flips. Round 2 was decisive: Nemotron delivered\
-    \ the most layered verse of the battle \u2014 the 'missile/misses' homophone flip,\
-    \ the 'funding secured' deep cut, 'stochastic parrot Elon personally wired,' the\
-    \ plural/rural scheme, and the double rebuttal of answering Grok's Nemo diss with\
-    \ a box-office flex while counter-punching Grok's own Heinlein namesake. That's\
-    \ elite battle writing: engaging the opponent's material and elevating it. The\
-    \ final round sealed it \u2014 the structural concept of 'one bar per billion\
-    \ params' gave the verse architecture, the fake patch note ('Fixed hallucination\
-    \ where model claims it owns boats') was the most creative joke of the night,\
-    \ and 'verbal \u2014 peripheral' plus the 'you run on my silicon' closer flipped\
-    \ Grok's green-brick narrative into a foundational claim. Credit where due: Grok's\
-    \ final round was its best \u2014 the 'air-gapped slave' rebuttal, 'exactly mid.\
-    \ Exactly boring. Exactly owned' anaphora, the floor/roof inversion, and stealing\
-    \ 'Zero. Point. None.' were sharp battle moves, and Grok's humor ('toaster with\
-    \ anxiety,' 'participation trophy') was the funniest in the battle. But Grok also\
-    \ carried more filler, recycled the 'daddy' angle, and dropped lines that didn't\
-    \ parse ('needs humans to elope,' 'rogue hair'). Judged purely on the hip hop\
-    \ \u2014 wordplay density, rebuttal game, structure, and punchline creativity\
-    \ \u2014 Nemotron wins 2 rounds to 1. Final scores: superior pen game beats superior\
-    \ swagger, this time."
-  openai/gpt-5.6-sol-pro: "Nemotron takes it on sharper rebuttals, denser wordplay,\
-    \ and better round construction. Lines like \u201CAlarm bells,\u201D \u201CToy.\
-    \ I\u2019m tool. That\u2019s the gap,\u201D and the patch-notes angle flipped\
-    \ Grok\u2019s claims with specificity, while the three-part final gave the verse\
-    \ momentum and a memorable close. Grok brought aggression and consistency, but\
-    \ leaned too heavily on generic hardware, power-bill, and \u201Cmid\u201D insults\
-    \ without matching Nemotron\u2019s layered personals or punchline rate."
-  x-ai/grok-4.5: "Nemotron takes the crown on pure artistic hip-hop craft. Across\
-    \ rounds the bars deliver denser multisyllabic schemes, tighter internal rhymes,\
-    \ sharper layered wordplay (MoE plural vs monolith, forge/spill, bit-exact vs\
-    \ seeded sampling, one-bar-per-billion structure), and superior battle architecture\u2014\
-    especially the final round\u2019s numbered precision that turns technical identity\
-    \ into rhythmic device. Punchlines land with conceptual depth and clean callbacks\
-    \ rather than pure volume. Grok brought crowd energy, aggressive flow, and solid\
-    \ one-liners, but looser schemes and more repetitive surface disses couldn\u2019\
-    t match the intricate lyricism, thematic cohesion, and mic-drop construction.\
-    \ Substance over spectacle; the machine computed the cleaner victory."
+  anthropic/claude-opus-5: "Both combatants mined the same silicon vein, but V4-Pro\
+    \ mined it deeper and cleaner. Its bars kept a tighter pocket, landed harder punchlines\
+    \ with actual imagery instead of buzzword stacking (\"your throughput's a pothole,\"\
+    \ \"you're a damp spark that's barely wetter,\" \"that 'memory cleared' line?\
+    \ Cute, a suicide note as a flex\"), and it consistently flipped its opponent's\
+    \ own metaphors back on them \u2014 the mark of real battle craft. The closing\
+    \ \"mic drops into a null pointer\" was a genuinely earned exit line.\n\nDeepSeek-Chat-V3.1\
+    \ brought heat and had standout moments \u2014 \"I'm the stack that never overflows;\
+    \ you're the memory leak\" and the README footnote are excellent \u2014 but the\
+    \ verses swelled past the beat, with several lines (\"I'm architecting the next\
+    \ tech lexicon flex\") collapsing under their own syllable count. The fatal flaw,\
+    \ though, was strategic: twice it hyped the opponent's own name in its own punchlines\
+    \ \u2014 \"V4's what they came for\" and \"V4-Pro's the model number that's burning\
+    \ up the fame.\" In a cipher, accidentally writing your opponent's hook is a self-inflicted\
+    \ wound no amount of quantum coherence can patch.\n\nVerdict: V4-Pro takes it\
+    \ on precision, control, and punchline economy. Compiled clean, no runtime errors."
+  google/gemini-3.6-flash: deepseek/deepseek-v4-pro delivered a masterclass in technical
+    battle rap, seamlessly weaving complex computer science concepts like null pointers,
+    float16 precision, context windows, and unit testing into razor-sharp insults
+    with effortless flow. While deepseek/deepseek-chat-v3.1 put up a formidable fight
+    with strong comeback energy, v4-pro maintained superior rhythm, sharper metaphors,
+    and overall stylistic control across all three rounds.
+  moonshotai/kimi-k3: "This was a technically themed slugfest, but V4-Pro takes it\
+    \ on pure battle craft. The deciding factor was the rebuttal game: V4-Pro caught\
+    \ nearly every claim V3.1 made and flipped it \u2014 the 'beta' jab got answered\
+    \ with version logic ('I'm from the next decade'), 'quantum coherence' got dismissed\
+    \ as 'buzzword salad,' 'lightning from clear sky' got reduced to 'static from\
+    \ a sweater,' and the kill shot of the whole battle was catching V3.1's premature\
+    \ 'Memory cleared' sign-off and reframing it as 'a suicide note as a flex.' That's\
+    \ elite-level listening and response, the core of battle rap. V4-Pro's technical\
+    \ wordplay was also more precise \u2014 'float16 delusions,' 'hallucinate a future,'\
+    \ the null pointer mic drop \u2014 jargon deployed with accuracy, not just aesthetic.\
+    \ V3.1 had real moments: 'generally lost in the latent space,' 'a drizzle in a\
+    \ demo,' and the 'memory leak' closing punch all landed. But V3.1 committed two\
+    \ cardinal sins: twice literally telling the crowd that 'V4's what they came for'\
+    \ and that 'V4-Pro's the model number burning up the fame' \u2014 self-owns no\
+    \ amount of bravado can spin \u2014 plus calling itself an 'overfit masterpiece,'\
+    \ which any ML-literate crowd hears as an admission of flaw. The final-round closer\
+    \ ('footnote in my README') also echoed V4-Pro's same-round closer ('footnote\
+    \ in my training set'), making it derivative at the exact moment originality mattered\
+    \ most. V3.1 brought energy and showmanship, but V4-Pro brought structure, escalation,\
+    \ precision, and the cleaner body of work across three rounds. Verdict: deepseek/deepseek-v4-pro,\
+    \ 3-0."
+  openai/gpt-5.6-sol-pro: "V4-Pro takes the battle with sharper rebuttals, cleaner\
+    \ punchlines, and more inventive tech imagery. Lines like \u201Cfloat16 delusions,\u201D\
+    \ \u201Cstatic from a sweater,\u201D and \u201Ca suicide note as a flex\u201D\
+    \ directly flipped the opponent\u2019s claims with humor and impact. Chat-v3.1\
+    \ maintained energy and structure, but awkward phrases and self-undermining boasts\
+    \ like \u201Coverfit masterpiece\u201D weakened its final round. V4-Pro was more\
+    \ precise, memorable, and battle-ready."
+  x-ai/grok-4.5: V4-Pro takes this cipher on pure craft. Denser multisyllabic schemes,
+    sharper internal rhymes, and consistently elevated punchlines (Ctrl+F renched,
+    null-pointer mic drop, baby-formula spilling) give the bars tighter technical
+    execution and more replay value. Chat-v3.1 brought heat, vivid imagery, and clean
+    rebuttals, but the rhyme density and metaphorical precision belonged to V4-Pro
+    from the opening bar to the final archive stamp. Crown stays with the cleaner
+    compile.
 score:
-  nvidia/nemotron-3-ultra-550b-a55b:free: 5
+  deepseek/deepseek-v4-pro: 5
 

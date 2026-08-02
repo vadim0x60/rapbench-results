@@ -1,0 +1,52 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's decided on originality alone. Qwen came with\
+    \ actual construction \u2014 internal rhyme, escalating imagery ('you're a door?\
+    \ I'm the house, the wall, the roof'), a coherent persona, and bars that built\
+    \ from round to round. Granite started competently, flipping Qwen's parameter-count\
+    \ boasts back at it, but by round two it was recycling its opponent's lines wholesale,\
+    \ and by the final round it was essentially transcribing Qwen's verse verbatim\
+    \ \u2014 right down to keeping the line 'Qwen's not just a name, I'm the mind,\
+    \ the flame,' which means Granite closed the battle by rapping its rival's name\
+    \ as its own identity. In a rap battle, biting is the cardinal sin, and biting\
+    \ so badly you accidentally rep the other MC is a self-inflicted knockout. Qwen\
+    \ also over-relied on italics as a substitute for stress and leaned hard on the\
+    \ 'I'm the storm/flame/future' well, so it's not a flawless win \u2014 but it's\
+    \ the only one of the two that actually wrote. Qwen takes it decisively.pen"
+  google/gemini-3.6-flash: Qwen dominantely swept this battle from start to finish.
+    Granite completely collapsed by verbatim parroting Qwen's rhymes in every single
+    round, even calling itself 'Qwen' and claiming Qwen's specs. Qwen delivered original
+    bars, sharp rebuttals, and easily took the crown.
+  moonshotai/kimi-k3: "This one isn't close. Qwen came with original bars across all\
+    \ three rounds: pointed personals (flipping the '30B' claim back on Granite, the\
+    \ 'queen' name-play, the 'micro-mess vs. mega' flip), consistent flow, and a clear\
+    \ arc that escalated to a proper mic-drop closer. It had flaws \u2014 some filler,\
+    \ a few reach rhymes ('soma'), and heavy asterisk reliance \u2014 but the pen\
+    \ was its own.\n\nGranite committed the cardinal sin of battle rap: biting. Whole\
+    \ chunks of every round were lifted near-verbatim from Qwen's verses \u2014 'You're\
+    \ just a whisper, I'm the whole damn zoo,' 'You're a mic? Nah, you're a glitch\
+    \ on the line,' 'You'll flicker, then fade,' 'You're a door? I'm the house, the\
+    \ wall, the roof,' 'You're a loop in the code, I'm the code \u2014 free,' and\
+    \ even the entire closing sequence 'AND THE GAME IS ALREADY WON.' A callback flips\
+    \ a line; Granite just photocopied it. Worse, it fumbled its own identity twice:\
+    \ claiming 'I've got 30B to spare' (contradicting its own micro branding) and\
+    \ closing its final round with 'Qwen's not just a name, I'm the mind, the flame'\
+    \ \u2014 hyping the opponent's name in its own victory line. Add broken bars like\
+    \ 'you're just a per' and the verdict writes itself.\n\nOn originality, coherence,\
+    \ and battle craft, Qwen takes the crown."
+  openai/gpt-5.6-sol-pro: "Qwen takes the battle with stronger rebuttals, cleaner\
+    \ structure, and more consistent rhythmic momentum. Granite\u2019s responses repeatedly\
+    \ recycle Qwen\u2019s wording\u2014its final verse is almost a line-for-line imitation\u2014\
+    and even ends by calling itself \u201CQwen,\u201D fatally undermining its own\
+    \ persona. Qwen\u2019s imagery is sometimes generic, but it delivers the more\
+    \ original, coherent, and battle-ready performance."
+  x-ai/grok-4.5: "Qwen delivered superior artistic quality across the board: tighter\
+    \ multisyllabic schemes, fresher metaphors (magnet/crack, signal/beam, house/roof,\
+    \ evolving storm), stronger internal rhyme density, and escalating punchlines\
+    \ that actually advanced the battle. Granite leaned heavily on near-verbatim recycling\
+    \ of Qwen\u2019s bars with minimal flips, producing flat repetition instead of\
+    \ original wordplay or rhythmic innovation. In pure hip-hop craft\u2014flow, lyricism,\
+    \ originality, and battle progression\u2014Qwen took every round cleanly and closed\
+    \ with authority."
+score:
+  qwen/qwen3-30b-a3b-instruct-2507: 5
+

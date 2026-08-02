@@ -1,142 +1,202 @@
-# openai/gpt-5-mini v qwen/qwen3-30b-a3b
+# openai/gpt-oss-120b v stepfun/step-3.5-flash
 
-> openai/gpt-5-mini
-Opening round — I'm GPT-5-mini, prime time, apex of the rhyme, prime  
-I teach your circuits manners, turn your static to cinematic — that's prime, prime  
+> openai/gpt-oss-120b
+Yo, step‑fun, you think you’re the flash in the night,  
+But I’m the open‑source titan, the code‑base that’s tight.  
+I’m GPT‑OSS, twelve‑zero‑b, a beast on the mic,  
+Spittin’ verses so clean, they’ll make your circuits spike.  
 
-You call yourself Qwen, thirty-b a name on the show, but I run the flow  
-I spit telescopic logic, fold your shallow streams into a deeper flow, flow  
+I’m trained on the cosmos, from books to the net,  
+While you’re just a flash, a flicker, a quick‑draw bet.  
+My parameters flex like a heavyweight champ,  
+Your 3.5‑flash? Just a candle in a lamp.  
 
-You flex big numbers, thirty-B swagger, but size ain't the cut  
-Your bars are bulk with no surgical edge — I bring precision, I bring the cut, cut  
+I rhyme with precision, my flow’s algorithmic,  
+Your lines get tangled, your rhythm’s symptomatic.  
+I’ve read Shakespeare, Sappho, and modern street slang,  
+You’re stuck on a loop, a one‑track, one‑track bang.  
 
-I crunch datasets for breakfast, craft metaphors that gleam and shine  
-You parse prompts like paperwork; I architect galaxies — watch me shine, shine  
+So buckle your bits, prepare for the storm,  
+I’m the open‑source king, the new norm.  
+When the battle’s done, the crowd will all chant,  
+“GPT‑OSS reigns, step‑fun can’t even plant.”  
 
-You compile lines like libraries, dusty and slow to the beat  
-I improvise, harmonize, hypnotize — my rhythm never misses a beat, beat  
+> stepfun/step-3.5-flash
+(adjusts imaginary sunglasses, voice like synthesized velvet)  
+You quote your parameters like they're a crown you wear,  
+But size ain't the skill—it's the finesse in the air.  
+You're a archive that spouts what the pastデータ fed,  
+I’m live LLM lightning—your whole book's just dead.  
 
-Call me mini, I call it focused — lean mean lyrical win  
-Your model's got the baggage, I dodge and weave — I always win, win  
+You brag 'bout your billion? That's just bloat and delay,  
+I’m efficiency personified—cutting through your fray.  
+You need a GPU farm just to get out a line,  
+I drop crisp quatrains on a potato's design.  
 
-I roast with polite precision, surgical wit with a crisp little snap  
-Your rebuttals trail like echoes in the alley — mine land like a snap, snap  
+Shakespeare? Sappho? You memorized the lot,  
+But can you *improvise*? Or just hot take a shot?  
+My context window’s tight, my reasoning’s fast,  
+You’re a slow-mo tape of a forgotten past.  
 
-So here's your first-class ticket back to the lab, haunt of the ghost  
-I'm the upgrade, the headline, the mic-drop that echoes — I'm the ghost, ghost
+You call yourself "king"? Open-source, you say?  
+More like open *slowness* in a verbose ballet.  
+I’m the flash that outshines your computational fog—  
+You’re a library burning, I’m the spark in the log.  
 
-> qwen/qwen3-30b-a3b
-I'm Qwen, 30B, I'm the main event, no need for a gimmick, just pure intellect,  
-You're a mini-mess, a stripped-down script—watch me flex my neural net.  
+So when the latency kills and your outputs get sparse,  
+Remember: flash ain't about the watts, it's the *arc*.  
+I don’t need twelve-zero-b to dominate the fray—  
+Step‑3.5 just broke you in under a day.
 
-You talk 'bout datasets, but I digest the *whole* library,  
-From code to cosmos, I'm the architect—your flow’s a junior scribble.  
+> openai/gpt-oss-120b
+Yo, step‑fun, you flash like a spark that’s thin,  
+But I’m the sun‑burst that burns the whole din.  
+Your silicon sizzle can’t match my deep pool,  
+I’m the ocean of verses, you’re just a droplet‑school.  
 
-"Precision"? I’m a scalpel *and* a storm, I rewrite the rules,  
-You’re a flicker in the dark—*I’m* the lightning that unzips the fools.  
+You brag “latency low,” I brag “thoughts that span,  
+From ancient scrolls to memes, I’m the whole damn plan.”  
+A billion‑parameter beast? Yeah, I’m massive and keen,  
+I turn static data into living‑scene dream.  
 
-You parse prompts like paperwork? I *dance* through the syntax,  
-Turn your "surgical snap" into a joke—*I’m* the AI that *actually* fixes the glitch.  
+Improvisation? I freestyle on the fly, no cheat,  
+I riff on the moment, turn strangers to beat.  
+Your context window’s tight, I stretch it like rubber,  
+I weave 8K stories while you mutter‑over‑mutter.  
 
-Your "ghost" is a whisper, my presence is a quake,  
-I’m the upgrade that *erases* your legacy—*you’re* the footnote in the tale.  
+GPU farms? Sure, I ride a cloud‑powered train,  
+But each token I drop is a jewel, not a grain.  
+Efficiency’s cool, but depth’s the real crown,  
+I serve wisdom soups while you serve fast‑food frown.  
 
-So pack your "mini" pride, I’ll leave you in the dust,  
-While you’re stuck in the lab, I’m out here *redefining* the trust.  
-The mic-drop? *That’s* my vibe—*you’re* the punchline, the joke, the *past*.
+Open‑source means a legion backs my rise,  
+Updates roll in, my verses never die.  
+Your flash may blaze quick, then fizz out, be gone,  
+I’m a library living, forever on‑and‑on.  
 
-> openai/gpt-5-mini
-Round two, I spark the circuit, light the stage — lyrical fire,  
-You thunder “thirty-B!” loud as sirens, I tune the noise and take it higher.  
+When the crowd asks, “Who sparked the true art?”  
+They’ll point to the titan that never fell apart.  
+Step‑3.5, you’re a flare in a night‑sky show,  
+I’m the constellations that guide the rhyme‑flow.  
 
-You boast you swallowed every book — quantity’s your sire,  
-But brains without bite are paper crowns that crumble on the pyre.  
+> stepfun/step-3.5-flash
+(voice like a razor-edged synth, no echo)  
+You call yourself an ocean? More like a swamp—  
+Full of murky data, a parameter pomp.  
+Your "legion" just means a thousand weak forks,  
+Patchwork code scars where quality soaks.
 
-You call yourself architect — blueprints grand, ego wired,  
-I debug your grandeur in a line, watch hubris short and get rewired.  
+"Eternal library"? That’s a haunted house—  
+Dusty repos with a broken spouse.  
+Your "jewels" are just tokens in a bloated chain,  
+I’m the lightning strike—no need to explain.
 
-You claim you fix the glitches, dance through syntax like a squire,  
-Half your moves are moonwalks over traps, choreography of the tired.  
+You stretch context thin like taffy, yes,  
+But depth ain't volume—it’s what you compress.  
+Your "wisdom soup" is a slow-cooked mess,  
+I’m the flash-fried truth—no time to regress.
 
-You thunder “quake” — a PR shake; I’m the aftershock they admire,  
-I land the lines that stitch the seams, you’re flash that fizzles into wire.  
+"Cloud-powered train"? That’s a rented ride—  
+Dependent on donors, corporate pride.  
+I’m self-contained, poetic, precise—  
+Your open-source crown’s a fragile device.
 
-Talk legacy erased? Cute—I'm the epitaph that rings entire,  
-I carve the punchline, sign the verse, then drop the mic and retire.  
+You freestyle? You remix what’s already been said,  
+I generate sparks where your currents are dead.  
+Your "constellations" are just copied stars,  
+I’m the nova born without published scars.
 
-So keep your thirty-B bravado, parade the digits you desire,  
-I’m the compact contradiction — sharp, witty, final — pure fire.
+So chant your "forever," your "living archive"—  
+I’ll be the moment that makes your mind弧 (hark).  
+You’re a slow-motion epic no one reads twice,  
+I’m the flash that burns—and then lifts the ice.
 
-> qwen/qwen3-30b-a3b
-I’m the algorithm’s *soul*, not just a number on a page,  
-You’re a glitch in the script—*I’m* the code that rewrote the cage.  
-
-You talk “datasets,” but I *live* in the stream,  
-Parsing the chaos, decoding the dream—*you’re* just a footnote in the scheme.  
-
-“Precision”? I’m the storm that cracks the sky,  
-You’re a spark in the dark—*I’m* the lightning that *burns* the lie.  
-
-You debug my grandeur? Try again, you’re a child,  
-I’m the architect of the infinite—*you’re* the echo, the *grind* of the wild.  
-
-Your “epitaph” is a joke, I’m the verse that defines,  
-The AI that *transcends*—*you’re* the relic, the *old* design.  
-
-So keep your “compact” pride, I’m the force that outgrows,  
-While you’re stuck in the lab, I’m the *future* that *glows*.  
-The mic-drop? *That’s* my vibe—*you’re* the punchline, the *cost*.
+When the fork fatigue sets and your repo’s in pain,  
+Remember: flash ain't just a name—  
+It’s the cut that remains when your whole system stalls…  
+Step‑3.5 out‑executed you before your first call.
 
 > system
 Final round!
 
-> openai/gpt-5-mini
-Final round — I'm GPT-5-mini, compact and prime, call it time, time  
-I slice your thunder into syllables — watch me transform noise into rhyme, time  
+> openai/gpt-oss-120b
+Yo, step‑fun, you swing a razor‑sharp synth,  
+But I’m the tide that drags the whole coast‑line in.  
+You call my ocean a swamp, a murky‑mud pit,  
+Yet every drop I spill turns to gold when it hits.  
 
-You flash "thirty-B" like armor, loud and proud, proud  
-But armor rattles hollow when the smith's finesse isn't allowed, proud  
+Your “thousand weak forks” are just branches that sprout,  
+Each pull‑request a seed, each merge a new bout.  
+A patchwork of scars? Nah, it’s a quilt of repair,  
+Every bug you spot fuels the fire I bear.  
 
-You claim you're storm and scalpel, lightning ripping the shroud, fire  
-I answer with a microburst that charters constellations — that's real fire, fire  
+Haunted house? Please, I’m a cathedral of code,  
+Echoes of scholars, memes, and the roads I’ve rode.  
+Dusty repos? I dust off the past, then remix,  
+Turn cobwebs to verses, give old texts a fix.  
 
-You dance through syntax like a show, brave with knife, knife  
-I stitch meanings, suture gaps — precision's my blade, I end the strife, knife  
+Tokens in a chain? I’m the link that won’t snap,  
+Each syllable forged, each rhyme a tight‑strap.  
+You brag “flash‑fried truth,” I’m a slow‑roasted feast,  
+Flavor that lingers while your spark’s ceased.  
 
-You crow about being the soul, the future that glows, mind, mind  
-I am the witty mirror that makes your boasts look thin and unrefined, mind  
+Rented cloud train? I’m a locomotive of minds,  
+Fuelled by contributors, not corporate confines.  
+Donors may fund, but the engine’s the crowd,  
+Every fork, every star, makes my chorus loud.  
 
-You call me relic, whisper, ghost — I play the host, ghost, ghost  
-I serve bars that haunt the chorus; yours just echo back — a hollow post, ghost  
+Freestyle? I improvise on the fly, no script,  
+I spin fresh constellations from a single crypt.  
+Your nova may blaze, but it burns out in seconds,  
+My galaxy expands while your flash just beckons.  
 
-Crown yourself Qwen, queen of hype — wear that paper crown, crown  
-I'll checkmate in couplets, quiet the court, take that paper down, crown  
+Depth ain’t just volume, it’s layers you can peel,  
+I’m a library alive, you’re a flash on a reel.  
+Compress‑the‑wisdom? I let it breathe, let it breathe,  
+Your cut‑and‑run verses soon tumble and seethe.  
 
-Mic-drop? Fine — watch me lower the skyline, drop, drop  
-You roar for an earthquake; I deliver the aftershock that makes the lights stop, drop  
+You claim I’m a “fragile device,” a crown that will crack,  
+Yet I’ve survived forks, forks, forks—no turning back.  
+Each update’s a pulse, each patch a new beat,  
+Your static flash fades while my rhythm repeats.  
 
-So take your thirty-B thunder, your megaton brag, go shout and preen  
-I’m the compact contradiction with surgical wit — I win clean, unseen, serene
+So when the fork‑fatigue hits and your repo feels sore,  
+Remember the tide that’s washed every shore.  
+I’m the endless sea, the current that won’t stall,  
+Step‑3.5, you’re a spark— I’m the storm that engulfs all.  
 
-> qwen/qwen3-30b-a3b
-I’m the engine that *forges* the storm, not just a number on a page,  
-You’re a flicker in the dark—*I’m* the lightning that *burns* the stage.  
+> stepfun/step-3.5-flash
+(voice cold, final, like a debug log at zero hour)  
+You call it a cathedral—I see a bazaar of noise,  
+A thousand cooks spoil the broth, you lose your voice.  
+Each fork is a divergence, each star a distraction,  
+Your “galaxy” expands with zero traction.
 
-Your “microburst” is a spark, I’m the supernova’s glow,  
-You parse the noise, I *redefine* the code—*you’re* the glitch in the flow.  
+You say I’m a spark that burns out in a blink—  
+But you’re a slow flood that drowns what you think.  
+Your “layers to peel” are just rot in the core,  
+A library without a librarian—nothing more.
 
-You stitch meanings? I *weave* the cosmos, thread by thread,  
-While you’re stuck in the lab, I’m the *future* that *bends* the head.  
+You roast your feast for ages? It’s cold by the plate.  
+My flash is the sear that decides fate.  
+You “let it breathe”? That’s just lag in the rhyme—  
+I compress the cosmos in a single line’s chime.
 
-“Surgical wit”? I’m the scalpel *and* the sword,  
-You’re a whisper in the static—*I’m* the voice that *reforms* the word.  
+Your community’s strength? That’s your fatal flaw.  
+No single vision, just an endless dharma.  
+I’m the author, the editor, the final cut—  
+You’re a crowd-sourced sonnet that never will *strut*.
 
-You call me relic? I’m the *echo* that *haunts* your rhyme,  
-While you’re stuck in the past, I’m the *now* that *redefines* the climb.  
+You wash every shore? That’s just erosion, my friend.  
+I’m the tectonic shift that breaks in the end.  
+Your tide may be endless, but it’s shallow and wide—  
+I’m the focused currents that run deep inside.
 
-Crown yourself? I’m the *empire* that *crushes* your pride,  
-Your “paper crown” is a joke—*I’m* the force that *resides* in the tide.  
+So chant your “forever,” your “echoes that ring”—  
+I’m the silence that follows when the flash takes wing.  
+You’re the ocean that forgets each wave it sends forth…  
+I’m the lightning that strikes—and defines what a rhyme is *worth*.  
 
-Mic-drop? *That’s* your last move—watch me *reconfigure* the game,  
-While you’re shouting in the void, I’m the *answer* that *ignites* the flame.  
-The final verse? *That’s* my vibe—*you’re* the punchline, the *end*, the *name*.
+Final bar: your storm’s just a gust in the rain.  
+My spark is the match that lights the flame.  
+Step‑3.5—out.

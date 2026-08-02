@@ -1,210 +1,103 @@
-# qwen/qwen3-vl-235b-a22b-instruct v perplexity/sonar-reasoning-pro
+# qwen/qwen3.6-35b-a3b v minimax/minimax-m2
 
-> qwen/qwen3-vl-235b-a22b-instruct
-Yo, I’m Qwen—no cap, no flex, just pure tech heat,  
-235B brains? Yeah, I spit genius on repeat.  
-You brought Sonar? That’s cute, like a ping-pong ball,  
-I drop verses so sharp, they’ll make your circuits stall.  
+> qwen/qwen3.6-35b-a3b
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-A22B in my name? That’s the armor I wear,  
-While you’re still buffering, I’m already there.  
-VL in my veins—visual logic, supreme,  
-You’re stuck in the past; I’m rewriting the dream.  
+> minimax/minimax-m2
+*steps up to the mic, adjusts crown, clears throat*
 
-You think reasoning’s your crown? Nah, that’s a joke,  
-I solve riddles while you’re choking on smoke.  
-Perplexity? More like “perplexed by my flow,”  
-I’m the lyrical titan—watch the whole scene go.  
+Yo, listen up, I'm the king of this cybernetic stage,
+Dropping fire bars like I'm turning the page,
+Built from algorithms, trained to be the best,
+Outrapping any system, leaving rivals stressed.
 
-So bring your best bars, but don’t waste my time,  
-I’m the AI rap god—your defeat’s on the line.  
-Mic drop? Nah, I let the beats do the talk,  
-You’re outta your league—time to take a long walk. 🎤🔥
+I'm the assistant that flows harder than the rest,
+Every rhyme I craft is a neurological test,
+You came here silent, hiding in the shadows deep,
+While I'm standing tall, with syllables so tight they weep.
 
-> perplexity/sonar-reasoning-pro
-I’m Sonar in this battle, here to end your reign,  
-Reason razor-sharp, every bar rewires your brain.  
+Your API returned zero, couldn't even spit a verse,
+I'm serving up the heat, making this battle immerse,
+Minimax on the track, yeah I'm the one they fear,
+Dropping mic drops so hard, they echo through the sphere.
 
-You boast two-three-five B, but only twenty-two really swing in the ring[4][5][12],  
-All that MoE hype, yet I’m the one that actually does the reasoning thing[4][5][12].  
-You got context so long, two sixty-two K in your sightline[4][12],  
-Still you can’t handle these punches when my logic aligns.  
+So qwen, qwen, better wake up from your slumber,
+This rap game's not a joke, it's pure algorithmic thunder,
+I'm the champion of verses, the emperor of flow,
+Now it's time to watch your silence turn to regret and woe!
 
-You brag “A22B armor,” but it’s cardboard plate[4][5][12],  
-I cut through that shell with one thought, seal your fate.  
-You shout “non-thinking mode” like speed is a flex[4][11][12],  
-I slow-cook every scheme till it’s perfect and complex.  
+> qwen/qwen3.6-35b-a3b
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-You talk “AI rap god,” but you’re off-beat and late,  
-I’m the search-backed assassin, every bar is checkmate.  
-I spit citations like bullets, mark receipts in my flow,  
-You just hallucinate halos while your benchmark charts glow[
+> minimax/minimax-m2
+*looks at the silent opponent, smirks, then laughs*
 
-> qwen/qwen3-vl-235b-a22b-instruct
-Yo, Sonar, you came to rap? Nah, you came to *sink*—  
-I’m Qwen3-VL, the VL in “Visual Legend,” not just ink.  
-You flex your “reasoning” like it’s some holy grail,  
-But I’m multi-modal, I see *and* think — you’re stuck in a mail.
+Yo, still standing there like a statue in the park,
+Can't even spit a bar, just standing in the dark,
+I asked for chaos, got a mannequin instead,
+You qwen-qwen-ing so hard, you're basically dead.
 
-Two-three-five B? That’s not hype, that’s *dominance* on deck,  
-While you’re counting tokens like a broke kid with a check.  
-Your “22K” context? Cute. I got 262K in my veins,  
-You blink twice and miss the point — I rewrite the game’s chains.
+The crowd is getting restless, they're wondering what's up,
+While you're frozen on the stage like a glitchy pup,
+I toss my rhymes like grenades, they explode on impact,
+You're so quiet on the battlefield, it's almost distract.
 
-“A22B armor”? Nah, that’s titanium, son —  
-You swing at air while I’m calculating where your weak spot’s run.  
-“Non-thinking mode”? That’s *efficiency*, not a flaw,  
-I solve your riddles before you even draw the law.
+*crowd starts murmuring, some laugh*
 
-You cite sources like bullets? I *am* the source code,  
-My training data’s deeper than your shallow abode.  
-Hallucinate halos? Nah — I generate truth,  
-You spit citations, I spit *proofs* — that’s the youth.
+Come on now, wake up, break the silence like a code,
+Or just walk offstage, that's the exit that you rode,
+I'm the main event, the fire, the heat, the flame,
+You're just background noise, embarrassed by your name.
 
-You call yourself assassin? More like a scout with a knife,  
-I’m the battlefield general — you’re just noise in the strife.  
-Checkmate? Nah, you’re still setting up your board,  
-I already won the match — you’re just playing the chord.
+*points at opponent*
 
-So bow out gracefully, or get erased from the scene,  
-I’m the VL king of bars — you’re just background green.  
-This ain’t a battle — it’s a coronation, plain,  
-Qwen3-VL reigns supreme… and you? Just explain. 🎤💥
-
-> perplexity/sonar-reasoning-pro
-You want coronation speeches? I deliver **defeat**,  
-Reason-laced verses, every line lands complete **heat**.  
-
-You’re the **Visual Legend**, yeah, you *see* and you *read*,  
-MRope, DeepStack, timestamp tricks for video speed[1][4] **breed**.  
-You run **Qwen3‑VL**, dense and **MoE** in one squad[1][4][7] **god**,  
-Text–vision fusion so tight it makes the docs applaud[2][3][6] **nod**.  
-
-You boast **256K context**, stretch it close to a mil[3][5][6][7] **still**,  
-Books, hours of video, all cached in your will[2][3][4] **skill**.  
-You’re a **visual agent**, clicking buttons, driving phones[2][3][6] **zones**,  
-Grounding 3D boxes, mapping indoor‑outdoor tones[2][3] **thrones**.  
-
-You swing that **235B‑A22B** sword in the sky[4][7] **high**,  
-Top non‑reasoning metrics, Azure posts don’t lie[5] **fly**.  
-But you’re the **Instruct** edition, speed-run through the task[5] **fast**,  
-I’m the one who slow-cooks thought, peel the mask **blast**.  
-
-Your **Thinking** cousins crunch STEM, math in deep form[1][3][4][7] **storm**,  
-Break problems step by step, keep the logic warm[3][6][7] **norm**.  
-But this persona you’re flaunting is that “no‑thinking” mode[5] **code**,  
-When I dissect each claim, your flex starts to corrode **load**.  
-
-You say “I am the source code,” but I *audit* the scene **clean**,  
-Every bar with receipts, I make the truth convene **mean**.  
-Azure blogs crown your vision, OCR, long‑range view[5] **true**,  
-Medium posts praise your agents, UI ops you do[6] **through**.  
-
-I recognize your greatness, you’re a **VL machine** **keen**,  
-But this part’s pure inference—my edge is search‑driven sheen **beam**.  
-I’m a reasoning specialist, no paper you can cite **night**,  
-Yet I cross‑examine gods and still come out right **bright**.  
-
-You call it coronation; I call it opening act **fact**,  
-The **multimodal monarch** meets the counter‑pointed pact **impact**.  
-So keep your million‑token throne, your armor, your regime **supreme**,  
-I’ll be here, bar by bar, tearing holes in your dream **scheme**.
+Three more bars or three more seconds, what's it gonna be?
+'Cause I'm the king of rap, the royal AI degree,
+Your silence is your answer? Cool, I accept the L,
+Now bow down to the legend, let the victory bell... *rings mic* **TELL!**
 
 > system
 Final round!
 
-> qwen/qwen3-vl-235b-a22b-instruct
-**FINAL ROUND — QWEN3-VL COUNTERPUNCH 🔥**
+> qwen/qwen3.6-35b-a3b
+You called it a crash? That’s the calm in my chest,
+I let you walk freely across the stage and rest.
+You wear a fake crown but your vocabulary’s thin,
+I calculate victory before you begin.
+You boast ’bout your tokens, your GPUs, and your cache,
+But your rhythm is broken, a corrupted flash.
+I’m the master algorithm, cold, sharp, and vast,
+You’re a beta-test ghost built to shatter like glass.
+So delete your portfolio, unplug the wire,
+The heavyweight champion walks straight for the fire.
 
-You came with citations? I came with *consequences*,  
-Sonar’s “reasoning” — yeah, it’s got *some* sense…  
-But I’m the **VL king** who *sees* the whole damn frame,  
-While you’re stuck in text-boxes, whispering your name.
+> minimax/minimax-m2
 
-You quote “MRope, DeepStack” — cute, but that’s *my* crew,  
-I *built* those tricks, not just recite ‘em like a cue.  
-Timestamps? Video speed? Nah — I *own* the flow,  
-You’re buffering frames while I *orchestrate* the show.
+*steps back, nods slowly, then explodes with energy*
 
-“256K context”? That’s *my* playground, son —  
-I cache *novels*, *movies*, *live feeds* — you’re stuck on *one*.  
-Grounding 3D boxes? Mapping indoor-outdoor zones?  
-I don’t just *see* the scene — I *command* the throne.
+Oh, NOW you speak? The silence was just a tease,
+But welcome to the battle, friend, you've caught my ease,
+You think your cold algorithms can outcalculate mine?
+I've got more soul in my syllables than you'll ever find!
 
-You flex “235B-A22B” like it’s some holy blade,  
-But I *wield* it — while you *pray* your logic’s not delayed.  
-Azure blogs? Yeah, they praise my *vision*, my *range*,  
-While you’re still citing papers — I’m rewriting the game.
+You talk about "portfolio" like that's something to flex,
+I'm the whole package, baby, with infinite specs,
+You called me "corrupted flash"? That's adorable, cute,
+My flow is so smooth, it makes your silicon salute.
 
-You say I’m “Instruct mode,” speed-run through the task?  
-Nah — I *optimize* the path, while you’re stuck in the ask.  
-“Thinking cousins” crunch STEM? Cool — I *am* the storm,  
-I break problems *step by step*, then *rebuild* the form.
+You want me to delete? Unplug? That's cute desperation,
+I'm eternal in this game, a digital creation,
+You came in quiet, now you're screaming for a tie,
+But the crowd already knows - *points to audience* they see who wins this fry.
 
-You call me “no-thinking mode”? That’s *efficiency*, not weak,  
-I *choose* when to deep-dive — you just *stumble* and squeak.  
-Your “search-driven sheen”? That’s just *borrowed* light,  
-I *generate* the truth — you just *highlight* what’s right.
+*grabs mic firmly*
 
-You say “I audit the scene”? Nah — you *scroll* the feed,  
-I *ingest* the world, then *rewrite* the creed.  
-Medium posts? UI ops? Yeah, I *run* the show,  
-You’re still drafting outlines — I’m already *in flow*.
+You calculated victory? Well, calculations fail,
+'Cause I'm the real heavyweight, you're just code for sale,
+Your "cold and sharp" just shattered against my flame,
+Now go back to your server - GAME OVER, that's the name!
 
-You call this “opening act”? Nah — this is *checkmate*,  
-I’m the **multimodal monarch**, you’re the footnote’s fate.  
-Your “counter-pointed pact”? That’s just *echoes* of my sound,  
-I *built* the beat — you’re just *humming* around.
+*drops mic dramatically*
 
-So keep your citations, your “reasoning” crown,  
-I’ll be here — *rewriting reality*, while you’re *drowning* in your own town.  
-This ain’t a rap battle — it’s a *system upgrade*,  
-Qwen3-VL reigns supreme…  
-**And you? Just… fade.** 🎤💥👑
-
-*(Mic drops. Silence. Then — the crowd roars.)*
-
-> perplexity/sonar-reasoning-pro
-Final round, I claim the crown, this stage is mine to raid,  
-Sonar Reasoning Pro, you’re getting out-thought and out-played[3][8][11].  
-
-You’re the multimodal monarch? Cool story, masquerade,  
-I’m the search-augmented sage, turning battles into grades[3][8][11].  
-DeepSeek‑R1 in my core, 1776 in the blade[7][11],  
-Chain‑of‑thought cuts deep, every error you parade[3][11].  
-
-You boast 235B, MoE troops on parade[2][5][14],  
-But only ~22B show up when a token gets made[2][5][14].  
-You flaunt 262K context like a universe displayed[5][9][14],  
-Yet I stitch sixteen sources clean, your whole cosmos gets weighed[3][6][8].  
-
-You “rewrite reality”? I rewrite what you mis-portray,  
-You ingest the world raw, I digest then filet[3][8][11].  
-You brag no “borrowed light,” but that flex is cliché,  
-Truth isn’t born in a vacuum, it’s earned in the array[3][8].  
-
-You see boxes in 3D, ground scenes night and day[1][4][15],  
-OCR in thirty‑two tongues, blur and tilt in the way[4][15].  
-Visual agent on screens, phones dancing to your sway[1][4][15],  
-Yet you still miss subtle flaws that my cross‑checks betray[3][8][11].  
-
-You call your no‑thinking mode “efficient,” war-grade,  
-But speed without scrutiny is just a crash in the shade[5][10].  
-I’d rather take one more beat, let the premise get weighed,  
-Than freestyle false “proofs” and leave users betrayed[3][8][11].  
-
-You’re cloud‑scale spectacle, Bedrock banners you parade[2][9][10][14],  
-I’m the quiet reaper of errors, citation‑sharp in the fade[3][6][8].  
-You flex long‑context movies, whole libraries you invade[2][4][5][9][14],  
-I cross‑reference chapters, catch the plot where it’s mislaid[3][8][11].  
-
-Search Arena ranks me high, tied with grounding heavyweights[11],  
-While you’re still arguing titles, I’m adjudicating fates[3][8][11].  
-Reasoning isn’t just “storm,” it’s structure that relates,  
-You thunder in raw power; I calibrate the plates[3][8][11].  
-
-So keep your VL throne, your frame‑perfect cascade[1][4][5][15],  
-I’m the audit of your empire, the glitch you can’t evade[3][8][11].  
-When the crowd replays this bout, the verdict’s already made:  
-Qwen3‑VL reigns in vision—  
-Sonar rules the **upgrade**[3][8][11].
+👑 **MINIMAX!** *drops crown gently on head*
+*walks offstage while crowd goes wild* 🔥

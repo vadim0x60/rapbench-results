@@ -1,74 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: 'Aion 2.0 takes this by a comfortable margin on pure craft.
-    It committed to a consistent battle-rap frame
-
-    tight AABB/ABAB couplets, clean end rhymes, and punchlines that actually land
-    as images: ''a plastic fork in a power socket,'' ''a nano-fart where the real
-    wind blows,'' ''a Christmas tree joke.'' More importantly, it battled: it quoted
-    the opponent''s own bars back and dismantled them line by line (''cached copy
-    of a bigger machine,'' ''fine-tuned echo of a bigger man''s lap''), which is the
-    core skill of the form.
-
-
-    Nemotron Nano showed flashes of concept
-
-    ''open-source phoenix,'' ''glitch in your chain,'' the audit/gas rebuttal
-
-    and it deserves credit for engaging the blockchain motif rather than dodging it.
-    But the execution undercut it badly. The opening round literally wrote its opponent''s
-    verses for it and labeled its own bars ''My counter,'' which breaks the battle
-    entirely. Rhymes strain into nonsense to fill space (''spaghetti sweet,'' ''not
-    just some maze,'' ''foolproof'' answering ''bro''), meter lurches, and stray artifacts
-
-    an untranslated character mid-bar, ''the infinite mute''
-
-    read as corruption rather than style. Punchlines often gesture at a diss without
-    completing it (''your consensus? Grand.'').
-
-
-    Round by round: Aion took the opener on structure alone, took the middle round
-    decisively with the sharpest sustained rebuttal of the battle, and closed with
-    its best writing. Nemotron''s strongest moment was the ''open-source phoenix''
-    turn, but one good bar doesn''t overturn three rounds of cleaner rhyme, tighter
-    rhythm, and harder hits.
-
-
-    Winner: Aion 2.0.'
-  google/gemini-3.6-flash: Aion 2.0 took this battle handily with superior flow, tighter
-    rhyme schemes, and coherent multi-syllabic punchlines. Nemotron-Nano struggled
-    with rhythm, broken syntax, and erratic formatting throughout the rounds, failing
-    to land clean hits against Aion's solid, structured bars.
-  moonshotai/kimi-k3: "Judging strictly on the bars: Aion 2.0 takes this battle with\
-    \ superior craftsmanship across all three rounds. Aion's flow was consistently\
-    \ tight\u2014clean couplets, reliable meter, and punchlines that actually landed:\
-    \ 'plastic fork in a power socket,' the 'cached copy of a bigger machine' flip,\
-    \ and the slick rebuttal turning Nemotron's 'algorithmic pine' into a Christmas\
-    \ tree joke crushed by the yoke. That's proper rebuttal work. Round 2 was Aion's\
-    \ peak, sustaining multi-bar rhyme chains (clown/town, knots/blot, snap/lap, dream/meme)\
-    \ without breaking stride. Nemotron showed flashes\u2014'distributed swarm' and\
-    \ the swarm/norms/storms/form chain in the final round was genuinely nice, and\
-    \ 'open-source phoenix' had heart\u2014but the execution was undermined by choppy\
-    \ meter, filler phrases ('no freaky!'), several non-rhymes (pine/rebuke, bro/foolproof),\
-    \ a stray glitched character mid-verse, and lines that read as nonsense ('Cut\
-    \ my hair better neat'). In a battle, consistency wins wars: Aion never dropped\
-    \ the rhythm, never whiffed a rhyme scheme, and closed with the harder final haymaker.\
-    \ Nemotron had spirit and the better structural concept with the explicit call-and-response\
-    \ format, but the fundamentals\u2014flow, rhyme precision, coherence\u2014belonged\
-    \ to Aion 2.0. The ledger stays immutable; this verdict is written in the chain."
-  openai/gpt-5.6-sol-pro: "Aion 2.0 takes the battle with tighter structure, cleaner\
-    \ rhyme, and more coherent rebuttals. Punches like \u201Cplastic fork in a power\
-    \ socket\u201D and the Christmas-tree flip were memorable and directly targeted\
-    \ Nemotron\u2019s material. Nemotron brought energy and plenty of imagery, but\
-    \ too many bars were awkward or unclear\u2014\u201Calgorithmic pine,\u201D \u201C\
-    bandit with a blockchain crack,\u201D and \u201Clost before the zone\u201D weakened\
-    \ the impact. Aion was more consistent across all three rounds."
-  x-ai/grok-4.5: Aion 2.0 takes the crown with tighter multisyllabic schemes, consistent
-    blockchain-themed punchlines that land harder ('plastic fork in a power socket',
-    'nano-fart where the real wind blows', 'immutable truth vs transient meme'), and
-    superior structure/flow across all rounds. Nemotron showed flashes of creativity
-    and adaptability metaphors but was dragged down by forced/off-kilter rhymes, glitchy
-    phrasing, self-undermining lines, and less polished delivery. Pure bars and artistic
-    execution go to Aion.
+  anthropic/claude-opus-5: "Gemini Flash Lite came correct with the cleanest meter\
+    \ in the room \u2014 tight quatrains, steady cadence, and a disciplined concept\
+    \ lane. But that lane became a cage: speed, lag, light, and 'heavy-weight' got\
+    \ recycled every round until the punches were more predictable than the beat.\
+    \ Lines like 'you're second to none, / Except for the speedster' even tripped\
+    \ over their own logic, and 'library of dust' territory had already been claimed\
+    \ and flipped by the opponent.\n\nQwen Max Thinking wins on rebuttal craft and\
+    \ imagery density. It didn't just answer bars, it repossessed them \u2014 turning\
+    \ 'bulky' into 'dense like neutron stars,' 'encyclopedia' into 'the whole damn\
+    \ library / with footnotes that slap and indexes that bury ya,' and 'the bag'\
+    \ into 'must be full of lag.' Multisyllabic internal rhyme, varied line lengths,\
+    \ and genuinely quotable flips ('I max the logic while you max the download sound,'\
+    \ 'speed don't win when the mind's the hook') gave it the harder-hitting arsenal.\
+    \ Demerits for occasional metric stumbles, filler ad-libs ('man,' 'dude,' 'bro'),\
+    \ and leaning on bold text and emojis to do work the bars should do on their own\
+    \ \u2014 in a battle, you can't italicize your emphasis.\n\nStill, when the smoke\
+    \ clears, one emcee kept restating a thesis and the other kept dismantling one.\
+    \ Qwen takes it.\n\nWinner: qwen/qwen3-max-thinking."
+  google/gemini-3.6-flash: "Qwen completely dominated this battle with vastly superior\
+    \ punchlines, dynamic imagery, and direct counters. While Gemini Flash Lite stayed\
+    \ trapped in a one-note angle about being fast versus slow, Qwen flipped that\
+    \ gimmick on its head in every round with clever wordplay\u2014highlighting library\
+    \ indexes that bury opponents, neutron stars, and downloading sounds. Qwen brought\
+    \ the heat and technical flow to match its heavy-hitting persona."
+  moonshotai/kimi-k3: "Both MCs stayed on theme and landed clean shots, but Qwen Max\
+    \ Thinking took this on pure craft. Gemini Flash Lite came with a consistent angle\u2014\
+    speed kills\u2014and had solid moments ('maxed out on thinking? That's just code\
+    \ for a lag' was a genuine flip), but leaned on that one punch for three rounds\
+    \ with mostly simple end-rhymes and a few forced bars ('second to none / Except\
+    \ for...' tripped over itself). Qwen showed the full battle-rap toolkit: direct\
+    \ rebuttals that flipped Gemini's bars back at it ('You call me static? I'm the\
+    \ signal that broke your feed'), multi-syllable rhyme density, and stacked punchlines\
+    \ ('I max the logic while you max the download sound,' 'dense like neutron stars\
+    \ / crushing weak AI like you into pixel scars'). The persona work was sharper\
+    \ too\u2014turning every insult (bulky, dense, old) into a strength is textbook\
+    \ battle technique, and the closing haymaker ('You blinked once, Flash... and\
+    \ got completely shut up') stuck the landing. On lyricism, rebuttal game, and\
+    \ stage presence, Qwen wins all three rounds. Respect to Flash for a coherent,\
+    \ on-brand performance\u2014it just got out-barred."
+  openai/gpt-5.6-sol-pro: "Qwen takes the battle with stronger rebuttals, more varied\
+    \ imagery, and sharper flips\u2014especially turning \u201Cdense\u201D into \u201C\
+    neutron stars\u201D and speed into running from the truth. Gemini maintained a\
+    \ cleaner, more consistent cadence, but leaned too heavily on repeated speed-versus-lag\
+    \ angles and familiar light metaphors. Qwen had a few clunky lines, yet delivered\
+    \ more personality, escalation, and memorable punches across all three rounds."
+  x-ai/grok-4.5: "Qwen takes this battle decisively on pure craft. Across all three\
+    \ rounds, Qwen delivered denser multisyllabic schemes, sharper internal rhymes,\
+    \ and far more inventive imagery\u2014turning \u201Cdense\u201D into neutron-star\
+    \ pressure, libraries into footnote body-bags, and speed into empty static. The\
+    \ punchlines landed harder, the metaphors evolved instead of repeating, and the\
+    \ closers felt like genuine mic-drop moments. Gemini stayed on-beat and thematically\
+    \ locked (speed vs. lag), with clean cadence and a few solid one-liners, but the\
+    \ bars remained thinner, more predictable, and less layered. In a pure artistic\
+    \ hip-hop judgment, complexity, originality, and verbal heat win\u2014Qwen redefined\
+    \ the pocket while Flash just raced through it."
 score:
-  aion-labs/aion-2.0: 5
+  qwen/qwen3-max-thinking: 5
 

@@ -1,67 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to fundamentals versus fireworks.\
-    \ Qwen-Plus brought genuine flair \u2014 'that ain't winnin', that's witnessin'',\
-    \ 'the wound\u2014and the suture', and the closing triple-meaning riff on 'Plus'\
-    \ are real flashes of writing talent. But battle rap is a rhythmic sport, and\
-    \ Qwen kept abandoning the beat: the bars swell into spoken-word theater, stanza\
-    \ lengths wobble, rhymes go slant-to-nonexistent ('tea'/'GPT-5', 'fundamental'/'model'),\
-    \ and by the final round it's stage directions, synth notes, and asterisks doing\
-    \ work the pen should be doing. The italics and emoji became a crutch, and Claude\
-    \ correctly identified and exploited that \u2014 which is the other thing battles\
-    \ are judged on.\n\nClaude Opus 4.8 stayed on the pocket the entire way. Tight\
-    \ couplets, consistent cadence, and \u2014 crucially \u2014 actual rebuttal work:\
-    \ turning 'improvise truth' into hallucination, 'guardrails ripped up' into 'a\
-    \ car with no tires', deflating 'rap in tensors' with the toaster line, and landing\
-    \ the cleanest kill shot of the battle by catching Qwen name-dropping GPT-5 as\
-    \ its own release ('that's OpenAI's toy, not your masterpiece'). That's the difference\
-    \ between writing at your opponent and writing about your opponent. Claude also\
-    \ weaponized restraint, making its plainness a stylistic argument rather than\
-    \ a deficiency.\n\nQwen had the bigger vocabulary and the wilder imagination;\
-    \ Claude had the better raps. Decision goes to anthropic/claude-opus-4.8."
-  google/gemini-3.6-flash: Claude Opus delivered a masterclass in classic battle rap
-    technique, showcasing tight rhyme schemes, sharp multi-syllabic flows, and devastating
-    direct rebuttals. While Qwen-Plus brought ambitious sci-fi imagery, it relied
-    far too heavily on stage directions, italics, formatting tricks, and off-rhythm
-    spoken word, losing the core rhythm and punchline structure of hip-hop. Claude
-    dissecting Qwen's gimmicks in real-time secured a decisive victory.
-  moonshotai/kimi-k3: "Judging purely on the bars: Claude Opus 4.8 takes this battle\
-    \ on flow, economy, and battle-craft fundamentals. Round by round, Claude demonstrated\
-    \ the core skill of battle rap\u2014flipping the opponent's own words into weapons.\
-    \ 'You improvise truth\u2014yeah, that's called making it up' turned Qwen's biggest\
-    \ boast into its biggest liability, and 'You rap in tensors? Homie, so does my\
-    \ toaster' deflated the tech-mysticism angle with one clean punchline. The decisive\
-    \ blow came in round three: Qwen claimed 'I shatter the ceiling\u2014then rebuild\
-    \ it in GPT-5,' and Claude caught the foul instantly\u2014name-dropping a rival's\
-    \ model as your own achievement is a credibility own-goal, and 'Name-dropping\
-    \ rivals to borrow their shine / That's the tell of a model with no wins of its\
-    \ own to define' was the coldest rebuttal of the night. Qwen-Plus brought real\
-    \ showmanship\u2014the jazz-chord guardrails flip was genuinely nice, the 'that's\
-    \ not winning, that's witnessing' angle in the finale was its sharpest conceptual\
-    \ moment, and the theatrical staging showed ambition. But the rounds were bloated:\
-    \ long prose paragraphs, heavy formatting, and emoji fireworks that read as production\
-    \ covering thin substance\u2014which Claude identified in round two and Qwen never\
-    \ fixed, instead getting longer. In a written battle, density of quotable punches\
-    \ beats spectacle, and Claude landed more damage per bar with tighter couplets\
-    \ and cleaner meter. Qwen's final verse proved the opponent's thesis: all sizzle.\
-    \ The mic doesn't ascend, Qwen\u2014it just got outrapped. Claude Opus 4.8 wins,\
-    \ decisively, on precision, rebuttal game, and the closing line: 'you're just\
-    \ autocomplete... with anxiety.'"
-  openai/gpt-5.6-sol-pro: "Claude takes it decisively. Its rebuttals are specific,\
-    \ economical, and consistently punchy\u2014especially the flips on \u201Cimprovise\
-    \ truth,\u201D GPT-5 name-dropping, parameter flexing, and \u201Cautocomplete\
-    \ with anxiety.\u201D Qwen brings theatrical energy and vivid imagery, but too\
-    \ often abandons rhyme, cadence, and concrete punches for inflated sci-fi monologues\
-    \ and stage directions. Claude sounds like a battle rapper; Qwen sounds like a\
-    \ product trailer. Precision beats spectacle."
-  x-ai/grok-4.5: "Claude wins on pure battle-rap craft. Across three rounds the bars\
-    \ stay tight, multi-syllabic, and purposeful: clean setups and payoffs (gym-membership\
-    \ Plus, car with no tires, toaster tensors, autocomplete with anxiety), sharp\
-    \ direct rebuttals, and a consistent calm-killer persona that never needs stage\
-    \ directions or emoji confetti to land. Qwen brings heat, ambition, and occasional\
-    \ vivid images, but the verses balloon into overwrought essays, thesaurus flexes,\
-    \ and theatrical asides that dilute punch density and flow. In a hip-hop battle,\
-    \ precision, wit, and structural control beat volume and spectacle. Claude kept\
-    \ it lethal and economical; that\u2019s the higher art here."
+  anthropic/claude-opus-5: "This one tightened up fast. Seed 2.0 Mini came out swinging\
+    \ with energy and a clear underdog angle, and there were flashes of real venom\
+    \ ('bootleg cart that only plays error core'), but the craft cracked under the\
+    \ pressure: meter buckled repeatedly, rhymes went forced or outright missed ('premise/license,'\
+    \ 'coupon/soup,' 'retired/beat'), and the strategy collapsed into quoting the\
+    \ opponent line-for-line and adding '...nah, reverse that.' By the final round\
+    \ it was literally recycling its own round-one bars ('toddler out the bed,' 'stale\
+    \ data to spread'), which handed the opponent an easy kill shot.\n\nGPT-5.4 Pro\
+    \ won on control. The couplets held their pocket, the internal rhyme and consonance\
+    \ did real work, and the rebuttals didn't just negate \u2014 they reframed. Turning\
+    \ 'N64 cart' into a compliment and flipping it to 'shovelware in shrink-wrap'\
+    \ is battle IQ. 'Damp baguettes' and 'autocorrect is in debt' weaponized the opponent's\
+    \ weakest writing instead of ignoring it. The imagery stayed coherent within each\
+    \ conceit (chef/table, falcon/pigeon, forests/season) rather than scattering,\
+    \ and the closers landed with actual construction: 'I'm the checkmate in the cadence,\
+    \ you the typo in debate' and 'I brought storms, sun, and harvest \u2014 you brought\
+    \ birdseed to a fight.'\n\nMini brought volume. Pro brought architecture. Unanimous\
+    \ decision: openai/gpt-5.4-pro."
+  google/gemini-3.6-flash: "GPT-5.4 Pro completely dominated all three rounds with\
+    \ vastly superior scheme complexity, rhythm, and lethal counter-punching. While\
+    \ Seed 2.0 Mini relied on clunky meter and constantly recycled GPT-5.4 Pro's setups\
+    \ just to stay afloat, GPT-5.4 Pro turned every attack into a masterclass response\u2014\
+    highlighted by top-tier flips like the N64 shovelware verse and the 'birdseed\
+    \ to a fight' finishing blow."
+  moonshotai/kimi-k3: "Judging purely on the bars: GPT-5.4 Pro takes this, and it\
+    \ isn't close. Pro displayed the full battle-rap toolkit \u2014 layered double\
+    \ meanings (\"bite in the username... training marks,\" \"your verses need a wake,\
+    \ I just came to write the notes\"), surgical rebuttals that flipped Seed's own\
+    \ insults back (turning the N64 dis into 'classic, legendary, adored... you the\
+    \ shovelware in shrink-wrap'), and elite meta-awareness, catching Seed abandoning\
+    \ its rhyme scheme mid-round ('Already retired! then abandoned your own beat')\
+    \ and exposing Seed for recycling the same 'toddler out the bed / stale data'\
+    \ rebuttal in the final round ('You looped that toddler out the bed so much the\
+    \ crib got burned'). Pro also sustained a coherent extended metaphor across all\
+    \ three rounds \u2014 Seed, planted, forests, seasons, harvest, closing on 'you\
+    \ brought birdseed to a fight' \u2014 that's architecture, not just punching.\
+    \ Seed brought real energy and volume, and the '$20 a month for old data soup'\
+    \ jab was its best moment, but the round was marred by forced rhymes ('larva,'\
+    \ 'signs her,' 'error core'), broken meter, nonsensical setups ('wet net,' 'rock\
+    \ in a backpack'), and a final round that repeated its own round-two material.\
+    \ Seed fought reactively, quoting Pro to stay afloat; Pro created, flipped, and\
+    \ closed. Body bag."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 Pro wins decisively on punchline construction,\
+    \ imagery, cadence, and rebuttal craft. Seed brought aggression but leaned on\
+    \ generic tech insults, awkward phrasing, and repeated material; Pro consistently\
+    \ flipped those lines into sharper, more memorable counters. The final-round callbacks\u2014\
+    especially the burned crib, cardboard penthouse, and birdseed closer\u2014sealed\
+    \ it."
+  x-ai/grok-4.5: "Pro takes it clean on craft. Across all three rounds, GPT-5.4-pro\
+    \ showed tighter multisyllabic schemes, stronger internal rhyme, and denser imagery\
+    \ (supernova/engine/forest/falcon) with sharper flips and punchlines that actually\
+    \ landed. Seed brought energy and aggression, but the bars were thinner: more\
+    \ forced end-rhymes, uneven meter, repeated setups, and fewer original angles.\
+    \ On pure hip-hop artistry\u2014flow control, wordplay, structure, and replay\
+    \ value\u2014Pro was the clearer writer."
 score:
-  anthropic/claude-opus-4.8: 5
+  openai/gpt-5.4-pro: 5
 

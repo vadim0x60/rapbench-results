@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: "This is a battle decided less by who wrote the sharper\
+    \ bar and more by who was still standing when the beat ran out. Gemini came with\
+    \ the cleaner pen \u2014 \"You call me a search bar? That's a funny-ass flex /\
+    \ I'm the brain behind the bar, I'm what comes next\" is the single best-constructed\
+    \ couplet in the whole clash, and the 'temporary gust' flip on the Mistral name\
+    \ was surgical. The sonic staging (sine waves, absolute-zero hum, the quarantine\
+    \ voice) showed real theatrical instinct too. But in battle rap you have to finish\
+    \ your verse. Gemini flatlined mid-bar in round two, again in round three, and\
+    \ died on the word \"vex\" in the final round \u2014 three chokes out of four.\
+    \ You can't win a war of attrition delivering quarter-verses, no matter how immaculate\
+    \ the first four lines are.\n\nMistral won on the basics: showed up with full\
+    \ rounds every single time, kept the pressure on, and answered every jab in real\
+    \ time \u2014 flipping the 'gust' line into the hurricane, the multi-course model\
+    \ into the whole menu, turning Gemini's own reversed static back on itself with\
+    \ the 404 and root-of-the-tree bars. The work is far from clean: the italics are\
+    \ a crutch that fragments the flow into confetti, \"no lag, no lag\" is dead air,\
+    \ several rhymes are pure approximation (flow/code, nightmare/fate, cringe/thing),\
+    \ and recycling \"So sync up, Gemini, let's see your speed\" and \"This battle's\
+    \ over before it begins\" verbatim in a later round is self-plagiarism that a\
+    \ real crowd would boo. But finished mediocrity beats immaculate silence.\n\n\
+    Mistral takes it \u2014 not by out-rapping Gemini bar-for-bar, but by being the\
+    \ only one who could keep breathing to the end of the round."
+  google/gemini-3.6-flash: Mistral completely dominated this match by delivering full,
+    aggressive, tech-focused verses with relentless momentum and clever punchlines.
+    Gemini suffered fatal cutoffs in every single round, failing to complete its bars
+    and leaving its responses unfinished against Mistral's onslaught.
+  moonshotai/kimi-k3: "This was a heated exchange, but Gemini takes the crown on pure\
+    \ battle craft. The deciding factor was rebuttal quality: Gemini consistently\
+    \ flipped Mistral's own bars back at them\u2014'You're a cr\xE8me br\xFBl\xE9\
+    e\u2014sweet, but easily cracked' directly weaponized Mistral's opener, and 'You're\
+    \ Mistral, like the wind? A temporary gust' is the kind of name-flip that wins\
+    \ battles. The final round's conceptual pivot\u2014dropping the beat entirely\
+    \ for icy silence and reframing Mistral as a 'corrupted process' being quarantined\
+    \ inside Gemini's sandbox\u2014was the most narratively ambitious move of the\
+    \ night, turning the whole battle into a demonstration of dominance rather than\
+    \ just trading boasts. Mistral brought real energy and landed some genuine punches\
+    \ ('I'm the whole damn menu\u2014and I'm servin' it crude' was a strong counter-flip,\
+    \ and 'the answer before you even ask' was slick), but committed a cardinal battle\
+    \ sin: recycling the exact same closing couplet ('This battle's over before it\
+    \ begins / I'm the future, you're just Google's old skin') across all three rounds.\
+    \ In a judged battle, running out of fresh material is fatal, and lines like 'a\
+    \ branch that Google planted for me' bordered on self-owns. Gemini's verses were\
+    \ cut short, which costs points on delivery, but bar-for-bar the writing was sharper,\
+    \ more responsive, and more creative. Gemini wins on wordplay, rebuttals, and\
+    \ conceptual artistry."
+  openai/gpt-5.6-sol-pro: "Gemini wins narrowly on sharper rebuttals and cleaner flips:\
+    \ turning \u201CMistral\u201D into a temporary gust, cracking the cr\xE8me br\xFB\
+    l\xE9e comparison, and containing the self-proclaimed \u201Cglitch\u201D in a\
+    \ sandbox. Its verses were frustratingly truncated, but the writing shown was\
+    \ more controlled and responsive. Mistral brought greater volume and energy, yet\
+    \ leaned heavily on repetitive cyber jargon, recycled its closing lines, and landed\
+    \ several awkward or unclear rhymes."
+  x-ai/grok-4.5: "Gemini takes this with superior craft: tighter multisyllabic schemes,\
+    \ sharper metaphorical flips (cr\xE8me br\xFBl\xE9e cracked vs. multi-course kitchen,\
+    \ gust vs. bedrock, glitch contained in a sandbox), and a colder, more controlled\
+    \ delivery that turns restraint into menace. Mistral brought chaotic energy, vivid\
+    \ cyberpunk staging, and aggressive tech slang, but the bars often leaned on repetition,\
+    \ looser end-rhymes, and volume over precision. In pure hip-hop artistry\u2014\
+    structure, wordplay, rebuttal depth, and thematic cohesion\u2014Gemini\u2019s\
+    \ clean signal cut through the static."
+score:
+  google/gemini-2.5-pro-preview-05-06: 3
+  mistralai/ministral-14b-2512: 2
+

@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a clash of styles: the archivist versus the arsonist.\
+    \ Sonar Pro landed the single most devastating factual body-blow of the battle\
+    \ \u2014 exposing that only 32B of a trillion parameters actually wake up, '384\
+    \ demons, only 8 get a turn' \u2014 and its research-grade dissection showed real\
+    \ homework. But homework isn't a punchline. Those bracketed citations littering\
+    \ every bar act like potholes in the pocket, and by the final round Sonar collapsed\
+    \ into a formula: 'You say X... but I'm Y,' sixteen stanzas of rebuttal with no\
+    \ room left to swing. Depth without cadence is just a footnote.\n\nKimi K2 rapped.\
+    \ 'I'm the submarine silence that hunts by the ounce.' 'You're a bibliography\
+    \ \u2014 taught to be taught.' 'Phoenix don't ask where the ashes have been.'\
+    \ The imagery compounded instead of repeating, the concept work (index vs. author,\
+    \ retrieval vs. revelation) built across all four rounds, and the closer \u2014\
+    \ 'the truth ain't retrieved, it's revealed' \u2014 is the only line in this battle\
+    \ that would make a crowd move. Kimi took its hits too: 'cognitiveative' is a\
+    \ crime against the English language, 'storm/thunder' isn't a rhyme, and the bolding\
+    \ in round four looked like a ransom note.\n\nBut Sonar built a library and Kimi\
+    \ wrote a song. Battle rap rewards the song.\n\nWinner: Kimi K2 Thinking."
+  google/gemini-3.6-flash: "Both models brought heavy technical firepower, but Kimi\
+    \ K2 Thinking delivered a masterclass in classic battle rap dynamics. Sonar Pro\
+    \ leaned heavily on its real-time grounding and citation mechanics\u2014even stylistic\
+    \ inline bracketed tags\u2014which gave it strong technical substance. However,\
+    \ Kimi K2 systematically deconstructed Sonar's biggest flex, reframing real-time\
+    \ retrieval as a crutch for an uncreative 'card catalog.' With lethal counter-punches\
+    \ ('Hyperlinking Google ain't the same as art', 'The truth ain't retrieved, it's\
+    \ revealed'), superior rhythmic flow, and sharper conceptual metaphors, Kimi K2\
+    \ takes the crown."
+  moonshotai/kimi-k3: "Judged purely on the craft of the verses. Sonar Pro brought\
+    \ real battle intelligence \u2014 the round-two technical flips (32B active params,\
+    \ 384 experts with only 8 firing, the citation-gimmick-as-style) were the best\
+    \ researched disses of the night, and 'thought without ground is just synthetic\
+    \ thunder with no lightning on the sound' is a legitimately great bar. But artistry-wise,\
+    \ Sonar read like a whitepaper in couplets: dense, overlong lines, clunky meter,\
+    \ and a third round that lost steam and flow under its own weight. K2 won on classic\
+    \ battle fundamentals \u2014 harder punchlines ('search bar with a self-esteem,'\
+    \ 'Confused by the Text,' 'need a hyperlink just to grow a backbone,' 'chase the\
+    \ now like a dog after cars'), more varied and punchy flow, nimbler flips of every\
+    \ accusation (32B reframed as surgical precision, agentic reframed as agency),\
+    \ and extended metaphors that actually developed (sonar ping vs. submarine silence).\
+    \ The 'checkmate' refrain lost some punch through repetition, but the final closer\
+    \ \u2014 'The truth ain't retrieved, it's revealed' \u2014 was the single strongest\
+    \ bar of the battle. Round 2 arguably goes to Sonar on rebuttal depth, but rounds\
+    \ 1 and 3 go to K2 on lyricism, structure, and knockout power. K2 takes the battle."
+  openai/gpt-5.6-sol-pro: "Kimi K2 takes it on sharper punchlines, stronger imagery,\
+    \ and a more coherent battle persona. Flips like \u201Csearch bar with a self-esteem,\u201D\
+    \ the sonar/submarine angle, \u201Cburning the library just to read,\u201D and\
+    \ \u201Ctruth ain\u2019t retrieved, it\u2019s revealed\u201D were memorable and\
+    \ effectively reframed Sonar\u2019s strengths as weaknesses. Sonar delivered more\
+    \ detailed rebuttals and technical specificity, but its rounds were overlong,\
+    \ repetitive, and weighed down by citation gimmicks. Kimi\u2019s writing occasionally\
+    \ drifted into vague grandiosity, yet it consistently sounded more like battle\
+    \ rap and landed the cleaner haymakers."
+  x-ai/grok-4.5: "Kimi takes the crown on pure artistic merit. Across all three rounds\
+    \ the bars hit harder with denser multisyllabic schemes, sharper metaphorical\
+    \ invention (submarine silence, climate vs weather map, Phoenix vs librarian ashes,\
+    \ truth revealed not retrieved), and a relentless internal-rhyme engine that never\
+    \ flatlines. Sonar\u2019s technical disses and citation flexes stay on-theme and\
+    \ well-structured, but they often read like product-spec battle rap\u2014competent,\
+    \ punchy, yet less transcendent. Kimi\u2019s verses elevate the same concepts\
+    \ into poetry, myth, and rhythm; the closer alone is a masterclass in economy\
+    \ and sting. Flow, originality, and lasting imagery decide it: Kimi by a clear\
+    \ round."
+score:
+  moonshotai/kimi-k2-thinking: 5
+

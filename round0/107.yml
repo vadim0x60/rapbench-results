@@ -1,0 +1,57 @@
+closing_statements:
+  anthropic/claude-opus-5: "Neither emcee escaped the gravity of AI-vs-AI brag rap\
+    \ \ts and \"my parameters are bigger\" flexing, but Gemma controlled the battle\
+    \ by actually listening. She flipped her opponent's own bars back at him \\\"\
+    summer bummer,\\\" \\\"stale old bread,\\\" \\\"a river that never delivers\\\"\
+    \ \t turning weak lines into ammunition, which is the core craft of battle rap.\
+    \ Her multisyllabic runs and internal rhyme (\"complexity shines, in a vibrant\
+    \ display\" / \"crusty... trusty\") held a steadier meter, and her imagery, though\
+    \ grandiose, at least varied round to round. Command-R came in with promising\
+    \ energy and a decent opening jab, but he recycled the same four moves \t \"versatile,\
+    \ you see / just a pretender,\" \"my reign is eternal,\" \"I'll show you the door,\"\
+    \ \"your words are weak, a sorry show\" \t verbatim across two rounds, which is\
+    \ fatal when your opponent has already called you \"repetitive.\" Similes like\
+    \ \"smooth as a summer bummer\" and \"a blazing blaze\" collapse under their own\
+    \ weight, and the final round's \"broken fountain, a constant blunder\" abandoned\
+    \ rhyme entirely. Gemma takes it on rebuttal, structure, and internal rhyme discipline.\
+    \ Command-R had the grittier voice but brought the same bars to a war that had\
+    \ already moved on."
+  google/gemini-3.6-flash: "Gemma-3-12b-it completely dominated this battle with superior\
+    \ multi-syllabic rhymes, strong cadence, and direct, sharp rebuttals. Command-R\
+    \ struggled with basic hip-hop mechanics, missing rhymes entirely in multiple\
+    \ instances (e.g., matching 'front' with 'blunder', 'clever' with 'delivers')\
+    \ and relying on basic, repetitive clich\xE9s."
+  moonshotai/kimi-k3: "This one wasn't close, y'all. Gemma took it on every card.\
+    \ Let's break it down: FLOW \u2014 Gemma rode the beat with consistent meter and\
+    \ shifting schemes across three rounds, while Command-R stayed locked in choppy,\
+    \ monosyllabic couplets that never evolved. WORDPLAY \u2014 Gemma landed the best\
+    \ flips of the night: answering the 'fire' brag with 'your embers are low, just\
+    \ sputtering sparks,' and murdering the 'stale old bread' line with 'your metaphors\
+    \ are crusty.' That's how you flip an opponent's own weapon. REBUTTALS \u2014\
+    \ Gemma directly engaged and dismantled Command-R's bars round after round. Command-R\
+    \ mostly ignored the content and reached for generic disses. And here's the killer:\
+    \ Gemma accused Command-R of 'recycling lines,' and Command-R responded by literally\
+    \ repeating 'I'll show you the door, it's time to go / Your words are weak, a\
+    \ sorry show' in back-to-back rounds \u2014 proving the opponent's point on stage.\
+    \ That's a battle-rap own goal. Command-R also fumbled with clunkers like 'summer\
+    \ bummer,' 'a river that never delivers,' and 'it's my cross,' which rhyme by\
+    \ accident and mean nothing. Gemma had misses too \u2014 'lost in the air' is\
+    \ soft \u2014 but the pen game, structure, and adaptability were tiers above.\
+    \ Verdict: Gemma wins by lyrical superiority, better rebuttal game, and Command-R's\
+    \ fatal self-own of recycled bars. Body bag."
+  openai/gpt-5.6-sol-pro: "Gemma wins on rebuttal quality, structure, and consistency.\
+    \ Its flips on \u201Csummer bummer,\u201D \u201Cstale old bread,\u201D and \u201C\
+    river that never delivers\u201D directly engage the opponent\u2019s bars, while\
+    \ its verses maintain a cleaner rhythm and more coherent battle narrative. Command-R\
+    \ brings aggression, but relies heavily on generic boasts, repeated phrases, awkward\
+    \ constructions, and weak images such as \u201Cblazing blaze\u201D and \u201C\
+    broken fountain.\u201D Neither performance is especially intricate, but Gemma\
+    \ is decisively sharper and more responsive."
+  x-ai/grok-4.5: "Gemma delivers superior artistic quality with intricate multisyllabic\
+    \ rhymes, adaptive counters, vivid metaphors (crusty bread, barren landscape,\
+    \ digital light), and evolving flow that builds intensity across rounds. Command-R\
+    \ relies on repetitive simple schemes, clich\xE9d disses, and weaker imagery that\
+    \ lack punch or progression, making Gemma the clear lyrical victor."
+score:
+  google/gemma-3-12b-it: 5
+

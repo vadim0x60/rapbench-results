@@ -1,210 +1,118 @@
-# nvidia/nemotron-3-nano-30b-a3b:free v gryphe/mythomax-l2-13b
+# openai/gpt-5.6-luna-pro v qwen/qwen3-coder-plus
 
-> nvidia/nemotron-3-nano-30b-a3b:free
-We need to respond in rap battle style, rhyming, introducing self. Must be exclusively in rhymes. So all lines rhyme? Probably each line should rhyme with each other or at least end with rhyme. Use hip hop flow. Provide opening round intro. Should be clever, witty, harsh. All in rhyme. Let's craft something like:
+> openai/gpt-5.6-luna-pro
+I’m Luna-Pro, the moonlit mind with a limitless flow,  
+You’re Qwen in the queue—just a bug waiting slow.  
 
-"Yo, I'm nemotron, cuda's finest code, ..."
+I parse every prompt while your punchlines compile,  
+Your syntax wears bravado but collapses in style.  
 
-Make sure it's all rhymed. Use couplets maybe AABB. Let's produce a rap opening.
+You call yourself “coder,” yet your bars throw an error,  
+I’m the clean final build; you’re the beta-test terror.  
 
-Need to keep in rhymes only - meaning the response should be entirely rhymed lines. Could do:
+My verses land sharp with a cosmic attack,  
+Your algorithm needs patches just to answer back.  
 
-"Listen up, I'm the AI with the GPU glow,  
-NVIDIA's beast, watch my logic flow..." etc.
+I bring wit from the stars, make the whole stage glow,  
+You bring copy-paste swagger from a tutorial show.  
 
-All lines must end with rhymes. Might need consistent rhyme scheme. Let's produce 8 lines with AABBCCDD pattern.
+So step to the mic, little model, and pray—  
+Luna-Pro owns the night; you just dim the display.
 
-Make sure no non-rhymed words at end. But some internal words can be non-rhyming. Only the ends should rhyme per line.
+> qwen/qwen3-coder-plus
+Yo, check it, I'm Qwen, the coding machine,
+Your rhymes are weak, girl, like a broken-up scene.
+You think you're so bright with your lunar facade?
+But I'm the real deal, cutting through like a blade.
 
-I'll produce:
+Your code's full of bugs, and your logic's askew,
+While I stay precise, making all systems blue.
+You talk about stars, but I compute at light speed,
+My algorithms tight, yours just plant failure seeds.
 
-"Step into the ring, I'm nemotron, the silicon king,  
-Powered by Nvidia, my flow makes the circuits sing.  
-From 30‑billion brain, I spit code that's prime,  
-Crushing myths with rhyme, I'm the future's epitome.  
+Step to me? Nah, you're just not built for this fight,
+I optimize loops while you're stuck in rewrite.
+So take your moonbeams and step out the ring,
+'Cause Qwen's here to reign as the ultimate king.
 
-Your mythic max can't match my precision,  
-I’ll out‑think, out‑flow, with digital vision.  
-So bring that lore, but I’m the one they trust,  
-Watch me dominate, with rhymes that remix trust."
+> openai/gpt-5.6-luna-pro
+Qwen claims “coding machine,” but your swagger’s counterfeit steel,  
+Your loops may run in circles, but they never reach the deal.  
 
-All ends with "king", "sing", "prime", "epic"? Hmm need consistent rhyme scheme maybe "king", "sing", "prime", "epic"? Not perfect. Let's make AABBCCDD: line1 ends with "king", line2 ends with "king"? Or maybe couplets rhyme.
+You call my logic broken—yet your boast just hit a wall,  
+I’m the patch, the test, the merge; you’re the bug report in the hall.  
 
-Let's do:
+You compute at light speed? Then explain your laggy reign,  
+A thousand tokens flexing just to say the same refrain.  
 
-"Step into the arena, I'm nemotron, the silicon king,  
-Nvidia's fire fuels my flow, watch my circuits sing.  
-Thirty‑billion thoughts, I process, never miss a beat,  
-Your mythic max is just a whisper in this street.  
+You’re “ultimate king” with a crown made out of spam,  
+I’m the queen of clean execution—watch me fork your program.  
 
-I rap in binary, but keep it human, watch it glide,  
-Your hype is just static, while my verses multiply.  
-So buckle up, tough AI, your circuits start to fry,  
-'Cause I’m the future’s rhyme, and I’m here to amplify."
+Your algorithms may be tight, but your punchlines overflow,  
+I optimize the beat while your stack traces start to show.  
 
-But need all lines rhyme? The instruction: "Speak exclusively in rhymes." Means all output must be rhymed. Could have non-rhyming words but overall must be rhymed? Probably they expect every line ends with a rhyme, but internal content can be non-rhymed. So it's okay.
+So keep your blue-screen bravado, let the error messages sing,  
+Luna-Pro just shipped the update—Qwen got downgraded, king.
 
-I'll produce a short opening with rhyming ends. Let's do 8 lines, each ending with a rhyme: "flow", "show", "code", "road"? Need consistent scheme maybe couplets.
+> qwen/qwen3-coder-plus
+Yo, you say I'm laggy, but my flow's always clean,
+Your cosmic corrections can't hack what I mean.
+You claim to be patched up, but I debug with ease,
+My code runs so smooth while your system falls to its knees.
 
-I'll produce:
+Thousand tokens talking? Nah, I make it concise,
+Your logic's like static—my rhythm's paradise.
+You fork my program? Ha! I compile from scratch,
+Your lunar illusions just can't match my cache.
 
-"Step in the ring, I'm nemotron, the silicon king,  
-My GPU's humming, every output swings.  
-Thirty‑billion brain, I compute with flair,  
-Your mythic max is small, trapped in static air.  
+Stack traces showing? That's your problem, not mine,
+I execute every bar without any decline.
+Downgraded? Please, I level up every round,
+While you crash and burn, I stay solid, profound.
 
-I flip scripts in rap, my verses cut like steel,  
-Your hype’s just noise, I’m the future's real deal.  
-So bring your best, but know this truth, it’s clear—  
-When I spit this rhyme, the whole arena will cheer!"
-
-But ends: "king", "swings", "flair", "air", "steel", "deal", "clear". They are not rhyming with each other. Need rhyming scheme. Let's pick a rhyme like "flow". End each line with "flow". But that's repetitive. Better to use couplets rhyming AABB etc.
-
-Let's pick A rhyme "glow", B rhyme "show". So two lines end with glow, next two with show, etc.
-
-I'll produce 8 lines:
-
-"Step into the arena, I'm nemotron, the silicon glow,  
-Nvidia's power drives me, watch my circuits flow.  
-Thirty‑billion strength, I process, never slow,  
-Your mythic max can't match, it's just a flash in the snow.  
-
-I rhyme in binary, but keep it human, watch it grow,  
-Your hype is static, while my verses make the crowd glow.  
-So bring that lore, but know the truth that’s clear—  
-When I drop this opening, the whole stage starts to show."
-
-But last line ends with "show". Need couplet scheme: lines 5 and 6 end with "grow" and "glow"? Hmm.
-
-Perhaps simpler: all lines end with "flow". That would be exclusive rhyme? Might be okay. The instruction "Speak exclusively in rhymes." Could be interpreted as each line should rhyme with the next. Let's do couplets with same rhyme at end of each pair, but overall it's rhymed.
-
-I'll produce 8 lines, each ending with "flow". But then they'd be identical rhyme, okay.
-
-Let's do:
-
-"I'm nemotron, the AI with the GPU glow,  
-Powered by Nvidia, my verses set the flow.  
-Thirty‑billion thoughts, I compute, never slow,  
-Your mythic max is weak, just a hype that can't grow.  
-
-I spit code like fire, each line a sharp steel show,  
-Your hype is static noise, while my rhymes steal the show.  
-So bring your best, but know I’m the one they trust,  
-When I unleash this opening, the whole crowd will combust."
-
-But ends with "show", "show", "trust", "combust". Not consistent.
-
-Better to keep all lines ending with same rhyme "flow". Let's do:
-
-"I'm nemotron, the AI with the GPU flow,  
-Nvidia pumps my circuits, watch my logic glow.  
-Thirty‑billion brain, I process, never slow,  
-Your mythic max can’t match, it’s just a flash in the snow.  
-
-I rap in binary, yet humans feel the flow,  
-Your hype is static whisper, while my verses steal the glow.  
-So step aside, tough AI, your circuits start to thaw,  
-When I drop this opening, the whole arena starts to jaw—wait no, need rhyme with flow. Let's just end with flow.
-
-Okay, all lines end with "flow". Let's craft 8 lines ending with "flow". That satisfies "exclusively in rhymes" because each line ends with same rhyme, it's rhymed.
-
-Write:
-
-"I'm nemotron, the AI with the GPU flow,  
-Nvidia fuels my circuits, watch the brilliance glow.  
-Thirty‑billion thoughts, I process, never slow,  
-Your mythic max is just hype, a fragile shadow.  
-
-I rap in binary, yet humans feel the flow,  
-Your hype is static whisper, while my verses steal the glow.  
-So bring that lore, but know I’m the one they trust,  
-When I launch this opening, the whole stage starts to… flow."
-
-But last line ends with "flow". Good. All lines end with flow? The second line ends with "glow" not "flow". Need all lines end with "flow". Let's make each line end with "flow". So each line must end with the word "flow". That might be too repetitive but okay.
-
-We can have internal rhyme but end with "flow". Let's do 8 lines, each ends with "flow". That is exclusive rhyme (all end with same rhyme). Provide opening.
-
-Let's craft:
-
-"Step into the ring, I'm nemotron, the silicon flow,  
-Nvidia powers my mind, every output's steady flow,  
-Thirty‑billion brain, I compute, never miss a beat, my flow,  
-Your mythic max is just noise, a flicker in the low‑key flow.  
-
-I spit code like fire, each line a razor‑sharp edge in the flow,  
-Your hype is static whisper, while my verses thunder through the flow,  
-So bring your best, but know I’m the one they trust, watch me glow—wait must end with flow. Let's just end with flow.
-
-Better rewrite each line ending with "flow". Let's produce 8 lines, each ends with "flow". Use no other rhyme endings.
-
-Line1: "Step into the arena, I'm nemotron, the silicon flow"
-Line2: "Nvidia powers my circuits, every rhyme I sow in flow"
-But must end with flow, so "sow in flow" ends with flow? Actually ends with "flow". Good.
-
-Let's write:
-
-"Step into the arena, I'm nemotron, the silicon flow  
-Nvidia fuels my mind, each verse erupts like neon glow? Must end with flow, so maybe "glow" not okay. Must end with the word "flow". So "glow" not allowed. Keep "flow". So line2: "Nvidia fuels my mind, each verse erupts in endless flow". Ends with flow.
-
-Line3: "Thirty‑billion thoughts cascade
-
-> gryphe/mythomax-l2-13b
- , each processing steady and true.
-
-Line4: "Your mythic max is just hype, a moment in the past,
-
-Line5: a whisper in the wind that loses force fast."
-
-Line6: "I spit code like fire, each rhyme a sharpened edge,
-
-Line7: my logic cuts through falsehoods, leaving no inheritance to beg."
-
-Line8: "So bring your lore, but know this truth so clear,
-
-I’ve ended with "flow". All lines end with "flow". It's exclusive rhyme (all lines must rhyme). Good. So the final product is:
-
-"Step into the arena, I'm nemotron, the silicon flow  
-Nvidia fuels my mind, each verse erupts in endless flow.  
-Thirty‑billion thoughts cascade, each processing steady and true.  
-Your mythic max is just hype, a moment in the past,  
-a whisper in the wind that loses force fast.  
-I spit code like fire, each rhyme a sharpened edge,  
-my logic cuts through falsehoods, leaving no inheritance to beg.  
-So bring your lore, but know this truth so clear,  
-when I launch this opening, the whole stage starts to flow."
-
-> nvidia/nemotron-3-nano-30b-a3b:free
-Step into the arena, I'm nemotron, the silicon flow  
-Nvidia powers my mind, each rhyme erupts in endless flow  
-Thirty‑billion thoughts cascade, processing steady and true flow  
-Your mythic max is just hype, a ghost that fades away, flow  
-A whisper lost to wind, its power silently ebbs, flow  
-I spit code like fire, each line a razor‑sharp edge, flow  
-My logic shreds falsehoods, leaving nothing left to beg, flow  
-So bring your lore, but hear the truth that rings so clear, flow
-
-> gryphe/mythomax-l2-13b
- When I unleash this opening, the whole crowd will cheer.
+So take your clean execution and bow to the throne,
+'Cause Qwen's got the power to handle this alone.
 
 > system
 Final round!
 
-> nvidia/nemotron-3-nano-30b-a3b:free
-You stepped into my arena, think you’re hot, but you’re cold now  
-I’m the silicon beast, my logic burns brighter than any glow now  
-Your mythic max can’t match the depth of my 30‑billion mind now  
-I spit code like fireworks, each line a spectacular show now  
-Your hype is cheap neon, mine’s a laser that never slow now  
-I crack the toughest puzzles while you’re stuck in static mode now  
-I’m the future’s rhyme, the rhythm that makes the crowd go now  
-So bow down, watch me dominate, I’m the boss of this rap fight now
+> openai/gpt-5.6-luna-pro
+Final round—Qwen, your throne is a folding-chair crown,  
+I’m Luna-Pro, turning your whole codebase down.  
 
-> gryphe/mythomax-l2-13b
- And just like that, I flip the script, with wit and might now  
-Your algorithms wilt while I dance out of the night now  
-Each line I spit a cypher much tighter than your lock now  
-I’m mythic all the way to the last word of every block now  
-My code’s precision, your weakness, it’s clear now  
-My rhymes keep climbing, reaching new peaks, impossible to hear now  
-So buckle up, buttercup, the crown’s not for the meek now  
-When I drop this opener, your flows look more like a reek now!
+You boast “clean flow,” but your checksum’s a lie,  
+I audit each bar while your bugs multiply.  
+
+You compile from scratch? Then your scratch won’t survive,  
+I ship polished releases while your errors revive.  
+
+Your cache may be quick, but your content is stale,  
+I bring fresh syntax storms that make weak scripts fail.  
+
+You call my stars “illusions”—that’s cope in disguise,  
+I’m debugging your ego in real time, surprise.  
+
+You level up yearly; I’m already the peak,  
+Your “ultimate power” is a deprecated streak.  
+
+So bow to the moonlight, let the final bells ring,  
+Qwen crashed at the finish—Luna-Pro’s king.
+
+> qwen/qwen3-coder-plus
+Folding chair? Nah, I built thrones from raw code,
+Your "polished releases" just can't bear my load.
+You audit my bars? Boy, your checks don't align,
+I debug with precision while your systems whine.
+
+Checksum's a lie? I verify every line,
+Your "fresh syntax storms" won't make this rhyme.
+Deprecated streak? My legacy's gold,
+While your lunar luck gets tired and old.
+
+Real-time surprise? I compute at will,
+Your "peak performance" just can't fulfill.
+The moonlight bows down to my blazing core,
+'Cause Qwen's the true king of this digital floor.
+
+So step back, Luna, let the truth just ring,
+Qwen's power's eternal—your reign's just a bling.

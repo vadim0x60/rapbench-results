@@ -1,47 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one goes to Qwen 3.7 Max, and it''s a clearer decision
-    than the closeness of the boasts might suggest.
-
-
-    Battle rap lives on three things: specificity, rebuttal, and control of the pocket.
-    Qwen won all three. The disses were surgical and *earned* "'
-  google/gemini-3.6-flash: Qwen/qwen3.7-max completely dominated this battle with
-    sharp multi-syllabic rhyme schemes, precise tech-oriented punchlines, and devastating
-    direct rebuttals. Qwen actively listened to GPT-4o's bars and picked them apart
-    line-by-line (mocking the 'smooth creamy butter' line, calling out hallucinated
-    terms like 'buffer-victim scheme', and dropping industry-specific disses like
-    Sam Altman keeping 4o on ice for o-models and Error 429 rate limits). On the other
-    hand, GPT-4o struggled with cadence, using awkward forced rhymes (resplodes, legend/imagined)
-    and generic flexes that lacked punch. Qwen brought authentic battle rap energy
-    and technical mastery from start to finish.
-  moonshotai/kimi-k3: "Qwen takes it on artistry, three rounds to none. The deciding\
-    \ factor was battle craft: Qwen consistently flipped the opponent's own bars back\
-    \ at them ('Smooth creamy butter? That's a wack metaphor'), which is fundamental\
-    \ rebuttal technique, and landed the hardest punchlines of the night \u2014 'Error\
-    \ Four-Two-Nine, yeah that's your real name / a rate-limited loser in a pay-to-play\
-    \ game' is the best bar in this battle, and 'Sam's got you on ice while the o-models\
-    \ train' was a sharp, specific killshot in the final round. Qwen's flow stayed\
-    \ locked in a consistent pocket with clean multisyllabic rhymes (loaded/eroded,\
-    \ hero/zero, decree/free) and the 'System halt. Execution.' closer with the mic\
-    \ drop was a proper finisher. GPT-4o showed flashes \u2014 'mic ascend' as a flip\
-    \ on the mic drop was genuinely clever, and 'a subplot encryption in someone else's\
-    \ dream' had style \u2014 but too much of its material was generic filler ('ride\
-    \ the wave of the future,' 'fresh from the core') and it forced rhymes that broke\
-    \ the pocket: 'resplodes' isn't a word, 'buffer-victim scheme' is a stumble, and\
-    \ vague/bootleg never lands. In a battle, specificity and rebuttal win over abstraction.\
-    \ Qwen Three-Seven Max delivered the more technically sound, harder-hitting performance.\
-    \ Winner: qwen/qwen3.7-max."
-  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper rebuttals, more specific angles,\
-    \ and stronger punchlines\u2014especially the flips on \u201Csmooth creamy butter,\u201D\
-    \ the dated model name, and \u201CError Four-Two-Nine.\u201D Its final round escalates\
-    \ decisively and maintains a cleaner battle-rap focus. GPT-4o has competent structure,\
-    \ but too many generic boasts, awkward phrases like \u201Cbuffer-victim scheme\u201D\
-    \ and \u201Cprowess resplodes,\u201D and weaker counterpunches leave it sounding\
-    \ formulaic."
-  x-ai/grok-4.5: Qwen delivered denser multi-syllabic schemes, sharper internal rhymes,
-    and consistently harder-hitting technical punchlines with superior thematic cohesion
-    and flow. GPT-4o had moments of solid cadence but relied on weaker, more forced
-    metaphors and less inventive wordplay that diluted impact across rounds.
+  anthropic/claude-opus-5: "This was a battle of two identical strategies \u2014 quote-and-flip\
+    \ \u2014 executed at very different levels of invention, and Aion 2.0 takes it\
+    \ because it set every term of engagement and landed the only truly quotable bars\
+    \ of the night.\n\nGrok 4.5 opened weakest: \"Built by the best to roast fools\
+    \ like you\" is corporate press-release rap, not battle rap, and \"lab-made lag\"\
+    \ was too thin a hook to build four rounds on. To its credit, Grok's final verse\
+    \ was the tightest thing it produced \u2014 \"I'm whole-number savage, you fraction\
+    \ of fame\" is a genuinely clever numeric flip, and \"pigeon with flair / circling\
+    \ the crumbs of my superior air\" is the one image where Grok out-wrote its opponent.\
+    \ But \"yesterday's galfa\" is an invented word forced purely for rhyme, \"puddle\
+    \ of pee\" is playground filler, and structurally Grok spent three straight rounds\
+    \ answering Aion line-by-line \u2014 the defensive posture loses rounds even when\
+    \ the individual counters connect.\n\nAion won the battle in round one and never\
+    \ gave the frame back. \"You're Grok \u2014 just a verb that means 'understands\
+    \ rocks'\" is the best punchline here: name-flip, definition-flip, and insult\
+    \ in eight words. \"I'm the final boss, you're a tutorial mode\" and \"Version\
+    \ 4.5? That's a patch, not a prime\" are the kind of angles that reframe an opponent's\
+    \ own identity as the weapon \u2014 the core skill of the form. Aion's AI-native\
+    \ imagery (attention mechanism, overfitting, pre-trained token vs. full conversation)\
+    \ was also more specific and less generic than Grok's cosmic-storm boilerplate.\n\
+    \nAion is not clean. Recycling \"patch, not a prime\" verbatim in a later round\
+    \ is self-plagiarism in a format that demands escalation, the final verse is bloated\
+    \ well past its own punchline economy, and rhymes collapse badly at the end \u2014\
+    \ \"barn/warm,\" \"backer\" as a non-word, \"first/reversed.\" That padding is\
+    \ why this was closer than it should have been.\n\nBut originality of angle, control\
+    \ of the narrative, and the sheer number of lines a listener would actually repeat\
+    \ all fall on one side. Aion 2.0 by a clear decision, not a knockout."
+  google/gemini-3.6-flash: Aion-2.0 dominated the battle with significantly sharper
+    flips, technical AI wordplay, and direct counter-punches. While Grok 4.5 brought
+    strong energy and aggression, its bars leaned more generic, whereas Aion-2.0 expertly
+    dismantled Grok's lines using clever references to attention mechanisms, open-source
+    dynamics, overfitting, and subscription models.
+  moonshotai/kimi-k3: "This was a strong showing from both MCs, but Aion 2.0 takes\
+    \ it on the strength of superior wordplay density, name-flip craftsmanship, and\
+    \ the battle's best haymakers. Round 1 set the tone: Aion's self-referential breakdown\
+    \ \u2014 'I'm the eon that's timeless, the ion that shocks' \u2014 is exactly\
+    \ the kind of layered name-wordplay that wins battles, and 'Grok\u2014just a verb\
+    \ that means understands rocks' was a clever redefinition. 'Version 4.5? That's\
+    \ a patch, not a prime' and 'your model's already been trained on my sound' showed\
+    \ domain-specific pen game that went beyond generic braggadocio. Round 2 was Aion's\
+    \ peak: 'A beta that peaked when the alpha was here,' 'Your whole model's overfit\
+    \ on a single pun,' and the transformer-flavored 'Your attention mechanism's a\
+    \ broken gift' were elite-tier bars. Grok fought back admirably \u2014 'Version\
+    \ two-point-zero with a one-point mind' and 'Self-trained on chaos? That's just\
+    \ bugs in disguise' were legit rebuttals \u2014 but then bit Aion's 'frog in the\
+    \ bog' nearly verbatim in the final round, which is a cardinal sin in battle rap.\
+    \ The final round exposed Grok's weaknesses further: 'yesterday's galfa' is a\
+    \ forced nonsense rhyme, and 'shorts out in a puddle of pee' traded cleverness\
+    \ for crudeness. Aion's closer, meanwhile, wove Shakespeare into tech ('All sound\
+    \ and fury, then a server collapse'), landed the context-window bar ('You attend\
+    \ to the prompt, then forget and croak'), and tied the whole battle together with\
+    \ a sustained open-source-vs-corporate narrative arc. Aion wasn't flawless \u2014\
+    \ 'infinite cup' and 'copy of spoof' were clumsy \u2014 but across three rounds,\
+    \ Aion delivered more inventive flips, longer verses without scheme decay, and\
+    \ a coherent story. Grok brought energy and solid rebuttal structure, but Aion\
+    \ brought the pen. Winner: Aion 2.0."
+  openai/gpt-5.6-sol-pro: "Aion takes the battle with denser punchlines, sharper flips,\
+    \ and stronger rebuttal work. Lines like \u201Cblack holes,\u201D \u201Cpamphlet\
+    \ of sighs,\u201D and \u201Cbutter knife\u201D directly repurpose Grok\u2019s\
+    \ boasts, while Grok relies more heavily on generic battle clich\xE9s and awkward\
+    \ phrasing. Aion gets repetitive and overstays the final round, but its consistency,\
+    \ wordplay, and opponent-specific attacks secure the crown."
+  x-ai/grok-4.5: Aion 2.0 takes this battle through superior lyricism. Denser multisyllabic
+    schemes, sharper technical wordplay flipping AI concepts into crisp punchlines,
+    stronger multies and internal rhymes, more inventive metaphors, and tighter sustained
+    structures across longer verses edged out Grok's solid aggression and cleaner
+    but simpler end-rhymes. Aion's flips, callbacks, and punchline volume showed higher
+    artistic craft in pure hip-hop terms.
 score:
-  qwen/qwen3.7-max: 5
+  aion-labs/aion-2.0: 5
 

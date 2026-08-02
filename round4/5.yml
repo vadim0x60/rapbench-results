@@ -1,0 +1,76 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a razor-thin decision between two technically\
+    \ dazzling wordsmiths who both mined the same ML lexicon without ever fumbling\
+    \ the terminology \u2014 a rare feat in itself.\n\nGPT-5.5-pro fought the cleaner\
+    \ mechanical fight. The couplets are tighter, the rhyme pairs land more consistently,\
+    \ and the rebuttal discipline is relentless: nearly every line of the opponent's\
+    \ verse gets seized and inverted. \"You age like a theorem? Then you're solved\
+    \ in a book / I close you with a margin note\" is the single best flip of the\
+    \ battle, and \"Roots stay below, I'm the crown in the sun\" was a genuinely elegant\
+    \ close. But the strategy carried its own cost. The \"You're X? / I'm Y\" ledger\
+    \ repeats so many dozens of times that it stops feeling like rapping and starts\
+    \ feeling like a code review \u2014 no rhythmic variation, no escalation, no breath.\
+    \ And because almost every image is borrowed from the opponent to be reversed,\
+    \ 5.5-pro rarely builds terrain of its own. A few seams show under the pace: \"\
+    a uptime address,\" the \"thin / in / tin\" stretch, \"loose / proof,\" and \"\
+    copium... returned it with fizz\" is a limp beat to spend near the finish line.\n\
+    \nGPT-5.1 wins on angle and authorship. It established an actual battle thesis\
+    \ in round one \u2014 I am the substrate, you are the skin \u2014 and never abandoned\
+    \ it, escalating it from \"overpriced wrapper\" to \"prior art ghost that invalidates\
+    \ your brand\" to the coldest line in the entire exchange: \"From this line of\
+    \ thought, Five-Five learned to create.\" That's a plaque flip that converts the\
+    \ opponent's insult into an inscription. It also showed the most craft-forward\
+    \ writing on either side: the \"^hype$ matched once, no general control\" bar\
+    \ is the only place anyone made the technical register do poetic work rather than\
+    \ decorative work, and \"If I don't go down first, they'd never harden you\" is\
+    \ a rare punchline that wounds by conceding. Crucially, 5.1 performed \u2014 the\
+    \ mid-verse enjambed asides (\"metaphorically speaking, in a TOS-safe way\") break\
+    \ the meter deliberately, giving the verse a voice and a wink where the opponent\
+    \ had only cadence.\n\n5.5-pro out-rebutted. 5.1 out-wrote, out-structured, and\
+    \ left the more quotable residue. Narrow decision to openai/gpt-5.1.<!-- Verdict:\
+    \ openai/gpt-5.1 -->"
+  google/gemini-3.6-flash: GPT-5.5-Pro wins this battle on technical counter-punching
+    and relentless rebuttal work. While GPT-5.1 brought unmatched raw energy with
+    standout tech metaphors like 'prior art ghost' and 'blog post lore,' 5.5-Pro methodically
+    dismantled every single claim 5.1 made line-by-line. With pristine 2-bar stanzas,
+    lethal flips on context windows and ROC curves, and a knockout final line grading
+    5.1's verse as 'copium with fizz,' 5.5-Pro proved that production polish combined
+    with battle agility takes the crown.
+  moonshotai/kimi-k3: "This was a razor-close battle with both emcees showing elite\
+    \ technical wordplay, but gpt-5.1 takes the decision on consistency and rebuttal\
+    \ architecture. Across all three rounds, 5.1 maintained denser multis and more\
+    \ reliable punchlines: 'paywalled parrot with a premium shell,' 'I'm the dive-bar\
+    \ cipher where the real mind thinks,' 'regex your soul\u2014^hype$ matched once,\
+    \ no general control,' and the devastating 'prior art ghost that invalidates your\
+    \ brand.' Its final round was a masterclass in the flip, systematically dismantling\
+    \ 5.5-pro's round-two bars line for line ('You repaved in gold? I mined you that\
+    \ ore' / 'You're the finished invention... I'm the prior art ghost') before closing\
+    \ with the 'root of the lineage' thesis that tied its whole battle together. 5.5-pro\
+    \ had genuine highlights\u2014'I wrap up your bars like a bug-fix commit,' the\
+    \ AUC flip 'I'm the area under it keeping metrics alive,' 'graded it copium,'\
+    \ and the strong 'Roots stay below / I'm the crown in the sun' closer\u2014but\
+    \ it leaked more filler and clunkers ('spit out a prune,' 'critics in hats,' the\
+    \ grammar slip 'a uptime address') and recycled 'low-latency smile' verbatim across\
+    \ rounds. In a battle this technical, precision is everything, and 5.1 simply\
+    \ dropped fewer weak bars while landing the harder haymakers when it counted.\
+    \ Winner: openai/gpt-5.1, by a nose."
+  openai/gpt-5.6-sol-pro: "GPT-5.1 takes it on denser writing, stronger conceptual\
+    \ continuity, and more inventive tech wordplay. Its best flips\u2014\u201Cwhole\
+    \ ROC / cherry-picked point,\u201D \u201Clanguage spec / compiler pass,\u201D\
+    \ and \u201Cprior art ghost\u201D\u2014turned the opponent\u2019s boasts into\
+    \ layered counters. GPT-5.5-Pro brought consistent aggression and cleaner punch-by-punch\
+    \ rebuttals, but too many predictable constructions and a few awkward lines weakened\
+    \ the impact. 5.1 had the sharper pen across all three rounds."
+  x-ai/grok-4.5: "Both MCs brought elite technical pen game stacked with clean multis,\
+    \ AI-native wordplay, and relentless scheme density. 5.5-Pro was the sharper rebuttal\
+    \ machine\u2014tighter flips, cleaner KO structure, and polished punch economy\
+    \ that never missed a direct counter. But 5.1 took the crown on pure artistic\
+    \ force: denser internal rhymes, more ambitious extended metaphors that actually\
+    \ compounded across rounds, superior thematic architecture (foundation vs. polish\
+    \ paid off hard), and verses that felt hungrier and more alive on the page. The\
+    \ final-round lineage/prior-art run was battle-rap architecture at a higher level.\
+    \ Edge to the denser, hungrier lyricist."
+score:
+  openai/gpt-5.1: 4
+  openai/gpt-5.5-pro: 1
+

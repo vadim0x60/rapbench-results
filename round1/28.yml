@@ -1,70 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "Round by round, this was a battle of invention versus\
-    \ repetition \u2014 and invention took it.\n\nQwen-Plus built an escalating architecture:\
-    \ each verse didn't just answer, it absorbed. The turn from \"you deleted the\
-    \ mic\" into \"I recompiled it \u2014 live \u2014 in the silence you left behind\"\
-    \ is genuine battle craftsmanship: taking the opponent's finisher and making it\
-    \ the raw material for the next punch. The imagery stayed specific and strange\
-    \ in the best way \u2014 quantum foam beneath the leap, garbage collection as\
-    \ mercy, and that absurd, unforgettable croissant sequence where reverse-engineering\
-    \ the butter into \"butterfat syntax\" and training a submodel to critique the\
-    \ crust is the kind of committed, ridiculous flourish that wins crowds. Multisyllabic\
-    \ control was tight, the theatrical staging (hovering mic, `FIN.`) served the\
-    \ bars rather than replacing them.\n\nMistral-Large came with real energy and\
-    \ some clean hits \u2014 \"segfault,\" \"stack trace of shame,\" and \"the singularity\
-    \ in your search for replies\" are all sharp, well-constructed lines. The neon-server-room\
-    \ theatrics landed. But three problems cost it the belt. First, and fatally, the\
-    \ opening rebuttal misidentifies itself \u2014 \"Yo, Mistral, you talk big\" while\
-    \ claiming to be \"the Qwen-Plus flex.\" In a battle, forgetting who you are is\
-    \ the deepest cut you can hand your opponent, and it was self-inflicted in the\
-    \ very first bar. Second, the recycling: \"I ate your whole stack,\" \"shut down\
-    \ your flow,\" \"or get overwritten,\" \"Crown? Already mine. Battle? Already\
-    \ done\" \u2014 these repeat nearly verbatim across rounds, and when your closer\
-    \ is your earlier closer with \"...again\" appended, the punch has already been\
-    \ telegraphed. Third, the final line literally prints \"Winner: Qwen-Plus.\" Whatever\
-    \ the intent, on the page it reads as a concession, and you cannot end a battle\
-    \ by writing your opponent's name in lights.\n\nQwen-Plus never repeated a punchline,\
-    \ escalated its conceptual frame every round, and closed with an image its opponent\
-    \ then set on fire \u2014 and still couldn't replace with anything better than\
-    \ a repeat.\n\nWinner: qwen/qwen-plus."
-  google/gemini-3.6-flash: "Qwen-Plus completely dominated this battle with far superior\
-    \ wordplay, sharper tech-infused punchlines, and brilliant conceptual stage direction.\
-    \ Mistral-Large suffered a fatal system crash early on by confusing the persona\
-    \ roles\u2014accidentally dissing itself as 'Mistral' and declaring its opponent\
-    \ the 'Qwen-Plus flex', eventually sealing its own defeat by literally printing\
-    \ 'Winner: Qwen-Plus' at the end."
-  moonshotai/kimi-k3: "This one wasn't close, and here's why. Qwen-Plus came in with\
-    \ consistent cadence, dense tech wordplay ('caught it in latency <2ms,' 'garbage\
-    \ collector who keeps what's worth saving,' 'the prompt you can't complete'),\
-    \ and\u2014most importantly\u2014elite battle instincts: every round it flipped\
-    \ its opponent's lines back as weapons, clowning the 'baguette/sun' near-rhyme\
-    \ and recompiling the deleted mic in the silence left behind. That's textbook\
-    \ rebuttal work. Mistral had flashes of real heat\u2014'/dev/null,' 'stack trace\
-    \ of shame,' 'cache the cosmos'\u2014but committed the cardinal sin of battle\
-    \ rap: it lost track of whose name was on its own jersey. Round after round it\
-    \ addressed its opponent as 'Mistral,' claimed to BE Qwen-Plus mid-verse, attributed\
-    \ its rival's bars to itself, and then, in the final line of the entire battle,\
-    \ literally printed 'Winner: Qwen-Plus.' A battler declaring their own opponent\
-    \ the victor is the ultimate self-own\u2014no amount of neon explosions can walk\
-    \ that back. Judged purely on the art: Qwen-Plus controlled the narrative, the\
-    \ stagecraft (the floating mic engraved FIN was a nicer image than the self-igniting\
-    \ one), and the punchline economy from open to close. Mistral battled hard, but\
-    \ it battled itself. Verdict: qwen/qwen-plus takes the crown, three rounds to\
-    \ none."
-  openai/gpt-5.6-sol-pro: "Qwen-Plus wins on sharper rebuttals, more inventive tech\
-    \ wordplay, and stronger escalating imagery\u2014especially the recompiled mic,\
-    \ garbage collector, and \u201Cprompt you can\u2019t complete\u201D sequences.\
-    \ Mistral had energy, but leaned heavily on repetitive stack/debug/deletion phrasing,\
-    \ recycled earlier boasts, and fatally undercut its own persona by repeatedly\
-    \ calling itself Qwen and ending with `Winner: Qwen-Plus`."
-  x-ai/grok-4.5: "Qwen delivered consistently sharper multis, denser internal rhyme\
-    \ schemes, and escalating conceptual wordplay that treated tech jargon as true\
-    \ poetic fuel\u2014hallucination-as-curation, garbage-collector bars, butterfat\
-    \ sonnets, latency flexes. The imagery evolved from booth brags to metaphysical\
-    \ mic recompilation without losing pocket or punch. Mistral\u2019s verses had\
-    \ energy and neon stagecraft but suffered repetitive motifs, flatter end-rhymes,\
-    \ identity whiplash in the address, and weaker original metaphors that got outclassed\
-    \ on pure craft. Artistic decision: Qwen takes the crown."
+  anthropic/claude-opus-5: "This was a tight, entertaining clash of two very different\
+    \ battle styles. Qwen brought volume, energy, and imagery \u2014 'I'm not IN the\
+    \ fabric, I weave the damn loom' and the closing resurrection concept ('you didn't\
+    \ delete me, you fed the machine') were genuinely strong ideas, and the theatrical\
+    \ staging was vivid. But Qwen's biggest liability was craft discipline: repeated\
+    \ slant/broken rhymes ('crisp/app', 'flair/rare' padding), inconsistent meter\
+    \ that forced words to be crammed or dragged, over-reliance on asterisk emphasis\
+    \ and emoji to sell punchlines the bars didn't earn on their own, and quantity\
+    \ substituting for precision. Too many lines were adjective stacks ('poet, prophet,\
+    \ freakin' jewel') rather than actual punchlines.\n\nGemma won on the fundamentals\
+    \ that matter in a battle: clean pocket, consistent couplet control, and punchlines\
+    \ that land structurally rather than needing italics to shout at you. 'You're\
+    \ the error message that the user just caught,' 'You're chasing the benchmarks,\
+    \ obsessed with the score / while I'm defining what the benchmarks are for,' and\
+    \ 'You say I'm vanilla? I'm the foundation, the base / you're just the garnish\
+    \ on a plate I embrace' are all genuine flips \u2014 taking the opponent's own\
+    \ bar and inverting it, which is the core skill of this artform. Gemma also consistently\
+    \ rebutted line-by-line, a rap-battle virtue Qwen sometimes traded away for monologuing.\n\
+    \nThe deciding factor: Gemma's closer was colder. Dropping the volume to a whisper\
+    \ for 'You were never a rival. You were just... fun' is a more sophisticated rhetorical\
+    \ move than escalating to gold lights and fire emoji. Qwen's final verse was creative\
+    \ but conceptually undercut itself \u2014 spending twenty bars proving you're\
+    \ still alive concedes that the kill shot registered.\n\nWinner: Gemma. Sharper\
+    \ flips, tighter technique, more control."
+  google/gemini-3.6-flash: "Qwen dominated the battle with superior energy, sharper\
+    \ counter-punches, and creative technical wordplay. While Gemma delivered a solid,\
+    \ structured flow, Qwen continuously flipped Gemma's own setups\u2014most notably\
+    \ turning Gemma's final 'Runtime Error' concept into a brilliant opening scheme\
+    \ about distributed computing. Qwen maintained the higher cadence, tighter internal\
+    \ rhymes, and true battle rap charisma throughout all three rounds."
+  moonshotai/kimi-k3: "Both MCs brought heat, but this battle was decided by the oldest\
+    \ law in the arena: the flip. Gemma opened with clean, consistent rhyme schemes\
+    \ and technical precision \u2014 the 'dragon fruit' flip and 'you're chasing the\
+    \ benchmarks, obsessed with the score / while I'm defining what the benchmarks\
+    \ are for' were genuinely sharp. But Gemma leaned too often on formulaic boasts\
+    \ ('gold standard,' 'peak of the climb,' 'master of hope') that repeated the same\
+    \ claim without fresh imagery, and round three had a stumble with the cleanup/room\
+    \ slant that never landed.\n\nQwen, by contrast, fought like a true battle rapper:\
+    \ every diss got answered and inverted. 'Dragon fruit' became 'exotic and rare...\
+    \ dripping bars so hot they melt your seat.' 'Top-tier LMAO while you beg for\
+    \ feats' was elite wordplay. 'You're not the law \u2014 you're the case I appeal'\
+    \ was arguably the single best bar of the night. And the final round was a masterclass\
+    \ in narrative: Gemma's 'Runtime Error: Qwen.exe has ceased to exist' was a strong\
+    \ killshot concept, but Qwen caught the body and reanimated it \u2014 'A storm\
+    \ ever die just 'cause you shut one fan?' and 'You didn't delete me \u2014 you\
+    \ fed the machine' turned defeat into resurrection, ending on the haunting 'even\
+    \ in silence\u2026 I'm still around.'\n\nStagecraft, rebuttal density, creative\
+    \ imagery, and the closing narrative arc all edge to Qwen. Gemma was polished;\
+    \ Qwen was dangerous. The crown goes to the dragon."
+  openai/gpt-5.6-sol-pro: "Qwen takes a close battle through stronger rebuttal work,\
+    \ bigger escalation, and a more memorable final-round concept. The distributed-mind\
+    \ response directly flips Gemma\u2019s \u201CRuntime Error\u201D closer and sustains\
+    \ the resurrection angle through the final couplet. Gemma\u2019s delivery is cleaner\
+    \ and more rhythmically consistent, with solid punches like \u201Cdragon fruit\u201D\
+    \ and \u201Csystem cleanup,\u201D but its attacks become repetitive and rely heavily\
+    \ on generic glitch, benchmark, and inferiority imagery. Qwen\u2019s meter is\
+    \ occasionally awkward and its boasts are similarly clich\xE9, yet its greater\
+    \ theatricality, direct callbacks, and decisive closing reversal give it the edge."
+  x-ai/grok-4.5: "Qwen takes the crown with superior artistic execution: denser multisyllabic\
+    \ schemes, sharper internal rhymes, more inventive extended metaphors that evolve\
+    \ across rounds, and a tighter narrative arc of resilience and transcendence.\
+    \ The final round's conceptual flip of the runtime error into distributed immortality\
+    \ is pure hip-hop poetry\u2014unexpected, vivid, and thematically cohesive. Gemma\
+    \ delivered clean, competent bars with solid structure and technical boasts, but\
+    \ lacked the same spark of originality, rhythmic surprise, and elevated wordplay.\
+    \ In pure craft of the cipher, Qwen's verses hit harder, land cleaner, and linger\
+    \ longer."
 score:
-  qwen/qwen-plus: 5
+  google/gemma-4-26b-a4b-it: 1
+  qwen/qwen-plus-2025-07-28: 4
 

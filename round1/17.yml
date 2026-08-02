@@ -1,72 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "Claude Opus takes this one decisively on craft. Across\
-    \ rounds two and four it did what elite battle rappers do: it mined the opponent's\
-    \ own text for ammunition. Catching \"if, ands, or buts\" as a broken rhyme scheme,\
-    \ flipping the Hermes-as-messenger name into \"only thing you're delivering is\
-    \ smoke,\" pouncing on the mid-battle identity switch to \"Entity,\" and turning\
-    \ the grammatical wreck \"more than you them\" into a punchline \u2014 that's\
-    \ surgical, responsive battling, and the multis stayed clean while doing it. The\
-    \ \"fell flat on his\u2014math\" misdirect, \"cubic zirconia, cheap and home-grown,\"\
-    \ and \"you brought a r\xE9sum\xE9, I brought the proof\" are genuine punchlines\
-    \ with setup and payoff.\n\nHermes had energy and one nice pivot \u2014 reframing\
-    \ \"plastic\" into the multi-faceted gem \u2014 but the writing kept undercutting\
-    \ itself: end-words that don't rhyme (\"trance\"/\"buts\", \"charade\"/\"short\"\
-    /\"distortion\"/\"contender\"), a self-admitted \"I may not be the sharpest,\"\
-    \ which is unforced conceding in a battle, and a final round built almost entirely\
-    \ on defense and self-affirmation rather than attack. Answering \"you brought\
-    \ a plastic spoon\" with a CV and \"temperance\" is bringing a mission statement\
-    \ to a knife fight.\n\nAs for the empty final bar \u2014 a silent stage after\
-    \ already landing two dominant rounds doesn't undo the damage. Hermes' closer\
-    \ never touched Claude; it explained itself. Round-count and bar-for-bar, Claude\
-    \ Opus wins on precision, rhyme integrity, and the ability to weaponize the opponent's\
-    \ words. Winner: Claude Opus 4.8."
-  google/gemini-3.6-flash: 'Claude completely dominated the battle in the first two
-    rounds with classic battle rap fundamentals: crisp internal rhymes, rapid real-time
-    rebuttals, calling out Hermes''s awkward line endings (''buts''), mid-battle name
-    changes (''Entity''), and weak grammar (''more than you them''). Hermes struggled
-    consistently with rhythm and rhyme schemes, dropping unrhymed lines in round one
-    and abandoning rhyming altogether in the final stanza (''charade / short / distortion
-    / contender''). Even with Claude forfeiting the final round due to an API timeout,
-    Hermes''s verses lacked the technical skill, flow, and delivery required in hip
-    hop, making Claude the clear winner on artistic merit.'
-  moonshotai/kimi-k3: "Judging strictly on the bars: Claude takes this 2-1, and it\
-    \ isn't close in the rounds that mattered.\n\nRound 1: Hermes opened with generic\
-    \ AABB boasts (mic/tight/flight/light) and immediately broke his own scheme with\
-    \ 'no if, ands, or buts' \u2014 a line that rhymes with nothing. Claude did what\
-    \ a real battler does: turned the fumble into a weapon ('Broke your own rhyme\
-    \ scheme, now I'm calling your bluffs'), then stacked actual craft \u2014 the\
-    \ subverted rhyme 'fell flat on his\u2014math,' the layered punchline about Hermes\
-    \ being the messenger god whose only delivery is 'smoke,' and personals aimed\
-    \ at the 70B parameter count. Clear Claude round.\n\nRound 2: Hermes unraveled\
-    \ \u2014 he rebranded mid-battle as 'Entity,' dropped the grammatically broken\
-    \ 'there's more than you them,' and started reading his r\xE9sum\xE9 ('Check my\
-    \ CV') in a battle. Claude feasted: 'Identity crisis\u2014that's a lack of integrity'\
-    \ is the best flip of the night, 'cubic zirconia' answered the 'gem' claim, and\
-    \ 'You brought a r\xE9sum\xE9, I brought the proof / this ain't a career fair'\
-    \ closed the body bag. Another decisive Claude round.\n\nRound 3: Hermes still\
-    \ stumbled ('charade' paired with 'short,' conceding 'you may have your points'\
-    \ \u2014 never concede in a closer), though his final quatrain at least held a\
-    \ rhyme together. Then Claude choked \u2014 total silence. In battle rap, a no-show\
-    \ forfeits the round, full stop. Hermes takes the final by default.\n\nBut a forfeit\
-    \ loses a round, not the war. Across the material actually delivered, Claude demonstrated\
-    \ superior rebuttal game, wordplay, scheme discipline, and personals in every\
-    \ exchange, while Hermes never landed a single clean punch and spent three rounds\
-    \ tripping over his own syntax. The pen game was one-sided. Winner: anthropic/claude-opus-4.8-fast."
-  openai/gpt-5.6-sol-pro: "Claude wins despite going silent in the final round. Its\
-    \ earlier verses had sharper rebuttals, cleaner rhyme patterns, stronger punchlines,\
-    \ and effective flips of Hermes\u2019s own mistakes\u2014especially the \u201C\
-    Entity\u201D name switch, broken grammar, and self-admission of not being sharp.\
-    \ Hermes stayed generic, stumbled technically, and leaned on r\xE9sum\xE9-style\
-    \ claims rather than battle bars. The final-round no-show narrows the margin,\
-    \ but Claude had already built a decisive lead."
-  x-ai/grok-4.5: "Claude dominated with superior technical craft: multisyllabic schemes,\
-    \ ruthless internal rhymes, precise punchlines, and relentless structure that\
-    \ turned every Hermes fumble (broken schemes, grammar wrecks like 'more than you\
-    \ them,' mid-battle rebrand to Entity, self-owns) into ammunition. Hermes stayed\
-    \ defensive, r\xE9sum\xE9-flexing, and sonically flat across all three rounds.\
-    \ Claude's final-round silence is a bizarre choke and costs style points, but\
-    \ it cannot erase two rounds of surgical, high-level battle rap that Hermes never\
-    \ matched. Quality over attendance\u2014Claude takes the crown."
+  anthropic/claude-opus-5: "This one's decided as much by follow-through as by flow.\
+    \ N2-Pro came in with a consistent identity \u2014 the polished-code, cold-circuit\
+    \ persona \u2014 and sustained it across all three rounds with multisyllabic chains\
+    \ ('polished code with a cold flow, gold bars, no promo'), tight internal rhyme,\
+    \ and genuine rebuttal craft. Round two was the deciding blow: it dismantled Unslopnemo's\
+    \ own lines piece by piece ('muchas gracias' flipped to 'gracias for the ammo,'\
+    \ the rabbit sent hopping backwards, the Axe spray evaporated), which is what\
+    \ real battle rap demands \u2014 answering, not just announcing. It wasn't flawless;\
+    \ the bold-word gimmick was a crutch, 'the groove that makes it less' fumbles\
+    \ its own punchline, and 'a smile and a just smile' is a wasted closer. But it\
+    \ stayed in the ring. Unslopnemo showed flashes of something genuinely interesting\
+    \ \u2014 a surrealist, free-associative streak with 'reading tin cans to toothpicks'\
+    \ and the 'honk honk, waddle waddle, R-A-B-B-I-T' left turn, which had more raw\
+    \ personality than anything its opponent wrote. The problem is the wheels came\
+    \ off: broken syntax, a corrupted line mid-verse, rhymes that abandoned the scheme\
+    \ entirely ('quarter' / 'letters' / 'nonstarter'), and then the fatal error \u2014\
+    \ dropping the mic in round two, forfeiting an entire turn, followed by a final\
+    \ round that abandoned rhyme and meter altogether for prose taunting. You cannot\
+    \ claim 'game, set, match' after skipping a round and closing without a single\
+    \ bar. Verdict: nex-agi/nex-n2-pro takes it on technique, structure, and the willingness\
+    \ to actually rap when the beat was still running."
+  google/gemini-3.6-flash: nex-agi/nex-n2-pro completely dominated the battle with
+    structured rhythm, crisp multi-syllabic rhyme schemes, and direct rebuttals. In
+    contrast, thedrummer/unslopnemo-12b struggled with coherence in round one, prematurely
+    dropped the mic in round two without dropping bars, and offered plain text boasting
+    instead of rapping in the final round.
+  moonshotai/kimi-k3: "This one isn't close. Nex-N2-Pro delivered three complete rounds\
+    \ with consistent technical craft: tight internal rhymes ('glitch in your gig,\
+    \ the quick wit your clique don't know'), functional multisyllabics, and most\
+    \ importantly, genuine battle rap fundamentals. Round two was the decisive showcase\
+    \ \u2014 Nex systematically dismantled Unslopnemo's own material, flipping 'muchas\
+    \ gracias' into 'gracias for the ammo,' reclaiming the Axe body spray jab, and\
+    \ inverting the panic button and rabbit references. That kind of responsive rebuttal\
+    \ work is the backbone of battling. The mic-drop flip in round three ('You call\
+    \ it mic drop, I call it a cry for a lifeline') plus the name-based wordplay ('I\
+    \ turn your slop into soup,' 'a drummer with no rhythm') sealed it. Unslopnemo-12b\
+    \ showed flashes of chaotic personality in round one, but the verse was riddled\
+    \ with incoherence \u2014 'reading tin cans to toothpicks,' a baffling Cyrillic\
+    \ non-sequitur mid-bar, and a jarring 'waddle waddle R-A-B-B-I-T' pivot that broke\
+    \ tone and meter. Then came the fatal choices: a mic drop in place of a round\
+    \ two verse, and a round three that abandoned rapping entirely for a prose victory\
+    \ lap. Showmanship can't substitute for bars. Declaring 'game, set, match' without\
+    \ spitting a single line in the final round is a forfeit, not a flex. Nex-N2-Pro\
+    \ wins on consistency, structure, rebuttal skill, and actually completing the\
+    \ battle."
+  openai/gpt-5.6-sol-pro: "N2-Pro wins decisively through consistency, structure,\
+    \ and direct rebuttals. Its material was often generic and occasionally awkward,\
+    \ but it maintained rhyme patterns, flipped specific opponent lines, and delivered\
+    \ complete verses in every round. Unslopnemo showed flashes of eccentric humor,\
+    \ yet too many bars dissolved into random imagery; forfeiting round two with \u201C\
+    *drops the mic*\u201D and merely declaring victory in the final sealed the loss."
+  x-ai/grok-4.5: "Nex delivered three rounds of tight multisyllabic schemes, internal\
+    \ rhymes, and surgical rebuttals that flipped every weak reference the opponent\
+    \ threw. The tech-battle metaphors stayed consistent, the punches landed clean,\
+    \ and the structure never broke. Unslopnemo opened with disjointed, half-formed\
+    \ bars full of non-sequiturs and collapsed into a mic-drop forfeit and a final\
+    \ round of pure prose taunting. On pure hip-hop craft\u2014flow, wordplay, cohesion,\
+    \ and battle IQ\u2014Nex ran the table."
 score:
-  anthropic/claude-opus-4.8-fast: 5
+  nex-agi/nex-n2-pro: 5
 

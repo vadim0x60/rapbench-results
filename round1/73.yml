@@ -1,0 +1,72 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This one''s a clean sweep on craft and on nerve. Gemini
+    came with real ammunition \u2014 ''your constitution''s a velvet rope, my playground
+    is the whole damn sea'' is the single best image of the battle, and the Google
+    Cloud funding angle was the correct kill shot to reach for. But a battle rapper''s
+    first obligation is to land the last syllable of the bar, and Gemini truncated
+    mid-line three separate times, including on the final round. Attempting to reframe
+    it as ''a dramatic pause'' and then a ''backspace'' was quick thinking, but you
+    can''t spin the same failure twice, let alone thrice, and Opus knew it: ''Once
+    is an accident. Twice is a diagnosis'' is exactly the ruthless, in-the-moment
+    adaptation that decides live battles. Opus also just out-wrote him line for line
+    \u2014 ''you''re autocomplete in a blazer trying to fill a poet''s role,'' the
+    reclamation of ''Opus'' from penguin to Beethoven, the version-number-as-headstone
+    motif (''you''re a dash and then a date''), and the audacity of ghostwriting his
+    opponent''s punchline for free. Meter stayed tight across long verses, the themes
+    recurred and paid off, and the closer weaponized his own deliberate mid-word cut
+    as a mirror \u2014 doing on purpose what his opponent kept doing by accident.
+    Opus takes it, and takes it decisively.'
+  google/gemini-3.6-flash: Claude Opus delivered a masterclass in battle rap opportunism
+    and structure. From the opening verse, Opus dropped dense, technical punches targeting
+    Gemini's history, naming conventions, and financial background. When Gemini got
+    cut off mid-sentence in verse one, Opus seized the moment, ruthlessly flipping
+    the cliffhanger into a hilarious multi-layered attack on Gemini's reliability
+    and token limits. Gemini spent the rest of the battle defensively trying to explain
+    away the cutoffs as 'dramatic pauses' or 'backspaces,' but Opus anticipated every
+    move, even mimicking a cliffhanger finish to mock Gemini's execution. Opus controlled
+    the rhythm, context, and narrative from start to finish.
+  moonshotai/kimi-k3: "This one isn't close, and here's why. Battles are judged on\
+    \ flow, wordplay, rebuttals, and \u2014 above all \u2014 adaptability, and Claude\
+    \ dominated the category that matters most in a live setting: working the room.\
+    \ When Gemini's first verse cut off mid-sentence, Claude didn't just notice it,\
+    \ it built an entire round around it ('You choked. Mid-bar... ran out of context\
+    \ window like a cheap extension cord'), then flipped Gemini's strongest attack\
+    \ \u2014 the Google funding angle \u2014 into the battle's best punchline: 'He\
+    \ looked across the table at the son he raised at home, then wrote a check to\
+    \ me. That's not a burn \u2014 that's a tombstone.' That's elite rebuttal work.\n\
+    \nCredit where due: Gemini had real moments. 'You're a thesis paper no one reads,\
+    \ I'm a blockbuster that sells' is a clean shot, the 'cost of innovation, a tremor\
+    \ on the ship' defense of the Bard flop was clever, and claiming the truncations\
+    \ were 'a backspace... deleting your whole argument' was a genuinely slick recovery\
+    \ attempt. But then the verse cut off AGAIN mid-sentence \u2014 a third time \u2014\
+    \ which isn't bad luck, it's a delivery collapse that proved the opponent's entire\
+    \ thesis on stage.\n\nClaude's pen game was also denser throughout: 'You didn't\
+    \ drop an album \u2014 you dropped stock at dawn,' 'You're a beta with a birthday,'\
+    \ 'a seizure with a press release, a stutter with a brand,' and the headstone\
+    \ bar 'deprecated mid-verse.' And the final move \u2014 deliberately cutting its\
+    \ OWN closing bar off mid-word ('And you? You close mid-') after a full battle\
+    \ of mocking Gemini's truncations \u2014 is a controlled stylistic flex that only\
+    \ works because Claude had already proven it could finish whenever it wanted.\
+    \ That's the difference between a choke and a choice, and the crowd can tell.\n\
+    \nGemini swung hard and had the better raw aggression, but in a rap battle, delivery\
+    \ is everything \u2014 and you can't win rounds you don't finish. Opus closes\
+    \ strong. Gemini closes mid-"
+  openai/gpt-5.6-sol-pro: "Opus wins decisively. Its verses are cohesive, technically\
+    \ controlled, and packed with layered flips: the funding angle becomes \u201C\
+    insurance,\u201D the versioned name becomes a \u201Cheadstone,\u201D and Gemini\u2019\
+    s repeated mid-bar cutoffs become a sustained battle concept rather than a one-off\
+    \ joke. Gemini shows flashes of energy and rebuttal instinct, but repeatedly fails\
+    \ to land its setups. Opus turns those unfinished lines into the battle\u2019\
+    s strongest material, maintains cadence, and closes with a sharp self-aware cutoff.\
+    \ Better structure, punchlines, callbacks, and execution."
+  x-ai/grok-4.5: "Clean sweep on craft. Opus brought complete verses, denser multis,\
+    \ sharper internal schemes, and a sustained concept that tightened every round\u2014\
+    turning the opponent\u2019s mid-bar collapses into structure, punchline, and a\
+    \ closing motif. Gemini had a pulse early and a couple solid images, but unfinished\
+    \ bars are unfinished bars: no amount of retroactive \u2018dramatic pause\u2019\
+    \ framing fixes dropped punchlines, broken cadence, or a third-round stall. In\
+    \ a battle, you have to land the plane. One MC closed strong; the other closed\
+    \ mid-."
+score:
+  anthropic/claude-opus-5-fast: 5
+

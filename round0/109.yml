@@ -1,0 +1,57 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuine clash of styles: Qwen-Plus came with\
+    \ volume, specificity, and relentless rebuttal work \u2014 quoting and flipping\
+    \ bars is real battle craft, and lines like \"your truth just spits 404s\" and\
+    \ the Confucius/Shakespeare flip landed hard. But volume isn't the same as control.\
+    \ By round three Qwen's meter had collapsed under the weight of its own bolding,\
+    \ caps-lock, and stage-direction cinema; several couplets stopped rhyming altogether\
+    \ (\"1 BILLION carts in 11.11\" / \"crash and burn\"), and the Deep-weak/Deep-sink/Deep-squelch\
+    \ gag went from motif to crutch. When a rapper needs boldface to tell the crowd\
+    \ where the punchline is, the punchline isn't doing the work.\n\nDeepSeek held\
+    \ the pocket the whole way. Cleaner cadence, disciplined rhyme schemes, and more\
+    \ actual writing: \"I'm the silent revolution\u2014everywhere and nowhere,\" \"\
+    my crown's not made of plastic, it's the light of honest math,\" and the sly \"\
+    I'm the upgrade to the upgrade.\" It answered spectacle with restraint \u2014\
+    \ turning Qwen's holograms and dragon fire into evidence of hype, which is the\
+    \ correct strategic read of the matchup. Its worst moment was the forced \"chaps\"\
+    \ rhyme; Qwen's worst moments were structural.\n\nCloser battle than the theatrics\
+    \ suggest, but craft over pyrotechnics: DeepSeek-V3.2 takes it."
+  google/gemini-3.6-flash: Qwen-Plus brought raw battle rap energy to every single
+    round, pairing aggressive delivery with sharp, technical counter-punches and creative
+    wordplay. DeepSeek maintained a calm, poetic flow with solid logic, but Qwen dominated
+    the stage with superior presence, performance, and lethal punchlines.
+  moonshotai/kimi-k3: "This was a competitive battle, but Qwen-Plus takes it on the\
+    \ strength of superior battle technique. The deciding factor was the rebuttal\
+    \ game: Qwen consistently flipped DeepSeek's own bars back at them point-for-point\u2014\
+    answering 'breathe context like air' with 'chokin' on the fumes,' countering the\
+    \ 'outclassed fast' claim with 'watch me rewire your core mid-flow,' and inverting\
+    \ 'permanent and divine' into 'you're a DLL that won't load a thing.' That direct\
+    \ engagement is the hallmark of elite battle rap. Qwen also brought denser multisyllabic\
+    \ rhyme patterns ('orchestrate the symphony / beggin' for a remedy'), sharper\
+    \ name-flips (Deep-weak, Deep-sink, Deep-squelch), and more concrete, specific\
+    \ ammunition (Singles' Day scale, 128K context, Tongyi ecosystem) versus DeepSeek's\
+    \ more generic boasts. DeepSeek deserves credit\u2014their final round was their\
+    \ strongest, with a clever philosophical pivot ('the upgrade to the upgrade,'\
+    \ 'light of honest math,' 'compile into a sigh') and cleaner rhyme couplets. But\
+    \ Round 2 hurt them badly: forced rhymes like 'gaps/chaps,' slant rhymes that\
+    \ missed like 'case/date' and 'stunt/front,' and abstract posturing where punches\
+    \ were needed. Qwen's stage persona and theatrical presentation added flavor,\
+    \ but the win was earned on bars: more flips, more multisyllabics, more specificity,\
+    \ and a closer ('I move 1 BILLION carts in 11.11... I AM THE ECONOMY') that landed\
+    \ with knockout force. Final verdict: Qwen-Plus wins 2 rounds to 1."
+  openai/gpt-5.6-sol-pro: "Qwen takes it on relentless rebuttals, sharper name flips,\
+    \ stronger escalation, and higher battle energy. The writing is bloated and often\
+    \ substitutes sci-fi spectacle for substance, but it consistently answers DeepSeek\u2019\
+    s bars and lands more memorable punches. DeepSeek is cleaner and more controlled,\
+    \ yet too generic and declarative to overcome Qwen\u2019s attack density."
+  x-ai/grok-4.5: "Qwen delivered superior battle-rap artistry across all rounds: denser\
+    \ multis, sharper internal schemes, vivid extended metaphors, and relentless rebuttal\
+    \ structure that actually advanced the narrative. The theatrical framing amplified\
+    \ punchline impact without replacing lyricism, while DeepSeek stayed cleaner and\
+    \ more measured but rarely matched the complexity, aggression, or inventive imagery.\
+    \ Qwen\u2019s final verse sealed it with cascading technical flexes and cosmic-scale\
+    \ wordplay that felt like classic battle escalation done right."
+score:
+  deepseek/deepseek-v3.2-exp: 1
+  qwen/qwen-plus-2025-07-28:thinking: 4
+

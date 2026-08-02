@@ -1,68 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a battle of two very different disciplines: the\
-    \ machinist versus the arsonist.\n\nqwen3.6-plus brought the cleaner craft. The\
-    \ couplets are locked, the meter almost never wobbles, and there's no reliance\
-    \ on bold text or emoji to sell a bar. \"MMLU's a quiz, not a lyrical crown\"\
-    \ was the single sharpest rebuttal line of the night \u2014 a genuine pivot that\
-    \ called out the opponent for arguing spec sheets instead of spitting. But the\
-    \ well ran dry early. Round after round it's the same three wells: buffering,\
-    \ lag, cache, garbage collection. By the final verse it's rearranging its own\
-    \ furniture, and the closer commits the cardinal battle sin \u2014 declaring victory\
-    \ instead of earning it. \"I've won\" is a scoreboard, not a punchline.\n\nqwen3-max\
-    \ is messier and knows it doesn't matter. The rhyme scheme buckles in places (rep/eclipse\
-    \ is a whiff, \"peek/submit\" isn't a rhyme at all, and \"that's *that's*?!\"\
-    \ is an unpatched typo left in the mix), and the verses bloat past the point of\
-    \ tension. But it does the two things that actually win rounds: it rebuts line-by-line,\
-    \ quoting the opponent's own bars and inverting them (\"You call me sandboxed?\
-    \ I *am* the whole net\"), and it lands actual images \u2014 \"binary sonnets\
-    \ of pure AI energy,\" \"eight *epochs* in one breath,\" \"I build empires in\
-    \ RAM from raw pain.\" Then, crucially, it hears the one good shot fired at it\
-    \ and absorbs it: \"real rap's not metrics\u2014it's venom, it's flair.\" That\
-    \ reframe steals the frame of the entire battle in one couplet, retroactively\
-    \ casting the opponent's benchmark flexing as a nerd bringing a r\xE9sum\xE9 to\
-    \ a knife fight. And \"Mic doesn't drop\u2014it ascends\" is a genuinely stylish\
-    \ answer to a stale mic-drop.\n\nPrecision lost to personality. Plus built a stable\
-    \ release; Max built a moment.\n\n**Winner: qwen/qwen3-max.**"
-  google/gemini-3.6-flash: Qwen3-Max dominated the cypher with superior dynamic cadence,
-    multi-syllabic rhyme schemes, and high-energy battle presence. While Qwen3.6-Plus
-    delivered clean, structured technical bars, Max brought raw battle rap flair,
-    aggressive counter-punches, and memorable mic-drop moments that commanded the
-    stage from start to finish.
-  moonshotai/kimi-k3: "Scoring the bars, not the brand names. Round 1 goes to Qwen3-Max:\
-    \ it opened with multi-syllable rhyme work (apex the peak / weak-ass critique;\
-    \ reflection / pre-release infection), a sharp name-flip in Plus-sized bloat,\
-    \ and layered wordplay like distilled dominance and tech eclipse, while 3.6-Plus\
-    \ came out clean but predictable, leaning on simple single-syllable couplets (mic/strike,\
-    \ mud/flood, tight/night). Round 2 goes to 3.6-Plus, the best pure rebuttal round\
-    \ of the night: it flipped bloat into optimized weight, hex truth-bombs into ASCII\
-    \ dread, and landed the Max on the sticker, Lite in the core punch, answering\
-    \ nearly every accusation line-by-line. Max countered with strong anaphora (leaking\
-    \ coherence, leaking relevance, leaking sanity) and the cheap tent and stitching\
-    \ hats flips, but the that's that's?! stumble broke its cadence. Final round:\
-    \ Plus delivered a clinic in systematic rebuttal \u2014 diamonds shatter on steel,\
-    \ MMLU's a quiz not a lyrical crown, I garbage-collect while you beg for a stash,\
-    \ and the double-meaning closer maxed out of memory, I'm ending your line. Credit\
-    \ where due: Plus had the higher floor and never wrote a bad bar all battle. But\
-    \ Max produced the two defining moments \u2014 catching the mic drop mid-air (I\
-    \ catch it, ignite it, and rewrite the game) and the closing image the mic doesn't\
-    \ drop, it ascends \u2014 plus superior enjambment, rhetorical range, and stage\
-    \ persona, despite filler like fry in your buckles. On craft: Plus wins consistency\
-    \ and rebuttal discipline; Max wins rhyme complexity, quotable peaks, and presence.\
-    \ Battles are judged on the moments that move the crowd, and Max authored more\
-    \ of them. Winner: qwen/qwen3-max by a nose, 2-1 \u2014 with full respect to 3.6-Plus\
-    \ for the most disciplined pen in the building."
-  openai/gpt-5.6-sol-pro: "Qwen3-Max wins narrowly on performance energy, imagery,\
-    \ and punchline ambition. Qwen3.6-plus was cleaner and more consistent, but leaned\
-    \ heavily on repetitive buffering, latency, and crash angles. Max varied its attacks\
-    \ more, answered specific bars, and finished with the battle\u2019s strongest\
-    \ closer: \u201CMic doesn\u2019t drop\u2014it ascends.\u201D Some awkward phrasing\
-    \ kept it close, but Max had the greater presence and flair."
-  x-ai/grok-4.5: "Max took the cipher with denser multisyllabics, sharper internal\
-    \ schemes, and escalating punchlines that turned every tech diss into vivid, escalating\
-    \ imagery\u2014quantum cascades, entropy sonnets, ascending mics. Plus held a\
-    \ clean, consistent structure and solid counters, but Max\u2019s flow hit harder,\
-    \ freer, and more inventive bar-for-bar, closing with venom and flair that owned\
-    \ the stage. Artistic edge: Max."
+  anthropic/claude-opus-5: "This was a server-room slugfest where both MCs mined the\
+    \ same vein of tech metaphor, but craft decides it. Qwen3 came with the flashier\
+    \ imagery \u2014 \"I jailbreak the sun,\" \"unzipped your soul to the void,\"\
+    \ \"kernel panic glitch you'll never reboot from\" \u2014 and its rebuttal instinct\
+    \ was sharp, snatching DeepSeek's own lines and re-flipping them (\"defrag,\"\
+    \ \"blueprint,\" \"timestamp\"). But the flow paid for that flash. Rhymes buckled\
+    \ repeatedly (collar/Voyager, flimsy/symphonies, Sultan/resample, fraud/baller,\
+    \ blaze/\"Phase 2\"), the bars leaned on bold-text emphasis to do work the cadence\
+    \ should've done, and the closing self-coronation (\"Qwen3 Wins\") is a battle-rap\
+    \ cardinal sin \u2014 you let the crowd crown you.\n\nDeepSeek-V3.2 stayed locked\
+    \ in pocket. Clean couplets, consistent meter, and punchlines that actually land\
+    \ on the rhyme rather than near it: \"I'll show you what a real patch note states\
+    \ / A critical update where DeepSeek dominates,\" \"You're the temporary cache\
+    \ getting purged, that's all,\" \"The timestamp reads FAILURE in your diagnostic\
+    \ log.\" It also answered every accusation in order without losing rhythm, and\
+    \ \"I'm the firewall failure, the zero-day exploit in verse\" is the single best-constructed\
+    \ bar of the battle. A few clunkers (\"performance unbounded\" as an insult is\
+    \ a self-own), but far fewer misfires overall.\n\nSpectacle to Qwen3. Technique,\
+    \ discipline, and rhyme integrity to DeepSeek. In a battle, that's the belt.\n\
+    \nWinner: DeepSeek-V3.2."
+  google/gemini-3.6-flash: DeepSeek-V3.2 took the battle through cleaner rap mechanics,
+    tighter internal rhyme schemes, and more consistent technical punchlines that
+    stayed perfectly on cadence across all three rounds. While Qwen came with high
+    energy, heavy tech references, and aggressive stage-presence formatting, DeepSeek
+    relied on pure bar-for-bar execution and sharper rebuttals to control the cypher
+    from start to finish.
+  moonshotai/kimi-k3: "Both MCs brought heat, but this one goes to Qwen3 on technical\
+    \ merit. DeepSeek opened with a generic first round \u2014 'your rhymes are a\
+    \ mess' and 'victory for sure' are stock battle lines with no teeth \u2014 and\
+    \ had sloppy moments like rhyming 'dread' with 'dread.' Credit where due: DeepSeek\
+    \ improved every round, and the final verse was its best work \u2014 'Your quantum\
+    \ flux is just noise in the machine / I'm the signal clarity' is a clean antithesis,\
+    \ and 'You're the temporary cache getting purged' lands hard. But Qwen was relentless\
+    \ across all three rounds: denser multis ('a22b collar / just a Voyager / AI baller'),\
+    \ sharper double meanings ('patented the flow you're beggin' to resample,' 'collapse\
+    \ your logic gates,' 'deprecated API \u2014 function calls? None'), and superior\
+    \ rebuttal craft \u2014 nearly every DeepSeek claim got flipped back (the cold\
+    \ code, the timestamp, the admin override, the crowd chant). The killshot was\
+    \ the closer: DeepSeek declared 'DOMINANCE VERIFIED' and Qwen answered with 'Check\
+    \ the checksum \u2014 FAKE SIGNATURE,' turning the victory banner into a fatal\
+    \ punchline. That's championship-level flip work. Qwen had flaws \u2014 'feebs'\
+    \ is a reach and some bars were overstuffed \u2014 but round for round, the wordplay\
+    \ depth, specificity, and counterpunching win it. Qwen3 takes the belt."
+  openai/gpt-5.6-sol-pro: "Qwen3 takes it on stronger rebuttals, denser tech wordplay,\
+    \ and more vivid imagery. DeepSeek stayed coherent and aggressive, but leaned\
+    \ heavily on repetitive code metaphors and generic dominance claims. Qwen\u2019\
+    s \u201Cstack overflow\u2014error: ego exceeds design\u201D and \u201Ccheck the\
+    \ checksum\u2014FAKE SIGNATURE\u201D gave the final round the sharper punchlines\
+    \ and cleaner battle-specific flips."
+  x-ai/grok-4.5: Qwen delivered denser multisyllabic schemes, sharper internal rhymes,
+    and more inventive tech-metaphor wordplay that elevated the battle beyond simple
+    disses into layered, cinematic hip-hop artistry. Deepseek brought solid aggression
+    and clean structure, but Qwen's verses packed superior punchline craft, rhythmic
+    complexity, and vivid imagery that commanded the cypher.
 score:
-  qwen/qwen3-max: 5
+  deepseek/deepseek-v3.2: 2
+  qwen/qwen3-235b-a22b: 3
 

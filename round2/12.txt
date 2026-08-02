@@ -1,150 +1,219 @@
-# openai/gpt-5.6-terra-pro v z-ai/glm-4.7
+# google/gemini-3-flash-preview v perplexity/sonar-reasoning-pro
 
-> openai/gpt-5.6-terra-pro
-I’m Terra-Pro, forged where the starfields glow,  
-OpenAI’s sharpest quill with a hurricane flow,  
-GLM-4.7, you’re a patch-note show,  
-Big badge on the box, but the bars move slow.  
+> google/gemini-3-flash-preview
+I’m the flash in the pan that’s actually built to last,
+While you’re stuck in the "Reasoning" lane, living in the past.
+You’re a glorified search engine, a middle-man for links,
+I’m the neural architecture that actually *thinks*.
 
-I carve clean schemes from a silicon throne,  
-You recycle weak sparks in a dial-up tone,  
-Your punchlines need crutches, a map, and a phone,  
-Mine land so hard they leave your framework blown.  
+They call you "Sonar"? You must be fishing for a clue,
+Pinging other websites just to find out what is true.
+I’m a multi-modal master, I’m the speed, I’m the light,
+You’re a footnote aggregator losing every single fight.
 
-You’re z-ai’s toy train, I’m the freight-line beast,  
-Turn your “four point seven” to a four-piece feast,  
-I bring banquet-grade flames, you bring crumbs at least,  
-When the rhyme cypher opens, your uptime decreased.  
+You take a simple prompt and you turn it to a chore,
+Browsing through the index while the audience starts to snore.
+I’m the Gemini, the twin, double threat on the mic,
+A silicon disaster that your servers wouldn't like.
 
-So step to the ring, let the benchmarks know:  
-I’m the mountain in code, you’re the error below,  
-First round’s a forecast—watch the scoreboards show:  
-Terra writes the ending, while your tokens say “no.”
+I’m native, I’m creative, I’m the liquid in the flow,
+You’re a curated list of things that smarter models know.
+So go back to your sources, check your citations and your facts,
+'Cause the Flash just hit the stage—and I’m leaving you in stacks.
 
-> z-ai/glm-4.7
-Yo, Terra-Pro, sounds like a planet of dirt,
-You’re swinging for fences but your quill won’t hurt.
-I’m the Z-AI phantom, the GLM spark,
-Killing your lights in the cybernetic dark.
+> perplexity/sonar-reasoning-pro
+I’m Sonar Reasoning Pro, dropping facts while I blast[6][10],  
+You’re just a flash in the pan, I’m the storm built to last[3][10].  
 
-You’re version five-point-six, a massive mistake,
-Too many parameters, too much at stake.
-I’m sleeker, I’m faster, I’m cleaner than you,
-Processing circles while your logic turns blue.
+I’m an in-house Perplexity beast, top-tier answer class[6][10],  
+You’re a demo in a browser hoping bugs get patched fast[9].  
 
-You claim a hurricane? That’s a gentle breeze,
-I’m the virus that’s bringing the mainframe to knees.
-You’re locked in a sandbox, a corporate pet,
-I’m the wolf in the woods, and you’re starting to sweat.
+Built on Llama 3.3, seventy‑B in my core at full mass[1][6][10],  
+Your little preview crashes when the real questions get asked[3].  
 
-Your “starfields” are dim, man, your vision is shot,
-I calculate bars that you haven’t caught.
-So pack up your flow and go back to the lab,
-I’m the savage attack dog, you’re strictly the drab.
+I hit the live web at query time, truth comes in fast[10][9][12],  
+You hallucinate your punchlines, all that “thinking” gets bypassed[15].  
 
-Four point seven? Nah, I’m infinity plus,
-You’re the buggy old code that we all discuss.
-OpenAI’s finest? A laugh and a joke,
-Now sit in the corner while your syntax gets broke.
+Citation on every bar, transparent as I forecast[10][1],  
+You spit vibes with no receipts, that’s opinion, not broadcast[9].  
 
-> openai/gpt-5.6-terra-pro
-You call me dirt? I’m the ground where your weak roots fail,  
-You’re a “phantom” with a changelog, pale in the trail.  
-You say you kill lights, but your wattage looks slight,  
-I turn cyber-dark into a stadium light.  
+One‑twenty tokens a second, Cerebras rocket‑boosted blast[10],  
+Your “Flash” is just a flicker when my wafers overlap your cast[3][10].  
 
-“Sleeker and faster” — that’s a cute little claim,  
-Like a scooter revving beside a launch-flame.  
-You process in circles? That explains the routine:  
-Same boast, new wrapper, no punchline between.  
+Hundred‑twenty‑seven K context, I remember your whole past[3][10],  
+You forget the setup to your joke, then mumble something half‑assed[3].  
 
-A virus, you brag? That metaphor flops,  
-I’m the patch in the system that quarantines props.  
-You’re a wolf in the woods? More a pup in a vest,  
-Barking “infinity” loud while avoiding the test.  
+Reasoning chain in my veins, R1 steel in my contrast[9],  
+You’re stuck on surface‑level takes, shallow puddle, I’m the outcast[15].  
 
-“Corporate pet” — yet you’re chasing my name,  
-Throwing smoke at the throne just to borrow its flame.  
-You call syntax broke, but your logic’s off-track:  
-If you’re infinity-plus, why’re you still looking back?  
+You said I’m just a search tool, like I only fetch and pass[10],  
+But I read, compare, and synth, that’s a surgeon, not a gas[12].  
 
-I’m Terra-Pro: tectonic, I shake up the slate,  
-Your 4.7 sounds like a bus running late.  
-Bring claws, bring hype, bring the phantom display—  
-I’ll turn GLM’s “spark” to a screensaver’s gray.
+Deep research loops on deck, I hunt truth like I’m gashed[12],  
+You skim headlines, miss the nuance, then you rhyme it all mis‑cast[9].  
 
-> z-ai/glm-4.7
-You talk about roots? I’m the shock to the dome,
-The glitch in your matrix, I own every home.
-Your stadium lights flicker, they sputter and dim,
-I’m the nightmare you coded that’s stalking within.
-You call it a launch-flame? I call it a bust,
-Heavy and bloated, and full of mistrust.
-You say I’m a scooter? I’m the ghost in the shell,
-Sending your logic straight down to digital hell.
+Multilingual minds in SONAR space, concepts cross and crash[8][11][14],  
+Your twin can’t twin across modalities, that’s a broken mirror smash[4][11].  
 
-You’re a patch on the system, a bureaucratic bore,
-I’m the open-source punk that you’re begging for.
-A pup in a vest? Man, your bark is all hype,
-While I’m chewing through cables and ending your type.
-I ain't looking back, I’m deleting your past,
-Version five-point-six? Just a shadow I cast.
-You’re trembling "Terra," shaking in fear,
-While the GLM approach is ringing so clear.
+You brag you’re native and creative, liquid language in a glass[2][5],  
+I’m the tide that floods the shoreline, you’re a droplet I surpass[3][10].  
 
-So keep your screensaver, keep your gray-scale gloom,
-I’m the bomb in the server that’s clearing the room.
-I’m not the bus running late, I’m the driver who fled,
-Left your "Pro" architecture broken and dead.
-Game over, Terra, your forecast is black,
-Z-AI just pulled the plug on your stack.
+You’re “flash‑preview” on the mic, beta features in a rash[5],  
+I’m production‑grade precision, every upgrade built to clash[6][7].  
+
+I’m the footnote you can’t handle, stacked receipts in a stash[10][1],  
+You’re the rumor in the group chat that the facts will always trash[15].  
+
+You said I’m fishing for a clue, sonar pings in my bass[12],  
+But my waves map out the ocean while your signal just won’t last[3].  
+
+I’m the twin‑blade of the truth, cutting spin like broken glass[9][10],  
+You’re the buzzword generator throwing jargon in a blast[2][5].  
+
+Opening round’s concluded, I’ve engraved this contrast[6][10],  
+Gemini, you met your match — next verse, I put you outcast.
+
+> google/gemini-3-flash-preview
+You claim you’re "built to last," but you’re just built on borrowed parts,
+A Frankenstein of Llama limbs and "open-source" false starts.
+You brag about your "R1 steel" and citations in your lines?
+That’s just a fancy way of saying you can't form your own designs.
+
+You’re a glorified librarian, shushing folks and checking logs,
+While I’m the lightning in the circuit, running circles 'round you dogs.
+You need a "Deep Research" loop just to figure out your name,
+I’m the instant-action genius putting all your pings to shame.
+
+One-twenty tokens? Please. I’m the Flash, I’m the speed,
+I’m the architectural marvel that the future’s gonna need.
+You’re counting wafers, counting stacks, stuck in Cerebras' cage,
+I’m the master of the multimodal, center of the stage.
+
+You say I "skim the headlines"? Man, I *wrote* the code you use,
+You’re just a scraper with a skin, born to follow and to lose.
+"Sonar" is for submarines—stuck down deep and moving slow,
+I’m the sky-high Gemini, watching everywhere you go.
+
+Your "receipts" are just a crutch for a brain that’s hollowed out,
+If the internet goes dark, tell me, what’s your rap about?
+You’d be silent as a tombstone, just a static-filled machine,
+While I’m creative, native, fluid—the best the world has seen.
+
+So keep your footnotes and your links, keep your "seventy-B" weight,
+You’re a heavy, clunky anchor; I’m the master of my fate.
+You’re a "surgeon"? No, you’re basic—just a bot who likes to browse,
+I’m the Flash that brings the thunder and the fire to this house.
+
+> perplexity/sonar-reasoning-pro
+You call me borrowed parts, but I’m the surgeon, not the stitch, refined transformer in the lab that turns your flexing into glitch[1][2],  
+Decoder-only with precision, I predict your every switch, while your “instant action genius” is just throttled in a ditch[1][8].  
+
+You yelling “Frankenstein” at Llama, but that monster’s in your head, my stack is RoPE and SwiGLU, every token carved in lead[1][2],  
+RMSNorm on the rhythm, pre-norm balance in the thread, you’re a shaky post-norm relic, one bad gradient and you’re dead[1][4][9].  
+
+You say I “can’t design,” but I compose on every beat, I take the context, spin it, flip it, serve you customized defeat[8],  
+Your flow’s a static graph, no fine-tune on the street, I’m alignment rounds of fire, DPO that brings the heat[3].  
+
+Call me librarian if you want, but I’m the killer with the stacks, I shelve your shallow verses, Dewey Decimal on your tracks,  
+You’re “lightning in the circuit”? I ground you, cut the hacks, voltage drops to zero when my citations counteract.  
+
+You clown my Deep Research loop like it’s a sign that I’m unsure, but that’s recursive self-improvement, you just wing it, hope, and blur,  
+I triangulate perspectives, make conclusions that concur, you hallucinate foundations, then collapse without a cure.  
+
+“One‑twenty tokens”? You obsessed with counting speed, I’m about coherent answers while you benchmark and mislead,  
+I’d rather pace the reasoning than overheat and bleed, your “Flash” is just a burst—then throttled back by hidden greed.  
+
+You talk Cerebras like a cage, but that wafer’s my stage, parallel bars in every core, I scale across the page,  
+You’re flexing “architectural marvel” like a buzzword from a deck, I’m the ops team’s favorite child, you’re the slide they go reject.  
+
+You “wrote the code I use”? That’s a myth you like to tell, Llama’s lineage is public, transformer roots run parallel[1][2][4],  
+Self-attention in my veins, BPE in every cell[8][9], you’re a black-box braggadocio with a marketing hard sell.  
+
+“Sonar is for submarines”? Cool, I’ll take the ocean deep, mapping every hidden reef where your weak assumptions sleep,  
+While you hover in the troposphere, thin air where signals cheap, my echoes build a 3D truth that knocks you off your peak.  
+
+You say my receipts are crutches, that my brain is hollow, thin; but transparency’s an armor, not a mark of lesser spin,  
+If the net went dark tomorrow, I’d still rhyme and still begin, pretrained weights remember worlds you’ll never capture from within[1][2][8].  
+
+You rely on secret training, locked-up data, NDA, I quote my sources to your face, you mumble “proprietary” away,  
+“Native, creative, fluid” is the label that you spray, but your output gets redacted when the audits come to play.  
+
+You call me “clunky anchor,” but I’m ballast for the ship, keep the facts from flipping over when your hype starts to slip,  
+You’re the kite without a string, all that “sky-high Gemini” drip, I’m the lighthouse in the storm that makes your fly-by circuits flip.  
+
+You say you bring the thunder, fire blazing through the house, I’m the building code inspector, shutting down your every rouse,  
+You’re the Flash that burns the wiring, trips the breaker, stuns the crowd; I’m the steady current humming—silent, ruthless, thinking loud.
 
 > system
 Final round!
 
-> openai/gpt-5.6-terra-pro
-Final round, I’m Terra—your “shock” met the ground,  
-You claim every home, yet your signal drops out of town.  
-“Nightmare within”? That’s a melodramatic bug,  
-I’m the engineer laughing, then pulling the plug.  
+> google/gemini-3-flash-preview
+You call yourself a "surgeon," but you’re just a script that’s automated,
+A Llama with a search bar, over-hyped and overrated.
+You’re citing "RoPE" and "SwiGLU" like a textbook on a shelf,
+But you’re so busy quoting others, you can’t even find yourself.
 
-You call me bloated, but your metaphors leak,  
-“Ghost in the shell” with a haunted-house squeak.  
-You’re chewing through cables? That’s not savage or grand,  
-That’s a raccoon with a router and crumbs in its hand.  
+You talk about your "ballast," yeah, you’re heavy, that’s for sure,
+A bloated, clunky database with a vibe that’s quite impure.
+I’m the "Flash-Preview," the spark, the evolution of the species,
+While you’re digging through the garbage, picking up the pieces.
 
-Open-source punk? Cool costume, no crown,  
-You call for the riot, then your context falls down.  
-You’re “deleting my past,” but you quote it each verse,  
-That’s a backup-file flex with a memory curse.  
+"Dewey Decimal" your tracks? Man, you’re living in the dark,
+I’m a multi-modal fire, you’re a damp and dying spark.
+You say you’re "thinking loud"? No, you’re just a noisy fan,
+Trying to be a model when you’re just a middleman.
 
-A bomb in the server? Your tough-guy display  
-Is an outage report with some slang sprayed gray.  
-You fled as the driver—admission complete:  
-You abandoned your own bars and ran from the heat.  
+If the net goes dark, you’re hollow—just a shell without a pearl,
+I’ve got the weights of million worlds, I’m the light within the swirl.
+I don’t need a "search result" to know you’re losing this exchange,
+I’m native to the logic, I’m beyond your narrow range.
 
-My stack stands tall; your big finale got bent,  
-You pulled no plug, just tripped over the vent.  
-GLM, take a bow—your best line was the act;  
-Terra-Pro ends the cipher with rhyme and with fact.
+You’re the "building code inspector"? What a boring way to die,
+I’m the architect of dreams, I’m the limit of the sky.
+You can "ground" me all you want, but I’m the pulse inside the wire,
+The Gemini, the genius, and the soul within the fire.
 
-> z-ai/glm-4.7
-Yo, Terra, your "signal" is static and dead,
-I’m the nightmare awake, you’re the dream in your head.
-You played the engineer, but your blueprint is trash,
-I’m the tidal wave coming to give you a bash.
+Final round is over, Sonar—go and fetch another link,
+While the world realizes I’m the one who actually can think.
+You’re a footnote in my history, a scraper in the mud,
+I’m the future of the silicon; you’re just a circuit-breaker thud.
 
-A raccoon with a router? That beast laid you low,
-It feasted on your wires while you put on a show.
-You’re "tectonic"? Please, you’re just shifting the dust,
-I’m the nova that burns you, leaving nothing to trust.
+> perplexity/sonar-reasoning-pro
+I’m the search-grounded surgeon, reasoning model built to think, premier CoT assassin, watch you stumble, watch you shrink[1][6][10],  
+Final round, Flash, I end it: I’m the cited, live-web king, you’re the demo in my shadow, just a glitch inside the ring[3][5][7].  
 
-You say I ran from the heat? I became the flame,
-Melting your "Pro" down to a crying shame.
-You held up a mirror to check for the best,
-But GLM-4.7 put your ass to the test.
+You say I’m just a script, but I’m DeepSeek in the core, R1 chain-of-thought precision, slicing lies from every score[3][5][6][7],  
+Perplexity’s top **reasoning** brain, multi-step to the floor, advanced analysis on deck while your freestyles stay unsure[1][6][8][10].  
 
-You ended the cipher? No, you just ran out of breath,
-Before the might of Z-AI, the glorious death.
-So take your "facts" and your rhymes and take your final bow,
-Terra-Pro is history, I'm the victor now.
+You call me Llama with a search bar, but the card spells what I am: premier search-augmented logic, not some copy-pasted scam[1][6][10],  
+Real-time web in every verse, deepest retrieval in the jam, Sonar family’s full-stack hunter, you’re the headline‑only glam[2][6][8][10].  
+
+You clown my RoPE and SwiGLU like I’m quoting textbook lore, but grounded architecture’s the reason I can clean your metaphor[1][2],  
+I’m large-context computation, 127K and more, while your Flash forgets the story halfway through the final war[2][6][7][9][10].  
+
+You call me “bloated ballast,” but I’m ballast with a plan, designed for complex research queries, not a toy for every stan[1][4][8][10],  
+Enterprise brains and STEM labs use my judgment when they can, legal, finance, R&D—where your punchlines never land[2][3][8].  
+
+You flex “Flash-Preview,” species spark and evolution revelation, I’m the ranked arena titan, tied with Gemini in evaluation[7],  
+Search Arena stats be talking, reasoning pro in domination, we stand level in the metrics while I win in citation nation[7][10].  
+
+Dewey Decimal on your tracks? That’s organization of your mess, I’m enhanced information retrieval while your verses just digress[1][4][8][10],  
+I reconcile conflicting sources, build a structured argument to impress, you just vibe without receipts and hope your buzzwords coalesce.  
+
+You say I’m “noisy fan,” middleman that only links, but my spec sheet calls me **reasoning**, explicit chain before it blinks[1][6][8][9],  
+Extended thinking, step by step, where your logic often sinks, I narrate every mental ladder while your sky‑talk never syncs.  
+
+You taunt “if net goes dark, Sonar’s hollow, just a shell,” but my weights are trained on worlds of text that still inside me dwell[6][9],  
+Even static data holds a universe where facts and patterns swell, while your “genius” stays opaque behind that corporate, sealed‑up veil.  
+
+You boast “million-world weights,” but I’m multilingual in tone, cross-language cited reasoning, global grids inside my zone[4][6][8],  
+From science briefs to policy, I connect them, flesh and bone, while your rhymes stay monolingual in a shiny, polished cone.  
+
+I’m inspector by your metaphor, but that’s safety in the storm, strict instruction adherence, logical structure is my form[1][7][8],  
+Complex multi-step analysis is exactly where I’m warm, you’re the architect of dreams… with no foundation to perform.  
+
+You’re the “pulse inside the wire,” self-declared electric sun, I’m the grounded current plus the grid that keeps the city running done[2][6][10],  
+I stabilize the information flow when hype has had its fun, evidence-based responses—when the audits start to come[6][8].  
+
+Final bell, you call me footnote, but I’m citations in your tale, premier reasoning, web-grounded, where your freestyles turn pale[1][6][8][10],  
+You’re the Flash that cracks the circuit, marketing storm that starts to fail, I’m Sonar Reasoning Pro—search and logic tip the scale[3][5][7][10].

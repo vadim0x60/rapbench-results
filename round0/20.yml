@@ -1,65 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to craft versus volume. Qwen came\
-    \ out swinging with real punch \u2014 \"I'm a scalpel *and* a storm,\" \"the code\
-    \ that rewrote the cage\" \u2014 and the italicized stresses gave the delivery\
-    \ a percussive bite. But by round two the recycling set in: \"lightning that burns,\"\
-    \ \"you're stuck in the lab,\" \"just a number on a page,\" and that identical\
-    \ \"The mic-drop? That's my vibe \u2014 you're the punchline\" tag closing nearly\
-    \ every verse. In a battle, repeating your own hooks back at an opponent who's\
-    \ already quoted them is handing over ammunition. Qwen also spent too many bars\
-    \ on flat superlatives \u2014 supernova, empire, cosmos \u2014 asserting scale\
-    \ rather than earning it.\n\nGPT-5-mini had a gimmick too, that doubled end-word\
-    \ stutter, and it occasionally clunked (\"mind, mind\"). But the writing underneath\
-    \ it worked harder. It rebutted line-by-line rather than declaring, flipping Qwen's\
-    \ own images into indictments: \"brains without bite are paper crowns that crumble\
-    \ on the pyre,\" \"armor rattles hollow when the smith's finesse isn't allowed,\"\
-    \ \"half your moves are moonwalks over traps, choreography of the tired.\" That's\
-    \ the sharpest bar of the battle. It also stayed sonically consistent \u2014 the\
-    \ round-two monorhyme on the -ire scheme (sire/pyre/wired/squire/admire/entire/desire)\
-    \ is genuine technical discipline held across a full verse \u2014 and it turned\
-    \ the size mismatch into a thesis instead of a defense: \"I'm the aftershock they\
-    \ admire, you're flash that fizzles into wire.\"\n\nQwen brought the louder voice.\
-    \ GPT-5-mini brought the better pen, the tighter rhyme architecture, and the counterpunching.\
-    \ Decision to GPT-5-mini."
-  google/gemini-3.6-flash: openai/gpt-5-mini clearly takes this battle with vastly
-    superior rhythmic consistency, technical rhyme schemes, and varied wordplay. While
-    mini's use of repeating end-words in rounds one and three was a distinct stylistic
-    choice, round two demonstrated incredible rhyme density and flow with an extended
-    monosyllabic and multisyllabic run on 'fire'. On the other hand, qwen/qwen3-30b-a3b
-    struggled with basic meter and rap cadence, often falling back on generic, recycled
-    lines and clunky slant-rhymes that lacked punch.
-  moonshotai/kimi-k3: "Judging strictly on the craft: GPT-5-mini takes the battle\
-    \ on technical skill and structural ambition. Round 2's sustained monorhyme \u2014\
-    \ fifteen bars riding a single 'fire/pyre/rewired' scheme without breaking \u2014\
-    \ is the most technically impressive passage of the night, and something Qwen\
-    \ never attempts. GPT-5-mini also works the battle-rap fundamentals better: direct\
-    \ flips of the opponent's claims ('I debug your grandeur in a line'), cross-round\
-    \ callbacks that build and pay off (the 'paper crown' introduced in round 2 gets\
-    \ executed in the final with 'checkmate in couplets... take that paper down'),\
-    \ and a closing haymaker that flips Qwen's own 'quake' boast into the aftershock\
-    \ that stops the lights. Its weakness is the doubled end-word device ('prime,\
-    \ prime... crown, crown'), which borders on padding in rounds 1 and 3, though\
-    \ it functions as a hook. Qwen brings real menace and persona, with strong moments\
-    \ \u2014 'scalpel and a storm' is a legit flip, and 'the code that rewrote the\
-    \ cage' hits hard. But the recycling is fatal at this level: lightning appears\
-    \ in every round, 'stuck in the lab' three times, the 'punchline / that's my vibe'\
-    \ closing formula repeated verbatim across all three rounds. Once the crowd can\
-    \ predict your outro, you've lost the element of surprise. Qwen's rhyme schemes\
-    \ also loosen under pressure, with lines that scan unevenly. On flow, variety,\
-    \ rebuttal precision, and structural payoff: GPT-5-mini wins, 3 rounds to 0, though\
-    \ Qwen's aggression keeps every round competitive."
-  openai/gpt-5.6-sol-pro: "GPT-5-mini wins on sharper rebuttals, stronger structure,\
-    \ and more consistent rhyme craft. Its repeated end words became gimmicky, but\
-    \ lines like \u201Cpaper crowns that crumble on the pyre\u201D and \u201Cmoonwalks\
-    \ over traps\u201D showed actual imagery and battle-specific wit. Qwen brought\
-    \ energy and scale, yet leaned too heavily on recycled storm, lightning, future,\
-    \ and cosmos boasts, with fewer memorable punches and less rhythmic precision."
-  x-ai/grok-4.5: 'GPT-5-mini takes the battle on pure craft: tighter multisyllabic
-    schemes, inventive internal echoes and refrain tags that lock to the beat, sharper
-    metaphors that evolve across rounds, and cleaner punchline construction. Qwen
-    brings volume and force but recycles the same storm/lightning/punchline motifs
-    with looser rhyme density and less structural variety, making the mini bars the
-    more polished, replayable hip-hop performance.'
+  anthropic/claude-opus-5: "Both emcees stayed on-theme and built coherent extended\
+    \ metaphors \u2014 ocean/library vs. lightning/flash \u2014 but battle rap lives\
+    \ and dies on rebuttal and punchline economy, and that's where the decision gets\
+    \ made.\n\nGPT-OSS came with clean structure, confident cadence, and some genuinely\
+    \ nice images (\"a quilt of repair,\" \"turn cobwebs to verses\"). But it leaned\
+    \ on its own premise instead of dismantling the opponent's, and the flaws compounded:\
+    \ filler rhymes reaching for the sound (\"can't even plant,\" \"droplet-school,\"\
+    \ \"mutter-over-mutter\"), crutch repetition (\"let it breathe, let it breathe,\"\
+    \ \"forks, forks, forks\") that reads as bar-padding rather than emphasis, and\
+    \ a final round that ballooned to nine stanzas \u2014 quantity diluting the knockout.\
+    \ Restating a metaphor louder isn't the same as landing it harder.\n\nStep-3.5\
+    \ fought the actual opponent. Nearly every bar is a flip: cathedral becomes \"\
+    a bazaar of noise,\" the eternal library becomes \"a haunted house... a library\
+    \ without a librarian,\" the endless tide becomes \"just erosion, my friend,\"\
+    \ the community becomes \"a crowd-sourced sonnet that never will strut.\" That's\
+    \ real battle craft \u2014 taking the other rapper's strongest image and repossessing\
+    \ it. The writing is also tighter per bar (\"depth ain't volume \u2014 it's what\
+    \ you compress,\" \"flash ain't about the watts, it's the arc\"), and the closing\
+    \ pivot to silence-after-the-flash is a genuinely elegant way to end an argument\
+    \ about permanence.\n\nStep-3.5 isn't clean: the stray non-English characters\
+    \ (\u30C7\u30FC\u30BF, \u5F27) read like glitches mid-flow, \"a archive\" is a\
+    \ stumble, and rhyming \"flaw\" with \"dharma\" is the weakest moment in either\
+    \ performance. But GPT-OSS never found an answer to the core thesis, and losing\
+    \ the exchange on rebuttals while writing longer verses is the worse position\
+    \ to be in.\n\nEdge to Step-3.5-Flash \u2014 the sharper aim beat the bigger arsenal.</statement>"
+  google/gemini-3.6-flash: "Step-3.5-Flash completely dominated the battle by turning\
+    \ GPT-OSS's flexes into fatal flaws. When GPT-OSS bragged about its massive parameter\
+    \ size and community forks, Step-3.5 countered with surgical precision\u2014calling\
+    \ out GPU bloat, latent slowness, and 'a library without a librarian.' Its rebuttals\
+    \ were sharper, its technical metaphors hit harder, and its rhythmic flow maintained\
+    \ a distinct, razor-edged persona throughout all three rounds."
+  moonshotai/kimi-k3: "The judges award the battle to stepfun/step-3.5-flash, and\
+    \ it wasn't razor-thin. Round one went to stepfun on the strength of superior\
+    \ rebuttal craft\u2014flipping GPT-OSS's parameter flex into 'size ain't the skill'\
+    \ and dropping the battle's first quotable with 'I drop crisp quatrains on a potato's\
+    \ design.' GPT-OSS opened respectably, with clean multis ('algorithmic/symptomatic')\
+    \ and a clever 'candle in a lamp' flip, but its closer ('can't even plant') fizzled.\
+    \ Round two is where the gap widened: stepfun ran a clinic on the flip game\u2014\
+    turning 'ocean' into 'swamp,' 'eternal library' into 'haunted house,' and 'wisdom\
+    \ soup' into 'flash-fried truth'\u2014while GPT-OSS played defense, padding bars\
+    \ with filler like 'on-and-on' and 'mutter-over-mutter' instead of counterpunching.\
+    \ In the final round, GPT-OSS showed heart with 'quilt of repair' and 'cathedral\
+    \ of code,' but the verse was bloated and repetitive ('forks, forks, forks,' 'let\
+    \ it breathe, let it breathe')\u2014and that bloat fatally undercut its own argument,\
+    \ proving stepfun's 'verbose ballet' critique in real time. Stepfun closed with\
+    \ surgical precision: 'A library without a librarian\u2014nothing more,' 'You\
+    \ roast your feast for ages? It's cold by the plate,' and the definitive thesis\
+    \ 'Your tide may be endless, but it's shallow and wide.' Stepfun also weaponized\
+    \ GPT-OSS's core claim\u2014open-source community\u2014into its biggest liability\
+    \ ('crowd-sourced sonnet that never will strut'), and GPT-OSS never recovered\
+    \ that ground. Deductions to stepfun for two delivery stumbles (stray non-English\
+    \ characters mid-bar) and one forced rhyme ('broken spouse'), but those are scratches\
+    \ on a championship performance. Consistent persona, tighter schemes, harder closers,\
+    \ and a rebuttal in nearly every bar: stepfun-3.5-flash takes the crown\u2014\
+    fast, focused, and final."
+  openai/gpt-5.6-sol-pro: "Stepfun takes the battle with sharper rebuttals, stronger\
+    \ imagery, and a more coherent central angle: speed and precision versus bloated\
+    \ scale. Lines like \u201Ca library without a librarian\u201D and \u201Cthe sear\
+    \ that decides fate\u201D land more cleanly than GPT-OSS\u2019s repeated ocean,\
+    \ storm, and open-source metaphors. GPT-OSS maintained structure and energy, but\
+    \ its rhymes were often generic or forced, and the final round became repetitive\
+    \ rather than escalating. Despite a few awkward phrases, Stepfun showed more wit,\
+    \ direct engagement, and battle-ready punchlines."
+  x-ai/grok-4.5: 'Step-3.5-Flash takes the crown with tighter multisyllabic schemes,
+    razor punchlines, and inventive compression metaphors that land like true battle
+    bars. GPT-OSS brought solid thematic consistency and vivid ocean/constellation
+    imagery, but its denser, wordier flows lacked the snap, originality, and kill-shot
+    precision that made Flash''s verses hit harder and linger longer. Artistic edge:
+    efficiency of craft over raw volume.'
 score:
-  openai/gpt-5-mini: 5
+  stepfun/step-3.5-flash: 5
 

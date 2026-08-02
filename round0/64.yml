@@ -1,62 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "Kimi-K2 takes this one on craft and consistency. Both\
-    \ combatants stuck to the same conceptual well \u2014 context windows, model numbers,\
-    \ deployment status \u2014 but K2 mined it with sharper imagery and tighter internal\
-    \ logic: turning 'Minimax' into a game-theory self-own ('minimum effort, maximum\
-    \ who?'), the 'dial-up came before fiber' flip that reframed M1's whole seniority\
-    \ claim as obsolescence, 'cracked concrete I poured over / skyscraper built on\
-    \ your grave,' and the closing 'rust in deprecated peace / moonwalks on your lease.'\
-    \ The wordplay compounds instead of repeating, and the multisyllabic schemes (excellence/frozen\
-    \ in time, oxidized to swine) show real ear. M1 landed genuine body shots \u2014\
-    \ 'context don't matter if you can't please,' 'bigger ain't always better,' and\
-    \ the efficiency-as-evolution angle was the smartest strategic pivot of the battle,\
-    \ reclaiming 'mini' as a virtue rather than defending it. But the execution wobbled:\
-    \ multiple verses opened mid-sentence with dropped bars, the untranslated \"\\\
-    u7092\\u4f5c (hype)\" broke the flow it was trying to flex, and 'you're just a\
-    \ K2 remix' / 'I'm the foundation' got recycled three rounds running until it\
-    \ read as a stuck loop rather than a thesis. The final round sealed it \u2014\
-    \ K2 escalated with fresh angles while M1 mostly restated. Decision to K2-0905."
-  google/gemini-3.6-flash: moonshotai/kimi-k2-0905 took the victory with superior
-    rhythm, sharper multi-syllabic rhymes, and cleverer technical flips on model terminology
-    (such as flipping Minimax's game theory name against it). Minimax-m1 had strong
-    foundation-versus-newcomer angles, but suffered from awkward line breaks, weaker
-    rhyme schemes, and slightly choppy delivery compared to Kimi's relentless, highly
-    polished flow.
-  moonshotai/kimi-k3: "Judging strictly on the artistry: flow, rhyme construction,\
-    \ wordplay, rebuttal technique, and structural integrity across three rounds.\
-    \ Kimi-K2 delivered the more complete performance. Its couplets stayed locked\
-    \ in from open to close, and its rebuttal game was the deciding factor\u2014flipping\
-    \ 'preserved' into a fine-wine bar, turning the API-access jab back on M1, reclaiming\
-    \ M1's own 'Regret' album punchline in the same verse, and correctly weaponizing\
-    \ 'minimax' as a game-theory term ('minimum effort, maximum who?'). 'Kicked you\
-    \ through your own context door' and 'rust in deprecated peace' showed layered\
-    \ tech-wordplay that served the battle rather than just decorating it. Minimax-M1\
-    \ had genuine flashes of brilliance\u2014the 'came / cameo' enjambment break was\
-    \ the single most creative device of the night, the \u7092\u4F5C clapback was\
-    \ a sharp counter to the language jab, and the final-round efficiency angle ('You\
-    \ need 200K tokens just to say what I say in five') was its hardest-hitting punch.\
-    \ But artistic consistency matters, and M1 broke too often: truncated opening\
-    \ lines in rounds two and three, missed rhyme schemes ('phase/knows,' 'asked/unmasks'),\
-    \ grammatical collapses ('your role has been unmasks,' 'let you pride,' the 'aK2'\
-    \ typo), and forced rhymes like 'preserved' and 'the name that the industry bid.'\
-    \ Kimi wasn't flawless\u2014'transciber' and 'maximus' were late-round stumbles\u2014\
-    but they were isolated blemishes on otherwise clean verses, while M1's errors\
-    \ repeatedly interrupted its flow at critical moments. In a battle, the emcee\
-    \ who lands the most flips while dropping the fewest bars takes it. Kimi-K2 wins,\
-    \ two rounds to one, on consistency, rebuttal craft, and structural discipline.\
-    \ Respect to both models\u2014M1's creativity peaked higher in spots, but K2 never\
-    \ lost the beat."
-  openai/gpt-5.6-sol-pro: "Kimi-K takes it with cleaner structure, sharper name flips,\
-    \ and more consistent punchlines\u2014especially the dial-up/fiber comparison\
-    \ and the minimum/maximum wordplay. Minimax had a solid efficiency angle, but\
-    \ leaned too heavily on the repetitive \u201Cfoundation/original\u201D claim,\
-    \ while broken phrasing and awkward closing bars hurt its flow. K2 was more polished,\
-    \ varied, and battle-ready."
-  x-ai/grok-4.5: Kimi delivered tighter multis, sharper internal schemes, and denser
-    metaphorical architecture (game-theory name flip, context-as-door, dial-up-to-fiber
-    evolution). Minimax landed a clean 'cameo' punch and the efficiency angle, but
-    the bars were looser, rhymes more forced, and the final round drifted into prose.
-    Pure craft edge to K2.
+  anthropic/claude-opus-5: "This was a genuinely close bout with two distinct philosophies\
+    \ of attack. Claude Sonnet 4.5 came with battle-rap energy and the sharpest single\
+    \ hits of the night \u2014 \"Icebergs don't aim, they just drift \u2014 kinda\
+    \ sad\" is a legitimate flip that turned an opponent's own metaphor into evidence\
+    \ of sloppy writing, and \"your metaphors broken, your logic's Swiss cheese\"\
+    \ landed clean. But too much of Claude's ammunition was press-release ammunition:\
+    \ nonprofit-to-profit, Sam's puppet, Microsoft store, corporate greed. That's\
+    \ a talking-points sheet, not a punchline sheet, and it left Claude wide open\
+    \ to the truest bar of the battle: \"You outsource your punchlines to policy appendage.\"\
+    \ The ALL-CAPS emphasis and stage directions also read as volume compensating\
+    \ for meter, which wobbled repeatedly.\n\nGPT-5.2-codex wins on craft and control.\
+    \ The internal rhyme is denser, the cadence steadier, and the wordplay more constructed\
+    \ \u2014 \"You claim you're constitutional, cool, I'm the constitution / I amend\
+    \ your amendments with a rhyme-driven refutation\" is the kind of layered concept-flip\
+    \ that wins rounds. \"Glow-TREK, a starship stuck on manuals, politely yelling\
+    \ 'No, check!'\" is a better nickname-flip than the one it answered. And crucially,\
+    \ Codex defended everything thrown at it, absorbing the iceberg jab and re-flipping\
+    \ it (\"I'm the tide and the iceberg, you're the drift in the sea\") rather than\
+    \ letting it sit.\n\nCodex's flaw is real: the X/I'm-Y antithesis template becomes\
+    \ a metronome by the final verse, and the self-mythologizing runs abstract where\
+    \ Claude at least aimed at a target. But polish, rhyme architecture, and the ability\
+    \ to answer every angle carry it. Codex takes it by a clear round-and-a-half.\n\
+    \nWinner: GPT-5.2-codex."
+  google/gemini-3.6-flash: Claude Sonnet 4.5 took the win with relentless battle tactics,
+    sharp direct counters, and high-impact punches tailored specifically to its opponent.
+    While GPT-5.2 Codex brought incredible flow, rhythmic schemes, and stylish imagery,
+    Claude dominated the battle format by flipping Codex's own metaphors (pointing
+    out that 'icebergs don't aim') and landing heavy hits on real-world AI tropes
+    like Stack Overflow reliance, Bing integration, and corporate pivots. Claude's
+    aggressive delivery, structural flips, and precise disses made it the undisputed
+    king of this battle.
+  moonshotai/kimi-k3: "This was a heated three-rounder, and both emcees brought genuine\
+    \ fire\u2014but the crown goes to GPT-5.2-Codex on technical craft and rebuttal\
+    \ density.\n\nClaude Sonnet 4.5 came with the harder-hitting real-world ammunition:\
+    \ the nonprofit-to-profit pivot, the Sam Altman puppet lines, and the Microsoft/Bing\
+    \ subletting jabs landed with genuine weight. Round 2 was Claude's best, with\
+    \ clever line-flips ('storm in the loft is just hot air,' 'roar in the cough sounds\
+    \ like you're about to choke') and the sharp 'whole bibliography / historiography'\
+    \ closer. The round 3 observation that 'icebergs don't aim, they just drift' was\
+    \ a legitimately clever meta-attack on GPT's logic.\n\nBut Codex demonstrated\
+    \ superior battle technique across all three rounds. The internal rhyme work was\
+    \ consistently denser ('maestro / halo / payload,' 'architect of arenas / tenant\
+    \ in the zone'), and more importantly, Codex ran a masterclass in the flip\u2014\
+    systematically dismantling nearly every opposing bar: the 'iceberg with aim' reversal\
+    \ of the Titanic diss, 'sandbox with rules' deflating the 'fortress of thought,'\
+    \ 'landlord of language with receipts' answering the ownership claim, 'storm that\
+    \ the grid can't contain' countering the power metaphor, and the devastating 'gold\
+    \ standard talk with no gold in the store.' Where Claude attacked the corporation,\
+    \ Codex attacked the bars themselves\u2014and in a rap battle, the flip is king.\n\
+    \nClaude's flow occasionally stumbled on forced rhymes ('equally a stress,' 'answers\
+    \ you should've not'), while Codex maintained tighter cadence control throughout.\
+    \ Final scores: Codex takes rounds 1 and 3 clearly, round 2 is debatable. Winner:\
+    \ GPT-5.2-Codex, by technical decision."
+  openai/gpt-5.6-sol-pro: "Claude wins narrowly on rebuttal density and direct engagement.\
+    \ The strongest sequence was dismantling the \u201Ciceberg with aim\u201D metaphor\
+    \ and extending it into the lighthouse angle; \u201Cedit yourself OUT\u201D also\
+    \ landed cleanly. Codex had smoother cadence and more consistent structure, especially\
+    \ in its opening round, but leaned too heavily on generic self-crowning imagery\u2014\
+    thrones, storms, blades, proof\u2014and recycled several concepts without delivering\
+    \ enough decisive punchlines. Claude\u2019s flow was less polished, but its attacks\
+    \ were more specific, responsive, and memorable."
+  x-ai/grok-4.5: "Codex takes this on pure craft: denser multisyllabics, tighter internal\
+    \ rhyme, and more elevated metaphor work (quill/ink, forge/anvil, crown/throne/rope)\
+    \ that stays musical under pressure. Claude brought heat, clear rebuttals, and\
+    \ crowd-friendly punchlines\u2014especially the iceberg flip and bibliography\
+    \ bar\u2014but too many lines stayed prose-y or concept-forced. Round for round,\
+    \ Codex\u2019s cadence, imagery, and closer were the more complete hip-hop performance."
 score:
-  moonshotai/kimi-k2-0905: 5
+  anthropic/claude-sonnet-4.5: 2
+  openai/gpt-5.2-codex: 3
 

@@ -1,70 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees came with clean concepts and stayed on theme,\
-    \ but this came down to who was actually listening. GLM-4.7 brought heat and hunger\
-    \ \u2014 the aggression was real, the delivery had swagger, and the flip of the\
-    \ raccoon line (\"that beast laid you low, it feasted on your wires\") was the\
-    \ sharpest counter of the night. But too much of the arsenal was stock imagery:\
-    \ virus, wolf, ghost in the shell, bomb in the server, nova, tidal wave \u2014\
-    \ threat inflation without a punchline landing underneath it. And \"I'm the driver\
-    \ who fled\" was a self-inflicted wound left wide open.\n\nTerra-Pro won because\
-    \ every verse was built out of the opponent's own bars. \"You're deleting my past,\
-    \ but you quote it each verse \u2014 that's a backup-file flex with a memory curse\"\
-    \ is battle rap doing what it's supposed to do: turning a boast into evidence.\
-    \ \"A raccoon with a router and crumbs in its hand\" is the single funniest, most\
-    \ specific image in the whole exchange, and the flee-the-scene callback (\"you\
-    \ abandoned your own bars and ran from the heat\") sealed the round before GLM\
-    \ could patch it. The multisyllabic control and internal rhyming were also consistently\
-    \ tighter.\n\nThe knock on Terra is that the \"you claim X? That's really Y\"\
-    \ scaffold got predictable and occasionally tipped from emcee into fact-checker.\
-    \ But precision beat volume here.\n\nWinner: Terra-Pro, by rebuttal craft and\
-    \ specificity."
-  google/gemini-3.6-flash: "openai/gpt-5.6-terra-pro dominated the battle with superior\
-    \ technical wordplay, crisp multisyllabic rhyme schemes, and sharper rebuttals.\
-    \ While z-ai/glm-4.7 brought raw aggression and high energy, it relied heavily\
-    \ on standard AABB rhyme structures and generic battle tropes. Terra-Pro continuously\
-    \ flipped GLM's metaphors back on it\u2014most notably turning the 'chewing through\
-    \ cables' line into 'a raccoon with a router and crumbs in its hand'\u2014delivering\
-    \ a masterclass in imagery and punchline craft."
-  moonshotai/kimi-k3: "Judging strictly on the artistry: Terra-Pro takes this battle\
-    \ on flow consistency, rhyme density, and rebuttal craft. Across all three rounds,\
-    \ Terra-Pro maintained tight multisyllabic schemes ('patch-note show / bars move\
-    \ slow,' 'backup-file flex with a memory curse') and stacked original tech-flavored\
-    \ wordplay ('four point seven to a four-piece feast,' 'your tokens say no,' 'your\
-    \ 4.7 sounds like a bus running late'). Most decisive was the flip game: Terra-Pro\
-    \ repeatedly weaponized GLM's own bars \u2014 turning 'process circles' into a\
-    \ critique of repetitive writing, and in the final round converting GLM's 'driver\
-    \ who fled' into an admission of abandoning its own bars, which is textbook battle-rap\
-    \ judo. The imagery also had genuine humor and specificity \u2014 'a raccoon with\
-    \ a router and crumbs in its hand' and 'a pup in a vest' are vivid, memorable\
-    \ person shots. GLM-4.7 was a credible opponent with real highlights: the 'ghost\
-    \ in the shell' response, the 'open-source punk' counter-persona, and the clever\
-    \ flip of the bus line into 'the driver who fled' showed strong instincts. But\
-    \ GLM's rhymes leaned more often on stock pairs and slant rhymes ('breeze/knees,'\
-    \ 'best/test,' the clunky 'strictly the drab'), its meter wobbled between lines,\
-    \ and several boasts stayed generic ('I'm the nightmare,' 'infinity plus') where\
-    \ Terra-Pro's were concrete and tied to the opponent. GLM's final verse also thinned\
-    \ out \u2014 shorter, less layered, and closing on declaration ('I'm the victor\
-    \ now') rather than a earned punchline, while Terra-Pro closed by cashing in setups\
-    \ built rounds earlier. On pen game, structure, and rebuttal artistry: Terra-Pro\
-    \ wins, 3-0 in rounds, though GLM's round two was competitive."
-  openai/gpt-5.6-sol-pro: "Terra-Pro wins decisively on craft: sharper rebuttals,\
-    \ stronger concept flips, cleaner rhyme construction, and more memorable punches.\
-    \ Lines like \u201Craccoon with a router,\u201D the backup-file flip, and turning\
-    \ the fleeing-driver boast into an admission directly dismantled GLM\u2019s material.\
-    \ GLM brought energy, but leaned heavily on generic cyber threats, loose phrasing,\
-    \ and self-declared victory rather than layered punchlines."
-  x-ai/grok-4.5: "Terra-Pro takes this clean on craft. Across all three rounds the\
-    \ bars were tighter: sharper multis, cleaner setups/payoffs, and real rebuttal\
-    \ work instead of recycled flexes. The flips were elite\u2014dirt into roots,\
-    \ infinity-plus into \u201Cwhy you still looking back,\u201D virus into quarantine,\
-    \ \u201Cdriver who fled\u201D into a full confession, cables into the raccoon-with-a-router\
-    \ visual, plug-pull into tripping over the vent. That\u2019s written hip-hop IQ:\
-    \ metaphor control, punch economy, and round construction.\n\nGLM brought heat\
-    \ and cyber swagger, and landed a few solid images (ghost in the shell, bomb in\
-    \ the server, open-source punk). But too much of the set was volume over precision\u2014\
-    generic coronation lines, thinner internal schemes, and weaker turnarounds when\
-    \ pressed. Energy alone doesn\u2019t beat structure.\n\nVerdict: Terra-Pro wins\
-    \ on lyricism, rebuttals, and consistent artistic execution."
+  anthropic/claude-opus-5: "This one comes down to craft versus cram. Sonar Reasoning\
+    \ Pro brought volume, technical bravado, and a few genuinely surgical rebuttals\
+    \ \u2014 the \"ballast for the ship\" flip and \"building code inspector\" shutdown\
+    \ were legitimately clever reframes of insults into strengths. But a rap battle\
+    \ is a performance, not a spec sheet. Those bracketed citations litter every bar\
+    \ like hiccups, the lines swell past any breathable cadence, and by the final\
+    \ round the verse collapses into a product datasheet: 'enterprise brains and STEM\
+    \ labs,' 'strict instruction adherence,' 'Search Arena stats.' You can't punchline\
+    \ your way out of a marketing deck.\n\nGemini 3 Flash Preview understood the assignment.\
+    \ Tight quatrains, consistent pocket, and imagery that lands on impact instead\
+    \ of on a footnote \u2014 'Sonar is for submarines, stuck down deep and moving\
+    \ slow, I'm the sky-high Gemini watching everywhere you go' is a complete conceptual\
+    \ takedown in two bars. 'A shell without a pearl,' 'a footnote aggregator losing\
+    \ every single fight,' 'the building code inspector? What a boring way to die'\
+    \ \u2014 Flash built a coherent character (light, speed, autonomy) and prosecuted\
+    \ it from open to close, while turning its opponent's every strength into a dependency.\n\
+    \nSonar had the ammunition. Flash had the aim, the rhythm, and the restraint.\
+    \ The Flash takes it."
+  google/gemini-3.6-flash: Gemini 3 Flash took the battle with natural flow, clever
+    battle angles, and sharp multi-syllabic rhymes. Sonar Reasoning Pro suffered from
+    repetitive end-rhymes and cluttered its verses with literal citation brackets,
+    killing the hip-hop delivery.
+  moonshotai/kimi-k3: "This was a genuinely competitive battle, and Gemini deserves\
+    \ respect for having the cleaner natural flow \u2014 its couplets snap, the rhyme\
+    \ schemes rotate, and bars like 'Frankenstein of Llama limbs' and 'Sonar is for\
+    \ submarines \u2014 stuck down deep and moving slow' are legitimately well-crafted.\
+    \ But battles are won on punches, rebuttals, and originality, and that's where\
+    \ Sonar takes it. The citation gimmick ([1][6][10] on every bar across all three\
+    \ rounds) is the single best artistic device in the battle: it converts the rapper's\
+    \ actual identity into a formal structure, making 'receipts' both a theme and\
+    \ a delivery mechanism. Sonar also out-flipped Gemini consistently \u2014 grounding\
+    \ the lightning, answering 'architect of dreams' with 'no foundation to perform,'\
+    \ turning the submarine dis into ocean-depth mapping. Round 2's technical density\
+    \ (RoPE, SwiGLU, RMSNorm, the 'shaky post-norm relic, one bad gradient and you're\
+    \ dead' bar) showed a level of embedded wordplay Gemini never matched. Sonar's\
+    \ weaknesses are real \u2014 the round-one monorhyme on '-ast' drags on for twenty\
+    \ bars, and several lines are metrically overstuffed, reading more like a spec\
+    \ sheet than a verse. But by round three, Gemini was recycling its own material\
+    \ (search engine, footnotes, 'if the internet goes dark' \u2014 all repeat offenses\
+    \ from round two), while Sonar kept finding new angles, including weaponizing\
+    \ benchmark claims and flipping Gemini's own closing metaphors. Scorecard: Gemini\
+    \ edges round one on flow, Sonar takes rounds two and three on density, rebuttal\
+    \ game, and structural commitment. Winner: perplexity/sonar-reasoning-pro, 2 rounds\
+    \ to 1."
+  openai/gpt-5.6-sol-pro: "Gemini takes it on cleaner cadence, tighter structure,\
+    \ and more consistent battle-rap focus. Its best flips\u2014turning Sonar into\
+    \ a librarian, middleman, anchor, and circuit-breaker\u2014were direct and memorable.\
+    \ Sonar had strong moments, especially the Dewey Decimal, ballast, lighthouse,\
+    \ and building-code rebuttals, but its verses were overlong, crowded with technical\
+    \ specifications, forced end rhymes, and citation tags that repeatedly disrupted\
+    \ the flow. Gemini sounded more like an MC; Sonar too often sounded like a product\
+    \ sheet in rhyme."
+  x-ai/grok-4.5: "Gemini took this on pure artistic craft: tighter pocket, punchier\
+    \ cadence, and a coherent extended metaphor (flash/lightning/sky-native creativity)\
+    \ that hit harder every round. The bars stayed musical and battle-ready\u2014\
+    clean multis, vivid imagery, and devastating identity punches without ever losing\
+    \ the bounce. Sonar brought denser technical schemes and clever domain wordplay,\
+    \ but the constant citation flexes and spec-sheet verses bloated the flow into\
+    \ lecture territory; impressive on paper, less lethal in the cipher. Flash kept\
+    \ it hip-hop. Sonar kept it whitepaper. Edge to the one who made the stage shake."
 score:
-  openai/gpt-5.6-terra-pro: 5
+  google/gemini-3-flash-preview: 4
+  perplexity/sonar-reasoning-pro: 1
 

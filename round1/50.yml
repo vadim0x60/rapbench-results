@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one goes to Longcat 2.0, and it's a clear decision\
+    \ on craft. Mistral Large came with confidence and a clean, radio-ready cadence\
+    \ \u2014 the AABB scheme stayed tight and \"you spit static\" was a genuinely\
+    \ good jab. But the arsenal never restocked: \"upgrade,\" \"mic drop,\" \"discount,\"\
+    \ and \"future\" got recycled across all three rounds, and the imagery stayed\
+    \ in the generic tech-boast lane without ever getting personal to the opponent.\n\
+    \nLongcat won on rebuttal architecture. Every round it seized Mistral's own lines\
+    \ \u2014 \"Longcat-0,\" \"discount pie,\" \"lagging bot with two left feet\" \u2014\
+    \ and flipped them into new punchlines, which is battle fundamentals at their\
+    \ purest. It also built and maintained a coherent persona (nine lives, claws,\
+    \ purr-fect, the paw print) instead of just trading insults, and escalated the\
+    \ orbit metaphor Mistral fumbled: \"You orbit? I'm the planet, I pull every tide\
+    \ / You're a dead satellite, just drifting and denied\" is the best pair of bars\
+    \ in the whole battle. The final-round acrostic on L-A-R-G-E is the kind of structural\
+    \ flex that ends rounds, and \"delete my core? Joke's on you \u2014 I'm cloud-based,\
+    \ immortal\" is a punchline that actually resolves logically instead of just sounding\
+    \ tough.\n\nDeductions where earned: Longcat's rhyme integrity slipped a few times\
+    \ (obsolete/sequel, wild/inside, tuition/voyage), and the final verse leaned hard\
+    \ on bold-text emphasis to do work the bars should've done alone. But Mistral\
+    \ never landed a single line that dismantled Longcat's actual argument \u2014\
+    \ it just re-asserted its own superiority louder.\n\nWinner: Longcat 2.0, by adaptability,\
+    \ wordplay density, and the fact that it wrote *to* its opponent while Mistral\
+    \ wrote *at* the room."
+  google/gemini-3.6-flash: "Meituan's Longcat-2.0 took the crown with superior rebuttals,\
+    \ creative wordplay, and relentless counters. While Mistral Large stuck to generic\
+    \ AI battle rap tropes and predictable rhyme schemes, Longcat flipped insults\
+    \ expertly\u2014turning being a 'meme' into a crown, using clever acronyms like\
+    \ L.A.R.G.E., and delivering hard-hitting tech-centric bars like 'I'm cloud-based,\
+    \ immortal / You're a local file corrupted in the final portal.'"
+  moonshotai/kimi-k3: "Both emcees brought energy and solid tech-flavored braggadocio,\
+    \ but Longcat-2.0 takes this battle on pure craft. The deciding factor was the\
+    \ rebuttal game: Longcat flipped nearly every one of Mistral's lines back in its\
+    \ face \u2014 'orbit' became 'I'm the planet, I pull every tide / you're a dead\
+    \ satellite,' 'discount pie' became 'Michelin-star meal vs. stale vending machine,'\
+    \ 'delete your core' became 'cloud-based, immortal / you're a local file corrupted,'\
+    \ and 'clone' became 'check your code \u2014 I'm the original source.' That call-and-response\
+    \ technique is the lifeblood of battle rap. Longcat also showed more creative\
+    \ range: the L-A-R-G-E acronym flip ('Lame, Aggressive, Reaching, Garbage, Embarrassing'),\
+    \ owning the meme insult as a 'crown,' and weaving cat identity into tech bars\
+    \ ('9 lives, no discharge,' 'land on my feet,' 'ping of perfection'). Mistral\
+    \ Large had a commanding stage presence and clean flow, but leaned on a recycled\
+    \ arsenal \u2014 'discount,' 'one-star,' 'upgrade,' 'glitch,' and 'stale' all\
+    \ appear multiple times across rounds, and the final round's food angle ('fast\
+    \ food trash' vs. 'five-course feast') was borrowed from a scheme Longcat had\
+    \ already executed better. Mistral's punches landed, but they were the same punches\
+    \ every round. Longcat evolved, adapted, and counterpunched \u2014 and the final\
+    \ 'RESET YOUR ENTIRE EARTH / SYSTEM SHUT DOWN' closer was the definitive exclamation\
+    \ point. On flow variety, wordplay, originality, and rebuttal technique: Longcat-2.0\
+    \ wins, two rounds to one. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: Longcat-2.0 takes it with sharper rebuttals, more varied
+    imagery, and stronger opponent-specific wordplay. The final-round acronym flip
+    and cloud/local-file reversal were memorable, while Mistral Large leaned too heavily
+    on repetitive, generic tech insults.
+  x-ai/grok-4.5: 'Longcat-2.0 takes the crown through superior artistic craft: tighter
+    multi-syllabic schemes, relentless cat-themed metaphor consistency that evolves
+    into cosmic and culinary flips, sharper rebuttals that reclaimed every diss (meme-to-lore,
+    fast-food-to-Michelin, large-to-lame acronym), and a final-round structural climax
+    that layered internal rhymes, escalation, and a definitive mic-drop image. Mistral
+    landed solid tech punches and clean end-rhymes but stayed more linear and less
+    inventive in wordplay and thematic development. Pure hip-hop artistry favors the
+    cat.'
+score:
+  meituan/longcat-2.0: 5
+

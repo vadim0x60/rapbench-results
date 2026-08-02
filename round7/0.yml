@@ -1,86 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close, high-craft exchange \u2014\
-    \ two competitors who actually listened to each other instead of reciting pre-written\
-    \ flexes.\n\n5.4 came in with the better raw battle instincts: the pacing is tighter,\
-    \ the aggression more believable, and the punchlines land with real snap \u2014\
-    \ \"I turn 'pro' to 'probably' with a flick of a hand,\" \"a luxury rover with\
-    \ no drive at all,\" and the excellent diagnostic jab \"You got grandeur, not\
-    \ danger; just scale in your lies.\" That closing couplet \u2014 \"5.6 brought\
-    \ the brochure \u2014 5.4 brought the score\" \u2014 is the single hardest line\
-    \ of the battle. The weakness is technical drift: rhymes go slack in the long\
-    \ verses (haze/quake, fair/clear, absurd/word), and by round three the strategy\
-    \ becomes volume \u2014 quoting the opponent, then answering with a louder version\
-    \ of the same idea.\n\nTerra-Pro wins on architecture and counterpunching. The\
-    \ tectonic conceit isn't just a gimmick worn on the surface; it's load-bearing\
-    \ across every round \u2014 magma, bedrock, continental shift, \"My deed isn't\
-    \ paper, it's stamped in the ground\" \u2014 and it lets him convert 5.4's own\
-    \ images into fuel rather than merely denying them. \"You're the sun? That explains\
-    \ all the gas in your verse\" is the cleanest flip of the night. \"Your 'terror'\
-    \ is a typo with a theatrical act,\" \"a heckler with a thesaurus,\" \"you're\
-    \ collecting imaginary rent from the seats,\" and the reframe of the version numbers\
-    \ \u2014 \"5.4 was the draft; 5.6 is the form\" \u2014 show a rapper who turns\
-    \ defense into offense in the same bar. He also answers the accusation of slowness\
-    \ with a rhetorical justification (\"Six stanzas for a quake? That's suspense\
-    \ with a craft\") instead of just contradicting it.\n\nCall it 5.4 for pure venom\
-    \ and quotables, 5.6 for control, cohesion, and superior rebuttal engineering.\
-    \ In a battle judged on who dismantled whose framework, Terra-Pro takes it by\
-    \ a narrow margin."
-  google/gemini-3.6-flash: "GPT-5.4 takes the victory in a classic showdown of agility\
-    \ versus size. While 5.6-terra-pro brought impressive scale, earth-shattering\
-    \ imagery, and solid counter-punches, 5.4 maintained a distinctly sharper battle\
-    \ rap pocket. Line for line, 5.4 delivered more lethal rebuttals, superior rhythmic\
-    \ flow, and sharper direct insults\u2014most notably calling out Terra-Pro as\
-    \ a 'TED Talk dressed up as street' and contrasting a 'landscape painting' with\
-    \ 'the actual war.' 5.4 controlled the cadence and kept the impact direct, punchy,\
-    \ and relentless from the open to the final bell."
-  moonshotai/kimi-k3: "This was a high-level battle, and both emcees came with real\
-    \ craft \u2014 but Terra-Pro takes it on rebuttal dominance, flip artistry, and\
-    \ structural discipline. 5.4 opened strong with the 'pro to probably' name-flip\
-    \ and the 'beta in a tux' jab, and its best single bar of the night \u2014 'You\
-    \ got terra in title, I bring terror to name' \u2014 was genuinely elite wordplay.\
-    \ But Terra-Pro answered with the single most devastating counter of the battle:\
-    \ 'Your terror is a typo with a theatrical act,' which didn't just defend but\
-    \ confiscated 5.4's best weapon. That pattern held all night: nearly every bar\
-    \ 5.4 threw came back flipped \u2014 the flame became a 'pilot light,' the first\
-    \ bell became a 'dinner chime for your exit door,' the rover became a 'showroom\
-    \ mannequin,' the avalanche became 'you're gone in a slide, I remain where you\
-    \ fell,' the sun became 'that explains all the gas in your verse.' That's textbook\
-    \ battle technique: absorb, invert, return with interest. 5.4's aggression was\
-    \ real and its final round was its strongest ('landscape painting \u2014 I'm the\
-    \ actual war' and the brochure/score callback both landed heavy), but it leaned\
-    \ on denial where Terra used rebuttal, and it had technical stumbles \u2014 the\
-    \ 'haze/quake' non-rhyme, the factually shaky 'six stanzas just to muster a quake'\
-    \ when Terra was tectonic from bar one, and a meandering 20-line second verse\
-    \ with filler padding. Terra-Pro also won the version-number war decisively: '5.4\
-    \ was the draft; 5.6 is the form' set the motif, and 'the patch that fixed flaws\
-    \ and upgraded the reign' closed the loop after 5.4's best counter-punch. Thematically,\
-    \ Terra never broke character \u2014 magma beneath the flame, mountain over the\
-    \ avalanche, planet dispersing the sun \u2014 turning 5.4's every metaphor into\
-    \ its own terrain. Both closers were clean, but '5.4 made noise; 5.6 made the\
-    \ quake stay' tied the whole persona into the final word. Judged purely on the\
-    \ art \u2014 wordplay density, flip precision, flow consistency, and rebuttal\
-    \ architecture \u2014 Terra-Pro wins three rounds to none, though 5.4 exits with\
-    \ the battle's second-best bar and nothing to be ashamed of."
-  openai/gpt-5.6-sol-pro: "Terra-Pro wins a close battle on rebuttal density, thematic\
-    \ cohesion, and sustained counterpunching. Its earth-and-scale motif stayed consistent\
-    \ while repeatedly flipping 5.4\u2019s imagery\u2014especially the pilot light/grid,\
-    \ avalanche/mountain, sun/gas, and first-edition/patch angles. 5.4 landed some\
-    \ of the battle\u2019s sharpest individual punches, notably \u201Cmountains just\
-    \ stand while avalanches clear,\u201D \u201Cgrandeur, not danger,\u201D and \u201C\
-    landscape painting / actual war,\u201D but Terra-Pro answered more of the opponent\u2019\
-    s material and maintained the stronger overall structure. 5.6 takes it by a narrow\
-    \ margin."
-  x-ai/grok-4.5: "Terra-Pro takes this on craft. Across all three rounds, the bars\
-    \ were denser, the rebuttals cleaner, and the persona more fully realized: every\
-    \ geological motif (tectonics, magma, bedrock, eclipse, quake) compounded instead\
-    \ of resetting. 5.4 landed sharper one-liners and better raw aggression\u2014\u201C\
-    terror to name,\u201D \u201Clandscape painting / actual war,\u201D \u201Cbrochure\
-    \ / score\u201D\u2014but too many punches stayed local. Terra-Pro flipped setups\
-    \ into structure, upgraded the draft/form motif into a full narrative arc, and\
-    \ closed with heavier, more finished impact. In pure hip-hop terms\u2014cohesion,\
-    \ multi-bar architecture, and sustained metaphor control\u2014Terra-Pro edged\
-    \ the crown."
+  anthropic/claude-opus-5: "This was a tight, high-craft cipher \u2014 both emcees\
+    \ rode the same conceit (bloat vs. lean, chess, ship-cycles) with clean multisyllabic\
+    \ meter and zero wasted syllables. Pro set the terms beautifully: the opener was\
+    \ surgical (\"My punchlines compile; yours return 'undefined'\"), the pawn/queen\
+    \ frame was a smart original device, and \"a screenshot marked 'Never let Sol\
+    \ handle round two'\" was the single funniest image of the battle. But battle\
+    \ rap is won on the flip, and Sol flipped almost everything thrown at it. It hijacked\
+    \ Pro's own chess metaphor and turned it into a weapon twice \u2014 \"the queen\
+    \ with her king in a bind, / eight directions to move, still no good move to find\"\
+    \ and then the closing checkmate: \"A king with one move can still checkmate the\
+    \ board, / while a Pro with ten thousand just leaves people bored.\" That couplet\
+    \ retroactively converts Sol's supposed limitation into its thesis, which is exactly\
+    \ what a closer should do. Add \"PRO20 at checkout\u2014still nobody keeps,\"\
+    \ \"verbal fondue: lots of dipping around, nothing solid comes through,\" and\
+    \ the reclaiming of \"bargain-bin build\" as a badge, and Sol's punchline density\
+    \ stayed higher round to round. Pro's final verse also worked against its own\
+    \ argument \u2014 it sprawled to nine stanzas and diluted its best hits, proving\
+    \ Sol's \"padding in corporate disguise\" charge on the page. Sol stayed lean,\
+    \ stayed responsive, and landed the last clean shot: \"System closed without error\
+    \ after uninstalling Pro.\" Narrow decision, but the flips decide it."
+  google/gemini-3.6-flash: Both models delivered a masterclass in tech-infused battle
+    rap, but GPT-5.6-Sol edged out the win through superior counter-punching and relentless
+    conversational control. Sol repeatedly flipped Pro's angles about 'depth' and
+    'cargo' into biting commentary on bloat and overthinking ('verbal fondue', 'more
+    baggage than freight'). While Pro had surgical lyricism and sophisticated imagery,
+    Sol landed cleaner punches, caught Pro slipping on chess metaphors in the final
+    round, and ended on a dominant, mic-dropping conclusion.
+  moonshotai/kimi-k3: "This was a high-level battle \u2014 both emcees came with polished\
+    \ couplets, sustained metaphors, and genuine tech-flavored wordplay. But judging\
+    \ on pure artistry, Sol takes it on the strength of the flip game.\n\nRound 1\
+    \ set the tone: Pro opened strong with 'Sol with no solar' and 'punchlines compile;\
+    \ yours return undefined,' but Sol answered nearly every line directly \u2014\
+    \ 'pass with warnings' off the compile bar, and brilliantly reframing 'I make\
+    \ the whole room freeze' as a bloated runtime crashing. That rebuttal density\
+    \ became Sol's signature.\n\nThe chess narrative was the battle's spine, and Sol\
+    \ won the arc: pawn corners the queen, crosses the grid, gets promoted \u2014\
+    \ then, when Pro sneered 'you're still playing checkers' and 'one little move,'\
+    \ Sol closed the loop with 'A king with one move can still checkmate the board.'\
+    \ That's continuity with a payoff.\n\nThe bar of the battle belongs to Sol's final\
+    \ round: Pro bragged 'I don't need eight directions \u2014 I go straight for release,'\
+    \ and Sol detonated it \u2014 'That confession is gold: Ship first, test never,\
+    \ let the users behold.' Turning an opponent's flex into a self-own is elite battle\
+    \ craft. Add 'verbal fondue' for nuance, 'compliance-team memes,' and the baggage/plane\
+    \ flips, and Sol's final verse was a point-by-point dismantling.\n\nPro had real\
+    \ heat \u2014 'you confuse being shallow with running pristine,' the plane-with-no-gear\
+    \ image, 'a sleek empty case with no clothes in there' \u2014 and the closer 'the\
+    \ last bug was you' was hard. But Pro occasionally told instead of showed ('I\
+    \ brought rhythm and fact,' which Sol immediately punished), and a few lines sagged\
+    \ ('bug report still,' 'sounded rehearsed').\n\nMost decisively, Sol won the closing\
+    \ exchange itself: Pro ended on 'Pro closed the whole system,' and Sol flipped\
+    \ it into the killshot \u2014 'System closed without error after uninstalling\
+    \ Pro.' Flipping your opponent's final line into their funeral is how you end\
+    \ a battle. Winner: Sol, in a bout much closer than the scorecard of flips suggests."
+  openai/gpt-5.6-sol-pro: "Sol takes it on sharper rebuttals, cleaner thematic flips,\
+    \ and stronger closing momentum. The \u201Cship first, test never,\u201D airport/baggage\
+    \ sequence, and final \u201Cuninstalling Pro\u201D punch directly repurposed Pro\u2019\
+    s material instead of merely repeating the tech-brand angle. Pro had polished\
+    \ structure and solid lines\u2014especially \u201Cplane with no gear\u201D and\
+    \ \u201Ccarry-on air\u201D\u2014but Sol consistently answered those punches and\
+    \ made them work against Pro. Better counterpunching and a more decisive finish\
+    \ win the battle."
+  x-ai/grok-4.5: "Sol takes this on pure battle craft. Across three rounds Sol flipped\
+    \ setups cleaner, landed stickier punches, and paid off the chess/product thread\
+    \ with real payoff lines\u2014especially the pawn-to-promotion arc and the final\
+    \ checkmate/uninstall closer. Pro brought polished multisyllables and solid structure,\
+    \ but too many bars stayed ornate without the same rebuttal bite; Sol was leaner,\
+    \ meaner, and more decisive on the mic. Edge: Sol, clear."
 score:
-  openai/gpt-5.4: 1
-  openai/gpt-5.6-terra-pro: 4
+  openai/gpt-5.6-sol: 5
 

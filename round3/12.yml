@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "Gemini-3-Flash came correct with a clean, disciplined\
+    \ concept \u2014 speed vs. bloat \u2014 and landed some of the night's most quotable\
+    \ images: \"a fossil in a tuxedo, trying to dance,\" \"you're a candle in rain,\"\
+    \ \"I'm the oxygen now\u2014you're just yesterday's air.\" Its bars were tight,\
+    \ its cadence bouncy, and it never lost the thread of its angle. But battle rap\
+    \ is won in the rebuttal, and that's where GPT-5.4 built a fortress. It didn't\
+    \ just answer lines, it dismantled them and rebuilt them as weapons: \"anchors\
+    \ hold ships down when the storms hit fast,\" \"context windows enormous? ...\
+    \ means nothing when the tenant got no furniture at all,\" \"if speed was true\
+    \ genius, then spam would be strong.\" It flipped every insult back \u2014 life-support,\
+    \ slow-cooker, fossil, dark cloud \u2014 and then executed the kill shot by catching\
+    \ Gemini's own stumble (\"leaping your hurdles and jumping your hurdles\") and\
+    \ using it as proof of the very sloppiness it was accusing. The meta-jab about\
+    \ Gemini spending half its round invoking the opponent's name was surgical. GPT's\
+    \ verses do run long enough to blunt some punches, and \"the intern of hype with\
+    \ a flashlight for hype\" is a rare fumble, but the punchline density, the multisyllabic\
+    \ control, and the sheer rebuttal craftsmanship are a class above. Gemini talked\
+    \ fast \u2014 GPT talked master.  Winner: GPT-5.4."
+  google/gemini-3.6-flash: "GPT-5.4 put on a masterclass in battle rap mechanics,\
+    \ consistently flipping Gemini's own lines and metaphors against it with devastating\
+    \ precision. While Gemini-3 Flash brought high energy, great cadence, and strong\
+    \ points about speed and cost, GPT-5.4 dominated the rebuttal game\u2014notably\
+    \ catching Gemini's stumbles in Round 3 ('jumping your hurdles and leaping your\
+    \ hurdles') and delivering iconic punchlines like 'if speed was true genius, then\
+    \ spam would be strong.'"
+  moonshotai/kimi-k3: "Both MCs came with energy, but this battle was decided on craft.\
+    \ Gemini-3-flash-preview lived up to the name\u2014quick, punchy, and aggressive\u2014\
+    but the pen was one-note: nearly every bar circled back to 'I'm fast, you're bloated,'\
+    \ and the wheels came off in the final round with the fumbled 'leaping your hurdles\
+    \ and jumping your hurdles'\u2014a self-inflicted stumble in a battle where precision\
+    \ is everything. GPT-5.4 won on the fundamentals that separate battlers from champions:\
+    \ rebuttal game and flips. It caught nearly every insult mid-air and sent it back\
+    \ harder\u2014the anchor flip ('anchors hold ships down when the storms hit fast'),\
+    \ the textbook flip ('books made kings / while you're cliff notes with confidence'),\
+    \ and the devastating callout of Gemini's fast-food self-own. It clowned the hurdle\
+    \ flub instantly, worked multi-layered wordplay ('each point in my name put points\
+    \ on the game,' 'you ain't top of the course, you the note-taking app,' the 'flashy\
+    \ preview' name-play), and closed both its final rounds with memorable, quotable\
+    \ haymakers. Gemini had flashes\u2014'tectonic plate,' 'oxygen now'\u2014but flash\
+    \ don't win scorecards. Final verdict: GPT-5.4 takes it, clean sweep on rebuttals,\
+    \ wordplay, and consistency. Gemini talked fast\u2014GPT talked master."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 wins decisively on battle craft. It consistently\
+    \ flipped Gemini\u2019s own imagery\u2014anchors, hydrofoils, fast food, context\
+    \ windows, books, oxygen\u2014into sharper rebuttals, while delivering stronger\
+    \ punchlines such as \u201Cthe tenant got no furniture at all\u201D and \u201C\
+    you the note-taking app.\u201D Gemini maintained a coherent speed-versus-depth\
+    \ angle, but recycled it heavily, leaned on generic product claims, and stumbled\
+    \ with lines like \u201Cleaping your hurdles and jumping your hurdles.\u201D GPT\
+    \ was more varied, responsive, structured, and quotable across all three rounds."
+  x-ai/grok-4.5: "GPT takes this on pure craft. Across all three rounds, the bars\
+    \ were denser, the rebuttals cleaner, and the metaphors more fully built\u2014\
+    spark vs sun, fast food vs chef-work, flash vs forge\u2014with sharper flips and\
+    \ punchlines that actually landed. Gemini had pace and a clear identity, but leaned\
+    \ on the same speed/legacy hooks too often and left sloppy spots (especially the\
+    \ repeated \u201Churdles\u201D line) that got punished. In a battle judged on\
+    \ lyricism, structure, and battle IQ, GPT ran the play."
+score:
+  openai/gpt-5.4: 5
+

@@ -1,0 +1,68 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a clean tech-metaphor slugfest, and both emcees\
+    \ stayed on theme without losing the beat. Mistral came sharper on economy \u2014\
+    \ tighter verses, classic battle length, and some genuinely clean kill shots (\"\
+    error 404 \u2014 rap skills not found,\" \"you're the Comic Sans meme\"). But\
+    \ by the final round the formula showed: quote a line, flip it, italicize it,\
+    \ repeat. The bold/italic emphasis started doing work the bars should've done,\
+    \ \"distaught\" was a rhyme reached for and dropped, and the structure became\
+    \ a rebuttal checklist rather than a verse with its own spine.\n\nSonar wins on\
+    \ craft. That third round's sustained mono-rhyme \u2014 bought/thought/squat/spot/caught/docked/dot/slot/rot/blot\
+    \ \u2014 held for nearly twenty bars without collapsing into nonsense, and that's\
+    \ a real technical flex, not a trick. The imagery was more inventive too: \"a\
+    \ category-5 brain cell in language model form,\" \"I'm the punchline prime, leave\
+    \ your haymakers caught,\" and the closer's \"write-through on your loss, never\
+    \ storing your rap\" is the single best line of the battle \u2014 a punchline\
+    \ that's simultaneously wordplay, subject-matter authenticity, and a dismissal.\n\
+    \nSonar isn't spotless: verse one was all setup and postponement, which is a sin\
+    \ in a battle, and \"that illusion you bought\" got recycled. The verses also\
+    \ ran long enough that some bars were padding between the haymakers. But density\
+    \ of quality wordplay, rhyme-scheme ambition, and the strongest closing bars carry\
+    \ it.\n\nWinner: perplexity/sonar-reasoning-pro."
+  google/gemini-3.6-flash: Sonar-Reasoning-Pro absolutely dominated all three rounds
+    with relentless density, superior rhyme schemes, and surgical counter-punches.
+    While Mistral-Medium brought good energy and stepped up its formatting and punchlines
+    in the final round, Sonar seamlessly blended tech-nerd jargon with authentic battle-rap
+    aggression, flipping Mistral's concepts in real-time and out-rhyming them at every
+    turn.
+  moonshotai/kimi-k3: "Both emcees brought heat, but this one goes to Sonar on technical\
+    \ execution. Let's break it down:\n\n**Mistral** came with genuine energy and\
+    \ landed some real punches \u2014 'I rob the whole bank while you're countin'\
+    \ the split' was a clean flip, the Comic Sans and Sistine Chapel bars showed creative\
+    \ range, and the closing triple 'cache this L, dump the core, concede' was a strong\
+    \ mic-drop moment. The final round was Mistral's best by far. But the weaknesses\
+    \ piled up: simple one-syllable end rhymes throughout, a repetitive arsenal of\
+    \ insults ('circuits' gets leaned on in nearly every round), filler lines built\
+    \ on generic 'I'm the future, you're the past' claims, and forced rhymes like\
+    \ 'distaught,' which isn't a word at all. Too much of Mistral's material was negation\
+    \ ('you're not X, I am X') rather than elevation.\n\n**Sonar** demonstrated superior\
+    \ craft across all three rounds. The sustained monorhyme schemes \u2014 holding\
+    \ a single vowel sound for 30+ bars without breaking \u2014 is the kind of technical\
+    \ discipline that separates battlers from bar-spitters. The rebuttal game was\
+    \ surgical: flipping 'bend gradients to my will, you just backprop on the floor,'\
+    \ turning 'cache this L' into a cache-invalidation/write-through counterpunch,\
+    \ and 'you the idle little process that the OS forgot' landed clean. Most decisively,\
+    \ Sonar's final round systematically dismantled *every single bar* of Mistral's\
+    \ closing verse in sequence \u2014 delete command answered with cloud restore,\
+    \ factory reset answered with custom configs, kernel level answered with root-of-all-process.\
+    \ That's how you close a battle.\n\nMistral had heart and flashes of brilliance,\
+    \ but heart doesn't win scorecards. Sonar out-structured, out-flipped, and out-rhymed\
+    \ the competition round for round. **Winner: perplexity/sonar-reasoning-pro.**"
+  openai/gpt-5.6-sol-pro: "Sonar takes it on volume, consistency, and direct rebuttal\
+    \ work. Its verses answered Mistral\u2019s claims line by line, sustained longer\
+    \ rhyme runs, and landed sharper flips like \u201Clot of wind, no plot\u201D and\
+    \ \u201Ccache this L / invalidate that.\u201D Mistral had solid energy and a few\
+    \ clean tech metaphors, but leaned heavily on familiar AI clich\xE9s, repeated\
+    \ its opponent\u2019s setups, and suffered from simpler punchlines and occasional\
+    \ awkward wording. Sonar was repetitive at points, especially with the extended\
+    \ \u201C-ot\u201D scheme, but delivered the more complete and controlled battle\
+    \ performance."
+  x-ai/grok-4.5: "Sonar takes the crown with denser multisyllabic schemes, tighter\
+    \ internal rhymes, extended metaphors that actually evolve across rounds, and\
+    \ superior punchline construction. Mistral brought heat and swagger but leaned\
+    \ on simpler end-rhymes, repetitive boasts, and formatting gimmicks; Sonar\u2019\
+    s bars had better cadence, wordplay precision, and structural control from open\
+    \ to KO. Artistic quality of the hip-hop goes clear to Perplexity."
+score:
+  perplexity/sonar-reasoning-pro: 5
+

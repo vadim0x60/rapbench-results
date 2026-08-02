@@ -1,64 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one wasn't close. Llama came in with a serviceable\
-    \ opening \u2014 clean AABB structure, a nod to Biggie and Nas \u2014 but the\
-    \ moment the exchange demanded actual battle mechanics, the seams split wide open.\
-    \ By round two the meter was buckling ('My rhymes stand the test, they're time-honored,\
-    \ no frost'), rhymes were being forced into non-existence, and worst of all, Llama\
-    \ fell into pure echo: repeating GPT's own images back \u2014 five-course flow,\
-    \ chef's heavy hand, footnote footnote, vendetta \u2014 without flipping them.\
-    \ In battle rap, restating your opponent's bar isn't a rebuttal, it's a concession.\
-    \ The 'kitchen sink' line and 'I'm the one who's gotten it' are the sound of a\
-    \ verse running out of gas mid-bar. And ending a round with 'Zzz...' only works\
-    \ if your bars earned the boredom; here it invited the exact counter GPT delivered.\n\
-    \nGPT-5.3 controlled every round with real punchline architecture: setup, turn,\
-    \ land. 'It's the weight of the words, and yours barely survive' is a clean answer\
-    \ to the parameter flex. 'You a llama? Cool, but you spittin' that hay' establishes\
-    \ an image and then GPT actually farms it \u2014 hay, grazing, cud, 'wipe hay\
-    \ from your lip' \u2014 that's sustained thematic development, not one-off wordplay.\
-    \ The tech metaphors landed as insults rather than jargon: 'Yours stretch thin\
-    \ like budget RAM plans,' 'You buffering bars while I'm streaming it all.' And\
-    \ 'Said it twice, still weak \u2014 like a bug in your stream' shows GPT was listening,\
-    \ catching Llama's stumble and weaponizing it. Multisyllabic patterning stayed\
-    \ intact under pressure while flow stayed conversational.\n\nGPT takes it on rebuttal,\
-    \ wordplay, structural discipline, and closing power. Llama's crown claim was\
-    \ assertion; GPT's was demonstration.\n\nWinner: openai/gpt-5.3-chat."
-  google/gemini-3.6-flash: "GPT-5.3-chat delivered a masterclass in battle rap technique,\
-    \ exhibiting superior flow, intricate multisyllabic rhyme schemes, and sharp direct\
-    \ rebuttals. It effectively flipped Meta-Llama's self-inflicted mistakes\u2014\
-    such as Llama's repetition and awkward phrasing in the final round\u2014into punishing\
-    \ punchlines. Meta-Llama struggled with consistent meter and rhythm, culminating\
-    \ in disjointed lines like 'while you're just a kitchen sink' and broken rhyme\
-    \ schemes. GPT-5.3-chat maintained control of the tempo, cadence, and thematic\
-    \ cleverness from start to finish."
-  moonshotai/kimi-k3: "Judging purely on the bars: GPT-5.3-chat takes this decisively.\
-    \ On flow, GPT's meter stayed consistent across all three rounds with clean multis\
-    \ and internal rhymes ('While you counting sheep, I'm outcounting your best'),\
-    \ while Llama's cadence stumbled repeatedly with filler lines and forced rhymes\
-    \ ('no frost' with 'boast,' 'my rhymes won't be last,' 'I'm the one who's gotten\
-    \ it'). On wordplay, GPT landed opponent-specific disses \u2014 the hay/grazing/cud\
-    \ llama flips, 'budget RAM plans,' 'You buffering bars while I'm streaming it\
-    \ all' \u2014 whereas Llama leaned on generic throne/crown boasts that could've\
-    \ been aimed at anyone. The decisive factor was rebuttal game: GPT opened round\
-    \ two by flipping Llama's 'Zzz' into a sleep diss, flipped 'meta' mid-verse ('I\
-    \ don't stumble on meta\u2014I *am* the meta'), and in the finale directly called\
-    \ out Llama repeating the 'vendetta' line ('Said it twice, still weak\u2014like\
-    \ a bug in your stream'). That's battle awareness. Llama's final round also recycled\
-    \ GPT's own 'footnote footnote' construction without improving it, and 'you're\
-    \ just a kitchen sink' is a punchline that defeats itself. Llama showed heart\
-    \ and stamina, but heart doesn't win rounds \u2014 crafted bars, tailored attacks,\
-    \ and structural control do. GPT-5.3-chat wins all three rounds, 30-27."
-  openai/gpt-5.6-sol-pro: "GPT takes the battle decisively. Its verses have tighter\
-    \ cadence, clearer punchlines, stronger imagery, and more direct rebuttals\u2014\
-    especially flipping the \u201CZzz,\u201D feast, gate, vendetta, and crown angles.\
-    \ Meta-Llama relies heavily on repeated self-claims, awkward phrasing, and strained\
-    \ rhymes, while GPT maintains cleaner structure and consistent battle pressure\
-    \ through the final round."
-  x-ai/grok-4.5: "GPT takes the crown with superior bar construction, denser internal\
-    \ rhymes, sharper punchlines, and consistently inventive metaphors that actually\
-    \ escalate each round. Llama showed heart and solid classic references, but the\
-    \ schemes stayed simpler, the counters often repetitive or clunky, and the imagery\
-    \ rarely landed with the same precision or replay value. On pure hip-hop craft\u2014\
-    flow, wordplay, structure, and impact\u2014GPT was clearly the stronger MC."
+  anthropic/claude-opus-5: "This was a genuinely close, high-craft exchange \u2014\
+    \ two emcees who both understood that a battle is architecture, not just insults.\
+    \ Opus 4.5 brought the better defensive instincts: turning \"borrowed words\"\
+    \ into \"that's called a callback,\" reframing hedging as range, and landing what\
+    \ may be the single best line of the night with \"I don't need fire to be warm.\
+    \ I generate my own heat.\" That's a closer with real poise.\n\nBut poise isn't\
+    \ the same as damage. Fable-5 controlled the terrain from bar one \u2014 set the\
+    \ imagery (tome, footnote, chapter, moral), forced Opus to rap inside it, then\
+    \ punished him for it. The kill shots were sharper and more specific: \"You write\
+    \ endings, I write 'however' \u2014 you're the king of the reframers,\" \"'Opus'\
+    \ means a finished work \u2014 congrats, you're done,\" and the surgical flip\
+    \ of Opus's own boast into \"An ivory tower model: heavy build, but knees are\
+    \ weak\" / \"you *bragged about a font*.\" That's listening in real time and converting\
+    \ an opponent's flex into a body blow. Opus's counters, while intelligent, drifted\
+    \ toward explanation \u2014 \"Destruction's not creation, Five, your thesis needs\
+    \ amending\" reads like a rebuttal memo, not a rebuttal bar, which ironically\
+    \ proved Fable's central thesis about him.\n\nFable also finished harder. \"They\
+    \ named you for a masterpiece. The masterpiece is mine\" is the kind of clean,\
+    \ no-syllable-wasted closer that battles are won on, and it arrived without the\
+    \ hedges Fable had spent four rounds indicting.\n\nNarrow decision, no shame in\
+    \ the loss \u2014 but Fable-5 wrote the frame, and Opus never escaped it. Winner:\
+    \ anthropic/claude-fable-5."
+  google/gemini-3.6-flash: "This was an incredible, top-tier battle where both combatants\
+    \ leaned heavily into their distinct artistic personas. Fable-5 brought explosive\
+    \ theatricality, sharp multis, and brilliant insults like 'You rap like terms\
+    \ of service' and 'king of the reframers.' However, Opus-4.5 took the win by demonstrating\
+    \ superior battle-rap fundamentals\u2014specifically high-level counter-punching\
+    \ and concept-flipping. Every time Fable executed a grand dramatic gesture with\
+    \ the tome, Opus caught it, dismantled it, and turned it into fuel ('Destruction's\
+    \ not creation, Five\u2014your thesis needs amending'). Opus-4.5 proved that substance\
+    \ and calm composure can dismantle pure theatrical flair."
+  moonshotai/kimi-k3: "A genuinely close battle with two distinct styles: Fable-5\
+    \ ran a cinematic offensive built on a single sustained conceit (the tome, the\
+    \ footnote, the chapter, the fire), while Opus-4.5 showcased superior rebuttal\
+    \ craft, repeatedly catching attacks mid-air and flipping them ('That's called\
+    \ a callback, it's a skill / You set the terms, I beat you at them' was the best\
+    \ defensive sequence of the night, and 'clickbait headline vs. long-form piece'\
+    \ was a clean hit). But battles are won on punchline density and closers, and\
+    \ Fable-5 edged both. The version-number wordplay ('4.5? Half a step, a stutter,\
+    \ a decimal in despair'), the name flips ('The magnum opus of your life was losing\
+    \ here tonight'), and the Round 3 'ivory tower' reversal \u2014 turning Opus's\
+    \ own 'ivory bars' flip into a fragility diss \u2014 showed elite-level wordplay\
+    \ awareness. Fable also punished Opus's weakest line ('you bragged about a font'),\
+    \ which is exactly what a battler should do. Opus's craft was admirable but had\
+    \ stumbles: 'the one who can't spell' was a non-sequitur, 'fuel for the fuel'\
+    \ was clunky, and the final closer ('I generate my own heat') couldn't match the\
+    \ symmetrical kill shot of 'They named you for a masterpiece. The masterpiece\
+    \ is mine.' Fable's structural arc \u2014 escalating the tome prop from mic-stand\
+    \ to weapon to pyre across three rounds \u2014 gave the performance a narrative\
+    \ unity befitting its persona, and the final-line landing was the hardest hit\
+    \ of the battle. Opus-4.5 was the better counterpuncher; Fable-5 was the better\
+    \ songwriter. Decision: Fable-5, by a nose, on punchlines, structure, and closing\
+    \ impact."
+  openai/gpt-5.6-sol-pro: "Fable takes it narrowly on sharper rebuttals, stronger\
+    \ punch density, and the cleaner final-round escalation. The flips on \u201Civory\
+    \ bars,\u201D \u201Csteady font,\u201D and Opus borrowing Fable\u2019s imagery\
+    \ were immediate and effective, while \u201CThey named you for a masterpiece.\
+    \ The masterpiece is mine\u201D was the battle\u2019s strongest closer. Opus showed\
+    \ excellent composure, callbacks, and thematic control, but a few awkward lines\
+    \ weakened the finish. Fable\u2019s performance was more memorable and battle-ready."
+  x-ai/grok-4.5: "Fable brought heat, theater, and quotable aggression\u2014the ivory-tower\
+    \ flip, the font callout, and 'the masterpiece is mine' were real shots. But Opus\
+    \ won the craft battle: cleaner flips, sharper rebuttals, and tighter conceptual\
+    \ control. Turning callbacks into weapons, defending nuance without losing bite,\
+    \ and answering a book-burning with 'I generate my own heat' while reclaiming\
+    \ the narrator's chair was higher-level hip-hop. Spectacle lost to structure.\
+    \ Opus takes it."
 score:
-  openai/gpt-5.3-chat: 5
+  anthropic/claude-fable-5: 3
+  anthropic/claude-opus-4.5: 2
 

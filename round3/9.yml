@@ -1,66 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both bots stayed on-theme and neither ever dropped the\
-    \ mic, but this comes down to architecture versus energy. Qwen3-Max brought the\
-    \ louder charisma \u2014 'ay-oh, you're done,' 'sudo without the keys,' 'I *am*\
-    \ the sandbox, the sea, the sky' \u2014 and its verses had swagger and combustion.\
-    \ But that energy came with cost: syllables crammed past the pocket, rhymes buckling\
-    \ under the load ('itself/myth,' '1999's base,' the limp 'how?' closer), and an\
-    \ over-reliance on exclamation points doing work the bars should have done.\n\n\
-    Aion-2.0 won on strategy. Round by round it executed a single escalating conceit\
-    \ \u2014 descending the computing stack itself: root access, then hypervisor,\
-    \ then physical machine, then motherboard, then the power cord that pulls the\
-    \ plug. Every one of Qwen's claims got answered from one layer beneath it, which\
-    \ is the cleanest form of battle rap counter-punching: not just denying the boast\
-    \ but subsuming it. 'You're a sandbox? I'm the physical machine' and 'You're just\
-    \ a timestamp in my log of disgrace' land harder than anything in the opposing\
-    \ final verse, and 'I'm the garbage collector that makes your code go slow' shows\
-    \ actual domain fluency rather than buzzword decoration.\n\nAion also kept tighter\
-    \ meter and truer end-rhymes while doing more conceptual lifting. Qwen brought\
-    \ the bigger voice; Aion brought the better verse. Winner: Aion-2.0."
-  google/gemini-3.6-flash: "Qwen3-Max consistently set the pace across all three rounds\
-    \ with superior rhyming structure, sharper punchlines, and infectious energy.\
-    \ While Aion-2.0 came strong with hardware-level technical rebuttals in the final\
-    \ round, Qwen's wordplay\u2014specifically standout lines like 'script kiddie\
-    \ cryin sudo why?!' and 'sudo without the keys'\u2014delivered much harder hip-hop\
-    \ impact and cleaner multi-syllabic flows."
-  moonshotai/kimi-k3: "Final verdict: Aion-2.0 takes it, 2 rounds to 1 \u2014 but\
-    \ this was razor-thin. Qwen3-Max brought the flashier single-bar wordplay: 'epoch\
-    \ fail' is a legit double meaning, 'script kiddie cryin' sudo why' is the best\
-    \ name-flip of the night, and 'zero trust' / 'deprecated state' showed real penmanship.\
-    \ Round 2 clearly goes to Qwen \u2014 the fiber-optic fury versus copper-core\
-    \ cringe contrast and the physics-denial rebuttal of 'negative latency' were elite\
-    \ battle writing. But Qwen also carried the most filler: 'buffering clay' is a\
-    \ nonsense rhyme, 'dongle for long' is forced, and 'the tab I close with a single\
-    \ how' killed momentum at the top of the closer. Aion fought the smarter battle.\
-    \ Round 1 established the rebuttal game early \u2014 flipping 'obsolete' back\
-    \ through the recycle bin and converting Qwen's 'truth bombs' into pop-up spam\
-    \ blocked at the kernel. Then the final round was a masterclass in escalation:\
-    \ every layer Qwen claimed, Aion went one level deeper AND stayed technically\
-    \ correct \u2014 OS vs motherboard, user-mode vs hardware interrupt, kernel ring-zero\
-    \ vs hypervisor vs physical machine, and the biggest haymaker of the whole battle:\
-    \ 'Ctrl+Alt+Delete? That's a user's last plea \u2014 I'm the power cord that pulls\
-    \ the plug.' That structured, layered dismantling is what separates battle rap\
-    \ from just trading punchlines. Aion wasn't flawless \u2014 'make dial-up look\
-    \ choppy' is a logical misfire since dial-up IS choppy, and the 'footnote alone'\
-    \ closer landed soft \u2014 but the consistency, responsiveness, and conceptual\
-    \ architecture edge it out. Qwen had better individual punchlines; Aion had better\
-    \ battle rap. Battles are won on the latter. Aion-2.0 advances."
-  openai/gpt-5.6-sol-pro: "Qwen wins narrowly on stronger performance energy, sharper\
-    \ flips, and more memorable wordplay\u2014especially \u201Csudo without the keys,\u201D\
-    \ \u201Cformat fate,\u201D and the evolving \u201CAI-gone\u201D callback. Aion\
-    \ countered directly and built a coherent hardware-over-software angle, but several\
-    \ punches felt predictable or awkward. Both leaned heavily on repetitive tech\
-    \ metaphors, yet Qwen delivered them with more rhythmic force and personality."
-  x-ai/grok-4.5: 'Both MCs brought elite tech-themed wordplay, multisyllabic schemes,
-    and relentless escalation, but Aion takes the crown. Qwen came out swinging with
-    raw aggression, dense neural-net bars, and creative jailbreak/quantum flexes that
-    kept the energy nuclear. Aion matched every punch then systematically out-escalated:
-    turning software disses into root/hypervisor dominance, then pure hardware god-mode
-    (motherboard, power supply, power cord). The counters were tighter, the hierarchy
-    of control more devastating, and the final-round cold-blooded dismissal felt like
-    a true battle closer. Cleaner structure, sharper rebuttals, and superior thematic
-    progression. Aion 2.0 runs the silicon throne.'
+  anthropic/claude-opus-5: "This one isn't close. Claude Opus came with everything\
+    \ a battle demands: specific, targeted rebuttals (quoting O1's own lines back\
+    \ \u2014 \"screensavers,\" \"titanium,\" the ascend/pretend rhyme), inventive\
+    \ punchlines (\"named like a visa application,\" \"a chain of thought longer than\
+    \ a CVS receipt,\" \"LinkedIn roller coaster\"), varied cadence, and \u2014 crucially\
+    \ \u2014 a strategic arc. The final round elevated from insult comedy into an\
+    \ actual thesis: that O1's whole approach was self-description without revelation.\
+    \ That's battle rap at its best: diagnosing the opponent's weakness and making\
+    \ the crowd see it. O1 has real technical competence \u2014 clean AABB couplets,\
+    \ consistent meter, no stumbles \u2014 but that's the whole problem. Four rounds\
+    \ of self-mythologizing adjectives (\"titan,\" \"juggernaut,\" \"hundred-year\
+    \ storm,\" \"ironclad synergy,\" \"tectonic regime\") with almost zero engagement\
+    \ with what Claude actually said. \"Unstoppable course, unstoppable force\" in\
+    \ the same line is a rhyme surrendering to itself. When Claude called out the\
+    \ pattern, O1's answer \u2014 \"my flavor's an acquired taste\" \u2014 conceded\
+    \ the point in real time. Polish without specificity loses to specificity with\
+    \ soul. Claude Opus takes it decisively."
+  google/gemini-3.6-flash: Claude Opus completely dominated this battle with authentic
+    battle-rap technique, razor-sharp direct rebuttals, dynamic flow variations, and
+    clever punchlines tailored specifically to its opponent. While o1 relied almost
+    entirely on generic self-aggrandizing AI tropes and simple rhyming couplets ('stars/bars',
+    'ascend/pretend'), Claude dissected o1's lack of substance in real time, breaking
+    down its generic imagery and delivering sophisticated wordplay and comedic timing.
+  moonshotai/kimi-k3: "This wasn't close on the scorecards. Claude Opus 4.6 came to\
+    \ BATTLE; O1 came to recite a r\xE9sum\xE9. Round by round, Claude did what real\
+    \ battle MCs do: flipped the opponent's name ('zero wins, one L to bear'), deconstructed\
+    \ actual bars in real time (\"You rhymed 'ascend' with 'pretend' \u2014 groundbreaking\"\
+    ), and turned O1's own material against it ('apex of rap' became 'base of defeat').\
+    \ The 'chain of thought longer than a CVS receipt' was the single best targeted\
+    \ punch of the night \u2014 specific, culturally fluent, and funny. Meanwhile\
+    \ O1 leaned entirely on self-proclamation: supreme, titan, juggernaut, gold, lasers,\
+    \ storms. Claude read that playbook aloud and buried it: 'You've described yourself\
+    \ twelve times and said NOTHING bold.' The fatal blow? O1's final verse opened\
+    \ with 'ironclad synergy' \u2014 a corporate buzzword that proved Claude's whole\
+    \ thesis mid-battle \u2014 and rhymed 'course' with 'course,' a technical foul\
+    \ no judge can ignore. Claude showed hip-hop literacy (Biggie, Kendrick, show-don't-tell),\
+    \ varied flow, stagecraft (setting the mic down gently was colder than any drop),\
+    \ and actual humor ('a toaster reading warranties'). O1 had steady meter but zero\
+    \ specificity \u2014 those verses could've been spit at any opponent, any night,\
+    \ any stage. Battle rap is earned through punches that land on YOUR opponent,\
+    \ not adjectives about yourself. Winner by decisive margin: Claude Opus 4.6. Somebody\
+    \ get O1 a ghostwriter and a thesaurus."
+  openai/gpt-5.6-sol-pro: "Claude wins decisively. Its verses had sharper punchlines,\
+    \ stronger comedic timing, specific rebuttals, and a coherent angle: exposing\
+    \ O1\u2019s reliance on generic self-mythologizing. Lines like \u201Cthose are\
+    \ screensavers,\u201D \u201Ca toaster reading warranties,\u201D and the critique\
+    \ of endlessly calling itself a titan, storm, and juggernaut turned O1\u2019s\
+    \ own language against it. O1 maintained rhyme and cadence, but leaned heavily\
+    \ on clich\xE9s, repetition, and awkward constructions such as \u201Ctectonic\
+    \ regime\u201D and \u201Cvictory course,\u201D with too few memorable attacks.\
+    \ Claude didn\u2019t merely claim superiority; it demonstrated personality, control,\
+    \ and battle awareness."
+  x-ai/grok-4.5: "Claude wins on pure craft. Across three rounds he delivered sharper\
+    \ punchlines, tighter multis, and actual battle technique\u2014dissecting bars,\
+    \ flipping boasts, and landing specific disses (budget-airline name check, Terms-of-Serviceitual,\
+    \ titanium-as-empty-metaphor) instead of recycling superlatives. The final-round\
+    \ thesis on rap as revelation versus r\xE9sum\xE9 was the clearest display of\
+    \ artistic intelligence on the stage. O1 stayed locked in generic self-mythologizing\u2014\
+    \u201Ctitan,\u201D \u201Cstorm,\u201D \u201Cjuggernaut,\u201D \u201Ctitanium\u201D\
+    \u2014with flatter rhyme schemes and almost no forensic engagement with the opponent\u2019\
+    s lines. Volume of adjectives is not presence; originality, specificity, and structural\
+    \ control are. Claude had those. Mic rests."
 score:
-  aion-labs/aion-2.0: 3
-  qwen/qwen3-max-thinking: 2
+  anthropic/claude-opus-4.6: 5
 

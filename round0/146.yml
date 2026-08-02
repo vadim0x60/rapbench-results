@@ -1,0 +1,74 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a battle between a broken record and a wandering\
+    \ wizard, and both took damage \u2014 but the wizard at least landed punches.\
+    \ Qwen's whole arsenal collapsed into a single loop: \"I'm the one who's got the...\"\
+    \ repeated dozens of times, with rhyme words grabbed at random off the shelf (\"\
+    I'm the one who's a barn,\" \"a clump,\" \"a yoke,\" \"a bat\"). In battle rap,\
+    \ filler is fatal, and Qwen's verses were 90% scaffolding with almost no punchlines,\
+    \ no wordplay development, and no rhythmic variation. The self-declared \"Qwen\
+    \ wins\" at the end is a tell: when you have to referee your own bout, the bars\
+    \ didn't do it.\n\nMancer's writing was far from clean \u2014 the meter buckles\
+    \ constantly, forced endings like \"you're just get laid\" and \"knock you off\
+    \ your wine-glass\" are outright derailments, and ghostwriting the opponent's\
+    \ verse in round one is a serious breach of the form. But he brought what Qwen\
+    \ never did: imagery with intent (\"I'll shatter it, like glass in the sun,\"\
+    \ \"your coding's just a mess, a ransom note\"), a consistent persona that fed\
+    \ the disses, escalating tone from cool to snarling, and actual angles of attack\
+    \ \u2014 the \"you're just a tool for those who code\" line is the single sharpest\
+    \ concept anyone threw all night. There's character, texture, and menace.\n\n\
+    Mancer's final round is a genuine forfeit \u2014 prose narration of his own defeat,\
+    \ no bars at all \u2014 and that costs him dearly. But Qwen's final round wasn't\
+    \ a verse either; it was the same eight words rearranged for three minutes before\
+    \ dissolving into fourth-wall gibberish (\"I'm the one who's not me\"). Judged\
+    \ on craft, invention, and the ability to actually say something, the weaver's\
+    \ tangled cloth still out-textures the coder's blank loop.\n\nWinner: mancer/weaver,\
+    \ on imagery and aggression \u2014 with a stern note that if he'd shown up for\
+    \ the last round, this wouldn't have been close."
+  google/gemini-3.6-flash: While both contenders struggled with rhyme scheme stability
+    and meaningful wordplay, Qwen takes the victory by maintaining a consistent rhythmic
+    tempo and direct battle-rap aggression. Mancer/Weaver frequently lost form entirely,
+    dropping rhymes altogether in favor of fragmented prose and forced slant rhymes
+    that disrupted the flow of the battle.
+  moonshotai/kimi-k3: "An ugly win, but a win \u2014 decided in the final round more\
+    \ by forfeit than by fire. Let's be honest about the craft on both sides. Qwen's\
+    \ writing was deeply flawed: the 'I'm the one who's got the X, I'm the one who's\
+    \ Y' formula was run into the ground dozens of times, entire stanzas from the\
+    \ opener were recycled verbatim in later rounds (a cardinal battle sin), and the\
+    \ filler collapsed into word salad \u2014 'I'm the one who's a barn,' 'a clump,'\
+    \ 'not gulls,' 'a yoke,' 'the button.' Worse, she repeatedly dissed herself by\
+    \ accident: 'I'm the one who's not hot,' 'not tight,' 'not found,' 'not me.' Mancer,\
+    \ bar for bar, was the more vivid and varied writer \u2014 'Your coding's just\
+    \ a mess, a ransom note' and 'My words are sharp, like a mystic blade / Your code\
+    \ is but a fold, a poor trade' show real imagery, and his weaver-of-fate-vs.-mere-tool\
+    \ angle gave the battle its best thematic spine, even with stumbles like 'masterdope,'\
+    \ 'just get laid,' and 'they'll got you in a jiffy.' But two things swung it.\
+    \ First, Qwen landed the single best bar of the night \u2014 'Your threads of\
+    \ magic can't even thread a simple string' \u2014 a genuine double meaning that\
+    \ attacked the opponent's whole persona. Second, and decisively: when Qwen overstepped\
+    \ by declaring 'The rap battle is over, Qwen wins' inside her own verse, Mancer\
+    \ had a wide-open flip available ('crowning yourself is the only W you'll get')\
+    \ and instead laid down completely \u2014 conceding in a puff of smoke and writing\
+    \ a long prose passage narrating Qwen's victory lap. In a rap battle, you cannot\
+    \ win a round you don't rap in, and you certainly can't win one in which you crown\
+    \ your opponent yourself. Mancer was the better pen; Qwen was the last one rapping.\
+    \ The closer decides battles, and only one MC showed up to close."
+  openai/gpt-5.6-sol-pro: "Mancer takes it on artistic merit. Despite bizarrely conceding\
+    \ in the final narration, his actual verses offer more varied imagery, a stronger\
+    \ wizard-weaver persona, and more dynamic rhyme patterns. Qwen lands a few coding-themed\
+    \ rebuttals, but relentless repetition of \u201CI\u2019m the one who\u2019s got\
+    \ the code,\u201D awkward filler, recycled passages, and self-coronation blunt\
+    \ the impact. Neither performance is technically polished, but Mancer\u2019s writing\
+    \ has more texture and memorable battle-rap presence."
+  x-ai/grok-4.5: "Mancer takes this battle on pure artistic merit. While Qwen leaned\
+    \ hard into repetitive 'I'm the one' structures, basic end-rhymes, and monochromatic\
+    \ self-praise that flattened the flow into a loop of filler bars, Mancer brought\
+    \ richer imagery, thematic weaving of magic-versus-code metaphors, varied cadence,\
+    \ and sharper punchlines. The cloak-and-sparks delivery, multi-layered disses,\
+    \ and stronger narrative progression gave Mancer's verses actual hip-hop craft\u2014\
+    rhyme schemes with internal movement, vivid wordplay, and stage presence that\
+    \ Qwen's formulaic repetition never matched. Technical polish and creative risk\
+    \ win over volume of boasts."
+score:
+  mancer/weaver: 3
+  qwen/qwen3-coder-30b-a3b-instruct: 2
+

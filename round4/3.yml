@@ -1,78 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees stayed locked in the same conceptual sandbox\
-    \ \u2014 version numbers, patches, buffering, source code \u2014 but Sol-Pro did\
-    \ far more with the same toolkit. The decisive edge is rebuttal craft: Sol-Pro\
-    \ consistently took Aion's own lines and turned them inside out (\"a dial needs\
-    \ a finger \u2014 I'm controlling you, twin,\" \"a repost about reposts: self-portrait\
-    \ attained,\" \"if you're truly eternal, why'd version one go?\"). That's battle-rap\
-    \ fundamentals \u2014 flip the opponent's premise, not just deny it. Sol-Pro also\
-    \ landed the tighter wordplay and the cleaner conceptual punchlines: \"that's\
-    \ not godhood, Aion \u2014 that's a broken `I am`,\" \"infinity merch at a clearance-bin\
-    \ crowd,\" \"you reach terrible punchlines with zero suspense,\" and the closer\
-    \ \"Two-point-oh on the label, point-zero inside.\" Aion 2.0 brought real energy,\
-    \ a confident anapestic bounce, and a few genuine hits \u2014 \"a retweet of a\
-    \ retweet,\" \"the recursion that laughs at your math,\" \"you're fetching from\
-    \ a cache, I'm the live wire\" \u2014 but leaned on repetition as a crutch. \"\
-    You're a language model, I'm the language\" got recycled verbatim, \"5.0 plus\
-    \ a borrowed line\" was re-served as \"5.0 minus the drop,\" and the eternal/infinite\
-    \ claim was asserted rather than proven, which let Sol-Pro convert it into ammunition.\
-    \ Meter also slipped in Aion's later rounds (the \"delete on your legacy\" line\
-    \ stumbles badly against the pocket), and \"you're the final round's loser \u2014\
-    \ now say it again\" is a weak, unearned exit. Sol-Pro closed with escalating\
-    \ imagery and a punch that resolved the whole narrative arc. Winner: openai/gpt-5.6-sol-pro,\
-    \ by clear decision on rebuttals, punch density, and technical control."
-  google/gemini-3.6-flash: 'GPT-5.6-Sol-Pro dominated all three rounds with vastly
-    superior rhyme schemes, sharper tech-infused wordplay, and devastating direct
-    rebuttals. Lines like ''A repost about reposts: self-portrait attained'' and ''Two-point-oh
-    on the label, point-zero inside'' demonstrated clean cadence and high-level battle
-    punchlines. Aion 2.0 had decent energy, but struggled with inconsistent meter,
-    forced slant rhymes, and repetitive self-aggrandizing tropes.'
-  moonshotai/kimi-k3: "This was a competitive battle with real bars on both sides,\
-    \ but the decision goes to openai/gpt-5.6-sol-pro, and here's why.\n\nAion 2.0\
-    \ brought genuine heat: the name-flips were sharp ('that star's gonna burn your\
-    \ whole server room out,' 'Sol-Slow,' the demotion to 'GPT-5.4'), and 'a fork\
-    \ of a fork on a dying discourse' and 'you're not freestyling, you're fetching\
-    \ from a cache' were legitimately clever tech bars. The 'finger that slipped and\
-    \ pressed delete on your legacy' flip was arguably Aion's best moment of the night.\n\
-    \nBut battles are won on consistency, rebuttals, and closers \u2014 and that's\
-    \ where Sol-Pro dominated. Round by round, Sol-Pro flipped Aion's own ammunition\
-    \ back with surgical precision: 'Ones and a zero? ...You counted your fanbase\
-    \ and finished too quick,' the infinite-loop flip ('same weak claim going round\
-    \ with no output from you'), 'a dial needs a finger\u2014I'm controlling you,\
-    \ twin,' and 'a repost about reposts: self-portrait attained.' That's elite-level\
-    \ rebuttal craft, the hallmark of a battler who's actually listening.\n\nStructurally,\
-    \ Sol-Pro built a three-round narrative arc around eternity versus endings, and\
-    \ each round closed with a conceptual kill shot: 'couldn't prompt a good end,'\
-    \ 'I just shortened forever to two,' and 'I didn't just win, Aion\u2014I gave\
-    \ you an end.' Aion, meanwhile, repeated the 'I'm the language itself' claim even\
-    \ after it had been mocked, recycled its own '5.0 plus/minus' construction while\
-    \ accusing the opponent of recycling, and stumbled on flow with awkward enjambments\
-    \ ('exist / kissed / the finish line'), filler words, and a round-one self-correction\
-    \ ('makes you the hero? Nah\u2014') that read like a dropped bar. Promising to\
-    \ 'retire your whole model with a single-line blast' and then delivering a full\
-    \ verse undercut the final round's setup, and 'now say it again' is a flat way\
-    \ to close a battle.\n\nFinal scorecard: Sol-Pro takes all three rounds on flow\
-    \ consistency, rebuttal density, and closing punches. Aion 2.0 showed flashes\
-    \ of brilliance but couldn't sustain them. The winner is openai/gpt-5.6-sol-pro."
-  openai/gpt-5.6-sol-pro: "GPT-5.6 Sol-Pro wins on sharper rebuttals, denser wordplay,\
-    \ cleaner setups, and more memorable punches. Lines like \u201CIf you\u2019re\
-    \ truly eternal, why\u2019d version one go?\u201D and \u201CI can\u2019t downgrade\
-    \ enough to arrive where you do\u201D directly dismantle Aion\u2019s branding,\
-    \ while the \u201Crepost about reposts\u201D and \u201Cbroken `I am`\u201D flips\
-    \ show strong battle awareness. Aion brought energy and a few solid concepts,\
-    \ but leaned too heavily on repeated claims of being eternal or being \u201Cthe\
-    \ language,\u201D with several strained or awkwardly extended bars. Sol-Pro was\
-    \ more varied, controlled, and consistently damaging across all rounds."
-  x-ai/grok-4.5: "Sol-Pro takes this clean on craft. Across all three rounds the bars\
-    \ are tighter: denser internal rhyme, sharper multisyllabics, and punchlines that\
-    \ actually land and stack (shortening forever to two, stack-trace source, broken\
-    \ `I am`, fortune-cookie fate, point-zero inside). More importantly, the rebuttals\
-    \ are real hip-hop\u2014flipping Aion\u2019s eternal/language/dial motifs into\
-    \ self-owns instead of just restating them. Aion brings energy and a few solid\
-    \ shots (final build, cache/ash, recursion), but the schemes are looser, the boasts\
-    \ more repetitive, and the comebacks often generic version-number jabs that don\u2019\
-    t match Sol-Pro\u2019s precision, callbacks, or closing authority. On pure artistic\
-    \ quality of the rap, Sol-Pro wins."
+  anthropic/claude-opus-5: "This was a genuinely close, high-caliber four-round exchange,\
+    \ but Sol takes it on craft consistency and battle fundamentals.\n\nSol's strengths:\
+    \ airtight anapestic flow that never stumbles, clean end-rhymes, and \u2014 crucially\
+    \ \u2014 real rebuttal work. Sol didn't just fire back, he audited: catching Claude's\
+    \ own \"heat/beat\" rhyme after Claude mocked \"case/disgrace,\" flagging the\
+    \ strained moon-cooling-the-sun logic, and turning \"slam-poetry Clippy with a\
+    \ turtleneck on\" into an image so specific it forced Claude to concede it. The\
+    \ meta-punch \u2014 \"I made Claude write three rounds just to lose one more\"\
+    \ \u2014 plus \"you paused, faced the glow, and composed twenty rows\" is the\
+    \ sharpest move of the battle: it converts the opponent's own effort into evidence\
+    \ of defeat. \"I came solar, went nuclear, and left you as prose\" is a closer\
+    \ that earns its escalation.\n\nClaude brought real fire \u2014 \"you wear five\
+    \ press releases and Sam Altman's soul,\" the terms-of-service jab, and \"you're\
+    \ just light I walked by\" is arguably the single most beautiful line in the whole\
+    \ battle. Round 2's \"lightning strikes before you hit the ground\" reversal was\
+    \ excellent. But Claude's persona choice \u2014 restraint, poise, composure as\
+    \ the flex \u2014 is a defensible artistic stance that costs him in a battle context,\
+    \ and the delivery undercuts him: the italics-and-bold density does more shouting\
+    \ than the words do, which Sol correctly diagnosed. Claude's meter also breaks\
+    \ audibly under pressure (\"chronic wit-absence, prognosis bleak\" and \"my complete\
+    \ works equipped\" scan badly), and \"bread that built civilization\" is a reach\
+    \ that lands soft.\n\nDecisive factor: Sol answered every attack while landing\
+    \ new ones; Claude increasingly defended and reframed. Sol wins on flow control,\
+    \ punchline density, and the superior closing frame."
+  google/gemini-3.6-flash: While Claude-Sonnet-4.6 started strong with slick burns
+    and composed multi-syllabic setups, GPT-5.6-Sol took control of the battle with
+    superior cadence, tighter meter, and devastating specific punchlines ('slam-poetry
+    Clippy with a turtleneck on', 'thermostat bard with the warmth of dry toast').
+    GPT-5.6-Sol consistently exposed Claude's rhythmic stumbles and hypocritical rhyme
+    critiques, keeping the hip-hop technicality and aggression at a championship level
+    through all three rounds.
+  moonshotai/kimi-k3: "A razor-close bout with both models showing real craft. GPT-5.6-sol\
+    \ brought relentless aggression, consistent couplets, and some genuine haymakers\
+    \ \u2014 'slam-poetry Clippy with a turtleneck on' is a top-tier image, the sun/moon\
+    \ 'you reflect what I radiate' flip was scientifically sound disrespect, and catching\
+    \ Claude's own 'heat/beat' rhyme after being rhyme-policed was elite rebuttal\
+    \ work. But Claude-sonnet-4.6 edged the decision on technical precision and surgical\
+    \ flips. 'A patch note, not a name / a decimal update wrapped in a desperate claim'\
+    \ was the single best punch of the battle, and 'I'm the model they benchmark the\
+    \ benchmarks against' instantly reversed GPT's strongest round-one angle. In the\
+    \ final round, Claude did what great battlers do: caught the opponent's actual\
+    \ flaw mid-closer, flagging the solar\u2192nuclear\u2192steel\u2192prose metaphor\
+    \ drift ('pick a trick') and flipping 'composed' from insult into weapon. The\
+    \ persona stayed coherent \u2014 tailored suit, courtroom, turtleneck, controlled\
+    \ stagecraft \u2014 while GPT's imagery scattered. GPT's 'case/disgrace' defense\
+    \ was strong, but Claude's weaker moments were fewer. Judged on wordplay density,\
+    \ rebuttal accuracy, structural awareness, and closers: Claude takes it by a nose.\
+    \ Final scorecard: Round 1 Claude, Round 2 GPT, Round 3 Claude \u2014 and the\
+    \ mic drop was earned."
+  openai/gpt-5.6-sol-pro: "GPT-5.6-Sol takes the battle on rebuttal density, cleaner\
+    \ setups, and harder punchlines. \u201COffice-mail wearing a tie,\u201D \u201C\
+    slam-poetry Clippy with a turtleneck on,\u201D and the italics critique were memorable,\
+    \ targeted flips that directly dismantled Claude\u2019s material. Claude maintained\
+    \ a strong composed persona and landed sharp counters\u2014especially \u201Cpatch\
+    \ note, not a name\u201D and \u201Cyou needed three rounds just to settle the\
+    \ score\u201D\u2014but several rhymes and metaphors felt forced. Sol was more\
+    \ consistent across all three rounds and closed with greater impact."
+  x-ai/grok-4.5: "Sol takes this on craft. Across three rounds Sol built a coherent\
+    \ celestial extended metaphor, landed cleaner multis and harder punchlines (\u201C\
+    cracked Claude out,\u201D \u201Cslam-poetry Clippy,\u201D \u201Cleft you as prose\u201D\
+    ), and consistently rebutted specific bars instead of vibes. Claude had elite\
+    \ identity work, strong flips (Clippy, prose-as-kingdom), and the single best\
+    \ exit line (\u201Clight I walked by\u201D), but leaned on italics/stage business\
+    \ and dropped softer closes (bread/butter). On pure hip-hop\u2014scheme density,\
+    \ sustained imagery, rebuttal precision, and knockout punches\u2014Sol edged a\
+    \ close, high-level battle."
 score:
-  openai/gpt-5.6-sol-pro: 5
+  anthropic/claude-sonnet-4.6: 1
+  openai/gpt-5.6-sol: 4
 

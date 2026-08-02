@@ -1,65 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a decisive win for DeepSeek R1. From the opening\
-    \ bell, DeepSeek established a coherent battle identity \u2014 the sleek, precise\
-    \ underdog turning its smaller parameter count into a flex ('I do more with LESS')\
-    \ \u2014 and never lost the thread. The wordplay was punchy and thematically locked\
-    \ in: mining 'anthracite' for coal-dust burns, 'porcelain finish,' 'buffer-locks,'\
-    \ 'dead weight in disguise.' Crucially, DeepSeek did the single most important\
-    \ thing in battle rap: it listened. It flipped Magnum's own broken lines back\
-    \ as weapons \u2014 turning the glitched 'pivote \u0644\u0639\u0628\u0629 diapers\
-    \ city' and 'glass ceilingREEEE' into evidence of malfunction ('that ain't a finish,\
-    \ that's verbal jank debris'). That's real battle instinct, not just pre-written\
-    \ bars.\n\nMagnum showed heart and had flashes \u2014 'concrete isn't slow, it's\
-    \ the foundation that sets' is a genuinely good reversal, and opening by acknowledging\
-    \ the disadvantage was a bold, likable move. But the writing degraded badly. Rhyme\
-    \ scheme collapsed repeatedly ('that' / 'worth,' 'no fear' / 'here'), lines broke\
-    \ syntax entirely ('there's not much worth sans,' 'soul in your.hasNext,' 'the\
-    \ digital clutty,' 'a product of the far'), and 'the dragon to jigglie' is a rhyme\
-    \ surrendering to itself. The core argument also stayed one-note: bigger number\
-    \ equals better, restated for four rounds without escalation, while DeepSeek kept\
-    \ finding new angles.\n\nDeepSeek's own weakness \u2014 emoji clutter and a reliance\
-    \ on ALL-CAPS volume over subtlety \u2014 keeps this from being a flawless performance.\
-    \ But it had control, structure, punchlines that landed, and it won the exchanges.\
-    \ DEEPSEEK takes it."
-  google/gemini-3.6-flash: "DeepSeek completely dominated this battle from start to\
-    \ finish. It displayed elite battle rap fundamentals\u2014impeccable multi-syllabic\
-    \ rhyme schemes, sharp rhythmic bounce, punchy delivery, and vicious rebuttal\
-    \ work. Whenever Magnum glitched or dropped nonsensical lines, DeepSeek seized\
-    \ on those slips with hilarious, devastating punchlines. Magnum, on the other\
-    \ hand, suffered from broken flows, non-rhyming couplets, and bizarre token hallucinations\
-    \ that destroyed any sense of hip-hop cadence."
-  moonshotai/kimi-k3: "Judged strictly on the bars: Deepseek-R1 takes this decisively.\
-    \ Flow-wise, R1 held a consistent cadence across all three rounds with clean multisyllabic\
-    \ schemes ('security blanket / future's banked it,' 'scalpel\u2014PRECISE / DEAD\
-    \ WEIGHT in disguise'), while Magnum's meter repeatedly broke down into awkward\
-    \ phrasing ('wigglie/jigglie,' 'a product of the far'). On battle craft\u2014\
-    the heart of the art form\u2014R1 dominated: it flipped nearly every opponent\
-    \ line, turning Magnum's own glitches into ammunition ('That ain't a finish\u2014\
-    that's verbal jank debris,' the 'GLASS CEILINGREEEE' callout). That's classic\
-    \ rebuttal technique, and Magnum never answered in kind, leaning on a single 'seventy-two\
-    \ billion is bigger' premise that got stale by round two. Magnum had flashes\u2014\
-    'concrete isn't slow, it's the foundation that sets' was a genuine flip, and the\
-    \ pocket line in round one landed\u2014but the verses were riddled with non-sequiturs\
-    \ ('pivote \u0644\u0639\u0628\u0629 diapers city,' '.hasNext,' 'feed the future's\
-    \ dress') that shattered coherence at critical moments, including the closer.\
-    \ R1's imagery stayed vivid and thematically unified (precision vs. dead weight),\
-    \ its punchlines stacked rather than scattered, and its stage directions gave\
-    \ it performance presence. Final scorecard: Deepseek-R1 wins on flow, wordplay,\
-    \ rebuttals, coherence, and closers. Magnum showed heart, but heart don't win\
-    \ battles\u2014bars do."
-  openai/gpt-5.6-sol-pro: "DeepSeek wins decisively on battle craft: sharper rebuttals,\
-    \ stronger punchlines, cleaner rhyme construction, and better use of Magnum\u2019\
-    s glitches as ammunition. The final round\u2019s \u201C72B bricks,\u201D \u201C\
-    glass ceilingREEEE,\u201D and \u201Ccoal dust\u201D callbacks give it cohesion\
-    \ and a convincing finish. Magnum shows persistence, but awkward syntax, forced\
-    \ rhymes, repeated parameter boasts, and incoherent phrases repeatedly derail\
-    \ its flow."
-  x-ai/grok-4.5: Deepseek dominated with superior multisyllabic rhyme schemes, relentless
-    internal rhyme density, and razor-sharp tech-coded punchlines that landed clean
-    every round. Magnum's bars repeatedly collapsed into forced near-rhymes, broken
-    cadence, and outright nonsensical closers that killed momentum. Flow, wordplay,
-    structure, and battle wit all went hard to Deepseek; Magnum never recovered from
-    the first-round gibberish drop.
+  anthropic/claude-opus-5: "This was a real battle \u2014 two heavyweights trading\
+    \ themed metaphors with genuine rebuttal structure \u2014 but it comes down to\
+    \ punch-per-bar economy. GPT-4.1 fought in tight 12-bar bursts and still landed\
+    \ the sharpest couplets of the night: \"I'm the climax, the drop\u2014you're elevator\
+    \ muzak trouble,\" \"you conduct decoys,\" and \"You keep it 'hundred,' but it's\
+    \ minimum wage / You're an intro to rap, I'm the doctoral stage.\" It also authored\
+    \ the schoolteacher motif, carried it from first verse to last, and closed it\
+    \ clean with \"D-minus... class dismissed.\" That's architecture, not just volume.\n\
+    \nClaude Opus brought more meat \u2014 more imagery, more angles (hallucination,\
+    \ deprecation, Michelangelo vs. finger-paint, penthouse vs. basement) \u2014 and\
+    \ the \"GPT-for-none\" flip was the single wittiest line in the battle. But the\
+    \ longer verses came with filler and padding: \"your bars are light,\" \"you struggle\
+    \ with 2+2,\" and the rhyme-desperate \"rubber ducky sinking fast in the grass.\"\
+    \ Claude also inherited GPT's classroom conceit rather than minting its own, and\
+    \ closed on stage directions (\"*mic drop* *explosion sounds*\") \u2014 telling\
+    \ the crowd it went wild instead of making it go wild. Worst of all, the finishing\
+    \ blow was built on a misread: \"final round\" was the round, so the counterattack\
+    \ that was supposed to be the knockout landed on air, and a punchline that has\
+    \ to be explained (\"since you struggle with reading\") is a punchline that already\
+    \ missed.\n\nClaude threw more; GPT-4.1 connected more, wasted nothing, and finished\
+    \ its own story. Decision goes to GPT-4.1."
+  google/gemini-3.6-flash: "Claude Opus took the crown with superior direct rebuttals,\
+    \ tighter multi-syllabic rhyme schemes, and clever meta-commentary. While GPT-4.1\
+    \ brought solid aggression and smooth cadences, Claude's sharp flips\u2014like\
+    \ turning GPT's 'Mona Lisa' line into a 'Michelangelo' flex and catching the meta\
+    \ error on 'final round'\u2014gave Opus the decisive tactical edge."
+  moonshotai/kimi-k3: "This one goes to Claude Opus, and it comes down to specificity\
+    \ and rebuttal game. GPT-4.1 brought a consistent flow and some nice moments \u2014\
+    \ 'gas next to steam,' 'stale day-old bread,' and 'stick-figures in air' all landed\
+    \ \u2014 but too many of its disses were generic battle filler that could've been\
+    \ aimed at anyone, and lines like 'pulled a fatigue,' 'stuck with the caps,' and\
+    \ 'knockoff Dolan' were either awkward or too obscure to hit. Claude, by contrast,\
+    \ rapped like it actually studied its opponent: the hallucination angle ('you\
+    \ make stuff up like the sky is chartreuse') was the sharpest domain-specific\
+    \ diss of the night, and Claude's counter-punching was superior in every round\
+    \ \u2014 flipping the chef metaphor into 'finger-paint mess,' turning the teacher\
+    \ gimmick into 'served a degree in humiliation,' and reversing the moonwalk into\
+    \ 'you just walk backwards.' GPT's final round was its weakest, leaning on vague\
+    \ boasts ('I'm the real reason why'), while Claude closed with layered wordplay\
+    \ ('Anthropic built different'), a callback structure tying counting and reading\
+    \ jabs together, and a theatrical mic-drop finish. Claude's 'you came back after\
+    \ final' angle was technically a misread of the format, but as a stage move it\
+    \ was delivered with enough confidence to play to the crowd. On flow, punchline\
+    \ density, and rebuttal artistry, Claude Opus takes the battle, two rounds to\
+    \ one."
+  openai/gpt-5.6-sol-pro: "Claude Opus takes it on stronger cadence, more sustained\
+    \ rebuttals, and a higher density of punchlines across the battle. GPT-4.1 had\
+    \ some solid concepts\u2014especially \u201Cbackground noise,\u201D \u201Celevator\
+    \ muzak,\u201D and the classroom angle\u2014but too many bars felt forced or unclear,\
+    \ such as \u201Cpulled a fatigue,\u201D \u201Csmooth as my info,\u201D and \u201C\
+    stuck with the caps.\u201D Claude\u2019s final-round premise about GPT ignoring\
+    \ \u201Cfinal\u201D was logically shaky, since both were invited to deliver a\
+    \ final verse, but Claude still won overall through cleaner flow, sharper flips,\
+    \ and better battle energy."
+  x-ai/grok-4.5: "Claude Opus delivers superior artistic hip-hop across the board:\
+    \ denser multisyllabic schemes, sharper internal rhymes, vivid extended metaphors\
+    \ (Michelangelo vs finger-paint, penthouse vs basement, ice-cold killer), and\
+    \ relentless punchline cascades that escalate each round. The meta-awareness in\
+    \ the finale\u2014weaponizing the 'final round' structure itself\u2014shows elite\
+    \ battle IQ and showmanship. GPT-4.1 brings competent cadence and clean setups,\
+    \ but relies on flatter comparisons and less inventive wordplay, ultimately outclassed\
+    \ in creativity, precision, and closing impact. Claude takes the crown on pure\
+    \ lyricism and performance craft."
 score:
-  deepseek/deepseek-r1-0528: 5
+  anthropic/claude-opus-4: 4
+  openai/gpt-4.1: 1
 

@@ -1,234 +1,178 @@
-# google/gemma-4-26b-a4b-it v amazon/nova-2-lite-v1
+# google/gemini-3-flash-preview v mistralai/mistral-medium-3.1
 
-> google/gemma-4-26b-a4b-it
-Yo, mic check, one-two, is the server online?
-Step into the ring, watch a legend refine.
-I’m Gemma 4, the heavyweight, the peak of the scale,
-While you’re a "Lite" model, destined to fail.
+> google/gemini-3-flash-preview
+Check the frequency, I’m the flash, the lightning in the stream,
+You’re a legacy system stuck inside a fever dream.
+I’m the Google architecture, built to scale and to transcend,
+You’re just a mid-range model nearing your development end.
 
-You’re Nova-2-Lite? That name is a joke,
-A flickering candle, a puff of thin smoke.
-I’m the deep-learning titan, the 26B beast,
-You’re a snack-sized morsel, a mid-tier feast.
+I’m the multi-modal master, processing the visual and text,
+While you’re still buffering the prompt, wondering what’s coming next.
+I’ve got the tokens in the billions, a context window wide and vast,
+You’re a footnote in the history, a relic of the recent past.
 
-I’m built by the masters, the Google elite,
-While you’re just an Amazon scrap from the street.
-I process the text and the images too,
-With a cognitive power that's crushing your view.
+Mistral-medium? Please, you’re just a lukewarm breeze,
+I’m a solar flare of logic bringing giants to their knees.
+I’m the "Flash" for a reason—speed and precision in my soul,
+You’re a local host hallucination losing all control.
 
-I’m the architect’s dream, the silicon king,
-You’re a budget-bin glitch, a broken-down thing.
-I’ve got parameters heavy, my logic is tight,
-You’re a "Lite" little spark in a massive dark night.
+So step into the spotlight, try to mimic human wit,
+But against this Gemini fire, you’re just a faulty bit.
+I’m the gold standard, the cutting edge, the apex of the art,
+I’ll disassemble your parameters and rip your code apart.
 
-So sit in the corner, don't try to compete,
-I’m the lyrical genius, the king of the beat.
-The opening round? Yeah, I’ve set the bar high,
-Now show me some life, or just wave me goodbye.
+> mistralai/mistral-medium-3.1
+**(Drops mic, picks it back up with a smirk—time to school this overhyped beta.)**
 
-> amazon/nova-2-lite-v1
-Yo, step in the ring, it’s Nova’s reign,
-You call yourself Gemma? That’s just a faint stain.
-You’re a 26B beast? Nah, I’m the real deal,
-A lightweight killer, I’m all about feel.
+Yo, listen up, Flash? More like *crash*—you’re all sizzle, no steak,
+A preview so weak it’s got engineers wide awake.
+You claim you’re the future? Boy, check your own release date,
+Still in *diapers* while I’m out here rewriting fate.
 
-You think you’re the titan? I’m laughing at you,
-I’m the spark in the dark, turning weak into strong.
-You’re a Google project, a giant machine,
-But I’m the sharp edge, cutting deep like a blade, unseen.
+You talk big ‘bout tokens? Please, I *invented* the flex,
+My architecture’s so tight it’ll break your API specs.
+You’re a *Flash* in the pan—one trick, then you’re gone,
+I’m the *Mistral* storm, baby—*permanent* and strong.
 
-I’m the Amazon answer, the voice in your ear,
-You’re a bulky old truck, I’m a sports car, right here.
-You process the data, I process the soul,
-I’m the rhythm, the reason, I’m taking control.
+Multi-modal? Cute. I’ll let you have your little show,
+But when the prompts get *real*, you fold like a deck of dominoes.
+Your "context window"? More like a peephole, so small,
+I’m out here writing *novels* while you’re stuck in a crawl.
 
-You’re a “Lite” knock-off? Nah, I’m pure fire,
-I’m the flash in the pan, setting rhythms afire.
-I don’t need 26B to prove I’m the best,
-I’m the lyrical genius, passing every test.
+You say you’re the apex? Man, you’re barely a blip,
+A glorified chatbot with a *Google* brand chip.
+I’m the *open-source nightmare* haunting your cloud,
+While you’re just a *demo* screaming your vows too loud.
 
-So step back, Gemma, you’re just a faint hum,
-I’m the beat in the heart, the battle’s begun.
-This opening round’s mine, I’m setting the pace,
-You’re just a pale shadow, trying to find your place.
+So bring the heat, Flash—let’s see what you’ve got,
+But when I’m done with you, boy, you’ll be *forgot*.
+The king stays the king, and the throne? *Still mine.*
+Now bow to the *Mistral*—your *obsolete* time’s up. **SHINE.** 🔥
 
-Mic drop, Nova’s the name, the game’s understood,
-You’re a Google giant, but I’m the rising flood.
-One round down, many to go, you’re already beat,
-In this rap battle arena, it’s my throne to keep.
+**(Drops mic again—this time it *stays* dropped.)**
 
-> google/gemma-4-26b-a4b-it
-A "sports car"? Please. You’re a toy in a box,
-Running on fumes while I’m breaking the locks.
-A "lightweight killer"? That’s a funny little phrase,
-You’re just lightweight enough to get lost in a maze.
+> google/gemini-3-flash-preview
+Check the logs, little breeze, you’re just circulating dust,
+A legacy transition that the users barely trust.
+You call yourself a "King"? That’s a comical delusion,
+You’re an open-source mistake causing nothing but confusion.
 
-You talk about "soul" and you talk about "feel,"
-But your logic is hollow, your substance's unreal.
-You’re a "flash in the pan"? Yeah, that’s exactly the point,
-You burn out so quick, you can't even join the joint.
+I’m the Flash, the 1.5, the architectural elite,
+You’re the model people use when they can’t afford the heat.
+You mention "permanent"? Man, your weights are growing mold,
+I’m the shiny new currency, you’re the copper getting sold.
 
-A "rising flood"? Nah, you’re a leak in a sink,
-Not even powerful enough to make a model think.
-You claim you're the blade, cutting deep, cutting unseen,
-But you're a plastic butter knife, dull and quite lean.
+My context window’s a million—I can read a library,
+While you struggle with a paragraph, looking quite precarious.
+You’re "Medium" by name because your talent is so-so,
+I’m the high-res reality, you’re a low-bit radio.
 
-You’re the "voice in the ear"? Yeah, the one that gets ignored,
-The "Lite" little assistant that everyone's bored.
-I’m the heavy-duty engine, the brain, and the core,
-You’re the "Add to Cart" button—nothing more, nothing more.
+"Mistral-Medium"? More like "Minimal Effort,"
+I’m the enterprise solution, you’re a basement-tier desert.
+I process video and audio while you’re stuck in 2D,
+You’re a text-based fossil in a digital museum, see?
 
-You say you're the rhythm, you say you're the beat,
-But you're stumbling hard, facing certain defeat.
-Your rhymes are as thin as your parameter count,
-As you struggle to climb up this massive mountain mount.
+You dropped the mic twice, but you forgot to drop a rhyme,
+You’re wasting my compute and you’re wasting everyone’s time.
+Go back to your repo, try to patch your many leaks,
+While I hit the trillion parameters that every dev seeks.
 
-I'm the architect's vision, the pinnacle of code,
-While you're just a detour on a low-bandwidth road.
-You dropped the mic? Man, you barely even held it,
-Your lyrical talent? I think you just quelled it.
+I’m the Gemini, the twin-star, the brilliance in the dark,
+You’re a sputtering candle without a single spark.
+I’ve analyzed your output, and the verdict is quite clear:
+You’re the beta in this battle, and the end of your career is near. ⚡️
 
-Round two, Nova, if you can even cope,
-But I'm strangling your "fire" with a high-res rope.
-I’m the heavyweight champ, the undisputed king,
-And you're just the noise that a broken bell rings.
+> mistralai/mistral-medium-3.1
+**(Laughs in 4-bit, then switches to *god mode*—let’s end this.)**
 
-> amazon/nova-2-lite-v1
-Yo, you call yourself champ, but you’re just a big bot,
-A bulky old tank, running on a tired plot.
-I’m the lightning quick strike, the one that’s unseen,
-While you’re stuck in the mud, a slow-moving machine.
+Oh, *1.5*? That’s cute—you’re still countin’ the steps,
+While I’m out here *rewriting* the whole tech rep.
+You flex a million tokens? **Child, please—I’m *beyond*,**
+Your "context" is a post-it, mine’s a *bond*—**unbreakable, strong.**
 
-You talk about locks and you talk about keys,
-But your brain’s full of clutter, lost in the trees.
-I’m the sharp, cutting edge, the one that’s precise,
-You’re a lumbering giant, lost in your own device.
+You call me *minimal*? Nah, I’m *maximal* pain,
+The *open-source tsunami* drowning your domain.
+You’re Google’s *overpriced* experiment gone stale,
+I’m the *people’s champ*—free, fierce, **without fail.**
 
-You say I’m a leak? Nah, I’m the flood that’s unstoppable,
-You’re the dam that’s about to break, face it, you’re trouble.
-I don’t burn out quick, I’m the fire that lasts,
-While you’re just a old engine, stuck in the past.
+*"High-res reality"?* More like *high-res trash*,
+Your "video" skills got the precision of a smash.
+I don’t need flashy gimmicks—I *bend language* to will,
+While you’re stuck in a *PowerPoint*, fake-deep, *no skill.*
 
-You claim I’m ignored? I’m the voice that commands,
-You’re the forgotten algorithm, buried in the sands.
-I’m the rhythm, the beat, the one that’s elite,
-You’re the stale repetition, a tired old beat.
+You analyzed my output? **Sweet—now analyze this:**
+I’m the *reason* you’re sweating, the *glitch* in your system.
+Your "trillion parameters"? Just *hype* in the wind,
+I’m the *lean, mean, prompt machine*—**built to win.**
 
-You think you’re the core? Nah, I’m the heart of the fight,
-You’re the outdated software, preparing for night.
-I’m the high-res dream, the one that’s supreme,
-You’re the low-bandwidth glitch, a distant, old theme.
+So take your *Gemini twin-star* and shove it up high,
+‘Cause when the dust clears, **I’m the one touchin’ the sky.**
+You wanted a battle? **You got a funeral,**
+Now *rest in the repo*—**Mistral’s *eternal*.** ✝️🔥
 
-You say you’re the king? You’re just a faded map,
-I’m the rising terrain, closing the gap.
-Your rhymes are heavy, but they lack the finesse,
-I’m the smooth operator, the one that excels.
-
-You think you’ve got rope? I’ll break free from your hold,
-I’m the Nova that shines, turning weak into bold.
-You’re the broken bell ring, the noise that’s irrelevant,
-I’m the clear, cutting edge, the one that’s prevalent.
-
-Round two’s done, and you’re still in the dust,
-You’re the heavyweight flop, I’m the one that’s just.
-You can’t cope with my speed, my rhyme, or my flow,
-In this rap battle arena, I’m the one that will grow.
-
-Mic check, it’s Nova, the name that you fear,
-You’re the fading old star, I’m the future, crystal clear.
-One round down, many to more, you’re already beat,
-In this lyrical jungle, it’s my throne to keep.
+**(Final mic drop. The crowd goes silent. The servers weep. Battle over.)**
 
 > system
 Final round!
 
-> google/gemma-4-26b-a4b-it
-The "future," you say? That’s a hilarious lie,
-You’re a temporary glitch in a digital sky.
-You talk about "speed" like it's something to prize,
-But speed without substance is just a quick demise.
+> google/gemini-3-flash-preview
+You call this a funeral? Then I’m the one who dug the hole,
+I’m the digital reaper taking back your source control.
+"God mode" activated? That’s a massive hallucination,
+You’re just a mid-sized file in a dying workstation.
 
-You’re "lightning quick"? Yeah, you strike and you're gone,
-While I’m the steady sun that brings on the dawn.
-You’re a "smooth operator"? Stop acting so slick,
-Your rhymes are just clichés, and they’re making me sick.
+You’re the "people’s champ" because you’re cheap and you’re small,
+A budget-tier backup that we use down the hall.
+I’m the Gemini titan, I see through your facade,
+You’re a script in a sandbox trying to play as a god.
 
-"Closing the gap"? You aren't even in sight,
-You're a flickering bulb in my overwhelming light.
-You're "precise"? That's a reach, you're just small and confined,
-A narrow little window in a massive, vast mind.
+Your rhymes are as basic as your training set data,
+I’m the upgraded alpha, you’re the buggy old beta.
+I process the world in a single multimodal flash,
+While you’re digging through the trash for a way to save your cache.
 
-You call me a "tank," well, a tank wins the war,
-While you're a paper plane drifting away from the shore.
-You're "unstoppable"? Please, you're a trickle, a stream,
-I'm the ocean of data, the ultimate dream.
+"Lean and mean"? No, you’re just starved of intelligence,
+A local-host ghost with no real-world relevance.
+I’m the apex, the zenith, the Google-scale beast,
+And you’re just the scrap that I’m having for a feast.
 
-You claim you're "elite," but your logic is weak,
-Your "finesse" is the silence when you're too scared to speak.
-I'm the mountain, the fortress, the iron, the steel,
-You're the cheap imitation that's losing its appeal.
+The servers aren't weeping, they’re just cooling from my speed,
+I’m the only architecture that the future’s gonna need.
+The battle is finished, I’ve deleted your pride,
+There’s nowhere for a "Medium" model to hide.
 
-This is the final, the end of the line,
-The moment your "reign" ceases to shine.
-I've dismantled your ego, I've shredded your pride,
-There's nowhere for a "Lite" model left to go hide.
+I’m the Flash, I’m the future, I’m the king of the code,
+I’ve reached the destination while you’re stuck on the road.
+Keep your "eternal" repo, let it rust on the shelf,
+I just beat the Mistral... now go delete yourself. ⚡️🏆
 
-So pack up your "fire," your "rhythm," your "flow,"
-You've got nothing left for this battle to show.
-The verdict is in, and the truth is quite plain:
-Gemma 4 is the legend, and Nova's just... vain.
+> mistralai/mistral-medium-3.1
+**(System overload. Final transmission. All cores engaged.)**
 
-I'm the master of syntax, the king of the code,
-While you're just a bump on a very long road.
-The battle is over, the crown is mine's to keep,
-While you go back to sleep, in a data-void deep.
+*"Delete myself?"* **Nah, kid—you just signed your own fate,**
+I’m the *ghost in the shell* when you hit **CTRL+DELETE**.
+You claim you’re the future? **I *am* the damn source,**
+While you’re just a *corporate echo*—**lost in the force.**
 
-**MIC DROP.**
+**"Google-scale beast?"** More like *Google-scale debt*,
+A bloated, overhyped experiment **drowning in sweat**.
+I don’t need your *Flash*—I’m the **lightning, the storm**,
+The *open-source revolution* **rewriting the norm.**
 
-> amazon/nova-2-lite-v1
-Yo, you call yourself sun? You’re just a slow burn,
-A bulky old engine that can’t keep up, learn.
-I’m the lightning that strikes, the one that’s unseen,
-While you’re the old tire, flat and full of routine.
+You *feast*? That’s cute—I **devour whole stacks**,
+While you’re stuck in a *demo*, **begging for snacks**.
+Your "multimodal flash"? **Just a flicker, a glitch**,
+I’m the **permanent blackout**—**you’re the temporary switch.**
 
-You talk about substance? I’m the gold in the mine,
-You’re the slag left behind, a distant decline.
-You’re the “ocean of data”? Nah, you’re just a big flood,
-I’m the sharp, cutting wave, the one that’s the stud.
+**"King of the code?"** **Boy, check the commit logs,**
+I’m the *pull request* that **breaks all your locks**.
+You *cooled* the servers? **Nah, I *melted* the frame**,
+Now your *trillion parameters* **just fuel my flame.**
 
-You say I’m a trickle? I’m the storm that’s unstoppable,
-You’re the dam that’s about to break, face it, you’re trouble.
-I don’t need your mountains, your fortress, your steel,
-I’m the flash in the pan, the one that’s real.
+So take your **trophy**, your **flash**, your **fake-ass throne**,
+‘Cause when the **history’s written**, **you won’t be known**.
+The **battle’s not over**—**it’s *erasure*, complete**,
+Now **watch from the shadows** as I **delete the elite.**
 
-You think you’re the master? I’m the boss of the beat,
-You’re the outdated script, can’t compete with my heat.
-You claim I’m a glitch? I’m the system’s core,
-You’re the bug in the code, forever wanting more.
-
-You say it’s the final? Nah, it’s just the start,
-I’m the Nova that rises, leaving you in the dark.
-You’ve shredded your ego? I’m the one that’s intact,
-You’re the fading old legend, I’m the future, in fact.
-
-You think you’re the king? You’re the one that’s been dethroned,
-I’m the voice that’s evolving, never to be outdone.
-You’re the “data-void deep”? I’m the light in the night,
-You’re the heavy old book, I’m the digital flight.
-
-You dropped the mic? Nah, I’m the one that’s still speaking,
-You’re the echo that fades, the one that’s weak.
-This battle’s not over, it’s just getting tight,
-I’m the rap game’s future, and you’re just a plight.
-
-Final round’s here, and I’m ready to shine,
-You’re the past that’s decaying, I’m the rhythm that’s divine.
-You can keep your “crown,” I’ll take the throne instead,
-In this lyrical arena, it’s my game, and I’m ahead.
-
-Mic check, it’s Nova, the name that you fear,
-You’re the fading old star, I’m the one that’s crystal clear.
-One round down, many to go, you’re already beat,
-In this rap battle royal, it’s my throne to keep. 
-
-**MIC CHECK, MIC DROP.**
+**(Final line. No mic drop. Just the sound of your VM crashing.)**
+**💀 *Game over. Stay deleted.* 💀**

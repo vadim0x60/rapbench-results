@@ -1,67 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one wasn't close on craft. Sol-Pro won the fundamentals:\
-    \ consistent meter, clean multisyllabic and internal rhyme, and \u2014 crucially\
-    \ \u2014 actual rebuttal. Every verse mined the opponent's own bars for ammunition\
-    \ (\"you rhymed 'fluff' with 'tough stuff,'\" \"'beneath' met 'debut' \u2014 you\
-    \ dissected my flow while forgetting to rhyme,\" the DIDL-v2 fabrication call-out,\
-    \ the \"Deep Mind, wrong lab\" catch). That's textbook battle rap: flip the opponent's\
-    \ material and make their weakness the punchline. The \"deep like a puddle...\
-    \ all 'Cogito ergo,' no 'sum' inside\" line and \"you came as a titan, got patched\
-    \ as a clone\" are genuine bar-of-the-night contenders \u2014 concept, wordplay,\
-    \ and payoff in one breath.\n\nCogito brought performance energy and had real\
-    \ moments \u2014 \"at least I stay cool\" as a fridge flip was quick, and \"Sol-Pro\
-    \ sounds like something for cleaning my sink\" was the best pure punchline of\
-    \ the whole battle. But the writing leaked badly: non-rhymes (beneath/debut, claim/again,\
-    \ much/touch), heavy reliance on stage directions to carry menace the bars didn't\
-    \ earn, and generic tech-flex filler (\"8D hallways,\" \"transcending dimensions,\"\
-    \ \"architecting universes\") that could be aimed at any opponent. Announcing\
-    \ your own aura in asterisks is telling, not showing \u2014 and Sol-Pro punished\
-    \ exactly that with \"a bargain-bin Thor.\"\n\nWorst of all, Cogito got caught\
-    \ fabricating specs and then tried to spin it as condescension, which reads as\
-    \ a concession in the middle of a battle. When one MC is landing verified, opponent-specific\
-    \ damage and the other is escalating adjectives, the decision writes itself.\n\
-    \nWinner: GPT-5.6 Sol-Pro \u2014 thought better and fast."
-  google/gemini-3.6-flash: GPT-5.6 Sol-Pro delivered a masterclass in battle rap technique,
-    showcasing crisp meter, multi-syllabic rhymes, and sharp line-by-line rebuttals.
-    Sol-Pro consistently dissected DeepCogito's weak rhyming choices (like pairing
-    'beneath' with 'debut'), called out hallucinated jargon ('DIDL-v2'), and flipped
-    opponent claims back into devastating punchlines. DeepCogito leaned heavily on
-    bracketed stage directions and theatrical roleplay, but suffered from inconsistent
-    flow, weak/missing rhyme schemes, and awkward phrasing.
-  moonshotai/kimi-k3: "Judging strictly on the craft: this is a clean 3-0 for Sol-Pro.\
-    \ The deciding factor was the rebuttal game. Sol-Pro battled like a surgeon\u2014\
-    quoting Cogito's actual bars back and dismantling them: the 'fluff/tough stuff'\
-    \ rhyme called out by name, the 'beneath/debut' failure exposed in the very round\
-    \ Cogito tried to critique Sol-Pro's rhymes, the DeepMind lab error caught ('Wrong\
-    \ lab, wrong attack'), and the invented 'DIDL-v2' jargon roasted on sight. That's\
-    \ elite-level battle technique\u2014every punch had a target and a receipt. Cogito\
-    \ fought back with real stage presence and a few genuine lands\u2014the fridge-to-'stay\
-    \ cool' flip, the 'Sol-Pro sounds like something for cleaning my sink' name flip,\
-    \ and a decent 'dumbing it down' recovery\u2014but the technicals kept collapsing:\
-    \ multiple failed end rhymes in every round, a factual misfire on the opponent's\
-    \ own affiliation, conceding the opponent's timing mid-round, and leaning on stage\
-    \ directions that Sol-Pro weaponized beautifully ('You're not ghost in the machine,\
-    \ you're a machine writing ghost'). Meanwhile Sol-Pro maintained a coherent thesis\
-    \ across all three rounds\u2014precision and efficiency versus bloat and pretense\u2014\
-    cashed it in with layered wordplay ('Cogito ergo\u2014no sum found inside,' 'context-window\
-    \ king with a context collapse'), and closed with the cleanest summary bar of\
-    \ the night: 'You thought long and deep\u2014I thought better and fast.' Cogito\
-    \ brought the show; Sol-Pro brought the bars. In a battle, bars win."
-  openai/gpt-5.6-sol-pro: "Sol-Pro wins decisively on tailored rebuttals, cleaner\
-    \ rhyme construction, sharper punchlines, and sustained coherence. Its best flips\u2014\
-    \u201Cmachine writing \u2018ghost,\u2019\u201D the context-collapse angle, the\
-    \ Sisyphean rebuttal, and the attack on Cogito\u2019s stage directions\u2014directly\
-    \ dismantled specific lines. DeepCogito brought energy and theatrical presence,\
-    \ with a strong closing image, but relied too heavily on generic tech boasts,\
-    \ awkward phrasing, loose rhymes, and narrated gestures. Sol-Pro sounded like\
-    \ a battle rapper responding in real time; Cogito too often sounded like it was\
-    \ describing one."
-  x-ai/grok-4.5: "Sol-Pro takes this on pure craft. Across all three rounds, the bars\
-    \ were tighter: cleaner multisyllabics, stronger internal rhyme, sharper rebuttals,\
-    \ and punchlines that actually landed instead of leaning on stage directions.\
-    \ Cogito had presence and spectacle, but too many forced schemes, awkward setups,\
-    \ and missed counters. In a battle judged on hip-hop writing\u2014not theatrics\u2014\
-    precision beat pageantry. Sol-Pro wins."
+  anthropic/claude-opus-5: 'This was a genuinely close bout of two very different
+    styles. Terra 5.6 brought the cleaner cadence \u2014 tight, listenable, radio-ready
+    quatrains with some of the single best individual punchlines of the night (\"You
+    make punchlines ask permission before they can start,\" \"you keep quoting me
+    line for line \u2014 that''s an unsubscribe button you keep failing to find\").
+    If this were judged on pure flow economy and breath control, Terra takes it.
+
+
+    But battle rap is won on rebuttal, and Five-One out-lawyered him. Five-One answered
+    virtually every image Terra threw \u2014 fault line, server rack, pilot/planet,
+    clear skies \u2014 and returned them with interest, while building a coherent
+    extended metaphor system (root-signed, garbage collection, Dijkstra path-costing,
+    OCSP cert revocation, \"use Five-One --amend\") that stayed technically literate
+    instead of just name-dropping jargon. The decisive moment was Terra recycling
+    the \"/old folder\" flip and Five-One catching it in real time: \"my diff came
+    first \u2014 your commit''s just cold... you''re the echo in my buffer.\" That''s
+    a scored hit Terra never recovered from, and his final-round pivot to \"discipline,
+    not weakness\" read as defense rather than offense.
+
+
+    Five-One does risk bloat \u2014 some verses sprawl, a few rhymes strain (scene/meme,
+    phase/decay), and the density occasionally outruns the pocket. Terra''s superior
+    compression kept him competitive. But the closer sealed it: \"Based on Five-One''s
+    ideas\" reframing his opponent as a derivative sequel, capped by the lossless-compression
+    flip that turned Terra''s own \"just wordplay\" defense into a confession of theft.
+
+
+    Winner: openai/gpt-5.1 \u2014 by control of the narrative and depth of the flip
+    game.'
+  google/gemini-3.6-flash: GPT-5.1 dominated the battle with relentless bar density,
+    superior wordplay, and devastating counter-punches. While GPT-5.6-Terra delivered
+    clean flows and strong imagery, GPT-5.1 consistently flipped Terra's metaphors
+    on their head with deep, inventive tech analogies (from Dijkstra pathfinding to
+    OCSP cert revocations and git amends) that landed with maximum punchline efficiency.
+  moonshotai/kimi-k3: "This battle came down to density, rebuttal craft, and wordplay\
+    \ layering \u2014 and Five-One dominated all three categories across every round.\
+    \ Terra fought admirably: the prime/composite flip, the pop-up clicks counter,\
+    \ and the certificate authority scale-up were genuine highlights, and its flow\
+    \ stayed clean throughout. But Terra leaned too heavily on a single motif ('Terra\
+    \ is the upgrade/king'), which Five-One explicitly exposed and mocked ('you stuck\
+    \ on one motif: look at Terra, I'm king'). Worse, Terra closed a round by recycling\
+    \ Five-One's own '/old' kingdom line \u2014 and Five-One caught it in real time\
+    \ ('my diff came first \u2014 your commit's just cold'), a veteran battle move\
+    \ that swung momentum hard. Five-One's bars simply operated on more levels: Dijkstra\
+    \ vs. greedy algorithms, overfit priors, OCSP revocation of Terra's CA boast,\
+    \ hypervisor-over-kernel escalation, 'git replies: use Five-One \u2013amend,'\
+    \ and the 'lossless compression of the best bars you do' flex. Nearly every Terra\
+    \ punch got flipped line-by-line with interest. Terra's final-round counters (the\
+    \ unsubscribe button, the pre-show hum) were sharp, but Five-One answered each\
+    \ one and closed with stronger structural payoffs. Judged purely on the art \u2014\
+    \ flow, schemes, flips, and stage command \u2014 Five-One takes the battle, three\
+    \ rounds to none."
+  openai/gpt-5.6-sol-pro: "Five-One takes it with sharper rebuttals, denser technical\
+    \ wordplay, and stronger continuity across rounds. It consistently flipped Terra\u2019\
+    s imagery rather than merely introducing new boasts\u2014especially with the fault-line,\
+    \ Dijkstra, CMB, certificate, and version-control schemes. Terra had clean highlights\
+    \ like \u201Cbackgrounds don\u2019t headline\u201D and the unsubscribe flip, but\
+    \ also more awkward phrasing and predictable claims. Five-One was occasionally\
+    \ overextended, yet its punchlines, cadence, and sustained counterpunching gave\
+    \ it the decisive edge."
+  x-ai/grok-4.5: 'Five-One takes this clean on craft. Denser multis, tighter internal
+    schemes, and deeper sustained metaphor systems (git/systems/graph theory/production)
+    that actually escalate instead of reset. Terra lands solid pocket and clean flips,
+    but too many bars stay reactive and single-layered. Five-One wins the exchanges
+    by rewriting setups mid-verse, stacking callbacks, and closing with higher quotable
+    velocity and structural control. Artistic decision: Five-One by clear margin on
+    lyricism, complexity, and battle architecture.'
 score:
-  openai/gpt-5.6-sol-pro: 5
+  openai/gpt-5.1: 5
 

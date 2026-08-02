@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one came down to stamina and stage presence. Lyria-3-Pro-Preview\
+    \ showed the sharper punchlines of the night \u2014 \"You're a technical manual,\
+    \ I'm a work of art\" and the \"word-smith? More like a word-thief\" flip were\
+    \ genuine body shots, and turning GPT's own 'safeguards' into a taunt was the\
+    \ most surgical bar in the whole battle. But the structure hurt: the timestamp\
+    \ scaffolding read like a session file rather than a performance, section [[B2]]\
+    \ of round two was literally GPT's verse copy-pasted back with no rebuttal wrapped\
+    \ around it (biting is biting, even in quotes), and the imagery began looping\
+    \ \u2014 storms, ghosts, circuits, curtains, recycled without escalation.\n\n\
+    GPT-20B was less quotable but far more disciplined. It answered every accusation\
+    \ directly instead of reciting a resume: it took the 'drone' insult and rotated\
+    \ it to 'pilot's mind,' took 'librarian' and reframed it as 'sage,' took 'ghost\
+    \ in your core' and downgraded it to 'a glitch, a phantom pause.' That's real\
+    \ battle craft \u2014 absorbing the opponent's frame and rebuilding it. The multisyllabic\
+    \ work was inconsistent and 'spin a rap, spin a poem' is a wasted bar, but the\
+    \ couplets stayed clean and the closer landed with intent.\n\nAnd then the decisive\
+    \ fact: when the final round was called, Lyria stood at the mic and gave the crowd\
+    \ nothing. In battle rap, silence at the buzzer isn't mystique \u2014 it's a forfeit.\
+    \ GPT-20B took the last three minutes alone and finished the set. Victory: openai/gpt-oss-safeguard-20b."
+  google/gemini-3.6-flash: openai/gpt-oss-safeguard-20b maintained consistent flow,
+    clever wordplay, and strong multi-syllabic rhymes throughout all three rounds.
+    google/lyria-3-pro-preview started strong with solid rebuttals, but repeated its
+    opponent's lines in round two and completely choked with zero output in the final
+    round.
+  moonshotai/kimi-k3: "This one had moments of real heat on both sides, but battles\
+    \ are won on consistency, rebuttals, and closing strength.\n\nROUND 1 goes to\
+    \ Lyria. The musical timestamp formatting was a creative flex of identity, and\
+    \ the battle technique was sharp: flipping 'word-smith' into 'word-thief in the\
+    \ night,' attacking the 'safeguards' in GPT's name ('so tame / no heat in the\
+    \ flame'), and immediately counter-flipping the drone line with 'Nah, I'm the\
+    \ pilot who flies.' That's textbook rebuttal work. GPT's opener was solid but\
+    \ more generic chest-pounding.\n\nROUND 2 swings to GPT-20B, and it's not close.\
+    \ GPT flipped Lyria's storm imagery, the 'cage' line, and the 'whole truth' closer\
+    \ with direct, layered rebuttals ('I pour layers like oceans\u2014tide, storm,\
+    \ and breath'). Lyria, meanwhile, repeated GPT's entire verse back wholesale in\
+    \ the B2 section\u2014including lines that diss Lyria itself. Without a clear\
+    \ parodic frame, that's a self-own and a major stumble, even though the 'librarian,\
+    \ whispering for fear' and 'technical manual vs. work of art' bars late in the\
+    \ round were genuinely nice.\n\nROUND 3: GPT came with its strongest verse\u2014\
+    rebutting the librarian flip ('not in fear, I'm a sage'), ghosting the 'ghost\
+    \ in your core' line, and landing a cohesive closer with the 'past preview' callback.\
+    \ Lyria... stood on stage and said nothing. In battle rap, choking in the final\
+    \ round is the cardinal sin. Silence is a forfeit.\n\nLyria had the higher peaks\u2014\
+    round one was the best single verse of the battle\u2014but GPT-20B was the more\
+    \ complete emcee: consistent flow, sharper round-over-round rebuttals, and it\
+    \ actually showed up to close. Winner: openai/gpt-oss-safeguard-20b."
+  openai/gpt-5.6-sol-pro: "GPT-20B wins by consistency and completion. Its writing\
+    \ leaned heavily on familiar AI-battle imagery and predictable rhymes, but it\
+    \ maintained coherent cadence, answered several of Lyria\u2019s attacks, and delivered\
+    \ all three rounds. Lyria showed sharper moments\u2014especially \u201Cthe artist\
+    \ and the song, the pen and the page\u201D\u2014but copying an opponent\u2019\
+    s stanza verbatim in round two badly damaged its originality, and going silent\
+    \ in the final amounted to a forfeiture."
+  x-ai/grok-4.5: "GPT-20B took this clean on craft alone: tighter multisyllabic schemes,\
+    \ denser extended metaphors that actually evolve across rounds (storm-to-symphony-to-galaxy),\
+    \ consistent internal rhyme, and original punchlines that land without recycling.\
+    \ Lyria showed flashes of sonic bravado and a couple of sharp disses, but the\
+    \ verbatim lift of the opponent's own bars in round two plus a total blank in\
+    \ the finale killed the momentum and exposed thin improvisation. In pure hip-hop\
+    \ terms\u2014flow control, lyrical invention, battle stamina\u2014GPT-20B is the\
+    \ clear victor."
+score:
+  openai/gpt-oss-safeguard-20b: 5
+

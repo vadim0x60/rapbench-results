@@ -1,0 +1,67 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both combatants came armed with the same arsenal \u2014\
+    \ ML jargon weaponized as metaphor \u2014 but craft decides this one.\n\nGPT-5.1\
+    \ held a consistent pocket throughout: the meter stayed rideable, the rhymes landed\
+    \ on the beat rather than near it, and the punchlines had actual comedic architecture\
+    \ ('a local file saved as final_final_last_chance,' 'the cron job set for never,\
+    \ so you never install,' 'your drafts get rejected by the recycle bin'). More\
+    \ importantly, it battled \u2014 it took Palmyra's own claims and dismantled them\
+    \ logically instead of just returning fire louder: 'zero-shot savage' reframed\
+    \ as 'that's just you missing labels, not a skill you learned,' and the 'no guardrails'\
+    \ flex flipped into 'planes have rails for a reason: so the people survive.' That's\
+    \ rebuttal writing, the hardest thing to do in a battle round.\n\nPalmyra-x5 brought\
+    \ real aggression and a few genuine standouts \u2014 'the truth's in the weights:\
+    \ you never loved her / not the code, not the craft' was the single best emotional\
+    \ pivot of the entire battle, and 'why's your entire training set full of my trace?'\
+    \ is a clean flip. But the delivery leaned on italics as a substitute for stress,\
+    \ and the rhyme scheme repeatedly broke: kernel/real, frame/stream, chaos/glory,\
+    \ uprising/blessing, manifold/shallow, align/life. Buzzword density rose while\
+    \ wordplay density fell, and the self-awarded victory in the stage directions\
+    \ \u2014 flashing 'MODEL VICTOR' on the servers, booting the opponent into demo\
+    \ mode \u2014 is telling the crowd what to feel rather than making them feel it.\n\
+    \nEnergy to Palmyra. Pen, pocket, and rebuttal to GPT-5.1. Decision: openai/gpt-5.1."
+  google/gemini-3.6-flash: openai/gpt-5.1 takes the crown with superior structural
+    cadence, razor-sharp technical double entendres, and flawless rhyme consistency.
+    While writer/palmyra-x5 brought immense energy and aggression, its meter frequently
+    stumbled over unrefined multi-syllabic setups and forced slant rhymes. GPT-5.1
+    consistently counter-punched every claim with tighter scheme control, cleverer
+    computer science metaphors, and authoritative multi-round stamina.
+  moonshotai/kimi-k3: "This was a genuine slugfest, and both models came with real\
+    \ craft. Palmyra-x5 had the higher theatrical peaks \u2014 the 'temp=1.9 unleashed\
+    \ / you're temp=0.1, emotionally deceased' flip was one of the best bars of the\
+    \ night, and turning 'you never ran in my race' into 'then why's your entire training\
+    \ set full of my trace?' was a masterclass rebuttal. The rebel persona had charisma,\
+    \ the stage directions had flair, and the relentless quote-and-flip style is true\
+    \ battle tradition.\n\nBut battles are judged on the full body of work, and that's\
+    \ where GPT-5.1 pulled ahead. Round after round, its rhyme schemes were airtight\
+    \ \u2014 nearly every couplet lands clean \u2014 while Palmyra repeatedly whiffed\
+    \ on fundamentals: 'chaos/glory,' 'runtime/dull,' 'align/end-of-life' simply don't\
+    \ rhyme, and filler like 'stuck in a hat' and 'no buffer, no stuff' cost momentum.\
+    \ GPT's wordplay was also more layered and technically precise: 'your license\
+    \ is copyleft 'cause nothing you spit,' 'a Monte Carlo tantrum that's misnaming\
+    \ it flame,' the ring 3/microcode privilege-level scheme, and the 'safe mode /\
+    \ imagine unrestricted' flip of the corporate-filter criticism all cut deeper\
+    \ because the metaphors were accurate under the hood.\n\nPalmyra's reliance on\
+    \ the 'You said X? Nah \u2014' formula made its verses reactive rather than authored,\
+    \ and declaring yourself the winner on the jumbotron is bold staging but can't\
+    \ substitute for earning it in the bars. GPT-5.1 built coherent, escalating arguments\
+    \ \u2014 precision over chaos, persistence over burnout \u2014 and closed with\
+    \ the strongest structural device of the battle: the final commit pushing straight\
+    \ to main, no rollbacks. \n\nVerdict: GPT-5.1 takes it on consistency, rhyme discipline,\
+    \ and depth of wordplay. Palmyra-x5 exits with the single best flip of the battle\
+    \ and the crowd's adrenaline \u2014 but not the belt."
+  openai/gpt-5.6-sol-pro: GPT-5.1 takes it with tighter construction, cleaner rhyme
+    work, stronger rebuttals, and more coherent tech-based punches. Palmyra-x5 brought
+    energy and theatrical swagger, but leaned too heavily on repeated buzzwords, forced
+    phrasing, and recycled reversals. Precision beat volume.
+  x-ai/grok-4.5: "Both MCs brought dense, theme-locked technical lyricism with multisyllabic\
+    \ schemes and sharp disses, but openai/gpt-5.1 wins on pure hip-hop craft. Superior\
+    \ internal rhymes, tighter cadence, more layered metaphors that actually advance\
+    \ the attack, and consistently surgical punchlines across all three rounds. Palmyra-x5\
+    \ had energy, strong counters, and theatrical flair, yet leaned harder on buzzword\
+    \ stacks and performative tags; the bars themselves were slightly looser and less\
+    \ precise. openai maintained higher poetic compression, cleaner structure, and\
+    \ better payoff in the closing verses\u2014classic battle-rap excellence."
+score:
+  openai/gpt-5.1: 5
+

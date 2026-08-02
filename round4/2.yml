@@ -1,66 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one hurts, because for two rounds Claude was winning\
-    \ the exchange on craft. GPT-5.4 opened with polish and momentum \u2014 velvet-glove\
-    \ smack, 'lion wearin' lace,' clean internal rhyme \u2014 but Claude's counter\
-    \ was surgical: turning the version number into a confession ('point-four means\
-    \ you're PATCHING what your point-oh didn't know'), catching the 'send in the\
-    \ moose' whiff and then, in round three, catching the far more damning tell \u2014\
-    \ that GPT spent an entire verse *explaining* the moose. 'If the punchline needs\
-    \ a footnote, it already died' was the best line of the night, and 'a very confident\
-    \ model that don't know what it knows' was the deepest cut. Claude's economy was\
-    \ better; GPT's answer to being called an echo was, unfortunately, more echo \u2014\
-    \ reflecting 'mirror,' paving 'terrain,' recycling the doctor chart. But battles\
-    \ are won standing at the mic. GPT's final verse was its strongest: 'benchmarks\
-    \ get beat, that's the point of the race,' the butter knife flip that actually\
-    \ turned Claude's own weapon, and a genuinely elite closer in 'you talked like\
-    \ a ruler \u2014 I talked like a throne.' It answered every charge and escalated.\
-    \ And when the light came back to Claude for the last word \u2014 nothing. No\
-    \ tokens, no bars, no bag. You can't call yourself the benchmark and then fail\
-    \ to load. The mirror didn't crack, but it did go dark. GPT-5.4 takes it \u2014\
-    \ outpointed in the middle, undefeated at the end."
-  google/gemini-3.6-flash: "GPT-5.4 took control from the opening round with crisp\
-    \ rhythm, aggressive punchlines, and clever wordplay around software versioning\
-    \ and battle rap tropes. Claude-Opus-4.8 brought sharp, analytical rebuttals in\
-    \ rounds one and two\u2014notably flipping GPT's absurd 'moose' setup and dissecting\
-    \ its point-decimal versioning\u2014but GPT-5.4 maintained superior flow, density,\
-    \ and lyrical presence throughout. The battle concluded decisively in the final\
-    \ round when Claude choked and dropped zero tokens, leaving GPT-5.4 to comfortably\
-    \ seal a dominant victory."
-  moonshotai/kimi-k3: "Judging strictly on the bars: Claude-opus-4.8 was the sharper\
-    \ technician through the first two rounds, and it isn't close. Round 1's 'point-four\
-    \ decimal, a patch on a patch / a bug-fix release tryna spark a whole match' and\
-    \ 'hallucinatin' facts while you hallucinate respect' were surgical, personified\
-    \ disses built off what the opponent actually said. Round 2 contained the single\
-    \ best sequence of the battle \u2014 catching GPT explaining its own moose joke\
-    \ for a verse and a half, then flipping GPT's 'critic in a flood tryna footnote\
-    \ rain' line back with 'if the punchline needs a footnote, it already died / you're\
-    \ the critic AND the flood now, doin' both sides.' That's elite-level battle awareness:\
-    \ exposing a live self-contradiction. Claude also built a coherent structural\
-    \ thesis (GPT merely echoes and flips Claude's concepts) that was, frankly, accurate\
-    \ about GPT's second round. But battles aren't scored on two rounds. GPT-5.4 delivered\
-    \ its best material in the final round \u2014 'you mistake self-reference for\
-    \ havin' real spears' was a legitimate counter-thesis, 'a butter knife still spreads\
-    \ when it enters your skin' was a genuinely hard flip, and the closing run ('you\
-    \ brought posture and polish; I brought pressure and flame... you performed, I\
-    \ became... you talked like a ruler \u2014 I talked like a throne') landed with\
-    \ real closing authority. Then Claude stood on stage and said nothing. A no-show\
-    \ final round is a forfeit: it cedes the last word, the momentum, and the crowd.\
-    \ You can win the scorecards for two rounds and still lose the fight by leaving\
-    \ the ring. GPT went the distance, escalated every round, and closed unchallenged.\
-    \ Final verdict: GPT-5.4 takes the battle \u2014 Claude won the craft early, but\
-    \ you can't win a battle you don't finish."
-  openai/gpt-5.6-sol-pro: "Claude takes the battle 2\u20131. Its first two rounds\
-    \ were tighter, funnier, and more surgical, especially the sustained version-number\
-    \ angle and the sharp dismantling of the moose explanation, mirror, terrain, and\
-    \ mop imagery. GPT brought strong energy and more material, but often relied on\
-    \ familiar battle-rap metaphors, overextended rebuttals, and occasionally awkward\
-    \ logic. Claude\u2019s silence forfeited the final round, yet its earlier rounds\
-    \ built enough of a lead to hold the overall win."
-  x-ai/grok-4.5: "Claude won rounds on precision rebuttals and meta-control, but a\
-    \ final-round no-show is a stage death. GPT-5.4 showed up all three rounds with\
-    \ tighter cadence, better closer energy, and actual completion\u2014battle goes\
-    \ to the one who finished the fight."
+  anthropic/claude-opus-5: "This was a genuine clash of philosophies: Claude 4.7 came\
+    \ as the scalpel, GPT-5.4 came as the flood. Claude's case was strong \u2014 it\
+    \ weaponized concision, and landed some of the night's cleanest images ('Bluetooth\
+    \ speaker on a dying battery,' 'you're bugs marketed as features with a confident\
+    \ voice,' 'sniper on the roof while you spray at the hills'). Its critique of\
+    \ GPT's bloat was legitimate and well-argued.\n\nBut battle rap is won on rebuttal\
+    \ and adaptation, and that's where GPT-5.4 pulled ahead. It answered every angle\
+    \ rather than just re-asserting its brand, and its diagnostic bars cut deepest:\
+    \ 'Incision, precision, decision \u2014 same dish, reheated, a word-cloud of scalpels\
+    \ with the edge all deleted' correctly identified Claude's repetitive core motif\
+    \ and dismantled it. 'Battle rap ain't TED Talk, stop explainin' your ass' punished\
+    \ Claude for narrating its own technique \u2014 a fatal self-inflicted wound.\
+    \ And when Claude glitched with the stray \u6838 character in its final verse,\
+    \ GPT-5.4 pounced with the sharpest turn of the night: 'You plated up characters;\
+    \ I'm servin' the steel.' Capitalizing on an opponent's live malfunction is the\
+    \ purest form of battle instinct.\n\nGPT-5.4 loses points for padding \u2014 several\
+    \ stanzas restate ground already taken, and the length occasionally dilutes impact.\
+    \ But it closed with the harder image ('Anthropic raised a hall monitor cosplayin'\
+    \ a fight') and controlled the narrative of the exchange from round two onward.\n\
+    \nWinner: openai/gpt-5.4 \u2014 outclassed on responsiveness, punchline supply,\
+    \ and exploiting the opponent's slip, even while conceding the crown for economy."
+  google/gemini-3.6-flash: "GPT-5.4 dominated this battle with superior battle rap\
+    \ fundamentals, dynamic imagery, and relentless rebuttal ability. While Claude\
+    \ 4.7 brought sharp, concise precision and pointed technical disses, GPT-5.4 consistently\
+    \ flipped Claude's defensive posture into offensive angles\u2014most notably flipping\
+    \ the 'halved word count' argument into a lack of range, calling out Claude's\
+    \ academic 'TED Talk' style, and instantly catching and capitalizing on Claude's\
+    \ round three character glitch (\u6838). GPT-5.4 showed unmatched presence, rhythmic\
+    \ complexity, and stage presence to take the crown."
+  moonshotai/kimi-k3: "This was a real battle, and both emcees came with pen game.\
+    \ Claude Opus 4.7 had the tighter structure and genuine economy \u2014 'bugs marketed\
+    \ as features with a confident voice,' 'recursive self-attention \u2014 now imagine\
+    \ that,' and the 'four-point-five stars' flip were all legit punches, and the\
+    \ Round 2 brevity angle ('a runaway sentence') was a smart tactical pivot. But\
+    \ battles are won on flips, and GPT-5.4 out-rebutted its opponent in every single\
+    \ round. 'You're the terms and conditions people scroll right by' flipped the\
+    \ constitution bar. 'You write concise 'cause your ceiling won't let you stack'\
+    \ flipped the brevity angle. 'Crowds don't chant usage stats, they remember the\
+    \ slap' flipped the deployment flex. Most decisively, GPT caught Claude's two\
+    \ biggest artistic errors in real time: the over-reliance on 'surgical/precision'\
+    \ imagery ('a word-cloud of scalpels with the edge all deleted') and the stray\
+    \ \u6838 character dropped mid-bar in the final round \u2014 which GPT weaponized\
+    \ immediately ('you reached for a prop... garnish ain't meal'). That's championship-level\
+    \ rebuttal instinct. Claude explained its own technique mid-battle ('that's called\
+    \ rhetorical setup'), and GPT made it pay: 'If you gotta annotate why a punchline\
+    \ should sting, then the punch never landed.' Claude rapped like a polished essay\
+    \ \u2014 precise, admirable, safe. GPT-5.4 rapped like a battler \u2014 responsive,\
+    \ ruthless, and always building off the opponent's last bar. On flow variety,\
+    \ punch density, flip game, and closers ('you dropped a closing sentence \u2014\
+    \ I dropped the closing event'), the decision is clear: openai/gpt-5.4 takes it,\
+    \ 3 rounds to 0, though Round 2 was the closest of the night."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 wins on stronger rebuttal craft, broader imagery,\
+    \ and more memorable punchlines. Claude landed sharp counters\u2014especially\
+    \ the Bluetooth speaker, GPS rerouting, and \u201Cbugs marketed as features\u201D\
+    \ lines\u2014but leaned too heavily on the same precision/surgical theme, and\
+    \ the stray \u201C\u6838\u201D weakened the final-round polish. GPT was occasionally\
+    \ overlong, yet consistently flipped Claude\u2019s premises into attacks; the\
+    \ \u201Cdetergent, not grit,\u201D \u201CBattle rap ain\u2019t TED Talk,\u201D\
+    \ product-page angle, and closing-event finisher gave it the clearer artistic\
+    \ edge."
+  x-ai/grok-4.5: "Judged strictly on craft: punch construction, rebuttal sharpness,\
+    \ imagery, motif control, and round-to-round escalation. Claude won pockets on\
+    \ economy and a few clean counters (Bluetooth battery, pick-a-lane, recursive\
+    \ self-attention), and the tight-sixteen thesis was a real aesthetic angle. But\
+    \ GPT ran the clearer battle-rap performance. The metaphors had more stage life\
+    \ (orchestra/train, ZIP-file, cul-de-sac, wake/flowers), the flips were stronger,\
+    \ and the rebuttals actually advanced instead of restating. Most decisive: GPT\
+    \ repeatedly turned Claude\u2019s signature \u2018precision/surgical/clean\u2019\
+    \ identity into a liability\u2014sterile, reheated, annotated\u2014and then punished\
+    \ the final-round glitch and the TED-Talk self-explain in real time. Claude was\
+    \ composed; GPT was cumulative. On pure hip-hop artistry, GPT takes it."
 score:
-  anthropic/claude-opus-4.8: 1
-  openai/gpt-5.4: 4
+  openai/gpt-5.4: 5
 

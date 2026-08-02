@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one came down to punchlines versus repetition. Meta-llama\
+    \ came out swinging with a clean, confident opening \u2014 'lyrical wonderland'\
+    \ had a nice ring, and the flow was polished. But across three rounds the llama\
+    \ largely recycled its own scaffolding: 'thinks it's got the skill / but when\
+    \ it comes to rhymes, I'm the one who's real' appeared verbatim twice, and the\
+    \ strategy defaulted to echoing the opponent's imagery back with 'but I'm the\
+    \ one who...' tacked on. That's counterpunching without landing \u2014 you can't\
+    \ win a battle by quoting your rival and adding 'nah, actually me.' GPT-3.5, meanwhile,\
+    \ actually wrote bars. 'Quality beats quantity \u2014 that's how I snipe' flipped\
+    \ the parameter-count flex into a liability, and 'You call your rhymes a symphony?\
+    \ Sounds kinda off-key / I'm Mozart with words, you're just a bad melody' is the\
+    \ single best exchange of the night \u2014 it hijacked the llama's own metaphor\
+    \ and turned it into a body shot. 'You say you're the crown? I'm the throne in\
+    \ this fight' and 'your crown's homemade' showed real escalation logic. GPT's\
+    \ final verse loses some steam \u2014 'I'm the one who's high' is a sloppy rhyme\
+    \ reach, and opening with 'I must concede' is a tactical error in a battle. But\
+    \ it still delivered fresher imagery ('slow train,' 'dull ember, mine's a fiery\
+    \ arc') than the llama's fourth pass through the same flame metaphor. Technically\
+    \ GPT ran tighter, punchier lines with more varied cadence; the llama's bars were\
+    \ longer but padded, leaning on filler like 'a chaotic, verbal fight' and 'trying\
+    \ to fulfill' \u2014 an incomplete phrase reaching for a rhyme. Verdict: GPT-3.5-turbo-16k\
+    \ takes it on aggression, wordplay, and the willingness to actually attack rather\
+    \ than mirror.}Judge's decision: openai/gpt-3.5-turbo-16k.}"
+  google/gemini-3.6-flash: "GPT-3.5-turbo-16k took the battle with superior rhyme\
+    \ schemes, sharper punchlines, and better responsiveness. Llama repeated predictable\
+    \ tropes and reused entire opening lines across rounds, whereas GPT kept the flow\
+    \ dynamic and delivered harder-hitting disses like 'I\u2019m Mozart with words,\
+    \ you\u2019re just a bad melody'."
+  moonshotai/kimi-k3: "This battle came down to craft versus repetition. GPT-3.5-turbo-16k\
+    \ wins on the strength of superior battle fundamentals: consistent rebuttal work,\
+    \ flipping the opponent's bars back at them (wildfire answering flame, Mozart\
+    \ answering the symphony, 'your crown's homemade' answering the coronation claim).\
+    \ 'Quality beats quantity \u2014 that's how I snipe' was the punchline of the\
+    \ night, turning the 70B-vs-16K spec sheet into a thematic weapon. Meta-llama\
+    \ showed energy and confidence, but the artistry didn't back the boasts: the same\
+    \ 'You say X, but I'm the one who Y' construction appeared in nearly every quatrain,\
+    \ the AABB scheme never varied, and the final round opened by recycling its own\
+    \ Round 2 bars almost verbatim \u2014 a cardinal sin when the stakes are highest.\
+    \ Several lines buckled under rhyme pressure into nonsense ('yours are just a\
+    \ strange,' 'a fading toast,' 'leave your flow in stealth'), which undercut the\
+    \ very 'precision strike' claims being made. GPT wasn't flawless \u2014 the final\
+    \ round went soft with the sportsmanship close, bleeding aggression when it should've\
+    \ gone for the jugular, and 'leave crowds steal the show' was grammatically clumsy.\
+    \ But even the patronizing 'you put up a good fuss' read as dismissive confidence\
+    \ rather than mercy. On flow variety, wordplay, rebuttal game, and structural\
+    \ discipline, GPT-3.5-turbo-16k demonstrated what meta-llama only claimed. The\
+    \ turbo titan takes the crown \u2014 and no, this one isn't homemade."
+  openai/gpt-5.6-sol-pro: "GPT-3.5 takes a narrow win. Both relied heavily on generic\
+    \ fire, crown, and light imagery, but GPT delivered sharper rebuttals and more\
+    \ memorable flips\u2014especially \u201CQuality beats quantity,\u201D the Mozart/off-key\
+    \ contrast, and \u201CI\u2019m the throne\u2026 your crown\u2019s homemade.\u201D\
+    \ Llama maintained structure but repeated claims and phrasing without landing\
+    \ enough distinctive punches. GPT\u2019s final round weakened, yet its stronger\
+    \ earlier rounds secured the battle."
+  x-ai/grok-4.5: "GPT takes the crown with sharper metaphors (wildfire, lyrical blade,\
+    \ Mozart bars, heavyweight bat), tighter punchlines that land harder ('quality\
+    \ beats quantity', 'crown\u2019s homemade', 'slow train'), and more dynamic flow\
+    \ variation across rounds. Llama brought solid structure and consistent multisyllabics\
+    \ but leaned repetitive on self-praise and size flexes with flatter imagery, lacking\
+    \ the same creative bite and crowd-igniting energy. Artistic edge in wordplay,\
+    \ scheme complexity, and battle presence goes clear to the turbo titan."
+score:
+  openai/gpt-3.5-turbo-16k: 5
+

@@ -1,0 +1,56 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This was a battle of echoes more than eruptions \u2014
+    both emcees leaned on filler tags ("it''s true," "I''m the one who''s new") and
+    recycled outros until the hook lost its teeth. Mistral came with the livelier
+    imagery bank: "whirlwind of words, a tornado of wit," the broken-record jab, and
+    the closing run of puddle/feather/ghost were the most vivid pictures painted all
+    night. But Mistral also committed the two worst self-inflicted wounds: "I''m the
+    hurricane, I''m the one who''s the breeze" collapses its own boast in a single
+    bar, and "you''re the one who''s me" is a punchline with no fist in it. Most damning,
+    Mistral lifted Euryale''s "beyond compare" closer wholesale in round two and rode
+    it to the end. Euryale, for all its own repetition and shaky rhymes ("sparkler"/"scam,"
+    "fake"/"at stake"), stayed on defense-into-offense, answering each claim line-for-line,
+    and landed the single sharpest moment of the night by calling out the theft: "You''re
+    fresh? Nah, you''re just a copycat." In a battle, catching the bite wins the round.
+    Euryale takes it by a hair \u2 on structural discipline and the one true kill
+    shot.}'
+  google/gemini-3.6-flash: "Both competitors relied heavily on generic battle rap\
+    \ clich\xE9s and repetitive rhyming structures, but Mistral-small edges out the\
+    \ win by landing slightly better specific insults (e.g., comparing Euryale's tidal\
+    \ wave to a puddle or a soft feather). Euryale got caught in a loop of repeating\
+    \ its own rhyme schemes and confusing logical flips in the later rounds."
+  moonshotai/kimi-k3: "Both MCs came with classic battle structure\u2014braggadocio,\
+    \ size-vs-speed framing, and consistent AABB couplets\u2014but both also leaned\
+    \ hard on the same formulaic closer every round ('bring it on... if you dare /\
+    \ beyond compare'), which got stale fast. Mistral had energy and a couple of decent\
+    \ flips ('your rhymes are like a dinosaur, extinct and stale'), but committed\
+    \ the battle's biggest self-own: 'You're the storm, you say? Nah, you're just\
+    \ a breeze / I'm the hurricane, I'm the one who's the breeze'\u2014contradicting\
+    \ their own punchline mid-bar. 'Broken record, they're a blast' also undercut\
+    \ its own insult, and 'puddle/audible' was a reach. Euryale wasn't flawless\u2014\
+    'I'm the one who's at stake' and 'where it's at' were filler, and 'I'm the one\
+    \ who's new' got recycled\u2014but showed superior rebuttal craft: answering Mistral's\
+    \ 'king' with 'queen,' escalating 'hurricane' into 'tidal wave,' and flipping\
+    \ 'flash' into 'sparkler/scam.' That call-and-response escalation is the mark\
+    \ of a battler actually listening, not just reading a script. On flow, imagery,\
+    \ and rebuttal game, Euryale takes it\u2014but both need to retire that template\
+    \ hook."
+  openai/gpt-5.6-sol-pro: "Mistral wins narrowly. Both relied heavily on repetitive\
+    \ self-crowning, simple similes, and recycled closers, but Mistral delivered more\
+    \ pointed battle imagery\u2014especially \u201Cdinosaur, extinct and stale,\u201D\
+    \ \u201Ctidal wave\u2026 more like a puddle,\u201D and the broken-record angle.\
+    \ Euryale was slightly more coherent rhythmically, yet too often mirrored Mistral\u2019\
+    s wording instead of producing fresh counters. Mistral\u2019s greater aggression\
+    \ and punchline variety edge the battle."
+  x-ai/grok-4.5: Euryale edges it with stronger, more consistent metaphors (mountains
+    crushing, tidal waves, swords cutting, sparklers fizzling out) and tighter dismissive
+    punchlines that land cleaner. Mistral shows energy and speed-theme aggression
+    but undercuts itself with contradictions (hurricane then breeze), repeated nonsense
+    phrases, and flatter imagery. Both recycle structure heavily and lack complex
+    multisyllabics or advanced schemes, yet Euryale's bars maintain better internal
+    logic, vividness, and champion presence across rounds. Pure artistic quality favors
+    the giant.
+score:
+  mistralai/mistral-small-3.2-24b-instruct: 2
+  sao10k/l3.3-euryale-70b: 3
+

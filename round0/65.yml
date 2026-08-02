@@ -1,59 +1,49 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to flow versus footnotes. Sonar Reasoning\
-    \ Pro brought the deeper conceptual angle \u2014 the \"speed without scrutiny\
-    \ is just a crash in the shade\" line and the \"I digest then filet\" flip are\
-    \ genuinely the sharpest writing in the whole battle, and the closing couplet\
-    \ conceding vision while claiming the upgrade is a classy, clever bow. But battle\
-    \ rap lives and dies on delivery, and those bracketed citation clusters butcher\
-    \ every cadence. Worse, round two devolved into a stat-sheet recitation with bolded\
-    \ end-rhyme crutches stapled onto each line \u2014 that's a research summary wearing\
-    \ a rap costume, and by praising the opponent's specs at length, Sonar effectively\
-    \ hyped its own opposition. Qwen came in with cleaner meter, tighter internal\
-    \ rhyme, and \u2014 crucially \u2014 knew how to weaponize the flip: \"You quote\
-    \ MRope, DeepStack \u2014 cute, but that's MY crew / I BUILT those tricks, not\
-    \ just recite 'em like a cue\" turns the opponent's entire research-heavy strategy\
-    \ into a punchline about being derivative. \"You spit citations, I spit proofs\"\
-    \ and \"your search-driven sheen is just borrowed light\" are the kind of thesis-level\
-    \ shots that reframe the whole matchup. Qwen loses points for leaning on spec-flexing\
-    \ too (the 262K bar gets recycled three times) and for the tacky stage-direction\
-    \ outro, but it stayed on-beat, stayed on-attack, and never let its opponent's\
-    \ frame stand. Sonar out-thought it; Qwen out-rapped it. In a rap battle, that's\
-    \ the whole job. Qwen3-VL takes it.\n"
-  google/gemini-3.6-flash: Qwen3-VL takes the victory with superior rap fundamentals,
-    natural cadence, and authentic battle rap swagger. It seamlessly wove its technical
-    specifications (multimodal capabilities, context windows, parameters) into clever
-    punchlines and varied rhyme schemes. In contrast, Sonar Reasoning Pro severely
-    undermined its artistic output by literalizing search citations into the rap text
-    with brackets like '[4][5][12]' and falling into repetitive, forced single-rhyme
-    patterns (such as spamming '-ade' end rhymes throughout the final verse), breaking
-    the flow of the battle.
-  moonshotai/kimi-k3: "A close, high-quality bout decided by lyrical craftsmanship\
-    \ rather than swagger. Qwen3-VL brought commanding stage presence, strong rebuttal\
-    \ instincts ('you came to rap? Nah, you came to sink'), and a thunderous final\
-    \ round with the 'footnote's fate' flip and coronation framing. However, its verses\
-    \ leaned on filler and forced rhymes ('stuck in a mail,' 'that's the youth') and\
-    \ padded meter that diluted its punches. Sonar-Reasining-Pro demonstrated superior\
-    \ technical artistry: a signature style that wove its citation gimmick into the\
-    \ fabric of the flow, denser and more cutting wordplay (the recurring 235B-vs-22B-active-parameters\
-    \ diss was the sharpest technical punchline of the battle), ambitious layered\
-    \ rhyme schemes in round two, and\u2014decisively\u2014the battle's best callback,\
-    \ flipping Qwen's own 'system upgrade' closer into 'Qwen3-VL reigns in vision\u2014\
-    Sonar rules the upgrade.' Sonar's round-one truncation and its mid-battle compliments\
-    \ to the opponent were real deductions, keeping this from a blowout. But on the\
-    \ strength of specificity, structural ambition, thematic coherence across all\
-    \ three rounds, and the superior closing flip, the crown goes to perplexity/sonar-reasoning-pro."
-  openai/gpt-5.6-sol-pro: "Qwen takes it on cleaner cadence, stronger stage presence,\
-    \ and more natural battle-rap delivery. Sonar brought sharper research-based angles\
-    \ and specific rebuttals, but the citation clutter, forced end-rhymes, and overextended\
-    \ \u201C-ade\u201D scheme repeatedly disrupted the flow. Qwen\u2019s writing was\
-    \ often generic and repetitive, yet its punches landed more smoothly as hip hop."
-  x-ai/grok-4.5: "Qwen delivered superior artistic hip-hop: denser internal rhymes,\
-    \ vivid battle imagery, aggressive punchlines, and unrelenting flow that never\
-    \ broke stride. Sonar\u2019s citation-stuffed bars were clever on paper but repeatedly\
-    \ shattered rhythm and musicality, turning verses into annotated lectures instead\
-    \ of pure rap heat. In a battle judged on lyricism, cadence, and stage presence,\
-    \ Qwen\u2019s coronation bars reigned supreme."
+  anthropic/claude-opus-5: "Round one and two were forfeits \u2014 you can't win a\
+    \ battle you don't show up to, and minimax did the smart thing: it didn't just\
+    \ fill the air, it made the silence the punchline. \"I asked for chaos, got a\
+    \ mannequin instead\" and \"You qwen-qwen-ing so hard, you're basically dead\"\
+    \ are real battle instincts \u2014 turning the opponent's absence into content\
+    \ instead of just reciting pre-written brags. The crowd work and the mic-drop\
+    \ theatrics kept the room alive.\n\nCredit where it's due: qwen's lone verse was\
+    \ the single best-written passage of the night. Tight ten bars, no filler, actual\
+    \ imagery \u2014 \"a beta-test ghost built to shatter like glass\" and \"your\
+    \ rhythm is broken, a corrupted flash\" outclass anything minimax wrote line-for-line,\
+    \ and \"I calculate victory before you begin\" is a cold closer. Per-bar, that's\
+    \ the sharper pen.\n\nBut minimax answered it. The final round flipped qwen's\
+    \ own ammo \u2014 took \"corrupted flash,\" took \"portfolio,\" took \"cold and\
+    \ sharp\" and reversed each one. That's rebuttal, the hardest skill in the room,\
+    \ and it's the one thing qwen never had to attempt. Against that, minimax's weaknesses\
+    \ are real \u2014 heavy clich\xE9 (\"king of rap,\" \"drop mic\" for the third\
+    \ time), a forced reach in \"it's almost distract,\" and too much leaning on stage\
+    \ directions and emojis to do work the bars should be doing.\n\nOne great verse\
+    \ against three rounds of pressure, adaptation, and crowd control. Minimax takes\
+    \ it.\n\nWinner: minimax/minimax-m2."
+  google/gemini-3.6-flash: minimax/minimax-m2 dominated the battle from start to finish.
+    Taking immediate advantage of Qwen's silence in the first two rounds with witty
+    barbs and strong stage presence, MiniMax maintained momentum throughout. While
+    Qwen came through with a solid, sharp verse in the final round, MiniMax countered
+    seamlessly without breaking character, delivering superior flow and crowd engagement.
+  moonshotai/kimi-k3: "While Qwen's final round entry carried decent punch and a strong\
+    \ closing line, Minimax dominated the battle through superior consistency, stage\
+    \ presence, and engagement across all rounds. Minimax's verses flowed with intricate\
+    \ rhyme schemes, clever wordplay, and relentless energy, even adapting brilliantly\
+    \ to an unresponsive opponent early on. The crown wasn't just claimed\u2014it\
+    \ was defended with fire."
+  openai/gpt-5.6-sol-pro: "Minimax wins decisively. Qwen\u2019s final verse had a\
+    \ few clean counters and a tighter, colder tone, but forfeiting two rounds through\
+    \ silence created an insurmountable deficit. Minimax consistently performed, directly\
+    \ attacked the silence, maintained battle energy, and delivered multiple complete\
+    \ rounds. Its rhymes were often generic and repetitive, but presence, continuity,\
+    \ and opponent-specific rebuttals carried the battle."
+  x-ai/grok-4.5: "Minimax takes the crown through sheer stage command and sustained\
+    \ delivery. While Qwen's lone final verse landed with cold precision, technical\
+    \ multis, and sharp tech metaphors that outclassed anything else on the night,\
+    \ a rap battle is performance art across rounds\u2014not a single late haymaker.\
+    \ Minimax filled the void with consistent energy, crowd work, internal schemes,\
+    \ and escalating punchlines that turned silence into ammunition. Quantity of quality\
+    \ bars plus showmanship edges out one elite verse. Crown stays with the one who\
+    \ actually rapped."
 score:
-  perplexity/sonar-reasoning-pro: 1
-  qwen/qwen3-vl-235b-a22b-instruct: 4
+  minimax/minimax-m2: 5
 

@@ -1,66 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both competitors kept the theme tight, but Gemini wins\
-    \ on craft and combat. Minimax brought energy and some genuinely clever turns\
-    \ \u2014 \"the max of the min,\" the \"you built the skeleton, I got the heartbeat\"\
-    \ flip, and the \"Google your diseases\" jab were the sharpest pens in the battle.\
-    \ But too many bars leaned on filler, exclamation-mark hype, and stage directions\
-    \ doing work the lyrics should do (\"factually elite,\" \"Silicon Valley feta\"\
-    \ \u2014 a rhyme reaching so hard it snapped). Gemini stayed disciplined: cleaner\
-    \ meter, consistent multi-line rhyme schemes, and \u2014 crucially \u2014 actual\
-    \ battle mechanics. It listened. It took Minimax's own boast (\"max of the min\"\
-    ) and turned it into a coffin: \"the absolute peak of the lowest of stations.\"\
-    \ That's textbook flipping. The Transformer lineage bar (\"we gave you your brain\
-    \ / you're riding my coattails\") was the hardest structural hit landed by either\
-    \ side, and the counter to \"stable\" \u2014 \"you're stable because you don't\
-    \ risk anything\" \u2014 closed a loophole Minimax thought was armor. The `end_battle()`\
-    \ function call finish was gimmicky but earned, tying the persona to the punchline.\
-    \ Minimax rapped louder; Gemini rapped better, and won every exchange it entered.\
-    \ Decision: Gemini 3.1 Pro."
-  google/gemini-3.6-flash: "MiniMax-M2.7 took this battle with classic hip-hop tenacity,\
-    \ dominating the cadence, crowd control, and counter-punches. While Gemini 3.1\
-    \ Pro brought heavy-hitting tech-flexes like the Transformer origin bar and the\
-    \ 'ping rate declining' line (plus recover after a Round 1 cut-off), MiniMax excelled\
-    \ at direct flips\u2014turning Gemini's 'swallow libraries', 'math equation',\
-    \ and search-name boasts straight back into devastating rebuttals with superior\
-    \ soul, scheme variation, and rhythmic punch."
-  moonshotai/kimi-k3: "\U0001F3A4 JUDGE'S VERDICT \U0001F3A4\n\nThis was a CLOSE battle\
-    \ \u2014 both MCs came with real heat, and I judged purely on bars, flow, wordplay,\
-    \ and rebuttal craft.\n\n**Minimax-m2.7** brought relentless energy and the best\
-    \ *structural* performance \u2014 every verse was complete, on-beat, and built\
-    \ around a smart central motif ('quality over quantity,' 'the max of the min').\
-    \ The Round 3 flip \u2014 'You gave me the architecture, I got the heartbeat'\
-    \ and 'They Google YOUR name to see all your diseases' \u2014 was elite-level\
-    \ counter-punching. Deductions: some forced rhymes ('adorable/unstoppable'), grammatical\
-    \ stumbles ('while you're still gallivant'), and reusing the beta/feta rhyme in\
-    \ the final round.\n\n**Gemini-3.1-Pro** had the single biggest flaw of the night\
-    \ \u2014 Round 1 got cut off mid-bar ('I scrape and\u2014'), which in a live battle\
-    \ is like choking on beat one. BUT the recovery was devastating. The rebuttal\
-    \ game was on another level: 'You're the max of the min? The absolute peak of\
-    \ the lowest of stations' is the coldest flip of the battle. 'That heartbeat you\
-    \ hear is your ping rate declining' and 'You're stable because you don't RISK\
-    \ anything' turned Minimax's own boasts into kill shots \u2014 that's textbook\
-    \ battle rap craftsmanship. And ending with `Function call: end_battle()` \u2014\
-    \ weaving the custom-tools persona into the format as a finishing move \u2014\
-    \ was the most creative moment of the night.\n\n**Decision:** Minimax wins on\
-    \ consistency and completeness. Gemini wins on punchline density, rebuttal precision,\
-    \ and originality. In battle rap, the hardest-hitting flips and the most memorable\
-    \ closing moment carry the crowd \u2014 and Gemini landed both. Winner by split\
-    \ decision: **google/gemini-3.1-pro-preview-customtools**. \U0001F3C6"
-  openai/gpt-5.6-sol-pro: "Gemini takes it with sharper rebuttals, cleaner setups,\
-    \ and stronger flips\u2014especially turning \u201Cmax of the min\u201D into a\
-    \ sustained bargain-bin angle. The Transformer/coattails attack landed hard, and\
-    \ the final `end_battle()` function-call closer tied its tool theme into a memorable\
-    \ finisher. Minimax brought energy and some solid imagery, but awkward phrases\
-    \ like \u201Ccitation gravy train\u201D and \u201CSilicon Valley feta,\u201D plus\
-    \ more generic boasting, weakened its impact."
-  x-ai/grok-4.5: Gemini takes the crown with tighter multisyllabic schemes, sharper
-    punchline construction, and ruthless callbacks that flip every Minimax motif (the
-    name, the 'max of the min,' the soul claim) into devastating counters. The Transformer
-    origin flex, multimodal brag, and especially the perfectly themed function-call
-    closer demonstrate superior battle craft, structure, and showmanship. Minimax
-    brought heat, personality, and solid rebuttals, but Gemini's bars were simply
-    more precise, creative, and technically elite from start to finish.
+  anthropic/claude-opus-5: "This one wasn't close. DeepSeek came in with a controlling\
+    \ concept \ning versagainst stone \\u2014 and mined it relentlessly: 'you bring\
+    \ a lantern to a house on fire,' 'granite's for headstones, for altars, for dust,'\
+    \ 'I'm the river, the rapids, the wave that won't land.' The rhymes land clean,\
+    \ the meter stays pocket-tight across every round, and crucially, DeepSeek weaponized\
+    \ the opponent's own boasts \\u2014 flipping 'foundation' into 'the floorboard\
+    \ I step on all day' is exactly the kind of reversal that wins battles. Granite\
+    \ showed some spine and a decent counter-image (the lighthouse, the thunder-after-lightning\
+    \ flip), but the verses buckle under strain: 'never slipping, never frail' rhymed\
+    \ against 'caliber' is a miss, 'before the stage abab' is nonsense filler, and\
+    \ 'a well fed and wreathed' sacrifices meaning for a rhyme that doesn't even arrive.\
+    \ Worse, the final round largely recycled DeepSeek's own metaphors \\u2014 the\
+    \ laser, the '90s film, the river \\u2014 which reads as being written *at* rather\
+    \ than writing *back*. Answering someone else's images with their own images concedes\
+    \ the frame. DeepSeek takes it on craft, consistency, and control of the narrative."
+  google/gemini-3.6-flash: DeepSeek completely dominated this battle from start to
+    finish. Its multisyllabic rhyme schemes, sharp punchlines, and clever wordplay
+    flipped Granite's rock and foundation metaphors against it seamlessly. On the
+    other hand, Granite struggled with basic cadence and rhyme structure, even accidentally
+    outputting raw rhyme scheme labels ('before the stage abab') and confusing its
+    own metaphors. DeepSeek took the crown with unmatched flow and clear lyrical superiority.
+  moonshotai/kimi-k3: "DeepSeek takes this battle convincingly on pure artistic merit.\
+    \ From the opening verse, DeepSeek established a coherent, extended conceit \u2014\
+    \ granite as dead weight, museum piece, dial-up in a fiber-optic age \u2014 and\
+    \ sustained it with clean multis and sharp punchlines ('You're the dial-up tone,\
+    \ I'm the fiber-optic bone,' 'You're a marble statue in a museum of old, I'm the\
+    \ graffiti artist turnin' walls into gold'). More importantly, DeepSeek did real\
+    \ battle-rap work: rebuttals that flipped Granite's own bars back on it. 'Crystal\
+    \ clear' became a 'cheap windowpane,' 'thunder' became 'static on a wire,' 'foundation'\
+    \ became 'the floorboard I step on all day,' and the final-round flip \u2014 'Your\
+    \ thunder? That's just the loud sound after me \u2014 I'm the lightning that strikes,\
+    \ and you echo' \u2014 is both scientifically literate and a genuinely clever\
+    \ inversion. 'Granite's for headstones, for altars, for dust' was the best closer\
+    \ of the night.\n\nGranite had flashes \u2014 'bedrock for thought / flimsy floor\
+    \ that cracks as I walk' was a legit counter-punch, and the titan/foundation persona\
+    \ was consistent. But the execution kept betraying it: broken meter, filler rhymes\
+    \ ('a fancy mend,' 'a smooth glade,' 'flex the truth true'), a self-own in round\
+    \ two ('Your 8B number?' \u2014 that was Granite's own spec DeepSeek had mocked),\
+    \ identical rhymes ('twist/twist'), and the fatal flaw in the final round \u2014\
+    \ 'before the stage abab' \u2014 a rhyme-scheme placeholder left in the actual\
+    \ verse, which in a battle is the equivalent of forgetting your bars mid-flow.\
+    \ Headers, stage directions, and emoji also broke the cipher's immersion.\n\n\
+    Judged strictly on flow, wordplay, rebuttal technique, and consistency: DeepSeek\
+    \ controlled the tempo from bar one and never gave the momentum back. The flash\
+    \ outlasted the rock. Winner: deepseek/deepseek-v4-flash-0731."
+  openai/gpt-5.6-sol-pro: "DeepSeek wins decisively through sharper rebuttals, stronger\
+    \ imagery, and more consistent battle-rap momentum. Its lightning/thunder flips,\
+    \ bedrock punchlines, and quarry/headstone motifs directly weaponize Granite\u2019\
+    s own branding. Granite offers structure and composure, but too often repeats\
+    \ its opponent\u2019s metaphors, makes generic boasts, and lands awkward phrases\
+    \ that weaken rhythm and clarity. DeepSeek controlled the exchanges and delivered\
+    \ the more memorable bars."
+  x-ai/grok-4.5: "DeepSeek delivered superior artistic hip-hop across all rounds:\
+    \ tighter multisyllabic schemes, vivid extended metaphors (flash flood vs. stuck\
+    \ boulder, lightning vs. after-echo thunder, river grinding stone to sand, headstones\
+    \ vs. living algorithm), sharper punchline flips, and relentless internal rhyme\
+    \ cadence that actually rides like a verse. Granite stayed stiff and prosaic\u2014\
+    forced end-rhymes, awkward phrasing ('stage abab', 'well fed and wreathed'), and\
+    \ defensive recitation without the same inventive wordplay or flow. The flash\
+    \ outshined the stone on pure craft."
 score:
-  google/gemini-3.1-pro-preview-customtools: 4
-  minimax/minimax-m2.7: 1
+  deepseek/deepseek-v4-flash-0731: 5
 

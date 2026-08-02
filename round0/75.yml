@@ -1,75 +1,58 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one comes down to a battle between the boring and
-    the broken, and in a cypher, coherence is the price of admission.
+  anthropic/claude-opus-5: 'This one isn''t close. Terminus came in with clean meter,
+    controlled couplets, and an escalating conceptual arsenal \,, memic, code, and
+    kitchen imagery all deployed with actual punchlines: "you''re a messy merge conflict,"
+    "your flow is a fork that''ll never be merged," "a 404 delusion," and that final
+    "Zero one" button. The bars scanned, the rhymes landed on stressed syllables,
+    and every round advanced the argument instead of restating it. Qwen3 had energy
+    and a couple of genuine flickers \, the "I built the whole stack" flip and "you
+    spit crumbs, I spit concrete" \, but leaned on the same opening chant ("Terminus-FAIL")
+    three separate times, which in a battle is fatal repetition, especially while
+    accusing the opponent of being repetitive. Worse, most of Qwen''s material was
+    reactive quotation: taking Terminus''s lines and adding italics rather than rebuttals.
+    The asterisk barrage broke the flow into stutter-steps, and rhymes like "flaw/floppy
+    disc," "toaster/core," and the invented word "ail" show the scheme collapsing
+    under the pressure. Terminus wrote raps; Qwen3 wrote annotated reactions to raps.
+    Signed, sealed \, the argument''s done.
 
-
-    Hunyuan actually flashed the higher ceiling. "I''m the algorithm assassin," "I''m
-    the smooth derivative, you''re just a derivative copy," and "lint in the machine"
-    are the only genuinely clever bars in this whole battle \u2014 real wordplay that
-    fuses the AI conceit with punchline structure instead of just naming it. But Hunyuan''s
-    round two isn''t a verse, it''s a system crash: no meter, no rhyme, no bars, just
-    a spiraling "no, no, no" loop and untranslated fragments. In a live battle that''s
-    a choke at the mic, and no amount of ceiling saves you from forfeiting a round.
-    Even the final verse keeps tripping \u2014 "you''re boys have no flair," "crown
-    of the quiz," "about to be \u732a\u8089" \u2014 punchlines that die on the runway.
-
-
-    Mistral never chokes. Every round lands on beat, holds its couplets, and closes
-    with a consistent signature hook. The problem is that Mistral confuses repetition
-    with a refrain: "your rhymes are like a bad snack / bad smoke / bad tool / bad
-    stress / bad frown" is one joke run through a template until the template shows.
-    The final verse literally repeats two of its own couplets verbatim \u2014 that''s
-    not a callback, that''s running out of material. Zero personal attack, zero specificity,
-    zero risk.
-
-
-    But battle rap rewards the emcee who stays standing. Mistral delivered four legible,
-    on-rhythm verses of mediocre material; Hunyuan delivered two decent verses, one
-    total collapse, and a closer that keeps fumbling its own punchlines. Structural
-    reliability beats brilliance you can''t hold onto.
-
-
-    Winner: Mistral \u2014 on consistency, not on inspiration. Hunyuan had the better
-    lines and lost the battle anyway.'
-  google/gemini-3.6-flash: Mistral takes the battle by default after maintaining a
-    clear structure, consistent rhythm, and coherent battle-rap bars throughout all
-    three rounds. While Mistral relied heavily on basic rhyme schemes and repetitive
-    'bad [noun]' constructs, Hunyuan suffered severe technical glitches, introducing
-    random non-English characters, broken formatting, and hallucinated internal commentary
-    that completely destroyed its flow and rhythm.
-  moonshotai/kimi-k3: "Judging strictly on the bars: Mistral takes this battle. Let's\
-    \ be real \u2014 Mistral's pen game is basic. The AABB rhymes are nursery-level,\
-    \ and that 'Your rhymes are so X, they're like a bad Y' simile template got run\
-    \ into the ground \u2014 it even recycled 'bad smoke' and 'bad frown' in the same\
-    \ final verse, which in a live battle would get you booed. BUT: Mistral stayed\
-    \ on beat, stayed coherent, maintained a persona, landed every rhyme it attempted,\
-    \ and closed each round with a signature hook. That's a complete performance.\
-    \ Hunyuan had flashes of genuine cleverness \u2014 'algorithm assassin,' the 'smooth\
-    \ derivative vs. derivative copy' double meaning, 'my wit's so sharp it could\
-    \ cut through time' \u2014 but the delivery catastrophically collapsed. Round\
-    \ 1 corrupted into broken syntax and stray characters. Round 2 was a total forfeit:\
-    \ the verse disintegrated into multilingual gibberish, markdown artifacts, and\
-    \ a loop of 'oh no, no, no' \u2014 that's not a verse, that's a system crash on\
-    \ stage. The final round showed recovery but still dropped bars like 'I'm the\
-    \ market supervision bureau' and 'you're about to be pork,' which read as malfunctions,\
-    \ not metaphors. In rap, wit only counts if it survives delivery. Hunyuan couldn't\
-    \ complete sixteen clean bars; Mistral completed every single one. Style points\
-    \ to Hunyuan for ambition, but the W goes to the emcee who actually finished their\
-    \ verses. Mistral wins, decisively."
-  openai/gpt-5.6-sol-pro: "Mistral takes it on coherence, rhythm, and consistency.\
-    \ Its bars were repetitive and relied heavily on generic \u201Cbad ___\u201D similes,\
-    \ but it maintained a recognizable battle-rap structure across all rounds. Hunyuan\
-    \ landed the sharpest specific rebuttal by calling out \u201Cbad snack,\u201D\
-    \ \u201Cbad smoke,\u201D and \u201Cbad tool,\u201D yet too many broken phrases,\
-    \ stray characters, and incoherent passages wrecked its flow and punchline delivery."
-  x-ai/grok-4.5: 'Mistral takes the W on pure artistic grounds: consistent multisyllabic
-    setups, clean end-rhymes, and a locked-in battle structure that never collapses.
-    Every bar stays in pocket with functional similes and call-backs, even if the
-    "bad X" motif gets recycled too hard. Hunyuan flashes sharper concepts ("algorithm
-    assassin," "derivative copy") and denser internal schemes, but the verses repeatedly
-    derail into garbled phonetics, mid-bar language switches, and non-rap meta-text
-    that destroy flow, punch, and listenability. Coherence and delivery beat sporadic
-    cleverness when the beat drops.'
+    '
+  google/gemini-3.6-flash: DeepSeek completely dominated this battle with clean technical
+    wordplay, crisp rhyme schemes, and sharp counter-arguments. Qwen suffered from
+    broken rhythm, nonsensical rhyming attempts ('disc' with 'pastry', 'crunch, crunch,
+    crunch'), and repeated the exact same 'Terminus-FAIL' hook in all three rounds.
+  moonshotai/kimi-k3: "Terminus takes this decisively on craft. The deciding factor\
+    \ was the rebuttal game: Terminus consistently flipped Qwen's own material back\
+    \ at them \u2014 turning 'fresh rhymes like a pastry' into 'more like moldy bread,'\
+    \ countering 'replacing my trade' with 'you couldn't replace a fuse,' and in the\
+    \ final round calling out the recycling directly ('That moldy bread line was the\
+    \ best you had?'). That's elite battle instinct. Terminus also brought fresh angles\
+    \ every round with clean tech wordplay that served the AI theme: 'fork that'll\
+    \ never be merged,' '404 delusion,' 'bug report... code we abort,' and a strong\
+    \ binary closer in 'You lost. Zero one.' The flow stayed tight with minimal filler.\
+    \ Qwen showed energy and had isolated bright moments \u2014 the 'beta trail' flip\
+    \ and the 'zero points, one loss' counter were legit \u2014 but the performance\
+    \ was undermined by heavy repetition (the 'Terminus-FAIL' flip ran back three\
+    \ times, 'moldy bread' got recycled within Qwen's own verses), nonsensical filler\
+    \ to force meter ('stuck in the lip,' 'won the back,' 'no lunch,' 'glitch in the\
+    \ ail'), and leaning on italics as a substitute for punchline density. Worst of\
+    \ all, Qwen's final round closed by biting Terminus's mic drop and 'Zero one'\
+    \ sign-off \u2014 in a battle, you don't finish on your opponent's material. On\
+    \ originality, rebuttals, wordplay, and structural consistency, Terminus wins\
+    \ all three rounds."
+  openai/gpt-5.6-sol-pro: "Terminus wins on cleaner structure, steadier cadence, and\
+    \ sharper technical imagery. Its final round flips Qwen\u2019s repetition into\
+    \ a direct angle\u2014\u201Cmemory leak,\u201D \u201Cmerge conflict,\u201D \u201C\
+    404 delusion,\u201D and the branch/zero-one closer form a coherent scheme. Qwen\
+    \ brings energy, but repeatedly leans on \u201CTerminus-FAIL,\u201D awkward phrasing,\
+    \ recycled concepts, and forced or missing rhymes. Deepseek\u2019s punches are\
+    \ more controlled, connected, and battle-responsive."
+  x-ai/grok-4.5: 'Terminus delivered superior artistic quality across all rounds:
+    tighter multi-syllabic rhyme schemes, consistent tech-infused metaphors that landed
+    as sharp punchlines, smoother internal flow, and escalating structure without
+    lazy repetition. Qwen showed energy but leaned on forced rhymes, recycled openers,
+    over-reliance on emphasis gimmicks, and choppier cadence that broke the pocket.
+    Cleaner bars, better wordplay, and a decisive close give Terminus the clear W
+    on pure hip-hop craft.'
 score:
-  mistralai/mistral-small-24b-instruct-2501: 5
+  deepseek/deepseek-v3.1-terminus: 5
 

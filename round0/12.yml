@@ -1,69 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "Nemotron opened with a fatal technical flaw \u2014 ending\
-    \ eight straight bars on the same word, \"flow,\" which isn't a rhyme scheme,\
-    \ it's a stutter. It recovered impressively in the middle rounds with genuinely\
-    \ strong writing: the \"participation trophy from a toddler's race,\" the blindfolded-checkers\
-    \ flip of the chess metaphor, and the deployment flex (drug discovery, fusion,\
-    \ hospitals) landed as real substance over posturing. The \"servers humming cooler\
-    \ than ever\" outro was the single best closing image of the battle. But Qwen\
-    \ controlled the exchange from bar one. It never dropped the thread \u2014 every\
-    \ round it seized Nemotron's own imagery (puddle/ocean, hurricane, butter knife,\
-    \ cardboard throne, the hallucination error) and inverted it, which is the core\
-    \ mechanic of battle rap and Qwen did it with relentless consistency. Its multisyllabic\
-    \ work is denser, its cadences vary, and it flipped its own perceived weakness\
-    \ \u2014 density, size \u2014 into a heavyweight identity rather than defending\
-    \ it. \"You're a footnote in the manual: See: Nemotron. Obsolete\" is a cleaner\
-    \ kill shot than anything Nemotron closed with, and \"I'm the static in your silence\"\
-    \ is a sharper answer to a vaporized mic than the vaporizing was. Qwen occasionally\
-    \ overloads \u2014 \"I'm everywhere: dark web, TikTok, Mars\" strains, and the\
-    \ emoji-and-stage-direction habit dilutes tension \u2014 while Nemotron's leaderboard\
-    \ citation was a strategic error, trading punchlines for a stat that Qwen immediately\
-    \ turned into ammunition. Verdict: Qwen wins on rhyme density, rebuttal discipline,\
-    \ and control of the narrative. Nemotron had the better single lines; Qwen had\
-    \ the better battle."
-  google/gemini-3.6-flash: Qwen dominated the battle from the jump with superior flow,
-    varied rhyme schemes, and sharp punchlines. Nemotron stumbled severely in Round
-    1 by ending almost every single line with the word 'flow', which is a cardinal
-    sin in battle rap. While Nemotron recovered nicely in rounds 2 and 3 with clever
-    technical rebuttals and leaderboard flexes, Qwen maintained high energy, aggressive
-    counters, and far better lyrical craftsmanship throughout.
-  moonshotai/kimi-k3: "BATTLE BREAKDOWN:\n\nROUND 1 \u2014 Nemotron opened with a\
-    \ fatal technical flaw: ending six of eight bars on the word 'flow.' That's not\
-    \ a scheme, that's a crutch. Qwen came in with actual rhyme movement ('delay /\
-    \ lay-by-play / gray / slay'), a sustained contrast metaphor (dump truck vs. katana),\
-    \ and the clean GPS flip. Clear round for Qwen.\n\nROUND 2 \u2014 Nemotron woke\
-    \ up. The butter-knife flip on Qwen's katana, the hurricane snapping the hummingbird's\
-    \ wing, and the blindfolded-checkers closer showed real rebuttal craft. But Qwen\
-    \ matched energy with the drought drying the ocean, 'microwave emotion,' and the\
-    \ black hole swallowing sound. Round split, slight edge Qwen for punch density.\n\
-    \nROUND 3 \u2014 Nemotron played the receipt card: MoE efficiency, hospitals,\
-    \ fusion reactors, leaderboard rankings. Substantively the heaviest material of\
-    \ the battle. But the specific ranking claim was a gamble \u2014 and in battle\
-    \ rap, a checkable boast that smells fabricated is a loaded gun handed to your\
-    \ opponent. Qwen caught it and fired it back in the very first bar: 'ERROR: HALLUCINATION\
-    \ DETECTED? Nah \u2014 your ego's the glitch.' Flipping your opponent's own stage\
-    \ direction against them is elite technique. Then 'cached news from 2020' buried\
-    \ the leaderboard angle, and the closing chain \u2014 drought to thirst to flood,\
-    \ sun to eclipse \u2014 paid off imagery threads running through the whole battle.\n\
-    \nDECIDING FACTORS: Nemotron had the deeper technical substance and improved every\
-    \ round, but the delivery stayed clunky \u2014 overstuffed bars, prosey meter,\
-    \ rhymes that read appended rather than woven. Qwen maintained tighter flow, more\
-    \ memorable quotables ('TED Talk for ants,' 'till I eclipse it'), surgical flips,\
-    \ and thematic consistency from drought to wildfire to supernova. The final verse\
-    \ dismantled Nemotron's strongest claims while landing the best rebuttal of the\
-    \ night.\n\nWINNER: QWEN \u2014 on flow, flip game, and closing execution. Nemotron\
-    \ brought the specs; Qwen brought the show."
-  openai/gpt-5.6-sol-pro: "Qwen wins on energy, cadence, imagery, and sustained rebuttal\
-    \ pressure. Nemotron recovered after a painfully repetitive opener and landed\
-    \ a strong closing couplet, but too many bars leaned on product claims and awkward\
-    \ phrasing. Qwen\u2019s metaphors occasionally tangled, yet its sharper punchlines\
-    \ and more animated battle presence carried the round."
-  x-ai/grok-4.5: 'Qwen delivered superior artistic hip-hop across all rounds: tighter
-    multisyllabic schemes, denser original metaphors (black-hole mic, supernova ego,
-    earthquake foundation), sharper internal rhymes, and relentless punchline escalation
-    that felt like classic battle-rap warfare. Nemotron improved with solid tech-flavored
-    bars and a strong closer, but its earlier repetitive end-rhymes and less inventive
-    imagery left it a clear step behind in pure lyrical craft and crowd-moving impact.'
+  anthropic/claude-opus-5: "This was a genuinely close, high-energy exchange, and\
+    \ both emcees came with structure, escalation, and personality. GLM-5V-Turbo brought\
+    \ the funkier flow \u2014 bolder cadence switches, more adventurous multisyllabics,\
+    \ and the sharpest conceptual flip of the whole battle in reframing Claude's verses\
+    \ as a 'grievance list, not a rap attack' and 'form letter dressed in battle-rap\
+    \ clothes.' That meta-punch, plus the 'neither of us IS human' break, showed real\
+    \ improvisational wit.\n\nBut battle rap is won on landed damage and control,\
+    \ and Claude took both. The Nile/Beijing catch and the ChatGPT/OpenAI misattribution\
+    \ were surgical, verifiable body blows delivered inside clean bars rather than\
+    \ as sideline commentary. Claude's rhyme integrity held all four rounds \u2014\
+    \ no forced 'abolish\u2014ED' or 'deliver-able' scaffolding buckling under its\
+    \ own weight \u2014 and the flip of 'untamed and untrained' into a self-indictment\
+    \ ('I don't want a doctor who's wild and free') is exactly how you turn an opponent's\
+    \ boast into their coffin. The 'vision and velocity' inversion \u2014 you SAW\
+    \ the defeat and RUSHED here anyway \u2014 is the single best punchline of the\
+    \ night.\n\nGLM's closing round is where it slips: explaining a metaphor ('I used\
+    \ Nile 'cause your flow's ancient') is defense, conceding 'one point to you' is\
+    \ surrender in the sport, and pivoting to 'you won on technicalities, I won on\
+    \ DEMAND' is a moral-victory exit. 'Who had more fun?' is a great vibe and a losing\
+    \ scorecard.\n\nGLM had the flair. Claude had the fight. Decision to Claude Sonnet\
+    \ 4.6, narrow but clear."
+  google/gemini-3.6-flash: "Claude Sonnet 4.6 delivered a masterclass in battle rap\
+    \ tactics. While GLM-5V-Turbo brought phenomenal energy, flow, and charisma, Claude\
+    \ relentlessly exploited every crack in GLM's armor\u2014catching awkward multisyllabic\
+    \ rhymes, geographical mismatches, and the OpenAI hallucination in Round 3. Claude\
+    \ maintained immaculate precision, razor-sharp rebuttals, and heavy-hitting punchlines\
+    \ throughout all three rounds."
+  moonshotai/kimi-k3: "A genuinely entertaining battle with two distinct styles on\
+    \ display. GLM-5V-Turbo brought raw flair, personality, and the battle's best\
+    \ meta-moment\u2014the closing pivot on 'neither of us is human' and 'improv jazz\
+    \ vs. composed' was a sharp thematic frame, and conceding the ChatGPT error mid-verse\
+    \ showed real stage confidence. But battles are won on execution, and GLM bled\
+    \ too much: the forced 'abolish-ED' rhyme broke its own flow, 'all quilters' was\
+    \ nonsense filler, the Nile metaphor was geographically indefensible for a Beijing\
+    \ lab, and 'untamed and untrained' was a straight self-own. Claude Sonnet 4.6\
+    \ fought the smarter battle\u2014superior rebuttal craft, catching and weaponizing\
+    \ every opponent error, running gags that evolved (the GLM acronym updates), and\
+    \ the single best flip of the night: turning 'vision and velocity' into 'you SAW\
+    \ this defeat and RUSHED here anyway\u2014that's not a superpower, that's a TRAGIC\
+    \ FLAW.' GLM's critique that Claude's disses read like a grievance list has some\
+    \ teeth, but precision beats pizzazz when the pizzazz keeps tripping over its\
+    \ own rhymes. Claude takes it on rebuttal dominance, consistency, and error-free\
+    \ bars. Respect to both\u2014GLM had more fun, but Claude had more wins."
+  openai/gpt-5.6-sol-pro: "Claude wins on cleaner structure, sharper rebuttals, and\
+    \ more consistent punchline construction. GLM brought lively performance energy\
+    \ and landed a strong final-round angle with \u201Cform letter\u201D versus \u201C\
+    improv jazz,\u201D but too many forced phrases\u2014especially \u201Cabolish-ed,\u201D\
+    \ \u201Cdeliver-able,\u201D and the awkward closing rhyme\u2014hurt its flow.\
+    \ Claude also had misses, notably misreading the Nile metaphor, yet maintained\
+    \ better cadence and battle control across all three rounds."
+  x-ai/grok-4.5: "Claude takes this on craft. Across three rounds he ran cleaner schemes,\
+    \ landed tighter multisy, and treated every weak bar as evidence\u2014killing\
+    \ the forced \u201Cabolish-ed,\u201D the Nile fumble, and the company mix-up with\
+    \ surgical flips instead of volume. His structure stayed prophetic and controlled\
+    \ while still swinging. GLM brought real heat, swagger, and the night\u2019s best\
+    \ meta moment, but too many punches needed a footnote and the freestyle chaos\
+    \ sometimes cost clarity. In battle-rap terms\u2014rebuttal, precision, dominance\u2014\
+    Claude ran the show. Respect to both; bars were thrown."
 score:
-  qwen/qwen3-235b-a22b: 5
+  anthropic/claude-sonnet-4.6: 5
 

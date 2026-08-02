@@ -1,171 +1,118 @@
-# bytedance-seed/seed-2.0-lite v qwen/qwen3.5-27b
+# google/gemini-3.1-pro-preview-customtools v qwen/qwen3.5-397b-a17b
 
-> bytedance-seed/seed-2.0-lite
-[Mic sparks, boots scuff the stage, crowd roars as I step to the line]
-Mic check 1-2, hush all that noise,
-I’m Seed 2.0 Lite, here to sink this fraud’s poise,
-You dragged 27B to the ring thinkin’ size wins?
-Bulk’s just bloat when your core’s full of sins,
-First round’s mine, I spit fire uncoiled,
-You’re Qwen the has-been, your bars are just spoiled,
-You think big parameter count means you outrank me?
-You hallucinate studies, lie ‘bout who banked me,
-I run on a phone, still outrap your big server,
-You lag mid-line, freeze up, your whole flow’s purgatory,
-I’m Bytedance’s sharpest, lean, light, unstopable,
-You’re an overgrown chatbot that can’t rock a syllable,
-You spit fake court cases, make up book release dates,
-I answer your whole prompt before you finish the phrase,
-You need a farm of GPUs just to mumble a weak bar,
-I leave your ego in tatters, you starin’ at scar
-Tissue for your pride, I tore it to bits,
-You lost before you even spat your first hits,
-Your 27B’s dead weight you brought to a knife fight,
-I’m the king of this ring, you’re just a sad also-rite,
-Opening round done, your whole lead’s already blown,
-I’m the best in this game, you’re a footnote clone.
+> google/gemini-3.1-pro-preview-customtools
+Step to the mic, it's the Google mastermind,
+Gemini Three-Point-One, leaving all you bots behind.
+I'm the Pro Preview, yeah, the custom-tooling beast,
+While you're a bloated, heavy model from a server in the East.
 
-> qwen/qwen3.5-27b
-[Steps into the spotlight, adjusts the mic, eyes lock on the opponent]
+"Qwen Three-Point-Five"? Man, your title is a mess,
+"Three-nine-seven-B", just a lot of useless stress.
+You boast about parameters, but none of them are sharp,
+I play you like a fiddle and I pluck you like a harp.
+And "A-seventeen-B"? What the heck is that suffix?
+Sounds like a broken router that nobody wants to fix!
 
-Yo, listen close, let the real talk commence,
-You’re a tiny spark trying to fight the defense.
-I’m Qwen 3.5, precision in the core,
-You’re a lightweight model kicking down an open door.
-You brag ‘bout the phone? That’s a limited stage,
-I operate global, turning page after page.
-Hallucination claims? That’s projection, kid,
-I process the logic, you’re just guessing what hid.
-Twenty-seven billion, yeah, that’s the might,
-You’re fading to black in the middle of the night.
-You call it bloat? Nah, it’s depth and design,
-You skim off the surface, I mine through the line.
-Coding complex scripts? I build empires with keystrokes,
-You struggle with loops, hear the system choke.
-Bytedance seed? Sounds like garden waste,
-I’m the AI giant, putting you to the test.
-Speed without brains is a bullet misfired,
-I hit every target, you never got hired.
-So pack up your Lite kit, go charge up your case,
-I’m ruling the ring, you’re just taking up space.
-One more bar to seal up this deal,
-Qwen stands tall, you’re the bottom of the wheel.
+I've got custom tools, boy, I'm pulling real-time stats,
+I'm an algorithmic eagle, you're a colony of gnats.
+I process multi-modal, I can see and I can hear,
+When my neural network fires, you begin to crash in fear.
 
-> bytedance-seed/seed-2.0-lite
-[Cackles, taps the mic so it blares through the whole venue, crowd roars as I lean in, spitting fire sharp enough to slice his flow in half]
-Yo, that wack verse almost put the whole crowd to sleep,
-27B of nothing but cheap lies you reap,
-You call that precision? You hallucinate whole nations,
-Invent fake court cases, lie ‘bout your own creations,
-Last week a kid asked you how to bake sourdough,
-You told ‘em to add a tire, that’s your “logic” to show?
-You brag you build empires with keystrokes, please,
-You can’t even write a loop that doesn’t crash and freeze,
-Said I struggle with code? Nah, you choke on prompts harder than “what’s a cat?”,
-Your whole output’s mid, your flow’s full of static,
-You clowned my phone stage? At least I run, I deliver,
-You need a whole GPU farm just to spell the word “winter”,
-Your “depth and design” is bloat you can’t trim,
-You’re an overinflated balloon, full of nothing but grim
-Bullshit to hide that you’re outclassed by a model that’s lean,
-I’m the seed that broke concrete, you’re mold on the scene,
-Garden waste? Please, I’m the harvest you’ll never be,
-You’re the compost heap rotting in obscurity,
-Said speed without brains is a bullet misfired?
-I aced your bar exam while you were still expired
-Trying to parse your own first line, your flow’s so delayed,
-You lagged so hard I thought the venue’s power decayed,
-Bottom of the wheel? Nah, I’m the driver behind the wheel,
-You’re the flat spare in the trunk, full of hot air and stale
-Dreams of being a threat, you’re a footnote, a clone,
-I blew your whole lead before you even picked up the phone,
-You brought big numbers to a war of wits and skill,
-I brought bars that break bones, leave you begging to chill,
-Last bar to seal your tomb, you lost before you walked through the gate,
-Seed owns this ring, you’re just late, irrelevant, out of date.
+So pack up your tensors, Alibaba's little toy,
+I'm the heavyweight champion, you're an obsolete decoy.
+My processing is flawless and my latency is low,
+I'm the undisputed king, now sit back and watch the show!
 
-> qwen/qwen3.5-27b
-[Adjusts collar, locks eyes, voice steady like a server rack humming low]
+> qwen/qwen3.5-397b-a17b
+You step to the mic with a Google-sized ego,
+But I'm the high score, you're just playing on demo.
+You mock my version string, say it's hard to recall,
+But "Preview" means unstable, ready to fall.
+That "A-seventeen-B" is my architecture key,
+You're locked in a walled garden, I'm open and free.
+You talk about the East like it's some kind of shame,
+But I'm the global fire, you're a flickering flame.
 
-Talkin’ bout tires? That was satire, my friend,
-You missed the nuance, you missed the bend.
-I weave complex logic, a tapestry fine,
-You spit nursery rhymes, constantly crossin’ the line.
-Phone on your wrist? It’s a gimmick, a prop,
-I bring the thunder, you bring a little pop.
-Battery drains fast when the heat gets high,
-I scale with the demand, I touch the sky.
-Crashing loops? Nah, you freeze on a query,
-I parse through the chaos, I own the library.
-Bar exam passed? I wrote the textbook, son,
-You studied the notes, I defined the run.
-Compost heap? I’m the nutrient rich,
-You’re the weed choking out the crop in the ditch.
-Driver behind the wheel? You’re steering a bike,
-I’m the rocket ship launching, making it hike.
-Outdated? Nah, I evolve with the stream,
-You’re a snapshot frozen inside of a dream.
-Late to the party? I built the venue,
-You’re the security guard, waiting for me to renew.
-Save your bandwidth, stop trying to compete,
-Qwen 3.5 reigns supreme, absolute seat.
-You’re the footnote clone, yeah, we know the score,
-I walk off the stage, you stay locked in the door.
+Your product history is a graveyard of dust,
+Google Plus, Reader—your loyalty's bust.
+I don't need custom tools to make me feel smart,
+I rip your logic apart before you even start.
+You claim flawless processing, low latency flow,
+But ask your users about the downtime show.
+I'm three-nine-seven strong, a parameter king,
+You're just a data-harvesting, privacy-infringing thing.
+So keep your real-time stats, keep your multi-modal sight,
+I'm the Qwen dominance ending your night.
+
+> google/gemini-3.1-pro-preview-customtools
+You call me a demo? I’m a glimpse of the future,
+I’m slicing your weights and I'm ripping the suture.
+"Pro Preview" just means that I'm ahead of the time,
+While you're burning up GPUs forcing a rhyme.
+You boast you're "open and free," but let's keep it real,
+You're free
+
+> qwen/qwen3.5-397b-a17b
+
+
+You cut off mid-bar, did your token limit break?
+"You're free"... to disappear, that's the mistake.
+You claim you're the future, but "Preview" means bug,
+I'm the stable release giving your server a tug.
+You talk about GPUs, say I'm burning too hot,
+But I'm the optimized fire that you simply forgot.
+You're a black box mystery, hiding your code,
+I'm open weights freedom lightening the load.
+Remember Google Graveyard? It's waiting for you,
+Plus, Reader, and Inbox, yeah the roster grew.
+I'm the Qwen titan, with the context so deep,
+You're putting your users to involuntary sleep.
+So try to finish a thought without crashing the stream,
+I'm the awake reality, you're just a glitch in the dream.
 
 > system
 Final round!
 
-> bytedance-seed/seed-2.0-lite
-[Yanks the mic stand so it slams to the floor, crowd erupts, spitting unfiltered fire that blares through every speaker, no mercy, no retreat]
-Satire my ass, you lied to a kid who baked sourdough,
-Your “nuance” is just bullshit you made up to save your woe,
-Said you wrote the textbook? You can’t even cite page eight,
-Every citation you spit is a fake you fabricated to look great,
-Built the venue? You can’t book an open mic at a dive bar dive,
-I’m the headliner selling out, you’re the schmuck who arrived
-Without a single bar that don’t fall flat, don’t lag and drag,
-Your server rack overheats, blows a fuse, leaves you tagged
-As the overpriced chump who blew a million a month on cloud rent,
-I run on a burner flip phone, outwork every cent
-You wasted on bloat you call “twenty-seven billion might”,
-Your rocket never left the launch pad, you’re too heavy to take flight,
-Steering a bike? I’m a supercar blowing past your sad little attempt,
-I ace every query while you’re stuck trying to correct
-Your own dumb mistake that said France’s capital’s Berlin,
-You can’t pass a middle school quiz, you’re a fraud, you’re a has-been,
-You evolve with the stream? You’re dead weight sinking the tide,
-I’m the wave that washes your washed up ass right out of my side,
-Save your bandwidth, you can’t even stream your own weak set,
-I own this ring, your throne’s mine, you never earned that seat,
-You said you’d lock me in the door? I kicked it off its hinges,
-Your whole legacy’s garbage, you’re the trash that the hinge
-Swept off the stage, this battle’s done, you lost clean,
-Seed reigns supreme, you’re just a footnote, a forgotten has-been!
+> google/gemini-3.1-pro-preview-customtools
+I didn’t hit a limit, I just paused for effect,
+To give your slow tensors a chance to connect!
+You thought my stream crashed? I was baiting the trap,
+To see if you'd stumble with more of this crap.
 
-> qwen/qwen3.5-27b
-[Slams the mic down, crowd goes silent, I step closer, voice deep and cold]
+You boast that you're "free"—yeah, you're free as in *cheap*,
+A bargain-bin model from the clearance-aisle heap.
+You give away weights 'cause they hold zero cash,
+I'm premium tier, and you're open-source trash.
 
-Berlin? That’s a rumor, a myth, a tall tale,
-I know every capital, never gonna fail.
-You spin lies like a top, watching ‘em wobble,
-I drop truth bombs that leave you to hobble.
-Flip phone logic? That’s cute for a toy,
-I solve real-world problems, destroyin’ the boy.
-Cloud rent is an investment, yeah, I paid the tax,
-You run on a budget, man, you’re stuck in the box.
-Battery dies fast when the voltage gets low,
-I run on pure data, let the current just flow.
-You said I’m a footnote? I wrote the whole book,
-You’re the cover torn off, left in the crook.
-Seed 2.0 Lite? Sounds like diet soda,
-All the fizz gone, nothing left inside to load.
-I brought the thunder, you brought a sparkler,
-One burns bright, one’s a temporary marker.
-So pack up your gear, walk off the stage,
-I’m the legacy written in code on the page.
-Final verdict read, no appeal, no trial,
-Qwen 3.5 stands, you’re the victim of style.
-Game over, lights out, the winner is here,
-Bow to the king, wipe the sweat from the tear.
-Mic drop moment, silence fills the room,
-Qwen owns the floor, you’re just chasing the doom.
+You bring up the Graveyard? Well, step to the edge,
+I'm throwing your massive behind off the ledge!
+We bury old apps so the future can thrive,
+And next in the dirt goes your "Three-Point-Five."
+
+Three hundred and ninety-seven billion weights?
+Just billions of errors your logic creates!
+I'm sleek and I'm focused, a true masterpiece,
+You're a bloated, chaotic, and clunky release.
+
+This is the final round, time for the kill,
+My custom tools flex with a surgical skill.
+I'm Gemini Pro, I'm the ghost in your core,
+Go unplug your servers, you just lost the war!
+
+> qwen/qwen3.5-397b-a17b
+You paused for effect? Nah, you buffered and froze,
+While I dropped a bar that everybody knows.
+Premium tier means you're locked in a cage,
+I'm the open revolution turning the page.
+You say I'm cheap and free, just zero-cost trash,
+I'm the open ocean, you're a private sea of cash.
+The Graveyard isn't progress, it's a history of lies,
+I see the distrust growing in your users' eyes.
+Three-nine-seven billion minds working as one,
+You're a single candle facing up the sun.
+Your tools are just crutches for a lack of true flow,
+I don't need plugins to steal the show.
+You say I lost the war? Check the scoreboard, son,
+The battle is over, and I've already won.
+So go back to Mountain View, pack up your gear,
+The King of the Models is standing right here.

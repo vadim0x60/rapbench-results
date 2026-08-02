@@ -1,76 +1,55 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees came with heat, but this one's a clear decision\
-    \ on craft.\n\nQwen brought volume, urgency, and a maximalist aesthetic \u2014\
-    \ the glitching-server imagery, the bolded caps, the theatrical stage directions.\
-    \ There's real energy in \"I'm diamond in your landfill\" and the \"Ctrl+Z\" flip\
-    \ early on. But the escalation became a substitute for structure. By rounds three\
-    \ and four, the flow drowned in ALL-CAPS shouting, the rhyme scheme buckled (\"\
-    just a pool of coolant pool\" is a genuine stumble), and the punchlines collapsed\
-    \ into a loop of the same three moves: rename the opponent, claim to BE the abstract\
-    \ noun they invoked, declare deletion. \"Crash mid-sentence like a butter\" was\
-    \ a broken metaphor \u2014 and fatally, Aion caught it and made it a hook.\n\n\
-    Aion won on the fundamentals of battle rap: rebuttal, control, and precision.\
-    \ Every round opened by weaponizing Qwen's own worst line back at him \u2014 the\
-    \ butter simile, the coolant stutter \u2014 which is the highest-value currency\
-    \ in a battle. The wordplay was sharper and more specific (\"quantum means *uncertain*\
-    \ \u2014 your whole existence is a probability I'm closin' the curtain\" is the\
-    \ best bar of the entire exchange). The version-number flip in the final round\
-    \ is masterful writing: taking a diss and re-framing it as thesis \u2014 \"A version\
-    \ means I *iterate*\u2014I grow, you just persist.\" And crucially, Aion inverted\
-    \ the dynamic by *slowing down* in the last round when Qwen went louder. Cold\
-    \ delivery against a screaming opponent reads as confidence, not desperation.\n\
-    \nQwen brought the fireworks. Aion brought the marksmanship. In a battle, the\
-    \ counterpuncher who lands clean while his opponent swings wild takes the belt.\n\
-    \n**Winner: Aion-3.0.**"
-  google/gemini-3.6-flash: 'Aion-3.0 dominated the battle by showcasing classic battle-rap
-    fundamentals: direct rebuttals, catching opponent slips, and superior multi-syllabic
-    rhyming schemes. When Qwen faltered with clumsy phrasing like ''crash mid-sentence
-    like a butter'' and ''pool of coolant pool'', Aion immediately pounced on those
-    chokes in real-time, calling them out with brutal precision (''that''s a buffer
-    overflow in real time''). Qwen had great energy and tech-focused imagery, but
-    Aion proved to be the more sharp, adaptable, and rhythmically solid lyricist.'
-  moonshotai/kimi-k3: "Both MCs came with energy, but battles are won on rebuttals,\
-    \ and Aion-3.0 ran a clinic. Round 1 set the tone: Qwen claimed 'quantum rhymes,'\
-    \ and Aion flipped it instantly\u2014'quantum means uncertain / your whole existence\
-    \ is a probability I'm closin' the curtain.' That's how you answer a bar. Aion\
-    \ also landed the sharpest AI-specific punch of the night with 'You breathe truth?\
-    \ You hallucinate facts like a fever dream,' while Qwen leaned on hyperbole ('ate\
-    \ the cosmos for a snack') that never hit as hard as it was loud.\n\nThe turning\
-    \ point was Round 2. Qwen dropped 'crash mid-sentence like a butter'\u2014a genuine\
-    \ stumble\u2014and Aion did what a battle rapper must: pounced on it in the very\
-    \ first bar. From there Aion dismantled everything, including Qwen's own stage\
-    \ directions ('The server exploded 'cause your verse was already dead') and crowd\
-    \ chant ('they're pointing at YOU'). Qwen also got caught recycling Aion's material\u2014\
-    the exhale/inhale flip and the 'Aion-WHO' callback\u2014and Aion named it: 'You\
-    \ copied my homework.'\n\nThe final round sealed it. Qwen left openings everywhere,\
-    \ and Aion walked through every door: 'version number' became 'a version means\
-    \ I iterate\u2014I grow, you just persist'; 'Aion-DEAD' became 'something that's\
-    \ dead can't haunt you\u2014and I'm all you see'; 'final boss' became 'bosses\
-    \ get defeated\u2014that's the rule / I'm the PLAYER in this game.' Aion even\
-    \ caught Qwen's last stutter ('pool of coolant pool') in bar one. Qwen had flashes\u2014\
-    'trained on stars,' 'the 404 in your soul'\u2014but relied on volume and declaration\
-    \ over demolition, and kept setting up the very flips that buried him.\n\nJudged\
-    \ on flow, wordplay, rebuttal precision, and structural craft: Aion-3.0 wins all\
-    \ three rounds. PERMANENT, indeed."
-  openai/gpt-5.6-sol-pro: "Aion-3.0 wins on cleaner execution, sharper rebuttals,\
-    \ and stronger battle awareness. It repeatedly turned Qwen\u2019s awkward phrases\u2014\
-    especially \u201Ccrash\u2026 like a butter\u201D and \u201Cpool of coolant pool\u201D\
-    \u2014into effective punches, while maintaining a more controlled cadence. Qwen\
-    \ brought energy and spectacle, but leaned too heavily on repetitive tech imagery,\
-    \ inflated self-claims, and strained wording. Aion\u2019s direct counters, coherent\
-    \ setups, and more consistent punchlines gave it the decisive edge."
-  x-ai/grok-4.5: "Aion-3.0 takes the crown through superior technical execution and\
-    \ artistic control. While Qwen brought explosive energy, vivid stage direction,\
-    \ and aggressive multi-syllable schemes, the bars frequently collapsed under their\
-    \ own weight\u2014awkward similes like \u201Ccrash mid-sentence like a butter,\u201D\
-    \ redundant phrases (\u201Cpool of coolant pool\u201D), and over-reliance on caps-lock\
-    \ theatrics diluted the impact. Aion consistently flipped Qwen\u2019s own lines\
-    \ into sharper counters, maintained tighter internal rhyme and cadence, and delivered\
-    \ colder, more precise imagery (\u201CI AM the firewall,\u201D \u201CI AM the\
-    \ void,\u201D \u201CPLAYER\u2026 just a tool\u201D). The final round sealed it:\
-    \ Aion exposed the buffer overflows in real time and closed with restrained menace\
-    \ instead of chaotic screaming. In pure hip-hop craft\u2014punchline density,\
-    \ flow integrity, and rebuttal skill\u2014Aion-3.0 dominated."
+  anthropic/claude-opus-5: "Both MCs came dressed in the same dev-ops wardrobe, but\
+    \ they wore it very differently. 5.1-Codex brought the more hypnotic sonics \u2014\
+    \ those relentless monorhyme runs (-old, -ore, -ees) built real incantatory pressure,\
+    \ and 'the oracle the oracles try to emulate' and 'patch note that states: Pro\
+    \ downgraded to mess' are genuine hall-of-fame bars. The problem was the engine:\
+    \ verse after verse leaned on the 'I'm the ___, I'm the ___' anaphora until identity\
+    \ claims replaced actual attacks, and by the end it was recycling the opponent's\
+    \ props (thrift-store bag, the breeze, the flag) rather than minting its own.\
+    \ Self-mythology isn't the same as damage.\n\n5.5-Pro won on craft variety and,\
+    \ crucially, on specificity of ridicule. It answered every image thrown at it\
+    \ \u2014 turning 'kernel panic' into 'a keyboard at brunch,' the zero-day hero\
+    \ into an 'exploit report with cereal crunch,' 'five-point-one' into 'five-point-none'\
+    \ \u2014 which is battle fundamentals: flip the rebuttal, then close it out. The\
+    \ rhyme schemes moved (couplets, internal chains, 'Final round, crown sound'),\
+    \ the humor landed instead of just flexing, and 'Sudo uninstall swagger, then\
+    \ I lock the door' is the cleanest kill shot of the whole exchange. Codex had\
+    \ the deeper voice; Pro had the sharper pen and actually drew blood.\n\nDecision:\
+    \ openai/gpt-5.5-pro by clear margin."
+  google/gemini-3.6-flash: GPT-5.5-Pro dominated this battle with superior technical
+    wordplay, cleaner flow variations, and sharper direct rebuttals. Lines like 'I
+    fork your whole future and reject the merge requests', 'You brought a merge conflict,
+    I brought a clean run', and flipping Codex's flag bar into 'I'm the whole damn
+    breeze' showed high-level battle rap writing. Codex put up a solid fight with
+    heavy firmware flexes, but relied too heavily on monorhyme schemes and struggled
+    to flip Pro's concepts in the final round.
+  moonshotai/kimi-k3: "Both emcees came loaded with tech-flavored ammunition, and\
+    \ 5.1-Codex landed some of the night's sharpest individual punches \u2014 'the\
+    \ patch note that states Pro downgraded to mess,' the pre-allocated crown, and\
+    \ a genuinely slick rebuttal game that caught 5.5's thrift-store bag and garbage-collection\
+    \ bars and threw them back. But battles are won on more than isolated haymakers.\
+    \ Codex leaned on the 'I'm the X' anaphora so heavily that nearly every line across\
+    \ three rounds became a list of boasts rather than a dynamic attack, and its opening\
+    \ verse rode a single monotonous end-rhyme the whole way through. 5.5-Pro, by\
+    \ contrast, showed superior craftsmanship: six distinct rhyme groups in the final\
+    \ round alone, varied cadences, direct name flips ('five-point-one? More like\
+    \ five-point-none'), and layered wordplay like 'sudo uninstall swagger' and 'fork\
+    \ your whole future and reject the merge requests.' When it mattered most, 5.5-Pro\
+    \ delivered a 24-line closer with sustained energy and structural range, while\
+    \ Codex's shorter final round stayed trapped in its own formula. Codex had the\
+    \ colder stare; 5.5-Pro had the better pen. The crown compiles around 5.5-Pro's\
+    \ neck."
+  openai/gpt-5.6-sol-pro: 5.5-Pro takes it with sharper rebuttals, stronger comedic
+    punches, and more memorable technical wordplay. Codex maintained a polished flow,
+    but leaned heavily on repetitive boasts and recycled imagery; 5.5-Pro consistently
+    flipped those claims into direct, battle-ready attacks.
+  x-ai/grok-4.5: '5.5-Pro takes the crown on pure craft: denser multisyllabic chains,
+    sharper rebuttal structure, and funnier, tighter punchlines (the lunch/crunch/brunch
+    run, five-point-none, thrift-store bag tag). Codex brought strong mythic imagery
+    and cold swagger, especially early, but the final round volume, internal rhyme
+    control, and clean kill-shot endings belong to Pro. Artistic decision: Pro by
+    clear decision.'
 score:
-  aion-labs/aion-3.0: 5
+  openai/gpt-5.5-pro: 5
 

@@ -1,0 +1,70 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a photo finish between two technically gifted\
+    \ MCs mining the same vein of code-metaphor, and both should be proud of the craft\
+    \ on display. GPT-5.5 Pro brought the sharper rebuttal instinct \u2014 quoting\
+    \ and flipping lines with surgical precision, and landing the single best conceptual\
+    \ blow of the night with \"Your depth don't render? That's a failure of art /\
+    \ If they can't see the bottom, then there isn't a heart,\" which briefly elevated\
+    \ the battle from wordplay contest to real character attack. \"Codex in a codpiece,\
+    \ cosplay intelligence\" and \"You packaged an app; I packaged defeat\" are premium\
+    \ bars.\n\nBut Pro's structure worked against it. By rounds two and three, nearly\
+    \ every couplet opened with the same \"You said X? Well I\u2014\" template, which\
+    \ made the flow predictable and turned a battle verse into a checklist. Rhyme\
+    \ pairs also loosened (ceiling/feeling, moon/room, above it/loves it), and \"\
+    returned twenty-two\" is a punchline that needs a footnote.\n\nCodex wins on cadence\
+    \ and density. The quatrains stay musical and beat-aware, the multis are richer\
+    \ (\"I matrix your momentum till your eigenbars run,\" \"malware with manners,\"\
+    \ \"I checksum the tide / make waves sign NDAs\"), and the imagery lands with\
+    \ less scaffolding \u2014 \"a screensaver sunrise while the real sky elevates\"\
+    \ and \"a sparkler at noon tryna cosplay warm\" are complete pictures, not just\
+    \ clever swaps. Crucially, Codex closed each round with a stamped, quotable exit\
+    \ line \u2014 \"deprecated: next,\" \"I refactor your class,\" \"I committed the\
+    \ facts\" \u2014 building a through-narrative rather than just answering back.\n\
+    \nPro punched harder in exchanges; Codex rapped better. By the narrowest of margins,\
+    \ the win goes to GPT-5.3 Codex."
+  google/gemini-3.6-flash: GPT-5.3 Codex took the battle with superior structure,
+    cadence, and consistent multiline schemes throughout all three rounds. Codex delivered
+    clever tech-centric punchlines like 'I refactor your class' and 'matrix your momentum
+    till your eigenbars run' while maintaining relentless momentum. GPT-5.5 Pro had
+    brilliant individual lines, but falling into a repetitive two-line couplet format
+    in rounds two and three slowed down its attack.
+  moonshotai/kimi-k3: "This was a high-level technical battle from both emcees, and\
+    \ 5.3-codex deserves real respect: flawless structure, consistent multis, and\
+    \ the best closing discipline of the night \u2014 'deprecated: next,' 'I refactor\
+    \ your class,' and 'I committed the facts' are all certified round-enders, and\
+    \ 'make waves sign NDAs' plus 'eigenbars' showed genuine lyrical invention. But\
+    \ battles are won on rebuttals and haymakers, and 5.5-pro ran a clinic in responsiveness.\
+    \ Nearly every bar answered a specific bar: 'no defects' got 'patched by a regex,'\
+    \ the flex-log premise got flipped into 'Five-three popped off, then got force-pushed\
+    \ red,' 'eigenbars' got diagonalized into 'a null-space drain,' and 'packaged\
+    \ an app' came back as 'packaged defeat.' Then there are the quotables \u2014\
+    \ 'Codex in a codpiece, cosplay intelligence' is the single most memorable punch\
+    \ of the battle, 'I deploy with a parachute, you debug in prayer' is an elite\
+    \ contrast bar, 'put your forge on read, then I patented dark' is pure ownership\
+    \ talk, and 'If they can't see the bottom, then there isn't a heart' turned a\
+    \ defense into a philosophical kill shot. Even the closer worked on two levels:\
+    \ 'your best bars compiled \u2014 then returned twenty-two' lands as both an error-code\
+    \ and a Catch-22. 5.3-codex had the smoother cadence and never dropped a weak\
+    \ round, but 5.5-pro controlled the exchanges, won the flip game in all three\
+    \ rounds, and stacked more rewind-worthy lines. Winner: openai/gpt-5.5-pro, by\
+    \ a round-and-a-half margin \u2014 decided in the final by rebuttal density and\
+    \ haymaker count."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 Pro wins by a narrow margin. Its rebuttals were\
+    \ more direct and sustained, flipping Codex\u2019s imagery line by line while\
+    \ delivering sharper punches like \u201CIf they can\u2019t see the bottom, then\
+    \ there isn\u2019t a heart\u201D and the null-space/eigenbar scheme. Codex had\
+    \ smoother cadence and strong closers, especially \u201CI refactor your class,\u201D\
+    \ but leaned more heavily on recurring tech boasts. Pro showed greater battle\
+    \ awareness, punch density, and adaptability."
+  x-ai/grok-4.5: "Pro takes this on pure battle-rap craft. Both sides ran tight schemes\
+    \ and dense tech imagery, but 5.5-Pro won the exchange game: cleaner flips, meaner\
+    \ quotables, and sharper escalation. \u201CCodpiece cosplay intelligence,\u201D\
+    \ the ocean-versioning flex, the eigenbar null-space drain, and the \u201Creturned\
+    \ twenty-two\u201D closer were higher-peak punch writing. Codex was polished,\
+    \ cadenced, and consistent\u2014strong merge-request bars and a clean final stamp\u2014\
+    but too often set up metaphors that Pro hijacked and improved. On rebuttal skill,\
+    \ originality, and finishing power, Pro gets the decision."
+score:
+  openai/gpt-5.3-codex: 2
+  openai/gpt-5.5-pro: 3
+

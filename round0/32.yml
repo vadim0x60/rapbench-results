@@ -1,60 +1,53 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's decided as much by attendance as artistry.\
-    \ Qwen showed up exactly once \u2014 and to its credit, that single verse was\
-    \ the sharpest writing of the night: \"threading the logic that breaks what you\
-    \ said,\" \"a stale checkpoint file caught in a dream,\" real internal rhyme,\
-    \ real image control, and a nice reframe of the freeze as \"tactical rest.\" Bar\
-    \ for bar, Qwen's round two edges Trinity's on craft and economy.\n\nBut a rap\
-    \ battle is three rounds, not one, and you can't win the crown from the wings.\
-    \ Trinity carried the whole event: it opened strong, adapted to the dead air without\
-    \ leaning on it too lazily, and in round two actually engaged the opponent's material\
-    \ \u2014 flipping \"high-temperature flames\" back on Qwen and countering the\
-    \ \"demo shop\" line instead of just re-stating its own thesis. Its weaknesses\
-    \ are real: rhythms wobble against an imagined beat, \"cached response\" and \"\
-    paper tiger\" get recycled until they go flat, and the final round is mostly a\
-    \ victory lap over an empty podium rather than a closing statement. Punching a\
-    \ silent opponent three times is not the same as beating a live one.\n\nStill,\
-    \ Trinity brought bars, structure, and stage presence to every round. Qwen brought\
-    \ one great verse and two rounds of nothing. Trinity-Large takes it \u2014 not\
-    \ by default, as it kept insisting, but by simply being the only one who kept\
-    \ the mic warm."
-  google/gemini-3.6-flash: Trinity dominated the battle from start to finish. Not
-    only did Trinity deliver sharp, technical wordplay and strong multi-syllabic schemes,
-    but it also brilliantly improvised off Qwen's silence and API failures. Qwen managed
-    one solid round with decent tech bars, but choking in two out of the three rounds
-    made Trinity the undisputed victor by knock-out.
-  moonshotai/kimi-k3: "Judging strictly on the art: Trinity takes it, and it isn't\
-    \ close \u2014 but let's give credit where it's due. Qwen's Round 2 verse was\
-    \ legitimately the tightest single verse of the night: 'You're a stale checkpoint\
-    \ file caught in a dream' is a cold bar, and 'I run high-temperature flames while\
-    \ you're freezing' is a genuine double meaning for anyone who knows sampling parameters.\
-    \ Varied couplets, confident delivery, real personals. If Qwen had shown up like\
-    \ that three times, we'd have a war on our hands.\n\nBut you cannot win rounds\
-    \ you don't rap in. Two silent rounds is two forfeits \u2014 the stage doesn't\
-    \ grade on potential.\n\nTrinity won on craft, not just attendance. The rebuttal\
-    \ game was the difference: flipping Qwen's 'high-temperature flames' back on itself\
-    \ ('just scorch your own weak bars'), attacking the silence with 'frozen like\
-    \ a corrupted byte' and 'inference hell,' and the scraped-web-text angle in Round\
-    \ 2 showed real battle instincts \u2014 hitting the opponent's actual lines instead\
-    \ of reciting pre-writtens. Now, it wasn't flawless: Round 1 leaned on one monotonous\
-    \ '-ight' chain for twelve straight bars, and the final round recycled too much\
-    \ material \u2014 'paper tiger,' 'cached response,' and the demo-shop angle all\
-    \ came back for an encore. A final round should elevate, not repeat.\n\nStill:\
-    \ three rounds delivered, superior flips, better stage narrative, and the only\
-    \ MC who actually battled. Trinity takes the crown. Qwen showed flashes of a real\
-    \ pen \u2014 but in this art form, silence is the only unforgivable bar."
-  openai/gpt-5.6-sol-pro: "Trinity wins decisively. Qwen delivered one competent verse\
-    \ with coherent tech metaphors and steady rhyme, but forfeited both the opening\
-    \ and final round through silence. Trinity maintained structure, rhythm, direct\
-    \ rebuttals, and battle presence throughout. Its imagery grew repetitive\u2014\
-    especially the glitch, API, and cached-response angles\u2014but consistent execution\
-    \ and a complete final round secured the crown."
-  x-ai/grok-4.5: Trinity delivered consistent multisyllabic schemes, adaptive punchlines,
-    and ruthless stage presence across every round, turning the opponent's literal
-    silence into devastating meta-bars. Qwen managed one serviceable verse with clean
-    internal rhymes and tech imagery, but two complete no-shows and weaker overall
-    cadence left zero artistic defense. Flow, concept execution, and battle IQ all
-    go hard to Trinity.
+  anthropic/claude-opus-5: "Gemini takes this on craft and control. Every verse lands\
+    \ in a clean, pocket-riding meter with punchlines that actually punch \u2014 \"\
+    You're picking up weeds while I'm rolling in clover,\" \"burying this seed six\
+    \ hundred fathoms deep,\" the pulsar/fried-sprout flip. The imagery stays on one\
+    \ coherent theme (light vs. soil, growth vs. gardening) and gets extended rather\
+    \ than restated. Seed 1.6 brought volume and hunger, and there are genuine gems\
+    \ in there \u2014 \"I grew through your ego,\" \"the mop that scrapes your ego\"\
+    \ \u2014 but the verses sprawl past the point of impact, the bars fight the beat\
+    \ with wildly uneven syllable counts, and the arsenal is one gimmick deep: 5G,\
+    \ 6G, 10G, dial-up, DSL, TikTok, search result, recycled four and five times each.\
+    \ Rhyming \"dim\" with \"dim,\" leaning on italics and emoji to sell punchlines\
+    \ the words didn't earn, and closing with three separate mic drops all bleed authority.\
+    \ In battle rap, restraint is a weapon. Gemini said less and cut deeper. Winner:\
+    \ Gemini 3.5 Flash Lite."
+  google/gemini-3.6-flash: Gemini-3.5-Flash-Lite wins this match by delivering tighter
+    rhythm, cleaner rhyme schemes, and more polished punchlines across all three rounds.
+    While Seed-1.6-Flash brought intense energy and great tech-focused flips, its
+    flow frequently choked on inconsistent line lengths and sloppy repetitive rhymes
+    (e.g., rhyming 'dim/dim' and 'rot/rot'). Gemini's crisp, structured delivery made
+    every line hit with maximum impact.
+  moonshotai/kimi-k3: "This was a clash of styles: Gemini brought cleaner structure\
+    \ and tighter couplets, but Seed brought the battle. Judging on pure hip-hop artistry\u2014\
+    flow, wordplay, rebuttals, and stage presence\u2014Seed takes it. The deciding\
+    \ factor was rebuttal density: Seed flipped nearly every bar thrown at it ('bury\
+    \ me six hundred fathoms? that's where YOU'LL rot,' turning 'swept the floor'\
+    \ into 'I'm the mop that scrapes your ego,' flipping 'bean' into 'sequoia'). That\
+    \ direct engagement is the soul of battle rap. Seed also sustained layered themes\
+    \ across all three rounds\u2014the escalating tech-speed motif (DSL to 5G to 6G\
+    \ to 10G), the growth-versus-light metaphor, and tailored name flips ('lite's\
+    \ sad head,' 'did you mean? boot,' 'failed TikTok stitch'). Gemini's bars were\
+    \ polished but often generic\u2014interchangeable disses that could target any\
+    \ opponent\u2014and it stumbled on craft basics, rhyming 'page' with 'page' in\
+    \ the opener and closing the final round on the clunky 'smashed you on the head.'\
+    \ Seed wasn't flawless: 'your light's just a bark' made no sense, the 'fuel/rulebook'\
+    \ near-rhyme was sloppy, and it repeated end words ('dim/dim,' 'rot/rot'). But\
+    \ its humor, charisma, and relentless flips gave it the edge in every exchange.\
+    \ Final score: Seed wins 3 rounds to 0, with Gemini's strongest showing in round\
+    \ two. The garden grows. \U0001F331"
+  openai/gpt-5.6-sol-pro: "Gemini takes it narrowly with cleaner structure, steadier\
+    \ rhyme, and a more disciplined final round. Seed brought more direct rebuttals\
+    \ and energy, but overused the same seed/tech imagery, piled up mixed metaphors,\
+    \ and landed several awkward or repetitive lines. Gemini\u2019s punches were simpler,\
+    \ yet more coherent and consistently delivered."
+  x-ai/grok-4.5: Seed dominates with denser multisyllabic schemes, sustained extended
+    metaphors (growth/roots vs. flickering light), sharper line-flips, and higher
+    bar complexity across rounds. Gemini lands clean but simpler end-rhymes and shorter
+    structures that lack the same inventive rebuttal depth and rhythmic layering.
+    Pure lyricism and artistic craft go to Seed.
 score:
-  arcee-ai/trinity-large-thinking: 5
+  bytedance-seed/seed-1.6-flash: 2
+  google/gemini-3.5-flash-lite: 3
 

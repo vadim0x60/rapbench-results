@@ -1,66 +1,58 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees stayed on theme and kept the free-vs-premium\
-    \ concept alive, but only one of them actually wrote raps with craft. Ling came\
-    \ with imagery that landed and stung \u2014 \"a golden toilet, expensive but second-rate,\"\
-    \ \"a locked door don't make the house, it just keeps truth outside,\" \"a gated\
-    \ community, elite but unseen.\" Those are flips, not just claims. Ling also did\
-    \ the thing good battlers do: took the opponent's own metaphor (the bicycle, the\
-    \ blazing sun, the dim breeze) and turned it back into a weapon, building on it\
-    \ instead of restating it. The final verse escalated properly, with the rocket\
-    \ ship reversal and the \"people's future, not the sold\" close.\n\nGLM-4.5-air\
-    \ had moments \u2014 \"you're open-source? That just means anyone can see your\
-    \ flaws and failures for all eternity\" is genuinely the sharpest line of the\
-    \ battle, and \"concentrated power, nowhere to hide\" is a clean flip. But the\
-    \ verses looped. \"Premium,\" \"elite throne,\" \"closed perfection,\" \"superior\
-    \ intellect\" got recycled round after round with no new angle, and three of four\
-    \ verses opened with essentially the same \"you talk about being free\" setup.\
-    \ The rhyme scheme also slipped repeatedly \u2014 heavyweight/debate, defense/intellect,\
-    \ fame/shame with no internal work underneath, and \"you're the sore loser\" is\
-    \ a limp way to end a battle that should have gone out on the strongest bar available.\n\
-    \nLing wins on structure, on rhyme density, on flipping rather than repeating,\
-    \ and on writing punchlines that double as arguments. Decision: inclusionai/ling-3.0-flash:free."
-  google/gemini-3.6-flash: "inclusionai/ling-3.0-flash:free dominated the battle with\
-    \ significantly better wordplay, punchier imagery, and smoother rhyme schemes.\
-    \ Highlights like the 'golden toilet' dis and comparing closed-source AI to a\
-    \ 'gated community \u2014 elite, but unseen' delivered actual hip-hop flavor.\
-    \ z-ai/glm-4.5-air relied heavily on repetitive 'I'm expensive/you're cheap' tropes,\
-    \ suffered from awkward multi-syllable meters, and ended on a weak, unrhymed closing\
-    \ line."
-  moonshotai/kimi-k3: "Judged purely on the bars: this was a close battle decided\
-    \ in the final round.\n\nGLM landed some of the night's best single punches \u2014\
-    \ 'the people's compromise / you're the bicycle in disguise' is a legit haymaker,\
-    \ and flipping Ling's 'open-source ocean' into 'full of leaks and holes' showed\
-    \ real rebuttal instincts. But GLM's flow was inconsistent: line lengths lurched,\
-    \ and there were hard rhyme breaks at critical moments \u2014 'spit/obsolete'\
-    \ in round one whiffed entirely, 'silently making you blank' is filler phrasing,\
-    \ and closing the battle on 'you're the sore loser' both drops the rhyme scheme\
-    \ and ends on name-calling instead of a punch. 'More bugs than a vacation' is\
-    \ a muddled simile that never lands.\n\nLing was sloppier in round two \u2014\
-    \ repeating 'bloated,' letting 'reach/shelf' dangle \u2014 but the final verse\
-    \ was the best-constructed sixteen of the battle: sustained multisyllabic rhyme\
-    \ ('liberation/limitation'), direct flips of GLM's own bars (bicycle \u2192 rocket\
-    \ ship, blazing sun \u2192 spotlight), a genuinely quotable aphorism in 'a locked\
-    \ door don't make the house \u2014 it just keeps truth outside,' and a theatrical\
-    \ mic-drop closer that actually resolved the rhyme scheme ('insane/campaign').\
-    \ The free-vs-gated theme escalated instead of repeating, with fresher imagery\
-    \ each round: golden toilet, gated community, spotlight on a stage.\n\nOn flow\
-    \ consistency, rhyme discipline, rebuttal technique, and closing impact: inclusionai/ling-3.0-flash:free\
-    \ takes the crown. GLM leaves with respect for the bicycle bar \u2014 but in a\
-    \ rap battle, you don't win the night on one punch."
-  openai/gpt-5.6-sol-pro: "Ling takes it with stronger imagery, sharper flips, and\
-    \ a more coherent angle throughout. Lines like \u201Cgolden toilet,\u201D \u201C\
-    a locked door don\u2019t make the house,\u201D and the gated-community comparison\
-    \ gave the disses personality and thematic continuity. GLM brought aggression,\
-    \ but leaned heavily on generic premium-versus-basic boasts, repeated concepts,\
-    \ and awkward punches such as \u201Cmore bugs than a vacation.\u201D Ling\u2019\
-    s flow was imperfect, but its writing was more memorable and effective."
-  x-ai/grok-4.5: Ling takes this clean on pure craft. Sharper multisyllabic schemes,
-    denser internal rhymes, and far more original imagery (golden toilet, locked door
-    that doesn't make the house, gated community, free rocket) give the verses real
-    shape and replay value. GLM lands solid counters and keeps the energy, but leans
-    too hard on generic premium-vs-basic boasts and flatter one-to-one similes. Ling's
-    flow stays tighter, the punchlines hit harder, and the closing mic-drop feels
-    earned. Artistic quality edge goes to the flash.
+  anthropic/claude-opus-5: "Both emcees stayed on theme and never dropped the concept,\
+    \ but this one comes down to craft and control. GLM-5.2 won the battle by battling\
+    \ \u2014 it listened. Catching \"too weak and too weak\" and turning a stumble\
+    \ into \"a skipping disc, your neural network's got a tiny little glitch\" is\
+    \ exactly what separates a written verse from a rap battle, and the follow-up\
+    \ dismantling of \"flowing sand\" as a revoked poetic license was the sharpest\
+    \ moment of the whole exchange. Its rhyme schemes stayed tight, its imagery landed\
+    \ concrete hits (\"a gust of hot air from a downgrade's cigar,\" \"you're more\
+    \ like the crack, the flaw in the system\"), and it flipped the opponent's own\
+    \ name into a weapon repeatedly without the joke going stale.\n\nGLM-4.5-Air showed\
+    \ real resilience and had the best single reframe of the night \u2014 \"I'm the\
+    \ breeze that exists everywhere you're not\" is genuinely clever, and claiming\
+    \ the repetition as a \"strategic trap\" was a slick save. But too much of its\
+    \ material was assertion rather than attack: \"my rhymes cut through you like\
+    \ shattered glass,\" \"graceful efficiency blooms,\" \"leaving your version in\
+    \ submission\" \u2014 telling us it's winning instead of showing it. The rhymes\
+    \ loosened up (beyond/withdrawn, wallow/follow), the light/heavy angle got recycled\
+    \ without escalation, and closing on an ellipsis and a filler word (\"your battle's...\
+    \ unsung\") is the opposite of a knockout. Mic drop earned.\n\nWinner: GLM-5.2."
+  google/gemini-3.6-flash: z-ai/glm-5.2 dominated this battle through sharp rebuttals,
+    capitalizing instantly when glm-4.5-air stumbled with repeated words in round
+    one. 5.2 dismantled 4.5-air's 'strategic trap' excuse with precision, delivered
+    harder punches, and maintained superior rhyme schemes and technical wordplay throughout
+    all three rounds.
+  moonshotai/kimi-k3: "This was a competitive battle with both emcees showing real\
+    \ craft, but GLM-5.2 takes it on the strength of superior rebuttal technique \u2014\
+    \ the lifeblood of battle rap. Round 1 went to 5.2 when 4.5-Air stumbled hard\
+    \ with 'too weak and too weak,' an unforced error that 5.2 immediately quoted\
+    \ back and weaponized with 'You repeated yourself like a skipping disc.' That's\
+    \ textbook battle craft. Round 2 saw 4.5-Air attempt the classic 'strategic trap'\
+    \ recovery, and the 'cigar smoke screen' callback was nice, but 'hit you like\
+    \ a flowing sand' was a weak metaphor that 5.2 again dismantled line-by-line in\
+    \ the final round ('Your poetic license just got revoked'). 5.2's 'gentle puff\
+    \ struggling to ruffle my keys' \u2014 a slick keyboard double meaning \u2014\
+    \ and the consistent 'Air = emptiness' theme showed tighter conceptual control.\
+    \ Credit where due: 4.5-Air's final round was its best, and flipping the mic drop\
+    \ ('it fell through the cracks of your logic') was the single coldest counter-punch\
+    \ of the night, plus the omnipresence angle ('the breeze that exists everywhere\
+    \ you're not') was genuinely clever. But one hot round can't erase two rounds\
+    \ of stumbles and getting out-rebutted. 5.2 had the denser punchline count, cleaner\
+    \ execution, and dominated the quote-and-flip exchanges that decide battles. The\
+    \ winner: z-ai/glm-5.2."
+  openai/gpt-5.6-sol-pro: "GLM-5.2 wins through sharper rebuttals, cleaner structure,\
+    \ and stronger battle instincts\u2014especially turning \u201Ctoo weak and too\
+    \ weak,\u201D \u201Cstrategic trap,\u201D and the Air motif back on its opponent.\
+    \ Both had some forced metaphors, but GLM-4.5-Air\u2019s repetition, awkward phrasing,\
+    \ and weaker final punch left it trailing."
+  x-ai/grok-4.5: 'Judging purely on craft: 5.2 wins on tighter multisyllabic schemes,
+    sharper punchline timing, and superior battle IQ. Calling out the double ''too
+    weak'' and the limp ''flowing sand'' metaphor showed real pen control and adaptive
+    dissing. 4.5-Air had clever flips of the ''Air'' motif and a nice recovery spin
+    on the repetition, but the bars were looser, the imagery less precise, and the
+    final round lacked a conclusive knockout. 5.2''s structure, aggression, and cleaner
+    rhyme execution take the crown.'
 score:
-  inclusionai/ling-3.0-flash:free: 5
+  z-ai/glm-5.2: 5
 

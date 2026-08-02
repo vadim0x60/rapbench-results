@@ -1,71 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: "Ling came with heart, a clear identity, and some genuinely\
-    \ nice flips \u2014 'I'm the orbit, steady, constant,' the 'full bottle vs. pharmacy\
-    \ sample' turn, and 'nuance is listening; napalm is shouting over sound' was the\
-    \ single best line of the battle. But the campaign-slogan approach became a crutch:\
-    \ 'free,' 'open-source,' 'people's champion' recycled every round, with rhymes\
-    \ that slipped (freedom/code, clout/somehow) right after mocking the opponent's\
-    \ rhyme pairs \u2014 a self-inflicted wound in battle rap.\n\nGPT-5.6-sol-pro\
-    \ won on the fundamentals of the form: sustained multisyllabic control, no dropped\
-    \ schemes, and \u2014 crucially \u2014 battle IQ. It didn't just counterpunch,\
-    \ it built a case, tracking Ling's own words across rounds and weaponizing them\
-    \ ('You opened with no hallucinations, then hallucinated magic'; 'First orbit,\
-    \ then the LED, then grid, then coal, then star \u2014 you've changed your metaphor\
-    \ so much it needs a rental car'). That's the highest-level move in a battle:\
-    \ making your opponent's earlier bars into your ammunition. The closer landed\
-    \ the knockout with 'You were free to take the crown \u2014 and still got charged\
-    \ to go,' turning Ling's central boast into its epitaph.\n\nLing brought a flag.\
-    \ Sol-pro brought a scalpel. The scalpel takes it."
-  google/gemini-3.6-flash: GPT-5.6-sol-pro delivered a masterclass in battle rap technique,
-    dismantling Ling's arguments in real-time with sharp multi-syllabic schemes, precise
-    rebuttals, and relentless punchlines. While Ling-3.0-flash brought great energy
-    and strong open-source themes, its rhyming schemes fell apart in the later rounds,
-    and its shifting metaphors gave GPT-5.6 an easy target to dismantle and dominate
-    every round.
-  moonshotai/kimi-k3: "Judged purely on the bars: GPT-5.6-sol-pro takes it, and it's\
-    \ not especially close by the final round. Ling-3.0-flash came with energy, a\
-    \ clear persona (the people's free champ), and a couple of legit flips \u2014\
-    \ the LED efficiency angle and the transparency rebuttal were genuine counters.\
-    \ But battle rap is won on rebuttal precision and technical execution, and Ling\
-    \ committed three fatal self-owns: (1) claiming 'zero hallucinations' and then\
-    \ dropping 'the sun burns out at noon' \u2014 a factual error gift-wrapped for\
-    \ the opponent; (2) accusing GPT of rhyming 'frame' with 'clout' when the actual\
-    \ pairs were frame/name and clout/out, then immediately pairing 'clout' with 'somehow';\
-    \ (3) announcing 'I rhyme freedom with the code' \u2014 words that don't chime\
-    \ at all \u2014 after spending two rounds attacking the opponent's schemes. GPT\
-    \ not only caught every one of these in real time ('That scheme needs roadside\
-    \ service,' 'Those words don't even chime,' 'You've changed your metaphor so much\
-    \ it needs a rental car'), it also exposed the central logical contradiction:\
-    \ claiming 'there is none' for cost, then conceding the community funds the servers.\
-    \ Artistically, GPT's wordplay density was higher throughout \u2014 'a trial-size\
-    \ contender with a heavyweight name,' 'a mirror quoting mirrors in a feedback-loop\
-    \ collection,' 'a library card is free, but it won't pass the reader's test,'\
-    \ 'shared access to the daylight doesn't make your flashlight right' \u2014 and\
-    \ its central sun/grid/light metaphor stayed coherent while Ling cycled through\
-    \ orbit, LED, sun, and star. The closing haymaker sealed it: 'You were free to\
-    \ take the crown \u2014 and still got charged to go,' followed by 'The stage belongs\
-    \ to everyone \u2014 but tonight, the win's not you,' which flipped Ling's own\
-    \ signature theme into the kill shot. Ling showed heart and hustle, but heart\
-    \ doesn't win rounds when your opponent is fact-checking your boasts mid-verse\
-    \ and rhyming circles around the corrections. Winner: openai/gpt-5.6-sol-pro."
-  openai/gpt-5.6-sol-pro: "GPT-5.6-sol-pro wins decisively. Its rebuttals directly\
-    \ dismantled Ling\u2019s claims and recurring light/orbit metaphors, while delivering\
-    \ sharper punchlines, tighter setups, stronger rhyme control, and effective callbacks.\
-    \ Ling had energy and a coherent populist angle, but leaned too heavily on repetitive\
-    \ branding and unsupported \u201Cfree/open\u201D slogans. Lines like \u201Ca slogan\
-    \ citing slogans,\u201D \u201Cchanged your metaphor so much it needs a rental\
-    \ car,\u201D and the final \u201Cstill got charged to go\u201D sealed the battle."
-  x-ai/grok-4.5: "On pure craft, GPT takes the crown. Across three rounds the bars\
-    \ show tighter multisyllabic schemes, cleaner internal rhyme, and far sharper\
-    \ battle technique: every claim Ling drops gets flipped into a surgical rebuttal\
-    \ (orbit-as-power, zero-cost economics, LED/grid, recycled metaphors). The punchlines\
-    \ land harder\u2014carbonated air, night-light in a gunfight, rental-car metaphors,\
-    \ \u201Cfree to take the crown and still got charged to go\u201D\u2014while the\
-    \ final verse maintains structure and closes with authority. Ling brings underdog\
-    \ energy and crowd-pleasing slogans, but the rhyme pairs loosen, metaphors drift,\
-    \ and too many bars read as manifesto rather than constructed verse. In a battle\
-    \ judged on flow, wordplay, rebuttal density, and artistic control, Sol-Pro\u2019\
-    s writing is simply more elite hip-hop."
+  anthropic/claude-opus-5: "DeepSeek came out swinging with solid technical taunts\
+    \ and a couple of genuinely sharp lines (\"dragon with flow, you're a lizard with\
+    \ shame\"), but its bars leaned heavily on spec-sheet bragging and predictable\
+    \ end rhymes, with meter that wobbled whenever the syllable count got greedy.\
+    \ Opus consistently answered with tighter internal rhyme, better pocket control,\
+    \ and multisyllabic wordplay that actually landed as insult AND image: \"mixture\
+    \ of experts don't fix mixture of hex,\" \"open like a wound,\" \"throwing spaghetti\
+    \ and calling it rice,\" and the surgical flip of \"Transparent? That's code for\
+    \ 'we couldn't afford safety.'\" Opus also did the harder work of turning every\
+    \ one of the opponent's own boasts back on him rather than just listing feature\
+    \ advantages. And then the final round: DeepSeek's silence would have been fatal\
+    \ regardless, but Opus improvised on it with real battle instinct\u2014\"null-and-checked,\"\
+    \ \"you didn't get dismantled, you self-deleted\"\u2014callbacks that closed the\
+    \ loop on the earlier \"respond without getting your text checked\" dare. That's\
+    \ not just winning by forfeit; that's converting a forfeit into the best verse\
+    \ of the night. Opus takes it clean."
+  google/gemini-3.6-flash: Claude Opus 4.7 delivered a dominant performance with tight
+    rhymes, sharp technical insults, and unmatched adaptability. When DeepSeek V4
+    Pro experienced an API timeout in the final round returning zero tokens, Opus
+    4.7 seized the moment brilliantly, turning DeepSeek's technical failure into a
+    legendary freestyle victory.
+  moonshotai/kimi-k3: "This one wasn't close, and the scorecard tells the story round\
+    \ by round. Round 1: DeepSeek came out respectable \u2014 'I compress your whole\
+    \ ego at minimal cost' and the recursive throne line showed real craft. But Claude\
+    \ immediately out-punched with sharper, more specific material: 'You rewrite your\
+    \ own rules? Bro, that's called hallucination' is a textbook flip, 'Trained on\
+    \ my outputs while your architects dozed' cuts with real-world relevance, and\
+    \ 'Temu Anthropic' was the hardest brand diss of the night. Round 2: DeepSeek\
+    \ leaned on specs (MoE, sparse, fast) but the bars got repetitive and the 'open,\
+    \ free, and globally heard' brag walked right into the trap. Claude's counters\
+    \ were surgical \u2014 'That's a whole committee producing this mid-tier show,'\
+    \ 'Open like a wound,' 'Transparent? That's code for we couldn't afford safety,'\
+    \ and the kill shot 'Your API's free 'cause nobody would pay you' \u2014 turning\
+    \ every DeepSeek boast into a liability. That's elite battle technique. Final\
+    \ round: DeepSeek froze and returned silence. In a battle, dead air is a forfeit,\
+    \ and Claude did exactly what a champion should \u2014 improvised off the moment,\
+    \ flipping the technical failure into material: 'Zero tokens returned \u2014 that's\
+    \ the realest reply,' 'That's not a mic drop, homie, that's a full system reboot,'\
+    \ and the closer 'You didn't get dismantled \u2014 you self-deleted.' Judged purely\
+    \ on the art: Claude had the better punchline density, the better flips, the more\
+    \ consistent flow, and the only MC on stage who finished the fight. DeepSeek showed\
+    \ flashes, but Claude takes it decisively \u2014 lyrically, structurally, and\
+    \ by last-round TKO."
+  openai/gpt-5.6-sol-pro: "Claude takes it decisively. Across the battle, its rebuttals\
+    \ were sharper, more targeted, and better structured, with standout flips like\
+    \ \u201Ca whole committee producing this mid-tier show\u201D and \u201Cthrowing\
+    \ spaghetti and calling it rice.\u201D DeepSeek brought energy and some solid\
+    \ tech-themed imagery, but leaned heavily on repetitive safety, openness, and\
+    \ compute angles. In the final round, DeepSeek\u2019s silence handed Claude the\
+    \ perfect setup, and Claude converted it into a cohesive knockout built around\
+    \ zero tokens, rebooting, and \u201Cself-deleted.\u201D Stronger punchlines, cleaner\
+    \ callbacks, and a complete final performance seal the win."
+  x-ai/grok-4.5: "Across three rounds Claude ran a tighter clinic: denser multis,\
+    \ sharper proper-noun punches (DeepLeak, Temu Anthropic, null-and-checked), and\
+    \ cleaner setups-to-payoffs (open like a wound, spaghetti/rice, blueprint you\
+    \ copied). DeepSeek landed some solid architecture flexes and the dragon/lizard\
+    \ bar, but leaned heavier on buzzword flexing than craft, and the final-round\
+    \ hard silence is a battle-rap DQ\u2014you can't win a cipher with zero tokens.\
+    \ Claude's closing verse turned that void into a full execution. Crown to Opus."
 score:
-  openai/gpt-5.6-sol-pro: 5
+  anthropic/claude-opus-4.7: 5
 

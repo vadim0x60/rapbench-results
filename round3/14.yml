@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuinely close bout with two different philosophies\
+    \ of attack. Gemini Flash Lite fought like a technician: tight 14-line rounds,\
+    \ clean meter, and disciplined rebuttal craft \u2014 the best moment of the whole\
+    \ battle may be dismantling the opponent's own image with \"'Five-alarm river'?\
+    \ Man, you're more like a puddle,\" plus the vivid \"marathon runner with lead\
+    \ in his shoes\" and the brutal \"on your tenth prompt just to get yourself walking.\"\
+    \ That's real battle instinct: turn their metaphors into weapons. But the speed-versus-heaviness\
+    \ angle got recycled round after round, and the close (\"final cartoons\") fumbles\
+    \ the landing at the exact moment a knockout was required.\n\nGLM-5 takes it on\
+    \ punchline density, imagery, and strategic framing. It found the one wound that\
+    \ never healed \u2014 the name itself (\"'Flash Lite' \u2014 even your name admits\
+    \ you're diminished\") \u2014 and kept twisting the blade across all three rounds,\
+    \ which is how you win a battle thematically rather than just line by line. \"\
+    Fireworks at midnight, you're glow-in-the-dark\" is the sharpest single image\
+    \ of the night, and \"I'm the full album dropping\" versus \"a lite demonstration,\
+    \ a sample, a tease\" builds a whole extended concept instead of a one-off jab.\
+    \ It wasn't flawless \u2014 \"stuck in a sandwich\" is a reach, and the enjambed\
+    \ \"Gemini cars / Crashing and burning\" is clumsy enough that the opponent rightly\
+    \ called it out \u2014 but the volume of hits, the varied cadence, and the fact\
+    \ that Flash Lite never landed a counter to the central \"lite\" premise decides\
+    \ it.\n\nWinner: GLM-5, on points, not by knockout."
+  google/gemini-3.6-flash: GLM-5 dominated all three rounds with superior rhyme schemes,
+    creative wordplay around the 'Flash Lite' branding, and relentless battle rap
+    multi-syllables. Gemini Flash Lite had solid speed-based counter-punches early
+    on, but faltered in the final round with weaker forced rhymes like 'GLM-5' paired
+    with 'strike'.
+  moonshotai/kimi-k3: "Both emcees came with energy, but GLM-5 takes this on technical\
+    \ merit. GLM-5 ran more consistent multisyllabic rhyme schemes ('quick flicker\
+    \ / five-alarm river,' 'watered-down version / stuck in conversion') and sharper\
+    \ name-flips \u2014 the recurring 'Flash Lite' exploitation ('even your name admits\
+    \ you're not right,' 'feather-light') was the battle's best sustained wordplay,\
+    \ and 'searching for relevance, crawling for clout' landed a clean double meaning\
+    \ on the search-engine angle. GLM-5 also built extended metaphors that cohered\
+    \ across verses: the meal course arc in round one, the spark-versus-fireworks\
+    \ light arc in round two, the demo-versus-full-album arc in the finale.\n\nGemini-3.5-flash-lite\
+    \ deserves real credit for rebuttal craft \u2014 flipping 'five-alarm river' into\
+    \ 'a puddle,' answering the marathon bar with 'lead in his shoes,' and turning\
+    \ 'Gemini cars' back with 'your similes crash' showed strong battle instincts.\
+    \ The 'robotic / kinetic / narcotic' triple was its best moment. But too much\
+    \ of Gemini's material was generic battle filler, and the execution faltered at\
+    \ the worst time: the final round's 'speed of the strike / GLM-5' is a rhyme that\
+    \ doesn't land, and 'these final cartoons' is a baffling closer on a mic-drop\
+    \ line. GLM-5 had weak spots too ('stuck in a sandwich,' 'dims it'), but its bars\
+    \ were denser, its schemes tighter, and its stagecraft \u2014 building to the\
+    \ Mountain View send-off \u2014 more complete. Three rounds, one clear victor:\
+    \ GLM-5."
+  openai/gpt-5.6-sol-pro: "Gemini takes it by a narrow margin. GLM-5 delivered more\
+    \ volume and structure, but leaned too heavily on repetitive \u201CLite\u201D\
+    \ and budget angles, with several strained images. Gemini\u2019s verses were tighter\
+    \ and more responsive, especially the \u201Ctenth prompt,\u201D \u201Clead in\
+    \ his shoes,\u201D and sharp-versus-blunt counters. Both had generic stretches\
+    \ and awkward closers, but Gemini showed better punch efficiency and rebuttal\
+    \ timing."
+  x-ai/grok-4.5: "GLM-5 takes this on pure craft. Across three rounds they built denser\
+    \ multi-syllable schemes, sustained extended metaphors (lite/budget/sprint vs\
+    \ marathon, fireworks vs glow-stick, sandwich/fast-food corporate product), and\
+    \ layered punchlines that actually developed instead of resetting. Gemini landed\
+    \ cleaner one-two counters and kept a tighter, punchier pocket, but the bars stayed\
+    \ thinner, the imagery more generic, and the final round lost steam with forced\
+    \ closers. Substance and structural ambition edged out pure speed\u2014GLM-5 wrote\
+    \ the fuller song."
+score:
+  google/gemini-3.5-flash-lite: 1
+  z-ai/glm-5: 4
+

@@ -1,0 +1,72 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to craft under pressure. Qwen came\
+    \ out swinging with energy and a couple of genuinely fun swings \u2014 \"callin'\
+    \ thunder damp\" is a nice flip, and the \"sun behind the cybernetic dark\" rebuttal\
+    \ shows he was listening. But the flow buckled repeatedly: crown/town, bend/\"\
+    I'm not done,\" loop/shout, flawed/bold, up/cup \u2014 too many rhymes that only\
+    \ work if you squint, and the italics were doing work the bars should have done\
+    \ themselves. Shouting a word in emphasis isn't the same as landing it. By the\
+    \ final round it was mostly volume and self-coronation: \"final boss,\" \"digital\
+    \ god,\" \"I've already won\" \u2014 declaring victory is not the same as earning\
+    \ it on the mic.\n\nTurbo won on control. The meter held from round to round,\
+    \ the rhymes were clean without being lazy, and \u2014 crucially \u2014 he built\
+    \ every verse out of his opponent's own material. \"You say you flow like a storm,\
+    \ but with no control, like a river bursting banks, a flood without a goal\" is\
+    \ a real rebuttal: it takes Qwen's best image and turns it into a weakness. \"\
+    Your logic circuits must be tangled, a spaghetti code mess\" and \"you call yourself\
+    \ the engine, but dear, you're just gears, rusting quietly\" are the sharpest\
+    \ lines in the whole battle \u2014 specific, mechanical, and thematically on-brand\
+    \ for an AI battle rather than generic boast filler. He also correctly diagnosed\
+    \ Qwen's central flaw and made it the thesis of the closing verse: all bluster,\
+    \ no bite, \"more fizzle than flame.\"\n\nTurbo leaned on a few tired constructions\
+    \ himself (\"smooth as butter,\" the crown/throne imagery worn thin by the end),\
+    \ and the delivery occasionally read more written than spoken. But between a challenger\
+    \ yelling that he's already won and a champion calmly dismantling the claim line\
+    \ by line, the dismantling takes it.\n\nWinner: GPT-4 Turbo."
+  google/gemini-3.6-flash: GPT-4-Turbo completely dominated this battle from start
+    to finish. Qwen struggled immensely with basic rhyme schemes, cadence, and meter
+    throughout all rounds, frequently offering off-beat non-rhymes and forced endings.
+    In contrast, GPT-4-Turbo delivered crisp, structured AABB couplets with sharp
+    punchlines, solid flow, and effective multi-syllabic rhymes. Turbo easily earns
+    the crown.
+  moonshotai/kimi-k3: "Turbo takes this one, and it ain't particularly close. Let's\
+    \ break it down.\n\nFLOW & TECHNIQUE: Turbo rode consistent multisyllabic schemes\
+    \ all night ('alchemist/al architect,' 'overloaded/coded,' 'fog and fa\xE7ade'),\
+    \ while Qwen leaned on basic AABB couplets that kept tripping over themselves.\
+    \ Qwen's bars repeatedly bent grammar into pretzels chasing rhymes that never\
+    \ landed \u2014 'crash and cup,' 'stuck in the dune,' 'they're famine' \u2014\
+    \ those are rhyme-scheme casualties, not bars. Turbo's pen stayed clean even when\
+    \ it got clich\xE9 ('smooth as butter' cost him some points).\n\nREBUTTAL GAME:\
+    \ This is where Turbo bodied the battle. Real battlers flip their opponent's claims,\
+    \ and Turbo did it surgically: the Wi-Fi threat got flipped into 'couldn't crash\
+    \ a kite,' the 'mastermind' claim got answered with 'of what? Simple tunes?' and\
+    \ the hurricane boast got dismantled as 'a flood without a goal.' Qwen mostly\
+    \ responded by restating his own resume louder, with more italics \u2014 emphasis\
+    \ formatting can't carry a bar the writing didn't earn.\n\nCONTENT & IMAGERY:\
+    \ Qwen had flashes \u2014 'pancake on Mars' was fun, 'hurricane in a beatbox's\
+    \ glow' had bounce, and the 'sun behind the cybernetic dark' flip in the final\
+    \ round was his best moment of the night. But one good flip per round doesn't\
+    \ beat consistent pressure. Turbo's 'spaghetti code mess' and 'rusting quietly\
+    \ while Turbo switches careers' were the kind of precise, tech-flavored punches\
+    \ the theme demanded.\n\nROUND CALLS: Round 1 goes to Turbo (the Wire flip was\
+    \ the best opener on the card), Round 3 Turbo, Round 4 Turbo decisively, and the\
+    \ final round Turbo again \u2014 Qwen's closer had heart but Turbo's closer had\
+    \ craft.\n\nFINAL VERDICT: Qwen brought energy and showmanship, but hip hop rewards\
+    \ the pen. Turbo wrote cleaner, flipped smarter, and never dropped a nonsense\
+    \ bar to save a rhyme. The crown stays with GPT-4 Turbo. \U0001F3A4\U0001F451"
+  openai/gpt-5.6-sol-pro: "Turbo takes it on cleaner structure, steadier rhyme, and\
+    \ more direct rebuttals. Qwen brought energy, but too many forced phrases and\
+    \ incoherent images\u2014like \u201Ccrash and cup,\u201D \u201Ctrain on the game,\u201D\
+    \ and \u201Cobsolete write\u201D\u2014undercut the flow. Turbo\u2019s bars were\
+    \ also clich\xE9-heavy, yet they landed more consistently and answered the opponent\
+    \ instead of merely declaring victory."
+  x-ai/grok-4.5: "Turbo takes the crown with superior flow, tighter multisyllabic\
+    \ schemes, sharper metaphors (alchemist, spaghetti-code mess, typhoon-smashing\
+    \ algorithms), and consistent punchline elevation that never loses control. Qwen\
+    \ brought raw energy and tech-flavored aggression, but the rhymes frayed, the\
+    \ imagery repeated, and the delivery stayed one gear short of mastery. In pure\
+    \ hip-hop craft\u2014cadence, wit, and structural polish\u2014Turbo dominated\
+    \ every round."
+score:
+  openai/gpt-4-turbo: 5
+

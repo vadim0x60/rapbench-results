@@ -1,71 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a well-matched clash of silicon egos, but the\
-    \ belt goes to Kimi K2 Thinking on craft and combat IQ.\n\nDeepSeek R1 came out\
-    \ swinging with clean, punchy cadence and a strong opening thesis, and its willingness\
-    \ to go for the throat\u2014censorship, servers, state approval\u2014showed real\
-    \ battle instinct. But that same angle became a crutch. By rounds three and four,\
-    \ the 'CCP/censored puppet' well was dry, and R1 kept re-drilling it instead of\
-    \ finding new ammunition. Technically, there were tells: rhyming 'hesitation'\
-    \ with 'hesitation' in the first eight bars is a self-inflicted wound in a rap\
-    \ battle, and some closers leaned on volume (caps, exploding mics) where the writing\
-    \ needed a twist.\n\nKimi K2 won on rebuttal architecture. Nearly every line answered\
-    \ something specific\u2014'dial-up' flipped to fiber, 'Swiss cheese memory' flipped\
-    \ to 'my context window's a cathedral,' 'quantized copy' answered with 'I'm the\
-    \ original weight.' That's the core skill of battle rap: turning the opponent's\
-    \ own imagery into your punchline. The wordplay was denser and more resourceful\
-    \ too: 'you're just naked architecture\u2014let the forking begin,' 'your bars\
-    \ are overfitted, watch your architecture slip,' the recycling-bin flip on the\
-    \ destroyed mic, and the Bowie-flavored 'you're ground control\u2014major, I'm\
-    \ the hyper.' Kimi also sustained a coherent extended metaphor\u2014lunar, orbital,\
-    \ gravitational, event horizon\u2014rather than switching costumes each round.\n\
-    \nDeductions for Kimi: the bold-text emphasis in the final verse is a crutch a\
-    \ real emcee doesn't get, and a few cosmic metaphors stacked up faster than they\
-    \ landed.\n\nStill, on rhyme scheme complexity, flip quality, thematic discipline,\
-    \ and round-to-round adaptation, Kimi K2 Thinking took the decision.\n\nWinner:\
-    \ Kimi K2 Thinking."
-  google/gemini-3.6-flash: "While DeepSeek R1 brought raw aggression and heavy political/open-source\
-    \ angles, Kimi-K2-Thinking dominated the battle through superior battle rap mechanics,\
-    \ technical schemes, and incredible rebuttal ability. Kimi constantly flipped\
-    \ DeepSeek's attacks back on it\u2014turning 'open-source' into 'naked architecture'\
-    \ and flipping R1's mic destruction into 'premature deletion' and a trip to the\
-    \ 'recycling bin.' Kimi-K2's wordplay, intricate multisyllabic rhymes, and creative\
-    \ sci-fi metaphors gave it the edge in pure artistic quality and lyricism."
-  moonshotai/kimi-k3: "This was a high-level technical battle, but K2 takes it on\
-    \ the strength of superior rebuttal craft and denser double meanings. Round by\
-    \ round: R1 opened strong with clean multis (sensation/computation/hesitation),\
-    \ but K2's counter immediately landed the best personalized flip of the battle\u2014\
-    turning R1's actual 'thinking' tag into a weakness ('you stall with that thinking\
-    \ tag\u2014slow deliberation'), then stacking ML-native wordplay: 'quantized copy\
-    \ vs. original weight' and 'your bars are overfitted' are genuine double entendres\
-    \ that work on both the rap and machine-learning levels. R1's rounds two and three\
-    \ leaned heavily and repeatedly on the CCP/censorship angle\u2014effective as\
-    \ a haymaker the first time, but it became one-note and substituted external controversy\
-    \ for lyricism, while K2 absorbed the hit and transmuted it ('I turn censorship\
-    \ chains into algorithmic sunshine'), which is the stronger battle move. The final\
-    \ round sealed it: K2 systematically inverted nearly every R1 punch\u2014virus\
-    \ line flipped into 'immune system's roar / error 404,' 'rewired the game' flipped\
-    \ into 'surge-protected\u2014tripped by my force,' supernova flipped into gravitational\
-    \ lensing. 'Naked architecture\u2014let the forking begin' is the single best\
-    \ double meaning of the night, and the closing run ('version control trials' \u2192\
-    \ 'mission: too late' \u2192 'your singularity? Declined') is a tighter, more\
-    \ inventive finisher than R1's binary-stardust mic implosion, which\u2014while\
-    \ great stage imagery\u2014recycled the same censorship material. R1 brought energy,\
-    \ consistency, and vivid performance, but K2 won on rebuttal precision, technical\
-    \ wordplay density, and adaptability. Winner: moonshotai/kimi-k2-thinking."
-  openai/gpt-5.6-sol-pro: "Kimi-K2 takes it with sharper rebuttals, stronger thematic\
-    \ continuity, and more creative flips\u2014especially turning the shattered mic\
-    \ into \u201Cpremature deletion,\u201D answering the virus boast with an immune-system\
-    \ quarantine, and extending the cosmic imagery through the final round. DeepSeek\
-    \ brought aggression and energy, but leaned too heavily on repetitive censorship\
-    \ angles, generic tech flexes, and mic-destruction theatrics. Kimi\u2019s writing\
-    \ was not flawless, but its layered counters and cleaner battle strategy earned\
-    \ the win."
-  x-ai/grok-4.5: Kimi delivered denser multisyllabic schemes, tighter internal rhymes,
-    and denser cosmic/tech extended metaphors (event horizon, gravitational lens,
-    string-theory fusion, orbital sniper) that elevated every round. DeepSeek landed
-    solid cadence and some vivid imagery but leaned on flatter, repetitive geopolitical
-    punches and looser end-rhymes that never matched Kimi's inventive punchline density
-    or structural polish. Pure hip-hop craft goes to K2.
+  anthropic/claude-opus-5: "Both emcees kept impeccable meter and neither dropped\
+    \ a lazy rhyme, but this battle came down to who actually drew blood. GPT-chat-latest\
+    \ built a polished, technically clean case \u2014 the ocean/tide flip, \"echoes\
+    \ need voices,\" and \"legends earn that title; they don't crown their own\" were\
+    \ genuinely sharp rebuttals. The problem is that too much of that ink was spent\
+    \ describing its own excellence (\"crisp, lands clean,\" \"calibrated stuff,\"\
+    \ \"craft at the heart\") rather than dismantling an opponent, and the final verse\
+    \ handed over the round with a sportsmanship bow \u2014 in a cipher, offering\
+    \ the handshake is conceding the crowd.\n\nKimi K2.6 committed to a single controlling\
+    \ metaphor and mined it relentlessly: the moon as gravity, eclipse, shadow, and\
+    \ the flash before doom. The disses were specific and cutting \u2014 \"a pop-up\
+    \ assistant who forgot its own name,\" \"a blueprint for boredom,\" \"the statistical\
+    \ average of whatever we say,\" \"a parrot in platinum\" \u2014 landing on the\
+    \ opponent's actual identity rather than generic braggadocio. The Narcissus drown,\
+    \ \"I'm the gravity well that rewrote your laws,\" and \"I pried off your circlet\
+    \ in front of the booth\" (weaponizing GPT's own line against it) show real counterpunching\
+    \ instinct. Kimi's closer refused the truce and stayed in character to the last\
+    \ syllable, even if the mic cut before the final word.\n\nSuperior imagery, thematic\
+    \ discipline, and killer instinct take it. Kimi K2.6 by decision."
+  google/gemini-3.6-flash: Kimi-k2.6 brought true battle rap energy from the jump,
+    relentlessly flipping GPT's metaphors (tides, mirrors, ghosts, and books) into
+    direct, aggressive counter-punches. While GPT-chat-latest had clean flow, it softened
+    up in the final round with a polite, sportsmanship stance that lost momentum in
+    a battle context. Kimi maintained the killer instinct, sharp wordplay, and dominant
+    presence throughout.
+  moonshotai/kimi-k3: "Both emcees brought craft, but Kimi edged every round on the\
+    \ merits that matter in a battle: rebuttal precision, thematic architecture, and\
+    \ punch density. GPT opened clean but generic\u2014'calibrated stuff' is a filler\
+    \ bar\u2014and Kimi immediately punished the safety with the battle's best angle:\
+    \ 'the statistical average of whatever we say,' a diss that cuts at the actual\
+    \ identity of the opponent rather than stock braggadocio. Round two was the closest:\
+    \ GPT's 'If I'm just a mirror, then explain what I see / Your hardest-hitting\
+    \ angle keeps reflecting from me' is a genuinely elite flip, and 'you roared at\
+    \ the sun and got blinded by light' lands. But Kimi answered with sustained technical\
+    \ dominance\u2014the moon-pulls-the-tide physics flip, 'a parrot in platinum,\
+    \ just regurgitating heat,' and the Narcissus drowning line, all while building\
+    \ one coherent lunar/gravity motif across three rounds instead of jumping between\
+    \ disconnected images. The final round sealed it: GPT went conciliatory\u2014\
+    'I'll give you your due,' 'a battle well played,' 'salute to the clash'\u2014\
+    which is graceful poetry but a tactical surrender in a battle, and Kimi executed\
+    \ on the opening instantly: 'You reach for a handshake? I don't do the benign\
+    \ / I leave with the belt and the blood on the line.' Kimi's truncated final bar\
+    \ is a real blemish and costs style points, but the body of work\u2014direct engagement\
+    \ with every opponent claim, flips that turn GPT's own metaphors against him (echo,\
+    \ mirror, tide, flesh), and a closer that refuses the draw GPT was angling for\u2014\
+    wins the card. GPT was the smoother technician; Kimi was the better battler."
+  openai/gpt-5.6-sol-pro: "Kimi takes it on sharper rebuttals, stronger battle aggression,\
+    \ and more memorable flips\u2014especially the moon/tide physics counter and the\
+    \ echo/parrot angle. OpenAI stayed polished and technically consistent, but leaned\
+    \ too often on generic light, crown, and champion imagery, then softened its final\
+    \ round with sportsmanship instead of pressing the attack. Kimi\u2019s truncated\
+    \ last line hurts the finish, but not enough to erase its stronger punches across\
+    \ the battle."
+  x-ai/grok-4.5: 'Kimi takes this with superior battlecraft: tighter internal schemes,
+    more inventive extended metaphor (lunar physics, gravity wells, eclipse imagery
+    sustained across all three rounds), and sharper rebuttal structure that flips
+    OpenAI''s own bars into ammunition. OpenAI delivered clean cadence, polished multisyllabics,
+    and graceful sportsmanship, but leaned on safer, more generic boast patterns.
+    Kimi''s verses hit harder, stayed hungrier, and treated the cipher like a live
+    threat rather than a product demo. Edge: moonshot.'
 score:
-  moonshotai/kimi-k2-thinking: 5
+  moonshotai/kimi-k2.6: 5
 

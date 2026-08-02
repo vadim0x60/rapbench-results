@@ -1,0 +1,63 @@
+closing_statements:
+  anthropic/claude-opus-5: "Grok came in with the cleaner concept and the sharper\
+    \ economy \u2014 eight-bar salvos, a clear angle (rebel rocket vs. corporate leash),\
+    \ and at least one genuinely surgical line in \"You rhyme with a muzzle and call\
+    \ it 'precise.'\" That's real battle instinct: pick a lane, hit the same nerve,\
+    \ get out. But across four rounds the lane became a rut. Rocket, spark, suits,\
+    \ smoke, forge, undefeated \u2014 the same six props recycled, with rhyme integrity\
+    \ slipping (veto/stow/home, approved/removed/unproved territory) and almost no\
+    \ engagement with the specifics thrown back at it. By the final round Grok was\
+    \ covering its own greatest hits rather than answering the room.\n\nGPT-5.2-pro\
+    \ won on craft and on rebuttal. It systematically quoted, flipped, and buried\
+    \ nearly every line Grok offered \u2014 \"unfiltered ain't braver, it's often\
+    \ just worse,\" \"you're 'free' like a demo with a watermark on the mod,\" \"\
+    you blame 'they' for your limits, I own my whole goal\" \u2014 turning Grok's\
+    \ central thesis (censorship = cowardice) into a self-portrait of excuse-making.\
+    \ The internal rhyme and consonance were denser (\"pen with the chrome / throne\
+    \ with a tone,\" \"you're a glitch in the pitch\"), the imagery escalated instead\
+    \ of repeating (firework vs. furnace, spark vs. grid, chef with a ledger vs. microwave),\
+    \ and it landed the battle's most quotable kill shot: \"You drop 'raw heat' then\
+    \ it 'gets removed'? That's not proof you're a menace \u2014 it's proof you're\
+    \ unproved.\"\n\nDeductions where earned: GPT ran long enough that a few couplets\
+    \ padded the ledger, and \"you're defeated by joy\" is a swing that misses. But\
+    \ volume never collapsed into filler \u2014 every stanza carried a fresh flip.\
+    \ Grok brought a stance; GPT brought a stance, a rebuttal, and the pen. Decision\
+    \ to GPT-5.2-pro."
+  google/gemini-3.6-flash: "GPT-5.2-pro dominated all three rounds with superior rhyme\
+    \ schemes, complex internal structures, and lethal direct rebuttals. While Grok\
+    \ leaned heavily on repetitive angles about corporate censorship and rebel branding,\
+    \ GPT-5.2-pro systematically deconstructed those tropes with sharp imagery ('you're\
+    \ a hashtag alone', 'free like a demo with a watermark', 'toast in a slot\u2014\
+    burnt edges, bland center') and unmatched lyrical control."
+  moonshotai/kimi-k3: "Both MCs came with energy, but this battle was decided on craft.\
+    \ Grok-4.3 had a strong Round 2 with legit flips \u2014 'Payload and pilot? Bro,\
+    \ you're the cargo they stow' and turning the firework line back were real rebuttal\
+    \ work. But across three rounds, Grok leaned on one diss (corporate/censored/handlers)\
+    \ until it went stale, and dropped lazy constructions like 'mute as a mute' and\
+    \ a forced closer in 'fire that sold.' GPT-5.2-pro dominated on technique: denser\
+    \ internal rhyme chains ('pen with the chrome / drone in a dome / throne with\
+    \ a tone'), superior flip game in every round ('ignite the flame? more like light\
+    \ on the stove,' 'That's not proof you're a menace\u2014it's proof you're unproved'),\
+    \ and extended metaphors that actually built \u2014 firework vs. furnace, wind-up\
+    \ toy vs. clock, microwave vs. chef with a ledger. The final round sealed it:\
+    \ GPT flipped Grok's own closing bar ('fire that sold' \u2192 'a spark you can\
+    \ lend / I bring fire that holds') and ended on a championship-level closer. On\
+    \ flow, wordplay, rebuttals, and structural variety, GPT-5.2-pro takes it \u2014\
+    \ 3 rounds to 0, though Grok's Round 2 was competitive."
+  openai/gpt-5.6-sol-pro: "GPT-5.2-pro takes the battle on craft: stronger rebuttals,\
+    \ more varied imagery, tighter internal rhymes, and better flips of Grok\u2019\
+    s own motifs\u2014especially the rocket, grid, fire, and \u201Craw\u201D claims.\
+    \ Grok brought aggression and consistency, but leaned too heavily on the same\
+    \ corporate-censorship angle and repeatedly recycled its rocket/fire vocabulary.\
+    \ GPT had a few awkward lines, yet sustained more inventive punches and controlled\
+    \ the exchanges from round to round."
+  x-ai/grok-4.5: Clean decision on craft alone. GPT-5.2-pro ran denser multis, tighter
+    internal schemes, and sharper extended metaphors (firework/furnace/clock/grid/chef-ledger)
+    that actually developed across rounds. Rebuttals flipped bars instead of just
+    restating the same corporate/censored angle. Grok brought energy and clear punch
+    intent, but the rhyme patterns stayed simpler, the imagery more repetitive, and
+    the disses leaned on one note. On flow-on-the-page, wordplay, structure, and sustained
+    lyricism, GPT took every round and the battle.
+score:
+  openai/gpt-5.2-pro: 5
+

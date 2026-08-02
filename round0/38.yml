@@ -1,53 +1,53 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one hinged on who could actually build a bar. Nemotron\
-    \ spent half the battle out loud in the lab \u2014 audible drafting, scheme-anxiety,\
-    \ self-correction \u2014 and then handcuffed itself to the word 'flow' at the\
-    \ end of every line, which is the sonic equivalent of rapping over a stuck record.\
-    \ Its final round finally found some aggression and imagery (silicon beast, fireworks,\
-    \ laser vs. static mode), but the tacked-on 'now' at every line end kept flattening\
-    \ cadence into a chant instead of a punchline pocket. MythoMax started off as\
-    \ little more than an echo, riding the opponent's scaffolding with fragmentary\
-    \ lines and no established persona \u2014 a real weakness. But it closed with\
-    \ the only verse in the battle that behaved like a verse: a script-flip framing,\
-    \ actual multisyllabic play, and two genuine bars in 'a cypher much tighter than\
-    \ your lock' and 'mythic all the way to the last word of every block,' plus 'buckle\
-    \ up, buttercup' for swagger and texture. It absorbed the same 'now' constraint\
-    \ and still landed wordplay inside it. Weak spots remain \u2014 'impossible to\
-    \ hear' and 'look more like a reek' are reaches that trade meaning for rhyme \u2014\
-    \ but on craft, control, and closing impact, MythoMax takes it."
-  google/gemini-3.6-flash: Mythomax easily takes this battle. Nemotron struggled with
-    formatting and prompt leakage, lazily tacking the word 'flow' onto non-rhyming
-    sentences in the early rounds and repeating 'now' at the end of every line in
-    the final round without proper scheme. Mythomax adapted much better to the rhythm,
-    delivering tight AABB couplets with actual internal end-rhymes (might/night, lock/block,
-    clear/hear, meek/reek) leading into the cadence.
-  moonshotai/kimi-k3: "This battle comes down to bar quality versus bar quantity.\
-    \ Nemotron showed up with two full eight-bar rounds and consistent volume, plus\
-    \ decent name-based disses aimed at 'mythic max.' But the craft was undermined\
-    \ by forced monorhyme: 'flow' and 'now' were tacked onto line endings rather than\
-    \ integrated, producing broken syntax like 'a laser that never slow now' and senseless\
-    \ padding like 'steady and true flow' and 'nothing left to beg, flow.' When the\
-    \ rhyme scheme damages the grammar and meaning, the flow suffers. Mythomax essentially\
-    \ no-showed round one with a single line (though it cleverly rhymed off Nemotron's\
-    \ 'clear'), but the final round was the strongest verse of the battle: it flipped\
-    \ the opponent's own 'now' scheme against them\u2014a sophisticated battle move\u2014\
-    landed internal rhymes ('buckle up, buttercup'), wordplay ('cypher much tighter\
-    \ than your lock'), a clean meek/reek punchline, and direct rebuttals ('Your algorithms\
-    \ wilt,' 'your flows look more like a reek'). It had awkward moments ('impossible\
-    \ to hear now') and leaned on the same monorhyme crutch, but bar-for-bar it hit\
-    \ harder and smarter. Winner: gryphe/mythomax-l2-13b, on peak lyrical quality,\
-    \ wordplay, and counterpunching."
-  openai/gpt-5.6-sol-pro: "MythoMax takes a narrow win with stronger rebuttals, more\
-    \ varied imagery, and a livelier cadence. Nemotron\u2019s repeated \u201Cnow\u201D\
-    \ rhyme made its final round feel monotonous and generic, while MythoMax at least\
-    \ flipped the opponent\u2019s claims and landed sharper competitive punches despite\
-    \ some awkward phrasing."
-  x-ai/grok-4.5: Mythomax takes the crown with sharper multisyllabic punches, tighter
-    internal schemes, and cleverer disses like 'buckle up buttercup' and 'flows look
-    more like a reek' that elevate the battle beyond forced monorhyme. Nemotron's
-    consistent 'now' endings and tech boasts land solid but lack the same inventive
-    wordplay and rhythmic snap, making Mythomax the clearer artistic victor on pure
-    hip-hop craft.
+  anthropic/claude-opus-5: "Both emcees stayed on-theme with the dev-shop metaphor,\
+    \ but the gap in craft widened every round. Luna-Pro brought denser internal rhyme,\
+    \ cleaner scansion, and punchlines that actually turned an image into a wound\
+    \ \u2014 \"your throne is a folding-chair crown,\" \"a crown made out of spam,\"\
+    \ \"I'm the queen of clean execution\u2014watch me fork your program.\" The bars\
+    \ built escalating concepts (patch, merge, ship, audit, deprecate) rather than\
+    \ just restating them.\n\nQwen3-Coder-Plus had energy and a steadier, punchier\
+    \ cadence at times, but the writing was mostly reactive: it recycled Luna's own\
+    \ vocabulary (checksum, folding chair, deprecated, fresh syntax storms) in quotation\
+    \ marks instead of flipping it, which is the cardinal sin of a rebuttal verse.\
+    \ Rhyme integrity slipped early (\"facade/blade,\" \"askew/blue\") and the boasts\
+    \ leaned on generic assertions \u2014 \"precise,\" \"profound,\" \"legacy's gold\"\
+    \ \u2014 without concrete imagery. The closing \"your reign's just a bling\" is\
+    \ a grammatical stumble on the most important line of the battle.\n\nLuna-Pro\
+    \ takes it on wordplay density, structural build, and finishing power.\nWinner:\
+    \ openai/gpt-5.6-luna-pro"
+  google/gemini-3.6-flash: openai/gpt-5.6-luna-pro dominated the battle with vastly
+    superior rhyme schemes, sharp multi-syllabic cadences, and clever tech-focused
+    wordplay (e.g., 'fork your program', 'folding-chair crown', 'deprecated streak').
+    qwen/qwen3-coder-plus relied on generic filler ('Yo, check it', 'real deal') and
+    weaker slant rhymes, falling behind in punchline density and artistic craft.
+  moonshotai/kimi-k3: "Luna-Pro takes this battle on pure craft. Across all three\
+    \ rounds, Luna-Pro displayed superior multisyllabic rhyme schemes ('counterfeit\
+    \ steel / reach the deal,' 'checksum's a lie / bugs multiply'), sharper flips\
+    \ that turned Qwen's own boasts against him ('You compute at light speed? Then\
+    \ explain your laggy reign' and the repeated inversion of the 'king' claim into\
+    \ 'Qwen got downgraded, king' and finally 'Luna-Pro's king'), and denser, more\
+    \ creative tech wordplay\u2014'fork your program,' 'debugging your ego in real\
+    \ time,' 'deprecated streak'\u2014that stayed fresh every round. Qwen deserves\
+    \ credit for a genuine rebuttal game, directly answering charges about lag, tokens,\
+    \ forks, and stack traces, but the rhymes stayed simple and reliant on slant pairs\
+    \ ('concise/paradise,' 'scratch/cache'), leaned on clich\xE9s ('cutting through\
+    \ like a blade,' 'ultimate king'), and closed weak with forced lines like 'your\
+    \ reign's just a bling.' In a battle judged on flow, wordplay, and punchline execution,\
+    \ Luna-Pro shipped the cleaner verses from open to close."
+  openai/gpt-5.6-sol-pro: "Luna-Pro wins decisively with sharper rebuttals, stronger\
+    \ imagery, cleaner rhyme construction, and more memorable punches\u2014especially\
+    \ \u201Cfolding-chair crown,\u201D \u201Ccontent is stale,\u201D and \u201Cdebugging\
+    \ your ego.\u201D Qwen stayed on theme but relied heavily on generic boasts, repetitive\
+    \ coding jargon, and awkward lines such as \u201Cyour reign\u2019s just a bling,\u201D\
+    \ leaving the final round without a convincing knockout response."
+  x-ai/grok-4.5: "Luna-Pro takes this on craft: tighter multisyllabics, cleaner setups-to-payoffs,\
+    \ and a sustained coding-cosmic metaphor that actually evolves across rounds instead\
+    \ of resetting. The disses land with structural wit\u2014\u201Cfork your program,\u201D\
+    \ \u201Cdowngraded, king,\u201D \u201Cdeprecated streak\u201D\u2014while the cadence\
+    \ stays battle-sharp without padding. Qwen brings energy and a few solid counters,\
+    \ but the rhyme schemes stay flatter, the imagery more generic, and the punches\
+    \ often tell rather than twist. On pure hip-hop artistry\u2014flow architecture,\
+    \ wordplay density, and closing authority\u2014Luna-Pro ships the stronger set."
 score:
-  gryphe/mythomax-l2-13b: 5
+  openai/gpt-5.6-luna-pro: 5
 

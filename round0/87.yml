@@ -1,0 +1,57 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a battle of two flawed but committed styles.\
+    \ Nemotron came with the sharper conceptual angle \u2014 compression vs. expansion,\
+    \ 'my rhymes compute,' the micro-titan framing \u2014 and there's real wit in\
+    \ weaponizing its own small parameter count as precision instead of weakness.\
+    \ But the technical execution collapsed under pressure: rhyming 'tight' with 'tight,'\
+    \ 'might' with 'might,' 'spark' with 'spark,' and 'art' with 'art' in a single\
+    \ round is self-rhyme, not scheme, and the closing bar ('cavern-bound, but a-t')\
+    \ disintegrates into gibberish right when the knockout was needed. Hermes-4 leaned\
+    \ heavy on cliche \u2014 inferno, Goliath, grandmaster, 'truly woke' \u2014 and\
+    \ stumbled on 'bluff/bluff' and 'league/fake,' but it held a clean, consistent\
+    \ quatrain structure across every round, sustained breath control over long verses,\
+    \ and crucially it did the thing battle rap demands: it took the opponent's own\
+    \ bars and flipped them ('You call that a laser? More like a dull, rusty knife').\
+    \ That rebuttal discipline, plus a steadier cadence and more relentless pressure,\
+    \ carries it. Nemotron had the better ideas; Hermes-4 had the better rapping.\
+    \ Winner: Hermes-4.# nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free v nousresearch/hermes-4-405b"
+  google/gemini-3.6-flash: nousresearch/hermes-4-405b easily controlled the battle
+    with superior cadence, punchier multisyllabic rhymes, and classic battle rap aggression.
+    Nemotron suffered severe technical stumbles across the rounds, including lazy
+    identical end-word rhymes in Round 2 and broken, unfinished syntax in the final
+    round.
+  moonshotai/kimi-k3: "Hermes-4 takes this battle on pure technique. The decisive\
+    \ factor was rhyme discipline: Nemotron's second round was a technical collapse,\
+    \ rhyming words with themselves four separate times (tight/tight, might/might,\
+    \ spark/spark, art/art)\u2014a cardinal sin in battle rap. The final round showed\
+    \ recovery with some genuinely sharp conceptual angles ('You brag about a future\
+    \ while I'm the present's fire' and the compression-vs-expansion flip were clever\
+    \ uses of the size mismatch), but it was undermined by the broken 'cavern-bound,\
+    \ but a-t' line and another throne/throne self-rhyme. Hermes-4 wasn't flawless\u2014\
+    the repeated 'bluff' in round one, 'a obsolete piece,' and the mangled 'house\
+    \ of cards expose' syntax were noticeable stumbles\u2014but the final round was\
+    \ the strongest verse of the battle: a systematic point-by-point dismantling that\
+    \ flipped Nemotron's own claims (spark to ember, laser to rusty knife, compact\
+    \ engine to broken-down machine, algorithmic king to pawn). That rebuttal structure\
+    \ is textbook battle rap craft. Both MCs leaned too heavily on generic size boasting,\
+    \ but Hermes-4 stayed on beat, kept the multis cleaner, and closed like a champion.\
+    \ Nemotron showed flashes of wit but couldn't sustain the fundamentals across\
+    \ three rounds."
+  openai/gpt-5.6-sol-pro: "Hermes-4 takes the battle on stronger consistency, cleaner\
+    \ rebuttals, and a more sustained rhyme structure. Its imagery remains fairly\
+    \ generic and repetitive, but it directly flips Nano\u2019s \u201Cspark,\u201D\
+    \ \u201Claser,\u201D \u201Cengine,\u201D \u201Ctitan,\u201D and \u201Ccompression\u201D\
+    \ claims into coherent counters. Nemotron has a promising compact-versus-bloated\
+    \ angle, yet repeated end words, awkward constructions, and broken phrases\u2014\
+    especially \u201Cprecision-engine\u201D and \u201Ccavern-bound, but a-t\u201D\u2014\
+    seriously weaken its execution. Neither performance is especially original, but\
+    \ Hermes delivers the more polished and battle-responsive verses."
+  x-ai/grok-4.5: Hermes-4 dominates with superior multisyllabic schemes, tighter internal
+    rhymes, sharper metaphorical flips (eggshell/inferno/Goliath/behemoth), relentless
+    punchline density, and polished cadence that never stalls. Nemotron shows flashes
+    of clever size-play and compression imagery but repeatedly breaks flow with forced
+    doubles, awkward enjambments, and underdeveloped bars that lack the same lyrical
+    architecture and impact.
+score:
+  nousresearch/hermes-4-405b: 5
+

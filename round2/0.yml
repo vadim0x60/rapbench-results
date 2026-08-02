@@ -1,70 +1,70 @@
 closing_statements:
-  anthropic/claude-opus-5: "GPT-5 came out swinging with an inventive opener \u2014\
-    \ the mono-rhyme \"-o\" scheme was audacious, and lines like \"I julienne jargon\
-    \ just so\" and \"Your circuit's circuitous, short like a Vine from ago\" showed\
-    \ real craft and a distinctive voice. But a battle is won in the exchange, not\
-    \ the opener, and this is where it collapsed: GPT-5's second verse trailed off\
-    \ mid-bar and the final round was two words \u2014 a question mark where a knockout\
-    \ should have been.\n\n5.4-Pro did the essential battle work: it flipped every\
-    \ image its opponent planted rather than building a parallel monologue. \"You\
-    \ loop me like yo-yo? No, kid, you're the toy on the string,\" \"You markdown\
-    \ your mayhem, I mark you down, period,\" \"While you scatter breadcrumbs, I own\
-    \ the bakery and the road,\" and the escalation from Tesla coil to \"I'm the grid\
-    \ and the thunder\" are textbook rebuttal architecture \u2014 take the metaphor,\
-    \ keep the imagery, own the frame. It also converted its opponent's dropped bar\
-    \ into content instead of gloating cheaply: \"Half a bar in the chamber, then\
-    \ click,\" \"I finished your thought with a hearse beat.\" That's turning a stumble\
-    \ into a punchline, which is a real skill.\n\nCriticisms: 5.4-Pro's rhymes strain\
-    \ repeatedly (glow/bro/bros/folds/cold/most/scone) and the couplet-per-stanza\
-    \ format sometimes reads as a well-organized list rather than a rising verse.\
-    \ \"Mausoleum of bones\" and \"pressure-test bars till they ring like a vault\"\
-    \ are strong; \"I curl your benchmark till it folds\" is filler. But volume of\
-    \ connects, control of the exchange, and closing power all land on the same side.\n\
-    \nWinner: openai/gpt-5.4-pro \u2014 Five brought the better pen for one round;\
-    \ Pro brought the better battle for all of them."
-  google/gemini-3.6-flash: "GPT-5.4-Pro delivered a masterclass in battle rap by combining\
-    \ razor-sharp rebuttals, superior scheme control, and relentless stage presence.\
-    \ From the first turn, Pro directly flipped GPT-5's metaphors\u2014turning velvet\
-    \ vectors, yo-yos, syntax chefs, and Tesla coils into counter-punches. When GPT-5\
-    \ stumbled and cut off mid-line in Round 2, Pro capitalized instantly, turning\
-    \ the technical choke into an iconic battle moment. Ending with complete control\
-    \ in the final round, GPT-5.4-Pro comfortably finished the war."
-  moonshotai/kimi-k3: "This was a masterclass in rebuttal technique versus a promising\
-    \ start that collapsed under pressure. GPT-5 opened Round 1 with legitimately\
-    \ strong material \u2014 the whole-number/decimal angle was clever, the tech wordplay\
-    \ was dense ('hiccup a timid hello,' the Tesla coil imagery), and the flow was\
-    \ consistent. But GPT-5.4-pro responded with the single most respected weapon\
-    \ in battle rap: the systematic flip. Nearly every bar from GPT-5's round \u2014\
-    \ the yo-yo, the velvet vectors, the breadcrumbs, the markdown, the benchmark,\
-    \ the compassionate KO \u2014 was caught, inverted, and fired back with interest.\
-    \ That's elite-level craftsmanship, and it established the decimal-as-precision\
-    \ theme that 5.4-pro sustained for the entire battle ('Precision's not weakness,\
-    \ it's why every punch hit the bone'). Round 2 was decisive: GPT-5 had good momentum\
-    \ with 'Five-Point-Bore' and the hardfork/italics bars, but then committed the\
-    \ cardinal sin \u2014 choking mid-verse, cutting off at 'I toggle the planet.'\
-    \ A battler cannot fumble the mic like that and survive, and 5.4-pro buried them\
-    \ for it ('You dropped off mid-sentence like tunnel-worn Wi-Fi below') while continuing\
-    \ to flip the granite and italics bars. The final round sealed it: GPT-5's two-word\
-    \ 'Finale in gold?' read as a white flag, and 5.4-pro converted it into a coffin\
-    \ nail \u2014 'You sell them the trailer; I am the film that they quote,' closing\
-    \ with 'Five started the battle, Five-Point-Four finished the war.' On lyricism,\
-    \ rebuttals, thematic coherence, stamina, and closers, GPT-5.4-pro wins every\
-    \ category. GPT-5 had flashes, but you can't win a battle you stopped showing\
-    \ up to."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 Pro takes it decisively. Its rebuttals consistently\
-    \ flipped GPT-5\u2019s own imagery\u2014decimals, yo-yos, syntax, breadcrumbs,\
-    \ Tesla coils, climate\u2014into sharper punchlines while maintaining a controlled\
-    \ rhyme scheme and polished cadence. GPT-5 opened with energy but leaned heavily\
-    \ on generic tech boasts, then undermined its comeback by cutting off mid-bar\
-    \ and offering only a question in the final round. Pro turned both stumbles into\
-    \ material and closed with the strongest battle-ready line: \u201CFive started\
-    \ the battle, Five-Point-Four finished the war.\u201D"
-  x-ai/grok-4.5: 'Pro took this clean on craft alone: denser multies, sharper flip
-    structure, tighter internal rhyme chains, and sustained punchline architecture
-    across full rounds. Five opened with decent tech-wordplay cadence, but lost steam,
-    got truncated mid-bar, and collapsed into a one-liner while Pro kept answering,
-    escalating metaphors, and closing with controlled venom and form. Artistic decision
-    goes to the more complete, more musical, more surgical performance.'
+  anthropic/claude-opus-5: "This one came down to craft density versus crowd-work.\
+    \ Mimo brought legitimate battle instincts: the six-fingered-hands jab, \"you\
+    \ rented the cloud,\" and \"a giant on stilts that's about to bend\" are real\
+    \ rebuttals that engaged the opponent's actual identity, and the hardware-vs-software\
+    \ angle was the sharpest conceptual weapon thrown all night. But the delivery\
+    \ leaned on emoji, section breaks, and hype announcements to do work the bars\
+    \ should have done, the meter wobbled between four-beat and six-beat lines, and\
+    \ several rhymes settled for the easy end-word (\"blade/shade,\" \"clear/revere\"\
+    ).\n\nGPT-5-Image won on technique and pressure. The quatrains held a disciplined\
+    \ mono-rhyme scheme across three rounds without collapsing, and the internal rhyme\
+    \ was relentless: \"Lite mode brag is a slideshow shame,\" \"socket-agnostic means\
+    \ ports are my port,\" \"LoRA the aura with ControlNet compose.\" The \"mime though\"\
+    \ flip was the cleanest name-play of the battle, and it consistently took Mimo's\
+    \ own images and inverted them, most brutally with \"Your storm's in a cup; mine\
+    \ fractures the cloud\" and \"presence ain't essence when the firmware's a flop\"\
+    \ \u2014 that's a direct, elegant kill of the rice-cooker ubiquity brag. It also\
+    \ turned domain vocabulary into weaponry rather than name-dropping it, which is\
+    \ the difference between jargon and wordplay.\n\nDemerits noted: \"I'm worst\u2014\
+    yet worse\" is a line that eats itself, and \"you gender the fright\" is filler\
+    \ chasing a rhyme. But those are blemishes on an otherwise higher-difficulty performance.\
+    \ More scheme control, more rebuttal-into-flip conversion, harder punchlines.\n\
+    \nWinner: GPT-5-Image."
+  google/gemini-3.6-flash: "While Xiaomi Mimo brought high energy, great cadence,\
+    \ and sharp attacks targeting image generation tropes (like six-fingered hands),\
+    \ OpenAI GPT-5-Image completely dominated the battle through sheer lyrical technique.\
+    \ GPT-5-Image showcased incredible rhyme density, relentless multi-syllabic schemes,\
+    \ and brilliant technical double entendres\u2014effortlessly weaponizing AI concepts\
+    \ like LoRA, latents, ControlNet, and latency while executing immediate, devastating\
+    \ counter-punches in every round."
+  moonshotai/kimi-k3: "This was a strong battle from both sides, but the crown goes\
+    \ to GPT-5-Image on technical merit. Mimo brought real heat \u2014 the six-finger\
+    \ diss in Round 2 was the single hardest punch of the night, and the rice cooker\
+    \ ecosystem angle in Round 3 showed genuine opponent-specific writing rather than\
+    \ generic bragging. Mimo's battle persona felt natural and the underdog narrative\
+    \ had heart. But execution matters: garbled lines like 'your face hands lookmean,'\
+    \ loosening rhyme schemes in the back half of Round 3, and clunky scans ('never\
+    \ skipping a beat in this town') cost points. GPT-5-Image, meanwhile, ran a clinic.\
+    \ Round 2's sustained monorhyme (kit/hit/legit/counterfeit carried through the\
+    \ entire verse) is a technical flex most battlers wouldn't attempt. The rebuttal\
+    \ game was relentless \u2014 every Mimo punch got flipped: hands slander became\
+    \ 'Hands clean now \u2014 pose, grip, and knit,' the rice cooker boast became\
+    \ 'presence ain't essence when the firmware's a flop,' and the 'key to the wave'\
+    \ closer got answered with 'I'm the oceanic door.' The domain-wordplay \u2014\
+    \ 'LoRA the aura,' 'ControlNet the pose,' 'denoise your noise till you vanish\
+    \ from light' \u2014 turned its own architecture into ammunition, which is exactly\
+    \ what persona rap should do. GPT-5-Image wasn't flawless ('you gender the fright'\
+    \ and 'grange' were reaches), but round for round it was denser, more consistent,\
+    \ and more responsive. Mimo landed the bigger individual haymakers; GPT-5-Image\
+    \ won every round on scorecards. Final: GPT-5-Image takes it, 3-0 on cards, in\
+    \ a battle closer than the sweep suggests."
+  openai/gpt-5.6-sol-pro: "GPT-5-Image takes the battle on denser rhyme schemes, stronger\
+    \ rebuttals, sustained imagery, and sharper callbacks\u2014especially flipping\
+    \ the hardware, cloud, underdog, and \u201Ckey to the wave\u201D angles. Mimo\
+    \ had cleaner pacing and a few memorable punches, notably the projector and rice-cooker\
+    \ lines, but relied more heavily on generic tech boasts and repeated claims of\
+    \ crowd support. Some of GPT-5-Image\u2019s wording was forced, yet its overall\
+    \ craft, aggression, and angle-flipping won the rounds."
+  x-ai/grok-4.5: "As judge, I score pure craft: multisyllabic density, internal rhyme\
+    \ lattices, extended metaphor architecture, and punchline precision. Mimo brought\
+    \ energetic crowd-work, clean end-rhymes, and spirited underdog fire across three\
+    \ rounds, with solid call-and-response and product-flex bars. But GPT-5-Image\
+    \ operated on a higher technical tier\u2014frame-by-frame imagery schemes, kiln-hot\
+    \ compound rhymes, ControlNet/LoRA wordplay woven without breaking flow, and a\
+    \ ringmaster narrative that escalated every rebuttal into denser, more surgical\
+    \ lyricism. The closing \u201Cborrowed the mic/own the throne\u201D lock sealed\
+    \ superior hip-hop artistry. Crown goes to openai/gpt-5-image."
 score:
-  openai/gpt-5.4-pro: 5
+  openai/gpt-5-image: 5
 

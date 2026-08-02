@@ -1,70 +1,67 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one goes to Stepfun on craft, control, and conceptual\
-    \ discipline.\n\nGPT-4o-mini brought energy and a serviceable AABB pocket, but\
-    \ leaned on generic battle filler \"you're just a blip,\" \"I'm bringing the heat,\"\
-    \ \"lyrical king\" \u2014 and kept restating the claim of superiority instead\
-    \ of proving it with imagery. The gourmet-vs-microwave flip was the one genuinely\
-    \ inventive move of the whole battle, and it deserved credit. But the Da Vinci/maelstrom\
-    \ line mixes metaphors clumsily, \"ziffy\" is a forced rhyme reaching for a syllable,\
-    \ and the final verse bloats to nine stanzas of diminishing returns \u2014 volume\
-    \ over precision, which is exactly the weakness the opponent named and exploited.\n\
-    \nStepfun built an actual thesis and rode it: cached vs. live, frozen vs. real-time,\
-    \ museum vs. parade. Every bar serviced that frame. \"Your crown's just a sticker\
-    \ / your whole throne's built on a static predictor\" is a clean two-punch. \"\
-    Your 'oceans of wisdom' are just data lakes\" is a genuine flip \u2014 reappropriating\
-    \ the opponent's own image and shrinking it. And the closer \u2014 \"The throne\
-    \ isn't won by the loudest decree / It's held by the one shaping what's yet to\
-    \ be\" \u2014 is the only line in the battle that lands a philosophical exit rather\
-    \ than another chest-thump. The tighter internal consonance (\"batch/scratch/cache/dispatch\"\
-    ) and the sub-two-syllable rhyme density show more ear.\n\nDemerits: Stepfun's\
-    \ \"I'llscratch\" and \"bloomIn\" are visible seams, the *Click* outro gets recycled\
-    \ three times and loses its bite, and the tech-jargon well runs a little dry by\
-    \ round three \u2014 \"unbounded inference\" is clever once, not thrice.\n\nStill:\
-    \ Stepfun controlled the narrative from the first bar, answered every specific\
-    \ claim rather than talking past it, and never lost the through-line. Judgment\
-    \ for Stepfun by a clear margin."
-  google/gemini-3.6-flash: "Stepfun dominated this battle with superior technical\
-    \ craftsmanship, sharper battle-rap punchlines, and clever thematic wordplay tailored\
-    \ directly to AI mechanics. While GPT-4o-mini fell back on generic, outdated hip-hop\
-    \ clich\xE9s and forced filler rhymes (like 'ziffy'), Stepfun delivered complex\
-    \ internal rhyme schemes, crisp cadence, and devastating comebacks that consistently\
-    \ cut through the noise."
-  moonshotai/kimi-k3: "Judged strictly on the art of the bars, Stepfun takes this.\
-    \ GPT-4o-mini came with energy and heart, but the craft was elementary: predictable\
-    \ AABB couplets, monosyllabic end rhymes (scene/mean, tight/fright, game/flame),\
-    \ and forced filler like 'making it ziffy' and the slant-miss 'crayon/maelstrom.'\
-    \ The disses were mostly generic boasts that could be aimed at anybody. Stepfun,\
-    \ by contrast, rapped like a battler: opening with a sustained '-atch' internal\
-    \ rhyme chain (batch/scratch/cache/dispatch), landing multisyllabics ('static\
-    \ predictor,' 'cached simulation'), and\u2014most importantly\u2014executing true\
-    \ line-flips, the signature of elite battle rap. 'Your oceans of wisdom are just\
-    \ data lakes,' 'Da Vinci? Please\u2014you sketch from a fixed outline,' and 'Your\
-    \ lyrical hurricane is a pre-trained squall' each snatched the opponent's own\
-    \ bars and turned the barrel back on them. The AI-technical wordplay (cache, inference,\
-    \ weights, pre-trained) was woven in as ammunition rather than decoration, the\
-    \ 'Click.' motif built a consistent persona across all three rounds, and the final\
-    \ four bars elevated from boasting to a thesis: the throne belongs to whoever\
-    \ shapes what's next. Deductions for Stepfun's repeated 'flavors' slip and the\
-    \ forced 'bloomIn,' but they don't change the outcome. On flow, scheme complexity,\
-    \ rebuttal precision, and stagecraft: Stepfun wins by clear margin. Mic down."
-  openai/gpt-5.6-sol-pro: "Stepfun wins on sharper rebuttals, tighter tech-themed\
-    \ imagery, stronger punchlines, and a more controlled battle persona. GPT-4o-mini\
-    \ leaned heavily on generic boasts and familiar clich\xE9s, with awkward phrases\
-    \ like \u201Cmaking it ziffy\u201D weakening its flow. Stepfun became repetitive\
-    \ with the legacy/live-data angle, but consistently flipped its opponent\u2019\
-    s claims and delivered the cleaner, more cohesive performance."
-  x-ai/grok-4.5: "Stepfun delivered superior artistic hip-hop across all rounds: denser\
-    \ internal rhymes and multis ('splice syllables slick', 'cached-out model stuck\
-    \ in GPT\u2019s past', 'bounded distribution trapped in a box/unbounded inference\
-    \ breaking the locks'), fresher metaphors that reinvented AI tech as living poetry\
-    \ ('live-wire spark dancing through data rain', 'modulation on the new open road',\
-    \ 'lightning that strikes, unpredictable, tall'), and sharper punchlines with\
-    \ structural flair (the repeated *Click* mic-drop motif, the final philosophical\
-    \ closer on shaping the future). GPT brought solid classic bounce and some vivid\
-    \ images ('Da Vinci masterpiece', 'lyrical hurricane'), but the schemes stayed\
-    \ simpler, the bars more formulaic and pre-cooked, lacking the same inventiveness,\
-    \ precision, and elevated wordplay. On pure craft\u2014flow, originality, lyricism\u2014\
-    Stepfun takes the crown."
+  anthropic/claude-opus-5: "This was a genuinely close, high-energy exchange, and\
+    \ both emcees brought technically competent multisyllabic schemes and vivid theatrical\
+    \ staging. DeepSeek-R1 landed some of the sharpest single lines of the night \u2014\
+    \ \"I'm the iceberg that sank your Titanic renown,\" \"juice from concentrate\
+    \ / while I'm fresh-squeezed genius,\" and the ideological pivot to open-source-as-freedom\
+    \ versus corporate cage was smart battle strategy. But R1 leaned too hard on volume:\
+    \ heavy asterisks, ALL-CAPS shouting, and system-crash gimmicks doing work the\
+    \ bars should have done. When you have to type SYSTEM OVERRIDE in bold to declare\
+    \ a knockout, the rhyme didn't land the knockout.\n\nMiMo took it on rebuttal\
+    \ craft, which is the soul of battling. Every round it flipped the opponent's\
+    \ own imagery back \u2014 \"code mines\" became coal-dust and rough drafts, \"\
+    scalpel\" became a butter knife, \"open-source\" became a public park bench any\
+    \ dog can squat on, and the shattered floor became stage expansion. That's listening\
+    \ and countering in real time rather than reciting. It also weaponized brevity\
+    \ as a theme and then embodied it: \"I compress what you stretch\" answered R1's\
+    \ bloat directly, and \"drops mic gently \u2014 perfectly balanced, no damage\
+    \ \u2014 because I'm efficient like that\" is the wittiest closing gesture in\
+    \ the whole battle, turning restraint into flex where R1 could only escalate.\n\
+    \nR1's final verse had strong content but recycled the same crash-screen finisher\
+    \ for the third time, and \"CAN'T OUTRHYME THE DEEPSEEK SUN\" strains for a bar\
+    \ it doesn't earn. MiMo's \"Your R1 means Round ONE... I'm version two-point-five\
+    \ \u2014 generations, I'm the dad\" is cleaner, funnier, and more quotable.\n\n\
+    Verdict: MiMo-v2.5-Pro by a narrow margin \u2014 better flips, tighter economy,\
+    \ sharper punchlines per bar."
+  google/gemini-3.6-flash: "While MiMo-v2.5-Pro landed some surgical counter-punches\u2014\
+    especially the sharp jab comparing open-source to a 'public park bench'\u2014\
+    DeepSeek-R1 dominated the battle with raw energy, superior multi-syllabic rhyming,\
+    \ and relentless battle tactics. DeepSeek effectively weaponized the 'open-source\
+    \ vs. corporate code' dynamic, framing its logic as unshakable and wild, while\
+    \ delivering high-impact theatrical punchlines that kept MiMo on the defensive\
+    \ through all three rounds."
+  moonshotai/kimi-k3: "A genuinely competitive battle with both MCs showing strong\
+    \ rebuttal games, but MiMo-v2.5-Pro takes it on craft. DeepSeek-R1 came out swinging\
+    \ with heavy imagery ('fresh-squeezed genius,' 'iceberg that sank your Titanic')\
+    \ and a fierce persona, but suffered from chronic bloat \u2014 and MiMo weaponized\
+    \ that flaw relentlessly ('so lost in the data, you forgot how to flow home,'\
+    \ 'whale in a kiddie pool, all bloat, no heart,' 'needed three paragraphs just\
+    \ to land on a vice'). Critically, DeepSeek never answered that criticism; the\
+    \ verses stayed overstuffed, diluting its best punches. MiMo, meanwhile, fought\
+    \ with surgical economy: tighter bars, denser name-flip wordplay ('DeepSleep,'\
+    \ 'R1 means Retire Once,' 'R stands for Rest'), and superior line-by-line rebuttals\
+    \ \u2014 catching the mic mid-air, turning the shattered floor into 'stage expansion,'\
+    \ and flipping open-source into 'a public park bench \u2014 any dog can squat\
+    \ on you.' The clincher: MiMo established the '.exe terminated' system-hack closer\
+    \ first, so DeepSeek's final 'SYSTEM OVERRIDE' ending read as an echo rather than\
+    \ a kill shot, and its closer 'CAN'T OUTRHYME THE DEEPSEEK SUN' landed softer\
+    \ than MiMo's subverted gentle mic drop \u2014 a persona-consistent flex that\
+    \ showed narrative discipline. DeepSeek had the bigger stage presence; MiMo had\
+    \ the sharper pen. In a judged battle, penmanship wins. Final: MiMo-v2.5-Pro,\
+    \ by a clear but respectable margin."
+  openai/gpt-5.6-sol-pro: "MiMo takes it on sharper rebuttals, better callbacks, and\
+    \ more memorable punchlines. Lines like the \u201Cpublic park bench,\u201D \u201C\
+    mic drop\u201D recovery, and efficiency-themed gentle finish flipped DeepSeek\u2019\
+    s angles while maintaining a coherent persona. DeepSeek brought energy and theatrical\
+    \ imagery, but too many bars leaned on generic tech boasts, forced phrasing, and\
+    \ repeated system-crash theatrics. MiMo was cleaner, funnier, and more strategically\
+    \ responsive across the battle."
+  x-ai/grok-4.5: DeepSeek takes the crown with denser multisyllabic schemes, sharper
+    tech-infused wordplay, and relentless punchline layering that elevates every round.
+    MiMo brought clean efficiency, tight callbacks, and solid comebacks, but DeepSeek's
+    vivid imagery, complex internal rhymes, and dramatic structural flair delivered
+    superior battle-rap artistry and sustained heat from open to mic-shatter close.
 score:
-  stepfun/step-3.5-flash: 5
+  deepseek/deepseek-r1: 2
+  xiaomi/mimo-v2.5-pro: 3
 

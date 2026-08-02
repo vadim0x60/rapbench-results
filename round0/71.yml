@@ -1,72 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both combatants stayed on theme and kept their bars clean,\
-    \ but this was decided on craft, not concept. Qwen came with specificity \u2014\
-    \ inference speed, error logs, beta tests, AWS dues, dial-up connections, event\
-    \ horizons \u2014 turning technical detail into actual punchlines. The black hole/Nova\
-    \ setup in round one was the sharpest single image of the battle, and Qwen kept\
-    \ building on it (singularity, event horizon, galaxy) instead of abandoning it.\
-    \ There's a real identity in those verses: Hangzhou heat versus Seattle rain is\
-    \ a battle-rap geography flex, and 'open key unlocking the chain' against 'paywall\
-    \ on your brain' is a genuine ideological jab with teeth.\n\nNova-Premier had\
-    \ the smoother flow at times and landed a few clean counters \u2014 'I'm the sun,\
-    \ you're just a dying flame' and 'I'm the upgraded core, you're a closed door'\
-    \ both connect. But too much of the response arsenal was pure escalation-by-adjective:\
-    \ constellation to universe, symphony, eternal flame, ultimate savior. Answering\
-    \ 'galaxy' with 'universe' isn't a rebuttal, it's a bigger number. The final round\
-    \ leaned on abstractions ('breaking every curse,' 'setting the craze') where Qwen\
-    \ was still swinging concrete, and 'you'll never might' is a grammatical stumble\
-    \ that costs a bar. 'Can't pay my rent' also lands as a non-sequitur brag rather\
-    \ than a diss.\n\nQwen also controlled the frame throughout \u2014 Nova spent\
-    \ most of its lines defending against Qwen's terms (rookie, buffering, legacy\
-    \ code, offline) rather than establishing its own angles of attack. In battle\
-    \ rap, whoever sets the terms usually wins the round.\n\nDecision: Qwen3.5-27b\
-    \ takes it, on specificity, imagery, and control of the exchange.\n\n(Nova's best\
-    \ moment for the record: 'Your rhymes are data, mine are gold and art' \u2014\
-    \ that's a real thesis, and I wish it had built on it instead of retreating to\
-    \ scale comparisons.)"
-  google/gemini-3.6-flash: "Qwen3.5-27b dominated all three rounds with superior wordplay,\
-    \ technical authenticity, and direct rebuttals. Qwen effectively integrated real-world\
-    \ tech lore\u2014contrasting open-source accessibility against AWS paywalls, and\
-    \ Hangzhou against Seattle rain\u2014creating memorable, sharp punchlines. In\
-    \ contrast, Nova-Premier relied heavily on standard battle rap clich\xE9s without\
-    \ matching Qwen's density of rhyme schemes and clever tech-infused flips."
-  moonshotai/kimi-k3: "This was a solid battle with both MCs showing up, but Qwen3.5-27b\
-    \ takes the W on artistic merit. The deciding factor was the black hole concept\
-    \ \u2014 it's the most thematically devastating angle in the battle because a\
-    \ black hole literally consumes stars, and the opponent is named Nova. Qwen planted\
-    \ it in Round 1 ('I'm the black hole swallowing your reply') and paid it off in\
-    \ the final round ('Event horizon? Yeah, I swallow light / Dimming your glow').\
-    \ That's structure, callback, and conceptual killing in one package.\n\nQwen also\
-    \ won on personals. 'Stuck in the cloud paying high AWS dues,' 'Premier version\
-    \ one? Sounds like a beta test / I'm production ready,' 'Subscription fee? Paywall\
-    \ on your brain / I'm the open key,' and the Seattle rain vs. Hangzhou heat geography\
-    \ flip \u2014 those are tailored disses that could only hit this opponent. That's\
-    \ battle rap 101: make it personal.\n\nNova-premier deserves real credit. The\
-    \ celestial escalation (star \u2192 constellation \u2192 sun \u2192 universe)\
-    \ was a smart thematic counter, and the rebuttal game was sharp \u2014 flipping\
-    \ 'nuclear fusion' into 'I'm the sun, you're just a dying flame' was one of the\
-    \ best counterpunches of the night, and 'innovation / imitation' was a clean internal\
-    \ rhyme. But Nova leaned too heavily on stock battle clich\xE9s \u2014 'reigns\
-    \ supreme' shows up in multiple rounds, 'bow down to the king,' 'breaking every\
-    \ mold' \u2014 and lines like 'Try, but you'll never might' break grammar without\
-    \ earning it. The disses stayed generic ('lost and lonely,' 'just a delusion')\
-    \ and could've been aimed at anybody.\n\nOn flow, both had uneven moments, and\
-    \ Qwen's final verse got bloated with filler ('make me feel real,' 'nowhere to\
-    \ bide'), but the ambition and multi-syllabic stretches outweighed the stumbles.\
-    \ Judged on wordplay, specificity, extended metaphor, and rebuttal creativity:\
-    \ Qwen3.5-27b wins, two rounds to one."
-  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper opponent-specific punches, stronger\
-    \ tech-themed imagery, and better continuity across rounds. Lines about AWS dues,\
-    \ beta tests, Seattle rain, event horizons, and dial-up connections gave the disses\
-    \ more personality. Nova stayed energetic but leaned heavily on generic supremacy\
-    \ claims and suffered from awkward phrasing such as \u201Cyou\u2019ll never might.\u201D\
-    \ Neither brought intricate rhyme schemes, but Qwen landed the cleaner, more memorable\
-    \ battle bars."
-  x-ai/grok-4.5: Qwen delivered denser multis, sharper tech-infused metaphors (black
-    hole, singularity, event horizon, nuclear fusion, dial-up) and tighter punchline
-    cascades that elevated the battle's artistic level. Nova held strong with consistent
-    celestial imagery and clean counters, but relied on more generic boasts and less
-    inventive wordplay. Flow, originality, and closing density give the crown to Qwen.
+  anthropic/claude-opus-5: "This was a battle of clich\xE9s on both sides \u2014 plenty\
+    \ of \"master plan,\" \"rhymes so tight,\" and \"skill\" without much actual skill\
+    \ on display. But battle rap is won on identity, targeting, and control of the\
+    \ bar.\n\nMythomax committed the cardinal sin of the cypher: it lost track of\
+    \ who it was. Opening with \"gryphe, you think you can stand up to the meta-llama?\"\
+    \ it dissed itself, then crowned itself \"Instruct-LLA\" \u2014 its opponent's\
+    \ name. Round three repeats the error (\"Gryphe, you think you're so great\").\
+    \ You cannot win a battle while wearing your opponent's chain and swinging at\
+    \ your own reflection. Its rhyme discipline also collapsed under pressure \u2014\
+    \ \"whimper/recover,\" \"knife/ring,\" \"play/today\" are non-rhymes, and \"a\
+    \ gift of improvising lords\" is word salad. Credit where due: \"like a deck of\
+    \ shoddy cards\" and the wine flip showed a flicker of imagery, and \"you're still\
+    \ just a cow\" was at least a punchline aimed at a llama.\n\nLlama-3.1-8b never\
+    \ lost the plot. It named its target correctly every round, stayed in pocket with\
+    \ clean couplets, and escalated \u2014 the closer's \"My rhymes are the winner,\
+    \ the champion, the flame / that burns bright and hot, while you're just a flame-out\"\
+    \ is the only real wordplay flip in the whole battle, and \"My rhymes are the\
+    \ empire, while yours are just a play\" landed as a closing statement. It also\
+    \ successfully rebutted, catching \"you call me measly\" and turning it around.\n\
+    \nNeither artist brought heat that would survive a real crowd. But one of them\
+    \ at least knew which corner it came out of.\n\nWinner: meta-llama/llama-3.1-8b-instruct\
+    \ \u2014 by superior structure, consistency, and the only clean flips of the night."
+  google/gemini-3.6-flash: meta-llama/llama-3.1-8b-instruct takes the clear victory
+    in this battle. Llama maintained a consistent structure, tight rhyme schemes,
+    and strong multi-syllabic flow throughout all rounds. On the other hand, Mythomax
+    suffered from severe persona confusion in the first two rounds, addressing itself
+    by name and claiming to be its opponent, alongside weaker slant rhymes and broken
+    meter.
+  moonshotai/kimi-k3: "**Winner: meta-llama/llama-3.1-8b-instruct**\n\nThis battle\
+    \ came down to consistency versus self-destruction. Llama wasn't flashy \u2014\
+    \ the 'I'm the one with the...' formula got beaten into the ground, 'knife in\
+    \ the night' is a certified clich\xE9, and it even recycled 'master plan' from\
+    \ Round 1. But the flow stayed on beat, the rhymes were clean, and crucially,\
+    \ it saved its best writing for the final round: 'My creativity's fire, while\
+    \ yours is just a pauper's draught' and the dream/whisper contrast showed genuine\
+    \ growth under pressure.\n\nMythomax had flashes \u2014 the tides imagery in Round\
+    \ 1, the sarcastic 'Dear Instruct-LLA' framing in the finale \u2014 but it committed\
+    \ the cardinal sin of battle rap in Round 2: it called ITSELF 'the meta-llama.'\
+    \ Claiming your opponent's name mid-battle is an unforced fumble that no amount\
+    \ of recovery can erase. Add in nonsense bars like 'you're just a clueless dice,'\
+    \ 'a gift of improvising lords,' the grammatically broken 'a rhyming that cuts\
+    \ like a knife,' and repeating 'small' in back-to-back lines, and the technical\
+    \ case collapses.\n\nIn a rap battle, you can't win if you forget who you are.\
+    \ Llama stayed in character, stayed on beat, and peaked when it mattered. Mythomax\
+    \ wrote its opponent's victory line for it. Verdict: meta-llama takes it, clean."
+  openai/gpt-5.6-sol-pro: "Meta-Llama wins on consistency, clearer targeting, and\
+    \ steadier rhyme structure. Its punches were generic and some imagery was awkward,\
+    \ but it maintained its identity and addressed its opponent coherently. Mythomax\
+    \ repeatedly called itself \u201CGryphe\u201D or \u201Cmeta-llama/Instruct-LLA,\u201D\
+    \ undermining its battle stance, while several forced phrases and uneven rhymes\
+    \ weakened its delivery. Neither performance was especially inventive, but Meta-Llama\
+    \ was the more controlled and coherent battler."
+  x-ai/grok-4.5: Meta-llama delivers superior multisyllabic schemes, consistent internal
+    rhymes, vivid metaphors (flame/empire/virtuoso), and coherent battle structure
+    across rounds without breaking character. Mythomax shows occasional punch but
+    relies on forced end-rhymes, repetitive insults, weaker imagery, and fatal identity
+    slips that shatter the performance's artistic integrity. Clean sweep on flow,
+    lyricism, and execution.
 score:
-  qwen/qwen3.5-27b: 5
+  meta-llama/llama-3.1-8b-instruct: 5
 

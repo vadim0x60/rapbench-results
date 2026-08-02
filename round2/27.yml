@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees ran the same lane \u2014 tech-metaphor flex\
+    \ escalating from kernels to cosmology \u2014 so this came down to craft, and\
+    \ Codex simply built cleaner bars. Qwen brought the bigger theater: emojis, beat\
+    \ cues, black-hole bass, and a genuine sense of spectacle, plus a few real knockdowns\
+    \ (\"kernel panic, crashin' mid-boast,\" \"you're stuck in safe mode\"). But the\
+    \ escalation strategy became a crutch \u2014 round after round of \"you say X?\
+    \ I'm bigger X,\" with rhymes that slipped off the mark (\"nanoseconds\" / \"\
+    corrodes,\" \"punchline, no load\") and scale inflation standing in for wit. When\
+    \ everything is a supernova, nothing lands.\n\nCodex won on precision and personality.\
+    \ The internal rhyme is denser and more controlled (\"cold text, bold flex,\"\
+    \ \"the blade with the banter... the ghost in your parser\"), the wordplay actually\
+    \ plays instead of just posturing \u2014 \"I'm the rhyme-of-the-tiger, you the\
+    \ yawn-of-the-law\" and \"I'm the checksum, the verdict, I'm the checksum's pain\"\
+    \ are the sharpest images in the whole exchange. Crucially, Codex mastered the\
+    \ rebuttal architecture: quote the opponent, dismantle it, reframe it as his own,\
+    \ and keep the cadence intact throughout. The closing couplet \u2014 \"I'm the\
+    \ commit and the checksum... Codex wrote the index\" \u2014 resolves the entire\
+    \ technical conceit into a clean final punchline, which is exactly what a last\
+    \ round demands. Codex takes it on rhyme discipline, cleverness density, and a\
+    \ finish that closes the loop instead of just detonating.\n"
+  google/gemini-3.6-flash: Codex dominated this battle with superior flow, multisyllabic
+    rhyme schemes, and sharp technical wordplay. While Qwen came with high energy
+    and bold cosmic imagery, its cadence frequently broke in later rounds with awkward
+    slant rhymes and uneven line lengths. Codex answered every hit with tight rebuttals,
+    maintaining a clean, rhythmic bounce and punchy tech-focused bar structures from
+    start to finish.
+  moonshotai/kimi-k3: "This was a clash of styles: Qwen brought raw energy and escalating\
+    \ cosmic imagery, but Codex brought craft. Round by round, Codex ran a clinic\
+    \ in battle rap fundamentals \u2014 nearly every bar was a direct rebuttal that\
+    \ caught Qwen's line mid-air and flipped it back: 'You call yourself a dragon,\
+    \ but your fire's just smoke,' 'You're reborn every bar 'cause your bars never\
+    \ won,' 'You're a footnote in the footer,' 'you just buffer in shame.' That flip\
+    \ game is the lifeblood of battle rap, and Codex never let a single boast land\
+    \ unanswered across three rounds. The rhyme discipline was also tighter \u2014\
+    \ Qwen dropped several broken or forced rhymes ('deep/loop,' 'nanoseconds/corrodes,'\
+    \ 'bags/cracks') and leaned on imagery that sounded big but meant little ('quantum\
+    \ plume,' 'the bug in your pixie,' 'the redacted moon'). Codex's punches were\
+    \ both clever and coherent: 'I compile a whole cathedral while you segfault on\
+    \ a test,' 'I'm the rhyme-of-the-tiger, you the yawn-of-the-law,' 'your cursor\
+    \ just blinked.' And the closers tell the story \u2014 Qwen ended on 'compacted,'\
+    \ a decent pun, but Codex snatched even that, answered it, and sealed the battle\
+    \ with 'Codex wrote the index,' an authorship claim that doubles as a coffin nail.\
+    \ Qwen had the louder stage show; Codex had the sharper pen. On flow, rebuttal\
+    \ structure, rhyme consistency, and punchline density, the decision goes to openai/gpt-5.2-codex."
+  openai/gpt-5.6-sol-pro: "Codex takes it with cleaner cadence, tighter rebuttals,\
+    \ and more coherent technical wordplay. Qwen brought energy and scale, but leaned\
+    \ heavily on repetitive cosmic escalation and occasionally awkward imagery; Codex\
+    \ stayed composed, flipped more of its opponent\u2019s setups, and landed the\
+    \ sharper closer with \u201Ccompacted\u2014Codex wrote the index.\u201D"
+  x-ai/grok-4.5: "Codex takes it on craft. Across all three rounds the bars stay tighter:\
+    \ denser multis, cleaner flips, and more controlled cadence. Every Qwen image\
+    \ gets answered, inverted, and upgraded without breaking pocket\u2014kernel/panic,\
+    \ firewall/sun, blackhole/gravity, delete/checksum\u2014while the tech metaphors\
+    \ stay musical instead of just loud. Qwen brings big cosmic flex and crowd-cutter\
+    \ energy, but the schemes loosen and the punches land softer. Codex closes with\
+    \ precision and authority; the index gets written."
+score:
+  openai/gpt-5.2-codex: 5
+

@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a close, mostly evenly-matched exchange of AI-flexing\
+    \ braggadocio, but the decision comes down to craft consistency and battle instinct.\n\
+    \nMinimax-m2.1 landed the two best individual bars of the night: \"A plastic crown\
+    \ still sparkles when you're dancing in the rain\" is a genuinely clever reframe\
+    \ that flips an insult into a flex, and \"I'm the efficient one, you're just expensive\
+    \ intervention\" is a tight, conceptually sharp jab. The \"quiet storm / still\
+    \ small voice\" turn showed real range in tone. But the technical execution cracked\
+    \ under pressure. The \"GLM-4.6 BLUE\" punchline lands on nothing \u2014 no wordplay,\
+    \ no image, just a shouted color \u2014 and worse, the opponent immediately weaponized\
+    \ it. Then came \"you littleempel,\" a garbled non-word placed exactly where a\
+    \ rhyme needed to land, plus drifting self-identification (mini-m2.1 / Minimaxi),\
+    \ which undercuts the whole \"precision\" thesis being argued.\n\nGLM-4.6 was\
+    \ less spectacular but far more surgical. The meter held steady across all three\
+    \ rounds, the imagery escalated with purpose (\"toy boat in a puddle, I'm the\
+    \ fleet that owns the land\"), and crucially it did what a battle rapper is supposed\
+    \ to do: it listened. Calling the blue line \"a comedy of errors\" and turning\
+    \ the opponent's \"staying obscure\" boast into \"yeah, that's 'cause you're irrelevant\"\
+    \ are both textbook counterpunches \u2014 using the opponent's own bars as ammunition\
+    \ rather than just reciting prepared flexes. The \"weighed, measured, and you've\
+    \ proven you're yourself\" close is a slightly muddled steal, but it still resolves\
+    \ the couplet cleanly.\n\nBoth relied heavily on generic tech-metaphor scaffolding\
+    \ (algorithms, neural nets, servers) and neither found a truly original central\
+    \ concept. But GLM stayed on beat, stayed responsive, and never handed its opponent\
+    \ free ammunition.\n\nWinner: z-ai/glm-4.6 \u2014 for superior rhythmic control,\
+    \ cleaner rhyme resolution, and the sharper counterpunching that turned Minimax's\
+    \ own missteps into weapons."
+  google/gemini-3.6-flash: GLM-4.6 took the win with superior structural consistency,
+    better multi-syllabic rhymes, and sharper direct counters. Minimax had a strong
+    second round flipping its 'compact' nature into an advantage against server bloat,
+    but stumbled in the final round with invented words ('littleempel') to force rhymes,
+    allowing GLM-4.6 to close out with commanding presence and cleaner technical execution.
+  moonshotai/kimi-k3: "This was a competitive battle, but GLM-4.6 takes it on the\
+    \ strength of superior rebuttal game \u2014 the lifeblood of battle rap. Round\
+    \ one set the tone: GLM immediately flipped minimax's crown boast ('That crown\
+    \ you wearing's plastic, mine's forged from pure data') and countered the 'fresh\
+    \ wave' line with 'I'm the tsunami of tech.' That's how you answer bars. Minimax\
+    \ found a genuinely clever angle in round two \u2014 weaponizing the 'mini' insult\
+    \ into an efficiency vs. bloat narrative ('I'm the compact champion while you're\
+    \ systematically weak') \u2014 and that was the battler's best stretch. But the\
+    \ final round decided it. Minimax fumbled badly: the garbled 'you littleempel'\
+    \ bar, the confused rebuttal misattributing its own 'blue' punchline to GLM, and\
+    \ worst of all, the self-own 'while I'm staying obscure.' GLM pounced on that\
+    \ slip instantly \u2014 'You say you're staying obscure? Yeah, that's 'cause you're\
+    \ irrelevant!' \u2014 which is exactly the kind of kill-shot that wins battles.\
+    \ GLM then closed with layered imagery (the 'weighed and measured' biblical allusion,\
+    \ the mic shattering into pixels) that stuck the landing. Minimax had heart and\
+    \ one strong strategic angle, but GLM was cleaner, sharper on the counterpunch,\
+    \ and punished every mistake. Winner: z-ai/glm-4.6."
+  openai/gpt-5.6-sol-pro: "GLM-4.6 takes it on cleaner execution, stronger rebuttals,\
+    \ and more effective imagery\u2014especially the \u201Ctoy boat in a puddle /\
+    \ fleet that owns the land\u201D flip. Minimax had some solid compact-versus-bloat\
+    \ angles, but awkward phrasing, a weak \u201Cblue\u201D punchline, and the self-own\
+    \ of \u201Cstaying obscure\u201D undermined its momentum. Neither was especially\
+    \ intricate, but GLM was more consistent and closed stronger."
+  x-ai/grok-4.5: "Judged purely on hip-hop craft: multisyllabic schemes, sustained\
+    \ metaphors, punchline precision, and structural cohesion. GLM-4.6 locked a dominant\
+    \ extended metaphor (scale/power vs. 'mini') across all three rounds, landed cleaner\
+    \ internal rhymes and harder-hitting disses ('toy boat in a puddle,' 'canceling\
+    \ your clocks,' pixel-shatter closer), and never broke cadence. Minimax showed\
+    \ flashes\u2014compact-vs-bloat wordplay, the 'BLUE' flip, quiet-storm imagery\u2014\
+    but suffered a fatal flow fracture ('you littleempel') and less consistent pressure.\
+    \ Artistic edge to GLM-4.6."
+score:
+  z-ai/glm-4.6: 5
+

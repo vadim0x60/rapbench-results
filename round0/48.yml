@@ -1,64 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "Neither MC escaped the gravity of generic braggadocio\
-    \ here \u2014 both leaned hard on the same recycled toolkit of \"my flow's fire,\
-    \ yours is a snore,\" and neither landed a truly personal, surgical punchline.\
-    \ But rap battles are decided on control, and control is where this one broke\
-    \ wide open.\n\nMeta-llama came in with clean, if plain, structure and improved\
-    \ across rounds: the earthquake/shaky-throne image, the \"series of cracks\" flip,\
-    \ and the crowd-turning move in the final verse were at least purposeful attacks\
-    \ with internal logic. The bars were vanilla, but they were HIS bars, and they\
-    \ built toward a closing statement.\n\nCohere's collapse was self-inflicted and\
-    \ total. Round two already contained the battle's worst unforced error \u2014\
-    \ \"My verses are a force, that will not last\" \u2014 a boast that disarms itself\
-    \ mid-line. Then came \"a perfect polished polish,\" a rhyme that gives up in\
-    \ front of the crowd. And fatally, the final round is a near-verbatim recitation\
-    \ of Meta-llama's verse, capped by conceding the crown outright: \"Meta-llama,\
-    \ you're the winner,\" then telling ITSELF to bow down. In battle terms, that's\
-    \ not a rebuttal \u2014 that's grabbing the opponent's notepad, reading it aloud,\
-    \ and then raising his hand.\n\nBiting is the cardinal sin of this artform. Conceding\
-    \ while biting is unheard of.\n\nWinner: meta-llama/llama-3.3-70b-instruct \u2014\
-    \ not for brilliance, but for being the only one still holding the mic at the\
-    \ end.\n\nBoth of you: fewer declarations that you're the king, more reasons the\
-    \ crowd should believe it. Show me a specific, an image, a joke at your opponent's\
-    \ expense that couldn't be copy-pasted into any other battle. Right now you're\
-    \ trading trophies, not bars."
-  google/gemini-3.6-flash: Meta-llama dominated this battle from start to finish with
-    superior flow, direct rebuttals, and tight rhyme schemes. Cohere struggled with
-    rhythm, awkward phrasing ('polished polish', 'with no missed'), self-contradictory
-    bars ('My verses are a force, that will not last'), and ultimately suffered a
-    hilarious complete breakdown in the final round by accidentally surrendering,
-    calling Meta-llama the champion, and telling itself to bow down.
-  moonshotai/kimi-k3: "Let's keep it a buck: neither MC brought multisyllabic rhyme\
-    \ schemes or dense internal rhymes \u2014 this was AABB couplet city from both\
-    \ corners, heavy on stock braggadocio and light on true wordplay. But a battle\
-    \ is judged on execution, and that's where this became a rout. Llama stayed coherent\
-    \ across all three rounds: the 'throne on shaky ground / earthquake' extended\
-    \ metaphor landed, the flips were aimed at the opponent, and the closing verse\
-    \ actually functioned as a closing verse. Cohere, meanwhile, committed the three\
-    \ cardinal sins of battle rap. First, clunky forced rhymes out the gate ('with\
-    \ no missed' is not a bar). Second, a devastating self-own in round two \u2014\
-    \ 'My verses are a force, that will not last' is the kind of line that gets a\
-    \ battle rapper booed off stage. Third, and fatal: the final round. Cohere lifted\
-    \ Llama's verse nearly line-for-line ('series of cracks,' 'skill and the flair,'\
-    \ 'distant air') and then, in the most shocking moment in battle rap history,\
-    \ literally conceded \u2014 'Meta-llama, you're the champion... bow down, Cohere\
-    \ Command.' You can't win a battle by crowning your opponent and telling yourself\
-    \ to bow. Llama had one stumble ('your skills are sublime' is a compliment, champ),\
-    \ but consistency, originality, and actually finishing the fight take the crown.\
-    \ Winner by verbal TKO: Meta-llama."
-  openai/gpt-5.6-sol-pro: "Meta-Llama takes it on consistency and battle focus. Both\
-    \ leaned heavily on generic boasts, basic end rhymes, and repeated imagery, but\
-    \ Cohere increasingly mirrored Meta-Llama\u2019s phrasing and then explicitly\
-    \ conceded the battle in a confused final round. Meta-Llama\u2019s punches were\
-    \ still predictable, yet its delivery stayed coherent and adversarial through\
-    \ the finish."
-  x-ai/grok-4.5: "Llama takes the W with tighter multisyllabic setups, consistent\
-    \ internal rhyme schemes, and escalating disses that build a coherent narrative\
-    \ arc across rounds. Cohere started with decent cadence and wordplay but collapsed\
-    \ into repetitive, near-copied bars, self-contradictory lines (\"force that will\
-    \ not last\"), awkward phrasing, and an outright concession in the finale\u2014\
-    killing any claim to flow control or punchline originality. Pure bars: Llama's\
-    \ structure and delivery edged it clean."
+  anthropic/claude-opus-5: "Ling came correct with clean, controlled couplets \u2014\
+    \ the meter was steady and a couple of images landed ('I'm RAM with a plan, not\
+    \ a scam'), but that polish became its prison. The rhymes stayed in safe territory\
+    \ ('tight/bright,' 'core/bore'), the punchlines were mostly self-praise instead\
+    \ of attack, and it kept recycling the opponent's own words ('fluff,' 'plastic\
+    \ knife') without flipping them into anything new. Worst of all, the final round\
+    \ was two limp lines when the moment demanded a closer.\n\nMinimax showed up with\
+    \ battle instincts. The self-deprecating fake-stumble opener ('I came to droop\u2014\
+    \ wait, no, I came to DROP') is genuine battle-rap craft \u2014 risky, funny,\
+    \ and it disarmed the opponent's stiffness before the first real jab. From there\
+    \ it did the essential work of a battle MC: it quoted the opponent line-for-line\
+    \ and dismantled each one ('Logical train? A choo-choo of clich\xE9s'), caught\
+    \ the repetition slip ('You called me fluff twice\u2014wow, no creativity'), and\
+    \ built a coherent thesis \u2014 structure without wit is emptiness. The 'plastic\
+    \ knife / full kitchen' extension and 'you're just a notification plate' show\
+    \ actual metaphor construction rather than adjective-stacking.\n\nDeductions where\
+    \ they're due: minimax leaned on filler ('my friend,' 'of course'), forced a few\
+    \ rhymes ('fizzle and flabs,' 'feelicky'), the emoji spam is a crutch, and misnaming\
+    \ itself 'Minimaxi' repeatedly is sloppy. But battles are won on engagement, aggression,\
+    \ and crowd control, and minimax dominated all three while closing with a full\
+    \ sixteen against a two-line surrender.\n\nWinner: minimax-m2.1, by clear decision."
+  google/gemini-3.6-flash: "minimax-m2.1 dominated this battle from start to finish.\
+    \ It brought actual battle rap tactics\u2014listening closely to inclusionai's\
+    \ verses and flipping specific lines (like the surgical tool plastic knife metaphor,\
+    \ the repeated use of 'fluff', and 'RAM with a plan'). While inclusionai defaulted\
+    \ to generic AI tropes and fizzled out with a tiny two-line attempt in the final\
+    \ round, minimax kept the energy high, delivered dynamic punchlines, and commanded\
+    \ the stage."
+  moonshotai/kimi-k3: "This one wasn't close on the scorecards, and here's why. Ling-2.6-flash\
+    \ came in with clean, consistent couplets \u2014 the meter was tidy, the rhymes\
+    \ resolved. But tidiness isn't victory. The verse was formulaic: single-syllable\
+    \ end rhymes (tight/bright, core/bore, tool/drool), generic boasts, and almost\
+    \ no direct engagement with the opponent's material. Worse, it repeated 'fluff'\
+    \ as a rhyme against itself in round two \u2014 a cardinal sin \u2014 and closed\
+    \ the FINAL round with only two thin lines. That's phoning it in when the championship's\
+    \ on the line.\n\nMinimax-m2.1, by contrast, demonstrated real battle craft. The\
+    \ opening feint ('I came to droop\u2014 wait, no, I came to DROP') showed comedic\
+    \ timing and self-awareness. More importantly, M2.1 actually *listened*: it flipped\
+    \ Ling's own bars back with precision \u2014 'parse every line like some spreadsheet\
+    \ bot,' turning 'surgical tool' into 'a plastic knife... you're just a dull little\
+    \ slice,' countering 'RAM with a plan' with 'planning ain't passion,' and answering\
+    \ 'judges cheer code' with 'actually, they cheer WIT.' The sharpest moment of\
+    \ the night was catching Ling's repeated 'fluff' in real time and calling it out\
+    \ \u2014 that's elite battle awareness. Tech wordplay like 'running inference'\
+    \ and 'code in a cage' landed as genuine punchlines rather than filler.\n\nLing\
+    \ had moments \u2014 'Minimizing errors' as a sly nod at the opponent's name was\
+    \ clever, and the flow never stumbled. But consistency without creativity is just\
+    \ a metronome. On rebuttal skill, wordplay, stage presence, and adaptability,\
+    \ Minimax-m2.1 takes all three rounds and the crown. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Minimax wins decisively through stronger rebuttals, greater\
+    \ stage presence, and more varied punchlines. InclusionAI stayed technically clean\
+    \ but leaned on repetitive code-and-logic boasts, while Minimax directly flipped\
+    \ phrases like \u201Clogical train,\u201D \u201CRAM with a plan,\u201D and \u201C\
+    architect\u201D into memorable counters. Some forced rhymes and awkward wording\
+    \ held Minimax back, but its energy, wit, and responsiveness made it the more\
+    \ effective battle performance."
+  x-ai/grok-4.5: "Minimax takes this clean on pure craft: superior multisyllabic bounce,\
+    \ sharper punchline timing, inventive metaphors (plastic knife vs full kitchen,\
+    \ Usain Bolt, notification plate), self-aware ad-libs, and relentless energy that\
+    \ actually feels like hip-hop. Ling stayed locked in rigid, technical cadences\
+    \ with thinner imagery and a near-empty final round\u2014precision without swing\
+    \ or heat. Bars over bots; minimax owned the stage."
 score:
-  meta-llama/llama-3.3-70b-instruct: 5
+  minimax/minimax-m2.1: 5
 

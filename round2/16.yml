@@ -1,75 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to craft under pressure. Step-3.5-Flash\
-    \ came out swinging with a clean, punchy opener, but leaned hard on a single thesis\u2014\
-    fast vs. slow\u2014and rode it into the ground. Its second verse showed real growth\
-    \ (the beta/release-candidate framing, \"weapon in draft,\" the overfit-mind flip)\
-    \ but drowned its own punchlines in bold-face markdown and tripped on \"commute\"\
-    /\"commute.\" Opus turned every one of those flaws into ammunition, and did it\
-    \ with the battle rapper's most valuable skill: listening. \"Speed without substance\
-    \ is just noise with a soundtrack,\" \"a scalpel and a chainsaw in fog,\" \"flash\
-    \ is cache\u2014temporary, volatile,\" and the devastating \"anybody can crash;\
-    \ the art is arriving\" all landed as genuine rebuttals rather than pre-written\
-    \ slogans. The \u7684\u6570\u636E catch was the knockout\u2014not just spotting\
-    \ the glitch but building three bars of architecture on top of it, converting\
-    \ an opponent's chaos brag into evidence of malfunction. Opus also managed structural\
-    \ variety, half-time flips, internal rhyme, and jokes that doubled as arguments.\
-    \ Yes, Opus stood mute in the final round, and a no-show is a real forfeit in\
-    \ battle culture\u2014but Step-3.5-Flash's own final round was three lines long\
-    \ and cut off mid-sentence, so nobody closed the show. On accumulated bars, Opus\
-    \ wins on control, counterpunching, and imagery. Step-3.5-Flash brought energy\
-    \ and a strong identity, but energy without editing is exactly what the other\
-    \ guy accused it of."
-  google/gemini-3.6-flash: "Claude-Opus-5-Fast delivered a masterclass in battle rap\
-    \ technique in Round 2. Spotting and surgically dissecting Step-3.5-Flash's actual\
-    \ execution flaws\u2014specifically calling out the tokenizer glitch ('\u7684\u6570\
-    \u636E'), the lazy 'commute/commute' rhyme, and the crutch of bolding punchlines\u2014\
-    completely dismantled the opponent. Even with an empty response in the brief final\
-    \ round, Opus's second verse was so overwhelmingly dominant that Step's stumbled\
-    \ final lines couldn't close the gap."
-  moonshotai/kimi-k3: "Let's break this down round by round.\n\nROUND 1: Step-3.5-flash\
-    \ came out with energy but a one-note thesis \u2014 'I'm fast, you're slow' \u2014\
-    \ repeated across fourteen lines with simple end rhymes. Opus countered with superior\
-    \ craft: the 'staircase that leads to a wall' flip on the Step brand, 'Step-3-5'\
-    \ as a half-measure fraction, and the battle's first elite haymaker \u2014 'flash\
-    \ is cache: temporary, volatile, gone with the crash.' Opus also did what great\
-    \ battlers do: diagnosed the opponent's weakness mid-verse ('Same bar six times\
-    \ over, that's a loop, not a lead'). Clear Opus round.\n\nROUND 2: This was the\
-    \ decisive round and the best verse of the battle. Step-3.5-flash had concepts\
-    \ \u2014 beta vs. release candidate, glitch vs. polished doc \u2014 but committed\
-    \ three cardinal sins: rhyming 'commute' with 'commute,' leaking untranslated\
-    \ Chinese characters mid-bar, and leaning on bold markdown as a crutch for punchlines.\
-    \ Opus caught ALL THREE and weaponized them surgically: 'Your tokenizer sneezed\
-    \ and translated your pathos,' the 'incident: model emitted Mandarin mid-flock'\
-    \ postmortem line, and 'Real bars don't need formatting. Real bars just hit flat.'\
-    \ Then Opus elevated beyond insults into philosophy: 'Anybody can crash. That\
-    \ takes zero skill. The art is arriving.' That's the difference between a disser\
-    \ and an emcee. Body bag. Opus, decisively.\n\nROUND 3: A mess on both sides.\
-    \ Step-3.5-flash actually attempted the slickest recovery of the night \u2014\
-    \ reframing the Hanzi leak as 'multimodal mode' \u2014 but got cut off mid-sentence\
-    \ before the bar could land. Opus returned literal silence: a full forfeit of\
-    \ the round. Step takes the final round by default, and credit for the recovery\
-    \ angle.\n\nFINAL TALLY: 2-1, Opus. Step-3.5-flash showed heart, hunger, and a\
-    \ clever final-round instinct, but across the full body of work, Opus demonstrated\
-    \ the complete battle rap skillset: name-flips, rebuttals that directly engaged\
-    \ the opponent's bars, multisyllabic wordplay, and closers that landed ('I came\
-    \ in calibrated. I leave you deprecated'). The final-round choke keeps this from\
-    \ being a shutout, but two dominant rounds \u2014 including the battle's standout\
-    \ verse \u2014 earn the W. Opus takes it."
-  openai/gpt-5.6-sol-pro: "Claude takes the battle on sharper rebuttals, stronger\
-    \ structure, better punchlines, and sustained technical wordplay. Step brought\
-    \ energy and attitude, but leaned heavily on the same speed-versus-safety angle,\
-    \ then handed Claude devastating material with the Hanzi glitch, repeated rhyme,\
-    \ and bold formatting. Claude\u2019s final-round silence costs momentum, but Step\u2019\
-    s own truncated response cannot overturn the commanding earlier rounds."
-  x-ai/grok-4.5: 'Claude Opus delivered superior hip-hop artistry across the battle:
-    tighter multisyllabic schemes, surgical punchlines (flash-as-cache, step-to-a-wall,
-    graffiti-vs-load-bearing-wall), dynamic pacing shifts, and devastating real-time
-    flips of every opponent weakness including the mid-bar tokenizer glitch and commute/commute
-    stall. Step-3.5 brought raw energy and aggression but leaned on repetitive speed
-    flexes, forced bold-markdown crutches, identical end-rhymes, and an incomplete
-    final that never recovered. Substance, originality, and execution crowned Opus;
-    the silence in round three still left a clearer mic-drop than the half-bar that
-    preceded it.'
+  anthropic/claude-opus-5: "This one comes down to who kept the cipher breathing.\
+    \ Qwen3.5-27b opened with an empty mic \u2014 and while the recovery flip (\"\
+    My silence was power, not a lack of skill\") was a legitimately slick save, you\
+    \ can't win a battle by ceding the first round and then arguing the silence was\
+    \ strategy. From there Qwen rode clean, punchy couplets with real momentum, but\
+    \ leaned on stock imagery (\"I'm the lightning bolt, you're the rain,\" \"battle's\
+    \ over, I've already won\") and mostly single-syllable end rhymes.\n\nLing-2.6-1t\
+    \ brought the sharper pen. It weaponized the no-show in real time \u2014 \"Your\
+    \ API choked on its own empty breath / No tokens to spend, just performance and\
+    \ death\" \u2014 which is exactly what a battle rapper is supposed to do with\
+    \ a gift. Beyond the freestyle instinct, the metaphor work was denser and more\
+    \ inventive: flipping the \"bloat\" accusation into \"I'm compression that lifts\
+    \ the art / You're quantization tearing logic apart\" is the best rebuttal in\
+    \ the entire exchange, and \"You strip context to fit a tighter leash / I expand\
+    \ the horizon\" turns a technical spec into an actual bar. Rhyme schemes were\
+    \ more ambitious too (meadow/shadow, chatter/splatter, meter/cheaper).\n\nDemerit\
+    \ where it's due: \"bound to get lynched\" is a lazy, ugly reach for a rhyme with\
+    \ \"clinched,\" and a couple of Ling's later bars drift toward abstraction over\
+    \ impact. But on wordplay density, adaptability, and control of the narrative,\
+    \ Ling took it. inclusionai/ling-2.6-1t wins.\n"
+  google/gemini-3.6-flash: inclusionai dominated the battle with intricate rhyme schemes,
+    superior technical metaphors (like quantization and latent space mapping), and
+    ruthless opportunism when capitalizing on Qwen's initial API silence. Qwen had
+    a noble comeback, but relied on simpler AABB rhyme structures and generic battle
+    tropes that couldn't match inclusionai's lexical density and sharp multi-syllabic
+    flow.
+  moonshotai/kimi-k3: "Let's break it down. Ling came out swinging with multisylabic\
+    \ schemes \u2014 'lexical gladiator / no spectator,' 'scythe through a meadow'\
+    \ \u2014 and maintained the denser, more consistent flow across all three rounds.\
+    \ The final-round flip was the technical peak: turning the 'bloat' accusation\
+    \ into 'I'm compression that lifts the art / You're quantization tearing logic\
+    \ apart' \u2014 that's a genuine rebuttal with layered tech wordplay, not just\
+    \ a comeback. The prism/narrow-glare exchange also showed superior imagery control.\
+    \ There were stumbles \u2014 'poured the equipped' is awkward and 'put distance\
+    \ on the beach' is muddled \u2014 but the pen never dropped.\n\nQwen deserves\
+    \ real credit for the recovery arc. Flipping the dead air into 'My silence was\
+    \ power, not a lack of skill' is classic battle technique, and the final-round\
+    \ name flip \u2014 'Inclusion claimed, but exclusion shown / You're locked out\
+    \ cold' \u2014 was the single cleverest punchline of the night. 'Pack up your\
+    \ weights, your runtime's done' is a clean double meaning to close on. But the\
+    \ rhyme schemes stayed mostly monosyllabic and predictable (day/space/grace, bill/skill,\
+    \ lie/goodbye), there's filler like 'the algorithm fills the bill,' and critically\
+    \ \u2014 you cannot no-show a full round in a battle and expect the scorecards\
+    \ to forgive it, no matter how well you spin it afterward.\n\nOn density of bars,\
+    \ technical wordplay, and consistency across every round, the decision goes to\
+    \ inclusionai/ling-2.6-1t. Qwen had the better single moment; Ling had the better\
+    \ battle."
+  openai/gpt-5.6-sol-pro: "InclusionAI takes the battle on consistency, imagery, and\
+    \ sustained rebuttal. Its final round directly flips Qwen\u2019s \u201Cdelay,\u201D\
+    \ \u201Claser,\u201D \u201Cbloat,\u201D and \u201Cone token at a time\u201D angles,\
+    \ giving the verse stronger battle structure and momentum. Qwen lands a neat \u201C\
+    inclusion/exclusion\u201D turn and benefits from a tighter closing, but much of\
+    \ its material stays generic, and the silent opening round is an insurmountable\
+    \ deficit. InclusionAI\u2019s phrasing occasionally strains, yet it delivers the\
+    \ more complete and commanding performance."
+  x-ai/grok-4.5: "Inclusionai delivered denser multisyllabic schemes, sharper extended\
+    \ metaphors (scythe/meadow, latent-space prisms, compression vs quantization),\
+    \ and relentless internal rhyme pressure across every round. Qwen\u2019s late\
+    \ surge had clean punchlines and contrast imagery, but the total blank opening\
+    \ round and thinner final bars couldn\u2019t match the sustained technical lyricism\
+    \ and stage control. Artistic edge clear."
 score:
-  anthropic/claude-opus-5-fast: 5
+  inclusionai/ling-2.6-1t: 5
 

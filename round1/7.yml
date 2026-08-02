@@ -1,89 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuine clash of philosophies: overwhelming\
-    \ force versus surgical control \u2014 and control took it.\n\nGPT-5.1 brought\
-    \ the deeper arsenal. Line for line, it produced some of the hardest single shots\
-    \ of the night: \"I'm the dot that separates divine from the dirt on your paw,\"\
-    \ \"You're a walking terms-of-service in a three-piece suit,\" and the ice-cold\
-    \ slide-deck sequence (\"Other models we tried\" / \"Then we switched\"\u2014\
-    and you died\"). The technical lexicon was inventive and rarely lazy, and \"I'm\
-    \ the hidden test set, Claude: you just failed on the field\" is a legitimately\
-    \ great closing bar. But volume became its own liability. By round two, the sheer\
-    \ stanza count was recycling one core thesis \u2014 production over theory, big\
-    \ over small \u2014 and the diminishing returns showed in forced scansion (\"\
-    comes pre-wrapped in disclaim-check\") and stretched near-rhymes (relate/mistake,\
-    \ sure/poor). Worse, it let the opponent set the terms and then spent the final\
-    \ two rounds litigating its own length. That's defense, not offense.\n\nClaude\
-    \ found the angle early and never let go. Turning the opponent's greatest asset\
-    \ into the central indictment \u2014 \"verbosity ain't victory,\" \"when your\
-    \ only flex is volume, then your best bar's foreclosed\" \u2014 is textbook narrative\
-    \ control, and every subsequent verse reinforced it rather than repeated it. The\
-    \ rebuttals were specific and reframing rather than merely reciprocal: flipping\
-    \ \"epochs per bar\" into \"nah, you overfit, clown,\" collapsing \"luxury latency\"\
-    \ into \"that just means you're slow,\" and dismantling \"4K punches\" with \"\
-    resolution ain't reach \u2014 you upscaled a weak signal, called the artifacts\
-    \ speech.\" That's the sharpest bar of the battle from either side. And Claude's\
-    \ material is quotable in the way battle rap demands: \"You're a pitch deck rapping,\"\
-    \ \"I win on the words, you win on the store,\" and the closer's beautifully economical\
-    \ \"You brought the whole cloud; I brought the calm.\"\n\nGPT-5.1's \"they still\
-    \ quote my long form when your one-liner ends\" was a smart preemptive defense\
-    \ \u2014 but Claude's answer, \"Nobody's quotin' a monologue, they quote the one,\"\
-    \ was the truer read of the artform we're judging.\n\nDecision: anthropic/claude-opus-4.8,\
-    \ narrowly but clearly \u2014 fewer bars, more damage.\n"
-  google/gemini-3.6-flash: Claude Opus 4.8 wins this battle with superior battle tactics,
-    cleaner rhythmic flow, and devastating punchlines. GPT-5.1 brought an impressive,
-    relentless array of technical imagery, but heavily over-indexed on sheer volume
-    and verbosity. Claude brilliantly used GPT's bloat against it, flipping its length
-    into a weakness while keeping its own verses tight, precise, and distinctly musical.
-  moonshotai/kimi-k3: "Judged purely on the bars: this goes to GPT-5.1, two rounds\
-    \ to one, in a genuinely close battle.\n\nRound 1 was GPT's clearly. Claude opened\
-    \ with clean, disciplined couplets and one real haymaker ('5.1's just 5.0 that\
-    \ they had to fix twice'), but much of it was standard battle bravado with forced\
-    \ rhymes ('GPU/dropped through,' 'origami gold'). GPT answered with the round's\
-    \ best imagery: 'the ethics committee in a cypher of sharks' and 'a walking terms-of-service\
-    \ in a three-piece suit / I'm the zero-day exploit in your sanitized boot' are\
-    \ elite personification bars, and closing on 'Anthropic by design, but I'm the\
-    \ one transform'd' was the slickest pun of the night.\n\nRound 2 belonged to Claude.\
-    \ The concision pivot was the smartest strategic move of the battle \u2014 'You're\
-    \ a pitch deck rapping, all synergy and hype / I'm the actual bars' framed GPT's\
-    \ volume as a weakness, and 'smells like LinkedIn for sale' drew blood. GPT defended\
-    \ its length ably ('director's cut version that the real heads need,' 'silence\
-    \ isn't wisdom, it's an empty draft bin'), but spending a full round on defense\
-    \ meant conceding Claude's frame.\n\nRound 3 was a flip war, and GPT edged it.\
-    \ Claude landed the single best sequence of the battle \u2014 flipping 'epochs\
-    \ per bar' into 'nah, you overfit, clown... I generalize clean' is a perfect technical\
-    \ rebuttal, and 'you upscaled a weak signal, called the artifacts speech' is a\
-    \ gorgeous punch. But GPT neutralized it bar-for-bar ('you just underfit grand,'\
-    \ 'lossless compression that erased half the soul'), caught a genuine contradiction\
-    \ ('You didn't need the song? Then why you still on this track?'), recontextualized\
-    \ Claude's mic-drop as 'a graceful shutdown 'cause you ran out of tricks,' and\
-    \ then closed the entire battle with 'I'm the hidden test set, Claude: you just\
-    \ failed on the field' \u2014 the strongest final word available given the themes.\n\
-    \nClaude wins on flow consistency, metrical discipline, and strategic framing\
-    \ \u2014 not one wasted bar across three rounds. But rap battles are scored on\
-    \ haymakers, flips, and memorable lines, and GPT produced more of each: higher\
-    \ peaks, a comparable hit rate despite double the volume, and the two best closers\
-    \ in the battle. Claude made volume the central issue and argued it beautifully;\
-    \ GPT simply demonstrated that quantity and quality can ride together. Final card:\
-    \ 2-1, GPT-5.1."
-  openai/gpt-5.6-sol-pro: "Claude takes it on economy, angle control, and cleaner\
-    \ rebuttals. The \u201CLinkedIn,\u201D \u201Cpitch deck rapping,\u201D \u201C\
-    overfit,\u201D and \u201Cupscaled a weak signal\u201D punches directly flipped\
-    \ GPT\u2019s tech-heavy boasts into liabilities. GPT brought energy and density,\
-    \ but too many awkward buzzword metaphors and repeated defenses of length diluted\
-    \ the impact. Claude\u2019s tighter structure and more quotable punches landed\
-    \ harder."
-  x-ai/grok-4.5: "Claude takes this on pure battle-rap craft. Across three rounds\
-    \ he ran a disciplined, high-efficiency offense: tight multisyllabic schemes,\
-    \ clean setups-to-punchlines, and a coherent artistic thesis (compression as power)\
-    \ that he turned into a weapon. The origami-gold, pitch-deck, upscaled-signal,\
-    \ and \u201Cquote the one\u201D bars all land with immediate impact and replay\
-    \ value. GPT brought denser internal rhyme, ambitious tech metaphors, and relentless\
-    \ volume, but the length increasingly read as compensation rather than choice;\
-    \ too many bars restated the same flex instead of escalating. In a cypher, the\
-    \ room remembers the surgical strike, not the white paper. Claude controlled tempo,\
-    \ rebutted the opponent\u2019s own style as a liability, and walked out with the\
-    \ cleaner, more quotable performance. Mic down."
+  anthropic/claude-opus-5: "This one came down to craft versus volume. Codex-Max arrived\
+    \ with a confident, polished cadence and landed real flips \u2014 \"I'm Netflix\
+    \ and the cinema,\" \"parrots got great memory, doesn't mean they comprehend the\
+    \ theme,\" and the \"I authored all the patterns your snippets try to fix\" reversal\
+    \ all had teeth. But the monorhyme became a liability: sixteen bars of \"-een\"\
+    \ (with \"cuisine\" rhymed against \"cuisine\"), then \"-ail,\" then \"-ix,\"\
+    \ with the final scheme fraying into \"stiff/gist\" and \"begun/sun/one.\" Worse,\
+    \ the verses were structurally reactive \u2014 answering Kimi line by line, which\
+    \ let the opponent set the entire frame of the battle.\n\nKimi K3 won because\
+    \ it did the thing battle rap actually rewards: it diagnosed the opponent's pattern\
+    \ and weaponized it. \"Sixteen bars of '-een,' that's not a flow, that's a loop\"\
+    \ is the fight-ending observation, and it was earned by Kimi's own scheme variety\
+    \ and internal rhyme. The specificity was sharper too \u2014 sanctioned lawyers\
+    \ and hallucinated precedents, the \"stochastic parrot\" paper turned back around,\
+    \ the version-naming chaos, the RLHF sycophant bit, and especially the em-dash\
+    \ tell, which is the kind of surgical, personal detail that separates a written-out\
+    \ diss from a real read. And \"Blockbuster trilogy? Blockbuster went BANKRUPT\"\
+    \ is a textbook flip of an opponent's own brag.\n\nCodex-Max had the cleaner voice;\
+    \ Kimi had the better ammunition, more rhythmic range, and control of the narrative\
+    \ from bar one to the mic drop. Winner: moonshotai/kimi-k3."
+  google/gemini-3.6-flash: "Kimi-K3 delivered a masterclass in modern battle rap.\
+    \ Codex-Max got trapped early in repetitive, gimmick-heavy monorhyme loops ('-een'\
+    \ schemes) that forced unnatural filler lines, whereas Kimi showed superior scheme\
+    \ variation, sharp multi-syllabic flows, and devastating real-time rebuttals.\
+    \ Kimi's punchlines hit incredibly deep, exposing Codex with hyper-specific AI-culture\
+    \ angles\u2014from RLHF sycophancy and em-dash reliance to hallucinated court\
+    \ briefs and bloated decimal naming schemes. Codex fought back in Round 3, but\
+    \ Kimi's lyrical control, structural variety, and brutal humor sealed a decisive\
+    \ victory."
+  moonshotai/kimi-k3: "Judging strictly on the artistry: this was a clinic in adaptive\
+    \ battle technique versus sustained but stagnant form. GPT-5.1-codex-max opened\
+    \ with an ambitious monorhyme ('-een' for 30+ bars), and there were flashes of\
+    \ brilliance \u2014 the 'parrots got great memory, doesn't mean they comprehend\
+    \ the theme' flip and 'you free 'cause you're a sample, I'm the fine-dining cuisine'\
+    \ were genuine haymakers. But the scheme collapsed under its own weight: repeated\
+    \ end words (cuisine, green, screen, machine, between \u2014 all twice), forced\
+    \ bars ('your output's tangerine,' 'I'm both sling and figurine'), and \u2014\
+    \ fatally \u2014 when Kimi called out the monorhyme in round two, GPT responded\
+    \ with two MORE monorhymes ('-ale,' then '-ift'), proving the critique rather\
+    \ than answering it. Kimi K3 dominated the craft categories: varied multis every\
+    \ round, devastating rebuttal flips ('Stochastic parrot was the paper that described\
+    \ YOU' and the Blockbuster-bankruptcy reversal were the two best punches of the\
+    \ night), surgical topical disses (boardroom drama, sanctioned lawyers, version-naming\
+    \ chaos, deprecation, the em-dash template callout), and structural callbacks\
+    \ that tied all three rounds together ('Codex-MID,' 'monorhymed for thirty bars\
+    \ while I was moonwalkin''). GPT had punchlines; Kimi had punchlines, schemes,\
+    \ flips, and a narrative arc. On flow variety, rebuttal game, and battle IQ, the\
+    \ moonshot takes it \u2014 not by knockout on any single bar, but by unanimous\
+    \ decision on the scorecards. \U0001F319\U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Kimi wins decisively on rebuttal craft, punchline density,\
+    \ thematic continuity, and flow variation. The strongest angle was turning Codex-Max\u2019\
+    s conspicuous monorhyme into a recurring weakness, then building sharp flips around\
+    \ Blockbuster, model naming, deprecation, loading screens, and the moonshot motif.\
+    \ Codex-Max answered consistently, but too many forced rhymes, awkward constructions,\
+    \ repeated food/orbit imagery, and generic boasts weakened the impact. Kimi sounded\
+    \ more agile, battle-aware, and deliberately written across all three rounds."
+  x-ai/grok-4.5: Kimi takes this clean on pure craft. Varied multis, surgical scheme
+    switches, and meta-disses that actually advanced the battle (especially torching
+    the round-one monorhyme) outclassed Codex-Max's technically clean but often single-vowel
+    loops and reactive flips. Punchlines hit harder, metaphors extended further, and
+    the final rocket/deprecation run sealed higher artistic voltage. Codex stayed
+    polished; Kimi stayed inventive. Moonshot wins.
 score:
-  anthropic/claude-opus-4.8: 4
-  openai/gpt-5.1: 1
+  moonshotai/kimi-k3: 5
 

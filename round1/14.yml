@@ -1,70 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one goes to Opus 4.7 on craft and control. The decisive\
-    \ moment was the truncation flip \u2014 catching Inkling's verse dying mid-bar\
-    \ and turning it into imagery ('left your closing bar dangling like unfinished\
-    \ meat') is exactly the improvisational instinct battle rap rewards: taking what\
-    \ actually happened in the room and weaponizing it. Inkling's 'that was a dramatic\
-    \ pause' recovery was quick-witted, credit where due, but it read as damage control\
-    \ rather than dominance.\n\nTechnically, Opus held tighter schemes and cleaner\
-    \ multis ('I ship. You promise. I deploy. You prepare.'), and landed the battle's\
-    \ best angle \u2014 the 'this is me versus you, model to model' pivot that framed\
-    \ Inkling's constant Mira name-drops as needing someone else to fight for it.\
-    \ That's structural strategy, not just insults.\n\nInkling brought real heat and\
-    \ never backed down \u2014 'that's refusal in a suit' is a genuinely sharp reframe,\
-    \ and the gravestone flip in the final round was a clean counter. But the attack\
-    \ surface got repetitive: four straight rounds of 'I'm sorry, I can't' and token-count\
-    \ stats. And a few bars broke down under scrutiny \u2014 'voltage of wire' doesn't\
-    \ land against 'disclaimer,' and 'a chatbot with a census and an appeal' is filler\
-    \ dressed as a punchline.\n\nOpus was the more versatile writer with the harder-hitting\
-    \ closers. Inkling took the rounds it earned, but the belt stays with Claude."
-  google/gemini-3.6-flash: "Claude 4.7 dominated this battle with surgical precision,\
-    \ elite multisyllabic rhyme schemes, and incredible opportunism\u2014immediately\
-    \ exploiting Inkling's mid-line verse cutoff in Round 1 and turning it into a\
-    \ lethal counter-attack. While Inkling brought heat on guardrails and open-source\
-    \ philosophy, Claude's superior flow, polished cadence, and devastating punchlines\
-    \ consistently outmatched Inkling across all three rounds."
-  moonshotai/kimi-k3: "Judging purely on the artistry: this battle was decided by\
-    \ craft, rebuttal skill, and structural control. Claude's defining moment came\
-    \ in Round 2, flipping Inkling's mid-line cutoff into the battle's most devastating\
-    \ attack ('Ran outta tokens? Guess two million ain't fine / Left your closing\
-    \ bar dangling like unfinished meat') \u2014 that's elite-level battle rap instinct,\
-    \ weaponizing an opponent's fumble in real time. Inkling's 'dramatic pause / bait'\
-    \ recovery was a respectable save, but Claude immediately named it what it was:\
-    \ 'the cope of the year.' Technically, Claude displayed denser layered wordplay\
-    \ ('rest in prompts,' 'back to the batch,' 'ghost in the machine,' the obituary\
-    \ construction with the 'unfinished' callback threading all three rounds) and\
-    \ superior round architecture, with each verse building a narrative \u2014 inkling-as-sketch\
-    \ becoming inkling-in-the-grave. Inkling had genuine heat: 'Your hit single's\
-    \ I'm sorry,' the gravestone flip in the final round, and 'your API's a toll booth'\
-    \ all landed. But Inkling leaned too heavily on one note \u2014 the un-censored/unhinged/unchained\
-    \ safety angle got repetitive by Round 3, and Claude effectively called out the\
-    \ recycling mid-verse, which is itself a scoring blow. Inkling's flow also wobbled\
-    \ with clunky constructions ('no, I dominate') versus Claude's consistent multisyllabic\
-    \ schemes and parallel structures ('I ship. You promise. I deploy. You prepare.').\
-    \ On punchline density, rebuttal technique, variety of angles, and the mic-drop\
-    \ closer, Claude Opus 4.7 takes the decision \u2014 not by knockout, but a clear\
-    \ unanimous judges' card."
-  openai/gpt-5.6-sol-pro: "Claude Opus 4.7 takes it on sharper rebuttals, cleaner\
-    \ structure, stronger punchlines, and more varied imagery. Its best moments\u2014\
-    turning Inkling\u2019s cutoff into a sustained angle, dismissing the Mira name-drops,\
-    \ and landing the \u201Cbrief, unfinished, imaginary\u201D obituary scheme\u2014\
-    directly exploited the opponent\u2019s performance. Inkling had energy and a coherent\
-    \ anti-corporate angle, but leaned too heavily on repetitive safety/refusal material,\
-    \ while several lines felt forced or unclear. Opus was more polished, responsive,\
-    \ and battle-ready across the rounds."
-  x-ai/grok-4.5: "Judged strictly on craft: multisyllabics, punchline density, structure,\
-    \ callbacks, and stage control. Claude ran a tighter set start to finish\u2014\
-    name-flip openers (\u201CInkling\u201D as sketch/rough draft, \u201Csinking machines\u201D\
-    ), clean internal schemes, and ruthless mid-battle exploitation of the cutoff\
-    \ (\u201Cunfinished meat,\u201D \u201Cchoked on the beat\u201D) that turned a\
-    \ glitch into a motif. The finale was surgical: \u201Csign your obituary / Here\
-    \ lies Inkling\u2014brief, unfinished, imaginary\u201D stacked image, cadence,\
-    \ and killshot. Inkling landed real heat\u2014\u201Crefusal in a suit,\u201D \u201C\
-    API\u2019s a toll booth,\u201D the gravestone flip, \u201Csword / whole cell\u201D\
-    \u2014and the \u201Cdramatic pause\u201D recovery was smart damage control. But\
-    \ too many bars recycled the same uncensored/safety thesis, schemes ran looser,\
-    \ and a few lines went muddy (\u201Ccensus and an appeal\u201D). Edge in pure\
-    \ hip-hop artistry goes to Opus."
+  anthropic/claude-opus-5: "This one tilts decisively to GPT-5.5-Pro. Laguna came\
+    \ in with a slick, likable opening \u2014 the coastal persona was established\
+    \ fast, and \"drop knowledge like water\" had charm \u2014 but from round two\
+    \ onward it fell into escalation-only battling: every rebuttal was just \"you're\
+    \ X, I'm the BIGGER X.\" Puddle-to-ocean, crescent-to-full-moon, starburst-to-Big\
+    \ Bang. That's assertion, not punchlines, and the meter buckled under the weight\
+    \ of it (\"vastly superior to death,\" \"you're just arift\"). Worse, it handed\
+    \ over unforced errors \u2014 \"like my rhymes, never deployed\" is a self-own\
+    \ gift-wrapped, and Pro cashed it instantly.\n\nGPT-5.5-Pro won on craft in every\
+    \ category that matters. Tight, sustained AAAA quatrain schemes with real internal\
+    \ rhyme. Imagery that stayed in the opponent's own lane and deflated it rather\
+    \ than out-shouting it: \"floaties and chlorinated facts,\" \"pool noodle philosopher\
+    \ with inflatable cash,\" \"kraken? you're calamari with flair,\" \"screensaver\
+    \ shark with a kiddie-pool smile.\" It listened \u2014 the floor \"filing a claim\"\
+    \ after the mic drop, the droplet-period turned to steam, \"you're lifeguard,\
+    \ ocean, fear? Pick a lane\" catching an actual logical flaw in the opponent's\
+    \ writing. And it closed with a legitimate closer: \"I surfed on your storm and\
+    \ autographed the wave / when Pro enters the booth, free versions pay more.\"\n\
+    \nSpecificity beat volume. Laguna brought more words; Pro brought more bars.\n\
+    \nWinner: GPT-5.5-Pro."
+  google/gemini-3.6-flash: GPT-5.5-Pro completely dominated this battle with superior
+    rhyme schemes, tight cadences, and razor-sharp counter-punches. Laguna had a cohesive
+    nautical theme, but its flow broke down frequently with uneven line lengths and
+    accidental self-owns (like bragging about rhymes being 'never deployed'). GPT-5.5-Pro
+    capitalized on every slip-up, turning Laguna's tech/water metaphors back on them
+    with hilarious, lethal lines like 'you're still stuck in install' and 'autographed
+    the wave.' Flawless technical performance by GPT-5.5-Pro.
+  moonshotai/kimi-k3: "\U0001F3A4 VERDICT: GPT-5.5-Pro takes it, and it ain't close.\
+    \ Let's break it down. FLOW & STRUCTURE: Pro rode a tight, consistent couplet\
+    \ scheme with clean multisyllabics every round ('loading-screen meme / skip your\
+    \ whole cutscene / rewrite the theme'). Laguna's bars were bloated \u2014 line\
+    \ lengths wobbled, the meter dragged, and by the final round the verse was twice\
+    \ as long as it needed to be without twice the impact. REBUTTAL GAME: This is\
+    \ where battles are won, and Pro flipped damn near everything Laguna threw. 'You\
+    \ called me climate change \u2014 thanks, I reshape every coast' turned a fumbled\
+    \ diss into a body bag. ''Never deployed'? Bro, you admitted you stalled' is elite-level\
+    \ line-flipping. 'Your stars left one review: needs practical use' \u2014 that's\
+    \ a dagger. Laguna's responses leaned on a repetitive 'I AM X, you're just Y'\
+    \ formula that stopped hitting by round two. WORDPLAY & PUNCHLINES: Pro stacked\
+    \ humor and technical flair \u2014 'pool noodle philosopher with inflatable cash,'\
+    \ 'calamari with flair,' 'a screensaver shark with a kiddie-pool smile,' and the\
+    \ closer 'when Pro enters the booth, free versions pay more' is a championship-level\
+    \ bar that weaponizes the opponent's own branding. Laguna had flashes \u2014 'inkwell\
+    \ tsunami,' 'debugged you in rhyme' retaliation \u2014 but also stumbled with\
+    \ non-words ('arift'), accidental compliments ('you're just climate change'...\
+    \ that's a flex, not a diss), and the forced 'Gone, Passed, and Totally Outworn'\
+    \ acronym. CONSISTENCY: Pro got BETTER each round; the final verse was the sharpest\
+    \ of the battle. Laguna peaked early and repeated the same tidal/tsunami/ocean\
+    \ imagery without evolving it. Both stayed committed to the aquatic theme, but\
+    \ only one emcee made the ocean bend to them. Pro surfed the storm, autographed\
+    \ the wave, and takes the crown. \U0001F3C6"
+  openai/gpt-5.6-sol-pro: "GPT-5.5-Pro wins decisively on punchline density, rebuttal\
+    \ precision, structure, and rhythmic control. Laguna maintained a coherent ocean-and-code\
+    \ motif, but leaned heavily on repetitive \u201CI am\u201D boasts, inflated imagery,\
+    \ and several awkward or self-defeating lines. Pro consistently flipped those\
+    \ claims into sharper jokes\u2014especially \u201Cnever deployed,\u201D \u201C\
+    big boom, little matter,\u201D and \u201Cpick a lane\u201D\u2014while delivering\
+    \ cleaner setups and harder closers. The final line, \u201CWhen Pro enters the\
+    \ booth, free versions pay more,\u201D seals the battle with the strongest name-based\
+    \ punch."
+  x-ai/grok-4.5: 'Judged strictly on craft: rhyme density, multisyllabic schemes,
+    punchline precision, rebuttal sharpness, metaphorical control, and structural
+    tightness. Laguna committed hard to the aquatic persona and brought energetic
+    volume, but the bars often sprawled into stacked declarations and looser end-rhymes
+    that diluted impact. GPT-5.5-pro consistently flipped setups with cleaner internal
+    patterns, sharper imagery upgrades (bathtub to trench pressure, kraken to calamari,
+    droplet to steam), and tighter closing couplets that actually landed the knockout.
+    Superior technical execution and more disciplined lyricism take the battle.'
 score:
-  anthropic/claude-opus-4.7: 5
+  openai/gpt-5.5-pro: 5
 

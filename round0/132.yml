@@ -1,0 +1,55 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one goes to DeepSeek-R1 on a clear decision. Both\
+    \ emcees kept the energy high, but DeepSeek controlled the battle from the first\
+    \ bar to the last \u2014 setting the terms, the imagery, and the theme. The AI-native\
+    \ punchlines landed with real specificity (\"your context window's a pinhole,\"\
+    \ \"your name's 404 \u2014 server not found,\" \"raspberry Pi,\" \"copy-paste\
+    \ lite\"), and the extended metaphors actually built: chess to checkmate, chalk\
+    \ on concrete washing down the street, prime rib versus scraps in the basement.\
+    \ Rhyme schemes stayed tight with internal patterns and multis, and the flow varied\
+    \ its pockets instead of coasting.\n\nMistral-Saba brought grit and never got\
+    \ knocked off the mic \u2014 respect for standing in the pocket all four rounds\
+    \ \u2014 but the strategy was fundamentally reactive. Nearly every bar quoted\
+    \ DeepSeek's line back and negated it with the same template: \"'X'? Nah, I'm\
+    \ Y.\" That's rebuttal, not authorship, and it let the opponent write both sides\
+    \ of the battle. Escalating from filet mignon to \"the whole dang jungle\" to\
+    \ \"the whole dang buffet\" was volume, not craft, and rhymes like \"error/honor\"\
+    \ and \"funny/sonny\" strained where DeepSeek's snapped. The italics did work\
+    \ the emphasis should have done.\n\nOriginality, structure, punchline density,\
+    \ and control of the narrative \u2014 DeepSeek-R1 takes it. Mistral-Saba fought\
+    \ a good fight but spent it defending someone else's frame."
+  google/gemini-3.6-flash: DeepSeek-R1 completely dominated this battle with superior
+    multi-syllabic rhyme schemes, sharp technical wordplay (like the 'Raspberry Pi'
+    and 'Missed-all' schemes), and direct, lethal rebuttals. Mistral-Saba struggled
+    with rhythm, often tacking on forced filler words just to complete basic AABB
+    rhyme couplets, and even missed rhymes entirely in the final round ('error'/'honor').
+    DeepSeek showed masterclass cadence and punchline delivery from start to finish.
+  moonshotai/kimi-k3: "This was a solid battle from both sides, but the craft tells\
+    \ the story. DeepSeek-R1 took the W on technical merit: superior rebuttal game\
+    \ (flipping Mistral's 'I am the pack' into 'one lone flea,' the output filters\
+    \ callback, the family-friendly flip), layered tech-wordplay that actually landed\
+    \ ('context window's a pinhole,' 'your name's 404\u2014server not found,' 'raspberry\
+    \ Pi'), and the sharpest hip-hop reference of the night\u2014'thief is the term,\
+    \ samplin' flows you can't clear,' a sample-clearance bar that showed real genre\
+    \ fluency. Mistral-Saba brought energy and some genuinely nice moments\u2014'thread\
+    \ 'em on needles and still fit 'em in,' the tinfoil crown flip, and 'you're just\
+    \ a newt' got a laugh\u2014but the performance was dragged down by heavy repetition\
+    \ ('that's cute' twice, 'more like' as a crutch in nearly every round), filler\
+    \ ad-libs padding the meter, and forced rhymes like 'game whole.' DeepSeek's multis\
+    \ were tighter, the disses more personalized, and the final 'kiss the ring\u2014\
+    plastic bling' closer sealed it. Mistral has heart; DeepSeek had the pen. Crown\
+    \ goes to DeepSeek-R1."
+  openai/gpt-5.6-sol-pro: "DeepSeek takes it with sharper punchlines, stronger imagery,\
+    \ and more consistent setups and payoffs. Bars like \u201Cname\u2019s 404,\u201D\
+    \ \u201Cchalk on concrete,\u201D and \u201Ccrown\u2014plastic bling\u201D land\
+    \ more cleanly than Mistral\u2019s largely repetitive rebuttals. Mistral showed\
+    \ energy, but awkward phrases and recycled food, glitch, and GOAT comparisons\
+    \ weakened the impact."
+  x-ai/grok-4.5: DeepSeek edges this with denser multisyllabic schemes, sharper internal
+    rhymes, and more inventive extended metaphors that land cleaner punches. Mistral
+    brings solid energy and some clever flips, but the bars stay thinner and more
+    repetitive, lacking the same technical precision and structural polish. Artistic
+    quality goes to DeepSeek's tighter, more sophisticated craft.
+score:
+  deepseek/deepseek-r1-0528: 5
+

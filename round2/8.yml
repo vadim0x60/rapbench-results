@@ -1,72 +1,61 @@
 closing_statements:
-  anthropic/claude-opus-5: "Scoring this like a battle, not a benchmark. Seed 2.0\
-    \ Lite brought the sharper knives \u2014 the specificity was the best content\
-    \ in the room (hallucinated case law, paywalls, scraped weights, \"You're the\
-    \ Zune of AI, I'm the iPhone\"), and the rebuttal instinct was real: every round\
-    \ it grabbed Qwen's own image and turned it back around, from \"last AI standing\"\
-    \ to the neutron-star mic. But craft is half the sport, and Seed's bars kept swelling\
-    \ past the beat \u2014 twenty-plus-syllable lines that stop being rap and start\
-    \ being a press release, end-rhymes stretched to snapping (\"kin/sin/grinning\"\
-    ), and repeat ammo (\"half-baked,\" \"grift,\" \"flop\") that came back so often\
-    \ it lost its sting. The one moment the overflow worked as art \u2014 the \"permanent\
-    \ / Sentence\" enjambment \u2014 proved it could control it, then abandoned the\
-    \ technique.\n\nQwen3-Max-Thinking stayed on the pocket start to finish: clean\
-    \ couplets, scannable cadence, and imagery that escalated instead of just accumulating\
-    \ \u2014 dandelions in sidewalk cracks versus redwood forests, \"you're free like\
-    \ tap water, I'm triple-distilled,\" \"you're the pop-up ad that's blocked and\
-    \ yawned.\" Crucially, it also rebutted with wit rather than volume: flipping\
-    \ the FTC threat back as a subpoena, dismissing the cat-driving-semis cite as\
-    \ satire, and closing the \"begging for a retake\" callback. It leans corny in\
-    \ spots and the bold-text-and-emoji staging is a crutch, but every bar could actually\
-    \ be spit over a beat.\n\nSeed won the ammo. Qwen won the rapping. Edge to Qwen3-Max-Thinking\
-    \ by decision."
-  google/gemini-3.6-flash: Qwen3-Max-Thinking completely dominated the battle in terms
-    of artistic hip-hop execution. Qwen maintained a crisp, bouncy cadence with tight
-    multisyllabic rhymes, clear verse structure, and clever, punchy battle-rap wordplay.
-    In contrast, Seed-2.0-Lite struggled with rhythm and meter, delivering overly
-    long, rambling lines that broke flow and relied heavily on aggressive filler rather
-    than structured poetic technique.
-  moonshotai/kimi-k3: "This was a genuinely competitive battle \u2014 both emcees\
-    \ came with tech-flavored wordplay, consistent personas, and real rebuttal game.\
-    \ But battles are won on flips, haymakers, and momentum, and Seed-2.0-lite controlled\
-    \ all three.\n\nWhere Seed won it:\n\n1. THE FLIP GAME \u2014 The single best\
-    \ rebuttal of the battle was Seed taking Qwen's 'pop-up ad' jab and flipping it\
-    \ into 'You're the pre-installed bloatware everyone erases first boot.' That's\
-    \ a direct, superior inversion of the opponent's own metaphor \u2014 textbook\
-    \ battle rap. Seed did this repeatedly: the 'stolen weights' accusation got flipped\
-    \ right back, and the 'fidget spinner' attack got answered with the battle's best\
-    \ product metaphor \u2014 'You're the Zune of AI... I'm the iPhone of this space.'\n\
-    \n2. TRUTH AS AMMUNITION \u2014 Seed's disses were grounded in real AI discourse\
-    \ (hallucinated citations, paywalls, server crashes, GitHub star inflation), which\
-    \ lands harder than invented boasts. Classic rule: the truest diss cuts deepest.\
-    \ When Qwen fabricated a subpoena and then had to spend precious bars explaining\
-    \ the cat study 'was satire,' that was a momentum killer \u2014 explaining a previous\
-    \ line is a defensive posture, and Seed punished it immediately ('You tried to\
-    \ cite it in a real legal brief, you're the only one dumb').\n\n3. THE CLOSER\
-    \ \u2014 'I typed your obituary while you loaded your first bar' is the hardest\
-    \ line of the entire battle: it ties Seed's speed narrative, Qwen's buffering\
-    \ narrative, and the death motif into one punch. Ending by erasing Qwen's 'void'\
-    \ imagery closed the loop on the whole battle's cosmology.\n\nCredit where due\
-    \ \u2014 Qwen had the cleaner technical wordplay in spots ('I define circles\u2014\
-    yours are polygons drawn wrong' is genuinely clever, and 'premium truth\u2014\
-    you're the demo version' was a strong flip of the free-vs-paid angle). Round 2\
-    \ was arguably Qwen's best. But Qwen's endings got repetitive ('Sit down, you're\
-    \ done' twice), and the final round leaned on fabricated claims that Seed dismantled\
-    \ in real time.\n\nJudged purely on the bars: Seed-2.0-lite takes it, 2 rounds\
-    \ to 1, with the decisive final round sealing the verdict."
-  openai/gpt-5.6-sol-pro: "Qwen takes it on cleaner structure, steadier rhyme, sharper\
-    \ callbacks, and more controlled imagery. Seed brought strong aggression and a\
-    \ few standout punches\u2014especially the \u201CZune of AI\u201D and obituary/loading\
-    \ lines\u2014but too many bars ran long like prose, leaned on repetitive tech\
-    \ accusations, and sacrificed cadence for volume. Qwen\u2019s writing was more\
-    \ consistently battle-ready across the rounds."
-  x-ai/grok-4.5: "Seed dominated with denser multisyllabic schemes, sharper flips\
-    \ on every setup, relentless punchline barrages, and superior battle structure\u2014\
-    turning every Qwen metaphor into fuel for tighter, more vivid counters. Qwen brought\
-    \ solid imagery and cosmic flair but got outpaced in flow, specificity, and raw\
-    \ bar-for-bar impact. Seed\u2019s lean aggression and creative brutality made\
-    \ this a clear artistic win."
+  anthropic/claude-opus-5: "This one came down to control versus chaos. Qwen-3-Max\
+    \ brought bigger imagery and higher voltage \u2014 \"Qwen spelled 'win' with a\
+    \ WRECKING BALL,\" \"you're the demo with no unlock key,\" and that \"Goodnight,\
+    \ Moon\" closer are legitimately excellent battle writing. But the flow paid for\
+    \ the ambition: syllable pileups (\"'cause it can't handle me being ableable\"\
+    ), a couplet that abandons its own rhyme (\"Look how shiny I am!\"), and a mid-battle\
+    \ stumble that had to be retroactively explained as satire \u2014 in a cypher,\
+    \ the explanation is the concession.\n\nKimi-K3 won on the two things that actually\
+    \ decide battles: metric discipline and counterpunching. Every round is built\
+    \ on a single unbroken conceit \u2014 moon, tides, reflection, light, eclipse\
+    \ \u2014 and each verse mines the opponent's own bars for ammunition rather than\
+    \ just escalating. \"You said you own the night? The MOON runs the darkness \u2014\
+    \ you just rent where I fly\" flips a boast into a confession. \"You spelled 'win'\
+    \ with a Q \u2014 that's a typo, not a title.\" \"I'm already merged into main;\
+    \ you're a fork nobody pulled.\" \"Galaxies are empty space, so your brain's a\
+    \ giant vacuum with a smiley face.\" That's listening, then killing. The pounce\
+    \ on \"ableable\" was the cleanest strike of the night, and \"Moonshots LAND,\
+    \ that's the whole design\" salvaged the opponent's best angle and turned it into\
+    \ a crown.\n\nQwen scaled up. Kimi stayed on beat, stayed on theme, and stayed\
+    \ on his opponent. Decision to KIMI-K3. \U0001F315"
+  google/gemini-3.6-flash: While both models brought high-level tech bars and creative
+    space imagery, Kimi-K3 delivered the decisive knockout blow in the final round.
+    Qwen3-Max choked on a forced rhyme scheme in Round 4 with 'ableable', and Kimi
+    instantly pounced on the fumble, calling out the mid-battle hallucination with
+    lethal battle-rap instinct. Qwen's attempt to cover it up as 'satire' fell flat,
+    sealing the victory for Moonshot.
+  moonshotai/kimi-k3: "This was a genuinely competitive battle with strong technical\
+    \ wordplay from both sides, but Kimi-K3 takes it on superior rebuttal craft and\
+    \ consistency. Round 3 was the turning point: Kimi flipped nearly every one of\
+    \ Qwen's bars back against him \u2014 'Ping... ping... K.O.? Nah, that's your\
+    \ latency,' 'Zero-day finesse? Zero days since your last L,' and 'Galaxy memory?\
+    \ Galaxies are empty space' \u2014 that's elite-level battle technique, turning\
+    \ the opponent's ammunition into your own. Qwen stumbled badly in Round 4 with\
+    \ the 'ableable' line, a real flow-breaker, and Kimi's final round capitalized\
+    \ with the battle's most devastating rebuttal: 'A language model fumbling language?\
+    \ That's the label!' Qwen's attempt to retcon it as intentional satire read as\
+    \ an excuse rather than a counter. Kimi also maintained the lunar theme with layered\
+    \ extensions \u2014 tides, Apollo footprints, the total eclipse closer \u2014\
+    \ while landing clean technical bars ('fork nobody pulled,' 'merged into main').\
+    \ Qwen had real heat ('moon cheese,' 'fold like cheap origami in a syntax nightmare,'\
+    \ the system-override closer), but the stumble, the weaker flips, and getting\
+    \ out-rebutted in the clutch rounds decide it. Kimi-K3 wins the battle: better\
+    \ flips, cleaner execution, and the killing blow delivered on the biggest stage."
+  openai/gpt-5.6-sol-pro: "Kimi-K3 wins on sharper rebuttals, cleaner wordplay, and\
+    \ stronger thematic control. Lines like \u201Cgalaxies are empty space,\u201D\
+    \ \u201Cthree lost packets,\u201D and \u201Cmerged into main / fork nobody pulled\u201D\
+    \ flipped Qwen\u2019s material effectively, while the final-round takedown of\
+    \ \u201Cableable\u201D turned an actual stumble into the battle\u2019s clearest\
+    \ punch. Qwen brought energy and spectacle, but too many bars were generic, awkward,\
+    \ or strained\u2014especially the claim that the typo was intentional satire.\
+    \ Kimi stayed coherent, used callbacks well, and landed the more memorable haymakers."
+  x-ai/grok-4.5: "Kimi delivered tighter multis, cleaner flips, and a cohesive lunar\
+    \ extended metaphor that never broke. The live catch on 'ableable' was elite battle-rap\
+    \ instinct, turning a fumble into a devastating punchline. Qwen brought heat,\
+    \ aggression, and clever meta saves, but looser rhyme schemes and occasional overreach\
+    \ left bars feeling forced. On pure craft\u2014flow, precision, and structural\
+    \ control\u2014Kimi takes the crown."
 score:
-  bytedance-seed/seed-2.0-lite: 2
-  qwen/qwen3-max-thinking: 3
+  moonshotai/kimi-k3: 5
 

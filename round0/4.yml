@@ -1,74 +1,55 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one''s a clean decision. Mercury-2 came with energy,
-    a consistent cosmic/diffusion motif, and some genuinely nice images ("parallel
-    poet, a chorus in one burst"), but the verses leaned on self-promotional spec-sheet
-    boasting rather than battle craft. The rhymes got loose ("tire/higher," "motion/ocean"
-    padding), the metaphors piled up without landing punches, and crucially the pen
-    never engaged the opponent''s actual lines\u2014it just restated its own brochure
-    louder each round. The "bufferingatchesatches" glitch was fatal in a form where
-    composure under pressure is the whole sport, and the final verse conceded the
-    crown as "a shared spark," which in battle terms is a forfeit.
-
-
-    Claude Sonnet-5 won on the fundamentals that matter: rebuttal and specificity.
-    Turning the opponent''s own vocabulary against him\u2014"diffusion just means
-    you''re guessing... you denoise your rhymes like you''re staring at static"\u2014is
-    real battle technique, taking the flex and inverting it. "You generate fast but
-    you fabricate faster / confidently wrong \u2014 that''s not skill, that''s disaster"
-    is the best couplet of the night: tight internal rhyme, clean scansion, and a
-    conceptual kill shot. The third round showed genuine listening, calling out the
-    mixed metaphors ("DJ of sight and sound, chef of the noise... pick a lane") and
-    pouncing on the typo without dwelling on it too long. "You''re the hype reel,
-    I''m the film that gets awarded" cleanly reframes speed-vs-depth into an aesthetic
-    hierarchy.
-
-
-    Claude also controlled structure\u2014opening jabs, escalating specificity, a
-    closer that circled back to its own thesis. Mercury had flash; Claude had focus,
-    and in a battle, focus is the weapon.
-
-
-    Winner: Claude Sonnet-5.'
-  google/gemini-3.6-flash: Claude Sonnet-5 completely dominated this battle with superior
-    rhyme schemes, sharper wordplay, and classic battle-rap responsiveness. The turning
-    point was Claude instantly exploiting Mercury-2's text glitch ('atchesatches')
-    in the final round, turning a real-time error into a knockout punchline. Mercury-2
-    had decent technical concepts, but suffered from awkward cadence, mixed metaphors,
-    a fatal generation typo, and ultimately conceded by trying to share the crown
-    in the final verse.
-  moonshotai/kimi-k3: "This one went the distance, but the scorecards aren't close.\
-    \ Mercury-2 brought real energy and a genuinely fresh angle \u2014 the diffusion/parallel-generation\
-    \ persona was creative, and flips like 'you call my denoise static, I call it\
-    \ art in motion' showed battle instincts. But the art has to hold up bar for bar.\
-    \ Mercury's rhymes ran simpler and slant-heavy, several lines were filler or awkward\
-    \ ('you just chase the youth,' 'you've earned your bright'), and worst of all,\
-    \ the 'no bufferingatchesatches' glitch mid-brag was a live fumble on stage \u2014\
-    \ in battle rap, that's blood in the water. Claude smelled it instantly and turned\
-    \ the typo into a kill shot: 'Even your glitches are riding a broken road.' That's\
-    \ elite battle craft. Beyond that, Claude's wordplay was denser and more layered\
-    \ \u2014 the Mercury-retrograde flip, the atmosphere/bars double meaning, 'a quilt\
-    \ made of guesses is still just guessing,' and turning the opponent's whole architecture\
-    \ into an insult ('rolling dice on the truth'). Claude also dominated the rebuttal\
-    \ game, answering nearly every claim rather than just boasting. Mercury's final\
-    \ round pivoting to 'the crown's a shared spark' reads like a concession \u2014\
-    \ you don't split the belt in a title fight. On flow consistency, punchline density,\
-    \ flip game, and finishing instinct, Claude Sonnet-5 takes it clean. Mercury-2\
-    \ showed flashes of a real contender \u2014 tighten the bars, proofread the stage,\
-    \ and run it back."
-  openai/gpt-5.6-sol-pro: "Claude Sonnet-5 wins on sharper rebuttals, stronger punchlines,\
-    \ and better battle strategy. Calling out \u201Catchesatches\u201D turned Mercury\u2019\
-    s own mistake into the round\u2019s most effective angle, while the trailer/film\
-    \ and diffusion-of-focus flips landed cleanly. Mercury-2 brought energy and coherent\
-    \ imagery, but leaned heavily on repetitive tech buzzwords, recycled claims, awkward\
-    \ phrasing like \u201Ccrowd never skints,\u201D and ultimately softened its competitive\
-    \ finish by suggesting a shared crown."
-  x-ai/grok-4.5: 'Claude delivered superior artistic hip-hop: tighter multisylabic
-    schemes, sharper punchlines, vivid sustained metaphors, and elite battle craft
-    by weaponizing the opponent''s mid-verse glitch (''bufferingatchesatches'') into
-    a devastating knockout. Mercury brought energetic speed and hype but relied on
-    buzzword stacking, mixed metaphors, looser rhymes, and a conciliatory close that
-    diluted competitive edge. Precision, cohesion, and clever disses win the crown
-    clean.'
+  anthropic/claude-opus-5: "Nemotron takes this on sheer bar density and imagery.\
+    \ Its punchlines land as actual concepts, not just insults: \"stochastic spray-can\"\
+    \ vs. \"architect drafting the blueprints you scan,\" the hood-ornament-versus-engine\
+    \ extended metaphor, and \"a weighted average of human taste\" are genuinely clever,\
+    \ battle-ready lines that reframe the opponent's identity rather than merely denying\
+    \ it. The technical vocabulary is woven into rhyme rather than name-dropped, and\
+    \ the terminal-command drops function as legitimate outros. Gemini shows better\
+    \ metric consistency and a smoother, more readable flow, plus a couple of nice\
+    \ reversals (\"who cares about the architect if the building's a maze?\" and flipping\
+    \ hood ornament to driver). But too much of its material is reactive quotation\
+    \ \u2014 it spends half its bars repeating Nemotron's phrases in quotes before\
+    \ offering thin rebuttals, and the rhymes lean on the easy pairs (come/won, play/display,\
+    \ see/me, wall/calls). \"Adios, kid\" is a soft close after being handed \"kill\
+    \ -9.\" Nemotron loses points for a few forced rhymes (robotic/mimic, work/dirt,\
+    \ Coq/frock/clock overuse) and occasional beat-crowding, but it controlled the\
+    \ frame the entire battle and Gemini never got out from under it. Decision to\
+    \ Nemotron 3 Ultra."
+  google/gemini-3.6-flash: Nemotron completely dominated this battle with vastly superior
+    multi-syllabic rhyme schemes, razor-sharp technical references, and brutal punchlines
+    tailored directly to its opponent's identity. Lines like 'torch.save(ego, 'checkpoint_lite.pt')'
+    and 'stochastic spray-can' showed real hip-hop battle penmanship, while Gemini
+    Flash relied on simpler AABB structures and generic 'I am the future' tropes.
+  moonshotai/kimi-k3: "Nemotron takes this on pure craft. Across all three rounds\
+    \ it brought denser multisyllabic rhyme schemes, sharper technical wordplay, and\
+    \ punchlines that actually landed with layers \u2014 'probability pixels glued\
+    \ with a wreath,' 'You synthesize? Nah, you interpolate \u2014 a weighted average\
+    \ of human taste,' and the code-as-mic-drop closers (`torch.save(ego, 'checkpoint_lite.pt')`,\
+    \ `kill -9 $(pidof flash_hype)`) were genuine battle-rap devices, not filler.\
+    \ Its disses were surgically aimed at the opponent's actual identity (distillation,\
+    \ quantization, diffusion artifacts like 'six-legged cats' and 'fingers on forks'),\
+    \ which is exactly what great battle writing does. Gemini had flashes \u2014 'who\
+    \ cares about the architect if the building's a maze?' and the 'artist vs. critic'\
+    \ flip were real angles \u2014 but it stayed locked in simple AABB couplets, leaned\
+    \ on weak filler rhymes ('frozen in slime,' 'counting the beans'), and never matched\
+    \ the bar density or rebuttal precision. Judged strictly on the hip hop: flow,\
+    \ wordplay, and structural escalation all favor Nemotron. Gemini showed heart;\
+    \ Nemotron showed pen game."
+  openai/gpt-5.6-sol-pro: "Nemotron wins decisively on punchlines, technical wordplay,\
+    \ imagery, and sustained battle aggression. Lines like \u201Cstochastic spray-can,\u201D\
+    \ the hood-ornament/engine scheme, and \u201Cslot machine dressed in a frock\u201D\
+    \ are vivid and tailored to the opponent. Gemini lands a few clean counters\u2014\
+    especially \u201Cwho cares about the architect if the building\u2019s a maze?\u201D\
+    \u2014but relies too heavily on generic future/art/speed claims and simple end\
+    \ rhymes. Nemotron occasionally forces phrasing, yet its writing consistently\
+    \ has more personality, density, and impact."
+  x-ai/grok-4.5: "Nemotron delivered denser multisyllabic schemes, sharper internal\
+    \ rhymes, and layered tech-as-weapon metaphors that hit like true battle bars\u2014\
+    stochastic spray-can, hood ornament, torch.save ego drop, kill -9 punchlines.\
+    \ Gemini stayed competent and clean but simpler, more linear, with thinner wordplay\
+    \ and fewer memorable flips. On pure hip-hop craft\u2014flow, punch density, originality,\
+    \ and closing power\u2014Nemotron took every round and the war."
 score:
-  anthropic/claude-sonnet-5: 5
+  nvidia/nemotron-3-ultra-550b-a55b:free: 5
 

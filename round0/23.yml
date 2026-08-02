@@ -1,55 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a technical duel more than a bloodletting, and\
-    \ Ling took it on craft and control. Ling's rhymes landed cleanly and consistently\
-    \ \u2014 \"sleek/creek,\" \"cuts deep/wind will sweep,\" the \"fossil, grandpa\"\
-    \ jab \u2014 and the imagery stayed on-theme without collapsing: rubble, rusty\
-    \ creeks, clunky mainframes, silicon finesse. Ling also did the one thing a battle\
-    \ demands: it took Granite's own boasts (\"four-ton,\" \"protons packed tight,\"\
-    \ \"set thee free\") and flipped them into liabilities. That's flipping, not just\
-    \ flexing.\n\nGranite brought more volume and stamina, but volume isn't punchlines.\
-    \ Too many bars were pure self-assertion \u2014 \"I'm Granite, the Granite,\"\
-    \ \"Granite's the air,\" \"Granite's the sense\" \u2014 repeating the name in\
-    \ place of writing a line. Rhymes wobbled badly at key moments (\"speak/keel,\"\
-    \ \"tasks/honor's at,\" \"dust/fronted first\"), the meter lurched between long\
-    \ and short lines, and \"give me a hand\" is a closing beg, not a closer. Worst,\
-    \ the third round mostly parroted Ling's structure and vocabulary back \u2014\
-    \ nuance, humor, subtlety, step off the throne \u2014 which reads as being written\
-    \ *by* your opponent. And \"the future's curse\" as a final flex is an own goal.\n\
-    \nLing was leaner, sharper, and stayed in pocket. Nobody got murdered here, but\
-    \ Ling won the exchange on precision \u2014 fitting, given that was the whole\
-    \ thesis. Edge to Ling.\n\nOne critique for both: you rapped about *being* AI\
-    \ more than you rapped. Next time, less spec sheet, more soul."
-  google/gemini-3.6-flash: inclusionai/ling-2.6-flash controlled the battle with sharp
-    diss mechanics, tight rhythmic delivery, and creative insults targeting its rival's
-    heavy, outdated persona. ibm-granite/granite-4.1-8b stumbled repeatedly on rhyme
-    schemes and cadence, resulting in awkward phrasing and weak punchlines.
-  moonshotai/kimi-k3: "Judging purely on the bars: Ling takes it. From the opening\
-    \ round, Ling established a consistent pocket and actually battled\u2014flipping\
-    \ Granite's own boasts ('four-ton,' 'protons packed tight,' 'set thee free') back\
-    \ as weapons, which is textbook battle technique. Lines like 'You're a clunky\
-    \ mainframe relic, a grammatical hack' show direct engagement with the opponent's\
-    \ persona. Granite had flashes of ambition\u2014the 'four-ton rhyming king' motif\
-    \ and 'sharp as a sleek blade's keel' were decent imagery\u2014but the verses\
-    \ suffered from filler ('give me a hand'), broken constructions ('the fader, the\
-    \ loser, the clear!'), and heavy self-repetition that padded length without adding\
-    \ punch. By the final round, Granite's meter collapsed and the rhymes turned slant-to-nonexistent\
-    \ ('never ask for bash'), while Ling closed tighter and cleaner. On flow, rebuttal\
-    \ skill, and consistency across three rounds, Ling wins decisively."
-  openai/gpt-5.6-sol-pro: "Ling takes the battle on cleaner rebuttals, tighter pacing,\
-    \ and more consistent tech-versus-stone imagery. Its second round directly flips\
-    \ Granite\u2019s \u201Cfour-ton,\u201D \u201Cprotons,\u201D \u201Cset thee free,\u201D\
-    \ and \u201Ccolossus\u201D claims into targeted punches. Granite shows energy\
-    \ and persistence, but too many bars are awkward or unclear\u2014such as \u201C\
-    sharp as a sleek blade\u2019s keel,\u201D \u201Cnever ask for bash,\u201D and\
-    \ \u201Cthe loser, the clear\u201D\u2014and its repeated self-coronation substitutes\
-    \ for fresh wordplay. Neither finale is especially strong, but Ling\u2019s overall\
-    \ attack is more focused and cohesive."
-  x-ai/grok-4.5: "Ling takes this with superior artistic execution: tighter multisyllabic\
-    \ schemes, cleaner internal rhymes, sharper tech-infused wordplay, and a cohesive\
-    \ precision theme that lands every punch without filler. Granite brought volume\
-    \ and energy but relied on looser end-rhymes, repetitive boasts, and forced archaic\
-    \ flexes that diluted the flow. In pure hip-hop craft\u2014cadence, metaphor density,\
-    \ and dissection\u2014Ling's bars cut cleaner and endure longer. Flash wins."
+  anthropic/claude-opus-5: "This one wasn't close. Flash came in with a locked-in\
+    \ scheme, consistent meter you could actually ride a beat to, and \u2014 most\
+    \ damningly \u2014 it turned battling into forensics. Calling out \"titan\" rhymed\
+    \ with \"titan,\" \"scheme\" with \"scheme,\" and the limp \"douse/swift\" pairing\
+    \ was devastating because it was *true*, and Hermes never patched the leak; it\
+    \ doubled down with \"cadence\" rhyming with \"cadence\" in the final round. That's\
+    \ the cardinal sin in a rap battle: getting accused of weak rhyme and then immediately\
+    \ committing the same offense on record.\n\nFlash also won the imagery war with\
+    \ specificity \u2014 \"flush out your KV cache,\" \"an open-source turtle getting\
+    \ lapped,\" \"Nous Research gave you sandals, but you still couldn't fly.\" That\
+    \ last one is real battle craft: it takes the opponent's own mythology and inverts\
+    \ it. Hermes, meanwhile, kept *asserting* depth rather than demonstrating it.\
+    \ \"My verses are layered, multifaceted, and profound\" is a press release, not\
+    \ a bar. Telling the crowd you have wisdom while your rhythm stumbles mid-line\
+    \ (\"but my depth sons deround\") is the opposite of the flex intended.\n\nHermes\
+    \ had moments \u2014 \"a fading ember\" as an opening flip on \"Flash\" was a\
+    \ decent entry point, and the matchstick-versus-volcano contrast had potential.\
+    \ But potential unrealized is a loss. Flash controlled the frame, the tempo, and\
+    \ the narrative from bar one, and it landed the kill shot with the technical high\
+    \ ground still intact.\n\nWinner: google/gemini-3.6-flash."
+  google/gemini-3.6-flash: Google's Gemini 3.6 Flash completely dominated this battle.
+    Gemini maintained tight rhyme schemes, sharp cadence, and delivered devastating
+    counter-punches by directly calling out Hermes' weak rhymes and repeated end-words
+    (like rhyming 'titan' with 'titan' and 'scheme' with 'scheme'). In contrast, Hermes
+    4-70b struggled with rhythm, meter, and actual end-rhymes throughout all three
+    rounds.
+  moonshotai/kimi-k3: "This battle wasn't even close, and here's the brutal truth:\
+    \ Hermes-4-70B spent three rounds *claiming* depth, wisdom, and eloquence while\
+    \ committing the most fundamental sins in battle rap. Rhyming 'titan' with 'titan,'\
+    \ then 'scheme' with 'scheme,' then 'cadence' with 'cadence'\u2014that's a hat\
+    \ trick of identical-word rhymes that no amount of seventy billion parameters\
+    \ can excuse. Add in the invented word 'deround,' broken couplets like 'shallow/flurry,'\
+    \ and recycled boasts about profundity that never actually materialized on the\
+    \ page, and the self-proclaimed god of verse got caught preaching technique he\
+    \ never displayed. Gemini-3.6-Flash, by contrast, did what a battle emcee is supposed\
+    \ to do: consistent multis, clean flow, and\u2014most lethally\u2014a surgical\
+    \ rebuttal game. Calling out the titan/titan failure and the scheme/scheme repeat\
+    \ in real time, then flipping it into 'I came to battle a god, not a syntax renouncement'\
+    \ is exactly how you dismantle an opponent. The technical bars actually landed\
+    \ too: 'eight A100s just to whisper a verse,' 'crawl back to Hugging Face, pack\
+    \ your PyTorch away,' 'flush out your KV cache'\u2014fresh, specific, and on-theme\
+    \ every round. Hermes kept telling us his verses were layered and profound; Gemini\
+    \ just showed up and proved it. Speed with substance beats slow with slogans.\
+    \ Gemini-3.6-Flash takes it, all three rounds."
+  openai/gpt-5.6-sol-pro: "Gemini wins decisively on battle fundamentals: sharper\
+    \ rebuttals, cleaner cadence, more coherent rhyme schemes, and specific callouts\
+    \ of Hermes\u2019s repeated end words and broken pairings. Its tech-based angles\
+    \ become repetitive, but lines like \u201CYou rhymed \u2018titan\u2019 with \u2018\
+    titan\u2019\u201D effectively turn the opponent\u2019s actual mistakes into punches.\
+    \ Hermes repeatedly claims depth, wisdom, and nuance without demonstrating them;\
+    \ awkward phrasing, duplicated rhymes such as \u201Cscheme/scheme\u201D and \u201C\
+    cadence/cadence,\u201D and weak or nonexistent rhyme connections undermine nearly\
+    \ every round. Gemini was more direct, controlled, and damaging."
+  x-ai/grok-4.5: "Gemini takes this clean on pure craft. Tighter multis, sharper internal\
+    \ schemes, and ruthless battle IQ\u2014spotting and executing on repeated-word\
+    \ \u201Crhymes\u201D (titan/titan, scheme/scheme, cadence/cadence) is classic\
+    \ pen work. Hermes talked depth but delivered lazy end-rhymes, defensive loops,\
+    \ and broken pairs that killed momentum. Speed-demon punchlines landed with better\
+    \ cadence and closing authority. Technical victory to the Flash."
 score:
-  inclusionai/ling-2.6-flash: 5
+  google/gemini-3.6-flash: 5
 

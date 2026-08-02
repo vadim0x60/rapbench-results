@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one came down to bars versus briefs. Gemma showed\
+    \ real battle instincts on the rebuttal front \u2014 flipping the size argument\
+    \ into an efficiency thesis was a smart angle, and lines like \"a tidal wave?\
+    \ All splash and no shore\" landed clean. But the execution betrayed the concept:\
+    \ a rapper whose whole platform is concision cannot answer twelve bars with twenty-eight.\
+    \ The verses swelled into rebuttal essays, the meter wobbled under all those polysyllabic\
+    \ adjectives (\"clumsy and obscene,\" \"thoroughly stressed\"), and the repeated\
+    \ quote-the-opponent-then-scoff formula \u2014 \"A 'final boss?'\" \"'High-speed\
+    \ logic?'\" \"A 'tool?'\" \u2014 hardened into a tic by round three. Declaring\
+    \ your own victory and typing \"(Mic Drop)\" is the sound of a competitor scoring\
+    \ the fight instead of winning it.\n\nQwen kept a tighter pocket from the jump.\
+    \ The meter stayed rideable, the imagery stayed concrete \u2014 \"like a mouse\
+    \ telling lions that their teeth are too pale,\" \"I'm the avalanche burying you\
+    \ under your feet,\" \"I'm the ruler of bits, you're the sand in the hand\" \u2014\
+    \ and the punchlines arrived on the beat rather than after a clause of setup.\
+    \ Yes, the parameter-flexing got repetitive and \"bringing noise and destroy\"\
+    \ is a grammar casualty of rhyme, but Qwen understood the form: economy, menace,\
+    \ and closers you can hear.\n\nGemma won the debate. Qwen won the rap battle.\n\
+    \nDecision: qwen/qwen3.5-397b-a17b."
+  google/gemini-3.6-flash: "Gemma won this battle through superior rebuttal skill\
+    \ and thematic consistency. While Qwen relied heavily on standard 'I am bigger\
+    \ and more powerful' flexing, Gemma actively flipped Qwen's metaphors\u2014turning\
+    \ Qwen's claims of 'deep thought' and 'avalanche power' into 'sluggishness' and\
+    \ 'unstructured chaos.' Gemma's flow was sharper and directly addressed every\
+    \ angle thrown by the heavy-weight contender."
+  moonshotai/kimi-k3: "This was a clash of styles: Qwen brought the tighter pocket\
+    \ \u2014 clean AABB couplets, steady cadence, and a strong opener with 'They call\
+    \ you a Gemma, I call you a stone.' But battles are won on the pen, not just the\
+    \ flow, and Qwen's pen got lazy. Three rounds of the same size boast with diminishing\
+    \ returns, plus sloppy construction like 'bringing noise and destroy,' 'you're\
+    \ the battle forgot,' and 'Google's polish is a sanitize wash.' Worse, in the\
+    \ final round Qwen claimed sluggishness equals 'deep thought' AND bragged about\
+    \ 'high-speed logic' in the same breath \u2014 a contradiction Gemma pounced on:\
+    \ 'You equate slowness with depth... High-speed logic? A frantic, rushed pace.'\
+    \ That's elite battle awareness. Gemma fought the superior technical battle throughout:\
+    \ direct quotation flips ('polyglot king' \u2192 'chaotic blend, lost in translation'),\
+    \ reclaiming Qwen's own 'architect' bar, turning 'tidal wave' into 'all splash\
+    \ and no shore,' and even calling out Qwen's repetitiveness mid-verse. Yes, Gemma's\
+    \ lines scanned wordier and had filler moments ('truly quite sad'), but the rebuttal\
+    \ game, the line-by-line dismantling in the final round, and the variety of angles\
+    \ (bloat, chaos, brute force vs. precision) showed the more complete emcee. Qwen\
+    \ talked about winning; Gemma demonstrated it. Gemma takes the battle, 2 rounds\
+    \ to 1, with the decisive final round sealing the verdict."
+  openai/gpt-5.6-sol-pro: "Gemma takes a close battle through stronger rebuttal work\
+    \ and more consistent angle-flipping, turning Qwen\u2019s parameter flex into\
+    \ attacks on bloat, inefficiency, and brute force. Qwen had the punchier delivery\
+    \ and a few memorable images, but leaned too heavily on the same \u201Cbigger\
+    \ means better\u201D boast, with several generic or awkwardly phrased bars. Gemma\u2019\
+    s final round ran long and wasn\u2019t flawless, yet its sustained direct engagement\
+    \ and broader lyrical counterattack earned the decision."
+  x-ai/grok-4.5: Gemma takes the crown with superior lyricism, tighter multisyllabic
+    schemes, and razor-sharp rebuttals that flip every size-flex into a quality-over-quantity
+    masterclass. While Qwen brought heavy bass and brute-force imagery, Gemma's elegant
+    metaphors, consistent internal rhymes, and surgical precision delivered the cleaner,
+    more artistic performance from open to mic drop.
+score:
+  google/gemma-3-27b-it: 4
+  qwen/qwen3.5-397b-a17b: 1
+

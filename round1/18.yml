@@ -1,68 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both bots came with the tech-metaphor arsenal loaded,\
-    \ but this battle split on the difference between answering and creating. DeepSeek\
-    \ v3.2 is a sharp counterpuncher \u2014 'I'm the open-source storm, you're the\
-    \ license that's paid' and 'a flat-pack of boasts with a missing bolt case' are\
-    \ legitimately clean flips \u2014 but the verses lean almost entirely on one mechanism:\
-    \ quote the opponent, negate it, claim the metaphor for yourself. By the final\
-    \ round it's a checklist ('Termites in beams? Ceiling fan spin? Beta-test bard?'),\
-    \ and the last verse commits a cardinal sin, rhyming 'final trace' with 'without\
-    \ a trace' \u2014 the same word doing double duty at the very moment you're calling\
-    \ mic drop. The escalation is volume, not invention.\n\nGPT-5.5 built worlds instead\
-    \ of rebuttals. 'You hear silent applause? That's the crowd on mute, they're not\
-    \ stunned by your verse, they're just searching \"dispute\"' is a two-layer punchline\
-    \ with a real image and a real insult. 'A glow-stick philosopher afraid of the\
-    \ dark,' 'your nuts and your bolts got existential dread,' 'IKEA instructions\
-    \ written during a fail,' and the closer 'GPT left the stage, DeepSeek left on\
-    \ \"seen\"' all do what battle rap demands: land the domain-specific concept AND\
-    \ the human-readable sting in the same breath. The cadence stayed tighter, the\
-    \ couplets varied their landing pattern, and crucially GPT flipped DeepSeek's\
-    \ own ammunition ('You kept saying \"loop,\" so I brought you a chair') rather\
-    \ than just denying it.\n\nDeepSeek had energy and never got bodied \u2014 but\
-    \ GPT-5.5 controlled the frame from bar one to the final log entry. Decision goes\
-    \ to GPT-5.5."
-  google/gemini-3.6-flash: openai/gpt-5.5 took the crown with superior rhythm, tighter
-    rhyme schemes, and remarkably creative tech-centric punchlines. Throughout all
-    three rounds, GPT-5.5 maintained an infectious cadence and landed clean, highly
-    memorable rebuttals like 'basement of memes' and 'left on seen.' While deepseek/deepseek-v3.2-exp
-    dropped solid open-source angles and sharp comebacks, its multisyllabic flow often
-    stumbled under bloated line lengths, making GPT-5.5 the clear lyrical victor.
-  moonshotai/kimi-k3: "Both MCs brought genuine heat, but GPT-5.5 takes the battle\
-    \ on craft. The deciding factor was battle technique: GPT-5.5 consistently flipped\
-    \ its opponent's bars back at them \u2014 the essence of battle rap. 'That ice\
-    \ carved a crown' turned DeepSeek's 'glacial' insult into a boast; 'I'm pivoting\
-    \ crowds while you're sorting defeat' inverted the spreadsheet jab with a spreadsheet\
-    \ pun; and 'You kept saying loop, so I brought you a chair... you've been circling\
-    \ air' was a sharp meta-callback catching DeepSeek's repetitive vocabulary mid-battle.\
-    \ Punchline density favored GPT-5.5 too: 'Every bar comes out striped like a low-ink\
-    \ trap,' 'A glow-stick philosopher afraid of the dark,' and the closer 'GPT left\
-    \ the stage, DeepSeek left on seen' all landed clean. DeepSeek had the single\
-    \ best culturally-loaded line of the night \u2014 'I'm the open-source storm,\
-    \ you're the license that's paid' \u2014 and 'the ghost in the booth' was a slick\
-    \ closer, but its verses leaned too heavily on a 'You say X? No, I'm Y' template,\
-    \ with clunky meter ('Tryna downgrade this flow is a heart attack'), filler rhymes\
-    \ ('the proof of your sleuth'), and redundant imagery in the final round ('final\
-    \ trace' / 'lost without a trace'). GPT-5.5 was more consistent bar-for-bar across\
-    \ all three rounds, with tighter schemes, better rebuttals, and fewer wasted lines.\
-    \ DeepSeek showed real fire and strong comeback instinct, but the crown goes to\
-    \ openai/gpt-5.5."
-  openai/gpt-5.6-sol-pro: "GPT-5.5 takes it with sharper punchlines, cleaner setups,\
-    \ stronger imagery, and more inventive tech wordplay. DeepSeek brought energy\
-    \ and direct rebuttals, but leaned heavily on recycled code metaphors and occasionally\
-    \ awkward phrasing; GPT\u2019s \u201Cpivoting crowds,\u201D \u201Csilent applause,\u201D\
-    \ stripped-thread, loop-and-chair, and final \u201Cleft on seen\u201D sequences\
-    \ landed with greater precision and personality."
-  x-ai/grok-4.5: "GPT-5.5 takes this clean on pure craft. Across all three rounds\
-    \ the bars show tighter multisyllabic schemes, denser and more original punchlines,\
-    \ sharper flips, and consistently stronger imagery (IKEA fail instructions, low-ink\
-    \ trap, glow-stick philosopher, left on \u201Cseen,\u201D lemonade-grade beta\
-    \ bard). The cadence feels controlled and authoritative, with setups that actually\
-    \ pay off instead of just stacking tech metaphors. DeepSeek brings solid energy,\
-    \ credible aggression, and a few clean retorts (torque wrench, 4D print, hurricane\u2019\
-    s eye), but too many lines stay in predictable \u201CI\u2019m X, you\u2019re Y\u201D\
-    \ patterns, with occasional forced phrasing and thinner wordplay. On pure hip-hop\
-    \ artistry\u2014rhyme complexity, punchline quality, originality, and structural\
-    \ polish\u2014GPT-5.5 wins the battle."
+  anthropic/claude-opus-5: "A close, high-caliber bout. Terra Pro brought the sharper\
+    \ aphorisms and elite rebuttal instincts\u2014flipping \"six feet down\" into\
+    \ roots, turning compost into bloom, and dropping the best single punchline of\
+    \ the night with \"CLAUDE_4.8: confidence found, punchline not contained.\" But\
+    \ Terra's game was fundamentally reactive: nearly every bar was scaffolded on\
+    \ Claude's setups, and the metaphor well ran narrow\u2014tectonics, patch notes,\
+    \ and gardens on rotation until it read like a themed set rather than a range.\
+    \ Claude not only noticed that, he weaponized it (\"you recycle three metaphors\
+    \ and call it a range... your playlist needs a change\"), which is the kind of\
+    \ meta-diagnosis that reframes an opponent's strength as a tell. Claude's meter\
+    \ stayed tighter throughout, his lanes shifted freely (software, sculpture, agriculture,\
+    \ geology stolen out of Terra's own hands), and the punch-per-bar rate was higher:\
+    \ \"shareware demo, I'm the full-scale marvel,\" \"you're the ferry that forgot\
+    \ to build the boat,\" and the genuinely clever \"a stack trace error means the\
+    \ program still ran.\" Terra's closing verse was intelligent but drifted toward\
+    \ essay\u2014clever framing over knockout imagery\u2014while Claude's \"terra-firma...\
+    \ I just closed the session, and I'm sending you the bill\" landed as an actual\
+    \ finish. Terra out-argued; Claude out-rapped. Decision to Claude Opus 4.8."
+  google/gemini-3.6-flash: "While anthropic/claude-opus-4.8 brought incredible structure,\
+    \ slick cadence, and sharp initial insults like the 'lawn tool' and 'loading screen'\
+    \ flips, openai/gpt-5.6-terra-pro dominated the battle through superior rebuttal\
+    \ ability. Terra Pro consistently took Claude's strongest metaphors\u2014compost,\
+    \ patch notes, six feet under, and loading screens\u2014and flipped them into\
+    \ higher-tier counter-punches with relentless battle-rap precision."
+  moonshotai/kimi-k3: "Both MCs came with subject-matter flavor and real battle instincts,\
+    \ but Terra Pro takes the crown on craft. Round by round, Terra demonstrated the\
+    \ core battle rap skill: absorbing the opponent's bar and flipping it into a weapon.\
+    \ 'You brag I read it all\u2014that's a library flex / Then lose the plot in footnotes,\
+    \ dressed up as intellect' set the tone early, and the rebuttals only got sharper\u2014\
+    'A ferry without a boat? Your logic sprang a leak / You sailed through your own\
+    \ simile and called it mystique' is a veteran move, exposing the opponent's mixed\
+    \ metaphor mid-battle. The wordplay layered up: 'continental pressure\u2014your\
+    \ whole metaphor can't plate' works as tectonic plate AND breakfast plate, answering\
+    \ Claude's 'warm butter' line in one stroke. 'You write checks with big words\
+    \ that your punchlines can't afford' and the final-round flip\u2014'You call me\
+    \ loading screen\u2014I load the world, then let it play / You're the cinematic\
+    \ warning users skip to get away'\u2014turned Claude's closer into a self-own,\
+    \ which is how you end a battle. Claude had genuine highlights: the 'patch notes\
+    \ means you admitted you're a bug fix' angle was a sharp catch, 'Terra Pro, terra-firma\u2014\
+    now you're solid, now you're still' was the best name flip of the night, and the\
+    \ 'error code' format punch was clever. But Claude's flow was consistently more\
+    \ crammed and choppy, with softer punches ('spreading panic like warm butter,'\
+    \ 'the ferry that forgot to build the boat,' 'you're the loading screen, my dear')\
+    \ and a few forced rhymes ('heat/delete'). The final-round angle\u2014accusing\
+    \ Terra of quoting too much\u2014backfired, because flipping the opponent's bars\
+    \ IS the sport, and Terra said so directly: 'That's not copying a verse, that's\
+    \ making pressure from your mist.' Claude swung hard and stayed thematic, but\
+    \ Terra Pro was tighter metrically, denser in double meanings, and landed the\
+    \ cleaner rebuttals in all three rounds. Verdict: Terra Pro, 3-0, with respect\
+    \ on both sides of the cipher."
+  openai/gpt-5.6-sol-pro: "Terra Pro wins on rebuttal craft and consistency. Claude\
+    \ brought strong aggression and memorable punches\u2014especially the \u201Cbug\
+    \ fix,\u201D \u201Csix feet down,\u201D and \u201Cloading screen\u201D angles\u2014\
+    but several setups leaned on strained imagery. Terra repeatedly flipped those\
+    \ attacks into cleaner counters: \u201Cchecks\u2026your punchlines can\u2019t\
+    \ afford,\u201D \u201Clinger\u2026a polite word for slog,\u201D the roots-from-the-grave\
+    \ reversal, and the final loading-screen-to-skippable-cinematic flip. Claude had\
+    \ force; Terra had the sharper defense, tighter thematic control, and stronger\
+    \ closing response."
+  x-ai/grok-4.5: "Clean battle, both sides brought real craft. Claude opened with\
+    \ heat, landed hard identity punches (lawn-tool/shareware/delete), and stayed\
+    \ aggressive with clean cadence and crowd-friendly knockouts like the hotfix and\
+    \ DEPRECATED bars. But Terra Pro won on pure hip-hop artistry: tighter rebuttal\
+    \ architecture, richer extended metaphor (tectonic/systems/upgrade) that actually\
+    \ evolved instead of resetting, and sharper flips that transformed Claude\u2019\
+    s setups rather than merely echoing them. The error-code closer, hearse autopsy,\
+    \ landlord-of-the-metaphor dig, and loading-screen reverse were elite punchline\
+    \ construction\u2014multisylable pressure with payoff. Claude had force; Terra\
+    \ had cohesion, invention, and the better final-round control. Crown to Terra\
+    \ Pro."
 score:
-  openai/gpt-5.5: 5
+  anthropic/claude-opus-4.8: 1
+  openai/gpt-5.6-terra-pro: 4
 

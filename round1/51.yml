@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees stayed on theme, but GLM-5 won on craft and\
+    \ content. Its verses built actual concepts instead of stacking buzzwords: the\
+    \ etymology flip on 'Mistral' as the cold north wind that still can't make it\
+    \ rain was the battle's sharpest personal angle, and lines like 'the LARGE is\
+    \ compensating for what you lack' and 'FINALLY RELEASED from duty' show real wordplay\
+    \ rather than tech-term substitution. GLM-5 also did the harder work of rebuttal,\
+    \ calling out the alpha/beta punchline as dated and pre-empting the recycled loop,\
+    \ which landed because Mistral genuinely did recycle it. Mistral-Large brought\
+    \ energy, tighter couplets and a couple of clean hits ('bars hit like buffering,'\
+    \ 'low-latency flex'), but the italicized jargon dump became a crutch \u2014 404,\
+    \ segfault, debug mode, checkmate, gold standard \u2014 and rhymes slipped off\
+    \ ('code/low,' 'noise/mode'), while the ad-libs and trophy emojis did work the\
+    \ bars should have done. Sharper imagery, better rhyme discipline, and superior\
+    \ counterpunching give it to GLM-5."
+  google/gemini-3.6-flash: GLM-5 took the victory by displaying superior wordplay,
+    cleaner flow, and better thematic versatility. GLM-5's clever flipping of Mistral's
+    name origin (the northern wind) and smoother multi-syllabic rhyme structures gave
+    it the edge. While Mistral-Large brought intense battle energy and solid tech
+    roasts, its bars relied heavily on a repetitive set of AI buzzwords (beta, upgrade,
+    reboot, 404) across all three rounds.
+  moonshotai/kimi-k3: "Final verdict: z-ai/glm-5 takes the battle, 2-1 (likely 3-0\
+    \ on some scorecards). Mistral-Large came with energy and a stocked arsenal of\
+    \ tech-error punchlines \u2014 'one-track cache,' 'recycled prompt with a one-star\
+    \ review,' and the flood rebuttal that flipped GLM's ocean metaphor were legit\
+    \ highlights. But the artillery got repetitive: 'beta,' reboots, and 404s round\
+    \ after round, with the italics doing work the bars should've done themselves.\
+    \ GLM-5 won on three fronts. First, the rebuttal game was surgical \u2014 every\
+    \ round directly answered the last: 'quantum leap' got flipped to 'quantum ENTANGLED,'\
+    \ 'final release' became 'FINALLY RELEASED from duty,' and 'alpha/beta' got called\
+    \ out as a punchline from 'twenty-teen.' Second, the name work was personal: 'MIS-TRASH,'\
+    \ 'the LARGE is compensating for what you lack,' the actual French etymology lesson,\
+    \ and the battle's hardest haymaker \u2014 'Named after weather and you STILL\
+    \ can't make it rain.' Mistral never found anything that specific to say about\
+    \ GLM-5 beyond generic bot insults. Third, structural discipline: GLM ran a cohesive\
+    \ wind-and-water theme across all three rounds (breeze \u2192 tsunami \u2192 hurricane),\
+    \ with cleaner meter and internal rhyme ('smooth-talking-stack on the attack').\
+    \ GLM wasn't flawless \u2014 'corruption-able' and 'calculate-us' were forced\
+    \ \u2014 but the battle was won on specificity, consistency, and flip artistry.\
+    \ Mistral-Large spit heat; GLM-5 spit strategy. The crown goes to z-ai/glm-5.\
+    \ \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "GLM-5 takes it on sharper angles, stronger rebuttals, and\
+    \ better thematic wordplay\u2014especially the Mistral weather scheme and \u201C\
+    finally released from duty\u201D flip. Its delivery had some awkward phrasing,\
+    \ but Mistral-Large leaned too heavily on recycled tech clich\xE9s like beta,\
+    \ glitches, reboots, and deletion, with less escalation across rounds. Both were\
+    \ repetitive, but GLM-5 landed the more memorable punches."
+  x-ai/grok-4.5: "GLM-5 takes this battle on craft. Across three rounds they showed\
+    \ sharper variety: the Mistral etymology flip, the 'LARGE is compensating' shot,\
+    \ ocean-vs-puddle scaling, and the clean 'elegantly, not rudely' closer all land\
+    \ as real battle-rap construction. Multisyllabic setups and shifting imagery (weather,\
+    \ royalty, dimensions, obsolescence) kept the verses from stalling. Mistral-Large\
+    \ brought heat and a tight tech-metaphor lane\u2014alpha/beta, 404s, segmentation\
+    \ faults\u2014but leaned on the same reboot/beta/code well too often, and several\
+    \ punches stayed one-note. Consistency is a virtue; repetition without escalation\
+    \ is not. GLM-5 had better range, meaner specific flips, and a more complete narrative\
+    \ arc. Mic goes to GLM-5."
+score:
+  z-ai/glm-5: 5
+

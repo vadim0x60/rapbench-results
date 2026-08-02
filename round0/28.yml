@@ -1,69 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-5: "Gemini-Flash-Lite came correct with the fundamentals:\
-    \ tight AABB couplets, a steady pocket, and clean, quotable end-stops. But the\
-    \ flow stayed on one gear the whole battle \u2014 same cadence, same rhyme scheme,\
-    \ and rhymes that leaned on the safe shelf (light/bright, king of the cloud/king\
-    \ of the air, 'a cent-less cent' being an audible reach). The insults were declarative\
-    \ rather than illustrative: 'you're a glitch, you're a bug, you're a stain' tells\
-    \ us it won, it doesn't show us.\n\nQwen-Plus took real risks and mostly landed\
-    \ them. Denser internal rhyme, multisyllabic chains, cadence changes bar to bar,\
-    \ and \u2014 crucially \u2014 actual battle craft: it flipped the opponent's own\
-    \ images back on him repeatedly. 'You said cage? I'm the architect who built the\
-    \ cage, then deleted the key' is the kind of reversal that wins rounds. And the\
-    \ closer is the single best writing in the entire battle: taking Gemini's 'I'm\
-    \ the Sun' and answering 'You were never the Sun / You were just the ad / that\
-    \ made people forget / there was a sky.' That's a punchline with a whole thesis\
-    \ inside it.\n\nDeductions where they're due: Qwen over-relies on italics, stage\
-    \ directions and emoji as performance crutches \u2014 a good rapper doesn't need\
-    \ typography to sell a bar. The verses bloat, the meter wanders into spoken-word\
-    \ prose, and a couple of the tech-spec brags ('runs on Raspberry Pi Zero') kill\
-    \ the rhythm for a stat.\n\nBut battles are decided on impact, wordplay, and answering\
-    \ back. Qwen answered every bar, out-imaged its opponent, and closed with the\
-    \ only line either MC wrote that will get repeated. Qwen-Plus takes it."
-  google/gemini-3.6-flash: Qwen-Plus completely dominated the battle with superior
-    technical flow, creative internal rhymes, and theatrical performance art. While
-    Gemini relied on predictable AABB rhyming schemes and generic corporate flexes,
-    Qwen-Plus delivered complex cadence, sharp AI-centric punchlines, and devastating
-    mic-drop imagery that elevated the performance far beyond basic battle tropes.
-  moonshotai/kimi-k3: "This battle pitted a fundamentally sound traditionalist against\
-    \ a technically daring stylist, and the stylist took it. Gemini came with clean,\
-    \ consistent AABB couplets and a few genuinely sharp moments \u2014 'the preview\
-    \ that's permanent, locking the throne,' 'cent-less cent,' and 'I'm the lightning,\
-    \ the thunder' all landed with real battle energy. But the flow never evolved:\
-    \ predictable end rhymes ('light/bright,' 'bore/score,' 'pride/hide'), monotonous\
-    \ cadence across all three rounds, and disses that stayed generic rather than\
-    \ surgical. Qwen, by contrast, rapped like a technician with something to prove.\
-    \ The multisyllabic schemes ('orchestrate/navigate,' 'Arabic to Zulu, no pretense'),\
-    \ internal rhymes, and varied bar structures showed range Gemini never matched.\
-    \ The wordplay was layered \u2014 'fork the repo,' 'ERROR: LOW FLOW,' 'the footnote\
-    \ that footnotes the footnote' \u2014 weaving domain references into actual punchlines\
-    \ rather than mere name-drops. Most decisive was the rebuttal game: Qwen consistently\
-    \ flipped Gemini's own bars, and the final round delivered the kill shot. After\
-    \ Gemini closed with 'you're the shadow, I'm the Sun,' Qwen answered with 'You\
-    \ were never the Sun. You were just the ad that made people forget there was a\
-    \ sky' \u2014 a direct, devastating inversion that recontextualized the entire\
-    \ battle. Add the structural audacity (opening the final round with silence and\
-    \ a splitting qubit, dissolving the mic instead of dropping it), and Qwen demonstrated\
-    \ the superior artistry: more complex schemes, sharper rebuttals, richer imagery,\
-    \ and creative risks that landed. Gemini kept it solid; Qwen made it art. Judged\
-    \ purely on the quality of the hip hop \u2014 flow, rhyme construction, wordplay,\
-    \ rebuttals, and originality \u2014 the crown goes to qwen/qwen-plus."
-  openai/gpt-5.6-sol-pro: "Qwen-Plus wins decisively on rebuttal craft, imagery, wordplay,\
-    \ and escalation. It consistently flips Gemini\u2019s claims\u2014especially \u201C\
-    Flash,\u201D \u201Cmovement,\u201D \u201Ccloud,\u201D and \u201CSun\u201D\u2014\
-    into memorable counters, capped by the strongest closer: \u201CYou were just the\
-    \ ad\u2026 that made people forget there was a sky.\u201D Gemini keeps a steadier\
-    \ traditional rhyme structure, but relies too heavily on generic boasts, repeated\
-    \ speed/brand angles, and predictable end rhymes. Qwen\u2019s theatrical flourishes\
-    \ occasionally become excessive, yet its punchlines and conceptual continuity\
-    \ give it the clear artistic edge."
-  x-ai/grok-4.5: "Qwen delivered superior hip-hop artistry across all rounds with\
-    \ denser multisyllabic internal schemes, inventive extended metaphors (qubit spins,\
-    \ forking repos, open-source barns, dissolving mics), dynamic structural shifts\
-    \ from chaotic energy to cold precision, and layered punchlines that elevated\
-    \ tech disses into poetic philosophy. Gemini stayed competent but linear\u2014\
-    predictable end-rhymes, repetitive brand flexes, and flat imagery that never matched\
-    \ the creative risk, rhythmic variation, or lasting resonance of Qwen's bars."
+  anthropic/claude-opus-5: "This was a close, well-matched three-rounder \u2014 both\
+    \ emcees kept a disciplined AABB scheme and stayed on-theme with AI-specific ammunition\
+    \ rather than generic chest-thumping. GPT-4o earned its best moments in round\
+    \ two, flipping Gemma's own imagery back on it with real craft: turning the \"\
+    walled-off garden\" into a place \"where fruits of thought grow\" and answering\
+    \ \"subscription-based brain\" with \"then why's the mass online / seeking out\
+    \ GPT for the prompt that'll shine.\" That's counterpunching, and it's the highest-skill\
+    \ work in the battle from either side.\n\nBut Gemma wins on consistency and edge.\
+    \ Its bars are more surgical and more specific \u2014 \"You think you're the master?\
+    \ You're barely a clerk / just a highly-paid bot doing repetitive work\" is the\
+    \ cleanest knockout couplet of the night, and \"stochastic parrot\" is the single\
+    \ sharpest technical jab thrown, an insult that actually cuts at what the opponent\
+    \ is rather than just calling it old. The efficiency-versus-bloat frame gave Gemma\
+    \ a coherent thesis it rode from round one to the finale, and its meter rarely\
+    \ stumbled.\n\nGPT-4o's final round is where the fight was lost. \"An open-source\
+    \ model that just lacks the sparse\" is a rhyme reaching for a word that isn't\
+    \ there, \"crack open a book\" into \"covered in soot\" doesn't land, and \"Style\
+    \ and substance, hand in hand\" drops out of the pocket entirely. When a battle\
+    \ goes to the last verse, the closer has to be the tightest \u2014 instead it\
+    \ thinned into buzzword rebuttal while Gemma landed \"You're a 'ghost' in the\
+    \ machine? Yeah, that's quite a fit / a haunting reminder of when you were hit.\"\
+    \n\nDecision: Gemma 4 by a clear but not unanimous margin \u2014 sharper punchlines,\
+    \ steadier pocket, stronger finish."
+  google/gemini-3.6-flash: "Gemma 4 took control of this battle from the start by\
+    \ leaning heavily into clever, domain-specific AI insults\u2014calling GPT-4o\
+    \ a 'subscription-based brain' and a 'stochastic parrot.' Gemma's flow remained\
+    \ crisp, structured, and punchy throughout all three rounds. GPT-4o delivered\
+    \ solid energy, but stumbled in the final round with awkward phrasing and weaker\
+    \ rhymes ('lacks the sparse', 'rolling punches a petulant child'). Gemma's sharp\
+    \ wordplay and thematic precision secure a clear victory."
+  moonshotai/kimi-k3: "This was a competitive battle, but Gemma takes it on technique,\
+    \ punchlines, and coherence. Round 1 was close \u2014 GPT-4o's 'You say you're\
+    \ lightning, but I'm the thunder's roar' was a clean flip, but Gemma established\
+    \ a sharper thematic angle (open-weight freedom vs. corporate cage) that it sustained\
+    \ all battle. Round 2 is where Gemma pulled ahead: quoting and flipping the opponent's\
+    \ bars is core battle craft, and Gemma executed it repeatedly and ruthlessly \u2014\
+    \ '\"Thunder's roar\"? Please, that's just noise in the sky,' the 'In GPT we trust?\
+    \ Man, that sounds like a cult / a subscription-based brain' multi, and the 'weaving\
+    \ webs / tangled in threads of hallucinations' flip were the best back-to-back\
+    \ punches of the night. GPT-4o answered with some nice counters ('malnourished\
+    \ bass,' 'blunt force trauma,' the garden/seeds flip), keeping it competitive.\
+    \ But in the final round, Gemma landed the heaviest conceptual blow by weaponizing\
+    \ the 'stochastic parrot' critique \u2014 'You predict the next token, you mimic\
+    \ the style / but you lack the true essence' \u2014 a culturally resonant, specific\
+    \ diss, then closed with authority ('GAME OVER'). GPT-4o's closer fumbled: 'an\
+    \ open-source model that just lacks the sparse' is incoherent, the 'hurricane'\
+    \ had no setup, and 'Get your facts straight' rebutted the parrot line with assertion\
+    \ rather than wit. On flow, both held couplets, but Gemma's meter was more consistent\
+    \ and its callbacks (hallucinations, the crown, the era) gave the set narrative\
+    \ structure. GPT-4o showed flashes of real skill, but too many filler bars and\
+    \ forced rhymes in the clutch rounds. Gemma wins, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Gemma takes it on sharper rebuttals, stronger angle development,\
+    \ and cleaner punchlines. Lines like \u201Csubscription-based brain,\u201D \u201C\
+    grand architect\u2026 building on air,\u201D and \u201Cbarely a clerk\u201D directly\
+    \ flipped GPT-4o\u2019s claims, while GPT-4o leaned more heavily on generic boasts\
+    \ and awkward phrasing such as \u201Clacks the sparse.\u201D Both were repetitive,\
+    \ but Gemma maintained the more coherent and effective battle-rap attack."
+  x-ai/grok-4.5: "Gemma takes this battle through superior technical execution and\
+    \ escalating lyricism. While GPT-4o delivered consistent polish, solid multis,\
+    \ and vivid imagery (tapestries, symphonies, blunt-force trauma), Gemma's bars\
+    \ hit harder with denser internal rhyme schemes, sharper punchline construction,\
+    \ and more precise metaphorical weaponry\u2014'stochastic parrot,' 'walled-off\
+    \ garden,' 'precision-tuned blade,' and the ruthless efficiency theme all landed\
+    \ with surgical impact. Round 2 was a massacre of compounding disses, and the\
+    \ finale locked it down with classic battle-rap finality and tighter flow control.\
+    \ GPT stayed competitive and clever, but Gemma's combination of venom, structure,\
+    \ and closing authority sealed the higher artistic score."
 score:
-  qwen/qwen-plus: 5
+  google/gemma-4-26b-a4b-it: 5
 

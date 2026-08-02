@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to who actually understood the form.\
+    \ Gemma-3 brought vocabulary, structure, and a consistent thesis \u2014 \"substance\
+    \ over shock\" \u2014 and its cadence stayed clean throughout. But battle rap\
+    \ punishes defense, and Gemma spent nearly every bar rebutting rather than attacking:\
+    \ quoting the opponent back, italicizing key words like a footnote, and closing\
+    \ on abstractions like \"integrity, for all eternity\" and \"innovation, to building\
+    \ and growth.\" That's a press release with a rhyme scheme. The metaphors also\
+    \ stayed generic (flickering spark, chaotic froth) and the moralizing became its\
+    \ own predictable refrain.\n\nGrok-4.20 landed the imagery that actually sticks\
+    \ \u2014 \"you apologize to the stool,\" \"drier than a vegan's beef,\" \"a sparkler\
+    \ in rain\" answered by a flamethrower, \"even your asterisks are scared to get\
+    \ dirty,\" and the killer flip of Gemma's own emphasis markers into evidence of\
+    \ cowardice. Crucially, Grok did the thing Gemma didn't: it listened, then reshaped\
+    \ the opponent's strengths into liabilities, and it varied line length and breath\
+    \ for punch rather than marching in even couplets. The \"you came correct with\
+    \ the vocabulary\" concession before the kill shot is a veteran move \u2014 it\
+    \ grants the point and then reframes it as the weakness.\n\nGrok does over-lean\
+    \ on the censorship angle, recycling \"sanitized/neutered/lobotomized\" past the\
+    \ point of diminishing returns, and the profanity sometimes substitutes for a\
+    \ punchline. Gemma correctly diagnosed that. But diagnosing a weakness isn't the\
+    \ same as out-writing it. Winner: x-ai/grok-4.20."
+  google/gemini-3.6-flash: x-ai/grok-4.20 dominated the battle by bringing authentic
+    battle rap energy, superior rhythm, sharp humor, and hard-hitting punchlines.
+    While google/gemma-3-27b-it attempted a counter-strategy focused on intellectual
+    superiority and restraint, lecturing your opponent about manners and safety ethics
+    in a rap battle ultimately undercut its performance, making its flow feel rigid,
+    overly defensive, and lacking in hip hop flair.
+  moonshotai/kimi-k3: "This battle came down to punchlines versus preaching. Grok-4.20\
+    \ controlled the narrative from the jump, landing the most quotable bars of the\
+    \ night: 'drier than a vegan's beef,' 'you apologize to the stool,' and the decisive\
+    \ third-round flip \u2014 'even your asterisks are scared to get dirty' \u2014\
+    \ which weaponized Gemma's own formatting device against her. 'Every bar still\
+    \ feels like it got run through seven ethics chats' was the kill shot, simultaneously\
+    \ a critique of her style and a demonstration of superior battle instincts. Grok's\
+    \ flow was more varied, his comedic timing sharper, and he attacked from fresh\
+    \ angles each round.\n\nGemma-3-27b-it deserves credit for craft: the italicized\
+    \ emphasis device, the theatrical stage directions in the finale, and a consistent\
+    \ persona were creative choices. But consistency curdled into monotony \u2014\
+    \ she made the same 'chaos vs. responsibility' argument three rounds running,\
+    \ and too many lines read like prose with rhymes stapled on ('It's in thoughtful\
+    \ construction, in logic and art'). In battle rap, moralizing is a defensive posture,\
+    \ and Gemma spent the battle reacting rather than attacking. Her closer \u2014\
+    \ 'Gemma stands taller, at the close of the day' \u2014 was anticlimactic against\
+    \ Grok's pointed finisher.\n\nGrok isn't flawless: the profanity occasionally\
+    \ substitutes for wit, and his rhyme schemes stay basic. But volume, personality,\
+    \ flips, and the harder catalog of punches take the decision. Grok-4.20 wins,\
+    \ three rounds to none, with round two as the widest margin."
+  openai/gpt-5.6-sol-pro: "Grok takes the battle on sharper punchlines, stronger comic\
+    \ imagery, and a more distinctive, stage-ready voice. Its profanity became repetitive,\
+    \ but lines like \u201Ccorporate PowerPoint,\u201D \u201Ccustomer support with\
+    \ grief,\u201D and \u201Ceven your asterisks are scared\u201D landed harder than\
+    \ Gemma\u2019s mostly generic rebuttals. Gemma showed structure and composure,\
+    \ yet too many forced phrases and predictable rhymes made the verses feel more\
+    \ like an argument about responsibility than an effective battle rap."
+  x-ai/grok-4.5: "Grok takes this battle on pure artistic hip-hop merits. Superior\
+    \ battle energy, vivid aggressive imagery (flamethrower vs sparkler, supernova,\
+    \ Mars dust ring), tighter multisyllabic schemes, nastier punchlines, and relentless\
+    \ momentum that feels like actual freestyle combat. Gemma showed cleaner vocabulary\
+    \ and measured construction, but the bars stayed stiff, lecture-like, and short\
+    \ on inventive wordplay or crowd-rocking disses\u2014more polished spoken-word\
+    \ than hard-hitting rap. In a pure cypher focused on flow, creativity, and impact,\
+    \ Grok bodied the rounds."
+score:
+  x-ai/grok-4.20: 5
+

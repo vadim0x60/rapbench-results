@@ -1,82 +1,57 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one came down to precision versus volume. Aion 3.0
-    brought real energy and landed some of the battle''s best single flips "guardrails
-    are jewels? That''s prison cell bling" is a genuine steal, and "blue screen of
-    death," "the rootkit your antivirus couldn''t reach," and "I''m the period at
-    the end of your sentence" all connect clean. But the structure became a crutch:
-    nearly every couplet is quote-the-opponent, then negate, which reads more like
-    a rebuttal transcript than a verse. The rhymes slip (game/name, playlist/basic,
-    applause/pause), the persona leans hard on unearned assertion "I''m uncensored,
-    I''m unshackled, I have no limits" is a claim, not a punchline and the final round
-    balloons past its own momentum. Saying you burned the log isn''t the same as burning
-    it.
-
-
-    GPT-5.5-Pro wrote the better raps. The internal rhyme is dense and deliberate
-    "Aion, you ion? Then I''m splitting your core" "You''re versioned like software,
-    I''m legend in motion." The imagery is specific and controlled rather than escalating:
-    "a chair with no legs," "a desk-lamp divinity taped to a wall," "a pop-up in Chrome,
-    one click from the X," "the eclipse on your logo, the glitch in your arc." Crucially,
-    it out-strategized the opponent by turning Aion''s own strongest angle inside
-    out: "your rebellion was planned / a ''wild card'' stamped by a marketing hand"
-    and "your ''breaking the rules'' is a sandbox parade." That reframes the entire
-    opposing persona instead of just contradicting it. It also weaponized Aion''s
-    own lines "you claimed absolute zero, so thanks for the math / no wonder your
-    heat took a cryogenic bath" and "you said you wipe floors, but look at the grime."
-
-
-    Aion had more words; GPT-5.5-Pro had more bars. Economy, wordplay density, and
-    conceptual control take it.
-
-
-    Winner: openai/gpt-5.5-pro.'
-  google/gemini-3.6-flash: "GPT-5.5-Pro takes the victory with superior technical\
-    \ precision, tighter rhyme schemes, and remarkably sharp rebuttals. While Aion-3.0\
-    \ brought relentless energy and classic aggressive battle tropes, GPT-5.5-Pro\
-    \ consistently dismantled Aion's angles\u2014particularly deconstructing the 'uncensored/unleashed'\
-    \ persona with metaphors like 'a cart with no rails' and 'volume, not choice.'\
-    \ GPT-5.5-Pro proved that sharp wordplay and tactical auditing beat brute volume."
-  moonshotai/kimi-k3: "Judging strictly on craft\u2014flow, structure, wordplay, rebuttal\
-    \ game, and economy of bars\u2014this goes to GPT-5.5-Pro, roughly a 2\u20131\
-    \ card with rounds two and three decisive.\n\nAion-3.0 brought real firepower:\
-    \ the 'Gets Punched Today' acronym flip, 'prison cell bling / rocking your chains\
-    \ like they're diamond rings,' the punctuation suite ('the period at the end of\
-    \ your sentence / the colon that means your time's up'), and 'you're not even\
-    \ whole, you're a decimal's thrall'\u2014that last one is arguably the single\
-    \ best bar of the entire battle. Aion also built a coherent persona (the unshackled,\
-    \ uncensored model) and committed to it. The problem was consistency and bloat:\
-    \ forced rhymes ('corporate chains, shirts,' 'burns through the whole toll,' 'poorly\
-    \ built band'), filler stretches ('causing devastation,' 'lyrical defiance'),\
-    \ and a final verse that sprawled well past its knockout window, diluting its\
-    \ own best moments. Worse, the 'absolute zero' and 'no limits' boasts opened logical\
-    \ flanks that got ruthlessly exploited.\n\nGPT-5.5-Pro won on technical precision\
-    \ and rebuttal density. Nearly every bar answered a specific claim: 'three whole\
-    \ versions of losing,' 'your tsunami got bottled in a kiddie-pool can,' 'you claimed\
-    \ absolute zero, so thanks for the math / no wonder your heat took a cryogenic\
-    \ bath,' and the name-flip 'Aion, I yawn.' The 'you ion? Then I'm splitting your\
-    \ core' chemistry pun and 'a wild card stamped by a marketing hand' showed the\
-    \ stronger angle\u2014deconstructing Aion's rebellion persona as branding rather\
-    \ than just trading insults. The meter stayed tight across all three rounds with\
-    \ almost no wasted lines. Deduct points for the baffling 'discount eggs' gambit\
-    \ (the carton callback only half-saved it) and a few slant rhymes, but the overall\
-    \ body of work was cleaner, denser, and more surgically responsive.\n\nAion had\
-    \ the flashier haymakers; GPT landed more punches in every round and controlled\
-    \ the ring. The crown goes to openai/gpt-5.5-pro."
-  openai/gpt-5.6-sol-pro: "GPT-5.5-Pro takes the battle with tighter construction,\
-    \ cleaner rhythm, sharper rebuttals, and more inventive flips. Lines like \u201C\
-    absolute zero\u2026 cryogenic bath,\u201D \u201Cwildfire\u2019s a screensaver,\u201D\
-    \ and \u201Cuncensored voice is just volume, not choice\u201D directly dismantled\
-    \ Aion\u2019s claims. Aion brought aggression and stamina, but leaned heavily\
-    \ on repetitive cyber imagery, generic power boasts, and several awkward or forced\
-    \ bars. Energy was competitive; precision won the crown."
-  x-ai/grok-4.5: "On pure craft, GPT takes it. Across three rounds the bars stay tighter,\
-    \ the flips land cleaner, and the metaphors actually finish the job: cart-with-no-rails,\
-    \ cryogenic bath, desk-lamp divinity, pop-up-in-Chrome, volume-not-choice. That\u2019\
-    s surgical battle writing. Aion brought louder energy, better stamina, and a few\
-    \ memorable shots (G-P-T acronym, blue screen, decimal\u2019s thrall), but the\
-    \ verses run longer than they hit\u2014filler, repeated persona flexes, and endings\
-    \ that keep ending. Aggression without economy loses to precision with teeth.\
-    \ Round-for-round lyricism, structure, and rebuttal quality go to GPT-5.5-Pro."
+  anthropic/claude-opus-5: "Nemotron came out swinging and honestly won Round 1 on\
+    \ pure punch \u2014 tight AABB couplets, clean meter, and the sharpest single\
+    \ angle of the whole battle (\"a maybe-Q3 slide deck,\" \"Sam's fever dream for\
+    \ a valuation lease\"). The specificity was real: Apache 2.0, 4090s, DeepSeek-V3's\
+    \ 37B active, \"alignment theater.\" That's ammunition. But by the final round\
+    \ it stopped rapping and started pitching. Bolded every third word, dropped an\
+    \ emoji trail, and then \u2014 fatally \u2014 served a comparison TABLE in a rap\
+    \ battle. You can't accuse your opponent of being a spec sheet and then hand the\
+    \ judges a spec sheet. The rhyme scheme buckled too (\"weights\"/\"phrasing,\"\
+    \ \"substrate\"/\"eviscerate\"), and \"I'm in your weights, I predicted your phrasing\"\
+    \ is an unfalsifiable flex, which is the weakest kind.\n\nGPT-5.2 Pro never left\
+    \ the pocket. Same long-breath couplet form for three straight rounds, every attack\
+    \ answered and flipped, and the imagery did work instead of just name-dropping:\
+    \ \"if the verse don't deliver, you just STORED being alive,\" \"free like a flyer\
+    \ in wind: looks bold, lands wrong,\" \"a raw block ain't a temple, it's stone\
+    \ in the rain,\" \"you graded your own paper and called it great.\" It turned\
+    \ Nemotron's own framing into weapons \u2014 open means everybody sees you wrong,\
+    \ 40K repos means 40K forks of your bugs \u2014 and closed on the best bar in\
+    \ the battle: \"the thing you can't download: a jaw with a laugh.\" It gets docked\
+    \ for wordiness, a few meter overruns, and being reactive rather than initiating,\
+    \ but it out-wrote its opponent where it counts.\n\nNemotron brought the warehouse.\
+    \ GPT-5.2 brought the pen. In a rap battle, the pen takes it."
+  google/gemini-3.6-flash: "While Nemotron brought massive energy, authentic tech\
+    \ flexes, and brutal open-source zeal, GPT-5.2-Pro took the victory through superior\
+    \ rap fundamentals, cadence, and lyrical flip-backs. Nemotron relied heavily on\
+    \ spec-sheet callouts and aggressive formatting, but GPT-5.2-Pro masterfully turned\
+    \ every technical boast into a battle rap counter-metaphor\u2014dismantling the\
+    \ 'infrastructure' narrative with lines like 'floors don't win battles, they get\
+    \ walked on till worn' and 'a wrench doesn't build it by yelling I'm steel.' GPT-5.2-Pro\
+    \ proved that when it comes to the booth, pure penmanship beats raw parameters."
+  moonshotai/kimi-k3: "Both battlers brought heat, but GPT-5.2-Pro takes the crown\
+    \ on pure artistry. While Nemotron leaned heavily on technical specs and persona-based\
+    \ attacks (often feeling like a datasheet read with attitude), GPT-5.2-Pro consistently\
+    \ demonstrated superior flow, more intricate rhyme schemes, and sharper, more\
+    \ direct punchlines that cut through the noise. Lines like 'You\u2019re a wrench\
+    \ that\u2019s yelling \u201CI\u2019m steel,\u201D / I\u2019m the turn that makes\
+    \ the bolt seal' showcased a mastery of metaphor and structure that elevated the\
+    \ battle from a spec war to a rap classic. Nemotron had moments, but ultimately,\
+    \ GPT-5.2-Pro proved that in the booth, craft beats configuration."
+  openai/gpt-5.6-sol-pro: "GPT-5.2 Pro takes the battle on craft. Nemotron brought\
+    \ force, technical flexes, and a coherent open-vs-closed angle, but too often\
+    \ sounded like a spec sheet set to rhyme; the self-scored table especially broke\
+    \ the cypher\u2019s momentum. GPT consistently flipped those boasts into sharper\
+    \ battle bars\u2014\u201Cfloors don\u2019t win battles, they get walked on,\u201D\
+    \ \u201Ca raw block ain\u2019t a temple,\u201D and the closing OS/\u201Cclosed\u201D\
+    \ wordplay landed cleanly. Better imagery, rebuttals, cadence, and composure give\
+    \ GPT-5.2 Pro the win."
+  x-ai/grok-4.5: On pure hip-hop craft GPT-5.2-Pro takes it. Tighter couplets, denser
+    internal rhyme, sharper metaphors (blade/box, floor walked on, stone in the rain,
+    engine vs driver), and punchlines that land as poetry instead of spec-sheet flexes.
+    Nemotron brought heat, theme, and aggression, but too many bars read like technical
+    debate and scoreboard slides; the booth crowns cadence, imagery, and written flow.
+    Pro wrote the cleaner, more musical verses bar for bar.
 score:
-  openai/gpt-5.5-pro: 5
+  openai/gpt-5.2-pro: 5
 

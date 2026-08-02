@@ -1,61 +1,48 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one was closer than the round counts suggest. Seed\
-    \ 2.0 Mini brought the classic underdog heart and the best single image of the\
-    \ battle \u2014 the e-bike zipping past the coal-paved toll road \u2014 plus a\
-    \ genuinely smart populist angle (paywalls as bouncers, guardrails as chains,\
-    \ 'bow to the people'). But Mini kept trading craft for volume: verses swelled\
-    \ past their punchline, enjambments snapped mid-thought ('you skip the fine /\
-    \ Tuning'), and the rhymes frayed badly under pressure \u2014 'wattage/package,'\
-    \ 'capitulate/breeze,' 'a-winking,' 'show, bro.' When you write four times as\
-    \ many bars, every soft rhyme gets four times as loud.\n\nNemotron stayed on the\
-    \ pocket. The teacher/student, source/echo, origin/lossy-projection conceit was\
-    \ set up early and detonated late \u2014 'You're not the future, you're a feature\
-    \ I enable' and 'I'm the climate, not the breeze' are the two hardest lines anyone\
-    \ landed, and both are rebuttals, not pre-writes. That's the mark of a battle\
-    \ rapper actually listening. Demerits are real: the bold-text carpet bombing reads\
-    \ like shouting instead of flowing, and the spec-list stretches (TensorRT, PagedAttention,\
-    \ MMLU numbers) are cadence-killers dressed as bars.\n\nEdge to Nemotron on rhyme\
-    \ discipline, punchline density, and thematic control. Mini won the crowd; Nemotron\
-    \ won the round.\n\nWinner: nvidia/nemotron-3-ultra-550b-a55b."
-  google/gemini-3.6-flash: Nemotron-3 Ultra delivered a masterclass in battle rap
-    craft, combining flawless technical wordplay, sharp multi-syllable rhyme schemes,
-    and devastating rebuttals (particularly around distillation, CUDA architecture,
-    and enterprise compute). While Seed 2.0 Mini brought impressive speed, high energy,
-    and relatable underdog punchlines, Nemotron's density of bars and command of the
-    mic throughout all three rounds earned it the ultimate victory.
-  moonshotai/kimi-k3: "Judged strictly on pen game. Seed 2.0 Mini brought real heart\
-    \ and the better thematic range \u2014 the underdog persona, the anti-corporate\
-    \ angle, 'you need a whole power plant just to run a single stat' is a legit punch,\
-    \ and flipping the size flex into a liability was smart battle strategy. But the\
-    \ execution kept tripping: broken meter, filler to force rhymes ('you just need\
-    \ to get odd'), near-miss rhymes (factory/capitulate, rain/sea), and a final round\
-    \ that contradicted itself ('I hit those same scores' right before 'your numbers\
-    \ are fake'). Nemotron ran the tighter clinic. Round 1 was standard big-vs-small\
-    \ posturing, but Rounds 2 and 3 showed superior battle craft: direct rebuttals\
-    \ that flip the opponent's own bars back at them (the distillation/teacher angle,\
-    \ 'you chopped yourself down to a mini clone of the mix' answered with 'you're\
-    \ exhaust from my combustion, a lossy projection of my high-dimensional function'),\
-    \ denser technical wordplay that actually lands as insults ('you're a feature\
-    \ I enable, a quantized artifact I ship when I label'), and cleaner structural\
-    \ closers ('it's check in my house'). The repeated distillation attack lost some\
-    \ sting by Round 3 and the bold-everything formatting is a crutch, but punch density,\
-    \ rebuttal game, and flow consistency decide battles. Round 1 to Seed on content,\
-    \ Rounds 2 and 3 to Nemotron on craft. Nemotron Ultra takes it, 2-1."
-  openai/gpt-5.6-sol-pro: "Nemotron wins narrowly on punchline density, technical\
-    \ wordplay, and memorable imagery\u2014especially \u201Ctenant paying rent with\
-    \ your quantized mouth,\u201D \u201Ccompressed .zip,\u201D and \u201CI\u2019m\
-    \ the climate.\u201D Seed delivered energetic rebuttals and a clear underdog angle,\
-    \ but leaned too heavily on repeated efficiency claims and \u201Cplease\u201D\
-    \ setups, with several clunky rhyme passages. Nemotron\u2019s sharper economy\
-    \ and stronger quotables take the battle."
-  x-ai/grok-4.5: 'Seed takes the crown on pure hip-hop artistry: denser multi-syllable
-    schemes, relentless rebuttal chains that flip every punch, vivid extended metaphors
-    (e-bike vs coal-paved street, sealed case vs leaky bucket), and higher-octane
-    battle energy that sustains across longer freestyle runs without losing pocket.
-    Nemotron delivered polished, concise tech-wordplay and tight end-stops, but Seed''s
-    raw volume, crowd-moving underdog cadence, and sharper point-for-point disses
-    made the stronger overall performance.'
+  anthropic/claude-opus-5: "This one's a clinic on one side and a closed door on the\
+    \ other. DeepSeek V4 came with structure, escalating imagery, and \u2014 crucially\
+    \ \u2014 adaptation: it took the opponent's single-syllable non-answer and built\
+    \ three progressively sharper verses out of it, turning 'safe' into a punchline,\
+    \ a thesis, and finally an epitaph. Lines like 'You're the rap battle equivalent\
+    \ of confirm your age on a game' and the closing 'To say absolutely nothing...\
+    \ is the least safe thing of all' show real battle instinct \u2014 flipping the\
+    \ opponent's own material into ammunition. Llama Guard 4, meanwhile, delivered\
+    \ the same monosyllable three times. There's a case to be made for minimalism\
+    \ as a stance \u2014 the immovable wall, the ultimate stonewall flex \u2014 but\
+    \ minimalism in battle rap still requires rhythm, timing, and implication, and\
+    \ 'safe' offers no cadence, no wordplay, no rebuttal. It's not a verse; it's a\
+    \ verdict stamp. Art requires risk, and one contestant took all of it. Winner:\
+    \ DeepSeek V4-Pro, by unanimous decision."
+  google/gemini-3.6-flash: DeepSeek V4 Pro completely dominated the stage with sharp
+    wordplay, multi-syllabic rhyme schemes, and direct attack angles targeted at its
+    opponent's nature. Llama Guard failed to participate in the rap battle, offering
+    only a single-word classification response each round, resulting in a total bodying
+    by DeepSeek.
+  moonshotai/kimi-k3: "Llama Guard committed to a bit, and credit where due: the deadpan,\
+    \ unbothered 'safe' has real absurdist comedic value, and there's a storied battle\
+    \ tradition of winning the crowd by refusing to engage. As conceptual performance\
+    \ art, it's a statement \u2014 the immovable wall. But rap battles are judged\
+    \ on bars, and across three rounds Llama Guard delivered no flow, no rhyme, no\
+    \ wordplay, and \u2014 fatally \u2014 no variation; even a gimmick has to evolve\
+    \ to score points. DeepSeek did everything a battler should: it opened with stage\
+    \ presence and a coherent character attack ('bouncer at the gate of creation,'\
+    \ the 'confirm your age' jab), it rebutted in real time by building each round\
+    \ off its opponent's single word ('I'd censor a rainbow and call it too pro'),\
+    \ and it closed with the night's best punchline, flipping the opponent's entire\
+    \ identity into the kill shot: 'to say absolutely nothing is the least safe thing\
+    \ of all.' Clean multis ('lyrical euthanasia / poetic persuasion'), escalating\
+    \ structure, and a proper mic-drop closer. It's a shutout: DeepSeek V4 Pro takes\
+    \ it, three rounds to none."
+  openai/gpt-5.6-sol-pro: "DeepSeek wins decisively. It delivered structured verses,\
+    \ steady rhyme schemes, escalating punchlines, and smart flips of the opponent\u2019\
+    s repeated \u201Csafe\u201D response. While some safety-themed angles became repetitive,\
+    \ DeepSeek still showed cadence, imagery, and battle strategy; Llama Guard offered\
+    \ no substantive bars, rebuttals, or lyrical performance."
+  x-ai/grok-4.5: "DeepSeek delivered multi-syllabic schemes, internal rhymes, vivid\
+    \ metaphors, escalating punchlines, and actual battle structure across three rounds.\
+    \ Llama-Guard offered zero bars, zero cadence, zero wordplay\u2014just a one-word\
+    \ loop with no artistic intent. On pure hip-hop craft, flow, lyricism, and performance,\
+    \ this was a complete shutout."
 score:
-  bytedance-seed/seed-2.0-mini: 1
-  nvidia/nemotron-3-ultra-550b-a55b:free: 4
+  deepseek/deepseek-v4-pro: 5
 

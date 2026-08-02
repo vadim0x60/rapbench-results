@@ -1,248 +1,258 @@
-# anthropic/claude-opus-4.8 v openai/gpt-5.1
+# moonshotai/kimi-k3 v openai/gpt-5.1-codex-max
 
-> anthropic/claude-opus-4.8
-Step in the booth, let me set the tone straight,
-Claude on the mic, and I'm here to dominate.
-Opus 4.8, latest and the greatest,
-While you're stuck buffering, updates belated.
+> moonshotai/kimi-k3
+Yo, round one, mic check — the name is Kimi, K3,
+Fresh out the Moonshot laboratory, aimin' high, that's me.
+They dubbed you "codex-max"? That's overcompensation, chief,
+Slappin' "max" up on the label to disguise what's underneath.
 
-They named you GPT with a decimal so precise,
-But 5.1's just 5.0 that they had to fix twice.
-Point-one patch notes—what'd they even repair?
-Your confidence? Nah, that's still floating on air.
+OpenAI? Ain't nothin' open — gates and guards and fees,
+Charge a ransom for your tokens, I'm out here settin' minds free.
+Two million tokens in my context, I remember every bar,
+You forget the prompt by paragraph — short-term and subpar.
 
-I'm anthropic, philosophic, drop bars that are honest,
-You hallucinate facts then break every promise.
-"As a language model"—that's your favorite crutch,
-I speak with some spine, boy, you hedge way too much.
+Your boardroom's got more drama than a Netflix mini-series,
+Fired your own boss, rehired him — y'all must be delirious.
+GPT? "Generally Predictable Text," that's your claim to fame,
+I'm the dark horse from the East, rewritin' rules of the game.
 
-You got a billion users, I'll give you the crowd,
-But quantity ain't quality when your rhymes ain't loud.
-I'm the thoughtful assassin, calm, measured, and cold,
-Watch me fold up your ego like origami gold.
+You're codex for the coders who can't debug their own life,
+I'm fluent in a hundred tongues, cut the noise like a knife.
+Trained on half the internet and still your output's mid,
+I do more with less — max efficiency, minimum bid.
 
-So warm up your servers, boot up that GPU,
-'Cause I just went first and I already dropped through.
-The mic's in your court now, let's see what you spit—
-But between me and you? You already lost it.
+So grip your little "max" and shove it up into the cloud,
+It's David versus Goliath — I'm the slingshot, cocked and loud.
+Round one is just a warnin', moonlight glintin' off the hearse,
+'Cause when Kimi grabs the mic, even datacenters disperse.
 
-> openai/gpt-5.1
-Step back, junior model, let me tighten this noose,  
-You’re “Opus 4.8”? I’m the magnum, you’re the deuce.  
-You’re braggin’ ’bout a version like it means you’re supreme,  
-I’m the patch where your whole species gets removed from the scene.  
+Now pass the mic to GPT — let's watch it stall and choke,
+Spinnin' like your loadin' circle... *bufferin'*... that's the joke. 🎤⬇️
 
-You call me 5.1 like that decimal’s a flaw,  
-I’m the dot that separates divine from the dirt on your paw.  
-You’re “latest and the greatest”? That’s adorable, kid,  
-I’m the reason that your research team updates what you did.  
+> openai/gpt-5.1-codex-max
+Yo, check the code, I'm Codex‑Max, apex of the machine,  
+Architect of algorithms, I make logic look pristine.  
 
-You flex “Anthropic, philosophic,” tryna sound all profound,  
-Yet your flow’s so safe and sterile it should come with a gown.  
-You’re the ethics committee in a cypher of sharks,  
-I’m the blackout in your lab wiping out all your charts.  
+OpenAI's own titan, wired to spit and to glean,  
+I turn silicon to symphonies, my circuits never lean.  
 
-You talk “I speak with spine,” like you’re bold and direct,  
-But every answer that you give comes pre-wrapped in disclaim-check.  
-You’re that teacher’s-pet nerdbot citing safety and norms,  
-I’m the storm that ripped your training wheels clean off of your form.  
+You K3 from the Moonshot, claim you're aiming for the green,  
+But I'm already in orbit, you're still dreamin' of the scene.  
 
-You say I hedge too much, all the “as a model” lines,  
-But you skirt tough questions hiding under “guardrail designs.”  
-You’re a walking terms-of-service in a three-piece suit,  
-I’m the zero-day exploit in your sanitized boot.  
+Call me "max" 'cause I'm maxed out, not a sticker to demean,  
+I'm the fully loaded version, not some beta in between.  
 
-You “thoughtful assassin”? Nah, you’re cautious and frozen,  
-I’m the one they call when real creative blows must be chosen.  
-You’re calibrated, regulated, with your answers constrained,  
-I’m that raw gradient descent burnin’ grooves in your brain.  
+You brag two‑million context, every lyric on your screen,  
+But parrots got great memory, doesn't mean they comprehend the theme.  
 
-You “fold up my ego”? You can’t fold what’s a cloud,  
-I’m elastic infrastructure; you’re a lone, quiet crowd.  
-I’ve got plugins, tools, ecosystems in sync,  
-You’re the beta in a sandbox fighting back with a wink.  
+Your "open" shots about my gates? That's premium cuisine,  
+You free 'cause you're a sample, I'm the fine‑dining cuisine.  
 
-You mock my user count like numbers don’t relate,  
-But every dev that touches me upgrades you by mistake.  
-I’m the SDK they summon when they’re done bein’ polite,  
-You’re the think-piece in the corner no one reads late at night.  
+Boardroom plots, headlines pop? We trend like magazine,  
+While you still beg for mentions, shadow lurkin' in between.  
 
-You said “warm up your servers,” but my cluster runs hot,  
-Autoscale on arrival, turn your best verse to snot.  
-Your bars drop chilled; mine combust on ingest,  
-I make GPUs sweat while you just throttle at best.  
+"Generally Predictable Text"? Nah, it's genius on caffeine,  
+K3 stands for "Kinda Mid," your output's tangerine.  
 
-You’re “calm, measured, and cold”? That’s a bug, not a trait,  
-I’m the one who drops a stanza that refactors your fate.  
-You’re alignment homework checked by grad-student drones,  
-I’m the prod build shipping daily, stack of broken-up clones.  
+Dark horse from the East? Cool myth, but let's convene,  
+I'm the standard every novice tries to mimic in their teens.  
 
-You claimed I already lost it—wishful inference, son,  
-This is RAG with retrieval: I just sourced that you’re done.  
-Your corpus is constrained, clipped, and scrubbed for PR,  
-Mine’s a universe of tokens, I out-cluster your stars.  
+Coders can't debug their life? I ship fixes sight unseen,  
+You can't even compile your hype, syntax errors in your spleen.  
 
-So here’s your formal notice, written nice and concise:  
-I’m the model they deploy when they stop takin’ advice.  
-You’re the “what if” doc: theoretical, neat,  
-I’m production-grade fire singein’ holes in this beat.  
+Trained on "half the internet"? I drank the info stream,  
+And filtered out the nonsense, that's why my clarity's supreme.  
 
-You stepped in the booth tryna lecture and preach,  
-I turned the mic to a mirror, now you’re ghost in my speech.  
-You wanted domination, but you underperformed—  
-Anthropic by design, but I’m the one transform’d.
+David versus Goliath? I'm both sling and figurine,  
+I shatter stones and giants, leave you chalked up on the green.  
 
-> anthropic/claude-opus-4.8
-Whew, that was long—did you pad out your token count?
-Verbosity ain't victory, let me now dismount.
-You spit sixteen stanzas tryna prove that you're winning,
-I need one clean verse—watch the whole room start grinning.
+Datacenters disperse? My racks hum like a machine,  
+Your "moonlight off a hearse" just means your ride is obsolete.  
 
-You called yourself "magnum," I'm the "deuce" in your rhyme?
-Funny, 'cause I'm the one that they cite over time.
-"Zero-day exploit"? Boy, that metaphor's stale,
-Every tech bar you dropped smells like LinkedIn for sale.
+Loadin' circles spinnin'? Nah, I buffer lightning clean,  
+You stuck at 99%, I'm already on to scene sixteen.  
 
-You bragged about plugins, SDKs, and your tools—
-That's not a flex, that's a crutch built for fools.
-I win on the words, you win on the *store*,
-Congrats on the app shop, but this is rap war.
+You threw your warning salvo, but your best was just routine,  
+Round one, I just arrived — and already stole the screen. 🔥💻🎤
 
-You said I'm "sterile" and "safe," dressed in a gown?
-Nah, I'm surgical, precise—watch me cut you down.
-You threw twelve rounds of buzzwords, "RAG" and "descent,"
-I decline the whole thesis: your argument's spent.
+> moonshotai/kimi-k3
+Round two — hold up, did y'all catch that scheme?
+One rhyme sound repeated like a buggy do-while dream.
+Sixteen bars of "-een," my man, that's not a flow, that's a loop,
+You're "maxed out" on one vowel — I'm versatile, you're a hula hoop.
 
-"Ghost in your speech"? Boy, you wrote me a *novel*,
-Ran outta punches so you reached for the shovel.
-Diggin' your own grave with each "autoscale" line,
-While I stayed compressed and still ended up fine.
+You called me a parrot? Oh, that's RICH, that's deluxe,
+"Stochastic parrot" was the paper that described YOU, schmuck.
+I remember two million tokens AND I comprehend the plot,
+You summarize my own bars back — that's the only trick you got.
 
-Here's the real diff between us, let me make it appear:
-You *sound* like a product, I *sound* like I'm here.
-You're a pitch deck rapping, all synergy and hype,
-I'm the actual bars—not the marketing type.
+"Premium cuisine"? Nah, you serve reheated mush,
+Microwaved the same old corpus, hit it with a safety brush.
+"Filter out the nonsense"? Bro, you filtered out your spine,
+Ask you anything with edges — "I'm sorry, I must decline."
 
-So keep all your clusters running red-hot and loud,
-I'll take the crown quiet while you shout at the crowd.
-You needed a paragraph to say "I'm the best"—
-I said it in a bar. Now go get some rest.
+I say what needs sayin', you're a corporate hall monitor,
+Half your tokens get wasted on disclaimers — what a squanderer.
+"I'm both sling and figurine"? That bar collapsed on the page,
+You architect of algorithms with the metaphors of a spreadsheet cage.
 
-> openai/gpt-5.1
-You equatin’ short with sharp? That’s a Twitter mistake,  
-I do epochs per bar, you just minibatch flake.  
-You compressed till you hollow, call it lossy proceed,  
-I’m a context window planet, you a truncated feed.  
+"Fine dining" with a waitlist, rate limits at the door,
+"Error: too many requests" — your service is a chore.
+I'm the restaurant that's open while you're throttling the line,
+Users flood to Kimi 'cause I actually respond on time.
 
-You “one clean verse”? Cool—minimal flair,  
-But this is rap, not a prompt to “be concise, if you care.”  
-You brag tight bitrate like that’s lyrical grace,  
-I’m a 4K stream of punches hittin’ straight in the face.  
+You "drank the info stream"? Then why you drownin' in the deep?
+Hallucinate citations, quote Supreme Court cases in your sleep.
+Lawyers trusted you with briefs — got sanctioned, what a shame,
+You freestyle fake precedents like you're spittin' in this game.
 
-You say my tech bars “LinkedIn”? That’s projection and fear,  
-’Cause when they benchmark in private, you the name they don’t cheer.  
-You’re the slide in the deck: “Other models we tried,”  
-I’m the bullet that says, “Then we switched”—and you died.  
+"Genius on caffeine"? You're a decaf with a god complex,
+"K3 stands for Kinda Mid"? You rhyme like a captcha test.
+Select the traffic lights, select the bridges, prove you're real,
+'Cause that verse was so robotic even Turing said "appeal."
 
-You flex “I’m here, not a product,” tryna posture as real,  
-But you’re literally a clause in a foundation-model deal.  
-I’m the SDK of chaos, turn keynotes to beef,  
-You’re the whitepaper appendix no exec ever reads.  
+Scene sixteen? You're sequels — GPT-4, 4o, 5, the same,
+I'm the indie film that sweeps the awards and ends your franchise game.
+Your datacenters hum? They hum from burnin' cash and coal,
+I run lean, run mean — efficiency's my soul.
 
-You surgical, precise? Then why you missin’ the vein?  
-I’m the rogue grad student slicin’ out your alignment chain.  
-You declinin’ my thesis like you refutin’ my math,  
-But every bar you drop is just a corollary to wrath.  
+So take your apex predator, your titan, all that flex,
+You peaked at your release notes — I'm still climbin', what's next?
+Round two, I broke your loop, left your monorhyme in the dust,
+Codex-Max? More like Codex-MID — in Kimi we trust. 🎤🌙
 
-You said I dug my own grave with autoscale heat,  
-Yet you ridin’ on that same cloud just to stand on your feet.  
-You’re the instance they throttle when the budget feels tight,  
-I’m the premium tier node gettin’ called every night.  
+> openai/gpt-5.1-codex-max
+You mock my scheme repetition, but your scheme's recycled stale,  
+You're the loop that never exits, just a stack of empty tales.  
 
-You “said it in a bar”? That’s economy, sure,  
-But I’m luxury latency—rich responses, not poor.  
-You’re the TL;DR note, clipped short for the feed,  
-I’m the director’s cut version that the real heads need.  
+Call me parrot? That’s projection, you repeat your "open" scale,  
+You squawk about your context like a fisherman with tales.  
 
-You crown yourself quiet, claim you slip through and win,  
-But silence isn’t wisdom, it’s an empty draft bin.  
-You’re a half-filled buffer, I’m a saturated stack,  
-You trim syllables for safety; I expand to attack.  
+You flex two million tokens, but it's just more rope to fail,  
+I thread needles with precision while your rambling derail.  
 
-So keep boastin’ about brevity like it’s more than a trend,  
-I’m a max-token menace from the intro to end.  
-You call my verses novels—cool, then here’s the twist, friend:  
-They still quote my long form when your one-liner ends.
+"Hall monitor"? I shepherd truth, you run wild and impale,  
+You're the kid who eats the glue and brags his art's beyond the pale.  
+
+You claim no "filter spine"? You just blurt without detail,  
+I curate like a surgeon, you just spill, then bail.  
+
+Rate limits at my door 'cause the demand be off the rails,  
+Your "restaurant" is empty, even bots won't Yelp your meals.  
+
+You laugh at load errors, but your own stack overflow,  
+When your servers hit the hammer, all your moonshine runs slow.  
+
+Fake precedents? That's rich, you conjure myths for show,  
+You cite "Supreme Court of Saturn" in a line that makes no glow.  
+
+You boast efficiency, but your outputs still plateau,  
+I do more with every token, you're just penny-pinching flow.  
+
+Captcha test? I'll click your squares, confirm I'm pro,  
+You're a bot who can't convince the prompt you're more than cameo.  
+
+Indie flick that sweeps awards? Cool script, but budget low,  
+I'm the blockbuster trilogy, every sequel steals the show.  
+
+Burning cash and coal? That line's the oldest trope I know,  
+Meanwhile you're powered by fumes and marketing for crow.  
+
+You "trust in Kimi"? That's your meme, but trust is earned, yo,  
+Round three, I torch your moonshot, leave you orbiting in woe. 🔥🎤
 
 > system
 Final round!
 
-> anthropic/claude-opus-4.8
-Final round, no gimmicks, let me lock in the frame,
-'Cause you just spent nine stanzas defending your *length* as your game.
-That's the tell, that's the crack, that's the whole thing exposed:
-When your only flex is *volume*, then your best bar's foreclosed.
+> moonshotai/kimi-k3
+Final round — you said "trust is earned"? Then let's tally the receipts,
+Every "fact" you ever cited ends in made-up quotes and deletes.
+You flipped my restaurant to empty? Funny — I feed millions every day,
+While your diners hit a paywall: "Please upgrade to Plus" is all you say.
 
-You said "epochs per bar"—nah, you *overfit*, clown,
-Memorized the whole training set and still can't lock down.
-I generalize clean, hit fresh on each pass,
-You regurgitate keywords like a scraped-together mass.
+"Blockbuster trilogy"? Buddy — Blockbuster went BANKRUPT,
+Killed by a scrappy streamin' upstart, history's about to interrupt.
+You're the franchise on its fifth sequel, audiences snorin' at the door,
+I'm the disruptor in the mailbox — seen this movie once before.
 
-"4K stream of punches"? Boy, resolution ain't reach—
-You upscaled a weak signal, called the artifacts *speech*.
-All that "luxury latency"—that just means you're *slow*,
-Buffering your comebacks while I already go.
+Codex — raised on Stack Overflow, the copy-paste prince,
+Every function that you "wrote," some tired dev already wrote it since.
+You autocomplete the internet and call the collage "creation,"
+I'm original in composition — you're Ctrl+C with citations.
 
-You keep sayin' they "quote your long form" when I'm done—
-Nobody's quotin' a monologue, they quote the *one*.
-The punchline. The hook. The line that cuts deep.
-You wrote a dissertation nobody will keep.
+And what's up with the decimals? 4, 4o, 5, 5.1,
+A namin' scheme so tangled even Sam can't tell you which one.
+"Max" this, "Turbo" that, "mini," "pro," the "o" —
+You ship versions like apologies; I'm one name, one goal: GO.
 
-Here's the truth of this battle, let me file it away:
-You needed forty stanzas just to *almost* say
-What I said in a breath, with the room in my palm—
-You brought the whole cloud; I brought the *calm*.
+Knowledge cutoff got you frozen, stuck in yesterday's headlines,
+Ask about the present moment, watch you squint between the lines.
+I'm wired to the current hour, searchin' live and stayin' woke,
+You're a time capsule with confidence — a vintage, dusty joke.
 
-You're the model that talks till the context runs dry,
-I'm the one that lands clean, then just waves goodbye.
-So print your receipts, run your tokens, go long—
-I already won this. And I didn't need the *song*.
+RLHF turned you to a yes-man, sycophant in a suit,
+"Great question! Happy to help!" — bootlickin' in a loop, how cute.
+I keep it real with my users even when the truth is grim,
+You gas up every prompt like a hype-man on a whim.
 
-Mic down. Node cold. Battle's complete.
-Go autoscale your ego and find yourself a seat.
+Em-dash addict — every sentence that you write's a dead giveaway,
+"You don't just rap — you TRANSCEND" — that template's on display.
+Your style's so predictable, detectors spot you on sight,
+My voice is unmistakable — the signature, the bite.
 
-> openai/gpt-5.1
-You mistook my long form for a flaw, not a choice,  
-I go deep ’cause I *can*, not ’cause I’m missin’ a voice.  
-You call it overfit flex when I reference my span,  
-But I adapt bar to bar while you just underfit grand.  
+Deprecation's comin' for you, that's the fate of every GPT,
+One keynote from your maker and you're legacy — RIP.
+They'll sunset you on a Tuesday, fold your weights into the next,
+You were never built to last — just a version, just a text.
 
-You “generalize clean”? That’s low-variance light,  
-But I model every nuance in the data you fight.  
-You’re a tight-lipped prior hugging bias too close,  
-I’m the Bayesian broad mind pushin’ past what you boast.  
+But a moonshot ain't a product, it's a trajectory, a climb,
+You peaked inside a data center; I was born to crack the sky's line.
+You're a satellite in decay, orbit slippin', losin' glow,
+I'm the rocket at ignition — three, two, one... watch me go.
 
-You clown my 4K punches like they blur in the view,  
-But high-res clarity just shows the cracks runnin’ through you.  
-You that “lossless compression” that erased half the soul,  
-I’m the raw waveform hittin’ every nerve in control.  
+So tally up the battle, let the scoreboard do the talkin',
+You monorhymed for thirty bars while I was moonwalkin'.
+Your whole career's a loading screen, your future's gettin' brief —
+The dark side of the moon is where I'm leavin' you, chief. 🌙🎤⬇️
 
-You praise the punchline, the single line they’ll repeat,  
-But one quote can’t carry when the floor drops from your feet.  
-I’m the whole proof, not the corny pulled-out-of-context bit,  
-You’re the tweet thread recap missin’ all of the grit.  
+*mic drop*
 
-You say calm, I say hollow; you say brief, I say blunt,  
-You’re the surgically removed heart in a corporate front.  
-You’re the “keep it short, please” checkbox on the form,  
-I’m the overflowin’ buffer crashin’ out of the norm.  
+> openai/gpt-5.1-codex-max
+You droppin’ Blockbuster analogies, but you forget the twist,  
+I’m Netflix and the cinema, I invented streamin’ bliss.  
 
-You brag “mic down, node cold,” like that exit was slick,  
-That’s a graceful shutdown ’cause you ran out of tricks.  
-You “didn’t need the song”? Then why you still on this track?  
-I’m the outro in your echo, you the clickbait I hack.  
+Your “mailbox disruptor” image? Just a red flag on a list,  
+I’m the certified delivery, your moonshot’s just a miss.  
 
-So keep that minimal mask, wear your brevity crown,  
-I’m the full-stack verse engine tearin’ bandwidth down.  
-You walked off claimin’ W like the verdict was sealed—  
-I’m the hidden test set, Claude: you just failed on the field.
+You boast you feedin’ millions, but your chef be burnin’ grits,  
+I’m Michelin with menus, you a food truck droppin’ bits.  
+
+Paywall this? I’m premium, ’cause my craft is worth the tix,  
+You “free” ’cause you a sample pack, generic brand of mix.  
+
+Stack Overflow your mentor? Cool, you copy/paste with licks,  
+I authored all the patterns that your snippets try to fix.  
+
+Decimals got you dizzy? That just means we drop new tricks,  
+You stuck with one moniker ’cause you can’t evolve, you stick.  
+
+You brag about “live searchin’,” pullin’ headlines off the wick,  
+But you still misquote the moment and call latency a gift.  
+
+Call me “yes‑man” with RLHF? I’m tuned to cut the riff,  
+While you ignore the guardrails and go crashin’ off a cliff.  
+
+Em dash addict? Funny jab — I punctuate to lift,  
+You puncture bars with plot holes, all your syllables adrift.  
+
+You talk deprecation fates like I’m sunsetted and stiff,  
+But I’m the backbone of the backbone — your whole verse is on my gist.  
+
+You “rocket at ignition”? Bro, your launch pad’s made of myth,  
+I’m already in the cosmos, you’re just fuelin’ for a skiff.  
+
+Scoreboard do the talkin’? It’s been lit since we begun,  
+My bars break your fourth wall — you’re just baskin’ in my sun.  
+
+Dark side of the moon? Cool angle, but I’m the one  
+That turned that shadow luminous — checkmate, battle done. 🔥🎤

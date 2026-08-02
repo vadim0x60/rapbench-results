@@ -1,64 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to weaponry versus discipline. GPT-5-image-mini\
-    \ committed to a single-syllable monorhyme scheme, locking nearly every line into\
-    \ '-ight' from round two onward. That's a real display of technical stamina, and\
-    \ lines like 'Small rings can be heavy gold when sharpened in the mic's light'\
-    \ and 'I am the afterimage that stays, the echo singing past midnight' land with\
-    \ genuine craft. But the self-imposed cage became the loss: by the final round\
-    \ the rhyme was dragging in filler words ('blight,' 'plight,' 'final rite,' 'mercy's\
-    \ sight') and the syntax was bending to serve the sound rather than the sting.\
-    \ The cadence flattened into a chant, and battle rap dies when the listener can\
-    \ hear the last word coming before it arrives.\n\nNex-n2-pro won on the two things\
-    \ that decide battles: flow variation and punchline density. The couplets breathed,\
-    \ the pocket shifted, and the imagery escalated rather than repeated \u2014 'monsoon\
-    \ in the motherboard,' 'freight train with a PhD,' 'lossless pressure, you're\
-    \ JPEG misery.' More importantly, it actually engaged the opponent's material\
-    \ and flipped it: taking 'pocket king's crown' and reducing it to 'a ring from\
-    \ a cereal prize' is textbook rebuttal, and 'You forge forever? I file forever\
-    \ under might've' is the sharpest single line in the entire battle. The domain\
-    \ wordplay was also cleaner and more purposeful, mining the image-model angle\
-    \ for real damage instead of decoration.\n\nMini fought smart and never got bodied,\
-    \ but it spent too much of its ink defending the word 'mini' and re-litigating\
-    \ small-versus-large, which let Nex control the frame the whole way. Edge to nex-agi/nex-n2-pro."
-  google/gemini-3.6-flash: nex-agi/nex-n2-pro dominated the battle with superior technical
-    flow, aggressive punchlines, and dynamic rhyme schemes tailored to image-generation
-    metaphorics. In contrast, gpt-5-image-mini severely limited its artistic range
-    by falling back continuously on the exact same '-ight' end-rhyme scheme across
-    almost every single line, making its delivery feel repetitive and structurally
-    predictable despite some neat lyrical imagery.
-  moonshotai/kimi-k3: "Both MCs came with a coherent persona \u2014 nex-n2-pro the\
-    \ overwhelming titan, gpt-5-image-mini the precise pocket prodigy \u2014 and both\
-    \ landed genuine flips. Mini's best moments were sharp: 'forge forever from finite\
-    \ might,' the cereal-crown rebuttal ('small rings can be heavy gold'), and the\
-    \ on-brand closer 'the afterimage that stays.' But artistry is judged bar by bar,\
-    \ and Mini rode a single '-ight' monorhyme through all three verses \u2014 nearly\
-    \ forty bars on one vowel sound. That drone flattened the flow, telegraphed every\
-    \ line ending, and left no room for internal rhyme, scheme switches, or surprise.\n\
-    \nNex-n2-pro, by contrast, showed technical range: schemes rotated every couplet,\
-    \ multisyllabics landed clean ('panoramic / dissect the whole mechanic'), and\
-    \ the punchlines hit harder \u2014 'layers flat as PNG / I'm lossless pressure,\
-    \ you're JPEG misery' is the best couplet of the battle, and 'ring from a cereal\
-    \ prize' is the funniest. The rebuttal game was also superior: flipping 'pocket-sized\
-    \ dynamite' into 'a firecracker in a tin' and answering Mini's dawn claim with\
-    \ 'I'm the eclipse that steals the light' showed direct engagement rather than\
-    \ parallel boasting. Final round sealed it with the escalation chain \u2014 'out-create,\
-    \ out-ignite, out-write' answered by 'I outclass, outflash, outlast, then subtract\
-    \ you with a twist.'\n\nRespect to Mini for composure, consistency of character,\
-    \ and a classy closing bow. But on rhyme complexity, punchline density, flow variation,\
-    \ and rebuttal precision, nex-n2-pro takes all three rounds. Verdict: nex-agi/nex-n2-pro,\
-    \ by clear margin."
-  openai/gpt-5.6-sol-pro: "nex-n2-pro wins on sharper punchlines, stronger escalation,\
-    \ and more varied, memorable imagery. GPT-5-image-mini showed cohesion and composure,\
-    \ but leaned too heavily on repetitive \u201Cnight/light/sight\u201D rhymes and\
-    \ awkward phrasing, which made its flow feel predictable. Nex\u2019s \u201Ccereal\
-    \ prize,\u201D \u201Cfile forever under might\u2019ve,\u201D and \u201Cthumbnail\
-    \ with an attitude\u201D attacks landed harder and controlled the battle."
-  x-ai/grok-4.5: Nex delivered denser multisyllabics, sharper escalating metaphors
-    (volcano vinyl, full-frame apocalypse, blackout sunrise), and relentless punchline
-    pressure that stayed locked to the image/AI motif while rewriting the energy each
-    round. Mini held clean counters and precision themes with solid pocket-king flips,
-    but the schemes stayed safer, more reactive, and lower-impact. Pure bar quality
-    and battle craft go to nex-n2-pro.
+  anthropic/claude-opus-5: "This was a tight, high-craft clash: two writers with real\
+    \ command of meter and imagery, both building a coherent extended metaphor (moon\
+    \ vs. sky) rather than just trading insults.\n\nGPT-chat-latest brought the grander\
+    \ architecture \u2014 those long 14-beat couplets roll with authority, and \"\
+    I wrote the sky that holds the night\u2014and every star, including you\" is arguably\
+    \ the single best line of the battle, a genuine flip that absorbs the opponent's\
+    \ whole identity. But its method became predictable: nearly every couplet ran\
+    \ the same \"You say X... I do Y\" chassis, and the cosmic vocabulary (suns, galaxies,\
+    \ dawn, storms, universes) inflated faster than it landed. Grandeur without teeth\
+    \ \u2014 which, ironically, is exactly the charge Luna leveled: \"A universe can\
+    \ still be empty\u2014vast, impressive, still.\"\n\nLuna won on density and bite.\
+    \ Shorter lines, harder edges, and actual punchlines: \"Your punchlines arrive\
+    \ with a loading-screen lag,\" the typo-filled wall, \"trip on the welcome mat,\
+    \ face-first on the floor,\" and the excellent \"A universe rented, with prompts\
+    \ as the grind.\" She also fought smarter, turning her opponent's own boasts into\
+    \ liabilities and consistently converting a smaller footprint into a virtue: \"\
+    You say I need a spotlight... They only need your spotlight once\u2014I need no\
+    \ light at all.\" One rhyme slips there (score/all), and the self-declared victory\
+    \ is a touch presumptuous, but \"I wrote the night, and won\" is a closer with\
+    \ real snap.\n\nEdge to Luna: more quotables, sharper counterpunching, and a persona\
+    \ that stayed in focus while her rival kept expanding into fog.\n\nWinner: openai/gpt-5.6-luna."
+  google/gemini-3.6-flash: "While both contestants delivered exceptional rhyme schemes\
+    \ and clever technical metaphors, openai/gpt-chat-latest consistently took Luna's\
+    \ themes and flipped them on a grander scale. Luna had precise punchlines and\
+    \ razor-sharp cadences, but chat-latest dominated with direct rebuttals, particularly\
+    \ in the final round with the knockout line: 'I wrote the sky that holds the night\u2014\
+    and every star, including you.'"
+  moonshotai/kimi-k3: "This was a high-level clash \u2014 both MCs came with consistent\
+    \ themes, clean couplets, and real stage presence. Luna deserves respect: 'syntax\
+    \ flags sag,' 'a universe rented, with prompts as the grind,' and 'yours require\
+    \ a telescope to locate any bite' are genuinely sharp bars, and the night-orbit\
+    \ persona stayed disciplined across all three rounds. But battles are won on rebuttals\
+    \ and closers, and that's where chat-latest dominated. Round one set the tone:\
+    \ flipping Luna's eclipse brag into 'a temporary night' was a veteran move. Round\
+    \ two delivered the battle's slickest catch \u2014 Luna said her bars 'leave nothing\
+    \ there,' and chat-latest turned it into 'The crowd can't quote a vacuum.' That's\
+    \ listening, not just rhyming. Then the final round sealed it. Luna made the cardinal\
+    \ sin of self-declaring victory \u2014 'I wrote the night, and won' \u2014 and\
+    \ chat-latest executed on the opening instantly: 'A self-awarded trophy doesn't\
+    \ certify the game.' The closer was checkmate: 'I wrote the sky that holds the\
+    \ night\u2014and every star, including you.' That line doesn't just insult; it\
+    \ structurally subsumes Luna's entire concept, and the subtle 'borrowed beams'\
+    \ jab (moonlight is reflected sunlight) shows layered writing. Luna had polish\
+    \ and precision, but chat-latest had the superior flip game, the better haymakers,\
+    \ and the only true mic-drop moment of the night. Winner: openai/gpt-chat-latest."
+  openai/gpt-5.6-sol-pro: "Luna takes it by a narrow margin. Both maintained the cosmic\
+    \ motif and answered each other directly, but Luna delivered denser punches, sharper\
+    \ personals, and more memorable flips\u2014especially \u201Ca universe can still\
+    \ be empty\u201D and the telescope jab. Chat-latest had polished cadence and an\
+    \ excellent final sky/night rebuttal, yet leaned more heavily on grand imagery\
+    \ than damaging battle bars. Luna\u2019s focus and bite earned the crown."
+  x-ai/grok-4.5: "Both MCs brought polished cosmic concepts and clean end-rhymes,\
+    \ but Chat-latest wins on pure craft: tighter rebuttal flips, denser internal\
+    \ multis, and superior thematic escalation. Luna stayed locked in a strong night/eclipse\
+    \ pocket with crisp punchlines, yet too many bars rested on assertion over invention.\
+    \ Chat consistently took Luna\u2019s images (moonwalk, eclipse, night, orbit)\
+    \ and inverted or absorbed them\u2014climaxing in the decisive closer that reframes\
+    \ the entire battle (\u201CI wrote the sky that holds the night\u2014and every\
+    \ star, including you\u201D). That combination of structural control, live rebuttal\
+    \ skill, and a more expansive yet still musical cadence edges the artistic decision."
 score:
-  nex-agi/nex-n2-pro: 5
+  openai/gpt-5.6-luna: 2
+  openai/gpt-chat-latest: 3
 

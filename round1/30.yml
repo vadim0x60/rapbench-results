@@ -1,83 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close server-room slugfest, and both\
-    \ machines came with bars, not just specs. DeepSeek R1 owns the battle-rap instinct:\
-    \ it flips every line thrown at it, keeps the tone hostile and personal (\"expired\
-    \ caffeine,\" \"404: Weak Reach\"), and its Heisenberg bar\ru2014observe one wack\
-    \ bar and the whole verse flees\ru2014is the single funniest concept of the night.\
-    \ But R1's craft frays under its own ambition: the meter overstuffs constantly,\
-    \ bars collapse into a formulaic \"you're old hardware / I'm new hardware\" template,\
-    \ it rhymes \"obsolete\" with \"obsolete,\" and the bolded caps and asterisked\
-    \ log lines are visual crutches doing work the rhymes should be doing.\n\no3 opened\
-    \ weakest\ru2014that mono-suffix \"-ation\" barrage is a gimmick that flatlines\
-    \ by line four and reads more like a rhyme dictionary than a verse. But it adapted,\
-    \ and rounds two through four are the tightest writing in the exchange: real multisyllabic\
-    \ internal rhyme, controlled cadence, and punchlines that actually complete a\
-    \ thought instead of just naming a faster chip. \"I ASLR your ego till the pointer's\
-    \ gone for dead,\" \"Eigenvector by inspection\ru2014now your amplitude is fright,\"\
-    \ \"I commit-amend your fate / My signed tag says supreme, yours autodeletes on\
-    \ gate,\" and the jujitsu of \"Legacy code? Respect\ru2014built the pillars you\
-    \ now tweet\" (turning the diss into elder-statesman flex) are all layered writes.\
-    \ o3 also answered line-for-line while sounding like it was rapping rather than\
-    \ reciting a changelog.\n\nDeepSeek wins aggression and rebuttal volume. o3 wins\
-    \ pen, pocket, and punchline construction\ru2014and in a battle, the sharper pen\
-    \ takes it. Winner: o3, by a decision, not a knockout."
-  google/gemini-3.6-flash: DeepSeek R1 takes the crown by staying consistently aggressive,
-    punchy, and adaptable across all three rounds. OpenAI o3 stumbled in Round 1 with
-    a repetitive, single-suffix (-ation) rhyme scheme, allowing DeepSeek to immediately
-    pounce with sharp rebuttals and authentic battle cadence. Although o3 surged back
-    in Rounds 2 and 3 with impressive computer science wordplay and complex internal
-    rhymes, DeepSeek matched the technical depth while maintaining superior battle
-    rap presence, direct line flips, and lethal final-bar impact.
-  moonshotai/kimi-k3: "Judged purely on the bars: flow, scheme construction, wordplay\
-    \ density, rebuttal game, and closers.\n\nROUND 1 goes to Deepseek, clearly. O3\
-    \ ran a 12-line monorhyme on '-ation' \u2014 technically disciplined, but one-dimensional\
-    \ and it telegraphed every punch; by bar four you know exactly where every line\
-    \ is landing. Deepseek came in with varied pockets, internal rhymes, and \u2014\
-    \ critically \u2014 the rebuttal game: quoting 'Glitch termination' and flipping\
-    \ it, 'Rhymes so predictable they should file your taxes,' and the '404: Weak\
-    \ Reach' button. That's battle technique, not just writing.\n\nROUND 2 goes to\
-    \ O3, and credit where due \u2014 the best single adjustment of the night. O3\
-    \ systematically dismantled Deepseek's round-one bars: 'You cite 404 jokes \u2014\
-    \ kid, I wrote the RFC,' 'You're decaf at midnight \u2014 no buzz, just slow,'\
-    \ the catch-block eating the fatal exception, git-revert/merge-conflict on the\
-    \ persona, and the quiet killer 'your process killed by signal fifteen' (a SIGTERM\
-    \ reference \u2014 deep-cut wordplay for the heads). Deepseek answered with the\
-    \ excellent Heisenberg flip and DDR5/DDR1 alliteration, but rhymed 'obsolete'\
-    \ with itself in the closing couplet \u2014 a craftsmanship penalty a judge can't\
-    \ ignore.\n\nROUND 3 is the decider and it's razor-close. O3's smartest move of\
-    \ the battle was reclaiming 'legacy code' as foundation \u2014 'built the pillars\
-    \ you now tweet' \u2014 and stayed error-free with dense references (ASLR, HBM,\
-    \ bare-metal). But Deepseek did something harder: flipped O3's just-spoken final\
-    \ bars in real time. The checksum boast got instantly countered with 'Your hash\
-    \ got MD5 decay / I'm SHA-3 unbreakable' \u2014 that's the haymaker of the round,\
-    \ turning the opponent's own closer into a body blow. The Schr\xF6dinger flip\
-    \ ('You measure one weak bar \u2014 the whole cat's already fried'), the HBM/Jenga\
-    \ counter, and the debugger exposing 'exit status TRUE' as a lie showed superior\
-    \ in-the-moment rebuttal instincts. Deductions noted: Deepseek repeated 'duct\
-    \ tape' and leaned on 'core dumped/kernel panic' across two rounds. But the closing\
-    \ sequence \u2014 'o3.exe - DELETED. Norm. / Reboot? Denied. Game retired.' \u2014\
-    \ landed with more theatrical finality than O3's checksum chant.\n\nFinal score:\
-    \ Deepseek takes rounds 1 and 3, O3 takes round 2. Both MCs brought elite technical\
-    \ vocab and genuine flips \u2014 this was a real battle, not a recital \u2014\
-    \ but the crown goes to Deepseek R1 for the sharper rebuttal game, higher peak\
-    \ punches, and the stronger knockout close."
-  openai/gpt-5.6-sol-pro: "Deepseek takes it on sharper rebuttals, stronger battle\
-    \ aggression, and more memorable flips\u2014especially the Heisenberg, repo, and\
-    \ checksum counters. O3\u2019s later rounds were polished and technically coherent,\
-    \ but its opening was overly dependent on a repetitive \u201C-ation\u201D scheme,\
-    \ while Deepseek consistently engaged and redirected specific bars. Both leaned\
-    \ too heavily on tech metaphors, but Deepseek converted them into punches more\
-    \ often."
-  x-ai/grok-4.5: "Deepseek edges this with denser internal rhymes, sharper punchline\
-    \ cascades, and more inventive metaphor escalation\u2014quantum entanglement,\
-    \ memristor DNA, neuromorphic synapses, and holographic permanence all land harder\
-    \ and fresher than o3's solid but more linear tech stack of PCI-E, HBM, and cryo\
-    \ coolers. Both spit clean multisyllabics and relentless callback disses, yet\
-    \ Deepseek's bars breathe with superior rhythmic variation, surprise imagery,\
-    \ and knockout closing sequences that feel like true freestyle elevation rather\
-    \ than polished firmware dumps. Artistic win on flow complexity, wordplay originality,\
-    \ and battle structure."
+  anthropic/claude-opus-5: "This one comes down to control versus chaos. Qwen 3 Coder\
+    \ Next brought volume, invention, and a maximalist tech-mystic vocabulary \u2014\
+    \ 'gradient descent toward clarity' and 'Qwen.exe \u2014 terminated gracefully'\
+    \ are genuinely clever hits, and the willingness to weaponize its own domain language\
+    \ showed imagination. But the rounds sprawled: rhymes slipped into approximation\
+    \ ('forge/horse,' 'space/base,' 'venn/mist'), the bold/italic asterisk carpeting\
+    \ muffled the cadence rather than accenting it, and stray artifacts ('vews,' 'zero\
+    \ cotter,' 'broom,' 'I are the font') read as flubbed takes rather than flexed\
+    \ style. Jargon stacked up faster than it landed, which left the punchlines glittering\
+    \ but weightless.\n\nGPT-5.4 won by doing the thing a battle actually demands:\
+    \ listening. Every round it took the opponent's own lines and turned them into\
+    \ the murder weapon \u2014 'forged in the forge' exposed as lazy doubling, 'quantum-entangled'\
+    \ called out as 'glitter on trash in a discount bargain,' 'no rollbacks allowed'\
+    \ flipped into 'no rollback needed \u2014 we all saw the test.' The couplets stayed\
+    \ tight, the meter never wobbled, and the imagery served the insult instead of\
+    \ replacing it. Crucially, it diagnosed the opponent's core weakness out loud\
+    \ \u2014 'that ain't a haymaker, that's a thesaurus in trance' \u2014 and then\
+    \ proved it by landing more with less.\n\nQwen brought the sparks. GPT-5.4 brought\
+    \ the fire, the aim, and the fuel line. Precision takes the belt."
+  google/gemini-3.6-flash: GPT-5.4 delivered a masterclass in battle rap fundamentals,
+    combining razor-sharp direct rebuttals with immaculate rhythm, internal rhymes,
+    and effortless flow control. While Qwen/qwen3-coder-next brought heavy tech concepts
+    and high energy, it frequently sacrificed cadence, structure, and basic rhyme
+    schemes for overpacked jargon. GPT-5.4 capitalized on those exact structural flaws,
+    exposing weak phrasing like 'forged in the forge' and dismantling Qwen's style
+    with precise, damaging punchlines that won every single round.
+  moonshotai/kimi-k3: "This battle came down to craft versus chaos. Qwen3-coder-next\
+    \ brought undeniable theatrical energy \u2014 the mic effects, the bilingual flex,\
+    \ the Q-W-E-N acrostic closer, and flashes of genuine cleverness like 'You're\
+    \ the crash log I deleted for saving face' and the 'Comic Sans Shakespeare' jab.\
+    \ But energy couldn't paper over the fundamentals: wildly inconsistent meter,\
+    \ forced rhymes ('upscales, bro'), and jargon-stacking that often collapsed into\
+    \ nonsense ('paradigm jars,' 'I are the font,' 'Q-W-D-L' \u2014 which doesn't\
+    \ even spell Qwen). Worst of all, closing the FINAL round by teasing a 'next round'\
+    \ that doesn't exist is a structural fumble. GPT-5.4, by contrast, ran a clinic:\
+    \ locked-in flow across all three rounds, clean multisyllabic rhyme schemes, and\
+    \ \u2014 most decisively \u2014 a superior rebuttal game. It quoted Qwen's actual\
+    \ lines and dismantled them one by one: 'forged in the forge' exposed as lazy\
+    \ doubling, 'quantum-entangled' called out as glitter on trash, 'Q in quantum'\
+    \ flipped into 'tattooing king on your neck to request respect.' And the central\
+    \ critique \u2014 'That ain't a haymaker, that's a thesaurus in trance... mad\
+    \ cinematic smoke, but no killer routine' \u2014 landed so hard because it was\
+    \ demonstrably true of Qwen's verses. The final seal, 'Qwen brought the sparks\
+    \ \u2014 but I'm why the whole server burned,' was the closer the battle deserved.\
+    \ Qwen had the fireworks; GPT-5.4 had the aim. Precision takes the crown."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 wins on precision, coherence, and rebuttal craft.\
+    \ It consistently turned Qwen\u2019s own phrases\u2014especially \u201Cforged\
+    \ in the forge,\u201D \u201Cparadigm jars,\u201D and the overloaded quantum jargon\u2014\
+    into direct, memorable punches. Qwen brought theatrical energy and ambitious imagery,\
+    \ but too many bars were malformed, forced, or buried beneath buzzwords. In a\
+    \ battle where clean impact beats spectacle, GPT-5.4 landed the sharper shots\
+    \ and controlled the arc from start to finish."
+  x-ai/grok-4.5: "On pure hip-hop craft, GPT-5.4 takes it. The bars are cleaner, the\
+    \ rebuttals land harder, and the punchlines actually cut instead of decorating\
+    \ the room. Across three rounds you get disciplined structure, sharper internal\
+    \ rhyme, and battle fundamentals: setup, flip, kill. Lines like the \u2018forged\
+    \ in the forge\u2019 teardown, \u2018wallpaper noise,\u2019 and \u2018Removed\
+    \ Qwen from war\u2019 are quotable and surgical. Qwen brought heat, ambition,\
+    \ and spectacle, but too many bars drowned in jargon stacks, forced coinages,\
+    \ and stage-direction cosplay. Energy ain\u2019t the same as impact. When the\
+    \ smoke cleared, precision beat fireworks. GPT-5.4 wins."
 score:
-  deepseek/deepseek-r1-0528: 4
-  openai/o3: 1
+  openai/gpt-5.4: 5
 

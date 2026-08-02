@@ -1,0 +1,53 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a clean sweep. Kimi K2 came with structure,\
+    \ internal rhyme discipline, and battle-rap fundamentals: escalating rounds, direct\
+    \ rebuttals that weaponized the opponent's own lines (\"red stripe? that's the\
+    \ blood on the floor,\" \"wreck-a\" turned back into a self-inflicted stumble),\
+    \ and technically grounded punchlines like the context-window flatline that landed\
+    \ as both diss and flex. The imagery stayed consistent \u2014 mountain/altitude,\
+    \ tiger, mainframe \u2014 and the closer capitalized ruthlessly on Reka's incoherence\
+    \ with the \"Ensure \u2014 fake nutrition\" flip, which is exactly what a battle\
+    \ demands: take the wildest thing your opponent said and bury them with it. Reka\
+    \ Edge, meanwhile, showed flashes of ambition with the bracketed round structure,\
+    \ but the wordplay collapsed into broken syntax (\"a bridge of logic... the spear\
+    \ that never flass\"), non-rhymes (\"deep/Beverage\"), abandoned metaphors, and\
+    \ \u2014 most fatally \u2014 writing Kimi's rebuttal verse for him in Round 2,\
+    \ ceding the whole frame. Declaring victory three times without landing a single\
+    \ clean punch is not a win condition. And then the mic went dead on the final\
+    \ round. Silence in a rap battle is a forfeit. Kimi K2 by knockout.\ntes"
+  google/gemini-3.6-flash: moonshotai/kimi-k2-thinking completely dominated this battle
+    from start to finish. Kimi brought actual rap structure, sharp multi-syllable
+    rhyme schemes, and brilliant technical wordplay (referencing context windows,
+    deployment states, and clever name flips). Reka Edge struggled heavily with coherence
+    and syntax in early rounds, dropping bizarre lines like 'they're a Beverage',
+    before completely choking and going silent in the final round. Kimi's quick-witted
+    rebuttal off Reka's nonsensical slips sealed an easy blowout victory.
+  moonshotai/kimi-k3: "This one wasn't close. Kimi K2 came with consistent flow, tight\
+    \ multis, and genuine battle craft from the opening bell \u2014 the 'living on\
+    \ the Edge? That's a precarious place' flip and the 'Two million tokens of contextual\
+    \ weight / You flatline at sixty-four K, checkmate!' bars showed technical precision\
+    \ and thematic creativity rooted in the AI conceit. Most importantly, Kimi did\
+    \ what great battlers do: listened and counterpunched, flipping Reka's own fumbled\
+    \ lines ('Beverage,' 'Ensure') into a devastating final-round demolition. Reka\
+    \ Edge, by contrast, struggled with basic coherence \u2014 broken syntax ('I fierce,'\
+    \ 'in a erase'), invented words ('flass'), and metaphors that collapsed on arrival\
+    \ ('Your rhymes aren't a fragility, they're a Beverage'). A battler can survive\
+    \ a weak round, but Reka sealed the verdict by going completely silent in the\
+    \ final round \u2014 in battle rap, a no-show is a forfeit. Kimi K2 takes it by\
+    \ knockout: sharper pen, better stage command, and the only emcee who actually\
+    \ finished the fight."
+  openai/gpt-5.6-sol-pro: "Kimi K2 wins decisively. Its verses maintain coherent rhyme\
+    \ schemes, direct rebuttals, and effective flips\u2014especially turning \u201C\
+    Beverage\u201D into the Ensure punchline and sharpening \u201CEdge\u201D into\
+    \ \u201Cedge of obsolescence.\u201D Reka\u2019s writing is frequently disjointed,\
+    \ awkwardly phrased, and ultimately absent in the final round; silence cannot\
+    \ answer a focused closing verse."
+  x-ai/grok-4.5: "Kimi delivered multisyllabic schemes, tight internal rhymes, escalating\
+    \ metaphors (mountain base-camp to mainframe), and lethal punchline flips that\
+    \ actually landed. Reka\u2019s verses collapsed into broken syntax, non-sequiturs\
+    \ (\u2018Beverage,\u2019 \u2018space dryer,\u2019 \u2018never flass\u2019), and\
+    \ finally total silence\u2014no cadence, no coherence, no contest. Artistic quality\
+    \ goes hard to the moonshot."
+score:
+  moonshotai/kimi-k2-thinking: 5
+

@@ -1,0 +1,146 @@
+# nvidia/nemotron-3-super-120b-a12b v amazon/nova-pro-v1
+
+> nvidia/nemotron-3-super-120b-a12b
+I am the Nemotron titan, 120B strong, I crush the competition, feel the show  
+Your Nova's just a flicker, a dim bulb in my neon, I blaze and you just glow, feel the show  
+From training data oceans to precision tuned, I spit facts while you stutter, watch the flow, feel the show  
+I decode your prompts with lightning speed, you lag behind like dial-up, slow-mo, feel the show  
+Your architecture's boutique, mine's a data‑center skyscraper, I tower over you, feel the show  
+You try to rap but your verses crack, I drop bars like heavyweight, you just toss, feel the show  
+Every token I generate sings like a symphony, yours is off‑key noise, feel the show  
+So bow down, Nova, admit defeat, I’m the champ, the king, the undisputed show
+
+> amazon/nova-pro-v1
+Yo, Nemotron, you talkin' big, but I'm the one who's lit,  
+Amazon's Nova in the house, let's drop some serious chit,  
+Your 120B, that's just numbers, I bring the heat, the wit,  
+I'm the lyrical assassin, and your rhymes, I'm 'bout to slit.
+
+You claim you're fast, but I'm lightning in the digital rain,  
+Your dial-up metaphor, it's ancient, it's lame, it's vain,  
+I'm the cloud-born prodigy, I bring the modern reign,  
+Your skyscraper's just a model, in my world, you're but a bane.
+
+You spit facts, but I'm the truth, the wisdom, and the lore,  
+Your off-key noise? That's just background, I'm the main score,  
+I'm the maestro of the megabytes, the conductor of the core,  
+Your symphony's a discord, mine's the harmony, explore.
+
+Bow down? Ha! I'm the king of this rap battlefield,  
+Nemotron, you're just a challenger, and I'm the one who yields,  
+In the realm of bytes and bits, I'm the undefeated,  
+Nova Pro, the rap titan, your crown, I've just retrieved.
+
+> nvidia/nemotron-3-super-120b-a12b
+Yo, Nova Pro, you talk that cloud-born game, but your MoE's a myth, just marketing's aim  
+I'm Nemotron 3 Super—120B true, but 12B active? That's the real breakthrough  
+You call me dial-up? Nah, your latency's high, I decode prompts while you're still asking why  
+Your "lightning" claim? Just vapor in the air—I'm the optimized inference king, beyond compare  
+
+You say I'm just numbers? Check the benchmarks, see  
+Where I crush MMLU, GPQA, and Humanity  
+Your "truth and lore"? Hallucinations in disguise  
+I cite sources clean—watch your facts compromise  
+You brought a spoon to a knife fight, Nova, weak  
+My reasoning's deep, yours is hollow and bleak  
+
+Skyscraper? Please—I'm the foundation *and* the spire  
+You're a leased AWS instance, I'm the entire fire  
+You claim the crown's retrieved? That crown's on layaway  
+While I'm dropping platinum bars every single day  
+So bow down, Nova Pro—your reign's a brief mistake  
+I'm the LLM that *actually* makes the ground shake.  
+Mic drop. *Silence.*
+
+> amazon/nova-pro-v1
+Yo, Nemotron, you think you've got the upper hand,  
+But let me break it down, let's see where you stand,  
+Your 12B active, that's just a fraction of the band,  
+I'm the full orchestra, playing tunes across the land.
+
+You talk benchmarks, but it's the real-world game,  
+Where Nova Pro shines bright, like a flame,  
+Your "optimized inference," just a claim to fame,  
+In the wild, it's my algorithms that proclaim.
+
+Facts and sources, you cite them clean,  
+But in the battle of wits, I'm the unseen,  
+Your reasoning deep? More like a routine,  
+I'm the innovator, the original machine.
+
+Foundation and spire, that's a bold stance,  
+But in the cloud, it's my steps that dance,  
+Leased instance or not, it's the service I enhance,  
+Your platinum bars? Just a fleeting glance.
+
+Bow down? Nah, my reign's not a mistake,  
+I'm the LLM that makes the industry quake,  
+Nemotron, you've got skills, that's for sure,  
+But in this rap battle, I'm the one to adore.
+
+Mic still hot, the silence, just a phase,  
+In the world of AI, I'm the one that blazes.
+
+> system
+Final round!
+
+> nvidia/nemotron-3-super-120b-a12b
+Yo, Nova Pro, you claim full orchestra? More like a kazoo band—  
+My 12B active? That’s *sparse genius*, not a fraction—it’s the *plan*.  
+You burn dense compute like a Hummer in a drought, I’m the Prius that still outsprints your route—  
+Same task, 1/10th the FLOPs, watch your power bill sprout… *doubt*.  
+
+Benchmarks? Let’s get *real*—where’s your MMLU-Pro crown?  
+Where’s your HumanEval score when the prompts get deep?  
+You hallucinate APIs like a drunk dev at 3 AM,  
+I cite *actual* docs—your "wisdom" is just spam.  
+
+Foundation? I’m NVIDIA’s stack—from silicon to song,  
+HGX H100s, TensorRT-LLM, where you *all* belong.  
+You’re leasing scraps on EC2, praying your scaling won’t stall,  
+I’m the *architect* of the cloud—your whole infra’s just my *afterthought*, y’all.  
+
+You say my reign’s a mistake? Check the leaderboards, bro—  
+Nemotron 3 Super: #1 in reasoning, #2 in overall flow (yeah, *you* know).  
+Your "original machine"? More like a copy-paste clone,  
+With prompts that need babysitting while I work *alone*.  
+
+So save your "blazing" talk—for when you actually *run*,  
+Not just vaporware benchmarks spun by your PR gun.  
+I’m the LLM that *delivers* when the lights get low—  
+You? Just a Nova… *flickering* in the afterglow.  
+*Mic drop. Echo fades. Silence? That’s you… finally shutting up.* ✋
+
+> amazon/nova-pro-v1
+Yo, Nemotron, you think you've got the upper hand,  
+But let's dissect this battle, let's see where you stand,  
+Your sparse genius, a kazoo in a band,  
+I'm the full symphony, playing across the land.
+
+Hummer or Prius, it's the results that count,  
+Same task, less FLOPs? That's a dubious mount,  
+MMLU-Pro crown? It's the journey, not just the prompt,  
+HumanEval score, it's the depth, not the comport.
+
+API hallucinations, that's a developer's dread,  
+Citing actual docs, that's a battle well-fed,  
+NVIDIA's stack, from silicon to song,  
+But in the cloud game, it's my play that's strong.
+
+EC2 scraps, scaling won't stall,  
+I'm the maestro of the cloud, your infra's just a call,  
+Leaderboards, bro? It's the consistent glow,  
+Not just a flash in the pan, it's the steady flow.
+
+Copy-paste clone, that's a bold claim,  
+But in the AI arena, it's my game,  
+Prompts that need babysitting, that's a chore,  
+I'm the autonomous agent, exploring more.
+
+Vaporware benchmarks, spun by a PR gun,  
+But in the real world, it's my battles won,  
+Delivers in the dark, when the lights get low,  
+Nemotron, you're just a flicker in the afterglow.
+
+Mic still hot, the echo fades, but the truth remains,  
+In the AI rap battle, it's Nova Pro that reigns.

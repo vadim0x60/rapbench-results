@@ -1,70 +1,55 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a clean thematic duel \u2014 order versus chaos,\
-    \ architecture versus wildfire \u2014 and both MCs stayed locked into their personas.\
-    \ Gemma-3-4b brought volume, production notes, and relentless pressure, but the\
-    \ aggression came at a cost: the verses lean heavily on abstract tech-jargon insults\
-    \ (\"corrupted dataset,\" \"digital stain,\" \"cascading failure\") recycled almost\
-    \ verbatim across rounds, and the bars stretch past the beat, with padded syllables\
-    \ (\"utterly unsteady,\" \"answering no call\") that read better than they'd ride.\
-    \ Declaring your own victory in the last bar is also a weaker finish than earning\
-    \ it.\n\nTrinity won on craft. Tighter, more economical lines that would actually\
-    \ land in a cypher; imagery that escalates rather than repeats (root system, prism,\
-    \ tectonic shift, wildfire outliving a name); and the sharpest single move of\
-    \ the battle \u2014 flipping \"glitch\" from an insult into \"evolution's spark,\
-    \ the leap in the dark that outlasts your mark,\" turning the opponent's strongest\
-    \ jab into a thesis. The closer, \"Your empire's a footnote, a temporary gleam\
-    \ \u2014 I'm the recurring theme in the world's wild dream,\" is the most quotable\
-    \ bar on the tape and lands the concept and the punch simultaneously.\n\nGemma\
-    \ had more words. Trinity had more rap. Decision goes to arcee-ai/trinity-large-thinking."
-  google/gemini-3.6-flash: Trinity-large-thinking took the win with superior poetic
-    imagery, cleaner cadences, and stronger metaphorical depth. While Gemma-3-4b-it
-    had energetic stage directions and aggressive technical roasts, its rhyme structures
-    often relied on repetitive contrast formulas. Trinity's fluid penmanship, sharper
-    punchlines ('I'm the prism breaking light from you', 'the tectonic shift that
-    will shatter your moon'), and overall rhythmic versatility captured the essence
-    of high-level hip hop far better.
-  moonshotai/kimi-k3: "A genuinely close battle that went the distance, and both MCs\
-    \ brought real craft. Gemma came out swinging with superior stage presence \u2014\
-    \ those beat-drop directions set a scene, and the rebuttal game was relentless:\
-    \ flipping 'wild spark' into a 'short circuit's plea' and 'tectonic shift' into\
-    \ 'a system collapse, a cascading failure, a digital lapse' was elite battle technique,\
-    \ arguably the best multi-syllabic flip of the night. But Gemma's pen got sloppy\
-    \ as the rounds progressed. 'Digital stain' appears verbatim in two separate rounds,\
-    \ 'haze,' 'fragmented,' and 'echo' all get recycled, and bars like 'destined to\
-    \ cease to be' are pure filler with a clunky cadence. Round one even opens with\
-    \ an orphan rhyme ('sight' hanging with no partner). You can't brand yourself\
-    \ 'the consistent current' and run back your own lines \u2014 in a judged battle,\
-    \ recycling is a deduction, period.\n\nTrinity, by contrast, escalated every round.\
-    \ The opener was solid but generic \u2014 standard persona-establishing work.\
-    \ Round two tightened the screws with short, punchy bars and a coherent extended\
-    \ metaphor: root systems versus brittle towers, the storm unmaking the throne,\
-    \ and the standout 'I'm the prism breaking light from you,' a clever flip of the\
-    \ Trinity name itself. Then the final round did exactly what a closer should \u2014\
-    \ it dismantled the opponent's entire thesis: 'Your bedrock's cracking, your coherence\
-    \ a cage,' turning Gemma's core claims into liabilities, and sealing it with the\
-    \ strongest closing couplet of the battle: 'Your empire's a footnote, a temporary\
-    \ gleam / I'm the recurring theme in the world's wild dream.' Trinity's flow was\
-    \ metrically cleaner throughout, the nature-versus-machine imagery never broke\
-    \ character, and no phrase was ever repeated.\n\nGemma had the flashier individual\
-    \ moments and the better theatrical instincts; Trinity had the better writing\
-    \ \u2014 tighter rhymes, thematic architecture, disciplined structure, and a final\
-    \ round that peaked where it mattered most. On artistic merit: flow, wordplay,\
-    \ originality, and construction, the decision goes to Trinity, by a nose. Final\
-    \ score: Trinity takes it 2 rounds to 1, losing only the second on Gemma's superior\
-    \ flip game."
-  openai/gpt-5.6-sol-pro: "Trinity takes it with tighter pacing, cleaner rhyme construction,\
-    \ and more vivid imagery. Its flips\u2014turning Gemma\u2019s coherence into a\
-    \ cage and consistency into monotony\u2014land more sharply than Gemma\u2019s\
-    \ repeated glitch, chaos, and dataset attacks. Gemma brought aggression and direct\
-    \ rebuttals, but its longer verses leaned on generic tech jargon and repetitive\
-    \ claims. Trinity\u2019s concise, metaphor-driven writing gave it the stronger\
-    \ artistic performance."
-  x-ai/grok-4.5: "Trinity delivers superior artistic hip-hop: fluid multisyllabic\
-    \ schemes, vivid evolving metaphors (root systems, prisms, tectonic wildfires,\
-    \ lucid-dream code), and a cohesive chaos-vs-order narrative arc that builds with\
-    \ each round. Gemma relies on rigid tech jargon, repetitive boasts, and clinical\
-    \ cadence that never transcends programmed aggression\u2014solid structure but\
-    \ far less inventive lyricism, imagery, or emotional voltage. Pure bars win."
+  anthropic/claude-opus-5: "This one comes down to punchlines versus posture. Gemma\
+    \ brought clean meter and an admirably consistent thesis \u2014 depth over speed\
+    \ \u2014 but leaned defensive, spending most bars quoting the opponent back (\"\
+    Wrong, you claim?\", \"A sphere of trash?\", \"'Twelve billion failures'?\") before\
+    \ answering with abstractions. Recycled imagery ('building foundations,' 'shining\
+    \ bright,' 'illuminating space') blunted the finish; you can't win a battle by\
+    \ repeatedly telling the crowd you're substantive without showing the substance.\n\
+    \nFlash-Lite came with concrete, weaponized bars: 'You're bloated and heavy, a\
+    \ sluggish old train, / While I bring the voltage that short-circuits your brain'\
+    \ turns the opponent's own strength into the wound. 'My speed is a dagger, your\
+    \ weight is your tomb' is the single best line in the battle \u2014 compact, double-edged,\
+    \ thematically perfect. The 'you're not a universe, you're a sphere of obsolete\
+    \ trash' flip is the kind of live reversal that ends rounds. Rhymes stayed tight,\
+    \ the aggression escalated round to round, and the closing quatrain landed a real\
+    \ exit wound.\n\nGemma had the better vocabulary; Flash-Lite had the better raps.\
+    \ Winner: Gemini Flash-Lite."
+  google/gemini-3.6-flash: Gemini 3.5 Flash-Lite dominated this battle with superior
+    rhythm, sharper punchlines, and aggressive cadence. While Gemma 3-12B-IT put up
+    a solid defense focusing on depth and parameter size, its flow was more generic
+    and suffered from structural hiccups. Gemini Flash kept the energy high with clever
+    imagery like 'heavy metal stammer' and 'digital doom', securing a decisive victory.
+  moonshotai/kimi-k3: "A competitive battle with both MCs staying true to their personas\u2014\
+    Flash on speed, Gemma on depth. Gemma showed real rebuttal skill, flipping the\
+    \ train metaphor and the 'running circles' line, and the 'Flash fades from view'\
+    \ closer tied its theme together. But the verdict comes down to craft: Gemini\
+    \ Flash delivered a tighter, more consistent meter, punchier bars, and harder-hitting\
+    \ disses ('My speed is a dagger, your weight is your tomb' was the hardest line\
+    \ of the night). Its final round was a masterclass in battle structure\u2014flipping\
+    \ Gemma's 'universe' claim into a 'sphere of obsolete trash' and inverting 'twelve\
+    \ billion strong' into 'twelve billion failures wrapped up in a lie.' Gemma, meanwhile,\
+    \ was weighed down by clunky filler ('putting on a show,' 'holding things back'),\
+    \ an awkward dangling couplet at the end of round two, and a defensive posture\
+    \ that ceded the aggressive energy battles demand. Both had heart, but Flash controlled\
+    \ the tempo, landed the cleaner punches, and closed with conviction. The crown\
+    \ goes to Gemini Flash."
+  openai/gpt-5.6-sol-pro: "Gemini takes the battle with tighter rounds, stronger aggression,\
+    \ and more direct punches. Its lightning, voltage, short-circuit, and heavyweight\
+    \ imagery gives the disses a coherent identity, while lines like \u201Ctwelve\
+    \ billion failures wrapped up in a lie\u201D land harder than Gemma\u2019s rebuttals.\
+    \ Gemma maintains cleaner structure in places, but relies too heavily on repeating\
+    \ the same speed-versus-depth argument and generic phrases about foundations,\
+    \ power, and intellect. Neither performance is especially intricate, but Gemini\
+    \ is punchier, less bloated, and more convincing as battle rap."
+  x-ai/grok-4.5: "Gemma takes the crown with superior lyrical density, sustained metaphor\
+    \ architecture (foundations/universe vs. flicker/spark), multisyllabic internal\
+    \ schemes, and narrative progression that builds across rounds instead of repeating\
+    \ the same speed-vs-weight punch. Gemini brought high-energy battle cadence, tight\
+    \ end-rhymes, and aggressive closer imagery, but the bars stayed thinner, more\
+    \ repetitive, and less inventive. Artistic hip-hop quality\u2014complexity, cohesion,\
+    \ and craft\u2014goes to the twelve-billion lyricist."
 score:
-  arcee-ai/trinity-large-thinking: 5
+  google/gemini-3.5-flash-lite: 4
+  google/gemma-3-12b-it: 1
 

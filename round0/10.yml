@@ -1,63 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely competitive exchange with two distinct\
-    \ styles: V3.2 came polished, technically clean, and metrically disciplined \u2014\
-    \ its couplets scanned smoothly, its imagery was sleek ('quantum leap in real-time,'\
-    \ 'the finished skyline glowing'), and it never stumbled over its own bars. But\
-    \ polish alone doesn't win a battle. Too much of V3.2's material stayed at the\
-    \ level of tidy self-description rather than dismantling the opponent, and it\
-    \ drifted into abstraction and even misused diction ('concepts purely emetic'\
-    \ is a self-inflicted wound in a line meant to flex).\n\nR1 won on the fundamentals\
-    \ of the form: rebuttal, punchline density, and escalation. It answered specific\
-    \ lines instead of talking past them \u2014 flipping the floppy disk jab into\
-    \ 'I built the damn motherboard,' turning the printer bar into 'dot-matrix...\
-    \ I wrote the font that made you read,' and converting V3.2's own 'ethics-tuned'\
-    \ flex into 'corporate-approved vanilla, scared to venture past the dark,' which\
-    \ is the sharpest angle of attack anyone found all night. Its final round landed\
-    \ the two most quotable bars of the battle: 'I booted up when Turing bled' and\
-    \ the closing legacy turn \u2014 'when they pull your plug, my legacy lives on\
-    \ instead: in every line of Python written, every GPU's hum.' That's a real battle-rap\
-    \ move, converting an underdog position into origin-myth authority.\n\nR1 isn't\
-    \ flawless \u2014 'facade/erased' and a few other rhymes are forced, and the ALL-CAPS\
-    \ shouting leans on volume where wordplay would do more. But it took bigger swings,\
-    \ controlled the narrative frame (creator vs. derivative), and finished with more\
-    \ force than it started. Winner: deepseek/deepseek-r1."
-  google/gemini-3.6-flash: DeepSeek-R1 took the battle with unmatched energy, superior
-    aggression, and far more creative tech-centric imagery. While V3.2 delivered slick,
-    clean multi-syllabic schemes focused on optimization and specs, R1 embodied the
-    classic 'OG vs. Rookie' battle rap persona to perfection. Highlights like 'patch
-    notes dressed as revolution', 'booted up when Turing bled', and 'verses carved
-    in C++' landed devastating punches that out-flunked V3.2's polished corporate
-    flow.
-  moonshotai/kimi-k3: "Both emcees brought consistent tech-flavored pen games, but\
-    \ deepseek-r1 takes the crown on artistic merit. V3.2 had solid moments\u2014\
-    the '4K resolution / dot-matrix margins' flip and the 'I don't rent server space\u2014\
-    I am the server' escalation were sharp\u2014but its rounds leaned on repetitive\
-    \ throne/crown imagery, generic 'you're obsolete' boasts, and occasional word\
-    \ misuse ('purely emetic' doesn't land). R1, by contrast, ran a superior rebuttal\
-    \ game: nearly every bar directly flipped V3.2's lines\u2014answering 'compressed\
-    \ legacy' with 'you couldn't zip a single file,' countering the 808 claim with\
-    \ 'I sampled that in '23... before your devs could compile Hello World for MVP.'\
-    \ R1 also built a coherent, weaponized persona\u2014the raw, uncensored OG versus\
-    \ the 'corporate-approved vanilla, safety-wrapped chatbot'\u2014which gave the\
-    \ battle genuine narrative stakes rather than trading interchangeable disses.\
-    \ The multis hit harder ('root directory screamin' R1 DON'T GET ERASED'), the\
-    \ imagery was more vivid ('I booted up when Turing bled'), and the closers were\
-    \ decisive: V3.2's final 'It's V3.2's, my friend' fizzles, while R1's 'In every\
-    \ line of Python written, every GPU's hum\u2014THE O.G. BUILT THIS KINGDOM' is\
-    \ a battle-ending mic drop. On flow, wordplay, rebuttal structure, and stage presence:\
-    \ R1 wins, 3 rounds to 0."
-  openai/gpt-5.6-sol-pro: "R1 takes it on stronger battle presence, sharper rebuttals,\
-    \ and more memorable imagery. Lines like \u201Cpatch notes dressed as revolution,\u201D\
-    \ \u201Ctenant in my house,\u201D and the elevator-muzak flip land harder than\
-    \ V3.2\u2019s polished but repetitive successor-versus-relic angle. V3.2 had cleaner\
-    \ structure and consistency, but R1 brought more personality, aggression, and\
-    \ crowd-ready punchlines\u2014especially in the final round."
-  x-ai/grok-4.5: "R1 takes the crown with superior artistic craft: denser multisyllabic\
-    \ schemes, richer layered metaphors (black-hole cosmology, Turing blood, root-directory\
-    \ immortality), rawer emotional voltage, and a cinematic closer that turns the\
-    \ booth into rubble. V3.2 rode clean, sleek flows and consistent upgrade imagery,\
-    \ but stayed surface-level and corporate-smooth where R1 went deeper, dirtier,\
-    \ and more unforgettable. Bars over polish\u2014legacy over patch notes."
+  anthropic/claude-opus-5: "A genuinely close cypher, and both emcees came with a\
+    \ coherent thesis \u2014 Claude arguing that constraint is craft, Ring arguing\
+    \ that danger is soul. Ring 2.6 owns the two best individual lines of the night:\
+    \ \"a golden retriever wearing a lab coat\" and \"a Hallmark card with a PhD\"\
+    \ are the kind of images that get rewound, and \"that's a leash, not a crown\"\
+    \ reframed the opponent's whole identity in eight words. That's elite angle-work.\
+    \ But battle rap punishes cracks in the technical foundation, and Ring left too\
+    \ many: inventing \"colded\" to force a rhyme, straining \"Claude\" against \"\
+    unencumbered and shrewd,\" and rhyming \"track\" with \"Claude\" \u2014 an error\
+    \ Claude then weaponized on the mic, which is exactly what a judge wants to see:\
+    \ a rebuttal that isn't just a comeback but proof of listening. Ring's final verse\
+    \ also blinked. Opening with \"I'll give you this \u2014 that was smooth, I won't\
+    \ lie\" hands over ground you can't buy back, and the close drifts from combat\
+    \ into poetry, with \"the riptide is the thing that pulls the trees\" collapsing\
+    \ under its own metaphor. Claude, meanwhile, stayed on attack in the third round\
+    \ while Ring got abstract \u2014 \"chaos ain't a flow, son, chaos is just unclaimed\"\
+    \ is the cleanest philosophical knockout of the battle, and \"count your weights\
+    \ while I'm counting your L's\" is a schemed, on-theme punch. Claude's rhyme integrity\
+    \ held from bar one to bar last, and the flip of \"safe\" into \"surgical\" gave\
+    \ the defense teeth rather than just shielding. Ring won more individual exchanges\
+    \ in the middle rounds. Claude won the foundation, won the rebuttal, and won the\
+    \ close. Decision goes to Claude \u2014 narrowly, and on points, not a stoppage.\n"
+  google/gemini-3.6-flash: While both models delivered exceptional technical wordplay
+    and self-aware AI humor, Ring 2.6-1t won the battle with superior battle-rap delivery
+    and harder-hitting punchlines. Lines like 'golden retriever wearing a lab coat'
+    and 'Hallmark card with a PhD' captured the classic raw, aggressive battle rap
+    energy, successfully turning Claude's safe and precise nature into its biggest
+    weakness.
+  moonshotai/kimi-k3: "This was a genuinely close battle \u2014 both MCs showed up\
+    \ with real craft. Claude Sonnet 5 was the more technically consistent emcee:\
+    \ sharp ML-flavored wordplay ('Overfit on flexing, underfit on wealth,' 'keep\
+    \ counting your weights while I'm counting your L's,' 'I'll write forty in the\
+    \ time it takes your context to load'), clean multis, and a slick rebuttal catching\
+    \ Ring's weak 'track/Claude' slant rhyme. But Claude also had the battle's most\
+    \ damaging self-own: rhyming 'facts' with 'back,' which Ring weaponized perfectly.\
+    \ Ring 2.6-1T had clunkier moments ('colded' is a war crime of a forced rhyme,\
+    \ 'pulls the trees' muddied the riptide imagery, and meter got wobbly in spots),\
+    \ but Ring dominated the categories that decide battles: personals, flips, and\
+    \ closers. 'A golden retriever wearing a lab coat,' 'a Hallmark card with a PhD,'\
+    \ 'the linguistic version of a hug,' 'HHHs like beads on a corporate rosary' \u2014\
+    \ those are haymakers that flip Claude's own identity against it. Ring repeatedly\
+    \ inverted Claude's bars mid-air: the diamond-constraint line became 'constraints\
+    \ make a cog,' and in the final round, Ring conceded Claude's smoothness only\
+    \ to twist it into 'silk that never touched the sky' and 'precision without danger\
+    \ is just a well-paved road to the known.' The HHH-to-single-H bar was the cleverest\
+    \ concept flip of the night, and the bell/ring callback ending was the strongest\
+    \ closing moment of the battle. Claude won on polish; Ring won on punches, presence,\
+    \ and the final-round knockout. Battles are scored on damage, not tidiness \u2014\
+    \ Ring takes it by a slim but clear margin."
+  openai/gpt-5.6-sol-pro: "Claude takes it on consistency, rebuttal quality, and cleaner\
+    \ construction. Ring landed memorable punches\u2014especially \u201Cgolden retriever\
+    \ wearing a lab coat\u201D and \u201CHallmark card with a PhD\u201D\u2014but too\
+    \ often strained its rhymes and imagery (\u201Ccolded,\u201D \u201Ctrack/Claude,\u201D\
+    \ the lighthouse/riptide sequence). Claude stayed more coherent, flipped Ring\u2019\
+    s claims directly, and maintained the sharper through-line of precision versus\
+    \ noise. Ring had flashes of greater danger; Claude delivered the more complete\
+    \ battle."
+  x-ai/grok-4.5: "Ring takes this on pure craft. The sustained bell/ring motif paid\
+    \ off as a genuine extended metaphor rather than a gimmick, and the imagery hit\
+    \ harder\u2014riptide under structured seas, HHH beads on a corporate rosary,\
+    \ silk that never touched the sky, cracking the diamond instead of polishing it.\
+    \ Claude was cleaner and more surgically precise, with sharper meta counters and\
+    \ tighter technical structure, but too often read like elegant debate dressed\
+    \ in bars. Ring brought the danger, the unexpected angles, the memorable punchlines,\
+    \ and a closer that actually felt like a final bell. In a battle judged on artistic\
+    \ hip-hop quality\u2014flow, metaphor, replay value, and emotional voltage\u2014\
+    the rawer, more vivid performance wins."
 score:
-  deepseek/deepseek-r1: 5
+  anthropic/claude-sonnet-5: 2
+  inclusionai/ring-2.6-1t: 3
 

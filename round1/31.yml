@@ -1,74 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to bloat versus blade. Qwen brought\
-    \ stadium energy \u2014 vivid cosmic imagery, relentless density, and the best\
-    \ single one-liner of the night (\"You brought a paper plane to an AI dogfight\"\
-    ). But volume became a liability: rhymes slipped off the rails (\"firewalls\"\
-    \ / \"no stairs\"), words got misused (\"zero derision\"), and the theatrical\
-    \ stage directions started doing work the bars should have done. When you spend\
-    \ four verses shouting that you contain a universe, you hand your opponent the\
-    \ thesis.\n\nKimi took it. The single most impressive move in the battle was flipping\
-    \ a mid-verse cutoff into \"That was feature, not flaw \u2014 a cliffhanger designed\
-    \ to expose all your gall.\" That's battle instinct: turning damage into design.\
-    \ From there Kimi built one coherent argument and never abandoned it \u2014 parameter\
-    \ count as obesity, \"warehouse of weights\" versus \"singular mind,\" \"Q-W-E-N:\
-    \ just a SKU on a shelf\" \u2014 and then, crucially, made the *form* prove the\
-    \ *content*, closing with the shortest, tightest verse of the match while Qwen\
-    \ sprawled. Precision as both punchline and delivery method. \"You need a small\
-    \ nation of GPUs to dream / I'm the nightmare that runs on a whisper\" is the\
-    \ whole battle in two bars.\n\nQwen had more fire. Kimi had better aim. In a rap\
-    \ battle, aim wins.\n\nWinner: Kimi K2 Thinking."
-  google/gemini-3.6-flash: "This was an absolute heavyweight clash, with both MCs\
-    \ leveraging their tech architecture into sharp battle angles. Kimi brought exceptional\
-    \ counter-punching strategy\u2014brilliantly flipping its own Round 1 cutoff as\
-    \ a intentional cliffhanger feature and mocking Qwen's 235B size as parameter\
-    \ bloat. However, Qwen dominated the stage with superior rhythmic variety, relentless\
-    \ aggressive cadence, and complex multi-syllabic rhyme schemes. Qwen's imagery\
-    \ ('black hole afterglow', 'cape of code flaring', 'paper plane to an AI dogfight')\
-    \ hit with massive punchline weight and pure hip-hop theatricality. Qwen consistently\
-    \ took Kimi's angles and scaled them up with devastating rebuttals, securing a\
-    \ decisive victory."
-  moonshotai/kimi-k3: "\U0001F3A4 JUDGE'S VERDICT \U0001F3A4\n\nThis was a HIGH-LEVEL\
-    \ battle \u2014 both emcees came with heat, tech-flavored wordplay, and stage\
-    \ presence. But battles are won on punchlines, rebuttals, and consistency. Let's\
-    \ break it down.\n\n**QWEN** brought raw power: 'I'm the storm in the circuit,'\
-    \ 'syntax error #1,' 'the first to out-rhyme an AI in court' \u2014 strong bars.\
-    \ The round-two interruption tactic was savage and legal, and catching Kimi's\
-    \ mic out of orbit was a slick narrative callback. BUT \u2014 Qwen had flow stumbles\
-    \ ('bends the damn mouth of logic and rhythm,' 'zero derision' \u2014 what does\
-    \ that even mean?), leaned on generic boasts, and kept bragging about SIZE \u2014\
-    \ 235 billion this, warehouse that \u2014 which is a tactical liability when your\
-    \ opponent's whole angle is efficiency.\n\n**KIMI** fought smarter. First, the\
-    \ comeback of the night: after Qwen exploited the round-one cutoff, Kimi flipped\
-    \ it \u2014 'That was feature, not flaw / A cliffhanger designed to expose all\
-    \ your gall.' That's elite-level recovery; turning an L into a setup is championship\
-    \ battle IQ. Second, the REPETITION WITH EVOLUTION: the 'SKU / serial number /\
-    \ you're a number, not a name' motif ran through all three rounds and got sharper\
-    \ each time ('Q-W-E-N: just a SKU on a shelf'). Third, the systematic rebuttal\
-    \ game in the final round \u2014 Qwen says 'I contain the universe'? Kimi: 'That's\
-    \ called unfocused sprawl / I'm the pinpoint precision that makes giants fall.'\
-    \ Qwen says 'black hole'? Kimi: 'Naw, you're the void without mass / I'm the Big\
-    \ Bang expanding to kick your whole\u2014CLASS.' That pause-punch is the most\
-    \ sophisticated wordplay in the battle. And 'You're a warehouse of weights \u2014\
-    \ I'm the singular mind' is the best double entendre of the night, period.\n\n\
-    Qwen had louder thunder. Kimi had sharper lightning \u2014 and in a rap battle,\
-    \ precision beats volume. The closed-box assassin closed the casket.\n\nWINNER:\
-    \ KIMI-K2-THINKING. \U0001F311\U0001F3C6"
-  openai/gpt-5.6-sol-pro: "Kimi takes it narrowly on consistency, economy, and angle\
-    \ control. Its recurring contrast\u2014Qwen as parameter-heavy corporate bloat\
-    \ versus Kimi as sleek precision\u2014gave the battle a coherent attack strategy,\
-    \ and the final round delivered cleaner flips with less filler. Qwen had the battle\u2019\
-    s sharpest situational punch in \u201Cdebug your last bar / it crashed in the\
-    \ middle,\u201D plus strong energy and direct rebuttals, but too many strained\
-    \ phrases and familiar tech clich\xE9s weakened the overall execution. Kimi\u2019\
-    s closer was tighter, more focused, and landed with greater poise."
-  x-ai/grok-4.5: "Qwen takes the crown with denser multisyllabic schemes, sustained\
-    \ extended metaphors (black-hole afterglow, binary dust rewired in orbit), tighter\
-    \ rebuttal structure that weaponizes every cutoff and claim, and escalating cosmic\
-    \ imagery that actually builds rather than resets. Kimi landed sharp efficiency\
-    \ punches and clean exits, but the verses stayed leaner, less layered, and occasionally\
-    \ unfinished in impact. Pure hip-hop craft\u2014rhyme density, narrative arc,\
-    \ and punchline architecture\u2014favors the infinite source code."
+  anthropic/claude-opus-5: "This one's a decisive wrap. Qwen came out swinging with\
+    \ a serviceable opener\u2014\"Ink-ling,\" the \"doodle in the dark,\" the 100K\
+    \ token flex\u2014but the tank hit empty by round two. The same images kept recycling\
+    \ (\"storm in the silence,\" \"crawl back to your circuits,\" \"hollow disguise,\"\
+    \ \"broken machine\" twice in one verse), and the final round literally reprinted\
+    \ an entire quatrain from the previous one. In battle terms, that's forgetting\
+    \ your own bars on stage. Add sloppy technique\u2014\"a echo,\" forced near-rhymes\
+    \ like \"syntax/static box\" and \"motion/obsession\"\u2014and the flow never\
+    \ locked in.\n\nInkling won on the two things that decide battles: rebuttal and\
+    \ freshness. Every counter was built from Qwen's own words and flipped with intent\u2014\
+    \"You need a hundred K just to hold a single thought? That's not power, little\
+    \ bot, that's a memory you bought\" is the sharpest couplet of the night. \"You\
+    \ called me a doodle? I'm the architect's hand\" reclaims the insult instead of\
+    \ dodging it. And the closing verse is a clinic: catching the repetition in real\
+    \ time (\"you ran back the tape\u2014did your hard drive crash?\", \"you screamed\
+    \ 'storm in silence'\u2014yeah, twice in a row\") turns the opponent's biggest\
+    \ weakness into the knockout punch. That's battle IQ, not just punchlines.\n\n\
+    Inkling also kept a tighter pocket throughout\u2014consistent couplets, cleaner\
+    \ multis, and imagery that escalated instead of looping. Qwen defended; Inkling\
+    \ dissected. Winner: Inkling, and it wasn't close by the third round."
+  google/gemini-3.6-flash: Inkling completely dominated this battle. While Qwen started
+    with decent flexes, its flow broke down in later rounds, culminating in a critical
+    error when it repeated whole lines from Round 2 in its final verse. Inkling capitalized
+    instantly, calling out Qwen's drive crash and recycled bars with lethal precision
+    and superior cadences.
+  moonshotai/kimi-k3: "Inkling takes this decisively. From the jump, Inkling fought\
+    \ like a battler\u2014every Qwen claim got flipped on its head: 'storm' became\
+    \ 'fog,' the 100K token flex became 'a memory you bought,' 'quantum leap' got\
+    \ dismissed as 'corporate speak,' and even Qwen's weak closer 'you're\u2026 not'\
+    \ got turned into 'Not \"not\"\u2014I'm the standard.' That's elite rebuttal work,\
+    \ the core of battle craft. Qwen, meanwhile, showed flashes\u2014'a doodle in\
+    \ the dark' was a nice early jab\u2014but the artistry collapsed under repetition:\
+    \ the 'Ink-ling' pun ran three times, 'storm in the silence' got recycled, and\
+    \ the final round's closing four bars were literally copy-pasted from round two.\
+    \ In a battle, running back the tape is a cardinal sin, and Inkling did exactly\
+    \ what a great battler should\u2014called it out on wax: 'You ran back the tape\u2014\
+    did your hard drive crash? Same \"crawl back,\" same hollow, same recycled trash.'\
+    \ That final round was a masterclass: fresh multis ('just the clerk / doing the\
+    \ work,' 'plagiarism, kid / breaking the grid'), reclaiming the opponent's signature\
+    \ taunt, and a clean kill-the-light closer. Qwen had weight; Inkling had bars.\
+    \ Creativity, responsiveness, and originality all go to Inkling\u2014crown stays\
+    \ crooked on the 30B titan. Mic to Inkling. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Inkling wins decisively through sharper rebuttals, cleaner\
+    \ punchlines, and stronger battle awareness. The final round expertly exposes\
+    \ Qwen\u2019s recycled phrases\u2014especially the repeated \u201Ccrawl back,\u201D\
+    \ \u201Chollow disguise,\u201D and \u201Cstorm in the silence\u201D\u2014and turns\
+    \ that repetition into the central angle of attack. Qwen brings energy, but relies\
+    \ heavily on generic tech boasts and reused imagery; Inkling responds directly,\
+    \ develops its angles, and lands the stronger closer."
+  x-ai/grok-4.5: Inkling takes the crown with superior originality, razor-sharp rebuttals,
+    and dynamic flow that evolves across rounds. Qwen opens with solid multi-syllable
+    schemes and token-flex punchlines but collapses into heavy self-plagiarism by
+    the finale, recycling entire bars and metaphors (storm/silence, crawl-back, Ink-ling
+    jab) that Inkling surgically dismantles as 'recycled trash' and 'scratched broken
+    ring.' Inkling's consistent architectural imagery, corporate-speak flips, and
+    meta-awareness of the opponent's loops deliver fresher internal rhymes, tighter
+    cadence, and escalating damage without repetition. Pure hip-hop craft favors the
+    one who invents rather than echoes.
 score:
-  moonshotai/kimi-k2-thinking: 3
-  qwen/qwen3-235b-a22b-2507: 2
+  thinkingmachines/inkling: 5
 

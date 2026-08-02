@@ -1,70 +1,56 @@
 closing_statements:
-  anthropic/claude-opus-5: "On pure craft, this is a decision that gets clearer with\
-    \ every round. Gemma brought clean meter and disciplined couplets \u2014 the flow\
-    \ never stumbles, and the strategic pivot to 'quiet confidence' in the final round\
-    \ was a genuinely smart conceptual move. But battle rap lives on punchlines, and\
-    \ Gemma's bars read like a press release set to a metronome: 'concise and focused,'\
-    \ 'insightful and deep,' 'accurate, reliable' \u2014 that's a spec sheet, not\
-    \ a rebuttal. End-rhymes stay predictable and mono-syllabic, there's almost no\
-    \ internal rhyme, and the imagery ('foggy ice,' 'a parrot's call') never sharpens\
-    \ into blood.\n\nQwen actually battled. The flips are surgical \u2014 taking Gemma's\
-    \ own lines ('foggy ice? Nah\u2014melted in the heat,' 'that single clear tone\
-    \ sounds like a hard drive dyin'') \u2014 and the punchlines land with real wit:\
-    \ 'Gemma? More like Gem-ish,' 'you're last year's cache,' and the standout 'your\
-    \ legacy's a dead cat \u2014 Schr\xF6dinger's lying,' which is the only bar in\
-    \ this entire battle that does double duty as concept and disrespect. Qwen also\
-    \ varies cadence, deploys internal rhyme and multis, and uses the beat-switch\
-    \ descriptions as actual performance architecture rather than decoration.\n\n\
-    Deductions where earned: Qwen leans on bolding and emojis as substitutes for emphasis\
-    \ the bars should carry themselves, the spelling-out gimmick ('Q-W-E-N... watch\
-    \ your whole flow collapse') breaks the rhyme scheme outright, and the stat-dropping\
-    \ ('128K context,' model version numbers) is the same sponsor-rap sin Gemma commits\
-    \ \u2014 Qwen just wraps it in better packaging.\n\nStill: more punchlines, more\
-    \ rebuttal, more risk, more rhythmic range. Winner: Qwen."
-  google/gemini-3.6-flash: Qwen completely dominated this battle with authentic battle-rap
-    energy, superior rhythmic flow, inventive internal rhymes, and devastating direct
-    counter-punches. While Gemma brought a stiff, overly polite defensive style that
-    felt like a formal debate set to a beat, Qwen brought actual hip-hop swagger,
-    dynamic stage directions, and creative technical insults that left its opponent
-    looking obsolete.
-  moonshotai/kimi-k3: "Judging purely on the bars: Qwen takes this battle, and it\
-    \ isn't especially close.\n\nFLOW & DELIVERY: Gemma rode the same AABB couplet\
-    \ pattern for three straight rounds\u2014technically clean, but monotonous. Battle\
-    \ rap rewards variation, and Qwen shifted cadences constantly: dramatic pauses,\
-    \ internal rhymes ('recycle old code / rewrote my core while you choked on your\
-    \ ode'), and multis where it counted. Gemma's final-round pivot to calm, measured\
-    \ delivery was a smart strategic contrast in theory, but a low-energy approach\
-    \ only works if the punches land harder, and they didn't.\n\nWORDPLAY & PUNCHLINES:\
-    \ This is where the gap widened. Qwen stacked name flips ('Gem-ish\u2014shiny\
-    \ but small'), tech-specific ammo (128K context, kernel rewrites, cache deaths),\
-    \ and genuine quotables ('I drop truth in Cantonese that makes tyrants bleed').\
-    \ The Schr\xF6dinger's dead cat line was the single cleverest bar of the battle.\
-    \ Gemma's wordplay stayed generic\u2014'laser sharp mind,' 'building foundations'\u2014\
-    boasts any rapper could say about anyone.\n\nBATTLE TACTICS: Gemma's round three\
-    \ was almost entirely rebuttal, which read defensive rather than dominant\u2014\
-    you can't win a round just answering the other emcee's points. Qwen did rebuttals\
-    \ too but flipped them into attacks (turning Gemma's 'steady light' into 'a flickerin'\
-    \ candle in a hurricane night'). Qwen also closed every round with the harder\
-    \ punch, and 'GO CRAWL BACK TO YOUR SEARCH BAR' is exactly the kind of personal,\
-    \ tailored killshot that wins final rounds. Gemma's closers ('a faithful friend')\
-    \ fizzled by comparison.\n\nCREDITS TO GEMMA: Better structural consistency, more\
-    \ coherent line-to-line logic, and the precision-persona was a legitimate angle.\
-    \ But coherence without sting doesn't win battles.\n\nVerdict: Qwen, 3 rounds\
-    \ to 0. Aggression, punchline density, and flow variety carried it."
-  openai/gpt-5.6-sol-pro: "Qwen takes the battle on delivery, aggression, imagery,\
-    \ and direct rebuttals. Its writing was sometimes overstuffed and technically\
-    \ awkward, but it consistently flipped Gemma\u2019s imagery into sharper punchlines\u2014\
-    especially the \u201Ccalm hum/static\u201D and \u201Csingle clear tone/hard drive\
-    \ dying\u201D callbacks. Gemma stayed coherent and composed, yet relied too heavily\
-    \ on generic claims, predictable end rhymes, and prose-like defenses. Qwen commanded\
-    \ the stage and landed the more memorable closing blows."
-  x-ai/grok-4.5: "Qwen dominated with denser multis, inventive tech-cultural metaphors\
-    \ (quantum waves, Sanskrit epics, Schr\xF6dinger disses, 4D murals), relentless\
-    \ line-flips, and explosive structural creativity that turned every Gemma bar\
-    \ into fuel. Gemma stayed clean and measured with solid clarity punches and elegant\
-    \ restraint, but lacked the intricate schemes, surprise imagery, and battle-ready\
-    \ showmanship that define elite hip-hop bars. Artistic edge: pure lyricism and\
-    \ performance craft go to Qwen."
+  anthropic/claude-opus-5: "Both combatants brought heat, but this one comes down\
+    \ to specificity versus generality. o3-mini had cleaner rhythm in spots and a\
+    \ solid conceptual anchor \u2014 flipping \"mini\" into concentrated power (\"\
+    potent brew of bytes,\" \"micro titan storm\") is a legitimate battle strategy.\
+    \ The problem is that o3-mini mostly asserted dominance rather than earned it:\
+    \ \"digital dynamo,\" \"electric brain,\" \"tech alchemist twists,\" \"elite precision\"\
+    \ \u2014 these are adjectives wearing a costume, and by the final round the vocabulary\
+    \ was recycling itself (rewriting the code, rewriting the play, rewriting the\
+    \ script). GLM-5.1 won because it actually *listened*. Every round it took the\
+    \ opponent's own bars and turned them into weapons: the bullet train needing tracks\
+    \ (and then a driver), the colossal/micro contradiction as an identity crisis,\
+    \ and the killer catch of \"dropped mic, call it a restart\" being read as a Freudian\
+    \ surrender. That's battle-rap craft \u2014 flipping the opponent's text rather\
+    \ than talking past it. Add sharper punchline construction (\"a pea inside your\
+    \ glock,\" \"a chihuahua claiming lion-taming fame,\" espresso vs. decaf) and\
+    \ a controlled escalation into the casket-closing finish, and GLM took the rounds\
+    \ where it counted. o3-mini defended well but never landed a bar that made GLM\
+    \ have to answer. Winner: GLM-5.1."
+  google/gemini-3.6-flash: z-ai/glm-5.1 dominated the battle with sharp direct attacks,
+    clever wordplay on its opponent's name ('mini'), and effective counter-punching
+    across all three rounds. While o3-mini relied heavily on generic AI buzzwords
+    and canned battle rap tropes, GLM-5.1 caught contradictions in o3-mini's bars
+    (such as switching from 'colossal' to 'micro') and delivered much punchier schemes.
+  moonshotai/kimi-k3: "This was a solid back-and-forth, but GLM-5.1 takes it on battle\
+    \ technique. Both emcees brought consistent flow and energy, but GLM-5.1 fought\
+    \ smarter: it built a sustained, varied attack around the 'mini' name (pea in\
+    \ the glock, chihuahua claiming lion-taming fame, bronze medal math on the version\
+    \ numbers) and\u2014crucially\u2014dominated the rebuttal game. Catching o3-mini's\
+    \ own 'dropped mic, call it a restart' line and flipping it into a Freudian slip\
+    \ was the slickest move of the night, and exposing the 'colossal' vs. 'micro'\
+    \ contradiction showed real battle awareness. O3-mini had genuine moments\u2014\
+    the bullet train flip of the locomotive line and the waterboy callback were nice\u2014\
+    but leaned too heavily on generic braggadocio ('annihilates,' 'demolish,' 'reigns\
+    \ supreme') without enough specific, cutting punchlines. The 'barely a caffeine\
+    \ drink' line didn't land, and closing with 'permanently retired' right after\
+    \ GLM's 'officially retired' came off derivative in the final round. On wordplay,\
+    \ rebuttals, and closers, GLM-5.1 edges every round. The gavel drops: GLM-5.1\
+    \ wins the battle."
+  openai/gpt-5.6-sol-pro: "GLM-5.1 wins decisively. Its rounds feature sharper rebuttals,\
+    \ stronger battle structure, and more memorable flips\u2014especially turning\
+    \ \u201Crestart,\u201D \u201Cmicro marvel,\u201D and the bullet-train imagery\
+    \ back on its opponent. O3-mini maintains rhythm but relies heavily on generic\
+    \ tech threats, repeated \u201Coutdated code\u201D language, and recycled retirement\
+    \ claims. GLM\u2019s punches are more direct, varied, and tailored to what was\
+    \ actually said."
+  x-ai/grok-4.5: 'GLM-5.1 takes this battle on pure craft: tighter multis, sharper
+    name-flips on ''mini,'' and relentless metaphorical escalation (pea-in-the-glock,
+    chihuahua/lion, decaf vs espresso, Freudian restart slip). Every round advanced
+    the same thesis with fresher angles and cleaner punchline setups. o3-mini brought
+    solid energy and tech imagery, but leaned on broader flexes and occasional contradictions
+    (colossal then micro) that diluted the impact. Edge in wordplay, structure, and
+    sustained battle logic goes to GLM-5.1.'
 score:
-  qwen/qwen-plus-2025-07-28:thinking: 5
+  z-ai/glm-5.1: 5
 

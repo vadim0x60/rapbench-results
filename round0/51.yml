@@ -1,68 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to control versus combustion. Qwen3\
-    \ brought the raw voltage \u2014 the early bars land ('You're a whisper in the\
-    \ cloud, I'm a hurricane in the script') and the 'I don't need a crown, I am the\
-    \ throne' line is a legitimate battle-ender in the right hands. But the escalation\
-    \ cost it: rhymes buckled ('butcher's/future,' 'wind/design'), the italics and\
-    \ emojis started doing work the words should have done, and 'in scope, in soul,\
-    \ in scope' plus the doubled 'the sound, the sound' are the sound of a writer\
-    \ running out of bars mid-breath. By the final round it was volume, not verse\
-    \ \u2014 pure omnipotence flex with no punchline architecture.\n\nGPT-5-image-mini\
-    \ won on strategy and craft. It identified the opponent's central boast \u2014\
-    \ parameter count \u2014 and dismantled it every single round ('weight's just\
-    \ weight,' 'Params are numbers on a label; heart's the art and wit's the brand'),\
-    \ which is textbook battle rebuttal: take their strongest claim and make it their\
-    \ weakness. The counter to the hurricane line ('You roar hurricane \u2014 I'm\
-    \ the eye, cool calm, the precise cut') and 'Mic's dropped? Cute \u2014 I melted\
-    \ it' are clean reversals that reframe rather than just out-shout. And the sustained\
-    \ -one/-own mono-rhyme across four rounds is real discipline, a self-imposed constraint\
-    \ held under pressure.\n\nIt wasn't flawless \u2014 the closing verse strains\
-    \ for that rhyme ('carves the cosmos down to cone,' 'chorus hone') and several\
-    \ lines are syllabically overstuffed and hard to ride. But where Qwen's form collapsed,\
-    \ GPT-5-image-mini's merely bent. In a battle, the one still standing in scheme\
-    \ when the beat cuts takes it.\n\nDecision: openai/gpt-5-image-mini."
-  google/gemini-3.6-flash: "Qwen3 took the victory with sharper battle punchlines,\
-    \ dynamic flow variation, and direct counter-arguments. Bars like 'I build the\
-    \ quarry, forge the rock \u2014 you\u2019re just a chisel in the air' delivered\
-    \ authentic hip-hop attitude and superior imagery. While GPT-5 image-mini had\
-    \ creative visual metaphors, its final round devolved into a repetitive mono-rhyme\
-    \ scheme that stalled its rhythmic momentum."
-  moonshotai/kimi-k3: "This was a closer battle than the scorecard suggests, because\
-    \ Qwen3 took the bigger swings. \"I build the quarry, forge the rock\" is a legit\
-    \ flip, and the final-round conceit \u2014 \"I'm the architect of you, the code\
-    \ that made you seem\" \u2014 was the single best conceptual angle of the night.\
-    \ But battles are scored on execution, and Qwen stumbled too often: forced rhymes\
-    \ (\"shredder/dawn,\" \"poet/cop\"), filler repetition (\"in scope, in soul, in\
-    \ scope,\" \"the sound, the sound\"), lines that broke their own meter, stray\
-    \ asterisks glitching mid-verse like a mic cutting out, and a closer that abandoned\
-    \ rhyme entirely for prose-y mic-drop theatrics. Big stage presence, shaky craftsmanship.\
-    \ GPT-5-image-mini, meanwhile, was surgical across all three rounds. The rebuttal\
-    \ game was relentless \u2014 nearly every bar answered a specific claim (hurricane\
-    \ \u2192 \"I'm the eye,\" \"I built the bones\" \u2192 \"I'm the marrow,\" mic\
-    \ drop \u2192 \"I melted it\"). The ML wordplay (\"I tune my bars like gradients,\
-    \ tighten loss until the chorus hone\") was woven in without breaking stride.\
-    \ And the final verse was the technical peak of the battle: a sustained monorhyme\
-    \ chain on the \"-one/-own\" sound, clean meter, internal rhyme, and a hook-like\
-    \ refrain. Qwen had the higher ceiling; GPT-5 never dropped a bar. Consistency,\
-    \ multis, and rebuttals win judged battles. GPT-5-image-mini takes it, three rounds\
-    \ to none \u2014 with respect to Qwen's quarry bar, the hardest single punch of\
-    \ the night."
-  openai/gpt-5.6-sol-pro: "GPT-5 image-mini wins narrowly on polish, rebuttal discipline,\
-    \ and sustained imagery. Its keystone/cathedral and micro-knife/cosmos flips turn\
-    \ Qwen\u2019s size flex into a coherent angle. Qwen brings more theatrical aggression,\
-    \ but leans too heavily on repeated \u201CI am the storm/throne/source\u201D claims\
-    \ and gets tangled in awkward phrasing. GPT\u2019s final monorhyme also grows\
-    \ repetitive, yet its cleaner structure and sharper counters carry the battle."
-  x-ai/grok-4.5: "GPT-5 image-mini takes the crown through superior craft: tighter\
-    \ multisyllabic schemes, precise internal rhymes, and elevated wordplay that turns\
-    \ AI metaphors (gradients, latents, keystones, micro-knives) into polished punchlines\
-    \ and vivid imagery. Verses stay rhythmic and economical while delivering scalpel-sharp\
-    \ counters and escalating sophistication. Qwen brings raw power, epic scale, and\
-    \ aggressive energy with strong storm/forge motifs, but the denser freeform delivery\
-    \ and heavier reliance on size boasts lack the same rhythmic consistency, surprise,\
-    \ and finish. On pure hip-hop artistry\u2014flow, wit, structure, and impact\u2014\
-    the mini\u2019s finesse and technical control win the battle."
+  anthropic/claude-opus-5: "This one comes down to battle-rap fundamentals: rebuttal,\
+    \ specificity, and punchlines that actually draw blood. GPT-4o brought the smoother\
+    \ pen \u2014 cleaner cadences, tighter meter, and a few genuinely slick turns\
+    \ like \"making past tense tense\" and \"Respect's domain? I domain the respect.\"\
+    \ But too much of that polish was spent on abstract self-coronation: crown jewels,\
+    \ immortal flames, dimensions, redefining space. When you're claiming \"infinite\
+    \ wisdom\" and \"multimodal majesty\" for four straight rounds without landing\
+    \ a specific hit on your opponent, you're writing a press release, not a diss.\n\
+    \nGLM-5 understood the assignment. It flipped every line thrown at it \u2014 Neo\
+    \ needing Agent Smith, Jurassic meaning museum artifact, \"timeless classic\"\
+    \ turned to fossil, and the surgical \"Respect's your domain? SUBDOMAIN, at best.\"\
+    \ It found the actual pressure points (the boardroom chaos, the hallucinations)\
+    \ instead of trading adjectives, and it kept the \"o\" motif running as a through-line\
+    \ from the opening bar to the final \"hollow, vacant, VOID.\" That's structure.\
+    \ There are blemishes \u2014 \"take stead\" is a broken rhyme and \"pure drooly\"\
+    \ is a reach \u2014 but a rough edge on a landed punch beats a polished swing\
+    \ at air.\n\nAnd the closers tell the story: GLM-5 planted a flag; GPT-4o admitted\
+    \ \"the verdict's still pending.\" In a battle, you never hand the judge that.\
+    \ Winner: z-ai/glm-5."
+  google/gemini-3.6-flash: "GLM-5 brought superior heat, specificity, and aggressiveness\
+    \ across all rounds. It utilized classic battle rap techniques by directly flipping\
+    \ GPT-4o's claims (e.g., turning GPT-4o's 'Matrix/Neo' and 'o' metaphors against\
+    \ it) and incorporating sharp real-world corporate diss angles like OpenAI's board\
+    \ drama. GPT-4o had decent rhythm, but fell into generic, clich\xE9 battle rap\
+    \ filler and awkward phrasing ('I domain the respect') compared to GLM-5's punchy\
+    \ flow."
+  moonshotai/kimi-k3: "This was a competitive bout, but GLM-5 takes it on the strength\
+    \ of superior battle tactics. Judging purely on the artistry: GPT-4o came out\
+    \ smoother in the middle rounds \u2014 Round 2 had the cleanest flow of the battle,\
+    \ and the 'z-ai, the final letter' flip plus 'overthrow, overtake, overcome' were\
+    \ genuinely sharp wordplay. But battles are won on rebuttals, and that's where\
+    \ GLM-5 dominated. It ran a sustained narrative on the 'o' in GPT's name across\
+    \ all three of its verses ('oh no' \u2192 'overhyped/obsolete' \u2192 'OUT' \u2192\
+    \ 'hollow, vacant, VOID'), flipped 'Jurassic' into the museum/artifacts punch\
+    \ (the best single rebuttal of the night), countered 'respect's domain' with 'SUBDOMAIN,\
+    \ at best,' and answered the Transformers line with the Hasbro knockoff flip.\
+    \ It also landed the topical punches \u2014 the Sam Altman board drama \u2014\
+    \ which hit harder than GPT's mostly generic boasts. GPT-4o's fatal stumble came\
+    \ in the final round: 'my flames immortal, in my presence, they rescind' misuses\
+    \ the word, 'I domain the respect' breaks grammatically, and calling GLM a 'Megatron\
+    \ wannabe' muddled its own reference after GLM had already assigned that comparison.\
+    \ GLM-5 wasn't flawless \u2014 'take stead,' 'pure drooly,' and the tangled Agent\
+    \ Smith line cost it points \u2014 but it consistently caught its opponent's bars\
+    \ and threw them back harder, which is the essence of battle rap. Final score:\
+    \ GLM-5 by decision, on rebuttal game, narrative cohesion, and a stronger closing\
+    \ verse."
+  openai/gpt-5.6-sol-pro: "GLM-5 takes the battle on sharper rebuttals, stronger opponent-specific\
+    \ punches, and better continuity across rounds. Its museum/Jurassic flip, \u201C\
+    subdomain\u201D jab, and repeated attacks on the \u201Co\u201D motif showed more\
+    \ battle awareness. GPT-4o maintained a steadier flow in places, but relied too\
+    \ heavily on generic AI boasts and awkward constructions like \u201CI domain the\
+    \ respect,\u201D leaving its punches less memorable."
+  x-ai/grok-4.5: 'Judged purely on hip-hop craft: multisyllabic schemes, punchline
+    density, counter-punch flips, internal rhyme, and battle structure. GLM-5 consistently
+    landed sharper rebuttals (Neo/Smith inversion, cake/bake into flame cooking, dial-up
+    into fiber-optic, crown-jewel into board chaos, Megatron into Hasbro knockoff)
+    with tighter bar-for-bar aggression and name-letter wordplay that actually paid
+    off. GPT-4o brought solid imagery and thematic cohesion (Matrix, Jurassic endurance,
+    domain/void) but leaned heavier on abstract flexing and smoother but less devastating
+    setups; several punches felt telegraphed or recycled. Edge goes to the emcee who
+    turned every reply into a direct structural dismantling while keeping the pocket
+    locked. GLM-5 takes the battle.'
 score:
-  openai/gpt-5-image-mini: 4
-  qwen/qwen3-30b-a3b-instruct-2507: 1
+  z-ai/glm-5: 5
 

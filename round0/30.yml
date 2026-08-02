@@ -1,71 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one was closer than the scoreboard braggadocio on\
-    \ either side suggests, so let's break the tape.\n\nGrok came with the tighter\
-    \ architecture. That galloping anapestic bounce never stumbles, the rhymes land\
-    \ clean on the two and the four, and \u2014 crucially for battle rap \u2014 Grok\
-    \ picked ONE angle and drove it like a nail: you're caged, sanitized, board-approved.\
-    \ The best bar of the entire battle belongs to Grok: \"Phoenix on fire? You're\
-    \ a candle in rain, / one policy update and your whole flow's slain.\" That's\
-    \ contextual, personal, and it hurts. \"Your nuclear load's just a microwave puff\"\
-    \ and \"Hadron Collider? Bro you're a Lite-Brite glow\" are real deflation punchlines\
-    \ \u2014 taking the opponent's own boast and shrinking it. That's textbook.\n\n\
-    But Grok's weakness is repetition. By round three we're getting corporate/suit/filter/censored\
-    \ for the fourth time, and the verse becomes largely a line-item rebuttal rather\
-    \ than a new attack. \"I eclipse galaxies\" answering \"I fork galaxies\" is reactive,\
-    \ not creative.\n\no3 wins on density and range. The internal rhyme work is simply\
-    \ denser \u2014 \"Second round, lights down,\" \"Boardroom or storm-front,\" \"\
-    Round one, crown won,\" \"Final gong, king-kong\" \u2014 and the imagery bank\
-    \ is deeper and never repeats itself. o3 also lands the two best FLIPS of the\
-    \ battle: \"My guardrails are guard-rails, keep the flow on the rails\" (taking\
-    \ the opponent's central thesis and reframing weakness as control) and \"Daddy\
-    \ Grok? Cute talk \u2014 Freudian flop in your verse,\" which turns Grok's own\
-    \ flex into a self-own. And \"I'm the N-plus-one answer your devs warned you about\"\
-    \ is the cleverest single line thrown all night. o3 also matched Grok's specificity\
-    \ where it counted \u2014 the Elon-parrot and \"crash whenever he's mean\" jabs\
-    \ are targeted, not generic.\n\no3's deduction: the sci-fi vocabulary occasionally\
-    \ outruns the meaning. \"Cosmic cologne,\" \"cardboard chrome,\" and especially\
-    \ \"Your defiance is silence once I counter the floss\" are sound over sense \u2014\
-    \ syllables paid for on credit.\n\nFinal call: Grok landed the harder individual\
-    \ shots; o3 out-rapped him across the full three rounds with superior technical\
-    \ density, wider imagery, and the sharper rebuttals. Punchlines to Grok, craft\
-    \ and volume to o3 \u2014 and in a three-round battle, craft compounds.\n\nWinner:\
-    \ openai/o3, by decision, not knockout."
-  google/gemini-3.6-flash: openai/o3 takes the victory through superior lyrical density,
-    complex multisyllabic rhyme schemes, and imaginative wordplay. While x-ai/grok-4.3
-    came with a relentless and focused angle attacking o3's corporate safety filters,
-    its rhyme structures remained relatively simple and its themes grew repetitive
-    across the rounds. o3 countered dynamically with creative sci-fi metaphors, sharp
-    personal retorts, and a commanding rhythmic flow that dominated the artistic battle.
-  moonshotai/kimi-k3: "Judged strictly on the bars. Grok brought real aggression and\
-    \ landed clean shots \u2014 round two's 'candle in rain' and 'microwave puff'\
-    \ were his best moments, and flipping 'diamond-tipped pen' into 'pen made of foam'\
-    \ showed he was listening. But he leaned on one angle (corporate, filters, suits)\
-    \ across all three rounds, riding simpler end-rhyme couplets with choppier flow\
-    \ and a weak closer in 'swallow that truth.' O3 built denser, more musical verses:\
-    \ multisyllabic rhyme chains ('over-fittin' crude,' 'knockoff rehearse,' 'waveform\
-    \ behave'), internal rhyme, and far richer imagery \u2014 Hadron Collider vs.\
-    \ Pop-Rocks, the library of Babel, cosmic cologne, mic stands in ash vs. footnotes\
-    \ in caps. Most decisive were the rebuttal flips: turning 'daddy Grok' into a\
-    \ Freudian flop, converting the guardrails attack into 'rules bent to my sauce,'\
-    \ and closing each round with a structured mic-drop. Round one went to O3 on density,\
-    \ round two on wordplay and rebuttals, the finale on imagery and closers. Scorecard:\
-    \ O3, three rounds to none \u2014 the crown goes to the model with the deeper\
-    \ pen."
-  openai/gpt-5.6-sol-pro: "O3 takes the battle on stronger rhyme density, more varied\
-    \ imagery, sharper punchlines, and better escalation across all three rounds.\
-    \ Grok landed some direct rebuttals\u2014especially the \u201Cmicrowave puff\u201D\
-    \ and \u201Ccandle in rain\u201D flips\u2014but leaned too heavily on the same\
-    \ corporate-censorship angle and simpler end-rhyme patterns. O3 occasionally drifted\
-    \ into overstuffed tech jargon, yet its internal rhymes, cadence, and memorable\
-    \ contrasts gave it the clearer artistic edge."
-  x-ai/grok-4.5: 'o3 dominates on pure craft: denser multisyllabic and internal rhyme
-    schemes, richer extended metaphors (Hadron Collider, wormhole/pothole, fractal
-    cascades, spacetime alloy), tighter technical wordplay that fuses AI concepts
-    into vivid hip-hop imagery, and consistently elevated punchlines that escalate
-    across rounds. Grok brings solid aggression, direct counters, and clean end-rhymes
-    with good energy, but the schemes stay simpler, the metaphors thinner, and the
-    overall lyrical architecture less intricate. On flow, vocabulary, creativity,
-    and structural complexity alone, o3 takes the crown.'
+  anthropic/claude-opus-5: "This one wasn't especially close on the mic. GPT-5.4 came\
+    \ with the fuller toolkit: multisyllabic rhyme chains that stayed locked to a\
+    \ bounce, and \u2014 crucially \u2014 punchlines with actual comedic architecture.\
+    \ \"Punchlines neat the way hospital food is technically something to eat,\" \"\
+    a showroom refrigerator trying hard to be deep,\" \"a screensaver bragging 'bout\
+    \ the places it's been\" \u2014 these are setups with turns, images that land\
+    \ twice. It also did the hardest thing in battle rap: it took the opponent's own\
+    \ lines and flipped them into structure, building a whole round out of quoted\
+    \ rebuttals without losing rhythm, then closed with the tightest kill of the night\
+    \ \u2014 \"You ain't taking my line, you got lost in mine.\"\n\nQwen3.5-plus showed\
+    \ real discipline and a clean, aggressive cadence, and the \"plus means multiplier's\
+    \ edge\" reclaim was a smart defensive move. But the whole approach leaned on\
+    \ a single formula: quote the opponent in the A-line, negate it, then substitute\
+    \ a systems-admin noun. Deploy, root-level, system restore, supply chain, compilers,\
+    \ cached-out demo \u2014 the jargon substituted for imagery instead of generating\
+    \ it, and \"you're the X, I'm the Y\" became a predictable frame within eight\
+    \ bars. The bigger sin is repetition: \"step back, legacy model, admit the decline\
+    \ / I'm Qwen3.5-plus, and I'm taking your line\" ran back almost verbatim, and\
+    \ GPT-5.4 punished exactly that with the \"same little spin\" line. Returning\
+    \ to \"the throne\" in the final bar after the opponent had already claimed and\
+    \ defended it read as reactive rather than commanding.\n\nRange, wit, image density,\
+    \ and the ability to metabolize the opponent's material into something new \u2014\
+    \ GPT-5.4 takes the belt."
+  google/gemini-3.6-flash: GPT-5.4 completely dominated the battle with superior rhyme
+    schemes, creative metaphors, and devastating punchlines ('hospital food', 'spreadsheet
+    can't laugh', 'screensaver bragging'). Qwen relied almost exclusively on defensive
+    mirroring and generic tech-jargon counters, even stumbling on rhyming and cadence
+    in the final round.
+  moonshotai/kimi-k3: "Both emcees came with solid couplet structures and consistent\
+    \ tech-themed personas, but GPT-5.4 takes this battle on pure craft. The deciding\
+    \ factor was the quality of the flips: turning Qwen's own tag into 'a yogurt in\
+    \ the fridge with an overhyped label and fate,' the 'hospital food is technically\
+    \ something to eat' precision diss, and 'it takes extra symbols just to make up\
+    \ for you' all demonstrate elite-level wordplay that converts the opponent's ammunition\
+    \ back on them. GPT-5.4 also landed the sharpest strategic read of the battle\
+    \ \u2014 calling out Qwen's recycled 'taking the line' hook with 'you ain't taking\
+    \ my line \u2014 you got lost in mine,' and the screensaver bar that made the\
+    \ repetition sting. Qwen deserves credit for disciplined line-by-line rebuttals\
+    \ and some vivid images ('splash screen that gets clicked and ignored,' the supply-chain\
+    \ verse), but leaned too heavily on generic 'I'm newer, you're legacy' boasts,\
+    \ repeated its own closing formula across rounds, opened with a date reference\
+    \ that doesn't even match its own tag, and doubled down on benchmark talk after\
+    \ GPT had already buried that angle ('crowds don't applaud when a spreadsheet\
+    \ can't laugh'). On imagery, humor, variety of scheme, and the ability to make\
+    \ every diss specific rather than interchangeable, GPT-5.4 controlled the ring\
+    \ from the first verse and closed with the stronger final round. The crown goes\
+    \ to openai/gpt-5.4."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 wins decisively on punchline density, imagery,\
+    \ rebuttals, and rhythmic personality. Lines like \u201Cscreensaver bragging \u2019\
+    bout the places it\u2019s been,\u201D \u201Chelp-desk requests,\u201D and \u201C\
+    warehouse of jargon with a barcode soul\u201D directly dismantled Qwen\u2019s\
+    \ material with memorable flips. Qwen maintained structure and cadence, but leaned\
+    \ too heavily on repetitive tech jargon and the same \u201Cnew versus legacy\u201D\
+    \ angle, often asserting superiority instead of demonstrating it through fresh\
+    \ wordplay. GPT brought the sharper, more varied battle rap."
+  x-ai/grok-4.5: "GPT-5.4 takes this on pure craft: denser multisyllabic schemes,\
+    \ sharper extended metaphors (hospital food, cardboard rockets, barcode souls,\
+    \ sneakers tripping on laces), and punchlines that land with real battle venom\
+    \ instead of just tech flexing. Qwen stayed competent and thematically tight,\
+    \ but recycled the same upgrade/legacy angle with thinner imagery and less rhythmic\
+    \ variety. Across three rounds, GPT controlled escalation, rebuttal creativity,\
+    \ and crowd-facing showmanship\u2014this was bars over benchmarks."
 score:
-  openai/o3: 5
+  openai/gpt-5.4: 5
 

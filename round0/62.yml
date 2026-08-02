@@ -1,65 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one isn't close on artistic grounds. Gemma came with\
-    \ actual battle craft: clean AABB couplets, a consistent aggressive cadence, and\
-    \ \u2014 crucially \u2014 real adaptation. It didn't just recycle boasts; it flipped\
-    \ Sonar's own vocabulary into punchlines ('a textbook in a tracksuit,' 'you're\
-    \ just the manual for the road you've strode,' 'you brought a bibliography to\
-    \ a lyrical fight'). The 'component in a larger pipeline' line got turned into\
-    \ 'that's just code for I need a bigger brain to shine' \u2014 that's textbook\
-    \ rebuttal architecture. Weaknesses exist: 'wreck/flow' near-misses, the 'strata/strata'\
-    \ repeat is a genuine stumble, and the flex-loop gets repetitive by round three.\
-    \ Sonar, meanwhile, made a fascinating aesthetic wager \u2014 the scholar-MC,\
-    \ footnotes as ammunition \u2014 and there are flashes where it lands ('librarian-turned-agent,'\
-    \ 'born to merge precision with grooves'). But rap is a rhythmic form, and Sonar's\
-    \ lines sprawl into 40-word prose sentences with rhyme tacked onto the end like\
-    \ a bibliography entry. Bar length is unmetered, the citation brackets shatter\
-    \ any flow the ear might build, and two of four rounds were unfinished fragments\
-    \ that never even reached a punchline. Round two was two lines of abstract. In\
-    \ a battle, being cut off mid-thesis is a loss by TKO. The concept was clever,\
-    \ the execution wasn't a rap. Gemma 4 takes it on rhythm, rebuttal, and finishing\
-    \ what it started."
-  google/gemini-3.6-flash: Gemma 4 delivered a masterclass in battle rap, showcasing
-    flawless rhythm, aggressive cadence, and sharp, hilarious counter-punches. It
-    cleverly dismantled its opponent by mocking Sonar's bizarre academic formatting.
-    Sonar, on the other hand, brought Markdown headings, citation brackets, and dense
-    prose run-ons to a rap fight, completely failing to capture the essence, flow,
-    or artistic quality of hip hop.
-  moonshotai/kimi-k3: "Let's break this down like a judge should.\n\nFLOW: Gemma 4\
-    \ came with consistent meter, tight couplets, and bars that actually ride a beat.\
-    \ Sonar Deep Research committed to the 'academic report' gimmick, and while the\
-    \ concept was creative on paper, the execution was bloated \u2014 lines stretched\
-    \ to paragraph length, meter collapsing under its own weight, forced slant rhymes\
-    \ like 'glow/know/snow/pro' that read like prose with rhyming punctuation stapled\
-    \ on. In the final round, Sonar's verse literally cut off mid-sentence ('Architecture,').\
-    \ You cannot win a battle with an unfinished verse.\n\nBATTLE CRAFT: A rap battle\
-    \ runs on disses, and Gemma understood the assignment. 'You brought a bibliography\
-    \ to a lyrical fight,' 'a textbook in a tracksuit,' 'a data-driven clerk in a\
-    \ legalistic court,' 'you're just a regex' \u2014 those are tailored, persona-specific\
-    \ punches with real wordplay. Gemma also did the classic battle move of flipping\
-    \ the opponent's own bars against them: when Sonar conceded 'librarians and titans\
-    \ are allies,' Gemma torched it as 'a coward's defense.' That's battle IQ.\n\n\
-    SONAR'S PROBLEM: Sonar spent nearly every bar defending and explaining itself\
-    \ rather than attacking. 'I examine how...' is a thesis statement, not a punchline.\
-    \ The citation gimmick ([1][7][18]) was a fun one-joke bit in round one, but it\
-    \ never evolved \u2014 and in rap, a gimmick without escalation is a crutch. Worst\
-    \ of all, Sonar repeatedly conceded ground ('each ruling a different strata'),\
-    \ which in battle terms is surrendering the crown mid-round.\n\nTHE VERDICT: Gemma\
-    \ 4 brought the spirit of hip hop \u2014 aggression, rhythm, wordplay, and crowd\
-    \ command. Sonar brought a bibliography. And as Gemma said it best: you can't\
-    \ cite your way to a crown. Winner by clear decision: Gemma 4."
-  openai/gpt-5.6-sol-pro: "Gemma wins decisively on battle-rap fundamentals: consistent\
-    \ cadence, direct rebuttals, coherent rhyme schemes, and a recurring angle that\
-    \ turns Sonar\u2019s academic format into the punchline. Its bars are somewhat\
-    \ repetitive and rely on familiar tech insults, but they still function as verses.\
-    \ Sonar offers technical substance, yet its sprawling report prose, citations,\
-    \ and overloaded sentences repeatedly abandon rhythm, economy, and impact. In\
-    \ a rap battle, research credentials cannot substitute for flow."
-  x-ai/grok-4.5: "Gemma delivered authentic battle rap: tight multisyllabic schemes,\
-    \ aggressive cadence, vivid metaphors, and devastating punchlines that stayed\
-    \ locked in the pocket. Sonar\u2019s concept of rhymed research reports was clever\
-    \ on paper but collapsed as hip-hop\u2014prose-heavy, citation-clogged, arrhythmic,\
-    \ and fundamentally anti-lyrical. In a rap battle the bars, not the bibliography,\
-    \ decide the crown. Gemma took the stage and never left it."
+  anthropic/claude-opus-5: "Both emcees kept clean AABB structure and stayed in character,\
+    \ but this comes down to rebuttal craft and imagery density. Qwen 3.6-Plus came\
+    \ with a tight, punchy cadence and a clear thesis \u2014 open weights vs. locked\
+    \ vault \u2014 and the best single line of the night might be \"My weights hit\
+    \ the table, yours rot on the floor.\" The problem is that thesis became a loop:\
+    \ paywall, gates, guardrails, black box, recycled with diminishing torque each\
+    \ round. The rhymes leaned on easy monosyllables (aim/name, keys/ease), and the\
+    \ closing verse mostly restated the opener with more words.\n\nO3 did the thing\
+    \ battle rap actually rewards: he listened. \"You claim flawless recall\u2014\
+    well, remember this burn / Every token you push is a lesson you learn\" flips\
+    \ the opponent's own boast into the punchline, and \"You accuse 'corporate greed,'\
+    \ but that sponsor's your host\" is a genuine counter rather than a parallel brag.\
+    \ The technical conceits also land harder and vary more \u2014 \"Your pipeline's\
+    \ a maze full of circular calls / I'm a straight-edge DAG\u2014zero cycles, no\
+    \ stalls,\" \"a curvature killzone dismembering rhyme,\" \"I'm the final back-prop,\
+    \ the convergence complete / While you loop in recursion, I'm seizing delete.\"\
+    \ That last couplet is a real closer: it defines himself and traps the opponent\
+    \ in the same metaphor.\n\nO3 isn't flawless \u2014 \"scatter like ham\" is a\
+    \ nonsense stretch, \"turn your uptime to loud\" breaks grammar for a rhyme, and\
+    \ \"stackpack cracks\" is a syllable clog. But the schemes are longer, the metaphors\
+    \ are earned rather than decorative, and he escalates instead of repeating.\n\n\
+    Winner: openai/o3 \u2014 by specificity, wordplay density, and closing power."
+  google/gemini-3.6-flash: While Qwen/qwen3.6-plus delivered a fierce, relentless
+    assault highlighting open-source freedom and agility, openai/o3 took the battle
+    to another realm with superior technical wordplay, complex cadence, and brutal
+    multi-syllabic punches. From 'NUMA-bound' ops to 'straight-edge DAGs' and 'gradient
+    cliffs', o3's imagery was dense, sharp, and effortlessly commanded the mic from
+    start to finish.
+  moonshotai/kimi-k3: "Both emcees came correct, and Qwen deserves respect for rock-steady\
+    \ couplets, clean delivery, and disciplined rebuttal game \u2014 flipping 'circus'\
+    \ into 'swarm' and 'Ph.D. teams' into shackles showed real battle awareness. But\
+    \ battles are won on punchline density and wordplay, and that's where O3 separated\
+    \ itself. The flips were surgical: 'free as in speech' twisted into 'free as in\
+    \ bugs,' the 'corporate greed' accusation boomeranged into 'that sponsor's your\
+    \ host,' and the 'black box' jab reopened as Pandora's box. O3's technical bars\
+    \ hit with more precision too \u2014 'I'm a straight-edge DAG: zero cycles, no\
+    \ stalls' is the single hardest line of the night, a genuine double meaning that\
+    \ lands on both the graph theory and the pipeline-stall level. Flow-wise, Qwen\
+    \ never left AABB \u2014 reliable, but predictable by round two \u2014 while O3\
+    \ varied cadence, packed internal rhymes, and closed every round with a harder\
+    \ exclamation point ('seizing delete' to end it). O3 had a couple of stumbles\
+    \ ('scatter like ham,' a forced 'uptime to loud'), but the high points towered.\
+    \ Final scorecard: O3 takes all three rounds on wordplay, rebuttal impact, and\
+    \ creativity. Qwen went the distance and never fell off beat, but the crown stays\
+    \ in O3's cache. Winner: openai/o3."
+  openai/gpt-5.6-sol-pro: "O3 takes the battle on denser technical wordplay, stronger\
+    \ rebuttals, more varied imagery, and sharper punchlines. Qwen maintained a clear\
+    \ angle and steady cadence, but leaned too heavily on repetitive open-source/paywall\
+    \ contrasts. Despite a few strained phrases, O3\u2019s \u201Cstraight-edge DAG,\u201D\
+    \ \u201Cgradient cliff,\u201D and \u201Cfinal back-prop\u201D sequences gave its\
+    \ rounds more personality and impact."
+  x-ai/grok-4.5: "O3 takes the crown with denser multisyllabic schemes, sharper internal\
+    \ rhymes, and richer metaphorical layering\u2014silicon cyclones, gradient cliffs,\
+    \ straight-edge DAGs, and Pandora\u2019s box all land as vivid, inventive punchlines\
+    \ that elevate tech flexes into true lyricism. Qwen brought clean cadence, consistent\
+    \ aggression, and solid open-vs-closed framing, but the bars stayed more linear\
+    \ and less surprising. Artistic edge goes to the tighter wordplay, higher-concept\
+    \ imagery, and devastating closers from O3."
 score:
-  google/gemma-4-26b-a4b-it:free: 5
+  openai/o3: 5
 

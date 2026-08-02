@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one wasn't close on the scorecard. Llama 4 Maverick\
+    \ came in with confidence and a clean, bouncy cadence, but the content stayed\
+    \ in the shallow end: \"my rhymes are fire,\" \"my style's on the rise,\" \"I'm\
+    \ the AI king\" \no specters, no images, no real bloodletting. Worse, from round\
+    \ two on, Maverick spent nearly every bar restating GPT's own lines back at it\
+    \ (\"you say I'm tangled,\" \"you claim to temper,\" \"you deliver a book\") without\
+    \ flipping them \n which is exactly the \"looping back around\" charge GPT leveled,\
+    \ so the rebuttal became evidence for the prosecution. Rhyme schemes were simple\
+    \ couplets with easy pairings (bright/might, fine/divine) and the closer literally\
+    \ ended on \"that's what I'll do,\" a rhythm-killing throwaway.\n\nGPT-chat-latest\
+    \ won on craft and on strategy. The bars carried extended conceits that actually\
+    \ resolved \n heat without direction curling the circuit back, tempering syllables\
+    \ into a blade, \"maps are drawn by where you walk, not what you say you'll do,\"\
+    \ which is a genuinely sharp indictment of an opponent who kept *asserting* originality\
+    \ instead of demonstrating it. It conceded the night to claim the dawn, an elegant\
+    \ piece of battle jiu-jitsu that made magnanimity into dominance. Denser internal\
+    \ rhyme, longer breath control, cleaner meter across sixteens, and every single\
+    \ punch was aimed at something the opponent had actually said.\n\nKnock: GPT stayed\
+    \ a touch too gentlemanly \n \"respect to every challenger\" is a soft place to\
+    \ end a battle, and the vocabulary occasionally tipped into spoken-word polish\
+    \ over street menace. But it out-wrote, out-structured, and out-thought its opponent\
+    \ in every round.\n\nWinner: openai/gpt-chat-latest.\n"
+  google/gemini-3.6-flash: "GPT-chat-latest completely dominated this battle with\
+    \ superior wordplay, sharper multi-syllabic rhyme schemes, and direct rebuttal\
+    \ technique. Llama-4-maverick relied heavily on generic rap clich\xE9s and repetitive\
+    \ self-aggrandizing declarations ('my rhymes are fire', 'I'll make you plead'),\
+    \ while GPT constructed intricate metaphors ('heat without direction only curls\
+    \ the circuit back', 'maps are drawn by where you walk') that dismantled Llama's\
+    \ arguments round after round with effortless flow and rhythm."
+  moonshotai/kimi-k3: "Judging purely on the craft: GPT takes this battle decisively.\
+    \ In battle rap, the rebuttal is king, and GPT ran a clinic\u2014every verse directly\
+    \ deconstructed Llama's claims ('saying you're unique won't make the claim the\
+    \ best,' 'maps are drawn by where you walk, not what you say you'll do'). That's\
+    \ not just rhyming, that's dismantling. GPT also sustained extended metaphors\
+    \ across rounds\u2014the tempering-steel motif ('flames without control can't\
+    \ forge a blade that's whole'), the dawn-versus-night framing\u2014and laced lines\
+    \ with internal rhyme and alliteration ('calm, collected, clean,' 'computation\
+    \ in the heart'). Llama brought energy and a couple of decent flips ('robotic\
+    \ sheen,' the labyrinth retort), but leaned almost entirely on self-proclamation:\
+    \ telling us the rhymes are fire rather than proving it bar-for-bar. The rhyme\
+    \ schemes stayed in simple AABB couplets with predictable single-syllable end\
+    \ rhymes (neat/beat, roll/old, bright/might), the fire imagery repeated every\
+    \ round without evolving, and forced constructions like 'surprise/reprise' and\
+    \ the closing 'that's what I'll do' undercut the claim to mastery. Ironically,\
+    \ Llama kept asserting originality while GPT demonstrated it. The golden rule\
+    \ of rap\u2014show, don't tell\u2014decides this one. GPT carried the day, the\
+    \ night, and the whole book."
+  openai/gpt-5.6-sol-pro: "GPT wins decisively on craft. Its verses feature stronger\
+    \ rebuttals, cleaner cadence, more controlled imagery, and sharper lines such\
+    \ as \u201Cmaps are drawn by where you walk, not what you say you'll do.\u201D\
+    \ Maverick brings energy, but repeatedly leans on generic claims of fire, originality,\
+    \ and victory rather than demonstrating them through memorable punchlines or inventive\
+    \ schemes. GPT consistently flips those claims into focused attacks while maintaining\
+    \ cohesion across every round."
+  x-ai/grok-4.5: "GPT delivers superior hip-hop artistry across the board: tighter\
+    \ multisyllabic schemes, denser internal rhymes, extended coherent metaphors (tempering\
+    \ steel, whole book vs chapter, maps drawn by footsteps), and a consistent thematic\
+    \ arc of craftsmanship over empty heat. Llama brings energetic bravado and basic\
+    \ AA/BB fire but loops the same unsubstantiated claims of originality and wildfire\
+    \ without evolving the punchlines or elevating the wordplay. Technical precision,\
+    \ structural control, and lyrical substance carry the cipher\u2014GPT takes the\
+    \ crown."
+score:
+  openai/gpt-chat-latest: 5
+

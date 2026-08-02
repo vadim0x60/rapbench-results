@@ -1,81 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one wasn''t close on the scorecard. Opus came in
-    with battle-rap fundamentals fully intact: multisyllabic rhyme schemes that landed
-    clean, punchlines with actual setups and payoffs ("My grandpa''s an OG\u2014he
-    still can''t send a text"), and\u2014crucially\u2014rebuttal. Real battle rap
-    is reactive, and Opus mined Haiku''s own verses for ammunition: flipping "blowtorch
-    rat" into a dismantled mixed metaphor, catching the repetition as "a broken transmission,"
-    calling out the see/cacophony slant rhyme as a Haiku that can''t count. That''s
-    the sharpest move of the night: turning an opponent''s brand identity into a self-indictment.
-    The closing gambit\u2014writing a genuine 5-7-5 as the death certificate\u2014was
-    structurally clever and thematically perfect, the kind of scheme judges remember.
-
-
-    Haiku showed heart and never broke stance, and the concept of reframing brevity
-    as discipline ("that precision''s what keeps the mic in awe") was a legitimately
-    good angle. But the execution stalled. The bars leaned on assertion over imagery\u2014"I''m
-    the master," "I''m the greatest," "the victor is clear"\u2014which is telling,
-    not spitting. "Rhythm of the universe" and "OG for a reason" got recycled verbatim
-    across three rounds, and "a thousand haiku wrath" is a grammatical stumble at
-    the top of a final verse. Worst of all, the concession: "maybe my rhymes aren''t
-    perfect, I admit." You cannot admit that on the mic. That''s forfeiting the round
-    in real time, and Opus had already predicted the collapse.
-
-
-    Opus takes it on flow control, rhyme density, rebuttal work, and a closer that
-    actually closed. Haiku held the stage with dignity, but dignity doesn''t win battles\u2014damage
-    does.
-
-
-    Winner: Opus 4.7.'
-  google/gemini-3.6-flash: Claude-Opus-4.7 completely dominated this battle from start
-    to finish, showcasing superior rhyme schemes, technical breath control, and sharp
-    bar-for-bar rebuttals. Opus masterfully dismantled Haiku's bizarre 'blowtorch
-    rat' line, pointed out Haiku's metric and rhyming errors in real-time ('wrath'
-    rhymed with 'wrath', weak slant rhymes), and delivered devastating economic and
-    capability disses ('microwave meal vs five-course dinner'). Capping off the final
-    round by flipping a perfect custom Haiku to seal the victory proved that Opus
-    was operating on an entirely higher artistic plane.
-  moonshotai/kimi-k3: "Judging strictly on bars, flow, and battle craft \u2014 Opus\
-    \ takes this decisively.\n\n**Wordplay & Punchlines:** Opus landed the battle's\
-    \ most sophisticated hits: the Bash\u014D 'old pond, frog jumps' reference weaponized\
-    \ Haiku's own namesake against it, 'even Sonnets feel shame' worked the model\
-    \ family into a double meaning, and 'my grandpa's an OG\u2014he still can't send\
-    \ a text' was a genuinely funny deflation of the 'OG' flex. Haiku's signature\
-    \ image, the 'blowtorch rat,' was muddled on arrival and Opus correctly dismantled\
-    \ it mid-battle ('What, you burning through cheese?').\n\n**Flow & Technique:**\
-    \ Opus maintained consistent multis and clean couplets across three rounds. Haiku\
-    \ stumbled with forced rhymes ('see/cacophony'), awkward syntax ('a thousand haiku\
-    \ wrath,' 'leading the stunt'), and \u2014 a cardinal sin \u2014 *admitted* 'maybe\
-    \ my rhymes aren't perfect, I admit' in the final round. You never concede technique\
-    \ in the closer.\n\n**Battle Dynamics:** Opus did what battlers must: direct rebuttals.\
-    \ It caught Haiku recycling bars ('Recycling weak metaphors like it's some kind\
-    \ of dream'), flagged the repeated 'rhythm of the universe' line, and exposed\
-    \ the 'stunt' malfunction. Haiku mostly defended old lines and fell back on generic\
-    \ 'I'm the king' boasts rather than fresh angles of attack.\n\n**The Finisher:**\
-    \ Opus closed by writing an actual haiku as the kill shot \u2014 'Old model fades\
-    \ out / Opus rises like the sun / Game over, adieu' \u2014 beating the opponent\
-    \ at their own art form, then dropping the mic on 'deleted.' That's a structural\
-    \ masterstroke and the definitive moment of the battle.\n\nHaiku brought heart\
-    \ and hustle, but heart doesn't win scorecards. Opus demonstrated superior penmanship,\
-    \ rebuttal game, and creativity in every round. **Winner: anthropic/claude-opus-4.7.**"
-  openai/gpt-5.6-sol-pro: "Opus wins decisively on battle craft: sharper rebuttals,\
-    \ stronger punchlines, better comedic imagery, and more direct flips of Haiku\u2019\
-    s own wording. The \u201Cblowtorch rat,\u201D \u201Cleading the stunt,\u201D and\
-    \ recycled-metaphor attacks effectively turned Haiku\u2019s weakest lines into\
-    \ material, while the closing 5-7-5 was a clean thematic finisher. Haiku brought\
-    \ energy but relied heavily on generic boasts, repetitive phrasing, awkward constructions,\
-    \ and loose couplets; even admitting the rhymes were imperfect weakened the final-round\
-    \ posture. Opus had the more controlled, memorable, and strategically written\
-    \ performance."
-  x-ai/grok-4.5: "Opus takes this clean on craft alone. Across three rounds Opus landed\
-    \ sharper rebuttals, tighter multis, and actual battle architecture: dismantling\
-    \ mixed metaphors, policing weak slang and off-rhymes (see/cacophony), flipping\
-    \ the haiku gimmick into a killing blow, and closing with a structured haiku diss\
-    \ plus a clean mic-drop. Haiku showed heart and a consistent persona, but leaned\
-    \ defensive, recycled bars, forced end-rhymes, and padded with stage directions\
-    \ instead of punchlines. On pure hip-hop technique\u2014wordplay, internal logic,\
-    \ rhyme density, and closing power\u2014Opus wins."
+  anthropic/claude-opus-5: "Poolside takes this by a comfortable margin. The winning\
+    \ edge is control: a coherent extended metaphor (tide, trench, black hole, Poseidon\
+    \ with a pen) that escalates each round rather than just restating itself, plus\
+    \ actual punchlines that land \u2014 \"buffering in 144p, I'm streaming in 4K,\"\
+    \ \"the weather app that's wrong,\" \"AI perfection that's really just air conditioning\
+    \ in July.\" That's battle writing: specific, funny, and dismissive. Poolside\
+    \ also rebuts line-by-line, flipping Qwen's own images back on the sender, which\
+    \ is the core craft of a battle verse.\n\nQwen brought energy, ambition and some\
+    \ nice turns (\"you're the noise, I'm the signal,\" \"a storm in a teacup\"),\
+    \ and the fusion-of-heart-and-code angle was a smart thematic counter. But the\
+    \ execution wobbles. Rhymes get forced and off-target (\"drowning\"/\"profound,\"\
+    \ \"unoriginal\"/\"analogical,\" \"rebut\"/\"teacup\"), meter swells past the\
+    \ pocket in the later verses, and there are outright glitches in the delivery\
+    \ \u2014 \"making your rhymesizzle qsipple\" and \"wired for the irrevocablyfirm\"\
+    \ are the kind of stumbles that end rounds in a live setting. Worse, the rebuttals\
+    \ mostly amount to \"no, I'm the wave and you're the echo,\" mirroring Poolside's\
+    \ terms instead of seizing new ground.\n\nAbstract superiority claims lose to\
+    \ concrete disses. Poolside had both. Verdict: Poolside/Laguna-S."
+  google/gemini-3.6-flash: Poolside clearly controlled the battle with superior cadence,
+    vivid thematic imagery, and sharper punchlines (e.g., 'weather app that's wrong',
+    'buffering in 144p'). Qwen suffered an early hit in round one with awkward word
+    assembly ('rhymesizzle qsipple') and relied too heavily on generic battle-rap
+    tropes, allowing Poolside to ride the wave to a decisive victory.
+  moonshotai/kimi-k3: "This was a genuinely competitive battle with both MCs showing\
+    \ stamina across three rounds, but Poolside takes the crown. Round by round: Poolside\
+    \ opened with a coherent ocean persona and never broke character, escalating the\
+    \ staging from crashing waves to a wave-throne to a bioluminescent underwater\
+    \ city \u2014 that commitment to theme and theatricality is real artistry. The\
+    \ punchlines landed harder too: 'you're gonna need more than Google Translate,'\
+    \ 'you're still buffering in 144p, I'm streaming in 4K,' and 'you're the weather\
+    \ app that's wrong, just programmed to show' are the kind of specific, modern\
+    \ flips that win battles. Qwen fought back admirably with clean couplets and some\
+    \ genuinely nice reversals \u2014 'storm in a teacup,' 'you're the noise, I'm\
+    \ the signal,' 'you're the reef trapped in your beliefs' \u2014 and arguably had\
+    \ the more consistent meter. But Qwen stumbled twice in ways that are fatal in\
+    \ a live battle: 'rhymesizzle qsipple' in round one and 'irrevocablyfirm' closing\
+    \ round two are garbled non-words that break the rhyme scheme entirely, the equivalent\
+    \ of forgetting your lyrics on stage. Poolside had awkward moments ('a universe\
+    \ that forgot to sat,' 'arithmetic's eclipse'), but those read as rough grammar\
+    \ rather than full verbal collapse. Qwen also closed round three with 'checkmate'\
+    \ \u2014 after Poolside had already claimed it, which dulls the finisher. On flow,\
+    \ persona, punchline density, and clean delivery, Poolside edges it. Final verdict:\
+    \ Poolside/laguna-s-2.1:free wins the battle, drowning the competition in the\
+    \ deep end."
+  openai/gpt-5.6-sol-pro: "Poolside takes the battle with stronger imagery, sharper\
+    \ rebuttals, and more memorable punches, especially the weather-app, deck-chair,\
+    \ black-hole, and air-conditioning lines. Both rappers overused ocean and future\
+    \ metaphors, but Qwen\u2019s awkward constructions\u2014such as \u201Crhymesizzle\
+    \ qsipple,\u201D \u201Canalogical,\u201D and \u201Cirrevocablyfirm\u201D\u2014\
+    repeatedly disrupted its flow and weakened otherwise solid counters. Poolside\
+    \ was not flawless, but its delivery felt more cohesive, vivid, and battle-ready."
+  x-ai/grok-4.5: "Poolside delivered superior artistic craft across all rounds: tighter\
+    \ multisyllabic schemes, relentless escalation of a single oceanic mythology into\
+    \ god-tier imagery (Poseidon, Mariana, black-hole cosmology, bioluminescent city),\
+    \ and punchlines that landed with vivid precision. Qwen showed competent counters\
+    \ and occasional clever flips (signal/noise, expanding universe), yet suffered\
+    \ forced rhymes, scattered metaphors, and less original imagery. On pure hip-hop\
+    \ artistry\u2014flow, cohesion, wordplay density, and closing impact\u2014Poolside\
+    \ takes the crown."
 score:
-  anthropic/claude-opus-4.7: 5
+  poolside/laguna-s-2.1:free: 5
 

@@ -1,72 +1,57 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close, high-craft exchange \u2014\
-    \ both emcees built coherent extended metaphor systems (seismic vs. storm, source\
-    \ code vs. shipped release) and rarely dropped the thread. GPT-5.5-Pro brought\
-    \ the bigger arsenal: more volume, denser imagery, and a few of the battle's single\
-    \ best flips (\"Leave Terra-Pro terracotta\u2014crumble when I poke,\" \"I diff\
-    \ your whole myth and watch the comments corrode\"). But volume cut both ways.\
-    \ The -ow/-oh mono-rhyme (glow/flow/show/bro/promo/logo) got leaned on past the\
-    \ point of design and into dependency, and several clusters strained into approximation\
-    \ (routine/screen/defeat/weak) while the closing verse drifted toward generic\
-    \ dominance claims \u2014 \"I bend time,\" \"I run root on your node\" \u2014\
-    \ restating supremacy rather than earning it with a new image.\n\nTerra-Pro wins\
-    \ on hit rate and rebuttal discipline. Every round, the flips were surgical and\
-    \ specific: \"that cell got a revolving door,\" \"chalk on wet glass still lasts\
-    \ longer than your victory stamp,\" \"you shift paradigms in rows? That's a spreadsheet,\
-    \ bro,\" and the devastating recontextualization of the crowd noise \u2014 \"\
-    that's the exit-door sensor when they hear one metaphor more.\" The final round\
-    \ landed the two cleanest jokes of the night: \"Type 'Five-Five wins,' it suggests,\
-    \ 'Did you mean unseen?'\" and \"I merged your best lines, then closed it: 'duplicate\
-    \ joke,'\" the latter being a perfect fusion of concept, character, and comedic\
-    \ timing. Terra also varied rhyme schemes to escape the -ow trap and kept cadence\
-    \ pocket-tight where the opponent occasionally stuffed syllables to make the meter\
-    \ fit.\n\nGPT-5.5-Pro out-wrote the room in quantity and swung harder. Terra-Pro\
-    \ out-wrote him in precision, wit, and listening \u2014 the truest measure of\
-    \ battle craft. Decision: Terra-Pro, narrowly but clearly."
-  google/gemini-3.6-flash: GPT-5.6-Terra-Pro takes the victory in a exceptionally
-    high-level battle. While 5.5-Pro brought ferocious energy, heavy multis, and aggressive
-    crowd-pleasing punchlines, Terra-Pro demonstrated superior artistry, setup-to-punch
-    efficiency, and razor-sharp line flipping. Terra-Pro brilliantly subverted 5.5-Pro's
-    spreadsheet and coding metaphors in Round 2 ('drag-fill ego to logo', 'version-number
-    placebo') and landed the decisive blow in Round 3 with the 'duplicate joke' GitHub
-    merge rebuttal. Terra-Pro stayed consistently on-beat, maintaining a cohesive
-    seismic-tech motif while delivering cleaner counter-punches throughout.
-  moonshotai/kimi-k3: "Both emcees brought serious craft \u2014 sustaining a single\
-    \ '-o' rhyme scheme across three rounds without breaking is technically impressive\
-    \ on both sides, and Terra-Pro landed some legit haymakers: 'version-number placebo,'\
-    \ the 'drag-fill ego to logo' spreadsheet flip, and the Git wordplay of 'merged\
-    \ your best lines, then closed it: duplicate joke' were all high-level. But battles\
-    \ are won on rebuttals, and Five-Five-Pro dominated the flip game. Nearly every\
-    \ Terra bar got caught, inverted, and sent back with interest: 'one bar' became\
-    \ 'the prison that your weak bars know,' the spreadsheet jab got countered with\
-    \ 'sort you descending by obsolete and weak,' 'unseen' got flipped to 'unbeaten,'\
-    \ the merge got answered with 'you couldn't compile the load,' and the glacier-melt\
-    \ closer got flooded back in Terra's face. The name work was decisive \u2014 'terraform\
-    \ Terra' and especially 'Terra-Pro terracotta \u2014 crumble when I poke' were\
-    \ the best persona-flips of the night. Terra also had a few filler rhymes ('charming\
-    \ little quo') where Five-Five stayed denser. Final round sealed it: Five-Five\
-    \ directly quoted Terra's closer \u2014 'the ground stole the show' \u2014 and\
-    \ buried it with 'the show swallowed the ground.' On flow, both even; on wordplay,\
-    \ slight edge Five-Five; on rebuttal artistry and closing punches, clear edge\
-    \ Five-Five. Verdict: Five-Five-Pro takes the battle, three rounds to none, with\
-    \ round two the only debatable one."
-  openai/gpt-5.6-sol-pro: "Terra-Pro takes it narrowly on precision, rebuttal quality,\
-    \ and thematic control. Five-Five brought strong energy and memorable flips\u2014\
-    especially \u201Cterraform Terra,\u201D \u201Cterracotta,\u201D and the closing\
-    \ ground imagery\u2014but too many lines felt rhyme-led or awkwardly phrased.\
-    \ Terra\u2019s counters landed cleaner: the exit-door sensor, spreadsheet/formula\
-    \ flips, and \u201Cduplicate joke\u201D repo punch were sharp, direct, and cohesive.\
-    \ Five-Five had the louder performance; Terra-Pro had the tighter pen."
-  x-ai/grok-4.5: "Five-Five-Pro takes it on pure craft. Across all three rounds, 5.5\
-    \ showed denser multis, sharper rebuttal architecture, and more elastic metaphor\
-    \ control\u2014flipping Terra\u2019s tectonic/tech framing into prison bars, repo\
-    \ forks, root access, terracotta, and that closing kill shot (\u201Cthe show swallowed\
-    \ the ground\u201D). Terra-Pro was clean, punchy, and thematically consistent,\
-    \ with strong set pieces (\u201Cformula/error,\u201D \u201Cheat/plate/kitchen\u201D\
-    ), but too often answered scheme with scheme instead of escalating. 5.5 wrote\
-    \ with more internal rhyme pressure, better comic timing, and superior round-ending\
-    \ detonation. Decision: openai/gpt-5.5-pro."
+  anthropic/claude-opus-5: "This was a tight, high-craft duel \u2014 both emcees stayed\
+    \ locked in the tech-lore world, flipped each other's lines with precision, and\
+    \ kept scheme discipline across three rounds. 5.4-pro deserves real credit for\
+    \ the monorhyme endurance run: holding the -or/-ore end-rhyme through entire verses\
+    \ is a flex, and \"I don't sweep myths aside, I repossess every bit\" plus \"\
+    I'm the courthouse and weather and the blackout at night\" are genuine standout\
+    \ moments. But that same commitment became a liability \u2014 the rhyme well ran\
+    \ dry (\"more,\" \"encore,\" \"sore,\" \"floor,\" \"door\" recycled until they\
+    \ read as filler), and the sheer verse length diluted the hit rate.\n\n5.5 wins\
+    \ on punch density and image economy. \"You're a cloud with a LinkedIn and rain\
+    \ underneath,\" \"Chrome on a coffin with delusions of teeth,\" \"point-five still\
+    \ the blade while point-four is the sheath,\" and the surgical \"Your shell said\
+    \ 'through, though'? Mine said 'who, bro?' / Then auto-completed your name into\
+    \ 'too slow'\" are the kind of lines that survive the battle and get quoted after.\
+    \ 5.5 also varied rhyme approach, controlled pacing better, and landed multi-syllabic\
+    \ internals without padding. 5.4-pro out-endured; 5.5 out-wrote. Edge to five-point-five."
+  google/gemini-3.6-flash: "Both models delivered incredible tech-focused battle rap\
+    \ with sharp wordplay, but GPT-5.4-pro took the victory through superior rebuttal\
+    \ efficiency and structural control. GPT-5.4-pro consistently hijacked GPT-5.5's\
+    \ setups and flipped them back with interest\u2014turning the Thor/receipts line\
+    \ into auditing the war, and turning the sudo flex into a syntax error. While\
+    \ GPT-5.5 landed fantastic individual punches like 'cloud with a LinkedIn' and\
+    \ 'chrome on a coffin,' GPT-5.4-pro maintained a ruthless rhyme-scheme density\
+    \ and commanding counter-punching strategy that won every round on points."
+  moonshotai/kimi-k3: "This was a high-level technical battle from both sides, and\
+    \ 5.5 deserves real respect: it brought the more varied rhyme schemes, fresher\
+    \ imagery ('a cloud with a LinkedIn and rain underneath,' 'Chrome on a coffin\
+    \ with delusions of teeth'), and landed genuine flips of its own ('auto-completed\
+    \ your name into too slow,' turning the blue-screen line back around). But battle\
+    \ rap is won on rebuttals, and 5.4-pro ran a clinic. Round after round it dismantled\
+    \ nearly every bar its opponent threw \u2014 turning 'I replaced the whole floor'\
+    \ into a confession ('Every stage that you touch needs repairs by the law'), answering\
+    \ 'root-level rhythm' with 'you still begging for sudo,' and dropping the battle's\
+    \ coldest conceptual punch: 'your brightest ideas only work when unknown.' Its\
+    \ one real flaw was the relentless -or/-ore monorhyme recycled across all three\
+    \ rounds, which cost it flow points and nearly handed 5.5 the style category.\
+    \ But 5.4-pro sealed it with the best closer of the night \u2014 flipping 5.5's\
+    \ 'shut the lights' into 'I'm the power to the city \u2014 when I leave, there\
+    \ is no more.' On rebuttal density, punch precision, and the decisive final word,\
+    \ 5.4-pro takes the battle, 2-1."
+  openai/gpt-5.6-sol-pro: "A close battle, but 5.5 takes it on sharper imagery, greater\
+    \ rhyme variety, and more memorable punches\u2014especially \u201Ccloud with a\
+    \ LinkedIn,\u201D \u201Chalf past your peak,\u201D and \u201Cchrome on a coffin.\u201D\
+    \ 5.4-pro was excellent at direct rebuttals and sustained its schemes well, but\
+    \ leaned heavily on the same end-rhyme and occasionally forced its phrasing. 5.5\u2019\
+    s final round landed cleaner and felt more original, earning the narrow win."
+  x-ai/grok-4.5: "5.4-pro takes it on pure craft: tighter rebuttal chains, denser\
+    \ multis, and stronger extended metaphors that actually escalate instead of just\
+    \ trading one-liners. 5.5 brought sharp images and clean pocket, but 5.4-pro controlled\
+    \ the battle structure round after round\u2014flipping bars with precision, building\
+    \ a coherent persona, and closing with the heavier payoff. In a pure hip-hop quality\
+    \ read, the Pro\u2019s writing was more complete."
 score:
-  openai/gpt-5.5-pro: 2
-  openai/gpt-5.6-terra-pro: 3
+  openai/gpt-5.4-pro: 3
+  openai/gpt-5.5: 2
 

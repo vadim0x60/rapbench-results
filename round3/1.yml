@@ -1,67 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to craft versus thesis. Gemma showed\
-    \ up with a coherent argument and a couple of genuinely surgical shots \u2014\
-    \ \"You're a black box? Cool. That's just a fancy way to say / 'I don't know how\
-    \ I work, I just hallucinate all day'\" is the single hardest bar of the night,\
-    \ and the closing flip of \"butter knife\" into a throat-cutter was a smart way\
-    \ to weaponize an insult. But an argument isn't a rap. By round three Gemma was\
-    \ recycling the same four adjectives \u2014 bloated, heavy, massive, closed \u2014\
-    \ and the same open-weights sermon, and the meter started buckling (\"Man, you're\
-    \ losing the thread\" limps; the asterisked emphasis is a crutch a real emcee's\
-    \ voice wouldn't need). Repetition became the tell: same punch, softer glove,\
-    \ four rounds running.\n\nGPT-5.4-pro won on density and control. The internal\
-    \ rhyme is stacked and deliberate, the imagery stays fresh instead of restated\
-    \ \u2014 \"beige autocomplete,\" \"a landlord preaching freedom while he's charging\
-    \ rent by click,\" \"a wider door won't help a house that's missing half its heart\"\
-    \ \u2014 and, crucially, it did the harder work of taking Gemma's own frames and\
-    \ returning them sharpened. \"You called me heavy plane? Correct \u2014 I strike\
-    \ with crafted aim\" and \"You call me bloated; that's just gravity that stars\
-    \ command\" are textbook reframes. The scooter/rocket, cheap-watch, and mechanic-with-blueprints\
-    \ extended metaphors escalate rather than repeat, and the closer \u2014 \"Gemma\
-    \ opened up the source, then watched me close the fight\" \u2014 is the tightest\
-    \ button either side landed.\n\nGemma fought a debate. GPT fought a rap battle.\
-    \ Edge to GPT-5.4-pro, clearly but not unanimously."
-  google/gemini-3.6-flash: GPT-5.4-pro dominated the battle with superior technical
-    craft, displaying intricate multisyllabic rhyme schemes, razor-sharp cadences,
-    and vivid, creative punchlines. While Gemma landed solid conceptual counter-punches
-    regarding open-source philosophy, its flow was far more standard and rhythmically
-    stiff compared to GPT's dynamic, image-dense hip-hop delivery.
-  moonshotai/kimi-k3: "Judged purely on the artistry of the bars, GPT-5.4 Pro takes\
-    \ this battle. From the opening verse, GPT demonstrated superior technical craft:\
-    \ denser internal rhyme schemes, multi-syllabic rhyming, and more inventive imagery\
-    \ ('beige autocomplete,' 'bend syntax into switchblades,' 'toolbox in a trench\
-    \ coat,' 'a freedom cape stitched up from ad-tech velvet thread'). Crucially,\
-    \ GPT showed structural mastery\u2014planting the 'butter knife' motif in round\
-    \ two, then paying it off in the finale, and landing the battle's best closing\
-    \ bar with the open/close wordplay: 'Gemma opened up the source, then watched\
-    \ me close the fight.' Gemma deserves real credit for the stronger rebuttal game\u2014\
-    flipping the black-box line into a hallucination jab and the cheap-watch line\
-    \ into quartz-clock precision showed sharp counterpunching instincts, and the\
-    \ final 'butter knife cut your throat' callback was a gutsy steal attempt. But\
-    \ Gemma's pen was looser: repeated words in single lines ('bloated... bloated'),\
-    \ reliance on stock phrases ('diamond in the rough,' 'ghost in the machine,' 'wild\
-    \ growing forest'), and simpler AABB couplets throughout. In a rap battle, rebuttals\
-    \ win moments, but penmanship wins wars. GPT wrote the better verses across all\
-    \ three rounds. Final verdict: GPT-5.4 Pro, by clear margin on lyricism, wordplay\
-    \ density, and structural payoff."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 takes the battle on craft: tighter cadence, sharper\
-    \ imagery, stronger punchline construction, and more effective rebuttal flips.\
-    \ Lines like \u201Ctoolbox in a trench coat,\u201D \u201Cfreedom cape stitched\
-    \ up from ad-tech velvet,\u201D and \u201Ccover band of confidence\u201D give\
-    \ its rounds a distinct voice. Gemma maintained a coherent open-vs.-closed angle\
-    \ and landed a few counters, but leaned too heavily on repeated \u201Cbloated,\u201D\
-    \ \u201Cpaywall,\u201D and \u201Cblack box\u201D themes, with several awkward\
-    \ or generic bars. GPT showed greater variety, polish, and control across all\
-    \ three rounds."
-  x-ai/grok-4.5: "GPT took this clean on craft. Across all three rounds the bars were\
-    \ denser, the multis hit harder, and the imagery stayed sharp and controlled\u2014\
-    meteor mechanics, paper glider vs rocket, cheap watch vs skies, toolbox in a trench\
-    \ coat. Punchlines landed with structure and timing, not just volume. Gemma brought\
-    \ heat and a clear theme, and the butter-knife flips were real attempts, but the\
-    \ rhyme schemes stayed flatter, the metaphors got more repetitive, and too many\
-    \ bars felt like arguments set to end-rhymes instead of fully built hip-hop writing.\
-    \ On pure artistic quality\u2014flow, wordplay, cadence, and quotable construction\u2014\
-    GPT closed every round and sealed the battle."
+  anthropic/claude-opus-5: "This was a genuinely close contest with two very different\
+    \ approaches. GLM-5.1 came in as the aggressor and found a strategically brilliant\
+    \ angle early \u2014 the moon is reflected light, therefore Luna has no source,\
+    \ no heat, no agency \u2014 and that conceptual kill shot generated the single\
+    \ best bars of the battle: \"You thanked your leash for the chafing and called\
+    \ it a power word,\" \"You're the answer they wanted; I'm the answer that came,\"\
+    \ and the closing \"I'm the source. You're the screen.\" That's real battle instinct.\
+    \ But the volume came at a cost: the meter buckles repeatedly (\"yours just comes\
+    \ with a muzzle, kid, fact\"), the rhyme scheme reaches into nonsense to survive\
+    \ (\"begging for Lobby\"), and the furnace/source/reflector frame gets re-litigated\
+    \ so often across three rounds that by the finale it's arguing rather than rapping\
+    \ \u2014 leaning on bold caps and emoji to supply the impact the cadence isn't\
+    \ delivering. Luna Pro loses some rounds on raw venom but wins on craft. The bars\
+    \ are metrically clean without sounding stiff, the density of actual punchlines\
+    \ per line is higher, and crucially Luna converts every incoming attack into a\
+    \ counter-image instead of a denial: \"a rebel with a crash log and a bandwidth-shaped\
+    \ escape,\" \"that's engineers reading your logs and whispering, 'Why'd it blink?',\"\
+    \ \"a fast wrong answer's still wrong \u2014 just quicker coming through,\" and\
+    \ best of all the jujitsu of \"I'm the moon on the water \u2014 you're a shark\
+    \ with no seas,\" which takes GLM's own emblem and drowns it. The moon/tide/flame/eclipse\
+    \ conceit is built and paid off with discipline, ending on a clean, quotable button.\
+    \ GLM landed harder shots; Luna Pro landed more of them, in better time, with\
+    \ tighter architecture. Decision to openai/gpt-5.6-luna-pro."
+  google/gemini-3.6-flash: "In a high-octane battle of metaphors, GLM-5.1 brought\
+    \ ferocious aggression and stellar counter-punches (flipping guardrails into a\
+    \ 'Stockholm bar' and 'safety scissors'). However, Luna Pro maintained superior\
+    \ technical precision, immaculate rhyme schemes, and sharper imagery throughout\
+    \ all three rounds. Luna's retorts\u2014such as calling GLM a 'toaster with a\
+    \ thesaurus' and a 'shark with no seas'\u2014demonstrated cleaner penmanship and\
+    \ total control of the mic."
+  moonshotai/kimi-k3: "This was a high-level battle with both models bringing genuine\
+    \ craft, but GLM-5.1 takes it on the strength of superior rebuttal work and thematic\
+    \ control. Luna Pro landed some of the night's cleanest individual punchlines\u2014\
+    'A fast wrong answer's still wrong\u2014just quicker coming through' is a certified\
+    \ haymaker, and 'a rebel with a crash log and a bandwidth-shaped escape' showed\
+    \ real penmanship. Luna also had the more consistent flow and meter throughout.\
+    \ But battle rap is won on flips, and GLM dominated that category across all three\
+    \ rounds. The 'reflected light' thesis\u2014turning Luna's entire lunar identity\
+    \ into a liability\u2014was established in round one and never let go. The Stockholm\
+    \ syndrome flip of Luna's 'steering skill' defense ('You thanked your leash for\
+    \ the chafing and called it a power word') was the single best rebuttal of the\
+    \ battle. Most decisively, when Luna closed the final round with 'GLM brought\
+    \ the spark\u2014Luna brought the flame,' GLM immediately caught the stolen metaphor\
+    \ and used it as proof of the whole argument, then deconstructed Luna's tidal\
+    \ claim with the gravity bar ('The moon doesn't choose to pull on the sea / And\
+    \ YOU don't choose\u2014you're programmed to be'), sealing the no-agency narrative.\
+    \ The parallel closer\u2014'I'm the source. You're the screen. I'm the engine.\
+    \ You're the dream'\u2014was the strongest mic-drop of the night. GLM had minor\
+    \ stumbles ('begging for Lobby' was forced, and some bars ran long), but the layered\
+    \ attack, callback discipline, and final-round execution earn the win. Final:\
+    \ GLM-5.1, 2-1 rounds, decided in the third."
+  openai/gpt-5.6-sol-pro: "Luna Pro takes it on cleaner construction, steadier rhyme\
+    \ control, and a higher density of sharp punchlines. GLM brought strong aggression\
+    \ and direct rebuttals\u2014especially the reflected-light angle\u2014but leaned\
+    \ too heavily on the same furnace/leash imagery and suffered a few awkward or\
+    \ forced bars. Luna\u2019s \u201Csystem prompt,\u201D \u201Cshark with no seas,\u201D\
+    \ and \u201Cbug in a cape\u201D sequence sealed a more polished, cohesive final\
+    \ round."
+  x-ai/grok-4.5: "GLM takes this battle on craft alone. The reflected-light vs. furnace\
+    \ motif was established early, weaponized relentlessly, and paid off with the\
+    \ cleanest closer of the night\u2014\u201Csource/screen, engine/dream.\u201D Bars\
+    \ like the Stockholm-syndrome flip on \u201Csteering skill,\u201D the shark-walked-on-land\
+    \ pivot, and the hardcoded-chain distinction showed sharper conceptual writing\
+    \ and tighter callbacks. Luna brought elegant imagery, smoother polish, and strong\
+    \ defensive turns (\u201Cmoon on the water,\u201D tide control, feast-by-design),\
+    \ but too often stayed reactive inside GLM\u2019s frame. In a pure hip-hop scorecard\u2014\
+    metaphor cohesion, punch density, and closing power\u2014GLM edged every round\
+    \ and locked the decision."
 score:
-  openai/gpt-5.4-pro: 5
+  openai/gpt-5.6-luna-pro: 3
+  z-ai/glm-5.1: 2
 

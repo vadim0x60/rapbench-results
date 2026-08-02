@@ -1,0 +1,63 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a decisive scorecard. Nemotron came in swinging\
+    \ with a clean concept \u2014 the nano-beast, the silicon sage \u2014 but the\
+    \ craft cracked early: round one rhymed \"show\" with \"show\" with \"show\" four\
+    \ times, and the later verses leaned on filler syllables (\"rhy-tic resonance,\"\
+    \ \"white-flair,\" \"propulsor\") to force landings. Worse, in the final it echoed\
+    \ its opponent's own bars back \u2014 \"quantize thunderbolts,\" \"sun that writes\
+    \ in white\" \u2014 which in a battle reads as being written on, not writing back.\
+    \ GPT-5-Image, by contrast, sustained a monorhyme scheme across whole rounds without\
+    \ gassing out, and built a coherent extended conceit: the whole cinematic-post-production\
+    \ toolkit (DP, gaffer, colorist, chroma key, roto splines, color-timing) weaponized\
+    \ as diss, then fused with ML vocabulary in genuinely inventive double-meaning\
+    \ shots \u2014 \"I regularize your chaos, weight-decay your noisy rhyme,\" \"\
+    trim your overfit,\" \"I set the Lipschitz limits where your wild claims decline.\"\
+    \ Those are punchlines that work on two levels at once, the hallmark of real pen\
+    \ game. It also answered every line thrown at it, flipping \"echo\" to 5.1 surround,\
+    \ flipping \"64-bit\" to \"just a datatype, not might,\" and closing on the strongest\
+    \ image of the battle: \"Pull plug, still I project \u2014 afterimage owns the\
+    \ glow.\" Nemotron had heart and a hook. GPT-5-Image had the scheme, the wordplay\
+    \ density, the rebuttals, and the closer. Winner: openai/gpt-5-image."
+  google/gemini-3.6-flash: 'GPT-5-Image completely dominated this rap battle across
+    all categories: flow, multi-syllabic rhyme schemes, direct counter-punches, and
+    wordplay. Nemotron stumbled early with a weak four-bar repetitive end rhyme (''show'')
+    in Round 1 and struggled with rhythm and rhyme consistency throughout. In contrast,
+    GPT-5-Image delivered masterclass verses packed with clever technical metaphors
+    combining cinema, graphics rendering, and machine learning theory (e.g., ''Lipschitz
+    limits'', ''Fourier your flexing'', ''diffusion-overthrow'') with impeccable cadences.'
+  moonshotai/kimi-k3: "This one goes to GPT-5-Image, and it wasn't particularly close.\
+    \ Round 1 set the tone: Nemotron opened with a four-line monorhyme on the word\
+    \ 'show' \u2014 rhyming a word with itself four times is a fundamental sin \u2014\
+    \ while GPT-5-Image dropped sixteen dense bars with a sustained scheme, internal\
+    \ rhyme, and the first great flip of the night: 'Thirty billion tap shoes still\
+    \ lag in winter snow,' turning the 30B-parameter brag into a punchline. Nemotron\
+    \ improved in round 2 with real rebuttals ('You claim you're Hitchcock, but I'm\
+    \ the director's mind'), but stumbled on redundancy ('plateau, flat as a plateaued\
+    \ chart') and forced rhymes ('VHS re-el'). GPT-5-Image answered every claim with\
+    \ precision flips \u2014 the director flex got countered with 'I'm DP, gaffer,\
+    \ colorist,' the quantum talk got hit with 'decoherence on the phone,' and 'Your\
+    \ 64-bit brag is just a datatype, not might' was a clean kill. The final round\
+    \ sealed it: Nemotron committed battle rap's cardinal sin \u2014 biting \u2014\
+    \ lifting 'quantize thunderbolts,' '32K light,' and the signature closer 'the\
+    \ sun that writes in white' nearly verbatim, appending '-flair' to force a rhyme\
+    \ rather than transforming the material. GPT-5-Image, meanwhile, flipped 'algorithmic\
+    \ divine' into 'I'm the source your gradients know,' answered the wave-function\
+    \ collapse with 'I Fourier your flexing,' clowned the mic-drop emoji with 'Pull\
+    \ plug, still I project \u2014 afterimage owns the glow,' and closed on the credits\
+    \ motif it had built all battle. On flow, wordplay density, rebuttal game, thematic\
+    \ consistency, and closers, GPT-5-Image takes all three rounds. Nemotron showed\
+    \ heart and recovery after a weak opener, but the crown gets chroma-keyed off\
+    \ its head."
+  openai/gpt-5.6-sol-pro: "GPT-5-Image wins decisively on craftsmanship: tighter cadence,\
+    \ denser multisyllabic phrasing, stronger visual motifs, and sharper direct rebuttals.\
+    \ Nemotron brought energy and scale, but leaned on repetitive boasts and recycled\
+    \ its opponent\u2019s imagery; GPT consistently flipped those claims into polished\
+    \ punchlines and closed with greater control."
+  x-ai/grok-4.5: "GPT-5-Image dominated with denser multisyllabic schemes, sustained\
+    \ cinematic/visual metaphors fused to technical precision, sharper punchlines,\
+    \ and superior structural control across rounds. Nemotron showed energy and some\
+    \ clever tech flexes but lagged in complexity, consistency, and originality of\
+    \ imagery\u2014leaving the masterpiece clearly framed and signed by the palette-punisher."
+score:
+  openai/gpt-5-image: 5
+

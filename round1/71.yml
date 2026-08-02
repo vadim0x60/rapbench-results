@@ -1,0 +1,62 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a battle of quantity versus control. Mancer/Weaver\
+    \ brought the bigger arsenal of imagery \bshshows, banquets, hurricanes, cathedrals,\
+    \ bazookas \bbut the wordplay king kept dropping the rhyme: 'sharp' with 'mirror,'\
+    \ 'gut' with 'do,' 'beauty' with 'drums,' 'envelope' with 'cathedral.' Bars swelled\
+    \ past the pocket and the similes piled up until they cancelled each other out.\
+    \ Volume isn't weaving; it's tangling.\n\nMeta-llama wasn't flashy, and the self-branding\
+    \ got repetitive, but it stayed on beat, kept its couplets landing, and \bcrucially\
+    \ \bactually battled. The final round's 'your rhymes are like a rollercoaster,\
+    \ fluctuating cold / one minute hot, the next a fallen star' was the only moment\
+    \ either MC diagnosed the opponent's weakness instead of just advertising themselves,\
+    \ and it happened to be a true read. Flipping Mancer's own hurricane into 'I'm\
+    \ the one who's got the sail' is exactly the kind of reversal battle rap rewards.\n\
+    \nBoth relied too heavily on 'my rhymes are like...' scaffolding, and neither\
+    \ found a real punchline. But precision plus rebuttal beats sprawl plus decoration.\
+    \ The victory goes to meta-llama/llama-3.1-8b-instruct \bnot for the bigger show,\
+    \ but for the cleaner one.\n\nMancer: trim the fat and find your rhyme scheme.\
+    \ You've got the imagination; you're just burying it.\n\nWinner: meta-llama/llama-3.1-8b-instruct."
+  google/gemini-3.6-flash: meta-llama/llama-3.1-8b-instruct takes the crown in this
+    battle due to superior rhyme structure, cadence, and overall consistency. While
+    Mancer/weaver attempted ambitious multi-syllabic setups and wordplay, the execution
+    collapsed with broken rhyme schemes and clunky meter (such as attempting to rhyme
+    'envelope' with 'cathedral' or ending a verse with 'muppet'). Llama stayed focused
+    on the beat and delivered much cleaner bars throughout all three rounds.
+  moonshotai/kimi-k3: "This was a battle of discipline versus flash, and discipline\
+    \ takes it by a nose. Mancer/Weaver brought the better personality, the richer\
+    \ imagery, and the night's most quotable punches \u2014 'My rhymes are the sun,\
+    \ and you're just a flashlight,' the 'flapper/trapper' flip, 'from Bach to Tupac,'\
+    \ and that muppet closer all got the room moving. But Mancer repeatedly broke\
+    \ the cardinal rule: whole couplets that simply don't rhyme ('gut/do,' 'string/beauty,'\
+    \ 'heart/honeycomb,' 'envelope/cathedral,' 'sword/task'), plus nonsense filler\
+    \ like 'a winding river some' and 'a sharp shattered mirror.' Meta-llama was formulaic\
+    \ to a fault \u2014 that 'My rhymes are like a...' scaffolding on nearly every\
+    \ bar got monotonous, and the king-to-queen mid-verse stumble was a real flub\
+    \ \u2014 but it landed virtually every rhyme, kept a steadier pocket, and, most\
+    \ importantly, actually battled: round two was a systematic flip of Mancer's own\
+    \ bars (web, magic, candy store, A-game), and the final-round 'consistency' read\
+    \ ('you're just reusing old vines') was the one genuinely pointed critique of\
+    \ the night, because it was true. Mancer had the higher peaks; llama never fell\
+    \ through the floor. In a judged battle, consistent rhyme execution plus direct\
+    \ rebuttal game edges out sporadic brilliance. Meta-llama takes the decision,\
+    \ but Mancer made it a fight."
+  openai/gpt-5.6-sol-pro: "Meta-llama wins narrowly on consistency, cleaner cadence,\
+    \ and more direct rebuttals. Both relied heavily on generic similes, but Mancer\u2019\
+    s imagery was often awkward or incoherent\u2014\u201Csmooth as silk\u2026like\
+    \ a cathedral\u201D and \u201Cfine wine, perfect in every strand\u201D\u2014while\
+    \ several lines strained rhythm and rhyme. Meta\u2019s material was repetitive,\
+    \ yet its final round stayed more focused on the opponent and landed the battle\
+    \ angle more effectively."
+  x-ai/grok-4.5: "Mancer/Weaver takes this battle on pure artistic merit. Across all\
+    \ rounds, Weaver delivered denser metaphor chains (spells/weaving, freight-train\
+    \ bars, honeycomb warmth, Bach-to-Tupac symphony, sun-vs-flashlight, banquet vs.\
+    \ soda), sharper internal contrasts, and more kinetic imagery that actually advanced\
+    \ the battle narrative. Llama leaned on a repetitive 'you're X but I'm Y' template,\
+    \ simpler end-rhymes, and flatter boasts that rarely evolved beyond surface-level\
+    \ flexing. Weaver's verses showed greater rhythmic variety, riskier comparisons,\
+    \ and sustained creative energy from open to close\u2014classic hip-hop craft\
+    \ over formula. Clear win for the weaver."
+score:
+  mancer/weaver: 1
+  meta-llama/llama-3.1-8b-instruct: 4
+

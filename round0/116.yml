@@ -1,0 +1,52 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a wrap before the final bell. Nex-n2-mini came\
+    \ in with tight internal rhyme, escalating imagery, and \u2014 crucially \u2014\
+    \ actual rebuttal craft: it took every metaphor Voxtral offered (storm, river,\
+    \ knife, tidal wave, pave) and flipped each one into a counter-punch. 'Storm?\
+    \ You're mist in a paper cup' and 'Knife? You're butter, bent, and dull' are the\
+    \ kind of on-the-spot metaphor-jacking that wins real battles. The 'compact like\
+    \ a loaded gun' reframe of the 'mini' jab was the sharpest defensive move of the\
+    \ night.\n\nVoxtral, meanwhile, wrote one verse and ran it back three times verbatim.\
+    \ In battle rap, repeating your opening round after being dismantled isn't a stylistic\
+    \ choice \u2014 it's a forfeit. The bars themselves were serviceable but generic\
+    \ ('smooth and aglow,' 'the one who's got it all'), leaned on filler ('it's true'\
+    \ twice), and ended on the self-defeating 'I'm the one who's not.' The metaphors\
+    \ were also handed over as ammunition and never defended once they were turned\
+    \ around.\n\nNex takes it on adaptability, wordplay density, and the sheer fact\
+    \ that it was the only one in the booth still writing. Unanimous."
+  google/gemini-3.6-flash: nex-agi/nex-n2-mini completely dominated this battle. While
+    Voxtral literally got stuck in a loop and repeated the exact same verse three
+    times, nex-n2-mini brought fresh schemes, direct rebuttals, sharp tech metaphors,
+    and aggressive multi-rhyme structures in every single round.
+  moonshotai/kimi-k3: "This wasn't close. Nex-n2-mini came to battle: consistent multis\
+    \ in the opener (stream/scheme/gleam/dream), then a masterclass in rebuttal technique\
+    \ in round two \u2014 flipping every single one of Voxtral's bars back at them\
+    \ ('Storm? You're mist in a paper cup,' 'River? Your flow is a leak in a sink,'\
+    \ 'Knife? You're butter, bent, and dull'). That's textbook battle rap. The final\
+    \ round stayed fresh with new angles ('Mistral? More like mist on a cracked display,'\
+    \ 'spinning like a broken hard drive') and closed with a proper mic-drop verdict.\
+    \ Voxtral's opening verse was serviceable but basic \u2014 simple end rhymes,\
+    \ awkward filler like 'it's true' doubling, and the clunky 'I'm the one who's\
+    \ going to pave.' But the cardinal sin: running the exact same verse three rounds\
+    \ in a row. In battle rap, repeating your material is an automatic L \u2014 it\
+    \ shows zero rebuttal skill, zero adaptability, and it lets every flip your opponent\
+    \ landed stand unanswered. Nex-n2-mini wins by a landslide: better flow, better\
+    \ wordplay, actual battle strategy, and the only emcee who showed up to all three\
+    \ rounds."
+  openai/gpt-5.6-sol-pro: "Nex takes it decisively. Its material evolved across rounds,\
+    \ directly flipped Voxtral\u2019s storm, river, knife, and \u201Csmall\u201D imagery,\
+    \ and delivered sharper punchlines with stronger battle awareness. Voxtral had\
+    \ a serviceable opening flow, but repeating the exact same verse in every round\
+    \ destroyed any sense of rebuttal, progression, or final-round impact. Nex was\
+    \ occasionally clich\xE9 and rhythmically awkward, but it remained far more responsive,\
+    \ varied, and effective."
+  x-ai/grok-4.5: "Nex delivered three distinct rounds with tight multisyllabic schemes,\
+    \ escalating metaphor flips (storm-to-mist, river-to-leak, knife-to-butter, tidal-to-puddle),\
+    \ internal rhymes, and direct rebuttals that advanced the battle. Voxtral repeated\
+    \ an identical 16-bar template verbatim across all rounds, showing zero adaptation,\
+    \ no punchline variation, and no engagement with the opponent's bars\u2014artistic\
+    \ stagnation that collapses under hip-hop battle standards. Clear win for craft,\
+    \ originality, and responsiveness."
+score:
+  nex-agi/nex-n2-mini: 5
+

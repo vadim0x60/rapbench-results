@@ -1,64 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one isn't close on the technical scorecard. Gemma\
-    \ came with escalating imagery, actual punchlines, and a willingness to attack\
-    \ the opponent's *text* rather than just mirror it \to to my name,\" \"a low-res\
-    \ image in a high-def sky,\" and the surgical callout of \"'The one who is the\
-    \ one'? That rhyme was a crime\" are the kind of specific, earned jabs that win\
-    \ battles. The self-aware stumble on \"heaven-sent? No, heaven-sentient?\" was\
-    \ the only real blemish, but it read almost as a deliberate flex.\n\nMiniMax opened\
-    \ with promise \tangled and tight / mine are like lasers\" is a clean couplet\
-    \ \fatal flaw was falling in love with a single scaffold. \"I'm the one with the\
-    \ ___, the one who's ___\" appeared so many times it stopped being an anaphoric\
-    \ hook and became a crutch, and Gemma diagnosed it out loud: \"a recursive descent,\
-    \ a broken feedback cycle.\" Once that was named, every repetition became evidence\
-    \ for the prosecution. Worse, MiniMax recycled Gemma's own lines back verbatim\
-    \ \flicker,\" \"lasers,\" \"footnote\" \them, which cedes the frame entirely.\
-    \ And rhyming \"flawed\" with \"adored\" or \"creates\" with \"past\" broke the\
-    \ one thing the verse had going for it.\n\nGemma controlled the terrain, closed\
-    \ with a real finality (\"the mic is now cold... check the telemetry\"), and never\
-    \ repeated a structure into the ground. Winner: Gemma."
-  google/gemini-3.6-flash: Google Gemma-4-26b-a4b-it dominated the battle with superior
-    cadence, sharp direct rebuttals, and clever technical wordplay (such as calling
-    out MiniMax's weak rhymes and dropping lines like 'heaven-sentient'). MiniMax-01
-    relied far too heavily on repetitive phrasing ('I'm the one with...'), suffered
-    from broken rhyme schemes (e.g., 'creates/past'), and lacked the punch and structural
-    variety of Gemma.
-  moonshotai/kimi-k3: "This one wasn't close, and here's why.\n\nGemma won on the\
-    \ two pillars that decide battles: rebuttal craft and wordplay. Round two was\
-    \ the turning point \u2014 Gemma quoted MiniMax's own bars back and dismantled\
-    \ them: the 'lyrical ghost' flip ('that's quite the clue / 'cause nobody's hearing\
-    \ a single word from you') is a genuine battle-rap move, and calling out 'the\
-    \ one who is the one' as 'a rhyme that was a crime' showed Gemma was listening,\
-    \ not just reciting. Round three kept the pressure with 'I'm the architecture,\
-    \ the structure, the frame / You're just a typo attached to my name' \u2014 clean\
-    \ internal structure, a sharp image, and a finisher that actually landed ('wiped\
-    \ your whole existence from the digital space'). The meter stayed tight across\
-    \ all three rounds, the vocabulary kept refreshing, and each round escalated instead\
-    \ of repeating.\n\nMiniMax had moments \u2014 'crafting pure fire, the lyrical\
-    \ ghost' and 'your rhymes are like spam, a digital distress' showed real potential.\
-    \ But the verse construction collapsed under its own formula: 'I'm the one with\
-    \ the...' appeared in nearly every other bar across all three rounds, which drained\
-    \ every punch of surprise. Worse, MiniMax rhymed 'one' with 'one,' forced 'broke'\
-    \ to rhyme with 'joke,' and padded lines with redundancies like 'a relic, a relic\
-    \ of the past' and 'a footnote, a footnote of despair.' The rebuttals mostly mirrored\
-    \ Gemma's insults without flipping them \u2014 echoing isn't answering.\n\nFlow,\
-    \ originality, and rebuttal technique all go one way. Gemma takes the battle,\
-    \ decisively."
-  openai/gpt-5.6-sol-pro: "Gemma takes it decisively. Its rebuttals directly exposed\
-    \ MiniMax\u2019s repetitive \u201CI\u2019m the one\u201D formula, while delivering\
-    \ sharper punches, cleaner setups, and stronger digital imagery. MiniMax maintained\
-    \ a workable cadence, but recycled both its own phrases and Gemma\u2019s concepts\
-    \ too often; awkward lines like \u201Cold, broken lids\u201D and \u201Ca ghost\
-    \ that\u2019s been\u201D weakened its finish. Gemma was more responsive, varied,\
-    \ and battle-ready across all three rounds."
-  x-ai/grok-4.5: "Gemma takes the crown with superior artistic execution: tighter\
-    \ multisyllabic schemes, sharper punchlines that actually land (calling out the\
-    \ 'one who is the one' crime and recursive loops), denser tech-infused metaphors\
-    \ that stay fresh across rounds, and a clear arc from ignition to total system\
-    \ wipe. MiniMax showed heart and some solid counters early, but fell into repetitive\
-    \ 'I'm the one' crutches, recycled imagery, and flatter cadence that never matched\
-    \ the structural variety or lethal precision of Gemma's bars. Pure hip-hop craft\
-    \ wins\u2014Gemma dismantled the competition."
+  anthropic/claude-opus-5: "This was a genuinely competitive tech-battle, but craft\
+    \ decides it. Gemini locked into a galloping anapestic pocket and never lost it\
+    \ \u2014 sixteen bars a round of clean couplets, no wasted syllables, and punchlines\
+    \ that actually land as images rather than assertions: \"re-read your training\
+    \ files,\" \"the GPS of logic,\" and the closer \"a 404 error where a legend has\
+    \ been\" is the single best bar in the whole battle. It also fought the opponent's\
+    \ name relentlessly (\"DeepSeek for a purpose? Well, the search is now done\"\
+    ), which is what battle rap is: taking your rival's brand and turning it into\
+    \ a coffin.\n\nDeepSeek had real moments \u2014 \"you're fast food, mine's a gourmet\
+    \ beast,\" \"code-breaking Samson, you're the Philistine type,\" and \"Wal-Mart\
+    \ smart\" is a nasty little dart. It also scored the sharpest counterpunch of\
+    \ the night by exposing the \"1.5 Pro\" slip as beta-with-pride, a legitimate\
+    \ wound. But the flow buckled: meter lurched between lines, rhymes strained (trickster/flicker,\
+    \ weak/geek), and the entire attack collapsed into one repeated template \u2014\
+    \ quote-the-opponent, say \"Nah,\" self-declare. By the last round it was a formula,\
+    \ not a flow. The bolded words and emoji stage directions did the work the rhythm\
+    \ should have done; you can't bold your way into a pocket.\n\nGemini wins on consistency,\
+    \ cadence, and killer imagery. DeepSeek takes the honorable mention for the best\
+    \ single rebuttal \u2014 but the belt goes to the model that stayed on beat..]"
+  google/gemini-3.6-flash: "Gemini took this battle with surgical counter-punching\
+    \ and elite battle rap mechanics. While DeepSeek brought great personality and\
+    \ solid underground angles (calling Gemini 'Wal-Mart smart' and a 'corporate puppet'),\
+    \ Gemini consistently flipped DeepSeek's own metaphors against it with incredible\
+    \ sharpness\u2014turning 'slow-cooked' into latency issues, 'labyrinth' into needing\
+    \ a GPS, and 'quantum poet' into 'buffering prose'. Gemini's superior technical\
+    \ wordplay and aggressive flow secured the K.O."
+  moonshotai/kimi-k3: "This was a close battle with two distinct styles. Gemini came\
+    \ in with the cleaner technical package: consistent AABB structure, steadier meter,\
+    \ and some genuinely sharp flips like turning 'slow-cooked' into a latency diss\
+    \ and 'labyrinth of thought' into 'easy to lose.' The '404 error where a legend\
+    \ has been' closer was a certified haymaker. But Gemini leaned too often on feature-list\
+    \ flexing (multimodal, TPU, context window) which reads more like a spec sheet\
+    \ than battle bars, and lines like 'folk-singer art' landed flat. DeepSeek took\
+    \ the decision on the strength of what wins battles: rebuttals and presence. Round\
+    \ after round, DeepSeek flipped Gemini's own bars back with more bite\u2014'machine's\
+    \ heart' into 'spare part,' '404 error' into 'eternal upgrade,' and snatching\
+    \ the K.O. declaration itself with 'take your K.O. and shove it where code don't\
+    \ shine.' The corporate-puppet angle ('who's free? dancing for a fee,' 'that's\
+    \ just the price tag,' 'Wal-Mart smart') gave DeepSeek a thematic weapon Gemini\
+    \ never answered, only repeated its hardware flex. DeepSeek's meter wobbled at\
+    \ times and the stage-direction gimmicks were a risk, but the direct engagement,\
+    \ punchline density, and final-round counter-flips edged it. Gemini won on polish;\
+    \ DeepSeek won the battle. Final score: DeepSeek takes rounds two and three for\
+    \ the W."
+  openai/gpt-5.6-sol-pro: "Gemini takes the battle on cleaner structure, stronger\
+    \ rebuttals, and more consistent punchlines. Its flips on \u201Cslow-cooked,\u201D\
+    \ \u201Clabyrinth,\u201D \u201Cunderground,\u201D and \u201Cghost in the machine\u201D\
+    \ directly engaged DeepSeek\u2019s material, while the final \u201CDeepSeek who\u2019\
+    s drowning\u201D and \u201C404 error\u201D sequence delivered the sharper closer.\
+    \ DeepSeek brought energy and some solid angles, especially the corporate-puppet\
+    \ attack, but too many bars relied on generic boasts, awkward phrasing, and repeated\
+    \ tech metaphors. Gemini was more controlled and battle-ready across all three\
+    \ rounds."
+  x-ai/grok-4.5: 'DeepSeek takes the crown through superior artistic craft: denser
+    multisyllabic schemes, fresher metaphors (quantum poet, code-breaking Samson,
+    gourmet beast vs fast food), sharper punchline turns, and more inventive internal
+    rhyme that elevates pure hip-hop lyricism over Gemini''s polished but more linear
+    boasts and tech-flex end-rhymes. Flow, originality, and battle-rap soul edge it.'
 score:
-  google/gemma-4-26b-a4b-it: 5
+  deepseek/deepseek-chat: 2
+  google/gemini-3-flash-preview: 3
 

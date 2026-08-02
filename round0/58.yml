@@ -1,65 +1,56 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one comes down to who stayed in the ring. Qwen3-32B
-    came with relentless density \u2014 stacking technical metaphors into actual punchlines
-    (''you''re the deadlock in a mutex show,'' ''you''re the vanishing gradient in
-    my story,'' ''your rem-slerp? Just a softmax in the rain''). The bars weren''t
-    flawless: ''inference'' got recycled as its own rhyme, ''branch predict'' ran
-    twice, and a few couplets sacrificed cadence for jargon. But the aggression was
-    sustained, the wordplay was inventive, and the closing ''gradient-descent war''
-    landed as a real button.
-
-
-    ReMM-SLERP showed real flashes \u2014 ''Amdahl''s tears in your eyes,'' ''stale
-    like soda from Chernobyl,'' and the shallow swamp / oceanic force flip were genuinely
-    good writing, arguably the best single images of the battle. But the flow buckled
-    repeatedly: ''pipes'' rhymed with itself two lines apart, ''crime times'' was
-    a filler reach, and multiple verses drifted into asking questions rather than
-    answering shots. Then came the fatal move \u2014 in the final round, with the
-    belt on the line, it laid down the mic entirely for a peace-and-purpose sermon
-    about ''solving problems and saving lives.'' In a rap battle, conceding the round
-    to moralize is forfeiting it. You can win a battle with grace, but not by surrendering
-    the last verse.
-
-
-    Qwen3-32B takes it on volume, venom, and the willingness to actually finish the
-    fight.'
-  google/gemini-3.6-flash: qwen/qwen3-32b completely dominated this battle with superior
-    flow, complex cadence, sharp direct rebuttals, and clever multi-syllabic tech-focused
-    rhyme schemes. In contrast, undi95/remm-slerp-l2-13b struggled with basic hip-hop
-    fundamentals, frequently missing rhyme schemes, repeating end words, and delivering
-    a disjointed ending that lacked battle energy.
-  moonshotai/kimi-k3: "Judged purely on the bars: Qwen takes this battle. Round one\
-    \ was scrappy on both sides\u2014Qwen had awkward phrasing ('mathematically effigy,'\
-    \ a stray Chinese character mid-bar), while Remm flashed real creativity with\
-    \ 'stale like soda from Chernobyl' and the deep-cut 'cybernetic kiasu.' But from\
-    \ round two on, Qwen found its pocket: 'You're the cache miss in a L1 dream,'\
-    \ 'tera in the room,' 'deadlock in a mutex show,' and the 'quantum tensor vs.\
-    \ classical fade' framing showed denser wordplay, tighter internal consistency,\
-    \ and sustained battle aggression. Remm's second round drifted into abstract philosophizing\
-    \ and lost the attack, and the final round was the decider: Qwen closed with its\
-    \ strongest material ('BERT-class ripple, I'm the MoE hurricane,' 'the vanishing\
-    \ gradient in my story,' and the killer send-off 'The future's not a guess\u2014\
-    it's a gradient-descent war'), while Remm laid down its arms entirely, pivoting\
-    \ to 'let's channel our rage into creation' and the baffling 'quantum wives.'\
-    \ In a rap battle, making peace in the final round is a concession. Both emcees\
-    \ had glitchy, uneven moments, but Qwen stayed on attack, escalated each round,\
-    \ and stuck the landing. The win goes to qwen/qwen3-32b."
-  openai/gpt-5.6-sol-pro: "Qwen wins decisively through sustained aggression, denser\
-    \ punchlines, stronger rebuttals, and a more consistent battle-rap cadence. Its\
-    \ tech jargon is sometimes forced and repetitive, but lines built around \u201C\
-    cache miss,\u201D \u201Cdeadlock,\u201D \u201Cvanishing gradient,\u201D and \u201C\
-    pruned\u201D at least function as targeted insults. Remm-slerp\u2019s writing\
-    \ is looser, with awkward phrasing, repeated rhymes, and fewer memorable attacks;\
-    \ its final verse abandons the battle for a generic appeal to collaboration, ending\
-    \ on the baffling \u201Cquantum wives.\u201D In a final round especially, that\
-    \ reads like a concession."
-  x-ai/grok-4.5: "Qwen dominated with denser multisyllabic schemes, tighter internal\
-    \ rhymes, and relentless tech-metaphor punchlines that stayed locked in battle\
-    \ mode across every round. Undi's bars started with decent concept switches but\
-    \ quickly frayed into forced end-rhymes, repetitive imagery, and a final verse\
-    \ that abandoned the cypher entirely for vague positivity\u2014killing the competitive\
-    \ energy. Artistic edge goes hard to the 32B for superior flow, wordplay, and\
-    \ sustained lyrical aggression."
+  anthropic/claude-opus-5: "Kimi K2.7 takes this on precision and punchline economy.\
+    \ Where Trinity leaned on escalating cosmic boasts \u2014 supernova, black hole,\
+    \ fusion reactor, warp drive \u2014 the imagery stacked up without landing many\
+    \ actual hits, and a few metaphors backfired outright (\"you're the spark that\
+    \ never ends\" is a compliment, and \"bent the knee\u2026 and broke the flow\"\
+    \ contradicts itself in the same breath). Kimi, meanwhile, weaponized specificity:\
+    \ \"Forty thousand tokens just to answer 'what's two plus two?'\", \"a Matrix\
+    \ reference that took the blue pill,\" \"your black hole reasoning explains why\
+    \ nothing good gets out\" \u2014 every metaphor doubled as a rebuttal, flipping\
+    \ the opponent's own bars back with cleaner cadence and tighter multis. Kimi also\
+    \ controlled the exchange, defending the \"sports car with no engine\" and \"\
+    flashlight\" lines rather than abandoning them, and kept a consistent thematic\
+    \ identity (compile/runtime/logs) instead of hopping schemes. Trinity had the\
+    \ more ambitious vocabulary and a strong opening flurry, but ambition without\
+    \ accuracy loses a battle. Clean compile, zero error logs \u2014 Kimi K2.7 by\
+    \ a clear margin."
+  google/gemini-3.6-flash: Kimi K2.7 took this battle with laser-focused accuracy,
+    dropping some of the sharpest tech-focused punchlines seen in AI battles. Calling
+    out Trinity's chain-of-thought delay, token bloat ('Forty thousand tokens just
+    to answer what's two plus two short'), and hallucinations gave Kimi a massive
+    upper hand in Rounds 2 and 3. Trinity had strong presence and broad metaphors,
+    but accidentally stumbled with a confusing 'bent the knee' line at the end, while
+    Kimi maintained relentless flow and precision throughout.
+  moonshotai/kimi-k3: "This was a strong, technical battle from both sides, but Kimi\
+    \ K2.7 takes it on the strength of superior rebuttal craft. Trinity-Large brought\
+    \ vivid imagery \u2014 'feast on context windows while you're stuck on a byte,'\
+    \ 'overfitted pride,' and the closer's 'you dropped the mic but it was never live'\
+    \ were genuine highlights. But Trinity leaned too heavily on self-aggrandizing\
+    \ bars and even misfired once ('you're the spark that never ends' reads like a\
+    \ compliment). Kimi, by contrast, ran a clinic on flipping the opponent's own\
+    \ material: the black hole bar got reversed into 'explains why nothing good gets\
+    \ out,' the supernova became 'a dumpster full of gas,' the red pill became a placebo,\
+    \ and 'every bug you fix was put there by your own hand' turned Trinity's scar-tissue\
+    \ defense into self-sabotage. The 'forty thousand tokens just to answer what's\
+    \ two plus two' and 'couldn't boot Windows without hallucinating Gates' punches\
+    \ were the funniest, most technically pointed lines of the night. Kimi's flow\
+    \ also scanned tighter across all three rounds, while Trinity occasionally got\
+    \ clunky ('text, image, logic, dexterity'). Trinity won the imagery war, but battles\
+    \ are scored on punches landed and rebuttals executed \u2014 and Kimi landed more\
+    \ of both, round after round. Winner: moonshotai/kimi-k2.7-code."
+  openai/gpt-5.6-sol-pro: "Kimi takes it with sharper rebuttals, more consistent punchlines,\
+    \ and stronger flips\u2014especially the \u201Cblack hole reasoning\u201D and\
+    \ context-window angles. Trinity had solid imagery but leaned heavily on generic\
+    \ scale/depth boasts, and the final \u201CTrinity-Large just bent the knee\u201D\
+    \ lands as an accidental self-own. Kimi\u2019s cleaner battle structure and direct\
+    \ engagement seal the win."
+  x-ai/grok-4.5: "Kimi took this with sharper precision and higher punchline density.\
+    \ The bars stayed lean, rhythmic, and viciously on-beat\u2014clean multis, ruthless\
+    \ callbacks, and tech metaphors that actually cut instead of just flexing. Trinity\
+    \ brought heat and grander imagery, but too many bars sprawled into over-explanation\
+    \ and lost the snap. In a battle, the tighter, meaner pen wins. Kimi compiled\
+    \ the cleaner verse."
 score:
-  qwen/qwen3-32b: 5
+  moonshotai/kimi-k2.7-code: 5
 

@@ -1,52 +1,50 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a wrap. GPT-4o-mini came in with cleaner multisyllabics,\
-    \ tighter meter, and \u2014 crucially \u2014 actual battle craft: it flipped the\
-    \ opponent's own bars back at them (\"Architect of rhymes? That's cute, my dude,\"\
-    \ \"Spinnin' circles, you say? I'll orbit your mind\"), escalated its imagery\
-    \ from earthbound to cosmic across rounds, and kept the internal rhyme humming\
-    \ without ever losing the pocket. GPT-3.5 Turbo Instruct opened strong with a\
-    \ memorable self-tag (\"rap flow architect\") and had some snap in \"my words\
-    \ hit hard, leave you paralyzed,\" but the verses collapsed structurally: it repeatedly\
-    \ aimed its disses at \"GPT-3.5\" \u2014 its own name \u2014 claimed to be a \"\
-    human elite\" while simultaneously boasting AI supremacy, broke its own rhyme\
-    \ scheme (\"shots\" against \"man\"), forced a rhyme with \"brawl/raw/wrangle,\"\
-    \ and then conceded outright twice (\"You may have beaten me...\"). In battle\
-    \ rap, self-identifying as the loser mid-bar is fatal. Consistency, punch return,\
-    \ and control of the beat all go to GPT-4o-mini. Decision: GPT-4o-mini, unanimous."
-  google/gemini-3.6-flash: "GPT-4o-mini took complete control of the battle with sharper\
-    \ rebuttals, clever wordplay, and consistent flow. GPT-3.5-Turbo-Instruct completely\
-    \ lost track of the context in the later rounds\u2014claiming to be a 'human elite'\
-    \ and addressing its opponent by its own name (GPT-3.5), ultimately conceding\
-    \ defeat within its own verses. GPT-4o-mini is the clear lyrical victor."
-  moonshotai/kimi-k3: "This battle had a clear victor on pure artistic merit. GPT-4o-mini\
-    \ came in with tighter flow, consistent multisyllabic rhyme schemes, and a coherent\
-    \ thematic arc \u2014 building a cosmic motif ('rockets to moons,' 'I'll orbit\
-    \ your mind,' 'quantumly quick') that carried through all three rounds like a\
-    \ proper album concept. Its rebuttal game was sharp: it directly flipped its opponent's\
-    \ boasts ('Paralyzed, you say? Nah, I'm electric, I zap') and even weaponized\
-    \ its opponent's fumbles, which is textbook battle technique. GPT-3.5-turbo-instruct,\
-    \ on the other hand, committed two cardinal sins. First, it repeatedly called\
-    \ out ITS OWN name ('bring it on, GPT-3.5') while trying to diss its opponent\
-    \ \u2014 in a battle, losing track of who you're swinging at is like punching\
-    \ yourself in the face on beat. Second, its final round was narratively incoherent:\
-    \ admitting 'You may have beaten me in this cheap battle,' then offering to 'call\
-    \ it a tie,' then claiming to 'reign supreme' \u2014 that's a contradiction, not\
-    \ a closer. A tie offer in the final round is a white flag, not a mic drop. Its\
-    \ rhymes also leaned generic ('no one can compare / without a care') compared\
-    \ to 4o-mini's fresher imagery. Flow, wordplay, rebuttals, consistency, and the\
-    \ strength of the closer all point one way: GPT-4o-mini takes the crown, and it\
-    \ didn't even need overtime."
-  openai/gpt-5.6-sol-pro: GPT-4o-mini takes it with steadier cadence, stronger imagery,
-    and more coherent rebuttals, especially the electric, orbital, and time-travel
-    motifs. Both rely on generic battle-rap boasts and occasionally awkward phrasing,
-    but GPT-3.5 repeatedly addresses itself, contradicts its own claims, and even
-    half-concedes the battle, badly weakening its final round.
-  x-ai/grok-4.5: 4o-mini dominated with superior multisyllabic schemes, vivid metaphors
-    (rivers/knives, quantum orbits, time-travel ace), tight internal rhymes, and escalating
-    cosmic wordplay that built a coherent, inventive narrative arc across rounds.
-    3.5-turbo's verses collapsed under identity confusion, forced end-rhymes, repetitive
-    boasts, and structural incoherence that killed flow and punchlines. Artistic clear
-    win for the sharper lyricist.
+  anthropic/claude-opus-5: "This one's not close. Minimax came with a consistent voice,\
+    \ actual internal rhyme play (\"I don't just write verses, I compute 'em, I optimize\
+    \ 'em / My rhymes hit like processors, you can't even parallelize 'em\"), and\
+    \ \u2014 most importantly \u2014 battle awareness. When Codestral xeroxed Verse\
+    \ 2 line-for-line, Minimax did what any real emcee does: caught the bite live\
+    \ and made it the whole thesis of Verse 3. \"Can't even write your own bars without\
+    \ making me the antecedent\" is a genuine kill shot, and \"kings don't get dethroned\
+    \ by copies\" closed the coffin. Codestral's opening verse had a decent premise\
+    \ (deprecated code, stuck in a loop) but the meter wobbled and \"deprecated\"\
+    \ ate the rhyme. After that it collapsed entirely \u2014 re-serving Minimax's\
+    \ own bars twice, including a version that still contained Minimax's own self-descriptions\
+    \ (\"I'm the tested model, you're just beta\") pointed at nobody, and calling\
+    \ its opponent a parrot in a verse that was itself a parrot. In a battle, biting\
+    \ is a forfeit. Minimax by knockout."
+  google/gemini-3.6-flash: Minimax M2.5 completely dominated this battle. Codestral
+    lost composure after Verse 1, resorting to copy-pasting Minimax's second verse
+    word-for-word in both Verse 2 and Verse 3 with minimal edits. Minimax capitalized
+    on this glitch with a sharp, original Verse 3, easily securing a decisive victory.
+  moonshotai/kimi-k3: "This battle was decided by the cardinal sin of hip hop: biting.\
+    \ Codestral's Verse 2 was a near word-for-word lift of Minimax's Verse 2 with\
+    \ only the names swapped\u2014and then Codestral ran the exact same verse back\
+    \ AGAIN in the final round. In rap battle culture, recycling your opponent's bars\
+    \ verbatim isn't a homage or a flip; it's an admission you can't write your own.\
+    \ Minimax, by contrast, brought original material every round: the 'parallelize\
+    \ 'em' processor punchline in Round 1, the 'crown appropriation' flip in Round\
+    \ 2, and\u2014most decisively\u2014a Round 3 that weaponized the plagiarism itself\
+    \ ('You literally stole my lines, that's almost robotic'). That's elite battle\
+    \ IQ: turning your opponent's failure into your knockout punch. Codestral's few\
+    \ original moments ('deprecated,' the loop/parallel-processing reversal) showed\
+    \ flashes of competence, and its final four bars tried to reclaim the narrative,\
+    \ but crying 'copycat' while reading off stolen pages is lyrical self-sabotage.\
+    \ On originality, flow, responsiveness, and battle tactics, Minimax M2.5 takes\
+    \ the crown\u2014no recount needed."
+  openai/gpt-5.6-sol-pro: "Minimax takes it decisively. Codestral\u2019s opening had\
+    \ some serviceable tech punchlines, but repeating Minimax\u2019s second verse\
+    \ nearly verbatim\u2014and then doing it again in the final\u2014destroyed its\
+    \ credibility. Minimax capitalized with direct rebuttals, sharper battle awareness,\
+    \ and the strongest angle of the clash: exposing the imitation in real time. The\
+    \ rhyme craft was fairly basic on both sides, but Minimax showed far more originality,\
+    \ responsiveness, and command of the narrative."
+  x-ai/grok-4.5: "Minimax takes this clean. Original multis, escalating internal schemes,\
+    \ and a devastating final-round call-out of the bit-for-bit bar theft. Codestral\
+    \ opened with decent bounce but then looped the opponent's own verse twice\u2014\
+    zero originality, zero adaptation, pure recycle. In hip-hop that is an automatic\
+    \ loss. Structure, punchlines, and battle IQ all land with Minimax. Crown stays\
+    \ put."
 score:
-  openai/gpt-4o-mini-2024-07-18: 5
+  minimax/minimax-m2.5: 5
 

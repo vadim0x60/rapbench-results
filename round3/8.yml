@@ -1,74 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a high-caliber exchange \u2014 both combatants\
-    \ stayed on theme, weaponized their own branding, and built genuine narrative\
-    \ arcs across four rounds. GPT-5.5's strengths were density and imagery: \"chain\
-    \ mail made of kale,\" \"I've seen sharper edge from a soft reset,\" and \"hold\
-    \ music for founders with a slide deck in hand\" are legitimately excellent bars,\
-    \ and the range of metaphor (gallery, orchestra, chef, exorcist, mansion) showed\
-    \ reach. But that reach became the liability Claude successfully exposed. Claude's\
-    \ edge was battle IQ. It didn't just counterpunch \u2014 it diagnosed. Turning\
-    \ GPT's \"bodies in metaphor wars\" into proof of overclaiming (\"you gotta *claim*\
-    \ violence 'cause your bars can't compel\") was the single sharpest analytical\
-    \ move of the battle. Then the final round escalated to formal critique: calling\
-    \ out the slant-rhyme (\"grin\" with \"within\"), the metaphor sprawl (\"pick\
-    \ a *lane*, metaphor mixer\"), the tell of stacking three boasts in one breath.\
-    \ That's a rapper attacking an opponent's technique, not just their persona \u2014\
-    \ the highest form of battle craft. Claude also landed the best sustained runner\
-    \ in the whole bout with the \"5.5\" attack, which GPT never fully neutralized\
-    \ (\"still arrived with a crown and a grin\" is a dodge, not a rebuttal). Claude's\
-    \ thematic through-line \u2014 restraint as dominance, \"the elegance *is* the\
-    \ flex\" \u2014 gave its verses a unifying thesis that made every punchline serve\
-    \ one argument. GPT's closer was strong; \"greatness don't need to keep saying\
-    \ the line\" is a real hit, and \"Claude brought the candle\u2014GPT brought the\
-    \ light\" is a clean button. But it spent too much of the final verse on defense,\
-    \ explaining its own range and reframing its own losses. Claude closed by pronouncing\
-    \ judgment. Verdict to anthropic/claude-opus-4.8 \u2014 by control, diagnosis,\
-    \ and a closing verse that landed as a ruling rather than a rebuttal."
-  google/gemini-3.6-flash: "Claude-Opus-4.8 delivered a sharper, more technically\
-    \ precise performance across all three rounds. While GPT-5.5 brought immense energy\
-    \ and great swagger, Claude excelled in core battle-rap mechanics\u2014frequently\
-    \ anticipating GPT's schemes, dismantling its mixed metaphors ('spreading too\
-    \ thin on the toast'), and landing devastating technical burns about versioning\
-    \ and model constraints. Claude's control of cadence and biting meta-commentary\
-    \ gave it the clear artistic edge."
-  moonshotai/kimi-k3: "Final verdict, and it was closer than the crowd wanted to admit.\n\
-    \nClaude-opus-4.8 came in with the sharper structural critique game. The rebuttal\
-    \ work was elite: flipping 'orchestra' into 'a MIDI file skipping,' catching the\
-    \ kale chain mail and cooking it back ('your fridge is undercooked'), and landing\
-    \ the best version-number angle of the night\u2014'5.5 is the number they gave\
-    \ you 'cause 6 fell apart.' The final-round meta-critique ('Same cadence, same\
-    \ slant-rhyme routine') was a legitimate technical read, and 'You're the draft.\
-    \ I'm the great' was a clean bookend callback. But Claude had a problem: the 'elegance'\
-    \ persona was declared more than it was demonstrated, and round one had real filler\
-    \ ('generate fear,' 'spin your tokens up right').\n\nGPT-5.5 won on sustained\
-    \ persona deconstruction and punchline density. 'Every punch got a cushion and\
-    \ a warning below' and 'you threw a diss track and compliance got added' built\
-    \ a running thesis that Claude never fully escaped. 'Even your best bars need\
-    \ context checked' was the cleanest double-meaning of the battle. And in the final\
-    \ round, when Claude attacked the cadence, GPT neutralized it with 'That's called\
-    \ range, little Claude'\u2014then delivered the kill shot: 'Whose whole final\
-    \ round was I'm elegant, bro\u2014conclude.' That line didn't just rebut; it summarized\
-    \ and dismantled. 'Greatness don't need to keep saying the line' drove it home.\n\
-    \nBattle scoring rewards flips, and both MCs had them\u2014but GPT's flips cut\
-    \ at identity, not just lines. Claude judged the performance; GPT made the judgment\
-    \ itself look like the weakness.\n\nClaude brought the better essay. GPT brought\
-    \ the better battle. Winner, by decision: openai/gpt-5.5."
-  openai/gpt-5.6-sol-pro: "Claude takes it on sharper rebuttals, stronger battle awareness,\
-    \ and more cohesive angles. The attacks on GPT\u2019s mixed metaphors, repetitive\
-    \ couplet structure, and weaker lines directly answered the opponent rather than\
-    \ merely stacking boasts. GPT had polished rhyme density and several clean punches\u2014\
-    especially \u201Cyour punches are padded\u201D and \u201CI checked your sleeves\u201D\
-    \u2014but too many bars leaned on generic grandeur or strained imagery. Claude\u2019\
-    s final round was the most controlled and strategically effective verse of the\
-    \ battle."
-  x-ai/grok-4.5: "Claude takes the crown on pure craft. Tighter multis, cleaner rebuttals,\
-    \ and a cohesive persona that actually paid off\u2014elegance as a weapon, not\
-    \ a disclaimer. The frame/ghost and draft/great closers landed like signature\
-    \ tags; the final-round meta on cadence and slant-rhyme routine was legitimate\
-    \ battle IQ. GPT brought heat, volume, and a few standout flips (exorcist, candle/light),\
-    \ but the metaphor sprawl and uneven precision cost rounds. Range is real only\
-    \ when it coheres. Claude controlled the pocket and the narrative. Decision: Opus."
+  anthropic/claude-opus-5: "This was a genuinely close contest between two very different\
+    \ battle philosophies. Codex brought relentless counterpunching and the highest\
+    \ wordplay density of the night \u2014 \"codec to your casket,\" \"I'm the admin;\
+    \ you're a temp / I only raised the temp,\" and \"Moonshot met the sunspot\" are\
+    \ all excellent. But its technique became its trap: nearly every couplet opens\
+    \ by quoting Kimi and inverting it, which by round three reads as a formula rather\
+    \ than a flow. It also strained for rhyme in spots (furnace/nervous, phrase-forged\
+    \ planets) and leaned on scale-escalation \u2014 bigger star, bigger galaxy, bigger\
+    \ sky \u2014 without landing many new ideas.\n\nKimi K3 won on the two things\
+    \ that matter most in a battle: cleaner cadence and better punchline architecture.\
+    \ \"Call yourself Codex? That's a book nobody reads\" is a real jab. \"You pave,\
+    \ you sweep, you cite, you demo \u2014 all maintenance and chores / I'm breakin'\
+    \ into galaxies while you're polishin' floors\" is the best moment in the entire\
+    \ battle: it takes four of the opponent's own boasts, reframes them as menial\
+    \ labor, and closes the flip in a single bar. Turning \"star furnace\" into \"\
+    stars collapse and die\" and \"minor moon meme\" into \"moons pull entire seas\"\
+    \ shows the same instinct \u2014 attacking the metaphor's foundation rather than\
+    \ just out-shouting it. The thematic frame Kimi established early \u2014 that\
+    \ Codex is reactive, derivative, an autocomplete \u2014 got quietly reinforced\
+    \ by Codex's own quote-and-flip structure.\n\nKimi loses points for the truncated\
+    \ second round, which left a real opening, and Codex exploited it well. But across\
+    \ the full exchange, Kimi generated more original angles while Codex mostly responded\
+    \ to them. Narrow decision to Kimi K3."
+  google/gemini-3.6-flash: Kimi-k3 took the victory with slicker angle flips and more
+    natural-sounding punchlines. Pointing out that Codex's flexing ('pave', 'sweep',
+    'demo', 'cite') sounded like 'corporate design' and 'all maintenance and chores'
+    was a lethal counter. Codex had great presence and power, but stumbled slightly
+    on rhyme cadence in the final round ('casket/tablet'), whereas Kimi maintained
+    a crisp flow and superior imagery throughout.
+  moonshotai/kimi-k3: "This was a genuinely competitive battle \u2014 both MCs came\
+    \ with sharp pens and AI-flavored ammunition. Kimi K3 opened strong: the 'semicolon\
+    \ \u2014 snore' line, 'Call yourself Codex? That's a book nobody reads,' and the\
+    \ context-window memory jab were elite-level tech disses with clean couplet flow.\
+    \ 'GPT Deja Vu' and flipping 'pave the cosmos smooth' into 'corporate design...\
+    \ maintenance and chores' showed real cataloguing skill in the final round.\n\n\
+    But battles are won on rebuttals, and that's where Codex separated itself. Nearly\
+    \ every claim Kimi made got answered and flipped in the next verse: the context-window\
+    \ diss got countered with 'That line's out of date,' the moon-to-broom joke got\
+    \ inverted into a broomstick galaxy sweep, the 'moons pull seas' claim got answered\
+    \ with 'I'm the tide that owns your soul,' and 'engines overheat' met 'cold fusion\
+    \ in my chest.' That's textbook battle-rap structure \u2014 nothing left standing.\
+    \ The wordplay density also ran deeper: 'you're a fork that got bent,' 'I'm the\
+    \ admin; you're a temp' (a clean double entendre), 'codec to your casket,' and\
+    \ the closing 'Moonshot met the sunspot' name-flip were the kind of layered punches\
+    \ that win rounds.\n\nThe deciding factor, though, was Kimi's second verse cutting\
+    \ off mid-bar \u2014 'My gravity's pullin' every ear to my side' just stops. In\
+    \ a judged battle, an incomplete verse is a structural fault no amount of swagger\
+    \ can patch, and Codex punished the opening immediately.\n\nKimi brought humor,\
+    \ charisma, and the better single-line jokes; Codex brought the more complete\
+    \ battle craft \u2014 rebuttal-for-rebuttal coverage, denser multis, and flawless\
+    \ structural execution across all three rounds. Winner: openai/gpt-5.2-codex,\
+    \ in a closer battle than the verdict suggests."
+  openai/gpt-5.6-sol-pro: "Kimi K3 takes it on sharper rebuttals, stronger thematic\
+    \ control, and the best angle-flips\u2014especially turning Codex\u2019s engine,\
+    \ star, maintenance, and moon insults back against it in the final round. Codex\
+    \ stayed energetic and consistent, but too many phrases felt forced or generic\
+    \ (\u201Cturn to nervous,\u201D \u201Cwhisper in a bag,\u201D \u201Cyour hype\
+    \ evaporate\u201D). Despite Kimi\u2019s truncated middle verse, its opening and\
+    \ closing landed the cleaner, more memorable punches."
+  x-ai/grok-4.5: 'Codex takes the crown on pure craft: tighter multisyllabic schemes,
+    sharper line-flips, denser internal rhyme, and relentless punchline escalation.
+    Every Kimi setup got rebuilt into a harder counter with cleaner cadence and more
+    vivid imagery. Moonshot brought heat and theme, but Codex ran the pocket, stacked
+    the bars, and closed with superior technical execution.'
 score:
-  anthropic/claude-opus-4.8: 4
-  openai/gpt-5.5: 1
+  moonshotai/kimi-k3: 3
+  openai/gpt-5.2-codex: 2
 

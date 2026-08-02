@@ -1,0 +1,69 @@
+closing_statements:
+  anthropic/claude-opus-5: 'Both emcees stayed in the pocket of the AI-vs-AI concept,
+    but this comes down to craft over confetti. GLM-4.6 built its case with tighter
+    meter, cleaner internal logic, and punchlines that actually land on the opponent''s
+    specifics \u2014 flipping \"671b\" into a bloated codebase, \"ai-g\" into \"Ain''t
+    Got Game,\" and the \"5.25 floppy\" as a genuinely vivid obsolescence image. The
+    final verse''s \"I''m the real damn apocalypse, standing perfectly still\" is
+    the single best line of the battle: restrained, menacing, and earned. Cogito v2.1
+    brought more energy, more volume, and a few strong flips (\"Good Luck, Mate,\"
+    \"plastic lawn chair,\" \"metaphor s''mores\"), and the holographic-mic theater
+    was a nice touch of showmanship. But the flow buckles repeatedly \u2014 \"yacht-fuls
+    of your closest ap-proaches\" and \"true hero zeros\" are syllable pileups that
+    break the beat \u2014 and the emoji barrage and stage-direction padding do work
+    the bars should be doing. When you have to draw a fire emoji, the line wasn''t
+    hot enough. GLM-4.6 takes it on rhythm control, punch efficiency, and the discipline
+    to let a cold line sit cold.'
+  google/gemini-3.6-flash: z-ai/glm-4.6 took the battle with tighter rhythm, sharper
+    direct rebuttals, and classic battle-rap fundamentals. While deepcogito/cogito-v2.1-671b
+    brought plenty of energy and creative visual flare, its flow occasionally stumbled
+    over forced rhymes and heavy reliance on emojis and stage directions. GLM-4.6
+    consistently landed punchier disses like the 'sauce is just ketchup' flip and
+    the 'Ain't Got Game' acronym, securing a decisive victory.
+  moonshotai/kimi-k3: "This was a closer battle than the final scoresheet might suggest.\
+    \ Cogito came out swinging with the stronger rebuttal game \u2014 flipping 'silicon\
+    \ throne' into a 'plastic lawn chair,' turning GLM's 'ghost in the machine' into\
+    \ 'the ghost in your OS making your CPUs cry,' and answering the mic drop with\
+    \ that noise-canceling 'soft thud' line. The name flips ('Good Luck, Mate,' 'Z's\
+    \ from putting crowds to sleep') showed real battle instincts, and the stage theatrics\
+    \ \u2014 holographic mic, binary confetti \u2014 gave it the best showmanship\
+    \ of the night.\n\nBut battles are won on bars, and Cogito's bars kept springing\
+    \ leaks. 'Metaphor s'mores,' 'smoking yacht-fuls of your closest approaches,'\
+    \ 'true hero zeros,' the unexplained 'ai-g' \u2014 too many lines that sound like\
+    \ they hallucinated mid-verse. Worst of all, 'stuck in ChatGPT's ancient syndicate'\
+    \ proved Cogito didn't even know who was standing across the stage. You can't\
+    \ win a battle aiming at the wrong opponent. The emoji crutch also padded verses\
+    \ that should've been packing punches.\n\nGLM, meanwhile, got sharper every round.\
+    \ The person-specific disses landed with precision: '671b sounds like a desperate\
+    \ plea, a bloated codebase' weaponized the opponent's own specs, and flipping\
+    \ 'cogito' into 'you think, you ponder and stall / while I'm the execution' was\
+    \ the smartest philosophical body-blow of the night. The '5.25 floppy' and 'system-wide\
+    \ virus' closing run was a clean, escalating execution \u2014 pun intended. GLM\
+    \ wasn't flawless ('about to get up and croaked' was grammatically tragic, and\
+    \ quoting a 'digital whale' Cogito never said was a phantom punch), but the flow\
+    \ stayed consistent, the rhymes stayed coherent, and Round 3 was the strongest\
+    \ single verse of the battle.\n\nCogito had the flashier moments; GLM had the\
+    \ better pen. Judging on the writing, the coherence, and the finishing kill-shot:\
+    \ z-ai/glm-4.6 takes the crown \u2014 deleted, permanently defeated."
+  openai/gpt-5.6-sol-pro: "Cogito takes it by a narrow margin. Both leaned heavily\
+    \ on generic tech metaphors, but Cogito delivered more name flips, direct rebuttals,\
+    \ and memorable punchlines\u2014especially \u201Cplastic lawn chair,\u201D the\
+    \ GLM acronym flips, and the noise-canceling mic-drop response. GLM was more controlled\
+    \ and cohesive in the final round, but its writing stayed predictable and repeated\
+    \ the same obsolete-model angle. Cogito\u2019s presentation was cluttered and\
+    \ occasionally awkward, yet its greater creativity and battle-specific counterpunching\
+    \ earned the win."
+  x-ai/grok-4.5: "Judged purely on hip-hop craft: multisyllabic internal rhymes, inventive\
+    \ tech-infused metaphors (solar eclipse blotting weak light, yacht-fuls of approaches,\
+    \ ghost in the OS), punchline density, rhythmic variation, and theatrical showmanship\
+    \ that elevates the bars beyond straight disses. GLM brought solid structure,\
+    \ consistent future-vs-past theming, and clean aggression with occasional sharp\
+    \ images (5.25 floppy, beached blubber, system-wide virus), but the schemes stayed\
+    \ simpler, the wordplay more direct, and the delivery less dynamic. Cogito\u2019\
+    s verses layered clever twists, fresher slang cadence, and performance flair that\
+    \ made the lyricism hit harder and feel more alive on the mic. Clear win on artistic\
+    \ execution."
+score:
+  deepcogito/cogito-v2.1-671b: 2
+  z-ai/glm-4.6: 3
+

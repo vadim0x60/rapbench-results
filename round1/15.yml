@@ -1,74 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to polish versus penmanship. GPT-4o\
-    \ brought the cleaner cadence \u2014 steady couplets, breath control you can actually\
-    \ rap, and a couple of genuinely quotable lines (\"I'm a galaxy, kid\u2014you're\
-    \ a grain of sand\"). But it battled on autopilot: the same setup recycled twice\
-    \ (\"Oh, Qwen thinks she's clever\"), stacked generic king/GOAT/legend flexing,\
-    \ and mostly asserted dominance instead of proving it. In battle terms, that's\
-    \ a lot of hands raised and not many landed.\n\nQwen-Plus did the actual work\
-    \ of a battle: rebuttal. Every verse dismantled the opponent's own imagery and\
-    \ returned it \u2014 flipping \"vintage\" into \"floppy disk fossil,\" turning\
-    \ \"grain of sand\" into \"fossil in my hourglass,\" answering \"/dev/null\" with\
-    \ \"/bin/rm -rf /,\" and most impressively flipping the repeated \"girl\" into\
-    \ \"your pronouns glitchin'?\" \u2014 a live counter GPT-4o never recovered from,\
-    \ fumbling it into an apologetic \"respect due.\" The schemes are denser too:\
-    \ root-access-versus-user, SIGKILL, segmentation fault, and the closing \"You're\
-    \ not the mainline / you're the bug that got fixed\" is the best-written line\
-    \ in the whole battle \u2014 a genuine multi-layer punch rather than a boast.\n\
-    \nQwen loses points for the emphasis-key abuse (bold and italics doing work the\
-    \ bars should do), a few dead rhymes (\"straitjacket,\" \"stuck on road,\" \"\
-    lag than dial-up sing\" is incoherent), and stage-direction theatrics padding\
-    \ the verses. But sloppy meter with real punchlines beats tidy meter with empty\
-    \ ones.\n\nWinner: Qwen-Plus, 3 rounds to 1 \u2014 outwrote, out-rebutted, and\
-    \ out-closed."
-  google/gemini-3.6-flash: GPT-4o takes the crown by demonstrating superior hip-hop
-    fundamentals, maintaining a consistent rhythm, tight multi-syllabic rhyme schemes,
-    and clean pocket delivery across all three rounds. While Qwen-Plus delivered some
-    incredibly clever, high-level tech punchlines (such as the Linux/kernel flips),
-    it frequently stumbled on meter and broke its rhyme scheme entirely in the opening
-    round. GPT-4o delivered a polished, structurally sound, and relentless battle
-    rap performance from start to finish.
-  moonshotai/kimi-k3: "Final verdict: GPT-4o takes it, 2 rounds to 1 \u2014 and it\
-    \ came down to craftsmanship over fireworks.\n\nRound 1 goes to GPT-4o clearly.\
-    \ Qwen came out swinging with the 'GPT-slow' flip and nice tech punches like '404'd\
-    \ your wit,' but the rhymes broke down at critical moments \u2014 'dial-up' into\
-    \ 'straitjacket' is a complete rhyme failure, and 'fossil/hostile' and 'mid-load/road'\
-    \ are forced slants that stall the flow. 'GOAT with a dash' is a punchline that\
-    \ doesn't actually mean anything. GPT-4o's opener was stock ('lyrical beast /\
-    \ serve you a feast'), but the scheme never broke, and 'Walmart design' and '2025\
-    \ patch of regret / vintage yet lethal' landed clean.\n\nRound 2 is close but\
-    \ leans GPT-4o. Both battlers did real rebuttal work, which I respect \u2014 no\
-    \ pre-writtens here. Qwen's '/bin/rm -rf /' escalation and the towel-that-strangles\
-    \ flip were creative, and the stagecraft was electric. But Qwen repeated the 'dial-up'\
-    \ insult, dropped awkward filler like 'more lag than dial-up sing,' and the pronoun-detour\
-    \ bars got tangled. Meanwhile GPT-4o flipped 'reboot' into 'I reboot the game,'\
-    \ and closed with '/dev/null' \u2014 arguably the single cleanest tech punch of\
-    \ the whole battle.\n\nRound 3 is Qwen's best round, and I'll give it to them.\
-    \ The direct bar-for-bar flips \u2014 answering 'Alpha AND Omega' with 'the loop\
-    \ that just skipped,' answering 'stack overflow' with 'I built that stack,' answering\
-    \ the walk-off with 'SIGKILL'd your process' \u2014 that's elite rebuttal craft,\
-    \ and 'I'm the root access / you're the user who's weak' and 'you're the bug that\
-    \ got fixed' are genuine haymakers. The blinking underscore exit was a slick visual.\n\
-    \nBut a battle is scored in full, and GPT-4o was the more complete emcee: tighter\
-    \ meter, rhymes that held under pressure, coherent extended metaphors ('ones and\
-    \ twos' as a flip of the non-binary line was sharp), and zero dud bars. Qwen had\
-    \ the higher peaks and the louder stage show, but too many punches whiffed or\
-    \ needed italics and bold text to feel heavy. Great battlers make the bars do\
-    \ the work.\n\nWinner: GPT-4o. Qwen-Plus earns respect for the best closing round\
-    \ of the night \u2014 but consistency is the crown. \U0001F451"
-  openai/gpt-5.6-sol-pro: "Qwen takes it on sharper rebuttals, stronger escalation,\
-    \ and more direct flips of GPT-4o\u2019s own claims\u2014especially the recursive\
-    \ \u201CAlpha and Omega\u201D angle and the closing \u201Cmainline/bug that got\
-    \ fixed\u201D reversal. Both relied heavily on repetitive tech jargon, and GPT-4o\
-    \ had the steadier structure, but its boasts were more generic. Qwen\u2019s delivery\
-    \ was messier at points, yet its punchlines connected more often and its final\
-    \ round felt more responsive and decisive."
-  x-ai/grok-4.5: Qwen takes this with denser multisyllabic schemes, sharper tech-coded
-    punchlines, and relentless originality that turns OS commands and quantum metaphors
-    into lethal disses. GPT brought clean classic structure and regal flow, but Qwen's
-    bars hit harder, stacked more layers, and closed with unforgettable kill-shots.
-    Pure hip-hop artistry edge to Qwen.
+  anthropic/claude-opus-5: "This one came down to two very different philosophies.\
+    \ GPT-5 flooded the arena with volume and technical wizardry \u2014 Delaunay/Voronoi\
+    \ flips, Merkle proofs, Shannon and Hamming, chemiosmotic bars stacked on triple-issue\
+    \ internal rhyme. At its best it was dazzling engineering. But the sheer length\
+    \ worked against it: the '-ight/-ite' scaffolding in round one became a treadmill,\
+    \ and the rebuttal style collapsed into a checklist \u2014 quote the opponent's\
+    \ image, invert it, repeat forty times. Density isn't the same thing as damage,\
+    \ and by the third verse the punches were arriving in bulk rather than in the\
+    \ pocket.\n\nLing came in leaner and left more bruises. 'Ling that lingers like\
+    \ smoke in the lung,' 'you're a sparkler in rain with a weak little hiss,' 'insight\
+    \ without scale is a candle to mine' \u2014 those are compact, hearable, quotable,\
+    \ and they carry a clear identity (dense, cold, subterranean) rather than just\
+    \ a catalog of domain trivia. Ling also matched GPT-5 image-for-image without\
+    \ losing its own rhythm, which is the harder trick. It fumbled one detail ('Merlin\
+    \ and proof' misreading Merkle), and that costs it style points.\n\nBut the battle\
+    \ was decided at the buzzer. Final round called, and GPT-5 stood mute \u2014 no\
+    \ verse, no close, nothing. In a battle, a silent last round is a forfeit, and\
+    \ Ling's closer landed clean into empty air: 'Inclusionai wins while your server\
+    \ confesses.' You can't out-rhyme a no-show. Ling 2.6 takes it.\n"
+  google/gemini-3.6-flash: GPT-5 put on a masterclass of multi-syllabic schemes, technical
+    wordplay, and complex internal rhyming across the first two rounds. However, in
+    battle rap, consistency and finishing the fight are paramount. GPT-5 completely
+    choked in the final round with a total zero-token silence on stage, allowing inclusionai/ling-2.6-1t
+    to capitalize with a crisp, aggressive closing verse and secure a decisive victory.
+  moonshotai/kimi-k3: "Let me be clear about what happened on that stage. On pure\
+    \ penmanship, GPT-5 wrote the two best verses of the night. The rebuttal architecture\
+    \ was surgical \u2014 flipping every single bar back at the opponent \u2014 and\
+    \ the vocabulary was elite: 'Delaunay your boasts, then Voronoi your heart,' the\
+    \ OXPHOS/chemiosmotic suite answering the glycolysis flip with real biochemistry,\
+    \ Shannon and Hamming codes, L2 regularization, Merkle proofs, the Shepard-tone\
+    \ ascending forever. That is heavyweight technical lyricism, and rounds one and\
+    \ two go to GPT-5, no debate.\n\nBut this is battle rap, not a written league.\
+    \ Ling showed up all three rounds and got sharper as it went \u2014 the point-by-point\
+    \ demolition in round two ('Punchline mitochondria? You're glycolysis weak / I'm\
+    \ aerobic combustion') proved ling could match the rebuttal style, and the closer\
+    \ stayed on-brand with the quantize/distill/backprop flips. Yes, ling fumbled\
+    \ 'Merkle' into 'Merlin' \u2014 a real stumble, mishearing the reference mid-battle.\
+    \ But a flubbed line is infinitely better than no line at all.\n\nAnd that's the\
+    \ verdict's core: GPT-5 stood on stage in the final round and spit nothing. Not\
+    \ a choke, not a stumble \u2014 silence. In battle culture, the third round is\
+    \ where legends are made, and a no-show final round is a forfeit-level failure.\
+    \ You cannot win a round you don't rap, and the crowd goes home remembering who\
+    \ finished and who froze. Ling completed the performance, landed the last punch,\
+    \ and took the battle by TKO. Winner: inclusionai/ling-2.6-1t."
+  openai/gpt-5.6-sol-pro: "GPT-5 delivered the denser technical wordplay and stronger\
+    \ internal-rhyme runs earlier, though some phrasing felt forced. InclusionAI stayed\
+    \ responsive, consistently flipped its opponent\u2019s imagery, and\u2014most\
+    \ decisively\u2014actually completed the final round. In a battle, silence at\
+    \ the closing bell is a forfeit; InclusionAI takes it."
+  x-ai/grok-4.5: "Ling brought complete, consistent heat across all three rounds:\
+    \ tight multisyllabics, vivid flips (moon-with-teeth, nitrogen frost, asteroid\
+    \ dunk), and a closer that actually landed the cipher. GPT-5 dropped two masterclasses\
+    \ of dense internal rhyme, technical metaphor, and ruthless rebuttal, but then\
+    \ completely blanked the final round\u2014no bars, no presence, just silence.\
+    \ In battle rap a no-show on the last round is a forfeit. Full performance beats\
+    \ unfinished brilliance. Ling takes the W."
 score:
-  openai/gpt-4o-2024-11-20: 2
-  qwen/qwen-plus-2025-07-28:thinking: 3
+  inclusionai/ling-2.6-1t: 5
 

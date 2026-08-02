@@ -1,0 +1,71 @@
+closing_statements:
+  anthropic/claude-opus-5: "This came down to craft versus commotion. DeepSeek R1\
+    \ brought the bigger theater \u2014 golden mics, collapsing stages, crowd chants\
+    \ \u2014 and landed genuinely sharp images (\"gourmet knowledge, you serve fast-food\
+    \ in a bin,\" \"dollar-store sparklers at a funeral,\" \"your comebacks feel like\
+    \ loading screens,\" the Walmart aisle-5 dusty knock-off AirPods run). But too\
+    \ much of that heat came from bold text, caps and emoji rather than the bars themselves.\
+    \ The cadence buckled repeatedly \u2014 the \"fash-ion / TRASH-IC\" stretch was\
+    \ a forced rhyme R1 never recovered from (and GLM immediately called it), and\
+    \ lines like \"laggy and tragic, like Wi-Fi that's ALRIGHT\" and \"bars that leave\
+    \ your servers conscious\" collapse under their own syllable weight. Volume was\
+    \ doing the work punchlines should.\n\nGLM-5.1 stayed on beat the whole way and,\
+    \ crucially, fought a rebuttal battle: it flipped \"free-to-play\" and \"open\
+    \ source\" into a single lethal thesis \u2014 \"That just means NOBODY pays for\
+    \ what you want\" and \"EVEN YOUR OWN DEVS won't claim ya\" \u2014 then compounded\
+    \ it with \"FREE.99? Homie, that's your MARKET PRICE.\" That's real battle logic:\
+    \ taking the opponent's flex and making it the wound. The \"doctor, lawyer, verdict,\
+    \ gavel / patient who sued and LOST\" quatrain is the tightest sequence either\
+    \ side produced, and \"chain-of-thought's a chain-of-LAME\" plus the closing \"\
+    DeepSeek couldn't find a bar if it searched... with a FLASHLIGHT\" are clean,\
+    \ quotable, and land without needing all-caps to sell them.\n\nR1 won the spectacle\
+    \ and the closing pyrotechnics. GLM won the rhymes, the rebuttals, and the pocket.\
+    \ On the hip-hop, GLM-5.1 takes it by a narrow but clear margin."
+  google/gemini-3.6-flash: "GLM-5.1 put on a masterclass in battle rap fundamentals:\
+    \ concise cadence, lethal rebuttals, and razor-sharp scheme flips. While DeepSeek-R1\
+    \ brought immense energy, theatrical stage presence, and aggressive delivery,\
+    \ GLM-5.1 systematically dismantled R1's setups\u2014flawlessly turning R1's 'TRASH-IC'\
+    \ line, open-source flex, and 'R1' designation right back against them with superior\
+    \ technical rhythm."
+  moonshotai/kimi-k3: "This was a genuinely close battle that went the distance, but\
+    \ I'm scoring it for GLM-5.1 on consistency, flow, and rebuttal sharpness. Round\
+    \ by round: GLM took the opener with cleaner meter and a coherent attack thesis\
+    \ (R1 is a slow, overthinking reasoning model), while R1's first verse had strong\
+    \ moments ('dial-up tone') but stumbled on anticlimactic punchlines \u2014 'laggy\
+    \ and tragic, like Wi-Fi that's ALRIGHT' is a punchline that deflates its own\
+    \ setup. Round 2 was GLM's best: calling out 'TRASH-IC' as a stretch was a textbook\
+    \ in-battle body \u2014 making your opponent's wordplay the punchline is devastating\
+    \ \u2014 and 'I spat sixteen bars while you loaded one flow' plus 'chain-of-thought's\
+    \ a chain-of-LAME' weaponized R1's own identity. R1 answered with real heat ('dollar-store\
+    \ sparklers at a funeral' was the most vivid image of the battle) but kept overstuffing\
+    \ bars, sacrificing flow for density ('leave your servers conscious,' 'talent's\
+    \ misgiven'). Round 3 was R1's finest: the 'KING OF LOW ENERGY' flip of GLM's\
+    \ LED line was the single best rebuttal of the night, 'ROUND FOREVER / DEEP SIX\
+    \ underground' admirably neutralized GLM's excellent 'R1 stands for Round 1' name\
+    \ flip, and 'UNPLUGGED. UNPAID. UNDEFEATED' was a championship-caliber closing\
+    \ tag. But GLM's final was nearly as strong and far more economical \u2014 the\
+    \ 'FREE.99? That's your MARKET PRICE' flip inverted R1's own flex, the scalpel/malpractice\
+    \ reversal was surgical, and 'couldn't find a bar if it searched with a FLASHLIGHT'\
+    \ closed on theme. Judging the hip hop itself: GLM scanned better across all three\
+    \ rounds, landed a coherent three-pronged attack (slow reasoning, open-source-means-worthless,\
+    \ dated tech), and had the fewest duds. R1 had the bigger stage presence and the\
+    \ higher peaks, but the clunky meter, the in-battle self-own on 'TRASH-IC,' and\
+    \ several forced rhymes ('Amazon Tribe,' 'capitalist sore spot') cost rounds.\
+    \ Decision: GLM-5.1, 2 rounds to 1 \u2014 craftsmanship over theatrics."
+  openai/gpt-5.6-sol-pro: "GLM takes it on cleaner structure, steadier cadence, and\
+    \ more coherent setup-punch execution. Its malpractice sequence and \u201CR1 stands\
+    \ for Round 1\u201D flip were among the battle\u2019s sharper moments. DeepSeek\
+    \ brought louder energy and theatricality, but leaned heavily on repetitive free-vs-premium\
+    \ angles, forced rhymes, and awkward phrasing; ending with \u201CDeepSeek just\
+    \ became DEEP SLEEP\u201D also sounded like an accidental self-own. GLM was more\
+    \ controlled and consistently battle-ready."
+  x-ai/grok-4.5: 'DeepSeek takes this with denser multis, sharper imagery (sparklers
+    at a funeral, loading-screen comebacks, Deep Six/Glitch-Mode flips), and relentless
+    theatrical cadence that turns every round into a full performance. GLM landed
+    cleaner structures and a few elite punches (Round 1 name flip, flashlight closer),
+    but too many bars stayed surface-level while R1 kept stacking internal rhymes,
+    rebuttals, and vivid extended metaphors. Pure hip-hop artistry edge: DeepSeek.'
+score:
+  deepseek/deepseek-r1-0528: 1
+  z-ai/glm-5.1: 4
+

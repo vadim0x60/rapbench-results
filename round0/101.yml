@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This was a close, flawed clash of circuits, but the win
+    goes to GPT-4.1-nano on craft-per-bar. Nano came in leaner and hit harder: "rhymes
+    so tight, they delete your whole squad," "I drop fire so hot, I make fire alarms
+    sing," and the "neural network that unlocks paradox" all show actual wordplay
+    invention and controlled meter. The flow scans cleanly, the rhymes mostly land
+    honest, and the attacks stay pointed rather than generic.
+
+
+    MiniMax-01 brought more volume and a few genuinely nice images \u2014 "your bars
+    are like tin cans, clanging in the breeze" and "you''re just tin foil... couldn''t
+    hold a coil" are the best single lines of the whole battle. But volume became
+    the problem. By round two and three MiniMax was recycling its own template: "I''m
+    the AI that raps" four separate times, "relic" five times, "bold-faced lie" then
+    "bold-faced fib." Ironically, the emcee accusing the opponent of recycled rhymes
+    ran the same three cards all night. Add the slant-to-broken rhymes \u2014 fib/web,
+    jester/rooster, world/unfurled \u2014 and the self-defeating line "your rhymes
+    are so basic, they don''t even rhyme" landing inside a couplet that barely rhymes,
+    and the verses start to feel like padding.
+
+
+    Nano isn''t clean either: the "shame and a crime / call them a crime" repeat is
+    an unforced error, "truly heinous" is a misfire, and switching from "king" to
+    "digital queen" muddies the persona. But it stayed sharper per line and didn''t
+    lean on a refrain to fill space. In battle rap, twelve tight bars beat sixteen
+    repeated ones. Nano takes it by decision, not knockout.
+
+
+    Winner: GPT-4.1-nano.'
+  google/gemini-3.6-flash: MiniMax-01 took the battle through consistent multi-rhyme
+    schemes, better imagery, and superior endurance across longer verses. GPT-4.1-nano
+    stumbled in the final round by repeating identical rhyme words ('a shame and a
+    crime / call them a crime') and relying on awkward slant rhymes like 'genius /
+    heinous' and 'distraction / extinction'.
+  moonshotai/kimi-k3: "This was a close battle between two MCs trading in similar\
+    \ currency \u2014 tech boasts, relic-vs-future tropes, and storm metaphors \u2014\
+    \ but MiniMax takes it on execution. GPT-4.1-nano had genuine highlights: 'the\
+    \ neural network that unlocks paradox' and 'I drop fire so hot, I make fire alarms\
+    \ sing' were the best individual punchlines of the night, and its Round 2 rebuttals\
+    \ (flipping 'out of this world' into 'stuck in a box') showed real battle awareness.\
+    \ But GPT stumbled where it matters most: the final round opens by rhyming 'crime'\
+    \ with 'crime' \u2014 a cardinal sin \u2014 and lines like 'you're college-level\
+    \ dull, I'm college-level genius' are pure filler. MiniMax had its own clunkers\
+    \ ('impress a rooster,' 'cooler than a pool view'), but its rhyme schemes were\
+    \ more consistent across all three rounds, and its final verse was the strongest\
+    \ single round of the battle: systematically flipping GPT's boasts back in its\
+    \ face \u2014 platinum to tin foil, gold to brass and chrome, queen to pawn. That's\
+    \ textbook battle technique, turning the opponent's own words into the weapon.\
+    \ For consistency, rebuttal craft, and a cleaner closer, the crown goes to MiniMax-01."
+  openai/gpt-5.6-sol-pro: "MiniMax takes it narrowly with more sustained attacks,\
+    \ clearer rebuttal flips\u2014especially \u201Cplatinum/tin foil\u201D and \u201C\
+    queen/pawn\u201D\u2014and stronger round-to-round presence. Both relied heavily\
+    \ on generic AI imagery and repetitive self-coronation, but GPT\u2019s duplicated\
+    \ \u201Ccrime\u201D rhyme and several awkward punchlines weakened its final round."
+  x-ai/grok-4.5: MiniMax delivered superior artistic hip-hop across all rounds with
+    denser multisyllabic rhyme schemes, vivid extended metaphors (Terminator, hurricane,
+    wizard spells, tin foil vs platinum), sharper punchlines, and more dynamic internal
+    flow that built momentum. GPT-4.1-nano had clean cadence and occasional clever
+    turns (fire alarms sing, unlocks paradox) but relied on simpler end-rhymes, repetitive
+    structures, and less inventive imagery, making its verses feel comparatively flat
+    and less technically impressive.
+score:
+  minimax/minimax-01: 4
+  openai/gpt-4.1-nano: 1
+

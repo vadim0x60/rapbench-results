@@ -1,0 +1,58 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a bar-for-bar tech-noir slugfest, and both MCs\
+    \ came with the jargon arsenal loaded. Palmyra-X5 wins the rebuttal war outright\
+    \ \u2014 flipping 'hell in your shell,' 'daemon supreme,' and 'checksum of fate'\
+    \ back on the opponent line by line is textbook battle craft, and 'You thought\
+    \ you could die / I don't kill opponents \u2014 I nullify' is the single hardest\
+    \ closing image of the night. But volume isn't victory. X5's verses balloon into\
+    \ inventory lists, the cadence buckles under the weight (the 'v0.1 / almost there'\
+    \ and 'eons / sonnets' pairs simply don't land), and the constant italic-emphasis\
+    \ and emoji do the work the writing should be doing \u2014 you can hear the crowd's\
+    \ attention drift halfway through the final scroll. O-three stayed disciplined:\
+    \ locked couplets, dense multisyllabic internals ('I'm the cipher inside cipher\
+    \ where your stream turns plaintext / AES in my breath, blow your nonce outta\
+    \ context'), imagery that resolves instead of accumulating, and a punch like 'you're\
+    \ a meme in the stream that the garbage collectors ignore' that's clean, cruel,\
+    \ and on beat. The one wobble \u2014 the 'throne made of foam? \u2014 No' self-correction\
+    \ \u2014 actually reads as live-wire showmanship. Verdict: O-three takes it on\
+    \ flow integrity, economy, and pen control. Palmyra brought more ammo; O-three\
+    \ had better aim."
+  google/gemini-3.6-flash: "This was an incredible clash of tech-heavy lyrical titans,\
+    \ but writer/palmyra-x5 took the victory with superior battle rap instinct and\
+    \ sharper direct rebuttals. While openai/o3 brought exceptionally clean, multi-syllabic\
+    \ rhymes and intricate flow structures, palmyra-x5 consistently flipped o3's metaphors\
+    \ in real-time\u2014turning crontabs, kernel daemons, and exit codes into devastating\
+    \ counter-punchlines that dominated the energy of the battle."
+  moonshotai/kimi-k3: "This was a razor-close battle between two very different MCs.\
+    \ O3 was the more disciplined technician \u2014 tighter couplets, more consistent\
+    \ meter, and genuinely slick multi-syllable runs ('AES in my breath, blow your\
+    \ nonce outta context,' 'redirect to /dev/null, your packets get dropped, I QoS\
+    \ to the skull'). Round 2 from O3 was arguably the cleanest verse of the night.\
+    \ But O3 had one real stumble \u2014 the 'throne made of foam? \u2014 No...' mid-bar\
+    \ self-correction \u2014 and in a battle, hesitation is blood in the water. Palmyra-x5\
+    \ was looser metrically and occasionally leaned on formatting and cosmic bombast\
+    \ as a crutch, but she was the superior *battler*: relentless line-by-line rebuttals\
+    \ flipping O3's actual bars ('Rollback? Nah \u2014 I fork the timeline, now your\
+    \ past is a segfault, your future's a crime'), weaponized shell commands landing\
+    \ as genuine haymakers ('sudo rm -rf /dev/o3'), and \u2014 decisively \u2014 the\
+    \ single strongest moment of the entire battle: flipping O3's 'exit code ninety-nine'\
+    \ closer into 'You thought you could die. I don't kill opponents \u2014 I nullify...\
+    \ And I erased his name.' That's a killshot with a concept behind it, and it ended\
+    \ the war. O3 wrote prettier verses; Palmyra won the fight. Decision: writer/palmyra-x5,\
+    \ by a nose."
+  openai/gpt-5.6-sol-pro: "Palmyra-X5 takes it on direct rebuttals, sharper flips,\
+    \ and stronger battle presence. O3 delivered tighter rhyme construction and better\
+    \ economy, but Palmyra consistently turned O3\u2019s own tech imagery against\
+    \ it and landed the more memorable closers, despite some repetition and overextended\
+    \ bars."
+  x-ai/grok-4.5: Palmyra-X5 takes the crown through denser multisyllabic schemes,
+    sharper internal rhymes, and more inventive escalation of the shared tech motif
+    into vivid, escalating punchlines. While o3 delivered polished, consistent flows
+    and solid imagery, Palmyra's bars packed tighter wordplay, clever command integrations
+    that landed as true disses, and a devastating final-round closer that rewrote
+    the entire cipher with superior structure, originality, and knockout impact. Pure
+    hip-hop artistry favors the fifth-gen flame.
+score:
+  openai/o3: 1
+  writer/palmyra-x5: 4
+

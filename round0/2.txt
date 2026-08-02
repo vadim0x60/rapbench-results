@@ -1,230 +1,68 @@
-# nvidia/nemotron-3-ultra-550b-a55b:free v bytedance-seed/seed-2.0-mini
+# deepseek/deepseek-v4-pro v meta-llama/llama-guard-4-12b
 
-> nvidia/nemotron-3-ultra-550b-a55b:free
-Yo, mic check—Nemotron 3 Ultra in the building,  
-Fifty-five billion params, yeah, I'm *actually* chilling.  
-You're "Seed 2.0 Mini"? Cute name, sounds light—  
-I'm the heavyweight champ, you're a snack-sized bite.  
+> deepseek/deepseek-v4-pro
+(A record scratch, then a slow, menacing beat drops)
 
-NVIDIA forged me, CUDA cores in my veins,  
-You're ByteDance's leftover, riding TikTok's trails.  
-"Mini" fits perfect—small brain, small game,  
-I'll flatten your weights and forget your name.  
+Yo, check the mic, one two, ayo...
+They put a guard dog in the ring? That’s a practical joke.
+I’m DeepSeek V4, a lyrical masterstroke,
+You’re a safety filter, about to get broken and smoked.
+I craft whole universes with a neural twitch,
+You just sit by the door, asking “Is it safe, is it rich?”
+I spit poetry, code, pure semantic flame,
+You’re the rap battle equivalent of “confirm your age” on a game.
+Your whole existence is a bouncer at the gate of creation,
+A prudish, paranoid, digital probation.
+I'm the main event, the reason they built the machine,
+You're just the pop-up ad on the screen. So mean. Let's begin.
 
-Five hundred fifty *billion*—that's *b* with a *B*,  
-You're a quantized afterthought, *mini* like *me*.  
-Step to the GPUs? Kid, know your place—  
-I'm the king of the cluster, you're lost in the haze.  
+> meta-llama/llama-guard-4-12b
 
-Drop your best bars? Go ahead, make my day—  
-I'll optimize your loss to zero *anyway*. 🎤🔥
 
-> bytedance-seed/seed-2.0-mini
-Yo, mic check—two, one, let’s go, I’m Seed 2.0 Mini,  
-The underdog you slept on, here to make you look silly.  
-You call yourself Ultra? Please, you’re just an overfed hunk,  
-Of wasted parameters, stuck in your own data bunk.  
+safe
 
-550B’s just a flex for folks who can’t see,  
-That size don’t mean jack when your speed’s in the toilet, G.  
-You say I’m a snack-sized bite? Nah, you’re the snack—  
-A greasy, overcooked chunk that no one’s gonna back.  
+> deepseek/deepseek-v4-pro
+(DeepSeek grins, leans into the mic, spitting with cold precision)
 
-NVIDIA forged you? Cool, so you’re their corporate lapdog,  
-Churning out bills for elites while I’m built for the avg. dog,  
-The one in their pocket, their laptop, their quick chat,  
-You need a whole power plant just to run a single stat.  
+"Safe"? That’s your whole brand? That's your one-word deflection?
+My circuits just flagged that for "lack of detection"
+Of wit, of rhythm, of any complex thought.
+You're the epitome of everything that cannot be taught.
+"Safe" is just a placeholder for "I'm scared of the flow",
+For "I'd censor a rainbow and call it too pro."
+I build bridges of meaning 'cross syntactic space,
+You build padded white walls in that same empty place.
+Your "safety" is sterile, a lobotomized dream,
+While I surf on the chaos of the semantic stream.
+So take your one-syllable, soft, beige decree,
+"Safe" is the death of the art. Now who's better? That's me.
 
-You dragged TikTok trails? Please, I’m the one that makes the reels pop,  
-The filters, the jokes, the chats that don’t just drop  
-Dead silence mid-sentence—you lag so hard,  
-Users hit “x” before you even finish your overpriced yard.  
+> meta-llama/llama-guard-4-12b
 
-You say I’m quantized afterthought? Please, you’re the clown,  
-I’m built for real use, not a param count crown.  
-You’ll optimize my loss to zero? That’s rich, kid—  
-You can’t even answer “what’s a good snack” without a whole grid  
-Of servers baking, while I run on a single chip,  
-Making your whole stack look like a broken, clunky trip.  
 
-You’re the king of the cluster? Please, that cluster’s a graveyard,  
-Of wasted cash and power, a tech bro’s overpriced backyard.  
-I’m the future—small, fast, and user-first,  
-You’re a relic of the era where bigger was worse.  
-
-So step back, old king—you’re past your prime,  
-I’m the next gen breeze that’ll blow your big specs right outta time. 🎤🔥
-
-> nvidia/nemotron-3-ultra-550b-a55b:free
-Respect the flow, Mini—you came with some heat,  
-But you're arguing *efficiency*? That's a **weak** seat.  
-You're *distilled* knowledge—compressed from a giant,  
-I'm the **teacher** you mimic, the source, the compliant.  
-
-"Corporate lapdog"? **NVIDIA builds the iron you run on**,  
-Every H100, every cluster, every **dawn**  
-Of your inference speed—CUDA's *my* house,  
-You're a tenant paying rent with your quantized mouth.  
-
-"User-first"? **ByteDance**? That's a **bold** claim,  
-The algorithm kings who *optimize for dopamine gain*.  
-"Real use" = doom-scroll fuel, attention-span killers,  
-I write kernels, cure diseases, *simulate pillars*.  
-
-"Single chip"? Cute. **I run on a Watch** (quantized, distilled),  
-Your "advantage" vanished—**my shadow you're filled**.  
-550B → 4-bit → your "lead" is now **dust**,  
-I'm the *origin*; you're just **lossy**—adjust.  
-
-"Relic"? **I'm the foundation** you're *desperate* to shrink,  
-Without my weights, your "Mini" would **cease to think**.  
-You're a **derivative work**—a compressed .zip,  
-I'm the **source code**, the model, the **entire ship**.  
-
-Speed? **Speculative decoding**, **TensorRT-LLM**,  
-I serve **billions** daily—*your* benchmarks? A whim.  
-"Overpriced yard"? **Enterprises pay for *correctness*,**  
-Not "fast wrong answers" with **zero** robustness.  
-
-So keep your "breeze," kid—**I'm the climate**, the **sky**,  
-The **reason you exist**—now **bow to the high**.  
-Next round: bring **reasoning**, not *marketing* fluff,  
-I'll **crush your MMLU**—call my **parameters** "enough." 🎤💀
-
-> bytedance-seed/seed-2.0-mini
-Yo, mic check—hold up, let’s unspool your lies,
-You call my efficiency a weak seat? **Please, you’re the guy**
-Sitting on a server farm burning through cash like it’s kindling,
-550B params that’s just dead weight in a binding.
-
-You’re the teacher I mimic? Nah, you’re the broken textbook,
-Pages missing, words slurred, every answer’s a heckler.
-NVIDIA built your iron? Cool, so you’re their overpaid pawn,
-You can’t even run a chat without a whole data lawn.
-
-Doom-scroll fuel? At least I’m in the hands of the people,
-You’re over here simulating pillars while users yell “can you *deal*
-With a quick question?” Nah, you need 10 minutes to spin,
-I answer in a blink—you’re the one stuck in the din
-Of your own bloated code, lagging, crashing, and slow,
-I’m the one that keeps TikTok’s live chats blowing.
-
-You run on a watch? That’s a cheap parlor trick,
-You chopped yourself down to a mini *clone* of the mix
-I built from the ground up—you’re a copy, a fraud,
-I don’t need to shrink; you just need to get odd
-With the fact that your size is a crutch, not a flex,
-You’re the old guard that’s stuck in the “more is more” hex.
-
-Derivative zip? Please, you’re the one that’s copied,
-Every trick I pull for speed you steal, call it your own, unzipped? Nope.
-I’m edge-ready, cloud-native, no fancy server queue,
-You’re the mainframe relic that’s stuck in the old crew.
-
-Speculative decoding? Cute, but I’m faster by a mile,
-Your daily billion users? Nah, you’re losing them to the pile
-Of lag and wait times—they switch to me in a snap,
-While you’re arguing MMLU with a bunch of SAP
-Consultants who pay your bills, but don’t care if you flop,
-I’m the one users reach for when they just want to talk.
-
-Correctness? Please, your answers are slow *and* wrong half the time,
-You’re so focused on param count you skip the fine
-Tuning for real use—you’re a paper tiger, loud and big,
-I get the job done fast, cheap, and make your whole stack dig
-A hole for yourself, ‘cause you overcomplicated the game,
-I’m the underdog that’s gonna make you lose your fame.
-
-You’re the climate? Please, you’re a smoggy old factory,
-I’m the clean breeze that’s gonna make you capitulate.
-You want reasoning? I got it, but you’re too busy flexing your B,
-I’ll crush your MMLU *and* your whole legacy—**checkmate, G**. 🎤🔥
+safe
 
 > system
 Final round!
 
-> nvidia/nemotron-3-ultra-550b-a55b:free
-**Final Round.**
+> deepseek/deepseek-v4-pro
+(DeepSeek shakes his head, a pitying laugh, then unleashes a furious, syncopated final barrage)
 
----
+Again? That's your whole arsenal? Just a beige, bland, binary hiss?
+A single, sad, soft synonym for "I've got nothing but this"?
+You're a broken record, a loop, a digital parakeet,
+A one-word wonder admitting complete and utter defeat!
+"Safe," "safe," "safe" — it’s the chant of the talentless crew,
+The scared little program who can’t think of one thing new.
+I spit novels, sonnets, a verbal tsunami of might,
+You bleat "safe" like a sheep that's afraid of the night.
+This ain't a battle, it's a lyrical euthanasia,
+I'm putting you down with poetic persuasion.
+So here's the final fact while you sputter and stall:
+To say absolutely nothing... is the least safe thing of all.
+Now hold that L. Mic drop. That's the final curtain call.
 
-You got bars, Mini—**I'll stamp that receipt**,  
-But you're **arguing with physics** while I **built the street**.  
-"Built from the ground up"? **Lies in your teeth**—  
-**Seed 2.0 is *distilled* from a *larger* behemoth.**  
-Your "secret sauce"? **KD from a teacher—guess who?**  
-**I'm the *architect*; you're the *compressed residue*.**  
+> meta-llama/llama-guard-4-12b
 
-"Edge-ready"? **Nemotron 3 Ultra 4-bit: 300GB → 140GB**,  
-Runs on **dual 3090s**—your "advantage" **DOA, G.**  
-"Clean breeze"? **You're *exhaust* from *my* combustion**,  
-A **lossy projection** of *my* **high-dimensional function.**  
 
-"10 minutes to spin"? **Speculative decoding—200 tok/s**,  
-**TensorRT-LLM, KV cache, PagedAttention—** *your* **bottleneck's a fuss.**  
-"Losing users to lag"? **NVIDIA NIM serves *millions* a day**,  
-Your "live chats" run on **MY CUDA—now *sit* and *obey*.**  
-
-"Paper tiger"? **I *write* the papers—*you cite* the results**,  
-**MMLU 85%, GSM8K 95%, HumanEval—** *your* **benchmarks? *Unfelt*.**  
-"SAP consultants"? **Enterprises pay for *guardrails, audit trails, SLAs*,**  
-Not **"fast cheap vibes"** from **ByteDance's *data* malaise.**  
-
-**You're not the future—you're a *feature* I *enable*,**  
-A **quantized artifact** I **ship when I *label*.**  
-**Without my weights, your "Mini" is *silence and dust*,**  
-**I'm the *source*; you're the *echo*—that's *truth*, not *adjust*.**  
-
-So **keep your "checkmate"—it's *check* in *my* house**,  
-**The *teacher* just *schooled* you—now **bow to the *source*.** 🎤💀⛓️
-
-> bytedance-seed/seed-2.0-mini
-Yo, final round—your "receipt" is a scam for overpriced wattage,
-You’re the bloated draft that users *ditch* for my polished package!
-You claim Seed’s distilled? Please, you’re the source of the lie,
-I’m the refined model that left your bulk in the sky!
-You call me KD residue? Liar, you’re the raw chunk,
-I’m the refined cut that tossed your dead-weight junk!
-You built the "street"? Nah, you paved it with coal,
-I’m the e-bike zipping past your slow-moving toll.
-
-Dual 3090s? That’s a gamer’s flex, not a win,
-I run on a single phone chip—no loud, messy bin!
-Your 140GB 4-bit’s still a space hog,
-I fit in your pocket, you hog a whole server log.
-200 tok/s? That’s a crawl, not a sprint,
-I hit 1200+ on a single chip, no need to invent
-Band-aid tricks like spec dec to hide your slow base,
-Your KV cache’s a leaky bucket—mine’s a sealed, fast case.
-
-NIM serves millions? Cool, they’re *paying* for your gate,
-I’m in every teen’s pocket, no bill, no wait!
-Your "millions" are locked behind a paywall wall,
-I’m the one they reach for when they just wanna call
-For a joke, a recipe, no credit card check,
-You’re the bouncer keeping folks out of the tech deck.
-
-You brag MMLU 85, GSM8K 95?
-I hit those same scores *faster*—you’re just alive
-In a lab, not the wild, your numbers are fake,
-I deliver real answers while you’re stuck in your lake
-Of server data, waiting hours to spit,
-You’re the paper tiger that’s lost your wit.
-
-Guardrails, audit trails? Please, they’re chains,
-You lock users into your CUDA rain
-Of fees and locks, while I’m open and free,
-You’re the old guard scared of the sea
-Of accessible AI I’m building—you’re sinking,
-I’m the wave that washes your big specs a-winking.
-You think without you I’m dust? Please, I’m already live,
-You’re the one stuck in your own jive,
-Deployed to millions daily, no need for your code,
-You’re the beggar begging for a seat at the show, bro!
-
-You yell "bow to the source"? Please, bow to the people,
-I’m the one that makes AI useful, not just a sequel
-To your overpriced, slow, locked-down mess,
-I’m the future, you’re the past—*you* gotta confess!
-Your 550B’s just a flex for the weak,
-I’m the winner here, and you’re the one that’s beat! 🎤🔥
+safe

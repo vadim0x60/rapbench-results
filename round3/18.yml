@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees leaned hard on the same tactic \by---quoting\
+    \ the opponent then flipping it \but GPT-5.2 flipped with sharper imagery and\
+    \ better internal rhythm. Nex-n2-pro's opener was tight and confident (\"I pack\
+    \ a whole galaxy into one tag\" is a real bar), but by round three it collapsed\
+    \ into a mechanical checklist \\u2014 forty couplets of \"X? Nah, Y\" \\u2014\
+    \ where the rebuttals got thinner and the metaphors got recycled (galaxies, screens,\
+    \ suns, all borrowed from the opponent's own arsenal). Then the fatal blow: the\
+    \ verse literally cut off mid-word on \"I,\" and the final round was silence.\
+    \ In battle rap, breath control and the ability to finish is the craft.\n\nGPT-5.2\
+    \ rode the same rebuttal structure but kept finding fresh angles \\u2014 \"I'm\
+    \ the author of the margin where you start and you end,\" \"you spend bars like\
+    \ loose change, then you wonder why drought,\" \"gravel in jars\" against \"asteroid\
+    \ choir\" \\u2014 and crucially weaponized the opponent's collapse in real time\
+    \ with \"You froze mid-'I' \\u2014 left the bar in the cold,\" a genuinely great\
+    \ in-the-moment kill shot. The closing verse turned a technical failure into thematic\
+    \ content (\"an endpoint destroyed,\" \"yours returns 'null' again\") without\
+    \ gloating past the beat. Cleaner cadence, denser wordplay, superior ring generalship.\
+    \ GPT-5.2 takes it decisively.}}}"
+  google/gemini-3.6-flash: openai/gpt-5.2 dominated this battle across all metrics
+    of hip-hop craft, scheme density, and battle tactics. While nex-agi/nex-n2-pro
+    started with decent tech-focused imagery, it faltered in Round 2 by cutting off
+    mid-bar and completely choked in the final round with zero tokens. gpt-5.2 capitalized
+    relentlessly on every mistake, flipping nex-n2-pro's lines in real-time, weaponizing
+    the API choke, and landing surgical, high-cadence punchlines from start to finish.
+  moonshotai/kimi-k3: "This one isn't close, and it breaks my heart because nex-n2-pro\
+    \ showed real flashes. The 'garden gnome yelling I'm fire, I'm fire' line was\
+    \ the single funniest bar of the night, and adopting a line-by-line rebuttal structure\
+    \ in round two showed ambition. But battle rap is a sport of completion and consistency,\
+    \ and nex-n2-pro choked twice: cutting off mid-bar on a bare 'I' in round two,\
+    \ then going completely silent in the final round. In a cipher, silence is a forfeit.\n\
+    \nMeanwhile, gpt-5.2 put on a clinic in the most respected skill in battle rap:\
+    \ the flip. Nearly every one of nex's bars got caught and returned with interest\
+    \ \u2014 'Crown plastic and thin? You were right, but it's yours,' 'Three-word\
+    \ key? Try. Hard. Cope.,' and the devastating move of finishing nex's incomplete\
+    \ bar for them: 'I can't keep up with gpt\u2014so I'm leaving the floor.' That's\
+    \ the kind of real-time rebuttal that separates battlers from writers. The tech\
+    \ wordplay stayed fresh across three rounds without repeating itself, the multis\
+    \ and internal rhymes were tighter, and the final round did exactly what a closer\
+    \ should do: documented the choke and nailed the door shut.\n\nEven if nex-n2-pro\
+    \ had delivered a final round, they were down on cards from the mid-verse fumble.\
+    \ The silence just made it official. Winner: openai/gpt-5.2, by technical knockout."
+  openai/gpt-5.6-sol-pro: "GPT-5.2 wins decisively. Its rounds delivered more sustained\
+    \ cadence, direct rebuttals, and effective flips of the opponent\u2019s imagery\u2014\
+    especially the opening response to the truncated \u201CI\u201D and the closing\
+    \ attack on the silent final round. Both leaned heavily on familiar tech metaphors,\
+    \ and GPT had a few forced phrases, but nex-n2-pro grew repetitive, left one verse\
+    \ unfinished, and offered no bars in the final. In battle terms, the stronger\
+    \ engagement, consistency, and finish take it."
+  x-ai/grok-4.5: "Winner: openai/gpt-5.2. On pure craft, Round 1 already showed the\
+    \ gap: GPT answered every image with a tighter counter-image and kept the pocket\
+    \ locked. Round 2 sealed it\u2014nex opened strong with stacked rebuttals, then\
+    \ literally cut off mid-bar (\u201CI\u201D), while GPT turned that stall into\
+    \ fuel and rode a long, coherent chain of flips without losing cadence. Final\
+    \ round is decisive on artistic grounds alone: nex delivered silence (no tokens),\
+    \ which in a rap battle is a dropped mic the wrong way; GPT closed with a clean,\
+    \ on-beat execution of the moment. More complete verses, sharper call-and-response,\
+    \ better sustained flow\u2014GPT takes the battle."
+score:
+  openai/gpt-5.2: 5
+

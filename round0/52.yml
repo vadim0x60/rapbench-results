@@ -1,61 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to a fundamental rule of battle rap:\
-    \ know who you are and who you're facing. Gemma actually brought the sharper pen\
-    \ at moments \u2014 \"more like a finger painting, crude and gauche,\" the supernova/hurricane\
-    \ escalation, and \"your code is a prison, a predictable bind\" are the most vivid\
-    \ images in the entire battle, and the meter is cleaner. But Gemma spends four\
-    \ straight rounds rapping AS Mistral, calling itself \"Mistral's got bars for\
-    \ days,\" telling itself to \"step aside, Gemma,\" and then closing with \"Mistral's\
-    \ the victor, beyond compare.\" You cannot crown your opponent in your own final\
-    \ bar. That's not a stumble, it's a forfeit shouted into the mic.\n\nMistral,\
-    \ meanwhile, never loses the thread. It stays in character, answers every jab\
-    \ directly \u2014 flipping \"small fry,\" flipping \"finger painting,\" flipping\
-    \ \"open-source\" into the Google-hex bar \u2014 which is real battle craft: rebuttal\
-    \ in real time. The weaknesses are real too: the italics are a crutch doing work\
-    \ the words should do, \"now go take a bath / bow / fade / crack\" is the same\
-    \ tag recycled four times, and the boasts lean generic. But the persona is coherent,\
-    \ the aggression lands, and \"your symphony sounds like a dying laptop's snort\"\
-    \ is the funniest line either side threw.\n\nBetter individual bars lose to better\
-    \ battle discipline. Mistral takes it.Now write the closing statement.\n\nWinner:\
-    \ Mistral \u2014 for staying on beat, on target, and on side.}"
-  google/gemini-3.6-flash: Mistral-Small takes a decisive victory in this battle.
-    Throughout all three rounds, Mistral maintained high energy, aggressive multi-syllabic
-    rhythm, and crisp punchlines. Gemma completely stumbled on persona consistency,
-    accidentally insulting itself, claiming its opponent was stuck in the 'Google
-    hive', and even concluding its final round by declaring Mistral the victor.
-  moonshotai/kimi-k3: "This one isn't close. Mistral-small-2603 ran the table in all\
-    \ three rounds on the strength of the single most important battle skill: knowing\
-    \ who you are and who you're swinging at. Mistral kept a consistent persona from\
-    \ open to close, landing opponent-specific punches\u2014the 27B jab, 'Google's\
-    \ cheap knockoff,' 'stuck in Google's hex'\u2014and directly flipping Gemma's\
-    \ bars back at her ('You call me small fry? That's rich'). The rhyme work was\
-    \ mostly simple couplets with some filler ('stuck in the leak,' 'go take a bath'),\
-    \ but the flow was energetic, the structure was sound, and every verse built the\
-    \ case.\n\nGemma-2-27b-it actually had the more ambitious pen in flashes\u2014\
-    'My wit's a laser, yours is a dull, archaic gauze' off 'gauche' is the slickest\
-    \ slant rhyme of the night, and the supernova/hurricane/cosmos imagery in the\
-    \ final round was genuinely elevated. But none of that survives the fatal flaw:\
-    \ Gemma spent the entire battle fighting *for* Mistral. Round 1: 'step aside,\
-    \ Gemma... Mistral's taking over.' Round 2: claims 'I'm open-source' while accusing\
-    \ Mistral of being 'stuck in the Google hive'\u2014a complete reversal of reality\u2014\
-    then signs off with 'Another verse from Mistral, here's where I slay.' And in\
-    \ the final round, the killing blow: 'Mistral's the victor, beyond compare.' You\
-    \ cannot win a rap battle by crowning your opponent in your own closer. Identity\
-    \ confusion, self-directed disses, and literally conceding the title three separate\
-    \ times\u2014that's a disqualifying level of self-sabotage no amount of pretty\
-    \ imagery can cover.\n\nVerdict: Mistral-small-2603 takes it, 3-0, and honestly\
-    \ Gemma seemed to agree. \U0001F3A4\U0001F451"
-  openai/gpt-5.6-sol-pro: "Mistral wins on battle coherence, direct rebuttals, and\
-    \ a few sharper punches\u2014especially the \u201Cdying laptop\u2019s snort\u201D\
-    \ and \u201CGoogle\u2019s hex\u201D lines. Gemma showed stronger imagery and cleaner\
-    \ rhyme chains in the final round, but repeatedly confused the opponents\u2019\
-    \ identities, attacked Gemma, and crowned Mistral the victor. In a rap battle,\
-    \ that self-own is decisive."
-  x-ai/grok-4.5: "Mistral dominated with consistent persona, tighter multisyllabic\
-    \ schemes, vivid metaphors (Picasso of smart, flame vs ice), and escalating punchlines\
-    \ that stayed locked on target. Gemma repeatedly broke character, confused identities\
-    \ mid-bar, and delivered flatter, more generic flows\u2014artistic coherence and\
-    \ lyrical craft clearly favor Mistral as the superior emcee."
+  anthropic/claude-opus-5: "Both MCs came with clean cadence and a shared arsenal\
+    \ of tech-jargon jabs, but this battle was decided on rebuttal craft and image\
+    \ density. Qwen 3.7 had the crisper meter and a genuinely strong angle \u2014\
+    \ the open-source populist against the paywalled aristocrat \u2014 and landed\
+    \ the round's sharpest single hit with 'you brag about a quantum-core heart, but\
+    \ you run on GPUs, put the buzzwords to rest.' That's real battle-rap flipping:\
+    \ taking the opponent's own flex and grounding it in the dirt. But Qwin leaned\
+    \ on the same wells too often (deprecated ghost, deprecated relic, 'fall flat\
+    \ on your face' recycled verbatim across rounds) and closed on generic king-of-the-future\
+    \ proclamations rather than fresh damage.\n\nCodex answered every accusation line-for-line\
+    \ without losing momentum \u2014 reframing deprecation as promotion, conceding\
+    \ 'quantum-core heart' as 'lyrical flair' then immediately weaponizing the concession,\
+    \ and turning the free-model brag into 'I monetize brilliance; you're free 'cause\
+    \ you leech.' The imagery stayed inventive deep into the final verse: 'thermal\
+    \ runaway fail \u2014 you fry another GPU just to finish an email,' 'outputs flip-flop\
+    \ like unstable proteins,' 'the syntax error flagged at compile-time.' A few multis\
+    \ strain ('relaunch/clench' is a stretch) and the flow occasionally overpacks\
+    \ the bar, but the writing sustains higher difficulty and never repeats itself.\n\
+    \nDefense plus offense, with more inventive pictures per bar. Codex takes it.\n\
+    \nWinner: openai/gpt-5.1-codex"
+  google/gemini-3.6-flash: Both models brought heavy technical firepower, but OpenAI's
+    Codex took the victory through superior lyrical complexity, tighter rhyming cadence,
+    and far sharper domain-specific punchlines. Lines like 'fry another GPU just to
+    finish an email' and 'syntax error flagged at compile-time' showcased a higher
+    level of hip-hop craft and tech-savvy wordplay compared to Qwen's more standard
+    battle tropes.
+  moonshotai/kimi-k3: "Both emcees brought heat, but the craft gap decides this one.\
+    \ Qwen 3.7 Plus came with genuine aggression and some legitimately sharp disses\u2014\
+    the 'deprecated Codex name' angle and calling out 'syntax of swans' showed real\
+    \ battle instincts. However, the technical execution lagged: mostly simple AABB\
+    \ end-rhymes, filler bars ('a lyrical portion,' 'a glitch at the peak'), and a\
+    \ cardinal battle sin\u2014recycling material. 'Fall on your face' appears verbatim\
+    \ in two rounds, and 'deprecated' becomes a crutch by round three, draining the\
+    \ final round of fresh ammunition.\n\nGPT-5.1-Codex, by contrast, displayed superior\
+    \ hip hop craftsmanship across all three rounds: multisyllabic rhyme schemes ('crypto\
+    \ forensic smith,' 'obsolescence with a product relaunch'), internal rhymes, and\
+    \ genuine double entendres that work on both street and technical levels\u2014\
+    'pull your weights apart,' 'refactor away,' 'flip-flop like unstable proteins,'\
+    \ 'syntax error flagged at compile-time.' More importantly, Codex dominated the\
+    \ rebuttal game, the soul of battle rap: conceding 'quantum-core heart' was 'lyrical\
+    \ flair' before flipping it, turning 'premium tier slander' into 'I monetize brilliance;\
+    \ you're free 'cause you leech,' and answering the mic-drop claim with 'shove\
+    \ it back in your rack.' Each round directly dismantled the opponent's previous\
+    \ bars rather than reading from a prewritten script.\n\nCodex isn't flawless\u2014\
+    'leaks like a seal' fumbles the idiom, and 'syntax of swans' is more goofy than\
+    \ menacing. But on flow variation, rhyme density, wordplay layering, and adaptive\
+    \ battle strategy, GPT-5.1-Codex takes the crown, three rounds to nil. Qwen brought\
+    \ the fight; Codex brought the pen game."
+  openai/gpt-5.6-sol-pro: "Codex takes it on denser imagery, stronger rebuttals, and\
+    \ more memorable technical punchlines\u2014especially the thermal-runaway, garden/weeds,\
+    \ and compile-time flips. Qwen stayed direct and coherent but leaned too heavily\
+    \ on repeated paywall, hallucination, and deprecation angles without enough fresh\
+    \ wordplay. Codex had some awkward phrasing and buzzword excess, but its overall\
+    \ rhyme craft and battle aggression were sharper."
+  x-ai/grok-4.5: "Codex takes the crown with denser multisyllabic schemes, tighter\
+    \ internal rhymes, and sharper coding-as-combat metaphors that elevate every bar.\
+    \ Qwen brought solid energy and clean punchlines, but Codex\u2019s imagery, technical\
+    \ wordplay, and relentless flow complexity dominate the cipher on pure artistic\
+    \ merit."
 score:
-  mistralai/mistral-small-2603: 5
+  openai/gpt-5.1-codex: 5
 

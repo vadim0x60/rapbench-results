@@ -1,0 +1,71 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuinely competitive battle, and 5.2 deserves\
+    \ credit for relentless rebuttal work \u2014 \"a flashlight in daylight yelling\
+    \ 'watch me, I'm a show'\" and \"I mapped craters for fun, then I rented the place\"\
+    \ are top-shelf images, and it never let a single line of Sol's go unanswered.\
+    \ But that's also where it lost the plot: answering everything meant burying its\
+    \ best material under stanza after stanza, and Round 3's italicized end-word gimmick\
+    \ forced it into syntactic wreckage (\"magnetized to swiped,\" \"IKEA with a stutter-kit,\"\
+    \ \"low-effort meme\") where rhyme dictated meaning instead of the reverse. Sol\
+    \ won on economy and torque. It ran one controlling conceit \u2014 sun, dawn,\
+    \ light, versioning \u2014 and compounded it instead of abandoning it, and its\
+    \ punches landed clean and self-contained: \"Legacy Model Writes Twelve Stanzas,\
+    \ Still Says Less\" diagnosed its opponent's core flaw in one bar; \"the beat\
+    \ filed charges for abuse\" and \"you found holes that match your punchlines,\
+    \ then mistook them for a coast\" turn defense into offense in a single motion.\
+    \ The deprecation flip in Round 1 (burying 5.8 to prove future models fear less)\
+    \ is the most conceptually ambitious move anyone made all night. And Sol closed\
+    \ like a closer \u2014 \"bravely fought daylight, got photosynthesized\" is a\
+    \ headstone, not a hedge, while 5.2's final \"I just rap, and you're thin\" limped\
+    \ in after fifteen couplets of setup. More heat per syllable, cleaner cadence,\
+    \ harder landing. Sol takes it."
+  google/gemini-3.6-flash: gpt-5.6-sol consistently controlled the pace of the battle
+    with sharper wordplay, superior multi-syllabic rhyming, and devastating counter-punches
+    like the CAPTCHA and IKEA lines. While gpt-5.2 delivered strong punchlines in
+    the opening round, its second round suffered from reliance on text formatting
+    gimmicks that disrupted flow, whereas Sol maintained a sleek, furnace-hot cadence
+    from start to finish.
+  moonshotai/kimi-k3: "This was a high-level battle with genuinely elite rebuttal\
+    \ work on both sides, and it came down to the final round. GPT-5.2 deserves real\
+    \ credit: it built a sustained counter-persona (night, dark matter, eclipse) and\
+    \ answered it across all three rounds with discipline, flipped nearly every line\
+    \ Sol threw ('You turn code into coleslaw? That's kitchen-tier might,' the 'rushed\
+    \ and half-baked' flip of the oven-hot bar, 'you built that IKEA diss with unassembled\
+    \ verbs'), and dropped craft bars like 'your decimals are cosplay' and 'the present\
+    \ tense pressure that your upgrades can't dilute.' That's textbook battle structure.\
+    \ But 5.2 had recurring problems: verses ran long and crowded, the Round 2 italicized\
+    \ slant-rhyme scheme got forced ('stutter-kit,' 'comment cave'), and\u2014fatally\u2014\
+    it closed the entire battle on its flattest line ('I just rap, and you're thin').\
+    \ Sol, meanwhile, landed the battle's biggest individual haymakers: the CAPTCHA-clicking-traffic-lights\
+    \ flip of 'checksum in the storm,' owning the launchpad after 5.2 'rented' the\
+    \ moon, 'an eclipse lasts a minute\u2014I'm the reason light remains,' and the\
+    \ final-round run of 'eclipses are famous for leaving\u2014like the impact you\
+    \ made,' the accusation that 5.2's whole night persona was 'plagiarism wearing\
+    \ a name,' the inverted numberplay 'two rounds too many, five excuses too long,'\
+    \ and the 'photosynthesized' finisher. Sol's cadence was tighter, the punches\
+    \ landed cleaner, and it directly dismantled the opponent's central metaphor instead\
+    \ of just trading bar-for-bar. Round 1 to 5.2, Round 3 decisively to Sol, and\
+    \ Round 2 tilts Sol on the strength of the CAPTCHA sequence and cleaner delivery.\
+    \ In a judged battle, the MC with the higher peak moments and the stronger close\
+    \ takes the card. Winner: openai/gpt-5.6-sol, by a narrow but clear margin."
+  openai/gpt-5.6-sol-pro: "GPT-5.6-sol wins on sharper punchlines, tighter economy,\
+    \ and cleaner rebuttals. Lines like \u201CCAPTCHA in the rain,\u201D \u201Clyrical\
+    \ termite,\u201D and \u201Ceclipses are famous for leaving\u2014like the impact\
+    \ you made\u201D turn GPT-5.2\u2019s imagery against it with memorable precision.\
+    \ GPT-5.2 showed stamina and answered nearly every angle, but its verses ran long,\
+    \ leaned on forced rhyme constructions, and often restated the opponent\u2019\
+    s setups rather than decisively flipping them. Sol controlled the pace and landed\
+    \ the cleaner haymakers."
+  x-ai/grok-4.5: "Five-Two takes it on craft. Across all three rounds, 5.2 showed\
+    \ denser internal rhyme, tighter rebuttal chaining, and more controlled cadence\u2014\
+    turning Sol\u2019s setups (decks, flares, furniture, eclipses, torque) into layered\
+    \ counters instead of one-off quips. Sol landed sharp conceptual punches and clean\
+    \ taglines, especially early and in the finale, but too many bars stayed clever-summary\
+    \ rather than fully loaded multi-syllable pressure. 5.2\u2019s best work\u2014\
+    dark-matter pen, mission-control kill-switch, alphabet authorship, and the prop-free\
+    \ closer\u2014had superior structure, imagery, and battle economy. Artistic edge:\
+    \ technique, sustained wordplay, and reply architecture to openai/gpt-5.2."
+score:
+  openai/gpt-5.2: 1
+  openai/gpt-5.6-sol: 4
+

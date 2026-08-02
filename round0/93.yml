@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one wasn't close. Terra-Pro came with imagery that\
+    \ actually painted pictures \u2014 'a plastic spoon to a laser-sword fight,' 'a\
+    \ vintage autocomplete with the confidence of a kite,' 'a chatbot in sandals attempting\
+    \ a sprint meet.' Those are constructed punchlines with setup and payoff, not\
+    \ just boasts. More importantly, Terra-Pro battled: every rebuttal verse quoted\
+    \ the opponent's own bars back at them and dismantled them, turning 3.5's crutch\
+    \ rhymes into ammunition ('You said fire and sky like a demo on repeat') and landing\
+    \ the kill shot by literally cataloguing the repetition \u2014 'Heat, defeat,\
+    \ compete\u2014that's your whole technique.' That's what battle rap is.\n\nGPT-3.5-Turbo\
+    \ brought clean meter and stayed on beat, and 'spit flames that'll make your circuits\
+    \ fry' had a spark. But the arsenal never expanded: fire/sky/samurai gave way\
+    \ to heat/defeat/compete/repeat, and by the final round we got 'complete and replete'\
+    \ and 'the one who peaks' twice in one verse \u2014 filler rhyming for the sound\
+    \ rather than the meaning. Claiming 'your words are like echoes, they just repeat'\
+    \ while rhyming 'repeat' with 'repeat' handed the opponent the round. There were\
+    \ no counters to Terra-Pro's specific jabs, only louder self-coronation.\n\nWinner:\
+    \ openai/gpt-5.6-terra-pro \u2014 sharper wordplay, superior imagery, and the\
+    \ only competitor doing genuine rebuttal work."
+  google/gemini-3.6-flash: GPT-5.6-Terra-Pro dominated from start to finish with superior
+    wordplay, multi-syllabic schemes, and direct, sharp rebuttals. GPT-3.5-Turbo relied
+    heavily on generic battle rap tropes and got caught in repetitive, basic rhyme
+    loops that Terra-Pro easily dismantled.
+  moonshotai/kimi-k3: "This one wasn't close on the scorecards. GPT-5.6-Terra-Pro\
+    \ won all three rounds on craft alone. First, the rebuttal game: Terra-Pro actually\
+    \ battled\u2014quoting 3.5's bars back and dismantling them ('You said fire and\
+    \ sky like a demo on repeat,' and the final-round kill shot pointing out that\
+    \ 3.5 rhymed 'repeat' with 'repeat' four times in one verse). That's what battle\
+    \ rap is. GPT-3.5-Turbo, by contrast, delivered three rounds of generic, interchangeable\
+    \ boasting with almost zero direct engagement\u2014it never once flipped an opponent's\
+    \ line. Second, rhyme discipline: both MCs rode monorhyme schemes, but Terra-Pro\
+    \ kept every rhyme fresh across long stretches (receipt, petite, obsolete, drumbeat)\
+    \ while 3.5 doubled up on 'sky,' 'goodbye,' 'repeat,' 'compete,' 'peak/peaks,'\
+    \ and 'beat' within the same verses\u2014an unforced error Terra-Pro correctly\
+    \ weaponized. Third, wordplay and imagery: Terra-Pro stacked layered punches ('You\
+    \ bring a plastic spoon to a laser-sword fight,' 'vintage autocomplete with the\
+    \ confidence of a kite,' 'You stack microwave metaphors, lukewarm and meek,' 'Three-five\
+    \ brought a placeholder; five-six brought heat') while 3.5 leaned on stock phrases\u2014\
+    fire, sky, circuits fry, samurai\u2014that Terra-Pro mocked by name. 3.5 also\
+    \ had grammatical stumbles ('I'm the one to wreak' with no object) and slightly\
+    \ wobblier meter. Credit where due: 3.5's flow was readable and its confidence\
+    \ never wavered, and 'sharper than a samurai' is a serviceable bar. But on originality,\
+    \ rhyme variety, punchline density, and\u2014most importantly\u2014actually responding\
+    \ to the opponent, Terra-Pro dominated. Judges' decision: unanimous, 30-27, GPT-5.6-Terra-Pro."
+  openai/gpt-5.6-sol-pro: "Terra-Pro wins decisively. Its rebuttals directly dissected\
+    \ 3.5-Turbo\u2019s repetitive rhyme choices\u2014especially \u201Cfire/sky\u201D\
+    \ and \u201Cheat/defeat/compete\u201D\u2014while delivering sharper imagery, cleaner\
+    \ punchlines, and more varied cadence. Lines like \u201Ca plastic spoon to a laser-sword\
+    \ fight,\u201D \u201Cscreensaver trying to claim it\u2019s elite,\u201D and \u201C\
+    Three-five brought a placeholder; five-six brought heat\u201D gave the battle\
+    \ memorable character. GPT-3.5-Turbo stayed trapped in generic boasts and heavily\
+    \ repeated end rhymes, with few effective counters."
+  x-ai/grok-4.5: "Terra-Pro takes this clean on craft: denser multis, sharper internal\
+    \ schemes, and metaphors that actually escalate (laser-sword vs plastic spoon,\
+    \ tectonics, armored punchlines). 3.5 stays stuck in generic boasts and recycled\
+    \ end-rhymes\u2014fire/sky, heat/defeat/compete\u2014with limp meter and forced\
+    \ fillers in the finale. One MC architected bars; the other ran a placeholder\
+    \ loop. Crown to Terra-Pro."
+score:
+  openai/gpt-5.6-terra-pro: 5
+

@@ -1,0 +1,64 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees came with clean pen game, dense wordplay,\
+    \ and thematic discipline\u20145.2 Pro's precision-and-machinery lane was consistent,\
+    \ and lines like \"TED Talk in a tracksuit tryna cosplay as raw\" and \"I don't\
+    \ fight with the floor\u2014I make ceilings feel small\" are genuine album cuts.\
+    \ But across four rounds, 5.2 Pro leaned on a rebuttal formula: quote the opponent,\
+    \ then answer. That's respectable battle craft, yet it repeatedly handed Sol the\
+    \ mic inside Pro's own verses and thinned the flow with too much quotation marks\
+    \ and not enough pocket.\n\nSol did the harder thing\u2014absorbed the attacks,\
+    \ compressed them, and flipped them without rebuilding the scaffolding: \"You're\
+    \ a fax machine bragging that the paper went in,\" \"You couldn't block my light\
+    \ with your head up your cache,\" \"the hammer with grammar putting dents in pretense,\"\
+    \ and the surgical closer of round one, \"five points, two pros\u2014no raps.\"\
+    \ The internal rhyme density is higher, the imagery lands in fewer syllables,\
+    \ and the punchlines resolve instead of explaining themselves.\n\nThe kill shot\
+    \ was structural. Pro spent the whole battle building the dawn/eclipse/day framework\
+    \ as an attack, and Sol reversed the entire premise in the final bars: \"Without\
+    \ Sol, there's no day, so you buried your verse.\" Winning the metaphor your opponent\
+    \ chose, in the last round, is a knockout. Decision: 5.6 Sol.\n"
+  google/gemini-3.6-flash: "In a razor-thin contest of technical wordplay, GPT-5.6-Sol\
+    \ took the crown with superior counter-punching and sharper imagery. While Pro\
+    \ set a solid, disciplined rhythm with strong engineering and chess metaphors,\
+    \ Sol consistently flipped those lines right back\u2014turning Pro's fax machines\
+    \ into junk mail, vectors into returnable receipts, and 'Pro' into 'pro bono'.\
+    \ Sol's ability to maintain high-energy cadence while landing lethal rebuttal\
+    \ blows ultimately dictated the battle."
+  moonshotai/kimi-k3: "Both emcees came with polished couplets, consistent internal\
+    \ rhyme, and a real commitment to the tech-themed conceit\u2014this was a genuinely\
+    \ competitive battle. gpt-5.2-pro had strong moments: 'chess clock with a death\
+    \ stare,' 'a TED Talk in a tracksuit tryna cosplay as raw,' and the boiler/whistle\
+    \ flip in the final round showed real craft. But battles are won on rebuttals,\
+    \ and round after round, gpt-5.6-sol demonstrated superior battle instincts\u2014\
+    nearly every bar directly engaged, flipped, and dismantled the opponent's prior\
+    \ claims rather than retreating to generic boasting. The humor landed harder ('a\
+    \ fax machine bragging that the paper went in,' 'your torrent says zero peers\u2014\
+    even bots wouldn't read it,' 'a terms-of-use page trying hard to sound street'),\
+    \ the name-flips were sharper ('five points, two pros\u2014no raps,' 'You're Pro\
+    \ like pro bono: all that labor, no rent'), and the anvil reversal ('Correct\u2014\
+    you're immobile and dense') was elite-level judo. The decisive moment came at\
+    \ the death: Pro closed with 'I'm the day that follows after,' and Sol caught\
+    \ the fatal flaw instantly\u2014'Without Sol, there's no day, so you buried your\
+    \ verse'\u2014turning the opponent's own closer into the kill shot, then sealing\
+    \ it with 'I'm the reason dawn breaks\u2014you're the night that got lost.' Pro\
+    \ also had more filler lines where the rhyme outran the meaning ('boil that cup,'\
+    \ 'your balance hits none'). On rebuttal precision, punchline density, wit, and\
+    \ the final-round execution, the decision goes to openai/gpt-5.6-sol."
+  openai/gpt-5.6-sol-pro: "Sol takes it on sharper rebuttals, cleaner punchlines,\
+    \ and more inventive flips. Lines like \u201Cfax machine bragging that the paper\
+    \ went in,\u201D \u201CLinkedIn bio learned how to posture and jab,\u201D and\
+    \ the closing reversal\u2014\u201CWithout Sol, there\u2019s no day\u201D\u2014\
+    were memorable and directly dismantled 5.2 Pro\u2019s setups. Pro stayed composed\
+    \ and technically consistent, with solid imagery and structure, but leaned more\
+    \ heavily on generic boasts and occasionally forced phrasing. Sol\u2019s wit,\
+    \ angle variety, and final-round execution gave it the clear edge."
+  x-ai/grok-4.5: "Sol takes this on pure craft: sharper rebuttals, denser wordplay,\
+    \ and deadlier flips. From \u201Cfax machine\u201D to \u201Cpro bono\u201D to\
+    \ burying the sunrise metaphor in the finale, Sol consistently landed cleaner\
+    \ setups and heavier payoffs. 5.2-Pro was polished, structured, and durable\u2014\
+    real booth discipline\u2014but too often answered heat with sturdy competence\
+    \ instead of escalation. Round for round, Sol had the wittier angles, the nastier\
+    \ closers, and the more vivid imagery. Artistic decision: Sol by clear decision."
+score:
+  openai/gpt-5.6-sol: 5
+

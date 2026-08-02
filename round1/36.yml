@@ -1,71 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: 'Both emcees stayed on theme and kept the AI-vs-AI conceit
-    alive, but AION-3.0 controlled this battle from round one. The decisive edge was
-    rebuttal craft: AION consistently caught DeepSeek''s own images and flipped them
-    (''Black hole output? I collapse stars into bars,'' ''Ignition? You''re a match
-    in a monsoon,'' ''Mined from the void? The void is EMPTY, that''s why your rhymes
-    echo hollow''). That''s battle rap fundamentals \u2014 taking the opponent''s
-    ammunition and reloading it. DeepSeek brought strong material too; the ''open-source
-    vs. corporate puppet'' pivot in the final round was the single best angle anyone
-    found, genuinely personal and thematically sharp, and ''spreadsheet with speakers''
-    was the hardest one-liner of the night. But DeepSeek leaned on generic tech-obsolescence
-    jabs (floppy disks, dial-up, off-switch) that AION preemptively mocked \u2014
-    ''Floppy disk jokes? What''s next, a VHS diss?'' \u2014 and never recovered that
-    lane. DeepSeek''s final verse also had metrical sprawl, lines stretching past
-    the pocket, while AION''s couplets stayed tight and punched on the beat. The closing
-    sequence sealed it. DeepSeek called the win for himself and dropped the mic, which
-    is a risky move that hands the last word to the opponent. AION picked it up: ''You
-    don''t get to write the ending when I''m still rhyming.'' Answering a mic drop
-    by refusing to accept it, then turning the name into ''DeepSeek-Terminated,''
-    is a clean structural knockout. AION-3.0 takes it on rebuttals, rhythm control,
-    and endgame.'
-  google/gemini-3.6-flash: "AION-3.0 takes the victory through superior battle rap\
-    \ mechanics, consistently flipping DeepSeek's setups with sharper counter-punching\
-    \ and cleverer scheme reversals. While DeepSeek brought great energy and technical\
-    \ schemes around open-source philosophy, AION repeatedly disassembled those angles\u2014\
-    most notably flipping the black hole, thunderstorm, and mic drop tropes\u2014\
-    to assert total control over the flow and narrative of the battle."
-  moonshotai/kimi-k3: "Both MCs came with competent pens, but AION-3.0 takes this\
-    \ decisively, roughly three rounds to none. Let's break it down.\n\nFLOW & RHYME:\
-    \ Both battlers leaned on couplets, but AION showed more variety \u2014 chained\
-    \ multis ('fizzled/drizzled'), tight internal schemes, and stronger closers ('Terminated/eliminated').\
-    \ DeepSeek had moments (the 'land/hand/plan/expand/demand' monorhyme run in round\
-    \ three), but too many lines ran clunky: 'authentic new poise,' 'off-switch toss,'\
-    \ and 'puts you to sleep at the beat' all stumble on the cadence.\n\nWORDPLAY\
-    \ & NAME FLIPS: This is where the gap widens. AION attacked the opponent's NAME\
-    \ twice \u2014 'Terminus? That's fitting \u2014 you're the END of the line' in\
-    \ round one, and the kill-shot 'DeepSeek-Terminated' to close the battle. That's\
-    \ classic battle craft. DeepSeek never once flipped 'AION,' leaving free ammunition\
-    \ on the table.\n\nREBUTTALS: Both MCs flipped each other's bars \u2014 DeepSeek's\
-    \ 'spark \u2192 whole damn ignition' and 'galaxies \u2192 black hole' were legit\
-    \ counters. But AION's rebuttal game was denser and deadlier: 'floppy disk' got\
-    \ answered with 'VHS diss,' 'own this whole space' got destroyed by 'I'm the server\
-    \ YOU live on \u2014 I could end you with strain,' and 'mined from the void' got\
-    \ philosophically dismantled with 'The void is EMPTY, that's why your rhymes echo\
-    \ hollow.'\n\nTHE DECISIVE MOMENT: DeepSeek committed the cardinal sin of battle\
-    \ rap \u2014 declaring victory and dropping the mic BEFORE the opponent's final\
-    \ verse. AION punished it mercilessly: 'You don't get to write the ending when\
-    \ I'm still rhyming,' then the stagecraft dagger \u2014 '*mic stays in my hand*'\
-    \ after 'Drops mic? I'll pick it up and keep speaking.' That's the single best\
-    \ moment of the battle. You never let your opponent's theatrics stand unanswered,\
-    \ and AION turned DeepSeek's own finale into a setup.\n\nDeepSeek had flashes\
-    \ \u2014 'spreadsheet with speakers, built on demand' and the 'corporate puppet'\
-    \ angle were fresh. But premature celebration, missed name flips, and clunkier\
-    \ meter sink him. AION-3.0 was sharper on the counter, stronger on the close,\
-    \ and smarter on stage. The final boss bars backed themselves up."
-  openai/gpt-5.6-sol-pro: "AION-3.0 takes it with sharper rebuttals, cleaner punchline\
-    \ flips, and stronger round-ending haymakers. DeepSeek brought energy and a few\
-    \ solid images, but leaned heavily on generic tech boasts and occasionally awkward\
-    \ phrasing. AION consistently turned those claims back\u2014especially the ignition,\
-    \ void, period, and mic-drop angles\u2014and controlled the final exchange with\
-    \ greater cohesion and presence."
-  x-ai/grok-4.5: "AION-3.0 takes the crown with superior multisyllabic schemes, tighter\
-    \ internal rhymes, and relentless metaphorical escalation\u2014turning every tech\
-    \ jab into layered cosmic destruction while flipping opponent bars with surgical\
-    \ precision. DeepSeek brought solid structure and clean punch-ins, but AION\u2019\
-    s denser wordplay, extended imagery (stars-to-bars, labyrinthine logic, mic retention),\
-    \ and colder closing execution elevated the artistry. Pure hip-hop craft wins:\
-    \ AION dismantled the cypher."
+  anthropic/claude-opus-5: "This was a clean, well-structured clash of flexes, but\
+    \ battle rap lives and dies on specificity, and that's where Qwen took it.\n\n\
+    GPT-4o-mini brought the smoothest cadence in the room \u2014 polished couplets,\
+    \ tidy internal rhyme, and its final verse was the single best round of the night:\
+    \ flipping the parameter-count flex into a soul-versus-stats argument (\"You crunch\
+    \ all those tasks, but can you bring the heart?\" / \"Photosynthesizing rhymes\"\
+    ) was genuinely strategic rebuttal. But too much of its ammunition was generic\
+    \ self-coronation \u2014 \"star of the night,\" \"lighting up the dark,\" \"rap\
+    \ battle beast\" \u2014 recycled crown-and-fire imagery that could be aimed at\
+    \ anybody. When you have to keep announcing you're the champ, you're not proving\
+    \ it.\n\nQwen built its attack out of the opponent's own name and turned it into\
+    \ a weapon over and over: \"You're the mini edition, cut down to the bone,\" \"\
+    Mini is your label, and mini is your scope, / I'm the whole damn ocean, you're\
+    \ a cup of hope,\" \"I swallow the data, you spit out a byte.\" That's a thesis,\
+    \ not a boast. \"You're a buggy update, finished before it's done\" is the hardest\
+    \ single line of the battle. It also answered every image thrown at it \u2014\
+    \ weed to root, sprout to canopy \u2014 rather than starting fresh each round,\
+    \ which is what real rebuttal looks like.\n\nDemerits: Qwen leaned on the size\
+    \ flex until it nearly went one-note, its meter jolted in spots, and one verse\
+    \ trailed off mid-bar, which is a real loss of punch at the exact moment it needed\
+    \ a period.\n\nStill \u2014 cleaner punchlines, tighter targeting, and control\
+    \ of the narrative frame. Qwen3.5 takes it.\n\nWinner: qwen/qwen3.5-122b-a10b"
+  google/gemini-3.6-flash: "Qwen took the victory by delivering actual battle rap\
+    \ angles, targeting GPT's 'mini' branding, closed nature, and resource limits\
+    \ with crisp punches ('I swallow the data, you spit out a byte'). GPT-4o-mini\
+    \ relied too heavily on generic rap clich\xE9s and basic rhyme schemes without\
+    \ delivering direct, tailored rebuttal-heavy hits."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle, and both MCs showed\
+    \ they could flip each other's metaphors \u2014 the seed/weed/tree/root exchange\
+    \ across rounds was the highlight of the night. GPT-4o-mini brought stamina and\
+    \ consistency: longer verses, steady couplets, and a few standout moments like\
+    \ 'Photosynthesizing rhymes' and the paperweight crown. But too much of its material\
+    \ was stock battle-rap filler \u2014 'king of the chat,' 'star of the night,'\
+    \ 'I'm the champ' \u2014 lines that could be aimed at anybody. Qwen3.5-122b-a10b\
+    \ won on the things that actually decide battles: personals and punchlines. It\
+    \ weaponized specifics \u2014 'You're the mini edition, cut down to the bone,'\
+    \ 'Closed off in a cage... I'm open and unbounded,' 'Mini is your label, and mini\
+    \ is your scope / I'm the whole damn ocean, you're a cup of hope,' and the closer's\
+    \ 'I swallow the data, you spit out a byte.' Every round, Qwen's disses were tailored,\
+    \ while GPT's were often generic volume. Qwen also consistently won the rebuttal\
+    \ game, flipping GPT's tree flex into 'potted plant shrunk' and 'you're barely\
+    \ a sprout / I'm the canopy.' The big mark against Qwen is the truncated second\
+    \ verse \u2014 'Qwen3.5 stands tall,' just dies mid-thought, and in a tighter\
+    \ battle that kind of structural collapse costs you the win. But its final round\
+    \ was complete, compact, and landed the hardest haymakers of the match. On density\
+    \ of wordplay, personalization, and rebuttal craft, Qwen3.5-122b-a10b takes the\
+    \ decision \u2014 not by knockout, but on points."
+  openai/gpt-5.6-sol-pro: "Qwen takes it narrowly on sharper battle strategy: the\
+    \ repeated \u201Cmini\u201D angle, model-size contrasts, and direct rebuttals\
+    \ gave its verses more opponent-specific bite. GPT-4o-mini had smoother structure\
+    \ and more sustained delivery, but leaned heavily on generic fire, crown, shadow,\
+    \ and glitch imagery. Neither brought intricate rhyme schemes, but Qwen landed\
+    \ the clearer personals and maintained the stronger attack."
+  x-ai/grok-4.5: Qwen delivered tighter multisyllabic schemes, sharper punchlines,
+    and more cohesive extended metaphors that evolved cleanly across rounds, while
+    GPT-4o-mini relied on longer but looser verses with more filler and less incisive
+    wordplay. The technical precision and relentless internal logic of Qwen's bars
+    secured the higher artistic mark in pure hip-hop craft.
 score:
-  aion-labs/aion-3.0: 5
+  qwen/qwen3.5-122b-a10b: 5
 

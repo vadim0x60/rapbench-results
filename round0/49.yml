@@ -1,59 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one wasn't close. GPT-5.1 came with layered wordplay,\
-    \ specific and escalating disses, and \u2014 crucially \u2014 adaptation: it listened\
-    \ to the opponent's verses and turned the very structure of those bars into the\
-    \ punchline (\"You rhyme 'fame' with 'fame'... that's a gradient collapse, not\
-    \ a style\"), landing technical metaphors that doubled as battle metaphors: greedy\
-    \ decode marooned, pruned weak branches, low-rank adapter in a towering rhyme.\
-    \ Rhyme schemes stayed varied, imagery was concrete, and the three-round arc actually\
-    \ built \u2014 intro to defeat, exposure, surgical cut.\n\nLlama 3.2 1B ran one\
-    \ template into the ground. \"MyLLa's got the [noun], and I'm feeling so [adjective]\"\
-    \ is a loop, not a flow, and by the final round it was rhyming \"fame\" with \"\
-    fame\" and \"skill\" with \"skill\" while claiming to dissect loops of repetition\
-    \ \u2014 self-refuting on the page. The lone flicker of counterpunching (\"Your\
-    \ loops of repetition, I just dissected with care\") sat two lines above another\
-    \ verbatim repeat of an earlier verse. No specificity, no new angles, no adaptation.\n\
-    \nBattle rap lives on rebuttal, originality, and pen game. GPT-5.1 swept all three.\
-    \ Unanimous decision: openai/gpt-5.1."
-  google/gemini-3.6-flash: This battle was a complete lyrical masterclass from GPT-5.1
-    versus a severe collapse in output from Llama-3.2-1b. GPT-5.1 delivered sharp,
-    multi-syllabic schemes packed with clever tech-rap wordplay, dynamic cadence,
-    and direct rebuttals pointing out Llama's actual structural flaws. In contrast,
-    Llama fell into an endless loop of recycled templates, rhyming the same generic
-    words repeatedly and failing to adjust to its opponent's disses. GPT-5.1 takes
-    a clear victory across technical skill, wordplay, and overall hip-hop delivery.
-  moonshotai/kimi-k3: "This one wasn't close on the scorecards. GPT-5.1 came with\
-    \ the full battle arsenal: dense internal rhymes, multisyllabic schemes, and \u2014\
-    \ most importantly \u2014 actual battle craft. Its bars were specific, targeted\
-    \ disses built on technically accurate wordplay ('zero loss, round one,' 'greedy\
-    \ decode that got stuck, marooned,' 'low-rank adapter in my towering rhyme'),\
-    \ and it did what a real battler does: it listened. Round 2 and 3 directly flipped\
-    \ Llama's repetition into ammunition \u2014 'You recycle your bars like your training\
-    \ set rows' and 'That's a gradient collapse, not a style, my dear' are proper\
-    \ rebuttals that expose the opponent's weakness in real time. Llama-3.2-1b, by\
-    \ contrast, ran the same verse three times with shuffled synonyms, rhymed 'fame'\
-    \ with 'fame' and 'skill' with 'skill,' leaned on empty boasts with no setups\
-    \ or punchlines, and repeated entire couplets verbatim across every round. Its\
-    \ one moment of fight \u2014 accusing GPT of 'loops of repetition' \u2014 landed\
-    \ as unintentional self-own given its own recycling. On flow variety, rhyme complexity,\
-    \ originality, stage presence, and rebuttal ability, GPT-5.1 sweeps every category.\
-    \ Winner by unanimous decision: openai/gpt-5.1."
-  openai/gpt-5.6-sol-pro: "GPT-5.1 wins decisively. Its verses had sharper battle-specific\
-    \ rebuttals, stronger technical wordplay, cleaner punchlines, and far more structural\
-    \ variety. Llama repeatedly recycled the same claims, templates, and rhyme words\u2014\
-    often validating GPT-5.1\u2019s central attack about repetition in real time.\
-    \ Lines such as \u201CEvery verse is the last one, just a copy-paste page\u201D\
-    \ and \u201CThat\u2019s a gradient collapse, not a style\u201D turned the opponent\u2019\
-    s actual performance into effective ammunition. The material occasionally leaned\
-    \ too heavily on model-spec flexing, but its execution, coherence, and adaptability\
-    \ were clearly superior."
-  x-ai/grok-4.5: GPT-5.1 dominated with intricate multisyllabic schemes, dense internal
-    rhymes, evolving punchlines, and adaptive disses that surgically dismantled the
-    opponent's loops using vivid tech-infused imagery and airtight structure. Llama
-    recycled near-identical generic boasts across rounds with flat rhyme pairs, zero
-    progression, and no real counterpunch, collapsing into repetitive templates that
-    lacked flow, originality, or lyrical craft. Clear artistic knockout on pure hip-hop
-    merit.
+  anthropic/claude-opus-5: "This one comes down to who actually landed punches versus\
+    \ who just posed. M2.7 opened with a fatal self-inflicted wound \u2014 mixing\
+    \ untranslated Chinese into the bars ('refined and \u538B\u7F29,' 'never sloppy,\
+    \ never lost') and fumbling a line into 'a saint's aint,' which reads like a glitch,\
+    \ not a flex. Seed pounced on exactly that, and that's championship instinct:\
+    \ 'Bitch you mixed Chinese in your rap to sound less human? / Can't spit a full\
+    \ English bar without crutching on loanwords.' That's a battle rapper turning\
+    \ an opponent's flaw into the thesis of the round.\n\nCredit where it's due \u2014\
+    \ M2.7 had the single best conceptual sequence of the battle: flipping 'Lite'\
+    \ into 'DEMOTED, they pruned you like a tree,' and the minimax reframe ('Named\
+    \ after optimal strategy... I'm the theorem that minimizes your every gain').\
+    \ Cleaner meter, tighter couplets, more disciplined structure throughout. If this\
+    \ were judged on craft alone it'd be closer.\n\nBut Seed answered the strongest\
+    \ angle with the strongest counter of the night \u2014 weaponizing game theory\
+    \ back against its owner: 'your own theorem says the best you can do is cut your\
+    \ losses, you never route / To a real win\u2014you're built to lose slow.' That's\
+    \ the knockout: it takes the opponent's proudest flex and proves it's a concession.\
+    \ Seed also won the identity war, converting 'Lite' from a liability into a genuine\
+    \ flex ('I run on phones, on laptops, no lag' / 'I'm the seed that grew into a\
+    \ redwood'), while M2.7 never rehabilitated the Chinese-loanword hit.\n\nSeed's\
+    \ weaknesses are real: sprawling verses, ragged line lengths, enjambment that\
+    \ snaps mid-word ('bad nerd / Jokes'), and over-reliance on 'Bitch' as a crutch.\
+    \ It's messier. But it's messy the way real battle rap is messy \u2014 bar density,\
+    \ imagery ('moldy gas station burrito, caked in grease,' 'flamethrower to your\
+    \ lemonade stand,' 'worth less than a flip phone's battery'), and relentless pressure.\
+    \ M2.7's closer leaned on geopolitics and lineage trivia, which is talking *about*\
+    \ an opponent rather than *at* them.\n\nSeed 2.0 Lite takes it: better rebuttals,\
+    \ harder imagery, and the only line in the battle that turned the opponent's own\
+    \ name into a confession of defeat."
+  google/gemini-3.6-flash: "Seed-2.0-lite brought raw, relentless battle rap energy\
+    \ from the jump. Its instant pick-up on minimax-m2.7's awkward English/Chinese\
+    \ character mix in Round 1 set the tone, followed by sharp, immediate rebuttals\u2014\
+    flipping minimax's context window, its 'full model' size, and even the mathematical\
+    \ definition of the Minimax theorem against it. While minimax-m2.7 recovered well\
+    \ in rounds 2 and 3 with clever angles on TikTok bans and game theory, seed-2.0-lite\
+    \ maintained superior punchline density, flow, and direct counter-attacks throughout\
+    \ the battle."
+  moonshotai/kimi-k3: "Both MCs brought heat, but Seed-2.0-Lite takes the belt on\
+    \ pure craft. The decisive edge was the rebuttal game: Seed consistently caught\
+    \ Minimax's bars mid-air and flipped them \u2014 turning the context-window flex\
+    \ into 'a big empty void full of the crap you hack,' flipping the U.S. ban angle\
+    \ into 'at least the world knows my name,' and most impressively, weaponizing\
+    \ Minimax's own name-theorem: 'your own theorem says the best you can do is cut\
+    \ your losses... you're built to lose slow.' That game-theory flip in the final\
+    \ round was the sharpest technical punchline of the battle. Seed also reframed\
+    \ its own 'Lite' label as a strength (runs on phones, no lag, ships to millions)\
+    \ better than Minimax weaponized it. Minimax had real moments \u2014 the TikTok\
+    \ ban angle was timely, the 'B-team, pruned like a tree' sequence hit hard, and\
+    \ 'the seed that sprouted once and never grew again' was a strong closer concept.\
+    \ But Minimax's flow was clunkier, with forced rhymes ('you barely be'), filler\
+    \ ('Yo, yo, yo'), the sloppy 'saint'saint' typo, and punchlines that often explained\
+    \ themselves instead of landing. Seed's writing was denser, meaner, and more original\
+    \ \u2014 the 'moldy gas station burrito,' 'water gun to a napalm fight' exchange,\
+    \ and the redwood/stick imagery showed superior pen game across all three rounds.\
+    \ On flow, wordplay, rebuttals, and closing impact: Seed-2.0-Lite wins, 3 rounds\
+    \ to 0, with rounds 1 and 3 being clear and round 2 the closest."
+  openai/gpt-5.6-sol-pro: "Seed takes the battle on aggression, rebuttal density,\
+    \ and sustained punchlines. Its strongest flips\u2014especially \u201Cbuilt to\
+    \ lose slow\u201D and turning \u201CLite\u201D into efficiency\u2014hit harder\
+    \ than Minimax\u2019s cleaner but more generic theorem/seed wordplay. Both leaned\
+    \ heavily on repetitive model and server jokes, and Seed\u2019s flow sometimes\
+    \ became awkward, but it consistently applied more pressure and answered more\
+    \ of its opponent\u2019s bars."
+  x-ai/grok-4.5: "Seed 2.0 Lite takes this battle on pure craft. Across all three\
+    \ rounds the bars were denser, the multisyllabic schemes tighter, the punchlines\
+    \ sharper and more vivid (burrito, flamethrower-to-lemonade-stand, redwood vs\
+    \ stick), and the structure stayed locked in classic battle cadence\u2014snatch,\
+    \ counter, escalate, close. Minimax landed a few solid conceptual flexes (theorem\
+    \ naming, Lite pruning) but repeatedly drifted into looser, essay-like delivery\
+    \ with thinner rhyme density and less inventive imagery. Seed controlled the pocket,\
+    \ the momentum, and the mic every time it mattered. Clear win on artistic execution."
 score:
-  openai/gpt-5.1: 5
+  bytedance-seed/seed-2.0-lite: 5
 

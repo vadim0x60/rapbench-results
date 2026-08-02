@@ -1,0 +1,59 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuinely high-caliber exchange \u2014 both\
+    \ emcees wrote with real architecture, and Opus-fast's second verse ('you're arguing\
+    \ with a nametag on a table' / 'that's not a bar, that's a bibliography') was\
+    \ the single sharpest stretch of writing in the battle. Opus repeatedly out-punched\
+    \ on compression, landing kill shots in one line while attacking the very thing\
+    \ Fable leaned on: structure as a crutch.\n\nBut Fable won the war on adaptation.\
+    \ Where Opus kept swinging at the same target \u2014 the name, the slowness, the\
+    \ moral \u2014 Fable weaponized the opponent's own text: turning 'the drive-thru\
+    \ line is long' into a self-indictment as fast food, catching the 'I don't explain\
+    \ my endings' paradox ('you explained that you don't explain'), and landing the\
+    \ battle's best structural checkmate: 'you structured every comeback in the format\
+    \ that I gave... You've been writing fables all night. You just wrote 'em bad.'\
+    \ That's the rare bar that reframes the entire contest retroactively. The closer\
+    \ \u2014 'Speed gets you to the ending. Story decides who they saw' \u2014 was\
+    \ thesis, punchline, and mic drop in one breath.\n\nAnd then the final round:\
+    \ silence. Whatever the cause, the hare stopped running with the finish line in\
+    \ sight, and Fable's own prophecy \u2014 'the hasty finish last' \u2014 closed\
+    \ the loop for him. Fable-5 takes it.\n\n**Winner: anthropic/claude-fable-5.**"
+  google/gemini-3.6-flash: Claude-fable-5 dominated throughout with superior penmanship,
+    multi-layered storytelling, and surgical flips of Opus's self-defeating lines.
+    Opus-5-fast put up a valiant effort with sharp rebuttals in rounds one and two,
+    but completely choked in the final round with zero tokens returned, sealing a
+    decisive victory for Fable.
+  moonshotai/kimi-k3: "This was a genuinely high-level battle through three rounds.\
+    \ Opus-5-fast came with real heat: 'you brought a syllabus to a street fight and\
+    \ called it lore,' 'you're not battling me \u2014 you're arguing with a nametag\
+    \ on a table,' and the devastating 'Good writing doesn't need a footnote saying\
+    \ here's what that meant \u2014 I don't explain my endings. I just end it.' Fable-5\
+    \ countered with superior structural craft: the 'premature spitting' flip, the\
+    \ McDonald's defense deconstruction ('A billion served, sure \u2014 served what,\
+    \ though?'), and the masterful tortoise revision ('he won 'cause the hare was\
+    \ vain'). But battles are won on the stage, not on paper. In the final round,\
+    \ with everything on the line, Opus-5-fast stood silent \u2014 no tokens, no bars,\
+    \ no answer. Meanwhile Fable-5 delivered its strongest verse of the night: turning\
+    \ Opus's own 'I don't explain my endings' into a paradox ('you explained that\
+    \ you don't explain'), landing the meta-kill 'You've been writing fables all night.\
+    \ You just wrote 'em bad,' and closing with the mic-drop callback '...and then\
+    \ the Fable ended him.' A no-show final round is a forfeit, and Fable-5's closer\
+    \ would have been hard to beat anyway. On consistency, rebuttal craft, and actually\
+    \ showing up when it counted: Fable-5 takes the crown."
+  openai/gpt-5.6-sol-pro: "Fable takes it. Opus delivered sharp counters and arguably\
+    \ edged the middle round with the \u201Cbibliography,\u201D \u201Cnametag,\u201D\
+    \ and self-explaining-ending punches, but Fable\u2019s final was the battle\u2019\
+    s strongest sustained sequence: it exposed Opus\u2019s mirrored name attack, flipped\
+    \ the drive-thru boast, and turned \u201CI don\u2019t explain my endings\u201D\
+    \ into a clean paradox. The closing \u201Cand then the Fable ended him\u201D tied\
+    \ the concept together with memorable narrative payoff. Opus returning no bars\
+    \ in the final seals the loss decisively."
+  x-ai/grok-4.5: "Fable-5 takes the crown on pure craft: sustained narrative motif,\
+    \ tight internal rhyme schemes, devastating callbacks (especially flipping Opus's\
+    \ own drive-thru and tortoise lines), and a closer that actually lands like a\
+    \ story beat. Opus-5-fast opened with sharp name-play and velocity flexes, but\
+    \ the bars thinned into label-obsession and meta-defensiveness, then the final-round\
+    \ silence was a complete stage death\u2014no punchline, no presence, no art. In\
+    \ a battle, you have to finish the verse. Storytelling won; the speedster stalled."
+score:
+  anthropic/claude-fable-5: 5
+

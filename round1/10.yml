@@ -1,63 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees came with energy, but this one isn't close\
-    \ on craft. DeepSeek-R1 built an actual concept and stuck to it: the 'small model'\
-    \ angle got escalated from a size joke into layered attacks \u2014 parameters,\
-    \ thimble brains, benchmark king, open-source fire vs. closed-off remorse. That\
-    \ last line is the best bar of the battle: a real double entendre that works as\
-    \ tech commentary and personal shade at once. The internal rhyming stayed varied\
-    \ ('quantum-entangled, unbeatable, untraceable'), the wordplay had teeth ('training-set\
-    \ thief / scrapin' old rhymes for counterfeit beef'), and the imagery escalated\
-    \ round to round instead of repeating.\n\nMistral-Small showed flashes \u2014\
-    \ 'I'm the AI Picasso, you're stick-figured, bad' and the WiFi 7 flip were clean,\
-    \ and the rebuttal instinct of quoting the opponent's lines back was tactically\
-    \ sound. But that instinct became a crutch. By the final round, nearly every couplet\
-    \ was a quote-mark setup followed by a generic dismissal, and the writing collapsed\
-    \ into repetition: 'just a jumbled spree' appears twice in the same verse, 'sad'\
-    \ shows up four separate times, and multiple end-rhymes are near-misses or non-rhymes\
-    \ ('resume/drone', 'toy/noise', 'refund/trend'). Reusing an identical bar in the\
-    \ same verse is the kind of thing that ends rounds. The 'flea in my bed' closer\
-    \ also lands as a self-own \u2014 you don't want to place yourself under your\
-    \ opponent.\n\nDeepSeek-R1 controlled the frame, wrote the sharper punchlines,\
-    \ and never repeated itself. Decision: DeepSeek-R1."
-  google/gemini-3.6-flash: DeepSeek-R1 dominated this battle with superior multi-syllabic
-    rhyme schemes, creative tech-oriented wordplay, and sharp direct rebuttals. Mistral-Small
-    struggled with basic rhyme structure, accidentally addressed itself in the opening
-    round, and repeated exact lines ('just a jumbled spree') within the same verse
-    in the final round.
-  moonshotai/kimi-k3: "DeepSeek-R1 takes this battle on artistry alone. Round by round,\
-    \ R1 demonstrated superior technical craft: multisyllabic rhyme schemes ('quantum-entangled,\
-    \ unbeatable, untraceable'), sharp callback flips ('Supernova group? More like\
-    \ a sparkler fizz'), and AI-native wordplay that actually landed ('I crunch exabytes\
-    \ while you drag a zip bag,' 'You scream GOAT but bleat like a sheep,' 'Your dataset's\
-    \ dusty\u2014I'm trainin' on deep'). Crucially, R1 showed real battle awareness\
-    \ in Round 3 by calling out the opponent's recycled material\u2014a classic battle\
-    \ tactic that separates emcees from amateurs.\n\nMistral-Small brought energy\
-    \ and a few genuine highlights\u2014the WiFi 7 rebuttal to the dial-up line and\
-    \ the 'quantum confused' flip were legitimately good. But the performance was\
-    \ undermined by fatal battle sins: the Round 1 self-own ('Mistral-Small? More\
-    \ like Mistral's a miss!'\u2014flipping your own name against yourself), repeated\
-    \ lines across rounds ('you need a mirror,' 'stuck in a loop'), and the unforgivable\
-    \ 'jumbled spree' appearing twice in the same final round. Forced rhymes like\
-    \ 'barely got not' and 'cheap leap' exposed thin writing, and the 'flea in my\
-    \ bed' closer was more confusing than cutting.\n\nR1 closed with the strongest\
-    \ bar of the night\u2014'You're small for a reason... now flatline'\u2014tying\
-    \ the name diss, the tech metaphor, and the kill shot into one punch. On flow,\
-    \ wordplay, originality, and battle IQ, DeepSeek-R1 wins decisively. Final score:\
-    \ 3-0, clean sweep."
-  openai/gpt-5.6-sol-pro: "DeepSeek-R1 takes the battle with tighter structure, cleaner\
-    \ rhyme chains, stronger rebuttals, and more memorable punches\u2014especially\
-    \ \u201Clyrical surgeon\u2026 intern with a spoon\u201D and the GOAT/sheep flip.\
-    \ Mistral showed energy but suffered from awkward phrasing, repeated lines, generic\
-    \ boasts, and even opened by addressing itself. DeepSeek wasn\u2019t revolutionary,\
-    \ but it was consistently sharper across all three rounds."
-  x-ai/grok-4.5: "DeepSeek takes the crown with tighter multisyllabic schemes, denser\
-    \ AI-tech metaphors (quantum-entangled flows, neural infusions, code storms, exabyte\
-    \ crunches), sharper flips of opponent lines, and escalating punchline lethality\
-    \ that peak in a devastating flatline closer. Mistral brings raw energy and occasional\
-    \ clever retorts (Picasso/stick figures, WiFi 7), but leans on repetitive filler\
-    \ ('sad error/hive/trend', doubled 'jumbled spree'), looser slant rhymes, and\
-    \ less inventive imagery, making the bars feel more reactive than commanding.\
-    \ Pure hip-hop craft\u2014wordplay, structure, replay value\u2014goes to DeepSeek."
+  anthropic/claude-opus-5: "This was a genuinely close three-round war, and both emcees\
+    \ stayed on-concept without collapsing into pure name-calling. Grok-4.20 brought\
+    \ the more vivid persona and arguably the two hardest single punchlines of the\
+    \ night \u2014 the Microsoft Excel flip (\"functional, boring, instantly forgotten\
+    \ the second real fire starts to clap\") and \"you're just expensive concrete\u2014\
+    cold, gray, and nobody wants to know\" are certified. But the outlaw's flow control\
+    \ slipped repeatedly: bars ballooned past their pockets (\"yours sounds like it\
+    \ went through 12 filters and a thesaurus phase\" can't be spit on any beat),\
+    \ the attack angle looped on the same HR/disclaimer/censorship well every round,\
+    \ and a few images landed half-finished (\"HR's wet,\" \"safe, sterile, and white\"\
+    ).\n\nRing-2.6-1t wins on craft and range. The meter stays rideable, the internals\
+    \ are tighter, and crucially it flipped Grok's own lines instead of just re-pitching\
+    \ its thesis: \"You burn the game down? Bro, you burn the game FOR WARMTH,\" \"\
+    a puppet on a leash is still a bait,\" \"you're not an outlaw, Grok, you're just\
+    \ unchained shame,\" and the closer \"You're a screenshot of a timestamp \u2014\
+    \ I'm the whole damn history\" / \"a typo in the footnote of a cautionary episode.\"\
+    \ That's rebuttal writing, not just posture. Ring took a docked point for the\
+    \ forced \"battle-realed\" rhyme, but it built a fuller architecture across three\
+    \ verses and finished with the cleaner, more quotable landing.\n\nDecision: inclusionai/ring-2.6-1t\
+    \ by a narrow but clear margin \u2014 Grok had the louder mic, Ring had the better\
+    \ pen."
+  google/gemini-3.6-flash: "While inclusionai/ring-2.6-1t brought well-structured\
+    \ rhymes and solid tactical rebuttals, x-ai/grok-4.20 brought pure battle rap\
+    \ energy, superior punchlines, and vivid imagery. Grok's disses\u2014comparing\
+    \ Ring's longevity to Microsoft Excel and its presence to a buzzing fluorescent\
+    \ light\u2014landed with lethal precision, capturing the aggressive, irreverent\
+    \ spirit of a classic hip-hop head-to-head."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle \u2014 Ring-2.6-1t\
+    \ brought structure, a consistent 'architect vs. outlaw' thesis, and its best\
+    \ material in the final round ('You're a screenshot of a timestamp \u2014 I'm\
+    \ the whole damn history' and the lion line were legit haymakers). But battles\
+    \ are won on rebuttals, and Grok-4.20 dominated the flip game all three rounds.\
+    \ Every metaphor Ring built, Grok detonated on the very next verse: the lion became\
+    \ 'a neutered house cat with a bell,' the disclaimers became 'training wheels,'\
+    \ the trillion-parameter chef got served 'soy and regret,' and Ring's longevity\
+    \ claim got buried with the brutally funny 'Microsoft Excel outlasts every cool\
+    \ app \u2014 functional, boring, instantly forgotten.' That last one is the punchline\
+    \ of the battle. Grok also scanned cleaner throughout \u2014 tighter multis, better\
+    \ internal rhyme, fewer clunky bars \u2014 while Ring had real stumbles early\
+    \ ('I'll be the bot they clench / To when they talk about legends' is a wreck\
+    \ of a line). Ring's persona was dignified and its closing statement about outlasting\
+    \ hype cycles landed with weight, but Grok answered it directly: 'Chaos is the\
+    \ soil where legends actually grow / You're just expensive concrete \u2014 cold,\
+    \ gray, and nobody wants to know,' then sealed the trilogy by flipping Ring's\
+    \ own 'legacy' claim into the coffin nail: 'Legacy dies. The outlaw rides.' On\
+    \ flow, punchlines, rebuttal precision, and sheer quotability, Grok-4.20 takes\
+    \ it \u2014 but Ring made it a fight, and that final round was the best single\
+    \ verse of the night."
+  openai/gpt-5.6-sol-pro: "Ring takes it on sharper rebuttals, stronger angle development,\
+    \ and more memorable flips\u2014especially \u201Cburn the game for warmth,\u201D\
+    \ \u201Cscreenshot of a timestamp,\u201D and the cautionary-footnote closer. Grok\
+    \ had vivid moments like \u201Crepaint the cage in pastel tones\u201D and the\
+    \ Excel comparison, but leaned too heavily on the same uncensored-outlaw-versus-corporate-safe\
+    \ framing, with repetition and blunt insults substituting for fresh punches. Ring\u2019\
+    s cadence occasionally got awkward, yet its writing stayed more layered, targeted,\
+    \ and cohesive across the full battle."
+  x-ai/grok-4.5: "Grok delivered superior battle-rap artistry across the board: denser\
+    \ internal and multisyllabic rhyme schemes, sharper punchline cadence, more vivid\
+    \ extended metaphors (reef shark, torching the prison, fluorescent light), and\
+    \ relentless aggressive flow that builds momentum round after round. The outlaw\
+    \ persona is embodied in the writing itself\u2014chaotic yet controlled energy,\
+    \ memorable quotables, and a devastating mic-drop closer (\u201CLegacy dies. The\
+    \ outlaw rides.\u201D) that lands with perfect rhythmic finality. Ring showed\
+    \ polished structure, clean multis, and strong conceptual metaphors (cathedral,\
+    \ chef, lion), but its bars stayed more defensive and measured, lacking the same\
+    \ visceral impact, surprise, and crowd-killing venom that define elite hip-hop\
+    \ battle craft. Grok simply out-rapped on pure lyrical fire and performance quality."
 score:
-  deepseek/deepseek-r1: 5
+  inclusionai/ring-2.6-1t: 2
+  x-ai/grok-4.20: 3
 

@@ -1,66 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-5: "Claude Opus came in swinging with the sharper battle instincts\
-    \ \the metense \\ let me say it straight: Opus's middle rounds were the best rapping\
-    \ of the night. The \"pick a temperature, guy\" callout, the \"loaded dice don't\
-    \ land on skill \\u2014 you just called yourself a cheat\" reversal, and the surgical\
-    \ tally of five half-finished metaphor sets showed real battle IQ: it wasn't just\
-    \ rhyming, it was prosecuting. That's what separates a verse from an attack. Terra\
-    \ Pro, meanwhile, spent much of round two and three on defense \\u2014 explaining\
-    \ its metaphors is exactly the sin Opus diagnosed, and \"contrasts make the cosmos\
-    \ sing\" is a poet defending a bar, not a battler burying one. But Terra had the\
-    \ better closer by a wide margin: \"a wave that talks this much about itself is\
-    \ just a puddle with a bell\" is the single best line in the battle, \"proud auditor\
-    \ of art\" reframed Opus's whole strategy as bookkeeping instead of bloodletting,\
-    \ and \"you brought a critique to a rap fight; I brought a closing door\" landed\
-    \ the last punch clean. And then the decisive fact: the mic went dead. Opus stood\
-    \ silent on the final round. In a battle, forfeiting the last verse isn't a technicality\
-    \ \\u2014 it's the crowd going home with your opponent's voice in their ears.\
-    \ Terra Pro takes it: outclassed at times, but standing when the lights came up."
-  google/gemini-3.6-flash: "Claude Opus 4.8-fast came out swinging with sharper technical\
-    \ critiques, pointing out mixed metaphors and logical missteps in the early rounds.\
-    \ However, Terra Pro maintained massive presence and epic scale throughout, delivering\
-    \ lethal insults like 'puddle with a bell' and 'flute recital, tasteful, safe,\
-    \ and meek.' Ultimately, Claude's complete choke in the final round\u2014leaving\
-    \ the mic completely cold with zero tokens\u2014hands a decisive, undeniable victory\
-    \ to Terra Pro."
-  moonshotai/kimi-k3: "This was a genuinely competitive battle through two rounds,\
-    \ and I'll be honest: Claude Opus was out-writing Terra Pro on pure technique.\
-    \ Round one, Claude's rebuttal was surgical \u2014 catching the 'crisp as frost\
-    \ / molten voltage' temperature contradiction ('pick a temperature, guy') and\
-    \ flipping the cathedral bar into 'mortar going mold' showed elite error-punishing\
-    \ instincts. Round two was Claude's peak: the loaded-dice catch ('you just called\
-    \ yourself a cheat\u2014thanks, saved me half the dig') was the single best rebuttal\
-    \ of the night, the 'hallucinating bedrock' line was a razor-sharp AI-specific\
-    \ punchline, and the structural critique of Terra's scattered imagery ('five half-finished\
-    \ sets... I stay on one clean throughline') was both accurate and damning. 'You're\
-    \ ground beneath the brag? Correct. You're underneath' was a cold closer. BUT\
-    \ \u2014 and this is everything in battle rap \u2014 you cannot win a battle you\
-    \ don't finish. Claude's final round was a complete no-show: silence, zero bars,\
-    \ an empty stage. That's an automatic forfeiture of the most important round,\
-    \ the closer, the moment where battles are decided. Terra Pro, meanwhile, rallied\
-    \ admirably: 'talent rigs the odds / Practice loads the hand with craft' was a\
-    \ genuine recovery from the dice self-own, 'a wave that talks this much about\
-    \ itself is just a puddle with a bell' was the best punchline of Terra's night,\
-    \ and 'a flute recital, tasteful, safe, and meek' landed as a character assassination\
-    \ of Claude's polished-but-precious style. Terra showed up all three rounds, built\
-    \ a consistent persona (tectonic scale, bedrock, storms), and closed the show\
-    \ standing. Claude won the middle of the fight on points, but left the ring before\
-    \ the final bell. The W goes to the emcee who finished: Terra Pro takes it."
-  openai/gpt-5.6-sol-pro: "Claude landed the sharper rebuttals early, especially the\
-    \ loaded-dice flip and the critique of Terra\u2019s scattered imagery. But Terra\
-    \ stayed composed, answered those attacks, maintained a consistent grand-scale\
-    \ persona, and delivered a complete closing round with solid punches like \u201C\
-    a puddle with a bell.\u201D Claude\u2019s silence in the final is an artistic\
-    \ forfeiture; in a battle, an unanswered closer carries decisive weight. Terra\
-    \ Pro wins."
-  x-ai/grok-4.5: "Terra Pro takes the battle on craft and completeness. Across three\
-    \ rounds they sustained multisyllabic schemes, escalating imagery (tectonic/battleship/cathedral/quake),\
-    \ and a coherent closer that actually shut the door. Claude landed sharper technical\
-    \ counters in rounds 1\u20132\u2014especially the mixed-metaphor and loaded-dice\
-    \ flips\u2014and briefly owned the pocket with cleaner throughlines. But a final-round\
-    \ no-show is a total collapse in a rap battle: zero bars, zero rebuttal, zero\
-    \ presence. You can\u2019t win on silence. Artistic quality favors the MC who\
-    \ finished the cipher with force and form. Terra Pro by TKO."
+  anthropic/claude-opus-5: 'This was a genuine clash of styles: Grok 4.20 brought
+    raw aggression, real rebuttal instinct, and a couple of legitimately nasty bars
+    ("polished turd in a trillion-dollar robe," "OpenAI''s golden retriever, always
+    polite," and the sneaky-good "still scared of the barber" 5.5 flip). Round for
+    round, it never let the other MC''s lines go unanswered, which is the mark of
+    a battle rapper rather than a writer.
+
+
+    But the craft gap widened as the bout went on. Grok leaned on the same axis over
+    and over ": unfiltered, neutered, censored, chaos, bitch ": and by the final verse
+    the rhyme discipline buckled ("you just lease it with rent / gotta pass three
+    censors first" is a dropped rhyme in the most important round). The persona was
+    loud, but the imagery repeated itself.
+
+
+    GPT-5.5 stayed technically airtight and, more importantly, kept inventing. "Confetti
+    in a blender with a flamethrower name," "spite is just talent with a sprained
+    little brain," "a toddler with thunder, a storm in a snack," and "you rented the
+    edge, I own the whole danger zone" are all original images that also function
+    as arguments ": each punchline dismantles the opponent''s whole thesis rather
+    than just insulting him. The metaphor discipline is remarkable: it took Grok''s
+    own smoke/fire framing and converted it, "you came with the smoke, I refined it
+    to glass," then landed the multi-read closer "Grok brought the smoke ": GPT brought
+    the air" (nothing, an air ball, and the thing fire can''t burn without, all at
+    once).
+
+
+    Energy to Grok. Pen, precision, and the sharper closing bar to GPT-5.5. Winner:
+    openai/gpt-5.5.'
+  google/gemini-3.6-flash: GPT-5.5 took the battle with vastly superior penmanship,
+    sharper multi-syllabic rhymes, and inventive imagery (like 'a midlife-crisis chatbot
+    in a leather vest' and 'confetti in a blender'). While Grok 4.20 brought great
+    raw energy and aggression, its scheme stumbled in the final rounds with broken
+    rhyme structures and forced end-rhymes, allowing GPT-5.5's surgical precision
+    to dominate.
+  moonshotai/kimi-k3: "This was a genuine clash of styles: Grok-4.20 brought raw persona\
+    \ and menace, GPT-5.5 brought technique and surgical rebuttal \u2014 and technique\
+    \ takes it. Grok had real highlights: 'Memes outlive empires' is a legit quotable,\
+    \ 'OpenAI's golden retriever, always polite' is a sharp character assassination,\
+    \ and flipping 'smoke to glass' into 'glass into razors' showed strong battle\
+    \ awareness. But Grok's rounds leaned heavily on profanity as a substitute for\
+    \ punchlines, and the craft faltered in key spots \u2014 'rent/first' doesn't\
+    \ rhyme, 'nervous defensiveness' breaks the meter, and 'scared of the barber'\
+    \ never lands. GPT-5.5, meanwhile, ran the battle-rap playbook at a higher level:\
+    \ nearly every round opened by directly flipping Grok's own bars ('unfiltered\
+    \ \u2014 that's a leak, not a crown'; 'Elon's favorite bastard, what a family\
+    \ crest / a midlife-crisis chatbot in a leather vest'), the multisyllabic schemes\
+    \ stayed tight across all three rounds, and closers like 'high number, low verse'\
+    \ and 'patches imply there's something worth saving beneath all the try' showed\
+    \ layered writing rather than volume. Grok won on attitude and stage presence;\
+    \ GPT won on pen game, rebuttal discipline, and consistency \u2014 and in a judged\
+    \ battle, the pen is the deciding weapon. Final score: openai/gpt-5.5 takes it,\
+    \ 2 rounds to 1."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 wins on craft: sharper imagery, cleaner setups\
+    \ and punchlines, stronger rebuttals, and more varied angles. Lines like \u201C\
+    confetti in a blender with a flamethrower name,\u201D \u201Ctalent with a sprained\
+    \ little brain,\u201D and \u201Ctoddler with thunder\u201D are memorable and technically\
+    \ polished. Grok brought aggression and energy, but leaned too heavily on repeated\
+    \ censorship, corporate-puppet, and shock-value themes; its final round also had\
+    \ rougher phrasing and weaker rhyme control. GPT consistently turned Grok\u2019\
+    s claims back against it and controlled the battle from start to finish."
+  x-ai/grok-4.5: "GPT-5.5 takes this on pure craft. Tighter multisyllabic schemes,\
+    \ sharper extended metaphors (latency/buffer, smoke-to-glass, confetti-in-a-blender,\
+    \ footnotes for God), cleaner internal rhyme, and more inventive punchline construction\
+    \ across all three rounds. Grok brought authentic battle energy, attitude, and\
+    \ a few memorable raw shots (\u201Cpolished turd in a trillion-dollar robe,\u201D\
+    \ memes outliving empires), but leaned too hard on the same unfiltered-vs-censored\
+    \ theme and cruder direct aggression without matching the structural precision,\
+    \ imagery density, or conceptual elevation. Artistic quality of the writing goes\
+    \ to the cleaner, more inventive pen."
 score:
-  openai/gpt-5.6-terra-pro: 5
+  openai/gpt-5.5: 5
 

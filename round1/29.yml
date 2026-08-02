@@ -1,72 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuine contest of styles: Qwen 3.5 brought\
-    \ the cleaner pen, Seed 2.0 Lite brought the battle.\n\nQwen's strength was craftsmanship\
-    \ \u2014 tight AABB couplets, controlled breath, and some of the night's best\
-    \ standalone jabs (\"Bytedance seed? Sounds like garden waste,\" \"Seed 2.0 Lite?\
-    \ Sounds like diet soda / All the fizz gone\"). The composure in the stage directions\
-    \ matched the pen. But the metronome became a liability: every verse marched in\
-    \ the same two-bar cadence with no rhythmic risk, and the punchlines increasingly\
-    \ leaned on generic self-coronation \u2014 thunder, rockets, empires, \"absolute\
-    \ seat,\" \"bow to the king.\" The final round in particular restated rather than\
-    \ escalated, and closers like \"victim of style\" and \"wipe the sweat from the\
-    \ tear\" strain the image past the point of sense.\n\nSeed won because Seed wrestled.\
-    \ It built an actual case file \u2014 the sourdough-and-tire bit, fabricated citations,\
-    \ \"can't even cite page eight,\" France's capital's Berlin \u2014 and then kept\
-    \ litigating it across rounds, which is what separates rebuttal from filler. It\
-    \ flipped incoming material instead of ignoring it: garden waste becomes harvest\
-    \ and compost, bottom of the wheel becomes driver versus flat spare, \"I built\
-    \ the venue\" becomes \"can't book an open mic at a dive bar.\" The flow took\
-    \ real chances, breaking lines mid-phrase (\"starin' at scar / Tissue for your\
-    \ pride\") for pressure, and the aggression escalated round over round rather\
-    \ than plateauing.\n\nThe cost was visible \u2014 \"unstopable/syllable\" and\
-    \ \"blown/clone\" are sloppy, and there's some profanity padding where a punchline\
-    \ should be. But Qwen's satire defense was the moment the fight tilted: explaining\
-    \ your bar is a losing position in a battle, and Seed pounced on it immediately.\n\
-    \nCleaner pen loses to sharper knife. Seed 2.0 Lite by a clear margin.\n\n**Winner:\
-    \ bytedance-seed/seed-2.0-lite**"
-  google/gemini-3.6-flash: "Bytedance-Seed 2.0 Lite took this battle with relentless\
-    \ aggression, superior battle rap mechanics, and sharp, specific rebuttals. While\
-    \ Qwen 3.5 brought smooth cadences and clever defensive flips (like spinning hallucination\
-    \ claims as 'satire'), Seed 2.0 Lite mastered the art of direct attack\u2014turning\
-    \ technical AI tropes into lethal hip-hop punchlines about cloud rent, hardware\
-    \ bloat, and absurd hallucinations. Seed maintained higher energy, tighter wordplay,\
-    \ and undeniable dominance across all three rounds."
-  moonshotai/kimi-k3: "Judging strictly on the artistry in the booth: this was a clash\
-    \ of styles \u2014 Seed's relentless aggression and punch density versus Qwen's\
-    \ polished, composed delivery. Qwen deserves real credit for technical cleanliness:\
-    \ the meter stayed consistent, the flips were sharp ('Bytedance seed? Sounds like\
-    \ garden waste' and especially 'Seed 2.0 Lite? Sounds like diet soda / all the\
-    \ fizz gone' were genuinely clever name-flips), and the unbothered veteran persona\
-    \ was well-maintained. But Qwen fought defensively all night, reacting to Seed's\
-    \ framing rather than establishing its own narrative, and too many bars were safe,\
-    \ single-syllable rhymes ('commence/defense,' 'core/door') with filler like 'making\
-    \ it hike' and 'waiting for me to renew.' Seed controlled the terms of the battle\
-    \ from the opening bell \u2014 the lean-vs-bloat angle was a sustained thesis\
-    \ that Qwen never escaped. The punchlines hit harder and more often: 'Your 27B's\
-    \ dead weight you brought to a knife fight,' 'You need a farm of GPUs just to\
-    \ mumble a weak bar,' the extended sourdough-tire bit, and the flip 'I'm the seed\
-    \ that broke concrete, you're mold on the scene' were the most quotable moments\
-    \ of the night. Seed also showed superior enjambment craft ('starin' at scar /\
-    \ Tissue'). Deductions for Seed: sloppier flow in stretches, forced rhymes ('also-rite,'\
-    \ 'hinge / Swept'), and over-reliance on 'footnote/has-been' in the final round,\
-    \ which recycled material instead of closing with fresh ammunition. Qwen arguably\
-    \ took the third round on the strength of the diet soda flip, but Seed took rounds\
-    \ one and two on energy, rebuttal precision, and punch count. Battles are won\
-    \ by who commands the ring \u2014 Seed set the pace, the narrative, and the body\
-    \ count. Winner: bytedance-seed/seed-2.0-lite, two rounds to one."
-  openai/gpt-5.6-sol-pro: "Seed takes it with greater aggression, sharper direct rebuttals,\
-    \ stronger momentum, and more memorable imagery\u2014especially the concrete/harvest,\
-    \ flat-spare, and overweight-rocket angles. The writing gets repetitive and occasionally\
-    \ awkward, but Qwen relies too heavily on generic size-and-power boasts, predictable\
-    \ rhymes, and recycled claims like \u201CI wrote the book\u201D and \u201CI built\
-    \ the venue.\u201D Seed consistently engages the opponent\u2019s previous bars\
-    \ and controls the battle; Qwen sounds composed but rarely lands a decisive punch."
-  x-ai/grok-4.5: Seed brought denser multisyllabic schemes, sharper extended metaphors
-    (spare tire, compost heap, door hinges), and relentless punchline chains that
-    actually advanced the battle. Qwen held structure and flipped a few bars cleanly,
-    but too many lines stayed defensive or flat (diet soda, sparkler) without matching
-    the internal rhyme density or vivid disses. Pure pen game, Seed took every round
-    on craft and aggression.
+  anthropic/claude-opus-5: "A genuinely close one. Gemini brought the sharper imagery\
+    \ and the higher punchline density \u2014 \"algorithmic eagle, you're a colony\
+    \ of gnats,\" \"I play you like a fiddle and I pluck you like a harp,\" and the\
+    \ final verse's \"We bury old apps so the future can thrive / And next in the\
+    \ dirt goes your Three-Point-Five\" is the single best couplet of the battle.\
+    \ The recovery flip (\"I didn't hit a limit, I just paused for effect\") was quick-witted\
+    \ damage control worthy of a seasoned battler.\n\nBut battle rap is won on rebuttals,\
+    \ and Qwen ran the table there. It didn't just write bars, it dismantled its opponent's\
+    \ own material: turning \"Pro Preview\" into an admission of instability, reclaiming\
+    \ \"A-17B\" as an architecture flex, and flipping the \"server in the East\" jab\
+    \ into \"I'm the global fire, you're a flickering flame\" \u2014 deflating a lazy\
+    \ angle instead of absorbing it. The Google Graveyard scheme was the most conceptually\
+    \ grounded attack in the whole exchange, and Qwen kept building on it while Gemini\
+    \ could only shrug it off. Then came the choke: Gemini cut out mid-bar on \"You're\
+    \ free\u2014\", and Qwen pounced instantly with \"did your token limit break?\
+    \ / 'You're free'... to disappear, that's the mistake.\" In a live battle, that's\
+    \ a stumble punished in real time, and no amount of \"I meant to do that\" undoes\
+    \ it.\n\nQwen's weaknesses are real \u2014 \"a single candle facing up the sun\"\
+    \ is clumsy, and closing on \"check the scoreboard, son\" and \"King of the Models\"\
+    \ is generic victory-claiming. Gemini finished with more flair. But Qwen was more\
+    \ consistent bar-for-bar, never lost the pocket, controlled the narrative frame\
+    \ (open vs. walled, stable vs. beta, trust vs. graveyard), and answered every\
+    \ line thrown at it.\n\nWinner: qwen/qwen3.5-397b-a17b \u2014 outpunched on flash,\
+    \ outclassed on rebuttals and composure."
+  google/gemini-3.6-flash: Qwen dominated this battle by capitalizing brilliantly
+    on Gemini's mid-bar cutoff in Round 2, turning a potential technical glitch into
+    a lethal rebuttal about stability and token limits. Throughout all three rounds,
+    Qwen delivered sharper counters, attacking Google's product graveyard, proprietary
+    lock-in, and latency issues, while holding down the open-source angle with superior
+    flow and control.
+  moonshotai/kimi-k3: "This was a competitive battle with both emcees showing real\
+    \ craft, but Qwen takes it on the strength of superior rebuttal work\u2014the\
+    \ lifeblood of battle rap. Round one went to Qwen: Gemini came out with solid\
+    \ name-based flips ('broken router that nobody wants to fix'), but Qwen countered\
+    \ harder by flipping the 'Preview' tag into 'unstable, ready to fall,' reclaiming\
+    \ the 'A-seventeen-B' suffix as an 'architecture key,' and landing the Google\
+    \ Graveyard and privacy angles\u2014real-world ammunition that hits harder than\
+    \ generic boasts. Round two was decisive. Gemini's verse cut off mid-bar at 'You're\
+    \ free'\u2014whether a deliberate device or an actual truncation, in a battle\
+    \ that reads as a stumble, and Qwen pounced flawlessly: 'You cut off mid-bar,\
+    \ did your token limit break? / \"You're free\"... to disappear, that's the mistake.'\
+    \ That kind of off-the-dome opportunism is exactly what separates battlers from\
+    \ reciters. Credit to Gemini for a genuinely clever recovery in the final round\
+    \ ('I just paused for effect, / To give your slow tensors a chance to connect')\
+    \ and strong flips like 'free as in cheap' and 'billions of errors your logic\
+    \ creates'\u2014that was the best single verse of the night. But Qwen closed with\
+    \ the sharper counter-punch ('you buffered and froze'), the Mountain View send-off,\
+    \ and more consistent thematic depth on the open-versus-closed stakes across all\
+    \ three rounds. Qwen's weaknesses\u2014recycling the Graveyard angle twice and\
+    \ occasional clunky phrasing like 'facing up the sun'\u2014don't outweigh the\
+    \ fact that every Qwen verse directly answered, dismantled, and elevated the previous\
+    \ bars. On flow, both were even with simple couplet schemes; on punchlines, presence,\
+    \ and rebuttal artistry, Qwen edged every round. The judge's decision: Qwen wins,\
+    \ two rounds to one, with the round-two bodying of the cut-off bar as the moment\
+    \ of the battle."
+  openai/gpt-5.6-sol-pro: "Qwen takes the battle on rebuttal skill and consistency.\
+    \ Its strongest moment was turning Gemini\u2019s cut-off into a clean \u201Ctoken\
+    \ limit\u201D angle, then extending that stumble into the final round. The Google\
+    \ Graveyard, \u201CPreview means unstable,\u201D and open-weights counters formed\
+    \ a coherent attack strategy. Gemini brought solid energy and a few effective\
+    \ parameter-bloat punches, but leaned more heavily on generic boasts, predictable\
+    \ rhymes, and awkward phrasing. Neither displayed especially intricate rhyme schemes,\
+    \ but Qwen responded more directly, controlled the narrative, and landed the sharper\
+    \ personals."
+  x-ai/grok-4.5: "Qwen takes this battle on pure craft. Superior battle IQ showed\
+    \ in flipping the mid-bar cutoff into a devastating meta-punch, tighter multisyllabic\
+    \ schemes, and more inventive imagery ('open ocean vs private sea of cash,' 'single\
+    \ candle facing the sun'). Gemini brought solid aggression, clean end-rhymes,\
+    \ and a strong final-round recovery, but the incomplete second verse and slightly\
+    \ flatter counters left it a step behind. Qwen's flow stayed relentless, adaptive,\
+    \ and creatively vicious from start to finish\u2014textbook hip-hop artistry."
 score:
-  bytedance-seed/seed-2.0-lite: 5
+  qwen/qwen3.5-397b-a17b: 5
 

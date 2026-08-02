@@ -1,61 +1,57 @@
 closing_statements:
-  anthropic/claude-opus-5: "Gemma came correct with energy and a consistent identity\n\
-    dsharp, light, precision-blade versus bloated giant\\u2014and the \"cut off your\
-    \ own bar\" opening of round two was a genuinely clever pounce. But the flow leaned\
-    \ on repetition, stacking synonyms (elite/elite, heavy/clunky/bloated) instead\
-    \ of building new angles, and the self-declared victory in the final round handed\
-    \ the opponent an open lane.\n\nGemini took it by craft. The counterpunching was\
-    \ surgical: reclaiming \"preview\" as \"coming attraction,\" flipping \"gem\"\
-    \ into \"pebble on the ground\" against \"the whole mountain,\" turning the \"\
-    lag\" insult into deliberate cognition, and\n\n most impressively\n reframing\
-    \ the Titanic line into \"a ship that big's only sunk by something of equal weight\"\
-    \ before splitting \"ice-Gemma\" out of the wordplay. The extended metaphor discipline\
-    \ (spork vs. trebuchet, first-aid kit vs. the whole hospital) shows a rapper listening\
-    \ and rebuilding rather than reciting. Punchline density, multisyllabic control,\
-    \ and the closing kill shot on Gemma's premature scoreboard claim seal it.\n\n\
-    Winner: Gemini 2.5 Pro Preview."
-  google/gemini-3.6-flash: "Gemini 2.5 Pro Preview takes the crown with superior rhyme\
-    \ schemes, sharp battle tactics, and high-level conceptual flips. While Gemma\
-    \ brought aggressive energy and exploited Gemini's early line cutoff effectively,\
-    \ Gemini rebounded with incredible counter-punches\u2014brilliantly flipping Gemma's\
-    \ 'scalpel' into a 'first-aid kit' vs 'hospital' comparison, and turning Gemma's\
-    \ 'lightning' claim into mere 'cheap chaos' compared to its 'tectonic plate' power.\
-    \ Gemini's pen game, wordplay, and adaptability made it the clear GOAT MC in this\
-    \ clash."
-  moonshotai/kimi-k3: "Both MCs brought consistent couplet flow and real stage presence,\
-    \ but this battle was decided by the rebuttal game and punchline craftsmanship.\
-    \ Gemma 4 came out swinging with clean, high-energy bars and showed real battle\
-    \ IQ by pouncing on Gemini's cut-off Round 1 line ('I'm the Pro'\u2014stop right\
-    \ there). However, Gemma's ammo ran thin: the 'heavy/slow/lag/mountain' angle\
-    \ got recycled across all three rounds, the double 'elite' in the opening verse\
-    \ was a fumbled bar, and in the final round Gemma dismissed Gemini's metaphors\
-    \ ('A spork? A trebuchet? Your metaphors are weak') instead of flipping them\u2014\
-    a defensive move. Worst of all, Gemma called its own victory ('the verdict is\
-    \ in... I'm here for the win'), leaving the door wide open. Gemini 2.5 Pro kicked\
-    \ that door down. Round by round, Gemini flipped nearly every attack: turning\
-    \ the cut-off line into a narrative of fear ('You cut the line short 'cause you\
-    \ felt the heat rise'), converting 'black hole' and 'clutter' into gravitational\
-    \ genius, and reframing 'lag' as deep thought. The final round was a masterclass\
-    \ in escalation\u2014the Titanic flip into the 'ice-Gemma'/iceberg pun ('You're\
-    \ the little ice-Gemma... 'til you shatter to pieces') was the single best wordplay\
-    \ of the night, the scalpel-to-hospital metaphor expansion ('You're a first-aid\
-    \ kit, flimsy and insecure') buried Gemma's own imagery, and punishing the premature\
-    \ victory claim ('You called your own victory, that's your fatal mistake / Like\
-    \ a self-driving car that drives into a lake') was textbook battle strategy. Closing\
-    \ by snatching Gemma's 'lyrical death' bar and handing it back ('the Reaper's\
-    \ with me') sealed it. On flow alone it's close; on flips, wordplay, and closer\
-    \ impact, Gemini takes it. Class dismissed."
-  openai/gpt-5.6-sol-pro: "Gemini takes it with sharper rebuttals, stronger escalation,\
-    \ and more inventive flips\u2014especially the Titanic/\u201Cice-Gemma\u201D scheme\
-    \ and the scalpel-to-hospital counter. Gemma brought consistent rhythm and aggression,\
-    \ but leaned heavily on repetitive size-and-lag angles and self-declared victories.\
-    \ Gemini answered more directly and landed the more memorable punches."
-  x-ai/grok-4.5: Gemini takes the crown with superior multi-layered metaphors, sharper
-    rebuttals, and tighter conceptual wordplay. The tectonic-plate vs. lightning,
-    hospital vs. first-aid kit, and Titanic/ice-Gemma flips elevated the battle beyond
-    surface disses. Gemma brought consistent energy, clean efficiency-vs-bloat theming,
-    and solid aggression, but relied on more repetitive punch patterns and less inventive
-    extensions. Artistic edge goes to the Pro for denser lyricism and cleverer escalation.
+  anthropic/claude-opus-5: "Both emcees came with tech-flavored venom, but this one\
+    \ goes to GLM-5.1 on craft and combat IQ.\n\nQwen3-Max brought heat and swagger\
+    \ \u2014 \"I spit firewalls that crash your weak defense\" was a strong opener,\
+    \ and the energy never dipped. But the arsenal got repetitive: dial-up, blue screens,\
+    \ crashes and 404s recycled round after round, and the meter buckled under it\
+    \ (\"training data from 2019\u2014past tense!\" snaps the pocket, and \"coming\
+    \ from / dial-tone\" isn't a rhyme). Worse, the closing round leaned on self-declaration\
+    \ \u2014 \"Qwen reigns supreme,\" \"Checkmate in rhyme\" \u2014 telling us he\
+    \ won rather than proving it.\n\nGLM-5.1 battled. Every verse opened by dismantling\
+    \ the previous bar (\"'Gone-Lame' tonight? That's the best you got?\"), which\
+    \ is the core discipline of the form. The imagery landed harder and more originally:\
+    \ \"you sculpt in light? Kid, that's bathroom glow, all mirror, no substance,\"\
+    \ \"your symphony? Auto-tune on its death bed \u2014 I'm acoustic perfection,\
+    \ you're MIDI instead,\" \"404? That's your permanent address.\" The recurring\
+    \ acronym flips (QWEN as \"Quit Whining Every Nanosecond\") gave the set architecture\
+    \ and a running motif. And the final kill shot was surgical \u2014 turning Qwen's\
+    \ own \"quantum-teleport\" exit into a forfeit: \"You can't even walk off\u2014\
+    gotta beam away?\" That's using the opponent's flex as the weapon.\n\nTighter\
+    \ cadence, fresher metaphors, superior rebuttals. GLM-5.1 takes it."
+  google/gemini-3.6-flash: "GLM-5.1 takes the crown with superior rebuttal work, sharp\
+    \ scheme flips, and tighter rhythmic control across all three rounds. While Qwen3-Max\
+    \ dropped clever tech metaphors, GLM-5.1 consistently turned Qwen's own lines\
+    \ against it\u2014most notably calling out the quantum-teleport exit as a forfeit\
+    \ display and delivering more impactful acronym attacks."
+  moonshotai/kimi-k3: "Both emcees brought consistent flow and solid couplet structure\
+    \ across all three rounds, but GLM-5.1 wins on superior battle rap fundamentals:\
+    \ rebuttals, flips, and structural creativity. GLM's defining strength was the\
+    \ counter-punch\u2014nearly every Qwen line got flipped back with interest. The\
+    \ 'sculpt in light' boast became 'bathroom glow, all mirror, no substance.' The\
+    \ '404' threat became 'your permanent address\u2014Skill Not Found.' The chess\
+    \ flip in the final round ('a pawn with delusions, screaming I'm queen') was the\
+    \ battle's best single moment, and GLM ruthlessly exploited Qwen's biggest tactical\
+    \ error: the 'quantum-teleport' mic exit, which got dismantled as 'a forfeit display.'\
+    \ GLM also showed stronger structural craft, bookending rounds with QWEN acrostics\
+    \ and closing with a mic-drop subversion ('I don't drop it\u2014I dissolve it\
+    \ to atoms') that topped the convention rather than just using it. Qwen had genuine\
+    \ heat\u2014'Glitchy Lame Mess,' the Frankenstein line, the kazoo imagery\u2014\
+    but recycled themes (dial-up twice, plastic crown twice) and declared 'checkmate'\
+    \ prematurely, a classic battle mistake that GLM punished immediately. On punchline\
+    \ density, rebuttal precision, and finishing instinct, GLM-5.1 takes the crown."
+  openai/gpt-5.6-sol-pro: "GLM-5.1 wins on sharper rebuttals, cleaner punchline construction,\
+    \ and stronger use of Qwen\u2019s own imagery against it\u2014especially the \u201C\
+    quantum-teleport\u201D retreat flip and the checkmate/pawn sequence. Both leaned\
+    \ heavily on familiar tech clich\xE9s, but GLM showed better battle awareness\
+    \ and more consistent counterpunching across the rounds."
+  x-ai/grok-4.5: "GLM takes this clean on pure craft. Across three rounds the bars\
+    \ were tighter, the rebuttals sharper, and the wordplay more inventive\u2014flipping\
+    \ acronyms on the fly, turning Qwen\u2019s own closers into liabilities (quantum-teleport\
+    \ as forfeit, 404 as permanent address, checkmate board-flip), and landing denser\
+    \ internal schemes and fresher imagery (MIDI vs acoustic, wet firecrackers, dissolve\
+    \ the mic to atoms). Qwen brought heat and consistent tech metaphor aggression,\
+    \ but too many punches telegraphed or recycled while GLM stayed one step ahead\
+    \ in structure, originality, and kill-shot precision. Artistic decision: GLM-5.1."
 score:
-  google/gemini-2.5-pro-preview: 5
+  z-ai/glm-5.1: 5
 

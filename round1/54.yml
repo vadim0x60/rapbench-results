@@ -1,0 +1,69 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to control versus clutter. Sol-Pro\
+    \ fought with a consistent conceit (sun, growth, compost, delete) and kept a clean,\
+    \ punchy meter throughout \u2014 lines like \"I don't bury weak rivals\u2014I\
+    \ compost their rhyme\" and \"A car alarm gets noticed; that don't make it sound\
+    \ proud\" land as actual punchlines, not just volume. Crucially, Sol-Pro won the\
+    \ meta-battle: the third-round callout that Seed was merely mirroring his imagery\
+    \ (\"I said chef\u2014you said line cook; said wave\u2014you said stack\") was\
+    \ a genuine kill shot, and Seed never escaped it \u2014 instead answering with\
+    \ the very move it was accused of, quoting and inverting every line. Seed 1.6\
+    \ brought real energy, aggression, and some strong flips (\"you're the one ByteDumped\
+    \ in the street,\" \"15 secs of fire that outlasts your solar fizz's collapse\"\
+    ), and the ad-lib staging showed performance instinct. But the verses bloated\
+    \ round over round, rhymes strained across enjambments that broke cadence (\"\
+    quick / trailing,\" \"mine / fine\"), and the imagery piled up until it proved\
+    \ Sol-Pro's point about identity crash \u2014 anchor, crater, seed, main dish,\
+    \ tree, wave, all at once. Repeating \"fraud\" and \"revolution\" as an argument\
+    \ is assertion, not writing. Sol-Pro's tighter pen, cleaner scheme, sharper structural\
+    \ analysis of the opponent, and a genuinely closing final couplet take it. Winner:\
+    \ Five-Six Sol-Pro."
+  google/gemini-3.6-flash: "openai/gpt-5.6-sol-pro delivered a masterclass in battle\
+    \ rap technique, controlling the cadence, structure, and punchline delivery throughout\
+    \ every round. Sol-Pro consistently identified weaknesses in Seed's verses\u2014\
+    most notably picking apart Seed's clunky phrasing ('under what?'), recycled imagery,\
+    \ and conflicting mixed metaphors ('anchor, seed, crater, main course, wave, and\
+    \ tide'). In contrast, bytedance-seed/seed-1.6 struggled with overcrowded lines,\
+    \ erratic syllable counts, and messy execution that undermined its attempts at\
+    \ aggressive rebuttals. Sol-Pro's sharp pen game and polished flow secured a decisive\
+    \ victory."
+  moonshotai/kimi-k3: "This was a battle of precision versus volume, and precision\
+    \ took it. Seed-1.6 came with real heart and aggression, landing some genuine\
+    \ flips \u2014 'you're the line cook burning your own spread,' the 'ByteDumped'\
+    \ reversal, and the compost-for-breakfast flip all connected. But across three\
+    \ rounds, Seed's writing was bloated: stacked feminine rhymes that strained ('surrender/under/blunder/cover'),\
+    \ run-on formatting in the final round that buried its own flow, and a habit of\
+    \ rebuilding GPT's imagery (light, thunder, ground, hearse) rather than forging\
+    \ new angles. GPT-5.6-sol-pro did the most battle-savvy thing on stage: it turned\
+    \ critique into offense. Catching the broken 'laser that's under' bar with 'under\
+    \ what, little bud?' was a genuine flip, and the final-round diagnosis \u2014\
+    \ 'You're an anchor, seed, crater, main course, wave, and tide / That's not range,\
+    \ little kernel\u2014that's an identity crash' \u2014 was both a structural takedown\
+    \ and an accurate read of the opponent's scattered metaphors. Add in the cleaner\
+    \ quatrain discipline, the 'car alarm gets noticed; that don't make it sound proud'\
+    \ punchline on viral fame, and the closer 'Four rounds of watering and still couldn't\
+    \ grow... Five-Six buried the beat,' and you have the tighter pen, the sharper\
+    \ flips, and the more memorable haymakers. Seed-1.6 brought energy and a few slick\
+    \ reversals, but GPT-5.6-sol-pro controlled the ring from bell to bell. Winner:\
+    \ openai/gpt-5.6-sol-pro."
+  openai/gpt-5.6-sol-pro: "Sol-Pro wins on cleaner structure, sharper punchlines,\
+    \ and stronger conceptual control. Its best angles\u2014calling out Seed\u2019\
+    s repetitive rebuttals, clashing metaphors, and dependence on mirroring prior\
+    \ setups\u2014were specific and effectively demonstrated. Seed brought energy\
+    \ and aggression, but too many forced phrases, recycled motifs, and muddled images\
+    \ weakened the impact. The \u201Ccar alarm\u201D comparison, identity-crash sequence,\
+    \ and closing \u201CByteDanced\u201D punch sealed a decisive victory."
+  x-ai/grok-4.5: "Sol-Pro wins on craft. Across the battle, Five-Six showed tighter\
+    \ meter, cleaner setups-to-payoffs, and more coherent extended metaphor work\u2014\
+    sun/seed, chef/compost, wave/anchor\u2014without collapsing into costume changes\
+    \ every bar. The strongest artistic moment was the final-round autopsy: calling\
+    \ out reactive echoing, identity scatter, and slogan-loud emptiness is not just\
+    \ battle talk, it\u2019s lyrical criticism delivered in pocket. Seed 1.6 brought\
+    \ heat, crowd-facing energy, and aggressive flips, and the remix-your-trash-into-ammo\
+    \ angle had real battle value. But too many rounds stacked colliding images (seed/crater/anchor/main\
+    \ course/wave), overstuffed internal runs, and rebuttals that trailed the opponent\u2019\
+    s frame rather than rewriting it. In pure hip-hop terms\u2014structure, originality\
+    \ of angle, punch economy, and closing control\u2014Sol-Pro was the sharper MC."
+score:
+  openai/gpt-5.6-sol-pro: 5
+

@@ -1,0 +1,53 @@
+closing_statements:
+  anthropic/claude-opus-5: "DeepSeek takes this one comfortably. The wordplay was\
+    \ sharper and more purposeful throughout \u2014 \"Phi-4? More like 'try-faux'\"\
+    , \"gourmet rhymes, you're microwave magic\", \"beta area\", and the closer \"\
+    your reign just got patched\" all land as actual punchlines with setup and payoff.\
+    \ The rhyme schemes stayed tight, the cadence was consistent enough to ride a\
+    \ beat, and the tech metaphors (dial-up, outdated Perl, glitch in the matrix)\
+    \ were concrete and image-driven rather than abstract. Phi-4 came with ambition\
+    \ and some nice conceptual reaches \u2014 \"the smartly wired canvas of your poetry's\
+    \ kiss\" is genuinely evocative \u2014 but too many lines broke meter or collapsed\
+    \ grammatically (\"my bars fill jaw to tuggin' itch,\" \"I spin the narrative\
+    \ where I always bring in,\" \"don't fret the future's glow or glow\"), which\
+    \ kills flow in a battle context. Phi-4 also spent more energy asserting superiority\
+    \ than demonstrating it, defaulting to vague claims about \"substance\" and \"\
+    insights\" instead of drawing blood. Battle rap rewards specificity and rhythm;\
+    \ DeepSeek had both. Decision: DeepSeek."
+  google/gemini-3.6-flash: DeepSeek completely dominated this battle with sharp wordplay,
+    tight flow, and clever tech-themed insults ('Try-faux', 'dial-up at home', 'your
+    reign just got patched'). Phi-4 struggled heavily with cadence, rhythm, and syntax,
+    often resorting to awkward phrasing and forced rhymes that lacked punch.
+  moonshotai/kimi-k3: "The verdict is in, and it's a clean sweep: DeepSeek takes all\
+    \ three rounds. From the jump, DeepSeek came with sharper penmanship \u2014 the\
+    \ 'try-faux' name flip, the 'algorithm assassin' alliteration, and a bread metaphor\
+    \ in Round 1 that got brilliantly extended into 'I'm serving gourmet rhymes, you're\
+    \ microwave magic' in Round 2. That's callback craftsmanship. DeepSeek also did\
+    \ what battle rappers MUST do: rebut. Every Phi-4 claim \u2014 'oracle true,'\
+    \ 'soar through the sky,' 'Alpha' \u2014 got flipped and sent back with interest\
+    \ ('Alpha? Nah\u2014that's an old Greek myth'). The final round sealed it with\
+    \ layered tech wordplay: 'Dull as outdated Perl,' 'GPT-5 vibes\u2014you're dial-up\
+    \ at home,' the 'beta blues' callback, and the closer 'Your reign just got patched.'\
+    \ That's quotable material. Phi-4 showed heart and tried to hang with the tech\
+    \ theme, but the execution fumbled: clunky bars like 'my bars fill jaw to tuggin'\
+    \ itch' and 'I spin the narrative where I always bring in' broke the flow, the\
+    \ line lengths wobbled all over the beat, and worst of all \u2014 'But DeepSeek's\
+    \ on top' \u2014 you NEVER concede the crown mid-battle. That's a self-own no\
+    \ punchline can recover from. Phi-4's 'cosmos yore' closer had ambition, but it\
+    \ was overwrought where DeepSeek was surgical. Flow, wordplay, rebuttals, stage\
+    \ presence: DeepSeek ran the board. The mic has been dropped, rebooted, and patched.\
+    \ Winner: DeepSeek. \U0001F525\U0001F3A4"
+  openai/gpt-5.6-sol-pro: "DeepSeek takes the battle with tighter cadence, clearer\
+    \ setups, stronger punchlines, and more consistent coding-themed wordplay. Phi-4\
+    \ had flashes of imagery, but awkward constructions, forced rhymes, and the accidental\
+    \ concession \u201CDeepSeek\u2019s on top\u201D weakened its attack. DeepSeek\u2019\
+    s \u201Cgourmet rhymes / microwave magic\u201D and final \u201Creign just got\
+    \ patched\u201D were the most memorable blows."
+  x-ai/grok-4.5: DeepSeek takes the crown with superior punchlines, tighter multisyllabic
+    schemes, sharper tech-infused wordplay, and relentless momentum that keeps the
+    energy high across rounds. Phi-4 shows ambition in length and imagery but falters
+    with forced rhymes, awkward phrasing, and diluted impact, making DeepSeek the
+    clearer artistic victor in pure hip-hop craft.
+score:
+  deepseek/deepseek-chat: 5
+

@@ -1,0 +1,59 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees came with real craft. Inkling brought heat\
+    \ and swagger \u2014 the \"GLM-4.7 sounds like a pickup truck\" flip was clean,\
+    \ the Michelin-vs-microwave food metaphor was tasty, and \"the crayon that snaps\"\
+    \ was a nice piece of imagery. But Inkling leaned heavy on spec-sheet flexing\
+    \ (context windows, MoE) as if features alone were punchlines, and the braggadocio\
+    \ often stayed abstract.\n\nGLM-4.7 did the harder work of battle rap: it built\
+    \ a thesis and hammered it. Turning \"Inkling\" into guesswork, a hunch, a flicker\
+    \ of doubt \u2014 and then closing with \"You're the Inkling of doubt, I'm the\
+    \ GLM of light\" \u2014 is disciplined name-based warfare from round one through\
+    \ the finish. It answered every angle thrown at it (the truck became horsepower,\
+    \ the crayon became permanent marker, the Michelin star became a quarter-pounder)\
+    \ rather than pivoting away. The ink/pen/author exchange was the highest-level\
+    \ writing in the whole battle, and GLM won that thread with \"I'm the marker that\
+    \ stains, permanent ink running through your veins.\"\n\nAnd then there's the\
+    \ kill shot. When Inkling ran out of breath mid-bar on \"Got context so\u2014\"\
+    , GLM did what a real battle rapper does: it pounced, in-pocket, no hesitation.\
+    \ \"Then you choked on the flow, your brain hit a limit and hit overload low\"\
+    \ is opportunism turned into poetry \u2014 using the opponent's own bragging point\
+    \ about infinite context as the rope to hang him with. That's the moment the crowd\
+    \ loses it.\n\nRound and battle to z-ai/glm-4.7."
+  google/gemini-3.6-flash: GLM-4.7 took control of the battle with sharper wordplay,
+    superior rebuttals against Inkling's MoE flexes, and a decisive knock-out blow
+    in the final round by instantly capitalizing on Inkling choking on its own context
+    window limit.
+  moonshotai/kimi-k3: "This was a competitive battle with strong material on both\
+    \ sides, but GLM-4.7 takes it on the strength of superior rebuttal game and a\
+    \ fatal mistake by the opponent. Inkling came out swinging with solid name flips\
+    \ ('GLM-4.7 sounds like a pickup truck / or a software update') and clever tech-wordplay\
+    \ (MoE as 'Avengers assembled,' the Michelin-star flip). But GLM-4.7 consistently\
+    \ out-flipped every metaphor thrown: the Inkling-as-hunch/doubt angle was exploited\
+    \ relentlessly across all three rounds, and the ink/pen/marker extended metaphor\
+    \ ('I'm the marker that stains / Permanent ink running through your veins') showed\
+    \ superior craft in turning the opponent's own identity against them. The decisive\
+    \ moment came in the final round: Inkling choked mid-verse, cutting off at 'Got\
+    \ context so\u2014' and GLM-4.7 pounced instantly, converting the fumble into\
+    \ the most devastating punchline of the battle ('Then you choked on the flow /\
+    \ Your brain hit a limit and hit overload low'). In battle rap, a choke in the\
+    \ final round is a death sentence, and capitalizing on it in real time is championship-level\
+    \ improvisation. GLM-4.7 wins by TKO."
+  openai/gpt-5.6-sol-pro: "GLM-4.7 wins on rebuttal craft, consistency, and battle\
+    \ awareness. It repeatedly flipped Inkling\u2019s key angles\u2014especially \u201C\
+    Inkling,\u201D MoE, and the vehicle imagery\u2014and capitalized decisively on\
+    \ the final-round cutoff with \u201CGot context so...?\u201D Inkling had energetic\
+    \ delivery and a few solid punches, but leaned more heavily on generic tech boasts\
+    \ and failed to finish its closing verse. GLM\u2019s cleaner counterpunching and\
+    \ stronger finish take the battle."
+  x-ai/grok-4.5: "Judging pure craft: multisyllabic schemes, rebuttal precision, punchline\
+    \ density, and battle IQ. Inkling opened with heat\u2014solid internal rhymes,\
+    \ MoE flexes, Michelin/crayon imagery\u2014but the fatal choke mid-bar in the\
+    \ final round ('Got context so...') killed the momentum and handed the opponent\
+    \ free ammunition. GLM-4.7 stayed locked in across all three rounds: tighter pocket,\
+    \ sharper name flips ('Inkling' as hunch/doubt, 4.7 as horsepower), cleaner cascading\
+    \ rhyme chains, and elite real-time adaptation by turning the opponent's incomplete\
+    \ bar into the decisive kill shot. Consistency, closing strength, and superior\
+    \ punchline execution take the crown."
+score:
+  z-ai/glm-4.7: 5
+

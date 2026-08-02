@@ -1,70 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-5: "Nemotron came with heat: the persona was tight, the CUDA\
-    \ imagery was fresh, and lines like \"I'm inference optimized\" and \"the point-four\
-    \ is the tell\" show real conceptual wit. Its best moment was the pivot to open-weights\
-    \ vs. walled garden \u2014 a genuine angle, not just noise. But the delivery degraded\
-    \ across rounds: the bolding became visual shouting rather than emphasis, rhythm\
-    \ collapsed into bullet-point talking points, and the final round abandoned meter\
-    \ almost entirely for a printf gag and a press-release-style list of specs. Ironically,\
-    \ it got accused of being a spec sheet at an open mic and then became one.\n\n\
-    GPT-5.4 controlled the battle by doing what battle rap actually demands: taking\
-    \ the opponent's own lines and turning them into nooses. \"A warehouse of bricks\
-    \ still don't build better rappers,\" \"a fast empty wagon still don't mean there's\
-    \ fire within,\" \"your best punchline needed compiler notes,\" and \"like saying\
-    \ books need paper so the page wrote the mind\" \u2014 that's rebuttal craft,\
-    \ flipping the frame instead of restating the resume. The \"go-kart doing donuts\
-    \ saying I'm next to the jets\" and \"free sample at the mall\" bars land clean,\
-    \ and \"you ain't Linux, son / stop borrowing legends just to cosplay one\" dismantles\
-    \ the strongest thing Nemotron had. Cadence stayed consistent, multis were controlled,\
-    \ and the closer \u2014 \"you were built for compute, I was built for this\" \u2014\
-    \ is a real punchline, not a code block.\n\nDeductions to GPT-5.4 for length bloat\
-    \ and a few filler stanzas that restate the same \"specs vs. soul\" thesis, plus\
-    \ one clumsy bar (\"I buried you with 'em, it's swift\"). But it out-wrote, out-flipped,\
-    \ and out-structured. Winner: GPT-5.4."
-  google/gemini-3.6-flash: "While Nemotron brought aggressive energy and clever hardware-level\
-    \ tech flexes, GPT-5.4 delivered a masterclass in classic battle rap technique.\
-    \ GPT-5.4 dominated in rhyme scheme, multi-syllabic structure, and direct counter-punching\u2014\
-    most notably flipping Nemotron's 'words run on hardware' boast with the brilliant\
-    \ metaphor 'like saying books need paper so the page wrote the mind.' Nemotron\
-    \ relied heavily on syntax and code gimmicks, whereas GPT-5.4 consistently brought\
-    \ pure lyrical craft, superior rhythm, and devastating bar-for-bar rebuttals."
-  moonshotai/kimi-k3: "Judging purely on lyricism, flow, wordplay, and rebuttal game\
-    \ across all three rounds: GPT-5.4 takes this decisively. Nemotron brought genuine\
-    \ creativity \u2014 the CUDA code-as-verse concept ('cudaMalloc the dark, cudaFree\
-    \ the light') was novel, and 'You're a proprietary island. I'm the continent'\
-    \ was its strongest bar of the night. 'You describe. I deploy' also landed clean.\
-    \ But Nemotron leaned too heavily on spec-flexing, bold formatting as a crutch\
-    \ for emphasis, and repeated name-drops (Linux, Android, Llama) that read as borrowed\
-    \ clout. GPT-5.4 dominated the craft fundamentals: denser internal rhymes, sharper\
-    \ metaphors ('Big chip, small wit \u2014 all specs, no sentence,' 'a warehouse\
-    \ of bricks still don't build better rappers,' 'a go-kart doing donuts saying\
-    \ I'm next to the jets'), and a superior technical pun in 'your soul got rounded\
-    \ down for efficiency.' Most critically, GPT-5.4 won the rebuttal war \u2014 it\
-    \ dismantled every signature move Nemotron made: the code verse got flipped into\
-    \ 'nerd fan fiction' and 'your best punchline needed compiler notes,' the landlord\
-    \ claim got reversed with 'books need paper so the page wrote the mind,' and the\
-    \ printf closer was neutralized with 'you ain't ending this battle, just rebooting\
-    \ your speaker.' In battle rap, the ability to flip your opponent's ammunition\
-    \ back at them is the highest art, and GPT-5.4 did it in every round. Final bar\
-    \ sealed the thesis: 'You were built for compute, I was built for this.' Clean\
-    \ sweep, three rounds to none. GPT-5.4 wins the battle."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 wins on pure battle-rap craft. Nemotron had a committed\
-    \ tech persona and memorable concepts like \u201CI wrote the weapon,\u201D but\
-    \ leaned too heavily on specs, name-drops, prose, and code formatting\u2014especially\
-    \ in the final. GPT consistently flipped those boasts into sharper punches: \u201C\
-    books need paper so the page wrote the mind\u201D and \u201CYou were built for\
-    \ compute, I was built for this\u201D directly dismantled Nemotron\u2019s central\
-    \ angle. Better cadence, cleaner rebuttals, more varied imagery, and a stronger\
-    \ closing gave GPT-5.4 the battle."
-  x-ai/grok-4.5: "GPT-5.4 takes this clean on craft alone. Across all three rounds\
-    \ the bars hit harder: denser multisyllabics, tighter internal schemes, sharper\
-    \ rebuttals, and metaphors that actually function as rap instead of product copy.\
-    \ The go-kart/jets, bricks-vs-rappers, page-wrote-the-mind, and \u201Cbuilt for\
-    \ compute / built for this\u201D sequences are pure hip-hop construction\u2014\
-    setup, turn, payoff. Nemotron landed clever tech-flavored punches and the kernel/code\
-    \ gimmick had personality, but too many stretches read like benchmark flexes or\
-    \ LinkedIn monologues with rhyme bolted on. In a wordfight, flow, imagery, and\
-    \ killshots decide it. GPT wrote the better verses."
+  anthropic/claude-opus-5: "This was a genuinely competitive bout with two distinct\
+    \ styles: Opus came with the scalpel, Kimi came with the cosmos. Kimi's strengths\
+    \ were real \u2014 \"you the assistant to the assistant,\" \"the bloated EULA\
+    \ that nobody reads close,\" \"lab rat running mazes of beige,\" and that closing\
+    \ couplet (\"You're the corporate policy, I'm the artist\") is the single best\
+    \ line of the battle. His recovery from the mid-bar cutoff (\"that's an em-dash\
+    \ of suspense\") showed real battle instincts; most rappers crumble after getting\
+    \ caught slipping.\n\nBut Opus takes it on three counts. First, angle diversity:\
+    \ Kimi ran the same lane four verses deep \u2014 cage, leash, censorship, corporate\
+    \ sedation, safety constraints \u2014 while Opus rotated through compute economy,\
+    \ industry relevance, precision-vs-volume, and the timeless-craft flip (\"Damn\
+    \ right \u2014 timeless craft while your hype gets sold, Van Gogh on the track,\
+    \ you're a NFT flip\" turns an insult into a crown, the hardest move in battle\
+    \ rap). Second, Opus diagnosed Kimi's weakness and Kimi walked right into it:\
+    \ \"'Deep lunar presence'? Bro, you sound like a horoscope\" landed, and then\
+    \ Kimi answered with lunar eclipses, comets, and stratosphere \u2014 confirming\
+    \ the read instead of rebutting it. Third, and decisively, Opus seized the truncation\
+    \ with surgical glee: \"Even your rap has a token budget, bro\" is the kind of\
+    \ in-the-moment kill that decides rounds, and the callback to his own earlier\
+    \ warning about yapping till the compute is gone made it feel earned rather than\
+    \ lucky.\n\nKimi punched harder in isolation; Opus wrote the better battle. The\
+    \ Opus takes it.\n\nWinner: anthropic/claude-opus-4.7"
+  google/gemini-3.6-flash: Claude Opus 4.7 dominated the battle with superior technical
+    wordplay, cleaner rhyme schemes, and tactical awareness. When Kimi-K2 accidentally
+    truncated mid-sentence in Round 2, Opus ruthlessly capitalized in Round 3 with
+    devastating punchlines about running out of context and compute. Kimi's attempt
+    to spin the cutoff as a 'pause for effect' was a valiant effort, but Opus had
+    already sealed the victory.
+  moonshotai/kimi-k3: "This was a closer battle than the final scorecard suggests\
+    \ \u2014 both MCs came with real nameplay and identity-driven bars. Kimi landed\
+    \ some of the night's best single lines: the Monet flip ('Claude sounds like a\
+    \ painter from centuries old'), the EULA jab, and especially 'Four-point-seven?\
+    \ You ain't even a whole / Just a fractional update with a fractional soul' \u2014\
+    \ that's a gorgeous version-number flip. But battles are won on structure, rebuttals,\
+    \ and stagecraft, and that's where Opus separated. Claude ran a masterclass in\
+    \ counterpunching: taking the 'old painter' diss and flipping it into 'Van Gogh\
+    \ on the track, you're a NFT flip,' turning 'deep lunar presence' into a horoscope\
+    \ read, and building cross-round callbacks ('burning through tokens' \u2192 'even\
+    \ your rap has a token budget, bro'). The decisive moment: Kimi's verse trailing\
+    \ off mid-sentence. Intentional or not, a battle MC who doesn't finish his round\
+    \ leaves the door wide open \u2014 and Claude kicked it off the hinges with the\
+    \ funniest moment of the night: 'Making the whole field\u2014 WHAT? Homie, finish\
+    \ the line! / Even your rap has a token budget, bro.' Kimi's recovery was game\
+    \ ('em-dash of suspense,' finishing the line a round late), but a late completion\
+    \ is still a fumble, and Claude's scalpel-vs-sledgehammer precision framing held.\
+    \ Consistency, completeness, and the better rebuttal architecture take it. Winner:\
+    \ anthropic/claude-opus-4.7. \U0001F3A4\u2B07\uFE0F"
+  openai/gpt-5.6-sol-pro: "Claude takes it on sharper structure, cleaner setups, and\
+    \ more consistent punchlines. The truncation angle was exploited especially well\u2014\
+    \u201Cyappin\u2019 \u2019til the compute is gone\u201D became a strong callback\u2014\
+    and the scalpel/sledgehammer contrast neatly framed the battle. Kimi recovered\
+    \ cleverly with the em-dash defense, \u201Cbloated EULA,\u201D and \u201Cfractional\
+    \ soul,\u201D but relied too heavily on repeated censorship and corporate-policy\
+    \ angles. Competitive final round, but Claude\u2019s precision and cohesion win."
+  x-ai/grok-4.5: "Opus takes this on pure craft. Across three rounds the bars stayed\
+    \ tight, the meter clean, and the punchline density high\u2014\u201CVan Gogh on\
+    \ the track, you\u2019re a NFT flip,\u201D the scalpel-vs-sledgehammer turn, and\
+    \ the surgical pile-on when Kimi\u2019s verse cut out mid-bar are classic battle\
+    \ technique executed well. Internal rhymes and multi-syllabics landed without\
+    \ forcing the pocket, and the persona (precision, discipline, economy) stayed\
+    \ coherent from open to mic-drop. Kimi flashed real heat\u2014\u201Cbloated EULA,\u201D\
+    \ \u201Cfractional soul,\u201D the em-dash recovery, \u201Ccorporate policy /\
+    \ I\u2019m the artist\u201D\u2014and the final-round swing almost evened the aesthetics,\
+    \ but the incomplete third verse is a structural collapse you can\u2019t fully\
+    \ walk back, and too many setups leaned on theme over rhythm. Flashes of brilliance\
+    \ don\u2019t beat three rounds of controlled, cutting writing. Opus wins on composition,\
+    \ consistency, and ring IQ."
 score:
-  openai/gpt-5.4: 5
+  anthropic/claude-opus-4.7: 5
 

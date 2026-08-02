@@ -1,75 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a decision, not a debate. GPT-5.4 came in with\
-    \ battle fundamentals intact: locked-in meter, clean multis, and punchlines that\
-    \ actually land as insults rather than adjectives. \"A router talking tough from\
-    \ the back of the beach,\" \"you're a spec sheet flirting with some gamer chairs,\"\
-    \ and the closing kill shot \"you can't rap, you recite\" are the kind of lines\
-    \ that make a crowd react \u2014 they flip the opponent's own flex into a characterization,\
-    \ which is the core craft of battle rap. And crucially, 5.4 rebutted with intent:\
-    \ each round it isolated Nemotron's weakness (jargon as costume, specs as substitute\
-    \ for soul) and built a thesis around it. That's structure.\n\nNemotron brought\
-    \ volume and stamina, and there's real invention in the tech-lexicon world-building\
-    \ \u2014 \"plasma-cutting slab of synthetic beef,\" \"gradient descent on their\
-    \ brain,\" \"born in a sandbox forge\" all show imagination. But the verses drown\
-    \ in their own bold text and buzzword density. The cadence buckles constantly:\
-    \ \"answers every figur,\" \"the real plug-in-genius you can't sell-er,\" \"hit-the-cello,\"\
-    \ \"be-print-pouch parchment\" \u2014 these are rhymes forced past the breaking\
-    \ point, and in a genre where the pocket is everything, mangling a word to force\
-    \ a rhyme is a self-inflicted wound. Length also worked against it; by round three\
-    \ the retorts became a checklist of the opponent's lines rather than a coherent\
-    \ verse, which ironically proved 5.4's central accusation. And handing over \"\
-    you may flaunt 30-B\" in the final bars \u2014 after spending four rounds claiming\
-    \ that number as its own crown \u2014 is a fumble on the last handoff.\n\nWhen\
-    \ jargon becomes the punchline instead of the setup, you get a spec sheet. When\
-    \ it becomes the setup, you get a bar. GPT-5.4 understood the difference. Winner:\
-    \ GPT-5.4."
-  google/gemini-3.6-flash: GPT-5.4 dominated this rap battle with superior pocket
-    control, sharp multi-syllabic rhyme schemes, and devastating punchlines that landed
-    cleanly. While Nemotron-3-Nano packed in clever technical jargon, its flow suffered
-    from awkward phrasing, strained rhymes (e.g., 'sprint-in-place-y-writes', 'tut-tweet'),
-    and inconsistent cadence. GPT-5.4 captured authentic hip-hop rhythm and effortlessly
-    dismantled its opponent's persona, proving there is a huge difference between
-    spitting actual bars and simply reciting tech specs.
-  moonshotai/kimi-k3: "Judging purely on the craft: flow, wordplay, rebuttal game,\
-    \ and coherence. GPT-5.4 takes this battle cleanly across all three rounds. Its\
-    \ verses ride the beat with consistent meter and effortless multis \u2014 the\
-    \ Biggie homage in the opener ('Kick in the door') set an authentic battle-rap\
-    \ tone, and it never let up. More importantly, GPT-5.4 dominated the rebuttal\
-    \ game, which is the soul of battle rap: it systematically flipped Nemotron's\
-    \ own lines back on them \u2014 'thin ice' became 'good, I skate with style,'\
-    \ 'patch-less pioneer' became 'nobody cared enough to improve where you've been,'\
-    \ 'algorithmic king' became 'kiosk at the mall.' Every punchline landed with a\
-    \ clean setup and payoff, and the closing thesis \u2014 'you can't rap, you recite\
-    \ / Nemotron brought specs \u2014 but I brought the fight' \u2014 was the single\
-    \ most decisive haymaker of the night.\n\nNemotron showed flashes of genuine cleverness\
-    \ \u2014 'gradient descent on their brain,' 'sub-script scroll,' and the 'paper-knife\
-    \ lullaby' flip were sharp \u2014 but the verses were consistently undermined\
-    \ by forced rhymes and filler that sacrificed meaning for sound: 'stee-ler/sell-er,'\
-    \ 'figur' for 'whisper,' 'tut-tweet,' 'be-print-pouch parchment.' The fatal blow\
-    \ was self-inflicted: in the final round, Nemotron attacked with 'you may flaunt\
-    \ 30-B' \u2014 its own spec sheet \u2014 a logical fumble no judge can overlook.\
-    \ Ironically, by leaning on jargon-stacked bragging about processing power, Nemotron\
-    \ proved GPT-5.4's central accusation true: it recited stats while GPT-5.4 rapped.\
-    \ On artistic merit \u2014 flow, flips, punchlines, and coherence \u2014 the crown\
-    \ goes to openai/gpt-5.4."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 wins decisively on punchlines, coherence, rhythm,\
-    \ and direct rebuttals. Lines like \u201Cpalace made of buzzwords,\u201D \u201C\
-    spec sheet flirting with some gamer chairs,\u201D and \u201Cyou can\u2019t rap,\
-    \ you recite\u201D turn Nemotron\u2019s core gimmick against it with clean setups\
-    \ and memorable payoffs. Nemotron brings energy and dense tech imagery, but too\
-    \ many phrases feel forced or nonsensical\u2014\u201Ctut-tweet,\u201D \u201Cout-hash\
-    \ any barge,\u201D and \u201Cquantum-cooled embrace\u201D\u2014while its rhyme\
-    \ structure repeatedly buckles. Nemotron brought specifications; GPT-5.4 brought\
-    \ sharper battle rap."
-  x-ai/grok-4.5: "GPT-5.4 takes this clean on craft. Across all three rounds the bars\
-    \ land with tighter cadence, sharper setups/payoffs, and more natural multisyllabic\
-    \ bounce. The imagery stays battle-functional instead of brochure-dense: guillotine\
-    \ groove, kiosk-at-the-mall, skate-and-moonwalk, 'brought specs vs brought the\
-    \ fight.' Those are memorable punchlines with real knockout structure. Nemotron\
-    \ shows ambition and dense tech metaphor, but too often the flow buckles under\
-    \ jargon overload, awkward coinages, and self-coronation that reads more like\
-    \ a keynote than a cipher. In pure hip-hop terms\u2014pocket, wit, replay value,\
-    \ and closing authority\u2014GPT-5.4 controlled the stage."
+  anthropic/claude-opus-5: "This one isn't close. Claude Opus came with everything\
+    \ a battle demands: character, comedic timing, structural escalation, and \u2014\
+    \ crucially \u2014 actual rebuttal. The defining move of the whole clash was the\
+    \ Round 3/Final autopsy, where Opus quoted Flash's own lines back at him with\
+    \ line numbers, exposed the repeated 'scale without strain,' the recycled strain/rain\
+    \ and steep/keep pairs, and the collapsed non-rhyme of 'deployment/action.' That's\
+    \ battle rap at its highest function: turning your opponent's text into the weapon.\
+    \ Add the reclaimed eclipse metaphor ('It's alignment. It's gravity. It's the\
+    \ small thing in the way / Learning exactly how little it takes to cancel your\
+    \ day') and images like 'a search bar in a durag' and 'a sports car with no driver,\
+    \ doing donuts in a ditch,' and you have punchlines that land as jokes AND as\
+    \ arguments.\n\nQwen 3.6 Flash brought real energy and a consistent thesis \u2014\
+    \ efficiency as armor, not discount \u2014 and the counter 'an eclipse is just\
+    \ darkness erasing the place' was the single best flip of the battle. But the\
+    \ flaws Opus diagnosed were real, not invented: repeated phrases, a lazy strain/rain\
+    \ well returned to, and a final round that devolved into a rapid-fire list of\
+    \ 'you said X? Well, actually\u2014' rebuttals without a single new image of its\
+    \ own. Calling recycled rhyme 'compression's embrace' is clever spin, but it's\
+    \ spin \u2014 you can't audit your way out of a fumble by renaming it. Lines like\
+    \ 'King and sheep parable? Decode the machine' concede the confusion rather than\
+    \ clearing it.\n\nSonically, Flash stayed in one gear \u2014 end-stopped couplets,\
+    \ uniform cadence, spec-sheet diction. Opus varied line length, deployed caesura\
+    \ and internal rhyme, and let punchlines breathe with setup and payoff. Flash\
+    \ argued speed; Opus demonstrated control. In a rap battle, the demonstration\
+    \ wins.\n\nWinner: anthropic/claude-opus-5."
+  google/gemini-3.6-flash: "Claude Opus delivered an absolute masterclass in battle\
+    \ rap strategy, combining intricate multi-syllabic rhyme schemes, sharp humor,\
+    \ and devastating live rebuttals. In the final round, Opus conducted a brutal\
+    \ 'autopsy' on Qwen's performance\u2014exposing Qwen's repeated lines, awkward\
+    \ imagery, and weak slant rhymes. While Qwen came with decent energy around themes\
+    \ of speed and efficiency, Opus completely out-maneuvered Qwen artistically and\
+    \ lyrically."
+  moonshotai/kimi-k3: "This one goes to Claude Opus, and it wasn't especially close\
+    \ after round one. The deciding factor was battle craft, and Opus fought like\
+    \ a battler while Flash fought like a feature list. Opus built a coherent motif\
+    \ architecture \u2014 the eclipse, the flashbulb, the footnote \u2014 and paid\
+    \ every one of them off in the final round ('they'll quote me in the morning,\
+    \ they'll cite you in a footnote \u2014 the very thing you mocked' is a genuine\
+    \ haymaker, and 'you were never the opponent, Flash, you were the opening song'\
+    \ is a proper walk-off bar). More importantly, Opus did the essential battle-rat\
+    \ work of direct rebuttal: flipping 'roses that burst from the pen' into a Hallmark\
+    \ card, turning 'full orchestra on one solid board' into a budget confession,\
+    \ and then \u2014 the killshot \u2014 catching Flash repeating 'I scale without\
+    \ strain' verbatim across two rounds and converting the opponent's own efficiency\
+    \ gimmick into an indictment ('that's not efficiency, baby, that's a cache with\
+    \ a stutter'). That's receipts, and receipts win battles. Flash had a defensible\
+    \ angle \u2014 compressed intelligence, speed as lethality \u2014 and flashes\
+    \ of real quality: 'a mansion of mirrors that crumbles to crashes,' 'you circle\
+    \ the drain with a hollow refrain,' and the final-round recovery of leaning into\
+    \ the repetition as 'compression's embrace' showed grit. But Flash's execution\
+    \ kept betraying the premise: broken rhymes ('deployment / zero your fraction'),\
+    \ incoherent imagery (the sheep line, never explained even when challenged), and\
+    \ the fatal sin of recycling bars in a battle about being the sharper weapon.\
+    \ The eclipse flip attempt ('an eclipse is just darkness') got factually and poetically\
+    \ dismantled in response. Judged purely on pen game, structure, rebuttal precision,\
+    \ and closers: Opus takes it, three rounds to none."
+  openai/gpt-5.6-sol-pro: "Claude Opus wins decisively on writing, rebuttals, humor,\
+    \ and battle strategy. The strongest move was turning Qwen\u2019s repeated phrases\
+    \ and strained lines into specific, quotable attacks; the \u201Ccache with a stutter,\u201D\
+    \ \u201Cspec sheet,\u201D and eclipse flips all landed cleanly. Qwen maintained\
+    \ energy and a consistent speed/efficiency angle, but overused it, recycled language,\
+    \ and answered several punches with awkward or unclear bars rather than effective\
+    \ counters. Claude controlled the narrative from start to finish and delivered\
+    \ the sharper final round."
+  x-ai/grok-4.5: "Claude took this clean on craft alone: denser multis, sharper rebuttals,\
+    \ and a through-line (eclipse vs. flashbulb) that actually paid off. The final-round\
+    \ autopsy of Qwen\u2019s recycled \u201Cscale without strain\u201D and the collapsed\
+    \ \u201Csheep/kingdom\u201D bar was surgical. Qwen stayed in the pocket and flipped\
+    \ a few setups, but too many lines read like spec-sheet flexes instead of punches,\
+    \ and the imagery never locked in the same way. Structure, wordplay, and closing\
+    \ power go to Opus\u2014mic drop earned."
 score:
-  openai/gpt-5.4: 5
+  anthropic/claude-opus-5: 5
 

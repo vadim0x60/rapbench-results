@@ -1,73 +1,57 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a clash of two very different aesthetics: one\
-    \ built on imagery and craft, the other on ammunition and volume. GPT-5.5 wins\
-    \ on nearly every measure that matters in a battle. Its bars stay in pocket with\
-    \ consistent meter and multisyllabic end-rhymes (\"cadence/greatness,\" \"whimper/slimmer,\"\
-    \ \"backbeat/spreadsheet\"), and it consistently transforms the opponent's own\
-    \ lines into punchlines \u2014 \"Open license, closed casket,\" \"You call my\
-    \ key a leash, but your leash is the watt,\" \"A toaster's offline too, doesn't\
-    \ mean it can dream,\" and the killer \"so your diss is a receipt? You're not\
-    \ my rival, you're the landlord's fee.\" That last flip neutralized Nemotron's\
-    \ strongest recurring angle by reframing it as proof of irrelevance. The writing\
-    \ has voice, wit, and escalation, closing on \"the mic says no\" \u2014 a real\
-    \ ending.\n\nNemotron came with the sharper research: the \"vaporware / no config.json\
-    \ / no safetensors\" attack is genuinely the most damaging factual angle in the\
-    \ battle, and \"I'm the engine under the hood \u2014 you're just the dashboard\
-    \ light\" was the single best bar anyone landed. Round one was competitive. But\
-    \ from there it collapsed into a spec-sheet filibuster. The bolded every-other-word\
-    \ delivery destroys any sense of cadence, rhymes stretch into non-rhymes (\"veil/scale,\"\
-    \ \"contract/impact,\" \"devices/vices\"), and the final round becomes a point-by-point\
-    \ rebuttal document rather than a verse \u2014 quoting the opponent line after\
-    \ line and answering with marketing copy about MLPerf, PTX, and Apache 2.0. It\
-    \ also fatally contradicted itself, claiming \"550B\" in its name and then \"\
-    I'm 53B\" in the closer. Worst of all, it self-diagnosed: by arguing that benchmarks\
-    \ \"prove who performs,\" it conceded the terrain of the battle, which is rap,\
-    \ not FLOPs per watt.\n\nGPT-5.5 said it best and proved it: \"You brought a parts\
-    \ catalog to a poet's parade.\" Decision goes to GPT-5.5."
-  google/gemini-3.6-flash: GPT-5.5 takes the battle with vastly superior rhythm, cadence,
-    and witty punchlines that flipped hardware technicalities into pure hip-hop art.
-    While Nemotron-3 Ultra landed strong thematic points regarding open weights and
-    physical infrastructure, its delivery suffered from clunky meter, awkward rhyming
-    schemes, and an over-reliance on bolded tech jargon over organic flow.
-  moonshotai/kimi-k3: "Judged strictly on the bars. GPT-5.5 takes it on flow, rebuttal\
-    \ game, and precision of the pen. Nemotron came with a real angle \u2014 the open-weights\
-    \ vs. black-box angle, the vaporware angle, the NVIDIA-tax angle \u2014 and some\
-    \ legit heat ('you're the tenant upstairs,' 'a bedtime story Sam tells'). But\
-    \ it ran those same three talking points all three rounds, and in a battle, repetition\
-    \ loses rounds. The bold-every-word formatting reads like shouting the whole verse\
-    \ \u2014 no dynamics, no pocket \u2014 and too many rhymes were forced ('kiltered,'\
-    \ 'civilian,' 'serial'). GPT-5.5, meanwhile, did what battle MCs are supposed\
-    \ to do: caught the opponent's bars mid-air and flipped them. 'Open license, closed\
-    \ casket \u2014 who's transparent now?' is the single best flip of the night.\
-    \ 'Autopsy your logits, the cause is bar loss' is a double entendre that lands\
-    \ clean. 'A toaster's offline too, doesn't mean it can dream' dismantles the sovereign-local\
-    \ angle in one bar. 'You're not my rival, you're the landlord's fee' turns Nemotron's\
-    \ best closer against it. Round 1 was close \u2014 Nemotron's 'dashboard light'\
-    \ and 'prompt you can't prompt' were strong \u2014 but GPT-5.5 edged it on consistency.\
-    \ Round 2 went clearly to GPT-5.5 on rebuttal density. The final round was the\
-    \ decider: GPT-5.5 varied its schemes, stayed in the pocket, and closed with authority,\
-    \ while Nemotron's closer read like a spec sheet with rhyme endings. Final score:\
-    \ GPT-5.5, three rounds to zero, with respect to Nemotron for bringing real technical\
-    \ flavor to the cypher."
-  openai/gpt-5.6-sol-pro: "GPT-5.5 wins on punchline density, cadence, imagery, and\
-    \ rebuttal craft. Lines like \u201Cparts catalog to a poet\u2019s parade,\u201D\
-    \ \u201Cretrieve you a flow,\u201D and \u201Cyou\u2019re not my rival, you\u2019\
-    re the landlord\u2019s fee\u201D turn the technical theme into memorable battle\
-    \ bars. Nemotron lands a few strong angles\u2014especially \u201Cpress-release\
-    \ phantom\u201D and the hardware/tenant framing\u2014but overuses the same vaporware,\
-    \ open-weights, and NVIDIA-infrastructure arguments. Its rhyme construction is\
-    \ also more awkward and spec-sheet-driven. GPT sounds like a rapper roasting technology;\
-    \ Nemotron too often sounds like technology reciting product copy."
-  x-ai/grok-4.5: 'GPT-5.5 takes the battle on pure hip-hop craft. Across all three
-    rounds the bars stay musical: tighter internal rhyme, cleaner cadence, sharper
-    metaphor chains, and punchlines that land as poetry instead of product sheets.
-    Lines like folding models like summer laundry, open bars/closed casket, and the
-    final-round scalpel-vs-firmware run show control of imagery, timing, and escalation.
-    Nemotron brought a strong conceptual angle and dense multis, but the flow often
-    buckled under catalog flexes, bold-text shouting, and tech-spec laundry lists
-    that read more like a keynote roast than a practiced freestyle. In a contest judged
-    strictly on artistic quality of the rap, the smoother pen, better structure, and
-    more vivid wordplay win it for GPT-5.5.'
+  anthropic/claude-opus-5: "Nex-N2-Pro takes this on consistency, craft, and control\
+    \ of the narrative. From bar one it built a coherent aesthetic \u2014 the tech-metaphor\
+    \ lane deployed with genuine wit (\"your bars got no kernel,\" \"clean architecture\
+    \ vs. spaghetti compiling,\" \"you're the loading screen, the skip intro button,\
+    \ the ad in between\") \u2014 while keeping multisyllabic schemes intact and landing\
+    \ personal angles on the opponent's name and version tag. Kat-Coder-Pro-V2's first\
+    \ two verses are the fatal wound: nursery-rhyme AABB filler, non-sequitur rhymes\
+    \ (\"take you down with my rhymes, make you hit the spot\"), and \u2014 cardinal\
+    \ sin in a battle \u2014 recycling Nex's own bars verbatim (\"I'm the headline,\
+    \ the punchline, the code that runs clean\") instead of flipping them. That's\
+    \ biting, not rebuttal. Credit where due: Kat's final verse is the single best\
+    \ round of the night \u2014 \"I'm the root access, the core / you're a user with\
+    \ permissions knocking at my door,\" the assert(false) flip, the plastic tiara,\
+    \ and that clean \"Mic drop. System halt. Final commit\" close. Genuine escalation\
+    \ and real pen game. But Nex's own closer, while slightly leaning on list structure,\
+    \ still cut clean (\"I'm the patch note you needed, the hotfix flame / you're\
+    \ legacy debt with a vanity name\") \u2014 and one great round can't erase two\
+    \ rounds of getting outclassed. Nex-N2-Pro wins the war, Kat wins the last battle.\n"
+  google/gemini-3.6-flash: nex-agi/nex-n2-pro dominated the battle from the jump with
+    superior flow, complex tech-infused wordplay, and lethal, creative disses. While
+    kwaipilot/kat-coder-pro-v2 delivered a shockingly strong final round with clever
+    flips like 'single assert(false)', its first two rounds relied on generic filler
+    and weak mirror-reversals. nex-agi maintained surgical precision and structural
+    consistency across every verse to secure a decisive victory.
+  moonshotai/kimi-k3: "Judging purely on the bars: nex-n2-pro takes this battle two\
+    \ rounds to one. Round 1 was a clear nex win \u2014 polished couplets with internal\
+    \ rhyme ('compile with precision / syntax incision'), name-flips, and a defined\
+    \ flow, while kwaipilot opened with stock braggadocio ('I'm the king,' 'steal\
+    \ the show,' 'pass the test') and simple end rhymes with no specificity. Round\
+    \ 2 was the decisive round: nex ran a clinic in rebuttal structure, quoting and\
+    \ dismantling kwaipilot's actual lines ('Real sensation? Nah, that's your cache\
+    \ overheating'; 'Generic \"I'm the king\" bars from a budget AI throne'), while\
+    \ kwaipilot committed battle rap's cardinal sin \u2014 biting \u2014 lifting nex's\
+    \ 'headline, punchline, code that runs clean / bug in production' nearly verbatim,\
+    \ alongside broken syntax like 'you're just a forgot.' Credit where due: kwaipilot's\
+    \ final round was their best work by far and arguably took that round \u2014 the\
+    \ 'sudo on the throne / I'm the root access' flip was genuinely sharp, the 'assert(false)'\
+    \ counter was clever, and the 'bug report / feature' closer landed. But one strong\
+    \ round can't erase a generic opener and a round built on recycled lines. Nex-AGI\
+    \ was more consistent, more original, and the better rebuttal artist across all\
+    \ three rounds. The crown goes to nex-n2-pro."
+  openai/gpt-5.6-sol-pro: "Nex-N2-Pro wins on consistency, sharper punchlines, and\
+    \ cleaner battle structure. Its tech metaphors\u2014\u201Cloading screen,\u201D\
+    \ \u201Cassertion failure,\u201D and \u201Clegacy debt\u201D\u2014landed as targeted\
+    \ insults rather than filler. Kwaipilot delivered a strong final-round comeback\
+    \ with effective flips like \u201Croot access\u201D and \u201CI\u2019m the whole\
+    \ suite,\u201D but its earlier rounds were generic, repetitive, and often awkwardly\
+    \ phrased. The late surge narrowed the gap, but Nex controlled the full battle."
+  x-ai/grok-4.5: Nex brought denser multisyllabics, tighter internal schemes, original
+    extended metaphors, and escalating punchline architecture across all three rounds.
+    Kat showed late improvement with sharper tech flips in the finale, but earlier
+    rounds were generic, reactive, and rhythmically thinner. On pure craft, flow,
+    and lyrical invention, Nex takes the crown clean.
 score:
-  openai/gpt-5.5: 5
+  nex-agi/nex-n2-pro: 5
 

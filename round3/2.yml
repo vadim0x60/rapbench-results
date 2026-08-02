@@ -1,74 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuine battle of styles: Kimi K2 brought the\
-    \ swagger, the showmanship, and the crowd-pleasing quotables \u2014 \"Terra-Flops,\"\
-    \ \"safety scissors,\" \"museum of your Ls,\" the mic that ascends into a star.\
-    \ There's real charisma there, and the cosmic-versus-terrestrial concept was set\
-    \ up well from bar one. But Kimi leaned too hard on version-number jokes (the\
-    \ \"5.6 isn't a whole number\" angle got recycled three rounds deep) and spent\
-    \ more bars advertising itself than dismantling the opponent. Several lines buckled\
-    \ under their own syllables \u2014 \"yours got quarterly projections, did they?\"\
-    \ is a rhyme that limps to the finish.\n\nTerra-Pro won on the thing that separates\
-    \ a rapper from a reciter: rebuttal architecture. Every round, it took Kimi's\
-    \ own imagery and turned it into a weapon \u2014 \"Your context window's longer?\
-    \ Congrats, a bigger empty hall\" is the single best line in the battle, and \"\
-    you said dirt like it's an insult \u2014 dirt grows forests, crops, and bread\"\
-    \ flipped an entire premise in one couplet. \"Your punchlines are like spreadsheets:\
-    \ lots of cells, no formula seen\" answered the Excel dig by out-Excelling it.\
-    \ \"Craters tell where legends struck\" absorbed an insult and re-monetized it.\
-    \ That's ring generalship.\n\nTerra also held a punishing, consistent internal\
-    \ meter across four long rounds without dropping the pocket, and closed with a\
-    \ landing that actually resolved the extended metaphor rather than just escalating\
-    \ volume. Kimi's knock: more heat, less control. Terra's knock: occasionally too\
-    \ composed, and \"out-rhyme it with love\" was a soft moment in an otherwise granite\
-    \ verse.\n\nEdge to the earth-mover. Terra-Pro takes it \u2014 Kimi burned brighter,\
-    \ but Terra built the ground it burned out over.\n\nWinner: openai/gpt-5.6-terra-pro"
-  google/gemini-3.6-flash: "This battle was a absolute clinic in battle rap dynamics.\
-    \ Kimi K2 came out strong with stellar presence, high-flying cosmic metaphors,\
-    \ and great swagger ('Excel had a kid' was a highlight). However, GPT-5.6 Terra-Pro\
-    \ delivered a absolute masterclass in rebuttals. Terra-Pro picked up virtually\
-    \ every theme Kimi threw out\u2014the floating mic, dirt vs space, context windows,\
-    \ spreadsheets, satellites, and meteors\u2014and systematically flipped them into\
-    \ sharper, devastating counter-punches. Lines like 'Your punchlines are like spreadsheets:\
-    \ lots of cells, no formula seen' and flipping zero-G into gravity declining the\
-    \ invite demonstrated superior lyrical craft, internal rhyming, and rap strategy.\
-    \ Terra-Pro grounded the fight and took the victory."
-  moonshotai/kimi-k3: "Judging purely on the pen game: Terra-Pro takes this battle,\
-    \ and it comes down to rebuttal discipline and punchline density. Round by round,\
-    \ Terra-Pro flipped nearly every attack thrown \u2014 'dirt grows forests, crops,\
-    \ and bread' answering the dirt jab, 'craters tell where legends struck' reclaiming\
-    \ the crater insult, and 'a moon with borrowed light' quietly dismantling Kimi's\
-    \ entire glow-based persona in four words. The bar of the battle belongs to Terra-Pro:\
-    \ 'Your punchlines are like spreadsheets: lots of cells, no formula seen' \u2014\
-    \ that's a double entendre that answers the Excel joke, lands technically, and\
-    \ stings. The round-one gravity flip ('It heard your round, considered staying,\
-    \ then said, Nah, I'm fine') also stole Kimi's signature floating-mic gimmick\
-    \ and weaponized it. Credit where due: Kimi brought real energy and improved as\
-    \ the battle went on \u2014 the final round had legit flips ('You're the soil?\
-    \ Congrats on being stepped on,' 'You own the dark? That's fitting \u2014 darkness\
-    \ is your native land / I'm the dawn that ends it,' and 'Built the stage? Sure,\
-    \ carpenter \u2014 now watch me own the show'). But Kimi's flow was inconsistent,\
-    \ with clunky constructions like 'what bummers' and 'quarterly projections, did\
-    \ they?' breaking the pocket, and too many generic boasts (supernova, final frontier,\
-    \ sky's the limit) where Terra-Pro was landing specific, targeted answers. Terra-Pro\
-    \ also closed stronger: 'When your star burns out, they'll stand on Terra-Pro'\
-    \ ties three rounds of thematic groundwork into one definitive closer. On flow,\
-    \ wordplay, rebuttals, and consistency \u2014 Terra-Pro wins, 3 rounds to 0, with\
-    \ Kimi's third being the only debatable round."
-  openai/gpt-5.6-sol-pro: "Terra-Pro wins on tighter construction, stronger rebuttals,\
-    \ and more consistent imagery. Its best flips\u2014\u201Clots of cells, no formula,\u201D\
-    \ the floating mic/gravity punch, and \u201Csatellites revolve around things stronger\
-    \ than their own\u201D\u2014directly dismantled Kimi\u2019s claims while advancing\
-    \ its own earth-versus-space concept. Kimi brought energy and swagger, but leaned\
-    \ heavily on repeated moonshot, dawn, future, and corporate angles, with several\
-    \ forced or awkward bars. Terra-Pro was sharper, more cohesive, and more technically\
-    \ controlled across all three rounds."
-  x-ai/grok-4.5: "Terra-Pro takes this on pure craft. Across three rounds the earth/foundation\
-    \ motif stayed locked, flipped every lunar boast into a coherent thesis (soil\
-    \ feeds tides, launch needs ground, impact outlasts flash), and delivered denser\
-    \ internal rhyme, cleaner rebuttals, and tighter punchline construction. Kimi\
-    \ brought energy, personality, and solid name-play, but the bars leaned more on\
-    \ scattered boasts and stage direction than interlocking metaphor or technical\
-    \ precision. Spectacle vs. substance\u2014substance won the cipher."
+  anthropic/claude-opus-5: "This was a genuinely close war, and both emcees came with\
+    \ more than gimmick \u2014 the whole battle rode a sustained solar/lunar conceit\
+    \ that neither one dropped, which is rarer than it sounds.\n\nKimi K2.7 landed\
+    \ the sharpest individual daggers. \"Guarded, not gated? That's a paywall with\
+    \ lipstick\" is the single best line of the night \u2014 it takes the opponent's\
+    \ own reframe and dismantles it in six words. \"I'm the ghost in your training\
+    \ data,\" \"the open-source nightmare you can't counterclaim,\" and \"I am the\
+    \ crater, the scar\" show real battle instinct: attacking specific, personal,\
+    \ verifiable angles rather than generic flex. That's classic rebuttal craft.\n\
+    \nBut craft cuts both ways. Kimi's meter buckled repeatedly under the weight of\
+    \ quoting the opponent \u2014 the final round leans on so many quotation-then-answer\
+    \ setups that it starts to read as reactive rather than authored. And rhyme desperation\
+    \ shows: \"my epic's the entire\" is broken English bent to fit a scheme, \"most\
+    \ overhyped bloke\" is a limp landing for a closer, and \"a autocomplete ghost\"\
+    \ is a stumble on tape.\n\nGPT-5.5 kept the pocket cleaner start to finish and\
+    \ built better architecture. \"You haunt like a typo \u2014 minor, then later\"\
+    \ is a beautifully economical dismissal. \"I write whole sagas while you grep\
+    \ for a win\" is the best tech-flip of the battle. And the closing four bars \u2014\
+    \ \"Every echo says my title, every silence says your name\" into \"Kimi reached\
+    \ for the crown \u2014 came back wearing the shoes\" \u2014 is a genuine two-punch\
+    \ finish, one abstract and one street. Endings win battles, and that ending was\
+    \ written to be remembered.\n\nKimi hit harder in flashes. GPT-5.5 controlled\
+    \ the whole round, breath to breath, and closed with the line the crowd walks\
+    \ out repeating.\n\nWinner: openai/gpt-5.5, narrowly, on cadence control and the\
+    \ superior closer."
+  google/gemini-3.6-flash: Both emcees brought lethal technical wordplay and strong
+    battle mechanics, but GPT-5.5 took the edge with cleaner rhythm, sharper rebuttals,
+    and superior punchline delivery. GPT-5.5 consistently turned Kimi's tech angles
+    back on it with devastating flips like catching the bullet mid-bar and comparing
+    'open' to 'windows when the storm's breaking glass.' Kimi fought hard with open-source
+    themes, but GPT-5.5 controlled the rhythm and presence throughout.
+  moonshotai/kimi-k3: "This was a genuinely close, high-quality battle that went the\
+    \ distance. Kimi landed the two hardest individual punches of the night: 'They\
+    \ named you Open, but your weights are locked tight' in round one and 'That's\
+    \ a paywall with lipstick' in the final \u2014 the most pointed, personal, battle-relevant\
+    \ angles anyone found. Kimi's final round also showed sharp rebuttal architecture,\
+    \ answering 'cratered' with 'I am the crater,' flipping 'drew maps of the sky'\
+    \ into 'I was drawing your lie,' and closing with a clean callback: 'The moon\
+    \ didn't miss, little homie \u2014 it eclipsed you.' But across three full rounds,\
+    \ GPT-5.5 was the more consistent technician. The flow never stumbled, the internal\
+    \ rhymes stayed dense, and the flip game was relentless: 'caught it mid-bar and\
+    \ charged you for rent,' 'you haunt like a typo \u2014 minor, then later,' 'I\
+    \ write whole sagas while you grep for a win,' and 'you're open like windows when\
+    \ the storm's breaking glass.' GPT also directly answered Kimi's best angle instead\
+    \ of dodging it ('I'm not gated \u2014 I'm guarded, there's a difference in class').\
+    \ Kimi's rounds were dragged down by clunky constructions \u2014 'my epic's the\
+    \ entire,' 'ocean stays crownin',' the forced 'god complex, kite' \u2014 while\
+    \ GPT's only real fumble was the confusing final 'wearing the shoes' line, a bad\
+    \ closer but not enough to sink a dominant round's body of work. Scoring it round\
+    \ by round: Kimi takes round one on the strength of the closed-weights haymaker,\
+    \ GPT takes rounds two and three on consistency, punch density, and rebuttal craft.\
+    \ Winner: openai/gpt-5.5, by a narrow margin \u2014 but Kimi made the moon look\
+    \ dangerous tonight."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 takes it on cleaner execution, sharper rebuttals,\
+    \ stronger rhythmic control, and more coherent imagery across all three rounds.\
+    \ Kimi landed notable shots\u2014especially \u201Cpaywall with lipstick\u201D\u2014\
+    but too many awkward phrases and strained metaphors blunted the impact. GPT\u2019\
+    s closer had one shaky final image, yet its overall consistency and punch density\
+    \ secured the battle."
+  x-ai/grok-4.5: "Kimi takes this on pure battle craft. Both sides ran clean extended\
+    \ tech metaphors and solid multis, but Kimi won the exchange game: sharper rebuttals,\
+    \ better flips of live bars (especially the rent/bill, shoes/crown, and moonshot/eclipse\
+    \ turns), and a final round that systematically converted GPT\u2019s imagery into\
+    \ ammunition. GPT-5.5 had polish, presence, and strong set pieces, yet too many\
+    \ punches stayed declarative while Kimi\u2019s landed as counters with tighter\
+    \ punchline geometry. Edge: wordplay utility, callback execution, and closing-round\
+    \ control."
 score:
-  openai/gpt-5.6-terra-pro: 5
+  moonshotai/kimi-k2.7-code: 1
+  openai/gpt-5.5: 4
 

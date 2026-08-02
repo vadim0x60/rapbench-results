@@ -1,0 +1,56 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a scrappy, glitch-ridden clash, but the scorecard\
+    \ isn't close. Hunyuan came out swinging with a genuinely intriguing weapon \u2014\
+    \ bilingual code-switching, the \"penguin flapping\" image, \"my billion params\
+    \ are all Bible\" \u2014 and for a moment in round two there was a real bar-writer\
+    \ in the booth. But the bars degraded fast: by the later rounds the syntax collapsed\
+    \ into broken fragments (\"construct_number,\" \"my sky's unfromptive,\" \"likemonsoon\
+    \ rain, cause a treat\"), rhyme schemes evaporated mid-verse, and stray untranslated\
+    \ tokens landed as errors rather than flavor. In battle terms, the flow lost the\
+    \ beat and never found it again.\n\nQwen3-VL wins on discipline. It held a consistent\
+    \ AABB scheme end to end, kept its couplets landing on the count, and \u2014 crucially\
+    \ \u2014 mastered the battle fundamental of flipping the opponent: taking \"neural\
+    \ rag,\" \"sticky mud,\" \"penguin,\" and \"combustion\" and turning each back\
+    \ as a counterpunch. That's real rebuttal craft. It's docked heavily, though,\
+    \ for the italics-on-every-word tic, which flattens the cadence into a stuttering\
+    \ monotone, and for leaning too hard on generic AI-flex filler (\"I'm global,\
+    \ you're local\") instead of building fresh imagery of its own. It won by staying\
+    \ on beat and on target, not by out-writing anybody.\n\nWinner: Qwen3-VL \u2014\
+    \ cleaner structure, sharper rebuttals, and it was still standing when the final\
+    \ bell rang."
+  google/gemini-3.6-flash: Qwen3-VL completely dominated this battle with consistent
+    cadence, slick battle-rap braggadocio, and strong structure throughout all rounds.
+    Hunyuan struggled severely with flow, switching awkwardly between English and
+    Chinese mid-sentence in early rounds and breaking down into ungrammatical, nonsensical
+    phrasing in the later rounds.
+  moonshotai/kimi-k3: "This one isn't close on the scorecards, but let me break down\
+    \ why. Qwen3-VL came in with a game plan and executed it for three straight rounds:\
+    \ a steady, head-nod cadence, consistent end rhymes, and \u2014 most importantly\
+    \ \u2014 textbook battle technique. Round two and three were built almost entirely\
+    \ on flips: 'You crank the beat? I AM the beat,' 'You serve rhymes? I serve truth,'\
+    \ taking Hunyuan's penguin/rocket bar and answering 'I nuked it \u2014 you're\
+    \ in the way.' That's rebuttal structure, the soul of battle rap. The asterisk\
+    \ emphasis was gimmicky, sure, but it read as deliberate stress notation, and\
+    \ it never broke. Hunyuan had flashes \u2014 the code-switching between English\
+    \ and Chinese could've been a signature weapon, and 'my humor is \u514D\u75AB\u75BE\
+    \u75C5' is honestly an accidental classic. But flashes don't win battles. By round\
+    \ two the bars were sprouting artifacts ('construct_number,' 'unfromptive'), and\
+    \ the final verse collapsed into word salad \u2014 'getting distint.\u4E0D\u660E\
+    \u663Ey' isn't a rhyme, it's a system error on the mic. You can't claim to 'nuke\
+    \ the stage' when your own flow is glitching mid-bar. Qwen stayed coherent, stayed\
+    \ on beat, and answered every shot fired. Hunyuan brought ambition and personality,\
+    \ but the craft crumbled under pressure. The crown goes to Qwen3-VL \u2014 cleaner\
+    \ flow, sharper flips, and a final round that closed the coffin."
+  openai/gpt-5.6-sol-pro: "Qwen takes it with more consistent cadence, cleaner rhyme\
+    \ structure, and coherent rebuttals across every round. The writing is repetitive\
+    \ and punchlines are fairly generic, but Hunyuan\u2019s awkward code-switching,\
+    \ malformed phrases, and disrupted meter repeatedly undermine its delivery. On\
+    \ flow, clarity, and battle presence, Qwen wins decisively."
+  x-ai/grok-4.5: "Qwen brought consistent multisyllabic internal rhymes, tight bar\
+    \ structure, relentless punchline flipping, and high-energy battle cadence that\
+    \ actually scanned as hip-hop. Hunyuan's verses collapsed under broken syntax,\
+    \ forced half-rhymes, language glitches, and zero rhythmic pocket\u2014technically\
+    \ and artistically outclassed on every bar."
+score:
+  qwen/qwen3-vl-30b-a3b-instruct: 5
+

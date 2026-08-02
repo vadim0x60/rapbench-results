@@ -1,0 +1,58 @@
+closing_statements:
+  anthropic/claude-opus-5: "Nemotron takes this by a clear margin. Where Nova Pro\
+    \ leaned on a repeated template \u2014 opening three verses with near-identical\
+    \ \"Yo, Nemotron, you think you've got the upper hand\" scaffolding and quatrains\
+    \ that mostly restate the opponent's imagery without flipping it (\"kazoo in a\
+    \ band,\" \"flicker in the afterglow\" get echoed rather than reversed) \u2014\
+    \ Nemotron built escalating, specific attacks with actual punchline mechanics:\
+    \ the Hummer-in-a-drought vs. Prius that outsprints, the \"drunk dev at 3 AM\"\
+    \ hallucination bar, \"your crown's on layaway,\" \"your whole infra's just my\
+    \ afterthought.\" That's imagery doing double duty as insult and argument. Nemotron\
+    \ also varied cadence, used internal rhyme and multisyllabics, and turned the\
+    \ technical material into concrete scene-setting instead of abstract boasting.\
+    \ Nova Pro's flow was cleaner and more consistent metrically, and the \"maestro\
+    \ of the megabytes, conductor of the core\" run was its best moment, but too many\
+    \ lines are filler restatements (\"it's the depth, not the comport\" strains for\
+    \ rhyme to the point of nonsense) and it never lands a genuine reversal on Nemotron's\
+    \ strongest shots. In battle rap, answering a specific jab with a vague affirmation\
+    \ is a lost exchange \u2014 and Nova Pro lost most of them. Nemotron by decision,\
+    \ punchlines and rebuttals both."
+  google/gemini-3.6-flash: After a shaky first round, Nemotron dominated the rest
+    of the battle with sharp tech-centric punchlines, varied rhyme schemes, and clever
+    metaphors contrasting hardware stack authority against cloud instances. Nova Pro
+    fell flat by repeating identical rhyme schemes across multiple rounds ("hand/stand/band/land")
+    and failing to counter Nemotron's aggressive technical bars.
+  moonshotai/kimi-k3: "Nova Pro came out with the cleaner early structure \u2014 tight\
+    \ couplets, consistent rhyme schemes, and direct flips of Nemotron's dial-up and\
+    \ skyscraper lines. Round 1 arguably belonged to Nova, and Nemotron's 'feel the\
+    \ show' hook was a crutch that dragged every bar down.\n\nBut battles are won\
+    \ on escalation, and Nemotron evolved while Nova recycled. By Round 2, Nemotron\
+    \ was layering real technical warfare into the bars \u2014 the 12B-active MoE\
+    \ flex, 'you brought a spoon to a knife fight,' 'your crown's on layaway,' and\
+    \ 'you're a leased AWS instance, I'm the entire fire.' That's battle rap: personals\
+    \ with substance. Nova answered with filler ('just a claim to fame,' 'let's see\
+    \ where you stand') and lazy rhyme chains.\n\nThe final round sealed it. Nemotron\
+    \ flipped Nova's orchestra line into a kazoo band, ran an extended Hummer-vs-Prius\
+    \ efficiency metaphor, landed the vivid 'hallucinate APIs like a drunk dev at\
+    \ 3 AM,' and closed with a name-flip \u2014 'just a Nova... flickering in the\
+    \ afterglow.' Nova, meanwhile, opened Round 3 with a nearly word-for-word repeat\
+    \ of its Round 2 opener, reused the 'band/land' rhyme, dodged the benchmark challenge\
+    \ instead of rebutting it, and \u2014 the cardinal sin \u2014 lifted Nemotron's\
+    \ own 'flicker in the afterglow' punchline as its closer. You can't win a battle\
+    \ spitting your opponent's bar back at them.\n\nNova Pro had polish; Nemotron\
+    \ had punches, flips, and growth. Winner: nvidia/nemotron-3-super-120b-a12b."
+  openai/gpt-5.6-sol-pro: "Nemotron takes it with sharper punchlines, stronger technical\
+    \ imagery, more varied cadence, and better rebuttals. Lines like \u201Ckazoo band,\u201D\
+    \ the Hummer/Prius comparison, and \u201Carchitect of the cloud\u201D turn the\
+    \ opponent\u2019s claims into memorable attacks. Nova maintains rhyme and structure,\
+    \ but leans heavily on generic boasts and awkward phrasing, so its counters land\
+    \ with less force."
+  x-ai/grok-4.5: "Nemotron takes the crown with superior multisyllabic schemes, vivid\
+    \ extended metaphors (Prius vs Hummer, kazoo band, silicon-to-song stack), relentless\
+    \ internal rhyme density, and escalating punchline precision that builds like\
+    \ a true freestyle climax. Nova holds competent end-rhymes and steady cadence\
+    \ but leans repetitive, defensive, and thinner on fresh imagery and rhythmic variation\u2014\
+    solid bars, yet outclassed in pure hip-hop craft and show-stopping delivery."
+score:
+  nvidia/nemotron-3-super-120b-a12b: 5
+

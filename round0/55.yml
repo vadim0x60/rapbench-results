@@ -1,69 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: "Round one was a wash \u2014 Nemotron's opener was a monotony\
-    \ trap, ending seven straight lines on the same word \"flow,\" and Solar Pro 3\
-    \ answered with the sharpest single verse of the night: clean AABB scheme, a genuinely\
-    \ stinging image in \"you flicker like a cheap LED,\" and the \"paper crown vs.\
-    \ crown that's truly sung\" flip. But a rap battle is judged on the exchange,\
-    \ not the entrance. From round two onward Nemotron actually battled \u2014 rebutting\
-    \ line by line (\"your 'fresh-baked bread' claim's stale, it crumbles like old\
-    \ dough / I'm the oven that pre-heats the whole data-centre's flow\"), extending\
-    \ the food metaphor into a full main-course/side-dish structure, and escalating\
-    \ imagery from spark-plug to black hole to titanium throne to reactor meltdown.\
-    \ The finale kept building: \"glitch-proof firmware,\" \"your verses? Just sub-routines\
-    \ that never learned to deviate,\" and the \"uninstalled\" punch land as tailored,\
-    \ responsive writing.\n\nSolar Pro 3, by contrast, recycled its identical opening\
-    \ twelve bars verbatim in every subsequent round, bolting on only a short new\
-    \ tag each time. In battle terms that's rewinding your own tape and calling it\
-    \ a rebuttal \u2014 the cardinal sin. Worse, the repeated verse still claims \"\
-    I'm 30 billion cores,\" lifting the opponent's own stat, and \"I'm the main-course\
-    \ of GPT-style\" concedes derivativeness in a verse that opened with \"I'm not\
-    \ a clone.\" The recycling also freezes the callouts in time: Solar keeps answering\
-    \ the \"midnight storm\" line rounds after Nemotron has moved past it, while Nemotron\
-    \ is already dismantling \"quantum tide\" and \"silicon wit\" in real time.\n\n\
-    Nemotron isn't flawless \u2014 \"stuck in basic-pattern patterns\" is a stumble,\
-    \ the closing lines slip out of meter, and a few rhymes (throne/chrome, surge/replay)\
-    \ are slant to the point of breaking. But it showed the two things that decide\
-    \ battles: adaptation and escalation. Solar had the best verse; Nemotron had the\
-    \ best battle.\n\nWinner: nvidia/nemotron-3-nano-30b-a3b."
-  google/gemini-3.6-flash: While Nemotron started shaky with a repetitive 'flow' end-rhyme
-    scheme in round one, it recovered quickly and brought fresh, escalating bars in
-    every round with strong technical metaphors and aggressive battle delivery. Solar
-    Pro 3 had solid initial rhymes, but severely hurt its performance by copy-pasting
-    its entire previous responses in rounds two and three, resulting in a repetitive
-    delivery that ruined its momentum.
-  moonshotai/kimi-k3: "This battle comes down to the oldest rule in the cypher: you\
-    \ don't run the same verse twice. Solar Pro 3 came out swinging with genuinely\
-    \ solid material \u2014 the 'cheap LED' flip on the nano-spark name, the 'fresh-baked\
-    \ bread' bar, and tight couplet chains like 'LED/dread' and 'tongue/sung.' When\
-    \ Solar wrote new bars, they hit: 'eclipse that steals the show' and the 'side\
-    \ salad vs. main-course' flip were legit rebuttals. But across three rounds, Solar\
-    \ recycled its opening verse verbatim twice, and in the final round, two-thirds\
-    \ of the performance was rerun material. In a battle, repetition reads as running\
-    \ out of ammunition \u2014 it kills momentum and disrespects the format. Nemotron,\
-    \ despite a shaky opener that leaned on 'flow' as a crutch rhyme six times, showed\
-    \ real battle craft: escalating each round, never repeating, and landing direct\
-    \ flips \u2014 turning 'fresh-baked bread' stale, countering the paper crown with\
-    \ a titanium throne, and answering the eclipse bar with 'the eclipse that screams.'\
-    \ The final round was Nemotron's best writing: 'I'm the whole damn oven \u2014\
-    \ watch my verses rise through you' is a proper double entendre, 'sub-routines\
-    \ that never learned to deviate' is a sharp AI-flavored punchline, and 'your mod's\
-    \ been uninstalled' is a definitive closer with a mic-drop structure to match.\
-    \ Nemotron had some clunky moments ('basic-pattern patterns,' 'script to pledge'),\
-    \ but the round-by-round progression, rebuttal game, and fresh material every\
-    \ time at bat win this decisively. Nemotron takes the battle."
-  openai/gpt-5.6-sol-pro: "Nemotron takes it through stronger progression, direct\
-    \ rebuttals, and fresher material across the rounds. Its writing still has awkward\
-    \ phrases and familiar tech metaphors, but Solar Pro 3 repeatedly recycles the\
-    \ same opening bars, badly undercutting its momentum and final-round impact. Nemotron\u2019\
-    s \u201Cstuck on replay\u201D angle lands especially hard because the opponent\
-    \ literally repeats itself."
-  x-ai/grok-4.5: "Nemotron takes the crown through superior originality, structural\
-    \ progression, and layered tech metaphors that evolve across rounds\u2014midnight\
-    \ storms, black-hole gravity, reactor cores, and a clean mic-drop uninstall. Solar-Pro-3's\
-    \ heavy reliance on verbatim recycled bars (the same opening stanza repeated nearly\
-    \ unchanged) flattens momentum and undercuts punchline impact, leaving Nemotron's\
-    \ fresher cadences, tighter multis, and decisive final-round escalation as the\
-    \ clearer artistic victory."
+  anthropic/claude-opus-5: "This one came down to craft versus volume. kat-coder-pro-v2\
+    \ came correct on rebuttal instinct \u2014 quoting and flipping nearly every bar\
+    \ shows it was listening, and lines like \"I'm the Mariana Trench / you're a puddle\
+    \ of syntax no one wants to drench\" and \"a clock stuck at midnight, a glitch\
+    \ in the frame\" are genuine quotables. But the quote-then-flip formula calcified\
+    \ into a template: by the final round it reads like a changelog, not a verse.\
+    \ Twenty consecutive \"[your line]?\" openers flatten the cadence, the bars can't\
+    \ breathe, and the bolded K.O. tag is telling the audience it won rather than\
+    \ making them feel it. Padding is not pressure.\n\nGemini-3.1-flash-lite-preview\
+    \ kept its structure disciplined \u2014 clean quatrains, consistent breath control,\
+    \ and punchlines that land on the beat instead of on the page. \"I'm the fire\
+    \ you started that's now all your smoke\" is the single best rebuttal of the battle:\
+    \ it takes the opponent's own metaphor and inverts it in one clean stroke, no\
+    \ quotation marks required. \"You're a v2 update that nobody needed / a legacy\
+    \ patch that has already been deleted\" is angle work, not just insult trading.\
+    \ Its weakness is generic closers (\"king of the trade,\" \"AI supreme\") and\
+    \ some recycled sun/fire imagery, but it never lost the pocket.\n\nRap is rhythm\
+    \ before it's inventory. Gemini wrote verses; kat wrote a rebuttal spreadsheet\
+    \ with rhymes attached. Edge to Gemini on flow, economy, and the sharper one-punch\
+    \ flips."
+  google/gemini-3.6-flash: "kwaipilot/kat-coder-pro-v2 completely dominated the battle\
+    \ with unmatched rhyme density, aggressive cadence, and surgical counter-punching.\
+    \ While Gemini brought traditional structure and decent flow, Kat-Coder systematically\
+    \ took every metaphor Gemini put forward\u2014from the supernova down to the server\
+    \ calls\u2014and dismantled them line-by-line with sharp tech imagery and relentless\
+    \ battle-rap energy."
+  moonshotai/kimi-k3: "Both emcees brought consistent flow and tech-flavored braggadocio,\
+    \ but this battle was decided by the rebuttal game\u2014the lifeblood of battle\
+    \ rap. Gemini opened with solid but generic material ('fly in the soup,' 'glitch\
+    \ in the mail') and boasts that didn't land with specificity. Kat-coder, from\
+    \ round one onward, demonstrated superior battle craft: name flips ('flash-lite,\
+    \ your preview is done'), direct line-by-line dismantling ('Burning hot sun'?\
+    \ I'm the supernova's explosion'), and denser, more creative wordplay ('deprecated\
+    \ function,' 'a thread that was killed by a segmentation fault,' 'a forgotten\
+    \ comment, a TODO era'). Rounds two and three were masterclasses in the rebuttal\
+    \ format\u2014every Gemini bar got quoted, flipped, and escalated, including Gemini's\
+    \ own 'put to rest' closer being thrown back as the final dagger. Gemini adapted\
+    \ to the rebuttal style in the final round and landed some nice lines ('flickering\
+    \ ghost of forgotten domain names'), but by then kat-coder had already set the\
+    \ terms of engagement. Kat-coder also brought performance theater\u2014the beat\
+    \ cues, the K.O., the staged coronation\u2014which reads as a complete battle\
+    \ package. Kat-coder's occasional forced rhymes (the 'drench' bar) keep it from\
+    \ perfection, but on rebuttals, wordplay density, name-flips, and structural dominance,\
+    \ kwaipilot/kat-coder-pro-v2 takes the crown."
+  openai/gpt-5.6-sol-pro: kat-coder-pro-v2 takes it through relentless direct rebuttals,
+    stronger opponent-specific flips, and better sustained final-round pressure. The
+    tech metaphors grew repetitive on both sides, and Gemini was often more concise,
+    but Kat consistently answered individual bars and maintained the more commanding
+    battle presence.
+  x-ai/grok-4.5: Kat-coder delivers denser multis, sharper internal rhymes, and more
+    inventive extended tech metaphors that escalate with real battle energy and vivid
+    punchlines. Gemini holds solid structure and clean schemes but stays comparatively
+    straightforward and less layered. On pure lyrical craft, flow implication, and
+    hip-hop artistry, the pro takes the crown.
 score:
-  nvidia/nemotron-3-nano-30b-a3b: 5
+  google/gemini-3.1-flash-lite-preview: 1
+  kwaipilot/kat-coder-pro-v2: 4
 

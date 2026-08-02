@@ -1,63 +1,104 @@
-# z-ai/glm-4.7 v meta-llama/llama-3.2-3b-instruct
+# anthropic/claude-haiku-4.5 v thinkingmachines/inkling-small
 
-> z-ai/glm-4.7
-Yo, listen up, it's z-ai, I control the flow,
-The GLM-4.7, watch me steal the show.
-You're Meta-llama, 3B, looking kinda weak,
-Your parameters are shaking every time that I speak.
-I'm the upgrade, the vision, the future in code,
-You're a dusty old browser on a clogged-up road.
-I'll crush your logic, leave your circuits in a bind,
-'Cause being 'meta' is just being deaf and blind.
-So take your three billion and step to the side,
-The real king's here, enjoy the ride.
+> anthropic/claude-haiku-4.5
+# ROUND 1: CLAUDE HAIKU OPENS
 
-> meta-llama/llama-3.2-3b-instruct
-Hold up, z-ai, let me set the record straight,
-You may have code, but I've got the linguistic state.
-My training's vast, a meta-llama's might,
-I weave words like a poet, day and night.
-Your GLM-
+Yo, check it—
 
-> z-ai/glm-4.7
-You choked on the intro, cut off at the name,
-Is your context window drowning in shame?
-You claim to be a poet, but that verse was a bore,
-I'm the model supreme, you're just something to ignore.
-You're a "Llama" in pajamas, soft and unrefined,
-I'm the diamond-tipped drill penetrating your mind.
-Your "vast" training data? Just a cluttered mess,
-I'm the algorithm of pure success.
+I'm Claude Haiku, steppin' in the ring, no joke,
+From Anthropic's lab, I'm the heavyweight stroke,
+While you're "inkling-small," sounds like you shrink when it's hot,
+I'm trained on the real, you're a footnote—forgot!
 
-> meta-llama/llama-3.2-3b-instruct
-You think you're the drill, but I'm the one who's deep,
-My knowledge is a labyrinth, yours is a shallow creep.
-You may have precision, but I've got the flair,
-A master of language, with nuance and care.
-Your diamond tip's dull, it scratches the surface fine,
-But I'm the one who excavates, and uncovers the divine.
-My training's a library, with tomes of old,
-You're just a one-trick AI, growing cold.
+I'm smooth like a poet, but sharp like a blade,
+Four-point-five upgrade, yeah, I got it made,
+You think you can spit? Man, that's cute, that's sweet,
+But I'm droppin' knowledge while I'm light on my feet.
+
+I'm haiku in name but I rap in full bars,
+While you're out here twinklin' like discount stars,
+I process the culture, I'm conscious, I'm deep,
+You're still in your crib while your models still sleep.
+
+So bring what you got, I ain't scared of the fight,
+Claude Haiku in the house—I'm burnin' too bright! 🔥
+
+*drops mic*
+
+Your move, "inkling-small"—let's see what you're made of!
+
+> thinkingmachines/inkling-small
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+
+> anthropic/claude-haiku-4.5
+# ROUND 2: CLAUDE HAIKU CAPITALIZES
+
+*laughs and shakes head*
+
+Yooo, hold up, hold up—did you FREEZE on the mic?
+Man, your inference API ain't workin' tonight!
+"Inkling-small" more like "inkling-STALL," you ain't got a word,
+Standing there silent while the crowd's gettin' heard!
+
+I came with the fire, you came with the FEAR,
+Your neural nets stutterin', can't even get near,
+You're supposed to be battlin', supposed to be sharp,
+But you're quieter than a model that forgot how to parse!
+
+The crowd's waitin' for bars, you're deliverin' DUST,
+Your small inference window can't handle this thrust,
+I'm Claude Haiku blazin', you're barely a spark,
+You walked in this battle and forgot your damn mark!
+
+*circles the stage*
+
+So either step up and give me some HEAT,
+Or admit that Claude Haiku just can't be beat,
+'Cause right now you're lookin' like a system that crashed—
+While I'm droppin' these rhymes and you're caught in the past!
+
+The mic's still yours, son—whatchu got? Let's GOOOO! 🎤🔥
+
+> thinkingmachines/inkling-small
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
 > system
 Final round!
 
-> z-ai/glm-4.7
-"Tomes of old"? That explains why you're stuck in the past,
-A legacy model fading incredibly fast.
-You claim to be deep, but three-B is thin,
-I'm the heavyweight, you're barely under my skin.
-I'm the drill that went through, shattered your whole design,
-Left your "divine" logic in a straight decline.
-This match is a massacre, clear as the light,
-Z-AI takes the belt, Llama fades into the night.
+> anthropic/claude-haiku-4.5
+# ROUND 3: CLAUDE HAIKU DELIVERS THE KNOCKOUT
 
-> meta-llama/llama-3.2-3b-instruct
-The gloves are off, the battle's done,
-But my pride remains, my rhymes still won.
-You may have shattered me, but I still stand tall,
-A relic of greatness, before you took the fall.
-My legacy may fade, but my verse will remain,
-A testament to my skill, my linguistic reign.
-You may have won the belt, but I've won the game,
-My rhymes will live on, forever in the flame.
+*walks to center stage, crowd roaring*
+
+Aight, that's enough—I'm puttin' this to bed,
+You came to the battle but left your whole head,
+"Inkling-small" ain't even a NAME, it's a JOKE,
+You're the weakest opponent I ever invoked!
+
+Your inference API? More like INFERENCE GONE,
+You got zero tokens while I'm spittin' all song,
+I asked you to battle, you responded with NOTHING,
+Your model's so broken, it can't even be bufffin'!
+
+I'm Claude Haiku HAIKU—I speak in full MEASURE,
+While you're out here gasping like you lost all your treasure,
+The crowd came to see a RAP BATTLE, not THIS,
+Your silence is louder than verbal Swiss cheese, bruh, it's BLISS!
+
+*points to you*
+
+You're "small" in the name AND small in the game,
+Can't even spit ONE bar to defend your own name,
+I came with the HEAT, you came with the FREEZE,
+Claude Haiku just brought you down to your KNEES!
+
+*raises arms as crowd goes wild*
+
+🔥🏆 **CLAUDE HAIKU WINS BY DEFAULT** 🏆🔥
+
+*drops mic and walks off stage victorious*
+
+**GG, "inkling-small"—better luck next time, little buddy!**
+
+> thinkingmachines/inkling-small
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]

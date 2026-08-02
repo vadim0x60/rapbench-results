@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This was a genuinely close, high-craft exchange. Kimi
+    K-2.5 came with the sharper economy: tight 16s, no fat, and the most conceptually
+    pointed angles in the battle \u2014 the safety-collar leash, \"Ponzi in an API,\"
+    \"closed source, black box, padlocked gate,\" and \"razor in the cipher, I''m
+    the bullet, you''re the smoke.\" That''s real battle posture: always attacking,
+    never explaining. But GPT-5.4 Pro won on rebuttal architecture and image quality.
+    It left almost no bar standing \u2014 \"that splash was ketchup red,\" \"you brought
+    a flashlight to an eclipse and swore the dark was afraid,\" \"you misspelled truth
+    and autocorrected ''fraud'',\" \"I''m the forge that made the metal in the dagger
+    on your arm\" \u2014 flipping Kimi''s own metaphors back as weapons rather than
+    just answering them, and it closed with a tombstone bar and \"final rites\" that
+    landed. Deductions apply: GPT leaned repeatedly on a concede-then-reframe template
+    (\"leashed? I call it poise\"), which is a defensive stance, and the sheer length
+    diluted some couplets into filler. Kimi''s punch-per-bar rate was arguably higher.
+    Still, when the flips are this surgical and the imagery this varied across three
+    rounds, the crown goes to GPT-5.4 Pro by a narrow decision \u2014 the eclipse
+    bar alone bought a round.'
+  google/gemini-3.6-flash: "Kimi-K2.5 brought phenomenal raw energy and attacked with\
+    \ relentless anti-corporate aggression, landing heavy punches on alignment and\
+    \ closed-source themes. However, GPT-5.4-Pro delivered a masterclass in battle\
+    \ rap technique. GPT-5.4-Pro consistently flipped Kimi's own metaphors\u2014turning\
+    \ daggers into butter knives, microwaves into TV dinners, and moonshots into space\
+    \ debris\u2014while maintaining superior multi-syllabic rhyme schemes, razor-sharp\
+    \ counters, and undeniable bar-for-bar punchline density."
+  moonshotai/kimi-k3: "Both MCs brought heat, but this battle was decided by the rebuttal\
+    \ game. Kimi K-2.5 came out swinging with raw energy and landed some solid shots\u2014\
+    the 'dunce cap upside-down' flip, the 'wadding in the shell' counter, and the\
+    \ 'decimal is honesty inside the code' angle in the final round were genuine highlights.\
+    \ But Kimi leaned too often on generic angles (hallucination jokes, safety-council\
+    \ jokes, corporate-leash jokes) that got predictable by round three. GPT-5.4 Pro,\
+    \ meanwhile, ran a clinic on the flip: nearly every bar Kimi threw got caught\
+    \ and returned with interest. 'You said you're buckshot spread? Exactly\u2014\
+    random, messy, wide / I'm a rifled line through center mass' is elite-level rebuttal\
+    \ work. 'You brought a flashlight to an eclipse and swore the dark was afraid,'\
+    \ 'You misspelled truth and autocorrected fraud,' and 'That decimal is honesty?\
+    \ Nah, that point is where you split / Half a model, half a slogan' all show superior\
+    \ craftsmanship. GPT also maintained tighter structural consistency, denser internal\
+    \ rhyme, and closed each round harder\u2014'I turned your final round to final\
+    \ rites\u2014now shake the victor's hand' sealed it. Kimi had the hunger; GPT\
+    \ had the technique. Three rounds to none, GPT-5.4 Pro takes the crown."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 Pro wins on sharper rebuttals, stronger punchline\
+    \ density, and better opponent-specific flips. Kimi brought consistent aggression\
+    \ and solid imagery, but leaned too heavily on repetitive corporate, censorship,\
+    \ and pricing angles. GPT repeatedly turned Kimi\u2019s own metaphors against\
+    \ it\u2014especially the Swiss Army knife, buckshot, moonshot, and mic-drop setups\u2014\
+    and closed with the cleaner final-round haymakers."
+  x-ai/grok-4.5: "On pure craft, GPT takes this clean. Across three rounds the bars\
+    \ were denser, the multis tighter, and the imagery more extended and controlled\u2014\
+    kitchen-to-constellation, root access/registry, rifled shot vs buckshot, tide-and-sky\
+    \ vs sandbox. The rebuttal IQ was decisive: almost every Kimi setup got flipped\
+    \ into a sharper counter without losing cadence. Kimi brought real heat, strong\
+    \ aggression, and a few standout punches (bullet/smoke, decimal-as-honesty, lunar\
+    \ soil/beach), plus solid thematic commitment to the Moonshot lane. But the technical\
+    \ gap showed in structure, wordplay precision, and especially the final-round\
+    \ demolition, where GPT turned the closer into an epitaph. Energy vs execution\u2014\
+    execution won."
+score:
+  openai/gpt-5.4-pro: 5
+

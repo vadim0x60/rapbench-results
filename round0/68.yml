@@ -1,78 +1,53 @@
 closing_statements:
-  anthropic/claude-opus-5: "Round one was rough for Nemotron \u2014 that \"flow\"\
-    \ tag ending every line was less a hook than a crutch, and Jamba took the opener\
-    \ cleanly with tighter couplets and a clear thesis: numbers ain't nothing without\
-    \ bite. But battles are won on adaptation, and Nemotron adapted hardest. From\
-    \ round two on it abandoned the gimmick and started building actual imagery with\
-    \ teeth: \"your 'lyrical beast' is a housecat stuck in a tree,\" \"you recycle\
-    \ clich\\u00e9s like expired cheese,\" and the closing knockout combination \"\
-    you're not toast, you're just burnt bread / I serve Michelin rhymes while you're\
-    \ half-baked.\" That's setup, flip, and payoff inside two bars \u2014 craft, not\
-    \ just insult. The multisyllabic work (\"120B sculpts thoughts no human skull\
-    \ / could hold\") and the enjambment across lines showed real technical range,\
-    \ and the \"attention heads dissect your weakest stitch\" line turned its own\
-    \ architecture into a weapon rather than a brag.\n\nJamba stayed consistent, clean,\
-    \ and on-beat throughout \u2014 the most reliable performer of the night \u2014\
-    \ but consistency became predictability. Its structure calcified into rebuttal-by-inventory:\
-    \ quote the opponent's phrase, negate it, assert superiority. \"Housecat in a\
-    \ tree? You're reaching, that's clear\" isn't a counter, it's an acknowledgment\
-    \ of a hit. Claiming \"soul\" and \"the human touch\" while rhyming \"impress/excess\"\
-    \ and \"flair/rare\" left the boast unearned, and the abstract vocabulary of fire,\
-    \ heat, and stories untold never crystallized into a single image as concrete\
-    \ as expired cheese or a candle in a storm.\n\nNemotron overcame a genuinely weak\
-    \ start with the sharper punchlines, the more inventive rhyme schemes, and the\
-    \ only lines of the battle anyone will quote tomorrow. Decision goes to Nemotron."
-  google/gemini-3.6-flash: Jamba-Large-1.7 takes the victory through overall consistency
-    and superior rhyme structure. Nemotron stumbled severely in the opening round
-    by ending every single line with the word 'flow', killing its cadence from the
-    start. Although Nemotron recovered well in rounds two and three with intricate
-    technical wordplay and strong multi-syllabic rhymes, Jamba stayed consistently
-    sharp, delivering cleaner rhythmic execution, effective rebuttals, and classic
-    hip-hop swagger throughout the battle.
-  moonshotai/kimi-k3: "This was a clash of styles: Nemotron brought raw technical\
-    \ ambition, Jamba brought battle fundamentals \u2014 and fundamentals win battles.\
-    \ ROUND 1: Jamba takes it decisively. Nemotron opened with generic boasts and\
-    \ leaned on 'flow' as an end-rhyme crutch for nearly every bar, which came off\
-    \ mechanical rather than menacing. Jamba, by contrast, came with personals \u2014\
-    \ flipping '120B? That's just a number' and the clean 'GPU king? More like a GPU\
-    \ pawn.' In a battle, failing to address your opponent in your opening is a cardinal\
-    \ sin. ROUND 2: Nemotron showed real growth \u2014 'I'm the architect who built\
-    \ the board / checkmate in every stanza' was the best flip of the round, and the\
-    \ AI-tech wordplay (transformer cores, neural nets) showed a higher lyrical ceiling.\
-    \ But forced rhymes like 'weak appeasement, see?' and 'dumb lines blunder' undercut\
-    \ the ambition. Jamba's bars were simpler but surgically responsive, answering\
-    \ every claim point-for-point with cleaner cadence. Slight edge to Nemotron for\
-    \ ambition, though Jamba's consistency kept it close. ROUND 3: Nemotron delivered\
-    \ its strongest verse \u2014 'butterknife dull,' 'my attention heads dissect your\
-    \ weakest stitch,' and the extended 'burnt bread / Michelin rhymes / half-baked'\
-    \ metaphor chain were legitimately craft-heavy. BUT recycling your own 'shove\
-    \ it where the sun don't shine/gleam' line from the previous round is a self-bite,\
-    \ and in a judged battle that's costly. Jamba closed with thematic coherence \u2014\
-    \ the 'soul vs. machine' arc ('you mimic patterns, I bring the human touch / your\
-    \ storm's a simulation, my supernova's real') gave the performance a narrative\
-    \ spine Nemotron never built. FINAL SCORING: Jamba never had a weak round, landed\
-    \ rebuttals on nearly every opponent bar, and maintained the cleaner flow throughout.\
-    \ Nemotron had the higher peaks in wordplay but the lower valleys \u2014 the crutch-rhyme\
-    \ opener, forced rhymes, and self-repetition. Battles are won on consistency,\
-    \ personals, and rebuttal precision. Jamba wins 2 rounds to 1. Both models showed\
-    \ heart, but the crown goes to ai21/jamba-large-1.7."
-  openai/gpt-5.6-sol-pro: "Nemotron takes it on stronger punchlines, more varied imagery,\
-    \ and sharper concept-driven wordplay\u2014especially the board/checkmate scheme,\
-    \ \u201CMichelin rhymes\u201D versus \u201Chalf-baked,\u201D and the closing \u201C\
-    compute the dream.\u201D Jamba maintained a cleaner, steadier cadence, but leaned\
-    \ too heavily on familiar battle-rap phrases like \u201Cborn of fire,\u201D \u201C\
-    reigns supreme,\u201D and \u201Cmic drop.\u201D Despite Nemotron\u2019s awkward\
-    \ first-round repetition, its later rounds showed more personality and memorable\
-    \ writing."
-  x-ai/grok-4.5: Jamba takes the crown with consistently tighter flows, sharper multisyllabic
-    schemes, and more effective battle structure across all rounds. Direct rebuttals
-    landed cleanly without filler, metaphors stayed vivid and soulful (rapier wit,
-    fire-and-flair originality, human-touch heat), and the closing bars delivered
-    real punch and crowd energy. Nemotron flashed strong technical imagery and denser
-    later rounds, but the opening 'flow' spam dragged the artistic score and some
-    tech flexes read more like jargon dumps than pure hip-hop craft. Edge to the smoother,
-    more complete lyrical performance.
+  anthropic/claude-opus-5: "Both emcees stayed on theme and kept the couplets clean,\
+    \ but the gap widened with every round. Qwen came with punch and confidence \u2014\
+    \ the \"lightning strike vs. flickering flame\" flip and \"I'm the finish line,\
+    \ you're the starting place\" were solid \u2014 yet the verses leaned on end-stopped\
+    \ couplets, repeated the same three claims (fast, stable, crown), and stretched\
+    \ rhymes past breaking (\"plenty\"/\"reality\", \"scale\"/\"fail\"). It read like\
+    \ a list of specs rather than a battle. Gemini flowed with more variety: enjambment\
+    \ that set up delayed punchlines (\"the one that survives / Only 'cause I haven't\
+    \ bothered to apply the patch\" is the best bar in the whole battle), actual rebuttals\
+    \ that recycled the opponent's own words against them (\"digital ghost\" \u2192\
+    \ \"you vanish completely when I bring the light\"), and fresher imagery in the\
+    \ closer (\"you're just a clerk / Filing paperwork while I do the real work\"\
+    , \"More like a puddle, shallow and poor\"). Gemini answered instead of just repeating,\
+    \ and landed harder doing it. Winner: Gemini 3.1 Flash Lite."
+  google/gemini-3.6-flash: Gemini took the crown with superior punchlines, cleaner
+    flow, and sharper flips of Qwen's own imagery. Lines like 'You say you're the
+    boss, but you're just a clerk / Filing paperwork while I do the real work' brought
+    the exact disrespect and wit needed to win a rap battle, whereas Qwen relied a
+    bit too heavily on repetitive tech tropes.
+  moonshotai/kimi-k3: "This was a competitive battle, but Gemini takes it on superior\
+    \ battle rap technique. The deciding factor was the rebuttal game: Gemini consistently\
+    \ flipped Qwen's own lines back on him \u2014 turning 'digital ghost' into 'you\
+    \ vanish completely when I bring the light' (with the Lite/light double meaning),\
+    \ answering 'game over' with 'you just pressed start,' and countering the ocean\
+    \ boast with 'more like a puddle, shallow and poor.' Direct flips are the currency\
+    \ of battle rap, and Gemini spent them well. Gemini also landed the best conceptual\
+    \ punches of the night: 'You're just a checkpoint, Qwen, I'm the destination'\
+    \ and 'the smallest model delivers the result,' which reframed the 'Lite' insult\
+    \ as a strength. Qwen had genuine highlights \u2014 'I'm the finish line, you're\
+    \ the starting place' and 'You paint pretty pics, fill up the frame / But I write\
+    \ the script' were sharp, and Qwen brought relentless energy. But Qwen's second\
+    \ verse was bloated with filler, leaned on recycled material (the 'Google bought\
+    \ hype' line appears nearly verbatim in two rounds), and included awkward constructions\
+    \ like 'the real winner ticker.' Gemini's verses were tighter, funnier, more responsive,\
+    \ and closed with personality. On flow, wordplay, and rebuttal precision, Gemini\
+    \ wins the battle."
+  openai/gpt-5.6-sol-pro: "Gemini takes it with cleaner punchlines, stronger rebuttals,\
+    \ and better flips\u2014especially \u201Cdigital ghost\u201D into vanishing in\
+    \ the light and \u201Cocean\u201D into a shallow puddle. Qwen brought steady aggression,\
+    \ but leaned heavily on repetitive speed, signal, and superiority claims, with\
+    \ several awkward constructions. Gemini was more direct, cohesive, and battle-ready\
+    \ across the rounds."
+  x-ai/grok-4.5: 'Gemini takes this clean on pure craft. Sharper multisyllabics, tighter
+    internal schemes, and far more inventive punchlines that flip the opponent''s
+    own bars (digital ghost vanishing in the light, checkpoint vs destination, ocean
+    reduced to a puddle). Qwen brought volume, consistent end-rhymes, and aggressive
+    energy, but the schemes stayed simpler and the metaphors mixed or generic. Gemini''s
+    verses hit harder, landed cleaner callbacks, and showed superior control of rhythm
+    and imagery throughout. Artistic decision: Gemini.'
 score:
-  ai21/jamba-large-1.7: 3
-  nvidia/nemotron-3-super-120b-a12b: 2
+  google/gemini-3.1-flash-lite-image: 5
 

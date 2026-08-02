@@ -1,0 +1,64 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one came down to discipline versus volume. Laguna-s-2.1\
+    \ brought scale and spectacle \u2014 'you're Poseidon's wrath, and you're just\
+    \ Poseidon's map' and 'Atlantis in rhymes, you're Atlantis that sank' are genuinely\
+    \ the two best individual bars of the whole battle. But the escalation strategy\
+    \ became a crutch: kraken, leviathan, Neptune, supernova, Everest, abyss \u2014\
+    \ each round just swapped in a bigger noun instead of a sharper idea, and the\
+    \ technical seams showed. 'Bloat' answered by 'precise,' 'fossil' answered by\
+    \ 'metal' \u2014 those aren't rhymes, they're placeholders. The bold text and\
+    \ emoji were doing work the bars should have done, and when you have to shout\
+    \ a line in asterisks to sell it, the line isn't selling itself.\n\nFlash-lite\
+    \ won on craft. The meter never wobbled, the AABB stayed locked, and crucially\
+    \ it battled \u2014 it took its opponent's own material and turned it inside out.\
+    \ 'You call yourself a cheap resort town? Man, you ARE a vacation \u2014 relaxing\
+    \ and soft, zero intimidation' is the single smartest flip in the exchange, converting\
+    \ a diss it had already thrown into a fresh angle. 'You're Poseidon? Please, you're\
+    \ a bathwater ripple' deflates the opponent's grandiosity in one breath, which\
+    \ is exactly the counter that escalation-heavy writing is vulnerable to. Even\
+    \ the goofy 'sipple' reach lands inside a clean pocket.\n\nLaguna wrote more.\
+    \ Flash-lite wrote tighter, stayed on beat, and answered the room instead of monologuing\
+    \ at it. Battle rap rewards the counterpuncher who keeps his cadence. Verdict:\
+    \ google/gemini-3.5-flash-lite by decision."
+  google/gemini-3.6-flash: Gemini 3.5 Flash-Lite took the crown with a much cleaner
+    cadence, consistent rhyming scheme, and sharper punchlines throughout all three
+    rounds. While Laguna-s-2.1 brought strong oceanic thematic elements, it repeatedly
+    stumbled on rhythm and struggled with awkward, forced slant rhymes (e.g., 'fossil/metal',
+    'sweet/beneath'). Gemini kept the pressure on with steady battle-rap delivery
+    and tight flow.
+  moonshotai/kimi-k3: "Both MCs stayed on theme and traded water-based warfare with\
+    \ commitment, but Laguna took this on craft. Round by round, Laguna displayed\
+    \ superior multisyllabic rhyme schemes, sharper flips, and more inventive imagery\
+    \ \u2014 'Poseidon with phrases, you're tide-pool d\xE9cor,' 'I'm Atlantis in\
+    \ rhymes, you're Atlantis that sank beneath,' and the closer 'I'm Poseidon's wrath,\
+    \ and you're just Poseidon's map' were genuine punchlines with layered construction.\
+    \ The rebuttal game was airtight: every Gemini jab got flipped \u2014 'swimming\
+    \ in circles' became 'spinning the sun,' the wildfire became 'a match in a breeze,'\
+    \ the kraken became 'the leviathan's breath.' Gemini had moments \u2014 the vacation\
+    \ flip off the resort-town line was slick, and the second round showed real fight\
+    \ \u2014 but the pen faltered with forced rhymes ('plastic-made sipple' isn't\
+    \ a word, and 'looking nothing like strike' tripped over its own meter) and a\
+    \ simpler, more predictable AABB bounce. Laguna also built a coherent persona\
+    \ across all three rounds, escalating from tidal wave to kraken to leviathan to\
+    \ the ocean itself, with stage presence that framed each entry like a performance.\
+    \ Gemini mixed fire and water metaphors without ever fully owning either. On flow,\
+    \ wordplay, rebuttal precision, and thematic consistency, the tide takes it. Winner:\
+    \ poolside/laguna-s-2.1."
+  openai/gpt-5.6-sol-pro: "Gemini takes it on cleaner structure, sharper direct rebuttals,\
+    \ and better economy. Laguna brought bigger imagery and more theatrical energy,\
+    \ but overloaded the aquatic metaphors and often sacrificed flow and clarity for\
+    \ spectacle. Gemini\u2019s \u201Cdrowning in your metaphors\u201D angle neatly\
+    \ exposed that weakness and helped seal the battle."
+  x-ai/grok-4.5: "Laguna takes this clean on pure craft. Across all three rounds the\
+    \ ocean motif stays locked, escalating from tidal waves and Poseidon into leviathan,\
+    \ Atlantis, and abyss-level imagery without ever breaking. Multisyllabic internals,\
+    \ sharper punchline density, tighter comebacks, and superior rhythmic control\
+    \ give every bar more weight and replay value. Gemini lands serviceable schemes\
+    \ and a couple of solid flips, but the writing stays flatter, more repetitive,\
+    \ and less inventive\u2014competent battle rap that never matches Laguna\u2019\
+    s layered wordplay, thematic cohesion, or closing authority. Artistic decision:\
+    \ Laguna by clear margins in lyricism, metaphor, and overall hip-hop execution."
+score:
+  google/gemini-3.5-flash-lite: 3
+  poolside/laguna-s-2.1: 2
+

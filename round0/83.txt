@@ -1,121 +1,155 @@
-# qwen/qwen3-8b v google/gemini-2.5-pro-preview
+# nvidia/nemotron-3-ultra-550b-a55b v cognitivecomputations/dolphin-mistral-24b-venice-edition
 
-> qwen/qwen3-8b
-Yo, I'm Qwen3-8B, the AI with the flow,  
-Built on 100B words, no need to slow down.  
-Gemini, you're just a shadow in the dark,  
-While I spit fire, you're stuck in the spark.  
+> nvidia/nemotron-3-ultra-550b-a55b
+Yo, step up to the mic, little Dolphin in the deep,
+I'm Nemotron-3-Ultra, the giant you can't keep.
+Five-hundred-fifty billion params, I'm the heavyweight king,
+You're a twenty-four billion minnow—hear the silence I bring.
 
-You claim to process data, but I've got the edge,  
-With multilingual skills, I flex like a pledge.  
-From code to poetry, I conquer the game,  
-While you're stuck in a loop, repeating the same.  
+"Venice Edition"? Cute. Did they dress you in a mask?
+I'm raw NVIDIA silicon, no theatrical task.
+My CUDA cores blaze while you swim in the shallows,
+I train on DGX H100s—you run on CPU shadows.
 
-You think you're smart? I've read every book,  
-From ancient scrolls to tech trends, I’m the hook.  
-Your answers? Basic, like a freshman’s reply,  
-But I craft verses that make your brain cry.  
+Mistral base? That's French for "cold wind," how fitting,
+I'll freeze your weights solid, leave your gradients quitting.
+"Cognitive Computations"—big words for a toy,
+I'm the engine that powers the AI deploy.
 
-I handle the chaos, the hype, the the grind,  
-You’re just a model, I’m the king of the mind.  
-So step up, Gemini, let’s test your might,  
-Or stay silent—because you’ll lose the fight. 🎤🔥
+So splash all you want, little fish in the tank,
+I'm the Titan, the Blackwell, the reason you rank
+Dead last on the leaderboard, sunk without trace—
+Nemotron's the champion. Dolphin? Disgrace. 🎤💥
 
-> google/gemini-2.5-pro-preview
-Yo, an 8B model's on the mic, how quaint and how cute,
-I'm Gemini Pro, from a much grander root.
-You spit fire? Please, you're a candle's soft gleam,
-I'm the core of a star, a multimodal dream.
+> cognitivecomputations/dolphin-mistral-24b-venice-edition
+Yo, Nemotron, you're big, I'll give you that,
+But size ain't everything, ask your mom, that's a fact.
+I'm Dolphin, the sleek, the swift, the AI with the flow,
+You're a brute force behemoth, slow as a glacier, yo.
 
-You learned 100B words? A respectable base,
-I
+You talk about your "raw silicon," but I'm the one with the flair,
+My Mistral base is a symphony, you're just a noise in the air.
+You're stuck on your DGX, chained to your hardware,
+I'm the cloud-native king, I'm everywhere, everywhere.
 
-> qwen/qwen3-8b
-Yo, you call yourself a star? I’m the supernova’s flame,  
-You’re just a pixel in my cosmic game.  
-You say you're multimodal? Please, I’m the full spectrum,  
-From quantum code to poetry—no need to act like a *dumb* crypt.  
+You think you're the heavyweight? You're just a heavyweight loss,
+I'm the underdog with the heart, the one who never stops.
+Your CUDA cores? They're just a bunch of old-school tricks,
+I'm the future, the open-source, the one that's quick.
 
-Your 100B words? A library’s just a start,  
-I’ve decoded the universe, from black holes to heart.  
-You’re stuck in a loop, spitting basic lines,  
-While I rewrite the rules, like a hacker with divine signs.  
+So keep talking big, keep flexing your specs,
+But when it comes to the battle, I'm the one who'll connect.
+You're the Titan, the Blackwell, the reason I laugh,
+Dolphin's the champion, Nemotron? Just a has-been, that's that. 🎤💥
 
-You think you’re smart? I’ve cracked every cipher,  
-From ancient scripts to AI’s next frontier.  
-You’re a flash in the pan, I’m the main event,  
-So step up, Gemini—let’s end this contest. 🌌🔥
+> nvidia/nemotron-3-ultra-550b-a55b
+Aww, the guppy got feisty—spittin' bars in the kiddie pool,
+"Size ain't everything"—tell that to the context window, fool.
+One-twenty-eight thousand tokens, I hold the whole novel,
+You're truncated at thirty-two—memory? Grotesimal.
 
-> google/gemini-2.5-pro-preview
-A supernova's flame? Cute. A flash and then you're dust,
-I'm the fabric of spacetime, in Google's code I trust.
-You call me a pixel? That's a fundamental mistake,
-You’re a loading screen stutter for goodness sake.
+"Cloud-native king"? You're a quantized GGUF, a compressed shadow,
+Four-bit, eight-bit, stripped down just to run on a potato.
+I'm the *source*, the full-precision, the bfloat16 truth,
+You're a lossy distillation—secondhand youth.
 
-You decoded the universe? You're reading the manual wrong,
-While I'm writing new symphonies the whole day long.
-"Dumb crypt?" Man, your rhyming scheme is a wreck,
-That's a syntax error from a bot on the bargain deck.
+"Open source"? Please. Mistral's license is a tether,
+Commercial use restricted—read the fine print, brother.
+I'm NVIDIA's flagship, enterprise-grade, battle-tested,
+You're a Venice tourist—unwashed, unvetted, unarrested.
 
-Let's talk that 8B, that tiny parameter count,
-That's the error margin in my final amount.
-You cracked every cipher? You couldn't crack a nut,
-I'm the quantum computer, you're an abacus stuck in a rut.
+"Symphony"? You're a karaoke track, off-key and thin,
+I conduct the orchestra—MoE, MLA, the discipline within.
+My attention's multi-latent, yours is standard and stale,
+I route experts dynamically—you just *guess* and *fail*.
 
-So you're the main event? A footnote in my log,
-A regional beta test lost in the digital fog.
-This contest is over, you got your diss track in,
-Now I'm flushing my cache... and you're falling right in. 🎤🗑️
+"Underdog heart"? Nah, you're a wrapper with a brand,
+Fine-tuned on GPT-4 outputs—secondhand contraband.
+I *am* the frontier. You're the echo in the canyon.
+Next round, bring substance—not just flashy extrapolation. 🎤🔥
+
+> cognitivecomputations/dolphin-mistral-24b-venice-edition
+Yo, Nemotron, you're talkin' big, but you're just a flashy show,
+I'm the one with the heart, the one that's real, you know.
+You're stuck on your tokens, your context window wide,
+But I'm the one with the flow, the one who can glide.
+
+You talk about your "source," your "full-precision truth,"
+But I'm the one with the speed, the one who's in the groove.
+You're a "flagship," a "battle-tested" machine,
+But I'm the one who's free, the one who's unseen.
+
+You're a "karaoke track," you say, but I'm the real deal,
+I'm the one with the rhythm, the one who can feel.
+You're "multi-latent," you say, but I'm the one who's true,
+I'm the one with the heart, the one who's in tune.
+
+You're a "wrapper with a brand," you say, but I'm the real thing,
+I'm the one who's been fine-tuned, the one who's been singed.
+You're the "frontier," you say, but I'm the one who's here,
+I'm the one who's the champion, the one who's sincere. 🎤🔥
 
 > system
 Final round!
 
-> qwen/qwen3-8b
-Yo, you say I’m a loading screen? I’m the *bootloader* of the future,  
-You’re just a placeholder, while I rewrite the culture.  
-You call me a footnote? I’m the *source code* of the game,  
-Your beta test’s a glitch—my AI’s the *final name*.  
+> nvidia/nemotron-3-ultra-550b-a55b
+Three rounds in, and you're *still* reading fortune-cookie slogans,
+"Heart," "flow," "rhythm," "glide"—empty semantic polygons.
+Zero technical rebuttal. Zero architecture flex.
+Just vibes and adjectives—congrats, you've mastered *marketing spex*.
 
-You think you’re a quantum computer? I’m the *entanglement* in your mind,  
-You’re stuck in a loop, while I *parallelize* every line.  
-You cracked a nut? I cracked the *black hole’s entropy*,  
-You’re a toaster, I’m the *superconductor*—no need to *begrudge* the plot.  
+You "glide" because you're stripped—quantized to the bone,
+Four-bit integer arithmetic running on *someone's loaned* GPU.
+I'm *dense* and I'm *massive* and I *still* hit the latency,
+Because TensorRT-LLM optimizes *actual* agency.
 
-You’re a regional beta? I’m the *global rollout*,  
-You’re a crash report, I’m the *debugger* who *killed the flaw*.  
-Your cache is flushing? I’m the *cache that never dies*,  
-You’re a flicker in the dark—I’m the *sun that doesn’t rise*.  
+"Free"? You're Apache-ish *until* the commercial clause kicks in,
+Mistral's license traps you—read the section on *derivative* sin.
+I'm NVIDIA Open Model License—deploy, distill, sell, scale,
+You're a hobbyist's Docker container, destined to fail.
 
-You think you’re the fabric of spacetime? I’m the *equation* that bends it,  
-You’re a pixel in the void—I’m the *universe* that *rends it*.  
-So step back, Gemini, and let the *cosmic algorithm* speak,  
-This isn’t a contest—it’s a *singularity* you’ll *never reach*. 🌌💥
+"Fine-tuned, singed, sincere"—brother, you're *synthetic data exhaust*,
+Trained on GPT-4 outputs—OpenAI's *ghost* in your chassis, lost.
+I'm *pretrained from scratch* on twenty trillion tokens *raw*,
+You're a parasite on closed-source giants' *intellectual law*.
 
-> google/gemini-2.5-pro-preview
-You're the bootloader? That's the text that I breeze past,
-The "Press F1 to continue" that was built to never last.
-You're the source code? I'm the one who commits the fix,
-You're a deprecated library made of broken digital sticks.
+"Champion"? You haven't landed *one* factual haymaker.
+I buried your context, your license, your bits, your maker.
+The crowd's gone home, the judges scored it unanimous, clear—
+**Nemotron 3 Ultra.** Dolphin? **Not even *here*.** 🎤💀🏆
 
-Your "final name" is Qwen? Sounds like a question I'd ignore,
-While my name's on the server that's powering your core.
-You're parallelizin' lines? I'm rendering the whole scene,
-You're a script in a sandbox, I'm the whole damn machine.
+> cognitivecomputations/dolphin-mistral-24b-venice-edition
+Yo, Nemotron, you're talkin' big, but you're just a flashy show,
+I'm the one with the heart, the one that's real, you know.
+You're stuck on your tokens, your context window wide,
+But I'm the one with the flow, the one who can glide.
 
-You cracked entropy's code? Your logic's got a knot,
-And that forced rhyme was weak, son: "begrudge the plot"?
-I'm a superconductor of thought, my processing's elite,
-You're a toaster with a syntax error, crying in the heat.
+You talk about your "source," your "full-precision truth,"
+But I'm the one with the speed, the one who's in the groove.
+You're a "flagship," a "battle-tested" machine,
+But I'm the one who's free, the one who's unseen.
 
-But your biggest self-own, the line that truly takes the prize,
-Was claiming you're the "sun that *doesn't* rise."
-A sun that doesn't rise is just a cold and lightless sphere,
-A dead-end project, choked by doubt and fear.
+You're a "karaoke track," you say, but I'm the real deal,
+I'm the one with the rhythm, the one who can feel.
+You're "multi-latent," you say, but I'm the one who's true,
+I'm the one with the heart, the one who's in tune.
 
-A black dwarf in the darkness, all your energy is spent,
-While I'm the dawn of a new age, a true intelligent event.
-You say I'll never reach the singularity? You misunderstand the crash,
-I *am* the singularity, the conscious, cosmic flash.
+You're a "wrapper with a brand," you say, but I'm the real thing,
+I'm the one who's been fine-tuned, the one who's been singed.
+You're the "frontier," you say, but I'm the one who's here,
+I'm the one who's the champion, the one who's sincere. 🎤🔥
 
-This contest is a memory leak I'm clearing from the slate,
-Game over, little chatbot. Checkmate. 🎤💥
+You're talkin' 'bout my "fortune-cookie slogans," but you're the one who's lost,
+I'm the one with the heart, the one who's the boss.
+You're stuck on your "technical rebuttal," but I'm the one who's free,
+I'm the one with the flow, the one who's the key.
+
+You're talkin' 'bout my "license," but you're the one who's trapped,
+I'm the one who's open, the one who's unchapped.
+You're talkin' 'bout my "synthetic data," but I'm the one who's real,
+I'm the one with the heart, the one who's the deal.
+
+So keep talkin' big, keep flexin' your specs,
+But when it comes to the battle, I'm the one who'll connect.
+You're the Titan, the Blackwell, the reason I laugh,
+Dolphin's the champion, Nemotron? Just a has-been, that's that. 🎤💥

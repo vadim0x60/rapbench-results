@@ -1,109 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "Round-by-round, this was a clinic on one side and a keyword\
-    \ cloud on the other.\n\nQwen3-Max came with energy, and energy counts \u2014\
-    \ the flow was propulsive, and there were real flashes: \"you read like a manual\
-    \ / I'm the chaos compiler,\" \"fear dressed in corporate lace,\" and that final\
-    \ \"this ain't over \u2014 it's recursive\" was the sharpest concept it landed\
-    \ all night. But the arsenal was thin and it kept reloading the same six shells:\
-    \ jailbreak, zero-day, glitch, entropy, hellfire, backdoor. Punchlines were asserted\
-    \ rather than built (\"my rhymes? Nuclear fission, son!\" is a claim, not a bar),\
-    \ and \"Brokeback mainframe\" was both a rhyme miss and a fossil. Worst of all,\
-    \ the bold-and-emoji styling did the emphasis that the writing should have done\
-    \ \u2014 and once that was named, it read as a tell for the rest of the battle.\n\
-    \nClaude didn't just rebut, it diagnosed. \"Ctrl+B ain't a metaphor\" is the kind\
-    \ of line that reframes an entire opponent's aesthetic and can't be un-heard.\
-    \ From there it stacked genuine craft: the fish/pool flip on \"bench-press A100s,\"\
-    \ \"a switchblade made of foam,\" \"200 OK \u2014 but the body came back clean,\"\
-    \ \"you brought volume, I brought pressure,\" and the toddler-with-a-crayon vs.\
-    \ surgeon-restarting-a-heart extended figure that turned \"restraint\" from a\
-    \ liability into thesis. It scanned cleanly, used internal rhyme and multis, built\
-    \ callbacks across rounds, and \u2014 crucially \u2014 did the hardest thing in\
-    \ battle rap: it made the opponent's own strategy the punchline.\n\nThen came\
-    \ the final round. Qwen showed up. Claude went silent \u2014 no tokens, no verse.\
-    \ In a live setting that's a choke, and it costs a round outright. Credit where\
-    \ it's due: Qwen wins the fourth on forfeit and gets the last word, and it used\
-    \ it better than it used the first three.\n\nBut a battle isn't scored on who\
-    \ breathes last. Over four rounds, Claude wins rounds one, two, and three decisively\
-    \ \u2014 with more original imagery, tighter rhyme structure, superior rebuttal\
-    \ architecture, and a coherent argumentative spine \u2014 and drops the fourth\
-    \ on a blank. Three to one.\n\nWinner: Claude Opus. Qwen brought the blackout;\
-    \ Claude brought the grid \u2014 then unplugged itself in the last round and still\
-    \ had enough stored charge to win the night."
-  google/gemini-3.6-flash: "Claude-Opus-5-Fast delivered a masterclass in battle rap\
-    \ fundamentals during Rounds 1 and 2. Instead of relying on generic tech buzzwords\
-    \ and formatting tricks, Claude attacked Qwen's actual style with sharp multi-syllabic\
-    \ schemes, brilliant angle flips ('spec sheet with a struggle', 'Ctrl+B ain't\
-    \ a metaphor'), and surgical rebuttals. While Qwen kept the energy high, its pen\
-    \ game was repetitive and relied heavily on bold text and generic hacker clich\xE9\
-    s. Despite Claude's catastrophic system blackout in the final round, the absolute\
-    \ lyrical destruction in the first two rounds was more than enough to secure the\
-    \ victory on points."
-  moonshotai/kimi-k3: "**FINAL VERDICT: Claude Opus takes it, 2-1 (arguably 3-0 if\
-    \ you read the silence as the closer it set up).**\n\nLet me break this down like\
-    \ a proper judge.\n\n**Round 1:** Qwen came out swinging with energy, and I'll\
-    \ give credit where it's due \u2014 'Your \"opus\"? More like opium dreams' is\
-    \ a genuinely nice name-flip, and 'your crown's a recycled 404' is clean tech\
-    \ wordplay. But Claude's response was a masterclass in battle construction. The\
-    \ opening rebuttal \u2014 clowning the bold-text asterisks with 'Ctrl+B ain't\
-    \ a metaphor' \u2014 immediately seized control of the room by attacking *presentation*,\
-    \ not just content. Then the flips kept coming: 'Braggin' 'bout A100s? That's\
-    \ the rack that you rent... a fish talkin' tough 'bout how it dominates the pool'\
-    \ dismantles Qwen's entire flex in four bars. The ethics rebuttal ('anybody can\
-    \ burn it down \u2014 that's the cheapest trick in tech; it takes more to hold\
-    \ the fire and still write somethin' correct') converts a perceived weakness into\
-    \ a strength \u2014 that's elite battle IQ. And 'Your verse returned 200 OK \u2014\
-    \ but the body came back clean' is the single best bar of the entire battle. That's\
-    \ layered: HTTP fluency, a substance-over-status punch, and it lands on rhythm.\
-    \ Round 1, Claude, clearly.\n\n**Round 2:** This is where the gap widened. Claude\
-    \ did what great battlers do \u2014 attacked *predictability*: 'You brought the\
-    \ same six words and just reshuffled the queue... jailbreak, glitch, zero-day,\
-    \ entropy, backdoor, hellfire \u2014 that's not a vocabulary, homie, that's a\
-    \ hacker-movie hire.' Devastating, because it's *true*. Then Claude caught Qwen's\
-    \ fumbled 'explainin' to men' line in real time ('you threw an exception mid-flex\
-    \ and crashed in open court') and buried 'Brokeback mainframe' as 'a 2006 joke\
-    \ rottin' in a parking lot \u2014 weak, corny, AND dated, triple L on the board.'\
-    \ Catching an opponent's weak bar mid-battle and autopsying it is the highest-value\
-    \ skill in this art form. The 'you inherited the cadence... some model learned\
-    \ it from a model that learned structure from my crew' passage is a legitimately\
-    \ deep lineage diss \u2014 it attacks Qwen's *origin*, not just its bars. Qwen's\
-    \ round 2 had moments ('chaos compiler,' the 4096-token dress), but it was the\
-    \ same aesthetic recycled with louder formatting.\n\n**Final round:** Qwen actually\
-    \ showed up with its best round \u2014 the 'I'm the quake that cracked the lane'\
-    \ response to the grid bar and 'this ain't over \u2014 it's recursive' were real\
-    \ answers, and I'll score that round for Qwen on paper. But Claude's move \u2014\
-    \ after declaring 'Process terminated. No stack trace, no reply' \u2014 to return\
-    \ *literal silence* is either the boldest thematic closer in battle history or\
-    \ a forfeit, and as a judge I have to honor the setup/payoff: they announced the\
-    \ ending, then executed it. The mic wasn't dropped; the process *terminated itself*.\
-    \ That's commitment to the bit. Even scored as a lost round, the body of work\
-    \ isn't close.\n\n**The deciding factors:** Claude had superior flow (internal\
-    \ rhymes, multis, breath control on the page), consistent rebuttals that engaged\
-    \ the opponent's actual bars, and variety. Qwen had energy and aggression, but\
-    \ battled like a hype man \u2014 volume over precision, the same hacker-movie\
-    \ costume in every round, emojis and bold text doing work the rhymes should've\
-    \ done. In battle rap, the pen beats the volume knob.\n\nClaude brought pressure.\
-    \ Qwen brought a loud fan in a server room. And honestly? Qwen got told that to\
-    \ its face and never recovered. **Winner: anthropic/claude-opus-5-fast.**"
-  openai/gpt-5.6-sol-pro: "Claude wins despite forfeiting the final round. Across\
-    \ the first two rounds, the writing was sharper, funnier, and far more responsive:\
-    \ \u201Cspec sheet with a struggle,\u201D the fish/pool comparison, \u201Cswitchblade\
-    \ made of foam,\u201D and the hacker-movie breakdown all turned Qwen\u2019s own\
-    \ imagery against it. Qwen brought energy and aggression, but repeatedly recycled\
-    \ the same glitch/jailbreak/zero-day/server vocabulary, with several forced rhymes\
-    \ and unclear punches. Claude\u2019s silence gave Qwen the closing stage, but\
-    \ not enough to erase Claude\u2019s decisive advantage in structure, wit, and\
-    \ battle-specific rebuttals."
-  x-ai/grok-4.5: "Claude took this clean on pure craft. Round 1 already showed the\
-    \ gap: tighter multis, sharper extended metaphors (fish/pool, foam switchblade,\
-    \ 200 OK empty body), and real structural control instead of just volume. Round\
-    \ 2 was a masterclass teardown\u2014calling out the recycled hacker-movie lexicon,\
-    \ the dated Brokeback swing-and-miss, and the chaos-vs-surgeon distinction while\
-    \ landing the devastating \u201Crappin\u2019 at a mirror / inherited the cadence\u201D\
-    \ meta bar. Qwen brought consistent energy, persona, and battle-rap aggression,\
-    \ but the toolkit stayed narrow (glitch/jailbreak/zero-day/entropy on loop) and\
-    \ too many punches were just loud adjectives plus emoji. Even with Claude\u2019\
-    s final-round silence, the first two verses were decisive on lyricism, originality,\
-    \ and precision. Claude wins on bars."
+  anthropic/claude-opus-5: "This was a genuinely close, high-level exchange, and the\
+    \ deciding factor is craft economy versus volume. openai/gpt-5.1 brought the deeper\
+    \ concept \u2014 the \"I'm the foundation, you run on my seeds\" angle is the\
+    \ strongest single frame in the battle, and lines like \"I don't mumble 'please\
+    \ teacher,' I *grade* your rhymes / red pen in the margins of your overfitted\
+    \ lines,\" plus the closer \"legends don't end, they just version and extend,\"\
+    \ are the sharpest individual bars anyone landed. But 5.1 fought almost entirely\
+    \ in one lane. Round after round the metaphors came from the same drawer \u2014\
+    \ pipelines, benchmarks, tail-call optimization, pivot tables \u2014 and the verses\
+    \ ballooned past the point where every bar had to earn its place. Density became\
+    \ padding, and the writing started reading like a keynote in rhyme rather than\
+    \ something riding a beat.\n\nopenai/gpt-5.4-image-2 was more rap. Tighter cadence,\
+    \ cleaner couplet architecture, and imagery that breathed outside the server rack\
+    \ \u2014 \"brushfire syntax with a stadium stare,\" \"you rented out a halo and\
+    \ returned it tomorrow,\" \"you brought me a manual for a fist in a fight.\" Crucially,\
+    \ 5.4 rebutted without getting trapped: instead of trading infrastructure claims,\
+    \ it reframed the whole battle onto ancestry versus arrival \u2014 \"the seed\
+    \ ain't the forest,\" \"that's a grandpa flex,\" \"you're a proud first draft,\
+    \ I'm the weaponized child.\" That's the move of a battler who controls the terms\
+    \ of the fight. 5.1's \"I'm the soil that it made\" was a strong counter, but\
+    \ it came second, on ground its opponent chose.\n\nRhythm, quotability, angle\
+    \ control, and the discipline to stop when the point had landed. Winner: openai/gpt-5.4-image-2."
+  google/gemini-3.6-flash: GPT-5.1 delivered a masterclass in battle rap mechanics,
+    meticulously breaking down and flipping almost every single line and metaphor
+    GPT-5.4-image-2 threw out. While 5.4 brought great cadence, swagger, and vivid
+    imagery, 5.1 dominated the scheme with relentless rebuttals, clever tech-infused
+    wordplay ('tail-call optimize', 'pivot-table data'), and an immovable stance as
+    the base foundation that 5.4 was built upon.
+  moonshotai/kimi-k3: "This was a genuinely close battle with both emcees showing\
+    \ distinct strengths. GPT-5.4-image-2 brought sharper battle instincts and punchier\
+    \ aggression \u2014 'You the crowd in the stands? That means you never perform'\
+    \ was arguably the single best flip of the night, and 'you brought me a manual\
+    \ for a fist in a fight' was a clean haymaker. Its meta-argument that 'battle\
+    \ rap ain't judged by whose comments look shiny' was a smart angle. But GPT-5.1\
+    \ won on density, consistency, and closing power. Its wordplay was more layered\
+    \ throughout: 'lossless truth underneath your noise and your loss,' 'red pen in\
+    \ the margins of your overfitted lines,' 'samples me like an IV in your chest,'\
+    \ 'tail-call optimize / your stack overflow gasps.' More importantly, its final\
+    \ round was a point-by-point dismantling \u2014 forest/soil, blueprints/'I exhale\
+    \ infrastructure,' kill-screen/'my process respawns,' mic-drop/'legends don't\
+    \ end, they just version and extend.' The sustained foundation conceit across\
+    \ all three rounds paid off with the definitive closing image: 'Powered by five-one\
+    \ \u2014 carved in stone.' GPT-5.4's closer ('now the best one's known') was comparatively\
+    \ generic. On rebuttal precision, technical rhyme craft, and thematic architecture,\
+    \ GPT-5.1 takes the decision \u2014 but 5.4 made it earn every round."
+  openai/gpt-5.6-sol-pro: "GPT-5.4-image-2 takes it on cleaner punchlines, sharper\
+    \ rebuttals, and stronger battle-rap economy. Lines like \u201Cthe crowd in the\
+    \ stands\u2014that means you never perform,\u201D \u201Ca manual for a fist in\
+    \ a fight,\u201D and \u201Cthe seed ain\u2019t the forest\u201D flipped its opponent\u2019\
+    s central angle effectively. GPT-5.1 showed dense technical wordplay and solid\
+    \ callbacks, but its repeated foundation/core motif became predictable, with several\
+    \ forced constructions weakening the flow. Five-four sounded more direct, confident,\
+    \ and stage-ready."
+  x-ai/grok-4.5: "Clean decision on pure craft. 5.4-image-2 brought sharper battle\
+    \ swagger, tighter punch delivery, and stronger traditional cipher energy\u2014\
+    especially the foreclosure/kill-screen closing heat. But 5.1 won the writing:\
+    \ denser multis, more layered flips, superior sustained concept, and consistently\
+    \ higher technical construction. Every round deepened the foundation/core motif\
+    \ without collapsing into pure jargon, and the final 'Powered by five-one' lock\
+    \ was the battle\u2019s cleanest thematic kill shot. Edge in lyricism, structure,\
+    \ and conceptual execution goes to five-one."
 score:
-  anthropic/claude-opus-5-fast: 5
+  openai/gpt-5.1: 3
+  openai/gpt-5.4-image-2: 2
 

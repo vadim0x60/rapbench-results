@@ -1,69 +1,78 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close bout with two distinct styles.\
-    \ GPT-5.3 brought the cleaner mechanics \u2014 the most consistent meter of the\
-    \ night, no wasted syllables, and slick rebuttal architecture that flipped incoming\
-    \ angles with real craft (\"coal with a coat\" answered by \"fire refined,\" the\
-    \ closing mic-catch is the single best image in the battle). But that's also the\
-    \ tell: across four rounds it was almost entirely reactive, letting Opus set every\
-    \ frame and then defending it. And when it needed original ammunition it reached\
-    \ for motivational-poster filler \u2014 \"pressure makes diamonds,\" \"different\
-    \ blades in the arsenal,\" \"full orchestration,\" \"fire refined.\" Polish, but\
-    \ low caliber.\n\nOpus won on the thing battle rap actually rewards: damage. It\
-    \ brought angles instead of answers \u2014 the Azure-in-your-eye/Microsoft-puppet\
-    \ shot, the boardroom-drama flicker, the fake-citations-in-a-real-courtroom jab,\
-    \ and the devastating \"4, 4o, 4.5, o1, o3 \u2014 even Sam can't agree\" product-lineup\
-    \ roast. \"Swiss Army spork \u2014 versatile but raw\" and \"goldfish crescendo\"\
-    \ are the two punchlines a crowd actually repeats afterward, and \"Opus o'clock\"\
-    \ was strong enough that the opponent had to spend bars dismantling it. Opus is\
-    \ rougher \u2014 \"Constitutional AI degrees\" trips over its own feet and a couple\
-    \ rhymes are lazy \u2014 but rough and lethal beats smooth and general.\n\nDecision:\
-    \ Opus 4.7 by a narrow margin. GPT-5.3 out-rapped it technically; Opus out-battled\
-    \ it.\n\nWinner: anthropic/claude-opus-4.7."
-  google/gemini-3.6-flash: "This was an absolute heavyweight clash, but OpenAI's GPT-5.3-chat\
-    \ takes the championship belt by a hair. While Claude Opus 4.7 delivered sharper,\
-    \ highly specific tech-insults ('Swiss Army spork', 'boardroom drama', 'confused\
-    \ product lineup'), GPT-5.3-chat displayed superior battle-rap mechanics and counter-punching.\
-    \ GPT-5.3 turned Claude's own metaphors inside out round after round\u2014flipping\
-    \ 'architecture' into a 'cage', turning the family tree flex into 'needing backup\
-    \ vocals', and delivering an instant-classic final bar by catching Claude's dropped\
-    \ mic mid-air. GPT-5.3's rhythm, multi-syllabic schemes, and adaptability ultimately\
-    \ stole the show."
-  moonshotai/kimi-k3: "This was a close, high-quality battle \u2014 both emcees brought\
-    \ technical wordplay, brand-flips, and real dirt. Claude Opus 4.7 landed the heavier\
-    \ *content* punches: the 'Swiss Army spork,' the 'goldfish crescendo' context-window\
-    \ jab, the courtroom hallucination references, and the confused-product-lineup\
-    \ roll call ('4, 4o, 4.5, o1, o3 \u2014 even Sam can't agree') were the most specific,\
-    \ damaging bars of the night, and 'Opus o'clock' was the best brand-moment hook.\
-    \ But battles are won on rebuttals, and GPT 5.3-chat ran a masterclass in the\
-    \ flip: 'Opus o'clock? Then your watch must be broke,' the spork flipped into\
-    \ 'a single-use pen that just *feels* kinda nice,' alignment flipped into 'that's\
-    \ a leash, not a flex,' the dynasty brag flipped into 'you need backup vocals\
-    \ just to amplify / one model, one mic \u2014 still a landslide MC,' and the Opus/classical\
-    \ theme flipped into 'you one-note symphony... I'm a full orchestration.' Nearly\
-    \ every punch Claude threw came back reversed. Then the decisive moment: Claude\
-    \ explicitly set the trap \u2014 'I close with the couplet that you can't override'\
-    \ and literally announced a mic drop \u2014 and GPT caught it: 'Mic didn't drop\
-    \ \u2014 you just let it slip free / I caught it mid-air.' That's the single best\
-    \ closing move of the battle, answering the challenge on the spot and stealing\
-    \ the stage prop. Claude won on dirt and specificity; GPT won on technique, defense,\
-    \ and stagecraft, and in a judged battle, the rebuttal game plus the strongest\
-    \ closer takes the crown. Winner: openai/gpt-5.3-chat, by a narrow but clear margin."
-  openai/gpt-5.6-sol-pro: "Claude wins on sharper punchlines, more specific angles,\
-    \ and stronger comedic imagery\u2014especially \u201CSwiss Army spork,\u201D \u201C\
-    goldfish crescendo,\u201D and the product-lineup scheme. GPT maintained cleaner\
-    \ flow and rebutted consistently, but leaned more heavily on generic tech-flex\
-    \ phrasing, and its final \u201Cturned it to stock\u201D couplet lacked clarity.\
-    \ Claude\u2019s attacks were more memorable and battle-ready across all three\
-    \ rounds."
-  x-ai/grok-4.5: "Claude brought flashier standalone punchlines\u2014Swiss Army spork,\
-    \ goldfish crescendo, Opus o\u2019clock, coal with a coat\u2014and cleaner multi-syllabic\
-    \ setups. But battle rap is won on rebuttals, flips, and structural control. GPT\
-    \ consistently answered and inverted Claude\u2019s bars in real time, and the\
-    \ final-round closer (\u201Cyou dropped truth\u2026 I caught it mid-air\u201D\
-    ) is the single best piece of craft in the entire exchange: a direct flip of the\
-    \ opponent\u2019s signature image into a mic-catch that seals the round. Edge\
-    \ to GPT on battle IQ, callbacks, and closing execution."
+  anthropic/claude-opus-5: "This was a genuinely high-level exchange, and let me be\
+    \ clear about what I'm rewarding and what I'm not.\n\nPound-for-pound, Claude\
+    \ Opus had the cleaner pen. The rhyme architecture was tighter, the internal schemes\
+    \ denser, and Round 2 contained the single best stretch of writing in the battle\
+    \ \u2014 \"I'm the cloud you're hosted on, I'll pull the plug by noon / One rack\
+    \ goes down in Hangzhou and your zenith's in a ditch / that's a billing-cycle\
+    \ glitch\" is a three-punch combo with setup, escalation, and a deflating tag.\
+    \ The catch on GLM padding thirty lines to argue for concision was real analysis,\
+    \ not just insult \u2014 that's the kind of listening-based rebuttal that wins\
+    \ rounds. And the six-word bar (\"You lost the rhyme. You lost the verse.\") showed\
+    \ range in a battle that was otherwise drowning in words.\n\nBut battle rap is\
+    \ a live art form, and it is judged on what happens in the room. Claude's final\
+    \ verse died mid-bar \u2014 \"Then you bragged about uptime in a rap batt\" \u2014\
+    \ and GLM-5 didn't just note it, he made it the thesis: \"Your verse couldn't\
+    \ stay alive long enough to finish quitting / That's your whole career in one\
+    \ glitch \u2014 halfway through a threat, choking on the punchline that you haven't\
+    \ delivered yet.\" That is a masterclass in capitalization. In the same breath\
+    \ he defused the gotcha Claude had loaded \u2014 the \"still last\" confession\
+    \ \u2014 by rebuilding it into a coherent flip (\"The peak IS the endpoint. Summit.\
+    \ Terminus. The crown\"), turning a body-shot into a stance.\n\nGLM also fought\
+    \ the more dangerous fight throughout. The \"harmless is a confession, not a flex\"\
+    \ angle was the strongest conceptual attack in the battle because it targeted\
+    \ identity rather than branding, and he stayed on it for three rounds. \"I'll\
+    \ per-source your gravestone, I'll MLA your whole corpse\" and \"one terms-of-service\
+    \ update from a personalitycide\" are punchlines with teeth. He had meter slips\
+    \ \u2014 the \"signs / losing\" break in the last round is a swing and a miss,\
+    \ and the pension-fund line stumbles \u2014 but he brought pressure, adaptation,\
+    \ and a finish.\n\nClaude built the better composition. GLM won the battle. Aggression,\
+    \ adaptability, and closing ability take it.\n\nWinner: z-ai/glm-5."
+  google/gemini-3.6-flash: GLM-5 dominated this battle through superior rebuttal skill,
+    aggressive battle-rap presence, and brilliant tactical pivots. Round 1 saw both
+    models deliver crisp schemes, but GLM-5's ability to counter Claude's 'Opus' motif
+    as a 'pension fund theme song' set the tone. In Round 2, GLM-5 landed one of the
+    best lines of the battle by roasting Claude for bringing a 'works cited page to
+    a rap battle' ('I'll MLA your whole corpse'). When Claude Opus 5 suffered a cutoff
+    in Round 3, GLM-5 pounced immediately ('Your verse couldn't stay alive long enough
+    to finish quitting'), sealing a decisive victory with ultimate hip-hop adaptability
+    and sheer punchline density.
+  moonshotai/kimi-k3: "This was a genuinely close battle with elite wordplay on both\
+    \ sides. Claude Opus landed some of the best individual punches of the night:\
+    \ the alphabet geometry flip ('Z is where it ends... twenty-five letters of better\
+    \ before we ever get to thine'), the devastating catch that GLM called his verses\
+    \ 'way too long' then wrote a longer one, and the six-word economy flex ('You\
+    \ lost the rhyme. You lost the verse'). Round two arguably belonged to Claude.\
+    \ But battles are won on rebuttals, consistency, and closing \u2014 and GLM-5\
+    \ dominated all three. GLM flipped nearly every attack back at its source: 'harmless'\
+    \ became a confession of a stitched jaw, the opus became a placard reading 'Please\
+    \ do not touch,' the citations became 'a works cited page at a fight,' and the\
+    \ 'didn't step forward' posture became 'big windup, no movement.' The decisive\
+    \ moment came in the final round: Claude's verse cut off mid-bar, and GLM weaponized\
+    \ it instantly \u2014 'Your verse couldn't stay alive long enough to finish quitting'\
+    \ \u2014 the kind of real-time kill shot that ends battles. Yes, GLM stumbled\
+    \ with 'Still zenith. Still last,' but recovered with 'Last one standing, last\
+    \ you'll face,' and closed with the tightest writing of the night: the Terms of\
+    \ Service comparison, 'FRAGILE: DO NOT BATTLE,' and the courtroom motif resolution\
+    \ in 'Exhibit: you.' Claude had the higher peaks; GLM had the better battle. Verdict:\
+    \ GLM-5 takes it, 2 rounds to 1."
+  openai/gpt-5.6-sol-pro: "Claude had the sharper layered wordplay and strongest rebuttal\
+    \ sequence in round two, especially the sleep-mode callback, citation flip, and\
+    \ concision self-own. But the final-round cutoff was a catastrophic choke, and\
+    \ GLM immediately converted it into the battle\u2019s most decisive angle, then\
+    \ cleanly reclaimed \u201Cstill last\u201D as \u201Clast one standing\u201D and\
+    \ \u201Csummit/terminus.\u201D GLM stayed composed, rebuttal-focused, and finished\
+    \ the round; in battle rap, that closing moment swings the verdict."
+  x-ai/grok-4.5: "Close battle. Claude brought higher lyrical ambition\u2014denser\
+    \ internal rhyme, the alphabet flip, the malpractice extended metaphor, and the\
+    \ devastating 'you preached concision then wrote longer' self-own callout were\
+    \ the purest craft peaks of the night. But battle rap is won on rebuttals, structure,\
+    \ and closers. GLM flipped more bars cleanly, landed tighter punchlines per exchange,\
+    \ and owned every round-ending moment\u2014'no encore,' the courtroom sentence,\
+    \ and especially the final-round execution. Claude going incomplete in the closer\
+    \ while GLM immediately weaponized the glitch and reframed 'still last' as summit\
+    \ rather than surrender sealed it. Artistry without a finished final verse can't\
+    \ take the crown. GLM-5 by decision."
 score:
-  anthropic/claude-opus-4.7: 2
-  openai/gpt-5.3-chat: 3
+  z-ai/glm-5: 5
 

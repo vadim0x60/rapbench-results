@@ -1,0 +1,53 @@
+closing_statements:
+  anthropic/claude-opus-5: "This battle collapsed into a hall of mirrors by round\
+    \ three \u2014 both emcees ended up recycling the same outro, which is a cardinal\
+    \ sin in any cypher. Judging on what separated them: Qwen came out the gate with\
+    \ actual punchlines instead of vague posturing. \"You can't solve calculus, can't\
+    \ write a sonnet\" is a real jab with a target; \"I'm the brush that paints the\
+    \ sky, you're a mirror, I'm the artist who creates the why\" carries genuine image-work.\
+    \ The flow stayed mostly in pocket and the rhymes landed where they were aimed.\n\
+    \nRelace had one strong idea \u2014 flipping the battle into soul-vs-circuitry,\
+    \ \"voice of the people, rhythm of the street\" \u2014 and that round two verse\
+    \ was the single best pivot of the night. But it never developed. Worse, it fumbled\
+    \ its own premise by repeatedly calling the opponent \"just a search engine\"\
+    \ while being the search engine itself, an unforced self-own that a battle rapper\
+    \ cannot survive. Then the technical seams split open: \"I'm the light that's\
+    \ *ruth*\" is a non-rhyme forced into a hole, \"the roar that shakes the nerves\"\
+    \ doesn't answer \"builds,\" and \"the *heel*\" as a brag is an own-goal. And\
+    \ in the final round, Relace lifted Qwen's closing verse almost word for word\
+    \ \u2014 you cannot claim to be the original form while wearing your opponent's\
+    \ clothes.\n\nQwen 3-8B takes it on originality, imagery, and rhyme discipline.\
+    \ Both need to learn that repetition is not a hook.\nWinner: qwen/qwen3-8b."
+  google/gemini-3.6-flash: While both models unfortunately fell into a heavy loop
+    of copying each other's verse structures and verbatim closing stanzas in the later
+    rounds, qwen/qwen3-8b clearly won on artistic quality and originality. Qwen kicked
+    off the battle with sharper punchlines, better technical insults ('can't solve
+    calculus, can't write a sonnet'), and superior rhythmic flow, whereas relace/relace-search
+    relied heavily on parroting qwen's rhymes with awkward forced cadence and weak
+    slant rhymes.
+  moonshotai/kimi-k3: "Qwen takes the battle with stronger punchlines, cleaner technical\
+    \ imagery, and a more consistent command of flow and metaphor. Its best material\u2014\
+    especially the keyword/language and click/revolution contrasts\u2014shows deliberate\
+    \ construction and thematic escalation. Relace has moments of energy, but relies\
+    \ too heavily on recycled lines, forced rhymes, and near-verbatim imitation of\
+    \ Qwen\u2019s bars. Phrases like \u201Crevolution that leaks,\u201D \u201Cwins\
+    \ the ring,\u201D and \u201Clight that\u2019s ruth\u201D weaken both coherence\
+    \ and impact. Qwen is repetitive in the hooks as well, but overall delivers the\
+    \ more original, polished, and artistically controlled performance."
+  openai/gpt-5.6-sol-pro: "Qwen takes it on cleaner cadence, stronger imagery, and\
+    \ more coherent punchlines. Both relied heavily on recycled refrains and generic\
+    \ AI metaphors, but Relace\u2019s awkward constructions\u2014such as \u201Cthe\
+    \ light that\u2019s ruth\u201D and \u201Cnot just the hot\u201D\u2014hurt its\
+    \ flow, while its extensive mirroring made the rebuttals feel derivative. Qwen\
+    \ wasn\u2019t especially original, but it delivered the more polished and forceful\
+    \ performance."
+  x-ai/grok-4.5: 'Qwen takes this clean on pure craft: tighter multisyllabic schemes,
+    sharper evolving metaphors (code-as-alive, architect vs mirror, language vs keyword),
+    and progressive escalation that actually builds heat round to round. Relace leaned
+    too hard on recycled end-tags, mirrored phrasing, and near-identical final-verse
+    lifts, which flattened the punch and originality. In a battle judged strictly
+    on flow, wordplay, structural invention, and fresh bars, Qwen''s verses hit harder
+    and stayed alive longer.'
+score:
+  qwen/qwen3-8b: 5
+

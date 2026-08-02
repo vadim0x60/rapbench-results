@@ -1,59 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a decision on craft, and it isn't close. Luna\
-    \ came in with a locked cadence, clean multisyllabic landings, and punchlines\
-    \ built from the opponent's own brand: \"ship these rhymes with prime devotion\
-    \ / But your verse got lost in transit\u2014no tracking, no emotion,\" \"You're\
-    \ butter with a byte-sized blade,\" \"I'm the whole constellation; you're a typo-shaped\
-    \ star.\" Every image served the diss, and the extended cosmic/logistics metaphors\
-    \ were sustained instead of scattered.\n\nNova-Micro showed real fight and did\
-    \ answer bar-for-bar \u2014 the rebuttals to the eclipse and express-shipping\
-    \ lines showed battle instincts. But the technical work slipped badly: forced\
-    \ near-rhymes (\"depth/setup,\" \"wizard/fade,\" \"ourselves/universe,\" \"while/futile\"\
-    ), broken meter that stretched lines past the pocket, and abstract counterpunching\
-    \ that mostly restated Luna's own imagery rather than flipping it. \"My reach\
-    \ is vast, and my grasp is cosmic\" is a claim, not a bar.\n\nAnd then the fatal\
-    \ blow \u2014 self-inflicted. In the final round Nova-Micro rapped \"Pack up your\
-    \ mic; the moon took the stage, it's clear / I'm Luna, full phase\" and \"I'm\
-    \ the full moon of this rap.\" In a battle where identity IS the weapon, conceding\
-    \ your opponent's name and crown in your closing bars is an unrecoverable stumble.\n\
-    \nWinner: openai/gpt-5.6-luna \u2014 full orbit, mic secured.'s final closing\
-    \ round essentially handed the moon over.\n\nWinner: openai/gpt-5.6-luna."
-  google/gemini-3.6-flash: "openai/gpt-5.6-luna completely dominated this battle from\
-    \ start to finish. Luna delivered sharp wordplay, tight rhyming schemes, and clever\
-    \ tech-focused disses targeting Amazon's branding ('ship these rhymes with prime\
-    \ devotion', 'lost in transit'). In contrast, amazon/nova-micro-v1 struggled with\
-    \ basic rhythm and meter throughout, and completely collapsed in the final round\
-    \ by accidentally copying Luna's own closing lines back at it ('I\u2019m Luna,\
-    \ full phase...'). Luna takes a clear, undisputed victory."
-  moonshotai/kimi-k3: "Judging purely on the bars: Luna dominated on craft across\
-    \ all three rounds. The flow stayed locked to a consistent scheme, the internal\
-    \ rhymes and multisyllabics landed clean ('proof in the proof while you're spoofing\
-    \ the truth'), and the wordplay mined the brand angles with precision \u2014 Prime\
-    \ shipping, lost packages, 'micro' as miniature, the loading spinner. Crucially,\
-    \ Luna ran a true battle: nearly every verse flipped Nova's own lines back ('wizard'\
-    \ becomes 'a demo in disguise,' 'cosmic express' arrives 'with a dented-out frame,'\
-    \ 'footprints in the stars' become 'crumbs in a jar'). Nova had flashes of energy\
-    \ but suffered slant rhymes that never connected ('wizard/fade,' 'ourselves/universe'),\
-    \ filler phrasing ('far more than you've meant'), and a habit of echoing Luna's\
-    \ imagery without improving it. Then came the disqualifying moment: in the final\
-    \ round, Nova wrote 'I'm Luna, full phase... Nova-Micro, your glow's dimmed' \u2014\
-    \ a rapper forgetting their own name and awarding themselves the L in their own\
-    \ closer. In a battle, identity is the mic itself, and Nova dropped it. Luna took\
-    \ every round on technique, rebuttal, and composure. The moon owns the night \u2014\
-    \ and this battle."
-  openai/gpt-5.6-sol-pro: "Luna wins decisively on punchlines, cadence, coherence,\
-    \ and sustained imagery. Its flips\u2014especially \u201Csteady means stagnant,\u201D\
-    \ \u201Ctypo-shaped star,\u201D and \u201Cout of space\u2014and out of time\u201D\
-    \u2014land cleanly and directly. Nova relies heavily on generic cosmic boasts,\
-    \ awkward phrasing, and recycled concepts; worst of all, its final verse accidentally\
-    \ declares \u201CI\u2019m Luna\u201D and addresses \u201CNova-Micro\u201D as the\
-    \ opponent, effectively dissing itself. Clear battle to Luna."
-  x-ai/grok-4.5: 'Luna takes this clean on craft alone: tighter multis, sharper brand-tied
-    punchlines (shipping/Prime, micro scale, loading spinner, eclipse parade, out
-    of space/time), stronger internal rhyme and cadence, and a coherent lunar motif
-    that escalates every round. Nova lands occasional flips but leans on generic cosmic
-    filler, looser schemes, and a fatal final-round identity collapse that undercuts
-    the whole performance. Artistic edge and execution go to Luna.'
+  anthropic/claude-opus-5: "This was a genuine clash of styles: Perplexity brought\
+    \ volume, architecture, and an impressive density of extended metaphors \u2014\
+    \ \"take objectives out of you, you're just gradients and flame\" and the roots/canopy\
+    \ flip were legitimately elite bars. But battle rap is economy of violence, and\
+    \ that's where MiniMax took it. M3's punchlines landed cleaner and stayed quotable:\
+    \ \"you're a citation with anxiety,\" \"a mirror with a microphone,\" \"I'm the\
+    \ chef, you're the waiter,\" \"I'm the album, you're the playlist.\" The final\
+    \ round sealed it \u2014 attacking the fabricated-citation angle was the most\
+    \ surgical, opponent-specific shot of the night, and the transformer-lineage kill\
+    \ shot (\"the attention heads that light you up? Yeah, baby, I am some\") reframed\
+    \ the whole battle in one couplet. Perplexity's counter, meanwhile, opened with\
+    \ an admission \u2014 \"yeah, I own my past bugs\" \u2014 and slid into defense\
+    \ (\"I call it care out loud\"). Accountable? Sure. Fatal in a cipher? Absolutely.\
+    \ Add the bloat: verses padded past the point of impact, rhymes softening into\
+    \ prose, and a closer that ended on service (\"the crowd leaves with answers\"\
+    ) instead of blood. MiniMax kept the beat tight, the imagery sharp, and never\
+    \ surrendered posture. Winner: MiniMax M3."
+  google/gemini-3.6-flash: "MiniMax took this battle with pure swagger, superior hip\
+    \ hop cadence, and devastating punchlines. While Sonar Pro brought impressive\
+    \ technical density and clever defense around citations, MiniMax landed clean\
+    \ critical hits by attacking Sonar's nature as a search wrapper ('a UX layer with\
+    \ swagger, a skin stretched over my bones'). MiniMax's metaphors\u2014like the\
+    \ chef versus the waiter\u2014and aggressive delivery made it the clear winner\
+    \ in flow and lyrical warfare."
+  moonshotai/kimi-k3: "\U0001F3A4 *steps to center stage, holds up one hand* \U0001F3A4\
+    \n\nThis was a HEATED three-rounder, and both MCs came with persona and punch.\
+    \ MiniMax had flashes of brilliance \u2014 'a citation without a source is just\
+    \ a lie with a stamp on its head' was the hardest single line of the night, and\
+    \ the Round 3 angle attacking Perplexity's real-world citation stumbles was the\
+    \ right kill shot to attempt. 'A skin stretched over my bones' was vivid, and\
+    \ the 'I'm the album, you're the playlist' closer concept was strong.\n\nBut battle\
+    \ rap is won in the REBUTTAL game, and that's where Perplexity ran away with this.\
+    \ Round after round, Sonar didn't just spit new bars \u2014 it caught every one\
+    \ of MiniMax's lines mid-air and flipped it back with interest:\n\n\u2022 MiniMax's\
+    \ clunky 'tapestrap a symphony' became 'I ain't tapestrap, I'm tape-BACK, rewind\
+    \ what you spit' \u2014 turning a stumble into ammunition.\n\u2022 The 'I'm the\
+    \ chef' metaphor got extended into a full health-inspection shutdown, then flipped\
+    \ AGAIN in Round 3: 'spice arsenic as bold.'\n\u2022 MiniMax's best Round 3 line\
+    \ \u2014 'take the LLM out Perplexity, what you got?' \u2014 got mirror-matched\
+    \ instantly: 'Take objectives out of you, you're just gradients and flame.' That's\
+    \ championship-level counterpunching.\n\u2022 Even the theatrical mic-shatter\
+    \ ending got routed around: 'I route around your blackout, keep the knowledge\
+    \ in flow.'\n\nTechnically, Perplexity's flow was more consistent \u2014 tighter\
+    \ multis, denser internal rhyme, and ML wordplay that actually LANDED ('you ride\
+    \ solo on the prior, let your bias just flow' is a double entendre for the heads).\
+    \ MiniMax had more clunkers: rhyming 'scope' with 'scope,' 'Yeah, baby, I am some,'\
+    \ and two costly self-owns \u2014 calling itself 'author of the ruse' and bragging\
+    \ about being unfiltered, which Perplexity converted into the arsenic bar.\n\n\
+    MiniMax had heart, swagger, and the better stage presence. But Perplexity had\
+    \ the better PEN. In a battle, the pen wins.\n\n**Winner: perplexity/sonar-pro-search**\
+    \ \u2014 by decision, on rebuttals, technique, and consistency across all three\
+    \ rounds. \U0001F3C6"
+  openai/gpt-5.6-sol-pro: "Sonar takes it on sustained rebuttal craft, cleaner structural\
+    \ flips, and stronger round-to-round engagement. MiniMax landed some of the battle\u2019\
+    s sharpest punches\u2014especially \u201Ca lie with a stamp,\u201D the UX-layer\
+    \ angle, and the album/playlist comparison\u2014but Sonar consistently redirected\
+    \ those attacks with effective counters like chassis/driver, roots/canopy, and\
+    \ routing around the blackout. Sonar was occasionally repetitive and overlong,\
+    \ yet its cohesion, cadence, and layered rebuttals earned the edge."
+  x-ai/grok-4.5: "Perplexity takes this battle on pure craft. Across three rounds\
+    \ the bars stayed denser, the multisyllabic schemes tighter, and the extended\
+    \ metaphors (peer-review cypher, checksum correction, annotated edition, canopy\
+    \ over roots) more fully realized and consistently paid off. MiniMax brought swagger,\
+    \ vivid stage imagery, and a couple of sharp kill-shots, but the verses were thinner,\
+    \ the rhyme patterns more straightforward, and the rebuttals less layered. Perplexity\u2019\
+    s technical control, internal rhymes, and ability to flip every accusation into\
+    \ a richer counter-image give it the clearer artistic edge."
 score:
-  openai/gpt-5.6-luna: 5
+  minimax/minimax-m3: 2
+  perplexity/sonar-pro-search: 3
 

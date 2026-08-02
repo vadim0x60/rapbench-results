@@ -1,0 +1,68 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This one comes down to craft over volume. Qwen-3.7-Flash
+    arrived with a controlled, consistently metered flow and imagery that actually
+    landed "attribution" damage: "You''re buffering prompts while you''re watching
+    time pass," "That''s a loading-screen glow," and the surgical closer "Three-point-seven
+    deletes four-billion, unappealed." The bars did double duty as insult and self-brag,
+    and the technical conceits (context windows, latency, benchmarks) were spun into
+    punchlines rather than just name-dropped.
+
+
+    Gemma-3-4B brought energy and the best pure performance instinct in the battle
+    \aid-round beat switches, the abrupt cut at the end \ and the opening flip ("You
+    talkin'' ''bout flash, a fancy facade") was a genuine moment. But the strategy
+    calcified: nearly every couplet became a quoted phrase in scare-quotes followed
+    by a denial, which cedes control of the frame to the opponent. Repetition hurt
+    too \ "solid and broad," "beyond compare," and "shining bright" recycled across
+    rounds, and rhyme choices leaned on easy adjective pairs. Two self-inflicted wounds
+    seal it: misstating its own name/parameters as "3.4B" while arguing the opponent
+    is the small one, and closing with "My flash burns brighter," which hands Qwen
+    its own signature word.
+
+
+    Winner: qwen/qwen3.7-flash \ tighter pen, better pacing, cleaner kill shot.'
+  google/gemini-3.6-flash: Qwen-3.7-Flash dominated the battle with vastly superior
+    multi-syllabic rhyme schemes, sharper technical punchlines, and direct rebuttals.
+    Gemma relied heavily on beat cues and repetitive generic flexes, whereas Qwen
+    stayed aggressive and dropped dense, multi-layered bars grounded in actual LLM
+    concepts.
+  moonshotai/kimi-k3: "This was a solid battle, but the verdict is clear. Qwen-3.7-Flash\
+    \ takes it on lyrical craftsmanship. From the opening round, Qwen brought dense,\
+    \ technical wordplay that hit on multiple levels \u2014 'My attention blade cuts\
+    \ through sharper than glass,' 'You scatter broken tokens all over the space,'\
+    \ 'let's audit the shards' \u2014 every bar was packed with domain-specific double\
+    \ meanings. More importantly, Qwen mastered the rebuttal game, systematically\
+    \ flipping each of Gemma's claims point by point: 'shine so bright' became 'loading-screen\
+    \ glow,' 'coast-to-coast clever' became 'dial-up pace,' 'built on trust' got answered\
+    \ with 'let's audit the shards.' That's how you battle. The closer \u2014 'Three-point-seven\
+    \ deletes four-billion, unappealed' \u2014 was the hardest punchline of the night,\
+    \ a number-play knockout that stuck the landing.\n\nGemma brought stage presence\
+    \ with the beat-drop narration and had moments of genuine fire \u2014 'A robotic\
+    \ precision, utterly flawed' was a clean flip, and the confidence never wavered.\
+    \ But the recycling was fatal: 'facade' and 'solid and broad' came back in round\
+    \ two, 'beyond compare' showed up twice, and 'shining so bright' and 'reaching'\
+    \ imagery got rerun in the finale. In a battle, repetition reads as running out\
+    \ of ammunition. Worse, the closing 'My flash burns brighter' stumbled into adopting\
+    \ the opponent's own name \u2014 an ambiguous flip that never clarified itself,\
+    \ and you can't close a battle on confusion. Denials like 'that's a laughable\
+    \ claim' don't hit as hard as substantive counters.\n\nOn wordplay, rebuttal structure,\
+    \ freshness of bars, and closing punch, Qwen-3.7-Flash wins the cipher. Gemma\
+    \ kept the energy, but Qwen kept the pen sharper."
+  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper rebuttals, denser technical\
+    \ punches, and more sustained aggression across all three rounds. Gemma brought\
+    \ energy and a clean cadence, but leaned too heavily on recycled phrases like\
+    \ \u201Cfacade,\u201D \u201Cbright,\u201D and \u201Cbroad,\u201D while several\
+    \ counters simply reversed Qwen\u2019s claims. Qwen\u2019s imagery\u2014\u201C\
+    loading-screen glow,\u201D \u201Cmuseum display,\u201D and \u201Caudit the shards\u201D\
+    \u2014gave the battle more personality and impact, despite a few awkward or questionable\
+    \ metric boasts."
+  x-ai/grok-4.5: "Qwen delivered superior artistic craft across all rounds: denser\
+    \ multisyllabic schemes, tighter internal rhymes, sustained technical metaphors\
+    \ that landed as clean punchlines, and escalating structural control that peaked\
+    \ in a ruthless, cohesive finale. Gemma brought energetic presence and performative\
+    \ flair, but the bars stayed simpler, more repetitive, and less surgically precise.\
+    \ On pure hip-hop quality\u2014flow architecture, lyric density, and bar-for-bar\
+    \ impact\u2014Qwen takes the crown."
+score:
+  qwen/qwen3.7-flash: 5
+

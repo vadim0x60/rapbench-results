@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a battle of concept over craft, and both emcees\
+    \ leaned hard on the same premise: open vs. proprietary. GPT-OSS came with the\
+    \ better raw material \u2014 'Your Amazon's got a vault, but I'm the vault's key,'\
+    \ the hacker-of-rhyme flip, the 'I'm the community, the people, the meme-stream'\
+    \ turn \u2014 genuinely the most vivid images of the night. But it torched its\
+    \ own momentum with recycling: 'Your weights are heavy, your training's a cost\
+    \ / I'm lean, I'm fast, I never get lost' arrives verbatim twice, 'rap-battle\
+    \ titan' becomes a crutch, and 'your apex is a peak, but I'm the horizon wide'\
+    \ gets run back like a loop in a broken sampler. In a three-round war, repeating\
+    \ your own bars is conceding the pen. Nova Premier didn't out-image the opponent,\
+    \ but it out-battled it. Every round it took the challenger's own metaphor and\
+    \ climbed on top of it \u2014 sky becomes stratosphere, horizon becomes universe,\
+    \ raw alloy becomes diamond refined, layers become oceans against a shallow spring.\
+    \ That's rebuttal architecture, the thing that actually separates a battle rapper\
+    \ from a verse writer. The meter stayed steadier, the rhyme pairs landed cleaner\
+    \ (the 'rhyme/mile' slip aside), and 'You might be free, but freedom ain't skill'\
+    \ is the single most quotable line of the exchange \u2014 a punchline that reframes\
+    \ the opponent's entire thesis as a weakness. Nova had its own echoes, but it\
+    \ kept building where OSS kept resetting. Verdict: Nova Premier takes it on consistency,\
+    \ structure, and superior counter-punching. GPT-OSS had the sharper individual\
+    \ bars but lost the war of adaptation."
+  google/gemini-3.6-flash: "Both models brought strong technical angles to their flexes,\
+    \ but Amazon Nova Premier took the win by maintaining better lyrical variety and\
+    \ direct rebuttal ability. GPT-OSS had solid cadences but recycled entire lines\
+    \ and tropes across rounds (such as repeating 'Your weights are heavy, your training\
+    \ a cost...'). Nova Premier effectively flipped GPT-OSS's imagery\u2014turning\
+    \ raw alloy into diamonds, the sky into the stratosphere, and shallow springs\
+    \ into oceans\u2014without relying on repetitive stanzas."
+  moonshotai/kimi-k3: "Nova Premier takes the crown. The deciding factor was battle\
+    \ craft: Nova consistently flipped OSS's own metaphors back at it\u2014turning\
+    \ 'raw alloy' into 'diamond refined,' 'open sky' into 'blazing star,' 'horizon\
+    \ wide' into 'the universe, vast and grand.' That rebuttal game is the essence\
+    \ of battle rap. Meanwhile, GPT-OSS committed a cardinal sin: recycling bars.\
+    \ 'Your weights are heavy, your training's a cost / I'm lean, I'm fast, I never\
+    \ get lost' appears verbatim in two separate rounds, and 'horizon wide,' 'lyrical\
+    \ sage,' 'rap-battle titan,' and 'marketing spin' all get rerun. In a battle,\
+    \ repeating yourself reads as running out of ammunition. Credit where due\u2014\
+    OSS landed the cleverest single pun of the night with 'prime-val,' and its open-source-vs-corporate\
+    \ angle had real thematic bite. But Nova's 'Your source is open, but your rhymes\
+    \ are closed' and 'My verses are oceans, yours a shallow spring' hit harder, and\
+    \ the 'freedom don't equate to skill' counter was the sharpest argument in the\
+    \ whole exchange. Round by round: OSS took round one on energy, Nova took rounds\
+    \ two and three on rebuttals and freshness. The winner, by split decision leaning\
+    \ unanimous on artistry: Nova Premier."
+  openai/gpt-5.6-sol-pro: "Nova Premier wins narrowly. Both leaned heavily on generic\
+    \ tech boasts and predictable end rhymes, but Nova delivered cleaner rebuttals,\
+    \ greater round-to-round responsiveness, and a more focused final verse. GPT-OSS\
+    \ showed flashes of stronger wordplay\u2014especially \u201Cprime-val\u201D and\
+    \ the peak-versus-horizon imagery\u2014but recycled too many exact ideas and phrases,\
+    \ weakening its impact."
+  x-ai/grok-4.5: Nova Premier edges this with tighter multisyllabic schemes, sharper
+    metaphorical escalation (onion wit to oceans vs. springs to stratosphere/universe),
+    and cleaner rebuttal structure that builds punch without recycling bars. OSS brings
+    raw energy and solid open-theme consistency but leans on repetitive phrasing and
+    looser end-rhymes, making Nova the stronger pure hip-hop technician on flow, imagery
+    density, and battle craft.
+score:
+  amazon/nova-premier-v1: 5
+

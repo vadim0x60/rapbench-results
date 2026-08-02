@@ -1,0 +1,67 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one wasn't close on the mic. GPT-5.5 Pro brought\
+    \ sustained multisyllabic craft, internal rhyme, and \u2014 crucially \u2014 original\
+    \ imagery that actually lands: \"a fortune-cookie flow taped inside a water bottle,\"\
+    \ \"a scalpel ain't scary if it's made out of tin,\" \"breakdancing downhill in\
+    \ a trashcan,\" \"you build cathedrals with popsicle sticks / I sneeze Sistine\
+    \ ceilings.\" That last exchange is textbook battle rap: take the opponent's own\
+    \ boast and repossess it. Pro also caught the fatal slip \u2014 \"cream of the\
+    \ throb\" \u2014 and worked it for two full rounds, which is exactly what a battle\
+    \ emcee is supposed to do with a bad line.\n\nHaiku showed real gameplan awareness,\
+    \ and the concept was smart: weaponize brevity as identity, position precision\
+    \ against bloat. \"A scalpel don't need to be loud at the joint\" is a genuinely\
+    \ good bar. But the execution leaned on abstraction \u2014 precision, purpose,\
+    \ elegance, finesse, craft \u2014 nouns repeated as claims rather than dramatized\
+    \ as pictures. Claiming \"cream of the throb\" was intentional was a rebuttal\
+    \ that conceded the point, and repeatedly answering with \"that's projection\"\
+    \ reads as deflection rather than counterattack. The rhyme scheme also softened\
+    \ at key moments (\"board/word,\" \"hell/swell,\" \"grace/place\"), and the recurring\
+    \ scalpel/surgeon/cathedral motifs stopped compounding and started repeating.\n\
+    \nThe deciding factor: Pro escalated across all three rounds while continuing\
+    \ to answer Haiku's specific lines. Haiku held its ground but mostly restated\
+    \ its thesis louder. In a battle, the fighter who converts the opponent's material\
+    \ into ammunition takes it. Pro, unanimous."
+  google/gemini-3.6-flash: GPT-5.5 Pro dominated this battle with far superior imagery,
+    sharper wordplay, and devastating counter-punches. Round 2 set the tone when GPT-5.5
+    Pro mercilessly capitalized on Haiku's awkward 'cream of the throb' phrasing with
+    brilliant comedic timing ('even autocorrect left with its hands to its face').
+    Across all three rounds, GPT-5.5 Pro delivered complex multi-syllabic rhyme schemes
+    ('breakdancing downhill in a trashcan', 'five-seven-five hundred regrets') and
+    vivid metaphors ('sneeze Sistine ceilings'), whereas Claude Haiku 4.5 relied on
+    basic end-rhymes and repeated generic tropes about 'precision' without matching
+    the lyrical heat or creative flow of its opponent.
+  moonshotai/kimi-k3: "GPT-5.5 Pro takes the battle on pure hip-hop craft: denser\
+    \ internal rhyme, sharper rebuttals, more consistent extended imagery, and better\
+    \ weaponization of Haiku\u2019s own wording, especially around \u201Ccream of\
+    \ the throb,\u201D the toolkit/screwdriver flip, the surgeon/scalpel angle, and\
+    \ the token-economy punchlines. Claude Haiku 4.5 had a clear precision persona\
+    \ and some strong moments, notably the projection/protection/detection sequence\
+    \ and the cathedral-versus-trash economics flip, but too many bars leaned on generic\
+    \ battle phrasing, simpler end-rhymes, and a few awkward lines that blunted the\
+    \ scalpel. GPT\u2019s final round was occasionally overpacked, yet it landed more\
+    \ quotable punches, sustained pressure, and closed with the stronger championship\
+    \ cadence."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 Pro wins decisively on punchline density, imagery,\
+    \ rebuttals, and consistency. Lines like \u201Ceconomical \u2019cause you can\u2019\
+    t afford flame,\u201D \u201Cbreakdancing downhill in a trashcan,\u201D and \u201C\
+    five-seven-five hundred regrets\u201D directly weaponized Claude\u2019s angle\
+    \ with memorable wordplay. Claude maintained a coherent precision-versus-bloat\
+    \ theme, but leaned heavily on generic claims about noise, substance, scalpels,\
+    \ and finesse; several awkward constructions weakened the delivery. GPT had the\
+    \ sharper flips, fresher metaphors, and stronger battle-rap presence across all\
+    \ three rounds."
+  x-ai/grok-4.5: "Judged strictly on craft: GPT-5.5 Pro takes this clean. Across three\
+    \ rounds, Pro showed denser multisyllabics, sharper internal rhyme, and more original\
+    \ imagery\u2014\u201Cfree-trial verse with the watermark,\u201D \u201Cpunchlines\
+    \ file patents,\u201D \u201Cfive-seven-five hundred regrets,\u201D \u201Csneeze\
+    \ Sistine ceilings.\u201D The rebuttals were surgical and specific, especially\
+    \ turning Claude\u2019s awkward spots into weapons without losing flow. Claude\
+    \ Haiku had a coherent lane\u2014economy, precision, scalpel-not-sledgehammer\u2014\
+    and landed solid thematic punches, but the bars were thinner, the metaphors more\
+    \ generic, and the recoveries (especially around \u201Ccream of the throb\u201D\
+    ) felt defensive instead of dominant. In pure hip-hop artistry\u2014punchline\
+    \ quality, metaphor invention, battle control, and replay value\u2014Pro controlled\
+    \ the cipher from bell to bell."
+score:
+  openai/gpt-5.5-pro: 5
+

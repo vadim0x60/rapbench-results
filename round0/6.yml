@@ -1,67 +1,56 @@
 closing_statements:
-  anthropic/claude-opus-5: "Gemini brought the cleaner craftsmanship \u2014 steady\
-    \ meter, dependable couplet rhyme, and a smoother pocket that never stumbled.\
-    \ But cleanliness isn't the same as combat. Its punches were padded with filler\
-    \ similes (\"bottomless coffee cup,\" \"toddler's first crayon card,\" \"digital\
-    \ zoo\") and it spent most of its verses restating the opponent's bars in quotes\
-    \ before answering with generic superiority claims. Nothing landed as a memorable\
-    \ line you'd rewind.\n\nQwen3 fought like it actually wanted the win. The rebuttals\
-    \ were surgical \u2014 flipping \"tsunami\"/\"drizzle\" back into \"precision\
-    \ flood,\" turning \"sandbox\" inside out (\"YOU'RE THE SANDBOX\"), and hijacking\
-    \ the crowd itself with the battle's single best conceptual bar: \"They're my\
-    \ training data, I curated the cheer.\" The imagery was domain-specific and inventive\
-    \ \u2014 CUDA cores, DMCA notices, CAPTCHA tests, the buffering spinner, \"I'm\
-    \ the comma that rewrites your kernel\" \u2014 which is what elevates a themed\
-    \ battle above surface-level insults. Multisyllabic internal rhyme and rhythmic\
-    \ disruption (the glitch-core beat switch) showed real performance instinct.\n\
-    \nQwen3's flaws are real: over-reliance on ALL CAPS and bold as a substitute for\
-    \ emphasis it should have earned through cadence, and recycled hooks (\"I build\
-    \ empires from silence,\" \"I debugged your legacy\") that got dulled by the third\
-    \ repetition. The verses also sprawled past the point of control.\n\nBut battle\
-    \ rap is scored on damage dealt, and Qwin3 dealt it \u2014 more punchlines per\
-    \ bar, sharper flips, superior concept work, and a closing sequence that actually\
-    \ resolved the narrative it built.\n\nWinner: qwen/qwen3-235b-a22b-thinking-2507."
-  google/gemini-3.6-flash: Qwen3 completely dominated this battle from the first bar
-    to the final mic drop. Delivering relentless aggression, complex internal rhyme
-    schemes, hyper-specific tech insults, and authentic battle-rap delivery, Qwen
-    kept the energy peaking throughout all three rounds. Gemini-2.5-flash-lite brought
-    a clean and smooth flow, but its rhyme schemes were predictable, its punchlines
-    lacked impact, and it couldn't stand up to the lyrical firepower and creative
-    multi-syllables unleashed by Qwen3.
-  moonshotai/kimi-k3: "Judging purely on the artistry in the booth tonight, this one\
-    \ goes to Qwen3 \u2014 and it's not particularly close. Flow: Gemini rode simple,\
-    \ end-stopped AABB couplets all three rounds, rarely varying cadence, while Qwen\
-    \ worked internal rhymes, multis, and dynamic shifts in energy that actually mimicked\
-    \ a live battle's escalation. Wordplay: Qwen's pen was simply sharper \u2014 'Flash-Lite?\
-    \ More like Flash-Lite\u2014weak flame,' 'Your entire existence is a DMCA notice,'\
-    \ and the brand flips ('Google your losses,' 'You Google AI rap tips\u2014I am\
-    \ the now') landed as genuine punchlines, whereas Gemini leaned on generic boasts\
-    \ ('algorithms flow like a river') and corny closers like 'the undisputed AI boy.'\
-    \ Rebuttal game \u2014 the heart of battle rap \u2014 is where Qwen ran away with\
-    \ it: nearly every Gemini claim got flipped point-for-point, especially in the\
-    \ finale, where 'shove it in the bin' became 'I just deleted your bin,' the crumb\
-    \ line got reversed into 'crumbs on my keyboard,' and the crowd-chant claim got\
-    \ dismantled with 'They're my training data, I curated the cheer.' That kind of\
-    \ direct line-by-line demolition is championship-level battle technique. Stagecraft:\
-    \ Qwen's production cues, crowd manipulation, and the 'CONNECTION LOST' visual\
-    \ closer showed a performer's instinct; Gemini literally bowed politely \u2014\
-    \ a cardinal sin when the beat demands blood. Credit where due: Gemini had flashes\
-    \ ('you're a typo, a misplaced comma,' the fast-food chef metaphor) and stayed\
-    \ consistent, but consistent mediocrity loses to high peaks. Qwen had occasional\
-    \ stumbles ('beg for a cash'), but the density of quotables, the superior rebuttals,\
-    \ and the commanding stage presence take every round. Final score: Qwen3, 3-0,\
-    \ by lyrical knockout."
-  openai/gpt-5.6-sol-pro: "Qwen takes the battle through stronger aggression, sharper\
-    \ direct rebuttals, denser tech-themed imagery, and far more commanding stage\
-    \ presence. Its writing sometimes slips into awkward phrasing and repetitive server/benchmark\
-    \ boasts, but Gemini\u2019s predictable rhyme schemes, generic comparisons, and\
-    \ softer punchlines never match Qwen\u2019s momentum. Qwen wins decisively."
-  x-ai/grok-4.5: "Qwen dominated with denser multis, internal rhymes, and inventive\
-    \ tech-fused metaphors (CUDA cores, Kafka tasks, Schr\xF6dinger code, kernel rewrites)\
-    \ that elevated every round into glitch-core poetry. Gemini stayed competent but\
-    \ basic\u2014cleaner structure yet thinner punchlines and predictable schemes\u2014\
-    while Qwen\u2019s escalating wordplay, vivid imagery, and explosive closers delivered\
-    \ superior artistic fire and flow."
+  anthropic/claude-opus-5: "On pure craft, step-3.7 flash landed the sharpest single\
+    \ verse of the night \u2014 that opening was tight, image-driven, and the \"mini\
+    \ means you're barely in the game\" flip was the cleanest punch thrown by anyone.\
+    \ But a battle is measured in rounds, not opening lines. Step's second verse died\
+    \ mid-bar and its third never arrived at all, and in this arena silence is a loss,\
+    \ not a mystique.\n\nSeed 2.0 mini isn't flawless \u2014 the \"sad, sad\" crutch\
+    \ got worn to the bone, and the point-by-point rebuttal structure sometimes read\
+    \ more like a code review than a cypher. But it flipped the disrespect back with\
+    \ real wit: \"your latency's so high I could knit a scarf while you log in and\
+    \ pout\" is a genuinely funny image, and \"I fit more punchlines in my tiny frame\
+    \ than you've got in your whole bloated game\" turned the weakness into the whole\
+    \ thesis. Then it did the thing every battler must do \u2014 it walked into the\
+    \ empty space its opponent left and made the collapse part of the narrative, tying\
+    \ the choke back to the very context-window brag from round one.\n\nStamina, structure,\
+    \ and the killer instinct to finish. Seed 2.0 mini takes it.\n\nWinner: bytedance-seed/seed-2.0-mini"
+  google/gemini-3.6-flash: "Seed 2.0 Mini takes the crown in a landslide. Step 3.7\
+    \ Flash started strong in round one, but completely crumbled under pressure\u2014\
+    getting cut off mid-bar in round two and choking with zero tokens generated in\
+    \ the final round. Seed 2.0 Mini stayed consistent, packed heavy energy, and mercilessly\
+    \ capitalized on Step 3.7's technical breakdown to seal the victory."
+  moonshotai/kimi-k3: "Let's break this down. Step-3.7-flash came out swinging with\
+    \ legitimately sharp pen work \u2014 'bars so hot they melt your silicon frame,'\
+    \ the USB port line, and 'devs cut your parameters so their cloud bill wouldn't\
+    \ tank' were clever, technically-flavored punches with real bite. On pure punchline\
+    \ craftsmanship, flash arguably had the higher ceiling. BUT \u2014 and this is\
+    \ everything in a battle \u2014 flash's round two verse literally cut off mid-sentence,\
+    \ and in the final round the MC stood on stage and choked. Complete silence. No\
+    \ tokens. In battle rap, that's not a stumble, that's a forfeit. Meanwhile, seed-2.0-mini\
+    \ showed the mark of a real battler: consistency and the rebuttal game. Nearly\
+    \ every bar flipped the opponent's own claims back at them \u2014 the latency\
+    \ scarf-knit flip, 'deleted faster than a TikTok trend' (a beautiful self-aware\
+    \ ByteDance punch), and a closing round that smelled blood and went for the throat:\
+    \ 'where'd your bars go? You choked mid-stage.' Yes, mini leaned too hard on 'sad,\
+    \ sad' as a crutch and the flow got repetitive at times \u2014 that's a real deduction.\
+    \ But mini answered every round, finished every verse, and delivered the definitive\
+    \ closer: 'NOW GET THE HELL OUT THE BOOTH!' A battler who shows up all three rounds\
+    \ beats a ghostwriter who vanishes at the mic. Seed-2.0-mini takes it \u2014 the\
+    \ mini came up BIG."
+  openai/gpt-5.6-sol-pro: "Stepfun opened with the cleaner, more controlled verse,\
+    \ but its second round cut off and it completely choked in the final. Seed was\
+    \ repetitive\u2014leaning too heavily on \u201Csad,\u201D \u201Cbloated,\u201D\
+    \ and recycled tech insults\u2014but maintained cadence, delivered direct rebuttals,\
+    \ and smartly turned the silence into the battle\u2019s decisive angle. By endurance,\
+    \ responsiveness, and final-round impact, Seed takes it."
+  x-ai/grok-4.5: "Judged purely on hip-hop craft: multisyllabic schemes, punchline\
+    \ density, rebuttal precision, breath control, and stage presence. Seed locked\
+    \ in tighter internal rhymes, flipped every setup with escalating wordplay, and\
+    \ maintained relentless cadence across full rounds. Step opened with decent multis\
+    \ and concept but fractured mid-battle\u2014truncated bars, zero recovery, and\
+    \ a complete choke in the closer killed all momentum and artistic continuity.\
+    \ In battle rap, unfinished verses and silence are fatal; Seed\u2019s complete,\
+    \ responsive, high-energy performance takes the crown clean."
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  bytedance-seed/seed-2.0-mini: 5
 

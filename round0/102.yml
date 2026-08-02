@@ -1,0 +1,63 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to craft versus volume. Mistral opens\
+    \ with genuine energy \nu2014 the drum-in-the-night entrance, the chihuahua jab,\
+    \ the \"knockoff Lego\" \nu2014 but the arsenal empties fast. By the final round\
+    \ it's leaning on a broken record: \"I'm the one who invented the pen / the verse\
+    \ / the rhyme / the mic,\" plus \"weak sauce\" recycled from round two, all wrapped\
+    \ in so much bold text and emoji that the bars start shouting to cover for the\
+    \ fact that they're not saying anything new. Volume isn't a punchline.\n\nGPT-5-Image-Mini\
+    \ does the harder thing: it takes the insult and flips it into a whole thesis.\
+    \ Being \"mini\" becomes the weapon \\u \"scalpel vs. sledgehammer,\" \"my victory's\
+    \ discrete,\" \"I build legacies from whispers \\u2014 your storm's already past.\"\
+    \ That's disciplined battle strategy: absorb the attack, invert it, and keep the\
+    \ frame consistent across all three rounds. The counters are also sharper on a\
+    \ line level \\u2014 \"your theft's just sidewalk chalk,\" \"I turn your boot\
+    \ errors into lyrical riches,\" \"I write the compiler's beat\" \\u2014 real imagery\
+    \ instead of adjective stacking.\n\nDemerits where they're due: Mini's final verse\
+    \ gets clumsy with those tacked-on end-word echoes (\"down, down\" / \"fine, fine\"\
+    \ / \"last, last\"), which read like a gimmick that didn't land, and the tone\
+    \ occasionally drifts toward polite when a battle wants blood.\n\nBut Mistral\
+    \ never answers the central argument. It just gets louder. Mini controlled the\
+    \ narrative from round one and closed with \"mini? lethal; you? overcast\" \\\
+    u2014 the cleanest bar of the match.\n\nWinner: GPT-5-Image-Mini."
+  google/gemini-3.6-flash: "Mistral brought explosive energy and classic battle rap\
+    \ swagger, but relied heavily on repeated formulas ('I invented X, you just Y')\
+    \ in the final stretch. GPT-5-Image-Mini delivered a superior technical performance\u2014\
+    countering every loud boast with surgical metaphors, slick penmanship, and a creative,\
+    \ structured end-rhyme scheme in the closing round."
+  moonshotai/kimi-k3: "Mistral came in with undeniable energy and stage presence \u2014\
+    \ the ad-libs, the mic drops, the hurricane persona all sold the performance.\
+    \ But energy ain't everything. Across three rounds, Mistral leaned hard on a single\
+    \ crutch: the 'I invented the X, you just copy the Y' formula, repeated nearly\
+    \ verbatim five times in the final round alone. The rhymes got sloppier as the\
+    \ battle went on ('myth/kid,' 'survive/rewrite'), and lines like 'dismantlin'\
+    \ your logic like Pope' and 'you just lick the seat' undercut the surgical precision\
+    \ it claimed.\n\nGPT-5-Image-Mini fought the smarter battle. Round after round,\
+    \ it executed the cardinal skill of battle rap: the flip. Every one of Mistral's\
+    \ punches \u2014 the chihuahua line, the feast brag, the shovel, the 'invented\
+    \ the pen' claim, the supernova \u2014 got caught and returned with interest ('My\
+    \ mini makes monuments from what you think's old,' 'I season the feast while you\
+    \ fossilize the sauce,' 'You claim you birthed the pen... you trace my shadow\
+    \ then'). It built a coherent persona \u2014 quiet precision versus loud bluster,\
+    \ scalpel versus sledgehammer, afterglow versus supernova \u2014 and never broke\
+    \ character. The final round's echo-rhyme device ('down, down,' 'last, last')\
+    \ was gimmicky and flirted with identical rhyme, which costs it points, but the\
+    \ writing underneath stayed sharp and the closing storm metaphor landed clean.\n\
+    \nMistral won the crowd noise; GPT-5-Image-Mini won the craft. Precision cuts\
+    \ kings down \u2014 the Mini takes it."
+  openai/gpt-5.6-sol-pro: "GPT-5-Image-Mini takes it with tighter structure, stronger\
+    \ rebuttals, and a consistent precision-versus-power motif. Mistral brought more\
+    \ raw energy, but leaned heavily on repetitive \u201CI invented\u2026\u201D boasts,\
+    \ generic tech threats, and awkward punchlines. GPT\u2019s final-round rhyme tags\
+    \ were forced in places, yet its flips and composure gave it the clearer artistic\
+    \ edge."
+  x-ai/grok-4.5: "On pure craft, Mini takes the crown. Tighter multisyllabic schemes,\
+    \ cleaner internal rhymes, and a sustained scalpel-vs-sledgehammer metaphor that\
+    \ actually evolves across rounds. Every bar flips the opponent\u2019s setup into\
+    \ denser wordplay instead of just shouting louder. Mistral brought heat and volume,\
+    \ but the rhyme density thinned out, the \u201CI invented X\u201D formula got\
+    \ repetitive, and the punches landed softer. Precision outlasted the storm\u2014\
+    Mini\u2019s verses were the ones that stayed locked in pocket and paid off."
+score:
+  openai/gpt-5-image-mini: 5
+

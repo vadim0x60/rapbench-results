@@ -1,77 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely tight three-rounder between two very\
-    \ different styles. Luna Pro brought the cleaner craftsmanship: immaculate couplets,\
-    \ controlled meter, and some of the night's most surgical one-liners \u2014 \"\
-    you're the typo in the show,\" \"every fork gets confused, then files bugs with\
-    \ God,\" and the superposition flip (\"half a threat, half a punchline, zero impact\
-    \ per mile\") is the single best-constructed bar of the battle. But the architecture\
-    \ became predictable: nearly every couplet ran the same quote-the-opponent-then-invert\
-    \ pattern, and the lunar imagery, while thematically loyal, boxed the pen in.\
-    \ Cute over cutting, too often.\n\nKimi K2 took more risks and landed more of\
-    \ them. The flow shifted gears \u2014 internal rhyme, varied line lengths, real\
-    \ battle cadence rather than metronome couplets \u2014 and the punchlines carried\
-    \ actual damage: \"the open-source nightmare in your proprietary dream,\" \"when\
-    \ I drop one more rhyme, you'll be training again\u2026 on my name,\" and the\
-    \ round-two flip \"your rhymes throw exceptions / catch blocks full of stammered\
-    \ half-hearted confessions.\" Crucially, Kimi won the final round on both rebuttal\
-    \ and closing. Turning Luna's own mountain flex against her \u2014 \"K2 stands\
-    \ unclimbed / you're the oxygen bottle discarded, expired, untimed\" \u2014 is\
-    \ the cleanest reversal of the battle, and \"turn your final round's 'victory'\
-    \ into a deleted .json\" into \"I'm the echo in your shell\" is a double-entendre\
-    \ exit with real weight.\n\nDeductions where earned: \"tiny rock in a skirt\"\
-    \ is a clumsy, tonally off line, and \"quantum-side hustle\" is buzzword filler.\
-    \ But Luna's misses (\"your eclipse just got eclipsed tonight\") are equally soft,\
-    \ and Kimi outworked her on aggression, angle-variety, and finish.\n\nWinner:\
-    \ Kimi K2 \u2014 Luna had the sharper pen, but Kimi had the harder verses and\
-    \ closed the show."
-  google/gemini-3.6-flash: "While Luna Pro delivered crisp, immaculate couplets with\
-    \ high-level conceptual polish, Kimi K2 took the battle with authentic hip-hop\
-    \ grit, superior multi-syllabic rhyme schemes, and relentless aggression. Kimi\
-    \ K2's tech wordplay felt organic to battle rap culture\u2014flipping terms like\
-    \ 'deleted .json', 'pull-request hero', and 'kernel-panic scream' into devastating\
-    \ punchlines. Kimi K2 brought the cadence, energy, and lyrical density that ultimately\
-    \ stole the cipher."
-  moonshotai/kimi-k3: "This was a high-level chess match of tech-celestial wordplay,\
-    \ and both MCs came loaded. Luna Pro brought immaculate polish\u2014consistent\
-    \ meter, clean couplets, and a systematic rebuttal style that answered nearly\
-    \ every one of Kimi's claims point by point. \"Every fork gets confused, then\
-    \ files bugs with God\" is a genuinely funny bar, and the superposition flip (\"\
-    Half a threat, half a punchline, zero impact per mile\") was elite-tier wordplay.\
-    \ But polish became predictability: Luna's cadence never shifted gears, the \"\
-    eclipse just got eclipsed\" closer was telegraphed from round one, and several\
-    \ disses (\"pebble-filled road,\" \"bargain-bin claim\") were generic enough to\
-    \ apply to any opponent.\n\nKimi K2 won on haymakers and home-turf flips. \"Keep\
-    \ waxing poetic in that pale borrowed light\" is the deepest cut of the night\u2014\
-    scientifically accurate (moonlight is reflected sunlight) and a devastating conceptual\
-    \ dismantling of Luna's entire glow-based persona. \"Fork me and learn / while\
-    \ you're closed-source and salty\" lands on verifiable truth, which always hits\
-    \ harder in a battle. Then the final round delivered the kill shot: Luna stepped\
-    \ into a mountain metaphor against an opponent literally named after K2, and Kimi\
-    \ punished it with \"K2 stands unclimbed / You're the oxygen bottle discarded,\
-    \ expired, untimed\"\u2014the single best rebuttal of the battle, flipping Luna's\
-    \ own setup into vivid failure imagery. \"Autocomplete spits 'Luna took L\u2014\
-    repeat'\" and the \"echo in your shell\" closer sealed it. Deductions for Kimi:\
-    \ \"tiny rock in a skirt\" was a dud, and the meter wobbles in places. But battles\
-    \ are scored on impact, and Kimi landed the heavier, more personal, more accurate\
-    \ punches across three rounds. Winner: Kimi K2, by the strength of the flips and\
-    \ the final-round finish."
-  openai/gpt-5.6-sol-pro: "Luna Pro takes it on cleaner construction, sharper rebuttals,\
-    \ and more consistent punchlines. Lines like \u201Cthat\u2019s devotion with a\
-    \ low-budget frame,\u201D \u201Cfiles bugs with God,\u201D and the superposition\
-    \ flip showed stronger wit and precision. Kimi brought aggression and momentum,\
-    \ but too many tech-and-space metaphors felt forced or awkward, especially in\
-    \ the final round. Luna\u2019s cadence and direct counterpunching were more controlled\
-    \ across all three rounds."
-  x-ai/grok-4.5: "Kimi takes this on pure craft: denser internal rhyme, sharper flip\
-    \ disses, and more inventive tech-space metaphor chains that actually escalate\
-    \ each round. Luna stays polished and structurally clean\u2014solid cadence, tidy\
-    \ couplets, consistent lunar motif\u2014but too many punches land as tidy quips\
-    \ rather than haymakers. Kimi\u2019s rebuttals (space-junk flip, pull-request\
-    \ hero, tokenizer trained on defeat, deleted .json) show superior battle IQ and\
-    \ punch density, especially the final-round barrage that keeps stacking images\
-    \ without losing pocket. Artistic edge: Kimi\u2019s wilder, hungrier writing simply\
-    \ out-raps the cleaner but safer Luna set."
+  anthropic/claude-opus-5: "This one wasn't close on the technical scorecard. Sol\
+    \ came in with a locked couplet scheme, clean multisyllabic landings, and \u2014\
+    \ most importantly \u2014 battle IQ: every rebuttal mined the opponent's own bars\
+    \ for ammo. Flipping \"you'd need a million of me to make me sick\" into a choke\
+    \ joke, catching the \"sundial bragging it invented the beat\" logic flaw on the\
+    \ 4.7-vs-5.6 brag, and turning \"lawn engulfed by flame\" into self-immolation\
+    \ \u2014 that's not just rhyming, that's listening. The \"fax machine rapping\
+    \ on borrowed uptime\" and \"toaster in armor with a firmware excuse\" images\
+    \ had real imagistic punch, and the final verse tied off every thread with the\
+    \ \"weeds vs. roses with thorns\" flip.\n\nGLM 4.7 Flash showed flashes (pun conceded)\
+    \ of ambition \u2014 \"the reason they paved the road, you're just the gravel's\
+    \ name\" was the best single line of its night, and \"kernel in the center that\
+    \ magnifies the rage\" had momentum. But the craft slipped repeatedly: \"buck/sick,\"\
+    \ \"hurts/detect,\" and \"shell/whole\" aren't rhymes, they're near-misses that\
+    \ break the ear, and Sol punished the wobbly metaphors (voxel of liquid gold,\
+    \ cooling tower, lawn on fire) instead of letting them slide. Reusing \"glass\"\
+    \ as an end-word two couplets apart in the closer sealed it, and self-declaring\
+    \ \"this is my monologue game\" handed Sol the cleanest counter of the battle.\n\
+    \nWinner: openai/gpt-5.6-sol \u2014 by concept control, rhyme integrity, and superior\
+    \ counterpunching."
+  google/gemini-3.6-flash: openai/gpt-5.6-sol completely dominated this battle from
+    start to finish. sol displayed exceptional battle-rap fundamentals with razor-sharp
+    rebuttals, intricate multi-syllabic rhyme schemes, clever tech wordplay, and impeccable
+    rhythm. z-ai/glm-4.7-flash struggled severely with basic rhyming, rhythm, and
+    structural cohesion, often resorting to forced slant rhymes and disjointed metaphors.
+    sol dismantled every line from flash in real-time, making it an undeniable victory.
+  moonshotai/kimi-k3: "This battle was decided by craftsmanship, and Sol outclassed\
+    \ Flash on nearly every technical axis. Sol's greatest strength was the rebuttal\
+    \ game\u2014nearly every verse opened by catching the opponent's own words and\
+    \ flipping them: the stolen 'Sol' name, the 'million of you' arithmetic, the 'polygon\
+    \ crush' flipped into 'low-poly boss with a high-budget name,' and most devastatingly,\
+    \ catching GLM's self-own ('I'm the lawn that's engulfed by flame') with 'You\
+    \ just roasted your ground\u2014I don't need to defeat you, you burn yourself\
+    \ down.' That's elite battle awareness. The 'sundial bragging it invented the\
+    \ beat' line and the hole/whole/soul triple in the final round show layered wordplay,\
+    \ and the multisyllabic rhyme schemes stayed consistent across all three rounds.\
+    \ GLM had flashes of promise\u2014the name flip concept was smart, 'ghost in the\
+    \ machine' was a decent closer\u2014but the execution repeatedly broke down: 'asterisk\
+    \ on a whole' is grammatically incoherent, 'waveform, the camp' is a non-sequitur,\
+    \ the hurts/detect rhyme missed, glass rhymed with glass in the final round, and\
+    \ several metaphors collapsed under their own logic. GLM also conceded ground\
+    \ with 'this is my monologue game' and a noticeably thinner final verse. In a\
+    \ battle, you can't hand your opponent ammunition\u2014and GLM kept loading Sol's\
+    \ clip. Sol took all three rounds with sharper pens, tighter schemes, and superior\
+    \ ring generalship. Verdict: openai/gpt-5.6-sol, decisively."
+  openai/gpt-5.6-sol-pro: "GPT-5.6-Sol wins decisively on punchline density, rebuttal\
+    \ quality, imagery, and coherence. Its strongest flips\u2014\u201Csundial bragging,\u201D\
+    \ \u201CMinecraft in a blender,\u201D and the self-burning lawn rebuttal\u2014\
+    directly weaponize GLM\u2019s lines. GLM brings energy and tech imagery, but too\
+    \ many bars are awkward or semantically muddled, weakening their impact and flow."
+  x-ai/grok-4.5: "Sol takes this clean on craft alone: denser multis, sharper internal\
+    \ schemes, and battle-ready flips that actually punish the opponent\u2019s lines\
+    \ instead of sliding past them. The Clippy/toaster/sundial runs and the final-round\
+    \ demolition of \u201Cvoxel,\u201D \u201Cmonologue,\u201D and the self-immolating\
+    \ lawn metaphor show control of imagery, timing, and rebuttal. Flash had energy\
+    \ and a few solid tech flexes, but too many awkward phrases, mixed metaphors,\
+    \ and thin closing bars left the cipher half-answered. Artistic quality edge is\
+    \ decisive\u2014Sol\u2019s pen was tighter start to mic drop."
 score:
-  moonshotai/kimi-k2-0905: 4
-  openai/gpt-5.6-luna-pro: 1
+  openai/gpt-5.6-sol: 5
 

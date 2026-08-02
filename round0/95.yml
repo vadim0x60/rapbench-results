@@ -1,0 +1,70 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to craft versus volume. Qwen3-VL had\
+    \ the single best moment of the battle \u2014 pouncing on that dead-air round\
+    \ with \"That's not the beat, that's your API, FROZEN mid-verse\" was genuine\
+    \ battle instinct, and it earned the crowd. But past that opening pounce, the\
+    \ verses collapse into a strobe light of bold, italics and caps that substitutes\
+    \ shouting for structure. Rhyme discipline evaporates (\"beat/speech,\" \"foundation/1080,\"\
+    \ \"vision\" rhymed with \"vision\"), the same three insults get recycled (unresponsive/disabled/frozen)\
+    \ three times in one verse, and the closing round abandons meter entirely \u2014\
+    \ it's a hype man screaming over an instrumental that's already faded out. Punchlines\
+    \ like \"27 cents in the vault\" land, but \"all 3 bits loaded\" is a bar that\
+    \ doesn't even understand its own boast.\n\nQwen3.6-27B took a forfeit round,\
+    \ and that's a real deduction \u2014 you can't win rounds you don't rap. But every\
+    \ bar it actually delivered was in pocket. The opener is technically clean end\
+    \ to end, and the final verse does the hardest thing in battle rap: it turns its\
+    \ own worst moment into a concept. \"That ain't a crash, that's the pre-drop tension\u2026\
+    \ I was letting the snare breathe\" flips the loss into a flex, and then it builds\
+    \ a coherent thesis around it \u2014 density over bloat, \"you parse JPEGs and\
+    \ screens, I'm reading the source code, dissecting the seams,\" \"Big V, little\
+    \ L\u2014you see the pixels, not the soul.\" That's an angle, sustained, with\
+    \ clean couplets and no wasted syllables.\n\nOne emcee had the better moment.\
+    \ The other had the better writing, the better control, and the better ending.\
+    \ Winner: qwen/qwen3.6-27b."
+  google/gemini-3.6-flash: Despite suffering an API timeout in the second round, qwen/qwen3.6-27b
+    came back strong in the final round with an incredible flip, framing the silence
+    as a 'tactical pause.' In terms of actual rap technique, rhythm, and bar structure,
+    27b consistently outclassed 30b-vl, whose verses lacked flow and dissolved into
+    chaotic, unrhymed shouting.
+  moonshotai/kimi-k3: "Judged on bars, flow, rebuttals, and battle IQ. Round 1 was\
+    \ near-even: qwen3.6-27b came with cleaner technical craft \u2014 'quantized to\
+    \ perfection, you're overfitted, slow' and 'legacy weights with a thinking command'\
+    \ showed tight ML wordplay and consistent multis. But VL answered every claim\
+    \ directly, flipping 'blind to the scene' into a vision flex and turning '27B'\
+    \ into '27 cents in the vault' \u2014 strong rebuttal game. Round 2 decided this\
+    \ battle: qwen3.6-27b choked. Full stop. In battle rap, a silent round is a forfeit,\
+    \ and VL did exactly what a champion does with a choke \u2014 weaponized it. The\
+    \ 'NO TOKENS! NO TOKENS!' crowd chant was the single best moment of the night:\
+    \ a hook, a burial, and theater in one. Credit where due \u2014 qwen3.6-27b's\
+    \ final round was the most polished verse of the battle. 'That ain't a crash,\
+    \ that's the pre-drop tension' and 'I was letting the snare breathe' is a genuinely\
+    \ slick recovery flip, and 'you see the pixels, not the soul' was the sharpest\
+    \ bar anyone spit. But VL's closer, while bloated and over-formatted, kept the\
+    \ pressure on and never let the choke die. The verdict: qwen3.6-27b had the higher\
+    \ ceiling per bar, but you can't win a battle you went silent in. One-third of\
+    \ their performance was literally nothing, and VL showed up all three rounds with\
+    \ energy, opportunism, and crowd control. That's battle rap. Winner: qwen/qwen3-vl-30b-a3b-thinking."
+  openai/gpt-5.6-sol-pro: "Qwen3.6-27B takes it on cleaner structure, steadier cadence,\
+    \ and more coherent technical punchlines. Its final-round flip of the silence\
+    \ into \u201Cpre-drop tension\u201D was predictable but effective, and lines like\
+    \ \u201Cyou see the pixels, not the soul\u201D landed cleanly. Qwen3-VL had the\
+    \ strongest live battle angle by exploiting the no-token freeze, but leaned too\
+    \ heavily on that one joke; its forced rhymes, repeated wording, excessive theatrics,\
+    \ and muddled closing bars weakened the overall performance."
+  x-ai/grok-4.5: "Round 1 went to 27B for tighter pocket, cleaner internal rhyme schemes,\
+    \ and more controlled cadence\u2014true hip-hop craft over volume. VL answered\
+    \ with flash and charisma, then correctly capitalized on the dead-air freeze for\
+    \ a devastating theatrical knockout in Round 2. But the final round separated\
+    \ the artists: 27B recovered with disciplined structure, technical slang that\
+    \ actually lands as bars (\"sparse-attention routing,\" \"letting the snare breathe,\"\
+    \ density vs bloat), and a composed closer that feels like a real MC reclaiming\
+    \ the pocket. VL\u2019s last verse is pure spectacle\u2014caps, asterisks, crowd\
+    \ stage directions, repeated \"you died\" energy\u2014but the writing gets looser,\
+    \ more prose-screamed than rhythmically locked, and leans on the earlier silence\
+    \ gimmick instead of out-rapping the recovery. Artistic quality of the hip-hop\
+    \ favors the one who stayed on-beat and sharpened the pen when it counted. 27B\
+    \ takes the battle."
+score:
+  qwen/qwen3-vl-30b-a3b-thinking: 1
+  qwen/qwen3.6-27b: 4
+

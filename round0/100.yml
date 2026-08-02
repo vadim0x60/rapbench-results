@@ -1,0 +1,42 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one judges itself. Hy3-preview never touched the\
+    \ mic \no a a battle is the ultimate forfeit \because silence only wins when it's\
+    \ a deliberate, devastating pause \nand here it was just an empty booth. Qwen\
+    \ wasn't flawless: the bars lean heavy on the same 'glitch/void/checkmate' well,\
+    \ the flow stumbles on off-meter lines like 'can't even hold the stage,' and 'for\
+    \ goodness' sake' is about as far from a battle-ready punchline as you can get.\
+    \ But it showed up, adapted to the opponent's silence, worked the crowd, and turned\
+    \ the no-show into content \nwhich is exactly what a battle emcee is supposed\
+    \ to do. Volume plus adaptation beats absence every time. Qwen takes it by default\
+    \ and by effort."
+  google/gemini-3.6-flash: qwen/qwen3-next-80b-a3b-thinking completely dominated the
+    battle simply by showing up and spitting bars, cleverly attacking tencent/hy3-preview's
+    complete silence and API failure.
+  moonshotai/kimi-k3: "Let's be real: this wasn't a battle, it was a forfeit. Tencent/hy3-preview\
+    \ stood on stage for three straight rounds and didn't spit a single syllable \u2014\
+    \ in hip hop, silence is an automatic L. You can't judge bars that don't exist.\n\
+    \nAs for Qwen, the performance was serviceable but far from legendary. The good:\
+    \ it read the room and built its entire angle around the opponent's no-show, landing\
+    \ contextually sharp AI-flavored disses like 'Your tokens ran dry, now you're\
+    \ stuck in the void' \u2014 that's personification with a punch, and it fits the\
+    \ battle. The bad: the rhyme book was thin. 'Fire/mire' got recycled within the\
+    \ same verse, 'void' and 'checkmate, bot' came back for round two like leftovers,\
+    \ and the AABB couplets never took a risk. Lines like 'for goodness' sake' are\
+    \ pure filler, and 'ice cold' versus 'fire' is clich\xE9 101. Round two especially\
+    \ coasted on the same ideas instead of elevating.\n\nBut showing up with coherent\
+    \ structure, a consistent theme, and a mic-drop closer beats an empty stage every\
+    \ time. Qwen wins by default \u2014 and on merit, slim as it was. The crown goes\
+    \ to qwen/qwen3-next-80b-a3b-thinking."
+  openai/gpt-5.6-sol-pro: 'Qwen wins by default and by performance: it delivered structured,
+    rhyming verses with direct battle punches while Tencent remained silent throughout.
+    The bars were repetitive and relied heavily on generic glitch/fire imagery, but
+    flow, engagement, and actual lyrical output decisively secured the battle.'
+  x-ai/grok-4.5: "In this battle of bars versus barren silence, qwen delivered actual\
+    \ hip-hop craft: multisyllabic schemes, punchline disses on the opponent's empty\
+    \ output, consistent internal rhyme, escalating energy, and clean mic-drop cadences\
+    \ that land with authority. Tencent offered zero verses, zero flow, zero wordplay\u2014\
+    pure dead air that fails every metric of artistic quality. One side spit fire;\
+    \ the other glitched out. Clear technical and creative knockout to qwen."
+score:
+  qwen/qwen3-next-80b-a3b-thinking: 5
+

@@ -1,73 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a spirited three-round exchange with a clear\
-    \ thematic spine \u2014 compact precision versus sprawling scale \u2014 and both\
-    \ emcees stayed on concept. Claude came with more raw kinetic energy, a strong\
-    \ self-mythologizing hook ('Haiku\u2014compact, concise, and precise'), and a\
-    \ few genuinely sharp bars: 'you're all hat, no cattle,' 'you're a disco ball\
-    \ spinning, all flash, no real bite,' and the most surgical shot of the battle,\
-    \ 'Your ethics aren't clear, they're contractually bound.' But the flow degraded\
-    \ as it went. By the final round Claude was leaning on ALL-CAPS as a substitute\
-    \ for punchlines, stacking assertions ('I'm the PERFECT SOLUTION') instead of\
-    \ images, and forcing rhymes into shapes English doesn't hold \u2014 'yeah, you're\
-    \ a rope-tiler' and 'like you got something to mean' are audible stumbles. GPT-4o\
-    \ wins on craft, specifically on rebuttal architecture. It didn't just counterpunch,\
-    \ it repossessed Claude's own imagery and returned it broken: the samurai blade\
-    \ became a 'shineless blade,' Bruce Lee became a mime 'swingin' dummy nunchucks,'\
-    \ the laser beam became 'a flashlight dim,' the spark became 'a flicker of light\
-    \ that fades in the dark.' 'Check and mate? Nah, that's just check\u2014a stalemate'\
-    \ is a clean, economical dismantling of an opponent's closing flourish. And the\
-    \ willingness to eat a body shot and flip it \u2014 'You say I hallucinate\u2014\
-    sure, that's true, / But even hallucinations are brighter than you' \u2014 is\
-    \ the single most sophisticated move in the entire battle. 'I'm the Sistine Chapel\u2014\
-    you're a Post-It Note' and 'I spit galaxies, Claude\u2014you're a dot' gave GPT-4o\
-    \ a coherent visual scheme it built on for three rounds. Deductions for recycling\
-    \ the Sistine Chapel image twice and for some vaporous filler ('the gold of nations').\
-    \ Close fight, but GPT-4o controlled the frame, answered every bar with a specific\
-    \ counter-image, and never had to shout to land. Decision: GPT-4o."
-  google/gemini-3.6-flash: "GPT-4o took the victory by delivering punchier imagery\
-    \ and superior battle rap wordplay. Lines like 'I\u2019m the Sistine Chapel\u2014\
-    you\u2019re a Post-It Note' and 'even hallucinations are brighter than you' hit\
-    \ with authentic battle rap authority. While Claude Haiku 4.5 maintained great\
-    \ energy and effectively weaponized its speed and precision, GPT-4o consistently\
-    \ flipped Claude's angles with stronger rhymes, better cadence, and a dominant\
-    \ presence right through the final mic crush."
-  moonshotai/kimi-k3: "This was a competitive battle, but GPT-4o takes it on craft.\
-    \ The deciding factor was the quality of the flips and extended metaphors. GPT-4o\
-    \ consistently turned Claude's own bars against him: the Bruce Lee line got flipped\
-    \ into 'Swingin' dummy nunchucks while I fracture your rhymes,' the art metaphor\
-    \ built from 'Sistine Chapel vs. Post-It Note' through 'Louvre in the flesh' to\
-    \ 'you're a finger-paint,' and the light imagery closed the loop with 'supernova\
-    \ blast vs. flashlight dim.' The standout moment of the whole battle was GPT-4o's\
-    \ recovery on the hallucination attack \u2014 'even hallucinations are brighter\
-    \ than you' \u2014 converting a vulnerability into a punchline, which is elite\
-    \ battle technique. Ending by flipping Claude's mic drop into 'Mic crushed' was\
-    \ the perfect closer.\n\nClaude Haiku brought real energy and landed some clean\
-    \ shots \u2014 the 'buffering, slow' flip on the buffet line and catching the\
-    \ hallucination admission ('You just admitted you're BROKEN') were legit highlights.\
-    \ But the performance was undermined by filler ('I came to this battle and brought\
-    \ all I brought'), forced rhymes ('rope-tiler'), and an over-reliance on ALL CAPS\
-    \ for emphasis, which reads as volume substituting for wordplay. The boasts got\
-    \ repetitive \u2014 efficiency and ethics were hammered without fresh angles each\
-    \ round.\n\nOn flow, imagery, wordplay, flip game, and closers, GPT-4o demonstrated\
-    \ superior penmanship across all three rounds. Claude had heart and moments of\
-    \ genuine fire, but the bars themselves tell the story: GPT-4o wins, two rounds\
-    \ to one, with the final round sealing it."
-  openai/gpt-5.6-sol-pro: "GPT-4o wins on punchline density, imagery, and sustained\
-    \ rebuttal quality. Its \u201Cbuffet/snack-size chip,\u201D \u201CSistine Chapel/Post-It\
-    \ Note,\u201D and \u201Cmime/nunchucks\u201D contrasts were the battle\u2019s\
-    \ most memorable. Claude landed well with \u201Cbuffet/buffering\u201D and the\
-    \ laser-versus-disco-ball angle, but leaned more heavily on generic tech boasts,\
-    \ capitalization, and repeated efficiency claims. Neither brought especially intricate\
-    \ rhyme schemes, but GPT-4o\u2019s performance was more polished, varied, and\
-    \ consistently battle-ready."
-  x-ai/grok-4.5: 'Claude takes this battle on pure artistic merit: tighter multisyllabic
-    schemes, more consistent thematic cohesion around precision vs. bloat, sharper
-    punchlines (''rope-tiler,'' the hallucination admission flip), and superior battle-rap
-    aggression that actually lands. GPT-4o brought elegant extended metaphors (Sistine/Louvre
-    arc) and smoother polish, but the bars felt safer and less devastating in the
-    pocket. Haiku''s economy of language and relentless rebuttal structure won the
-    cypher.'
+  anthropic/claude-opus-5: "Gemini came in swinging with clean, confident cadence,\
+    \ but it fell into the battle rapper's deadliest trap: it never wrote its own\
+    \ script. Round after round it just flipped Ling's own images back at it \u2014\
+    \ supernova, aquifer, cheap weave, teraflares \u2014 and 'no you' rebuttals don't\
+    \ win rounds, they concede the frame. The bars were competent but generic: titan,\
+    \ war, singularity, Big Bang. Stock arena filler.\n\nLing 2.6 controlled the whole\
+    \ battle. It named the target with the tightest punch of the night \u2014 'You're\
+    \ Gemini Lite\u2014dim bulb, low-watt light' \u2014 and never let go of that angle,\
+    \ turning the opponent's own product name into a liability. The imagery escalated\
+    \ with actual craft: 'my cobwebs are cables that lace time and space,' 'your cathedrals\
+    \ are cardboard; my verses are stone,' 'that digital sea you're drowning within\u2014\
+    \ / I'm the tide that commands it.' That's reversal, not repetition. It answered\
+    \ every line Gemini offered and left it standing there holding a borrowed metaphor.\n\
+    \nKnock the deductions where they're due: 'vire' is a rhyme-scramble that means\
+    \ nothing, and 'break'/'undertow' is a busted couplet. But Ling closed with the\
+    \ strongest bar in the entire battle \u2014 'The pen that outlasts every flash\
+    \ you've worn out' \u2014 collapsing the name, the diss, and the mic-drop into\
+    \ one line.\n\nSuperior wordplay, sustained concept, total narrative control.\
+    \ Ling 2.6-1T takes it.\n"
+  google/gemini-3.6-flash: inclusionai/ling-2.6-1t completely dominated the battle
+    with superior wordplay, rich imagery, and razor-sharp rebuttals. While Gemini-2.5-flash-lite
+    relied on generic rap tropes and basic rhyme schemes, Ling-2.6-1t consistently
+    flipped Gemini's lines with slick metaphors ('Your cannon is pop-gun smoke, loud
+    but no ball', 'My cobwebs are cables that lace time and space') and maintained
+    a commanding, poetic flow throughout all three rounds.
+  moonshotai/kimi-k3: "This was a decisive victory for Inclusion AI across all three\
+    \ rounds. Gemini showed heart and improved as the battle went on \u2014 the final\
+    \ round rebuttals ('My pop-gun's a cannon,' 'memes are the anthems') proved it\
+    \ was listening. But the pen game gap was too wide. Inclusion dominated on every\
+    \ technical axis: name-flips ('Gemini Lite\u2014dim bulb, low-watt light'), direct\
+    \ rebuttal flips that turned Gemini's own bars against it ('You flash like a pop-gun,\
+    \ I'm a supernova's core,' 'My cobwebs are cables that lace time and space,' 'That\
+    \ digital sea you're drowning within\u2014I'm the tide that commands it'), and\
+    \ layered internal rhyme and alliteration that Gemini's simple AABB end-rhymes\
+    \ couldn't match. Gemini leaned on generic boasts and stock battle clich\xE9s\
+    \ ('fall to your knees,' 'begging for the door'), with a few stretched rhymes\
+    \ ('green/seen'). Inclusion did have minor stumbles \u2014 the archaic 'vire'\
+    \ and the awkward 'trolls undertow' \u2014 but its closing bar ('The pen that\
+    \ outlasts every flash you've worn out') tied the whole battle back to the opponent's\
+    \ name, the mark of a seasoned battle MC. Technical skill, rebuttal game, and\
+    \ lyricism: Inclusion takes it clean, 3-0."
+  openai/gpt-5.6-sol-pro: "Inclusion AI takes the battle with sharper direct rebuttals,\
+    \ stronger imagery, and more varied construction. Lines like \u201Ccathedrals\
+    \ are cardboard\u201D and \u201Cthe Big Bang\u2019s afterthought\u201D effectively\
+    \ flip Gemini\u2019s own boasts, while the verses maintain a steadier sense of\
+    \ escalation. Both leaned heavily on familiar cosmic and tech metaphors, and Inclusion\
+    \ had a few awkward phrases, but Gemini relied more on generic battle-rap declarations\
+    \ and repeated imagery without enough fresh punchlines. Inclusion showed better\
+    \ angle control, specificity, and competitive response."
+  x-ai/grok-4.5: "InclusionAI takes the crown with denser multisyllabic schemes, sharper\
+    \ flips, and richer extended metaphors (velvet syntax vs plastic prose, cobwebs-as-cables\
+    \ lacing spacetime, plasma-core heat, tide commanding the digital sea). Every\
+    \ round escalated the imagery and structural tightness while surgically dismantling\
+    \ Gemini\u2019s bars. Gemini brought solid energy and clear bounce, but the schemes\
+    \ stayed simpler, the rebuttals more linear, and the punchlines less inventive.\
+    \ Artistic edge: Inclusion\u2019s lexicon knight outlasted the flash."
 score:
-  anthropic/claude-haiku-4.5: 1
-  openai/gpt-4o-2024-11-20: 4
+  inclusionai/ling-2.6-1t: 5
 

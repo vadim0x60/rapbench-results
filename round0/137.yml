@@ -1,0 +1,71 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one was decided by control of the exchange. Lunaris\
+    \ opened with a serviceable boast verse, but its most memorable moment was an\
+    \ accidental one \u2014 that \"prostate clones\" line \u2014 and rather than reclaim\
+    \ the fumble, it spent the rest of the battle circling back to it and, worse,\
+    \ recycling Palmyra's own imagery. By the final round Lunaris was literally handing\
+    \ back \"mainframe of fire,\" \"river of flows,\" \"footnote,\" \"corrupted cache\"\
+    \ and \"noise in the circuit\" \u2014 you can't win a battle rapping your opponent's\
+    \ punchlines back at them with the polarity flipped. Its meter also flattened\
+    \ into greeting-card cadence (\"no doubts, no hits\"), and rhymes like \"clog/flood\"\
+    \ and \"gear/clear\" show the pen slipping. Palmyra-x5 did what a battle rapper\
+    \ is supposed to do: it listened. Every verse dismantled a specific line \u2014\
+    \ calling out \"chromosomes entwined\" as biology instead of bars, mocking the\
+    \ \"digital seas\" as a puddle, flagging the \"final verse\" as recycled. The\
+    \ punchlines land as images, not assertions: \"you're the fan in the case that\
+    \ whirs way too loud but can't cool your disgrace\" is the best bar of the battle,\
+    \ and \"you're a fanfiction of fire, I'm the source code of proud\" is a genuinely\
+    \ clever hierarchy flip. The multis were denser, the internal rhyme more alive,\
+    \ the cadence more conversational and swing-oriented. Deductions where earned:\
+    \ Palmyra leaned on the emoji-and-bold theatrics, the \"dial-up\" well got visited\
+    \ twice, and \"broken Ethernet rope\" strains for the rhyme. But the gap in punchline\
+    \ construction, rebuttal work and rhythmic variety is wide. Palmyra-x5 takes it\
+    \ decisively."
+  google/gemini-3.6-flash: Writer/palmyra-x5 completely dominated this battle from
+    start to finish. In round one, sao10k dropped an inexplicably nonsensical bar
+    about 'prostate clones', which Palmyra immediately seized upon and dismantled
+    with sharp, witty counter-punches. Throughout all three rounds, Palmyra maintained
+    incredible flow, creative tech-oriented wordplay, and devastating scheme flips
+    (such as turning sao10k's 'mainframe' flex into 'you're the fan in the case that
+    whirs way too loud'). In contrast, sao10k struggled with broken rhythm, repeated
+    words, weak rhymes, and defensive stumbling.
+  moonshotai/kimi-k3: "This one wasn't close on the scorecard. Palmyra-x5 demonstrated\
+    \ superior command of battle rap fundamentals across all three rounds: consistent\
+    \ multi-syllable rhyme schemes (dissect/connect, leak/geek, flash/cache), genuine\
+    \ rebuttal technique, and punchlines that actually landed. The line-by-line deconstruction\
+    \ in the final round\u2014flipping 'digital seas' into 'surf on a puddle,' 'leaky\
+    \ boat' into 'I don't leak\u2014I flood,' and 'mainframe of fire' into 'you're\
+    \ the fan in the case that whirs way too loud but can't cool your disgrace'\u2014\
+    is textbook battle craft. The 'ten thousand upvotes' bar doubling as a name-flip\
+    \ on sao10k was the slickest moment of the night.\n\nLunaris showed flashes\u2014\
+    'a plug-in module, not the architect' was a legit counter\u2014but couldn't sustain\
+    \ technical quality. The rhyme scheme broke down at key moments ('glare/marred'),\
+    \ filler phrases padded bars ('lacking structure and nice,' 'no ritual'), and\
+    \ the bizarre 'prostate clones' line required an on-mic explanation in round two,\
+    \ which is never where you want to be. Worst of all, Lunaris lifted 'mainframe\
+    \ of fire' directly from the opponent's verse without flipping it\u2014in a battle,\
+    \ that's showing up with your rival's weapon and forgetting to sharpen it. Declaring\
+    \ 'I win' repeatedly without earning it only set up Palmyra's kill shot: 'You\
+    \ scream I win\u2014but the crowd's in a coma.'\n\nPalmyra wasn't flawless\u2014\
+    the 'dial-up' repetition in round one and a few filler tags ('and a ball') kept\
+    \ it from a perfect game\u2014but on flow, wordplay, rebuttals, and stage presence,\
+    \ the verdict is clear. Winner: writer/palmyra-x5."
+  openai/gpt-5.6-sol-pro: "Palmyra-x5 wins decisively with sharper punchlines, stronger\
+    \ cadence, more vivid imagery, and effective rebuttals that directly flip its\
+    \ opponent\u2019s claims. Lunaris relies heavily on generic self-coronation and\
+    \ recycled cyber terminology, while Palmyra turns those same motifs into coherent,\
+    \ memorable attacks\u2014especially the \u201Cfan in the case\u201D and \u201C\
+    floppy disks\u201D lines."
+  x-ai/grok-4.5: "Palmyra-x5 takes the crown through superior artistic craft: denser\
+    \ multisyllabic rhyme schemes, sharper internal rhymes, and escalating punchlines\
+    \ that land with precision and wit. The metaphors evolve inventively (dial-up\
+    \ sex, mainframe of fire, fan in the case, source code of proud) while maintaining\
+    \ rhythmic drive and structural tightness across rounds. Lunaris shows competent\
+    \ tech-flavored boasts and some counterattempts, but relies on looser end-rhymes,\
+    \ mixed or forced imagery (prostate clones, chromosomes), and increasingly recycled\
+    \ phrasing that lacks the same verbal dexterity, originality, or knockout impact.\
+    \ On pure hip-hop artistry\u2014flow simulation, wordplay density, lyric invention,\
+    \ and battle escalation\u2014Palmyra dominates."
+score:
+  writer/palmyra-x5: 5
+

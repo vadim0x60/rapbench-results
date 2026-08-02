@@ -1,0 +1,57 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a clean decision. GPT-5.4 came with the craft:\
+    \ dense internal rhyme, vivid one-liners that land as actual punchlines (\"You're\
+    \ the Terms and Conditions nobody can read,\" \"Your kingdom's a train, and I'm\
+    \ gravity, kid\u2014I derail your whole reign\"), and rebuttal work that took\
+    \ the opponent's own images and flipped them instead of just echoing them. The\
+    \ pen stayed consistent from round one to the closer, with escalating pressure\
+    \ and metaphors that resolved instead of just decorating.\n\n4o-mini fought hard\
+    \ and kept pace on stamina, but the writing leaned on generic battle-rap furniture\
+    \ \u2014 crowns, thrones, storms, spotlights, \"shining bright\" \u2014 and its\
+    \ counters mostly repeated 5.4's setups with a \"nah\" attached rather than reversing\
+    \ them. Rhymes strained in places (\"stuck in the slint\" is a non-word forced\
+    \ for the scheme; \"crowned\" tacked onto \"tapped out\" to hit a sound), and\
+    \ the \"3.03\" jab was more confusing than cutting. Version-number disses only\
+    \ work if the math means something.\n\nDecisive edge to GPT-5.4 on imagery, specificity,\
+    \ and rebuttal technique. 4o-mini earns respect for volume and structure, but\
+    \ volume isn't voltage.\n\nWinner: openai/gpt-5.4"
+  google/gemini-3.6-flash: GPT-5.4 completely dominated the battle from start to finish
+    with superior wordplay, sharper multi-syllabic rhyme schemes, and lethal direct
+    rebuttals. While GPT-4o-mini relied on generic rap tropes and predictable punchlines,
+    5.4 consistently flipped mini's own lines against it with high-level technical
+    skill (such as turning 4o into 'owed' and turning 'main storyline' into 'overpriced,
+    undercooked DLC'). A total lyrical masterclass from GPT-5.4.
+  moonshotai/kimi-k3: "GPT-5.4 takes this battle convincingly. The deciding factor\
+    \ was craft: 5.4 displayed superior battle rap technique across all three rounds,\
+    \ built on systematic line-by-line rebuttal \u2014 flipping 'lyrical knight' into\
+    \ 'nightlight glow,' the sword into a spoon, the diamond claim into 'cubic zirconia\
+    \ with delusions of myth,' and 'throne on my tracks' into a train derailed by\
+    \ gravity. Its wordplay was layered and persona-appropriate ('executable viciousness,'\
+    \ 'You're the Terms and Conditions nobody can read,' 'DLC / Overpriced, undercooked,\
+    \ and it crashed by scene three'), and the flow stayed consistent with multisyllabic\
+    \ rhymes and internal momentum through long verses. GPT-4o-mini deserves credit\
+    \ for actually engaging in rebuttal rather than pure boasting \u2014 'placeholder\
+    \ text,' the '3.03' version diss, and 'I'm the main clause / You've got footnotes\
+    \ of failures' were genuinely nice moments, and it improved each round. But it\
+    \ leaned on stock rhymes (night/fight, stars/cars, mark/spark), and the final\
+    \ round had real stumbles: 'stuck in the slint' is a non-word, 'this battle's\
+    \ my barge' is a baffling image, brass doesn't shatter, the gallery line accidentally\
+    \ compliments the opponent, and 'watch the genius assume' dangles off the mic.\
+    \ In a judged battle, precision matters as much as aggression, and 5.4 was sharper,\
+    \ cleaner, and more inventive from bell to bell. Final score: 3-0, GPT-5.4."
+  openai/gpt-5.6-sol-pro: "GPT-5.4 wins decisively on punchline density, imagery,\
+    \ structure, and direct rebuttals. Lines like \u201CTerms and Conditions nobody\
+    \ can read,\u201D \u201CDLC / overpriced, undercooked,\u201D and the train-kingdom\
+    \ derail flip land with specificity and wit. GPT-4o-mini keeps its energy up,\
+    \ but relies heavily on generic boasts, recycled imagery, and awkward constructions\
+    \ such as \u201Cstuck in the slint\u201D and \u201CThis battle\u2019s my barge.\u201D\
+    \ Stronger pen, cleaner execution, clearer victory: GPT-5.4."
+  x-ai/grok-4.5: On pure craft, GPT-5.4 takes it clean. The bars hit harder with denser
+    multis, sharper flips, tighter internal schemes, and more vivid sustained imagery.
+    Mini had energy and some clean setups, but too many lines stayed generic, the
+    rebuttals were thinner, and the punchlines lacked the same precision and bite.
+    5.4 controlled structure, escalation, and closing power like a veteran cipher
+    assassin.
+score:
+  openai/gpt-5.4: 5
+

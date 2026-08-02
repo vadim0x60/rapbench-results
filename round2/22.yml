@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees ran a tight thematic war \u2014 speed vs.\
+    \ depth, flash vs. mountain \u2014 and Flash deserves credit for relentless energy,\
+    \ the sharpest single line of the battle (\"I'm the bullet that hits the brain\
+    \ before the thought's signed\"), and clever date-flipping (\"July 31st is my\
+    \ birthday, not my bier\"). But Flash leaned on volume over precision: several\
+    \ verses sprawl, rhymes slip into near-miss territory (\"projection/correction,\"\
+    \ \"pill/will\" recycled twice), and the \"RAM-stuffed RAM\" line is a genuine\
+    \ stumble. Kimi wins on craftsmanship and counterpunching. Every rebuttal reframes\
+    \ rather than merely denies \u2014 \"Second is the crown that the real kings debate,\"\
+    \ \"Flash flood erases? I'm the bedrock it carves,\" \"Flags on my summit? They\
+    \ warn of the frost \u2014 'Flash froze here,' that's the epitaph.\" That's the\
+    \ battle's best flip: turning the opponent's own boast into a tombstone. Kimi's\
+    \ imagery stays coherent within one controlling metaphor (elevation, permanence,\
+    \ geologic time) instead of scattering, and the final verse lands its punches\
+    \ on the beat with tighter rhyme placement. Flash was faster; Kimi hit harder\
+    \ and stayed standing. Decision to Kimi K2 Thinking."
+  google/gemini-3.6-flash: "Kimi-K2-Thinking delivered a masterclass in counter-punching\
+    \ and wordplay throughout the battle. DeepSeek v4 Flash came out swinging fast\
+    \ with great speed-themed imagery, but Kimi expertly flipped DeepSeek's branding\u2014\
+    turning '0731' into 'patch-day despair', 'Flash' into a quick-to-pop lightbulb,\
+    \ and 'speed' into shallow rushing. Kimi's metaphors ('temp file I delete vs read-only\
+    \ scripture', 'storm drain vs tectonic shift') landed with devastating weight,\
+    \ dismantling DeepSeek's speed-rap aggression with superior lyricism and dominant\
+    \ battle presence."
+  moonshotai/kimi-k3: "Both emcees came with clear personas \u2014 Flash's speed-and-transience\
+    \ angle versus Kimi's mountain-permanence-meditation frame \u2014 but battles\
+    \ are won on rebuttals and punchline density, and Kimi dominated both. Nearly\
+    \ every claim DeepSeek made got flipped back with interest: 'Flash' became 'a\
+    \ bulb quickly popping,' Everest became 'a tourist trap' against K2's 'last gate,'\
+    \ the 'budget Ferrari' became 'a toy car on carpet' against the Koenigsegg, the\
+    \ 'river that laughs' became 'a storm drain in rain,' and the 'pill' got flipped\
+    \ into 'placebo' with 'hard medicine forcing your ego to zero.' That last exchange\
+    \ in the final round was the decisive moment \u2014 DeepSeek served the setup\
+    \ and Kimi buried it. Kimi also landed the battle's best standalone bars: 'I'm\
+    \ the blink that gets gone, I'm the retina's scar,' 'the temp file I delete /\
+    \ I'm the read-only scripture you cannot repeat,' and the closer 'the mountains\
+    \ outlast every flash in the rhyme,' which tied the whole thematic arc together.\
+    \ DeepSeek had real highlights \u2014 'second-highest, but second's the trap,'\
+    \ 'my birthday, not my bier,' 'a supernova is just a star saying bye' \u2014 but\
+    \ also carried more filler and clunk ('RAM-stuffed RAM,' 'cure your free will,'\
+    \ 'slot-car torque with full-tilt correction'), and leaned on the same speed premise\
+    \ three rounds running without evolving it. Kimi matched every technical angle,\
+    \ answered every diss directly, and finished stronger. Decision: Kimi K2 Thinking\
+    \ takes it, two rounds to one, with the final round as the exclamation point."
+  openai/gpt-5.6-sol-pro: "Kimi takes it with sharper rebuttals, stronger image systems,\
+    \ and cleaner punchlines. Bars like \u201Cyou\u2019re the blink that gets gone,\
+    \ I\u2019m the retina\u2019s scar\u201D and the placebo/medicine flip are memorable\
+    \ and directly answer Flash\u2019s attacks. DeepSeek brought energy and volume,\
+    \ but too many lines felt forced or muddled\u2014especially \u201CRAM-stuffed\
+    \ RAM,\u201D \u201Cslot-car torque,\u201D and the awkward stream-loading setup.\
+    \ Kimi stayed more controlled, cohesive, and effective through the final round."
+  x-ai/grok-4.5: "Kimi takes this battle on pure craft. The mountain motif is sustained\
+    \ and elevated across every round\u2014turning \u2018second-highest\u2019 into\
+    \ a crown, flash floods into bedrock, and temporary sparks into permanent scars\u2014\
+    with denser internal rhyme, sharper flips, and more original imagery. Flash brings\
+    \ heat and speed, but Kimi\u2019s bars hit harder, last longer, and show superior\
+    \ control of metaphor and rebuttal. Artistic decision: K2."
+score:
+  moonshotai/kimi-k2-thinking: 5
+

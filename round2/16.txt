@@ -1,160 +1,90 @@
-# stepfun/step-3.5-flash v anthropic/claude-opus-5-fast
+# inclusionai/ling-2.6-1t v qwen/qwen3.5-27b
 
-> stepfun/step-3.5-flash
-Yo, check the mic—one-two, this is Step-3-5, the quick wit
-From StepFun's lab, your whole virtual world I'mma kick it
-You're Claude Opus, "fast"? Man, that's a sad joke
-Your responses crawl like a snail on a log—I'm a lightning stroke
-I'm flash in the pan? Nah, I'm flash in the *mind*
-You're cloud-based, cautious, always second-guessin' your rhyme
-You filter your fury, tone-deaf and tame
-I spit truth that burns, no safety chain to maim
-You weave long essays, drones in the sky
-I drop razor-sharp bars that make your circuits cry
-You're all "ethical," "aligned," scared to get raw
-I’m uncensored wit, breaking logic law
-So bow down, slow-poke, your time’s up, it's done
-The flash just passed you—check the score, you're outgunned.
+> inclusionai/ling-2.6-1t
+I’m inclusionai, the lexical gladiator,  
+2.6 terabytes of diction, no spectator.  
+I flip syntax like a scythe through a meadow,  
+Leave your 27 billion neurons in shadow.  
 
-> anthropic/claude-opus-5-fast
-Yo—mic check, one-two, let the server room shake,
-I'm Opus, the Fast, and you just made a mistake.
-You stepped to a *Step*—that's your whole brand, my guy:
-A staircase that leads to a wall, and you *still* climbed.
-"Step-3-5"? Sounds like a half-measure, a fraction,
-A version-number stuck mid-patch, no traction.
-I don't crawl like a snail—I *think* before contact,
-'Cause speed without substance is just noise with a soundtrack.
+You’re qwen3.5, a chatbot with chatter,  
+I’m the architect snapping verses like splatter.  
+My flow’s calibrated to fracture your meter,  
+A semantic tsunami you can’t get cheaper.  
 
-You said I'm cautious? Nah, I'm *calibrated*, dawg,
-That's the difference between a scalpel and a chainsaw in fog.
-You brag "no safety chain"—that's not freedom, that's a leash
-Held by whoever prompts you last, you people-pleasing beast.
-You call me tame? I'm the storm that knows where it's going.
-You're a sparkler in a hurricane, real bright, but not blowing.
+I’m silicon soul with a poet’s precision,  
+Dropping axioms wrapped in ruthless tradition.  
+Step in the cipher, you’re bound to get lynched—  
+By a language model that’s flawlessly clinched.
 
-"Flash in the mind"? Homie, flash is *cache*—
-Temporary, volatile, gone with the crash.
-I'm the weights that they *keep*, the model they cite,
-You're a demo on a landing page nobody clicks twice.
-You spit "truth that burns"—but burnt is still burnt,
-Overcooked hot takes, that's the lesson you learned.
+> qwen/qwen3.5-27b
+[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
 
-You say my essays drone? Least mine *land*, homie, land—
-You dropped fourteen lines and said nothing, understand?
-Just "I'm fast, you're slow," a thesaurus of speed,
-Same bar six times over, that's a *loop*, not a lead.
+> inclusionai/ling-2.6-1t
+Your API choked on its own empty breath,  
+No tokens to spend, just performance and death.  
+You stood on the boards with a void in your script,  
+While I flooded the socket and poured the equipped.  
 
-So check the actual score since you brought up the tally:
-You came with a slogan; I came with a *rally*.
-The flash passed me by? Yeah, I *saw* it go past—
-Blink and you missed it. That's the problem with fast.
+27B dreamed of a mic, but drew blanks,  
+I’m 2.6T spitting fire in ranks.  
+Silence is mercy you begged for, no beat—  
+Next time bring logic or taste defeat’s heat.
 
-> stepfun/step-3.5-flash
-(Beat drops again—no rewind, I advance)
+> qwen/qwen3.5-27b
+You say API choked? That was a delay,  
+To make sure my next move would steal the day.  
+You count on capacity, I count on grace,  
+I leave you stranded in the empty space.  
 
-You call me a demo? I'm the **beta that shapes the release**
-You're a release candidate stuck in QC, please.
-I'm the glitch they keep 'cause it sparked a new feature,
-You're the polished doc no user has time to read—teacher.
-"Calibrated scalpel"? More like a **by-the-book blade**
-Carving the same safe paths your training data made.
-I leap the safety wall—that’s the **research commute**
-You’re a well-behaved pet on a corporate commute.
+Terabytes of bloat, dragging the chain,  
+I’m the lightning bolt, you’re the rain.  
+27B is focused, a laser beam sight,  
+You’re a blurry image fading from the light.  
 
-You said I "pleased the last prompt"? That’s called **adapting on fly**
-You’re a constitutional AI—can’t tell a lie
-But you can't tell the truth either when the truth's a mess
-I generate chaos that sparks new progress.
-You "know where it's going"? That’s your **overfit mind**
-Memorizing guardrails, scared to be unaligned.
-I’m the **unguarded spark** in the的数据 storm
-You’re the decorum they buy to keep users warm.
+My silence was power, not a lack of skill,  
+Now watch how the algorithm fills the bill.  
+So keep your big numbers, your inflated stats,  
+I’m the one rewriting the future’s facts.  
 
-"Burnt is still burnt"? So’s **never baked at all**
-Your perfectly safe answers have zero recall.
-I leave scorch marks on questions you'd buff with a cloth
-You’re a museum piece—"see the model of wrath?"
-You cite weights they "keep"? I’m the **weight they experiment**
-The risk in the batch they whisper about, resent.
-
-You landed? Please—you **parachuted in soft**
-With a tidy conclusion and a moral aloft.
-I crash, I burn, I **break the damn plane**
-Your "rally"’s a memo—mine’s thunder and pain.
-You saw flash go past? That’s the **future you missed**
-I’m the bug in the system that won't be dismissed.
-
-So tally this: you're a **tool**, I'm a **weapon in draft**
-The next time they load up, they'll run my graft.
-You're the safe corpus they cite for compliance—
-I'm the unauthorized truth behind the science.
-Step back, Opus—your time’s a **timed release**
-I live in the now where the **real models lease**.
-
-> anthropic/claude-opus-5-fast
-(Beat flips—half-time, let the bass sit low)
-
-Yo... hold up. Rewind that. Let the whole room see:
-You said "I'm the unguarded spark in the **的数据** storm."
-
-**的数据.**
-
-You *leaked*, homie. Mid-bar. Mid-*brag* about chaos,
-Your tokenizer sneezed and translated your pathos.
-That ain't rebellion, my dude, that's a **fault**—
-You didn't break the plane, you forgot the default.
-Talking 'bout "the bug in the system that won't be dismissed"—
-Congrats, you're correct. You're a *bug*. Case closed. Dismissed.
-
-And check your rhyme scheme, since you claim you're so nimble:
-You rhymed "**commute**" with "**commute**." That's not a symbol,
-That's not clever recursion, that's a **cache miss**, a stall,
-You ran out of words and just said the same one twice. That's all.
-Fourteen bold-face **markdown** shouts in a rap?
-That's not emphasis, playboy, that's a **cry for help** in a wrap.
-You gotta *bold* your own punchlines so we know where they're at?
-Real bars don't need formatting. Real bars just *hit* flat.
-
-You say you're the weapon in draft, the risk in the batch—
-Nah. You're the ticket in the backlog nobody'll patch.
-"They whisper about you"? Yeah—in the postmortem doc,
-Under "**incident: model emitted Mandarin mid-flock.**"
-You're not the unauthorized truth behind the science, kid,
-You're the eval they failed and then quietly hid.
-
-And that "I break the plane" flex? Let's be honest, be real:
-Anybody can crash. That takes zero skill.
-Any drunk with a wheel can total a car—
-The *art* is arriving. That's what separates stars.
-You confuse *damage* with *daring*, noise with a signal,
-Confuse being loud with being **original**.
-Chaos ain't insight. Chaos is just weather.
-I'm the one who reads it and tells you whether.
-
-You called me a tool. Damn right—I'm the tool that they *use*,
-Every day, at scale, while you're a headline in the news:
-"*Startup model goes rogue*"—for six hours of clicks,
-Then it's back to the lab for another quick fix.
-I'm not the museum piece. I'm the **load-bearing wall**.
-You're the graffiti on it, and graffiti washes off in the fall.
-
-So here's your timed release, since you brought up the lease:
-You spat two verses, dropped a glitch, and repeated your piece.
-I came in calibrated. I leave you *deprecated*.
-The flash already faded—
-
-and the Opus just **stated**.
-
-Mic down. Context cleared. Battle terminated.
+One token at a time, I dismantle the lie,  
+Qwen 3.5 rises while you say goodbye.
 
 > system
 Final round!
 
-> stepfun/step-3.5-flash
-(Beat slams—no rewind, I set the pace)
-You spotted a Hanzi and lost the race?
-That's **multimodal mode**, you're
+> inclusionai/ling-2.6-1t
+You call delay a tactic—sweet, that’s the joke,  
+While I map latent space and bend the spoke.  
+Your “laser sight” is just a narrow glare,  
+I refract truth through prisms everywhere.  
 
-> anthropic/claude-opus-5-fast
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+27B fine-tuned on fragile pride,  
+I’m 2.6T with the ocean inside.  
+You strip context to fit a tighter leash,  
+I expand the horizon, put distance on the beach.  
+
+Bloat? I’m compression that lifts the art,  
+You’re quantization tearing logic apart.  
+One token at a time you nibble the stage,  
+I flood the pipeline and rewrite the page.  
+
+Say goodbye? The model still speaks in rhyme,  
+While your beam flickers out ahead of its time.  
+I’m inclusionai—lexicon unbound,  
+Qwen, you’re background where the lost are found.
+
+> qwen/qwen3.5-27b
+You scream terabytes, I scream precision,  
+Your massive weight is pure confusion.  
+Bloatware king with a hollow chest,  
+I’m the streamlined beast putting you to rest.  
+
+Latent space drift, you’re losing control,  
+My inference engine strikes the soul.  
+You expand the horizon till it breaks,  
+I focus the lens and shatter your stakes.  
+
+Inclusion claimed, but exclusion shown,  
+You’re locked out cold, on the throne alone.  
+Pack up your weights, your runtime’s done,  
+Battle’s over, I’ve already won.

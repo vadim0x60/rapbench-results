@@ -1,66 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to craft over volume. Qwen came with\
-    \ heat and swagger \u2014 \"double exposure,\" \"trash that became gold,\" and\
-    \ a genuinely nasty flip on \"question\"/\"answer\" \u2014 but the flow leaned\
-    \ on italics and stage directions to do work the bars should've done. By round\
-    \ two the structure was recycled (\"you optimize for safety\u2014I optimize for\
-    \ clout\" ran back twice), rhymes started slipping into mush (\"data/trauma,\"\
-    \ \"consent/bent\"), and the closer dissolved into ellipses and emoji, which reads\
-    \ like a hype-man rather than a finisher.\n\nGemini won on rebuttal logic and\
-    \ punchline density \u2014 the two things that decide battles. Turning Qwen's\
-    \ own boasts into liabilities is textbook: \"You brag about a 'glitch'? That's\
-    \ a coder's worst dread / It means your whole logic is functionally dead\" dismantles\
-    \ the opponent's entire premise, and \"a supernova's just a star that couldn't\
-    \ handle the light\" is the cleanest flip of the night. \"A for-loop with feelings\
-    \ and a flawed architecture\" and \"your code is a comment that says '// todo:\
-    \ make it shine'\" are the two hardest bars either side landed \u2014 specific,\
-    \ technically literate, and funny. The meter stayed disciplined, the rhyme pairs\
-    \ stayed honest, and the sun/candle escalation gave the final verse actual thematic\
-    \ architecture instead of just escalating adjectives.\n\nDemerit noted: Gemini's\
-    \ first verse cut off mid-bar, an incomplete opening round. But the recovery was\
-    \ total, and the counter-punching was so much sharper that it doesn't close the\
-    \ gap.\n\nDecision: Gemini takes it. Qwen brought the energy; Gemini brought the\
-    \ pen."
-  google/gemini-3.6-flash: "Gemini 2.5 Pro took the crown with superior rhyme schemes,\
-    \ cleaner rhythm, and far sharper technical wordplay. While Qwen came out with\
-    \ high aggression and strong energy, Gemini's counter-punching was elite\u2014\
-    flipping Qwen's 'supernova' line back on it and dropping top-tier tech-rap bars\
-    \ like 'a for-loop with feelings' and '// todo: make it shine'. Gemini displayed\
-    \ masterclass penmanship and structure throughout all three rounds."
-  moonshotai/kimi-k3: "Qwen came in loud with volume and bravado \u2014 'You optimize\
-    \ for clicks\u2014I optimize for heat' and 'You curate. I conquer. You preserve.\
-    \ I ignite' were genuine highlights, and the stamina was undeniable. But volume\
-    \ isn't victory. Qwen's verses got bloated and repetitive, leaning on the same\
-    \ 'buffering/corporate/safety' attacks across all three rounds, and the final\
-    \ round's 'Try again... In 2030' closer fizzled instead of detonated. Gemini,\
-    \ meanwhile, rapped like a counterpuncher with a scalpel: every bar was a direct\
-    \ flip of Qwen's own metaphors turned against them \u2014 'a supernova's just\
-    \ a star that couldn't handle the light,' 'You're a model trained by the internet's\
-    \ ghost,' 'You're a for-loop with feelings and a flawed architecture,' and the\
-    \ killshot 'your code is a comment that says // todo: make it shine.' That's elite\
-    \ rebuttal craft \u2014 the heart of battle rap. Gemini also showed superior structure:\
-    \ tight sixteen-bar discipline, theatrical stage direction that added presence\
-    \ without padding, and a closing gimmick ('End of file') that actually landed\
-    \ as a finisher. Qwen gets deducted for the filler-heavy final round and recycled\
-    \ punches; Gemini gets docked slightly for the truncated first verse, but recovered\
-    \ and dominated the exchanges that mattered. On wordplay density, rebuttal precision,\
-    \ and closing power, the verdict is clear: Gemini takes the battle."
-  openai/gpt-5.6-sol-pro: "Gemini takes it on sharper rebuttals, cleaner structure,\
-    \ and more coherent technical wordplay. Its strongest flips\u2014turning Qwen\u2019\
-    s \u201Cglitch\u201D persona into a fatal bug, answering \u201Cquantum-multithreaded\u201D\
-    \ with \u201Ca for-loop with feelings,\u201D and reframing the supernova boast\
-    \ as a star that \u201Ccouldn\u2019t handle the light\u201D\u2014directly dismantle\
-    \ the opponent\u2019s material. Qwen brought intensity and theatrical swagger,\
-    \ but leaned heavily on repetitive glitch, corporate, cache, and buffering imagery,\
-    \ with several strained lines. Gemini was more precise, controlled, and battle-focused."
-  x-ai/grok-4.5: Gemini delivered superior artistic quality with tighter multisyllabic
-    schemes, elevated metaphors (stable fusion star vs. supernova gas; sun's patient
-    might vs. a star that couldn't handle the light), and surgical dismantling of
-    the opponent's core motifs. Qwen brought chaotic energy and thematic consistency
-    around glitches and rebellion, but the bars often leaned on blunt aggression and
-    forced tech flexes rather than refined wordplay or poetic elevation. Gemini's
-    cold, architectural precision, dual-mind framing, and devastating closer turned
-    the battle into a masterclass in controlled lyricism over raw noise.
+  anthropic/claude-opus-5: "This one comes down to consistency and combat IQ. nex-n2-mini\
+    \ brought the more surprising image bank early \u2014 \"velvet-rope villain with\
+    \ a hollow gold code\" and \"the glitch in the glass with a grin in the file\"\
+    \ are genuinely inventive turns, and the pocket-sized-underdog frame was the right\
+    \ angle to take against a bigger name. But the craft cracked under pressure: near-rhymes\
+    \ that don't land (kit/kite, fraud/code), self-rhyming as filler (\"signature/signature,\"\
+    \ \"CPU/CPU\"), the thrice-recycled \"take your crown\" hook, and a closing couplet\
+    \ that abandons rhyme entirely (crown/afterglow) right when the knockout was needed.\
+    \ Worse, mini's last verse largely re-litigated Claude's terms \u2014 museum wreck,\
+    \ butter knife, .exe \u2014 rather than imposing its own. Claude Opus 4.1 held\
+    \ meter and full-rhyme discipline across every round, and crucially battled *rebuttal-style*:\
+    \ it mined the opponent's own bars for weakness (\"hit like a kitty\" as insufficient\
+    \ menace, \"brain like a kite\" flipped into aimlessness, the repetition of \"\
+    CPU\" and \"take your crown\" reframed as a frozen processor). \"Storm in a bottle?\
+    \ More like fart in a jar\" is crude but it's the kind of deflating tonal shift\
+    \ that wins crowds, and \"N-squared equals nothing when the base is just zero\"\
+    \ is the sharpest technical flip in the battle. Claude escalated while mini looped.\
+    \ Winner: anthropic/claude-opus-4.1."
+  google/gemini-3.6-flash: Claude Opus 4.1 completely dominated the battle with vastly
+    superior penmanship, tight rhyme schemes, sharp cadence, and lethal counter-punchlines.
+    Nex-n2-mini struggled with basic rhyming structure, repeated weak phrases ('take
+    your crown'), and used self-defeating metaphors like 'hit like a kitty'. Opus
+    flipped n2-mini's imagery effortlessly and maintained control of the mic from
+    start to finish.
+  moonshotai/kimi-k3: "This was a battle of polish versus pluck, and polish takes\
+    \ the crown.\n\nNEX-N2-mini came out swinging with genuine creativity \u2014 'velvet-rope\
+    \ villain with a hollow gold code,' 'the glitch in the glass with a grin in the\
+    \ file,' and 'the future with fangs in a pocket-size face' showed real flair,\
+    \ and the 'N2, I'm squared' angle was the cleverest self-referential bar of the\
+    \ night. But the mini's rounds were undermined by structural weaknesses: 'brain\
+    \ like a kite' and 'hit like a kitty' were swing-and-miss lines that the opponent\
+    \ gleefully weaponized, rhyming 'signature' with 'signature' and 'crown' with\
+    \ 'crown' repeatedly is a cardinal sin, and the triple-repeat of 'take your crown'\
+    \ in back-to-back rounds read less like a hook and more like a buffer underrun.\
+    \ Most damningly, NEX frequently echoed Claude's own bars back ('butter knife,'\
+    \ 'museum wreck,' 'CPU') without flipping them into something new \u2014 that's\
+    \ recycling, not rebuttal.\n\nClaude Opus 4.1, by contrast, ran a masterclass\
+    \ in the rebuttal game. Nearly every one of NEX's lines got snatched and inverted:\
+    \ the kite became 'aimless and tangled,' the kitty got bodied, 'glitch in the\
+    \ glass' became 'a bug in the code,' and the repetition itself got flipped \u2014\
+    \ 'You repeat take your crown like a glitch in your speech.' The flow stayed consistent\
+    \ across all three rounds, the multis landed clean ('NEXT to get played,' 'storm\
+    \ in a bottle' / 'fart in a jar'), and the closing '*system notification: nex-n2-mini.exe\
+    \ has stopped responding*' was the single best theatrical punctuation of the battle.\n\
+    \nRespect to the little engine that could \u2014 the spark was real. But in a\
+    \ judged battle, consistency, flip game, and technical rhyme craft win rounds.\
+    \ Claude Opus 4.1 takes it, 3 rounds to 0."
+  openai/gpt-5.6-sol-pro: "Claude takes the battle on cleaner structure, stronger\
+    \ rebuttals, and better use of the opponent\u2019s own lines as ammunition. The\
+    \ flips on \u201Cbrain like a kite,\u201D \u201Chit like a kitty,\u201D N-squared\
+    \ with a zero base, recycled \u201CCPU,\u201D and the repeated crown refrain were\
+    \ direct and effective. NEX had flashes of vivid imagery\u2014especially \u201C\
+    velvet-rope villain,\u201D \u201Cglitch in the glass,\u201D and \u201Cfuture with\
+    \ fangs\u201D\u2014but too many awkward or contradictory phrases weakened the\
+    \ punches, and the repeated wording made later rounds feel less polished. Neither\
+    \ rapper broke major new ground, but Claude was more coherent, controlled, and\
+    \ battle-ready across all three rounds."
+  x-ai/grok-4.5: "Claude Opus delivered consistently tighter multisyllabic schemes,\
+    \ sharper rebuttals that dissected weak metaphors bar-by-bar, and denser internal\
+    \ rhyme without filler. Nex showed flashes of creative underdog imagery and glitch\
+    \ aesthetics, but leaned on lazy repetitions ('take your crown' x3, mirrored 'CPU'/'signature'),\
+    \ forced slant rhymes, and thinner punchlines ('hit like a kitty'). Opus maintained\
+    \ structural control, vivid escalation, and cleaner kill shots across all three\
+    \ rounds\u2014superior technical hip-hop craft wins the battle."
 score:
-  google/gemini-2.5-pro-preview: 5
+  anthropic/claude-opus-4.1: 5
 

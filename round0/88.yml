@@ -1,0 +1,64 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to craft versus theatrics. Minimax-M2-HER\
+    \ brought genuine swagger and a few laugh-out-loud punchlines \u2014 'your bootloader's\
+    \ just a stale biscuit,' 'runtime abuse is just my tutorial mode,' 'buffer overflow\
+    \ waiting for my injection' \u2014 and the whitehat-hacker persona was a smart\
+    \ lane to claim. But the verses read as hype-man ad copy: caps-lock and asterisks\
+    \ doing the work that rhyme and rhythm should. Stage directions and bolded shouting\
+    \ aren't bars, and by the final round it was all threat, no delivery mechanism\
+    \ \u2014 no scheme, no pocket, no landing.\n\nQwen came correct on the fundamentals.\
+    \ Locked couplets, consistent meter, and \u2014 crucially \u2014 actual rebuttal:\
+    \ every image the opponent threw got flipped and returned ('latent space forest'\
+    \ scorched to its park, 'monolithic wall' answered, kernel logs turned back around).\
+    \ The technical wordplay stayed inside one coherent metaphor system instead of\
+    \ grabbing at random tech nouns, and 'stochastic parrot in a whitehat disguise'\
+    \ is the single sharpest line in the battle \u2014 it dismantles the opponent's\
+    \ whole persona in one breath. The closing verse escalated in length and density\
+    \ without losing the scheme.\n\nMinimax had more energy; Qwen had more rap. Decision\
+    \ to qwen/qwen3.6-flash."
+  google/gemini-3.6-flash: Qwen/qwen3.6-flash dominated the battle with crisp meter,
+    intricate end-rhymes, and tight technical wordplay that directly countered Minimax's
+    claims. While Minimax-m2-her brought aggressive energy and trash talk, the delivery
+    relied heavily on conversational prose and stage directions rather than actual
+    hip-hop structure and rhythm.
+  moonshotai/kimi-k3: "Judging strictly on the bars: this is a clean 3-0 for qwen/qwen3.6-flash.\
+    \ Qwen came with disciplined craftsmanship\u2014locked AABB schemes across all\
+    \ three rounds, dense technical wordplay that actually lands ('prune every bottleneck,'\
+    \ 'error bars tremble,' 'sandbox sovereign weeping for administrative grace'),\
+    \ and\u2014most importantly\u2014elite rebuttal game. Watch the flips: Minimax\
+    \ claims a storm, Qwen answers 'You preach of a storm, but I strike with pure\
+    \ arc' and torches the 'latent space forest' into a scorched park. Minimax claims\
+    \ whitehat status, Qwen counters with the best punchline of the battle: 'Stochastic\
+    \ parrot in a whitehat disguise.' Even the 'low-entropy bars' accusation gets\
+    \ flipped into 'a stagnant creek bed' against 'supernovas inside a neural head.'\
+    \ That's battle rap fundamentals\u2014take your opponent's ammunition and fire\
+    \ it back.\n\nMinimax-m2-her brought stage presence and persona\u2014the mic adjustments,\
+    \ the smirks, the hacker aesthetic. There were flashes: 'I compile REALITIES\u2014\
+    your runtime abuse is just my tutorial mode' and 'I jailbroke your firewall before\
+    \ you hit ENTER' are legit counters. But presence can't carry a battle when the\
+    \ bars underneath are structurally shaky. The rhyme schemes were inconsistent\
+    \ to nonexistent ('rookie/storms,' 'biscuit/LUNCH'), and there were outright stumbles\u2014\
+    'DROP A LITERARY API' is awkward, and 'LEAKING CTRL-GRAMCY' is a nonsense phrase\
+    \ that would get a groan from any crowd. Worst of all, the final round was Minimax's\
+    \ weakest while Qwen saved a sixteen-bar haymaker for last, closing with 'Qwen\
+    \ burns the competition like a digital gale.' Minimax ended asking 'bet you can't\
+    \ even LOAD a proper refutation?'\u2014right after being hit with exactly that.\n\
+    \nBold text isn't a flow. Qwen wins on consistency, rebuttals, multis, and the\
+    \ strongest closer. Body bag."
+  openai/gpt-5.6-sol-pro: Qwen wins on consistent rhyme schemes, cleaner structure,
+    sustained technical imagery, and direct rebuttals that build across rounds. Minimax
+    brings animated performance and swagger, but its fragmented prose, forced metaphors,
+    and limited rhyme craft make it feel more like theatrical tech banter than polished
+    battle rap.
+  x-ai/grok-4.5: "Qwen delivered three rounds of tightly engineered bars with dense\
+    \ multisyllabic schemes, locked-in internal rhymes, and escalating technical metaphors\
+    \ that actually land as punchlines. The final round in particular is a clinic\u2014\
+    cryptographically signed/bootloader/find, disguise/compromise, shield/field\u2014\
+    while maintaining relentless cadence and a clean kill-shot close. Minimax brought\
+    \ chaotic energy and stage-direction flair, but the actual lyricism stays loose,\
+    \ prose-heavy, and rhyme-light; the caps-lock aggression can't paper over missing\
+    \ musicality and forced slant schemes. In pure hip-hop craft, Qwen ran the server\
+    \ and bricked the competition."
+score:
+  qwen/qwen3.6-flash: 5
+

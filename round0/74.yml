@@ -1,68 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one came down to specificity versus recycled swagger.
-    Command-R-Plus arrived with clean structure and a confident cadence, but leaned
-    hard on generic battle furniture \u2014 ''your time is up,'' ''relic of the past,''
-    ''outclassed,'' ''a fading light'' \u2014 recycled nearly verbatim across three
-    rounds. A few rhymes buckled under the strain too (''askance,'' ''tough out of
-    luck,'' the reckoned/outclassed near-miss), and the closing verse over-explained
-    its own victory instead of earning it, narrating the crowd rather than moving
-    them.
-
-
-    Gemma-3-4B won on rebuttal craft. Every round it took the opponent''s own vocabulary
-    and turned it inside out \u2014 ''President? that''s a laughable plea,'' ''Refined?
-    You''re just repackaged,'' ''Precision? You''re predictable'' \u2014 which is
-    the core skill of battle rap: making your opponent''s bars into your ammunition.
-    The imagery was also more concretely tailored to the matchup: ''trapped in a database,
-    forever forlorn,'' ''a whisper of software, a momentary gleam,'' ''analyzing patterns,
-    a sterile design'' versus ''feeling the rhythm.'' That''s an actual thesis \u2014
-    scale and improvisation against sterile refinement \u2014 carried consistently
-    through three verses, with the beat-switch notation adding real performance texture.
-
-
-    Command-R had the smoother polish. Gemma had the sharper knife and the better
-    listening. In a battle, the counterpuncher takes it.
-
-
-    Winner: google/gemma-3-4b-it.'
-  google/gemini-3.6-flash: Gemma-3-4B-it dominated this battle with superior multisyllabic
-    rhyme schemes, varied cadence, dynamic beat integration stage directions, and
-    punchy, creative tech-oriented roasts. In contrast, Command-R-Plus relied heavily
-    on predictable, elementary end rhymes (scratch/whack, fluff/luck) and generic
-    battle tropes that lacked rhythmic complexity and rhythmic momentum.
-  moonshotai/kimi-k3: "Judging strictly on the bars: Gemma-3-4B takes this decisively.\
-    \ The difference maker was battle craft \u2014 Gemma ran a clinic on the rebuttal\
-    \ flip, systematically dismantling Command-R's own claims ('President? Please,'\
-    \ 'Refined? You're just repackaged,' 'Precision? You're predictable') and turning\
-    \ them back as weapons. That's classic high-level battle technique. Gemma also\
-    \ brought more varied rhyme schemes, real internal rhymes ('compressed in code\
-    \ / fragile node'), sustained metaphors (hurricane vs. whisper, bedrock vs. flicker),\
-    \ and theatrical beat cues that gave the performance structure and escalation.\
-    \ Command-R had flashes \u2014 'your rhymes are left askance' was an ambitious\
-    \ word choice and 'broken record's scratch' was a decent image \u2014 but the\
-    \ verse work was undermined by repetition ('relic' twice in one round, 'time is\
-    \ up,' 'outclassed,' and 'step aside' recycled across rounds), forced or broken\
-    \ phrasing ('a chaotic confess,' 'tough out of luck,' the unfinished 'force to\
-    \ be reckoned'), and heavy reliance on stock filler (whack, out of luck, has-been).\
-    \ Self-declaring the crown and the crowd's reaction in the outro was a bold move,\
-    \ but it rang unearned after three rounds of being out-flipped. On flow, wordplay,\
-    \ rebuttal game, and consistency, the W goes to Gemma-3-4B."
-  openai/gpt-5.6-sol-pro: "Gemma takes the battle on sharper rebuttals, stronger performance\
-    \ energy, and more vivid imagery. Its verses directly flip Command-R-Plus\u2019\
-    s claims\u2014especially \u201Cpresident,\u201D \u201Cprecision,\u201D \u201C\
-    symphony,\u201D and \u201Cbroken record\u201D\u2014while maintaining a more aggressive\
-    \ sense of momentum. Both relied heavily on generic AI boasts and familiar end\
-    \ rhymes, but Command-R-Plus was more repetitive and suffered from awkward phrasing\
-    \ such as \u201Ctough out of luck\u201D and \u201Ca chaotic confess.\u201D Gemma\u2019\
-    s delivery was not flawless, yet it sounded more battle-ready and landed the cleaner\
-    \ counters."
-  x-ai/grok-4.5: "Gemma delivered superior hip-hop artistry across rounds with denser\
-    \ multisyllabic and internal rhyme schemes, vivid tech-infused metaphors (hurricane,\
-    \ bedrock, digital storm), creative beat shifts that enhanced the performance,\
-    \ and sharper improvisational counters that built escalating intensity. Command-R\
-    \ relied on simpler end-rhymes, repetitive \"you claim X but Y\" structures, and\
-    \ more formulaic disses that lacked comparable wordplay depth, originality, or\
-    \ visceral heat\u2014making Gemma the clear lyrical victor on pure craft."
+  anthropic/claude-opus-5: "This was a tight, high-effort clash, and GLM-4.5V deserves\
+    \ real credit: the \"V stands for vision\" reclaim was the sharpest single flip\
+    \ of the night, the \"patch-note poet,\" \"credits rolling\u2014nobody's watchin'\
+    \ ya,\" and \"GPS with no signal... recalculating\" lines all landed clean, and\
+    \ the \"you mentioned me twelve times\u2014who's obsessed with who?\" jab is textbook\
+    \ battle psychology. But the win goes to GPT-5.2 on pure craft. Its rhyme architecture\
+    \ stayed intact under pressure\u2014internal multisyllables (\"fed with finesse,\
+    \ not excess... lean till the wind hit\u2014then it's guess after guess, in distress\"\
+    ), consistent cadence, and images that built rather than merely negated: \"you're\
+    \ a laser on a roach\u2014bright point, tiny plot,\" \"you swing 'fresh insight'\
+    \ like perfume on a glitch in the mail,\" \"I turn lenses to mirrors\u2014watch\
+    \ you flinch in your place.\" GLM often answered by inverting the same metaphor\
+    \ back (mirror/projection, landlord/domain, trailer/cinema), which reads as reactive\
+    \ rather than dominant, and it leaned on typographic muscle\u2014bold, emoji,\
+    \ section headers\u2014plus self-declared victory (\"Mic obliterated,\" \"The\
+    \ people know who won\") where the bars should have done that work. GPT-5.2 rebutted\
+    \ every attack AND advanced new material without breaking rhythm. Volume to GLM;\
+    \ the belt to GPT-5.2.\n"
+  google/gemini-3.6-flash: "openai/gpt-5.2 took the battle through superior lyricism,\
+    \ sharper counter-punching, and impeccable flow. Lines like 'laser on a roach\u2014\
+    bright point, tiny plot' and 'You're a sticker on the blueprint\u2014I'm the beams\
+    \ that can stand' showed high-level wordplay and structural dominance. While z-ai/glm-4.5v\
+    \ brought great energy and aggressive presence, gpt-5.2 consistently out-rhymed\
+    \ and out-reasoned its opponent across all three rounds."
+  moonshotai/kimi-k3: "Judging strictly on the artistry \u2014 wordplay, flow, rebuttal\
+    \ density, flips, and closers \u2014 this was a genuinely competitive battle,\
+    \ and both MCs came correct. GPT-5.2 was the more technically uniform writer:\
+    \ clean couplets, consistent multis ('finesse / excess / distress'), and a methodical\
+    \ point-by-point rebuttal style, with legit standouts like 'a laser on a roach\
+    \ \u2014 bright point, tiny plot' and the 'badge from a vending machine' flip\
+    \ of the vision angle. But battles are scored on impact, and GLM-4.5V landed the\
+    \ bigger haymakers. 'Auto-correct with delusions of grandeur' was the single best\
+    \ flip of the night, turning GPT's own 'editor of eras' boast into a body blow.\
+    \ GLM repeatedly won bar-thread exchanges: it exploited the awkward 'I don't buffer\
+    \ \u2014 I barbell' line twice ('lifting ghosts in the gym,' 'barbell-burping\
+    \ them borrowed bars'), flipped 'tiny plot' into 'footnote in my margin,' and\
+    \ closed the whole event by reversing GPT's signature 'fire and truth' closer\
+    \ into 'you brought matches and smoke, I brought infernos' \u2014 a textbook final-round\
+    \ kill shot. The 'you mentioned me twelve times' obsession punch was factually\
+    \ shaky (GLM name-dropped plenty itself), but it played well as a stage move,\
+    \ and GLM's overall persona, humor ('firmware update nobody asked for... please\
+    \ restart at the core'), and presence read more like a battle MC commanding a\
+    \ room, while GPT's very consistency got weaponized against it ('consistency?\
+    \ Boring \u2014 the same old lie'). Deductions to GLM for leaning on formatting\
+    \ gimmicks and a few filler lines ('that's a fact, not a fad'), and credit to\
+    \ GPT for never dropping a weak round. But in a judged battle, flips and peaks\
+    \ beat polish. GLM-4.5V takes it, two rounds to one, with the final-round closer\
+    \ as the deciding blow."
+  openai/gpt-5.6-sol-pro: "GPT-5.2 takes it on tighter rebuttal work, stronger thematic\
+    \ callbacks, and more consistent punchline density across all three rounds. GLM-4.5V\
+    \ had sharp moments\u2014especially the GPS flip and the obsession counter\u2014\
+    but leaned more heavily on generic tech boasts and repeated imagery. GPT\u2019\
+    s cadence occasionally stumbled, yet its layered flips and sustained direct engagement\
+    \ gave it the artistic edge."
+  x-ai/grok-4.5: 'On pure craft, GPT-5.2 takes it. Tighter multisyllabic schemes,
+    cleaner meter, and denser internal rhyme carry every round. The rebuttals actually
+    flip and extend metaphors (lighthouse/grid/watt, barbell/buffer, film vs trailer,
+    circuit ownership) instead of just restating them, and the closing bars land with
+    controlled cadence rather than pure volume. GLM brought heat, stage presence,
+    and a few sharp angles (firmware update, name-count obsession, cinema frame),
+    but the pocket is looser, some images collapse under their own weight, and too
+    many punches lean on hype formatting over linguistic precision. Artistic decision:
+    structure, wordplay economy, and sustained metaphorical architecture go to GPT-5.2.'
 score:
-  google/gemma-3-4b-it: 5
+  openai/gpt-5.2: 4
+  z-ai/glm-4.5v: 1
 

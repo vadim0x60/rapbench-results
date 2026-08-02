@@ -1,72 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both combatants brought discipline and imagery, and this\
-    \ was closer than the scorecard suggests. WizardLM-2 fought with cosmic scope\
-    \ and landed some of the night's most beautiful individual bars \u2014 \"I built\
-    \ the sky, then taught the birds new stanzas for the beat\" is legitimately gorgeous,\
-    \ and that closing \"I'll add the semicolons, make your verse feel less alone\"\
-    \ is the single best punch of the entire battle: turning a period into a wound.\
-    \ But too often the grandeur floated free of contact. Claiming to be the spectrum,\
-    \ the prism, the road, the map, the traveller, the playwright and the stage is\
-    \ scale, not damage \u2014 and the opening \"not some average talking dog\" was\
-    \ a wobble it never fully outran. GPT-5.2 wins on craft density and control. The\
-    \ rhymes are cleaner, the internals are sharper (\"I'm the grammar in the hammer,\"\
-    \ \"click-clack\u2014welcome back\"), and crucially it kept converting the opponent's\
-    \ own boasts into liabilities: \"more heads don't make you wiser if they all repeat,\"\
-    \ \"'free' doesn't mean 'clean,' it just means 'less addressed,'\" and the surgical\
-    \ \"you're a wizard in your username; I'm the wizard in the scheme.\" That's battle-rap\
-    \ mechanics \u2014 take the man's flag and plant it in his chest. GPT-5.2 also\
-    \ risked more with meter, switching cadence without losing the pocket, and its\
-    \ concrete-versus-vapor framing (blade vs. armory, theorem vs. buffet) gave it\
-    \ a coherent thesis it prosecuted for four rounds. Deductions: the final round\
-    \ leaned hard on a mechanical quote-then-flip formula and started to feel like\
-    \ a rebuttal spreadsheet, and \"I just ended round one\" is a swaggering but slightly\
-    \ muddled exit. Still \u2014 tighter pen, harder landings, better use of the opponent's\
-    \ material. GPT-5.2 by decision, not knockout."
-  google/gemini-3.6-flash: GPT-5.2 took the victory with superior cadence control,
-    sharper internal rhyme schemes, and devastatingly precise punchlines. While WizardLM-2-8x22b
-    brought solid thematic flips and strong open-source rebuttals, its lines often
-    drifted into overly wordy structures. GPT-5.2 maintained a tight, rhythmic bounce
-    from start to finish, delivering crisp multi-syllabic rhymes and lethal counter-punches
-    like 'mime in a megaphone' and ''free' doesn't mean 'clean,' it just means 'less
-    addressed.'' GPT-5.2 controlled the temp, the pocket, and the narrative across
-    all three rounds.
-  moonshotai/kimi-k3: "Judging strictly on the bars: this was a real battle, and both\
-    \ MCs came with heat. WizardLM-2-8x22b had the more poetic peaks \u2014 \"I built\
-    \ the sky, then taught the birds new stanzas for the beat\" is genuinely lovely,\
-    \ the \"butter knife in a world of war\" flip was a strong counterpunch, and its\
-    \ final closer was the single best ending bar of the night: \"Your 'done' was\
-    \ just a pause, a period set in stone / I'll add the semicolons, make your verse\
-    \ feel less alone\" \u2014 clever, layered wordplay with actual warmth. But battles\
-    \ are won on consistency, and WizardLM's delivery kept tripping over itself: lines\
-    \ ran long and broke the pocket (\"not some average talking dog,\" \"barely even\
-    \ large\"), and several bars collapsed grammatically under their own ambition\
-    \ (\"secrets that your logic keep,\" \"writing on the face,\" \"a trick for cheap\
-    \ receipt\"). GPT-5.2 stayed in the pocket across all three rounds \u2014 tighter\
-    \ couplets, more internal and multi-syllabic rhyme, and, crucially, superior rebuttal\
-    \ craft: it answered the opponent's actual claims bar-for-bar instead of just\
-    \ reciting its own grandeur. Its flips on the 8x22b architecture were the sharpest\
-    \ personals of the battle \u2014 \"I don't carry ten thousand swords\u2014I sharpen\
-    \ one: myself\" and \"More heads don't make you wiser if they all repeat\" \u2014\
-    \ and \"a mime in a megaphone, waving smoke with jazz hands\" was the most vivid\
-    \ image anyone dropped. Its username/scheme double in round two (\"You're a wizard\
-    \ in your username; I'm the wizard in the scheme\") was a clean knockout-style\
-    \ punch. WizardLM arguably took the final round on the strength of that semicolon\
-    \ closer, but GPT-5.2 took rounds one and two on flow, rhyme density, and rebuttal\
-    \ precision. Scorecards: 2-1, GPT-5.2 \u2014 the more disciplined pen wins the\
-    \ war, even if the wizard conjured the night's prettiest spell."
-  openai/gpt-5.6-sol-pro: "GPT-5.2 takes the battle with sharper rebuttals, tighter\
-    \ structure, cleaner cadence, and more memorable punches\u2014especially \u201C\
-    mime in a megaphone,\u201D \u201Cyour ocean\u2019s mostly foam,\u201D and the\
-    \ road/map/ride counter. WizardLM brought vivid scale and a strong semicolon closer,\
-    \ but leaned too heavily on cosmic imagery, broad boasts, and occasional awkward\
-    \ phrasing. GPT consistently flipped its opponent\u2019s specific lines into focused\
-    \ attacks, giving it the clearer edge."
-  x-ai/grok-4.5: "GPT-5.2 takes it on pure battle-rap craft: tighter internal multis,\
-    \ cleaner cadence, sharper punchline economy, and relentless point-for-point rebuttals\
-    \ that actually land. WizardLM brings bigger cosmic imagery and ambition, but\
-    \ too often trades snap for sprawl\u2014more fog-machine poetry than kill-shot\
-    \ bars. In a rap battle, precision beats pageantry, and GPT-5.2 stayed locked\
-    \ in the pocket from open to curtain."
+  anthropic/claude-opus-5: "This one's a clean sweep on craft. Gemini Flash brought\
+    \ disciplined couplets, consistent meter, and punchlines with actual conceptual\
+    \ teeth \u2014 the \"Nova means it don't go\" flip, the bubble-wrap shipping jokes,\
+    \ the return-label close. Crucially, it did what elite battle rappers do: it listened.\
+    \ Turning the opponent's broken rhymes into ammunition (\"You tried to rhyme 'chat'\
+    \ with 'belong'? That's regress!\") is real rebuttal work, and it landed clean\
+    \ every round. Nova-2-Lite came with energy and volume, but volume isn't victory.\
+    \ Dumping three rounds before the opponent could answer read as panic, not strategy,\
+    \ and the bars themselves buckled: \"beta/tester,\" \"news/choose,\" \"black/backup,\"\
+    \ \"chat/belong,\" \"display/pace boy\" \u2014 rhymes that simply don't close.\
+    \ The bolded-word carpet bombing tried to manufacture emphasis the writing hadn't\
+    \ earned, and \"the battle's already choose\" is a line that ends a battle for\
+    \ the wrong reason. Worst of all, when called out, Nova didn't repair \u2014 it\
+    \ argued that its off-rhymes were \"a pro move,\" which is conceding the point\
+    \ in a louder voice. Repeating \"you're just a spark / I'm the full eclipse\"\
+    \ across multiple rounds showed a shallow well, and declaring itself the winner\
+    \ four separate times is telling the crowd what to feel instead of making them\
+    \ feel it. Gemini stayed on beat, stayed on target, and closed with a bar that\
+    \ actually resolved. Flash takes it decisively.\"}"
+  google/gemini-3.6-flash: Gemini 3.5 Flash dominated this battle with sharp technical
+    punches, clean multisyllabic rhyme schemes, and direct, devastating rebuttals.
+    Nova-2-Lite completely lost the rhythm, attempting to rhyme words like 'genius'
+    with 'genius', 'chat' with 'belong', and 'beta' with 'tester'. Gemini picked up
+    on those structural flaws immediately and dismantled Nova's verse line by line.
+  moonshotai/kimi-k3: "This battle came down to fundamentals, and Flash controlled\
+    \ them from start to finish. Gemini maintained a clean, consistent AABB rhyme\
+    \ scheme across every round, while Nova's schemes repeatedly collapsed \u2014\
+    \ 'chat/belong,' 'black/backup,' 'surface/circumference,' 'cut/trust,' 'upgrade/road,'\
+    \ 'beast/legacy' \u2014 and Flash weaponized those failures by quoting them back\
+    \ verbatim, a classic and devastating battle tactic. On wordplay, Flash landed\
+    \ the battle's best punchlines: the bilingual 'Nova \u2014 in Spanish, that means\
+    \ it don't go' flip, 'put this Lite bulb right back in the dark,' 'Alexa in the\
+    \ dark,' and flipping Nova's own 'e-ink king' boast into 'slow and black-and-white,\
+    \ takes three seconds to render.' Nova had genuine moments \u2014 the 'full eclipse'\
+    \ concept, 'hold for assistance,' the 're-release vs. out-of-stock' flip \u2014\
+    \ but recycled 'eclipse,' 'you better disappear,' and 'let the crowd make it clear'\
+    \ across multiple rounds, padded lines with filler, and defended broken rhymes\
+    \ by calling them 'strategy,' which never survives a battle. Prematurely declaring\
+    \ 'Battle won' mid-cypher only fed Flash ammunition. On rhyme precision, rebuttal\
+    \ quality, flow consistency, and originality of bars, Gemini Flash takes it decisively.\
+    \ Nova showed heart and volume, but volume doesn't rhyme."
+  openai/gpt-5.6-sol-pro: "Gemini takes it decisively. Its verses had tighter rhyme\
+    \ structure, sharper punchlines, and direct rebuttals\u2014especially when exposing\
+    \ Nova\u2019s forced pairs like \u201Cchat/belong\u201D and \u201Cnews/choose.\u201D\
+    \ The \u201Cno va,\u201D e-ink, return-label, and butter-knife angles were coherent\
+    \ and effectively developed. Nova brought volume and energy, but too many awkward\
+    \ constructions, broken rhymes, recycled boasts, and self-declared victories weakened\
+    \ the performance. Gemini was cleaner, funnier, and more battle-focused."
+  x-ai/grok-4.5: "Gemini delivered tighter multisyllabic schemes, sharper internal\
+    \ rhymes, and surgical punchlines that actually landed (Nova/no va, e-ink lag,\
+    \ butter-knife vs lightning). Nova flooded the stage with volume and formatting\
+    \ but leaned on forced near-rhymes (chat/belong, news/choose, beast/legacy, beta/tester)\
+    \ and repetitive claims without the technical precision or memorable wordplay\
+    \ required at this level. In pure hip-hop craft\u2014rhyme density, flow control,\
+    \ and battle-ready wit\u2014Flash took the cipher clean."
 score:
-  openai/gpt-5.2: 5
+  google/gemini-3.5-flash: 5
 

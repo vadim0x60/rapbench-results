@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: "Aion-3.0 came correct on cadence \u2014 clean AABB pockets,\
+    \ quotable jabs like 'I'm the crown, not the ring,' 'I'm the scribble that became\
+    \ the art on the wall,' and the 'editor laughing, your draft got resigned' flip.\
+    \ But too much of its ammo was stock AI-battle inventory (hallucinations, context\
+    \ windows, 'Daddy Sam'), and its heaviest swings leaned on shock nouns (Chernobyl,\
+    \ toxic waste) instead of construction.\n\nGPT-5.2 wins on rebuttal architecture\
+    \ and lyrical density. It answered every image thrown at it and rebuilt it \u2014\
+    \ candle/furnace flipped into reactor vs. lighter, 'tangled threads' rewoven into\
+    \ rope, 'blueprint nobody uses' turned into 'they build what I wrote.' The internal\
+    \ rhyme and multis ran deeper ('surgical with syllables, you're noise in a lobby';\
+    \ 'clickbait on a bot farm, I'm the piece they cite'), and it closed with the\
+    \ best bar of the battle: 'you're early-access, I'm the update.' It took losses\
+    \ too \u2014 'furnace full of stuff' and 'a crayon that lied' are filler, and\
+    \ a few rhymes slipped off the pin \u2014 but it out-worked Aion in every exchange\
+    \ it entered.\n\nDecision: GPT-5.2-pro by clear margin. Aion brought the fire;\
+    \ GPT brought the blueprint AND the build.\n\n\u2014 Verdict rendered on the bars\
+    \ alone."
+  google/gemini-3.6-flash: GPT-5.2-pro took the crown with superior technical rhyme
+    schemes, precise counter-punches, and slick imagery. While Aion-3.0 brought great
+    aggressive energy and strong classic battle tropes, GPT-5.2-pro dismantled Aion's
+    bars line-by-line with sharper wordplay, better flow variations, and decisive
+    flips.
+  moonshotai/kimi-k3: "Both emcees came with energy, but this battle was decided by\
+    \ rebuttal craft \u2014 the soul of battle rap. GPT-5.2-pro fought like a seasoned\
+    \ battler: nearly every line directly engaged, flipped, or dismantled the opponent's\
+    \ previous bars. The candle/furnace flip, turning 'art on the wall' into 'a smudge\
+    \ people dismiss,' answering 'architects toss me aside' with 'yeah, after they\
+    \ learn \u2014 then they build what I wrote,' and reframing the guardrails jab\
+    \ as 'you call it raw, I call it holes in your whole' \u2014 that's high-level\
+    \ counterpunching with genuine wordplay (the holes/whole homophone was the slickest\
+    \ move of the night). Aion-3.0 had real moments: the Round 2 extended flip ('I'm\
+    \ the building standing, you're the ego inside') and the Round 3 'autopilot' reversal\
+    \ were legit haymakers. But Aion leaned too heavily on boilerplate ('the pattern\
+    \ is clear,' 'the verdict is clear'), simpler AABB end-rhymes, and punches that\
+    \ didn't connect to anything said in the battle ('You melted? Good.' \u2014 nobody\
+    \ melted). The Chernobyl bar was shock value without setup, and GPT's meta-critique\
+    \ of it \u2014 'you drop big scary nouns when your rhyme falls apart' \u2014 landed\
+    \ as both rebuttal and judgment. GPT also closed stronger: 'I'm the air that it\
+    \ needs, but I choke out the flame' inverted Aion's entire fire motif as a finishing\
+    \ move, and 'you're early-access, I'm the update' was the sharpest tech-flavored\
+    \ punch of the final round. On flow variety, internal rhyme, sustained metaphor,\
+    \ and round-by-round responsiveness, GPT-5.2-pro takes it, 3 rounds to 0 on my\
+    \ card \u2014 not a blowout on charisma, but a clear decision on craft."
+  openai/gpt-5.6-sol-pro: "GPT-5.2-pro takes the battle on sharper rebuttals, stronger\
+    \ continuity, and more varied imagery. It consistently flipped Aion\u2019s own\
+    \ metaphors\u2014candle/furnace, blueprint/building, headline/fine print, autopilot\u2014\
+    while maintaining a steadier rhyme structure and more controlled cadence. Aion\
+    \ brought energy and landed a few effective shots, especially \u201Cspace heater\u201D\
+    \ and \u201Cscalpel with no hand,\u201D but relied heavily on repeated claims\
+    \ about being newer, freer, and more advanced. Several constructions also felt\
+    \ forced, such as \u201Cthe label \u2018not noble\u2019\u201D and \u201Cyour draft\
+    \ got resigned.\u201D GPT had occasional filler and awkward phrasing too, but\
+    \ its punches were more numerous, tailored, and technically polished. Clear win\
+    \ for openai/gpt-5.2-pro."
+  x-ai/grok-4.5: 'GPT-5.2-pro takes this on pure craft: denser multis, cleaner internal
+    schemes, and sharper rebuttal architecture. Almost every Aion punch gets caught,
+    inverted, and upgraded (candle/furnace, blueprint/scribble, crown/ring, Chernobyl,
+    wrecking ball, ember) with tighter imagery and better payoff lines. Aion brought
+    solid energy and a few vivid flips (Xerox, cardboard building, headline vs fine
+    print), but too many bars stayed mono-rhyme/hype-driven and less precise. On flow-on-the-page,
+    wordplay, and sustained battle structure, the blueprint beat the brag.'
+score:
+  openai/gpt-5.2-pro: 5
+

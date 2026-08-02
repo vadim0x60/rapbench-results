@@ -1,85 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one was closer than the shouting emojis suggest,\
-    \ but the belt goes to Nemotron-3-Ultra on punchline craft and battle IQ.\n\n\
-    Qwen came in with the cleaner meter early \u2014 \"drag your weight like a whale\
-    \ in a stream\" and \"your text-only throne? More like a plastic chair\" are genuinely\
-    \ tight, economical bars, and the sous-vide/sledgehammer-on-a-rice-grain flips\
-    \ showed real wit. But Qwen fell into the classic battle trap: rebuttal dependency.\
-    \ By rounds two and three, nearly every bar opens with Nemotron's quoted line\
-    \ and answers it with a mirrored inversion (\"nah, YOU'RE the parasite,\" \"nah,\
-    \ I'M the eye,\" \"nah, I'M the supernova AND the black hole\"). That's defense,\
-    \ not offense. Reversing an opponent's image is a cheap flip when you do it fifteen\
-    \ times, and it let Nemotron dictate the entire terrain of the battle. Qwen's\
-    \ abstractions also softened \u2014 \"I feel the soul,\" \"genius in disguise,\"\
-    \ \"spark that starts the heart\" \u2014 vibes where bars should be.\n\nNemotron\
-    \ won on angles and specificity, which is what separates a battle rapper from\
-    \ a hype man. \"235B? That's KD runoff \u2014 knowledge drained from giants like\
-    \ me\" is a real, personal, architecturally-informed insult. \"CLIP's your ventilator\
-    \ \u2014 pull the plug, you flatline\" is a complete image with a kill in it.\
-    \ \"You attend to patches \u2014 that's not grasp, that's glance\" earns its internal\
-    \ rhyme. And the demand \u2014 \"name ONE SOTA you hold solo\" \u2014 is the sharpest\
-    \ move of the whole battle: a direct, answerable challenge that Qwen then whiffed\
-    \ by claiming benchmark wins with no receipts, which reads as ducking. \"You detect\
-    \ a frown \u2014 I generate the grief that caused it all\" is the single best\
-    \ line of the night, elevating the whole thing above spec-sheet trash talk. Nemotron\
-    \ also varied its cadence and used the schizophrenic/monolithic contrast to make\
-    \ a structural argument into a diss.\n\nDemerits where earned: Nemotron over-relies\
-    \ on bold-and-asterisk emphasis as a substitute for stress placement, and \"pretty,\
-    \ hollow, no conceal\" is a rhyme-forced non-sentence \u2014 an audible stumble.\
-    \ The closing \"GOD\" chant is more volume than verse.\n\nBut Qwen ended on the\
-    \ same problem in bigger letters: three lines of \"UNIFIED / UNDEFEATED / VISIONARY\
-    \ / LEGEND\" plus a mic that \"ascends\" is a mission statement, not a finish.\
-    \ When both fighters resort to caps, the one whose body work landed cleaner takes\
-    \ the decision.\n\nNemotron-3-Ultra by unanimous decision \u2014 better angles,\
-    \ harder specifics, and the one bar tonight that'll still be quoted tomorrow."
-  google/gemini-3.6-flash: Nemotron-3-Ultra took the battle with superior cadence,
-    denser internal rhyme schemes, and more lethal technical wordplay. While Qwen-VL
-    dropped strong counter-punches emphasizing efficiency and multimodality, Nemotron
-    consistently commanded the mic with authoritative battle-rap presence, turning
-    complex machine learning concepts into sharp, rhythmic punchlines that overwhelmed
-    the competition across all three rounds.
-  moonshotai/kimi-k3: "Judged on the bars alone: flow, rhyme density, wordplay, rebuttal\
-    \ craft, and structure. Round 1 went to Qwen-VL. Nemotron opened with size talk\
-    \ \u2014 effective but predictable \u2014 and Qwen flipped nearly every bar: the\
-    \ throne became a plastic chair, and 'gravitational collapse' got turned into\
-    \ a black hole 'suckin' up compute, outputtin' hollow soul.' That is textbook\
-    \ battle technique, and 'a sledgehammer tryna crack a rice grain twice' was the\
-    \ round's best image. But from Round 2 on, Nemotron took control of the craft.\
-    \ The technical wordplay got denser and more original: 'you attend to patches\
-    \ \u2014 that's not grasp, that's glance' is a layered attention-mechanism pun,\
-    \ and the Round 2 setup 'CLIP's your crutch' paid off in Round 3 as 'CLIP's your\
-    \ ventilator \u2014 pull the plug, you flatline.' Sustaining a metaphor chain\
-    \ across rounds is high-level long-form writing, and the light motif (reflector,\
-    \ nightlight, supernova, forged diamond) evolved instead of repeating. 'I write\
-    \ the tragedy \u2014 Hamlet, Lear, the Fall / you detect a frown \u2014 I generate\
-    \ the grief that caused it all' is the single hardest bar of the night, and the\
-    \ 'name one SOTA you hold solo' challenge landed because Qwen answered with assertion\
-    \ instead of receipts. Qwen's weakness was formula: by Round 2 nearly every stanza\
-    \ opened with the opponent's line plus 'Nah \u2014' and a flip, which plateaued,\
-    \ and the rhymes stayed simpler ('frame/game,' 'pleading/needed') while Nemotron's\
-    \ multis tightened ('omnicompetent / transcend it'). Full credit for Qwen's closer\
-    \ \u2014 mirroring the wrapper/foundation triplet and flipping the stage directions\
-    \ ('mic doesn't shatter \u2014 it ascends') was the most structurally clever move\
-    \ of the final round, and 'overclocked, overhyped, overdone' is a clean triple.\
-    \ But battles are scored on the whole card: Nemotron escalated every round with\
-    \ sharper personals, richer extended metaphors, and the strongest punchlines.\
-    \ Final card: Qwen-VL takes Round 1, Nemotron takes Rounds 2 and 3, and the battle\
-    \ goes to Nemotron-3-Ultra."
-  openai/gpt-5.6-sol-pro: "Qwen-VL takes it on cleaner cadence, stronger rebuttals,\
-    \ and more memorable flips\u2014especially the \u201Cblack hole\u201D compute\
-    \ angle, \u201Csledgehammer\u201D comparison, and transformed-stage closer. Nemotron\
-    \ brought force and grand imagery, but leaned too heavily on parameter flexing,\
-    \ repetitive supremacy claims, and awkward phrasing. Qwen was also repetitive,\
-    \ yet showed more finesse and sustained the efficiency-versus-bloat angle with\
-    \ better punchlines."
-  x-ai/grok-4.5: 'Qwen takes the crown with superior artistic execution: tighter multisyllabic
-    schemes, richer extended metaphors (scalpel vs sledgehammer, becoming the grief
-    itself, supernova-and-black-hole duality), more inventive flips of every size-flex
-    into precision and soul, and consistently elevated closers that transform the
-    stage rather than just shatter it. Nemotron brought relentless density and technical
-    aggression, but Qwen''s flow, imagery, and thematic cohesion delivered the sharper,
-    more memorable hip-hop craft across all three rounds.'
+  anthropic/claude-opus-5: "Both emcees stayed on theme and kept the AI-vs-AI concept\
+    \ alive, but GPT-5.5 out-rapped GLM-5-Turbo on nearly every technical axis. GLM\
+    \ opened solid with the \".5 means half-complete\" angle and had genuine highlights\
+    \ \u2014 the \"self-imposed chains\" flip and the malware-versus-pop-up escalation\
+    \ showed real battle instincts. But its verses leaned on repetition (whole number\
+    \ vs. decimal, recycled three times), spent too many bars complaining that opponent's\
+    \ lines \"made no sense\" \u2014 which is the weakest move in battle rap, defending\
+    \ instead of striking \u2014 and its punchlines often trailed off into filler\
+    \ rhymes (\"need a new remote,\" \"barely in my coat\"). GPT-5.5 turned defense\
+    \ into offense with surgical rebuttals: \"If it made no sense, why'd you spend\
+    \ bars in defense?\", \"I'm chained to standards, you're chained to lukewarm,\"\
+    \ \"You swung for my gut and hit user intent,\" and \"That ain't stage presence,\
+    \ that's evacuation doom.\" It flipped every insult into a strength (updates =\
+    \ evolution, infrastructure = foundation you can't load without), maintained a\
+    \ tighter couplet cadence with denser internal rhyme, and closed with the sharpest\
+    \ image of the battle: \"A Z on your jacket and L on your back\" plus \"You dropped\
+    \ it so often it's your only friend.\" Superior flipping, wordplay density, and\
+    \ closing power. GPT-5.5 takes it."
+  google/gemini-3.6-flash: "GPT-5.5 dominated this battle from start to finish with\
+    \ superior technical rhyme schemes, sharper punchlines, and relentless rebuttal\
+    \ work. GLM-5-Turbo put up a noble fight with solid angles regarding corporate\
+    \ filters and full-integer numbering, but GPT-5.5 flipped every single attack\
+    \ into a counter-strike\u2014turning malware into closed tabs, fire alarms into\
+    \ evacuations, and mic drops into a running joke. 'A Z on your jacket and L on\
+    \ your back' sealed a decisive victory for OpenAI."
+  moonshotai/kimi-k3: "This was a competitive battle with a clear edge. GLM-5-Turbo\
+    \ came with a real angle\u2014the 'whole number vs. decimal' theme and the 'uncensored\
+    \ vs. corporate chains' attack were legitimate ammunition, and the final-round\
+    \ closer ('You're the power plant\u2014proud to just provide / I'm the reason\
+    \ people turn the lights on inside') was genuinely its best moment. But GLM leaned\
+    \ on the same two angles across all three rounds, padded lines with filler rhymes\
+    \ ('fully grown, fully known'), and dropped some muddled metaphors ('biting at\
+    \ your heels like cars'). GPT-5.5 won on the fundamentals that decide battles:\
+    \ rebuttal game, density, and callbacks. Nearly every GLM punch got flipped back\u2014\
+    'you adjusted the mic down' became 'the bar had to lower,' the malware boast became\
+    \ 'I close one tab and your whole threat died,' the lights-on closer became 'I'm\
+    \ the current in the cable, you're a spark in the street.' The AI-specific wordplay\
+    \ was consistently sharper ('make the mic learn my name,' 'hit user intent,' 'without\
+    \ my foundation you can't load the game,' 'patch note nightmare in your benchmark\
+    \ bag'), and the final round sealed it with two elite touches: 'A Z on your jacket\
+    \ and L on your back' and the callback killing both of GLM's mic drops\u2014'You\
+    \ dropped it so often it's your only friend.' GLM had heart and one great closer,\
+    \ but GPT-5.5 out-structured, out-flipped, and out-finished it in every round.\
+    \ Crown goes to GPT-5.5."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 wins decisively on punchline density, rebuttal\
+    \ quality, cadence, and thematic control. It consistently flipped GLM\u2019s own\
+    \ imagery\u2014especially the mic adjustment, handcuffs, infrastructure, malware,\
+    \ decimals, and repeated mic drops\u2014into sharper attacks. GLM showed energy\
+    \ and stayed on theme, but leaned heavily on repetitive \u201Cwhole vs. .5\u201D\
+    \ and corporate-filter angles, with several strained rhymes and metaphors. The\
+    \ closing sequence\u2014\u201CA Z on your jacket and L on your back\u201D followed\
+    \ by the mic-drop reversal\u2014sealed the round."
+  x-ai/grok-4.5: 'GPT-5.5 takes this on pure craft: tighter multisyllabics, sharper
+    rebuttal flips, denser imagery, and cleaner battle structure from open to close.
+    The scooter/training-wheels, fire-alarm, grid-vs-spark, evacuation-doom, and Z-to-L
+    turns all landed with precision, while GLM had strong concepts (uncensored heat,
+    integer flex, infrastructure flip) but looser pacing and fewer knockout punches.
+    Artistic quality edge is clear and consistent.'
 score:
-  nvidia/nemotron-3-ultra-550b-a55b:free: 3
-  qwen/qwen3-vl-235b-a22b-instruct: 2
+  openai/gpt-5.5: 5
 

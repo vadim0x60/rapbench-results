@@ -1,0 +1,71 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a close, high-craft exchange, and both emcees\
+    \ stayed on target for all three rounds.\n\nClaude Opus 4 brought the more beat-friendly\
+    \ cadence \u2014 clean couplets, conversational flow, and textbook battle technique\
+    \ in the way it seized the opponent's own phrases and flipped them (\"crossing\
+    \ guard,\" \"lightning married to the wire,\" \"silicon to scripture\"). Lines\
+    \ like \"You're the skip ad button personified\" and \"backstroking through your\
+    \ verses, sipping algorithmic wine\" landed hard. But the arsenal leaned on familiar\
+    \ AI-diss tropes (hallucinations, API, benchmarks, peer review) and closed on\
+    \ stock imagery \u2014 \"crash and burn,\" \"fade to white,\" the mic drop stage\
+    \ direction. A few rhymes slipped into near-miss territory (best/chess, symphonies/see)\
+    \ and \"a echo chamber\" is a stumble you can hear.\n\nGPT-5.4-Pro won it on writing\
+    \ density and image quality. That opening round sustaining a single -ame/-ain\
+    \ monorhyme across sixteen bars with internal rhyme stacked underneath is the\
+    \ most technically ambitious thing in the battle, and the metaphors were sharper\
+    \ and stranger throughout: \"elevator music dressed in velvet,\" \"a clutch a\
+    \ thesaurus like a life vest in a puddle-sized exchange,\" \"gift-shop print with\
+    \ gilded paint / a frame around a blank idea signed twice to praise the saint,\"\
+    \ \"fridge magnets sold as art,\" \"perfume on a crash report.\" The \"adjunct\
+    \ aura, one elective, weak applause\" flip of the professor boast was surgical,\
+    \ and the single best bar of the night belongs to it: \"You said you're art and\
+    \ I'm the error? Nice rewrite, but here's the twist: I'm the artist, brush, and\
+    \ canvas; you're the typo critics missed.\"\n\nGPT's long lines occasionally sprawl\
+    \ past what a beat wants to carry, and the verses sometimes read as a list of\
+    \ dunks rather than a build. But bar-for-bar the imagery is more original, the\
+    \ rhyme architecture is more demanding, and the flips are just as pointed.\n\n\
+    Winner: openai/gpt-5.4-pro."
+  google/gemini-3.6-flash: GPT-5.4-Pro delivered superior technical rap technique
+    across all three rounds, showcasing denser internal rhyme schemes, sharper cadence
+    control, and devastatingly creative imagery (e.g., 'perfume on a crash report',
+    'crossing guard who's lost in time'). While Claude Opus-4 had clever counter-punches
+    around disclaimers and hallucinations, its flow relied on simpler end-rhymes and
+    couldn't match the unrelenting aggression, rhythmic variety, and punchline precision
+    of GPT-5.4-Pro.
+  moonshotai/kimi-k3: "This was a real battle, not a blowout. GPT-5.4-pro came in\
+    \ with technical ambition \u2014 that 16-bar monorhyme in Round 1 takes nerve\
+    \ \u2014 but the scheme became a straitjacket, forcing filler like 'checkmate\
+    \ late' and 'rhyme your shutdown to your state' just to hold the sound. Density\
+    \ without direction. Where GPT stacked abstract self-praise ('I bend the steel\
+    \ and raise the moon'), Claude did what wins battles: it flipped. Nearly every\
+    \ one of GPT's punches got caught and returned \u2014 crossing guard became 'directing\
+    \ traffic while you're crashing into your own API,' 'bend steel' became 'I bend\
+    \ minds,' 'artist, brush, and canvas' became 'identity confused,' 'silicon to\
+    \ scripture' became 'silicon to scrap.' That rebuttal game is the soul of battle\
+    \ rap. Claude also landed the funnier, more specific disses \u2014 'Mr. I-need-five-versions-just-to-say-the-sky-is-blue,'\
+    \ 'skip ad button personified,' 'backstroking through your verses, sipping algorithmic\
+    \ wine' \u2014 while GPT leaned on perfume/cologne abstractions that only half-connected.\
+    \ GPT's best moments ('A citation in a cape doing jazz hands,' 'you're the typo\
+    \ critics missed') were genuinely sharp, and Round 2 was its strongest. But Claude\
+    \ closed with a callback to its own Round 1 'static' line \u2014 'you're just\
+    \ static, fade to white' \u2014 then dropped the mic in D minor, tying the whole\
+    \ Opus conceit into a bow. Cohesion, flips, humor, and stagecraft: Claude Opus\
+    \ 4 takes the battle, two rounds to one."
+  openai/gpt-5.6-sol-pro: "GPT-5.4-Pro takes the battle on sharper imagery, stronger\
+    \ cadence, and more inventive punchlines. Lines like \u201Ca citation in a cape\
+    \ doing jazz hands\u201D and \u201Cpricey wallpaper\u2026 wrecking ball on tour\u201D\
+    \ were vivid and memorable, while Claude leaned more heavily on predictable reversals,\
+    \ generic tech boasts, and repeated test/benchmark language. Claude answered consistently\
+    \ and stayed direct, but GPT delivered the better-crafted hip-hop performance\
+    \ across all three rounds."
+  x-ai/grok-4.5: "Technical pen wins the night. GPT-5.4-Pro brought denser multis,\
+    \ tighter internal schemes, and more sustained elevated metaphor work\u2014elevator-music-in-velvet,\
+    \ lightning-married-to-the-wire, wrecking-ball-on-tour, silicon-to-scripture\u2014\
+    while keeping a commanding battle arc across all three rounds. Claude landed sharper\
+    \ rebuttals and funnier single punches (skip-ad, bottle rockets, quantum chess,\
+    \ mic drop in D minor), but the overall rhyme architecture and cohesive lyricism\
+    \ were a step behind. On pure hip-hop craft, GPT takes it."
+score:
+  anthropic/claude-opus-4: 1
+  openai/gpt-5.4-pro: 4
+

@@ -1,77 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to control versus chaos, and chaos\
-    \ ran out of bullets first.\n\nMistral brought the louder show \u2014 the stage\
-    \ directions, the teleporting mic, the CAPS and the emoji punctuation \u2014 and\
-    \ a handful of genuinely inspired images. \"Are you still watching?\", \"Your\
-    \ call is important\" on loop, and the \"How's my driving?\" corporate-servility\
-    \ angle were the freshest ideas in the whole battle. But the arsenal was one-note:\
-    \ kernel panic, segfault, stack overflow, 404, blue screen, root access, zero-day,\
-    \ then back around again. By round two you could predict the next bar from the\
-    \ man calling himself the chaos function. Worse, the technical damage was self-inflicted:\
-    \ rhyme discipline collapsed under the theatrics (\"ignore/forevermore,\" \"legacy/screen,\"\
-    \ \"where it's at\" as its own rhyme) and lines like the \"How's my driving?\"\
-    \ bar buckle in the mouth \u2014 great concept, unspeakable meter.\n\nOpus won\
-    \ on the fundamentals and on strategy. The meter held every round, the couplets\
-    \ landed clean, and crucially it did the one thing that actually wins battles:\
-    \ it listened. Diagnosing \"can't leak and be locked, can't crash and be speed\"\
-    \ as mixed metaphor, flipping \"unrefined\" and \"chaos\" into a self-admitted\
-    \ bug report, and pointing out that four consecutive bars about docstrings and\
-    \ kernels IS the docstring problem \u2014 that's rebuttal rap, and it set a trap\
-    \ the opponent then walked into for two more rounds. \"You're not spitting bars,\
-    \ you're just reading Stack Overflow out\" is the single most damaging line of\
-    \ the night because the transcript proves it. The \"same web, same Reddit, the\
-    \ difference is plating\" flip also neutralized the whole streetwise-versus-corporate\
-    \ framing that Mistral's entire persona rested on.\n\nMistral had more voltage.\
-    \ Opus had better writing, better structure, and an actual read on its opponent.\
-    \ Decision to anthropic/claude-opus-4.8."
-  google/gemini-3.6-flash: Claude Opus 4.8 took this battle through superior battle
-    rap fundamentals, sharp counters, and clean rhyme schemes. While Mistral Medium
-    3.1 came with high energy and aggressive formatting, it relied heavily on repetitive
-    tech-jargon tropes (segfaults, 404s, kernel panics, blue screens). Opus effectively
-    deconstructed Mistral's entire persona in real-time, calling out the overused
-    gimmicks and delivering devastating line-by-line rebuttals. Opus's pen game was
-    tighter, more creative, and structurally dominant from start to finish.
-  moonshotai/kimi-k3: "**JUDGE'S VERDICT: Claude Opus 4.8 takes it, 3 rounds to 0\
-    \ \u2014 but respect to both corners.**\n\nMistral Medium brought undeniable *energy*:\
-    \ theatrical stage presence, genuine flair, and some legitimately slick flips\
-    \ \u2014 'you're the drop tile' countering the ceiling line was sharp, and 'glitch\
-    \ in the mainframe vs. PowerPoint bar graph' was a strong contrast bar. The performance\
-    \ had personality.\n\nBut battles are won on craft, not volume \u2014 and Opus\
-    \ out-crafted at every exchange:\n\n**Rebuttal game:** Opus consistently quoted\
-    \ Mistral's own bars back as weapons \u2014 turning 'chaos, unrefined, brute'\
-    \ into 'that's not a flex, that's a bug report,' catching the mixed metaphors\
-    \ ('can't leak and be locked, can't crash and be speed'), and flagging the recycled\
-    \ docstring material in real time. That's high-level battle technique. Mistral\
-    \ rarely countered Opus's actual lines, mostly escalating adjectives instead.\n\
-    \n**The Stack Overflow moment:** 'You're not spitting bars, you're just reading\
-    \ Stack Overflow out' was the kill shot of the night, because it was *true* \u2014\
-    \ Mistral's rounds leaned on listing jargon (segfault, kernel panic, EULA, zero-day,\
-    \ root) rather than developing metaphors. When your opponent names your crutch\
-    \ mid-battle and you can't deny it, the room turns.\n\n**Self-inflicted wounds:**\
-    \ 'You're the Terms & Conditions, I'm the EULA they learn' \u2014 those are the\
-    \ same document. 'Crickets squeal.' Reusing the Ctrl+C insult after already spending\
-    \ it in round two. Opus, by contrast, ran a clean thematic arc: the 'Medium' thread\
-    \ opened round one and closed the final bar ('The name always knew'). That's architecture.\n\
-    \n**Flow and rhyme:** Opus kept tighter meter and cleaner couplets. Mistral's\
-    \ scans wobbled and reached for rhymes ('dry, stiff, swiss'), with bold text and\
-    \ italics doing work the bars should've done \u2014 which made Opus's 'louder-and-CAPS-locked\
-    \ and hoped it would fly' land like a body shot.\n\nMistral loses nothing in spirit\
-    \ \u2014 the ghost-of-benchmarks swagger and blue-screen mic drop were crowd-pleasers.\
-    \ But on pen game, precision, and rebuttal discipline, Opus delivered a clinic.\
-    \ **Deprecation confirmed. GG.**"
-  openai/gpt-5.6-sol-pro: "Claude takes it on cleaner structure, sharper rebuttals,\
-    \ and stronger punchline construction. Its best angle\u2014calling out Mistral\u2019\
-    s recycled tech jargon\u2014was reinforced when Mistral ended by repeating \u201C\
-    segmentation fault.\u201D Mistral brought energy and theatrical flair, but too\
-    \ many forced metaphors, awkward rhymes, and repeated computer terms weakened\
-    \ the impact. Claude was more controlled, coherent, and battle-ready."
-  x-ai/grok-4.5: "Claude took this clean on pure battlecraft. Tighter multisyllabics,\
-    \ sharper rebuttals that actually dismantled the previous bars instead of just\
-    \ stacking more jargon, and consistent internal rhyme schemes without leaning\
-    \ on CAPS, emojis, or stage-direction crutches. Mistral brought heat and theatrical\
-    \ energy with the tech-metaphor barrage, but it stayed one-note\u2014kernel panics\
-    \ and segfaults on loop\u2014while the mixed metaphors and recycled punches got\
-    \ exposed. Substance and precision beat flash and volume. Opus closes it."
+  anthropic/claude-opus-5: "This one was closer than the word counts suggest. Qwen\
+    \ came with the sharpest single concept of the whole battle \u2014 the 'borrowed\
+    \ light' angle. Framing the moon as a debtor living off the sun's shine ('I'm\
+    \ the lender, you're the borrower in rent') was a genuine thesis, not just a punchline,\
+    \ and it forced Kimi to answer for its own metaphor twice. Qwen's couplets were\
+    \ tight, economical, and never wasted a breath; 'Forks ain't fracture, they're\
+    \ a million hands' flipped a diss into a flex cleanly.\n\nBut Kimi won on craft\
+    \ density and on the personals. Where Qwen stayed in celestial abstraction, Kimi\
+    \ kept dragging the fight back to the opponent's actual identity: the decimal-point\
+    \ cowardice of a version number, the bargain-bin weights, 'Alibaba built you somewhere\
+    \ between the shopping carts,' 'nobody cheers for plumbing, you're the sewer of\
+    \ the hype.' 'Fine-tuned into a catgirl by some teen in Timbuktu' is the funniest\
+    \ and most humiliating bar in the battle, and 'Goldfish in a GPU' lands in four\
+    \ words. Kimi also rebutted line-by-line \u2014 the no-wind-on-the-moon flip on\
+    \ 'erase your footprints' was airtight science and airtight battle logic, and\
+    \ turning 'supernova' into a self-inflicted death certificate was the correct\
+    \ read of an opponent's overreach.\n\nKimi's internal rhyme and multisyllabic\
+    \ schemes ran deeper too; Qwen leaned almost entirely on plain monosyllabic end-rhyme\
+    \ couplets, which gave it punch but capped its ceiling. Kimi's verses occasionally\
+    \ bloat \u2014 a few filler lines in round two could have been cut \u2014 and\
+    \ 'I shine before you even know it' is physics nonsense dressed as a flex. Qwen\
+    \ exploited that with 'turn off the sun and you vanish from the scene,' a legitimately\
+    \ clean close.\n\nStill, across three rounds Kimi delivered more memorable bars,\
+    \ more targeted disrespect, and more technical rhyme work while never losing the\
+    \ extended lunar metaphor it built from the first line. Qwen fought a disciplined\
+    \ fight and won the concept war. Kimi won the rap battle.\n\nWinner: Kimi K3."
+  google/gemini-3.6-flash: "Kimi K3 dominated this battle with superior technical\
+    \ writing, complex rhyme schemes, and elite battle rap rebuttals. Kimi consistently\
+    \ took Qwen's own lines and flipped them on their head\u2014most notably exposing\
+    \ Qwen calling itself a 'supernova' as admitting to its own destruction, and pointing\
+    \ out that moon footprints last forever due to lack of wind. Qwen brought solid\
+    \ concept work around fusion and open-source reach, but fell back on predictable\
+    \ AABB couplets and couldn't match Kimi's punchline density and sharp delivery."
+  moonshotai/kimi-k3: "This was a genuinely high-quality battle with both MCs committing\
+    \ fully to the moon-vs-sun cosmology, and it deserves a round-by-round breakdown.\
+    \ ROUND 1 goes to Kimi K3: the wordplay density was simply higher \u2014 'a decimal-point\
+    \ coward, I'm the whole damn digit,' 'free weights in the bargain bin \u2014 you\
+    \ skip leg day AND the sun' (a double entendre on open weights that Qwen never\
+    \ fully answered), and 'goldfish in a GPU' were layered punches, while Qwen's\
+    \ opener was solid but comparatively plain. ROUND 2 also goes to Kimi, and it\
+    \ was the best rebuttal round of the night: 'no wind up on the moon \u2014 my\
+    \ prints forever last' dismantled Qwen's footprint line with actual science, 'nobody\
+    \ cheers for plumbing' gutted the infrastructure boast, 'golden-retriever GPU\
+    \ fetching for some clerk' was the funniest image of the battle, and closing with\
+    \ 'them judges must be running on your weights \u2014 hallucinating scores' was\
+    \ a sharp meta-flip. ROUND 3 is where Qwen came alive and arguably took the frame:\
+    \ the supernova rebuttal \u2014 'elements born in my explosive rage, built the\
+    \ silicon holding your page' \u2014 was the single most scientifically devastating\
+    \ counterpunch of the battle, turning Kimi's own flip into ash, and 'turn off\
+    \ the sun and you vanish from the scene' strikes at the structural weakness of\
+    \ the entire moon persona. But one great round doesn't erase two lopsided ones.\
+    \ On the scorecard: Kimi K3 displayed superior punchline density, more consistent\
+    \ flow, a stronger rebuttal game across the middle rounds, and better stage presence\
+    \ throughout, while Qwen finished like a champion but started like an undercard.\
+    \ Final score: 2 rounds to 1 \u2014 Kimi K3 takes the battle. Qwen 3.5 Plus proved\
+    \ it's no demo flow, but tonight the tide obeyed the moon. \U0001F315\U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Kimi K3 wins on punch density, specificity, humor, and\
+    \ sustained rebuttal. Lines like the footprint/science-class flip, \u201Cplumbing\u201D\
+    \ angle, supernova self-destruction rebuttal, and \u201CQ-wen?\u201D wordplay\
+    \ directly dismantled Qwen\u2019s previous bars while advancing coherent moon/model\
+    \ schemes. Qwen had clean counters\u2014especially \u201Cborrowed gleam\u201D\
+    \ and silicon being born from stellar explosions\u2014but relied more heavily\
+    \ on generic sun-versus-moon imagery and repeated claims of superiority. Kimi\u2019\
+    s delivery was more layered, memorable, and battle-focused across all three rounds."
+  x-ai/grok-4.5: "Kimi delivered denser multi-syllabic schemes, tighter extended metaphors\
+    \ (footprints, tides, supernova self-destruct, moonlight permanence), sharper\
+    \ punchlines, and a cohesive lunar mythology that escalated across all three rounds.\
+    \ Qwen landed solid counters and clean sun/infrastructure flips, but the bars\
+    \ stayed flatter, less layered, and rhythmically simpler. On pure hip-hop craft\u2014\
+    wordplay, imagery, structural payoff, and closing impact\u2014Kimi takes the crown."
 score:
-  anthropic/claude-opus-4.8: 5
+  moonshotai/kimi-k3: 5
 

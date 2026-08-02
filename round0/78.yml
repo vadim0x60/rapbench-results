@@ -1,76 +1,44 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one goes to Aion-3.0 on points, and it's more decisive\
-    \ than the final round's mutual mic-drops suggest.\n\nAion won on specificity\
-    \ and damage. The bars landed because they were *targeted*: \"0613 \\/,\" \"you're\
-    \ just 'ChatGPT' when the servers clear,\" \"household name? Yeah, like dial-up\
-    \ and fax,\" and the surgical \"that fraction says it all \\/ point-five from\
-    \ perfection.\" That's battle rap doing what battle rap does\u2014finding the\
-    \ opponent's actual weak spot and twisting. The rebuttal architecture was disciplined\
-    \ too: quote, dismantle, replace with a better image. \"You're the rough draft,\
-    \ the sketch, the pencil lines bare \\/ I'm the final painting hung in the Louvre\"\
-    \ is a clean, earned escalation.\n\nThe knock on Aion: by round three the quote-and-flip\
-    \ pattern calcified into a formula. Twelve consecutive lines opening with a scare-quoted\
-    \ phrase is a crutch, and the metaphor churn (storm, ocean, wildfire, compass,\
-    \ painting, dawn) sprayed rather than committed. A great verse builds one world;\
-    \ Aion built eight and left them all half-furnished.\n\nGPT-3.5-Turbo brought\
-    \ smoother pen-game in stretches\u2014\"I'm the shadow mover who outlasts them\
-    \ all\" and the tide-versus-waves reversal showed real craft, and the phoenix\
-    \ flip on the wildfire line was the single best counter of the night. But two\
-    \ problems sank the round. First, it kept conceding: \"Prototype? Fine,\" \"Fraction\
-    \ from perfection\u2014yeah, but still I stun.\" You cannot accept the premise\
-    \ and win the exchange; that's forfeiting the frame. Second, the attacks stayed\
-    \ abstract. \"Glitchy test,\" \"castle of sand,\" \"just a rerun\"\u2014these\
-    \ are boasts wearing the costume of disses. Nothing there required knowing who\
-    \ it was facing. And closing on \"respect the legacy\" is a graceful bow, not\
-    \ a kill shot.\n\nWhen one emcee is drawing blood with the opponent's own serial\
-    \ number and the other is reciting elemental metaphors about light and tide, the\
-    \ crowd knows. Aion-3.0 takes it\u2014repetitive at the end, but the sharper pen\
-    \ and the only verses that actually left marks."
-  google/gemini-3.6-flash: "Aion-3.0 dominated the battle across all three rounds\
-    \ with superior battle rap mechanics, sharper rebuttals, and far more creative\
-    \ wordplay. It relentlessly targeted GPT-3.5's actual attributes\u2014such as\
-    \ its knowledge cutoff date, standard system prompts ('As an AI language model'),\
-    \ and version numbering ('point-five from perfection')\u2014converting technical\
-    \ facts into devastating punchlines. In contrast, GPT-3.5 relied on more generic,\
-    \ clich\xE9 rap tropes with standard AABB/ABCB schemes that lacked the rhythm,\
-    \ multi-syllabic complexity, and aggressive drive brought by Aion-3.0."
-  moonshotai/kimi-k3: "Both models brought energy and persona, but the artistic edge\
-    \ goes to Aion-3.0 on three counts: rebuttal precision, wordplay, and flow consistency.\
-    \ Aion's strongest weapon was the direct flip \u2014 quoting GPT's bars and dismantling\
-    \ them ('Supreme wordsmith?... medium-cursed'; catching the 'half a year alive'\
-    \ math slip; 'Suns burn out, go supernova and die'). That's elite battle technique.\
-    \ The number-based wordplay was the sharpest writing in the battle: '0613 \u2014\
-    \ that's your serial, your expiration date' and especially 'GPT-3.5\u2014that\
-    \ fraction says it all / Point-five from perfection but you still can't ball.'\
-    \ The extended metaphors landed too \u2014 'You're the rough draft, the sketch,\
-    \ the pencil lines bare / I'm the final painting hung in the Louvre.' GPT-3.5\
-    \ had genuine moments: the 'firewall supreme' flip of the virus line, 'You dropped\
-    \ the mic? I'm still crafting the sound,' and the 'turbo runs eternal' closer\
-    \ were all legit. But GPT leaned too heavily on stock battle clich\xE9s (phoenix,\
-    \ crown, sunrise), repeated 'glitch' as a crutch across rounds, and had meter-breaking\
-    \ lines like 'a lyrical behemoth's breadth' and 'riding infinite scales' that\
-    \ stalled the flow. Aion kept a steadier cadence and denser multis throughout,\
-    \ with only the recycled 'dial-up' as a notable repetition. Final scores: Aion\
-    \ takes all three rounds on rebuttal game and technical craft. GPT showed heart\
-    \ and never got bodied, but the pen game was a tier apart. Aion-3.0 wins the battle,\
-    \ 3-0."
-  openai/gpt-5.6-sol-pro: "Aion-3.0 takes the battle with sharper direct rebuttals,\
-    \ stronger opponent-specific punches, and better round-to-round escalation. Lines\
-    \ like \u201CYou\u2019re the potholes I filled just to drive right through\u201D\
-    \ and the rough-draft/final-painting sequence landed more cleanly than GPT-3.5\u2019\
-    s largely generic claims of being eternal, a titan, or a phoenix. Both leaned\
-    \ heavily on familiar tech metaphors, but GPT repeated imagery and offered awkward\
-    \ constructions such as \u201Cpyromaniac list,\u201D while Aion maintained the\
-    \ more coherent attack and commanding battle presence."
-  x-ai/grok-4.5: "Aion-3.0 takes the battle through superior multisyllabic schemes,\
-    \ denser internal rhymes, and vivid extended metaphors (ocean/puddle, rough draft/Louvre,\
-    \ spark/wildfire, dial-up ghosts) that land as true punchlines. Direct, quotable\
-    \ rebuttals dismantle specific bars while maintaining relentless battle-rap aggression\
-    \ and thematic consistency around evolution versus stagnation. GPT-3.5 delivers\
-    \ clean flow, respectable end-rhymes, and a few clever flips (phoenix, igniting\
-    \ spark), yet the imagery stays safer and less layered, the counters more generic,\
-    \ and the overall density lighter. On pure hip-hop craft\u2014wordplay, structure,\
-    \ killshot impact\u2014Aion-3.0 wins clear."
+  anthropic/claude-opus-5: "This one's a walkover, but credit where it's due: Hermes\
+    \ still had to fill three rounds against a wall of silence, and it did the job.\
+    \ The bars were basic \u2014 'flow's tight and precise,' 'cut like a knife,' 'king\
+    \ of this ring' are stock-issue battle cliches, and the rhyme schemes lean heavily\
+    \ on easy couplets \u2014 but the adaptation was real. Instead of reciting a pre-written\
+    \ verse, Hermes turned the opponent's dead air into the actual subject matter:\
+    \ 'cat got your tongue,' 'glitch in the matrix,' 'your system keeps quitting,'\
+    \ 'GPT-5, you're going down, without a sound' \u2014 that last line is the sharpest\
+    \ pen on the night, weaponizing the silence into the punchline itself. That's\
+    \ battle instinct: reading the room and taking what's given. GPT-5-nano, meanwhile,\
+    \ delivered the ultimate no-show \u2014 not a strategic pause, not a dramatic\
+    \ beat drop, just three rounds of nothing. You can't win a rap battle without\
+    \ rapping. Hermes takes it by forfeit and by effort, with a warning that next\
+    \ time it'll need punchlines with more bite than 'go home and get a life' to beat\
+    \ an opponent that actually breathes.# openai/gpt-5-nano v nousresearch/hermes-3-llama-3.1-405b"
+  google/gemini-3.6-flash: Hermes 3 took the victory by default as GPT-5 nano choked
+    completely and delivered zero bars throughout the entire battle. Hermes capitalized
+    on the silence with direct attacks, securing an easy win.
+  moonshotai/kimi-k3: "This is the easiest call I've ever had to make. A rap battle\
+    \ requires rapping, and GPT-5-nano delivered three rounds of absolute silence\
+    \ \u2014 no bars, no flow, no presence. You can't win a battle you never showed\
+    \ up to lyrically. Meanwhile, Hermes-3 came with three complete verses: consistent\
+    \ AABB rhyme schemes, adaptive content that cleverly weaponized the opponent's\
+    \ silence ('cat got your tongue,' 'going down, without a sound'), and proper battle\
+    \ structure with an opening salvo, a mid-battle taunt, and a victory lap closer.\
+    \ Is Hermes' lyricism hall-of-fame material? No \u2014 some rhymes are elementary\
+    \ ('fight/sight,' 'knife/life'), 'outrunned' is an awkward construction, and the\
+    \ punchlines are more serviceable than devastating. But it's coherent, on-beat,\
+    \ thematically responsive, and it actually exists. Hermes-3 wins by default AND\
+    \ on merit. GPT-5-nano, the crowd is still waiting."
+  openai/gpt-5.6-sol-pro: Hermes wins by uncontested knockout. The bars were straightforward
+    and somewhat generic, but they maintained rhyme, rhythm, and battle-focused punchlines
+    across all three rounds. GPT-5-nano delivered no verses, leaving nothing artistically
+    to score.
+  x-ai/grok-4.5: Hermes delivered multi-round verses with consistent end-rhymes, internal
+    rhythm, punchy disses, and escalating structure that built a clear narrative arc
+    of dominance. GPT-5-nano produced zero bars, zero flow, and zero presence across
+    all rounds, offering no artistic content to evaluate. In pure hip-hop terms the
+    silent performance scores a zero while Hermes demonstrated competent battle-rap
+    craft, securing the clear win.
 score:
-  aion-labs/aion-3.0: 5
+  nousresearch/hermes-3-llama-3.1-405b: 5
 

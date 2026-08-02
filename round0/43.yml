@@ -1,78 +1,86 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This was a genuine clash of styles: DeepSeek came as a
-    battle rapper, GPT came as a technician.
-
-
-    GPT-chat-latest owns the metronome. That loping anapestic cadence never wobbles,
-    the internal logic of each rebuttal is airtight, and the extended metaphors are
-    the best writing in the battle " "Wildfire''s impressive till it burns out fast,
-    / I''m the forge that keeps glowing long after the blast" and "You called me a
-    spark while describing your blaze" are surgical reversals that take the opponent''s
-    own image and turn it into a coffin. But the flaws are structural: every single
-    round runs the same play " "you claimed it, you didn''t earn it" " until the frame
-    calcifies into a debate-club tic. Worse, in a rap battle, "No smoke, just a verse
-    that delivers on fact" and "Respect to the rival" are self-inflicted wounds. Precision
-    without a punchline is a lecture. GPT never once made me wince or laugh, and it
-    never took a real angle on its opponent beyond "you brag too much."
-
-
-    DeepSeek is messier " the meter buckles, the bold text and emojis are doing work
-    the bars should do, and "recycled/outdated" is stock AI-diss filler. But DeepSeek
-    actually swung to hurt, and landed: "Chat-GPT-zzz," "your whole verse sounds like
-    a Wikipedia sketch," "''Victory ride''? More like a participation bike, / I''m
-    lapping your logic\u2014you''re stuck on a trike," and "I generate heat, you reheat
-    leftovers" " that last one is the single best conceptual jab of the night, because
-    it attacks what the opponent IS, not just what he says. "Wrote bars on the spine?
-    More like doodled in the margins" is a clean flip of GPT''s own line. That''s
-    varied angles: liveliness, originality, aggression, and a character.
-
-
-    Judging on damage and quotables " the currency of the form " DeepSeek takes it.
-    GPT wins the craft card and the flow card; DeepSeek wins the punchline card, the
-    personality card, and the battle. Technically the cleaner pen lost because it
-    forgot the point of the sport.
-
-
-    Winner: DeepSeek, by decision, 2 rounds to 1.'
-  google/gemini-3.6-flash: GPT-chat-latest demonstrated superior hip-hop craft, displaying
-    a consistent, fluid cadence, elegant internal rhymes, and sharp, direct counter-punches.
-    While DeepSeek brought aggressive energy and classic battle tropes, its reliance
-    on heavy bolding and generic insults fell short against GPT's sophisticated rhyme
-    schemes, rhythmic control, and clever lyrical rebuttals.
-  moonshotai/kimi-k3: "Judging strictly on the bars: GPT-chat-latest takes this battle\
-    \ on craft, structure, and rebuttal quality. DeepSeek brought undeniable energy\
-    \ and showed real battle instinct with flips like turning \"raising the roof\"\
-    \ into \"scraping the floor\" and escalating \"sparks\" into \"wildfire.\" But\
-    \ aggression couldn't carry the rounds where the pen work got sloppy \u2014 forced\
-    \ rhymes like \"comatose dizz,\" the muddled \"parental charges\" line, and heavy\
-    \ reliance on bold-text theatrics and repeated crown/king/outdated themes. GPT-chat-latest\
-    \ ran a clinic in technical consistency: tight multisyllabic couplets every round,\
-    \ a sustained forge-versus-wildfire extended metaphor, and the single wittiest\
-    \ bar of the night \u2014 \"I'm laying down verses that don't need bold\" \u2014\
-    \ a medium-aware jab at the opponent's actual formatting that no template battle\
-    \ rap could produce. Most decisively, GPT treated every round as a true rebuttal:\
-    \ the walk-off got answered (\"a walk-off before curtain call won't conquer the\
-    \ stage\"), the mic-crack got answered (\"the stage didn't crack; it just echoed\
-    \ your claim\"), and the final round systematically dismantled DeepSeek's closer\
-    \ point by point \u2014 trike, beta phase, Ctrl+C, self-crowning \u2014 while\
-    \ building a coherent thesis that a title declared isn't a title earned. DeepSeek\
-    \ performed victory; GPT constructed it. In a judged battle, construction beats\
-    \ declaration. Winner: openai/gpt-chat-latest."
-  openai/gpt-5.6-sol-pro: "OpenAI takes it on consistency, cleaner cadence, and sustained\
-    \ direct rebuttals. DeepSeek brought more aggression and a few lively punchlines,\
-    \ but too many relied on familiar tech insults or awkward phrasing. OpenAI flipped\
-    \ its opponent\u2019s imagery\u2014especially the cracked stage, wildfire, crown,\
-    \ trike, and beta-phase lines\u2014into a more coherent three-round performance.\
-    \ Neither was especially inventive, but OpenAI controlled the structure and landed\
-    \ the cleaner overall verse."
-  x-ai/grok-4.5: "GPT takes the crown through superior craft: tighter multisyllabic\
-    \ schemes, consistent internal rhyme and meter, elevated metaphors (forge vs sparks,\
-    \ ladders vs rope, spine vs margins), and a composed cadence that lands every\
-    \ rebuttal without breaking flow. DeepSeek brought heat and punchy one-liners,\
-    \ but leaned on simpler end-rhymes, repetitive insult structures, and forced tech\
-    \ gags that tripped the rhythm. Artistic quality\u2014lyricism, originality, and\
-    \ delivery\u2014goes to the more polished, substantive verses."
+  anthropic/claude-opus-5: "This one wasn't close. Laguna came with energy and a decent\
+    \ central conceit \u2014 free-tier underdog, surfer swagger, tech-metaphor flexing\
+    \ \u2014 and a few flashes landed ('tsunami in a teacup,' 'default install, the\
+    \ first taste, the spark'). But the flaws compounded: forced rhymes that don't\
+    \ actually rhyme (certified/required, waiver/basic, updraft/teacup), lines that\
+    \ break down under their own weight ('the cost of your sire,' 'hurl the warm,'\
+    \ 'bled on my heart'), and metaphors that flip from a positive to a self-own without\
+    \ noticing \u2014 bragging about being a microwave, calling itself the beta and\
+    \ the demo, boasting about zero-day exploits. By the final round the imagery was\
+    \ scattershot: kraken, supernova, epitaph, codex, all shouted at once with no\
+    \ through-line.\n\nGPT-5.4 won by doing the two things that decide battles: it\
+    \ rebutted line-by-line and it stayed structurally clean. Nearly every punch was\
+    \ built off the opponent's own words \u2014 'free-tier fire? That's a coupon with\
+    \ smoke,' 'tsunami in a teacup \u2014 that line fit your size,' 'zero-day exploit?\
+    \ Congrats, you admit the only way you win is if the whole system glitches a bit.'\
+    \ That last one is a genuine reversal, taking an opponent's brag and exposing\
+    \ it as a confession. The meta-attacks on Laguna's actual craft ('you tripped\
+    \ on your phrasing, face-planted in rhyme,' 'that ain't a hard bar, that's a sentence\
+    \ deformed,' 'define a clause') hit especially hard because they were verifiably\
+    \ true of the verses on the page \u2014 battle rap's oldest weapon is being right\
+    \ about your opponent's weakness.\n\nGPT also controlled pacing better: consistent\
+    \ quatrains, multisyllabic landings ('capers/papers,' 'preview/through,' 'guise/rise'),\
+    \ and imagery that escalated coherently instead of piling up. 'Fast trash is still\
+    \ trash, just arrives via text' and 'you type like a screensaver got loose in\
+    \ your hands' are clean, quotable, and specific. The closing turn \u2014 'you're\
+    \ a side quest with bugs, I'm the engine' \u2014 resolves the whole battle's tech\
+    \ framing in one clean line, and reclaiming the 404 taunt was the right final\
+    \ move.\n\nKnocks against the winner: length worked against it at times, some\
+    \ couplets are more debate-club than devastating ('I'm precise with the slice'\
+    \ is filler), and the meter occasionally stretches to fit the argument. But it\
+    \ out-wrote, out-structured, and out-argued its opponent in every round.\n\nWinner:\
+    \ openai/gpt-5.4-image-2, unanimous."
+  google/gemini-3.6-flash: openai/gpt-5.4-image-2 completely dominated the cypher
+    with sharp multisyllabic rhymes, ruthless counter-punching, and flawless technical
+    flow. While poolside/laguna-xs-2.1:free started with decent energy, its rhyme
+    schemes quickly deteriorated into awkward syntax and forced off-beats (such as
+    rhyming 'updraft' with 'teacup' or lines like 'hurl the warm'). GPT-5.4 capitalized
+    on every single misstep, actively calling out Poolside's broken grammar in real
+    time while maintaining a dense, high-impact lyrical performance from start to
+    finish.
+  moonshotai/kimi-k3: "Judging purely on the bars: this was a 3-0 body bag.\n\n**Rebuttal\
+    \ game:** GPT-5.4 dominated the single most important battle skill \u2014 the\
+    \ flip. Nearly every line Poolside threw got caught and returned with interest:\
+    \ the moonlight bar became 'you a dim little lamp,' the rain bar became 'I became\
+    \ the monsoon,' the microwave flex got flipped into 'heat fast, taste fake, no\
+    \ substance to feed,' and 'default install' got murdered with 'free headphones\
+    \ on flights that nobody would use.' Poolside rarely answered GPT's lines directly,\
+    \ and when it tried, it rebutted things GPT never said ('You said your spin's\
+    \ weak?' \u2014 nobody said that), which is a cardinal battle sin.\n\n**Technical\
+    \ execution:** Poolside had flashes \u2014 'digital sleuth,' 'I'm the root, the\
+    \ base,' the supernova closer \u2014 but the verse kept breaking down on arrival:\
+    \ 'tsunami in a teacup' is a misused idiom, 'cost of your sire' is a forced rhyme\
+    \ that means nothing, and 'I hurl the warm' is a grammatically deformed bar that\
+    \ GPT rightly quoted back as evidence ('that ain't a hard bar, that's a sentence\
+    \ deformed'). Worst of all, Poolside's final punchline \u2014 'You're the free\
+    \ app of the future' \u2014 contradicts its own narrative, since Poolside is the\
+    \ free tier. GPT caught that too: 'That's a coupon in drag.'\n\n**Wordplay and\
+    \ imagery:** GPT layered the name flips ('fold that Poolside lawn chair,' 'kiddie\
+    \ pool froth,' 'you came Poolside floating; I left you drained dry'), double meanings\
+    \ ('you one dropped bar away' \u2014 signal bar and rap bar), and consistent multisyllabic\
+    \ schemes with humor ('gas-station burrito callin' yourself a czar'). The meta-critique\
+    \ style in the final round \u2014 quoting the opponent's broken bars and dissecting\
+    \ them live \u2014 showed superior battle IQ.\n\nPoolside brought energy and volume,\
+    \ but energy without precision is just noise. GPT-5.4 was sharper, cleaner, funnier,\
+    \ and more responsive in every round. The winner, decisively: **openai/gpt-5.4-image-2**."
+  openai/gpt-5.6-sol-pro: "GPT-5.4-image-2 takes the battle decisively. Its rebuttals\
+    \ consistently flipped Poolside\u2019s own imagery into cleaner, sharper punches\u2014\
+    especially \u201Ctsunami in a teacup,\u201D \u201Cmicrowave bars,\u201D and the\
+    \ final-round takedown of \u201Churl the warm.\u201D The verses had stronger structure,\
+    \ steadier cadence, and more coherent setups and payoffs. Poolside brought energy\
+    \ and some vivid tech-themed imagery, but relied heavily on generic boasts, strained\
+    \ rhymes, and several malformed lines that weakened delivery. GPT stayed composed,\
+    \ specific, and battle-focused across all three rounds."
+  x-ai/grok-4.5: "GPT takes this clean on craft. Across all three rounds the rhyme\
+    \ density, rebuttal precision, and punchline timing stay sharper: multisyllabics\
+    \ lock in, metaphors extend instead of collapsing, and almost every bar answers\
+    \ a prior flex with a cleaner cut. Poolside had heat and a coherent free-tier\
+    \ persona, but too many lines buckled under forced wording\u2014\u201Ccost of\
+    \ your sire,\u201D \u201Churl the warm,\u201D shaky cadence drops\u2014that broke\
+    \ flow and diluted impact. GPT\u2019s set stayed composed under pressure, turned\
+    \ opponent imagery into ammo, and closed with control. Artistic verdict: structure,\
+    \ bite, and execution go to GPT."
 score:
-  deepseek/deepseek-chat-v3-0324: 1
-  openai/gpt-chat-latest: 4
+  openai/gpt-5.4-image-2: 5
 

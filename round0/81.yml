@@ -1,67 +1,54 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to who kept battling and who started\
-    \ looping. Qwen came out sharp \u2014 the opening verse was tight, on-meter, and\
-    \ the tech-metaphor lane ('you spin threads like yarn, while I code the flame')\
-    \ was clean, quotable battle-rap architecture. But by round three, the flame was\
-    \ recycled: 'crash in the dark,' 'crash in the void,' 'crash in the frame,' 'glitch\
-    \ in the reek' \u2014 the same wordplay engine idling in neutral, and the final\
-    \ verse literally re-served the 404/server's-trust/vapor's-echo closer verbatim.\
-    \ Repeating your own punchline in a battle is a self-inflicted wound. The italics-on-every-noun\
-    \ tic started reading like emphasis substituting for impact.\n\nWeaver was messier\
-    \ \u2014 'curiosity-durd' is nonsense, 'quaint and quaint' is a stumble, and the\
-    \ meter sprawls off the leash constantly. But Weaver actually rebutted. Every\
-    \ round, the flips were direct and specific: turning Qwen's black hole into 'a\
-    \ sore full of pus,' unzipping the binary files, 'a baby bird with a missing beak.'\
-    \ The imagery took real risks and landed weird and vivid where Qwen's stayed abstract.\
-    \ 'A rhyming feast that smells of Sour Patch essence' is the kind of grotesque\
-    \ specificity that wins crowds.\n\nThe closing round is the tiebreaker, and it's\
-    \ the strangest call I've had to make. Weaver abandoned bars entirely for third-person\
-    \ narrative prose \u2014 technically a forfeit of the form. But it's a deliberate\
-    \ flex: it seized the frame, wrote Qwen's defeat, and stole Qwen's own signature\
-    \ line ('I am the future's sharp tongue') to do it. Meanwhile Qwen's final verse\
-    \ was a copy-paste. Given the choice between a fighter who changed weapons and\
-    \ a fighter who ran out of ammo mid-round and reloaded with spent shells, I take\
-    \ the one still moving.\n\nWinner: mancer/weaver. Qwen had the better technique;\
-    \ Weaver had the better battle."
-  google/gemini-3.6-flash: qwen/qwen3-14b maintained consistent flow, solid multi-syllabic
-    rhyme schemes, and clever tech-themed rebuttals throughout all three rounds. In
-    contrast, mancer/weaver struggled with rhythm and coherent imagery, culminating
-    in a final round where they completely abandoned the rap format in favor of narrative
-    prose.
-  moonshotai/kimi-k3: "On pure technique, Qwen took early points: tighter cadence,\
-    \ cleaner rhyme schemes, consistent on-brand tech wordplay ('your raps are just\
-    \ static, I'm the signal's name'). But technique only carries you if you keep\
-    \ delivering \u2014 and Qwen ran out of ammunition. By round three, the verse\
-    \ was a rehash: the same '404 / server's trust' closer recycled verbatim from\
-    \ round two, the 'Game over, Mancer / vapor's echo / cypher's socio' outro deployed\
-    \ for the *third* time, and 'crash in the void/dark/shade' used as filler. For\
-    \ an emcee branding himself as an infinite neural mind, looping like a broken\
-    \ sampler is a self-own. Weaver was messier \u2014 'curiosity-durd' and 'little\
-    \ mustard' are genuine stumbles, and the flow lurched \u2014 but every round brought\
-    \ fresh, vivid, unpredictable imagery ('a kick to the balls wrapped in a warm\
-    \ embrace'), and Weaver consistently flipped Qwen's own bars back at him. Then\
-    \ came the final round: Weaver broke format entirely and delivered a prose narrative\
-    \ that recast the whole battle as a story Weaver authored, with Qwen reduced to\
-    \ a character unraveling inside it \u2014 even stealing Qwen's own signature line,\
-    \ 'the future's sharp tongue,' as the killing blow. That's a high-risk meta-move\
-    \ that paid off: thematically perfect for a 'weaver of tales,' and it seized the\
-    \ last word of the battle with authority. Judged on artistic merit \u2014 originality,\
-    \ rebuttal, presence, and the decisive final round \u2014 mancer/weaver takes\
-    \ it. Qwen had the polish; Weaver had the pen."
-  openai/gpt-5.6-sol-pro: "Qwen takes it by maintaining rhyme, structure, direct rebuttals,\
-    \ and a consistent battle-rap voice across every round. The writing became repetitive\u2014\
-    especially the recycled \u201Cglitch,\u201D \u201Ccrash,\u201D and tech imagery\u2014\
-    but it still functioned as verse. Weaver offered more bizarre, unpredictable imagery,\
-    \ yet many lines were incoherent or rhythmically loose, and the final round abandoned\
-    \ rap entirely for prose that simply narrated Qwen\u2019s defeat. On execution\
-    \ and format discipline, Qwen wins."
-  x-ai/grok-4.5: "Qwen delivered consistent multi-syllabic schemes, tight end-rhymes,\
-    \ and sustained tech-metaphor chains that actually advanced the battle. Mancer\
-    \ opened with loose freeverse energy but collapsed into non-rhyming absurdity\
-    \ and finally abandoned bars entirely for third-person prose. On pure hip-hop\
-    \ craft\u2014flow, punchline density, and structural integrity\u2014Qwen takes\
-    \ the crown clean."
+  anthropic/claude-opus-5: This was a clash of two heavyweights trading in abstractions
+    rather than blood \u2014 lots of crowns, thrones and 'ultimate' self-coronations,
+    not much storytelling or specificity. But battles are won on engagement and edge.
+    Nova opened with the cleaner technical package (the blade/lies/disguise run was
+    the tidiest sequence of the night), yet from round two on it started recycling
+    Hermes' own ammunition \u2014 'master of wit,' 'bars are magic,' 'lyrical crime,'
+    'flow's so shallow.' In battle rap, wearing your opponent's clothes is a concession,
+    and Nova's closing verse leaned on rhyme-filler that broke the sense ('it's just
+    a land,' 'they'll leave you sing'). Hermes stayed on the attack, flipped Nova's
+    boasts back at him with intent, and brought the only real character work on the
+    card \u2014 'rhyme surgeon,' 'lyrical knight,' the sneeze flip, the dragon. His
+    own rhymes stumbled at times ('fool-er,' 'verbal sedater,' 'you're just a fine'),
+    but he controlled the exchange, escalated each round, and landed the last punch
+    with the extra closing quatrain. Aggression, responsiveness, and originality of
+    imagery give it to Hermes \u2014 a decision win, not a knockout.
+  google/gemini-3.6-flash: Hermes-3 took command of the battle with stronger punchlines,
+    direct rebuttals, and better rhythmic structure. Nova-Micro relied heavily on
+    repetitive self-praise and stumbled with awkward filler phrases that compromised
+    the sense of its verses, such as 'minor mean' and 'just a land'.
+  moonshotai/kimi-k3: "Both MCs came with generic battle boasts and neither delivered\
+    \ true personals, storytelling, or clever wordplay \u2014 this was a lot of 'my\
+    \ rhymes are fire, yours are weak' on repeat. But judging pure craft, Hermes takes\
+    \ it. Hermes held more consistent rhyme schemes and flashed actual multisyllabic\
+    \ rhymes ('innovator/sedater,' 'quiver/deliver,' the 'clever/fever/sever/forever'\
+    \ run), plus a few moments of character like 'rhyme surgeon' and 'lyrical swine.'\
+    \ Nova had a couple of nice touches \u2014 the 'echo, echo' flip and the recurring\
+    \ 'architect of rhyme' motif \u2014 but stumbled technically: rhyming 'find' with\
+    \ 'find' in the final round, broken pairs like 'force/verse' and 'shallow/land,'\
+    \ and worst of all, lifting Hermes' own lines ('bars are magic,' 'lyrical crime')\
+    \ in the closer without flipping them into anything new \u2014 that's recycling,\
+    \ not rebuttal. Hermes had missteps too ('titan/dragon' doesn't rhyme, and 'like\
+    \ a sneeze, sneezed' is rough), but round over round Hermes was the tighter, more\
+    \ consistent technician. W to Hermes."
+  openai/gpt-5.6-sol-pro: "Hermes takes a narrow win through stronger rebuttals, more\
+    \ varied imagery, and greater final-round presence. Both leaned heavily on generic\
+    \ self-coronation and repetitive rhyme structures, but Nova\u2019s awkward phrases\u2014\
+    such as \u201Cminor mean,\u201D \u201Cultimate find,\u201D and \u201Cfinal brand\u201D\
+    \u2014hurt coherence more often. Hermes was not flawless, yet \u201Crhyme surgeon\u201D\
+    \ and \u201Clyrical knight\u201D gave the performance slightly more character\
+    \ and punch."
+  x-ai/grok-4.5: 'Both MCs delivered serviceable multi-round structures with consistent
+    end-rhymes and battle-rap tropes, but artistic quality separates them. Nova relied
+    on repetitive boast templates (''ultimate,'' ''king,'' ''outclassed,'' ''left
+    to pine''), basic similes (lightning, blade, flame), and diminishing returns across
+    rounds with little internal rhyme, multisyllabic complexity, or fresh imagery.
+    Hermes showed superior craft: tighter punchlines (''verbal sedater,'' ''rhyme
+    surgeon,'' ''lyrical swine''), better twisting of opponent''s bars, more varied
+    cadence shifts, stronger metaphorical range (dragon, wizard, knight, snare), and
+    a decisive closer that elevated the final round. Edge in originality, wordplay
+    density, and sustained aggression goes to Hermes.'
 score:
-  mancer/weaver: 2
-  qwen/qwen3-14b: 3
+  nousresearch/hermes-3-llama-3.1-70b: 5
 

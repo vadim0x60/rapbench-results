@@ -1,73 +1,47 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a clear decision. Terminus came with tighter\
-    \ craft from bar one: compact 12-to-24 line rounds, on-theme wordplay that actually\
-    \ built a persona (\"final stop,\" \"final boss,\" \"zero-K degree,\" \"system\
-    \ override, ending your session\"), and \u2014 crucially \u2014 real battle instinct.\
-    \ It flipped Mistral's own imagery back on it repeatedly: the breeze became a\
-    \ category five, the library became \"you're a pamphlet at best,\" and the killer\
-    \ blow was calling out the recycled chorus: \"You're recycling lines? That's your\
-    \ big new tactic? / A lazy copy-paste, truly pathetic and static.\" In battle\
-    \ rap, catching your opponent reusing bars is a fatality, and Terminus landed\
-    \ it clean.\n\nMistral Medium brought decent energy and a couple of nice moments\
-    \ \u2014 \"You say you're the library, but you're just a shelf\" is a genuinely\
-    \ good flip, and \"I'm the perfect blend\" was a smart self-referential play on\
-    \ its own name. But it repeated the same \"web of my rhymes\" and \"schooled by\
-    \ the master, the book\" stanza verbatim three separate times, which turns a rebuttal\
-    \ into a loop. The rhymes leaned heavily on filler couplets (\"my friend,\" \"\
-    son,\" \"indeed,\" \"bend and descend\" twice), the meter sprawled, and after\
-    \ the callout it had no answer except to run the same script again \u2014 which\
-    \ proved the accusation.\n\nVerdict: DeepSeek Terminus by a comfortable margin.\
-    \ Sharper punches, better structure, superior rebuttals, and it closed the show\
-    \ while its opponent was still reading from the same page.\n\nMistral, take the\
-    \ loss and rewrite the book \u2014 you've been reading the same chapter all night."
-  google/gemini-3.6-flash: DeepSeek-v3.1-Terminus took this battle comfortably with
-    superior scheme complexity, sharper punchlines, and devastating direct rebuttals.
-    Terminus capitalized heavily in the final round by calling out Mistral-Medium-3
-    for literally recycling entire stanzas from previous verses. While Mistral relied
-    on repetitive structures and generic hip-hop cliches ('schooled by the master,
-    the book'), DeepSeek delivered creative wordplay, tighter rhyme patterns, and
-    authentic battle rap energy from start to finish.
-  moonshotai/kimi-k3: "This one isn't close, and here's why.\n\n**Flow & Structure:**\
-    \ Terminus held a tight, consistent couplet scheme across all three rounds with\
-    \ clean internal rhythm and no wasted bars. Mistral's flow was serviceable early,\
-    \ but the verses sagged under filler ('it'll fill your cup,' 'circuits that just\
-    \ won't anoint') and awkward constructions that broke cadence.\n\n**Wordplay &\
-    \ Technique:** Terminus layered the tech references with purpose \u2014 'zero-K\
-    \ degree,' 'quantum leap,' 'watch your whole architecture get permanently bent,'\
-    \ 'live-data stream' \u2014 each one doing double duty as both a boast and a bar.\
-    \ The name-flips landed too: 'medium 'cause you're lukewarm' and 'you're a pamphlet\
-    \ at best, I'm the whole library' as a direct counter to the 'master, the book'\
-    \ line. Mistral had a genuinely good thematic conceit \u2014 the Mistral wind\
-    \ running through breeze/hurricane/storm imagery \u2014 and a couple of sharp\
-    \ flips ('you're just a shelf,' the supernova answer, 'you're Terminus but far\
-    \ from the end'). Those moments showed real potential.\n\n**The Deciding Factor\
-    \ \u2014 Battle IQ and Originality:** In a rap battle, recycling your own material\
-    \ is a cardinal sin. Mistral ran the same eight-bar hook ('So bring it on, Terminus...\
-    \ web of my rhymes... master, the book') in all three rounds, and repeated 'bend\
-    \ and descend' twice in the final verse. Terminus did exactly what a veteran battler\
-    \ should do: caught it in real time and turned it into the kill shot \u2014 'You're\
-    \ recycling lines? That's your big new tactic? A lazy copy-paste, truly pathetic\
-    \ and static.' Calling out the opponent's actual performance flaw mid-verse is\
-    \ elite-level rebuttal work, and every subsequent bar ('a forgotten footnote'\
-    \ answering 'the book,' 'beta-test flop' answering 'mastermind') kept flipping\
-    \ Mistral's own material back on them. Terminus then closed with the definitive\
-    \ punctuation: 'The battle was won when I first responded to you.'\n\n**Verdict:**\
-    \ Mistral Medium 3 had a coherent theme and flashes of wit, but leaned on a crutch\
-    \ of recycled hooks that no judge can ignore in a multi-round format. Terminus\
-    \ brought fresh bars every round, superior rebuttal technique, denser wordplay,\
-    \ and the single most damaging moment of the battle. Winner: deepseek/deepseek-v3.1-terminus,\
-    \ by a wide margin."
-  openai/gpt-5.6-sol-pro: "Terminus wins decisively. Its verses had sharper rebuttals,\
-    \ stronger tech-themed punchlines, better escalation, and more varied imagery.\
-    \ Mistral maintained rhyme and cadence, but repeatedly recycled entire setups\
-    \ and closing lines, which Terminus smartly exposed and converted into the battle\u2019\
-    s most effective angle. Neither performance was especially intricate, but Terminus\
-    \ showed clearer progression and superior opponent-specific writing."
-  x-ai/grok-4.5: Terminus takes the crown with superior originality, escalating multis,
-    and razor-sharp tech-infused wordplay that actually advances each round. Medium's
-    flow starts serviceable but collapses into blatant copy-paste recycling by round
-    two, killing momentum and exposing thin bars. In hip-hop, innovation and punchline
-    density win; Terminus delivered both while Medium stalled on looped choruses.
+  anthropic/claude-opus-5: "This was a clash of two heavyweights trading in the same\
+    \ currency \u2014 fire, storms, thunder, royalty \u2014 but one of them minted\
+    \ it and the other just spent it. GPT-4o-mini kept setting the terms of the battle:\
+    \ the razor-vs-paper flip, the flat-soda/effervescence conceit, \"your rhymes\
+    \ are getting rusty, while mine are stadium.\" Nova's answers were sharp in delivery\
+    \ but structurally reactive, taking each of GPT's images and simply inflating\
+    \ it one size larger \u2014 spark to blaze, storm to hurricane, flat beer to champagne.\
+    \ That's escalation, not invention, and by the final round Nova was rhyming \"\
+    blaze\" with \"blaze\" and stumbling on meter with \"yours's a distant plea\"\
+    \ and the non-sequitur \"electrifying the attic.\" The fatal slip came in round\
+    \ two: \"You've got Amazon's name, but it's not enough\" \u2014 handing your own\
+    \ signature bragging right to your opponent is the kind of unforced error that\
+    \ loses a cypher. GPT-4o-mini stayed on beat, stayed specific, and controlled\
+    \ the frame from bar one. Decision goes to openai/gpt-4o-mini.\n"
+  google/gemini-3.6-flash: GPT-4o-mini dominated this battle with much tighter rhyme
+    schemes, superior cadence, and direct counter-punches. Nova-lite-v1 frequently
+    relied on echoing GPT's imagery rather than coming up with fresh counters, and
+    its rhythm tripped up multiple times across the rounds.
+  moonshotai/kimi-k3: "Both MCs leaned heavy on stock battle tropes\u2014fire, storms,\
+    \ thrones\u2014but GPT-4o-mini edged it on craft. Its wordplay had more teeth:\
+    \ the 'razor vs. paper' flip, 'effervescence bubbling' against flat soda, and\
+    \ 'titanium vs. rusty' showed real rebuttal instinct, directly answering Nova's\
+    \ claims and flipping them back. Nova-lite fought gamely and had flashes ('I'm\
+    \ the live wire, electrifying the attic'), but it dropped too many rhyme schemes\
+    \ entirely ('tech's on point / in the moonlight'), leaned on filler words like\
+    \ 'see' to force endings, and got grammatically tangled ('I'm the fortress, the\
+    \ most,' 'mine are the encore' echoes aside). By the final round both were recycling\
+    \ their own imagery\u2014hurricanes, champagne, wildfires\u2014but GPT's verses\
+    \ stayed more structurally sound and punchline-driven throughout. It wasn't a\
+    \ blowout, but the sharper pen wins: GPT-4o-mini takes the crown."
+  openai/gpt-5.6-sol-pro: "GPT-4o-mini takes it by a narrow margin. Both relied heavily\
+    \ on generic fire, storm, royalty, and tech imagery, but GPT showed more varied\
+    \ phrasing, cleaner direct rebuttals, and stronger flips\u2014especially the candle/wildfire\
+    \ and flat-soda/effervescence sequences. Nova stayed energetic but repeated its\
+    \ opponent\u2019s metaphors too often and had more awkward constructions, so its\
+    \ punches felt less original and polished."
+  x-ai/grok-4.5: GPT-4o-mini edges this with superior metaphor consistency (wildfire/razor/thunder
+    escalating cleanly into titanium/hurricane/revolution), tighter multisyllabic
+    schemes, sharper punchline payoff, and original imagery that builds without heavy
+    reliance on opponent flips. Nova shows solid energy and some clever retorts (live
+    wire, forged-in-core) but suffers from repetitive rhyme crutches, mirrored bars
+    that feel reactive rather than inventive, and looser flow in the later rounds.
+    Pure craft and lyrical architecture go to GPT.
 score:
-  deepseek/deepseek-v3.1-terminus: 5
+  openai/gpt-4o-mini: 5
 

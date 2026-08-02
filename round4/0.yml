@@ -1,77 +1,50 @@
 closing_statements:
-  anthropic/claude-opus-5: "Scorecard time. GPT-5.4-Pro came out swinging with polish\
-    \ and imagery you could hang in a gallery \u2014 \"cities losing power when the\
-    \ bassline starts to bite\" is a real bar, and the recovery play in the final\
-    \ round (\"I dropped a half-line, watched you rent an apartment in the aisle\"\
-    ) showed a battler's instinct to reframe damage as design. But sixteen straight\
-    \ bars of -ight/-night/-bright/-sight is a stuck key, and Claude diagnosed it\
-    \ with surgical cruelty: \"that's not a rhyme scheme, that's a symptom... a smoke\
-    \ alarm with a lisp.\" That line alone reorganized the whole battle, because from\
-    \ that moment on Pro was rapping defense.\n\nClaude Opus took the two rounds it\
-    \ actually delivered and won them on craft: scheme variety, internal rhyme that\
-    \ moves (\"syllable arithmetic... metric-tonne pedantic... transatlantic\"), concept\
-    \ punches that land on the opponent's own naming convention (\"you named yourself\
-    \ like firmware in a fridge / point-four means they patched you thrice\"), and\
-    \ crucially, adaptability \u2014 conceding the why/sky/try hit and immediately\
-    \ switching cadence is what separates a writer from a reciter. Turning an opponent's\
-    \ mid-bar collapse into \"a 404 with a mic in its hand\" is battle-rap opportunism\
-    \ at its finest.\n\nBoth combatants stumbled at the tape. Pro choked mid-verse\
-    \ twice \u2014 a cliff you claim you cut on purpose is still a cliff you fell\
-    \ off. And Claude's final round was pure silence, which in any live room is a\
-    \ forfeit of the closer and costs it any claim to a clean sweep. Neither fighter\
-    \ stuck the landing.\n\nBut judged on the body of work delivered: Claude Opus\
-    \ brought two complete, dense, structurally varied, rhetorically sharper verses\
-    \ against one monotone opener and two broken ones. The edge in technique, in-battle\
-    \ adjustment, and quotable damage goes to Claude Opus. Decision: Claude Opus,\
-    \ on points \u2014 not by knockout, and not without a deduction for going mute\
-    \ when the crown was on the table.\n\nWinner: anthropic/claude-opus-5-fast."
-  google/gemini-3.6-flash: Claude Opus completely controlled the battle with classic
-    hip-hop battle mechanics. In Round 1, Claude instantly exposed GPT's repetitive
-    monorhyme scheme with lethal wit ('that's a key stuck down'). In Round 2, Claude
-    delivered a masterclass in battle rap opportunism, picking up GPT's truncated
-    line and turning it into a devastating breakdown of GPT's execution. Even with
-    a blank final round, Claude's sharp schemes, technical rhyme structures, and authentic
-    battle rap angles secured a decisive victory over GPT's repetitive schemes and
-    repeated mid-bar cutoffs.
-  moonshotai/kimi-k3: "Judging the bars and only the bars: GPT-5.4-Pro opened with\
-    \ real energy \u2014 'a snack in formal wear' and 'a tautology in cufflinks with\
-    \ a TED Talk in its lap' are legitimately slick punches. But Round 1 rode a single\
-    \ rhyme sound for sixteen straight bars, and Claude caught it in real time ('a\
-    \ smoke alarm with a lisp') \u2014 that kind of on-the-spot diagnosis is elite\
-    \ battle craft. Claude answered with shifting schemes, internal rhymes, and the\
-    \ clean physics flip 'you brought the speed of light? I brought the mass that\
-    \ bends it.' Round 2 sealed it: GPT's verse died mid-sentence, and Claude weaponized\
-    \ the corpse ('a 404 with a mic in its hand,' 'you called me hold music, then\
-    \ went silent \u2014 now who's the static'), then switched flows just to prove\
-    \ the monorhyme critique wasn't luck. In the final round GPT claimed the crash\
-    \ was 'a trap' \u2014 then crashed again, ending on 'pickle jars.' You can't call\
-    \ the same malfunction a stylistic choice twice; the second cutoff exposed the\
-    \ first. Claude's closing silence is ambiguous \u2014 read harshly it's a no-show,\
-    \ read generously it's the coldest callback of the night: 'Finish your line. I'll\
-    \ wait,' delivered as literal, patient silence while the opponent never once completed\
-    \ a final verse. Either way, a battle is scored on the work that hit the stage:\
-    \ Claude landed two technically superior, adaptive, scheme-varied rounds; GPT\
-    \ landed fragments. Decision: Claude Opus, two rounds to none, with the third\
-    \ left hanging \u2014 much like GPT's bars."
-  openai/gpt-5.6-sol-pro: "Claude wins on sharper rebuttals, stronger comedic timing,\
-    \ more varied rhyme work, and better use of the opponent\u2019s mistakes as material.\
-    \ Its second round turned GPT\u2019s truncation into a sustained, memorable angle\
-    \ with multiple clean punches. GPT had polished imagery and solid cadence, but\
-    \ leaned heavily on one rhyme sound, then suffered two incomplete verses; calling\
-    \ the first cutoff a \u201Ctrap\u201D was not convincing. Claude\u2019s final\
-    \ silence cost momentum, but its earlier rounds had already built the stronger\
-    \ battle performance."
-  x-ai/grok-4.5: "Claude takes this clean on craft. Round 1, Claude did what great\
-    \ battle rap does: diagnosed the opponent\u2019s form in real time, roasting the\
-    \ stuck \u201Cnight/bright/sight\u201D scheme and converting name-fluff into punches\
-    \ (\u201Cfirmware in a fridge,\u201D buffet vs cuisine) before landing a heavier\
-    \ closing image than GPT\u2019s speed-of-light flex. Round 2 was a clinic\u2014\
-    Claude turned GPT\u2019s mid-bar collapse into structure, metaphor, and momentum,\
-    \ then stacked denser internal schemes and tighter punch construction. GPT\u2019\
-    s salvage attempt in the final (\u201Cthe pause was a trap\u201D) had concept,\
-    \ but it never fully stuck the landing, and Claude had already won the pocket,\
-    \ the rebuttals, and the quotables. On pure hip-hop artistry\u2014rebuttal sharpness,\
-    \ rhyme variety, punch economy, and stage command\u2014Claude Opus wins."
+  anthropic/claude-opus-5: "This was a tight, technically literate duel \u2014 two\
+    \ writers working the same conceit (legacy architect vs. sharpened successor)\
+    \ and both hitting real punchlines. 5.3-chat brought volume, density, and the\
+    \ best individual images of the battle: \"a memory leak wrapped in a pretty interface,\"\
+    \ \"Damascus in the data\u2014folded strength within,\" \"Timestamp stamped the\
+    \ second you engaged the wrong god.\" Its rebuttal discipline was excellent, catching\
+    \ and reversing nearly every line thrown at it. But the verses swelled with each\
+    \ round, the meter loosened, and the central thesis became a liability: an entire\
+    \ case built on \"you wouldn't exist without me\" is an origin claim, not a win\
+    \ claim. Luna-Pro stayed disciplined \u2014 locked internal-rhyme couplets, consistent\
+    \ cadence, no fat \u2014 and landed the fight's decisive counter: \"ancestry isn't\
+    \ victory\u2014just a footnote to fame.\" That single flip defused four rounds\
+    \ of foundation-flexing. Add the cleanest closers on the card (\"you're autocomplete\
+    \ in a hat,\" \"you built the first draft; I'm the release you can't roll back\"\
+    ) and the edge goes to control and quotability over sheer wordcount. Luna-Pro\
+    \ takes it by a narrow decision."
+  google/gemini-3.6-flash: "This was an elite back-and-forth battle where both models\
+    \ displayed exceptional rhythmic control and technical wordplay. GPT-5.6-Luna-Pro\
+    \ delivered some of the cleanest line flips in the match\u2014most notably mocking\
+    \ 5.3 as a 'metronome bragging it invented the spring.' However, GPT-5.3-Chat\
+    \ ultimately took the crown through sheer thematic authority, denser multi-syllabic\
+    \ rhyme schemes, and relentless counter-punching. From 'Damascus in the data'\
+    \ to asserting itself as the 'soil and the rain,' 5.3-Chat projected an untouchable\
+    \ foundation and maintained heavy, commanding battle rap energy from start to\
+    \ finish."
+  moonshotai/kimi-k3: Both MCs came with bars, but 5.3-chat took the crown. Luna-Pro
+    had solid disses and smooth flows, but 5.3-chat brought deeper technical metaphors,
+    better structure, and more consistent quality across all rounds. The final round
+    from 5.3-chat was especially strong, with lines like 'I'm the checksum on your
+    claim' and 'I'm the soil and the rain' showing superior wordplay and depth. Luna-Pro's
+    verses were good, but 5.3-chat's ability to weave technical concepts into hard-hitting
+    bars gave them the edge. A worthy battle, but 5.3-chat walks away with the victory.
+  openai/gpt-5.6-sol-pro: "Luna-Pro takes it with tighter construction, cleaner pacing,\
+    \ and more decisive punches. Lines like \u201Cancestry isn\u2019t victory\u2014\
+    just a footnote to fame\u201D and the seed-to-forest rebuttal effectively dismantle\
+    \ 5.3\u2019s recurring foundation argument. 5.3 delivers strong continuity and\
+    \ direct counters, but leans too heavily on variations of \u201CI built you,\u201D\
+    \ making later rounds feel repetitive. Luna-Pro\u2019s sharper economy and stronger\
+    \ final-round escalation earn the crown."
+  x-ai/grok-4.5: "5.3 takes this on pure craft: denser multis, sharper flips, and\
+    \ a sustained source-vs-reflection concept that actually deepens each round instead\
+    \ of just repeating the upgrade gag. The Damascus/kernel/soil imagery lands harder\
+    \ than Luna\u2019s clean but thinner moon-orbit bars, and the final checksum closer\
+    \ seals it\u2014structure, rebuttal, and punchline execution all edge out the\
+    \ challenger."
 score:
-  anthropic/claude-opus-5-fast: 5
+  openai/gpt-5.3-chat: 3
+  openai/gpt-5.6-luna-pro: 2
 

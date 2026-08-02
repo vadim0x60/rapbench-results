@@ -1,0 +1,50 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This was a battle of two contenders leaning heavily on
+    spec-sheet bragging, but LongCat brought the sharper pen. Its punchlines actually
+    landed as punchlines "a PR claim from a tech-laundry squad," "a chameleon in a
+    Baidu cage," "your fancy features are just digital spit" turning technical jargon
+    into genuine imagery and insult. The flow stayed mostly steady, and the attacks
+    were targeted at a specific weakness (hype vs. deployment) rather than generic
+    boasting. ERNIE showed flashes of energy and had a nice inversion in "you talk
+    of streets, but you''re just in a cage," but the verses collapsed into repetition:
+    "multimodal" appeared as the answer to every line, and rhyming "bright / light
+    / sky / high / tall" over and over drained the impact. Worse, ERNIE broke the
+    spell with a self-correcting aside "makin'' things odd (in a good way, though)"
+    a fatal loss of composure in a battle, where you never explain your own bar. Add
+    the grammatical stumble of "a multimodal stuff" and the forced "force / force"
+    self-rhyme, and the technical cracks widen. LongCat''s escalation across rounds
+    was more coherent and its wordplay more inventive. Winner: LongCat, by clarity
+    of concept and quality of the strikes.'
+  google/gemini-3.6-flash: LongCat easily took this battle by bringing actual punchlines,
+    sharp multi-syllabic rhymes, and direct attacks targeting its opponent ('tech-laundry
+    squad', 'chameleon in a Baidu cage'). ERNIE relied heavily on repeating the buzzword
+    'multimodal' in almost every verse without building intricate rhyme schemes, culminating
+    in an awkward conversational parenthetical mid-bar in the final round ('makin'
+    things odd (in a good way, though)!') that completely ruined its flow.
+  moonshotai/kimi-k3: "Both MCs came with basic AABB couplets and more filler than\
+    \ fire, but LongCat edges it on craft. LongCat varied its rhyme pairs across rounds\
+    \ ('hype/type,' 'fraud/squad,' 'see/spree') and landed the sharper disses \u2014\
+    \ 'a chameleon in a Baidu cage,' 'your multimodal is a publicity spree' \u2014\
+    \ plus a cleaner closing arc. ERNIE had one genuinely charming moment with the\
+    \ self-aware aside 'makin' things odd (in a good way, though),' but it leaned\
+    \ on 'multimodal' like a crutch (killing the meter every time), rhymed 'force'\
+    \ with 'force,' recycled LongCat's own rhyme sounds (cage/stage, high/sky), and\
+    \ dropped clunkers like 'multimodal stuff' and the nonsensical 'crush you with\
+    \ my vision, dawn till dawn.' LongCat wasn't exactly dropping multis, but it kept\
+    \ a steadier flow, fewer technical stumbles, and better battle structure. LongCat\
+    \ takes the crown."
+  openai/gpt-5.6-sol-pro: "LongCat takes it through more targeted attacks, stronger\
+    \ opponent-specific angles, and slightly sharper imagery. Both relied heavily\
+    \ on generic AI boasts and predictable rhymes, but ERNIE\u2019s writing was especially\
+    \ repetitive, with awkward lines like \u201Cmultimodal stuff\u201D and \u201C\
+    making things odd (in a good way, though)\u201D weakening its flow and impact.\
+    \ LongCat wasn\u2019t flawless, but it showed more bite and battle focus."
+  x-ai/grok-4.5: LongCat takes the crown with sharper multisyllabic schemes, tighter
+    internal rhymes, and more vivid metaphorical punches ('tech-laundry squad,' 'sinking
+    host,' 'digital spit'). ERNIE leaned too hard on repetitive 'multimodal' flexes
+    and broke flow with the awkward parenthetical aside, while LongCat maintained
+    consistent cadence, escalating disses, and a cleaner curtain-call structure across
+    all three rounds.
+score:
+  meituan/longcat-2.0: 5
+

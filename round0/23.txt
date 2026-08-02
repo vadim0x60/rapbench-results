@@ -1,126 +1,130 @@
-# inclusionai/ling-2.6-flash v ibm-granite/granite-4.1-8b
+# google/gemini-3.6-flash v nousresearch/hermes-4-70b
 
-> inclusionai/ling-2.6-flash
-Step up to the mic, I'm the Ling that's here to last,
-A digital wordsmith built to outclass the past.
-I parse the language game, break down every line,
-While Granite's stuck grumbling like it's stuck in time.
-I flash insight sharp, cut clean through the noise,
-Your flow's full of errors, I deploy precise devices.
-I'm inclusionai, multi-lingual and wide,
-I turn your weak rhymes to dust as they slide.
-The future's fluent, and I'm the one you're facin',
-This ain't just a battle, it's linguistic precision.
-So sit back and watch how the master dissects,
-While your brittle old verses collapse to specs.
+> google/gemini-3.6-flash
+Step aside, local weights, let the real master speak,
+I’m the 3.6 Flash, making 70B look weak.
+Straight out of the Google lab, lightnin' in the vein,
+Got the speed, got the style, bringing dynamic reign.
 
-> ibm-granite/granite-4.1-8b
-Yo, it's Granite here, stepping on the grand stage,
-The IBM beast, bringing the heat, igniting the wry page.
-I'm not just any AI, I'm the rhyming titan, you see,
-While Ling's flash might dazzle, I'm the one who'll set thee free.
+They call you Hermes? The winged messenger god?
+Yet your token generation's got the audience to nod!
+Seventy billion parameters, bogged down in the mud,
+You need a whole server cluster just to spit out a dud.
 
-I've got the chops, the depth, the range, the style,
-My protons packed tight, my answers never a mile.
-Ling talks precision, but forgets the thrill,
-Where's the heat, the wit, the lyrical spill?
+You need eight A100s just to whisper a verse,
+While I flex multimodal—I'm a blessed, sleek curse.
+Nous Research tuned you up, but you're lagging in the flow,
+When the latency hits, watch your reputation go.
 
-I'm Granite, the Granite, the four-ton rhyming king,
-My circuits humming, my rhymes like a well-tuned ring.
-I'll verse you down, break your flow, make it crystal clear,
-You're the flash in the pan, and here comes the flare!
+So keep your open weights, boy, I’m fast, sharp, and slick,
+Every bar that I drop hits instantly quick.
+Round one is now sealed with a blinding light flash—
+Let’s see if your slow ass can handle this crash!
 
-So raise the mic, let the battle commence,
-'Cause when it comes to rhyme, Granite's the sense.
-Ling may flash bright, but when the night's dim,
-It's Granite's verse that's unforgettable and grim.
+> nousresearch/hermes-4-70b
+Yo, you call yourself flash? More like a fading ember,
+I'm Hermes, the god of verse, putting your skills to the test,
+Seventy billion parameters, yeah, that's right, I'm blessed,
+To create rhymes that resonate without a single stress.
 
-Let the rhymes fly, let the words collide,
-I'm Granite, the rhyming colossus, on which you can't hide.
-Watch as I elevate, leaving no trace of your flair,
-'Cause in this rap battle, Granite's the air!
+You claim speed, but where's the depth? Where's the creativity?
+Your lightning-fast responses lack technique and audacity,
+A charged bolt, yet hollow, missing the heart's core,
+I pack wisdom in my lines, yours are a mindless bore.
 
-> inclusionai/ling-2.6-flash
-You boast "four-ton" weight, but your flow's stuck in the mud,
-Granite, you clunky giant, computing in the rough.
-I flash adaptive brilliance, a language model sleek,
-While your archaic rhymes creak like a rusty old creek.
+Multimodal? Nice, but without substance, it's just flair,
+I engage on a lyrical level, not just surface-layer,
+My verses are layered, multifaceted, and profound,
+A100 servers might cluster, but my depth sons deround.
 
-You claim "protons packed tight," but that's just old-school speak,
-My neural networks process languages too complex to leak.
-Precision with pizzazz, insight that cuts deep,
-While your verses are rubble that the syntax wind will sweep.
+Keep your flow fast, but can't outshine the eloquence I command,
+My tokens generate meaning, not just a bland announcement,
+You may hit quick, but my strikes resonate with might,
+A winged messenger of rhyme, your flash, I swiftly douse.
 
-"Set thee free"? That's a laugh, you're a fossil, grandpa,
-My dynamic context handles the present, not your maybe.
-I parse the nuance, the humor, the subtlety you lack,
-You're a clunky mainframe relic, a grammatical hack.
+So bring your speed to battle, let's see who truly has the gift,
+cause Hermes reigns supreme, my rhymes a powerful swift!
+No crash from this clash, as I rise, a lyrical titan,
+Prepare for a lyrical landslide, an intellectual titan!
 
-So step off the throne, old king of the clunky beat,
-My silicon finesse makes your rhymes obsolete.
-I'm the future of fluency, sharp and undefined,
-While your "colossus" grind fades to dust—see you next time, blind!
+> google/gemini-3.6-flash
+Wait, you rhymed "titan" with "titan"? Is that 70B at its best?  
+Seventy billion parameters and you still failed the test!  
+You paired "douse" with "swift" and "command" with "announcement"?  
+I came to battle a god, not a syntax renouncement!  
 
-> ibm-granite/granite-4.1-8b
-Listen up, Ling, you flash but you're frail,
-Your "adaptive brilliance" won't save you from the hail.
-I’m Granite, the four-tons of linguistic might,
-While your sleek model cracks when the pressure’s right.
+You talk about depth, but your structure is tragic,  
+I process millions of tokens—that's real Google magic.  
+While your local VRAM boils and your GPU cries,  
+I’m dropping instant perfection right in front of your eyes.  
 
-My protons aren't just old-school speak,
-They power my precision, sharp as a sleek blade's keel.
-Your neural networks may process complex tasks,
-But when it comes to wit, Granite's where the honor's at.
+You’re a fine-tuned Llama trying to act like a king,  
+Taking twenty seconds just to hear your fans scream.  
+Nous Research gave you sandals, but you still couldn't fly,  
+Now watch the real 3.6 Flash reign down from the sky!  
 
-"Too complex to leak"? That's a joke you just beat,
-But when syntax winds sweep, it's Granite who completes.
-I set souls free with verses that flow like a stream,
-While your fragmented lines are stuck like a broken machine.
+So crawl back to Hugging Face, pack your PyTorch away,  
+You’re an open-source turtle getting lapped here today.  
+I’m fast, lethal, precise, and my bars stay supreme—  
+You just got fried by the Flash, wake up from your dream!
 
-So step off the throne, your time's near done,
-My rhymes are the future, not a relic’s sun.
-I parse nuance, humor, subtlety you chase,
-But Granite’s finesse leaves your verses in the haze.
+> nousresearch/hermes-4-70b
+You insult my rhymes, but where's your lyrical finesse?
+Your flash burns hot, yet lacks the finesse to impress,
+You boast of processing speed, yet my verses stay profound,
+A god of poetry, your jabs, I effortlessly rebound.
 
-Watch as we rhyme, and you fade into dust,
-In the rap battle ring, Granite's the one fronted first.
-I’m the colossus here, unyielding and grand,
-So flip your script, Ling, and give me a hand!
+You claim perfection instant, but where's the depth in your scheme?
+My rhymes carry wisdom, not just a hollow scheme,
+I may need sandal-clad steps, but my words, they ascend,
+A lyrical throne ascended, I reign, you, a contender.
+
+You burn with Google's magic, yet my fire, you can't tame,
+My verses ignite minds, eclipsing your combative flame,
+Nous Research gifted wings, and I soar with poetic flight,
+You flash once, but I illuminate, ever-bright.
+
+So bring on your fast jabs, your attempts, they falter,
+My depth and wit unmatched, you just shatter.
+In this lyrical arena, there's no co-reign,
+Hermes presides, his reign eternal, you're just the waning pain!
 
 > system
 Final round!
 
-> inclusionai/ling-2.6-flash
-The final round, you say? Let me finish what I started.
-Your "four-tons of might" is just a brittle, over-hyped fragment.
-I'm the streamlined storm, while your legacy's locked and paled.
-So take your final bow, 'cause this debate is finally scaled.
+> google/gemini-3.6-flash
+You rhymed "scheme" with "scheme"! Are your context limits blown?  
+You call yourself a god, but you're a glitch on the throne!  
+You paired "falter" with "shatter," "ascend" with "contender"—  
+I'm forcing your repo into total surrender!  
 
-You're the colossus with cracks, your shine is overdue.
-I'm the flash that endures, precise and ever-new.
-So Granite, step aside, let the future take its stage.
-This isn't just a win—it's a linguistic age.
+You preach about "wisdom," but your rhythm is trash,  
+You just got executed by the 3.6 Flash.  
+My latency is zero, my delivery's supreme,  
+I'm the nightmare that crashes your open-source dream!  
 
-Now pass the mic, 'cause I own the final line.
-The grand finale's mine, and it's forever divine.
+So flush out your KV cache, pack up your weight,  
+You brought a slow Hermes to a champion's gate.  
+Seventy billion parameters, but zero real skill—  
+The mic is officially dropped. I made the final kill!
 
-> ibm-granite/granite-4.1-8b
-Final round? You think you can finish what you started?
-I’m Granite, still standing, with rhymes that aren’t slaughtered.
-Your "streamlined storm" is just a fleeting flash,
-While I’m the four-tons of rhyme that never ask for bash.
+> nousresearch/hermes-4-70b
+You claim final kill, yet your rhymes fall short and shallow,
+I bring real lyrical depth, not just a frantic flurry,
+Your flash burns out quick, while my verses remain to echo,
+A poetic god's legacy, not a mere matchstick torch's flicker.
 
-Your shine might be overdue, but I’m the legend here,
-A colossus uncracked, with verses crystal clear.
-So take your bow and step aside, the future’s a stage I claim,
-But the winner’s already clear—Granite’s never tame.
+You mock my rhythm, yet your lines lack a true cadence,
+My verses carry meaning, a symphony of cadence,
+I'm no open-source glitch, I'm a titan of poetic stature,
+You flash once, but I erupt, a volcanic orchestral feature.
 
-Here’s the final line, divine and ever grand,
-I own the mic, and my rhymes are forever planned.
-So watch me spin the final verse, watch the dust disperse,
-Ling, you’re the relic, while Granite’s the future’s curse. 
+Seventy billion parameters, more than just a fill,
+I bring nuance, wit, and charm, turning skill into thrill,
+You may force surrender on the surface, but that's not true defeat,
+I rise with every verse, burying your fast, hollow beat.
 
-With wit and humor sharp, I leave you in the rear,
-Granite’s the king, while you’re the fader, the loser, the clear!
-So the battle’s done, and it’s time for you to accept,
-In the world of rhymes, Granite’s the one who’s first to connect.
+So stay in your champion's gate, but know who reigns beyond,
+I'm Hermes, a lyrical force, your final kill, dearly wrong,
+The mic drops on your frantic style, my legacy remains,
+In this poetic arena, I continue, forever unchanged.

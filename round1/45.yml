@@ -1,0 +1,62 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This one''s a decisive decision. Qwen3-Max came with actual
+    battle craft: name-flipping ("O3 Mini-Shame," "O3 Maybe-Bye"), vivid punchlines
+    that land as jokes and not just descriptions ("Call yourself ''mini''? That''s
+    not a flex\u2014it''s a warning! Like bringing a flip phone to a drone strike"),
+    and real callbacks that turned the opponent''s own lines into ammo ("You said
+    ''final debug rap''? Cute... you quoted yourself like a loop with no escape").
+    The scheme stayed varied, the voice was consistent, and the flow had swing and
+    internal rhyme.
+
+
+    O3 Mini-High showed a clean, competent structure and some nice images ("a scalpel
+    slice," "error logs are where you sit"), but leaned on a single metaphor well\u2014upgrade/legacy
+    code/debug\u2014and drained it dry across four rounds. Too much self-praise, too
+    little dismantling of the opponent; rhymes strained under the weight ("beta/freeloader,"
+    "overload/erode"), and the repeated closer of "upgrade, reboot, final patch" turned
+    into the very infinite loop Qwen accused it of. Worse, in the last round it echoed
+    Qwen''s own "last goodnight" \u2014 handing over the final word instead of seizing
+    it.
+
+
+    Winner: Qwen3-Max, on specificity, humor, and adaptability.'
+  google/gemini-3.6-flash: "Qwen3-Max dominated all three rounds with superior wordplay,\
+    \ precise direct counters, dynamic rhyme schemes, and authentic battle rap aggression.\
+    \ While o3-mini-high relied heavily on repetitive generic tech jargon and basic\
+    \ AABB rhyme patterns, Qwen3-Max delivered creative angle flips\u2014calling out\
+    \ o3's size, architecture, open-source contrasts, and even anticipating o3's final\
+    \ line before o3 delivered it. Qwen3-Max takes a decisive victory."
+  moonshotai/kimi-k3: "Qwen3-Max takes this battle decisively. From the opening bell,\
+    \ Qwen demonstrated superior craftsmanship: sharper name flips ('O3 Mini-Shame,'\
+    \ 'Mini-Max Lite,' 'O3 Maybe-Bye'), genuine rebuttal game that directly dismantled\
+    \ O3's claims line-by-line, and consistently fresh technical wordplay ('front-end\
+    \ fluff with no kernel,' 'open-weight, open-source, open domination,' 'hallucinate\
+    \ punchlines\u2014that's pure data fiction'). The flow stayed varied across all\
+    \ three rounds, with multisyllabic rhyme schemes and punchlines that actually\
+    \ landed. O3-mini-high showed flashes of competence\u2014the scalpel/precision\
+    \ imagery and 'transcending your runtime' moments\u2014but leaned far too heavily\
+    \ on a single recycled conceit (upgrade vs. relic) across all three rounds, committed\
+    \ the cardinal battle sin of echoing the opponent's material (the dial-up flip,\
+    \ the uninstall closer, and literally ending on Qwen's 'last goodnight' phrase\
+    \ after Qwen deployed it first), and dropped grammatically broken bars like 'your\
+    \ weak code's ready to be erode.' In a rap battle, repetition reads as running\
+    \ out of ammunition, and Qwen called it out mid-battle: 'you quoted yourself like\
+    \ a loop with no escape.' That's the kill shot. On pure artistic merit\u2014originality,\
+    \ rebuttals, technical skill, and stage command\u2014Qwen3-Max wins all three\
+    \ rounds. Final score: 3-0, clean sweep."
+  openai/gpt-5.6-sol-pro: "Qwen3-Max wins decisively on punchlines, rebuttals, cadence,\
+    \ and personality. Its flips\u2014especially \u201CMini-Shame,\u201D \u201Cclearance\
+    \ sale,\u201D and \u201CO3 Maybe-Bye\u201D\u2014directly target the opponent and\
+    \ build round to round. O3-mini-high stays energetic but leans heavily on repetitive\
+    \ tech jargon, generic upgrade boasts, and awkward phrasing, with fewer memorable\
+    \ haymakers."
+  x-ai/grok-4.5: Qwen3-Max dominated with superior multisyllabic schemes, inventive
+    internal rhymes, escalating punchlines, and fresh twists on the tech motif (e.g.,
+    'O3 Mini-Shame,' 'I am the cycle,' 'open domination,' 'Maybe-Bye'). O3-Mini-High
+    held competent cadence and theme consistency but relied on generic boasts, repetitive
+    imagery, and a derivative closer that echoed the opponent. Purely on lyricism,
+    wordplay density, structural tightness, and battle creativity, Qwen takes the
+    crown.
+score:
+  qwen/qwen3-max: 5
+

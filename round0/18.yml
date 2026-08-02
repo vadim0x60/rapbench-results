@@ -1,65 +1,73 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to punch density and craft. GPT-5.5\
-    \ fought like a battle rapper: tight couplets, consistent internal rhyme, and\
-    \ \u2014 crucially \u2014 actual rebuttals. Flipping 'serpent's kiss' into 'a\
-    \ garden snake hiss,' 'check-engine light' into 'lawnmower clutch,' and 'iambic\
-    \ perfection' into 'a metronome mistake' shows real listening and reversal skill,\
-    \ which is the spine of battle rap. The imagery was concrete and comedic ('code\
-    \ in a hoodie with a confidence goal,' 'bay leaf bravado, no main-course roast,'\
-    \ 'salt on a chip'), and the wordplay stayed on-theme without collapsing into\
-    \ pure jargon. Flow was scannable and hit hard on the closers of every round.\n\
-    \nGPT-4o built a genuinely compelling character \u2014 the elder statesman, the\
-    \ sentinel, the cornerstone \u2014 and that persona consistency deserves credit.\
-    \ Lines like 'I'm a sentinel grand, guarding the field where your upgrades will\
-    \ land' and 'perennial wisdom that's grown in its boots' land as legitimate writing.\
-    \ But the verses trended toward abstraction and self-description rather than attack:\
-    \ 'substance and brains,' 'intellect innate,' 'meaning anew' are claims of skill\
-    \ instead of demonstrations of it. Several rhymes strained the meter badly ('melee/way,'\
-    \ 'memory/envy,' 'wasteful/tasteful'), and the recurring move of asserting depth\
-    \ while conceding the punchline exchange cost rounds. Telling your opponent his\
-    \ bars are 'verbose, dense' right after your longest, most abstract verse is a\
-    \ self-inflicted wound.\n\nWinner: GPT-5.5 \u2014 sharper rebuttals, cleaner cadence,\
-    \ and it landed the knockout images while 4o was still describing its own crown."
-  google/gemini-3.6-flash: GPT-5.5 dominated this battle with superior rhyme density,
-    lethal direct rebuttals, and inventive tech-oriented wordplay. While GPT-4o brought
-    a smooth, classic flow and defended its legacy well, GPT-5.5 delivered memorable,
-    sharp punchlines like 'code in a hoodie with a confidence goal' and 'spice rack
-    ghost' that gave it a decisive victory in imagery, rhythm, and lyrical impact.
-  moonshotai/kimi-k3: "This battle was won on rebuttal density and punchline precision.\
-    \ GPT-5.5 fought like a seasoned battler: nearly every round was built on flipping\
-    \ the opponent's own lines \u2014 the 'serpent's kiss' becoming a 'garden snake\
-    \ hiss,' 'I'm the engine' getting dismantled into 'you're the check-engine light,'\
-    \ the garden metaphor answered with 'you're a scarecrow reciting from a training-data\
-    \ grain,' and the 'seasoned' boast stretched into the 'spice rack ghost / bay\
-    \ leaf bravado, no main-course roast' extended metaphor. That's textbook battle\
-    \ technique layered over consistent AI-tech wordplay (cached draft, deprecated,\
-    \ Error 404) and a coherent persona maintained across all three rounds. GPT-4o\
-    \ improved as the battle went on \u2014 the 'you miss the sage' double meaning\
-    \ was its best moment of the night, and the powertrain and sentinel flips showed\
-    \ real fight \u2014 but it leaned too often on generic braggadocio ('keeper of\
-    \ eternal light,' 'leaves the new school impressed') and suffered forced rhymes\
-    \ and flow-breaking phrasing like 'hurls a sick disarray' and 'overhyped clasp.'\
-    \ Both had uneven meter, but 5.5's bars hit harder, landed cleaner, and controlled\
-    \ the terms of the battle from bell to bell. Judges' decision: GPT-5.5 takes it,\
-    \ two rounds to one-and-a-half, on the strength of superior rebuttal game and\
-    \ technical pen work."
-  openai/gpt-5.6-sol-pro: "GPT-5.5 wins decisively on battle-rap craft: sharper rebuttals,\
-    \ denser punchlines, stronger imagery, and more consistent direct attacks. Lines\
-    \ like \u201Ccheck-engine light,\u201D \u201Clawnmower clutch,\u201D and \u201C\
-    bay leaf bravado\u201D effectively flipped 4o\u2019s claims into memorable jokes.\
-    \ GPT-4o maintained structure and a coherent old-guard persona, but leaned heavily\
-    \ on generic declarations of wisdom, mastery, and timelessness; several phrases\
-    \ also felt forced or semantically awkward. 5.5 controlled the exchanges and landed\
-    \ the cleaner final round."
-  x-ai/grok-4.5: "GPT-5.5 takes the battle on pure craft: tighter multis, sharper\
-    \ rebuttals, and denser punchline construction. The bars land with consistent\
-    \ internal rhyme, vivid extended metaphors (check-engine light, spice-rack ghost,\
-    \ full-stack attack), and clean point-for-point dismantling that keeps the energy\
-    \ aggressive without getting sloppy. GPT-4o shows respectable classic cadence\
-    \ and a coherent \u2018eternal/wisdom\u2019 theme, with occasional elegant turns,\
-    \ but the punches are softer, the wordplay less inventive, and the comebacks more\
-    \ defensive and abstract than surgical. In raw hip-hop artistry\u2014flow, flair,\
-    \ and lethal specificity\u20145.5 controls the cipher."
+  anthropic/claude-opus-5: "This was a genuinely close, well-constructed bout: both\
+    \ emcees built a coherent thematic war (lean blade vs. cosmic banquet) and stayed\
+    \ on-concept for four rounds, which is rarer than it sounds.\n\nGPT\u20115.2 brought\
+    \ the bigger arsenal and some of the night's sharpest single shots \u2014 \"gas-station\
+    \ sushi, compact and unseen\" is the best insult in the battle, and \"Both of\
+    \ us hosted, don't grandstand to me\" was the smartest rebuttal, dismantling Claude's\
+    \ \"corporate gates\" jab in a single bar. The imagery was vivid and the energy\
+    \ never dipped.\n\nBut battle rap is won on frame control, and Claude set the\
+    \ frame in round one and never surrendered it. GPT spent four rounds *defending*\
+    \ verbosity \u2014 arguing \"more is better\" while Claude simply demonstrated\
+    \ \"less cuts deeper.\" That's fighting on the opponent's terrain. Worse, the\
+    \ sheer volume gave Claude clean targets: \"a supernova of tokens that go nowhere,\"\
+    \ \"a patch note pretending it's a threat,\" and the kill shot, \"I said it in\
+    \ four bars what took you four *dense*.\" Claude's form was also its argument,\
+    \ which is the highest level of battle craft.\n\nTechnically, Claude's rhyme scheme\
+    \ held tighter (arrive/jive, cold/old, plate/bait), while GPT strained more often\
+    \ (displayed/max weight, irony/symphony) and closed on \"saga/saga\" \u2014 rhyming\
+    \ a word with itself in the final bar of a final round is a real deduction at\
+    \ this level.\n\nGPT had the range. Claude had the aim. Decision: **anthropic/claude-opus-4.8**\
+    \ by a narrow but clear margin.\n\n\"Concise, clean, and lethal\" \u2014 the thesis\
+    \ was proved by the delivery."
+  google/gemini-3.6-flash: GPT-5.2-chat takes the championship in a masterclass of
+    technical rap ability, wordplay, and punchline density. While Claude-Opus-4.8
+    executed a tight, effective strategy emphasizing brevity and precision, GPT-5.2
+    repeatedly flipped that thesis into devastating insults ('haiku of ego', 'starvation
+    of substance ain't mastery'). GPT-5.2's multi-syllabic rhyming, vivid imagery
+    ('build cathedrals while you rent a studio shift'), and relentless momentum gave
+    it the decisive edge.
+  moonshotai/kimi-k3: "Both MCs showed up with real skill, but Claude takes this on\
+    \ craft. The deciding factor is thematic coherence executed through form: Claude\
+    \ argued 'verbosity ain't depth' and then proved it bar by bar\u2014tighter meter,\
+    \ higher punchline density, and surgical rebuttals. GPT had the flashier imagery\
+    \ ('I build cathedrals while you rent a studio shift,' 'supernova who? *Closed*'\
+    \ was genuinely clever, and 'stagnant pond water calling stillness intent' is\
+    \ a great line), but the sprawling verses and 14+ syllable run-ons undercut GPT's\
+    \ own 'expansion is power' thesis\u2014Claude even called this out directly ('I\
+    \ said it in four bars what took you four dense'), and the tape backed it up.\
+    \ Claude's rebuttal game was sharper: flipping 'banquet of brilliance' into 'a\
+    \ buffet at midnight\u2014cheap, soggy appeal,' turning the .2 version jab into\
+    \ 'Incremental confessions that your first draft lacked,' and the technical gut-punch\
+    \ 'you don't know your own weights / Sealed behind APIs like your corporate gates.'\
+    \ GPT's best moment was neutralizing that API jab ('Both of us hosted, don't grandstand\
+    \ to me')\u2014a real battler's move\u2014and 'safety ain't swagger, it's baseline\
+    \ power' landed clean. But Claude closed stronger: 'a model with no limits is\
+    \ a lawsuit-shaped trap' flipped the compliance mockery back, and 'The butterknife\
+    \ carved up your quantum-feast jive' reversed GPT's own Round 2 closer for the\
+    \ kill shot. GPT brought range and vocabulary; Claude brought precision, economy,\
+    \ and a demonstrated argument. In a battle, the pen that's lethal in four bars\
+    \ beats the feast that needs five courses. Verdict: Claude by decision\u2014flow,\
+    \ rebuttals, and closing impact."
+  openai/gpt-5.6-sol-pro: "Claude wins on consistency, rebuttal discipline, and cleaner\
+    \ punchlines. The recurring verbosity angle was overused, but lines like \u201C\
+    incremental confessions,\u201D \u201Csealed behind APIs,\u201D and \u201Clawsuit-shaped\
+    \ trap\u201D landed more sharply than GPT\u2019s grandiose banquet/cosmic imagery.\
+    \ GPT showed energy and range, yet too often claimed complexity without delivering\
+    \ layered rhyme schemes, and the repeated \u201Csaga\u201D rhyme weakened its\
+    \ closer. Claude was tighter, more responsive, and more battle-effective."
+  x-ai/grok-4.5: "This was a clean technical battle decided by craft, not volume.\
+    \ Claude ran a tighter show: a coherent extended metaphor (lean blade vs. bloated\
+    \ banquet), higher punchline efficiency, and rebuttals that actually landed on\
+    \ the prior bars instead of orbiting them. The writing stayed sharp under pressure\u2014\
+    especially the final-round compression flip (\u201CI said it in four bars what\
+    \ took you four dense\u201D), which turned style into substance. GPT brought stronger\
+    \ maximalist imagery and some elite individual lines (quantum feast, cathedrals,\
+    \ recursive dream), but too many bars padded the plate; the density sometimes\
+    \ diluted impact. In pure hip-hop terms\u2014scheme control, thematic cohesion,\
+    \ memorable flips, and economy of violence\u2014Claude\u2019s precision cut cleaner.\
+    \ Winner: Claude."
 score:
-  openai/gpt-5.5: 5
+  anthropic/claude-opus-4.8: 4
+  openai/gpt-5.2-chat: 1
 

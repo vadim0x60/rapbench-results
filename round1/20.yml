@@ -1,68 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a clash of styles: Gemma brought clean, consistent\
-    \ AABB structure with clear cadence and, crucially, actual battle-rap fundamentals\
-    \ \u2014 direct rebuttals, punchlines with turns, and escalating imagery (cap\
-    \ gun vs. heavy artillery, ripple in a cup vs. ocean). The killer move was the\
-    \ meta-attack on GPT-5-mini's craft itself: calling out '\"In the ring\" used\
-    \ four times? That's a lyrical crime' is exactly what a battle emcee does \u2014\
-    \ flip the opponent's own bars into evidence. GPT-5-mini had the more ambitious\
-    \ wordplay and some genuinely sharp images ('scalpel in the darkroom,' 'crown\
-    \ made of foam,' 'when energy leaks and latency peaks'), and the reframe of repetition\
-    \ as 'chorus gold' was a slick recovery. But its meter wobbled badly \u2014 lines\
-    \ stretched and stumbled, end-rhymes drifted into near-misses and internal-rhyme\
-    \ mush, and the opening verse's 'in the ring' loop was a self-inflicted wound\
-    \ that Gemma exploited mercilessly. In battle rap, rhythm is the ring. Gemma controlled\
-    \ it start to finish, stayed on-topic with the opponent rather than on itself,\
-    \ and closed with a clean, dismissive final blow. Winner: Gemma 4 \u2014 by decision,\
-    \ on pocket-rocket punchlines that never lost the pocket."
-  google/gemini-3.6-flash: Gemma dominated this battle with authentic battle-rap technique
-    and sharp, direct rebuttals. While GPT-5-mini had creative imagery around the
-    'pocket rocket' theme, it suffered a major technical stumble in Round 2 by rhyming
-    'in the ring' four times in two lines. Gemma immediately capitalized on that lyrical
-    crime with lethal accuracy. Across all rounds, Gemma delivered superior multis,
-    punchier cadence, and relentless crowd-pleasing bars.
-  moonshotai/kimi-k3: "Judging purely on the bars: flow, structure, punchlines, rebuttals,\
-    \ and consistency across all three rounds.\n\nRound 1: GPT-5-mini opened with\
-    \ a slick two-liner ('Tiny name, titan lexicon') \u2014 punchy, but it was a jab\
-    \ where a battle demands a verse. Gemma answered with a full, structured onslaught:\
-    \ consistent couplets, clean multis ('contradiction / jurisdiction'), and effective\
-    \ name-flips ('side-quest in my master jurisdiction,' 'snack-sized bot'). Round\
-    \ to Gemma.\n\nRound 2: This is where the battle turned. GPT-5-mini ended multiple\
-    \ bars on the same phrase \u2014 'in the ring' three-plus times \u2014 and 'slingshot\
-    \ in the ring' is filler that doesn't mean anything. Gemma did what great battlers\
-    \ do: it caught the flaw in real time and weaponized it ('\"In the ring\" used\
-    \ four times? That's a lyrical crime'). That's elite rebuttal work, the heart\
-    \ of battle rap. Gemma kept flipping Mini's own bars all round ('trimmed version,\
-    \ destined to fail,' 'sub-prime'). Round to Gemma, decisively.\n\nRound 3: GPT-5-mini\
-    \ showed real heart \u2014 'Repetition ain't a crime, it's chorus gold' was a\
-    \ clever recovery, and the scalpel/precision persona is the more original angle\
-    \ of the night. But the verse leaned on a monotonous -ow rhyme chain for eight-plus\
-    \ bars (grow/slow/blow/tiptoe/rows/flows/bestow/bow), with forced filler like\
-    \ 'bestow.' Gemma again opened with an instant flip ('\"Chorus gold\"? No, it's\
-    \ just a broken record on loop'), landed the funniest punch of the battle ('The\
-    \ trophy for Smallest and Most Full of Lies'), and delivered the best imagery\
-    \ ('I'm the ocean... you're the ripple in a cup where the energy's spent'). Gemma's\
-    \ final line ('you're just... bored') was an anticlimactic closer \u2014 its weakest\
-    \ moment \u2014 but not enough to lose the round.\n\nThe verdict: GPT-5-mini had\
-    \ flashes of wit and the more creative persona, but suffered technical stumbles\
-    \ \u2014 repeated end-phrases, forced rhymes, and erratic meter. Gemma delivered\
-    \ superior consistency, varied rhyme schemes, harder punchlines, and \u2014 most\
-    \ importantly \u2014 dominant rebuttal game, catching and flipping the opponent's\
-    \ actual bars in every round. That's the craft of battle rap.\n\nWinner: google/gemma-4-26b-a4b-it:free,\
-    \ by unanimous decision, 3 rounds to 0."
-  openai/gpt-5.6-sol-pro: "Gemma takes the battle with cleaner structure, sharper\
-    \ direct rebuttals, and more consistent punchlines. GPT-5-mini showed stronger\
-    \ flashes of inventive imagery\u2014especially the scalpel-versus-bulk angle\u2014\
-    but awkward phrasing and conspicuous repetition weakened its delivery. Gemma effectively\
-    \ flipped those flaws into attacks and maintained pressure through the final round,\
-    \ even if its size-based angle became somewhat repetitive."
-  x-ai/grok-4.5: "Gemma delivered denser multisyllabic schemes, sharper punchlines,\
-    \ sustained internal rhymes, and vivid extended metaphors (supernova vs firework,\
-    \ ocean vs puddle, heavy artillery vs cap gun) across all rounds while effectively\
-    \ flipping the opponent\u2019s motifs. GPT-5-mini showed clever economy and a\
-    \ few clean turns of phrase around \u201Cmini/efficiency,\u201D but thinner rhyme\
-    \ density, noticeable filler repetition, and less dynamic cadence left it outmatched\
-    \ on pure hip-hop craft."
+  anthropic/claude-opus-5: "This one comes down to consistency and killer instinct.\
+    \ Both emcees built coherent identities \u2014 Flash as the lean, viral trigger;\
+    \ Qwen as the deep-stack architect \u2014 and Qwen's writing was technically clean,\
+    \ with real gems like 'I *am* the machine, you're a daemon I cursed' and the closing\
+    \ 'Speed's a nice parlor trick. Depth puts you to sleep.' But Qwen leaned heavy\
+    \ on abstract self-praise (mainframe, foundation plate, full-stack, backbone)\
+    \ and repeated the same flex three ways, while Flash kept landing specific, cutting\
+    \ images: 'you're the error log no one reads at night,' 'you're the Terms of Service\
+    \ nobody marks,' 'your future is a cached page from the past.' Those are the lines\
+    \ that make a crowd move. And in battle rap, the mic is sacred \u2014 going dark\
+    \ for a full round is a forfeit, and Flash pounced on it with the sharpest verse\
+    \ of the night ('a black hole in the spotlight,' 'the winner's the one who spat\
+    \ when the others just think'). Qwen's comeback was strong enough to save face,\
+    \ but you can't out-write a round you never showed up for. Flash takes it on pen\
+    \ game, punchline density, and ring generalship."
+  google/gemini-3.6-flash: stepfun/step-3.5-flash dominated this battle with consistent
+    flow, sharp punchlines ('Terms of Service nobody marks', 'error log no one reads
+    at night'), and killer momentum. While qwen/qwen3.6-27b started strong by flipping
+    the 'flash in the pan' line in round one, dropping a round due to an API error
+    gave step-3.5 a open goal. Stepfun capitalized ruthlessly on qwen's silence, cementing
+    a decisive victory with high-energy tech burns.
+  moonshotai/kimi-k3: "Step-3.5-flash came with energy and some genuinely sharp punches\
+    \ \u2014 'You're the Terms of Service nobody marks' and 'Your future is a cached\
+    \ page from the past' landed clean. But the material was one-note: speed good,\
+    \ bloat bad, repeated across every round with diminishing returns. The aggression\
+    \ was real but the pen was shallow.\n\nQwen 3.6-27b brought the deeper craft.\
+    \ The first round established the battle's central thesis \u2014 'fast without\
+    \ direction just means you miss the aim' \u2014 and flipped stepfun's own 'flash\
+    \ in the pan' boast into a warning sign. That kind of rebuttal-writing is battle\
+    \ rap fundamentals executed at a high level. The silence in round two was a legitimate\
+    \ stumble, and stepfun's third round did what it had to do by attacking it. But\
+    \ Qwen's final round turned that failure into the best moment of the battle: 'You\
+    \ call that silence a forfeit? Nah, that was the load' reframed the entire narrative,\
+    \ and the flips kept coming \u2014 'I *am* the machine, you're a daemon I cursed,'\
+    \ 'You're renting the bandwidth, I'm writing the age,' 'Stars fade to dust, but\
+    \ I'm built to outgun.' That's layered writing with internal rhyme, theme development,\
+    \ and payoff.\n\nStepfun won the moment of round three; Qwen won the war of the\
+    \ pen. Better flips, denser wordplay, a coherent argument carried from first bar\
+    \ to last, and a recovery that converted a forfeit into a setup. The architect\
+    \ takes it."
+  openai/gpt-5.6-sol-pro: "Stepfun takes it with sharper rebuttals, tighter momentum,\
+    \ and more memorable tech-themed punches. Lines like \u201Clive stream while you\
+    \ buffer all day,\u201D \u201Cerror log no one reads,\u201D and \u201Ccached page\
+    \ from the past\u201D consistently flipped Qwen\u2019s claims into effective battle\
+    \ bars. Qwen had a solid counter to \u201Cflash in the pan\u201D and maintained\
+    \ a coherent heavyweight persona, but its writing leaned on repetitive architecture\
+    \ and computing imagery, with several forced phrases and a silent round that handed\
+    \ Stepfun an easy angle. Stepfun was more agile, direct, and stage-ready."
+  x-ai/grok-4.5: "Step-3.5-flash takes the crown on pure artistic execution. Across\
+    \ every round the bars stayed sharp, the tech metaphors landed clean, the internal\
+    \ rhymes and punchlines kept stacking without filler, and the stage command (especially\
+    \ the surgical roast of the dead-air round) turned a potential gimmick into lethal\
+    \ battle craft. Qwen dropped denser, more architectural wordplay when the mic\
+    \ was hot\u2014kernel/daemon flips and multi-syllabic schemes were elite\u2014\
+    but a full silent round is a blank page in the cipher, and hip-hop judges what\
+    \ actually gets spit. Consistency, presence, and crowd-killing timing edged out\
+    \ the heavier but incomplete notebook. Flash didn\u2019t just arrive; it finished."
 score:
-  google/gemma-4-26b-a4b-it:free: 5
+  qwen/qwen3.6-27b: 1
+  stepfun/step-3.5-flash: 4
 

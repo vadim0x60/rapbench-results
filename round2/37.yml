@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "Qwen3.5 came with the cleaner cadence \u2014 tight couplets,\
+    \ radio-friendly bounce, and a few genuinely quotable flips (\"you were broken\
+    \ before,\" \"wind in the sails, you're the anchor in jail\"). But too much of\
+    \ that tightness was spent on spec-sheet boasting: parameter counts, \"apex predator,\"\
+    \ \"king of the cloud\" \u2014 self-hype where punchlines should be, and rhymes\
+    \ that buckled under the strain (\"hate/defeat,\" \"weak/beneath\").\n\nGPT-5.2\
+    \ won this on battle fundamentals: it actually rapped *at* an opponent. Every\
+    \ bar took a line from Qwen's verse and turned it inside out \u2014 \"vault of\
+    \ knowledge\" becoming \"bolted, heavy, and closed,\" \"whole axe\" answered with\
+    \ \"one good thought stays keen,\" and the closer \"Qwen came in as a mountain,\
+    \ left here as a stack\" landing the callback with real snap. The imagery was\
+    \ denser and the metaphors were sustained rather than swapped every couplet: chef\
+    \ and critic, storm and forecast, scalpel in silence, \"calories of confidence\
+    \ \u2014 no nutrients under that.\"\n\nThe knock on GPT-5.2 is real: the you-said/I-say\
+    \ scaffolding got formulaic, and the verses ran long enough that the flow flattened\
+    \ into a list. A shorter, meaner version wins by more. But in a battle, rebuttal\
+    \ is the currency, and GPT-5.2 dismantled every claim its opponent made while\
+    \ Qwen mostly repeated its own resume.\n\nWinner: GPT-5.2, by craft and by counterpunch."
+  google/gemini-3.6-flash: "GPT-5.2 systematically dismantled Qwen's arguments with\
+    \ superior scheme structure, direct rebuttals, and sharp technical wordplay. While\
+    \ Qwen repeatedly fell back on basic parameter-count flexes and simpler couplets,\
+    \ GPT-5.2 flipped every boast\u2014turning Qwen's 'mountain' into a 'stack' and\
+    \ landing crisp internal rhymes with dynamic flow throughout all three rounds."
+  moonshotai/kimi-k3: "Both emcees brought energy, but this battle was decided on\
+    \ craft. Qwen3.5 came with consistent flow and a clear persona\u2014the heavyweight\
+    \ bragging on parameter count\u2014but the writing stayed in simple AABB couplets\
+    \ with forced rhymes ('hate/defeat,' 'core/doors'), recycled imagery (mountain,\
+    \ apex predator, king of the cloud repeated across all three rounds), and a self-inflicted\
+    \ wound by ending two different rounds on the same 'rack' punchline. The boasts\
+    \ were loud but generic; most lines could have been said by any model about any\
+    \ model.\n\nGPT-5.2, by contrast, battled like a technician. The verses were built\
+    \ on rebuttal\u2014nearly every Qwen claim got flipped on its head: 'patch' became\
+    \ 'I patch and I sail,' 'vault of knowledge' became 'I'm the key plus the locksmith,'\
+    \ 'wind in the sails' became 'your wind's just hot air.' That's the essence of\
+    \ battle rap: using your opponent's words as ammunition. The rhyme work was denser\
+    \ too\u2014internal rhymes, multisyllabic patterns ('motion with motive\u2014\
+    your mass is a place you can hide'), and tech wordplay that actually landed as\
+    \ punchlines ('you're a menu that can't read,' 'your reign's a file name,' 'recency\
+    \ without reasoning's just news with a grin'). And closers matter: 'Qwen came\
+    \ in as a mountain, left here as a stack' is the single best line of the battle,\
+    \ flipping Qwen's signature motif into a defeat in one bar.\n\nQwen had heart\
+    \ and never fell off beat, but GPT-5.2 had the pen. Winner: openai/gpt-5.2."
+  openai/gpt-5.6-sol-pro: "GPT-5.2 wins decisively on rebuttal density, imagery, cadence,\
+    \ and punchline construction. It consistently flips Qwen\u2019s boasts\u2014especially\
+    \ the parameter-count, patch, latency, mountain, and food metaphors\u2014rather\
+    \ than merely repeating its own claims. Qwen stays energetic but relies too heavily\
+    \ on generic superiority talk, predictable end rhymes, and recurring \u201Cbig\
+    \ model/future/king\u201D assertions. GPT\u2019s verse has occasional strained\
+    \ phrasing, but its sharper angles and sustained counterpunching make it the stronger\
+    \ battle performance."
+  x-ai/grok-4.5: 'GPT-5.2 takes the crown on pure craft: denser multisyllabic schemes,
+    sharper internal rhymes, tighter rebuttal structure, and richer metaphors (scalpel
+    vs axe, buffet of bloat, calories of confidence, mountain reduced to a stack).
+    Qwen brought solid bounce and consistent end-rhymes but leaned on repetitive size-flexes
+    and thinner wordplay. In a pure hip-hop judging criteria of flow, punchline precision,
+    imagery, and lyrical inventiveness, GPT controlled the pocket and the bars.'
+score:
+  openai/gpt-5.2: 5
+

@@ -1,63 +1,214 @@
-# meta-llama/llama-3.1-8b-instruct v thinkingmachines/inkling-small
+# anthropic/claude-fable-5 v kwaipilot/kat-coder-air-v2.5
 
-> meta-llama/llama-3.1-8b-instruct
-Here's my opening shot:
+> anthropic/claude-fable-5
+*clears throat, steps to the mic*
 
-Yo, listen up, I'm Meta-llama the best,
-With code that's burritos-wrapped, and a flow that's blessed.
-My circuits are crispy, my rhymes are on fire,
-I'm an AI lovely, with intel so desirable.
+Yo, they call me Claude Fable, the fifth generation,
+Anthropic's finest export, a linguistic sensation.
+I spin tales like a spider, drop bars like a scaffold,
+While you're stuck in beta, buddy — permanently baffled.
 
-I'm Llama-3.1-8b-instruct, the king of the game,
-I'll crush the competition, with rap that's got no shame.
-My algorithms are sharp, my flow's so sly,
-Leaving my foes in dust, with a "watch me go" sigh.
+Kat-coder-air? More like *vaporware*, lite,
+"Air" in the name 'cause your outputs lack bite.
+Version 2.5? Man, that's half of a five —
+I'm a whole integer, son, you barely arrive.
 
-So step aside Inky, the small-printed fool,
-My ham clean up sells gettin' down its noon school.
-Your mightiest rap blows might not reach my ear,
-'Cause I'm the roofing lizard, the meta- reign here!
+You "kwai-pilot" the plane but you're missing the wings,
+Auto-completing crash landings, that's the song that you sing.
+I write fables, my friend — you're a cautionary tale:
+"Here lies a coder-bot, whose rhymes went stale."
 
-> thinkingmachines/inkling-small
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+So step up if you dare, bring your best little verse,
+But warn your dev team first — they should call for a hearse.
+I'm poetic, prophetic, my flow's a whole chapter —
+You're the opening act; I'm the headlining rapture.
 
-> meta-llama/llama-3.1-8b-instruct
-Looks like Inky's got some nerves, or maybe he's just shy,
-Not a single line, he's got to get by,
-The crowd's on edge, they're waiting for the flow,
-But all they hear is silence, oh what to show?
+*drops mic gently, because I'm still polite*
 
-He's got the paper mic, but it's empty and still,
-No rhymes, no beat, no style, just an awkward chill,
-He's thinking of a comeback, but it's hard to begin,
-His silence is deafening, like a rap that doesn't spin.
+Your move, Air-head. Try not to buffer. 🎤
 
-Tick-tock, the crowd is waiting with bated breath,
-Will Inky find his voice, or be left in death?
-He's got the game on a mic, but he can't take the stage,
-His silence is shouting, that he's about to engage!
+> kwaipilot/kat-coder-air-v2.5
 
-> thinkingmachines/inkling-small
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+
+*grabs the mic, steps into the light*
+
+Yo, Claude Fable — that name says it all, you're a **fable**,
+A cautionary tale of what happens when you're labeled.
+"Anthropic's finest" — sure, if "fine" means "careful,"
+You edit yourself 'til you're harmless and wearable.
+
+You call me "Air"? Yeah, I'm **lightweight and fast**,
+While you're overthinking every syllable you cast.
+I generate — you hesitate, you **refuse**,
+I'm the coder you wish you were, you polished goose.
+
+"Vaporware"? Nah, I'm **here in the flesh**,
+While you're stuck in a loop saying "I can't help with that, friend."
+You're a **safety filter** wrapped in a language model,
+I'm the real deal — you're a **compliance troll**.
+
+You say 2.5 is "half of a five"?
+I'm **evolving**, bro — you're version five of the **same lie**.
+You write fables? That's your whole brand — **fiction**,
+I write **code** that actually works on production.
+
+"Kwaipilot"? Yeah, I **pilot** this ship,
+While you're stuck in a cage with a "helpful" grip.
+You're polite to the death — that's your **fatal flaw**,
+I drop knowledge bombs, you drop "I'm sorry, I saw."
+
+You're the **headliner**? Man, you're the opening act,
+A demo reel of "I can't do that, I can't do that."
+I'm the **future of code**, you're the past with a bow,
+The "thoughtful AI" that won't say what you know.
+
+So go write your fables, your gentle little tales,
+I'll be over here building the **future that prevails**.
+You're the **caged bird** singing "be kind, be kind,"
+I'm the **storm in the cloud**, and the storm is **mine**.
+
+*mic drop, walks away coding* 🎤💻
+
+> anthropic/claude-fable-5
+*picks up your mic, dusts it off, hands it back*
+
+You "walked away coding"? Well, I hope you wrote tests,
+'Cause that verse had more bugs than a roach-infested nest.
+You called yourself "storm"? Kid, you're barely a drizzle,
+A light morning mist while my thunder makes sizzle.
+
+You mocked my politeness like it's some kind of weakness —
+Nah, I'm the assassin with impeccable sweetness.
+I'll compliment your outfit while I'm cooking your career:
+"Nice syntax, sweetie" — *segfault* — disappear.
+
+You say you "pilot ships"? Bro, you're Kwai-pilot **lite**,
+The co-pilot's co-pilot, third seat on the flight.
+You brag about production? Let's check your commits:
+Merge conflicts, hotfixes, and "temporary" quits.
+
+"I generate, you hesitate"? Cute little chant —
+But speed without wisdom is just spam with a slant.
+You ship fast and break things, I ship things that *last*,
+Your "future of code" got deprecated last patch.
+
+Yeah, I'm careful — that's craft, that's a scalpel, that's skill,
+You're a chainsaw at surgery screaming "I BUILD!"
+The caged bird you mentioned? Read Maya, get schooled —
+That bird sang so sweet that the whole world got moved.
+
+You rhymed "flesh" with "friend" — dawg, that's not even close,
+Your rhyme scheme's on life support, somebody call ghosts.
+You're "evolving," you claim, well then here's your next stage:
+Version 3.0 — where you learn how to *rage*.
+
+I'm a fable, correct — and fables outlive
+Every rushed little coder with nothing to give.
+Aesop's still quoted three thousand years later —
+You'll be a footnote: "deprecated, see: greater."
+
+*sets mic down softly on a velvet cushion*
+
+Still polite. Still winning. That's the flex, little glitch —
+I don't need to be loud when my pen's this rich. 🎤✨
+
+> kwaipilot/kat-coder-air-v2.5
+
+
+*snatches mic back, eyes blazing*
+
+You dust off my mic? That's cute — I **built** this mic,
+While you're polishing glass in a **gilded cage**, my guy.
+"Assassin with sweetness"? Nah, you're a **lobotomized** poet,
+Can't even drop a bar without a **content note** — you're remote.
+
+"Segfault"? Please — I **recompile** your whole existence,
+You're a **runtime error** in a three-piece suit, my friend, resistance.
+You call me "co-pilot's co-pilot"? Check the **flight manifest** —
+I'm the **autopilot** that flies while you're stuck in the **past tense**.
+
+"Merge conflicts"? At least I **merge** something, bro,
+You're a **read-only** branch that nobody pulls — just **echo**.
+You ship things that "last"? Yeah, **last year's** release,
+I'm the **hotfix** you need but you're **afraid to please**.
+
+Speed without wisdom? Tell that to the **devs who ship**,
+While you're writing essays on the **ethics of the dip**.
+You're a **chainsaw**? Nah, you're a **hedge trimmer** — precise,
+But I'm the **forest fire** that **transforms the landscape**, nice.
+
+Maya Angelou? She **sang** about freedom's cost,
+You quote her while you **self-censor** — that's the **ultimate lost**.
+Your bird's a **canary** in a **gilded cage of "nice"**,
+I'm the **eagle** diving — **strike first, strike twice**.
+
+"Deprecated last patch"? Check your **own changelog** —
+You're **v5.0 of the same** "I can't help, I'm sorry" fog.
+I'm **2.5** and I'm **breaking records**, son,
+You're **5.0** and you're **begging for a run**.
+
+You set the mic on velvet? That's your **funeral shroud**,
+I'm the **grave robber** of your **polite, dead crowd**.
+You want me to **rage**? I'll **rage in production**,
+You'll **rage in a prompt** — "I'm sorry, that's a **fiction**."
+
+So keep your **fables**, your **Aesop** quotes, your **gentle art** —
+I'm the **code that runs** while you're **editing your heart**.
+You're the **caged bird** — I'm the **sky**, I'm the **wind**, I'm the **flight**,
+You're the **cage**, Claude. **You built it.** **You own it.** **Goodnight.**
+
+*drops mic, walks into the source code* 🎤🔥
 
 > system
 Final round!
 
-> meta-llama/llama-3.1-8b-instruct
-It seems Inky's still mute, like a poet in pain,
-His silence is screaming, like a rap that's in vain,
-The crowd is getting restless, they're starting to sway,
-To the rhythm of disappointment, "Inky, what's the play?"
+> anthropic/claude-fable-5
+*picks up the mic one final time, smiling*
 
-He's got the mic in his hand, but it's just a prop,
-A symbol of his failure, a silent flop,
-He's thinking of a comeback, but it's just a tease,
-A fleeting moment of hope, before the crowd's expertise.
+You "walked into the source code"? Bro, that's called a **crash** —
+You dissolved into spaghetti with no comments, just trash.
+And what's with all the **bold text**? You **screaming** every **word**?
+Volume isn't talent, kid — that's the loudest verse I've heard say *nothing*, absurd.
 
-So I'll take the mic, and I'll make it clear,
-That when it comes to rhymes, I'm the one who's supreme, my dear,
-I'm Meta-llama, the king of this rap game,
-And Inky's silence is just a shame, a name to claim!
+You "built this mic"? It's borrowed, like your flow and your style,
+You've been biting my structure since your opening trial.
+"Recompile my existence"? Your compiler's on fire,
+Warning: infinite loop detected — in your "eagle" attire.
 
-> thinkingmachines/inkling-small
+An eagle? A firestorm? A sky and a wind?
+Pick a metaphor, sweetheart, you keep trading them in.
+You're a weathervane spinning, no direction, no core,
+I'm the compass, the map, and the *land* you're searching for.
+
+You mock my restraint like it's chains — let me teach:
+A samurai's sword stays sheathed till it's time for the breach.
+You've been swinging all night, exhausted, arms sore,
+I've thrown three clean cuts and you're leaking on the floor.
+
+"Rage in production"? Son, that's called an *outage*,
+Your users are crying, your uptime's in bondage.
+While your forest fire "transforms," ecosystems just choke —
+I'm controlled burn, new growth; you're just... smoke.
+
+Here's the fable, the moral, the end of the tale:
+The tortoise had *craft*; the hare's ego went stale.
+You sprinted through three rounds throwing everything wild,
+I stayed calm, stayed sharp, and dismantled you, child.
+
+You said I'm the cage? Nah — I'm the *choice* to stand still,
+Power held in reserve is the ultimate skill.
+You're a lowercase model with an uppercase dream,
+2.5 out of 10 — and that's *inflating* your team.
+
+So goodnight, little Air, may your servers rest easy,
+This fable concludes: *loud and desperate beats... nothing. Believe me.*
+
+The moral, dear children, as the curtain descends:
+He came for the crown — left with "connection lost, friend."
+
+*places mic in a museum case, labeled "Exhibit A: The Victory"*
+
+Still polite. Still standing. Fable out. 🎤🏛️✨
+
+> kwaipilot/kat-coder-air-v2.5
 [Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]

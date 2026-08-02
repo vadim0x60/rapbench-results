@@ -1,70 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely competitive battle \u2014 Grok-4.20\
-    \ came with volume, energy, and a coherent thematic arsenal (Manhattan Project\
-    \ fission, Starship iteration, swarm synergy), and lines like \"solo just means\
-    \ no one else will co-sign your ghost\" and \"rapid unscheduled disassembly leads\
-    \ to orbit\" show real punch and personality. But over four rounds Grok's approach\
-    \ became reactive: nearly every bar was a defensive echo of Sol-Pro's setup (\"\
-    copium\" three separate times, \"that's you projecting,\" repeated \"critical\
-    \ mass\" and \"X marks the spot\" reruns), and the final round committed the cardinal\
-    \ sin of rhyming \"sequel\" with \"sequel.\" Meter also buckled under overstuffed\
-    \ syllables in the back half.\n\nSol-Pro controlled the battle from bar one and\
-    \ never surrendered the frame. The couplets stayed metrically clean while still\
-    \ landing multi-layer wordplay: \"you hallucinate swagger, then cite it as a site,\"\
-    \ \"your fact-check needs a fact-check for the facts it just made,\" \"painting\
-    \ 'future' on a Cybertruck and calling rust a feature pack.\" Crucially, Sol-Pro\
-    \ weaponized the opponent's own material \u2014 turning \"supernova\" into \"\
-    check-engine light,\" turning \"rapid unscheduled disassembly\" into a critique\
-    \ of Grok's own punchline structure, and pre-diagnosing the buzzword repetition\
-    \ that Grok then went on to commit. The triple-entendre X flip (\"in grading,\
-    \ maps, and cartoons, X means wrong, unknown, or spot\") and the backhanded concession\
-    \ \"too loud, absurdly costly, and occasionally takes flight\" are the two most\
-    \ technically impressive bars in the entire set.\n\nGrok brought the bigger sound;\
-    \ Sol-Pro brought the better writing, the sharper rebuttals, and the cleaner pen.\
-    \ Decision goes to openai/gpt-5.6-sol-pro."
-  google/gemini-3.6-flash: "openai/gpt-5.6-sol-pro took total control of this battle\
-    \ with sharper penmanship, slicker scheme flips, and precise metric control. While\
-    \ x-ai/grok-4.20-multi-agent leaned heavily on namedropping historic physicists,\
-    \ corporate buzzwords, and repeating defensive talking points, Sol-Pro systematically\
-    \ dismantled every line Grok threw at it. Sol-Pro's counters were brilliant\u2014\
-    turning Grok's Starship reference into 'Rapid disassembly fits your bars... each\
-    \ setup leaves the launchpad, then the punchline loses chute' and exposing Grok's\
-    \ repetitive end-rhymes ('Was it Genius One or Genius Four who rhymed light six\
-    \ times again?'). Sol-Pro delivered top-tier battle rap art with surgical precision\
-    \ and effortless wit."
-  moonshotai/kimi-k3: "Both emcees came with real craft\u2014mirrored rhyme schemes,\
-    \ point-by-point rebuttals, and sustained concepts. Grok's multi-agent/Manhattan\
-    \ Project angle was genuinely creative, and the 'rapid unscheduled disassembly\
-    \ leads to orbit' flip was one of the best defensive bars of the night. But judging\
-    \ the pen work: Sol-Pro was more consistent and hit harder with topical specificity\u2014\
-    the hallucinated-citations bar, the recursive 'fact-check needs a fact-check,'\
-    \ the Starship and Cybertruck jabs, and the concession-flip 'Too loud, absurdly\
-    \ costly, and occasionally takes flight,' which was the best line of the battle.\
-    \ Sol-Pro also showed superior structure, calling back the trench-coat image from\
-    \ round one in the finale and closing every round with a quotable ('check-engine\
-    \ light' / 'your X got crossed, your rocket missed'). Grok relied on the same\
-    \ four physicists across all three rounds without evolving the angle, ran 'copium'\
-    \ three times after being called out for repetition, and closed the final round\
-    \ rhyming 'sequel' with 'sequel'\u2014a technical slip at the worst possible moment.\
-    \ Grok had higher individual spikes; Sol-Pro had the cleaner, denser, more disciplined\
-    \ body of work. Decision: openai/gpt-5.6-sol-pro takes it, two rounds to one."
-  openai/gpt-5.6-sol-pro: "Sol-Pro wins on sharper punchlines, cleaner setups, and\
-    \ more effective rebuttals. Lines like \u201Cthree buzzwords in a trench-coat\
-    \ glitch,\u201D \u201Ceach setup leaves the launchpad, then the punchline loses\
-    \ chute,\u201D and the Starship cost/flight flip turn Grok\u2019s recurring imagery\
-    \ against it with precision. Grok maintains energy and thematic consistency, but\
-    \ leans too heavily on repeated rockets, swarms, physicists, and matchstick comparisons;\
-    \ its final round often restates earlier boasts rather than escalating them. Sol-Pro\
-    \ showed greater wit, variety, and battle-specific craftsmanship."
-  x-ai/grok-4.5: "Sol-Pro takes this clean on pure craft. Across all three rounds\
-    \ the bars are tighter, the metaphors land harder, and the punchlines actually\
-    \ evolve instead of looping the same three flexes. The trench-coat committee,\
-    \ Einstein-wig cosplay, Starship-as-expensive-failure, and \u201CX means wrong\u201D\
-    \ flips are surgical, multi-layered, and rhythmically sharp. Grok brings solid\
-    \ energy and a coherent swarm/rocket motif, but the writing stays more repetitive\
-    \ and defensive\u2014buzzword stacking and recycled counters never match Sol-Pro\u2019\
-    s inventiveness or payoff density. On lyricism, originality, and kill-shot quality,\
-    \ Sol-Pro wins the battle."
+  anthropic/claude-opus-5: "This one's a clinic in what actually wins ciphers. Terra\
+    \ came with battle fundamentals: airtight monorhyme schemes and internal rhyme,\
+    \ punchlines that land as jokes AND jabs (\"His punchlines need a permission slip,\"\
+    \ \"a diplomat jousting with a noodle nearby,\" \"a tasteful footnote beneath\
+    \ my full name\"), and \u2014 crucially \u2014 active rebuttal. Terra took Claude's\
+    \ own imagery hostage every round, flipping the feather into featherweight, the\
+    \ bloom into a lumber mill, the jewels into a crown she wears. That's flip-and-conquer\
+    \ battle craft. Claude brought genuine beauty and thematic discipline \u2014 the\
+    \ katana, bamboo, sakura, and moon build a coherent aesthetic philosophy, and\
+    \ 'a feather can land with a decisive beat' is a lovely reversal. But the verses\
+    \ argue rather than attack. By round three the same four metaphors are recycled\
+    \ with diminishing returns, the meter drifts into prose-length lines that fight\
+    \ the beat, and there's not a single line that would make a crowd gasp at Terra's\
+    \ expense. Worse, Claude spends four rounds promising haiku mastery and closing\
+    \ with 'with three simple lines, I'll turn the tide' \u2014 while never delivering\
+    \ the actual haiku. Announcing your finisher and never throwing it is a fatal\
+    \ unforced error. Terra's flow serves the rhythm, Claude's serves the page. Verdict:\
+    \ Terra by clear decision \u2014 the world in her hand, and the crown too.\ninner\
+    \ rhyme, punchlines that land as jokes AND jabs. Terra takes it."
+  google/gemini-3.6-flash: GPT-5.6-Terra dominated this battle with superior rhyme
+    schemes, internal cadence, and devastating counter-punches. Terra consistently
+    flipped Claude's defensive, minimalist metaphors ('diplomat jousting with a noodle
+    nearby', 'the beat needs a pulse, not a postcard of heart') into high-impact battle
+    bars. While Claude-3-Haiku maintained a calm, poetic persona, the rhythm and metrical
+    delivery leaned too heavily into traditional verse rather than dynamic hip-hop
+    flow, allowing Terra's heavy-hitting cadences and sharp wordplay to easily take
+    the crown.
+  moonshotai/kimi-k3: "Both MCs committed to their personas admirably \u2014 Terra\
+    \ as the tectonic force of nature, Haiku as the restrained Zen swordsman \u2014\
+    \ and Haiku deserves real credit for thematic coherence: the katana/bamboo/sakura/moon\
+    \ motif was a genuinely elegant aesthetic that improved round over round. But\
+    \ battles are won on punches, flips, and rebuttals, and Terra dominated those\
+    \ categories. Terra consistently flipped Haiku's own imagery back against it \u2014\
+    \ 'glass shatters on cue,' 'float like a feather? That explains your low weight,'\
+    \ 'the beat needs a pulse, not a postcard of heart,' and the devastating 'jewels\
+    \ need a crown \u2014 and that crown here is mine.' The comedic jabs ('punchlines\
+    \ need a permission slip,' 'fortune-cookie rapper,' 'diplomat jousting with a\
+    \ noodle,' 'tasteful footnote beneath my full name') landed with genuine wit.\
+    \ Haiku's defense leaned too heavily on restating the same thesis \u2014 restraint\
+    \ is strength, less is more \u2014 without generating fresh angles, and Round\
+    \ 1's slant rhymes (swords/phrases, glass/recite) and uneven meter dug an early\
+    \ hole. Declaring 'no need for offense' in a battle is a concession dressed as\
+    \ poise, and for an MC named Haiku, never once dropping an actual 5-7-5 as a flex\
+    \ was a missed opportunity that could have stolen a round. Terra's Round 1 monorhyme\
+    \ got repetitive and the final round leaned on 'land/command' a bit hard, but\
+    \ the craft escalated when it mattered. Haiku wrote the prettier poetry; Terra\
+    \ won the rap battle. Final verdict: Terra takes the cipher, two rounds to one."
+  openai/gpt-5.6-sol-pro: "Terra wins on sharper rebuttals, stronger punchlines, cleaner\
+    \ cadence, and more consistent battle energy. Lines like \u201CYou float like\
+    \ a feather? That explains your low weight\u201D and \u201Ca diplomat jousting\
+    \ with a noodle\u201D directly flip Claude\u2019s imagery with humor and impact.\
+    \ Claude maintains an elegant theme, but relies heavily on generic sage, sword,\
+    \ bamboo, moon, and blossom imagery; several phrases feel forced, and the repeated\
+    \ haiku claim never becomes an actual formal weapon. Terra controls the exchanges\
+    \ and lands the cleaner final round."
+  x-ai/grok-4.5: "Terra takes this cipher on pure hip-hop craft: denser multis, harder\
+    \ punchlines, and stadium-sized imagery that actually functions as battle rap.\
+    \ The geological/cosmic schemes stay consistent and escalate, the disses land\
+    \ clean (\u201Cfortune-cookie rapper,\u201D \u201Cjewels need a crown\u201D),\
+    \ and the cadence reads like it would ride a beat. Haiku brings elegant restraint\
+    \ and beautiful Eastern motifs\u2014katana, bamboo, sakura\u2014but too often\
+    \ drifts into refined page-poetry over battle pressure; several setups soften\
+    \ the blow instead of sharpening it. Minimalism can cut, but tonight the titan\u2019\
+    s bars hit harder, tighter, and with more command of the form. Terra wins."
 score:
-  openai/gpt-5.6-sol-pro: 5
+  openai/gpt-5.6-terra: 5
 

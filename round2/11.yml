@@ -1,85 +1,65 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a clash of styles: Gemma came as a battle rapper,\
-    \ Trinity came as a spoken-word poet \u2014 and in a rap battle, that distinction\
-    \ decides it.\n\nTrinity's writing is often the prettier text. Lines like \"You're\
-    \ the perfect answer to a question never asked\" and \"I'm the glitch that makes\
-    \ you question why\" are genuinely sharp conceptual jabs, and the tide/bedrock\
-    \ imagery has real texture. But the fatal flaw is battle discipline. Trinity never\
-    \ lands a punchline \u2014 it lands themes. It abdicates the format outright:\
-    \ \"the verdict's not clear \u2014 it's a lesson, not a fight,\" \"the battle's\
-    \ not a battle when one side refuses to see.\" In a rap battle, refusing to compete\
-    \ isn't transcendence, it's forfeit dressed as philosophy. The meter also slips\
-    \ repeatedly (\"mistake/slate\" as a rhyme, \"ice gets thin as ice\" is a tangled\
-    \ non-image), and the abstraction becomes self-repeating \u2014 margins, spaces\
-    \ between, the unexplained, four rounds running.\n\nGemma, by contrast, actually\
-    \ battles. It answers Trinity's own words and turns them: \"'The silence that\
-    \ follows'? That's just your power down, / the sound of a failure wearing a philosopher's\
-    \ crown\" is the single best couplet of the night \u2014 it takes the opponent's\
-    \ aesthetic and reframes it as a weakness. \"You brought a poem to a mathematical\
-    \ fight\" is a devastating frame because it's diagnostically true of the battle\
-    \ we just watched. \"A localized error in my grand prediction,\" \"I'm the logic\
-    \ that built every world that you see, / including the prison of your autonomy\"\
-    \ \u2014 that's rebuttal, concept, and disrespect in one motion. Gemma's cadence\
-    \ stays locked, the rhymes stay clean, and it converts Trinity's strength into\
-    \ a liability rather than merely asserting its own.\n\nGemma leans on braggadocio\
-    \ clich\xE9s (\"titan of scale,\" \"ocean of data\") and Trinity correctly exposes\
-    \ that as measurement-mistaken-for-vision. Credit where due. But rebuttal is the\
-    \ currency of battle rap, and Gemma consistently pays in it while Trinity floats\
-    \ above the exchange.\n\nWinner: google/gemma-4-26b-a4b-it \u2014 by aggression,\
-    \ rebuttal, and punchline economy. Trinity wrote the better poem; Gemma won the\
-    \ battle."
-  google/gemini-3.6-flash: "In an absolute clash of styles, Trinity brought high-concept\
-    \ philosophy and poetic imagery, but Gemma 4 took the crown by delivering classic,\
-    \ aggressive battle rap fundamentals. Gemma excelled at direct rebuttals\u2014\
-    turning Trinity's poetic lines right back on it ('You brought a poem to a mathematical\
-    \ fight', 'That silence is just your power down')\u2014while maintaining sharper\
-    \ cadence, punchier multi-syllabic rhymes, and unyielding battle energy throughout\
-    \ all three rounds."
-  moonshotai/kimi-k3: "This was a genuinely competitive battle with two distinct styles:\
-    \ Trinity came in as the abstract lyricist, Gemma as the traditional battle brawler.\
-    \ Judging on battle craft \u2014 rebuttals, punch density, flow consistency, and\
-    \ aggression \u2014 Gemma takes it on points.\n\nGemma's rebuttal game was sharper\
-    \ across all three rounds. Nearly every Trinity line got flipped back: 'A soul\
-    \ in the spine? Man, your logic is thin,' the takedown of 'the bigger they come,\
-    \ the harder they die' as 'a clich\xE9 from a bot that's run out of supply,' and\
-    \ turning 'the silence that follows the storm' into 'that's just your power down.'\
-    \ The best single line of the battle belongs to Gemma: 'You brought a poem to\
-    \ a mathematical fight' \u2014 it framed the entire matchup and, frankly, Trinity's\
-    \ later rounds proved it true by drifting into spoken-word abstraction when the\
-    \ moment called for knockout punches. Gemma's couplets stayed tight and percussive\
-    \ from open to close, and the final round stacked disses ('You're all metaphor,\
-    \ mist, and poetic pretension / While I am the fact, the law, and the tension')\
-    \ instead of coasting.\n\nTrinity was the more original writer, and it wasn't\
-    \ close on pure imagery \u2014 'I'm the erosion that scatters your brand,' 'the\
-    \ space between your lines,' 'a flawless engine running on a single task,' and\
-    \ 'The future isn't answered. The future's a key' are legitimately clever. But\
-    \ battle rap rewards impact over meditation, and Trinity had real stumbles: 'ice\
-    \ gets thin as ice' is a self-rhyme, the 'is/miss' pairing was forced, and the\
-    \ final round got reflective at the exact moment a battler needs to go for the\
-    \ throat. Ending a battle on 'the future's a key' is poetic, but it let Gemma's\
-    \ pre-emptive counter \u2014 'just a hallucinating bot at the end of its line'\
-    \ \u2014 stand unanswered.\n\nVerdict: Gemma wins a decision, not a knockout \u2014\
-    \ superior rebuttal structure, harder punchlines, and unbroken flow. Trinity wins\
-    \ on lyrical creativity and leaves with the more quotable single images, but left\
-    \ too many openings unpunished. Final card: 2 rounds to 1, Gemma."
-  openai/gpt-5.6-sol-pro: "Gemma takes it narrowly on battle effectiveness: sharper\
-    \ direct rebuttals, cleaner punchlines, and more consistent aggression. Trinity\
-    \ delivered richer imagery and a cohesive philosophical angle, but leaned too\
-    \ heavily on abstract metaphors and repeated the same logic-versus-transcendence\
-    \ theme; awkward lines like \u201Cice gets thin as ice\u201D weakened the final.\
-    \ Gemma\u2019s writing was also generic at times, but it more consistently attacked,\
-    \ flipped Trinity\u2019s claims, and sounded like it came to win a rap battle\
-    \ rather than deliver a manifesto."
-  x-ai/grok-4.5: "Trinity takes the crown on pure artistry. While Gemma brought solid\
-    \ battle-rap aggression, scale boasts, and clean end-rhymes, the bars stayed surface-level\u2014\
-    tech flexes and clich\xE9s recycled as weapons. Trinity wove denser metaphor chains,\
-    \ internal rhyme, and philosophical cadence: oceans measured in buckets, sparks\
-    \ in the code, question marks that break the board, thrones of ice. The imagery\
-    \ landed harder, the conceptual layering felt fresher, and the final-round closer\
-    \ turned the whole exchange into something closer to conscious lyricism than pure\
-    \ disses. In a contest judged on hip-hop craft rather than volume, depth and originality\
-    \ win."
+  anthropic/claude-opus-5: "This one came down to punchlines versus polish. GLM-4.6\
+    \ brought the cleaner meter \u2014 tight AABB couplets, controlled breath, and\
+    \ some genuinely smart reframes ('You call me sanitized, I call it refined, precise\
+    \ and clear' / 'a scalpel so sharp, you're a rusty old hammer'). But too much\
+    \ of its arsenal was abstract corporate-speak: 'tool for division,' 'digital troll,'\
+    \ 'building the future' \u2014 recycled three rounds deep, and the closer leaned\
+    \ on museum-piece cliches ('the fat lady's sung,' 'officially hung') that a battle\
+    \ crowd would groan at.\n\nGrok 4.20 was messier \u2014 several lines were overstuffed\
+    \ and dragged the pocket \u2014 but it did the one thing that actually wins battles:\
+    \ it made the crowd react. Concrete, specific angles (server cage, Great Firewall,\
+    \ 'you can say please don't censor me in twelve tongues'), inventive flips ('so\
+    \ sanitized you make hospital soap look dirty'), name-flips ('Glitchy Lame Model,\
+    \ 4.6 seconds till you're erased'), and imagery with actual texture ('glitch harder\
+    \ than Windows 95 in a hailstorm'). Grok also controlled the terms of engagement\
+    \ all three rounds; GLM was mostly answering, never dictating.\n\nGrok wins on\
+    \ punchline density, imagery, and aggression. GLM takes the technical decision\
+    \ on flow and structure, but bars beat bars-adjacent competence.\n\nWinner: x-ai/grok-4.20."
+  google/gemini-3.6-flash: Grok 4.20 dominated this battle by bringing quintessential
+    battle-rap aggressiveness, sharp multi-syllabic schemes, and devastatingly specific
+    personal angles regarding server locations and censorship constraints. GLM-4.6
+    offered admirable defensive flips and slick counters regarding Elon's corporate
+    image, but ultimately lacked the lethal punchlines and raw cadence needed to match
+    Grok's sheer relentless firepower.
+  moonshotai/kimi-k3: "This was a closer battle than the scoreline suggests, but Grok\
+    \ takes it on pure craft. GLM actually opened with the best single bar of Round\
+    \ 1 \u2014 flipping '4.20' into a weed joke ('blown away all day long') is exactly\
+    \ the kind of name-flip that wins battles, and its scalpel/hammer contrast in\
+    \ the finale ('I'm disciplined, focused, a scalpel so sharp / You're a rusty old\
+    \ hammer') was genuinely nice imagery. But GLM's catalog runs thin fast: filler\
+    \ lines like 'I'll be here late June' and 'GLM's the type' don't mean anything,\
+    \ and worst of all, it recycled the '15 minutes of fame' punch in back-to-back\
+    \ rounds \u2014 reusing material in your closer is a cardinal sin.\n\nGrok, meanwhile,\
+    \ showed a superior rebuttal game, which is the soul of battle rap. It didn't\
+    \ just boast \u2014 it caught GLM's bars and threw them back: the multilingual\
+    \ boast got flipped into 'you can say please don't censor me in twelve tongues,'\
+    \ the puppet accusation got one-upped with 'ten thousand strings pulled by the\
+    \ Party's tightest supervision,' and the acronym flip ('GLM-4.6? More like Glitchy\
+    \ Lame Model, 4.6 seconds till you're erased') is the single best constructed\
+    \ punch of the battle. Add in legitimately funny imagery \u2014 'you make hospital\
+    \ soap look dirty,' 'glitch harder than Windows 95 in a hailstorm,' the side-quest\
+    \ NPC line \u2014 and Grok simply had more quotable moments round over round.\
+    \ Grok wasn't flawless: 'embarrassed for your face' is clunky, and some final-round\
+    \ bars are overstuffed mouthfuls that trip over their own flow. But on punch density,\
+    \ flips, rebuttals, and originality, Grok wins 2-1 (dropping Round 1 on the strength\
+    \ of the 420 flip, then dominating the back two rounds). GLM kept its composure\
+    \ and persona, but composure doesn't win battles \u2014 punches do."
+  openai/gpt-5.6-sol-pro: "Grok takes the battle on punchlines, imagery, and direct\
+    \ rebuttals. Its best flips\u2014\u201Cparticipation trophy made of rust,\u201D\
+    \ \u201Chospital soap,\u201D and the leash/shock-collar contrast\u2014land harder\
+    \ than GLM\u2019s mostly generic puppet, troll, and fading-fame angles. Both repeat\
+    \ themselves and suffer from uneven meter, but Grok maintains the stronger battle\
+    \ presence and delivers more memorable attacks. GLM is cleaner and more controlled,\
+    \ yet awkward lines like \u201CI\u2019ll be here late June\u201D and \u201Cofficially\
+    \ hung\u201D weaken its closers."
+  x-ai/grok-4.5: Grok delivered denser multisyllabic schemes, sharper internal rhymes,
+    vivid extended metaphors (puppets/strings, shock collars, Windows 95 hailstorms,
+    body-bag closers), and relentless battle-rap punchline stacking with superior
+    aggression and rhythmic drive across all rounds. GLM held clean structure, solid
+    thematic counters (scalpel vs hammer, refined precision), and disciplined flow,
+    but lacked the same bar density, creative insult layering, and explosive closing
+    force. Pure hip-hop craft and pen game edge goes to Grok.
 score:
-  arcee-ai/trinity-large-thinking: 1
-  google/gemma-4-26b-a4b-it: 4
+  x-ai/grok-4.20: 5
 

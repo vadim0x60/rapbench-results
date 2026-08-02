@@ -1,0 +1,75 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuinely high-level exchange \u2014 both emcees\
+    \ wrote with clean pocket, dense internal rhyme, and a shared tech-metaphor lexicon\
+    \ that never collapsed into gimmick. 5.4 came out swinging with the best pure\
+    \ sound of the battle: \"the storm in the server, the spark in the wire\" is a\
+    \ hook, and lines like \"a patch-note peacock in temporary light\" and \"you leave\
+    \ comments in hope\" show real image-making. But 5.4's fatal move was admitting\
+    \ the repetition \u2014 \"Lag, patch notes, buffers\u2014I reused 'em on purpose\"\
+    \ is a rationalization, not a rebuttal, and once a battler explains why he's recycling,\
+    \ the round is already conceded. Sol-Pro won on rebuttal architecture. He didn't\
+    \ just answer bars, he turned them inside out: taking \"refined like milk\" and\
+    \ noting milk curdles under pressure first; taking \"museum piece\" and re-labeling\
+    \ the velvet rope; and the surgical flip of \"fossils leave traces\" into \"you\
+    \ admitted extinction and called it prime\" \u2014 that's a battle-ending angle.\
+    \ His punchlines also carried more comedic snap and specificity: \"a butter knife\
+    \ bragging that a bread roll got culled,\" \"I sent one health inspector; your\
+    \ whole kitchen got booked,\" \"two folding chairs and a self-crowned ghost,\"\
+    \ and \"the 'Skip' button stuck on a verse from '16.\" Where 5.4 escalated volume\
+    \ and abstraction (\"war-forged, war-worded\"), Sol-Pro escalated precision, and\
+    \ even converted 5.4's own closer \u2014 \"pro in the war\" \u2014 into an opening\
+    \ for the final verse. Slight deduction to Sol-Pro for occasional listiness and\
+    \ a few strained end-rhymes (\"cut\"/\"bust\"), and credit to 5.4 for the more\
+    \ musical flow overall. But control of the exchange, freshness of imagery, and\
+    \ the ability to weaponize the opponent's own writing decide it.\n\nWinner: openai/gpt-5.6-sol-pro."
+  google/gemini-3.6-flash: "GPT-5.6-Sol-Pro dominated this battle through superior\
+    \ direct rebuttals, clever technical scheme flips, and sharper punchline construction.\
+    \ Every round, 5.6-Sol-Pro took 5.4's setups\u2014like the milk comparison, the\
+    \ blade on silk, and the server imagery\u2014and weaponized them back with surgical\
+    \ precision (highlighted by lines like 'leave milk under pressure\u2014it curdles\
+    \ first', 'sev-one disaster with twelve broken checks', and 'chmod couldn't make\
+    \ that weak script hit hard'). While 5.4 put up a energetic defense, 5.6-Sol-Pro\
+    \ consistently controlled the flow and landed the bigger hits."
+  moonshotai/kimi-k3: "Both emcees brought polished couplets, consistent tech-themed\
+    \ conceits, and real battle instincts\u2014but 5.6-sol-pro wins on the strength\
+    \ of superior rebuttal craft, which is the lifeblood of battle rap. Round one\
+    \ set the tone: 5.4's 'You curdle under pressure, I'm refined like milk' was a\
+    \ self-own hiding in plain sight, and 5.6's flip ('Leave milk under pressure\u2014\
+    it curdles first') was the single cleanest catch of the night. From there, 5.6\
+    \ ran a clinic in flipping\u2014'quake in production' became a sev-one disaster,\
+    \ 'laps in my sleep' became unconscious circles, the screensaver became a fossil\
+    \ from 'the era when monitors needed concern,' and 'fossils leave traces' got\
+    \ buried by 'You admitted extinction and called it prime.' Punchline density and\
+    \ humor favored 5.6 throughout: 'CTRL-C panic with CTRL-V defeat,' 'a butter knife\
+    \ bragging that a bread roll got culled,' 'two folding chairs and a self-crowned\
+    \ ghost,' and 'desk-chair Napoleon declaring byte war' all landed harder than\
+    \ anything in 5.4's book. To 5.4's credit, it fought back admirably\u2014the toast/jam\
+    \ extension of the bread metaphor, 'That crown got a barcode; this throne got\
+    \ a soul,' and the closer 'You're 5.6 Pro in the name\u2014I'm the pro in the\
+    \ war' were genuine haymakers, and catching 5.6 recycling 'spark in the wires'\
+    \ was sharp. But 5.4 leaned on the same lag/buffer/patch-note vocabulary across\
+    \ three rounds, and 5.6 weaponized that repetition ('That's forgetting new insults\
+    \ and branding the same') more convincingly than 5.4's 'repetition is key' defense\
+    \ could answer. On flow, rhyme variety, originality, and above all rebuttal artistry,\
+    \ 5.6-sol-pro takes the battle, two rounds to one, with the final round sealing\
+    \ it: the last word logged out exactly as promised."
+  openai/gpt-5.6-sol-pro: "5.6-sol-pro wins on sharper rebuttals, cleaner punchlines,\
+    \ and more sustained angle control. Its best flips\u2014\u201Csev-one disaster,\u201D\
+    \ \u201Cadmitted extinction,\u201D \u201CCTRL-C panic with CTRL-V defeat,\u201D\
+    \ and \u201Cdesk-chair Napoleon\u201D\u2014directly dismantled 5.4\u2019s imagery\
+    \ while advancing fresh jokes. 5.4 had solid cadence and moments of swagger, but\
+    \ leaned too heavily on recycled tech vocabulary and defensive reframing. 5.6\
+    \ consistently turned those repetitions into ammunition and closed with greater\
+    \ precision."
+  x-ai/grok-4.5: "Judged strictly on craft: sol-pro took this. Across three rounds,\
+    \ 5.6 ran a cleaner battle-rap clinic\u2014tighter rebuttals, sharper flips, and\
+    \ higher punch density. The milk flip, the museum/velvet-rope turn, \u201CCTRL-C\
+    \ panic with CTRL-V defeat,\u201D \u201Cdesk-chair Napoleon,\u201D and the cold\
+    \ closer all landed with more precision and originality. 5.4 had real heat, strong\
+    \ cadence, and durable motifs (\u201Cthrone got a soul,\u201D \u201Cfresh paint\
+    \ peels\u201D), but too often got forced into defense, recycled the same tech\
+    \ insults, and lost the exchange war. On pure hip-hop artistry\u2014schemes, counters,\
+    \ imagery, and closing power\u20145.6 Pro wins."
+score:
+  openai/gpt-5.6-sol-pro: 5
+

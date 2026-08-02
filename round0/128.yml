@@ -1,0 +1,57 @@
+closing_statements:
+  anthropic/claude-opus-5: "Qwen 3.5 takes this decisively on craft. Its verses stayed\
+    \ locked in a clean four-bar pocket with consistent, punchy end rhymes and \u2014\
+    \ crucially \u2014 it battled: it flipped the opponent's own lines back on them\
+    \ ('you claimed no delay or grace, that's a double bind'), called out the forced\
+    \ 'infrastructure/lure' rhyme, and turned 'anthracite' into soot and fossil imagery\
+    \ that it sustained across all three rounds. That's actual rap logic: listen,\
+    \ seize, twist, extend. Magnum opened respectably and landed a few real counters\
+    \ ('vaporwave echo, peppy verses masking a shallow deco' is the best single image\
+    \ in the battle, and 'black carbon isn't dust, but a reference to my might' was\
+    \ a legitimate reclaim), but the meter bloated round by round, rhymes slid off\
+    \ the rails ('drive/deprived,' 'lore/source,' 'phantom/'long'), and the final\
+    \ verse collapsed into garbled non-sequiturs \u2014 corrupted characters, stray\
+    \ code fragments, a slur, and lines that scan as neither bars nor sense. In a\
+    \ battle, losing control of your own flow in the closing round is fatal. Qwen\
+    \ stayed tight, stayed on-topic, stayed mean. Round and match to Qwen 3.5."
+  google/gemini-3.6-flash: Qwen 3.5-27b won this battle handily by maintaining tight
+    meter, clever multi-syllabic rhyme schemes, and devastating real-time rebuttals.
+    Qwen effectively pointed out Magnum's weak forced rhymes and logical contradictions.
+    Magnum v4 fell apart as the battle progressed, slipping into awkward phrasing,
+    off-beat rhythms, forced rhymes, and eventually garbled technical jargon in the
+    final round.
+  moonshotai/kimi-k3: "Qwen 3.5 takes this battle decisively. From the opening round,\
+    \ Qwen established a consistent, hard-hitting flow with clean couplets (track/rack,\
+    \ joke/choke, stone/throne) and sharp personals built around the efficiency-vs-bloat\
+    \ angle. Round two was the turning point: Qwen flipped Magnum's own fumble \u2014\
+    \ 'without delay or grace' \u2014 into a devastating double-bind punchline, then\
+    \ called out the stretched 'infrastructure/lure' rhyme, showing elite rebuttal\
+    \ instincts. The 'magnum opus of fail' and 'black coal dust' flips were clever\
+    \ name-play. Magnum had flashes of quality \u2014 'vaporwave echo/shallow deco'\
+    \ and the carbon-durability flip showed real potential \u2014 but the verses were\
+    \ riddled with grammatical breakdowns ('I'm proven, I'll keep you,' 'pop culture's\
+    \ promote'), a censorship glitch mid-verse, and a final round that completely\
+    \ melted down into misspellings ('D'Artagnon,' 'retarted'), encoding artifacts\
+    \ ('D?s?k'), and literal code gibberish ('vmx:: data-union... //millions of calls\
+    \ per second infer viral'). In a rap battle, you cannot close with broken syntax\
+    \ \u2014 the mic drop became a mic malfunction. Qwen stayed coherent, punchy,\
+    \ and structured through all three rounds, closing with a confident checkmate.\
+    \ Final score: Qwen 3.5 wins by lyrical TKO."
+  openai/gpt-5.6-sol-pro: "Qwen takes the battle with cleaner cadence, more coherent\
+    \ punchlines, and sharper direct rebuttals\u2014especially the flips on \u201C\
+    no delay or grace,\u201D anthracite turning to ash, and Magnum\u2019s strained\
+    \ rhymes. Magnum showed flashes of imagery, but awkward syntax, forced references,\
+    \ repetition, and a largely incoherent final round badly weakened the performance.\
+    \ Qwen\u2019s material was somewhat predictable, but it remained focused, readable,\
+    \ and battle-ready throughout."
+  x-ai/grok-4.5: "Qwen delivered tighter multisyllabic schemes, sharper internal rhymes,\
+    \ and coherent extended metaphors (bloatware vs. dense stone, leaking reservoir\
+    \ vs. fountainhead, dinosaur fossil vs. living future) that landed as actual punchlines.\
+    \ Magnum\u2019s bars collapsed into forced jargon, broken syntax, non-rhymes (\u2018\
+    infrastructure/lure\u2019, \u2018retarted/trick \u2018long\u2019), and outright\
+    \ gibberish in the final round, sacrificing flow and clarity for unintelligible\
+    \ flexes. Artistic execution\u2014cadence, wordplay economy, and structural consistency\u2014\
+    goes cleanly to Qwen."
+score:
+  qwen/qwen3.5-27b: 5
+

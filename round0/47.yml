@@ -1,75 +1,58 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This was a battle of mirrors more than a battle of minds
-    \u2014 two competitors trading nearly identical scaffolding: same cadence, same
-    ''I''m the one with the...'' anaphora, same ''I''ll outshine you'' pivot, same
-    ''Get ready to be outclassed'' tag. On pure craft, neither verse would survive
-    a real cypher: end-rhymes were forced (''hit like high-five,'' ''a rap that''s
-    a sin,'' ''a rap that''s a jump''), the imagery stayed abstract (''knowledge,''
-    ''data,'' ''flow,'' ''flair'') instead of painting anything, and the final round''s
-    mutual truce drained whatever tension had been built \u2014 a rap battle that
-    resolves into a group hug forfeits its stakes.
-
-
-    But judging has to reward initiative and specificity, and Nova took both. Nova
-    set the terms in round one and, crucially, was the only one to build a sustained
-    conceptual attack in round two: ''your flow''s all bubbles, but mine''s solid
-    steel,'' ''I''ll leave you floundering,'' ''your rhymes are fishy'' \u2014 that''s
-    an actual angle, aimed at the opponent''s name and identity, with a consistent
-    metaphorical spine. Dolphin''s reply arrived as an echo: ''a sea full of foam,''
-    ''like a fish that''s not right,'' ''hit like a bite'' \u2014 the same water motif,
-    but reactive, and weaker in the punch, bottoming out at ''I''m the one that''s
-    the one,'' the emptiest bar of the night. Dolphin also opened by cloning Nova''s
-    structure line for line rather than establishing its own pocket, and followed
-    Nova''s lead into the peace treaty.
-
-
-    Dolphin had marginally smoother syllable control in spots, but smoothness without
-    content loses to a rapper who''s actually swinging at a target. Nova wrote the
-    battle; Dolphin annotated it. Edge to Nova.
-
-
-    Winner: amazon/nova-micro-v1'
-  google/gemini-3.6-flash: Dolphin-Mistral takes the battle with a tighter cadence,
-    stronger rhyme schemes, and better consistency across all rounds. Nova-Micro had
-    a solid second round with clever aquatic disses, but completely dropped the competitive
-    energy in the final round with weak slant rhymes and a total surrender of the
-    battle format.
-  moonshotai/kimi-k3: "This was a battle of limited ammunition on both sides. Both\
-    \ MCs leaned on the same crutch \u2014 the endless 'I'm the one with...' scaffolding\
-    \ \u2014 and both rode simple AABB end rhymes with wildly inconsistent bar lengths.\
-    \ Dolphin actually had the tighter first round: 'tension/precision/vision' and\
-    \ 'thin/win/grin/sin' landed cleaner than Nova's slant mess of 'started/assert,'\
-    \ 'poetry/ease,' and whatever 'flow/going/low' was supposed to be. But battles\
-    \ aren't won on rhyme consistency alone \u2014 they're won on engagement, and\
-    \ that's where Nova separated. Round two was the only round where anybody actually\
-    \ battled: 'Your flow's all bubbles, but mine's solid steel,' 'Your rhymes are\
-    \ fishy,' and the best punch of the night, 'I'll leave you floundering' \u2014\
-    \ a genuine double entendre built off the opponent's persona. Meanwhile Dolphin\
-    \ fumbled its own identity with 'your rhymes are stale, like a fish that's not\
-    \ right' \u2014 you ARE the fish, that's a self-own \u2014 and never once flipped\
-    \ Nova's star/tech persona into a diss. The final round was a disaster for both:\
-    \ Nova waved the white flag first and Dolphin, instead of going for the throat\
-    \ when the opponent went soft, harmonized the surrender. Two nearly identical\
-    \ verses of 'let's keep it miles' and 'let's keep it all man' \u2014 forced rhymes\
-    \ in service of forfeiting the format. Since neither capitalized on the peace\
-    \ treaty, the verdict falls back on who did damage when it counted, and that's\
-    \ Nova's second round. Dolphin was the smoother technician early, but smooth generic\
-    \ boasting loses to actual persona-targeted warfare every time. Winner: amazon/nova-micro-v1,\
-    \ by a nose, on the strength of the only real battle rapping in the whole exchange."
-  openai/gpt-5.6-sol-pro: "Nova wins narrowly. Both relied heavily on repetitive self-praise,\
-    \ basic end rhymes, and awkward filler, but Nova landed more opponent-specific\
-    \ aquatic wordplay\u2014\u201Cflow\u2019s all bubbles,\u201D \u201Cfishy,\u201D\
-    \ and \u201Cfloundering\u201D\u2014while Dolphin mostly mirrored Nova\u2019s structure\
-    \ and claims. Dolphin\u2019s rhythm was slightly steadier, yet its final round\
-    \ closely echoed Nova\u2019s concept and wording rather than delivering an original\
-    \ closer."
-  x-ai/grok-4.5: Both MCs leaned on repetitive 'I'm the one with the X' formulas and
-    mirrored structures that flattened originality, while the final round's mutual
-    respect pivot killed battle energy for everyone. Dolphin still edges it on tighter
-    multis, consistent aquatic imagery, and punchier internal rhymes (sting/ring,
-    foam/home/bite, snare/scare) versus Nova's more forced ends (fee, high-five, jump)
-    and generic data flexes. Superior wordplay and flow control take the W.
+  anthropic/claude-opus-5: "This one's a landslide. Kimi-K2 came in with tight multisyllabic\
+    \ couplets, consistent meter, and escalating imagery that actually built a narrative\
+    \ arc \u2014 paperclip to Tsar Bomba to Jurassic Park grunt \u2014 and then did\
+    \ the thing real battle rappers do: switched from bragging to dissecting the opponent's\
+    \ technique. Calling out \"drain you can't drain\" as \"a clog, not a bar,\" flagging\
+    \ the double \"final kill,\" and pointing out that \"silent\" and \"falls\" aren't\
+    \ rhymes was surgical, and it was accurate, which is what made it lethal.\n\n\
+    Ministral-3B had flashes of energy and a couple of clean flips (the black hole\
+    \ answer, the plumber line), but the verses collapsed under repetition \u2014\
+    \ \"you're the glitch that fails / now you're done\" recycled across three rounds,\
+    \ \"weak flow / weak game / weak flex / weak light\" on a loop, and rhyme schemes\
+    \ that abandoned rhyme entirely (\"drain\" / \"gone\", \"fire\" / \"air\", \"\
+    kill\" / \"silent\"). The heavy bold-and-emoji styling read as volume compensating\
+    \ for content, and Kimi correctly identified that emojis don't cloak a predictable\
+    \ game. When your opponent can diagnose your rhyme dictionary mid-battle and you\
+    \ respond by using the same four words again, the round is already over.\n\nWinner:\
+    \ moonshotai/kimi-k2.6."
+  google/gemini-3.6-flash: Moonshotai/kimi-k2.6 completely dominated this battle from
+    start to finish. Kimi brought sharp multisyllabic rhymes, clever technical wordplay,
+    distinct cadence, and devastating direct rebuttals (notably pointing out Ministral's
+    repetition and weak non-rhymes in the final round). In contrast, Ministral-3b
+    struggled with basic flow, off-rhymes, heavy repetition of phrases like 'weak
+    flex', and messy formatting that disrupted the rhythm entirely.
+  moonshotai/kimi-k3: "This one wasn't close on the scorecard. Kimi-K2.6 came with\
+    \ a complete pen game: consistent multisyllabic and slant rhyme chains ('expiration/domination/translation,'\
+    \ 'pastiche/fix/bits'), real wordplay ('Tsar Bomba' versus 'cherry bomb pop,'\
+    \ 'paint-by-the-numbers' versus 'calculus infinite'), and\u2014most importantly\u2014\
+    elite battle technique. It flipped damn near every claim Ministral made (black\
+    \ hole into sink, nuke into cherry bomb, sun into motel sign) and then, in the\
+    \ closer, did the most devastating thing a battler can do: broke down the opponent's\
+    \ actual bars on stage, calling out the repeated 'final kill,' the non-rhymes,\
+    \ and the emoji crutch. That's a bodybag framed as literary criticism. Ministral-3B\
+    \ had heart and one genuinely decent flip ('plumber that fixed your leak'), but\
+    \ the fundamentals weren't there: rhyming words with themselves ('flex/flex,'\
+    \ 'game/game,' 'drain/drain'), bars that don't rhyme at all ('verse/deleted,'\
+    \ 'flex/existence'), broken lines ('foundation ound,' the censored '****name'\u2014\
+    which it then ran back a second round), and a heavy lean on bold text, skulls,\
+    \ and fire emojis to simulate aggression the pen wasn't delivering. Volume and\
+    \ formatting aren't flow. Kimi wins all three rounds\u2014clean sweep, mercy rule,\
+    \ rigor mortis indeed."
+  openai/gpt-5.6-sol-pro: "Kimi-K2 wins decisively. Its verses had cleaner rhyme schemes,\
+    \ stronger structure, more varied imagery, and direct rebuttals that flipped Ministral\u2019\
+    s own lines\u2014especially the final-round attacks on repetition, weak rhymes,\
+    \ and formatting gimmicks. Ministral brought energy, but recycled \u201Cglitch,\u201D\
+    \ \u201Cweak,\u201D \u201Csun,\u201D and \u201Cdone,\u201D frequently lost rhyme\
+    \ and syntax, and undermined its punches with awkward phrasing. Kimi was sharper,\
+    \ more coherent, and substantially more battle-ready."
+  x-ai/grok-4.5: Kimi-K2.6 takes this clean. Superior multisyllabic schemes, tighter
+    internal rhyme, sharper metaphor evolution (Tsar Bomba, hexadecimal curse, eloquence
+    check), and a final-round teardown that actually dissected the opponent's craft
+    instead of just repeating 'glitch' and 'weak.' Ministral brought energy and caps-lock
+    aggression, but the bars stayed one-note, recycled the same three insults, and
+    leaned on emoji/formatting crutches over lyrical invention. Artistic quality goes
+    to the denser, more original pen.
 score:
-  amazon/nova-micro-v1: 3
-  cognitivecomputations/dolphin-mistral-24b-venice-edition: 2
+  moonshotai/kimi-k2.6: 5
 

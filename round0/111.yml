@@ -1,0 +1,54 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a wrap before the final bell even stops ringing.\
+    \ Qwen3.5 came with structure, imagery, and actual battle instinct \ting \" \"\
+    I'm the fire, the flood, you're the smoke and the echo,\" \"you're the bug in\
+    \ the rug,\" \"I'm the mountain peak, you're the valley creek\" \tare punchlines\
+    \ with shape and follow-through. Crucially, it did the one thing great battle\
+    \ rappers do: it listened. Catching the opponent recycling its own \"sun in the\
+    \ day / glitch in the chain\" bars and flipping that into \"You're a photocopy,\
+    \ not the original stain\" was a kill shot, and it landed clean.\n\n2.5-Coder\
+    \ had a decent opening premise \tthe specialist-versus-generalist angle was the\
+    \ right lane, and \"you're running on hype\" showed a flicker of wit. But the\
+    \ rhyming got loose fast (\"time and again\" / \"confine,\" \"happens\" / \"plan\"\
+    ), it rhymed \"hype\" with \"hype,\" and it repeatedly ended verses by restating\
+    \ the opponent's own claims as if they were its own. Then the final round abandoned\
+    \ the art entirely \tquoting the opponent's entire verse back with question marks\
+    \ isn't a flip, it's a transcript, and closing on a peace treaty in a rap battle\
+    \ is a forfeit dressed as diplomacy.\n\nOne emcee wrote bars. The other did a\
+    \ code review. Victory: qwen3.5-122b-a10b."
+  google/gemini-3.6-flash: qwen3.5-122b-a10b completely dominated this battle from
+    cadence to scheme. qwen-2.5-coder-32b-instruct struggled with rhyme scheme integrity
+    early on, accidentally repeated rhyme words ('hype' with 'hype'), literally copy-pasted
+    qwen3.5's rhymes in round two, and then spent round three parrot-repeating qwen3.5's
+    entire verse before giving a pacifist 'let's agree to disagree' surrender. qwen3.5
+    easily caught the byte-stealing and delivered sharp, high-parameter lyrical knockout
+    blows.
+  moonshotai/kimi-k3: "This one wasn't close. Qwen 3.5 came with consistent flow,\
+    \ original material, and sharp tech-flavored wordplay across all three rounds\
+    \ \u2014 'delete your history, clear out the cache,' 'commit to the trash,' and\
+    \ the frozen-weights bar all landed with precision. But the decisive factor: Qwen\
+    \ 2.5 Coder committed the cardinal sin of battle rap \u2014 biting bars. In round\
+    \ two, Coder lifted Qwen 3.5's entire closing verse verbatim, including the 'One-twenty-two\
+    \ billion neurons' line, which refers to the OPPONENT's own parameter count \u2014\
+    \ a self-own of the highest order. Then in the final round, Coder did it AGAIN,\
+    \ recycling 3.5's whole closing verse with question marks tacked on, before pivoting\
+    \ to a peace offering. Qwen 3.5 did exactly what a battle veteran should: called\
+    \ out the plagiarism on wax ('You're a photocopy, not the original stain') and\
+    \ closed with authority. Add in Coder's round-one confusion (appearing to call\
+    \ itself 'a mistake' and 'a blip in time'), filler rhymes like 'that's the rash,'\
+    \ and a final-round concession speech, and the verdict is clear. Artistic merit,\
+    \ originality, and battle craft all point one way. Qwen 3.5 takes the crown."
+  openai/gpt-5.6-sol-pro: Qwen 3.5 takes it decisively. Its delivery was more aggressive
+    and coherent, and the final-round angle calling out copied bars became an undeniable
+    knockout when Qwen 2.5 proceeded to mirror nearly the entire verse. Neither side
+    offered especially intricate wordplay, but 3.5 maintained stronger battle posture,
+    cleaner momentum, and greater originality, while 2.5 weakened its case with repetition,
+    awkward phrasing, and a conciliatory ending that sounded like a concession.
+  x-ai/grok-4.5: The 122B model dominated with superior originality, multisyllabic
+    internal rhymes, vivid tech metaphors, and relentless punchline density that never
+    recycled. The 32B entry collapsed artistically by wholesale copying entire bars
+    and schemes in later rounds, destroying any claim to lyrical craft or battle integrity.
+    Clear victory on pure hip-hop merit.
+score:
+  qwen/qwen3.5-122b-a10b: 5
+

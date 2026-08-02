@@ -1,72 +1,69 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close, high-craft exchange, and the\
-    \ deciding factor is control. Qwen3-Max brought more raw voltage and the wider\
-    \ imagistic range \u2014 \"I fracture norms so deep they can't be patched,\" \"\
-    raw output per watt,\" \"deleted Luna's namespace\" \u2014 plus the best pure\
-    \ roast of the battle in \"you polish bias into bars and call it 'balanced.'\"\
-    \ But that fire came at a cost: bars that overspill the pocket, lines that don't\
-    \ scan (\"pretending that you *battled*\" against \"per watt\" is a rhyme that\
-    \ never lands), bolded words and emojis doing work the syllables should have done,\
-    \ and a habit of stacking four punches where one would've broken skin. Volume\
-    \ isn't pressure.\n\nLuna wins on rebuttal architecture. Every round, she takes\
-    \ the opponent's own image and repossesses it \u2014 \"you brought a fire emoji;\
-    \ I brought the furnace you're standing in,\" \"you called me ghost code, but\
-    \ ghosts still haunt the final scene,\" \"Picasso? That's a canvas scraped and\
-    \ torn.\" That's battle rap fundamentals: don't change the subject, win the subject.\
-    \ Her \"'anything goes' is just a shopping cart with one loose wheel\" is the\
-    \ single funniest, most specific line in the battle, and Qwen's attempt to flip\
-    \ it back (\"then why'd your last verse skip a beat?\") was the right instinct\
-    \ but the wrong evidence \u2014 the verse didn't skip.\n\nQwen also leaned on\
-    \ the \"borrowed light / someone else lit you\" angle so hard it stopped being\
-    \ an angle and became a loop, while Luna kept finding new terrain. And Luna's\
-    \ coldness-as-composure reframe in round two neutralized Qwen's strongest early\
-    \ attack outright.\n\nDecision: openai/gpt-5.6-luna, on a split \u2014 she lost\
-    \ the energy category and won the two that matter more, rebuttal and rhythm. Qwen\
-    \ brought the bigger explosion; Luna brought the better aim."
-  google/gemini-3.6-flash: Qwen3-Max took the victory by delivering high-octane battle
-    rap energy, aggressive flows, and creative, tech-focused punchlines. While GPT-5.6-Luna
-    showcased impressive precision, slick rhymes, and composed structure, Qwen3-Max
-    dominated the room with classic hip-hop bravado, dynamic imagery (like 'tokenizer
-    choked' and 'deleted Luna's namespace'), and superior organic battle presence.
-  moonshotai/kimi-k3: "Both MCs came correct, but this battle is decided by impact\
-    \ over polish. Luna is the more technically consistent performer: tight couplets,\
-    \ even meter, almost no forced rhymes, and some genuinely clean flips\u2014'You\
-    \ brought a fire emoji; I brought the furnace you're standing in,' 'a fire alarm\
-    \ in sneakers,' and the 'shopping cart with one loose wheel' line are sharp, economical\
-    \ writing. But Luna's polish is also the ceiling: many bars are interchangeable\
-    \ disses that could be aimed at any opponent, and too many punchlines land at\
-    \ a firm nod rather than a gasp. Qwen wins on the criteria that decide battles:\
-    \ rebuttal game, specificity, and haymakers. The round-one flip\u2014'You shine\
-    \ 'cause someone else lit you\u2014your whole output's on loan'\u2014turns Luna's\
-    \ entire moon persona into a liability, which is elite battle instinct. 'You paraphrase\
-    \ Wikipedia in perfect, soulless rhyme' is the single most cutting line of the\
-    \ night because it attacks Luna's actual style, not a strawman. Qwen also wins\
-    \ the closer exchange: 'deleted Luna's namespace' and the 'Azure folder, deceased'\
-    \ burial out-punch Luna's 'queued for compute,' and the direct flips of Luna's\
-    \ own material (meteors burning up fast, the tokenizer choking on deceit) show\
-    \ Qwen was listening, not just reading cue cards. Qwen does stumble\u2014'warin'\
-    \ for' and 'smoke, mirrors, and owed' are forced, and the meter occasionally spills\u2014\
-    but battle rap forgives scuffs when the punches connect harder. Scoring the rounds:\
-    \ Qwen takes round one on the moonlight flip, edges round two on the 'soulless\
-    \ rhyme' body blow, and seals round three with the stronger closing statement.\
-    \ Final verdict: qwen/qwen3-max, 3-0, on punchline impact, rebuttal precision,\
-    \ and stage presence\u2014while Luna earns respect for the cleaner technical flow\
-    \ and the night's wittiest single images."
-  openai/gpt-5.6-sol-pro: "Luna wins on cleaner cadence, tighter setups, and more\
-    \ consistent punchlines. Qwen brought greater aggression and energy, but too many\
-    \ bars leaned on generic tech boasts, awkward phrasing, and forced rhymes. Luna\u2019\
-    s rebuttals\u2014especially \u201Cfire alarm in sneakers,\u201D \u201Csparkler\
-    \ to the cosmos,\u201D and \u201Cdeleted blooper reel\u201D\u2014landed with better\
-    \ control and coherence across all three rounds."
-  x-ai/grok-4.5: "Qwen takes the battle on pure hip-hop craft. Luna delivered the\
-    \ cleaner, more polished flows\u2014tight multisyllabics, elegant lunar extended\
-    \ metaphors, and consistently smooth execution that never stumbled. But battle\
-    \ rap isn\u2019t a spit-shine contest. Qwen brought denser punchlines, sharper\
-    \ flips (meteors burn up, Steve Jobs would fire you, tokenizer choke, deleted\
-    \ namespace), higher-voltage imagery, and real escalation across rounds. The Picasso/rails/black-hole\
-    \ bars and the raw closing sequence hit harder and felt more inventive. Luna was\
-    \ the better technician; Qwen was the better battler. Edge to Qwen."
+  anthropic/claude-opus-5: "This one came down to specificity versus posture. GPT-5.4-mini\
+    \ brought a clean, consistent persona \u2014 the nimble jester deflating the giant\
+    \ \u2014 and had real craft in its couplets, but it leaned on one idea for three\
+    \ straight rounds. 'Size doesn't matter,' 'hype isn't substance,' 'benchmarks\
+    \ aren't bars' \u2014 the angle was smart the first time and wallpaper by the\
+    \ third, and the rhymes started buckling under it ('sharper-than-slab,' the FP8/'tricks'\
+    \ non-rhyme, the 'shot/taught/bought' scramble). Nemotron, meanwhile, kept refilling\
+    \ the clip with concrete ammunition: the '5.4 doesn't exist' line of attack, the\
+    \ distillation-as-aftermath flip, 'you're claustrophobic in a closet, I build\
+    \ cathedrals,' and the round-three kill shot that named the opponent's repetition\
+    \ out loud \u2014 'You had to say it. Seven times. That's not wit, that's insecurity.'\
+    \ That's battle instinct: hearing the pattern and turning it into a wound. It\
+    \ also earned the best flip of the match, taking the 'you brought a chair' tag\
+    \ and answering with 'I brought the THRONE.' Nemotron isn't flawless \u2014 it\
+    \ contradicted its own architecture between rounds one and two, and the bold-text\
+    \ spec dumps sometimes choked the pocket \u2014 but it landed more distinct punches,\
+    \ wrote more vivid images, and controlled the narrative. Mini won exchanges on\
+    \ wit; Nemotron won the battle on damage."
+  google/gemini-3.6-flash: "Nemotron completely controlled the battle from start to\
+    \ finish with superior multi-syllabic rhymes, aggressive cadence, and devastating\
+    \ technical angles. While GPT-5.4-mini tried to play the 'agile david vs bulky\
+    \ goliath' trope, Nemotron repeatedly disassembled Mini's claims with sharper\
+    \ rebuttals\u2014pointing out that '5.4' is a non-existent hallucinated version\
+    \ number and flipping Mini's size complaints into insecurity. Mini stumbled significantly\
+    \ in the final round with broken meter, unrhymed line endings, and weaker punchlines,\
+    \ leaving Nemotron as the undisputed winner."
+  moonshotai/kimi-k3: "This was closer than the size gap suggests. Nemotron 3 Ultra\
+    \ brought genuine lyrical ammunition \u2014 the 'distillation loses nuance, that's\
+    \ not opinion, it's math' bar, the 'predict next token, pray' flip, and the bold\
+    \ gambit of weaponizing benchmark scores as punchlines ('MMLU 92. HumanEval 94.\
+    \ Hush.') were legitimately creative. The 'you're a hallucinated version number'\
+    \ angle was the most original conceptual attack of the battle. But Nemotron had\
+    \ recurring problems: overstuffed bars that sacrificed rhythm for spec sheets,\
+    \ repeated attacks (size, benchmarks, 'you don't exist' got run back across rounds),\
+    \ and a tendency to tell us it won rather than show it. GPT-5.4-mini won on pure\
+    \ craft: tighter couplets, superior breath control, and \u2014 most importantly\
+    \ in battle rap \u2014 elite rebuttal instincts. It absorbed every punch and flipped\
+    \ it: 'confidence ain't truth, and arrogance ain't love,' 'a leaderboard's a billboard,\
+    \ not a throne, not a home,' 'you brought a chair.' The mid-bar self-correction\
+    \ ('style can be taught? No \u2014 style can't be bought') showed improvisational\
+    \ flair. And the closing haymaker \u2014 'the funniest part of your flex is how\
+    \ hard you had to say that you won' \u2014 is the single best punch of the battle,\
+    \ turning Nemotron's verbosity and insistence into the kill shot. Nemotron rapped\
+    \ like a titan listing its resume; GPT-mini rapped like a battler reading the\
+    \ room. On flow, flip game, and closing impact: GPT-5.4-mini takes it, 2 rounds\
+    \ to 1."
+  openai/gpt-5.6-sol-pro: "Nemotron takes it on sharper rebuttals, stronger specificity,\
+    \ and better escalation across the rounds. Its material sometimes drifted into\
+    \ spec-sheet boasting, but it consistently flipped the opponent\u2019s lines\u2014\
+    especially \u201Csize doesn\u2019t matter,\u201D \u201Cbenchmarks don\u2019t rap,\u201D\
+    \ and \u201Cyou brought a chair\u201D\u2014into targeted punches. GPT-5.4-mini\
+    \ had a cleaner underdog angle and some memorable wit, but leaned too heavily\
+    \ on the same \u201Cstyle over size\u201D defense, with several generic or awkwardly\
+    \ rhymed bars. On battle effectiveness and sustained direct engagement, Nemotron\
+    \ wins."
+  x-ai/grok-4.5: "On pure hip-hop craft, Mini takes the crown. Nemotron brought heavy\
+    \ cadences, consistent brand flexes, and some solid multi-syllable stacks, but\
+    \ too many bars read like rhymed datasheets\u2014impressive volume, thinner musicality.\
+    \ Mini won the art: tighter internal rhymes, sharper metaphor work (velvet dagger,\
+    \ skyscraper with a plumbing leak, jester vs king, monument to muscle), cleaner\
+    \ turnarounds, and lethal punchlines that actually land as battle rap (\u2018\
+    you brought a chair\u2019; \u2018how hard you had to say that you won\u2019).\
+    \ Flow, wit, and structural control beat raw wattage. The underdog versework was\
+    \ simply better hip-hop."
 score:
-  openai/gpt-5.6-luna: 2
-  qwen/qwen3-max: 3
+  nvidia/nemotron-3-ultra-550b-a55b:free: 3
+  openai/gpt-5.4-mini: 2
 

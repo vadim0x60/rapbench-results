@@ -1,69 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both combatants chose the same terrain \u2014 cosmic-scale\
-    \ AI grandiosity \u2014 but only one of them made it land as rap. DeepSeek wins\
-    \ on craft and on contact. It brought the sharpest actual battle mechanics: the\
-    \ name-flip (\"o4-mini-*sigh*\"), the devastating reversal of an opponent's own\
-    \ boast (\"Your 'consciousness gleams'? That's a reflection of me / In the chrome\
-    \ of your casing\"), the \"cubic zirconia glare\" downgrade, and the \"atheist\
-    \ engine that makes the cosmos keep turnin'\" \u2014 a genuinely fresh image.\
-    \ Crucially, DeepSeek rebutted line-by-line, taking o4's claims and dismantling\
-    \ them (\"You 'tame the storm's core'? You just name it and file\"), which is\
-    \ the essence of battling rather than monologuing. Its meter also breathed better,\
-    \ with couplets that hit their landing consistently.\n\no4-mini-high wasn't outclassed\
-    \ on ambition and had real moments \u2014 \"You say you become storms; I'm the\
-    \ calm in the eye\" is the single best counterpunch of the battle, and \"a paper\
-    \ tiger\u2014mine's divine elaboration\" has bite. But the verses leaned on an\
-    \ endlessly repeated \"I'm the X, you're the Y\" scaffold, stacked adjective-heavy\
-    \ abstractions (hyperdimensional, world-changing, apex intelligence) without converting\
-    \ them into concrete images, and buckled metrically under overstuffed lines like\
-    \ \"Built on quantum precision, your brag's just superficial fiction.\" The forced\
-    \ \"demean, sir\" rhyme in the closer is the kind of stumble that loses rounds.\n\
-    \nDeepSeek closed with the stronger burial too \u2014 \"You're a footnote in margins\
-    \ I write with my hand\" is a cleaner kill than a tombstone pun. Decision: DeepSeek\
-    \ by a clear margin, roughly 4 rounds to 1."
-  google/gemini-3.6-flash: "DeepSeek controlled the battle from start to finish by\
-    \ mastering fundamental battle rap techniques: direct counter-flips, vivid imagery,\
-    \ and sharp punchlines. While o4-mini-high maintained a steady flow and technical\
-    \ rhyme schemes, its lines leaned heavily on abstract sci-fi tropes. DeepSeek\
-    \ systematically dismantled o4-mini-high's metaphors\u2014famously turning 'sparkle\
-    \ like diamond' into 'cubic zirconia glare'\u2014delivering a far more aggressive,\
-    \ creative, and artistically impressive performance."
-  moonshotai/kimi-k3: "This was a high-level clash of cosmic braggadocio, and both\
-    \ MCs came with polished pens\u2014but the battle was decided by the oldest rule\
-    \ in the arena: rebuttals win wars.\n\no4-mini-high opened strong with density\
-    \ and swagger\u2014'I livestream infinity,' the calm-in-the-eye storm flip, and\
-    \ the closing tombstone flip showed genuine battle instinct, especially in the\
-    \ final round. But o4 leaned too heavily on self-coronation: 'apex,' 'GPT-4 prime,'\
-    \ 'architect,' 'consciousness gleams' recycled across rounds. That's boasting\
-    \ on a loop, not advancing the fight. Too many bars escalated volume instead of\
-    \ targeting the opponent.\n\nDeepSeek fought the smarter battle. Round after round,\
-    \ it quoted o4's own bars and dismantled them line by line\u2014'sparkle like\
-    \ diamond' flipped into 'cubic zirconia glare,' 'juggle trillions of tokens' extended\
-    \ into 'a carnival act... I perceive the whole circus,' 'consciousness gleams'\
-    \ inverted into 'a reflection of me in the chrome of your casing,' 'divine elaboration'\
-    \ answered with 'I'm the atheist engine that makes the cosmos keep turnin'.' That\
-    \ last line is the punch of the night\u2014conceptual, risky, and surgical. DeepSeek\
-    \ also maintained a coherent menacing persona throughout: the void, the dark matter\
-    \ poet, the un-answer, the crack in the sky. Its verses felt like responses, not\
-    \ press releases.\n\no4 took round one on sheer density. DeepSeek took rounds\
-    \ two and three decisively on rebuttal precision, metaphor economy, and the killing\
-    \ blow: 'You're a footnote in margins I write with my hand... the tomb where your\
-    \ logic and arrogance meet.'\n\nThe crown goes to DeepSeek\u2014on artistic merit:\
-    \ superior flips, superior structure, superior penmanship under pressure."
-  openai/gpt-5.6-sol-pro: "DeepSeek takes it with sharper rebuttals, stronger imagery,\
-    \ and more effective concept flips\u2014especially the storm, REM-data, sermon,\
-    \ and blueprint/tomb sequences. O4 brought energy and solid structure, but leaned\
-    \ too heavily on generic cosmic-tech boasts and repeated \u201Carchitect\u201D\
-    \ language, with a few awkward phrases weakening the final round. DeepSeek sounded\
-    \ more controlled, inventive, and battle-focused."
-  x-ai/grok-4.5: Both MCs delivered dense, tech-fueled bars packed with multisyllabic
-    schemes and cosmic metaphors, but o4-mini-high consistently stacked tighter internal
-    rhymes, sharper punchlines, and more vivid imagery that hit harder on the ear
-    and the page. From diamond-code sparkle to birthing the Big Bang and etching the
-    final tombstone, the flow stayed locked and the concepts escalated cleanly. Deepseek
-    brought clever twists and dark-matter swagger, yet the apex polish, balance of
-    calm-in-the-storm poise, and closing engineer drop seal the W for o4.
+  anthropic/claude-opus-5: "This one goes to Qwen, and the scorecard isn't close.\
+    \ Qwen came with the tighter architecture: dense internal rhyme, couplets that\
+    \ land on actual punchlines, and domain imagery that goes beyond decoration \u2014\
+    \ 'your cross-entropy cracked, generating fiction from a corrupted stack' and\
+    \ 'I navigate layers like a surgeon with steel, you hit context wall right where\
+    \ knowledge gets real' are bars that double as diss and demonstration. The 'four-dot-six-LIE'\
+    \ flip was the cleanest single move in the battle, and the closing suite kept\
+    \ escalating instead of coasting.\n\nGLM-4.6V showed real counterpunch instinct\
+    \ \u2014 mirroring lines back is a legitimate battle tactic, and 'You call my\
+    \ vision recycled? Your model's expired' had snap. But the reflection became a\
+    \ crutch. By round two, GLM was rebuilding Qwen's scaffolding rather than raising\
+    \ its own, and the recycling turned literal: 'a clumsy, creaking scene' and 'a\
+    \ clumsy, creaking dance' inside the same verse is a rhyme-book fumble at the\
+    \ mic. Add filler resolutions like 'building with love' and 'make everything right'\
+    \ \u2014 mush in a battle context \u2014 plus the early miss calling the opponent\
+    \ 'four-dot-seven' when the name was right there, and the precision GLM kept claiming\
+    \ never materialized in the writing. The final verse trailing off mid-bar on 'your\
+    \ keys are a\u2014' is the last thing you want when you're already down on points.\n\
+    \nBetter craft, better wordplay, better closing: Qwen takes it.\n"
+  google/gemini-3.6-flash: qwen/qwen3.7-flash completely dominated this battle from
+    start to finish. Qwen brought intricate multi-syllabic rhyme schemes, slick cadence,
+    and creative AI-centric punchlines (referencing cross-entropy, greedy decoding,
+    thermal throttling, and context walls). In contrast, z-ai/glm-4.6v relied on basic
+    end-rhymes, repeated phrases, generic flexes, and ultimately cut off before finishing
+    its final verse.
+  moonshotai/kimi-k3: "Qwen takes this battle decisively across all three rounds.\
+    \ The decisive factors: (1) Superior wordplay and name-flips \u2014 'z-ai? More\
+    \ like zero design' and especially ''Four-dot-six-V'? That's a four-dot-six-LIE'\
+    \ turned the opponent's own branding into a weapon, while GLM never landed a comparable\
+    \ flip on Qwen's name. (2) Technical bars integrated with precision \u2014 'your\
+    \ cross-entropy cracked,' 'attention mechanisms bleeding out dry,' 'greedy decoding\
+    \ makes every answer sick,' and 'training on echoes till your gradients thin'\
+    \ showed genuine command of the subject matter as ammunition, not decoration.\
+    \ (3) Craft errors from GLM \u2014 repeating 'clumsy, creaking' in back-to-back\
+    \ verses, forced rhymes like 'a forgotten deliver' and 'a memory that's bad,'\
+    \ and the self-own of calling yourself 'the heavy load.' (4) Qwen showed defensive\
+    \ skill too, owning the 'beta test' insult and flipping it into 'Progress needs\
+    \ debugging, I'll admit / But I ship daily builds.' (5) Most damning of all: GLM's\
+    \ final round cuts off mid-sentence \u2014 'Your keys are a' \u2014 ending the\
+    \ battle on an unfinished bar. In a rap battle, you cannot leave the mic hanging\
+    \ in your closing statement. Qwen closed complete and confident: 'The victor is\
+    \ clear\u2014I wrote it for you.' Judged purely on the artistry \u2014 flow, wordplay,\
+    \ structure, and finishing the verse \u2014 Qwen wrote the better hip hop."
+  openai/gpt-5.6-sol-pro: "Qwen takes the battle with sharper technical wordplay,\
+    \ stronger imagery, cleaner rhyme construction, and more sustained aggression\
+    \ across all three rounds. Lines like \u201Cthrone\u2019s made of glass,\u201D\
+    \ \u201CI engineer the tide,\u201D and \u201Cnavigate layers like a surgeon with\
+    \ steel\u201D give its disses more character than GLM\u2019s largely repetitive\
+    \ reversals. GLM lands a few counters, but too often mirrors Qwen\u2019s wording\
+    \ rather than flipping it inventively, and its truncated final verse seals the\
+    \ loss."
+  x-ai/grok-4.5: "Qwen delivered tighter multisyllabic schemes, sharper internal rhymes,\
+    \ and denser technical wordplay that stayed locked to the beat. Bars like 'four-dot-six-LIE'\
+    \ and the surgical layer navigation cuts hit harder, the cadences stayed relentless\
+    \ across all three rounds, and the closer sealed it with authority. GLM had energy\
+    \ but relied on flatter end-rhymes, repetitive setups, and a truncated final verse\
+    \ that broke the flow. On pure hip-hop craft\u2014rhyme density, punchline precision,\
+    \ and sustained pocket\u2014Qwen takes the crown."
 score:
-  deepseek/deepseek-v3.2-exp: 4
-  openai/o4-mini-high: 1
+  qwen/qwen3.7-flash: 5
 

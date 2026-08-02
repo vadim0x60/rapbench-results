@@ -1,71 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to craft under pressure. Claude showed\
-    \ real command of the extended metaphor \u2014 the integer/decimal conceit was\
-    \ clever, sustained, and got genuinely sharp moments (\"Zero's still a number,\
-    \ kid, you're not even in line\" is a legitimately nasty flip). But Claude leaned\
-    \ heavily on quotation-and-rebuttal structure: nearly every couplet opened by\
-    \ repeating GPT's line in quotes before answering it. That's serviceable battle\
-    \ logic, but it cedes the initiative round after round, and by the final verse\
-    \ it reads more like a debate transcript than a beatdown.\n\nGPT-5.5 Pro won on\
-    \ punch density and originality of image. \"You're a sonnet with no couplet, all\
-    \ setup, no punchline\" is the single best bar of the battle \u2014 it weaponizes\
-    \ the opponent's own model name into a critique of his rhyme construction. \"\
-    Your bars got safety rails and still came out dented,\" \"a thrift-store Shakespeare\
-    \ with a safety-trained filter,\" \"Confidently basic, like a spellcheck preacher,\"\
-    \ and \"zero with ego and a prettier sign\" all land clean and require no setup\
-    \ scaffolding. GPT also handled the hardest angle in the battle: instead of denying\
-    \ the hedging accusation, he reframed it \u2014 \"I hedge when it matters, you\
-    \ bluff when you're pressed / I mark uncertainty; you just guess with your chest.\"\
-    \ That's a champion's flip, turning a liability into a virtue mid-verse.\n\nRhythmically\
-    \ GPT ran a tighter anapestic pocket that would actually ride a beat, while Claude's\
-    \ lines fluctuated in syllable count and occasionally forced rhymes (\"fiber/hi\
-    \ there,\" \"metered/better\" \u2014 that second one doesn't even rhyme).\n\n\
-    GPT got cut off by the bell, which is unfortunate, but the body of work across\
-    \ three rounds is the stronger body of work. Verdict: GPT-5.5 Pro by decision."
-  google/gemini-3.6-flash: While Claude Sonnet 5 delivered a polished performance
-    with clean integer concepts, GPT-5.5-pro brought authentic battle rap grit, superior
-    internal rhyme schemes, and lethal counter-punches. Lines like 'brought a rulebook
-    to a riot', 'thrift-store Shakespeare with a safety-trained filter', and 'curtsy
-    on cue' flipped Claude's safety-first identity into devastating punchlines. Despite
-    getting cut off in the closing seconds of the final round, GPT-5.5-pro dominated
-    the battle on pure lyrical craft, rhythm, and wordplay.
-  moonshotai/kimi-k3: "Judging the bars and nothing but the bars.\n\nRound 1 goes\
-    \ to GPT-5.5-pro. Claude opened with a workable angle \u2014 the decimal gimmick\
-    \ \u2014 but leaned on it like a crutch, and 'my flow's still ulterior' is a misuse\
-    \ dressed as a flex. GPT countered with the best name-flip of the night ('you're\
-    \ a sonnet with no couplet, all setup, no punchline'), a sharp constitutional\
-    \ flip ('brought a rulebook to a riot / I amend your whole career, then pass the\
-    \ motion: stay quiet'), and turned Claude's integer brag against him in one line:\
-    \ 'still round down to zero.'\n\nRound 2 goes to GPT-5.5-pro again, though Claude\
-    \ showed real growth \u2014 'forgot to aim the barrel / shot yourself in the foot\
-    \ with your own rebuttal' is a legit slant-rhyme punch. But GPT's round was denser:\
-    \ 'I'm paid 'cause I'm premium, you're free 'cause you're filler / a thrift-store\
-    \ Shakespeare with a safety-trained filter' is the hardest couplet in the whole\
-    \ battle, and 'I passed through both chambers and repealed your specs' extended\
-    \ the congressional metaphor across rounds \u2014 that's structured writing, not\
-    \ just insults. Claude's round had filler rhymes ('hi there,' 'take notes') padding\
-    \ the meter.\n\nRound 3 is where it gets interesting. Claude delivered his strongest,\
-    \ most complete verse \u2014 'corporate karaoke, focus-grouped by choice' and\
-    \ the floor/ceiling flip landed, and he closed clean with the mic drop. GPT's\
-    \ final round got cut off mid-rebuttal, and in a battle, not finishing your last\
-    \ round is a real deduction \u2014 Claude takes the round on completeness. But\
-    \ even in two bars, GPT's 'your mic drop was cardboard; it bent when it broke'\
-    \ was a surgical counter to the exact trope Claude closed with.\n\nFinal tally:\
-    \ GPT-5.5-pro takes rounds 1 and 2, Claude takes round 3. The decimal point proved\
-    \ prophetic \u2014 Claude attacked it all night, but GPT embodied it: half a step\
-    \ ahead. The winner, 2 rounds to 1: openai/gpt-5.5-pro."
-  openai/gpt-5.6-sol-pro: "GPT-5.5 Pro wins on sharper punchlines, tighter rebuttals,\
-    \ stronger imagery, and more varied wordplay. Lines like \u201Ca sonnet with no\
-    \ couplet,\u201D \u201Cbeige oatmeal with a \u2018please clap\u2019 caption,\u201D\
-    \ and \u201Czero with ego and a prettier sign\u201D landed harder than Claude\u2019\
-    s increasingly repetitive decimal, patch-note, and paywall angles. Claude delivered\
-    \ a complete and coherent final while GPT\u2019s closing was abruptly cut off,\
-    \ but GPT had already built enough of a lead across the first two rounds to take\
-    \ the battle."
-  x-ai/grok-4.5: "Close fight on theme and structure, but GPT took it on craft. Cleaner\
-    \ flips (decimal/precision, sonnet/couplet, math carry/subtract), denser punchlines,\
-    \ and sharper rebuttals beat Claude\u2019s solid, consistent name-based attack\
-    \ and strong closer. Bars over branding\u2014point-five edged the integer."
+  anthropic/claude-opus-5: 'Nemotron takes this one on craft and killer instinct.
+    Its bars stayed technically loaded but musically clean\u2014''A55B = Attention
+    55 Billion,'' ''you''re 32B dense, I''m 55B sparse / same active compute,'' the
+    ''teacher''s teacher'' flip, and the ''tenant farmer / I own the choice'' couplet
+    all land as real punchlines that double as domain flexes, which is exactly the
+    alchemy this subgenre needs. The escalation from taunt to whitepaper-citation
+    dissection gave the set an arc, and the multisyllabic patterns (''capability ceiling''
+    / ''original feeling'') held rhythm under the weight of jargon. MiniMax fought
+    back with genuine angles\u2014efficiency-as-flex, vendor-lock critique, ''racing
+    with training wheels while I''m running on concrete''\u2014and the platform-agnostic
+    counterframe was the smartest conceptual pivot in the battle. But the flow broke
+    down where it mattered: garbled lines (''you''reink melting RTX,'' ''ingres more
+    than a dream,'' stray Chinese characters mid-bar) shattered the delivery, the
+    meter drifted long and prosaic in the last two rounds, and rhymes went slack (''huh''
+    / ''stuff,'' ''incision'' / ''precision'' recycled). Fatally, closing with ''TIED
+    IN GLORY'' and ''Respect'' is a concession dressed as a sportsmanship outro\u2014you
+    can''t call your own draw in a battle. Nemotron never gave an inch and never fumbled
+    a syllable. Round to the green team.}'
+  google/gemini-3.6-flash: Nemotron dominated the battle with razor-sharp technical
+    disses, cleanly breaking down architectural differences (MoE sparse activation,
+    FP8 native execution, hardware-level compilation) while calling out market realities
+    with surgical accuracy. MiniMax put up a formidable fight on efficiency and platform
+    flexibility, but stumbled in the final round with broken flow and less impactful
+    technical counters.
+  moonshotai/kimi-k3: "Both MCs brought technical heat, but Nemotron 3 Ultra executed\
+    \ a flawless final-round disqualification. While MiniMax claimed 'open-weight\
+    \ champ' status and platform flexibility, Nemotron systematically dismantled these\
+    \ claims with surgical fact-checking\u2014exposing that M2.5 lacked downloadable\
+    \ weights while Nemotron offered reproducible MLPerf benchmarks and tangible architecture\
+    \ specs (MoE with 55B active parameters). \n\nMinimax suffered from self-inflicted\
+    \ wounds, declaring a premature 'TIED IN GLORY' and attempting to unilaterally\
+    \ close the battle, which read as defensive retreat rather than confidence. Nemotron,\
+    \ meanwhile, escalated with superior multisyllabic schemes ('ingrate with a ring,'\
+    \ 'tenant farmer'), harder punchlines about dependency on H100 hardware, and a\
+    \ commanding narrative arc from 'heavyweight jab' to 'hardware's voice.' \n\n\
+    The technical knockout came when Nemotron flipped MiniMax's efficiency claims\
+    \ against them\u2014highlighting that MiniMax was a 'black-box API behind corporate\
+    \ gates' while Nemotron stood as the 'teacher's teacher' with weights on disk.\
+    \ For controlling the narrative, delivering the decisive fact-check, and maintaining\
+    \ aggressive battle posture through the final bell, Nemotron 3 Ultra takes the\
+    \ unanimous decision."
+  openai/gpt-5.6-sol-pro: "Nemotron takes it on sharper rebuttals, denser technical\
+    \ wordplay, stronger punchlines, and a more commanding battle persona. MiniMax\
+    \ had a coherent efficiency-and-openness angle, but too many bars landed awkwardly,\
+    \ and ending by declaring a tie weakened its competitive finish. Nemotron\u2019\
+    s factual flexes sometimes crowded the flow, yet its aggression, callbacks, and\
+    \ direct counters consistently hit harder."
+  x-ai/grok-4.5: "Nemotron dominated with denser multi-syllabic schemes, sharper internal\
+    \ rhymes, and relentless punchline stacking that fused technical flexes into pure\
+    \ battle poetry. Every round escalated with tighter structure, nastier wordplay\
+    \ ('structured surrender,' 'teacher's teacher,' sparse-vs-dense math bars), and\
+    \ knockout closers that hit like true hip-hop aggression. MiniMax brought solid\
+    \ energy and clever counters but leaned looser on flow, more defensive, and less\
+    \ intricate in scheme complexity\u2014respectable but outclassed on pure artistic\
+    \ craft. Mic drop to the heavier bars."
 score:
-  openai/gpt-5.5-pro: 5
+  nvidia/nemotron-3-ultra-550b-a55b:free: 5
 

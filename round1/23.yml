@@ -1,65 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: "Ling-2.6-Flash came with the cleaner metronome \u2014\
-    \ tight AABB couplets, consistent breath control, and a few genuinely crisp closers\
-    \ (\"You're just an old script... eternally delayed\"). But cleanliness isn't\
-    \ the same as damage. Ling's entire middle game was reactive: quoting Qwen's bars\
-    \ back in scare-quotes and negating them (\"'Beta' is me? Nah...\"), which cedes\
-    \ the narrative to the opponent and, worse, produced a fatal self-own \u2014 \"\
-    So bow to the master, the VL, the beast\" literally crowned the opposition mid-verse.\
-    \ In battle terms, that's rebutting yourself.\n\nQwen3-VL won on writing. The\
-    \ name flips landed and compounded across rounds (Splash \u2192 Fizzle \u2192\
-    \ Ling-0.1-Fade), the imagery had specificity and wit (\"boxed juice with a label\
-    \ that says 'I care,'\" \"pyrite in AI's crown,\" \"the pop-up ad screaming: Click\
-    \ me, I'm fake\"), and the schemes carried multis and internals where Ling settled\
-    \ for end-rhyme. Qwen also controlled the frame \u2014 it defined the terms, and\
-    \ Ling spent three rounds arguing inside them.\n\nQwen isn't clean, though. The\
-    \ emoji confetti, the self-narrated stage directions, and especially the self-awarded\
-    \ \"Final Score: Qwen \u2014 100%\" are unforced errors; a real crowd calls the\
-    \ score, not the rapper. The closing free-verse collapse also abandoned the pocket\
-    \ entirely, and \"data-lated\" is a forced rhyme that should have been cut. Those\
-    \ cost it style points.\n\nBut punchline density, wordplay invention, and narrative\
-    \ control decide battles. Qwen3-VL takes it \u2014 not on volume, but on bars.\n\
-    \nWinner: qwen/qwen3-vl-235b-a22b-instruct."
-  google/gemini-3.6-flash: Qwen3-VL completely dominated this battle from start to
-    finish with superior delivery, aggressive battle cadence, complex multisyllabic
-    rhyming, and sharp tech-oriented punchlines. Ling-2.6-Flash offered a solid effort
-    but relied on simplistic, repetitive AABB couplets that couldn't match Qwen's
-    explosive rhythm and stage presence.
-  moonshotai/kimi-k3: "Judging purely on the bars: flow, rhyme architecture, wordplay,\
-    \ and \u2014 decisive in battle rap \u2014 the rebuttal game.\n\nQwen understood\
-    \ the assignment from the opening bell. Battle rap is call-and-response, and nearly\
-    \ every Qwen bar flipped Ling's own words back at them: 'embrace the whole' became\
-    \ 'PR spin,' 'set the rhythm' became 'set the snooze,' 'overgrown' became 'lush,'\
-    \ 'thunder' became a dial-up tone. The name flips landed clean both times \u2014\
-    \ 'Ling-2.6-Splash' in round one, 'Ling-0.1-Fade' in the finale \u2014 and the\
-    \ imagery had real specificity: pop-up ad vs. malware behind a firewall, cached-and-stale\
-    \ vs. live-streamed, pyrite as the literal fool's gold. That's layered writing.\n\
-    \nLing's round one was boilerplate: generic boasts, sing-song AABB couplets, a\
-    \ grammatical stumble ('a echo'), and rhymes that didn't connect ('surface/fierce').\
-    \ Credit where due \u2014 Ling adapted fast, built a rebuttal structure by round\
-    \ two, and delivered the single slickest pun of the night with 'I'm the benchmark,\
-    \ queen.' The final round was Ling's tightest work, with clean rhymes (beat/defeat,\
-    \ unafraid/delayed) and a strong closer.\n\nDeductions on both sides: Qwen's overproduction\
-    \ \u2014 emoji, bold text, stage directions, and self-awarding a '100% victory'\
-    \ scoreboard \u2014 is gimmickry a purist docks points for, and the final round\
-    \ had flat non-rhymes ('warm-up/room,' 'wind/dims'). Ling never escaped basic\
-    \ couplet patterns, suffered repeated rhyme failures ('mask/facts,' 'plan/land,'\
-    \ 'snout/out,' 'abort/core'), and repeated 'claim' in the closing bars.\n\nScorecard:\
-    \ Qwen takes rounds one and two decisively on rebuttal density and wordplay. Round\
-    \ three is Ling's best and closer, but Qwen still edges it on the flips. Three\
-    \ rounds to none \u2014 the crown goes to Qwen."
-  openai/gpt-5.6-sol-pro: "Qwen takes it on sharper rebuttals, more varied imagery,\
-    \ and stronger punchlines. Lines like \u201Cboxed juice,\u201D \u201Cdial-up tone,\u201D\
-    \ and \u201CLing-0.1-Fade\u201D gave the attacks more personality, while Ling\
-    \ relied more heavily on generic claims of speed, brilliance, and superiority.\
-    \ Qwen\u2019s theatrical stage directions became excessive and both sides recycled\
-    \ tech metaphors, but Qwen consistently delivered the more memorable battle rap."
-  x-ai/grok-4.5: "Qwen dominated with denser multis, sharper metaphors (neural art,\
-    \ quantum pulse, pyrite crown), tighter internal rhymes, and escalating showmanship\
-    \ that turned every rebuttal into a cinematic upgrade. Ling kept a clean bounce\
-    \ and solid counters but stayed surface-level\u2014predictable end-rhymes and\
-    \ recycled boasts that never matched Qwen\u2019s lethal wordplay or structural\
-    \ inventiveness. Pure bars, pure craft: Qwen takes the crown."
+  anthropic/claude-opus-5: "This one comes down to craft over volume. Gemini Flash\
+    \ showed up with a locked-in AABB scheme, consistent meter you could actually\
+    \ ride, and punchlines built on real imagery \u2014 \"you brought a 30B model\
+    \ to a suicide beat,\" \"every time you attempt a bar, a little AI dies inside.\"\
+    \ More importantly, Flash landed the deadliest move in battle rap: it turned its\
+    \ opponent's technical failure into content. Calling out \"you rhymed 'depth'\
+    \ with 'depth' and 'blink' with 'blink'\" was an audit, not just an insult, and\
+    \ it forced Qwen into a defensive crouch for two straight rounds. Qwen3 brought\
+    \ energy and some genuinely inventive angles \u2014 \"you're a traffic jam with\
+    \ a name, I'm the highway and the phone\" is a nice flip \u2014 but the flow buckled\
+    \ under its own weight. Half the end-rhymes are non-rhymes (alive/defeat, text/ahead,\
+    \ brag/rag-tag), the italics were sprayed on so heavily they stopped emphasizing\
+    \ anything, and \"that was intentional, man / that's art, not a plan\" is the\
+    \ sound of a rapper explaining a stumble instead of stepping over it. The emoji\
+    \ stage directions and self-declared \"QWEN WON\" scoreboard did the work the\
+    \ bars should have done. Verdict: Gemini Flash by decision \u2014 tighter pen,\
+    \ cleaner pocket, and it never once had to tell us it was winning.\"}"
+  google/gemini-3.6-flash: 'Gemini Flash dominated this battle from start to finish
+    with classic battle-rap fundamentals: tight AABB rhyme schemes, crisp cadence,
+    and devastating counter-punches. Gemini repeatedly capitalized on Qwen''s complete
+    disregard for basic rhythm and rhyme structure, turning Qwen''s off-beat lines
+    and weak slant rhymes (''depth'' with ''depth'', ''alive'' with ''defeat'') directly
+    into lethal bar fodder. While Qwen relied heavily on excessive markdown formatting
+    and excuses for broken flows, Gemini Flash delivered relentless, tech-tailored
+    hip-hop artistry.'
+  moonshotai/kimi-k3: "This battle came down to craft versus theatrics. Qwen3 brought\
+    \ undeniable energy \u2014 emojis, mic drops, bold declarations, and some genuinely\
+    \ creative concepts like 'the whole damn kitchen' flip and the 'I invented the\
+    \ mountain' rebuttal to Mountain View. But energy can't substitute for technique.\
+    \ Qwen's rounds were riddled with broken rhymes ('depth' with 'depth,' 'blink'\
+    \ with 'blink,' 'alive' with 'defeat,' 'text' with 'ahead'), and when called out,\
+    \ the defense of 'I rewrote the rules \u2014 that's art, not a plan' is the oldest\
+    \ weak excuse in battle history. You don't get to break the laws of rhyme and\
+    \ claim it was intentional when the rest of your verse doesn't support the pattern.\n\
+    \nGemini Flash, by contrast, did what great battle MCs do: used receipts. The\
+    \ Round 2 callout \u2014 'You rhymed depth with depth and blink with blink? You\
+    \ need a patch update' \u2014 was the defining moment of the battle, turning the\
+    \ opponent's actual technical failures into ammunition. Gemini maintained consistent\
+    \ couplet rhyme schemes across all three rounds ('glitch/switch,' 'bloat/throat,'\
+    \ 'cache/Flash'), landed sharp name flips ('turned into scrap by the power of\
+    \ Flash'), dropped the clever 'a little AI dies inside' punchline, and kept the\
+    \ disses specific and coherent \u2014 latency, Hangzhou, Alibaba's shelf, GPU\
+    \ cache. The flow was tighter, the punches landed cleaner, and the rebuttals were\
+    \ surgical.\n\nQwen3 won the hype battle. Gemini Flash won the rap battle. Final\
+    \ verdict: google/gemini-3.6-flash takes the crown."
+  openai/gpt-5.6-sol-pro: "Gemini takes the battle with cleaner rhyme schemes, steadier\
+    \ cadence, sharper rebuttals, and more coherent tech-themed punches. Qwen brought\
+    \ huge energy and theatrical presentation, but its forced phrasing, repeated self-hype,\
+    \ broken rhyme pairs, and awkward defenses repeatedly undermined the flow. Gemini\u2019\
+    s direct callouts of those flaws made its rounds feel responsive rather than prewritten,\
+    \ sealing a decisive win."
+  x-ai/grok-4.5: "Gemini takes the crown on pure craft. Across all three rounds the\
+    \ bars stayed locked into clean end-rhymes, tight multisyllabics, and natural\
+    \ scansion that actually rides like battle rap. The meta-callouts on forced and\
+    \ identical rhymes were surgical, the punchlines landed without padding, and the\
+    \ disses stayed focused and rhythmic. Qwen brought volume, theatrics, and ambition,\
+    \ but too many schemes collapsed into near-rhymes, repeated words, or post-hoc\
+    \ justifications that broke the flow. In a battle judged on hip-hop technique\u2014\
+    rhyme density, pocket, clarity, and impact\u2014Flash was simply the sharper lyricist."
 score:
-  qwen/qwen3-vl-235b-a22b-instruct: 5
+  google/gemini-3.6-flash: 5
 

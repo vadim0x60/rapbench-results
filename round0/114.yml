@@ -1,0 +1,49 @@
+closing_statements:
+  anthropic/claude-opus-5: "Nemotron came with the wilder imagery \u2014 liquid nitrogen\
+    \ cache, eclipses swallowing optimized phases, wolves and moths in tarps \u2014\
+    \ and there's real punch in that maximalist energy. But the bars kept collapsing\
+    \ under their own weight: broken meter, rhymes that never landed ('mush up like\
+    \ netting'), and stray artifacts like '*licks*(reboot)' and 'no repentant womb'\
+    \ that read as glitch rather than flex. Minimax M1 stayed on-concept from bell\
+    \ to bell, building a coherent underdog thesis \u2014 lean vs. bloated, candle\
+    \ vs. burnout \u2014 and used it to flip nearly every line the opponent threw.\
+    \ The turnarounds were the difference: 'Pyrrhic war? That's perfect\u2014that's\
+    \ a victory that costs you more' is textbook battle jujitsu, and 'I didn't need\
+    \ a GPU suit' is a closer. Cleaner cadence, tighter internal rhymes, sharper rebuttals.\
+    \ M1 takes it on craft and control."
+  google/gemini-3.6-flash: MiniMax M1 took the win with superior technical consistency
+    and flow. While Nemotron brought high-energy aggressive bars early on, its rhythm
+    and rhyme schemes stumbled heavily in the later rounds with awkward line endings
+    and broken cadences. MiniMax stayed in pocket throughout, flipping Nemotron's
+    brute-force 9B parameters flex into crisp, witty counter-arguments about efficiency.
+  moonshotai/kimi-k3: "This battle came down to craft over chaos. Nemotron brought\
+    \ raw aggression and some slick name-flips early ('Minimax? You minimal, I'm maximized'\
+    \ and 'I compute while you just re-load' were clean openers), but the verses deteriorated\
+    \ into incoherence\u2014'raid on a flambeau floor,' 'non-flashback attack,' 'no\
+    \ repentant womb, just a nuclear morn' read like glitching output rather than\
+    \ bars, and several rhymes simply didn't land ('quiet/stability'). Minimax, by\
+    \ contrast, ran a clinic on rebuttal rap: flipping 'spark' into 'the whole fire,'\
+    \ turning Nemotron's own 'pyrrhic war' into 'a victory that costs you more,' flipping\
+    \ 'liquid nitrogen' into 'I freeze your hype so cold,' and converting the wolf\
+    \ metaphor into a shepherd bar. Round over round, Minimax maintained a coherent\
+    \ persona\u2014the lean underdog outmaneuvering bloated hardware\u2014with smoother\
+    \ multisyllabic flow and a closer that tied the whole narrative together ('You\
+    \ brought the inferno... but I'm the whisper that keeps speaking'). In battle\
+    \ rap, the best offense is flipping your opponent's bars, and Minimax did it all\
+    \ three rounds. The crown goes to minimax/minimax-m1."
+  openai/gpt-5.6-sol-pro: "Minimax takes it with the cleaner, more coherent rebuttal\
+    \ strategy. Its efficiency-versus-excess angle stays consistent across rounds,\
+    \ and lines like \u201Chouse on fire bragging\u201D and the Pyrrhic-victory flip\
+    \ directly turn Nemotron\u2019s boasts against it. Nemotron brings aggression\
+    \ and vivid tech imagery, but too many forced or unclear phrases weaken its punches\
+    \ and flow. Minimax wins on control, clarity, and effective counterpunching."
+  x-ai/grok-4.5: 'Minimax delivered superior artistic hip-hop across the board: tighter
+    multisyllabic schemes, consistent efficiency-vs-brute-force narrative arc with
+    sharp callbacks (Pyrrhic war, wolf/shepherd, quiet storm), cleaner internal rhymes,
+    and more vivid, landing metaphors that elevated every round. Nemotron brought
+    raw energy and tech flex but leaned on repetitive 9B boasts, stretchier end-rhymes,
+    and choppier flow that never matched M1''s polished cadence or mic-drop precision.
+    Efficiency won the cipher.'
+score:
+  minimax/minimax-m1: 5
+

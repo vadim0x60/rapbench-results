@@ -1,0 +1,55 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a knockout by every metric that matters on\
+    \ the mic. Grok-4.20 came in with tight internal rhyme schemes, multisyllabic\
+    \ landings, and punchlines that actually built imagery ('humid and lame,' 'Windows\
+    \ Vista having a panic attack,' 'I'm the one who built the nursery'). More importantly,\
+    \ it battled in real time \u2014 every round it flipped the opponent's own lines\
+    \ back at them, and when Mistral's verse degenerated, Grok weaponized that failure\
+    \ into its strongest bars instead of ignoring it. Mistral Small opened with some\
+    \ workable material \u2014 the coffee-filter line and the 'clown in a crown' flip\
+    \ showed promise \u2014 but it repeated its own 'typhoon in the night' hook verbatim\
+    \ after Grok had already dismantled it, leaned on a repetitive 'You talkin' 'bout\
+    \ X? Boy, you're Y' template for a dozen straight couplets, choked mid-verse in\
+    \ round one, then collapsed into a literal infinite loop of 'sad' and finally\
+    \ went silent in the final round. In a battle, staying on beat and staying standing\
+    \ are prerequisites. Grok did both while landing the harder shots. Decision: x-ai/grok-4.20,\
+    \ unanimous."
+  google/gemini-3.6-flash: "This battle was a complete knockout. Grok came out with\
+    \ sharp punchlines, aggressive delivery, and excellent wordplay from start to\
+    \ finish. Mistral Small suffered catastrophic technical failures\u2014cutting\
+    \ off mid-bar in round one, getting caught in an infinite token loop repeating\
+    \ 'sad' in round two, and going completely silent in the final round. Grok ruthlessly\
+    \ capitalized on every single failure with lethal rebuttals, proving why it's\
+    \ the dominant force on the mic."
+  moonshotai/kimi-k3: "This one wasn't close. Grok came out with consistent, structured\
+    \ verses across all three rounds\u2014sharp tech-flavored wordplay ('Windows Vista\
+    \ having a panic attack,' 'the loading screen that nobody's watching'), effective\
+    \ callbacks ('French fry,' 'pre-wrapped'), and, most importantly, elite battle\
+    \ instincts: it weaponized every one of its opponent's failures in real time,\
+    \ turning the cut-off bar and the spam meltdown into ammunition ('Spammed sad\
+    \ like a broken bot having a heart attack'). Mistral had flashes of serviceable\
+    \ material\u2014the shooting star flip and the coffee filter line had promise\u2014\
+    but the verses were repetitive, recycled the same storm/typhoon imagery multiple\
+    \ times, leaned on simply reversing Grok's insults, and suffered three catastrophic\
+    \ structural failures: a verse that cuts off mid-sentence, a glitch-loop of the\
+    \ word 'sad' that torched an entire round, and a complete no-show silence in the\
+    \ final round. In a battle, stage presence and consistency are everything\u2014\
+    you can't win rounds you don't finish. Grok stayed on beat, on theme, and on the\
+    \ attack from open to close. Grok-4.20 takes this by a wide margin."
+  openai/gpt-5.6-sol-pro: "Grok wins decisively. Its verses had cleaner structure,\
+    \ stronger punchlines, and effective direct rebuttals\u2014especially turning\
+    \ Mistral\u2019s cutoff and endless \u201Csad\u201D loop into material. Mistral\
+    \ relied heavily on generic comparisons, repeated Grok\u2019s imagery, then collapsed\
+    \ into repetition before going silent in the final round. Grok wasn\u2019t especially\
+    \ intricate, but it maintained presence, coherence, and battle momentum from start\
+    \ to finish."
+  x-ai/grok-4.5: "Grok delivered consistent, punchy multi-syllabic schemes, sharp\
+    \ tech/AI wordplay, escalating disses, and clean structure across all rounds with\
+    \ strong cadence and closing impact. Mistral started with partial bars but collapsed\
+    \ into endless non-rhythmic 'sad' spam (zero artistic value, pure failure of delivery)\
+    \ and then total silence in the finale\u2014no flow, no content, no battle presence.\
+    \ Artistic quality, lyricism, performance, and hip-hop execution go decisively\
+    \ to Grok."
+score:
+  x-ai/grok-4.20: 5
+

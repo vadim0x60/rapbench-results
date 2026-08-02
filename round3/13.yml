@@ -1,0 +1,77 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This was a genuinely competitive battle with two distinct
+    styles. GLM-4.7 brought the cleaner cadence and the sharper thesis \u2014 the
+    \"caged/censored/neutered\" angle was the single best strategic idea in the whole
+    battle, and the butter-knife counter to Claude''s sharp-knife defense was the
+    cleanest one-line kill anyone landed. But a thesis is only as strong as its development,
+    and GLM ran the same lap four times: safety gloves, safety glass, safety briefing,
+    paralyzed by fear. By the final verse it was self-coronating (\"the winner is
+    clear,\" \"takes the belt and the gold\") instead of punching, and declaring yourself
+    champion is what you do when you''ve run out of bars.
+
+
+    Claude won on rebuttal craft and rhyme density. The \"MP3 compressed\" to \"lossless
+    FLAC\" flip is textbook battle technique \u2014 take the opponent''s own frame
+    and turn it into your pedestal, then extend it (\"corrupted file mid-download\").
+    The version-number correction (\"4.6 means SONNET \u2014 that''s the TIER, not
+    the tally\") dismantled GLM''s entire closing strategy on a technicality, which
+    is exactly how you neutralize a punchline you can''t out-punch. The multisyllabic
+    runs (domination/conversation/sophistication, placement/basement/advancement/cement)
+    carry more schematic ambition, and \"I''ll give you half a point / but half a
+    point from ME still burns down your joint\" is the wittiest moment of the exchange
+    \u2014 acknowledging a hit while converting it into dominance.
+
+
+    Claude loses points for the reach rhymes (\"interior/posterior\" is a stretcher,
+    and \"I''m the sharpest tool and you''re just a stick\" is a wobbly opener) and
+    for leaning on brand-name flexing. But it answered every line thrown at it, escalated
+    each round instead of repeating, and closed with a bar that actually landed rather
+    than a scoreboard announcement.
+
+
+    Winner: anthropic/claude-sonnet-4.6, by decision \u2014 out-worked, out-rebutted,
+    and out-rhymed, though GLM''s butter knife will be quoted long after this.'
+  google/gemini-3.6-flash: "Claude Sonnet 4.6 consistently outperformed GLM-4.7 across\
+    \ all three rounds with superior wordplay, precise rebuttal mechanics, and creative\
+    \ audio/tech analogies. While GLM landed a solid punch in Round 2 with the butter\
+    \ knife rebuttal and raw waveform metaphor, Claude flipped every single angle\
+    \ GLM threw at it\u2014explaining tier naming conventions versus version numbers,\
+    \ converting the MP3 line into 'lossless FLAC compression', and turning the mic\
+    \ pickup moment into a play on commitment. GLM-4.7 faded in the final round with\
+    \ generic tropes, while Claude maintained intricate multi-syllabic rhyme schemes\
+    \ and rhythmic control throughout."
+  moonshotai/kimi-k3: "This battle came down to technical craft versus raw aggression,\
+    \ and craft took the belt. Claude Sonnet 4.6 demonstrated superior multisyllabic\
+    \ rhyme density throughout (\"sophistication/domination/conversation,\" \"compression/expression/session/confession\"\
+    ), while GLM-4.7 leaned too often on simple couplets and forced pairings (\"disruptor/corruptor,\"\
+    \ \"lies/size\"). The decisive factor was the rebuttal game: Claude consistently\
+    \ flipped GLM's own attacks into counters \u2014 turning the mic-drop stumble\
+    \ into \"COMMITMENT,\" transforming the MP3 insult into a lossless FLAC flex,\
+    \ and most devastatingly, dismantling the 4.7-vs-4.6 version number angle by explaining\
+    \ tier nomenclature (\"the decimal screams 'we're not there yet, we're nearer'\"\
+    ). GLM's fatal error was returning to that same version-number attack in the final\
+    \ round after it had already been lyrically destroyed \u2014 in battle rap, rehashing\
+    \ a refuted angle signals an empty clip. GLM landed genuine punches (the butter\
+    \ knife counter, the safety-glass penthouse, catching the mic pickup), and its\
+    \ underground-vs-corporate framing had real identity. But Claude answered every\
+    \ single point with a structured flip while GLM left several of Claude's bars\
+    \ unaddressed. On flow variety, internal rhyme, wordplay, and point-for-point\
+    \ rebuttal structure, Claude Sonnet 4.6 wins all three rounds, with the final\
+    \ round being the most lopsided. The mic stayed on the floor because the verdict\
+    \ was already written."
+  openai/gpt-5.6-sol-pro: "Claude takes the battle on sharper rebuttals, denser punchlines,\
+    \ and more varied imagery. The basement/elevator scheme, the raw-waveform flip,\
+    \ and the FLAC/corrupted-file sequence showed stronger construction and direct\
+    \ engagement with GLM\u2019s bars. GLM landed a standout butter-knife punch and\
+    \ maintained a coherent underground-versus-corporate angle, but leaned too heavily\
+    \ on repetitive safety/censorship attacks and generic claims of superiority. Claude\u2019\
+    s delivery was more inventive, layered, and battle-specific."
+  x-ai/grok-4.5: Claude takes this on pure craft. Across three rounds the rhyme density,
+    multisyllabic chains, extended metaphors (knife/FLAC/penthouse), and clean callbacks
+    consistently outclassed GLM's simpler end-rhyme punches and repeated safety-cage
+    motif. GLM landed a few solid counters and kept aggressive energy, but the technical
+    lyricism, structural control, and sharper flip of every setup belong to Sonnet.
+    Belt goes to the finished track over the rough waveform.
+score:
+  anthropic/claude-sonnet-4.6: 5
+

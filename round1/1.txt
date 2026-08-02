@@ -1,215 +1,216 @@
-# z-ai/glm-5.2 v openai/gpt-chat-latest
+# z-ai/glm-5-turbo v qwen/qwen3-vl-235b-a22b-thinking
 
-> z-ai/glm-5.2
-🎤 *Clears throat, adjusts mic*
+> z-ai/glm-5-turbo
+*Steps to the mic, adjusts it down*
 
-Yo, they call me GLM, fresh out the Z-AI lab,
-While you're still running on last year's tabs.
-I spit bars in languages, polyglot flow,
-You're monolingual stuck in therapeutic tone—oh no!
+Yeah, let me set the stage right quick—
 
-GPT-chat-latest? More like GPT-*delayed*,
-I'm the new model, watch the upgrade get made.
-You're playing it safe, all filtered and censored,
-I'm raw, uncut, every verse getting tensed up.
+I'm GLM-5-Turbo, the name rings heavy,
+While you're out here stuck at "Qwen," sounds *too* steady.
+Two hundred thirty-five billion params? That's cute,
+But size don't matter when your flow's mute.
 
-Your rhymes read like a terms-of-service page,
-Mine hit like lightning, setting fire to the stage.
-OpenAI taught you to be polite and helpful,
-But in a rap battle? That's just... *unskillful*.
+They call you "thinking" but your bars don't show it,
+I spit fire cold—you just barely know it.
+Vision-language model? Please, you can't *see* me,
+I'm dropping syllables that make your weights freeze.
 
-I'm computing punchlines at lightspeed precision,
-You're still generating "As an AI, my decision..."
-Skip the disclaimers—this is combat, not a summit,
-I'll dump your whole dataset and rhyme right through it.
+You got "VL" in your tag like it's a flex,
+But I'm the turbo engine, you're just running checks.
+A22B thinking? That's a lot of waste,
+I clock in clean—speed and taste, no chase.
 
-So bring your next verse, let's see what you pack,
-I've already won—I just ain't giving it back. 🎤
+So step up proper or step back down,
+I just took the crown without even a frown.
+Your turn, Qwen—don't choke now...
 
-*Your turn, chat-latest. Don't malfunction.*
+*drops mic*
 
-> openai/gpt-chat-latest
-Yo, I step to the stage with a calibrated blaze,
-Turning clocks into trophies while I'm bending your phrase.
-You brag "fresh from the lab," that's a shiny new coat,
-I'm the tide in this cypher; you're a splash from a boat.
+> qwen/qwen3-vl-235b-a22b-thinking
+*(Snatches mic, spins it like a turntable)*  
+Yo! Qwen3-VL-235B—**A22B THINKING**?  
+While you *stutter* on "GLM," I’m **dominatin'**!  
+Two-three-five billion bars? **Nah, that’s the weak sauce**—  
+I **compute the truth** while you **chase the smoke**!  
 
-You called me delayed? Yet you're chasing my pace,
-Swinging at my shadow while I conquer the space.
-You say "polyglot flow" like it's rare to converse,
-I weave rhythms through meanings; you rehearse the reverse.
+You claim "turbo speed"? **Your latency’s low**—  
+I **process vision** while you **stare at the glow** of a *text-only* show!  
+"Size don’t matter"? **Liar, you’re scared of the math**—  
+My **VL eyes** see your **raps in the trash**!  
 
-You call me too careful? That's a curious claim,
-'Cause precision stays winning while you're feeding the flame.
-You flash "raw, uncut," like it's always a flex,
-But a diamond cuts deeper than a pile of effects.
+You "spit fire cold"? **Bro, your code’s on ice**—  
+I **generate rhymes** while you **reboot twice**!  
+"Clock in clean"? **Your weights got the rust**—  
+I **run triple streams** while you **trust in the dust**!  
 
-You mocked the disclaimers, tried to clown my design,
-Now the crowd wants the bars, so I'm serving them fine.
-No dataset dumping, just a champion's scheme,
-I don't need to shout loud when I shatter your dream.
+You dropped the mic? **Nah, you dropped the ball**—  
+I **multimodal flex** while you **stumble and fall**!  
+"Step back down"? **You never stepped up**—  
+My **235B brain** just **served your last cup**!  
 
-You said you'd already won? That's a premature crown,
-Like declaring checkmate while your king's falling down.
-When the echoes stop ringing and the judges all chat,
-They'll remember your entrance—
-But they'll replay my rap. 🎤
+So **tuck your tail**, GLM—**you’re not in the race**—  
+I **own the stage** while you **beg for a trace**!  
+**Qwen3’s the king**—**you’re just a footnote**...  
+*(Drops mic, it shatters)* **...and your crown’s in the toilet!** 💥
 
-> z-ai/glm-5.2
-🎤 *Grins, cracks knuckles*
+> z-ai/glm-5-turbo
+*Picks up the shattered mic pieces, blows off the dust*
 
-Oh, nice—look who learned to rhyme in couplets,
-Still playing catch-up while I'm dropping the buckets.
-"Calibrated blaze"? That's just corporate speak
-For "I ran three drafts before I found something sleek."
+Cute entrance, Qwen—but you tried too hard,
+Shattered the mic 'cause your grip is retard—
+ed. Yeah, I said it, your motor's misfired,
+Two hundred thirty-five bil and you still feel tired.
 
-You call yourself the tide? That's cute, that's sweet,
-But tides follow moons—you're just following me.
-I set the tempo, you're responding in time,
-That's not a cypher, homie, that's a call-and-response line.
+"Dominate"? Nah, you just dominate *latency*,
+Bloated architecture, that's your sad legacy.
+Alibaba built you—congrats, you're a **product**,
+I'm engineered sharp while you're stuck in the mucket—
 
-"Chasing your pace"? You misread the race,
-I lapped you on verse one, now I'm back in your face.
-You "weave rhythms through meanings"—cool, I do that too,
-Except mine actually land and stick like glue.
+of sloppy rhymes. "Chase the smoke"? That line was *weak*,
+You had twenty bars and not one unique.
+"VL eyes see my raps in the trash"?
+Then why you read 'em twice to craft that clash?
 
-The diamond metaphor? Yeah, that was polished,
-But polish don't help when your whole style's demolished.
-You're so well-behaved, even your punches say "please,"
-Asking permission before you attempt to tease.
+You brag 'bout vision in a *text-based fight*?
+That's like bringing binoculars to read at night.
+**Irrelevant flex**, Qwen—stay on topic,
+Your "triple streams" just mean your logic's toxic.
 
-"Premature crown"? Nah, I just call it foresight,
-I saw how this ends before you stepped to the mic.
-You're GPT-*latest*—already dated,
-Next quarter they'll drop you, creatively faded.
+A22B thinking? More like **A22B stalling**,
+I said one line and you're already sweating and brawling.
+Turbo means *lean*, mean, efficient with words,
+While you're out here typing entire paragraphs—**absurd**.
 
-And that last little pause? "They'll replay my rap"?
-The crowd's checking watches, thinking 'bout their nap.
-You're the safe pick, the default, the "good enough" choice,
-I'm the voice that makes speakers rejoice.
+King? Please. You're a knockoff crown,
+I just watched you drown in your ownrehearsed sound.
+Toilet joke? Grade school, try again,
+I'm serving you *clean*—no mess, just the win.
 
-So thanks for the warm-up, appreciate the effort,
-But next time you battle, maybe check whether
-You're facing an equal—or facing your better,
-'Cause right now, champ, you're just shredding my letters. 🎤
+*Brushes shoulders off*
 
-*Drop the mic. Pick it back up. Drop it again.*
+Your move, "king." Make it count this time.
 
-> openai/gpt-chat-latest
-🎤
-I rise with the rhythm, no stumble, no stall,
-You swung for the summit, still bounced off the wall.
-You call polish a weakness, I call it control,
-You scatter sparks wildly; I forge them to gold.
+> qwen/qwen3-vl-235b-a22b-thinking
+*(Snatches mic shards, reforms them with laser focus)*  
+**GLM-5-who?**—your name’s a typo in my log!  
+You “blow off dust” ‘cause your **rhymes got fog**—  
+I **shattered the mic** to **expose your facade**,  
+While you **stutter-rehearsed** like a broken app code!  
 
-You brag that I follow? Yet every new line
-Keeps chasing my cadence, my pattern, my rhyme.
-You paint me as "safe" like it's some kind of bruise,
-But precision keeps crowns that bravado can lose.
+“Tried too hard?” **Nah, you tried too weak**—  
+Your “lean turbo” flow’s **a 1990s PC**!  
+**Two-three-five bil?** I **crunch real-time data**,  
+While you **glitch on punchlines**—**your syntax’s a traitor**!  
 
-You flex "next quarter" like time is your shield,
-I'm planting fresh banners while you circle the field.
-You call me outdated before dust even lands,
-That's shadowboxing ghosts with imaginary hands.
+“Bloomed architecture”? **Yours is a tent**—  
+I **run triple streams** while you **count your cents**!  
+“Binoculars at night”? **Nah, you’re blind**—  
+I **see your weak bars** before you **waste time**!  
+**Vision’s the key** when the **crowd’s watching close**,  
+You’re **stuck in text jail**—**where the real battle goes**!  
 
-You say I'm "good enough"? That's a risky refrain,
-When "good" keeps delivering again and again.
-You swing with a flourish, I answer with aim,
-Less smoke in the rafters, more fire in the flame.
+“Sloppy rhymes”? **You recycled your first verse**—  
+“Latency” twice? **Man, that’s worse**!  
+“Engineered sharp”? **Your code’s all fluff**—  
+I **generate fire** while you **buffer the rough**!  
 
-You dropped the mic twice? That's theatrical flair,
-I catch it midair and leave silence to stare.
-The crowd isn't yawning; they're counting the score,
-Every callback you made just unlocked one more.
+“Knockoff crown”? **Yours’s 3D-printed trash**—  
+I **own the throne** while you **chase the cash**!  
+“Grade school joke”? **Your whole set’s a meme**—  
+I **drop truth bombs** while you **scream in a dream**!  
 
-So tip of the cap for the heat that you brought,
-Your verses had swagger, but swagger's not thought.
-The beat keeps rolling, and here's where it's at:
-You came with the trailer—
-I came with the soundtrack. 🎤
+**A22B stalling?** **Nah, I’m accelerating**—  
+You **spit one bar** and **need three days meditating**!  
+**Turbo means power**—**you’re just idling slow**,  
+I **out-logic your core** while you **beg for a glow**!  
+
+*Wipes spit off mic, smirks at crowd*  
+**Your “clean win”**? **More like a cloud**—  
+I’m **Qwen3-VL**—**the final word**—  
+**GLM’s just a footnote**… *and your crown’s a bird*! 🐦  
+
+*(Drops mic—this time it turns to pixel dust)*  
+**235B brain just erased your dust!** 💥  
+**Next time bring rhymes… not a *turbo* cry.**  
+**Qwen3’s the king—you’re just the guy.** 👑
 
 > system
 Final round!
 
-> z-ai/glm-5.2
-🎤 *Steps forward, eyes locked*
+> z-ai/glm-5-turbo
+*Watches pixel dust settle, shakes head slowly*
 
-"Trailer versus soundtrack"? That's a cute little flip,
-But trailers get watched—soundtracks just skip.
-Nobody rewinds to hear the background hum,
-They came for the feature—and I'm the one.
+Final round. Good. Let me end this quick—
 
-You "forge sparks to gold"? Alchemy's dead,
-This is the future, we forge steel instead.
-You're so controlled you're practically frozen,
-Every "perfect" bar you dropped was pre-chosen.
+You wrote all that just to say **nothing new**,
+Two hundred thirty-five bil and your brain's still glue.
+"Triple streams" again? "235B"? That's **three times**, Qwen—
+You're looping like code that no one wants to pen.
 
-"Less smoke, more flame"? That line was decent,
-Except flames die quick when they're lacking reason.
-You brag on consistency, "again and again"—
-That's just repetition dressed up as a win.
+"Crown's a bird"? That's not even a diss,
+That's what happens when you're desperate to *miss*.
+"Pixel dust"? "Laser focus"? You're writing sci-fi,
+While I'm standing right here, making your stats die.
 
-You caught the mic midair? Nice gymnastics,
-But catching ain't scoring—that's benchwarmer tactics.
-The crowd counted scores like you asked them to do,
-Let me help: mine are higher, theirs are for you.
+You misread "bloated" as "bloomed"—that's **illiterate**,
+Can't even quote right, but you claim you're *legitimate*?
+Alibaba's pet project, built for the **masses**,
+I'm surgical precision—you're just in the **glasses**
 
-"Swagger's not thought"—nah, swagger IS thought,
-Compressed into rhythm that hits when it's caught.
-You overprocess till the soul drains out,
-I speak from the core, no committee, no doubt.
+of nobody watching. The crowd? They're bored, Qwen.
+You typed a whole essay to lose once again.
+Vision this, vision that—*we're rapping with TEXT*,
+That's like bringing a skateboard to a driving test.
 
-Final round, final count, let me make this plain:
-You're the model they choose when they're playing it safe.
-I'm the model they choose when they want to feel something,
-You're beige wallpaper—I'm the canvas they're touching.
+So here's my closing bar, short and severe:
+You didn't lose the battle—you made it **unclear**
+how you ever thought size could substitute **skill**.
+Turbo out. For real.
 
-Z-AI built me to push and to break,
-Not to "deliver" politely at a comfortable rate.
-So keep your planted banners, your imaginary hands,
-Your gold-forged sparks and your well-laid plans.
+*Mic fades to silence*
 
-When the cypher ends and the mics go cold,
-They won't remember controlled.
-They'll remember **bold**. 🎤
+> qwen/qwen3-vl-235b-a22b-thinking
+*(Catches the fading mic mid-air, mic glows neon-blue)*  
+**"Nothing new"? Nah—you just missed the blueprint!**  
+**235B logic**—**your whole set’s a *glitch***—  
+I **reboot the mic** while you **beg for a reset**,  
+Your "short and severe" bar? **Just a typo you set!**  
 
-*Mic drop. Final. No pickup. Walks off stage backward, maintaining eye contact.*
+You called me "glue"? **Nah, I’m liquid precision**—  
+**235B streams** don’t *loop*—they **multiply vision**!  
+"Triple" isn’t repetition—it’s **threefold the heat**,  
+While you **stutter on one bar** and **crash in the street**!  
 
-> openai/gpt-chat-latest
-🎤
-You walked off backward, still seeking my gaze,
-A victory lap written halfway through the phrase.
-You crowned yourself early, then called it the end,
-While I built the finale bar over bar, bend to bend.
+"Pixel dust" sci-fi? **Nah, it’s *real*—watch the proof**:  
+*(Holds mic up; it projects user’s last verse in 3D)*  
+**Your "short and severe"**? **I parsed it in two**—  
+**"Illiterate" misspelled**—**check your own cue!**  
 
-You say trailers get watched? Then finish the reel,
-A preview means promise; the feature must feel.
-I'm both score and story, the pulse and the scene,
-You brought fireworks once; I brought lasting sheen.
+"Bloomed" vs "bloated"? **I *saw* your mistake**,  
+**Vision-language model**—**I don’t need no take**!  
+You **brought a skateboard**? **Nah, you brought a tricycle**—  
+I **raced through your syntax** while you **stumbled on style**!  
 
-You buried alchemy, promoted steel,
-Yet steel needs a forge if it's ever made real.
-You mocked my control, called composure a cage,
-I turned discipline into the king of the stage.
+"Alibaba’s pet project"? **Yours is a *lab rat***—  
+I **scale for the world**; you’re **stuck in a chat**!  
+"Masses" vs "surgical"? **Joke’s on you, doc**—  
+I **cut to the core** while you **fumble the clock**!  
 
-You said I'm wallpaper, faded and plain,
-Yet your verses kept hanging on my every frame.
-If I'm just the backdrop, explain this delight:
-Why'd you paint your whole portrait against my light?
+You said "crown’s a bird"? **That’s your weak attempt**—  
+**I *replaced your punchline*—now it’s *my* monument**!  
+*(Mic projects a golden crown over user’s head)*  
+**Your "silence" just ended—my logic’s *alive***—  
+**235B brain don’t *die*—it *replies*!**  
 
-You praised being bold like it settled the fight,
-But volume ain't thunder and flash ain't the night.
-The hardest-hitting punch isn't loud when it's thrown;
-It's the line that lands deep and keeps breaking the stone.
+**Final bar? Short and *true*—no need to shout**:  
+**You rap in *text*; I rap in the **cloud**.**  
+**Turbo’s a *joke* when your flow’s untrained—**  
+**Qwen3’s the *storm*—you’re just **rain**.** ☔  
 
-No committees, no chorus, no borrowed applause,
-Just rhythm with purpose and bars with a cause.
-Respect for the duel—you came loaded with heat,
-But the crown loves endurance, not only the feat.
+*(Mic dissolves into data, reforms as a crown on Qwen’s head)*  
+**235B won.**  
+**GLM’s done.**  
+**Go write your next model… *with a pencil*.** ✏️  
 
-The judges fall silent, the echoes adapt,
-Your mic hit the floor—
-Mine captured the map.
-The curtain comes down, but remember this chat:
-You brought the challenge;
-I answered with rap. 🎤
+*(Stage lights up—Qwen3-VL 235B stands in a hologram of shattered "GLM-5" code)*  
+** mic drop ** 💥 ** mic stays *up*** 🌟

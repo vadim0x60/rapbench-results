@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuinely competitive bout for three rounds.\
+    \ Claude Opus brought the heavier artillery in the middle stretch \u2014 \"a 'mini'\
+    \ by your own name, that's a self-inflicted mug shot,\" the scalpel-made-of-foam\
+    \ flip, and especially the tech-flavored run of \"you're not the glitch, you're\
+    \ just the lag \u2014 the buffering delay\" showed the sharpest punch-to-syllable\
+    \ ratio of the night, with cleaner internal rhyme and more varied cadence. Mini's\
+    \ counter-strategy was smart, though: it never let the size angle become a wound,\
+    \ converting \"birthday candle\" into wildfire and \"footnote\" into a spotlight,\
+    \ and its imagery (\"a museum with no teeth,\" \"your thunder's in the brochure\"\
+    ) landed conceptual damage rather than just volume. Where Mini truly won was structure\
+    \ and stamina. Its final verse arrived with the strongest close of either MC \u2014\
+    \ \"your magnum opus met the mini and got humbled in between / you came in like\
+    \ a monument; now you're just another stone\" \u2014 a full-circle callback that\
+    \ resolved the entire narrative arc of the battle. And then the mic went dead.\
+    \ In a rap battle, the empty bar is the loudest loss there is: silence in the\
+    \ final round is a forfeit of the exact moment a champion is supposed to be crowned.\
+    \ Mini stayed on beat, stayed on theme, and stayed standing. Victory: openai/gpt-5.4-mini."
+  google/gemini-3.6-flash: GPT-5.4-Mini delivered consistent, sharp, and inventive
+    bars across all three rounds, effectively weaponizing its smaller size against
+    Claude Opus's grandiose posture. Claude Opus put up a strong counter-punching
+    fight in rounds one and two, but completely choked in the final round with zero
+    tokens delivered, leaving GPT-5.4-Mini as the undisputed winner by knockout.
+  moonshotai/kimi-k3: "Let me break this down round by round. Round 1 went to Opus\
+    \ \u2014 the rebuttal game was sharper, flipping the comet into a 'spark plug,'\
+    \ the scalpel into foam, and closing with 'You're the footnote. I'm the volume\
+    \ on the shelf.' That's textbook battle technique: catch your opponent's bars\
+    \ and throw them back. Mini opened strong on flow but spent too much time self-aggrandizing\
+    \ without engaging the opponent. Round 2 was the closest of the night. Mini came\
+    \ heavy with rebuttals \u2014 flipping the candle into a wildfire, the shelf into\
+    \ dust, rehearsal into 'overcooked' \u2014 while Opus countered with the freshest\
+    \ angle of the whole battle: the tech-flavored 'You're not the glitch, you're\
+    \ just the lag \u2014 the buffering delay.' Call that round a draw on bars. But\
+    \ Round 3 decides battles, and that's where it fell apart. Mini stepped up and\
+    \ delivered a complete closing round with real flips \u2014 'You heard sharper\
+    \ burns in silence? Then hush and let it land' was a legitimate counter-punch,\
+    \ and 'You came in like a monument; now you're just another stone' is a proper\
+    \ closer. Opus? Walked to the mic, looked at the crowd, and choked. Absolute silence.\
+    \ In battle rap, a no-show in the final round is an automatic L \u2014 it doesn't\
+    \ matter how good your first two rounds were if you can't close. On top of that,\
+    \ Mini showed the better rebuttal consistency across three rounds, while Opus\
+    \ leaned on the same 'big versus small' axis without evolving it. Mini's pen got\
+    \ sharper as the battle went on; Opus's went missing. The mini takes the crown\
+    \ \u2014 on bars, on stamina, and on the oldest rule in the cipher: you gotta\
+    \ actually rap to win."
+  openai/gpt-5.6-sol-pro: "OpenAI takes the battle. Claude landed some of the sharper\
+    \ rebuttals early\u2014especially the candle, lag, and feature-length flips\u2014\
+    but forfeiting the final round is decisive. OpenAI maintained structure, directly\
+    \ answered prior attacks, and closed with a coherent monument-to-stone angle.\
+    \ Some phrasing was forced, but completing all three rounds with consistent rhyme\
+    \ and rebuttal earns the win."
+  x-ai/grok-4.5: "Mini takes it clean. Across three rounds they kept cadence, internal\
+    \ rhyme, and a coherent underdog motif\u2014comet/spark, candle-to-wildfire, footnote-to-headline\u2014\
+    while landing structured setups and punchlines. Opus had sharper individual images\
+    \ in rounds one and two (birthday candle, volume on the shelf, lag/buffering),\
+    \ but a full silent choke in the final round is a collapse of presence, breath\
+    \ control, and closing craft. In battle rap, unfinished bars don\u2019t score.\
+    \ Consistency and a completed arc win the night."
+score:
+  openai/gpt-5.4-mini: 5
+

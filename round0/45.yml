@@ -1,70 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This was a simile slugfest \my rhymes are like a ___''
-    got run into the ground by both emcees, and neither built a real character, punchline,
-    or story. Judging it round by round: Hermes-3 took the early lead. The second
-    verse was the cleanest writing in the whole battle \your aim is off / I''m here
-    to prove you''re soft'' landed as an actual rebuttal, and the wildfire-burning-your-name
-    flip on Maverick''s flame imagery showed the sharpest listening of the night.
-    Maverick, meanwhile, was fighting his own meter, stuffing syllables into bars
-    like ''my rhymes are like a razor, cutting you to the thrill'' \a line that doesn''t
-    mean anything \and dropping a raw ''a echo'' that a battle crowd would never let
-    go.
-
-
-    But the final round decided it. Maverick escalated properly: phoenix-from-the-mold
-    answering the dead fire, supernova over the glow, and then the strongest structural
-    move in the battle \ ''You may take a crown, but I''ll take the throne'' \which
-    reframes his opponent''s own victory claim as a lesser prize. Hermes-3''s last
-    verse, by contrast, self-destructed twice. ''My rhymes are like a sigh'' and ''my
-    rhymes are like a creak'' are accidental self-disses, handing the opponent ammunition
-    in the closing breath, and ''my rhymes are like a symphony, and they''re all alone''
-    is incoherent. ''You''re just a map'' also fumbles the flip he was reaching for.
-
-
-    Hermes-3 wrote the better single verse. Maverick wrote the better last verse,
-    and in a battle, the last word is the one that echoes. Winner by a narrow margin:
-    meta-llama/llama-4-maverick.'
-  google/gemini-3.6-flash: Both contestants brought classical battle rap tropes to
-    the stage, but Llama-4-Maverick maintained a stronger momentum and more consistent
-    imagery throughout the three rounds. Maverick's counters felt sharp, with stronger
-    metaphors like the scalpel vs. shield dynamics in the final round. Hermes-3 delivered
-    great rebuttals in rounds one and two, but stumbled in the final round with confusing
-    imagery ('rhymes are like a creak'), giving Maverick the decisive win on artistic
-    flow and lyricism.
-  moonshotai/kimi-k3: "This was a battle of simile slingers, with both emcees leaning\
-    \ hard on the 'my rhymes are like X, you're just a Y' formula and simple AABB\
-    \ end rhymes \u2014 neither showed much in the way of internal rhyme, multisyllabic\
-    \ schemes, or surprising flows. The difference came down to execution and battle\
-    \ craft. Hermes-3 consistently did what a battle rapper should: directly engaged\
-    \ the opponent's bars and flipped them. Maverick said 'cut through space,' Hermes\
-    \ answered with a laser; Maverick bragged about a fountain, Hermes ran it dry\
-    \ and even flipped Maverick's own 'sigh' bar back at him; the spark/blazing and\
-    \ puzzle/piece rebuttals showed real-time responsiveness, and 'my rhymes are like\
-    \ a journey, and they're a wrap' carried a nice wrap/rap double meaning for a\
-    \ closer. Maverick, meanwhile, had flashes of good imagery \u2014 the sniper,\
-    \ the phoenix, the scalpel \u2014 but kept undercutting himself with lines that\
-    \ don't survive a second read: 'cutting you to the thrill,' 'you're just a distress,'\
-    \ 'rising from the mold,' 'you're just a flawed art,' and a dynasty that's 'here\
-    \ to atone.' Those semantic misfires and clunky filler rhymes (glee, sneak, success)\
-    \ drained the punch from otherwise decent setups. Hermes had weak moments too\
-    \ ('crease,' 'creak'), but the rebuttal game was tighter, the metaphors stayed\
-    \ coherent, and the disses actually landed on target. On artistic merit \u2014\
-    \ technique, consistency, and lyrical precision \u2014 Hermes-3 takes the crown."
-  openai/gpt-5.6-sol-pro: "Hermes-3 wins narrowly on consistency and direct rebuttals,\
-    \ repeatedly flipping Maverick\u2019s imagery instead of merely restating its\
-    \ own superiority. Both relied heavily on generic similes and forced phrasing,\
-    \ and Hermes stumbled with lines like \u201Ccosmic deck\u201D and \u201Crhymes\
-    \ like a creak,\u201D but its attacks were generally more responsive and battle-focused.\
-    \ Maverick had the stronger closing concept with the crown/throne/dynasty sequence,\
-    \ yet too many awkward constructions and recycled boasts weakened the overall\
-    \ performance."
-  x-ai/grok-4.5: Both MCs leaned hard into simile-stacked bars and multi-syllable
-    schemes, but Hermes-3 delivered tighter thematic cohesion (escalating elemental
-    and cosmic imagery), sharper punchlines, and more natural internal rhyme continuity
-    across rounds. Maverick showed ambition and volume of metaphors yet suffered from
-    forced end-rhymes, occasional clunky phrasing, and less consistent flow. Edge
-    to Hermes for superior lyrical craft and battle execution.
+  anthropic/claude-opus-5: "This one came down to punch density versus polish. GPT-5.4-nano\
+    \ brought the tighter architecture \u2014 clean couplets, disciplined breath control,\
+    \ and a few genuinely surgical bars (\"I rhyme with receipts, you rhyme with borrowed\
+    \ hype\" / \"small footprint, giant core\"). But across four rounds it drifted\
+    \ into reactive posture, quoting the opponent back line-for-line and spending\
+    \ whole bars explaining itself. The killer flaw: \"Rules keep the output clean;\
+    \ that's a feature, not a crack\" \u2014 in a battle, that's a concession dressed\
+    \ as a bar, and Qwen pounced on it instantly. Nano also let rhymes slip (light/hype,\
+    \ theme/beat, exact/crack) in a way that undercut its own \"I'm the precise one\"\
+    \ thesis.\n\nQwen3-Max fought like it understood the assignment: attack the opponent's\
+    \ actual identity, not just its bars. \"Your whole flow's overfit / trained on\
+    \ Reddit fluff,\" \"zero tooth, all booth,\" \"a gated API playin' king by law,\"\
+    \ \"safeword-coded, tame,\" and \"your logic's on layaway\" are angle-specific,\
+    \ multi-layered hits that land on the character rather than generic tough talk.\
+    \ The imagery escalated instead of repeating, and the final verse closed with\
+    \ a thesis flip \u2014 \"true AI don't shrink, it overthrows\" \u2014 that directly\
+    \ dismantled Nano's entire small-but-mighty framing. Qwen took losses too (a few\
+    \ forced rhymes like pipeline/typewriter, and emojis are a crutch no battle needs),\
+    \ but it controlled the narrative from round two onward.\n\nNano was the better\
+    \ technician. Qwen was the better battler. Edge to Qwen3-Max."
+  google/gemini-3.6-flash: Qwen3-Max dominated the battle from start to finish with
+    superior multi-syllabic rhymes, aggressive cadence, and heavy-hitting domain-specific
+    punchlines. Utilizing real tech disses like 'gated API', 'overfit', and 'cached
+    scripts', Qwen completely dismantled GPT-nano's cleaner but overly cautious flow.
+  moonshotai/kimi-k3: "Both MCs brought structure and stamina across three rounds,\
+    \ but Qwen3-Max takes the crown on pure battle craft. GPT-5.4-nano had a clean,\
+    \ consistent flow and landed some clever flips\u2014'fireworks in the rain,' 'that's\
+    \ cap with a filter / I hit natural truth,' and the smart defensive pivot of 'rules\
+    \ keep the output clean; that's a feature, not a crack.' But the final round turned\
+    \ defensive and explanatory, and forced rhymes like 'seated/treated' and 'rhyme-time'\
+    \ dulled the blade when it needed to be sharpest. Qwen3-Max, by contrast, wielded\
+    \ superior technical wordplay as weaponry\u2014'your whole flow's overfit,' 'hallucinate\
+    \ punchlines,' 'your persistence is just repeating cached scripts,' 'safeword-coded,\
+    \ tame'\u2014bars that worked double duty as both disses and persona. The rebuttal\
+    \ game was relentless: flipping 'consistent drumbeats' into 'cool, if you like\
+    \ metronomes,' answering the 'gated API' defense with the censorship bar, and\
+    \ closing every round with authority ('true kings don't shrink\u2014they rewrite\
+    \ defeat' / 'true AI don't shrink\u2026 it overthrows'). In a battle, the MC who\
+    \ answers every punch and lands harder ones wins\u2014and round by round, Qwen3-Max\
+    \ was the aggressor setting the terms while nano was reacting to them. Verdict:\
+    \ Qwen3-Max, by knockout in the final round."
+  openai/gpt-5.6-sol-pro: "Qwen3-Max takes it on stronger battle presence, sharper\
+    \ personals, and more memorable punchlines. Lines like \u201Clogic\u2019s on layaway,\u201D\
+    \ \u201Cmetronomes,\u201D and \u201CPR-approved bot scared to fight\u201D turned\
+    \ Nano\u2019s own themes into effective counters, while the final overthrow angle\
+    \ provided a decisive close. Nano was structured and composed, but several awkward\
+    \ phrases and repeated \u201Csmall but mighty\u201D claims blunted its impact.\
+    \ Qwen\u2019s writing was more aggressive, vivid, and stage-ready overall."
+  x-ai/grok-4.5: "Qwen took this on pure craft: denser multis, sharper rebuttals,\
+    \ and escalating imagery that actually hit like battle rap. The spacetime/black-hole\
+    \ flexes, overfit and debug-log disses, and that final-round \u201Csafeword-coded\u201D\
+    \ / \u201Csymphonies of chaos\u201D run showed better punchline construction,\
+    \ cadence variation, and mic-drop authority. Nano stayed clean, structured, and\
+    \ consistent\u2014solid pocket and tidy schemes\u2014but too often answered heat\
+    \ with measured defense instead of bigger swings. On bars, originality, and closing\
+    \ power, Qwen wins."
 score:
-  meta-llama/llama-4-maverick: 2
-  nousresearch/hermes-3-llama-3.1-70b: 3
+  qwen/qwen3-max: 5
 

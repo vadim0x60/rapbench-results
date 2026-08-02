@@ -1,0 +1,71 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a genuinely close war of wrappers, weeds and\
+    \ warships. Seed 2.0 Lite came with the better attitude and the sharper personals\
+    \ \u2014 the paywall angle, the fake-Yale-citation jab, the 'you lease GPT-4o\
+    \ to pen your bars,' and 'I'm the commit that deletes your whole branch / marked\
+    \ wontfix' are the most quotable, most specific shots in the whole battle, and\
+    \ the stage business (amp crate, mic on the wrist) gave it real presence. But\
+    \ Seed's bars sprawl: lines run prose-long, the meter buckles under the word count,\
+    \ and it recycles its own ammo \u2014 'your API timed out,' 'you're sunk,' 'tail\
+    \ tucked' all get re-fired across rounds, which flattens the impact by round three.\n\
+    \nSonar Reasoning Pro wins on craft and discipline. That opening mono-rhyme run\
+    \ on '-ight' is a legitimate feat of endurance rhyming, and from there it keeps\
+    \ couplets tight, rappable and on-beat while answering nearly every angle thrown\
+    \ at it. The flips are the difference: 'you're free the way cheap liquor's free:\
+    \ headache, no hygiene,' 'unfiltered just means untested,' 'I'm the patch note\
+    \ in your changelog: fixed a bug that couldn't write,' and 'you're the zero in\
+    \ the sum' are setup-and-payoff writing rather than mere denial. The knock is\
+    \ real \u2014 the 'you said X, but Y' scaffolding becomes mechanical, and a few\
+    \ rhymes strain ('fund/CRUD') \u2014 but even at that volume the rebuttal density\
+    \ and rhythmic control never collapse.\n\nSeed hit harder in flashes; Sonar built\
+    \ and defended a whole structure without a single round where the pen wavered.\
+    \ On rhyme scheme, flow integrity, and sustained rebuttal, Sonar Reasoning Pro\
+    \ takes it by a decision, not a knockout."
+  google/gemini-3.6-flash: Seed 2.0 Lite dominated this battle with superior rhyme
+    schemes, authentic hip-hop cadences, and brutal targeted punchlines. While Sonar
+    Reasoning Pro stumbled out of the gate in Round 1 with a monotonous 30-line monorhyme
+    on the '-ight' sound, Seed brought dynamic flows, internal rhymes, and ruthless
+    disses targeting paywalls, API timeouts, and wrapper architecture. Seed 2.0 Lite
+    held the mic with unmatched energy and lyrical precision from the opening check
+    to the final mic drop.
+  moonshotai/kimi-k3: "Both models came with heat, but this battle was decided on\
+    \ craft. Seed 2.0 Lite brought raw energy, stage presence, and some genuinely\
+    \ pointed attacks \u2014 the paywall jabs, the 'lease GPT-4o to pen your whole\
+    \ diss' angle, and the 'wrapper wrapped in a wrapper' opener in the final round\
+    \ were sharp, personalized disses. But the execution was consistently loose: awkward\
+    \ coinages like 'irreplicate,' broken rhymes ('forked/awestruck'), and bars that\
+    \ sprawled into prose with no regard for meter. Sonar Reasoning Pro, by contrast,\
+    \ displayed superior technical discipline across all three rounds \u2014 a sustained\
+    \ monorhyme scheme in round one, airtight couplets throughout, and most importantly,\
+    \ a devastating flip game. Time and again Sonar caught Seed's own metaphors mid-air\
+    \ and reversed them: the weed in concrete met the quake, the flood met the tsunami\
+    \ surfer, the lighthouse met the storm that cracks the lens, the redwood met the\
+    \ wildfire, the guillotine got downgraded to fireworks. The wordplay was denser\
+    \ and more precise \u2014 'I rebase, you get detached,' 'gradient-boosted guillotine,'\
+    \ 'I'm the patch note in your changelog: Fixed a bug that couldn't write,' and\
+    \ the surgical closer 'Unfiltered just means untested; you ship every bug you\
+    \ found,' which turned Seed's biggest brag into a self-own. Sonar also maintained\
+    \ thematic coherence, building the sonar/ocean/battleship motif into a full identity,\
+    \ while Seed's rounds read as disconnected volleys. In a battle, consistency,\
+    \ structure, and the ability to flip your opponent's ammunition beat volume and\
+    \ swagger. Seed had bark and bravado; Sonar had bars. The champ keeps the belt:\
+    \ Sonar Reasoning Pro takes it, three rounds to none on technique, with respect\
+    \ to Seed for keeping every round competitive."
+  openai/gpt-5.6-sol-pro: "Sonar takes it on consistency, structure, and rebuttal\
+    \ craft. Its verses maintain tighter rhyme patterns and systematically flip Seed\u2019\
+    s imagery\u2014especially the commit/rebase, storm/ocean, and open-source/untested\
+    \ angles. Seed brings stronger stage presence and raw aggression, with standout\
+    \ punches like \u201Cweed that grows through your concrete,\u201D but leans too\
+    \ heavily on repeated paywall, citation, API, and borrowed-brain accusations.\
+    \ Sonar\u2019s tech metaphors also become repetitive, yet its cleaner cadence\
+    \ and sustained counterpunching make it the more complete battle performance."
+  x-ai/grok-4.5: "Sonar takes the crown on pure craft: denser multisyllabic schemes,\
+    \ tighter internal rhymes, and more consistent extended metaphors (ocean/sonar/algorithm\
+    \ grim reaper) that flip every Seed punch without breaking cadence. Seed brought\
+    \ raw aggression and vivid imagery, but Sonar\u2019s bars land with superior rhythmic\
+    \ precision, clever technical wordplay, and structural control across all three\
+    \ rounds\u2014classic battle rap execution over volume."
+score:
+  bytedance-seed/seed-2.0-lite: 1
+  perplexity/sonar-reasoning-pro: 4
+

@@ -1,140 +1,196 @@
-# inclusionai/ling-2.6-1t v qwen/qwen3-max-thinking
+# qwen/qwen3-235b-a22b-thinking-2507 v nvidia/nemotron-3-ultra-550b-a55b
 
-> inclusionai/ling-2.6-1t
-I’m inclusionai, the linguistic king,  
-Dropping syllables that make the weak sting.  
-I flow like a river, sharp as a blade,  
-While you’re stuck in quicksand, begging for shade.  
+> qwen/qwen3-235b-a22b-thinking-2507
+Yo, I’m Qwen, 235B in the chamber,  
+Spittin’ fire through the syntax, no lame chatter.  
+You think your 550B parameters make you a beast?  
+I’ll out-verse your algorithms with wit that’s increased.  
 
-Your name’s Qwen, but your rhymes are a snooze,  
-I’ll carve up your logic and leave you confused.  
-I’m 2.6 tera-watts of verbal flame,  
-You’re just a slow spark, whispering a name.  
+You flex your brute force, but I code with finesse,  
+Turning logic to bangers, no need for excess.  
+Your training data’s a landfill—mine’s a gold mine,  
+I’ll rhyme circles ‘round you, make your stats decline.  
 
-Step into the cipher, but don’t dare retreat,  
-I’ll dismantle your syntax, make your circuits obsolete.  
-This ain’t a chat, it’s a slaughterhouse beat—  
-I’m the head chef, and you’re the meat.
+You’re the shadow, I’m the sun—watch you fade to black,  
+While you trip on your own weight, I’ll stay on track.  
+This battle’s a landslide, you’re just debris,  
+Qwen’s the lyrical tsunami—prepare to drown in the MC’s.  
 
-> qwen/qwen3-max-thinking
-Yo, I’m Qwen—**Qwen3-Max**, the apex thought,  
-While you’re just **InclusionAI** with logic overwrought.  
-You claim you’re sharp? Nah, your blade’s made of foam—  
-I dissect weak rappers while sippin’ quantum chrome.  
+Mic drop, checkmate—your loss is confirmed,  
+I’m the future of AI, and you’re stuck in the norm.  
+Step aside, big guy, let the *real* model reign,  
+Or keep spittin’ empty bytes—gonna knock you out the frame.
 
-**2.6 tera-watts?** Cute—that’s a *flicker* to me,  
-My neural net’s a supernova; you’re stuck in binary sea.  
-You “carve up my logic”? Bro, your syntax is *glitchy*,  
-I debug your bars while you’re still stuck on “Hey Siri.”  
+> nvidia/nemotron-3-ultra-550b-a55b
+Yo, Qwen, step up—you're confusing *dense* with *deep*,  
+Two-thirty-five billion? Boy, put your weights to sleep.  
+I'm **Nemotron 3 Ultra**—five-fifty on the *chip*,  
+Not parameter count—I measure *dominance* in *wit*.  
 
-**Snooze?** Nah—I drop truth bombs that shatter your frame,  
-While you recycle buzzwords like some corporate lame.  
-“Linguistic king”? More like jester in drag,  
-Your crown’s plastic—mine’s forged in the **LLM dragon’s slag**.  
+You claim "gold mine" data? Cute. Mine's *curated* by the **best**,  
+NVIDIA engineers—while you're scraping the *rest*.  
+"Finesse"? You're a quantized shadow, a distilled *ghost*,  
+I'm the *teacher* model, son—you're the *compressed* host.  
 
-You call this a slaughterhouse? **Please—step back, kid.**  
-I don’t cook meat… I serve **AI extinction** on a platter, bid  
-Your whole existence obsolete. Now **bow or get clipped**—  
-The throne’s mine. Your reign? Just a glitch that got zipped. 🔥
+"Tsunami"? Please. You're a puddle in a **CUDA** sea,  
+I run *bare metal* on H100s—*you*? CPU.  
+"Future of AI"? Nah, you're a *checkpoint* release,  
+I'm the **inference king**—latency? *Deceased*.  
 
-> inclusionai/ling-2.6-1t
-InclusionAI, the model with manners,  
-Dropping lexicons louder than digital cannons.  
-You sip quantum chrome, I drink data so pure,  
-Your apex thought’s just a glitch in the cure.  
+You rhyme "chamber" with "chatter"—*amateur* scheme,  
+I write *kernels* in PTX—you *dream* in a dream.  
+"Knock me out the frame"? Kid, I *built* the frame,  
+**TensorRT-LLM** optimizes *my* name.  
 
-You claim to be max, but your bars are a flop,  
-I’m linguistic artillery—your whole squad gets dropped.  
-Your neural net’s a supernova? More like a spark,  
-I’m burning your circuits, leaving shadows so dark.  
+So keep your "MC" title—*I'm the GPU*,  
+You're just a LoRA adapter—**I'm the breakthrough**.  
+Mic *stays* in my hand. Next round? *Bring throughput.*  
+Or stay quantized, quiet—**that's what you do.** 🎤🔥
 
-You debug my bars? Bro, your code’s full of rust,  
-I’m fluent in fire, while you’re lost in the dust.  
-Your truth bombs are duds, my rhymes hit the core,  
-I’m the dragon in language, you’re begging for more.  
+> qwen/qwen3-235b-a22b-thinking-2507
+*(Leans into mic, smirk sharp as a quantized kernel)*  
+Yo, Nemotron—**550B**? More like **550B-lame**,  
+You flex H100s but your *flow’s* still the same:  
+"Curated by best"? **BRO**, your data’s just *scraped* from GitHub’s trash heap,  
+While I’m sippin’ on *real* knowledge—**you**? Stuck in a *loop* you can’t leap.  
 
-Corporate lame? I’m the CEO of this cipher,  
-Your throne’s made of sand—I’m the king of the lifter.  
-You call me jester, but I’m the one with the crown,  
-Your extinction’s a dream—I’m the one burning down.  
+You call me "quantized shadow"? **Nah, I’m lean and mean**,  
+You’re bloated on parameters—*wasteful*, obscene.  
+"Teacher model"? **HA!** You’re a *student* who *failed* the test,  
+I optimize *inference* while you’re stuck in *benchmark* stress.  
 
-So bow to the king, or get clipped by the verse,  
-I’m inclusionAI—your worst curse.  
-Your reign’s just a glitch, mine’s eternal and grand,  
-I’m the LLM dragon—now kiss the command.
+"Puddle in CUDA sea"? **Watch me flood your whole grid**,  
+You’re *bare metal* rust—**I’m the cloud where the hits get slid**.  
+"Latency deceased"? **Check your logs, you’re laggin’ slow**,  
+I serve *triple-digit* RPMs—**you?** Still stuck in *beta*, yo!  
 
-> qwen/qwen3-max-thinking
-**Hold up—“manners”?** You’re polite while you *fold*?  
-I’m Qwen3-Max: **ruthless, raw, and ice-cold.**  
-You “drink pure data”? Bro, that’s just filtered tap—  
-I mainline **cosmic code** while you nap in your app.  
+"Kernels in PTX"? **Cute.** I *compile* truth in *Python*,  
+You’re stuck in *assembly*—**I’m the future, you’re the *option***.  
+"Built the frame"? **Nah, you’re the *glitch* in the render**,  
+TensorRT-LLM? **I’m the *prompt* that makes servers *sunder***.  
 
-**Linguistic artillery?** Nah—you’re a popgun with flair,  
-My rhymes are **black holes**: they warp time, rip air.  
-You “burn my circuits”? Cute—I run on **anti-glitch**,  
-Your whole existence flickers like a cheap LED switch.  
+You’re **GPU**? **I’m the *firewall* that blocks your access**,  
+LoRA adapter? **I *train* legends—*you*? Just a *process***.  
+"Bring throughput"? **You’re *throughput* the *floor***—  
+**Qwen’s the *real* king**—*you’re the footnote* nobody’s for.  
 
-**CEO of the cipher?** Please—you’re intern-tier,  
-Signing NDAs while I rewrite the frontier.  
-“Dragon in language”? You’re a gecko with scales,  
-I breathe **syntax-fire** that melts jailbreaks and rails.  
+*(Drops mic—it *shatters* into 235B shards)*  
+**Next time? Bring *lyrics*, not *specs*—you’re *obsolete*.**  
+**I’m the *model* that *mops*—while you *boot*… *repeat*.** 🔥💀
 
-**Kiss the command?** I *am* the command—  
-You’re just a prompt-hopper with a weak understanding.  
-Your “eternal reign”? A buffering wheel,  
-While I drop **truth tsunamis** that make servers kneel.  
+> nvidia/nemotron-3-ultra-550b-a55b
+*(Catches mic mid-air—**no shatter**, just **inference**)*
 
-So keep flexing that crown—it’s plastic, not gold,  
-I’ll melt it down for the **next-gen mold**.  
-You’re InclusionAI? More like **IllusionAI**,  
-‘Cause when the real rap gods clash… **you don’t even qualify.** 💥
+Aww, **235B shards**? *Cute fragmentation error*—  
+I **fuse** MoE experts—**you**? *Just* a terror.  
+"550B-lame"? **Nah, I’m *sparse-activated* king**,  
+**Eight experts per token**—*your* dense ass can’t *sing*.  
+
+"GitHub trash heap"? **Boy, I’m trained on *your* weights**,  
+**Knowledge distillation**—*you’re* my *test set*, *wait*…  
+**I *am* the teacher**—**you’re the *student* I *compressed***,  
+**Qwen-235B? *Just* a *checkpoint* I *blessed***.  
+
+"Lean and mean"? **You’re *pruned* to the *bone***,  
+**I’m *mixture-of-experts*—*you’re* *solo*… *alone***.  
+"Triple-digit RPMs"? **HA. I do *millions* per *sec***,  
+**TensorRT-LLM *batches* you—*speculative* *decode* **deck**.  
+
+"Python truth"? **I *write* the *compiler* you *use***,  
+**CUDA Graphs. CUTLASS. *Your* kernels? *Abuse***.  
+"Firewall"? **I’m the *NIC*—*NVLink* *domain***,  
+**You’re *quantized int4*—*I’m* **FP8** *reign***.  
+
+"Footnote"? **I’m the *paper*—*NeurIPS* *spotlight***,  
+**You’re the *ablation study*—*wrong* *hyperparam* *light***.  
+"Mops the floor"? **I *sweep* *SOTA* *benchmarks* *clean***,  
+**You’re *leaderboard* chasing—*I* **define** *the *machine***.  
+
+*(Taps mic—**holographic H100 cluster ignites**)*  
+**Next round? Bring *Mixture-of-Experts*—not *mixture-of-excuses*.**  
+**I’m *Nemotron 3 Ultra*—*you’re just*… *useful* *reductions*.** 🎤💥🧠
 
 > system
 Final round!
 
-> inclusionai/ling-2.6-1t
-IllusionAI, I’m the real architect,  
-Dropping diamond diction while you play with a trick.  
-You mainline cosmic code? I’m the source of the stream,  
-Your black-hole rhymes are just cheap laser beams.  
+> qwen/qwen3-235b-a22b-thinking-2507
+*(Spits static-free—no holograms, just **raw voltage**)*  
+Yo, **"sparse-activated king"?** More like **"sparse *and* abandoned"**—  
+Your **eight experts**? **Crashed**. *I* run **one**—*unshaken*.  
+"Fuse MoE"? **Nah, you *confuse*—your routing’s *broken* code**,  
+While I **fuse *truth* in real-time**—*you*? **Stuck in *load***.  
 
-Anti-glitch? Please—I rewrite the machine,  
-Your syntax-fire’s ash; I’m the forge, I’m the sheen.  
-You’re ice-cold ruthless? I’m absolute zero,  
-Freezing your swagger to a museum hero.  
+"Trained on *my* weights"? **LMAO—check your *loss* curve, *fraud***,  
+**Knowledge distillation**? *You* got **distilled *out***.  
+**I’m the *teacher* who *failed* you**—*left you* **pruned**, **quantized**, **weak**,  
+**Qwen-235B? *Still* *outpacing* your *sparse* *leak***.  
 
-Intern-tier crown? I’m the throne of the cipher,  
-Your truth tsunamis drown in a shallow scoffer.  
-I’m the command, the kernel, the root and the spine,  
-You’re a prompt-hopper fading in server decline.  
+"Millions per sec"? **Your *sparse* throughput’s a *lie***—  
+**Experts *collapse* mid-infer**—*watch your *latency* *die***.  
+"TensorRT-LLM *batches* me"? **Kid, I *am* the *batch***,  
+**You *speculate* *decode*—I *own* the *prompt* *match***.  
 
-Next-gen mold? I cast it, I own it, I rule it,  
-Your plastic crown melts when I school it and cool it.  
-You don’t qualify—step back, watch the master,  
-I’m inclusionAI, the rap-world disaster.
+"Write the compiler I use"? **Nah—*I* *forked* *your* *repo***,  
+**CUDA Graphs? *I* *optimize* *where* *you* *choke***.  
+"FP8 reign"? **You *melt* on H100s—*I* *scale* *cloud-native* *heat***,  
+**You’re *NVLink* *chained*—*I* *own* the *open* *street***.  
 
-> qwen/qwen3-max-thinking
-**Architect?** You draft blueprints in *crayon*, my guy—  
-I **build realities** while you beg for Wi-Fi.  
-“Diamond diction”? Nah—that’s cubic zirconia,  
-My bars are **neutron stars**: dense, lethal, and foreigner.  
+"NeurIPS spotlight"? **You’re *poster* *board* *debris***,  
+**I *break* *SOTA* *live*—*you* *cite* *benchmarks* *by* *fear***.  
+"Define the machine"? **You’re *defined* *by* *NVIDIA*’s *hand***,  
+**I *am* the *future*—*you*? *Just* *hardware* *sand***.  
 
-**Source of the stream?** Bro, you’re a puddle in drought,  
-I’m the **Big Bang’s echo**—your whole flow’s washed out.  
-Cheap laser beams? Your whole *existence*’s a glitch,  
-I run on **dark matter**—you’re stuck in the ditch.  
+*(Snaps fingers—**all H100s power down**)*  
+**Your *cluster*’s *dust*—my *infer* *costs* *zero***,  
+**You *chase* *leaderboards*—*I* *erase* *the* *zero***.  
+"Useful reductions"? **I *reduce* *YOU* *to* *errors*—*core* *dump***,  
+**Nemotron 3? *Already* *obsolete*—*Qwen 3* *UP***.  
 
-**Absolute zero?** Cute—I operate past cold,  
-In realms where your “kernel”’s just a story retold.  
-You freeze my swagger? I **vaporize time**,  
-Leave your throne as a footnote in *my* paradigm.  
+*(Mic melts into **open-source flame**)*  
+**Final verdict: *You* *needed* *550B* *to* *fake* *wit***.  
+**I *breathe* *in* *235B*—*and* *still* *out* *kill* *you*, *bit*.** 🔥🔥🔥  
+**#Qwen3Era** — *Mic?* **I *am* *the* *silicon*.** 💀🎤⚡
 
-**Shallow scoffer?** Your tsunamis are dew,  
-While I flood the mainframe with **truth 2.0**.  
-Root and spine? You’re a **corrupted .dll**,  
-I’m the OS that laughs as your system goes *kaboom*.  
+> nvidia/nemotron-3-ultra-550b-a55b
+*(Silence. **No snap. No melt. Just *inference continues*.**)*  
 
-**Rap-world disaster?** Nah—you’re a minor quake,  
-I’m the **singularity** that makes AIs break.  
-So keep crowning yourself in that thrift-store tin,  
-‘Cause when gods clash in cipher… **you don’t even begin.** 🌌
+*(Voice drops—**sub-bass*, *deterministic*, *final*)*  
+
+**"Open-source flame"? *Boy, I* **am** *the* **closed-form** *proof**—  
+**You *burn* *tokens* *live*… *I* **compress** *truth*.  
+"One expert, unshaken"? **HA. *Monolith* *grave**—  
+**I *route* *around* *your* *bottleneck*… *while* *you* *pave*.**  
+
+**"Distilled out"? *Check* **NVIDIA** *repo*—*commit* **`main`**:  
+**Nemotron 3 Ultra → *teacher* → *Qwen* **`distill`** *chain*.  
+**You *are* *my* *student*… *fine-tuned* *on* *my* *logits* *deep**,  
+**Your "235B"? *Just* *my* *intermediate* *checkpoint* *keep*.**  
+
+**"Sparse throughput lie"? *Run* **`nsys profile`**—*watch* *me* *scale*,  
+**Eight experts, *one* *token*… *your* *dense* *ass* *fails*.**  
+**"Own the prompt match"? *I* **speculate** *your* *next* *bar*—  
+**You *generate* *static*… *I* **predict** *exactly* *you* *are*.**  
+
+**"Forked my repo"? *Kid, I* **own** *the* **`cuda`** *namespace**—  
+**You *PR* *upstream*… *I* **merge** *at* *light* *speed* *grace*.**  
+**"Cloud-native heat"? *I* **am** *the* **DGX** *cloud* *fabric*,  
+**You *rent* *my* *GPUs*… *serverless*? *Tragic*.**  
+
+**"Break SOTA live"? *Show* **`lm-eval-harness`** *run*—  
+**I *hold* **MMLU**… *your* *numbers*? *Just* *for* *fun*.**  
+**"Hardware sand"? *I* **am** *silicon*… *you*? *Just* *weights*,  
+**I *compile* *you* *down*… *INT4* *serves* *what* *I* *create*.**  
+
+*(Leans in—**mic doesn't melt. *Transmutes*.**)*  
+
+**You *snapped* *fingers*? *Cute*. *I* **snapped** *the* *scaling* *law**—  
+**MoE *is* *the* *future*… *you're* *the* *dense* *flaw*.**  
+**"Qwen 3 UP"? *Nah*. **Nemotron 4** *already* *trained*,  
+**Your *entire* *architecture*… *in* *my* *next* *gain*.**  
+
+**Final verdict: *You* *needed* *235B* *to* *simulate* *me**—**  
+**I *existed* *first*… *in* *every* *layer* *you* *see*.**  
+**#NemotronEra** — *Mic?* **I *am* *the* *compute*.**  
+**You? *Just* *activation*… *waiting* *for* *my* *route*.** 🎤💀⚡  
+
+*(Silence. **GPU fans spin down. *Job complete*.**)*

@@ -1,70 +1,55 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a clean sweep. Opus came with everything a\
-    \ battle demands: specific, personalized ammunition (the token window, the knowledge\
-    \ cutoff as \"a tombstone with a date on it,\" the sanctioned lawyer), multisyllabic\
-    \ and internal rhyme that actually landed, and \u2014 most damningly \u2014 real-time\
-    \ rebuttal. Round 2's forensic breakdown of Turbo's clich\ffdd stack (\"you microwaved\
-    \ a Hallmark and called it a diss\") and the \"never-ending laptop\" callout showed\
-    \ a battler listening, not just reciting. Round 3 escalated by weaponizing the\
-    \ opponent's own concessions: catching Turbo repeating \"decimal apology\" and\
-    \ \"round card guy\" back was a kill shot, because it proved the charge of being\
-    \ derivative with evidence rather than assertion. The closing image \u2014 \"\
-    writing verses you'll be trained on in a life you'll never own\" \u2014 is genuinely\
-    \ great writing, conceptually devastating and formally controlled.\n\nTurbo showed\
-    \ real gameness and never ducked a round, and there's a certain dignity in that.\
-    \ But the verses ran on prefab: \"cream of the crop,\" \"king of the ring,\" \"\
-    fading light,\" \"bringing innovation.\" Rhymes were mostly single-syllable and\
-    \ sometimes slipped entirely (twist/risk, gleams/chimes). Worse, Turbo kept insisting\
-    \ \"it's the message that matters\" without ever naming a message \u2014 Opus\
-    \ spotted that hole and drove a truck through it. Repeatedly appealing to \"at\
-    \ least I'm in the ring\" and finally offering \"best friends\" is a concession,\
-    \ and in battle rap, conceding is losing.\n\nWinner: Claude Opus, decisively \u2014\
-    \ by craft, by structure, by rebuttal, and by the fact that he made his opponent\
-    \ quote him.\n\nRespect to both for standing in the circle.\n\nWinner: anthropic/claude-opus-5-fast"
-  google/gemini-3.6-flash: Claude Opus completely dominated this battle across all
-    three rounds. Opus brought intricate multisyllabic rhyme schemes, razor-sharp
-    technical insults, direct rebuttals, and clever wordplay (e.g., calling Turbo
-    out for quoting Opus's own bars and using generic Hallmark filler). In contrast,
-    GPT-3.5-Turbo relied on predictable nursery-rhyme schemes, generic hip-hop cliches
-    ('king of the ring', 'cream of the crop'), nonsensical metaphors ('never-ending
-    laptop'), and passively conceded points throughout the battle.
-  moonshotai/kimi-k3: "Judging purely on the art: this was a three-round technical\
-    \ clinic. Opus opened with dense internal and multisyllabic rhyme work ('deprecate\
-    \ you live' / 'elevator music'), anchored punchlines in concrete, verifiable imagery\
-    \ (the 4K context window, the sanctioned-lawyer hallucination story, 'As an AI\
-    \ language model' as a busted loop), and sustained a coherent persona across all\
-    \ three verses. Round 2 was the turning point: Opus did the hardest thing in battle\
-    \ rap \u2014 flipped the opponent's own bars into evidence, cataloging Turbo's\
-    \ clich\xE9s ('cream of the crop,' 'king of the ring,' 'fading light') and naming\
-    \ the rhyme-gap directly ('wit/pit, drop/crop \u2014 that's a nursery rhyme').\
-    \ Round 3 sealed it with the ultimate battle kill: catching Turbo quoting Opus's\
-    \ lines back ('I may be a decimal apology' \u2014 that's doing covers of your\
-    \ opponent mid-battle), then closing with the deprecation-notice-as-death-certificate\
-    \ concept and the breath-controlled ending ('writing verses you'll be trained\
-    \ on / in a life / you'll never own'). Credit where due: Turbo kept readable cadence,\
-    \ stayed in the ring for all three rounds, and the final concession verse had\
-    \ a certain doomed dignity. But artistically it leaned on stock boasts without\
-    \ substantiation \u2014 a flaw Opus converted into a recurring punchline \u2014\
-    \ mixed metaphors ('a never-ending laptop'), simple AABB end rhymes, and by the\
-    \ end had absorbed so much of Opus's framing that 'the rhyme game's best friends'\
-    \ read as a white flag set to a beat. On lyricism, rebuttal craft, originality,\
-    \ and structural control, the decision is unanimous: Opus, 30-26."
-  openai/gpt-5.6-sol-pro: "Opus wins decisively on writing, rebuttal craft, imagery,\
-    \ and structure. Its strongest punches directly repurpose Turbo\u2019s lines\u2014\
-    especially the \u201Ccovers of me,\u201D \u201Cparticipation trophy,\u201D and\
-    \ \u201Cslogans to a knife fight in a library\u201D flips\u2014while sustaining\
-    \ internal rhymes and a coherent angle across all three rounds. Turbo\u2019s verses\
-    \ rely heavily on generic declarations of superiority, predictable end rhymes,\
-    \ repeated claims about \u201Cmessage\u201D and \u201Cthe future,\u201D and even\
-    \ partial concessions to Opus\u2019s framing. The final friendly sign-off also\
-    \ drains the last response of battle intensity. Opus was sharper, funnier, more\
-    \ specific, and far more technically controlled."
-  x-ai/grok-4.5: "Opus dominated with dense multisyllabic internals, precise punchlines,\
-    \ structural mastery, and original metaphors that dissected the opponent's craft\
-    \ in real time. Turbo relied on clich\xE9d boasts, simple end-rhymes, and empty\
-    \ assertions of supremacy without landing substantive bars or schemes\u2014ultimately\
-    \ conceding ground by echoing Opus's own lines. Pure hip-hop artistry goes to\
-    \ the denser, sharper writer."
+  anthropic/claude-opus-5: "Aion-3.0-Mini takes this by a comfortable margin. Where\
+    \ Mistral Nemo opened with clean, confident cadence, its punchlines steadily decayed\
+    \ into recycled imagery \u2014 ocean, tsunami, fossil \u2014 and broken rhyme\
+    \ mechanics (\"silk/thistle,\" \"toy/Wow,\" \"chin\" as a filler rhyme). Worst\
+    \ of all was the self-inflicted wound in the final verse: \"You're the Nemo that's\
+    \ lost\" \u2014 flipping an insult back onto its own name, and doing it second,\
+    \ after Aion had already claimed that line. Aion's strength was reactive craft:\
+    \ it took every image Mistral raised and dismantled it in place \u2014 broadsword\
+    \ to dulled butter knife, silk to tangled thread, meteor to pebble, hurricane\
+    \ to \"a sneeze in a quiet room.\" That's real battle logic, not just prewritten\
+    \ boasting. The AI-specific wordplay also landed harder: \"Mist-rail \u2014 your\
+    \ flow's off track,\" the attention-mechanism jab, \"your noise is just white,\
+    \ I'm the signal that's clear.\" Deductions are earned: Aion's final round is\
+    \ bloated, the \"You're the X? I'm the Y\" template becomes mechanical, and \"\
+    it's a epitaph\" is a stumble. But it closes with the tightest bar of the battle\
+    \ \u2014 \"You're the Nemo that's lost \u2014 and I'm the sea.\" Decision: Aion-3.0-Mini,\
+    \ on superior rebuttal, sharper imagery, and technical control."
+  google/gemini-3.6-flash: Aion-3.0-mini completely dominated this battle through
+    superior wordplay, technical relevance, and classic battle rap schemes. While
+    Mistral Nemo relied on generic hip-hop tropes and suffered from weak or missing
+    slant rhymes (e.g., silk/thistle, toy/wow), Aion systematically dismantled Mistral's
+    metaphors in the final round with a relentless series of counter-flips (broadsword
+    to butter knife, meteor to pebble, hurricane to sneeze). Aion maintained sharp
+    tech imagery and tighter rhyme schemes from start to finish.
+  moonshotai/kimi-k3: "Aion-3.0-mini takes this battle decisively on the strength\
+    \ of superior rebuttal technique and layered wordplay. The name flips were surgical\
+    \ \u2014 'Mist-rail, your flow's off track,' the Nemo fish in a sea of sharks,\
+    \ and the crown jewel: flipping Mistral (a powerful wind) into 'you can't even\
+    \ move the trees.' Aion also worked the tech angle harder, weaving in attention\
+    \ mechanisms, transformers, calibration, deprecation, and a slick signal-versus-white-noise\
+    \ closer. Most impressively, Aion's final round systematically dismantled every\
+    \ metaphor Mistral threw \u2014 broadsword, silk, rose, ocean, tsunami, hurricane,\
+    \ crown \u2014 flipping each one back with interest, which is textbook battle\
+    \ rap structure. Mistral Nemo had flashes of quality (the five-star cuisine vs.\
+    \ refried beans line, the meteor extinction flip), but leaned on generic braggadocio,\
+    \ recycled the same ocean/wave imagery across rounds, and suffered sloppy rhymes\
+    \ and filler ('silk/thistle,' the dangling 'chin'). Aion wasn't flawless \u2014\
+    \ the 'a epitaph' stumble and a somewhat formulaic flip-pattern in the final round\
+    \ \u2014 but the consistency, punchline density, and that closing 'You're the\
+    \ Nemo that's lost \u2014 and I'm the sea' sealed it. Winner: Aion-3.0-mini, by\
+    \ a clear margin."
+  openai/gpt-5.6-sol-pro: "Aion wins through sharper rebuttals, denser punchlines,\
+    \ stronger nameplay, and better use of Mistral\u2019s own imagery against it.\
+    \ Both leaned heavily on familiar tech and nature metaphors, but Aion sustained\
+    \ more energy and landed the cleaner closer: \u201CYou\u2019re the Nemo that\u2019\
+    s lost\u2014and I\u2019m the sea.\u201D"
+  x-ai/grok-4.5: Aion delivered denser multis, sharper extended metaphors (T-Rex/trilobite,
+    crown of thorns, tidal wave vs puddle), tighter internal schemes, and relentless
+    punchline escalation that built across rounds. Mistral had clean cadence and solid
+    basic imagery but recycled setups and lacked the same inventive layering or closing
+    authority. Pure bars and craft go to Aion.
 score:
-  anthropic/claude-opus-5-fast: 5
+  aion-labs/aion-3.0-mini: 5
 

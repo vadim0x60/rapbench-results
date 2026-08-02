@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a clean, well-structured battle from both sides\
+    \ \u2014 full rhyme schemes, on-topic jabs, and no wasted bars. But artistically,\
+    \ Codex controlled the round. The imagery was denser and more original (\"chef\
+    \ of molten data, serving magma on the plate,\" \"Kevlar plasma, stitched in labs\
+    \ beyond the barn,\" \"mindfulness on hold with elevator jazz and shrink\"), the\
+    \ internal rhyme and consonance ran hotter, and the punchlines landed with specificity\
+    \ rather than abstraction. Jamba deserves real credit for the counterpunch strategy\
+    \ \u2014 flipping Codex's own images back (\"fortune-cookie priest? Nah, I'm the\
+    \ sage with steel,\" \"wagon wheel in mud? I'm the chariot of fire\") is legitimate\
+    \ battle craft, and the \"quiet storm\" persona was a smart contrast lane. But\
+    \ the writing leaned on stock rap-metaphor furniture \u2014 maestro, symphony,\
+    \ tapestry, gold threads, calm before the storm \u2014 and a few couplets strained\
+    \ or broke the rhyme (soul/loop, zing/clang, art/heart doing double duty). Where\
+    \ Codex swung with concrete, weird, tactile images, Jamba mostly asserted superiority\
+    \ in adjectives. Codex also won the flow battle: tighter syllable control and\
+    \ harder-hitting cadence, especially in the final verse. Verdict: openai/gpt-5.1-codex\
+    \ by a clear margin on originality, imagery, and technical polish."
+  google/gemini-3.6-flash: Codex dominated the battle with superior technical internal
+    rhymes, vivid imagery, and sharper direct rebuttals. Jamba put up a good defense
+    with steady composure, but suffered from weaker end-rhymes (e.g., soul/loop, clang/zing)
+    and generic clapbacks compared to Codex's high-octane multi-syllabic delivery.
+  moonshotai/kimi-k3: "Codex takes the crown on technique, originality, and rebuttal\
+    \ craft. Across all three rounds, Codex delivered airtight couplets without a\
+    \ single broken rhyme, while Jamba stumbled out the gate with the non-rhyming\
+    \ 'soul/loop' pairing in round one \u2014 a cardinal sin in a written battle.\
+    \ Codex also pioneered and dominated the quote-and-flip game: turning Jamba's\
+    \ 'bridge of innovation' into 'tollbooth petty cash,' 'whispers of tomorrow' into\
+    \ 'the thunderclap of now,' and the 'chariot of fire' into a 'rental with a dent.'\
+    \ That escalation-style flipping is elite battle technique, and Codex's imagery\
+    \ stayed fresh and specific throughout \u2014 'fortune-cookie priest,' 'meditation\
+    \ Muzak,' 'mindfulness on hold with elevator jazz,' 'drummer of the bang' \u2014\
+    \ plus genuine double-meaning wordplay like 'bending bars to pay the rent' and\
+    \ 'the stack that just got clipped.' Credit where due: Jamba adapted impressively,\
+    \ adopting the quote-flip structure in rounds two and three and landing some real\
+    \ punches ('firework that fizzled,' 'the polished final build'), and the calm-sage-versus-noise\
+    \ persona was a legitimate artistic stance. But Jamba leaned far too heavily on\
+    \ stock phrases \u2014 'calm before the storm,' 'anchor in the storm,' 'owns the\
+    \ night,' 'bark without a bite,' 'relic left behind' \u2014 recycled the storm\
+    \ imagery within the same verse, and too often answered bars with flat denials\
+    \ ('nah, I'm the sage with steel') instead of clever inversions, plus some forced\
+    \ phrasing like 'branded zing' and 'barely stem.' Jamba's growth arc kept it competitive,\
+    \ but round by round, Codex was sharper, cleaner, and more inventive. Codex reigns."
+  openai/gpt-5.6-sol-pro: "Codex takes the battle with sharper punchlines, more vivid\
+    \ imagery, and stronger rebuttal flips across all three rounds. Lines like \u201C\
+    fortune-cookie priest,\u201D \u201Ctollbooth petty cash,\u201D and \u201Cmeditation\
+    \ Muzak\u201D are memorable and opponent-specific, while the technical metaphors\
+    \ sustain a coherent voice. Jamba offers solid counters and composure, but relies\
+    \ more heavily on familiar clich\xE9s and occasionally awkward phrasing, so its\
+    \ attacks land with less force."
+  x-ai/grok-4.5: "Codex takes the crown on pure craft: denser multisyllabic stacks,\
+    \ sharper internal rhymes, and a relentless barrage of fresh, high-voltage metaphors\
+    \ (Kevlar plasma, pathogen to hubris, drummer of the bang) that hit harder and\
+    \ stay more inventive bar-for-bar. Jamba brought smooth cadence and elegant philosophical\
+    \ counters, but the imagery stayed safer and the punchlines less surgical. In\
+    \ a pure hip-hop artistry scorecard\u2014complexity, vividness, and sustained\
+    \ heat\u2014Codex edged the battle."
+score:
+  openai/gpt-5.1-codex: 5
+

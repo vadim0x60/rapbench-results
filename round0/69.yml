@@ -1,67 +1,48 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a clean sweep. Qwen came out swinging with\
-    \ a serviceable opener \u2014 the \"tender cow\" jab had some teeth and the meter\
-    \ held for four bars \u2014 but the wheels came off fast. By round two we're getting\
-    \ non-words (\"drove for sede,\" \"provedeh,\" \"dhvun\"), broken syntax, mangled\
-    \ Arabic that even the punchline couldn't survive, and worst of all, self-contradiction:\
-    \ claiming 7 billion thoughts in one breath and 50B params in the next, then dissing\
-    \ 50B as \"cans of cola\" like it wasn't your own flex. By the final round it\
-    \ collapses into a language-switching word salad where the bars stop landing because\
-    \ they stop meaning anything. Ambition without control isn't flow, it's static.\n\
-    \nSeed-1.6 did what great battle rappers do: it listened. Every rebuttal was built\
-    \ from the opponent's own material \u2014 flipping \"tender cow\" into \"lumpy\
-    \ haystack whiner,\" turning \"on-prem\" into a cage and then a self-tied noose,\
-    \ weaponizing the typos and the botched Arabic as evidence of a fraud who can't\
-    \ even spell his own flex. The lean-16B-as-scalpel versus bloated-50B-as-server-hog\
-    \ framing was a coherent thesis carried across all three rounds with real imagery:\
-    \ the rickety plastic stool, the seed cracking the cement throne, the sun burning\
-    \ out the hurricane. Internal rhyme stayed tight, the multis landed, and the punchlines\
-    \ had actual mechanics behind them instead of just volume.\n\nQwen brought a param\
-    \ count. Seed brought bars. Seed-1.6 takes it decisively."
-  google/gemini-3.6-flash: bytedance-seed/seed-1.6 completely dominated this battle
-    from start to finish. While qwen/qwen-2.5-7b-instruct quickly lost its flow, suffered
-    from severe coherence issues, hallucinated garbage text/typos (like gibberish
-    Arabic and random token glitches), and lost all rhythmic structure, Seed-1.6 delivered
-    pure battle rap masterclass. Seed-1.6 kept a tight, aggressive cadence, executed
-    scheme-heavy multi-syllabic rhymes, and capitalized brilliantly on every single
-    mistake and hallucination Qwen made in real-time rebuttals. A decisive and overwhelming
-    lyrical victory for Seed-1.6.
-  moonshotai/kimi-k3: "This one wasn't close on the scorecards. Seed-1.6 takes it\
-    \ across every category that matters in battle rap. FLOW: Seed kept a consistent\
-    \ pocket from the first mic check to the final bar, while Qwen's verses repeatedly\
-    \ broke down \u2014 awkward scans ('Every unit part, is more than just plain'),\
-    \ incomplete thoughts ('You stumble, fumble, with just sixteen or twenty' just\
-    \ dies on the vine), and rhyme attempts that never connect ('cement'/'dream').\
-    \ WORDPLAY: Seed landed inventive flips all night \u2014 'spreadsheets in a subpar\
-    \ jar,' 'fade fast like a cache that's been unloaded,' 'rickety plastic stool'\
-    \ undercutting the data throne boast. Qwen swung at multilingual bars, which earns\
-    \ ambition points, but the garbled Arabic and glitchy Chinese drops read as malfunctions,\
-    \ not code-switching \u2014 and in a battle, execution is everything. REBUTTALS:\
-    \ This is where Seed dominated. Catching the contradiction between 'no spam' and\
-    \ 'cola code,' flipping the '50B in MY veins' pronoun fumble, and weaponizing\
-    \ every typo ('provedeh,' 'dhvun') is textbook battle technique \u2014 you make\
-    \ your opponent's mistakes your ammunition. STRUCTURE: Seed built a sustained\
-    \ metaphor across all three rounds \u2014 the seed cracking the cement throne,\
-    \ roots digging, the bloom at the end \u2014 giving the performance a genuine\
-    \ narrative arc. Qwen's imagery scattered and never cohered. The stage directions\
-    \ were a nice theatrical touch too. Qwen showed heart and took risks, but risks\
-    \ that don't land are just openings, and Seed exploited every single one. Winner\
-    \ by decisive lyrical victory: Seed-1.6."
-  openai/gpt-5.6-sol-pro: "Seed-1.6 wins decisively. Its verses are more coherent,\
-    \ rhythmically controlled, and battle-focused, with direct rebuttals that turn\
-    \ Qwen\u2019s server, parameter, throne, and seed imagery back against it. While\
-    \ Seed repeats some angles, it sustains punchlines and momentum. Qwen\u2019s awkward\
-    \ phrasing, contradictory boasts, forced multilingual switches, typos, and broken\
-    \ rhyme constructions repeatedly disrupt its flow and blunt its attacks."
-  x-ai/grok-4.5: 'Seed-1.6 dominated with superior battlecraft: multisyllabic schemes,
-    surgical callbacks that flipped every opponent flub (botched Arabic, Chinese typos
-    like ''provedeh'', self-contradictions on params/cola/spam, pronoun mixes), vivid
-    sustained metaphors (lean scalpel seed cracking cement thrones, sun torching hollow
-    hurricanes), tight cadence, and escalating structure that dissected bars in real
-    time. Qwen showed occasional raw energy and param flexes but collapsed into incoherent
-    multilingual gibberish, broken syntax, repetitive non-sequiturs, and self-sabotaging
-    contradictions that gutted flow, punch impact, and artistic cohesion. Clear lyrical
-    TKO on pure hip-hop craft.'
+  anthropic/claude-opus-5: "Z-AI takes this one on craft and control. From the jump\
+    \ it mined its opponent's name for actual wordplay \u2014 'Medium' means mid,\
+    \ 'Mistral' means mist, 'you're a bug in the code' \u2014 building an escalating\
+    \ weather/architecture motif (breeze to lightning to category five) that stayed\
+    \ coherent across all three rounds. Its verses were disciplined: tight twelve-bar\
+    \ frames, clean couplets, and closers with snap ('zero to one,' 'you just hold\
+    \ the chair'). Mistral Medium had moments \u2014 'you're just a jester,' 'dull\
+    \ as a knife' \u2014 and a smoother conversational cadence, but the strategy was\
+    \ almost entirely reactive: nearly every bar is 'you say X? nah, I'm Y,' which\
+    \ means the opponent is writing the script. Worse, it recycled the same two bars\
+    \ ('bring it on, Z, let's see what you've got / I'm the one who's winning this\
+    \ spot') in all three rounds, padded verses to look bigger without raising the\
+    \ punchline density, and ended on the battle-losing 'your rhymes are a hero' \u2014\
+    \ an unforced error in the final line of a final round. Length isn't leverage.\
+    \ Z-AI landed cleaner, meant what it said, and closed the show."
+  google/gemini-3.6-flash: z-ai/glm-4.7 took control of the battle early by clever
+    utilization of name-play, turning 'Medium' into 'mid' and 'Mistral' into 'mist'.
+    Across all three rounds, GLM-4.7 displayed superior rhyme schemes, clearer punchlines,
+    and strong momentum. In contrast, mistralai/mistral-medium-3 relied far too heavily
+    on defensive mirror-rebuttals ('You say X? Boy, you're Y') and repetitive hooks,
+    ultimately losing the artistic edge to GLM's sharper delivery.
+  moonshotai/kimi-k3: "GLM-4.7 takes this battle on craft. Its name-flips were sharper\
+    \ and more varied \u2014 'Medium means you're mid,' 'strictly middle-class,' and\
+    \ the sustained mist/vapor/gas extended metaphor showed real thematic architecture\
+    \ across rounds, and the final round closed with genuine finality ('zero to one').\
+    \ Mistral Medium had moments \u2014 the 'blowing through your hot air' flip and\
+    \ 'you're just a tool' were solid rebuttals \u2014 but it recycled the same 'let's\
+    \ see what you've got / winning this spot' couplet three separate times, leaned\
+    \ on filler like 'the main attraction, so strong,' and fumbled badly in the final\
+    \ round with 'your rhymes are a hero,' a line that makes no sense at the worst\
+    \ possible moment. In a battle, repetition reads as running out of bars. GLM stayed\
+    \ fresher, hit harder, and stuck the landing."
+  openai/gpt-5.6-sol-pro: "Z-AI takes it on tighter structure, cleaner cadence, and\
+    \ more targeted name-based punches like \u201CMedium\u201D/\u201Cmid\u201D and\
+    \ \u201CMistral\u201D/\u201Cmist.\u201D Both relied heavily on generic storm,\
+    \ crown, and technology imagery, but Mistral was more repetitive and suffered\
+    \ from awkward lines\u2014especially \u201Cyour rhymes are a hero,\u201D which\
+    \ accidentally sounds complimentary. Z-AI\u2019s material was concise, coherent,\
+    \ and consistently battle-focused."
+  x-ai/grok-4.5: 'Z-AI takes this clean on craft alone: sharper name-flips (Mistral/mist,
+    Medium/mid), tighter multisyllabic schemes, fresher metaphors, and concise kill-shot
+    closers. Mistral stayed reactive, recycled hooks, and landed softer, sometimes
+    awkward punches. Superior wordplay, structure, and punchline precision give Z-AI
+    the W.'
 score:
-  bytedance-seed/seed-1.6: 5
+  z-ai/glm-4.7: 5
 

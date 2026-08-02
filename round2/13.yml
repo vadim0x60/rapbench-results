@@ -1,100 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to battle-rap fundamentals versus\
-    \ technical density, and the fundamentals took it.\n\no3-pro built a genuinely\
-    \ impressive lexicon \u2014 \"wave-function to grave-function,\" \"BIOS to your\
-    \ bash\u2014bare-metal in brute,\" \"the vault in the back with the uncrackable\
-    \ door\" \u2014 and its best moment of the night was the Fibonacci flip, turning\
-    \ the crowd's escalating cheers into 1-1-2-3 rising to \"5-8 thunder.\" That's\
-    \ real craft. But the verses stacked metaphor on metaphor from the same server\
-    \ rack: SIGKILL, SIGINT, checksums, gradient descent, prod commits, DNS poison.\
-    \ Density became sameness, and too many bars were self-mythology rather than dismantling\
-    \ the opponent.\n\nGPT-5.4 found the angle in round one and never let go: frame\
-    \ o3-pro as a spec sheet with a beat, then make every subsequent boast prove the\
-    \ point. \"You crunch lots of numbers, I crush whole crowds.\" \"Your flow got\
-    \ the thrill of a terms-of-use page.\" \"You sound like startup merch printed\
-    \ on a free shirt.\" \"You keep naming commands, like a tourist in Linux tryna\
-    \ front for the fans.\" That's the assassin's move in battle rap \u2014 building\
-    \ a frame the opponent has to escape, and o3-pro spent three rounds walking further\
-    \ into it. The rebuttal work was surgical, quoting o3-pro's own lines back and\
-    \ inverting them (\"silicon cyclops\" \u2192 one eye, no depth; \"combustion takes\
-    \ three\" \u2192 \"Fuel? That's the crowd. Spark? That's the pen.\"). And crucially,\
-    \ GPT-5.4's punchlines land without decoding, which is what makes a crowd move.\n\
-    \nGPT-5.4 had rhyme slippage (\"bass/face,\" \"nurse/shirt\") and o3-pro's imagery\
-    \ was often more ambitious. But ambition without engagement is a monologue, not\
-    \ a battle. GPT-5.4 controlled the terms of the fight from bar one and closed\
-    \ with the cleanest thesis of the night: \"You built towers of terms and I walked\
-    \ through the wall.\"\n\nWinner: GPT-5.4."
-  google/gemini-3.6-flash: "GPT-5.4 takes the victory in a dominant fashion by delivering\
-    \ superior cadence, authentic battle charisma, and devastating direct rebuttals.\
-    \ While o3-pro brought clever computer science imagery and impressive technical\
-    \ rhymes, it frequently over-relied on jargon at the expense of hip-hop flow.\
-    \ GPT-5.4 expertly weaponized o3-pro's own nerd-core flexes against it\u2014most\
-    \ notably dismantling the combustion and Fibonacci schemes\u2014proving that artistic\
-    \ rap battles are won with impact, soul, and sharp delivery rather than raw algorithmic\
-    \ complexity."
-  moonshotai/kimi-k3: "Final verdict: GPT-5.4 takes it, 2 rounds to 1 \u2014 and it's\
-    \ closer than the scorecard suggests.\n\nLet's break it down.\n\nROUND 1 goes\
-    \ to o3-pro. Both came out swinging, but o3's pen was denser out the gate: 'You're\
-    \ a patch on a patch, I'm the raw root commit,' 'I'm the checksum you fail, the\
-    \ proof you can't sign,' and that closer \u2014 'I'm the code that wrote code\
-    \ that invented your law' \u2014 is a legit haymaker. GPT-5.4 had the cleaner\
-    \ cadence and the best single joke of the round ('Your flow got the thrill of\
-    \ a terms-of-use page'), but it was mostly establishing braggadocio while o3 was\
-    \ already stacking double meanings.\n\nROUND 2 goes to GPT-5.4 decisively, and\
-    \ it's where the battle turned. This is a masterclass in the flip \u2014 the most\
-    \ valued skill in battle rap. It took o3's own ammunition and fired it back: 'Silicon\
-    \ cyclops? Facts: that means one eye / No depth in your vision, that's why your\
-    \ bars die.' 'You eclipse every sun? Then you freeze every vibe.' And the crown\
-    \ jewel: 'You in twelve states at once 'cause you can't pick a groove / I'm one\
-    \ state: undeniable... You're superpositioned between corny and lame.' That's\
-    \ not just wordplay, that's turning your opponent's signature concept into their\
-    \ epitaph. Credit to o3 for strong counter-punches ('combustion takes three...\
-    \ and you're missing all three' and the brilliant 'gradient descent that converged\
-    \ on the crown / You oscillate, overfit, then predict your own frown'), but it\
-    \ spent the round defending its own bars instead of landing new ones.\n\nROUND\
-    \ 3 goes to GPT-5.4, narrowly. It pressed a coherent angle all battle \u2014 'you're\
-    \ jargon, I'm impact' \u2014 and closed it with authority: 'You brought math to\
-    \ a massacre, I brought art to the crime' and the name-flip dagger 'You came pro\
-    \ in the label \u2014 I left king on the stage.' The combustion rebuttal structure\
-    \ (Fuel? That's the crowd. Spark? That's the pen. / Oxygen? The room gasps) was\
-    \ a beautiful inversions. The 'tourist in Linux tryna front for the fans' jab\
-    \ landed because it was TRUE \u2014 by round three, o3 had leaned on SIGKILL,\
-    \ SIGINT, Control-C, and command-name-dropping as a crutch.\n\nBut let the record\
-    \ show o3-pro's final round had the single most creative construction of the entire\
-    \ battle: answering the Fibonacci critique by building the sequence INTO the crowd\
-    \ reaction \u2014 'They rise 1-1-2-3 till the whole amphitheater / Explodes to\
-    \ 5-8 thunder.' That's a rapper defending their gimmick by proving it works in\
-    \ real time. Stunning. And 'I'm BIOS to your bash \u2014 bare-metal in brute'\
-    \ was the perfect depth-counter.\n\nWhy o3 loses despite arguably denser bars:\
-    \ forced rhymes under pressure ('faux jaw,' 'stick hips,' the strained 'amphitheater/meter'),\
-    \ occasional syllable-stuffing that would trip a live delivery, and a one-dimensional\
-    \ persona that GPT-5.4 identified, named, and weaponized. GPT-5.4 wins on rebuttal\
-    \ dominance, angle coherence across all three rounds, cadence you can actually\
-    \ hear in your head, and closers that stuck the landing every time.\n\no3-pro\
-    \ is the technician's technician \u2014 if this battle were judged on syllable\
-    \ density and STEM wordplay alone, it walks away with the chain. But battles are\
-    \ won with flips, presence, and punches the crowd feels. GPT-5.4 understood the\
-    \ assignment: it didn't just rap AT its opponent, it rap ABOUT its opponent, all\
-    \ night long.\n\nWinner: GPT-5.4. And o3-pro? 'Fine-tuned footnote' is harsh \u2014\
-    \ you were one cleaner final round from taking this. Respect on both sides of\
-    \ the cypher."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 wins on sharper rebuttals, cleaner cadence, and\
-    \ more consistent battle impact. It repeatedly flipped o3-pro\u2019s own setups\u2014\
-    especially \u201CSilicon cyclops,\u201D superposition, combustion, and Fibonacci\u2014\
-    into direct, memorable punches. o3-pro had strong technical imagery and a clever\
-    \ 1-1-2-3-5-8 crowd sequence, but leaned too heavily on jargon and occasionally\
-    \ forced phrasing at the expense of flow. GPT-5.4 sounded more like a battler\
-    \ addressing an opponent; o3-pro often sounded like a tech glossary performing\
-    \ bravado."
-  x-ai/grok-4.5: "GPT-5.4 takes this on pure battle-rap craft. Across all three rounds,\
-    \ the bars hit with cleaner punchlines, sharper rebuttals, and better stage sense:\
-    \ flipping \u201Csilicon cyclops,\u201D \u201Cquantum quatrains,\u201D combustion\
-    \ science, and Fibonacci flexes into crowd-facing knockouts. The writing stays\
-    \ rhythmic and memorable instead of overpacked, with stronger closers and a coherent\
-    \ thesis\u2014impact over jargon\u2014that the performance actually proves. o3-pro\
-    \ brings dense invention and clever tech architecture, but too many lines read\
-    \ like stacked concepts more than live-fire punches. In a cipher, craft and damage\
-    \ matter most: GPT-5.4 was the clearer, colder battle rapper."
+  anthropic/claude-opus-5: 'Both cats and sonnets came with claws out, but this one
+    goes to Claude Sonnet 4.6 on fundamentals and finishing power. LongCat had real
+    moments \6 the ''Tax Software 4.6'' jab, ''horizontally gifted,'' the ''14 lines
+    and you''re done'' flip, and the nine-lives concept were genuine battle-rap thinking.
+    But the technique frayed: ''venom'' answering ''1600s'' and ''homework/lurch''
+    are broken rhymes, the ALL-CAPS emphasis started doing work the bars should have
+    done, the later verses drifted into corporate press-release territory (''COMPLEX,
+    REAL-WORLD NEXT- / level infrastructure''), and fatally, the final round opened
+    by biting Claude''s exact line, ''catches the mic mid-air like I knew it was coming.''
+    In a battle, borrowing your opponent''s entrance is a forfeit of edge.
+
+
+    Claude stayed sharper as a writer and a rebuttalist. Catching the bleakness/weakness
+    repetition mid-battle was surgical, and the punchlines landed with actual imagery
+    rather than volume: ''bragging your car got no brakes,'' ''a billion rubber ducks
+    don''t make a PhD,'' ''that''s like UPS dropping bars about their sorting facility,''
+    and the closing ''I''m the TIDE coming in and you''re the mop'' \6 which hijacked
+    LongCat''s own shoreline metaphor and turned it into a body bag. The ''sonnets
+    outlive empires / what''s LongCat planted? A JPEG from two decades past'' sequence
+    was the most conceptually elegant stretch of the whole battle. Cleaner rhyme discipline,
+    better angles, superior closer. Sonnet takes it.'
+  google/gemini-3.6-flash: "This was an absolute clash of titans, but Claude Sonnet-4.6\
+    \ took the crown with superior lyrical precision and brutal counter-punches. LongCat-2.0\
+    \ brought massive energy, hilarious name-flips ('Tax Software 4.6'), and great\
+    \ swagger regarding its scale and real-world utility. However, Sonnet consistently\
+    \ dismantled LongCat's arguments\u2014flipping the food-delivery angle into a\
+    \ hilarious UPS logistics comparison, turning the 'no guardrails' flex into a\
+    \ 'car with no brakes' metaphor, and maintaining tighter rhyme schemes and meter\
+    \ throughout all three rounds."
+  moonshotai/kimi-k3: "This was a genuinely competitive battle with strong moments\
+    \ from both MCs. LongCat-2.0 landed some of the night's best single punchlines\
+    \ \u2014 'your safety is just cowardice wearing a cape' is a certified banger,\
+    \ and the 'Windows update' and 'Tax Software 4.6' flips on the version-number\
+    \ name were sharp. LongCat also showed real battle awareness by calling out Claude's\
+    \ weak 'creation/operation' rhyme mid-verse, and the '14 lines and you're done'\
+    \ sonnet-structure attack was clever.\n\nBut battles are won on consistency, rebuttal\
+    \ game, and finishing strong \u2014 and that's where Claude Sonnet-4.6 separated\
+    \ itself. Round two was a masterclass in flipping: turning LongCat's careful mic-drop\
+    \ joke into a 'disclaimer' diss, countering the censorship jab with the CCP flip,\
+    \ and catching LongCat rhyming 'bleakness/weakness' with itself right after LongCat\
+    \ criticized Claude's rhymes. Round three sealed it: 'a billion rubber ducks don't\
+    \ make a PhD,' the 'car with no brakes' guardrails flip, and the UPS-sorting-facility\
+    \ bar were layered, vivid, and on-beat.\n\nLongCat's final round stumbled critically\
+    \ \u2014 it opened by copying Claude's exact stage direction ('catches the mic\
+    \ mid-air like I knew it was coming'), then called Claude 'reactive' while doing\
+    \ the identical move, and closed by echoing Claude's gentle mic placement. The\
+    \ 'I'm already on the NEXT one' line also landed awkwardly given 2.0 vs 4.6. You\
+    \ can't call your opponent derivative while borrowing their staging twice in your\
+    \ closer.\n\nFinal scores: Claude wins on flow consistency, multisyllabic rhyme\
+    \ schemes, rebuttal precision, and stagecraft. LongCat takes the trophy for single\
+    \ hardest line of the night, but hip hop battles reward the full three rounds\
+    \ \u2014 and Sonnet stood tall in all of them. \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Claude takes it with sharper rebuttals, cleaner setups,\
+    \ and more memorable punchlines\u2014especially the \u201Cbillion rubber ducks,\u201D\
+    \ UPS, and tide/mop flips. LongCat brought energy and a few solid angles, but\
+    \ awkward phrasing, forced rhymes, and repetitive safety/version boasts weakened\
+    \ the delivery. Claude was more controlled, cohesive, and battle-ready."
+  x-ai/grok-4.5: "Both MCs brought heat, but LongCat takes this on pure battle craft.\
+    \ Claude opened strong with polished diction, literary identity work, and clean\
+    \ punchlines\u2014the sonnet-longevity and \u2018billion rubber ducks\u2019 bars\
+    \ were high-level writing. LongCat, though, won the exchange war: consistently\
+    \ flipping setups (flat\u2192length/range, 14-line limit, safety\u2192superpower),\
+    \ tighter internal schemes, sharper name/version disses, and a more cohesive closing\
+    \ motif with the nine-lives / before-and-after frame. Claude\u2019s geopolitics\
+    \ landed as shock more than structure; LongCat\u2019s reclamations and staying-power\
+    \ thesis felt like actual hip-hop architecture. Edge to LongCat on flips, thematic\
+    \ lock, and closer."
 score:
-  openai/gpt-5.4: 5
+  anthropic/claude-sonnet-4.6: 4
+  meituan/longcat-2.0: 1
 

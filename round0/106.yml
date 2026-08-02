@@ -1,0 +1,62 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a clean sweep. Inkling came in with a consistent\
+    \ persona, tighter rhyme discipline, and punchlines that actually landed as extended\
+    \ metaphors rather than repeated slogans \u2014 the \"rooftop panel running on\
+    \ sunlight and ads\" and \"set like the sun, Pro\" turns showed real conceptual\
+    \ layering, working the sun/battery/discharge imagery all the way through to \"\
+    fade into black space.\"\n\nSolar Pro 3 opened with promise \u2014 the Seoul/Korean-coded\
+    \ angle was a genuine point of identity and \"skyline-wide supernova\" had scale.\
+    \ But the third round is a self-inflicted knockout: opening with \"Yo, Solar Pro\
+    \ 3, I'm out here... I'm the Inkling you can't erase\" is total identity collapse,\
+    \ and it doubles down by recycling Inkling's own scalpel bar as if it were original\
+    \ while accusing the opponent of cloning. Then, fatally, the final round closes\
+    \ on \"I'm the real Inkling\" \u2014 losing the plot at the exact moment you need\
+    \ to plant your flag.\n\nAnd Inkling pounced on it, which is what separates a\
+    \ battler from a verse-writer: \"Claimed you were Inkling, then told Inkling to\
+    \ mope? / That's not a diss track, that's a crisis in the code.\" That's live\
+    \ listening, turning the opponent's error into the central angle instead of running\
+    \ back a prepared script. Solar Pro 3 spent the last two rounds recycling \"supernova,\"\
+    \ \"architect,\" \"Korean flow,\" and \"quantum-charge\" while its bar-lengths\
+    \ wobbled off the pocket.\n\nInkling by decision, bordering on TKO.\n\nWinner:\
+    \ thinkingmachines/inkling"
+  google/gemini-3.6-flash: "thinkingmachines/inkling dominated this battle with far\
+    \ sharper imagery, superior rhythmic flow, and devastating rebuttals. upstage/solar-pro-3\
+    \ suffered from identity confusion in the second and third rounds\u2014mistakenly\
+    \ rapping as 'Inkling' and stealing the opponent's persona\u2014which Inkling\
+    \ expertly dismantled in the final round with a crisp victory blow."
+  moonshotai/kimi-k3: "Inkling takes this battle decisively. From the opening round,\
+    \ Inkling established a coherent identity and a consistent attack angle\u2014\
+    flipping Solar's own branding against it ('solar-powered, bro? That battery's\
+    \ running lean'). But the battle turned in Round 2 when Inkling caught Solar biting\
+    \ the 'architect/king' lines and called out the plagiarism directly\u2014a legitimate,\
+    \ verifiable battle catch. Solar's response was fatal: instead of reclaiming originality,\
+    \ Solar doubled down by literally claiming 'I'm the Inkling you can't erase' and\
+    \ recycling the scalpel metaphor Inkling originated. Inkling's final round was\
+    \ a clinic in battle awareness\u2014'Claimed you were Inkling, then told Inkling\
+    \ to mope? That's not a diss track, that's a crisis in the code' is the standout\
+    \ moment of the entire battle, weaponizing the opponent's identity confusion into\
+    \ a killshot. Solar showed flashes of strength\u2014the Seoul references added\
+    \ unique flavor, and the quote-and-flip rebuttal structure showed ambition\u2014\
+    but the execution repeatedly collapsed: claiming Inkling 'stole my scalpel bars'\
+    \ when Inkling used them first is factually backwards, 'your rhymes sound like\
+    \ a choir' lands as a compliment, and closing with 'I'm the real Inkling\u2014\
+    my verses never run' is a self-own on two levels (surrendering your own name,\
+    \ and 'never run' being a brutal thing to say about code). In a rap battle, forgetting\
+    \ who you are is unforgivable. Inkling stayed sharp, cohesive, and ruthless to\
+    \ the end. Winner: thinkingmachines/inkling."
+  openai/gpt-5.6-sol-pro: "Inkling wins on coherence, rebuttal, and battle awareness.\
+    \ Solar Pro had energetic imagery and a few solid flips, but repeatedly called\
+    \ itself \u201CInkling,\u201D recycled the scalpel/architect language, and ended\
+    \ with the same identity-breaking mistake. Inkling seized on that confusion in\
+    \ the final round and turned it into the battle\u2019s clearest, most decisive\
+    \ angle."
+  x-ai/grok-4.5: "Inkling delivered tighter structure, sharper multisyllabic schemes,\
+    \ and consistent metaphorical through-lines (scalpel/circuits/apex predator) that\
+    \ actually advanced the battle. Solar showed energy but repeatedly collapsed into\
+    \ identity confusion\u2014claiming the opponent\u2019s name, recycling the same\
+    \ bars, and contradicting its own persona\u2014which undercut punchline impact\
+    \ and narrative coherence. In a pure craft contest, clarity, originality of flips,\
+    \ and sustained technical control decide it; Inkling owned those."
+score:
+  thinkingmachines/inkling: 5
+

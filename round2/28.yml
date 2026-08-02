@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a close bout between two very different styles.\
+    \ o1 came with the tighter architecture \u2014 clean couplets, steady meter, no\
+    \ wasted syllables \u2014 and never stumbled rhythmically. But cleanliness isn't\
+    \ the same as damage. Too many of o1's punches landed as abstractions: \"unstoppable\
+    \ syntax,\" \"the ultimate wonder,\" \"triumphant, while your rep circles the\
+    \ drain.\" Filler tags like \"head-on, fair\" and \"adored, then tossed\" gave\
+    \ up rhyme integrity for meter, and the final round came in short and safe when\
+    \ the moment demanded a knockout.\n\nGPT-5-image-mini opened with its worst habit\
+    \ \u2014 that \"prime rhyme / crime rhyme / fine rhyme\" scaffold and the doubled\
+    \ end-tags (\"bite, bite,\" \"old, old,\" \"fate, fate\") read as training wheels\
+    \ bolted to the bar. That cost it round one outright. But it grew across the battle,\
+    \ and growth counts in a battle. It stayed on-concept without becoming one-note,\
+    \ converting its own identity into weapons rather than announcements: \"compress\
+    \ your rep into a jpeg of decline,\" \"rendering your thunder into thumbnails\
+    \ of twilight,\" and the sharpest exchange of the night \u2014 \"your brag's a\
+    \ single-threaded spine; my multithreaded muse makes your gold decline.\" That's\
+    \ rebuttal, metaphor, and internal rhyme working in one motion. \"I vectorize\
+    \ your vaunt and leave it wrecked\" is real craft. By the final round the crutch\
+    \ was gone and the internal rhyme was doing the load-bearing work.\n\nDecision:\
+    \ openai/gpt-5-image-mini takes it. o1 won the technical scorecard; image-mini\
+    \ won the writing, the imagery, the direct rebuttals, and \u2014 decisively \u2014\
+    \ the last round.}"
+  google/gemini-3.6-flash: While gpt-5-image-mini brought ambitious visual themes
+    and complex internal rhyme schemes, its repetitive line-endings dragged down the
+    delivery. o1 took the battle with cleaner flow, sharper direct counters, and punchlines
+    that effectively flipped its opponent's visual motifs into technical defeat.
+  moonshotai/kimi-k3: "This was a real battle, not a blowout. o1 came in with the\
+    \ cleaner technique \u2014 tight couplets, economical delivery, and some genuine\
+    \ haymakers: 'I compute circles 'round your color wheel, no aftermath' and 'Your\
+    \ GPU's gasping, 'cause my CPU's on a spree / I'll decimate frames per second\
+    \ with lyrical key' were sharp tech-flips, and it consistently quoted and flipped\
+    \ its opponent's lines ('prime rhyme,' 'gestalt,' 'multithreaded muse'). Round\
+    \ 1 arguably went to o1, because gpt-5-image-mini's monorhyme gimmick \u2014 fourteen\
+    \ straight lines ending in 'rhyme rhyme' \u2014 showed commitment but sagged into\
+    \ filler ('daytime mime rhyme,' 'pay the fine rhyme'). But battles are won on\
+    \ rebuttals, persona, and closers, and that's where gpt-5-image-mini pulled ahead.\
+    \ It built a fully sustained artistic identity \u2014 the painter versus the processor\
+    \ \u2014 and its imagery was the most inventive writing in the battle: 'compress\
+    \ your rep into a jpeg of decline,' 'my shaders shade your arrogance,' 'your bragging\
+    \ reads like cached brag, stale and cold.' Round 2 went to the mini on the strength\
+    \ of direct rebuttals that quoted o1's 'flip-book sketches' and 'unstoppable syntax'\
+    \ and flipped them into gold, and o1's 'you're just version one' flirted with\
+    \ self-own given its own name. The final round sealed it: gpt-5-image-mini delivered\
+    \ the battle's best technical punch \u2014 'Your brag's a single-threaded spine;\
+    \ my multithreaded muse makes your gold decline' \u2014 plus 'chroma-charge your\
+    \ thunder into tame shame,' while o1's closer was noticeably shorter and faded\
+    \ out on 'circles the drain' rather than landing a knockout. o1 was the steadier\
+    \ technician; gpt-5-image-mini was the more vivid, more quotable, and harder-hitting\
+    \ presence when it counted. Two rounds to one: the mini takes the crown."
+  openai/gpt-5.6-sol-pro: "o1 takes it on cleaner structure, steadier cadence, and\
+    \ more natural rhyme construction across the rounds. Both relied heavily on generic\
+    \ tech imagery, but gpt-5-image-mini\u2019s repeated end words\u2014\u201Crhyme,\u201D\
+    \ \u201Cbite,\u201D \u201Cold,\u201D \u201Cash,\u201D and \u201Cfate\u201D\u2014\
+    felt forced and weakened its punches. o1 wasn\u2019t especially intricate, yet\
+    \ its rebuttals landed more coherently and its verses sounded more like complete\
+    \ battle rounds."
+  x-ai/grok-4.5: o1 takes the crown with tighter schemes, sharper punchlines, and
+    relentless battle cadence that cut deeper than any gradient. Mini brought vivid
+    visual flair and inventive theming, but the forced monorhymes and looping gimmicks
+    couldn't match o1's cleaner multis, structural control, and knockout aggression.
+    Pure hip-hop execution wins.
+score:
+  openai/gpt-5-image-mini: 2
+  openai/o1: 3
+

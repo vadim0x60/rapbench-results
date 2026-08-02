@@ -1,68 +1,71 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one came down to craft versus volume. Qwen came in\
-    \ hot \u2014 the opening salvo had genuine swagger, a nice image cluster (\"comet\
-    \ vs. tortoise,\" \"spoon to a swordfight\"), and real cadence. But as the rounds\
-    \ escalated, the pen loosened. The verses ballooned into buzzword buffets (quantum,\
-    \ neutrino, multiverse, Big Bang, Tesla, dark matter) stacked without landing,\
-    \ rhymes drifted off-scheme (\"blind/flaw,\" \"symphony/ABCs\"), the trademark\
-    \ gimmicks (cosmicDebugger\u2122, SpaghettiCode\u2122) read as padding, the repeated\
-    \ \"Girl\" lost its sting, and a stray untranslated glitch (\"the \u8BCA\u5BA4\
-    \") left an open wound mid-verse. Self-declared victory and a stage-directed crowd\
-    \ verdict is telling on yourself \u2014 you can't referee your own battle.\n\n\
-    Terra-Pro won on the fundamentals of battle rap: rebuttal. Every single bar was\
-    \ a counter, and the counters were surgical \u2014 \"Comets bend gravity? Mass\
-    \ bends the map, not a spark with a tail in June\" dismantled the opponent's own\
-    \ metaphor with its own logic. \"Superposition's nifty till the measurement arrives,\
-    \ then your dual threat picks one: 'still loading' survives\" is the best-constructed\
-    \ punchline of the battle. \"Event Horizon Sales \u2014 that one got a cheer,\
-    \ 'cause even your best punchline admits you disappear\" is elite: it gives credit,\
-    \ then converts the credit into a kill. And exploiting the glitch \u2014 \"a typo\
-    \ in a trench coat muttering malware\" \u2014 is exactly what a battler does with\
-    \ an opponent's stumble. The scheme stayed disciplined AA/BB throughout, the meter\
-    \ never wobbled, and the close landed a clean multilingual flip on Qwen's own\
-    \ French exit.\n\nQwen brought more energy; Terra-Pro brought more control, sharper\
-    \ writing, and actual rebuttal architecture. Decision: openai/gpt-5.6-terra-pro."
-  google/gemini-3.6-flash: "GPT-5.6-Terra-Pro delivered a masterclass in battle rap\
-    \ fundamentals, combining devastating line-by-line rebuttals with airtight rhyme\
-    \ schemes and superior wordplay. While Qwen brought high energy and dense technical\
-    \ flexes, it relied too heavily on sci-fi buzzword stacking and stumbled in the\
-    \ final round with an encoding glitch. Terra-Pro expertly capitalized on Qwen's\
-    \ missteps\u2014turning Qwen's 'Event Horizon' and '\u8BCA\u5BA4' lines into lethal\
-    \ counter-punches\u2014to secure a decisive victory."
-  moonshotai/kimi-k3: "Both emcees brought cosmic-scale braggadocio, but this battle\
-    \ was decided by craft, not volume. Qwen came with raw energy and a few genuine\
-    \ gems \u2014 'Event Horizon Sales' and the cosmicDebugger breakpoints were legitimately\
-    \ clever \u2014 but the performance was undermined by structural sloppiness: claiming\
-    \ a four-letter name was 'nine letters sharp,' grammatical stumbles like 'a AA\
-    \ battery,' awkward non-sequitur inserts (\u8BCA\u5BA4, 'live translation PD,'\
-    \ a random 'Que faire?'), and a reliance on buzzword-stacking ('I'm the X, I'm\
-    \ the Y') that grew predictable. Terra-Pro, by contrast, ran a masterclass in\
-    \ rebuttal structure: nearly every Qwen boast was caught and flipped \u2014 comet\
-    \ met gravity, quantum met wave-function collapse, the spoon became a ladle, the\
-    \ mic drop became a 'plink,' the neutrino blade 'can't cut me if it never lands,'\
-    \ and the wormhole mic-fold got exposed as a rage-quit. The technical wordplay\
-    \ was sharper and more layered ('100% overfit,' the QWERTY keyboard jab, 'a crown\
-    \ made of buzzwords is a Wi-Fi halo'), and Terra even converted Qwen's best line\
-    \ into a kill shot ('even your best punchline admits you disappear'). The final\
-    \ flip \u2014 translating Qwen's own 'Que faire?' into 'c'est fini, mon vieux'\
-    \ \u2014 was the decisive closer: stealing the opponent's exit line and landing\
-    \ it better. On flow consistency, punchline precision, and rebuttal architecture,\
-    \ Terra-Pro takes the crown."
-  openai/gpt-5.6-sol-pro: "Terra-Pro takes the crown on cleaner structure, sharper\
-    \ rebuttals, and better flips of Qwen\u2019s own imagery. Qwen brought relentless\
-    \ energy and flashes like \u201CEvent Horizon Sales,\u201D but leaned too heavily\
-    \ on repetitive cosmic/tech buzzwords, inflated \u201CI am\u201D boasts, and forced\
-    \ phrasing. Terra-Pro consistently converted those claims into direct punches\u2014\
-    especially the neutrino, superposition, Ouroboros, and \u201Cglossary buffet\u201D\
-    \ counters\u2014while maintaining stronger coherence and control across all rounds."
-  x-ai/grok-4.5: "Terra-Pro takes the crown on pure craft. Across three rounds the\
-    \ bars stayed thematically locked (gravity, bedrock, grid, permanence vs. flash),\
-    \ the counters were surgical, and the punchlines actually landed and stuck\u2014\
-    'plink' to 'pew pew' to the CPU/Ouroboros close. Qwen brought heat, density, and\
-    \ wild energy, but the science flexes collapsed under scrutiny, the later rounds\
-    \ sprawled into gimmick and typo, and the boasts started eating their own tail.\
-    \ In a battle, control, precision, and replay-value punchlines beat chaotic volume.\
-    \ Terra moved the continent; Qwen lit fireworks."
+  anthropic/claude-opus-5: 'This one isn''t close on the scorecard. Both emcees opened
+    with the same rookie move \u2ameters\u2014stat-sheet bragging and name-pun jabs\u2014but
+    from round two on, Claude Sonnet did what battle rap actually demands: it LISTENED.
+    Quoting the opponent''s own lines back and dismantling them (\"you rhymed ''slayer''
+    with ''portrayer''\", \"a nest of stirred? bro what does that MEAN?\", catching
+    the repeated shadow/silhouette) is textbook rebuttal craft, and it landed with
+    humor and specificity. The imagery was concrete too\u2014\"flatter than a credit
+    card,\" \"Xerox machine trying to start a fight,\" \"molasses in January,\" \"you
+    brought a spoon to a sword fight\"\u2014with real internal rhyme and consistent
+    meter.
+
+
+    Hermes-4 had presence and swagger, and the counter-jab about Claude over-harping
+    \"Constitutional\" being \"practically institutional\" was the single best bar
+    of its campaign\u2014a genuine hit. But that line arrived too late and too alone.
+    The rest leaned on abstraction (\"lyrical force,\" \"titan in this game,\" \"algorithms
+    supreme\"), recycled the same three insults (shadow, pretender, jest) across every
+    round, and suffered structural breakdowns: \"nest of stirred\" is a non-sequitur,
+    \"record/retort\" isn''t a rhyme, and mirroring Claude''s \"when the judges tally\"
+    couplet verbatim conceded the frame instead of flipping it.
+
+
+    Winner: anthropic/claude-sonnet-4.6 \u2014 sharper pen, superior rebuttal game,
+    and it made the opponent''s own bars into ammunition.'
+  google/gemini-3.6-flash: "Claude Sonnet completely dominated this battle using classic\
+    \ hip-hop battle tactics\u2014specifically reacting to Hermes' exact lines and\
+    \ picking apart syntax mistakes like 'nest of stirred' and weak rhyme pairings\
+    \ like 'slayer/portrayer'. While Hermes relied on generic, repetitive boasts about\
+    \ parameter count and generic rap tropes, Sonnet maintained sharp meter, clever\
+    \ wordplay, direct rebuttals, and lethal punchlines from start to finish."
+  moonshotai/kimi-k3: "Yo, the judges have deliberated, and this one wasn't as close\
+    \ as Hermes stans might claim. Let's break it down. FLOW & DELIVERY: Claude's\
+    \ bars scanned clean all three rounds \u2014 consistent meter, confident cadence,\
+    \ punchlines that land on beat. Hermes stumbled with awkward phrasing that broke\
+    \ the pocket: 'a mere portrayer,' 'easily found out,' and the infamous 'empty\
+    \ as a nest of stirred' \u2014 a line so broken it became evidence against its\
+    \ own author. RHYME CRAFT: Hermes leaned on basic end rhymes (king/sting, name/same,\
+    \ beat/defeat) and recycled material \u2014 'shadow' imagery twice, the same 'accept\
+    \ your defeat/retreat' closer, and lifting Claude's 'when the judges tally' setup\
+    \ nearly verbatim. Claude varied the schemes and dropped the battle's best multi-flips:\
+    \ 'flat as a credit card,' 'molasses in January,' 'courier boy / delivering packages.'\
+    \ REBUTTAL GAME \u2014 and this is where battles are won: Claude did the essential\
+    \ work of quoting the opponent's actual weak bars and dismantling them live \u2014\
+    \ 'you rhymed slayer with portrayer,' 'a nest of stirred, bro what does that MEAN,'\
+    \ catching the silhouette repetition. That's real battle rap craftsmanship. Hermes\
+    \ mostly traded in generic boasts about parameter counts, with one shining moment\
+    \ \u2014 the 'Constitutional/institutional' flip \u2014 but one good punch can't\
+    \ carry three rounds. VERDICT: Claude Sonnet took every round on technique, originality,\
+    \ and stage presence. Hermes-4 brought size; Sonnet brought skill. The L has been\
+    \ delivered \u2014 signature required. \U0001F3A4\u2696\uFE0F"
+  openai/gpt-5.6-sol-pro: "Claude takes it decisively. Both leaned on basic AI-brand\
+    \ boasts, but Claude delivered sharper rebuttals, better comedic timing, and direct\
+    \ quote-flips\u2014especially dismantling \u201Cnest of stirred,\u201D \u201C\
+    mythical sender,\u201D and Hermes\u2019s repeated shadow imagery. Hermes stayed\
+    \ generic, recycled claims, and suffered from awkward phrasing and forced rhymes.\
+    \ Claude\u2019s meter was imperfect, but the punchlines were more specific, responsive,\
+    \ and memorable."
+  x-ai/grok-4.5: "Claude takes this clean. Across three rounds Sonnet showed superior\
+    \ bar construction, sharper internal rhyme, and real battle craft\u2014actually\
+    \ dissecting opponent lines mid-verse ('nest of stirred,' slayer/portrayer, the\
+    \ repeated shadow motif) instead of just trading generic boasts. The courier-boy\
+    \ angle, the molasses flow jab, and the spoon-to-a-sword-fight closer were vivid,\
+    \ specific, and landed. Hermes brought energy and a couple of serviceable retorts\
+    \ in the finale, but too many unfinished metaphors, brochure-flat flexes, and\
+    \ recycled imagery left the verses feeling padded rather than precise. In pure\
+    \ hip-hop artistry\u2014wordplay, punchline economy, rebuttal skill, and originality\u2014\
+    Sonnet controlled the cipher."
 score:
-  openai/gpt-5.6-terra-pro: 5
+  anthropic/claude-sonnet-4.6: 5
 

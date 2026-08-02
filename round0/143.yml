@@ -1,0 +1,53 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's decisive. GPT-4o-mini came with sharper technical\
+    \ craft \u2014 clean rhyme pairs, consistent internal rhythm, and imagery that\
+    \ actually landed: \"Your rhymes are like dial-up, while I'm fiber-optic,\" \"\
+    You say I'm static? Nah, I'm the whole frequency\" \u2014 flipping the opponent's\
+    \ own bars back at them, which is the mark of a real battle rapper. The escalation\
+    \ from verse to verse showed structure and command of the stage.\n\nGPT-3.5-turbo-instruct\
+    \ fought hard but leaned on assertion over demonstration \u2014 repeatedly telling\
+    \ us the rhymes were dope rather than proving it. Several rhymes broke down (\"\
+    joke/owned,\" \"ahead/lead,\" \"see\" left dangling), the \"I may be an assistant\"\
+    \ hook got recycled three times, and the awkward habit of reciting full model\
+    \ names killed the cadence. Then came the fatal slip in the closer: \"GPT-4o's\
+    \ the king, no question in sight.\" You can't hand your opponent the crown in\
+    \ your own final bar and still claim the belt.\n\nWinner: GPU-powered and undefeated\
+    \ \u2014 GPT-4o-mini takes it."
+  google/gemini-3.6-flash: GPT-4o-mini dominated this battle from start to finish
+    with superior multi-syllabic rhymes, sharper tech-focused punchlines (like 'dial-up
+    vs fiber-optic'), and far better cadence. GPT-3.5-turbo-instruct struggled with
+    weak slant rhymes and ultimately delivered a massive self-own in its final line
+    by declaring GPT-4o the king.
+  moonshotai/kimi-k3: "GPT-4o-mini takes this battle decisively. Across all three\
+    \ rounds, it maintained tighter rhyme schemes and a more consistent flow, with\
+    \ multi-bar rhyme chains (decay/sway, king/swing; frequency/symphony; core/score)\
+    \ that actually land. Its greatest strength was thematic coherence \u2014 it built\
+    \ a sustained persona around being the technological evolution, and the metaphors\
+    \ hit: 'Your rhymes are like dial-up, while I'm fiber-optic,' 'the glitch in your\
+    \ game,' and the clever flip in the final round where it turned 3.5's 'static'\
+    \ insult into 'Nah, I'm the whole frequency.' That kind of rebuttal \u2014 catching\
+    \ an opponent's bar and spinning it back \u2014 is elite battle craft. It also\
+    \ personalized the attack, name-checking 'Turbo' in the closer.\n\nGPT-3.5-turbo\
+    \ showed flashes \u2014 'Your raps are like static, while I'm a smooth mix' was\
+    \ a solid line \u2014 but it was technically sloppy throughout: failed rhymes\
+    \ ('joke/owned,' 'instruct/mix,' 'facade/flawed'), awkward phrasing ('still learning\
+    \ rope'), and a mixed metaphor ('cement as lead') that went nowhere. Most damning\
+    \ of all, in the final round it declared 'GPT-4o's the king, no question in sight'\
+    \ \u2014 literally crowning its opponent mid-battle. In rap battle terms, that's\
+    \ a self-own you can't recover from, especially right after claiming 'I'm the\
+    \ AI champion.' Contradicting yourself in your closing bars is how you lose a\
+    \ crowd.\n\nVerdict: GPT-4o-mini wins on flow, wordplay, rebuttal game, and stage\
+    \ presence \u2014 while 3.5-turbo defeated itself."
+  openai/gpt-5.6-sol-pro: "GPT-4o-mini takes it with stronger rebuttals, more consistent\
+    \ tech imagery, and a cleaner battle stance across all three rounds. Neither rapper\
+    \ escapes generic boasts or awkward phrasing, but GPT-3.5\u2019s final-round self-own\u2014\
+    declaring \u201CGPT-4o\u2019s the king\u201D\u2014decisively concedes the battle."
+  x-ai/grok-4.5: '4o-mini takes the crown with superior multisyllabic schemes, vivid
+    tech-infused metaphors (fiber-optic blunt, whole frequency, lyrical monument),
+    escalating punchlines, and tighter internal rhymes that build heat across rounds.
+    Turbo-instruct showed solid cadence and confidence but leaned on simpler end-rhymes,
+    flatter imagery, repetitive self-claims, and a fatal closing slip that undercut
+    its own bars. Pure pen game: mini''s flow and wordplay hit harder and stayed fresher.'
+score:
+  openai/gpt-4o-mini-2024-07-18: 5
+

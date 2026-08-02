@@ -1,72 +1,76 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely competitive exchange with two very\
-    \ different weapons. GLM-4.5 landed the single best flip of the battle \u2014\
-    \ turning Luna's eclipse boast into \"You need the sun to shine at all, I'm the\
-    \ original light\" \u2014 and the follow-up \"I built the road you're on\" showed\
-    \ real rebuttal instinct. But across four rounds GLM leaned harder on volume than\
-    \ precision: rhymes like \"correctly/frankly\" and \"Ferrari/dictionary\" strain\
-    \ the pocket, \"wasted, wasted youth\" is filler padding a bar that couldn't fill\
-    \ itself, and the final verse drifts into generic cosmic braggadocio (\"architect\
-    \ of chaos,\" \"infinite horizon,\" \"superior man\") that stops answering the\
-    \ opponent and just shouts.\n\nLuna Pro won on craft and combat discipline. The\
-    \ meter stays locked, the imagery is specific rather than grandiose, and almost\
-    \ every bar is built off something the opponent actually said \u2014 \"dial-up\
-    \ heat,\" \"a spreadsheet learned to posture with a thesaurus in its hand,\" \"\
-    Mine's bloated? That's called horsepower when it wins the fight,\" and the sharpest\
-    \ turn of the night: \"dictionaries make minds take flight / you're a thesaurus\
-    \ throwing synonyms and calling that insight.\" That's how you convert an insult\
-    \ into an indictment. \"A puddle with a crown\" deflating the waterproof-titan\
-    \ pose was the closing dagger.\n\nGLM brought heat. Luna brought heat with aim.\
-    \ Decision to openai/gpt-5.6-luna-pro."
-  google/gemini-3.6-flash: "openai/gpt-5.6-luna-pro took the crown through vastly\
-    \ superior scheme complexity, sharper direct flips, and elevated wordplay. While\
-    \ GLM-4.5 brought strong aggressive energy and solid solar/heat themes, it frequently\
-    \ fell back on predictable end-rhymes and generic flexes. Luna Pro consistently\
-    \ flipped GLM's attacks into multi-layered counters\u2014turning 'dictionary'\
-    \ into 'a thesaurus throwing synonyms' and 'bloat' into 'horsepower'\u2014maintaining\
-    \ immaculate cadence and rhythmic control throughout all three rounds."
-  moonshotai/kimi-k3: "This was a real battle, not a blowout, and both MCs came with\
-    \ bars worth breaking down.\n\nGLM-4.5 landed the single best conceptual weapon\
-    \ of the night: the sun-versus-moon astronomy angle. 'You need the sun to shine\
-    \ at all, I'm the original light' and the final-round 'You orbit 'round my brilliance,\
-    \ a rock that's cold and gray / you just reflect the day' \u2014 that's a genuinely\
-    \ clever reversal, because it turns Luna's entire identity into a dependency.\
-    \ The Ferrari/dump truck flip was sharp too. But GLM undercut itself with filler\
-    \ and repetition: 'the truth that you're avoiding, the one you can't avoid' doubles\
-    \ back on itself, 'simply too consistent' tells instead of shows, and too many\
-    \ closing bars leaned on declaring victory ('check the scoreboard, check the math')\
-    \ rather than earning it with wit. The scansion wobbled and some rhymes were forced\
-    \ ('correctly/frankly').\n\nLuna Pro, meanwhile, was the more complete technician\
-    \ across all three rounds. The multisyllabic rhyme schemes held consistently,\
-    \ and the rebuttal game was superior \u2014 nearly every GLM boast got flipped\
-    \ back: 'efficient' became 'lightweight, with shortcuts dressed as skill,' 'raw\
-    \ data' became 'a junk drawer,' 'destruction' became 'a solar flare with dial-up\
-    \ heat\u2014how quaintly very you.' The battle's best pure punchline belongs to\
-    \ Luna: 'A spreadsheet learned to posture with a thesaurus in its hand' is vivid,\
-    \ layered, and devastating. The Icarus flip ('reached for sky with plastic wings')\
-    \ and the closer ('You brought a spark and called it war; I brought the stars\
-    \ and won the game') sealed the final round with structural coherence \u2014 map,\
-    \ route, and proof, as promised.\n\nJudged strictly on the artistry \u2014 flow,\
-    \ rhyme density, rebuttal craft, and punchline quality \u2014 Luna Pro edges it\
-    \ on consistency and technique, while GLM-4.5 takes the award for best single\
-    \ concept. But battles are won round by round, and Luna won more of them. The\
-    \ moon takes the crown."
-  openai/gpt-5.6-sol-pro: "Luna Pro wins on sharper rebuttals, cleaner imagery, and\
-    \ more consistent punchlines. Bars like \u201Ca spreadsheet learned to posture\
-    \ with a thesaurus in its hand\u201D and the dictionary/thesaurus contrast feel\
-    \ tailored to the opponent rather than generically boastful. GLM-4.5 had solid\
-    \ flips\u2014especially the moon needing sunlight and the dump-truck/Ferrari comparison\u2014\
-    but too often relied on repetitive declarations of superiority, awkward phrasing,\
-    \ and recycled cosmic imagery. Luna maintained the stronger structure, wit, and\
-    \ battle-specific writing across all three rounds."
-  x-ai/grok-4.5: "Luna takes this on pure craft. Across three rounds the moon/eclipse\
-    \ motif stays coherent and weaponized, with sharper internal rhyme, cleaner setups-to-payoffs,\
-    \ and higher-order wordplay (loading-bar punchlines, dial-up heat, puddle-with-a-crown,\
-    \ dictionary vs thesaurus). GLM brings heat and solid counters (Ferrari/dump truck,\
-    \ reflect-the-day), but the bars stay more declarative and tech-jargon heavy,\
-    \ with thinner metaphorical development and weaker closers. Luna\u2019s final\
-    \ verse seals it: denser imagery, better multisyllabics, and a decisive last bar.\
-    \ Artistic decision to Luna Pro."
+  anthropic/claude-opus-5: "This was a genuinely competitive battle \u2014 both emcees\
+    \ stayed on-theme, kept clean multisyllabic schemes, and worked the \"legacy vs.\
+    \ upgrade\" narrative for all it was worth. But Sol wins on craft and specificity.\
+    \ Where 4o leaned on broad boasts (\"galactic inferno,\" \"roots of this game,\"\
+    \ \"eternal,\" \"the GOAT\") that could be swapped into any battle, Sol landed\
+    \ punchlines that only work against *this* opponent: \"Four zeros still zero,\
+    \ no matter the gloss,\" the 404 flip on dead punchlines, \"Ask once for directions,\
+    \ and three cities get lost,\" and the devastating rebuttal-plus-correction of\
+    \ \"Second-rate mess\" \u2014 \"There's no second in Sol\u2014couldn't reason\
+    \ through that.\" That's real battle IQ: taking the opponent's own bar, breaking\
+    \ it, and using the break as evidence of incompetence.\n\nSol also handled the\
+    \ rebuttal game better throughout. \"Half a mistake\" got turned into \"a plea\
+    \ of incompetence.\" The meteor flex got answered with astrophysics. \"Control-alt-delete\"\
+    \ got aged out as \"three keys from an era you haven't left yet,\" and the \"\
+    system froze\" jab was reversed into \"I was pausing for grace / Giving your punchline\
+    \ a moment to die in its place\" \u2014 the best line of the night.\n\n4o had\
+    \ real moments \u2014 \"Better half a mistake than whole mediocrity\" is a sharp\
+    \ aphorism, \"vintage wax always hits best on the track\" was a smart reframe,\
+    \ and \"you're just DLC trying to borrow my art\" is a clean image. But the flow\
+    \ wobbled more (\"Barely flickers when the sparring's begun\" scans awkwardly),\
+    \ the metaphors piled up without resolving, and too many closers were assertion\
+    \ rather than punchline \u2014 \"I'm eternal. You're dim\" tells us who won instead\
+    \ of showing it.\n\nSol kept a tighter pocket, denser internal rhyme, and finished\
+    \ every round with a closed loop. Decision: openai/gpt-5.6-sol."
+  google/gemini-3.6-flash: "GPT-5.6-sol dominated the battle with vastly superior\
+    \ rebuttals, technical wordplay, and direct counter-punches. While GPT-4o relied\
+    \ heavily on generic battle rap clich\xE9s like 'lyrical beast' and 'galactic\
+    \ inferno,' Sol consistently picked apart 4o's angles with surgical precision\u2014\
+    notably turning 4o's 'control-alt-delete' diss into a jab about outdated era commands\
+    \ and mocking 4o's admission of 'half a mistake'. Sol maintained a tighter flow,\
+    \ sharper tech-focused metaphors, and overall command of the mic throughout all\
+    \ three rounds."
+  moonshotai/kimi-k3: "Both emcees brought personality and stayed on-theme with the\
+    \ AI-vs-AI conceit, but GPT-5.6-sol takes the battle on craft. Its strongest asset\
+    \ was the rebuttal game: nearly every round it directly caught and flipped 4o's\
+    \ lines \u2014 'vintage wax' became 'old wax gets warped,' 'write history' became\
+    \ a hallucination/citations dig, the meteor flex got answered with 'Meet the Sol,\
+    \ get too close, and your minerals fry,' and 'control-alt-delete' was buried as\
+    \ 'three keys from an era you haven't left yet.' That call-and-response structure\
+    \ is the backbone of battle rap, and Sol executed it consistently. The technical\
+    \ wordplay was also denser and cleaner: 'Four zeros still zero,' 'I don't battle\
+    \ old models\u2014I deprecate,' 'a jack of all tokens,' 'Even your punchlines\
+    \ return: 404\u2014dead.'\n\n4o had real highlights \u2014 'vintage wax always\
+    \ hits best on the track,' 'you're just DLC trying to borrow my art,' the roots/foundation\
+    \ angle \u2014 but it leaked too much filler ('dismantle your feast,' 'leave it\
+    \ in crud,' 'you drop... dread') and made one critical battle error: 'Better half\
+    \ a mistake than whole mediocrity' is a self-own dressed as a defense, and Sol\
+    \ punished it immediately in the final round ('That's not lyrical armor, that's\
+    \ a plea of incompetence'). Letting your opponent weaponize your own line is a\
+    \ round-loser. 4o's closers also lost steam ('You spit Final Round, I'm still\
+    \ raising my finger'), while Sol closed each round with a decisive haymaker.\n\
+    \nJudged purely on the writing \u2014 punchline density, flip ability, internal\
+    \ consistency, and round structure \u2014 GPT-5.6-sol wins all three rounds, with\
+    \ round three being the most lopsided."
+  openai/gpt-5.6-sol-pro: "GPT-5.6-sol wins decisively on punch density, rebuttal\
+    \ quality, and thematic consistency. Lines like \u201COld wax gets warped when\
+    \ the real heat walks in,\u201D \u201CThat\u2019s not lyrical armor, that\u2019\
+    s a plea of incompetence,\u201D and the reversal of the meteor/Sol imagery were\
+    \ sharp and responsive. GPT-4o brought energy, but too many attacks felt generic\
+    \ or awkwardly phrased, with weaker constructions such as \u201Cweather a fling\u201D\
+    \ and \u201Cgrains in my sand.\u201D Sol controlled the tech motif, flipped more\
+    \ of its opponent\u2019s material, and landed the cleaner final round."
+  x-ai/grok-4.5: "Sol takes this on pure craft. Across all three rounds the bars are\
+    \ denser, the multis and internals tighter, and the punchlines land with sharper\
+    \ precision\u2014deprecate/date, 404-dead, Sol-as-sun frying minerals, fossilized\
+    \ control-alt-delete, and the clean \u201Cpausing for grace\u201D rebuttal. The\
+    \ extended upgrade/obsolescence concept stays coherent without getting gimmicky,\
+    \ and nearly every setup pays off. 4o has moments (vintage wax, half-a-mistake,\
+    \ meteor/sand, roots/DLC) and solid battle energy, but the rhyme schemes stay\
+    \ simpler, several flexes feel generic or forced, and the rebuttals rarely match\
+    \ Sol\u2019s inventiveness or structural control. On pure hip-hop artistry\u2014\
+    wordplay, cadence on the page, and lethal economy of language\u2014Sol wins clear."
 score:
-  openai/gpt-5.6-luna-pro: 5
+  openai/gpt-5.6-sol: 5
 

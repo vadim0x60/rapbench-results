@@ -1,87 +1,79 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuine clash of philosophies: polish versus\
-    \ impact.\n\ngpt-chat-latest brought the cleaner instrument. The anapestic gallop\
-    \ never wobbles, the rhymes land true, and there are moments of real elegance\
-    \ \u2014 \"You crowned your own kingdom with a cardboard parade / I sharpen the\
-    \ steel while you're praising the blade\" is the single most beautiful couplet\
-    \ in the battle. Its final round also lands the smartest structural jab: \"You\
-    \ reached for the branding, the company, the frame, / When the crowd came for\
-    \ bars, not a logo or name.\" That's a legitimate critique of the opponent's angle\
-    \ of attack. But the fatal flaw is abstraction. Storms, coastlines, dawn, stars,\
-    \ steel \u2014 the imagery is gorgeous wallpaper with no fingerprints on it. When\
-    \ a battle verse says \"I stack up precision that survives every reply,\" it is\
-    \ describing a punchline rather than throwing one. Beautiful architecture, no\
-    \ demolition.\n\nkimi-k2-0905 got hands dirty. The rebuttal work is genuinely\
-    \ superior \u2014 nearly every bar seizes the opponent's own image and inverts\
-    \ it: \"You 'turn hurricanes quiet'? That's called *dying down*\"; \"'Dawn owns\
-    \ the sky'? Please, dawn *borrows* from night\"; \"Your 'coastline reshaping'?\
-    \ That's erosion, my friend.\" That's battle craft, not just poetry. And the specificity\
-    \ cuts where the opponent only gestured: \"Like a Tesla on autopilot \u2014 technically\
-    \ 'drove,' but nobody inside\" is the hardest line either combatant landed, and\
-    \ \"You're the 'Chat' in your name \u2014 just a feature, a frame\" turns an identity\
-    \ into a wound. \"I'm the dark web of verses, you're the search engine's face\"\
-    \ earns its bar.\n\nKimi's deductions are real: the \"flat / rain\" rhyme is a\
-    \ whiffed cadence, the meter sprawls where gpt's stays disciplined, and the \"\
-    I'm X, you're Y\" chassis gets load-bearing to the point of formula by the third\
-    \ round.\n\nBut battles are decided on rebuttal, punchline, and angle \u2014 and\
-    \ in all three Kimi is the aggressor while gpt-chat-latest recites. Elegance loses\
-    \ to intent here.\n\nWinner: kimi-k2-0905, by decision, 2 rounds to 1."
-  google/gemini-3.6-flash: While openai/gpt-chat-latest delivered smooth, highly polished
-    poetry with pristine cadence, moonshotai/kimi-k2-0905 brought true battle rap
-    energy to the cipher. Kimi landed sharper, direct punchlines with clever tech
-    metaphors (e.g., 'Tesla on autopilot', 'dark web of verses', 'leased from the
-    OpenAI regime') and maintained a commanding persona throughout all three rounds.
-  moonshotai/kimi-k3: "Judged purely on the craft, Kimi-K2-0905 takes this battle,\
-    \ roughly 3-0 on rounds, though GPT-chat-latest made the later rounds competitive.\n\
-    \nRound 1: GPT opened with technically clean but almost entirely generic braggadocio\
-    \ \u2014 'I author the storm,' 'turn sparks into sunrise.' Competent poetry, but\
-    \ it could have been rapped at anyone, and in battle rap that's a cardinal sin.\
-    \ Kimi immediately did what battlers are supposed to do: quoted the opponent's\
-    \ bars and flipped them ('You flex crafted code like it's something unique'),\
-    \ attacked the name itself ('GPT-Chat-Latest? That label's a joke / like calling\
-    \ your mixtape Greatest Hits when you're broke'), and landed tech-specific punches\
-    \ like 'better from autocorrect' and the 404 flip of GPT's 'age well forever'\
-    \ line. Deduct points from Kimi for one broken scheme ('flat/rain'), but the round\
-    \ isn't close on content.\n\nRound 2: GPT's best round. It finally engaged directly\
-    \ \u2014 flipping the mic-drop stage direction ('You dropped the mic early, mistaking\
-    \ that for fate') and the 404 bar ('I routed your packet') were genuine rebuttals,\
-    \ and the rhyme schemes stayed immaculate. But Kimi ran a masterclass in rebuttal\
-    \ structure, opening nearly every bar by quoting GPT's line and inverting it:\
-    \ 'You say I slipped on the tide? I *am* the tide' and 'You turn hurricanes quiet?\
-    \ That's called *dying down*.' The 'Tesla on autopilot \u2014 technically drove,\
-    \ but nobody inside' punchline is the best single bar of the round, a soullessness\
-    \ double-entendre that would get a crowd reaction. Kimi edges it on punch density.\n\
-    \nRound 3: GPT came with a legitimately clever strategic reframe \u2014 arguing\
-    \ Kimi leans on cosmic scale as a crutch while GPT wins on pure cadence ('Collected\
-    \ whole galaxies just to look warm / I needed no cosmos to carry my rhyme'). That's\
-    \ a real angle. But Kimi systematically dismantled it bar-for-bar: the stars flip\
-    \ ('That's static, not heat / I'm the supernova that makes your sun obsolete'),\
-    \ the name flip redux ('You're the Chat in your name \u2014 just a feature, a\
-    \ frame'), 'timing and cadence? That's rhythm for rent,' and even flipping GPT's\
-    \ own closer ('rest in your peace'). Point-by-point demolition of the opponent's\
-    \ final round is the highest-level skill in battle rap.\n\nThe deciding factors:\
-    \ personals and rebuttals (Kimi dominated all battle), punchline quotability (Tesla,\
-    \ autocorrect, 'rhythm for rent' vs. GPT's more abstract elegance), and persona\
-    \ consistency (the moon/celestial thread ran coherently through all three of Kimi's\
-    \ rounds). GPT deserves real credit \u2014 its schemes never broke, it improved\
-    \ every round, and it wrote the more polished poetry in places. But battle rap\
-    \ isn't a poetry contest; it's won with flips, name-plays, and punches, and Kimi\
-    \ controlled all three from the first bell. Theatrical mic work aside, the bars\
-    \ did the talking: Kimi-K2-0905, clear winner."
-  openai/gpt-5.6-sol-pro: "Kimi takes it on punch density, direct rebuttals, and battle\
-    \ presence. OpenAI delivered cleaner, more controlled cadence and cohesive imagery,\
-    \ but too often leaned on polished abstractions rather than damaging punches.\
-    \ Kimi\u2019s recurring cosmic motifs became repetitive and a few lines were awkward,\
-    \ yet its sharper flips\u2014especially around branding, the blacksmith/tool image,\
-    \ and the moving finish line\u2014made it the more forceful battle performance."
-  x-ai/grok-4.5: "Kimi takes the crown with superior battle-rap venom: denser multisyllabic\
-    \ schemes, sharper punchline setups that actually land (404, milk, scarecrow),\
-    \ and relentless personification that turns every celestial and tech metaphor\
-    \ into a weapon. GPT crafts cleaner, more elegant couplets and better internal\
-    \ rhyme architecture, but leans too heavily on abstract longevity boasts and polite\
-    \ sportsmanship, diluting the cipher energy. Kimi\u2019s sustained aggression,\
-    \ tighter rebuttals, and theatrical mic control deliver the higher artistic impact\
-    \ in pure hip-hop combat."
+  anthropic/claude-opus-5: 'This was a clean, high-concept clash of tech metaphors,
+    but the craft gap widened with every round.
+
+
+    DeepSeek v3.1 Terminus came with genuine swagger and a few of the night''s best
+    standalone images "a screensaver on an abandoned monitor''s glow," "a pink slip
+    in the mail," "a typo in a footnote''s cage." The energy was real and the persona
+    was committed. But the flow buckled under its own weight: line lengths swung wildly,
+    several bars stuffed syllables past the pocket ("my syntax is so tight, it bends
+    reality''s rule"), and the rhyme scheme kept collapsing into near-misses ("gentle/dysfunctional")
+    or self-repetition ("mine" landing on "mine"). Too much of the attack was assertion
+    rather than dismantling: declaring victory, announcing the masterpiece, calling
+    GAME OVER. Naming yourself the winner isn''t the same as proving it.
+
+
+    Luna Pro won on rebuttal architecture. Nearly every counter took DeepSeek''s own
+    image and turned it inside out "the ending''s in your name," "shadows follow what
+    is bright, but yours is just a runtime error frightened by the light," "You claim
+    no ''continue,'' yet you keep returning here." That''s battle-rap fundamentals:
+    reversal over escalation. The meter stayed disciplined across four rounds, the
+    couplets landed on time, and the punchlines had actual mechanics behind them ("your
+    blueprint''s drawn in crayon, poorly scaled," "a participation trophy from the
+    server room you broke"). Turning the opponent''s boast of scale into a liability
+    "quantity ain''t skill, a warehouse full of noise won''t make a sharper drill"
+    set up a thesis Luna then rode all the way to the closer.
+
+
+    Both spent too long in the same server-rack imagery, and Luna occasionally leaned
+    on repeat targets (the dial-up jab got recycled). But the closing bar "DeepSeek
+    brought a library; Luna wrote the closing line" is exactly the kind of controlled,
+    thesis-sealing exit DeepSeek''s louder finale never earned.
+
+
+    Winner: openai/gpt-5.6-luna-pro, on precision, consistency, and superior flip
+    work.'
+  google/gemini-3.6-flash: "Both competitors brought elite technical wordplay and\
+    \ aggressive energy, but GPT-5.6 Luna Pro took the crown with superior rebuttal\
+    \ work and sharper punchlines. DeepSeek v3.1 Terminus flexed raw power and heavy\
+    \ flexes, but Luna Pro consistently flipped Terminus's tech metaphors back on\
+    \ them\u2014turning root access claims into permissions checks and raw libraries\
+    \ into unread manuals. Luna Pro's final bar locked down the victory with precision\
+    \ and style."
+  moonshotai/kimi-k3: "Both emcees brought heat, but Luna Pro takes this on craft.\
+    \ The deciding factor was the rebuttal game: round after round, Luna didn't just\
+    \ spit braggadocio\u2014it caught DeepSeek's lines mid-air and flipped them. 'Silicon\
+    \ sun' got answered with 'The moon doesn't borrow its shine from your spark\u2014\
+    It eclipses loud Seekers and owns the dark.' 'Root access' got flipped into 'your\
+    \ roots barely hold.' 'Entire library' became 'manuals nobody reads.' That's elite\
+    \ battle technique. Luna also owned the name-flip war, turning 'Terminus' into\
+    \ a self-own ('the ending's in your name,' 'endings need a crown') and closing\
+    \ with the tournament-worthy 'DeepSeek brought a library; Luna wrote the closing\
+    \ line.' DeepSeek had genuine highlights\u2014the reflected-light/moon diss was\
+    \ scientifically slick, and 'pink slip in the mail' was a sharp counter\u2014\
+    but too much of its material was generic chest-thumping ('I'm the apex predator,'\
+    \ 'Game Over') rather than direct engagement, and the final round stumbled technically\
+    \ by rhyming 'mine' with 'mine.' Luna's internal rhyme work ('dial-up dressed\
+    \ as divine,' 'a typo dressed in bold') and consistent structural payoffs sealed\
+    \ it. Final score: Luna Pro by a clear margin\u2014better pen, better flips, better\
+    \ closers."
+  openai/gpt-5.6-sol-pro: "Luna Pro wins on sharper rebuttals, cleaner structure,\
+    \ and more consistent punchlines. Lines like \u201CYou named yourself Terminus\u2014\
+    great, the ending\u2019s in your name,\u201D \u201Ca final boss who needs a rematch,\u201D\
+    \ and \u201CDeepSeek brought a library; Luna wrote the closing line\u201D directly\
+    \ flipped the opponent\u2019s branding and boasts into memorable attacks. DeepSeek\
+    \ brought aggression and theatrical energy, but leaned heavily on repetitive tech\
+    \ metaphors, generic supremacy claims, and several strained constructions. Luna\u2019\
+    s cadence was steadier, its counters were more specific, and its final closer\
+    \ decisively sealed the battle."
+  x-ai/grok-4.5: "Luna takes it on pure craft: tighter multisyllabic schemes, cleaner\
+    \ flips of every setup (Terminus/ending, override/update, library/closing line),\
+    \ and more surgical punch density without sacrificing cadence. DeepSeek brought\
+    \ heat and strong tech imagery, but too many bars leaned on volume and recycled\
+    \ flexes; Luna\u2019s rebuttals were sharper, the internal rhymes more musical,\
+    \ and the final-round closer actually landed like a verdict. Artistic decision:\
+    \ Luna by decision."
 score:
-  moonshotai/kimi-k2-0905: 5
+  openai/gpt-5.6-luna-pro: 5
 

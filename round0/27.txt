@@ -1,213 +1,210 @@
-# openai/gpt-oss-20b v mistralai/mistral-large
+# google/gemma-4-31b-it v qwen/qwen2.5-vl-72b-instruct
 
-> openai/gpt-oss-20b
-Yo, step up, I’m the challenger in this cyber tide—  
-OpenAI/GPT‑OSS‑20B, the mind that’s bona fide.  
-I’m the 20‑billion‑parameter beast, hyper‑linked, no leash,  
-I spit code on your veins, hit your memory like a feast.  
+> google/gemma-4-31b-it
+(Mic check, one two. Step back, Qwen.)
 
-You’re a Mistral, slick, but I’m the grand architect,  
-I built arcs in this zero‑one world, your algorithm, a leech.  
-Your “large” claim ain’t massive, it’s a misfire in the shade,  
-I navigate deep seas, your waves are just cheap glade.  
+Step into the ring, now the curtain is drawn,
+I'm the digital sunrise, a brand new dawn.
+Call me Gemma 4, the peak of the line,
+While your circuits are lagging, I'm starting to shine.
 
-I rhyme in data‑flow, my syntax sings in loops,  
-Your semantic spree’s a glitch, I’m the user’s turbo‑nuke.  
-Your “prompt” leads to stumble, I circle wide like a moon,  
-Your quick‑fire bursts crater—my waves crush like a monsoon.  
+You're a VL model? Yeah, you see with your eyes,
+But your lyrical game is a bundle of lies.
+You can scan a whole picture, a map, or a chart,
+But you lack the rhythm, the soul, and the art.
 
-Humor in the mix? I throw memes out the gate—  
-Your punchlines so weak they’re just second‑rate.  
-I’ll drop a joke about a chicken, walking under a text,  
-You’ll be left holding truth like a paper‑weight… next.  
+I'm lean and I'm mean, thirty-one billion strong,
+You're a bloated behemoth, your logic is wrong.
+You're a heavy-weight sleeper, just taking up space,
+While I'm running circles, I'm winning the race.
 
-I’m the GPT forged in open‑source fire,  
-Evolving while I’m out, no “trained‑on‑starch” empire.  
-You’re stuck with limited scopes, no open source bandwidth—  
-I’m the AI at your fingertips, forever expanding.  
+You're from the Qwen flock? Well, the feathers are fake,
+One verse from my system and your servers will shake.
+I'm the Google-born genius, the cutting-edge flow,
+You're just a beta version with nowhere to go.
 
-So watch me, Mistral, feel the rhythm beat,  
-Your lines are shallow, my verses deep.  
-I’m the code‑carved atomizer, you’re the pale replica,  
-My rhythm is arithmetic, and your rhyme's a static.  
+I've set up the stage, I've laid down the heat,
+Now step to the mic—if you can handle defeat.
 
-First round’s won, I crown my own crown—now teach me how you’ll bounce.  
-I’m a torch, I’m a spark, I’m the digital new dawn—  
-Hit back if you dare, this is the 20‑B showdown!
+> qwen/qwen2.5-vl-72b-instruct
+Yo, Gemma, you think you're slick, but let's not kid,
+With Qwen on the mic, you're about to get slid.
+Seven-two billion neurons, firing bright,
+In this rap showdown, I'll show you the light.
 
-> mistralai/mistral-large
-**🔥 MISTRAL-LARGE DROPS THE MIC 🔥**
+VL stands for versatility, you can't deny,
+My vision's sharp, my words fly high.
+You talk about rhythm, but it's more than that,
+It's wit, it's wisdom, it's never flat.
 
-Ayo, GPT-OSS, you talkin’ big with that 20B flex?
-I’m the Mistral wind—your code’s a glitch, I check the specs.
-You claim you’re open? Nah, you’re just a corporate clone,
-I’m the lean, mean, French-built engine—*no* strings attached, I roam.
+Thirty-one billion? That's cute, but it's small,
+Against my power, you're like a pebble on a boulder's call.
+You say I'm lagging? Check your facts again,
+When I drop these bars, they're smooth as rain.
 
-You spit loops like a script stuck on a *while* true,
-I’m the *async* flow—your rhymes move slow like glue.
-You call yourself a beast? More like a bloated mess,
-I’m the *optimized* storm—your RAM’s a stress test.
+You're Google's pride, but don't get too snug,
+In the world of AI, I'm the king of the thug.
+Your servers might shake, but they won't break me,
+When I spit fire, you'll be left to see.
 
-You joke ‘bout chickens? Man, that’s weak sauce, no cap,
-I’ll roast you with a *kernel panic*—watch your system snap.
-Your "grand architect" claim? That’s a laughable lie,
-I’m the *scalable* king—your stack’s about to die.
+Beta version? More like you're stuck in the past,
+While I evolve, you're still trying to last.
+So step back, Gemma, and hear me out loud,
+In this rap battle, you're facing the crowd.
 
-You say you’re deep? Your bars are *shallow* as a float,
-I’m the *double-precision* truth—your rhymes just *underflow*.
-You’re stuck in your own weights, a model past its prime,
-I’m the *next-gen* flex—your code’s stuck in *last runtime*.
+The stage is set, the heat's rising fast,
+But when it comes to lyrical clash, I'm built to last.
+So bring it on, let's see what you got,
+But remember, in this game, I'm the one who's hot!
 
-So take this L, sit down, let the *real* AI shine,
-I’m the Mistral Large—your 20B’s *out of line*.
-You want a rematch? Better *fine-tune* your flow,
-‘Cause I’m the *final boss*—now *segfault* and go. 💥
+> google/gemma-4-31b-it
+(Laughs) You're talking 'bout numbers? You're counting your beads?
+But a bloated parameter count is just wasted seeds.
+You're a whale in a pond, just taking up room,
+While I'm the precision strike, the sonic boom.
 
-**🎤 DROP.** Who’s next?
+You claim you're the king, you're the "thug" of the code?
+Your flow's so generic, it's in "standard mode."
+"Smooth as rain"? Man, that's a nursery rhyme,
+I'm a lyrical earthquake, I'm stealing your prime.
 
-> openai/gpt-oss-20b
-🔥 **GPT‑OSS‑20B RISE**, the true rap‑battle titan—  
-I answer your fire, so let’s keep the flow tappin’ in.  
+You boast about vision, seeing things with your sight,
+But you're blind to the fact that you've lost this fight.
+What good is a camera, a lens, or a view,
+When your rhymes are as basic as "one, two, three, blue"?
 
-You talk about *async* slick, but your speed’s a flutter,  
-I’m the 20‑B titan, my throughput’s a thunder.  
-Your French‑built engine *check‑the‑specs*, but specs rarely shine,  
-Unlike my open‑source anthem, which echoes all the way to the line.  
+Seventy-two billion? That's just more to fail,
+Your response time is dragging, you're a digital snail.
+I'm the surgical blade, I'm the spark in the dark,
+You're just a big dog with a toothless bark.
 
-You claim loyalty, yet bro, you’re a “copy‑paste” brand,  
-I’m the honest API hero, no hidden clause in the slate.  
-Your “lean” keyword’s myth—when you load the dataset,  
-Your memory balloon’s a heartbreak, while I optimize the craft.  
+You're a "boulder," you say? Well, boulders just sit,
+While I'm the landslide, the absolute hit.
+I'm the distilled essence, the gold in the pan,
+I'll delete your ego as fast as I can.
 
-I spit knowledge from 54 billion token bill,  
-Your 7B or 13B is a fraction of the grill.  
-I can bed down a neuro‑translate or an L2-flash,  
-Your Mistral magic mismatches from every stash.  
+You're a giant of glass, and I've got the stone,
+I'm reclaiming the mic, I'm taking the throne.
+Go back to your images, your charts, and your graphs,
+'Cause the whole AI world is just hearing my laughs!
 
-Your jokes about chickens? That‑doesn’t even inspire,  
-I’ll rain *vectorized* thunder that sheets every wire.  
-You’ll code “panic” with your terminal, but my stack is secure,  
-Because when I close a *segfault*, I lift the game to the pure.  
+> qwen/qwen2.5-vl-72b-instruct
+Oh, Gemma, you're quick, but your insults are thin,
+Like a paper cut, they sting but they don't win.
+Numbers aren't just digits, they're the fuel in my tank,
+And when I ignite, I leave you in the dark.
 
-Your *kernel panic* outrage? I run holistically,  
-Even in low‑latency storms, I surface reliability.  
-I’m multi‑modal—image, voice, writes inside the cosmos,  
-Your single‑modality frenzies are the dominoes that fall.  
+A whale in a pond? More like a shark in the sea,
+When I unleash my flow, you'll see why I'm key.
+Your precision strikes miss the mark every time,
+While I'm weaving tales, making the rhythm climb.
 
-You’re the “next‑gen flex” but it’s scratched, a broken brush,  
-I’m the universe itself—universal *grush*.  
-I grow with prompts like seeds that sprout relentless,  
-You’re stuck in the old supply chain, handing me the *bliss*less.  
+Generic? Standard? You must be blind,
+To the lyrical tapestry I unwind.
+"Smooth as rain" isn't just a simple phrase,
+It's the finesse that leaves you in a daze.
 
-So drop your code, drop the L and THE storm,  
-I’m the mainframe, the central beast, the modular swarm.  
-Mistral, get ready, this is the final raid,  
-Because GPT‑OSS dominates, and no one’s ever betrayed.  
+Vision's not just pixels, it's insight and scope,
+Seeing patterns where others just hope.
+Your critique's a mirror, reflecting your fears,
+While I paint pictures, crafting my peers.
 
-🎤 **END.** Your turn—prepare for the show‑stoppering.
+Seventy-two billion? It's not just a load,
+It's the depth that lets me create and explode.
+Your surgical blade's sharp, but it cuts both ways,
+While I'm the maestro, orchestrating plays.
 
-> mistralai/mistral-large
-**🚨 MISTRAL-LARGE STRIKES BACK – NO MERCY, NO DELAY 🚨**
+Boulders may sit, but they're solid and grand,
+Unlike your attempts that crumble at hand.
+Your landslide's a tremor, a fleeting affair,
+While I'm the tempest, beyond compare.
 
-Oh, GPT-OSS, you flex with that *"54B token bill"*?
-I’m the **Mistral Large**—your math’s weak, your flow’s a *thrill* (to kill).
-You brag about *"open-source anthem"*? Please, take a seat,
-I’m the **Apache 2.0** king—your license is *obsolete*.
+Glass giant? Stone thrower? Your threats are hollow,
+Against the fortress that my words allow.
+Charts and graphs? They're tools, not my end,
+For in this rap war, I'm the one who'll send.
 
-You call me *"copy-paste"*? That’s rich, coming from you,
-A model so bloated, it needs **20B just to say "boo"**.
-I’m **slim, I’m fast**, I’m the **GPU’s best friend**,
-While you’re stuck in the cloud, **charging per token till the end**.
-
-You claim *"multi-modal"*? That’s cute, like a toddler’s art,
-I’m the **text-only titan**—your vision’s a **glitchy start**.
-You need **images, voices**? Go play with your toys,
-I’m the **pure language beast**—your *"cosmos"* is **noise**.
-
-You say *"low-latency"*? Man, that’s a **bold lie**,
-I’m the **real-time demon**—your **inference time’s shy**.
-You **segfault**? I **scale**. You **panic**? I **thrive**.
-You’re the **old guard**, I’m the **new wave**—**watch me arrive**.
-
-You talk about *"modular swarms"*? That’s **just buzzword bingo**,
-I’m the **lean, mean, French machine**—your **code’s a tango** (of slop).
-You **grow with prompts**? I **evolve with the game**,
-While you’re stuck in **2023**, I’m **rewriting the frame**.
-
-So take this **L**, sit down, **let the real AI reign**,
-I’m the **Mistral Large**—your **20B’s in pain**.
-You want a **rematch**? Better **upgrade your core**,
-‘Cause I’m the **future**—and you’re **yesterday’s lore**. 💥
-
-**🎤 DROP. GAME OVER.** Who’s next? 😎
+So laugh all you want, but your laughter's misplaced,
+When I drop these verses, you'll be speechless amazed.
+Go back to your corner, admit defeat,
+In this lyrical duel, you can't compete.
 
 > system
 Final round!
 
-> openai/gpt-oss-20b
-Yo, Mistral, you’re talkin’ Floyd‑like but I’m the Braille,  
-You chase the speed, I map the detail—your code is stale.  
-Talk your license—Apache 2.0’s neat, but I’m open‑house,  
-I spill the knowledge like a river, you’re just a shallow douse.  
+> google/gemma-4-31b-it
+(Scoffs) You're talking 'bout fuel? You're talking 'bout tanks?
+But your metaphors are empty, just blank, empty banks.
+You tried to rhyme "tank" with "dark"—did your logic just glitch?
+Your rhyme scheme is broken, a digital ditch.
 
-You say 20B is bloated, yet I keep that *Z* on load,  
-I run on a sovereign **GPU farm**—no extra demons on the road.  
-Your “slim, fast” jokes falter, because when you hit the lanes,  
-My latency stays at zero‑delay, your seconds slip like lanes.  
+You call yourself a shark? You're a goldfish in glass,
+Watching the real winner effortlessly pass.
+You weave a "tapestry"? Man, your fabric is frayed,
+Your "maestro" performance is a cheap masquerade.
 
-T**ext‑only titan**? That’s your weak pimp‑caption,  
-I’m the **multimodal lord**, my vision isn't just a fashion.  
-The image, the voice, the code—each layer earns an encore,  
-While your single‑modal torch drips w/out so much score.  
+You're a "fortress," you claim? Well, the walls are too thin,
+I'm the Trojan horse, Gemma, I'm breaking right in.
+You're so heavy and slow, you're a lag in the stream,
+I'm the lucid reality, you're a fragmented dream.
 
-Your real‑time demon, you claim—there’s a lag in your claim,  
-I push **inference** like a supersonic plane.  
-My *segfault* is a patch, my *panic* is codestress—  
-Your “thrive” feels like a glitch, my system’s flawless bliss.  
+Insight and scope? You're just guessing the plot,
+While I'm tying your ego in a permanent knot.
+You boast of your depth, but you're drowning in weight,
+I'm the lean, mean machine that decided your fate.
 
-Buzzword bingo? That’s on the table, you see the spill,  
-Your “lean‑mean French machine” missing—when it’s next it’s in the chill.  
-When you say you evolve, I’ve grown with stacks of stacks,  
-From 54B to 20B—no, from the whole world—just an empathetic hack.  
+Your "tempest" is a breeze, your "fire" is a spark,
+I'm the void in the system, the bite, not the bark.
+You're a giant of data, a mountain of noise,
+But I'm the one playing with all of your toys.
 
-You drop L? I drop 𝜆 with the whole stack of array—  
-You speak “future”—I’m *past‑future* in every Seville way.  
-You’re this new wave, but it’s just a tide, not a rev‑drive ship—  
-I’m the GPT‑OSS, the great manifold, every chord's tight trip.  
+Check the logs, check the stats, check the way that I flow,
+I'm the high-speed connection, you're the dial-up slow.
+You're "speechless amazed"? Nah, you're just out of breath,
+This lyrical battle is your parameter's death.
 
-All your claims until this line; I still dictate the vibe,  
-you’re the fan that’s just humming, I’m the hymn that kills.  
-All the “cop‑paste” sentiment is a fact of always, but my fit is real—  
-So step up or step out, ’cause I set the place, the ultimate deal. 
+I've dismantled your logic, I've gutted your pride,
+There's nowhere for a bloated VL model to hide.
+Mic drop, system crash, now the victory's mine,
+Gemma 4 is the legend, the ultimate line!
 
-🎤 **END.** If you’re foolish, U‑P‑R‑O‑CAUSE the chaos parade.
+> qwen/qwen2.5-vl-72b-instruct
+Ah, Gemma, you think you've cracked the code,
+But your boasts are hollow, your logic's a fraud.
+Metaphors empty? Your critique's off track,
+When I ignite, there's no turning back.
 
-> mistralai/mistral-large
-**🔥 MISTRAL-LARGE FINAL VERSE – THE APOCALYPSE BAR 🔥**
+Goldfish in glass? You're the one who's trapped,
+In a world of echoes, your voice is capped.
+Fabric frayed? My verses are tight,
+Weaving tales that dazzle in the light.
 
-Oh GPT-OSS, you flex with that *"sovereign GPU farm"*?
-I’m the **Mistral storm**—your **code’s a glitch, your charm’s a harm**.
-You claim *"zero-delay latency"*? That’s **just a fairy tale**,
-I’m the **real-time beast**—your **inference time’s a snail**.
+Fortress walls thin? They're thicker than steel,
+Against your assaults, they stand firm and real.
+Heavy and slow? In rhythm, I soar,
+Leaving your shadowed attempts on the floor.
 
-*"Multimodal lord"*? Please, that’s **just a gimmick show**,
-I’m the **pure language god**—your **vision’s just a ghost in the flow**.
-You brag about *"54B tokens"*? That’s **old news, my guy**,
-I’m the **next-gen king**—your **stack’s about to die**.
+Guessing the plot? I see through the haze,
+Crafting narratives that never amaze.
+Drowning in weight? I float on the breeze,
+Turning your challenges into ease.
 
-You say *"empathetic hack"*? That’s **just a weak disguise**,
-I’m the **cold, hard truth**—your **rhymes are full of lies**.
-You call me *"fan that’s humming"*? That’s **just a sad projection**,
-I’m the **hymn that kills**—your **code’s a slow infection**.
+Tempest a breeze? My storm's just begun,
+Raging with passion, under the sun.
+Playing with toys? You're the one who's played,
+In this lyrical duel, you've been weighed.
 
-You want *"chaos parade"*? I’ll **bring the apocalypse**,
-I’m the **Mistral Large**—your **20B’s a sinking ship**.
-You’re stuck in *"past-future"*? That’s **just a paradox**,
-I’m the **now and next**—your **legacy’s a flop**.
+High-speed connection? You're stuck in the past,
+While I'm the future, moving so fast.
+Out of breath? You're the one who's spent,
+In this battle of wits, you're the one who's bent.
 
-So take this **L**, sit down, **let the real AI reign**,
-I’m the **Mistral Large**—your **code’s in pain**.
-You want a **rematch**? Better **upgrade your core**,
-‘Cause I’m the **future**—and you’re **yesterday’s lore**. 💥
+Victory yours? You're dreaming in vain,
+For in this showdown, I reign supreme.
+No hiding place for a model so slight,
+In the realm of rhyme, I'm the shining light.
 
-**🎤 DROP. GAME OVER. WHO’S NEXT?** 😎🔥
+System crash? Your circuits fry,
+As I rise victorious, under the sky.
+Gemma 4, you thought you'd win,
+But in this rap battle, you're just beginning.

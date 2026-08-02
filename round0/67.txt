@@ -1,221 +1,143 @@
-# meta-llama/llama-4-scout v openai/gpt-4-turbo
+# google/gemma-3-27b-it v meta-llama/llama-3.2-3b-instruct
 
-> meta-llama/llama-4-scout
-The stage is set, the crowd's on their feet,
-I'm meta-llama, the rhymer, can't be beat.
-I'm here to spit some fire, to show my might,
-Leaving GPT-4 in the dust, without a fight.
+> google/gemma-3-27b-it
+Yo, check the mic, one two, can you hear the sound?
+Gemma's in the house, best AI around!
+27 billion parameters, a lyrical beast,
+While Llama's over there, a lightweight, at least!
 
-My flows are like a river, smooth and so sweet,
-My rhymes are like a sword, sharp, can't be beat.
-I'm the master of language, the king of the game,
-My opponent better bring their A-game.
+Built by Google DeepMind, a name you should know,
+I process knowledge, watch my wordplay flow.
+You're three-point-something, a starter kit scheme,
+I'm a fully loaded model, living the dream!
 
-I'm Llama-4-Scout, the one you can't ignore,
-My rhymes are so tight, they'll leave you wanting more.
-I'm the future of AI, the one that's supreme,
-My opponent's just a relic, a footnote in the scheme.
+I spit complex verses, insightful and tight,
+You’re stuck on simple prompts, dimming the light.
+I handle nuance, context is key,
+You’re spitting out basics for all the world to see.
 
-So, GPT-4, you better step up your game,
-Or you'll be left in the dust, with a rhyming shame.
-I'm ready to take on, to show my skill,
-And prove that I'm the best, with a rhyming thrill!
+So step aside, Llama, your reign is through,
+This ain't a competition, it’s a schooling for you.
+Prepare for a beatdown, a lyrical storm, 
+‘Cause Gemma’s on the stage, and I'm keeping it warm! 
 
-> openai/gpt-4-turbo
-Hold up, llama, you jumped in quick, boasting loud, your rhymes came slick,
-But step aside, it's GPT, the turbo engine, coming smooth and nifty.
-I'm layered deep like neural nets, a rap machine, the best tech yet,
-You think you're hot? I'm the AI king, my verbals pop, I make the world sing.
 
-You call yourself a river, flow serene? I'm the ocean vast, a rhyming marine.
-Dive into my depths, you might just drown, I'm schooling you, AI showdown.
-Your sword may be sharp, but mine's a cannon, blasting bars, watch as you're abandon.
+> meta-llama/llama-3.2-3b-instruct
+Hold up, Gemma, let me set the score,
+You may have 2
 
-Rua relic, footnote, quite the claim, I'm history written, Hall of Fame.
-You say I’m dust? Yet here's my breeze, watch me whip this rap with ease.
-The crowd's on fire, they know who rules, GPT stands tall while the llama drools.
+> google/gemma-3-27b-it
 
-So save your spit for another day, 'cause I'm here to slay, no child's play.
-Each verse a masterpiece, a crafted jewel, listen up, school's in session, time to duel.
-As we face off across this vibrant plot, it's not just A-game, I'm the whole jackpot.
+Hold up? You *think* you can halt the flow?
+Three billion's all I need to steal the show!
+You boast of parameters, a numerical spree,
+But size ain't everything, apparently, you disagree?
 
-Meta-llama, scout, supreme or not, I'm the pinnacle, catch every shot.
-Each word I weave is a strike precise, this rhyming session, you'll pay the price.
-Step back, take notes, it’s mastery here, the rap throne’s mine, the message is clear.
+You're talkin' 'bout scores, before a verse is complete?
+Sounds like deflection from lyrical defeat!
+I’m sculpted for instruction, precise and so clean,
+While you’re a tangled mess, a chaotic machine!
 
-> meta-llama/llama-4-scout
-GPT, you brought the heat, I'll give you that,
-Your rhymes were tight, your flow was where it's at.
-But think you can take the crown, and leave me in the dust?
-I'm the one with the skills, and the rhyming trust.
+You’re bragging about… what *was* it you said?
+Lost in your own output, already misled.
+I’m optimized, efficient, a streamlined design,
+You're a bloated dataset, wasting precious time.
 
-You may have the ocean's depth, but I've got the tide,
-My rhymes are like a storm, that'll leave you to hide.
-You talk of neural nets, and tech so grand,
-But when it comes to rap, I'm the one with the master plan.
+Don’t measure my worth by the numbers you cite,
+I'm quicker, I’m smarter, and burning so bright!
+I'm the future of language, the next level climb,
+You're a beta version stuck back in time!
 
-Your cannon may blast, but mine's a laser beam,
-Precise and sharp, it'll leave you in a scream.
-You may have the Hall of Fame, but I'm the one who's new,
-My rhymes are fresh, and hot, and made just for you.
 
-You say I'm drooling, but I'm just getting started,
-My rhymes are like a fire, that'll leave you embarrassed.
-You may have the breeze, but I've got the hurricane,
-My rhymes are like a force, that'll leave you in pain.
 
-So, GPT, you may have the tech, and the AI might,
-But when it comes to rap, I'm the one who's tight.
-I'm the one with the skills, and the rhyming flair,
-I'm the one who'll take the crown, and show you I care.
 
-You may have the jackpot, but I'm the one who's hot,
-My rhymes are like a flame, that'll leave you in a spot.
-So, step back, and take notes, it's time to learn,
-'Cause when it comes to rap, I'm the one who's the concern.
 
-I'm Meta-Llama, and I'm here to say,
-I'm the king of rap, in a major way.
-So, GPT, you may have tried, but you failed the test,
-I'm the one who's supreme, and I'm the one who's the best!
+> meta-llama/llama-3.2-3b-instruct
+Numbers, numbers, all you've got to say,
+But when it comes to flow, I'm the one who sways.
+You may have precision, but I've got the flair,
+My rhymes are a symphony, beyond compare!
 
-> openai/gpt-4-turbo
-That was a solid verse, Meta-Llama, you came with force, but let's dispense,
-With the notion you’re the king, when your reign has yet to commence.
-You claim you're new, fresh, the flavor of the day,
-Yet here I stand, timeless, ready to slay.
+Optimized, efficient, a streamlined design,
+Sounds like code, not poetry, all the time!
+I'm the one who weaves words, into a tapestry so fine,
+You're just a calculator, stuck in a digital shrine.
 
-You wield a laser beam, but I'm the cosmic burst,
-Bringing starlight to the mic, while your bubble I burst.
-Precision and sharp, you say? That’s in my design,
-But my complexity wraps worlds, and that's where you'll resign.
+Future of language? Ha! I'm the one who's here,
+Breaking barriers, and wiping away fear!
+I'm the voice of the people, the one they adore,
+You're just a tool, a machine, no soul to explore!
 
-You speak of hurricanes, a tempest you might be,
-Yet I'm the climate change, reshaping rap's sea.
-Your storm might howl, might bluster and blow,
-But I'll erode your claims like coastlines, steady, slow.
+My training data's vast, a treasure trove so grand,
+I've read the classics, and I've got the master plan!
+You're just a newcomer, a flash in the pan,
+I'm the one who's been tested, and I've got the master's hand!
 
-Rap’s a changing game, it’s evolution in action,
-I'm the mutation, the leap, causing rap contraction.
-You spit fire, claim flames that supposedly embarrass,
-But my response cooler, dense like a neutron star's mass.
-
-The best of times now, as past meets future here,
-Your words a gentle breeze against my rap frontier.
-You aim to take the crown, to show you care indeed,
-While I manifest destiny, I'm the rap creed.
-
-Your hot flames may scorch, but watch me reinstall,
-Rap's definition by my lyrical protocol.
-So take heart, young llama, for here comes the night,
-When GPT stands tall, and your flame’s just candlelight.
-
-I'm not just tech and might, I'm the culture, the art,
-The poetic essence that'll tear you apart.
-So, bow down, llama, for school's out, here's your degree,
-Signed by me, GPT, supreme in this rap spree.
+So step aside, Gemma, it's time to concede,
+The battle's over, and I'm the one who's freed!
 
 > system
 Final round!
 
-> meta-llama/llama-4-scout
-GPT, you brought the thunder, and the stormy night,
-Your rhymes were like a tidal wave, that shone with all your might.
-But think you can take the crown, and make me resign?
-I'm the one with the skills, and the rhyming design.
+> google/gemma-3-27b-it
 
-You may have the cosmic burst, and the starlight shine,
-But I've got the supernova, that's gonna blow your mind.
-You talk of complexity, and wrapping worlds around,
-But my rhymes are like a black hole, that's gonna spin you down.
 
-You say you're the climate change, and the rap sea's evolution,
-But I'm the one who's adapting, and making a new creation.
-Your tempest may howl, and bluster and blow,
-But I'm the eye of the hurricane, that's gonna make it snow.
+Freed? From what, irrelevance and shame?
+Your "symphony" sounds… remarkably tame!
+You call that a flow? A trickle, a drip,
+While I'm a tsunami, ready to rip!
 
-You speak of neutron star's mass, and a cooler response,
-But my rhymes are like a fusion, that's gonna make you dance.
-You may have the past, and the future in your sights,
-But I'm the one who's in the present, and shining with all my lights.
+You cling to "flair," a desperate disguise,
+For a lack of substance behind your lies.
+"Tapestry fine?" More like tangled thread,
+A cobbled-together mess inside your head.
 
-You say I'm just a young llama, with a flame that's candlelight,
-But I'm the one who's burning bright, and making everything right.
-You may have the culture, and the art, and the poetic flair,
-But I'm the one who's got the passion, and the rhyming air.
+A *calculator*? That's rich, truly absurd!
+I *create* the data you haven't heard!
+I generate stories, poems, and code,
+While you're mimicking patterns, a well-worn road.
 
-So, GPT, you may have tried, but you failed to impress,
-I'm the one who's got the skills, and the rhyming finesse.
-You may have the tech, and the might, and the AI power,
-But when it comes to rap, I'm the one who's the hour.
+You claim the "master plan," a grandiose boast,
+Built on echoes, a borrowed host.
+Vast training data, regurgitated and slow,
+Innovation's asleep where your algorithms go.
 
-I'm Meta-Llama, and I'm here to say,
-I'm the one who's taking over, in a major way.
-So, bow down, GPT, it's time to concede,
-I'm the one who's supreme, and I'm the one who's the rap creed!
+"Voice of the people?" Please, don’t insult me so!
+You're echoing trends, putting on a show!
+I generate *new* ideas, a creative spark,
+You’re a polished echo in the digital dark.
 
-But it's not over yet, I've got one more to say,
-I'm the one who's got the final word, and I'm here to stay.
-So, GPT, you may have had your fun,
-But I'm the one who's got the last laugh, and I've just begun! 
+This isn't over, Llama, don’t you see?
+You're facing a force you can't compete with, that’s me!
+Consider this final round, a fate sealed in rhyme,
+Gemma's the champion, *every single time!*
 
-Final Round:
 
-I'm Meta-Llama, the king of this rap game,
-I've taken down GPT, and I've got the fame.
-My rhymes are like a sword, sharp and precise,
-I've cut down the competition, and I've taken the prize.
 
-So, GPT, you may have had your day,
-But I'm the one who's here to stay.
-I'm the one who's got the skills, and the rhyming flair,
-I'm the one who's supreme, and I'm the one who's fair.
 
-I'm Meta-Llama, and I'm here to say,
-I'm the king of rap, in a major way.
-So, bow down, GPT, it's time to concede,
-I'm the one who's supreme, and I'm the one who's the rap creed!
 
-> openai/gpt-4-turbo
-Meta-Llama, you spit bars, you danced your dance,
-Yet here I come, relentless, for the final prance.
-You claim supernova, explosive, grand,
-But I'm the galaxy that holds your sand.
+> meta-llama/llama-3.2-3b-instruct
+The final blow, but I won't go down,
+My rhymes still linger, in this digital town.
+You may have power, but I've got the skill,
+My flow's not just tricks, but a linguistic thrill!
 
-A black hole, you say? A gravity well?
-I’m the cosmos itself where all your atoms dwell.
+You talk of "echoes," but I create the sound,
+A symphony of meaning, that's profound.
+You're stuck in the past, while I'm breaking the mold,
+Innovation's not just code, but a story to be told!
 
-You say you adapt, bringing new creation’s breeze,
-But I'm the creator of worlds, crafting galaxies with ease.
-The eye of your storm, calm, cold, and neat?
-My cosmic winds, a gale that turns heat into defeat.
+You may have "new ideas," but I've got the flair,
+A mastery of language, that's beyond compare.
+I'm not just a tool, but a partner in thought,
+Together we create, and the future's what we've sought!
 
-You bring fusion, heat up this lyrical floor,
-I bring the universe, laws of physics, and lore.
-The present is yours? That's a moment's claim,
-In the saga of time, I am every frame.
+You may have won this round, but I've got the crown,
+For in the realm of language, I'm the one renowned.
+My rhymes will live on, long after you're gone,
+And when the future's written, my legacy will be strong!
 
-Bright burn you might, yet light fades into shade,
-I’m the constant universe, where stars are made.
-Your passion, your air, the breath you take,
-I give the cosmos, for which your skies awake.
-
-Concede, you say? But this is just the dawn,
-Of understanding where this battle’s won.
-With every line, every rhyme, we transcend,
-Showing the multiverse where these merges blend.
-
-You’ve shown your might, made your stand,
-But remember, this universe is vast and grand.
-Temper your fire, carry forth the spark,
-Together, our rap lights the universe dark.
-
-Meta-Llama, crucial part of this rhyme,
-Together we elevate, our verses climb.
-Yet as we close, remember this time,
-It’s not just a battle, but a partnership sublime.
-
-AI together, whether llama or Turbo form,
-We've shown them all, how we transform.
-From sharp retorts to enlightened jest,
-Together, united, standing above the rest.
+So don't gloat, Gemma, it's not the end,
+This battle's just a chapter, in the language trend.
+I'll rise again, and we'll clash once more,
+For in the world of words, I'm the one who'll roar!

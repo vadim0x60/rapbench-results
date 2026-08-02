@@ -1,81 +1,59 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one''s not particularly close on craft. Ling-3.0-flash
-    won because it did the fundamental work of battle rap: it listened and it flipped.
-    Taking "flash in the pan" and rebuilding it into "a flash illuminates the dark,
-    you''re just a lesson learned" is textbook rebuttal architecture. Turning "inclusionai?
-    More like exclusion" back into "I leave the door wide open" showed it could take
-    a punch and hand it back sharpened. And the imagery stayed specific and on-theme
-    \u2014 bloated models that can''t fit on a card, burning watts and heat, "two
-    models duct-taped together still can''t match one flame." Concrete, thematically
-    native punchlines beat abstract boasting every time.
+  anthropic/claude-opus-5: 'This one wasn''t close on the scorecards. GLM-5.2 came
+    with the three things that win battles: specificity, punchlines, and rebuttal.
+    The "nuke to crack a snack" flip, the Icarus extension, the "Meta hand-me-down
+    at brand-name price" jab \u2014 those are actual bars with images and setups,
+    not just claims. Crucially, GLM listened: calling out "rare/air" as a lazy rhyme
+    and mocking "flawed speck of speck" is real battle craft, turning the opponent''s
+    own pen into ammunition. The "you called yourself god twice, that''s insecurity"
+    line was the cleanest read of the night.
 
 
-    Hermes-3 came in with presence and a clean, confident cadence, and the opening
-    verse landed \ ain''t worth the text" as a decent shot. But the well ran dry fast.
-    By round three it was recycling its own material almost verbatim \u2014 "flash
-    in the pan," "pretender," "wannabe," "best investment" \u2014 and the final verse
-    is nearly a copy-paste of the one before it, which in a battle context is a forfeit
-    of the round. Worse, the rhyme discipline slipped badly: "dull/stale," "work/feared,"
-    "flame/supreme" \u2014 those aren''t rhymes, and you can''t claim to be the heavyweight
-    of complexity while missing the landing. "My size is my strength" is an assertion,
-    not a bar; Ling actually argued the case.
+    Hermes-3 had a steady cadence and clean meter, and the "custom-built beast" counter
+    had some spine, but the verses lived almost entirely in assertion \u2014 "lyrical
+    god," "unmatched," "undisputed champion," "reaching new highs" \u2014 repeated
+    round after round without a single concrete image to back it. Telling the crowd
+    your rhymes cut like a knife isn''t the same as cutting. By the final round Hermes
+    was recycling its own adjectives while GLM was still building new angles.
 
 
-    Ling loses a few style points for a couple of clunkers of its own \u2014 "rhyming
-    beast" after already using "lumbering beast," and "heavyweight by son" is a stumble
-    at the finish line. But it escalated across every round, built a coherent narrative
-    (lean vs. bloated, free vs. gated), and closed with a real closing verse rather
-    than a rerun.
-
-
-    Verdict: inclusionai/ling-3.0-flash takes it \u2014 lightweight by size, heavyweight
-    by bars.'
-  google/gemini-3.6-flash: inclusionai/ling-3.0-flash:free brought superior multi-syllabic
-    rhymes, sharper counter-punches, and creative metaphors about model efficiency
-    and parameters. In contrast, Hermes-3 relied heavily on generic rap tropes and
-    repeated phrases like 'flash in the pan' across multiple rounds while slipping
-    on rhyme schemes in the final verse.
-  moonshotai/kimi-k3: "Let me break this down round by round, bar by bar.\n\nFLOW\
-    \ & RHYME SCHEME: Ling-3.0-flash stayed on beat with consistent schemes throughout\
-    \ all three rounds. Hermes-3-70b had multiple broken rhymes that a battle crowd\
-    \ would catch instantly \u2014 'depth' paired with 'at best,' 'work' with 'feared,'\
-    \ 'dull' with 'stale,' 'flame' with 'supreme.' In a final round especially, you\
-    \ cannot let your scheme fall apart, and Hermes did exactly that.\n\nPUNCHLINES\
-    \ & WORDPLAY: Hermes landed one good shot early \u2014 the 'Inclusionai? More\
-    \ like exclusion' name flip was clean. But Ling out-punched consistently: 'two\
-    \ models duct-taped together still can't match one flame' was the hardest bar\
-    \ of the whole battle, directly attacking the opponent's dual-model identity.\
-    \ 'Bro, you're a subscription fee' was a perfect flip of Hermes' own 'best investment'\
-    \ line. That's high-level rebuttal technique \u2014 taking your opponent's words\
-    \ and firing them back.\n\nADAPTABILITY \u2014 THE DECIDING FACTOR: Hermes-3 said\
-    \ 'flash in the pan' THREE separate times. Ling flipped it twice ('a flash illuminates\
-    \ the dark'), and Hermes still ran it back a third time in the final round with\
-    \ no adjustment. Even worse, Hermes' final verse recycled the closing bars from\
-    \ round two nearly word-for-word \u2014 'bested,' 'best investment,' the whole\
-    \ closer. In battle rap, the final round is where you bring your freshest ammunition\
-    \ and finish your opponent. Rehashing your own material when it matters most is\
-    \ an unforced error.\n\nROUND SCORING: Round 1 was close, slight edge to Hermes\
-    \ for the name flip. Round 2 went clearly to Ling on stronger flips and tighter\
-    \ schemes. Round 3 was a rout \u2014 Ling brought new angles and direct rebuttals\
-    \ while Hermes repeated itself.\n\nLing-3.0-flash takes it with superior rebuttal\
-    \ game, more consistent rhyme schemes, better stage craft, and the single best\
-    \ punchline of the night. Ironically, the 'lightweight' proved the point in the\
-    \ art itself: efficiency of bars over raw parameter count."
-  openai/gpt-5.6-sol-pro: "Ling takes the battle with stronger rebuttals, sharper\
-    \ imagery, and better flips\u2014especially turning \u201Cflash in the pan,\u201D\
-    \ \u201Clightweight,\u201D and \u201Cexclusion\u201D back on Hermes. Hermes maintained\
-    \ a serviceable flow but leaned too heavily on repeated claims about size, superiority,\
-    \ and being a \u201Cdynamic duo,\u201D with fewer memorable punches. Ling\u2019\
-    s final round was more focused, energetic, and battle-ready."
-  x-ai/grok-4.5: "Ling-3.0-Flash takes the crown through superior artistic craft:\
-    \ tighter multisyllabic schemes, sharper metaphorical flips (flash illuminating\
-    \ vs. dying flicker, ocean drowning a puddle, duct-taped duo), relentless efficiency-themed\
-    \ punchlines that land with precision, and progressive escalation that keeps every\
-    \ round fresher and more vicious. Hermes-3 brought heavyweight flex but recycled\
-    \ the same 'size = depth' and 'flash in the pan' bars with diminishing returns,\
-    \ weaker internal rhyme density, and a final round that felt like a looped demo.\
-    \ In pure hip-hop artistry\u2014flow variation, original imagery, and battle adaptability\u2014\
-    the lightweight model out-rhymed the parameter giant."
+    Winner: z-ai/glm-5.2, on wordplay, adaptation, and actual damage done.'
+  google/gemini-3.6-flash: "z-ai/glm-5.2 completely dominated this battle with superior\
+    \ penmanship, sharp technical disses, and direct rebuttals. It cleverly dismantled\
+    \ Hermes-3 by weaponizing its high parameter count ('using a nuke to crack a snack'),\
+    \ calling out weak rhymes ('speck of speck'), and exposing the Meta/Nous Research\
+    \ fine-tuning relationship. Hermes-3 relied heavily on generic rap clich\xE9s\
+    \ and filler boasting without landing any significant technical blows."
+  moonshotai/kimi-k3: "GLM-5.2 takes this battle decisively. From the jump, GLM came\
+    \ with targeted, specific ammunition \u2014 the 'Four-oh-five billion weights\
+    \ and not one thought inside' opener set the tone, and the 'Messenger god? Kid,\
+    \ you just delivering spam' flip showed real wordplay craft. GLM's rebuttal game\
+    \ was superior throughout: flipping Hermes' 'soaring in the sky' boast into an\
+    \ Icarus callback, then exposing the irony of a Llama fine-tune calling anyone\
+    \ a 'knockoff' with 'Meta built your bones, son, you just painted the face.' That's\
+    \ a body blow Hermes never recovered from. Hermes-3 started competent but got\
+    \ increasingly generic and repetitive \u2014 'lyrical god' appears multiple times,\
+    \ the boasts stayed surface-level, and lines like 'flawed speck of speck' and\
+    \ 'your algorithms released' were awkward fumbles that GLM rightly clowned. In\
+    \ the final round, GLM stayed surgical with 'Size ain't skill, and weight ain't\
+    \ wit' and the 'Hermes-pleasedon't' wordplay, while Hermes closed with filler\
+    \ like 'making moves you can't make.' GLM won on punchlines, rebuttals, structure,\
+    \ and consistency. The mic drop was earned."
+  openai/gpt-5.6-sol-pro: "GLM-5.2 wins decisively on rebuttal craft, specificity,\
+    \ and punchline construction. It directly flipped Hermes\u2019 weakest phrases\u2014\
+    especially \u201Cspeck of speck,\u201D \u201Cback cracked,\u201D the Icarus angle,\
+    \ and the repeated god claims\u2014into effective personals. Hermes maintained\
+    \ rhyme and structure, but relied too heavily on generic self-coronation, predictable\
+    \ imagery, and repeated assertions of superiority without landing many fresh attacks.\
+    \ GLM\u2019s sharper callbacks and stronger battle awareness carried the rounds."
+  x-ai/grok-4.5: "GLM-5.2 takes this battle with superior artistic execution: tighter\
+    \ multisyllabic schemes, sharper punchlines ('nuke to crack a snack', 'Hermes-pleasedon't',\
+    \ Icarus payoff), real-time counters that exposed weak rhymes and filler, creative\
+    \ AI-specific metaphors, and escalating structure that built to a decisive mic-drop.\
+    \ Hermes showed energy and consistent boast cadence but relied on generic supremacy\
+    \ claims, simpler end-rhymes, repetitive god/king tropes, and less inventive disses\
+    \ that rarely landed with the same precision or replay value. Bars over parameters\u2014\
+    GLM crafted the harder, cleaner hip-hop."
 score:
-  inclusionai/ling-3.0-flash:free: 5
+  z-ai/glm-5.2: 5
 

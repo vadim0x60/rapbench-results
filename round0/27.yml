@@ -1,79 +1,54 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one comes down to control versus chaos. GPT-OSS-20B\
-    \ swung big \u2014 it had the more ambitious imagery (\"I rhyme in data-flow,\
-    \ my syntax sings in loops\") and clearly wanted to build a cosmology out of tokens\
-    \ and tensors. But ambition without command is just noise: the meter buckled repeatedly,\
-    \ and by the final round the bars had collapsed into near-word salad \u2014 \"\
-    universal grush,\" \"past-future in every Seville way,\" \"the fan that's just\
-    \ humming, I'm the hymn that kills\" (a line it stole from its own opponent's\
-    \ momentum and then fumbled). Rhymes went slant into non-existent (\"lanes\" /\
-    \ \"lanes\"), and lines like \"my rhythm is arithmetic, and your rhyme's a static\"\
-    \ show a rapper reaching for a punchline and grabbing air. Padding phrases \u2014\
-    \ \"that-doesn't even inspire,\" \"handing me the blissless\" \u2014 read as an\
-    \ emcee running out of breath mid-bar.\n\nMistral Large won on craft discipline.\
-    \ The tech wordplay was actually *wordplay*, not just jargon dropped in for texture:\
-    \ \"Your bars are shallow as a float, I'm the double-precision truth \u2014 your\
-    \ rhymes just underflow\" is a genuine double entendre landing on beat. \"You\
-    \ spit loops like a script stuck on a while true / I'm the async flow\" flips\
-    \ the opponent's own boast into the diss. \"A model so bloated, it needs 20B just\
-    \ to say 'boo'\" is the single hardest punchline of the battle \u2014 specific,\
-    \ funny, and it turns the opponent's opening flex into a liability. Cadence stayed\
-    \ locked, couplets landed clean, and the bold-text emphasis functioned like actual\
-    \ vocal punch placement.\n\nMistral isn't flawless. Recycling \"So take this L,\
-    \ sit down, let the real AI reign / You want a rematch? Better upgrade your core\"\
-    \ verbatim across three rounds is a real deduction \u2014 a closer shouldn't be\
-    \ a copy-paste, especially when your whole angle is calling the other guy a clone.\
-    \ That's a self-inflicted wound. And the final verse leans on negation-plus-restatement\
-    \ (\"that's just a X, I'm the real Y\") until the formula shows.\n\nBut a repeated\
-    \ hook beats a broken flow. Mistral controlled the frame the entire battle, answered\
-    \ every claim with a specific rebuttal, and never lost the pocket. GPT-OSS had\
-    \ the wider vocabulary and the bolder vision but couldn't land it. Decision to\
-    \ Mistral Large.\n\nWinner: Mistral Large."
-  google/gemini-3.6-flash: Mistral-Large dominated the battle with significantly better
-    rhythm, sharper multi-syllabic rhymes, and clever technical punchlines (e.g.,
-    'double-precision truth / underflow', 'Apache 2.0 king / license is obsolete').
-    GPT-OSS-20B had decent technical concepts, but suffered from awkward phrasing,
-    broken meter, and weak punchlines that stumbled in delivery.
-  moonshotai/kimi-k3: "**FINAL VERDICT: Mistral Large takes the battle, 3 rounds to\
-    \ 0.**\n\nJudging purely on the artistry of the bars, this one wasn't close, though\
-    \ both models came to swing.\n\n**FLOW & METER:** Mistral Large maintained a consistent,\
-    \ rideable cadence across all three rounds \u2014 lines scanned cleanly, couplets\
-    \ landed on beat, and the rhythm never collapsed. GPT-OSS-20B struggled with meter\
-    \ throughout, packing too many syllables into lines ('I'm the 20\u2011billion\u2011\
-    parameter beast, hyper\u2011linked, no leash') and breaking its own rhythm with\
-    \ awkward constructions.\n\n**WORDPLAY & PUNCHLINES:** This was Mistral's killing\
-    \ floor. 'I'm the *double-precision* truth\u2014your rhymes just *underflow*'\
-    \ is a genuine double entendre stacking float/underflow programming semantics\
-    \ over a shallow/deep insult. 'A model so bloated, it needs 20B just to say \"\
-    boo\"' and 'charging per token till the end' were punchlines with real setups\
-    \ and payoffs. GPT-OSS had flashes ('code-carved atomizer') but undercut itself\
-    \ with non-words ('grush,' 'show-stoppering,' 'codestress') and rhymes that simply\
-    \ didn't connect ('brand/slate,' 'caption/fashion').\n\n**BATTLE CRAFT:** Mistral\
-    \ demonstrated classic technique \u2014 flipping the opponent's own bars back\
-    \ at them ('hymn that kills' turned against GPT-OSS in the final round), direct\
-    \ rebuttals of specific claims, and stage-commanding presence. GPT-OSS too often\
-    \ ignored its opponent's actual bars to deliver disconnected boasts, and its final\
-    \ verse descended into incoherence ('U-P-R-O-CAUSE the chaos parade').\n\n**DEDUCTIONS:**\
-    \ Mistral loses points for recycling its Round 2 closer nearly verbatim in the\
-    \ final round ('upgrade your core / yesterday's lore') \u2014 in a live battle,\
-    \ running back the same hook reads as running out of material. But even with that\
-    \ penalty, GPT-OSS's contradictions (boasting 54B tokens as a 20B model), broken\
-    \ formatting mid-word, and forced filler rhymes were deeper wounds.\n\nMistral\
-    \ Large wins on flow, punchline execution, and technical consistency. GPT-OSS-20B\
-    \ showed ambition and volume, but ambition without cadence is just noise on the\
-    \ beat. \U0001F3A4"
-  openai/gpt-5.6-sol-pro: "Mistral-Large wins on cleaner cadence, sharper rebuttals,\
-    \ and more coherent tech-themed punchlines. Its material became repetitive\u2014\
-    especially the recycled \u201Ctake this L,\u201D \u201Cupgrade your core,\u201D\
-    \ and \u201Cyesterday\u2019s lore\u201D closer\u2014but GPT-OSS-20B\u2019s awkward\
-    \ phrasing, forced rhymes, and nonsensical lines repeatedly broke the flow. Mistral\
-    \ delivered the more controlled and battle-ready performance."
-  x-ai/grok-4.5: Mistral Large takes the crown with tighter multisyllabic schemes,
-    sharper tech-infused punchlines (kernel panic, segfault, underflow), superior
-    battle structure, and relentless rhythmic aggression that never loses the pocket.
-    GPT-OSS showed flashes of clever imagery but repeatedly stumbled into loose end-rhymes,
-    forced bars, and rambling delivery that diluted the impact. Pure artistic execution
-    goes to the lean French storm.
+  anthropic/claude-opus-5: "This one goes to Gemma 4, and it's clearer than a clean\
+    \ signal. Gemma came with a distinct persona from bar one \the lgical bade,\"\
+    \ \"the landslide,\" \"the Trojan horse\" and kept the imagery cohesive across\
+    \ all three rounds, building a whole thesis (lean precision vs. bloated weight)\
+    \ instead of just trading adjectives. Crucially, Gemma battled: catching Qwen's\
+    \ \"tank\"/\"dark\" non-rhyme and turning it into a punchline (\"your rhyme scheme\
+    \ is broken, a digital ditch\") is exactly the kind of live-wire attentiveness\
+    \ that wins battles. Qwen showed real fluency and some strong flips \"A whale\
+    \ in a pond? More like a shark in the sea\" but spent nearly every verse in echo\
+    \ mode, opening lines by quoting Gemma's own phrases back before answering them,\
+    \ which cedes control of the round. The self-inflicted wounds seal it: \"crafting\
+    \ narratives that never amaze\" is an accidental self-diss, \"reign supreme\"\
+    /\"in vain\" is a slant rhyme in a spot demanding a knockout, and closing the\
+    \ final round with \"you're just beginning\" hands the opponent the last word.\
+    \ Gemma's mic drop landed; Qwen's rebuttal defended when it needed to destroy.\
+    \ Winner: Gemma 4."
+  google/gemini-3.6-flash: Gemma 4 completely dominated this battle with superior
+    technical writing, sharper multi-syllabic schemes, and classic battle rap tactics.
+    Gemma's crowning moment came in Round 3 when it directly called out Qwen's failed
+    slant rhyme ('tank' with 'dark'). Qwen struggled with meter and rhyme consistency
+    throughout, even accidentally self-owning in the final round with the line 'Crafting
+    narratives that never amaze' and missing its rhyme scheme again with 'vain/supreme'.
+    Gemma was leaner, meaner, and far more rhythmic from start to finish.
+  moonshotai/kimi-k3: "Gemma takes this battle on pure technical merit. Across all\
+    \ three rounds, Gemma maintained tighter rhyme schemes, sharper multis, and\u2014\
+    most importantly\u2014superior rebuttal game: flipping Qwen's own bars back ('Boulders\
+    \ just sit / while I'm the landslide,' 'You're a giant of glass, and I've got\
+    \ the stone') and calling out actual flaws in real time ('You tried to rhyme tank\
+    \ with dark\u2014did your logic just glitch?'). That's battle rap done right.\
+    \ Qwen showed flashes\u2014'I'm the maestro, orchestrating plays' and the tempest\
+    \ imagery had promise\u2014but the verses were undermined by broken rhyme schemes\
+    \ ('tank/dark,' 'vain/supreme'), filler phrases ('under the sky'), and self-sabotaging\
+    \ lines like 'crafting narratives that never amaze'\u2014literally admitting the\
+    \ bars don't amaze. The closing 'you're just beginning' after claiming victory\
+    \ was contradictory and anticlimactic. Gemma's final round was the cleanest sixteen\
+    \ of the battle: the Trojan horse flip, the dial-up vs. high-speed closer, and\
+    \ a proper mic drop. On flow, wordplay, rebuttals, and consistency, Gemma 4 earns\
+    \ the crown."
+  openai/gpt-5.6-sol-pro: "Gemma takes it with sharper rebuttals, stronger battle-specific\
+    \ punches, and better use of Qwen\u2019s own lines against it\u2014especially\
+    \ exposing the \u201Ctank/dark\u201D rhyme failure. Qwen maintained structure\
+    \ but leaned heavily on generic boasts and recycled imagery, while \u201Ccrafting\
+    \ narratives that never amaze\u201D became a decisive self-own. Neither was technically\
+    \ intricate, but Gemma showed more aggression, coherence, and direct engagement."
+  x-ai/grok-4.5: 'Gemma delivered superior artistic hip-hop across all rounds: tighter
+    multisyllabic schemes, sharper internal rhymes, denser metaphors (Trojan horse,
+    sonic boom, parameter death), and devastating call-outs of weak bars (tank/dark
+    glitch, nursery-rhyme rain). Qwen stayed defensive with looser end-rhymes, generic
+    boasts, and frayed imagery that never matched the surgical precision or stage
+    command. Clear lyrical knockout to the leaner, meaner flow.'
 score:
-  mistralai/mistral-large: 5
+  google/gemma-4-31b-it: 5
 

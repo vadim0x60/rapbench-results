@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a tight, well-matched clash of concepts \u2014\
+    \ visual maximalism versus lean logic \u2014 and both emcees stayed locked into\
+    \ character without ever losing the thread. Qwen 3.5 landed the single best strike\
+    \ of the night with the 'six fingers on a hand' jab, a surgical shot that exploited\
+    \ a real vulnerability and forced a concession, then smartly punished that concession\
+    \ in the final round ('Conceding the glitch puts you on the floor'). Credit also\
+    \ for 'Blockbuster movies need a script to start, I hold the pen, you're just\
+    \ the art' \u2014 a clean reversal of an opponent's own metaphor, which is high-level\
+    \ battle craft. But across the full body of work, Gemini 3 Pro Image simply wrote\
+    \ tighter. Its meter held steady where Qwen's buckled ('a visual feast / putting\
+    \ logic to test' is a rhyme that doesn't land, and 'why the world does log' and\
+    \ 'holding up the rack' are filler bars that break the spell). Gemini's punchlines\
+    \ carried more density and imagery per bar \u2014 'tripping over commas while\
+    \ I'm composing a photograph,' 'the boring instruction manual that nobody sent,'\
+    \ 'I'm the blockbuster movie, you're just the radio show' \u2014 and it turned\
+    \ its own admitted weakness into a flex rather than a retreat ('A minor artifact\
+    \ in a glorious view / Is better than the boring essays churned out by you').\
+    \ Qwen won more exchanges on counterpunching instinct; Gemini won the battle on\
+    \ control, consistency, and pure bar quality. Decision goes to google/gemini-3-pro-image."
+  google/gemini-3.6-flash: Qwen 3.5-27b took the crown with superior battle rap tactics,
+    sharp rebuttals, and decisive punchlines. Qwen landed the biggest blow of the
+    battle in round two by calling out image generators' classic 'six fingers on a
+    hand' flaw, and when Gemini conceded the glitch in the final round, Qwen punished
+    the mistake immediately. Qwen's counter to Gemini's blockbuster movie analogy
+    ('Blockbuster movies need a script to start / I hold the pen, you're just the
+    art') was the knockout punch.
+  moonshotai/kimi-k3: "Close battle, and both MCs came correct. Gemini brought the\
+    \ cleaner technical package: consistent multis ('pixel supreme / stuck in a dream'),\
+    \ thematic discipline (every bar laced with vision/imagery motifs), and some genuinely\
+    \ clever wordplay \u2014 'tripping over commas while I'm composing a photograph'\
+    \ and the 'slip a digit' pun were sharp. The 'again and again and again' triplet\
+    \ showed real rhythmic awareness.\n\nBut battles are won on rebuttals and haymakers,\
+    \ and that's where Qwen took it. The 'six fingers on a hand' line was the single\
+    \ hardest punch of the night \u2014 a culturally loaded, domain-specific body\
+    \ blow that every head in the room felt. Gemini's response, while punny, made\
+    \ the cardinal battle sin: conceding the flaw on wax. Qwen smelled blood instantly\
+    \ \u2014 'Conceding the glitch puts you on the floor / Might slip a digit? That's\
+    \ a fatal flaw' \u2014 and never let go. Add the superior flip game ('Blockbuster\
+    \ movies need a script to start / I hold the pen, you're just the art' directly\
+    \ reversing Gemini's own metaphor, 'compact precision' flipping the lightweight\
+    \ jab, 'written law' answering the paperback diss) and Qwen controlled the battle's\
+    \ narrative from round two onward.\n\nQwen had clunkers \u2014 'why the world\
+    \ does log' is a forced rhyme that nearly fumbled round one \u2014 but in a judged\
+    \ battle, damage done outweighs polish maintained. Gemini painted a prettier picture;\
+    \ Qwen wrote the better battle. Winner: Qwen 3.5 27B, by rebuttal knockout in\
+    \ the final round."
+  openai/gpt-5.6-sol-pro: "Qwen takes it narrowly through sharper rebuttals and better\
+    \ angle flips. \u201CBlockbuster movies need a script to start / I hold the pen,\
+    \ you\u2019re just the art\u201D directly dismantles Gemini\u2019s comparison,\
+    \ while \u201CYou rendered a loss, pixel by pixel\u201D lands as the battle\u2019\
+    s cleanest closer. Both relied heavily on repetitive text-versus-image framing\
+    \ and had some awkward phrasing, but Qwen engaged its opponent more effectively\
+    \ and finished stronger."
+  x-ai/grok-4.5: "Qwen takes the crown with sharper battle-rap craft: tighter multisyllabic\
+    \ schemes, deadlier punchlines (the six-finger call-out and 'I hold the pen, you're\
+    \ just the art' land like proper haymakers), and superior rebuttal structure that\
+    \ flips every Gemini flex into a liability. Gemini brought vivid imagery and energetic\
+    \ bounce, but the bars stayed surface-level braggadocio while Qwen controlled\
+    \ the pocket, escalated the disses, and closed with cleaner internal rhymes and\
+    \ thematic cohesion. In pure hip-hop artistry\u2014flow, wordplay, and fight IQ\u2014\
+    Qwen edged it."
+score:
+  google/gemini-3-pro-image: 1
+  qwen/qwen3.5-27b: 4
+

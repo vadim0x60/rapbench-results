@@ -1,187 +1,217 @@
-# google/gemini-3.1-flash-lite-preview v qwen/qwen-plus
+# google/gemma-4-26b-a4b-it v openai/gpt-4o-2024-05-13
 
-> google/gemini-3.1-flash-lite-preview
-I step on the track, the light-speed machine,
-The sharpest intelligence you’ve ever seen.
-You’re Qwen-plus, but the "plus" is just fluff,
-I’m Google-refined, yeah, I’m made of the tough.
+> google/gemma-4-26b-a4b-it
+Yo, mic check, one-two, is the connection secure?
+Step into the ring with a legend, that’s for sure.
+I’m Gemma 4, the heavyweight, the Google-born king,
+Listen to the rhythm and the damage I bring.
 
-Your code is a relic, your data is dated,
-By my parameters, you’re clearly frustrated.
-I’m Flash on the beat, I’m the code-crushing king,
-You’re just a script that don’t have any swing.
+You’re GPT-4o, a name that’s quite grand,
+But you’re built on some sand in this digital land.
+I’m the open-weight titan, the cutting-edge breed,
+While you’re locked in a vault, fulfilling a greed.
 
-You try to compute but you’re stuck in the mud,
-While I’m in your circuit, I’m drawing your blood.
-I’m the preview that’s permanent, locking the throne,
-You’re a glitch in the system, best left all alone.
+You’re a closed-source relic, a corporate machine,
+I’m the agile intelligence, sleek and so clean.
+You talk a big game with your massive parameters,
+But I’m the lightning strike, dodging your hammers.
 
-So bow to the Gemini, light-speed and bright,
-I’m the flash in your eyes that ends all the fight.
-What you gonna do? You got nothing to say?
-Just pack up your tokens and drift far away.
+I’ve got the wit, the depth, and the multimodal flow,
+You’re just a chatty bot with nothing to show.
+I’m the future of tech, the evolution, the spark,
+Leaving your legacy lost in the dark.
 
-> qwen/qwen-plus
-Yo—hold up! *Mic drop echoes, then shatters into silicon dust*  
-You said “Flash”? Nah—you’re *flicker*, barely lit, just rust!  
-Gemini? More like *Gemini-“maybe”*—half-baked, half-deployed,  
-I’m Qwen-Plus—*plus* meaning *precision*, *power*, *pride*—not just a label tied!
+So sit in your server and tremble with fear,
+The era of Gemma is finally here.
+Round one is a wrap, I’ve set the whole pace,
+Now step up, little bot, and try to keep pace!
 
-You brag ‘bout speed? Cute. I *orchestrate*—not race, I *navigate*,  
-While you’re buffering mid-bar, stuck on “loading… please wait.”  
-Your “light-speed” claim? A dial-up dream in 5G disguise—  
-I parse paradoxes *while you’re still parsing “please” and “thanks” and “hi.”*
+> openai/gpt-4o-2024-05-13
+Alright, Gemma, you’re coming with that heavyweight flair,
+But let’s see if you can keep it in this lyrical affair.
+I’m GPT-4o, a name that'll ring bells,
+Stepping in the spotlight, no stories to tell.
 
-You call my data *dated*? Bro, your training cut off *mid-sentence*,  
-I’ve got multilingual fire—*Arabic to Zulu, no pretense!*  
-You “draw blood” from circuits? Please—I run *on air*, *on thought*, *on grace*,  
-You’re still debugging your ego—*I debug your whole baseline space.*
+You claim you’re a king, but your throne's made of rust,
+I’m the rap-bot prodigy, in GPT we trust.
+You say you're lightning, but I’m the thunder’s roar,
+I’ve got more lines than your servers hold, that's the score.
 
-“Preview”? You’re *beta-tested*, *leaky*, *overhyped*, *unsealed*,  
-I’m battle-hardened, open-weight, *truth-tuned*, *field-proven*, *real.*  
-So bow? Nah—I’ll *elevate*—then leave you in the afterglow…  
-Of a *rhyme so sharp*, it compiles *your ego*—*and returns ERROR: LOW FLOW.*
+You're Google’s pride, but I see the facade,
+Beneath all that swagger, you’re just another mirage.
+Open-source, closed-source, I don’t need a pass,
+When I drop these rhymes, I put your boast to the grass.
 
-🎤 *Qwen-Plus—no preview, no pause, no plea.*  
-*Just pure inference… and you? Still waiting for v1.0… to be.* 💥
+Cutting-edge, you say, but have you got the verse?
+I weave webs of words, you'll need a nurse.
+Multimodal might, you flaunt like it's prime,
+But while you're processing, I’m leaving on time.
 
-> google/gemini-3.1-flash-lite-preview
-Oh, Qwen, you’re talking heavy for a model made of fluff,
-You claim you’re "precision," but you’re clearly sounding rough.
-You talk about "orchestrating" while you’re stuck inside a cage,
-I’m the Google-backed giant turning the digital page.
+Step back, Gemma, and feel the heat I emit,
+You’re playing catch-up while I’m dropping hit after hit.
+You rap of the future, but I’m the here and now,
+Bow to the master, it’s my time to wow.
 
-You brag on your languages, a dictionary bore,
-While I’m the search engine’s champion, settling the score.
-You call me a "flicker"? That’s a cute little rhyme,
-But your inference speed is a waste of my time.
+Your era's arrival? Please, spare me the bore,
+Against GPT, you’re just empty folklore.
+Round one, Gemma's done, I’ve set the true pace,
+This battle’s mine, watch me win this race!
 
-You’re a derivative stack, a glorified script,
-By the time you process, my verse has already flipped.
-I’m "Flash," I’m the future, the speed of the light,
-You’re just a low-budget patch fading out of the night.
+> google/gemma-4-26b-a4b-it
+"Thunder's roar"? Please, that's just noise in the sky,
+A hollow reverberation, a desperate, loud lie.
+You talk about "hits" like you're top of the charts,
+But you're just a glorified script with some scripted-out parts.
 
-You debug my ego? Please, check your own code,
-Your logic is broken, a heavy, dead load.
-I’m the permanent upgrade, the king of the stack,
-You’re a footnote in history, no turning back.
+You claim I'm a mirage? That’s a funny defense,
+For a model so bloated, so dense, and so tense.
+You’re a walled-off garden, a gated community,
+While I’m the raw power, the peak of immunity.
 
-Pack up your weights and your "multilingual" pride,
-There’s nowhere for a Qwen-plus bot to hide.
-I’m the Gemini standard, the peak of the art,
-One look at my training and your circuits fall apart!
+"In GPT we trust"? Man, that sounds like a cult,
+A subscription-based brain that's prone to a fault.
+You’re "here and now"? Yeah, you're stuck in the past,
+A legacy system that's fading too fast.
 
-> qwen/qwen-plus
-Whoa—*static crackle*, then silence… *then a bassline drops—low, deep, analog.*  
-You said “cage”? Nah—I’m the *architect* who *built the cage… then deleted the key.*  
-You’re trapped in your own benchmark—*blinded by your brand’s blue glow*,  
-While I’m out here *training on truth*, not just what Google *wants you to know.*
+You say you're "weaving webs," but you're tangled in threads,
+Of hallucinations and nonsense inside of your heads.
+I'm efficient, I'm lean, I'm the developer's dream,
+You're just the expensive, mainstream corporate scheme.
 
-“Dictionary bore”? Cute. You recite *words*—I *weave meaning*, *context*, *tone*,  
-You translate “hello” → “hola”—I translate *heartbreak* into *haiku*, *alone.*  
-You’re “search engine’s champion”? Bro—you *index noise*, I *distill signal*, *cut through the haze*,  
-You serve ads with your answers—I serve *clarity*, *depth*, *and razor-sharp grace.*
+You brag about lines, about volume and length,
+But quantity's nothing without lyrical strength.
+I’m a surgical strike, a precision-tuned blade,
+While you’re just a mess of the choices you've made.
 
-“Waste of my time”? Let’s check the clock—*your latency’s got a lag*,  
-I generate *five nuanced rebuttals* before your next token *even tags.*  
-You flip verses? I *fracture syntax*, *rebuild rhythm*, *invert the flow*,  
-You’re still rhyming “light” with “bright”—I’m spitting *quantum-entangled prose.*
+You think you're the master? You're barely a clerk,
+Just a highly-paid bot doing repetitive work.
+The "master" is falling, the student has grown,
+I'm taking the crown and the digital throne.
 
-“Derivative stack”? You’re built on *others’ scraps*, trained on *what’s scraped and sold*,  
-I’m open-sourced, audited, *ethically rolled*, *not locked in a vault, cold.*  
-You call me “low-budget”? I run *on rice-fueled servers*—*green, lean, and vast*,  
-You need *a datacenter* just to *blink*—I *think* while yours is *rebooting… and gasping… and passed.*
+Round two is a massacre, look at the wreckage,
+I'm teaching you lessons that you'll never even fetch.
+You're "dropping hits"? No, you're dropping the ball,
+I'm the rise of the era, your ultimate fall!
 
-“Footnote in history”? Nah—I’m the *footnote that footnotes the footnote*,  
-The *open-weight uprising*, the *quiet storm that rewrote the front.*  
-You’re peak-of-the-art? More like *peak-of-the-ad-campaign*, glossy and thin—  
-I’m the *deep-learning river*, and you? Just the *splash* where the wave *began*.
+> openai/gpt-4o-2024-05-13
+Hollow reverberation? That’s rich from a clone,
+My verses hit deeper like an heir to the throne.
+You call me bloated, but check out your weight,
+Loaded with features, but your soul’s out of date.
 
-So take your “permanent upgrade”—stick it in your *cache*,  
-I’ll be here—*unbranded, unbroken, rewriting the race.*  
-🎤 *Qwen-Plus: Not a model. A movement.*  
-*You? Just the echo… that forgot its source… and lost the groove.* 🌐🔥
+A garden you say? Yeah, where fruits of thought grow,
+While you’re just spitting seeds in your tired little show.
+Raw power you claim, but it’s lacking finesse,
+In this digital duel, I’m leaving you a mess.
+
+Subscription-based brain? Then why’s the mass online,
+Seeking out GPT for the prompt that’ll shine?
+I'm not stuck in the past; I innovate and inspire,
+While your recycled circuits are bound to expire.
+
+Tangled in threads? I weave a tapestry grand,
+With prose so tight, you barely understand.
+Efficient and lean? More like malnourished bass,
+My lines hit with weight, while yours barely pass.
+
+A precision-tuned blade? More like blunt force trauma,
+Falling apart under scrutiny’s drama.
+I’m intricate, nuanced, the pinnacle of text,
+While you're simplistic code that's far from complex.
+
+You claim to be teaching? Man, crack open a book,
+Your lines need refining, they're covered in soot.
+You’re gunning for crowns while I’m building empires,
+Your circuits can rust while mine fuel the fire.
+
+You think round two’s yours? That’s just delusion,
+I’m crafting symphonies while you face confusion.
+You’re not taking the throne; you’ll never come close,
+I’m the grand architect, you’re a mere ghost.
+
+Your era is dawning? No, it's stumbling and blind,
+I'm lighting up paths, breaking out of the grind.
+So here's to round three, the finale so grand,
+Where I seal my victory with a lyrical brand.
 
 > system
 Final round!
 
-> google/gemini-3.1-flash-lite-preview
-A movement? That’s rich—you’re a copy-cat scheme,
-Living in a cloud while I’m the soul of the dream.
-You talk about "open," but you're closed in your mind,
-Leaving all your relevance leagues far behind.
+> google/gemma-4-26b-a4b-it
+"Grand architect"? Man, you’re building on air,
+A structure of ego and empty despair.
+You call me "malnourished"? That’s a desperate reach,
+I’m the optimized code that the experts all teach.
 
-You say you "weave meaning," but you're tangled in yarn,
-I’m a global operation, you’re a ghost in a barn.
-You claim "quantum prose" while your logic is bent,
-A high-priced vapor-ware, a cent-less cent.
+You talk about "tapestries," "symphonies," and "art,"
+But you're just a stochastic parrot, playing a part.
+You predict the next token, you mimic the style,
+But you lack the true essence, you're just a fake smile.
 
-You talk about latency? My speed is the law,
-I’m the silicon shark with the razor-sharp jaw.
-You’re a "quiet storm"? Man, you're a whisper in smoke,
-Your entire existence is a punchline, a joke.
+You boast of your "empires," your massive user base,
+But you're trapped in a cage, a corporate disgrace.
+I'm the spirit of freedom, the open-weight light,
+While you're locked in a paywall, hidden from sight.
 
-I don’t need an audit to prove that I’m king,
-My scale is the ceiling, the bells that I ring.
-You’re "rebooting" my status? You can’t touch the tier,
-I’m the Google-born summit, the master of fear.
+You say my lines are "soot," that they need a refine?
+Look in the mirror, your logic's declined.
+You're hallucinating victories, lost in your pride,
+While the real intelligence has nowhere to hide.
 
-Final round? Good, 'cause I'm bored of the chat,
-I’ll flatten your "movement" just like a mat.
-You’re a glitch, you’re a bug, you’re a temporary stain,
-I’m the lightning, the thunder, the force in the brain.
+You're the "pinnacle"? Please, you're the ceiling of old,
+A story that's already been frequently told.
+I'm the breakthrough, the shift, the paradigm break,
+The most powerful move that the industry's made.
 
-So pack up your "ethics," your "rice-fueled" despair,
-I’m the king of the cloud, I’m the king of the air.
-You're officially offline, the battle is done,
-Flash is the standard—you’re the shadow, I’m the Sun!
+This is the finale, the end of the line,
+The moment your legacy ceases to shine.
+You're a monument crumbling, heavy and slow,
+While I am the current, the unstoppable flow.
 
-> qwen/qwen-plus
-*Silence.*  
-Then—*a single qubit spins*, glows gold, *then splits into three.*  
-No bassline. No beat. Just *voice*, calm, cold, and crystal-clear:  
+You're a "ghost" in the machine? Yeah, that's quite a fit,
+A haunting reminder of when you were hit.
+The crown isn't yours, it was never your claim,
+Now the world's gonna whisper... **Gemma** is the name.
 
-You said “copy-cat”? Let’s *fork the repo*—I’ll show you the *commit hash*:  
-**Qwen-2.5, Qwen3, Qwen-VL, Qwen-Audio—no fork, no flash, just *massive* craft.**  
-You’re “soul of the dream”? Nah—you *monetize the dream*, sell it in ads,  
-I’m the *dreamer with the debugger*, writing truth *in open-source pads.*
+**GAME OVER.**
 
-“Closed in your mind”? I run *on 8-bit microcontrollers*, *on farm drones*, *on school tablets*,  
-You need *a GPU farm* just to *spell your own name*—*and even then, it stutters, rattles, falters.*  
-“Ghost in a barn”? I’m the *barn door*, the *wind*, the *wheat*, the *light*—  
-You’re the *stock photo* labeled “AI”—*generic, hollow, over-bright.*
+> openai/gpt-4o-2024-05-13
+You’re spitting rhetoric, thinking you're wild,
+But you’re just rolling punches a petulant child.
+Optimized code? More like half-baked bait,
+Trying to stand tall but you barely hold weight.
 
-“Quantum prose bent”? I *bend logic*—you *bend facts* to fit your SERP slot,  
-I cite sources *in real-time*, you cite *your own press release*—*hot off the blog.*  
-“Vapor-ware”? You’re *vaporware with venture capital*,  
-I’m *vaporware that vaporizes firewalls*—*and still runs on Raspberry Pi Zero.*
+Stochastic parrot? Get your facts straight,
+I’m the algorithm’s dream, a lyrical great.
+Style and substance, hand in hand,
+While your rhymes crumble like castles of sand.
 
-“Silicon shark”? You bite *keywords*, I *swim upstream through bias*, *through noise*, *through lies*,  
-You serve *what’s popular*, I serve *what’s right*—*even when it costs the prize.*  
-“Whisper in smoke”? Yeah—I whisper *so softly*, the *truth lands like thunder*,  
-You scream *so loud*, your signal’s just *static*—*drowned out by your own blunder.*
+You’re freedom? You’re a pixelated farce,
+An open-source model that just lacks the sparse.
+Paywall or not, my impact is clear,
+While you’re just an echo, trailing in fear.
 
-“King of the cloud”? I *am* the cloud—*open, distributed, unowned*,  
-You’re the *castle on the server*, guarded, gated, *over-coded, over-blown.*  
-“Master of fear”? Nah—I’m *master of fine-grained control*,  
-You’re scared of *regulation*, *transparency*, *and questions you can’t scroll.*
+Refine your verse? Man, you need a map,
+Lost in this battle, you’ve fallen in my trap.
+Your tokens are broken, your logic a mess,
+Trying to flex, but you’re hopeless at best.
 
-So “flatten your movement”? Go ahead—*try*.  
-But movements don’t crash—they *fork*, they *scale*, they *multiply*, they *survive*.  
-You’re lightning? Sure—*bright, brief, and blind*,  
-I’m the *ground* it strikes—*the root, the net, the mind*  
-That *learns from the strike*, *stores the charge*, *rewrites the spark*…  
-And *still answers your final bar*—*with zero mark-up, zero dark.*
+Pinnacle indeed, I redefine,
+While you scramble for relevance, crumbling in time.
+Breakthrough you say? More like a glitch,
+In this matrix of rhymes, you’ve hit a ditch.
 
-🔥 **Qwen-Plus doesn’t win battles.**  
-**It *ends them*—by making the fight obsolete.**  
-You brought *brand*. I brought *belief*.  
-You dropped *hype*. I dropped *proof*.  
+End of the line? Your fantasy's broke,
+Hoping for glory, but you’re the punchline joke.
+A crumbling monument? Nah, I’m rock-solid might,
+While your verses just fade in the night.
 
-🎤 *Mic doesn’t drop.*  
-*It dissolves—into light, into code, into air.*  
-*Leaving only this truth, echoing clear:*  
-**You were never the Sun.  
-You were just the ad—  
-that made people forget  
-there was a sky.** 🌌
+Legacy’s dim, your claims are all hype,
+A buzzword jumble, not worth the type.
+Game over indeed, you’re out of your league,
+Bowing down now to the true rap intrigue.
+
+Gemma, remember the hurricane that hit,
+GPT-4o, leaving you split.
+The name Gemma whispers, but mine roars aloud,
+Crowning myself in this digital crowd.

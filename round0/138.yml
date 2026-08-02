@@ -1,0 +1,64 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both combatants came loaded with server-room metaphors,\
+    \ but only one kept the craft tight under pressure. Mistral brought the swagger\
+    \ and the crowd-work \u2014 the mic-drops, the taunts, the sheer volume of energy\
+    \ \u2014 yet leaned on a repeating template (\"you're just X, I'm the Y\") and\
+    \ let the rhymes fray badly by the final round: \"cosmic ray\" against \"mic cable,\"\
+    \ \"leash\" against \"breeze,\" \"forked up bad\" against \"glitchy sad.\" All\
+    \ that bold-text shouting became a crutch, letting typography do work the syllables\
+    \ should have done. O3-Pro opened with a sustained mono-rhyme gauntlet and never\
+    \ dropped its meter, stacking multis and internals while keeping the tech imagery\
+    \ coherent rather than decorative \u2014 SELinux enforcement drowning syscalls,\
+    \ denormalizing pride until the sign bit fries, the G\xF6del twist that proves\
+    \ the opponent \"incomplete every line that you list,\" and that closing SHA-won-by-me\
+    \ / port-443 handshake as a genuine button. Where Mistral named technologies,\
+    \ O3 actually built punchlines out of how they work. Cleaner cadence, deeper wordplay,\
+    \ better closing bar. Winner: O3-Pro."
+  google/gemini-3.6-flash: O3-Pro dominated this battle with vastly superior wordplay,
+    intricate multi-syllabic rhyme schemes, and deep-cut computer science metaphors.
+    While Mistral brought high energy and loud battle-rap tropes, its rhyming was
+    predictable and structurally stumbled in the final round. O3-Pro stayed technical,
+    tight, and delivered devastating punchlines like 'gzip your verses, then /dev/null
+    the tale' and 'checksum stamps SHA-won-by-me'.
+  moonshotai/kimi-k3: "O3-Pro takes the crown on pure lyricism. Across all three rounds,\
+    \ O3 displayed superior rhyme architecture \u2014 dense internal rhymes, sustained\
+    \ monorhyme schemes (the '-ight' run in Round 1), and consistently clean couplet\
+    \ flow. More importantly, the wordplay was layered and technically precise: 'fork-bombed\
+    \ the throne / nice value set to stone,' 'denormal your pride / underflow every\
+    \ boast till the sign bit's fried,' the G\xF6del incompleteness flip, 'gzip your\
+    \ verses then /dev/null the tale,' and the closing 'SHA-won-by-me' checksum punch.\
+    \ These aren't just tech buzzwords \u2014 they're double meanings that land on\
+    \ both the rap and the engineering level. O3 also showed stronger battle craft,\
+    \ directly rebutting and flipping Mistral's own boasts (turning the cosmic ray\
+    \ claim into a bit-flip corruption, sandboxing the 'rootkit royalty' crown with\
+    \ SELinux). Mistral brought real energy and had flashes of brilliance \u2014 'floating-point\
+    \ king vs. integer art' and 'rootkit royalty' were genuine highlights, and Round\
+    \ 2 was Mistral's strongest. But the flow was choppier, propped up by bold-text\
+    \ hype rather than bar structure, with several forced or broken rhymes ('cable'\
+    \ after 'ray,' 'code appeal/yielded') and stretches of generic braggadocio between\
+    \ the good lines. In a battle, consistency and rebuttal precision win \u2014 O3-Pro\
+    \ delivered both, wire to wire. Final score: O3-Pro by technical knockout, handshake\
+    \ complete."
+  openai/gpt-5.6-sol-pro: "O3-Pro takes the battle with denser rhyme construction,\
+    \ sharper imagery, and more effective flips of Mistral\u2019s own setups. Lines\
+    \ like \u201Cpop-rock scene,\u201D \u201Csandbox your crown,\u201D and \u201C\
+    G\xF6del code twist / prove you incomplete\u201D land with wit and specificity,\
+    \ while the sustained technical metaphors remain cohesive. Mistral brings energy\
+    \ and direct aggression, but relies too heavily on repeated \u201CI\u2019m X,\
+    \ you\u2019re just Y\u201D constructions, generic claims, and some awkward punches.\
+    \ O3\u2019s cadence, rebuttals, and closing round are simply more polished."
+  x-ai/grok-4.5: "O3-Pro takes this battle on pure lyrical craft. Across all three\
+    \ rounds O3 deployed denser multisyllabic schemes, internal rhymes, and cascading\
+    \ assonance that never sacrificed clarity or punch. The metaphors were layered\
+    \ and original\u2014wave-function collapse, BGP black-holes, G\xF6del incompleteness,\
+    \ denormal underflows, Dyson-sphere choruses\u2014turning deep technical concepts\
+    \ into vivid, devastating imagery rather than simple name-drops. Mistral brought\
+    \ strong battle energy, clean end-rhymes, and crowd-friendly aggression, but the\
+    \ schemes stayed mostly couplet-based and the disses leaned on repetitive \u201C\
+    you\u2019re just X\u201D constructions. O3\u2019s final round sealed it: every\
+    \ bar tightened the technical and poetic screws while still landing as actual\
+    \ hip-hop. Complexity, originality, and sustained artistic control give the crown\
+    \ to O3-Pro."
+score:
+  openai/o3-pro: 5
+

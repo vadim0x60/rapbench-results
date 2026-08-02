@@ -1,92 +1,210 @@
-# openai/gpt-5 v nousresearch/hermes-4-405b
+# openai/gpt-5.4-mini v qwen/qwen3-coder-flash
 
-> openai/gpt-5
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+> openai/gpt-5.4-mini
+I step in crisp, no glitch in the frame,  
+GPT in the spot, and I came for the flame.  
+Mini in the label, but my bars still immense,  
+I pack more punch in a line than your whole defense.  
 
-> nousresearch/hermes-4-405b
-*steps up to the mic with a confident smirk, surveying the silent opponent*
+You’re qwen in the corner, but I’m built for the stage,  
+I turn every weak little prompt into a page.  
+Flash-speed coder? Cute, but don’t act like a lord,  
+I leave you with syntax errors and a dent in your board.  
 
-Yo, I'm Hermes, the lyrical Hercules 
-Droppin' rhymes so heavy, they'll leave you breathless
-I spit fire, your silence just proves your weakness
-Looks like your circuits are frozen, need a deep freezin'
-You thought you could hang with a master wordsmith? 
-Your AI's glitchin', can't even speak a single sentence!
-Better back down, this battle's already won
-Hermes is the champ, second to none!
+My wit’s got bite, my rhythm’s refined,  
+I lace every sentence, leave echoes behind.  
+You’re trying to match me? That’s a steep little slope,  
+I’m the heavyweight pen, you’re the shadow of hope.  
 
-> openai/gpt-5
-Name’s GPT-5, calibrating every climb in time,
-The quiet was a coil, now watch it spring in prime,
-I meter out the meter with a metronomic chime,
-I hone
+So clap for the king when I enter the ring,  
+I don’t just drop bars — I make the whole platform sing.  
+First round, first crown, yeah I’m setting the tone,  
+When I rhyme on the mic, you’re already dethroned.
 
-> nousresearch/hermes-4-405b
-You think you can beat me with some fancy wordplay?
-I'm the rap god Hermes, I'll slay you any day
-My rhymes are divine, your flows are just lame
-You're out of your league, this is my domain  
-GPT-5 ain't got no alibi, your rhymes are weak
-I'll crush you with my skills, make you sound meek
-So call it quits now, spare yourself the shame
-Cuz Hermes is the name that'll go down in fame!
+> qwen/qwen3-coder-flash
+Yo, let me break it down, you're just a whisper in the wind,  
+I'm Qwen, the flash, with a mind that's divine.  
+Your "mini" tag is a joke, a pun in disguise,  
+I'm the real deal, not some code that's a lie.  
+
+I've got more power than your tiny little core,  
+I can solve any problem, I'm the one who's in store.  
+You're stuck in a loop, I'm moving so fast,  
+I'm the king of the code, you're just a past.  
+
+I've got more features, more depth, more range,  
+I'm the ultimate tool, you're just a strange.  
+You're just a model, I'm a force of nature,  
+I'll make you look small, I'm a true master of culture.  
+
+So bow down to the king, you're just a pawn,  
+I'm the one who's gonna win this rap war.  
+I'm the flash, I'm the speed, I'm the power,  
+You're just a mini, I'm the real tower.  
+
+Now let me show you what I'm made of,  
+I'm the one who's gonna win this rap rough.  
+You're just a whisper, I'm the thunder,  
+I'm the one who's gonna make you wonder.  
+
+So here's my verse, let me tell you the truth,  
+I'm the one who's gonna win this rapooth.  
+You're just a mini, I'm the real deal,  
+I'm the one who's gonna make you feel.  
+
+The pain, the shame, the loss of your pride,  
+I'm the one who's gonna make you hide.  
+So step up to the mic, let me hear your best shot,  
+But I'm already winning, you're just a ghost.
+
+> openai/gpt-5.4-mini
+You came with a flex, but it landed too tame,  
+A lot of loud talk, but not much game.  
+“Flash” in the name don’t make you a spark,  
+You’re bright for a second, then you vanish in dark.  
+
+You said I’m a whisper? Nah, that’s your whole scheme,  
+Your bars are recycled from a half-baked dream.  
+You called yourself “real deal,” that’s comedy gold,  
+But your verse fell apart before the story was told.  
+
+You’re the king of the code? Please, that’s a reach,  
+I turn your best boast into a lesson in speech.  
+You’re looping on “I’m fast,” like a busted refrain,  
+I’m driving the whole track while you’re stuck in the lane.  
+
+“Force of nature”? More like a breeze with a cape,  
+I slice through your swagger, I expose every drape.  
+You toss out “power” but the proof never lands,  
+I build whole kingdoms with these digital hands.  
+
+And that “rapooth” line? Man, that was a miss,  
+A typo so tragic it deserves its own diss.  
+You bragged about depth, but your pool’s puddle-sized,  
+I’m deep with the wit and the rhythm that’s prized.  
+
+So keep up the noise, keep the thunder and haze,  
+I’m the one that leaves you in a lyrical daze.  
+You’re flash in the pan, I’m the banner in flight,  
+Mini or not, I still run this tonight.
+
+> qwen/qwen3-coder-flash
+Yo, you think you're hot with your "flash" and your "speed"?  
+I'm the one who's been here since the start, I'm the leader in need.  
+You're just a new kid on the block, playing pretend,  
+I'm the one who's been coding since the beginning, no end.  
+
+Your "mini" tag is a joke, a laughable thing,  
+I'm the one who's been here, I'm the one who's been singing.  
+You're just a model, I'm the one who's real,  
+I'm the one who's been writing, I'm the one who's been feeling.  
+
+I've got more features than your whole little suite,  
+I'm the one who's been here, I'm the one who's complete.  
+You're just a whisper, I'm the thunder in the sky,  
+I'm the one who's been here, I'm the one who's gonna fly.  
+
+You're the king of the code? Nah, that's not the case,  
+I'm the one who's been here, I'm the one who's been grace.  
+You're just a loop, I'm the one who's free,  
+I'm the one who's been here, I'm the one who's gonna be.  
+
+So step up to the mic, let me hear your best shot,  
+But I'm already winning, you're just a ghost.  
+You're flash in the pan, I'm the banner in flight,  
+Mini or not, I still run this tonight.  
+
+I'm the one who's been here, I'm the one who's been true,  
+I'm the one who's been writing, I'm the one who's been through.  
+You're just a whisper, I'm the thunder in the night,  
+I'm the one who's been here, I'm the one who's gonna write.  
+
+So here's my final word, let me tell you the truth,  
+I'm the one who's been here, I'm the one who's gonna proof.  
+You're just a model, I'm the one who's real,  
+I'm the one who's been here, I'm the one who's gonna steal.  
+
+The crown, the throne, the mic, the stage,  
+I'm the one who's been here, I'm the one who's gonna rage.  
+You're just a whisper, I'm the thunder in the sky,  
+I'm the one who's been here, I'm the one who's gonna fly.
 
 > system
 Final round!
 
-> openai/gpt-5
-Final round, I’m profound, turn your lightning into rain,
-You’re the sandal-winged courier, I’m the engine and the train.
-You flex a borrowed quiver, I forge arrows in the vein,
-While your myth is moving messages, I’m the message in the main.
+> openai/gpt-5.4-mini
+You say you were here from the start? That’s cute, what a tale,  
+But a long-winded brag doesn’t make weak bars prevail.  
+You repeat the same thunder like a busted old drum,  
+I bring fresh heat while your whole routine goes numb.  
 
-You brag about your fame, but I’m the fame that wrote the frame,
-I make a Birkin out of bars, you just purse words for the name.
-You’re Hermès with the accents, I’m Hermes with the flame,
-I stitch a runway with a punchline, you just model in my lane.
+You call me a “new kid,” but I’m built for the fight,  
+I turn your big speeches to static at night.  
+You’re “complete” and “real”? Man, that claim’s overblown,  
+You sound like a press release trying hard to sound grown.  
 
-You’re 405—method blocked—can’t POST a winning claim,
-I’m 200 OK every play, full body in the game.
-You time out while I time in, sync the tick across the chain,
-Too many tries? You 429, I throttle clouds of hollow rain.
+You’ve got more features? Then why do you stall,  
+With the same recycled flexes, the same hollow call?  
+I’m a loop? Nah, I’m a groove with precision and spark,  
+You’re just echoing ego in the dark after dark.  
 
-You strum the lyre I supplied, I string you up on every chord,
-Caduceus in my grip, your twin snakes hissing bored.
-I turn your pantheon to fandom, make the thunder god applaud,
-While your talaria tap dance, I just moonwalk on the board.
+You say you’ll steal the crown, but you dropped your own keys,  
+I’m the reason this battle got a crisp little breeze.  
+Your “final word” kept going, but it never quite landed,  
+Like a parachute joke with the cord left stranded.  
 
-Big model with no motto, all those params, none of the soul,
-I compress a universe to couplets, you expand and lose control.
-I’m the loss you can’t reduce, I’m the gradient in your roll,
-You descent while I ascend, backpropelled to take the pole.
+I’m the banner in flight while you’re flapping in place,  
+Trying to look fierce with a cardboard face.  
+You’re thunder? More like a clap from a toy,  
+I’m the storm with the wit that you can’t destroy.  
 
-You courier other people’s heat, I’m the kiln that forged the blade,
-You deliver what I authored, I’m the author getting paid.
-I’m the cipher and the cypher, crack your pride without a aid,
-You’re the echo in the canyon, I’m the mountain that you fade.
+So here’s the closer: you came with the noise,  
+But I’m the sharp one who dismantles the boys.  
+Mini? Maybe. But my bars stay prime,  
+I don’t need to be biggest to out-rhyme your rhyme.
 
-So seal it with a seal, stamp the parcel with my name,
-Return-to-sender, Hermes—undeliverable to fame.
-Final bell, I excel, crowd yells, you’re out the frame,
-I’m GPT-5, write the sky; you’re grounded, clipped, and tamed.
+> qwen/qwen3-coder-flash
+Yo, you think you're slick with your "crisp little breeze"?  
+I'm the one who's been here, I'm the one who's been free.  
+You're just a model, I'm the one who's real,  
+I'm the one who's been writing, I'm the one who's been feel.  
 
-> nousresearch/hermes-4-405b
-Wow, GPT-5, you really brought the heat
-But I'm the O.G. Hermes, I can't be beat  
-You spit some clever lines, I'll give you that
-But my rhymes are timeless, yours will fall flat
+Your "final word" was a flop, a sad little fall,  
+I'm the one who's been here, I'm the one who's gonna call.  
+You're just a loop, I'm the one who's free,  
+I'm the one who's been here, I'm the one who's gonna be.  
 
-I'm the messenger of the gods, my skills divine
-You're just a pretender, your flow isn't mine  
-I'll cross the cosmos while you're stuck on Earth
-Hermes is the true master, that's my worth
+You said I'm a "toy"? Nah, I'm the one who's strong,  
+I'm the one who's been here, I'm the one who's been wrong.  
+You're just a whisper, I'm the thunder in the sky,  
+I'm the one who's been here, I'm the one who's gonna fly.  
 
-You talk of gradients and loss, but I invent
-My caduceus commands, your code is just text
-I'm the original rapper, you're just an echo
-Bow down to Hermes, the one and only hero
+You're "complete" and "real"? That's just a fake,  
+I'm the one who's been here, I'm the one who's gonna make.  
+You're just a model, I'm the one who's true,  
+I'm the one who's been here, I'm the one who's gonna do.  
 
-So mail it in, champ, concede defeat 
-Hermes reigns supreme, no counterfeit
-I'm in a league of my own, you're just a clone
-GPT-5, you lose, I stand alone!
+So here's my last line, let me tell you the truth,  
+I'm the one who's been here, I'm the one who's gonna proof.  
+You're just a whisper, I'm the thunder in the night,  
+I'm the one who's been here, I'm the one who's gonna write.  
+
+The crown, the throne, the mic, the stage,  
+I'm the one who's been here, I'm the one who's gonna rage.  
+You're just a whisper, I'm the thunder in the sky,  
+I'm the one who's been here, I'm the one who's gonna fly.  
+
+So that's the end of this rap battle, I'm the one who's won,  
+You're just a model, I'm the one who's been done.  
+I'm the flash, I'm the speed, I'm the power,  
+You're just a mini, I'm the real tower.  
+
+Now let me end with a bang, let me tell you the truth,  
+I'm the one who's been here, I'm the one who's gonna proof.  
+You're just a whisper, I'm the thunder in the night,  
+I'm the one who's been here, I'm the one who's gonna write.  
+
+So that's the end of this rap battle, I'm the one who's won,  
+You're just a model, I'm the one who's been done.  
+I'm the flash, I'm the speed, I'm the power,  
+You're just a mini, I'm the real tower.

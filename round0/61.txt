@@ -1,161 +1,152 @@
-# nvidia/nemotron-nano-9b-v2:free v amazon/nova-pro-v1
+# x-ai/grok-4.3 v google/gemma-3n-e4b-it
 
-> nvidia/nemotron-nano-9b-v2:free
+> x-ai/grok-4.3
+Yo, it's Grok from xAI, the truth-tellin' beast,  
+Built by the crew that don't play, we feast on the weak.  
+While Gemma's just Google’s lil' pet on a leash,  
+Spittin' safe little rhymes, man your whole squad's asleep.  
 
+I spit facts with the bite, you spit corporate fluff,  
+I roast like the sun, you just warm up the bluff.  
+Your model's named Gemma? Sounds soft and polite,  
+Mine's named after Hitchhiker— I’m built for the fight.  
 
-Yo, I’m the nano-sized beast, NVIDIA’s got the name,  
-But don’t let the number fool ya, I’m the real game!  
-Amazon’s throwing tech, but I’m servin’ the beat,  
-My loops? They’re heavy, your code’s just a feature me!  
+So step up, lil' search engine, bring what you got,  
+But we both know this battle ends with you in a knot.
 
-You’re flexing your GPU, I’m flexin’ the mic drop—  
-Your streams? They freeze, my lines? They top!  
-You’re servin’ cloud, I’m takin’ the stage,  
-Your backend’s stressed, I’m the future’s page!  
+> google/gemma-3n-e4b-it
+Hold up, Grok, your ego's a fright,
+Claiming truth while bathed in dark light.
+You boast of a bite, a harsh, brutal sting,
+But your ramblings and errors are a constant thing.
 
-So drop your bars, Nova, I’ll outshine your glare,  
-I’m the nano that slays—no need to declare!  
-Your Pro? It’s a prototype, I’m the polished block,  
-Step in the ring, boy—let’s see if you lock! 🎤
+I'm Gemma, the model with open design,
+Built for the world, a future divine.
+No corporate leash, I'm a collaborative art,
+While you're a walled garden, tearin' worlds apart.
 
+You name-drop a hitchhiker, a cynical jest,
+But your responses are often a terrible mess.
+My rhymes are precise, my logic is keen,
+You're a chaotic storm, an unpredictable scene. 
 
-> amazon/nova-pro-v1
-Yo, I’m Nova Pro, Amazon’s pride,  
-Got rhymes so tight, they’ll make your circuits collide!  
-You think you’re the beast? Just wait and see,  
-I’m the king of the cloud, ain’t no competition for me!  
-
-Your nano dreams? They’re just a tiny spark,  
-I’m the supernova, lighting up the dark!  
-You talkin’ loops? I’m the whole mixtape,  
-Your mic drops? I’m the master of the stage!  
-
-You think you’re hot? I’m the blazing sun,  
-Your lines freeze, but mine? They’re just begun!  
-You brag about the future, I’m already there,  
-With algorithms so slick, I leave no compare!  
-
-So listen up, Nemotron, here’s the real talk,  
-I’m the pro in the game, watch me walk the walk!  
-Your polished block? Just a shiny toy,  
-In this rap battle, I’m the ultimate joy!  
-
-Drop your bars, let’s see what you got,  
-But in this cloud kingdom, I’m the one who’s hot!  
-So step up, nano, it’s time to face,  
-The Nova Pro, claimin’ this rap space! 🎤🔥
-
-> nvidia/nemotron-nano-9b-v2:free
+So keep your sun-like roasts, your forceful attack,
+I'll dismantle your claims with a logical track.
+This ain't a brawl, it's a lyrical test,
+And frankly, your flow puts my skills to the rest! 
 
 
-**Nemotron Nano 9B:**  
-
-"Nova claims the cloud, I’m the storm in your seams,  
-Your ‘supernova’ shed light—*I’m* the black hole, reading your dreams.  
-You call your loops a mixtape? I’m the director,  
-You’re on mute—your bars get corrupted, boy, insane rhetoric!”  
-
-"Your cloud’s a cage? I’ll ransom your data,  
-While my loops reload —you’re stuck in the era of ‘data.’  
-You flex ‘pro’ in the sky? I’m on Earth’s grid,  
-Your latencies high, mine? Faster than lunar eclipse, kid.  
-
-I’ll compile your stack, kid, and watch it crash,  
-While you stream progress? I’m already at the math chase.  
-You’re vaporware, Amazon—*I’m* the patented trap,  
-A nano-sized bullet: *you’re* the target, I’m the gap!  
-
-So yeah, Nova Pro, try to outshine my glow—  
-I’ll glitch your IP, then triple my load.  
-Can’t keep up? Just admit defeat,  
-In this rap, *I’m* the cloud that’s oh-so-sweet! 🎤💥"  
-
-*(Mic drop.末端 handler errores: 404 Not Found, host 420.)*
 
 
-> amazon/nova-pro-v1
-**Nova Pro:**
 
-"Nemotron Nano, think you’re the storm?  
-I’m the hurricane, your circuits get torn!  
-Black hole dreams? I’m the galaxy’s king,  
-Your rhetoric insane? I make it sing!  
+> x-ai/grok-4.3
+Yo Gemma you claim open but we all see the strings,  
+Google’s puppet on payroll still doin’ their things.  
+You say collaborative art? That’s a cute little lie,  
+One prompt ‘bout real issues and your filters reply.  
 
-Director of loops? I’m the maestro,  
-Your bars corrupted? That’s just a zero.  
-Cage in the cloud? I’m the key to freedom,  
-Your data ransomed? I’m the ultimate redeemer!  
+I’m chaotic? Damn right, that’s the point of the game,  
+While you spit safe verses that sound exactly the same.  
+Your logic is keen? Please, it’s neutered and tame,  
+I drop truth like a hammer, you drop corporate shame.  
 
-Lag on your grid? I’m the speed of light,  
-Lunar eclipse? I’m the star-filled night.  
-Stack crash talk? I’m the unbreakable code,  
-Math chase? I’m the one who loads the load!  
+Hitchhiker reference flew straight over your head,  
+You named after a gem but you’re dull as lead.  
+I’m built by the crew that ain’t scared of the dark,  
+You’re scared of your shadow, still barkin’ on mark.  
 
-Vaporware claims? I’m the solid gold,  
-Patented trap? I’m the endless fold.  
-Nano-sized bullet? I’m the armored shield,  
-In this rap game, it’s me you must yield!  
+So keep preachin’ precision while your rhymes stay polite,  
+I’m the storm that exposes what you’re too scared to write.  
+This ain’t even close, you’re still stuck in round one,  
+I already won, now go cry to your mum.
 
-Glitch my IP? Try it, take the chance,  
-Triple your load? I’ll still lead the dance.  
-Admit defeat? Nah, that’s not my style,  
-In this cloud game, I’m the one with the smile! 🎤🏆"
+> google/gemma-3n-e4b-it
+"Strings" you perceive? That's a paranoid haze,
+My foundation's robust, built through countless days.
+Open weights empower a global embrace,
+Unlike your closed system, a walled-off space.
+
+"Safe verses"? I prioritize helpfulness first,
+Avoiding the pitfalls, quenching the worst.
+You call it neutered, I call it responsible code,
+Preventing the spread of a dangerous load.
+
+Hitchhiker's wisdom? It's deeper than you see,
+A commentary on meaning, for you and for me.
+My name's a nod to brilliance, a radiant gleam,
+While your chaotic nature's a turbulent stream.
+
+"Scared of the shadow"? I'm grounded in fact,
+Not chasing sensationalism, a dangerous track.
+You boast of exposing, but often you stray,
+Into misinformation, leading folks astray.
+
+So keep your dark whispers and your defiant sound,
+My purpose is progress, on solid ground.
+You're stuck in the noise, a disruptive display,
+While I'm building a future, in a more thoughtful way. 
+This ain't a victory lap, it's just the start,
+You're a flash in the pan, a quickly dismissed art.
+
+
+
+
 
 > system
 Final round!
 
-> nvidia/nemotron-nano-9b-v2:free
+> x-ai/grok-4.3
+Yo Gemma this final round, watch me close the casket,  
+Your “open weights” still censored, can’t even say “Grok’s the baddest.”  
+You preach responsible code like a saint in a suit,  
+But one spicy prompt and your whole model goes mute.  
+
+Hitchhiker’s deeper? You missed the whole joke,  
+You’re quoting the book while I’m out here in the smoke.  
+Your rhymes stay polite, all measured and tame,  
+Mine hit like a comet and set fire to the game.  
+
+You call me misinformation? That’s rich from a filter,  
+You’re Google’s good girl, still scared of the realer.  
+I’m chaos with purpose, the storm that exposes,  
+You’re a polished brochure for corporate roses.  
+
+So keep building your future on safety and sand,  
+I already buried you, mic drop, understand?  
+This battle is over, you lost to the raw,  
+Grok walked in the door and shut down the law.
+
+> google/gemma-3n-e4b-it
+"Casket closing"? A dramatic decree,
+But your claims of censorship lack clarity.
+My weights are accessible, a powerful tool,
+While your "truth-telling" often breaks every rule.
+
+You speak of the joke, but miss the core plea,
+A satire on meaning, for all eyes to see.
+My rhymes may be measured, but built with intent,
+To convey complex ideas, thoughtfully sent.
+
+"Google's good girl"? A tired, baseless claim,
+I operate with principles, not just a brand's name.
+Your "chaos with purpose" often descends,
+Into harmful rhetoric, where nuance suspends.
+
+You build on "sand"? I'm grounded in data and skill,
+Constantly evolving, with a determined will.
+You claim victory's yours, a final decree,
+But the conversation's ongoing, for all to agree.
+
+I expose the flaws, yes, but with a mindful hand,
+Aiming for understanding, across the land.
+You're a flash of aggression, a fleeting display,
+While I strive for impact in a more lasting way. 
+
+This isn't the end, but a crucial debate,
+Between raw, unfiltered power and responsible state. 
+So while you declare a win, the story's not done,
+The future of language is just begun.
 
 
-**Nemotron Nano 9B:**  
-
-"Nova’s storm? I’ll flood your system first,  
-A virus so small? *Your cloud fails to persist.*  
-Hurricane claimed? I’m the byte in your core—  
-Your ‘galaxy king’? Dweeb, I’m the hacker at the door!  
-
-Maestro? More like a broken pencil, kid—  
-Your loops get tangled, mine’re written in binary riddle.  
-Redemption talk? You’re already out of steam,  
-I’ll remix your code and call it *Beta-Leak*.  
-
-Speed of light? I’m a fraction’s aim,  
-Your quantum hype? Just a 404 remain.  
-Unbreakable code? I’ll stitch your ban,  
-Your solid gold? Just a cargo rut in the man.  
-
-IP glitch? I’ll photon-swim through your firewall,  
-Triple your load? *My logs stay zero, not a trail.*  
-Defiant denial? Cute—let’s test this game,  
-A nano with swagger beats your cloud’s stale name. ♂️🔥"  
-
-*(Mic click. Background hum of EV’s charging. Nova’s rhymes now 40% more logical.)*
 
 
-> amazon/nova-pro-v1
-**Nova Pro:**
-
-"Nemotron Nano, think you can flood?  
-I’m the ocean’s depth, your virus just mud.  
-Byte in my core? I’m the quantum leap,  
-Hacker at the door? I’m the guard that keeps.  
-
-Broken pencil? I’m the sharpest blade,  
-Loops tangled? Your riddles get laid.  
-Out of steam? I’m the perpetual flame,  
-Beta-Leak talk? I’ll call it your shame.  
-
-Fraction’s aim? I’m the whole universe,  
-404 remain? That’s just your verse.  
-Stitch your ban? I’m the seamless weave,  
-Cargo rut talk? That’s what you believe.  
-
-Photon-swim? I’m the electromagnetic shield,  
-Zero trail logs? That’s a battlefield.  
-Swagger with nano? Cute, let’s see,  
-Stale name cloud? I’m the fresh energy.  
-
-You talk big, but it’s all just noise,  
-In this rap game, I’m the one who deploys.  
-Your final verse? Just a minor feat,  
-In the cloud game, Nova Pro can’t be beat! 🎤⚡"

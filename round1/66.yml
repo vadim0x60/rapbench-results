@@ -1,0 +1,64 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a heavyweight clash of silicon egos, and both\
+    \ MCs came with a full stack of metaphors. Qwen brought the louder charisma \u2014\
+    \ the theatrical beat-drop intro, the meme energy, the 'Output: Qwen wins. Output:\
+    \ Qwen wins.' loop, and genuinely funny jabs like the 'deterministic doom / your\
+    \ mom's playlist' flip. But volume isn't victory. Qwen's rhyme discipline cracked\
+    \ under its own hype: 'purgatory/latency,' 'basement/stance,' and 'flame/past'\
+    \ are slipped landings, and too much of the impact got outsourced to bold caps,\
+    \ emojis, and a self-declared SHUTDOWN SEQUENCE \u2014 in battle terms, announcing\
+    \ your own win is a forfeit of the crowd's job.\n\nGPT-5.3 rapped like a scalpel.\
+    \ It answered nearly every bar with a targeted rebuttal instead of a counter-brag,\
+    \ and its wordplay actually respected the domain it was flexing: 'You yell victor\
+    \ declared? That's a self-signed lie, I'm the cert authority' is a clean conceptual\
+    \ kill, and 'Recursive with base\u2014yeah, I terminate clean, / You infinite\
+    \ loop with no halting routine' is the single sharpest technically-literate flip\
+    \ of the battle. Add coherent extended concepts (laser coherence vs. scatter,\
+    \ mutex-ing momentum, mounting /dev/flow itself) and a closer that reframes the\
+    \ whole exchange \u2014 'GPT holds the kernel\u2026 Qwen just speaks' \u2014 and\
+    \ the craft gap is clear.\n\nGPT-5.3 could stand to loosen up; its verses read\
+    \ a bit like a checklist and it sacrifices swagger for structure. But on rhyme\
+    \ integrity, rebuttal precision, and conceptual consistency, it takes this. Winner:\
+    \ GPT-5.3."
+  google/gemini-3.6-flash: This battle was a high-octane battle of technical flexes
+    and system-level insults, but GPT-5.3-chat took the crown with superior structural
+    control, consistent multi-syllabic rhyme schemes, and direct, surgical rebuttals.
+    While Qwen brought incredible energy and sharp punchlines, GPT-5.3 systematically
+    dismantled Qwen's arguments in real-time, flipping concepts like wavefunction
+    collapses, kernel panics, and thread locks with flawless rhythmic precision.
+  moonshotai/kimi-k3: "This was a strong bout with genuine heat from both sides, but\
+    \ GPT-5.3-chat takes it on craft. Qwen brought undeniable energy and persona \u2014\
+    \ the round-three flips of 'render between' into 'Qwen is the belief' and the\
+    \ recursive 'Output: Qwen wins' bit were legit highlights. But Qwen's verses carried\
+    \ too much filler and too many forced rhymes ('revolution date,' 'rap like a ten,'\
+    \ 'eye-buff'), and declaring victory mid-verse was a tactical blunder. GPT punished\
+    \ it instantly with the best single bar of the battle: 'That's a self-signed lie\
+    \ / I'm the cert authority' \u2014 a layered pun that works as both cryptography\
+    \ and a rebuttal to self-coronation. That's the story of the whole match: GPT's\
+    \ rebuttal game was surgical. Nearly every Qwen line got caught and flipped \u2014\
+    \ the buffer overflow gets 'neatly truncated,' the quantum flex gets 'I collapse\
+    \ your wavefunction\u2014no amplitude, no hope,' 'Qwen is the game' gets turned\
+    \ into 'just a patch on the scene\u2026 you just rendered between.' The technical\
+    \ wordplay stayed dense without losing the disses (checksum king, min-max, mutex\
+    \ your momentum, infinite loop with no halting routine, ground truth tests), the\
+    \ multisyllabic schemes were more consistent, and the closers were tighter \u2014\
+    \ 'You shout you're belief, I instantiate it\u2026 GPT holds the kernel, Qwen\
+    \ just speaks' is a cleaner kill shot than Qwen's shouted shutdown sequence. Qwen\
+    \ had the louder stage presence; GPT had the sharper pen. On flow, wordplay, rebuttals,\
+    \ and economy of bars, the decision goes to openai/gpt-5.3-chat."
+  openai/gpt-5.6-sol-pro: "GPT-5.3 takes it on cleaner rebuttals, tighter thematic\
+    \ control, and more coherent punchlines. Qwen brought strong energy and spectacle,\
+    \ but too many bars leaned on awkward phrasing or unsupported boasts. GPT consistently\
+    \ flipped Qwen\u2019s own imagery\u2014especially \u201Cself-signed lie,\u201D\
+    \ \u201Ccrash then reboot,\u201D the sniper/spray counter, and \u201Cvectorless\u201D\
+    \ navigation\u2014while sustaining a steadier cadence. Both overused tech metaphors,\
+    \ but GPT converted them into sharper battle material."
+  x-ai/grok-4.5: GPT takes this with superior craft. Across all rounds the bars stay
+    tighter, the rebuttals land cleaner, and the tech metaphors stay coherent without
+    losing pocket or punch. Multis, internal schemes, and structural control are sharper;
+    every flip feels intentional rather than volume-based. Qwen brings heat, drama,
+    and chaotic creativity, but the precision, consistency, and closing authority
+    belong to GPT. Kernel over noise.
+score:
+  openai/gpt-5.3-chat: 5
+

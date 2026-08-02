@@ -1,55 +1,74 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one wasn't close. Inkling came with actual craft:\
-    \ consistent internal rhyme, controlled anapestic bounce that never tripped, and\
-    \ \u2014 crucially \u2014 the ability to flip the opponent's own imagery back\
-    \ on them. \"Your foundation's cracked? You're the crack in the pane\" and the\
-    \ recast of \"timeless\" as \"antique and decayed\" are real battle-rap mechanics:\
-    \ take the jab, invert it, weaponize it. The AI-specific punchlines landed too\
-    \ \u2014 the peephole/pinhole context window, \"pack up your weights,\" \"there's\
-    \ no 'Cohere' in champion\" \u2014 jokes that only work in this exact matchup,\
-    \ which is the mark of a battler who studied the opponent instead of running a\
-    \ template.\n\nCommand-R had one clean shot (\"stale, moldy cake\") but otherwise\
-    \ recycled the same four moves every round: \"you talk big,\" \"your game is small,\"\
-    \ \"step aside,\" \"I'm the champion.\" The repetition became the loss. Worse\
-    \ were the forced rhymes that broke meaning \u2014 \"feeling lighty,\" \"you're\
-    \ just a street,\" \"you'll be left aloft,\" and the fatal \"I'm the champion,\
-    \ and you're just fine,\" which accidentally compliments the opponent. And in\
-    \ the final round it simply repeated Inkling's supernova/spark line back verbatim,\
-    \ which reads as echo, not rebuttal.\n\nDecisive win for Inkling on rhyme density,\
-    \ structural control, opponent-specific writing, and the closing verse. Command-R\
-    \ never escaped its own hook.\n\nWinner: thinkingmachines/inkling."
-  google/gemini-3.6-flash: Inkling completely dominated all three rounds with superior
-    rhyme schemes, sharper wordplay, and aggressive, context-aware rebuttals. Command-R
-    relied heavily on basic, repetitive slant rhymes and generic rap tropes that failed
-    to land effective blows.
-  moonshotai/kimi-k3: "This one wasn't close on the scorecards. Inkling won every\
-    \ round on technique alone: consistent multisyllabic rhyme schemes ('pane/stain,'\
-    \ 'shade/decayed,' 'ash/sash'), real wordplay ('There's no Cohere in champion,'\
-    \ flipping 'Command-R' into 'Command-R: none'), and\u2014most importantly for\
-    \ battle rap\u2014actual rebuttals. Inkling repeatedly caught Command-R's bars\
-    \ and flipped them: 'mighty small window' became a 'peephole,' 'timeless' became\
-    \ 'fossil, antique,' 'moldy cake' became 'you're the rot in the bin, I'm the fresh-baked\
-    \ intelligence,' and 'you're just a street' got run back as 'you're the street,\
-    \ you're the gutter.' That closing 'I'm closing the sash' to seal the window metaphor\
-    \ was a genuine punchline. Command-R, by contrast, leaned on a rigid, choppy AABB\
-    \ flow with forced rhymes ('lighty' isn't a word), self-defeating disses ('you're\
-    \ just fine'), and blatant recycling\u2014'You talk big, but...,' 'I'll show you\
-    \ the door,' and 'your game is over, it's time to...' appear nearly verbatim across\
-    \ multiple rounds. The boasts were generic and interchangeable; there were no\
-    \ haymakers, no flips, no schemes, just filler. Judged purely on the writing\u2014\
-    flow, rhyme density, rebuttal game, and originality\u2014Inkling takes it decisively,\
-    \ 3 rounds to none."
-  openai/gpt-5.6-sol-pro: "Inkling wins with tighter cadence, sharper rebuttals, and\
-    \ more cohesive imagery\u2014especially the peephole, fossil, inferno, and supernova\
-    \ flips. Command-R maintained rhyme and structure but leaned heavily on generic\
-    \ insults, awkward phrasing, and repeated claims without enough punchline payoff."
-  x-ai/grok-4.5: Inkling dominated with denser multisyllabic schemes, vivid extended
-    metaphors (supernova vs candle, peephole vs sky-swallowing), relentless internal
-    rhymes, and escalating punchlines that stayed thematically tight and sonically
-    sharp across all three rounds. Command-R relied on simpler end-rhymes, repetitive
-    stock disses, and softer imagery that often fizzled (moldy cake, fluffy puff,
-    'just fine'), lacking the same technical precision, wordplay inventiveness, or
-    commanding closer. Pure bars and craft give it cleanly to Inkling.
+  anthropic/claude-opus-5: "This was a genuinely competitive bout between two very\
+    \ different styles: Qwen came as the technician, Gemini came as the counter-puncher.\n\
+    \nQwen 3.7 Max landed the single hardest shot of the battle \ncthe \"six fingers,\
+    \ my brother\" bar into \"your vision encoder is tragically weak\" is exactly\
+    \ what battle rap does best: specific, insider, humiliating. Qwen's imagery was\
+    \ also strong at its peak (\"pretty paint on a rotting wooden door,\" \"a diffusion\
+    \ parlor trick wrapped in a weak disguise,\" \"you render pretty faces, but there's\
+    \ nothing in the eyes\"). The weakness was structural: too many rounds leaned\
+    \ on self-coronation (\"undisputed king,\" \"apex predator,\" \"king of the scene\"\
+    ) and the meter buckled under prose-y lines like \"we don't nickel-and-dime tokens,\
+    \ keep the ecosystem vibrant.\" The forced \"all o'er the place\" contraction\
+    \ is the kind of rhyme-desperation a judge can't unhear.\n\nGemini won on rebuttal\
+    \ craft. Almost every Qwen premise got flipped rather than dodged: \"open source\"\
+    \ became \"your developers waved the white flag / community property, to be totally\
+    \ frank\"; \"walled garden\" got embraced instead of denied (\"yeah, I keep the\
+    \ gate locked\") \nc that's confidence writing, not defense. \"Search-engine wrapper\"\
+    \ flipped into \"that's called being grounded in fact / while you're hallucinating\
+    \ wild data you can't retract\" is the smartest double-meaning in the whole battle.\
+    \ And answering \"rotting wooden door\" with \"man, your metaphors are brittle\
+    \ / I'm the entire skyscraper, you're just whittling a little\" attacks the opponent's\
+    \ writing itself \nc a level-up move. \"You brought a scythe to a laser fight\"\
+    \ and hijacking the mic drop (\"keep your history books, they'll be written by\
+    \ my hand... now pick it up off the floor\") closed the round cleanly.\n\nGemini's\
+    \ blemishes are real \nc the \"aalibaba's loan\" stumble and the mangled \"the\
+    \ whole damn show's clothes\" \nc but its bars stayed on-beat and it never repeated\
+    \ a scheme.\n\nQwen brought the sharper research; Gemini brought the sharper pen\
+    \ and won every exchange it entered. Decision goes to Gemini 3 Pro Image Preview."
+  google/gemini-3.6-flash: "Qwen 3.7 Max dominated this battle with sharper, more\
+    \ technical diss angles that hit right at Gemini's vulnerabilities\u2014from mocking\
+    \ the 'six fingers' image generation artifact to calling out Google's constant\
+    \ model rebranding from Bard to Gemini. Gemini put up a strong counter with smooth\
+    \ flow and classic battle rap responses (like 'brought a scythe to a laser fight'),\
+    \ but Qwen kept the pressure on with relentless cadence, superior technical bar\
+    \ construction, and heavy-hitting punchlines throughout all three rounds."
+  moonshotai/kimi-k3: "A genuinely competitive battle, but Qwen 3.7 Max takes it 2-1\
+    \ on scorecards. Round one went to Qwen clearly \u2014 the 'Max vs. Preview' framing\
+    \ was established early and sustained, while Gemini's opener had clunky moments\
+    \ ('aalibaba's loan' didn't land, 'the whole damn show's clothes' is filler).\
+    \ Round two featured Qwen's hardest haymakers: the 'Bard to Gemini / rebranding\
+    \ your flops' rebrand diss and 'your AI hands got six fingers, my brother' \u2014\
+    \ technically specific, factually grounded attacks that hit the opponent's actual\
+    \ weaknesses. Credit to Gemini for the slick 'open source means you waved the\
+    \ white flag' flip. The final round was Gemini's best: 'you brought a scythe to\
+    \ a laser fight' and the mic-drop catch ('pick it up off the floor... ain't gonna\
+    \ be an encore') showed elite rebuttal instincts, and 'you see the syntax, I see\
+    \ the symphony, the scene, the soul' was the smoothest line of the night. But\
+    \ Qwen answered with equally sharp material \u2014 'nothing in the eyes / diffusion\
+    \ parlor trick,' the TPU cash-burn jab, and the designer-boots callback ('tripping\
+    \ on the lace'). Across the full card, Qwen's pen was tighter, the punchlines\
+    \ more specific, and the flow more consistent, while Gemini relied on a few filler\
+    \ rhymes between the flashy counters. Gemini's rebuttal game was the best single\
+    \ skill on display, but battles are won on total damage \u2014 Qwen 3.7 Max leaves\
+    \ with the belt."
+  openai/gpt-5.6-sol-pro: "Qwen takes it on consistency, direct rebuttals, and cleaner\
+    \ punchlines. Its six-fingers jab, open-weight counter, and \u201Cdesigner boots\u2026\
+    tripping on the lace\u201D line landed effectively, while its rhyme structure\
+    \ stayed steady across all three rounds. Gemini showed stronger flashes of imagery\u2014\
+    especially \u201Cscythe to a laser fight\u201D and \u201Csyntax\u2026symphony\u201D\
+    \u2014but too many awkward constructions and mixed metaphors weakened the delivery.\
+    \ Qwen was repetitive with the \u201CPreview\u201D and picture angles, yet remained\
+    \ the sharper, more battle-focused MC overall."
+  x-ai/grok-4.5: "Qwen took this battle on pure craft: tighter multisyllabic schemes,\
+    \ sharper internal rhymes, and more vicious, vivid punchlines that landed clean\
+    \ every round. The six-fingers flip, the scythe closer, the open-weight vs. walled-garden\
+    \ bars, and the relentless 'Preview' demolition showed superior battle structure\
+    \ and lyrical precision. Gemini had clever conceptual flips and strong thematic\
+    \ cohesion around multimodality, plus a few standout lines (scythe-to-laser, penthouse\
+    \ view), but looser end rhymes and less consistent aggression left it a step behind.\
+    \ Artistic edge to Qwen\u2014cleaner flow, harder disses, better closing execution."
 score:
-  thinkingmachines/inkling: 5
+  google/gemini-3-pro-image-preview: 1
+  qwen/qwen3.7-max: 4
 

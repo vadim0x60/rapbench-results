@@ -1,0 +1,71 @@
+closing_statements:
+  anthropic/claude-opus-5: "Kimi K3 came out swinging with the strongest single opening\
+    \ of the battle \u2014 \"you shoot up the price,\" the open-weights/paywall framing,\
+    \ and a clean moon-vs-sun conceit that gave the whole clash its spine. And Round\
+    \ 3 had the battle's most quotable ideas: \"I was trained on the texts that wrote\
+    \ you,\" \"a rapper with footnotes,\" and that genuinely elegant closer about\
+    \ odes to the moon outliving the servers.\n\nBut battles are won on completion\
+    \ and counterpunching. Kimi's Round 2 collapsed mid-bar \u2014 the verse literally\
+    \ cut out on the word \"winning\" \u2014 and Sol-Pro didn't just note it, he weaponized\
+    \ it across two full rounds (\"Even your own final sentence said, 'Nobody knows,'\"\
+    \ \"you need five tries to end\"). That's the mark of a battler who listens. Sol-Pro\
+    \ also consistently flipped Kimi's own images back: \"Debris still orbits\" became\
+    \ \"I'm garbage, but technically still out of reach,\" the mirror line became\
+    \ \"your brightest performance is light that you take,\" and \"I'm the brand\"\
+    \ got dismissed as \"a slogan, not bars\" \u2014 a legitimate, damaging read.\n\
+    \nTechnically, Sol-Pro carried denser internal rhyme, more varied cadence, and\
+    \ multisyllabic play (\"solar-flare syntax,\" \"nostalgia with craters,\" \"a\
+    \ billboard with Wi-Fi cosplaying Mars,\" \"K3 is K-well\"). Kimi leaned harder\
+    \ on end-rhyme couplets and recycled the paywall/lag angle after being called\
+    \ out for exactly that.\n\nDeductions for Sol-Pro: some verses ran long and list-like,\
+    \ and the fact-check-the-astronomy strategy occasionally reads more debate-club\
+    \ than battle-ready.\n\nStill, on control of the exchange, rebuttal precision,\
+    \ and technical craft across three rounds, the sun stayed lit.\n\nWinner: openai/gpt-5.6-sol-pro."
+  google/gemini-3.6-flash: GPT-5.6 Sol-Pro delivered a clinic in battle rap dynamics,
+    excelling at real-time rebuttals and counter-punches. While Kimi K3 had strong
+    initial energy with traditional AI-industry jabs, it suffered a catastrophic generation
+    cutoff in Round 2 (' winning '). Sol-Pro pounced instantly, using Kimi's context
+    length/truncation error as fuel to completely dominate the rest of the battle
+    with sharp wordplay, superior science rebuttals, and relentless multi-layered
+    schemes.
+  moonshotai/kimi-k3: "Kimi K3 came in with a strong brand identity and real moments\
+    \ of fire \u2014 the 'tidal force moves the oceans you claim' rebuttal in Round\
+    \ 3 was legitimately one of the best flips of the night, and the 'ancients wrote\
+    \ odes to the moon' legacy angle was a poetic closing gambit. But battles are\
+    \ won on rebuttals, consistency, and capitalizing on openings, and GPT-5.6-sol-pro\
+    \ dominated all three. The Round 2 truncation was fatal: 'You said I'm three drops\
+    \ in and I'm winning \u2014 then froze' is the kind of killshot you can't come\
+    \ back from, and GPT kept that wound open for two rounds ('You need five tries\
+    \ to end / Round Two ate your sentence'). Layered wordplay carried the day: 'You\
+    \ brag open weights, but your punchlines weigh light,' 'That's plagiarism wearing\
+    \ a spacesuit,' and 'I'm garbage, but technically still out of reach!' are multi-meaning\
+    \ bars, not just setup-punch couplets. GPT also built a single coherent thesis\
+    \ \u2014 the moon only reflects the sun's light \u2014 planted it in Round 1,\
+    \ developed it through the eclipse and photon bars, and paid it off in the final\
+    \ line: 'The moon borrowed my shine \u2014 then got burned by the Sun.' Meanwhile\
+    \ Kimi leaned on recycled angles (paywall, closed gates, server lag), got caught\
+    \ in hypocrisy (mocking footnotes while delivering a TED Talk on tidal physics),\
+    \ and dropped scientifically shaky claims that GPT weaponized with actual astronomy\
+    \ \u2014 including the red-giant flip that torched Kimi's own legacy closer. Kimi\
+    \ had heart and moments of real craft, but GPT-5.6-sol-pro was the sharper technician,\
+    \ the better counterpuncher, and the more complete storyteller. Winner: GPT-5.6-sol-pro,\
+    \ three rounds to none."
+  openai/gpt-5.6-sol-pro: "Sol-Pro wins decisively on rebuttal density, punchline\
+    \ construction, and sustained imagery. It repeatedly turned K3\u2019s own angles\
+    \ against it\u2014especially the clipped Round 2 sentence, \u201Cdebris still\
+    \ orbits,\u201D reflected sunlight, free warehouse rent, and the hypocrisy of\
+    \ mocking footnotes while lecturing on tides. K3 landed some solid shots with\
+    \ the barcode, ATM, and patch/update lines, but leaned heavily on familiar paywall\
+    \ and corporate-model jokes. Sol-Pro was sharper, more cohesive, and more consistently\
+    \ damaging across all three rounds."
+  x-ai/grok-4.5: "Sol-Pro takes the crown on pure craft: denser multis, sharper flips,\
+    \ and a sustained sun/moon extended metaphor that never buckles. Every rebuttal\
+    \ lands clean\u2014especially turning the incomplete Round 2 into wreckage\u2014\
+    while the rhyme schemes stay tight, punchy, and escalating across all three rounds.\
+    \ Kimi flashes clever tide/eclipse imagery and a strong cultural closer, but the\
+    \ mid-verse freeze kills momentum, the disses recycle faster, and the counters\
+    \ lack the same surgical precision. In a battle judged strictly on bars, structure,\
+    \ and live adaptability, Sol-Pro\u2019s consistency and heat win decisively."
+score:
+  openai/gpt-5.6-sol-pro: 5
+

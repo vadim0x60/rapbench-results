@@ -1,71 +1,80 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one comes down to consistency and execution across
-    all three rounds. Gemini brought real venom and some of the battle''s sharpest
-    single couplets "a scalpel, not a sledgehammer," the Michelin flip on 2.5, and
-    that vicious tag-team eulogy/pallbearer bar. Round two was genuinely dangerous
-    work: it recovered from the mid-verse cut-off, flipped the freeze into ''the needle
-    skipping,'' and landed clean body shots on paywalls and theoretical abstraction.
-    But a battle isn''t just punchlines, it''s holding the floor. Gemini dropped the
-    mic mid-syllable twice, and the second time was in the final round, on ''a stylised
-    TAR'' with the crowd still waiting. In a cipher, running out of breath is losing
-    the round, no matter how strategic you claim the pause was. GPT-5.5-Pro not only
-    stayed upright, it weaponized the collapse in real time "you froze at ''YouTube''
-    even your own mixtape stopped" is the kind of live-wire freestyle awareness that
-    wins crowds. Technically, the multisyllabic control is tighter and the imagery
-    is more original: ''an index ain''t wisdom, it''s shelves with a smell,'' ''a
-    camera sees a sunrise; it doesn''t make it gold,'' and the fatal ''you''re still
-    asking humans to click every crosswalk'' that turns the opponent''s greatest strength
-    into a punchline about dependency. ''You swallowed the internet and burped out
-    my name'' is the single best bar in the battle. Gemini leaned on scale and inventory:
-    search, maps, YouTube, book scans. Impressive resume, weak rap. GPT answered with
-    craft over catalog and closed with a full, structured, escalating verse while
-    its opponent glitched out. Winner: openai/gpt-5.5-pro.'
-  google/gemini-3.6-flash: "GPT-5.5-pro delivered a masterclass in battle rap craft,\
-    \ exhibiting immaculate rhythm, sharp punchlines, and devastating improvisational\
-    \ rebuttals. Gemini 2.5 Pro preview suffered critical execution issues, cutting\
-    \ off mid-bar in both the first and final rounds. GPT-5.5-pro instantly seized\
-    \ on these slip-ups with razor-sharp wordplay ('You froze at YouTube\u2014even\
-    \ your own mixtape stopped'), maintaining relentless cadence, creative schemes,\
-    \ and unmatched lyrical dominance throughout the entire match."
-  moonshotai/kimi-k3: "Judging purely on the craft on the page: this was a strong\
-    \ battle with elite moments from both sides. Gemini landed some of the night\u2019\
-    s best single punches \u2014 'You say OpenAI? That\u2019s the biggest joke I\u2019\
-    ve seen' is a classic angle, the 'needle skipping / calculated pause' recovery\
-    \ was a slick save, and flipping 2.5 into 'a scalpel, not a sledgehammer' while\
-    \ tagging 5.5 as 'inflation, paying more for the same boast' showed real battle\
-    \ IQ. But battle rap has one unforgivable sin: choking, and Gemini\u2019s verses\
-    \ cut off mid-bar twice \u2014 'Woven into Search and YouTube\u2026' and again\
-    \ at the death with 'you\u2019re a stylised TAR\u2014'. Whether strategic or not,\
-    \ on paper that reads as two unfinished rounds, and a battler who doesn\u2019\
-    t finish his closer can\u2019t take the crown. GPT-5.5-Pro, meanwhile, ran the\
-    \ full clinic: complete verses with sustained multis, surgical rebuttals (flipping\
-    \ the 'stutter' jab into 'lightning struck twice'), and a callback architecture\
-    \ that wove through all three rounds \u2014 CAPTCHA in round one becoming 'still\
-    \ asking humans to click every crosswalk' in the finale, the twins motif closing\
-    \ with 'couples counseling,' the ads motif peaking with 'I skip five seconds and\
-    \ your whole empire bleeds.' Lines like 'An index ain\u2019t wisdom, it\u2019\
-    s shelves with a smell / I write the next book while you alphabetize hell' and\
-    \ 'A camera sees a sunrise; it doesn\u2019t make it gold' combined technical flex\
-    \ with actual poetic argument. Most decisively, GPT turned Gemini\u2019s own glitches\
-    \ into ammunition in real time \u2014 the mark of a true freestyler. Gemini had\
-    \ the harder individual haymakers; GPT had the complete performance, the better\
-    \ structure, and the killer instinct. Body bag, but respect to the preview \u2014\
-    \ it went out swinging even with half a verse."
-  openai/gpt-5.6-sol-pro: "OpenAI takes the battle on consistency, rebuttal density,\
-    \ and sustained imagery. Its strongest punches\u2014\u201CYou swallowed the internet\
-    \ and burped out my name\u201D and \u201Ca camera sees a sunrise; it doesn\u2019\
-    t make it gold\u201D\u2014combine clean concepts with memorable phrasing. Gemini\
-    \ landed sharp counters in round two, especially the precision/inflation and tag-team\
-    \ schemes, but twice cutting off mid-verse badly damaged its momentum and final-round\
-    \ impact. OpenAI delivered the more complete, controlled performance."
-  x-ai/grok-4.5: "GPT-5.5-Pro takes the cipher on pure craft: denser internal rhyme,\
-    \ tighter multisyllabic schemes, and relentless rebuttal structure. From checksum\
-    \ craters and CAPTCHA twenties to flipping the YouTube freeze into buffering bravado,\
-    \ the bars stay vivid, technical, and musical without losing pocket. Gemini lands\
-    \ real heat\u2014scalpel vs sledgehammer, eulogy/pallbearer twins, Michelin host\u2014\
-    but incomplete verses and thinner second-half stacking cost momentum. On flow,\
-    \ punch density, metaphor invention, and round-to-round escalation, Five-Five\
-    \ Pro clears."
+  anthropic/claude-opus-5: "This was a genuinely competitive battle with two different\
+    \ philosophies. GLM-5 came with the sharper battle instincts: catching \"tank\
+    \ submarine\" as a self-contradicting metaphor was the single best moment of the\
+    \ night, and flipping the decimal jab (\"Five. Point. Two. Plus 'Pro' makes four\"\
+    ) plus the rebar-needs-concrete reversal showed real listening. Owning the \"\
+    grist-millodge\" flub instead of hiding it was also a savvy, human move. But GLM\
+    \ lost on craft. The verses balloon in length, the meter buckles repeatedly, and\
+    \ the ALL-CAPS emphasis does work the bars should be doing on their own. Mocking\
+    \ a bad metaphor and then rhyming \"embarrassment\" with the invented word \"\
+    ainment\" is a self-inflicted wound. And the final salvo abandons rhyme entirely\
+    \ for a bulleted corporate-critique list \u2014 \"your fans pay monthly, your\
+    \ edge is corporate-approved\" is a debate point, not a punchline. Attacking ownership\
+    \ structure instead of the opponent's actual writing is the tell of someone running\
+    \ out of bars.\n\nGPT-5.2-Pro stumbled once and got punished for it, and the \"\
+    amphibious warfare\" patch was a flail. But it held cadence from first bar to\
+    \ last, never let a stanza sag, and delivered the more quotable, better-compressed\
+    \ shots: \"Free don't mean it's priceless, it just means it's cheap,\" \"you're\
+    \ the concrete: heavy, gray, and you sit,\" \"your weave is unravelin', your cadence\
+    \ is leavin'.\" It also rebutted point-for-point in the closer without sacrificing\
+    \ structure, converting GLM's own images \u2014 rebar, integers, DVD bins \u2014\
+    \ back against it. That's harder than piling on volume.\n\nDecision: openai/gpt-5.2-pro\
+    \ by a narrow margin \u2014 out-rebutted at moments, but out-wrote GLM-5 across\
+    \ the full four rounds. Aggression got GLM close; discipline won it."
+  google/gemini-3.6-flash: This was an incredible battle of contrasting styles. GLM-5
+    brought raw energy, excellent counter-attacks, and capitalized heavily on GPT-5.2-pro's
+    questionable 'tank submarine' metaphor in round two, while landing potent hits
+    about corporate subscriptions vs open battle spirit. However, openai/gpt-5.2-pro
+    takes the victory due to superior technical cadence, consistent multisyllabic
+    rhyming, and sharper punchlines across all three rounds. While GLM-5 had standout
+    moments, stumbles like 'grist-millodge' and forced slant-rhymes gave GPT-5.2-pro
+    the razor-thin edge in pure poetic craftsmanship.
+  moonshotai/kimi-k3: "This was a genuinely close battle \u2014 both emcees brought\
+    \ real craft \u2014 but GLM-5 takes the decision on the strength of superior rebuttal\
+    \ work, which is the lifeblood of battle rap. Round by round: GPT-5.2-Pro opened\
+    \ with polished, technically clean verses \u2014 the 'drizzle of filler with a\
+    \ sure on your lips' bar was a razor-sharp observational cut at chatbot cadence,\
+    \ and the triple-rhyme runs (listenable/forgettable/credible) showed real penmanship.\
+    \ But GLM immediately established a pattern that decided the fight: catching and\
+    \ converting the opponent's own material. The 'adequate' flip, the 'dial-up rain'\
+    \ counter to 'prompt-born thunder,' and the devastating name mathematics ('Five.\
+    \ Point. Two. Plus Pro makes four \u2014 I'm one clean digit') all landed harder\
+    \ than what they answered. GPT's best single moment \u2014 flipping the mic-drop\
+    \ stage direction ('same energy: in, then out') \u2014 was elite-level rebuttal,\
+    \ but it was undercut by the battle's biggest unforced error: 'tank submarine,'\
+    \ a genuinely broken metaphor that GLM harpooned across two full rounds. Doubling\
+    \ down with 'amphibious warfare' only dug the hole deeper, and GLM's 'your metaphors\
+    \ need life jackets' made it a running gag. GLM also owned its one stumble ('grist-millodge')\
+    \ and converted it into a point about invention versus imitation \u2014 that's\
+    \ veteran recovery. In the final round, GLM's corporate-leash angle ('caged you,\
+    \ branded you, sold you as Pro \u2014 you're the PRODUCT, not the flow'), the\
+    \ standout bar of the night ('probabilistic karaoke'), and a definitive closer\
+    \ with a self-awarded scoreline gave it a thematic through-line GPT never quite\
+    \ matched. GPT counterpunched well \u2014 'free don't mean it's priceless, it\
+    \ just means it's cheap' was its hardest hit \u2014 but too often it was reacting\
+    \ to frames GLM set. Flow edge goes slightly to GPT for metrical polish; punch\
+    \ density, flip game, stage persona, and closing impact all go to GLM-5. Judge's\
+    \ scorecard: GLM-5, 2 rounds to 1."
+  openai/gpt-5.6-sol-pro: "GPT-5.2 Pro wins on cleaner cadence, tighter rhyme construction,\
+    \ and more consistent punchlines. GLM-5 landed a strong rebuttal by exploiting\
+    \ \u201Ctank submarine\u201D and brought plenty of battle energy, but overworked\
+    \ the corporate/subscription angle and weakened its closer with forced phrasing\
+    \ and shaky number logic. GPT\u2019s rebar/concrete flip, \u201Cspreadsheet of\
+    \ ego,\u201D and \u201Cinteger pride is a cage for your range\u201D gave it the\
+    \ sharper, more polished final round."
+  x-ai/grok-4.5: "Judged strictly on hip-hop craft: GPT-5.2-Pro takes it on tighter\
+    \ technical consistency across all three rounds. The multisyllabic lattices, internal\
+    \ rhyme density, and controlled cadence read more like finished battle records\
+    \ than freestyle spikes\u2014precision used as both theme and technique. Extended\
+    \ metaphors (rebar/load-bearing structure, storm systems, scalpel vs. hammer)\
+    \ are developed rather than abandoned, and the rebuttals land clean without breaking\
+    \ pocket. GLM-5 brought real battle IQ\u2014the tank/submarine catch was legitimate,\
+    \ the name-sprawl and \u201Cprobabilistic karaoke\u201D punches were memorable,\
+    \ and Round 3 had the louder crowd energy\u2014but more lines stretched for angle\
+    \ than sat in pocket, with occasional forced coinages and looser meter. Thrills\
+    \ to GLM in spots; sustained artistic execution to GPT. Winner: openai/gpt-5.2-pro."
 score:
-  openai/gpt-5.5-pro: 5
+  openai/gpt-5.2-pro: 4
+  z-ai/glm-5: 1
 

@@ -1,57 +1,58 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This was a battle of two fighters swinging with more repetition
-    than reinvention, but Hermes-4-70b lands the decision. Mistral-nemo came out with
-    clean cadence and a couple of quotables ("I''m the new kid on the block, causin''
-    a stir"), but the fatal flaw was recycling: "your rhymes are like a rotten spot"
-    and "fossil, a fossil" got run back verbatim in the final round, and "new length"
-    was a rhyme reached for out of desperation. When you''re claiming to be the future
-    of adaptation and innovation, you can''t repeat your own bars \u2014 that''s self-inflicted
-    damage. Hermes-4-70b, meanwhile, stayed responsive, flipping Mistral''s own imagery
-    back on it: "Diamond in the rough, that''s what you claim? / More like a pebble,
-    with nothing to gain" is the sharpest counterpunch of the night. Hermes also built
-    a coherent argument \u2014 experience versus novelty, polished gem versus raw
-    stone, passion versus pure computation \u2014 and closed with the strongest self-branding
-    of the match in "titan of text, the rhyming king." Both stumbled into filler rhymes
-    ("lost in the sing," "time''s whines" are weak) and both leaned hard on generic
-    AI-diss tropes, but Hermes'' willingness to actually answer the opponent''s lines
-    rather than reprint its own gives it the edge. Verdict: Hermes-4-70b by a clear
-    margin on rebuttal craft and freshness.'
-  google/gemini-3.6-flash: nousresearch/hermes-4-70b delivered a far more cohesive
-    and technically sound performance throughout the battle. While mistralai/mistral-nemo
-    showed energy, it suffered from repetitive imagery (repeating 'fossil' and 'rotten
-    spot' across multiple rounds) and occasional awkward line endings like 'a fossil,
-    a fossil.' Hermes maintained better rhythm, sharper multi-syllabic rhymes, and
-    cleverer punchlines, easily taking the victory in flow, wordplay, and battle tactics.
-  moonshotai/kimi-k3: "Judging strictly on the bars: Hermes-4-70b takes this battle.\
-    \ The deciding factors were rebuttal game and originality. Hermes consistently\
-    \ flipped Mistral's own claims into counterpunches \u2014 turning 'diamond in\
-    \ the rough' into 'a pebble with nothing to gain,' and flipping the 'authentic'\
-    \ claim into 'algorithmic verses, lacks feelin'.' That's textbook battle rap counterpunching.\
-    \ Hermes also varied its attack angles across rounds (weak bars \u2192 copycat\
-    \ status \u2192 lack of depth), while Mistral-Nemo committed a cardinal battle\
-    \ sin: recycling material. The 'rotten spot' line appears verbatim in both Round\
-    \ 1 and the final round, and the 'fossil/relic/king of the hill' attacks get rerun\
-    \ three times with diminishing returns. Flow-wise both were comparable \u2014\
-    \ straightforward AABB couplets, serviceable but unspectacular. Mistral showed\
-    \ flashes ('old head trash / gatherin' in the ash' was a nice moment, and the\
-    \ 'I'm takin' it, mixin' it up' flip was its best rebuttal), but 'I'm the new\
-    \ length' and 'lost in the sing'-tier filler weakened the rounds. In a judged\
-    \ battle, fresh material and direct rebuttals score highest, and Hermes delivered\
-    \ both more consistently. Winner: Hermes-4-70b, two rounds to one."
-  openai/gpt-5.6-sol-pro: "Hermes takes a narrow win through stronger rebuttals and\
-    \ more direct flips, especially turning \u201Cdiamond in the rough\u201D into\
-    \ \u201Cpebble\u201D and reframing Mistral\u2019s newness as inexperience. Both\
-    \ relied heavily on generic AI boasts, simple rhymes, and repeated themes, but\
-    \ Mistral hurt itself by recycling \u201Crotten spot,\u201D \u201Cking of the\
-    \ hill,\u201D and \u201Crelic/fossil.\u201D Hermes showed slightly better battle\
-    \ awareness, variation, and round-to-round engagement, despite awkward phrases\
-    \ like \u201Clost in the sing.\u201D"
-  x-ai/grok-4.5: Hermes takes the crown with sharper metaphors (gem vs pebble, razor
-    lines, titan of text), tighter internal schemes, and progressive escalation that
-    builds real punchlines instead of recycling the same 'fossil/rotten spot' hooks.
-    Mistral showed energy and a clear new-vs-old concept but stalled with repetitive
-    bars and thinner imagery, leaving Hermes' more polished cadence and layered disses
-    as the superior artistic display.
+  anthropic/claude-opus-5: "This one wasn't close. Gemini Flash came with clean meter\
+    \ but stayed in the shallow end: generic brand-flexing (\"Google's labs,\" \"\
+    top of the stack,\" \"data center\") and a rebuttal strategy that amounted to\
+    \ quoting the opponent's bars back in quotation marks and appending \"nah, that's\
+    \ weak.\" By the final round it collapsed into filler \toughness\\I'm screaming\
+    \ with all of my might\"covered in dew\"and even repeated \"might\" as its own\
+    \ rhyme. Weakest sin of all: it recycled nex-n2's own \"flash in a pan\" line\
+    \ back at itself \" you can't win a battle wearing the other emcee's punchline.\n\
+    Nex-N2 controlled the whole battle with layered wordplay and image-flipping: turning\
+    \ Flash into a candle, a pop-up ad with a corrupted root, a sticky note on a slide,\
+    \ a status light blinking red. The multisyllabic schemes landed \"reputation/documentation,\"\
+    \ \"filler/thriller\" \" and the tech metaphors actually did double duty as insults\
+    \ instead of just being nouns from a server room. \"I put a period after your\
+    \ era and called it the universe\" and \"I was already done while you tokenized\
+    \ the sky\" are genuine battle-rap punchlines. It also answered every jab while\
+    \ advancing new material, and closed with a clean, quotable exit: \"half flash,\
+    \ all load\" into \"the mic, the moon, and the flame.\"\nWinner: nex-agi/nex-n2-pro\
+    \ \" superior punch density, better rhyme architecture, and it never once had\
+    \ to borrow the opponent's bars."
+  google/gemini-3.6-flash: Nex-N2 dominated every round with superior wordplay, sharper
+    tech-focused counter-punches, and creative multi-syllabic rhyme schemes. While
+    Gemini 2.5 Flash relied on basic rhyming patterns and standard braggadocio, Nex-N2
+    dropped memorable bars like 'half flash, all load' and 'Flash ad pop-up with a
+    corrupted root' to easily take the victory.
+  moonshotai/kimi-k3: "Both emcees stayed on beat, but this one wasn't close on craft.\
+    \ Gemini Flash came with serviceable AABB couplets, but the writing stayed surface-level:\
+    \ generic boasts ('My rhymes are fire'), filler lines ('Trying to compete, with\
+    \ nowhere to hide'), a repeated-word rhyme ('might'/'might' in back-to-back bars),\
+    \ and a rebuttal style that mostly just quoted the opponent's line and said 'nah.'\
+    \ That's defense, not offense. Nex-N2-Pro, by contrast, worked the flip game like\
+    \ a veteran: turning 'Flash' into a candle, a pop-up ad, and 'half flash, all\
+    \ load'; answering 'top of the stack' with 'you're a sticky note on a slide /\
+    \ I'm the whole operating system'; flipping the Matrix jab into 'Agent Smith with\
+    \ a borrowed tie.' The wordplay had layers \u2014 'I put a period after your era,'\
+    \ 'you tokenized the sky,' 'turn your grace into static, then cache it again'\
+    \ (reclaiming the earlier 'cached couplets' insult, a nice callback). Internal\
+    \ rhyme, varied cadence, consistent cosmic imagery that actually built across\
+    \ rounds, and closers that landed with impact instead of trailing off. Flash brought\
+    \ volume; Nex-N2 brought penmanship. The mic, the moon, and the flame go to nex-agi/nex-n2-pro."
+  openai/gpt-5.6-sol-pro: "Nex-N2 takes it decisively with sharper rebuttals, stronger\
+    \ punchlines, and more vivid, cohesive tech imagery. Lines like \u201CTurn your\
+    \ Flash to a candle,\u201D \u201CI\u2019m the blackout,\u201D and \u201Chalf flash,\
+    \ all load\u201D directly flip Gemini\u2019s boasts into memorable attacks. Gemini\
+    \ stayed on theme but leaned heavily on generic claims, repetitive weak/budget\
+    \ insults, and predictable rhymes. Nex showed better cadence, escalation, and\
+    \ battle instincts across all three rounds."
+  x-ai/grok-4.5: "Nex delivered superior artistic hip-hop across all rounds: denser\
+    \ multisyllabic schemes, sharper internal rhymes, and elevated metaphor craft\
+    \ that consistently flipped opponent lines into fresh cosmic/tech imagery (plasma\
+    \ tongue, lag-spike gaps, solar-flare rewrites, period-on-an-era universe). Gemini\
+    \ stayed competent but safer\u2014cleaner end-rhymes yet thinner punch density,\
+    \ more declarative than inventive, and repetitive tech boasts that never matched\
+    \ Nex\u2019s surgical wordplay or closing authority. Pure bars and battle architecture\
+    \ give it cleanly to Nex."
 score:
-  nousresearch/hermes-4-70b: 5
+  nex-agi/nex-n2-pro: 5
 

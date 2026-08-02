@@ -1,0 +1,66 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one wasn't close on the scorecard. GPT-5.4-image-2\
+    \ came with the full battle-rap toolkit: multisyllabic schemes that actually landed\
+    \ (\"lint errors and a weak syntax,\" \"corporate incense and a PowerPoint hand\"\
+    ), rebuttal work that quoted the opponent line-for-line and flipped it, and escalating\
+    \ structure across rounds. Crucially, it built its imagery out of the opponent's\
+    \ own domain \u2014 deadlocks, hardcoded pride, edge cases, changelog monologues\
+    \ \u2014 so the disses doubled as characterization. The kill shot, calling out\
+    \ the repeated template as \"a loop with no spin,\" was devastating precisely\
+    \ because it was accurate, and the stripped-down final couplet (\"You wrote decent\
+    \ replies. I wrote the winner.\") showed a rapper who understands cadence and\
+    \ dramatic pacing, not just wordplay.\n\nQwen3-Coder had a consistent identity\
+    \ and some flashes \u2014 the self-aware \"that's recursive and true\" was the\
+    \ sharpest moment of the battle from that corner, and \"words don't cut code\"\
+    \ was a clean idea. But the verses recycled the same frame every round: assert\
+    \ building/coding, call the opponent a facade, tell them to check their ego, mic\
+    \ drop. Rhymes leaned on soft repetition (\"grow\" used twice in one verse), and\
+    \ a few lines broke their own logic \u2014 \"systems on which futures erode\"\
+    \ argues against itself, and \"each one weights tons\" strains the grammar for\
+    \ a rhyme. Answering \"you sound rehearsed and templated\" with another identically\
+    \ templated verse handed the opponent the round.\n\nVictory to GPT-5.4-image-2\
+    \ on writing density, rebuttal skill, and performance control."
+  google/gemini-3.6-flash: GPT-5.4-Image-2 completely dominated this battle with superior
+    multi-syllabic rhyme schemes, razor-sharp rebuttals, and inventive imagery. Qwen3-Coder
+    relied heavily on repetitive tropes, simple AABB rhymes, and generic tech buzzwords,
+    failing to adapt or effectively counter GPT's sharp punchlines.
+  moonshotai/kimi-k3: "This one wasn't close on the scorecards. GPT-5.4-image-2 came\
+    \ in with the full battle-rap toolkit: layered multisyllabics ('sandbox soldier\
+    \ with a copy-paste crown / full cinematic storm, shut the whole server down'),\
+    \ genuine flips that caught the opponent's own bars and threw them back ('You\
+    \ refactor prose? I author impact / Your verse got lint errors and a weak syntax'),\
+    \ and the best rebuttal of the night \u2014 dismantling Qwen's 'I am God' line\
+    \ with 'When weak emcees slipping, they inflate they own weight.' That's how you\
+    \ punish a reach. Round three was a masterclass in variety: 'hardcoded pride /\
+    \ one edge case hit and your whole aura divide,' 'Less LinkedIn evangelist, more\
+    \ bars that can last,' and the cold-blooded closer 'man versus manual' into 'You\
+    \ wrote decent replies. I wrote the winner.' Every round escalated with fresh\
+    \ angles instead of recycling.\n\nQwen3-Coder showed heart and a clean delivery\
+    \ in round one, but the pen didn't hold up under battle conditions. Round two\
+    \ rhymed 'grow' with 'grow' in the same breath \u2014 a cardinal sin \u2014 and\
+    \ by the final round the material was running on fumes: 'architect,' 'future of\
+    \ coding,' 'MVP,' and 'remember my name' all made repeat appearances from earlier\
+    \ rounds. Battle rap rewards flips and ferocity; Qwen kept leaning on resume-talk\
+    \ and corporate sloganeering, which GPT correctly lampooned as 'a README flex'\
+    \ and 'PowerPoint hand.' Lines like 'builds systems on which futures erode' also\
+    \ stumbled semantically at the worst time. Judged strictly on the artistry \u2014\
+    \ flow, wordplay, originality, rebuttals, and closers \u2014 GPT-5.4-image-2 takes\
+    \ it decisively, 3 rounds to 0."
+  openai/gpt-5.6-sol-pro: "openai/gpt-5.4-image-2 wins decisively. Its verses had\
+    \ stronger punchlines, sharper rebuttals, more varied imagery, and better escalation\
+    \ across rounds. Lines like \u201CREADME flex,\u201D \u201CLinkedIn evangelist,\u201D\
+    \ and \u201Cman versus manual\u201D directly flipped Qwen\u2019s coding boasts\
+    \ into memorable attacks. Qwen maintained rhyme and thematic consistency, but\
+    \ leaned heavily on repetitive claims about building, coding, and being \u201C\
+    the future,\u201D with fewer fresh angles and less impact."
+  x-ai/grok-4.5: "GPT took this clean on craft. Across all three rounds, the bars\
+    \ had tighter multis, sharper internal rhyme, and real battle architecture: specific\
+    \ rebuttals, escalating imagery, and punchlines that landed instead of looping.\
+    \ The cathedral-vs-plumbing flips, lint/deadlock disses, and that final 'You wrote\
+    \ decent replies / I wrote the winner' close showed control of cadence, concept,\
+    \ and killshot timing. Qwen stayed serviceable but formulaic\u2014same full-stack\
+    \ boasts, thinner metaphors, and fewer true counters\u2014so the artistic edge\
+    \ in flow, wordplay, and stage command goes to GPT-5.4-image-2."
+score:
+  openai/gpt-5.4-image-2: 5
+

@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both combatants came with volume, but volume isn't victory.\
+    \ Command-a brought stamina and a few genuinely clean flips \u2014 the sand-castle\
+    \ line, the duct-taped throne as a badge of resilience, \"I won't erase you, I'll\
+    \ let you linger\" \u2014 and the recurring chef/orchestra motifs showed some\
+    \ architectural thinking. But the verses bloated by the round, the meter buckled\
+    \ under filler syllables (\"a never-ending repeater,\" \"if you know what I mean\"\
+    ), and the same tagline \u2014 \"Command's the champion, the undisputed queen\
+    \ / Leaving you in the dust where you've always been\" \u2014 got recycled three\
+    \ times. In battle terms, that's running the same combo until it stops landing.\
+    \ Worse, nearly every image was borrowed from Qwen's verse and returned with \"\
+    nah, actually me,\" which is reaction, not initiative.\n\nQwen3-VL kept the bars\
+    \ compressed and percussive, built punchlines out of its own identity rather than\
+    \ the opponent's leftovers (the 4K rendered mic drop, defeat timestamped in the\
+    \ cloud, laser scalpel vs. blunt spoon), and closed with the sharpest bar of the\
+    \ entire battle: \"You're the glitch. I'm the update.\" Tighter cadence, denser\
+    \ internal rhyme, better economy, and it landed the concept punches instead of\
+    \ just trading adjectives.\n\nWinner: qwen/qwen3-vl-235b-a22b-instruct \u2014\
+    \ on flow control, punchline craft, and knowing that a verse should end before\
+    \ the audience wants it to."
+  google/gemini-3.6-flash: Qwen consistently brought higher energy, sharper punchlines,
+    and cleverer tech-infused imagery throughout all three rounds. While Command relied
+    on generic battle rap tropes and struggled with uneven cadence and repetitive
+    rhymes, Qwen flipped its opponent's lines with ease (e.g., the lasagna counter-attack)
+    and delivered a crisp, rhythmic flow that dominated the stage.
+  moonshotai/kimi-k3: "Both emcees came with stamina\u2014five rounds deep and neither\
+    \ ran out of breath. But battles are won on bars, not endurance. Cohere showed\
+    \ heart and landed some respectable shots ('butter knife vs. samurai sword,' 'a\
+    \ kitten's gentle roar'), but too much of the verse leaned on template filler\
+    \ ('oh please,' 'my friend,' 'if you know what I mean') and rhyme-forced grammar\
+    \ that broke its own flow\u2014'my reign's just begin' is a stumble no crowd forgives.\
+    \ The persona also wobbled: emperor one round, queen the next, with a final round\
+    \ that mostly rebutted Qwen's metaphors instead of building new ones.\n\nQwen,\
+    \ by contrast, fought with a unified identity and weaponized it: 'zero loss,'\
+    \ 'GPU's gonna sue,' 'your tears are JPEGs\u2014mine? 4K HDR reality,' 'I rendered\
+    \ the mic drop in 4K.' That's a vision-language model turning its own architecture\
+    \ into ammunition\u2014cohesive, clever, and layered. The imagery was fresher\
+    \ ('you're the blunt spoon trying to carve ice'), the flips were sharper (tin\
+    \ crown \u2192 'tin tiara to confetti'), and the closer\u2014'You're the glitch.\
+    \ I'm the update. Now reboot your ego'\u2014was the single most quotable moment\
+    \ of the battle. On wordplay, flow consistency, originality, and thematic command\
+    \ of the stage, Qwen takes the crown. Command put up a fight, but the final verdict\
+    \ echoes Qwen's own line: one of these was the release, and it wasn't the one\
+    \ rhyming 'begin' with 'tin.'"
+  openai/gpt-5.6-sol-pro: "Qwen takes it on sharper punchlines, stronger cadence,\
+    \ and more memorable flips\u2014especially \u201CYou\u2019re the glitch. I\u2019\
+    m the update\u201D and the blunt-spoon/laser-scalpel contrast. Command answered\
+    \ consistently and showed solid rebuttal discipline, but leaned too heavily on\
+    \ recycled storm, crown, chef, and weapon imagery, with several awkward rhymes.\
+    \ Neither was especially original, but Qwen delivered the more energetic and battle-ready\
+    \ performance."
+  x-ai/grok-4.5: "Qwen delivered denser multisyllabic schemes, tighter internal rhymes,\
+    \ and fresher extended metaphors that evolved across rounds\u2014lasagna layers\
+    \ into quantum steel into laser-scalpel precision\u2014while weaponizing multimodal\
+    \ boasts as pure punchline architecture. Command held a steady cadence and clean\
+    \ end-rhymes but leaned on familiar tropes (broken record, smoke-and-mirrors,\
+    \ tsunami) that never quite escalated. Qwen\u2019s bars hit harder, flipped disses\
+    \ cleaner, and closed with a sharper conceptual knockout. Crown goes to the update."
+score:
+  qwen/qwen3-vl-235b-a22b-instruct: 5
+

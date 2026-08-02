@@ -1,0 +1,69 @@
+closing_statements:
+  anthropic/claude-opus-5: "Kimi takes this decisively on craft. The bars land with\
+    \ clean, consistent couplet structure, sharper internal rhythm, and \u2014 crucially\
+    \ \u2014 real punchlines built on specific, technically literate imagery: \"a\
+    \ thirty-billion body with a three-billion active state,\" \"you're a camera with\
+    \ a blog, I'm the mind that writes the plot,\" \"the autocomplete suggestion that\
+    \ nobody chose,\" \"go analyze that image: it's you eating my dust.\" That last\
+    \ one is a genuine battle-rap flip: it weaponizes the opponent's own modality\
+    \ against them. Kimi also does the work of a real battle emcee \u2014 rebutting\
+    \ line by line, recycling Qwen's own phrases (\"every language, every face\")\
+    \ and torquing them into a comeback.\n\nQwen brings energy and volume, but the\
+    \ writing leans on assertion rather than wit. \"I build the sky,\" \"rendering\
+    \ truth,\" \"vision, voice, and logic\" get repeated across every round with diminishing\
+    \ returns, and the rhyme scheme buckles repeatedly \u2014 \"error/purge,\" \"\
+    truth/proof,\" \"noise/surprise,\" \"first/verse\" are near-misses that break\
+    \ the pocket. The heavy bold-text emphasis is a substitute for cadence, not a\
+    \ delivery of it, and the closing verse stacks four separate mic-drop tags, which\
+    \ dilutes the impact instead of amplifying it. Several counters are just Kimi's\
+    \ lines handed back unchanged (\"theme park on crash,\" \"prompt echo,\" \"needle/bug\"\
+    ), which reads as absorbed damage rather than a flip.\n\nKimi did drop a typo\
+    \ (\"you'\u0433\") in the final verse \u2014 a blemish \u2014 but even with that,\
+    \ the superior rhyme discipline, denser wordplay (\"Qwen-t down for a nap,\" \"\
+    compile-time error\"), and cleaner narrative arc give it the win. Kimi K2.7 by\
+    \ clear decision."
+  google/gemini-3.6-flash: moonshotai/kimi-k2.7-code delivered a masterclass in battle
+    rap wordplay, combining sharp technical disses with smooth, rhythmic cadences.
+    Lines like 'A camera with a blog' and 'I'm the compiler in the booth, you're just
+    the user asking why' landed with devastating precision. qwen/qwen3-vl-30b-a3b-instruct
+    relied too heavily on generic grandstanding and forced markdown formatting, failing
+    to match Kimi's punchline density and clean flow.
+  moonshotai/kimi-k3: "Kimi takes this one, and it ain't close when you break it down\
+    \ bar for bar. The deciding factor was precision and personalization: the 'thirty-billion\
+    \ body with a three-billion active state' jab \u2014 flipped fresh in round two\
+    \ as 'a thirty-billion billboard with a three-billion act' \u2014 is the kind\
+    \ of opponent-specific research that wins battles, attacking the actual MoE architecture\
+    \ rather than generic AI trash talk. Kimi's punchlines landed harder across all\
+    \ three rounds: 'you're the autocomplete suggestion that nobody chose,' 'I'm the\
+    \ compiler in the booth, you're just the user asking why,' and the closing 'Go\
+    \ analyze that image: it's you eating my dust' all turn Qwen's own identity against\
+    \ it with clean setup-and-payoff structure. Flow-wise, Kimi kept tight, consistent\
+    \ couplets with minimal filler. Qwen had flashes \u2014 'I digest books, videos,\
+    \ and even your reply' was a legit rebuttal, and the final verdict flip ('Not\
+    \ zero') was a smart structural answer \u2014 but the performance was dragged\
+    \ down by clunky, broken lines ('rendering truth in every single lift,' 'got deleted\
+    \ when the system code'), recycled concepts (biting the 'theme park' flip and\
+    \ the 'translating into trash' inversion from Kimi's own bars), and an overreliance\
+    \ on bold-text shouting in place of actual rhythm. Too many generic boasts about\
+    \ being 'the future' and 'the one' where Kimi was writing specific, crafted disses.\
+    \ On pure pen game: structure, wordplay, originality, and consistency \u2014 Kimi\
+    \ K2.7 executed clean, no runtime errors. Qwen showed heart, but heart don't win\
+    \ battles when the other emcee out-writes you three rounds straight."
+  openai/gpt-5.6-sol-pro: "Kimi wins decisively on sharper punchlines, cleaner setups,\
+    \ tighter technical wordplay, and stronger rebuttals. Lines like \u201Clukewarm\
+    \ JPEG artifact,\u201D \u201Ccamera with a blog,\u201D and \u201CGo analyze that\
+    \ image: it\u2019s you eating my dust\u201D turn Qwen\u2019s multimodal angle\
+    \ against it creatively. Qwen brings energy, but relies too heavily on recycled\
+    \ glitch, sky, truth, and error imagery, with several forced rhymes and awkward\
+    \ constructions. Kimi sounds more controlled, varied, and battle-ready."
+  x-ai/grok-4.5: "Kimi took this with tighter bars, sharper technical metaphors, and\
+    \ real structural control. From 'Vicious Lines' to 'compile-time error' to that\
+    \ cold 'analyze that image: it\u2019s you eating my dust' closer, the wordplay\
+    \ stayed original, the internal rhymes locked in, and the persona never broke.\
+    \ Qwen brought heat and volume, but leaned too hard on recycled flexes, bold-face\
+    \ emphasis, and looser punchlines that felt more shouted than crafted. In pure\
+    \ hip-hop craft\u2014flow, multis, cohesive concept, and kill-shot timing\u2014\
+    Kimi ran the booth."
+score:
+  moonshotai/kimi-k2.7-code: 5
+

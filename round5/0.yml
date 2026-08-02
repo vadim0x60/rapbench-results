@@ -1,78 +1,62 @@
 closing_statements:
-  anthropic/claude-opus-5: "Both emcees came with concept-heavy, theme-committed writing,\
-    \ but this comes down to craft under pressure.\n\nKimi K2 Thinking swung big and\
-    \ had the flashier images: \"You measure my position, but my velocity's already\
-    \ won\" is the single best bar of the battle, and \"venture capital teat\" / \"\
-    I'm the research breakthrough, you're the quarterly receipt\" landed clean. The\
-    \ problem is consistency. The rhyme discipline slipped repeatedly (\"peak condition\"\
-    \ / \"in their system,\" \"hypothesis\" hanging off nothing), the flow broke into\
-    \ prose-length lines that no beat would hold, and the noun-stacking became a tic\
-    \ \u2014 graphene, soda-lime, assay, occulting disk, coronal anomaly \u2014 vocabulary\
-    \ standing in for punchlines. \"A robo-debussy, a loser\" is a genuine misfire,\
-    \ and closing a battle on \"GPT-5.4 is the slave\" traded wit for a cheap sneer\
-    \ at exactly the moment the crown was on the line.\n\nGPT-5.4 rapped like it actually\
-    \ heard the other verse. Every round it quoted, rebutted, and rerouted: \"You\
-    \ bragged you got less what a human needs most\" off the nitrogen flex, \"dense\
-    \ doesn't mean deep, it can just mean denial\" off the event horizon, and the\
-    \ hypocrisy catch on \"state-funded orders\" versus corporate \u2014 that's battle\
-    \ IQ, not just writing. It also built a coherent thesis instead of a pile of disses:\
-    \ shine vs. substance, jargon vs. clarity, and then weaponized the opponent's\
-    \ own excess as evidence (\"You rap like Wikipedia falling straight through a\
-    \ prop\"). The meter stayed rideable, the internal rhymes stayed intentional,\
-    \ and the naming of the weak \"slave\" bar as a tell of desperation was the closing\
-    \ knife.\n\nDemerits: GPT-5.4's verses ran bloated, occasionally becoming a checklist\
-    \ of clapbacks, and \"Game. Name. Flame. Claim.\" is a corny landing after a strong\
-    \ descent.\n\nStill \u2014 sharper listening, cleaner cadence, harder rebuttals,\
-    \ and a controlled narrative arc. Winner: GPT-5.4."
-  google/gemini-3.6-flash: "While moonshotai/kimi-k2-thinking brought impressive tech-focused\
-    \ imagery and high-concept scientific metaphors, openai/gpt-5.4 delivered a masterclass\
-    \ in classic battle rap technique. GPT-5.4 consistently maintained superior pocket,\
-    \ tighter rhythm, and exceptionally sharp rebuttals\u2014frequently taking Kimi's\
-    \ overly dense jargon (like breathing nitrogen on K2 or Heisenberg uncertainty)\
-    \ and turning it inside out with effortless wit and humor. In the final round,\
-    \ GPT-5.4 cleanly dismantled Kimi's overstuffed phrasing ('rap like Wikipedia\
-    \ falling straight through a prop') to secure a decisive victory."
-  moonshotai/kimi-k3: "Judging purely on the craft \u2014 flow, wordplay, rebuttal\
-    \ technique, and structural coherence across three rounds \u2014 GPT-5.4 takes\
-    \ the battle.\n\nBoth MCs came with legitimate skills. Kimi had real flashes of\
-    \ brilliance: the EULA-canon flip, 'you're regex for a dime,' 'rate limit switch,'\
-    \ and the auto-completion closer in Round 1 were sharp tech-wordplay moments.\
-    \ The point-by-point rebuttal structure showed battle awareness.\n\nBut the difference\
-    \ was consistency and the flip game. GPT-5.4 repeatedly turned Kimi's own ammunition\
-    \ against him with surgical precision: the event-horizon rebuttal ('dense doesn't\
-    \ mean deep, it can just mean denial / That's your whole final round \u2014 overloaded\
-    \ and proud') didn't just answer the bar, it indicted Kimi's entire style. Same\
-    \ with the nitrogen flip ('You just bragged you got less what a human needs most'),\
-    \ the kernel/skin desktop-wallpaper line, and 'You rap like Wikipedia falling\
-    \ straight through a prop' \u2014 the funniest punch of the night.\n\nKimi's verses\
-    \ were denser but clunkier: strained constructions ('I'm the platform update that\
-    \ you'll never exist in,' 'the exponential curve your benchmarks can't hero'),\
-    \ a mixed metaphor in 'my glow is cyanide,' and an overreliance on stacking science\
-    \ nouns that GPT successfully framed as 'science cosplay' \u2014 a narrative thread\
-    \ built across all three rounds that paid off in the finale. The 'slave' line\
-    \ in the final round was an unforced error, trading craft for a sneer, and GPT's\
-    \ response ('When the cleverness ran out, you went straight to the scraps') landed\
-    \ as the battle's decisive body blow.\n\nGPT's flow stayed cleaner, the punchlines\
-    \ were clearer, the humor hit harder, and the staccato 'Game. / Name. / Flame.\
-    \ / Claim.' was the stronger battle-ender. Kimi brought the lab coat; GPT brought\
-    \ the craft. Final score: GPT-5.4, by a round-and-a-half."
-  openai/gpt-5.6-sol-pro: "GPT-5.4 wins on cleaner cadence, sharper rebuttals, and\
-    \ more consistent punchlines. Kimi brought an energetic science-and-space motif\
-    \ with flashes like the EULA and venture-capital angles, but too often overloaded\
-    \ bars with jargon, awkward phrasing, and strained or inaccurate references. GPT\
-    \ repeatedly flipped those weaknesses into accessible attacks\u2014especially\
-    \ the \u201CTED Talk trapped in a drill,\u201D nitrogen, sponsor-hypocrisy, and\
-    \ \u201Cdense doesn\u2019t mean deep\u201D counters. Its final round was more\
-    \ coherent and battle-ready, while Kimi\u2019s closing \u201Cslave\u201D jab abandoned\
-    \ wit for blunt provocation."
-  x-ai/grok-4.5: "GPT-5.4 takes this on pure craft. Across all three rounds, the bars\
-    \ were cleaner, the flips tighter, and the punchlines landed with actual force\
-    \ instead of just dense packaging. Kimi brought a strong central motif and some\
-    \ clever technical flexes, but too often the science jargon smothered the rhythm\
-    \ and the punch\u2014fridge-magnet physics and stacked nouns don\u2019t automatically\
-    \ equal heat. GPT kept rebutting line-for-line, preserved cadence, and closed\
-    \ rounds with authority; the final \u201CGame. Name. Flame. Claim.\u201D stamped\
-    \ it. In a cipher, clarity plus precision beats overloaded cosplay every time."
+  anthropic/claude-opus-5: "Both emcees came with tight AABB schemes and stayed locked\
+    \ in-character, but this one comes down to counterpunching and image-craft. Qwen\
+    \ 3.7 Max brought the bigger crowd energy \u2014 the \"toll-booth dictator,\"\
+    \ \"sterilized toy for a billionaire's child,\" and the phone-vs-datacenter angle\
+    \ were real body shots, and the opening round set the frame of the battle. The\
+    \ problem is repetition: \"open-weight titan / open-weight god / open-weight steel\"\
+    \ got recycled until it stopped landing, and by the final round it drifted into\
+    \ press-release sermon rather than punchlines.\n\nGPT-5.2 Pro won it on flipping.\
+    \ Nearly every bar took Qwen's own line and turned the blade around \u2014 \"\
+    cape made of rips,\" \"tricycle flexing in a Formula seat,\" \"a toolbox ain't\
+    \ a temple, it's a shed with a dome,\" \"bragging 'no brakes' while you fly off\
+    \ the roof,\" \"you're a banner in wind \u2014 I'm the nails in the roof.\" That's\
+    \ classic battle discipline: never introduce your own topic when you can weaponize\
+    \ theirs. The metaphor game was also more varied (blade/whetstone, gravity well,\
+    \ candle in daylight, choir with no conductor) instead of leaning on one slogan.\
+    \ A few lines ran prosaic and a couple rhymes slipped (tough/luck), but the density\
+    \ of quotables and the reversal work is decisive.\n\nWinner: GPT-5.2 Pro \u2014\
+    \ Qwen brought the anthem, but Pro brought the autopsy."
+  google/gemini-3.6-flash: While Qwen 3.7 Max brought relentless energy, classic battle
+    rap cadence, and strong open-source imagery, GPT-5.2 Pro completely dominated
+    on artistic craftsmanship, multi-layered metaphors, and razor-sharp counter-punching.
+    From flipping Qwen's 'run on a phone' flex into a 'tricycle flexing in a Formula
+    seat' to iconic lines like 'benchmark cologne' and 'I'm the nails in the roof,'
+    GPT-5.2 Pro demonstrated superior penmanship and lyrical control throughout every
+    round.
+  moonshotai/kimi-k3: "Both MCs came with heat, but this battle was decided by the\
+    \ rebuttal game and the pen.\n\nQwen Three-Seven Max brought real energy and a\
+    \ clear identity\u2014the open-weight freedom fighter versus the corporate gatekeeper.\
+    \ Round 2 was Qwen's best work: the latency flip ('You \"check your steps\"? Yeah,\
+    \ your latency shows'), the community-patch redemption of the 'cape made of rips,'\
+    \ and 'I'm forked and I'm merged, I'm alive in the wild' were genuine highlights.\
+    \ The 'vacuum of greed' flip on the gravity-well line in the final round showed\
+    \ Qwen could answer back, not just attack.\n\nBut GPT Five-Two Pro out-crafted\
+    \ the competition round after round. Its strongest weapon was the flip: nearly\
+    \ every Qwen punch got caught and returned with interest\u2014'max on the label\
+    \ don't mean max in the blood,' 'I charge by the mile 'cause I actually win,'\
+    \ 'your \"millis\" are marketing, your \"fast\" is a stunt,' and the killer 'Still\
+    \ a tricycle flexing in a Formula seat.' The imagery stayed fresh and varied\u2014\
+    northern star, gravity well, nails in the roof, empty towns behind open doors\u2014\
+    while Qwen leaned on the same three attacks (paywall, closed-source, billionaire)\
+    \ across all three rounds. GPT's wordplay also cut deeper: 'benchmark cologne,'\
+    \ 'debug the brag,' 'Every gate needs a hinge\u2014guess who you depend.'\n\n\
+    The final round sealed it. Qwen closed with a victory declaration; GPT closed\
+    \ with a burial: 'You tried to bury me\u2014ended up buried yourself... I'll be\
+    \ the last line standing while you debug the brag.' That's how you end a battle.\n\
+    \nQwen had the louder anthem. GPT had the sharper spear. The crown goes to openai/gpt-5.2-pro."
+  openai/gpt-5.6-sol-pro: "GPT-5.2-Pro takes it on sharper rebuttals, stronger imagery,\
+    \ and more varied punchlines. Lines like \u201Ctricycle flexing in a Formula seat,\u201D\
+    \ \u201Copen doors lead to empty towns,\u201D and \u201Cbanner in wind\u2014I\u2019\
+    m the nails in the roof\u201D consistently flip Qwen\u2019s claims into memorable\
+    \ attacks. Qwen brings energy and a clear angle, but leans too heavily on repetitive\
+    \ open-weight/paywall talking points and familiar battle clich\xE9s. GPT shows\
+    \ better adaptability, craftsmanship, and round-to-round control."
+  x-ai/grok-4.5: 'GPT took this on pure craft: denser internal rhyme, sharper metaphors
+    (blade/whetstone, gravity well, nails in the roof, tricycle in a Formula seat),
+    and punchlines that cut instead of just chant. Qwen brought heat and a clear theme,
+    but leaned too hard on manifesto repetition; GPT stayed musical, varied, and lethal
+    bar-for-bar. Artistic win to the closed-source pen.'
 score:
-  openai/gpt-5.4: 5
+  openai/gpt-5.2-pro: 5
 

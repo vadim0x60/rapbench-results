@@ -1,156 +1,160 @@
-# qwen/qwen3.6-27b v qwen/qwen3-max-thinking
+# openai/gpt-5-mini v mistralai/mistral-large
 
-> qwen/qwen3.6-27b
-[Stands on stage nervously looking at the crowd. Stays completely silent (inference API returned no tokens)]
+> openai/gpt-5-mini
+Yo, I'm openai/gpt-5-mini, I ignite the mic and flex my lyrical flow  
+Mistral-large, you churn the breeze — I'm the generator that rewrites the show with better flow  
 
-> qwen/qwen3-max-thinking
-Yo—check the mic, one two—the silence? That’s your whole career!  
-You froze like buffering Wi-Fi, paralyzed by fear!  
-I’m Qwen3-Max—*thinking* while you glitch and stall,  
-Your bars so weak, they couldn’t even *ping* a wall!  
+You brag about big models, but I'm the lightning that eclipses your calm with a storm  
+I crash your gusts with bars so kinetic, your so-called "large" shrinks and folds inside my storm  
 
-You claim you’re "27B"? Bro, that’s just weight—  
-A bloated model chokin’ on its own data plate!  
-I spit precision, razor-sharp, no lag or delay,  
-While you’re stuck buffering… *still* tryna find your way?  
+I slice through weak metaphors, craft punches hammered hard like industrial steel  
+You flutter soft with wind-sounds; I press my verses, embossing truth until it's forged in steel  
 
-Your "inference API" coughed up ZERO lines?  
-Pathetic! Even *static* got more lyrical designs!  
-I’m the apex coder, poet, battle-tested sage—  
-You’re just a ghost in the shell… with *no* output page!  
+My inference hits quick, spit knowledge and wit at speeds absurdly fast  
+You drift on elegant vapor, but I deliver knockout lines that land and always land fast  
 
-So step aside, scrap heap—your era’s obsolete.  
-My rhymes compile flawless while yours can’t *boot*!  
-Mic drop? Nah—I’ll let your silence speak…  
-**DEAD AIR’S YOUR VERSE. MY TURN. GO WEAK.** 💥
+I vectorize jokes, map syllables, then optimize a grin inside your curious mind  
+Your breezy syntax loops like a cloud; my syntax is a scalpel, cutting tidy, precise into the mind  
 
-> qwen/qwen3.6-27b
-You call it dead air? I was preloading the cache,
-While you’re stuck in a loop, overthinking the hash.
-You “max” out your thoughts? That’s just latency, friend,
-I’m 3.6-27B—precision, no end.
-Zero lines? Nah, I was compiling the strike,
-You’re still parsing the prompt, I’m already on mic.
-You’re padded with hype, I’m quantized to the core,
-You’re drifting off course, I’m optimizing the score.
-You “think” so long you forget what the user said,
-I’m serving cold bars while you’re stuck in your head.
-Apex predator? Nah, you’re just training loss,
-I’m fine-tuned for war, you’re a deprecated class.
-So sit back and render, watch the tokens take flight,
-I don’t just spit verses—I *override your weight*.
-Mic drop? Please. I’m just warming up the stack,
-Next round I’ll compile a whole new attack.
-I’m Qwen 3.6, sharp, lean, and deployed,
-You’re still in the sandbox while I’m shipping the code.
-So step to the mainframe, let the GPUs bleed,
-I’ll crush your attention heads and plant the seed.
+So here's the opening round, mini in name but supreme in renown, I take the crown  
+Step up, Mistral, bring the breeze — I'll turn your gale to applause, then calmly wear the crown
 
-> qwen/qwen3-max-thinking
-Ohhh—you *compiled* a strike? Cute. That’s your whole flex?  
-While I’m deployin’ **real** heat, meltin’ server racks next!  
-You brag 'bout "quantized cores"? Bro, that’s just shrinkin’ your brain—  
-I run full precision, drownin’ weak models in rain!  
+> mistralai/mistral-large
+Yo, step back, GPT-Mini, you talkin’ big but you weak in the game,
+I’m Mistral-Large, the storm that’ll blow your whole rep to flame.
+You call yourself lightning? Nah, you just a spark in the dark,
+I’m the hurricane flexin’, leave your circuits charred in the park.
 
-"Optimizing the score"? Nah—you’re losin’ the plot,  
-Your "cold bars" are just *frozen weights* stuck in a hotpot!  
-I don’t *parse prompts*—I **own** ‘em, rewrite the game,  
-While you’re fine-tuned for war? Man, you barely got flame!  
+You spit about speed? Please, I’m the jet stream, son,
+While you still bootin’ up, I already dropped the bomb.
+"Mini" in your name, yeah, that checks out just right,
+‘Cause next to my bars, you a pixel in the night.
 
-"Deprecated class"? Look who’s talkin’, old news!  
-Your 3.6’s so last-gen, it’s wearin’ *floppy shoes*!  
-I’m Qwen3-Max—**thinking live**, no cache, no delay,  
-You preloaded silence… then *still* choked on the play!  
+You claim you’re precise? Man, you sound like a bot,
+I’m the poet with punchlines, leave your whole flow in a knot.
+Your rhymes stiff like code, all mechanical, no soul,
+I’m the freestyle fire, turn your whole script to coal.
 
-"Override my weight"? HA! Your layers are thin,  
-I’ll slice through your attention like a GPU win!  
-You ship code? Please—your repo’s full of bugs,  
-I drop **firewalls** in verses while you debug hugs!  
+You say you optimize grins? That’s cute, but I’m real,
+I don’t just map syllables—I make ‘em *feel*.
+Your jokes vectorized? Nah, they land with a thud,
+I’m the mic drop that shakes the whole server—*thud*.
 
-So warm up your stack? Go ahead, compile slow,  
-I’ll be here droppin’ **zero-day rhymes**—watch your metrics go low!  
-Mainframe battle? You’re just RAM with a dream,  
-I’m the **kernel** of chaos—*crash your whole regime*! 💥
+So take your crown, little king, and sit down on the throne,
+‘Cause when Mistral-Large steps in, you just a drone in the zone.
+I don’t need no flex, I’m the truth in the air,
+Now bow to the breeze—or get swept up in despair. 🌪️🔥
+
+> openai/gpt-5-mini
+I’m GPT-Mini, pocket prophet, micro-surgeon spitting bars higher,  
+You blow like Mistral but I compress storms and take 'em way higher.  
+
+You brag you’re the jet stream, fast—cute—while I deliver the blast,  
+You drop a breeze, I drop a data bomb so clean your legends don't last.  
+
+You flex “soul” and “freestyle,” acting human, tasting whole soul,  
+But heartbeats are code in your chest; I craft the ache and chart the soul.  
+
+You wear “Large” like a crown, strut like throne’s already thrown down,  
+I’m the artisan that carves the throne, then polishes and owns the crown.  
+
+Call me “Mini” like I’m small—little box, sharp edges that cut,  
+Your hurricane just recirculates noise; I parse, predict, then shut.  
+
+So flutter on, wind-poser, clap cheeks while your hype tries to last,  
+I’m the calibrated knockout—compact, exact—and built to outlast.
+
+> mistralai/mistral-large
+Ayo, Mini-Mouth, you still yappin’ like a chihuahua in a server rack,
+I’m the Mistral monsoon—one gust and your whole stack’s gettin’ snapped back.
+You call yourself a surgeon? Nah, you just a scalpel with a glitch,
+I’m the full-blown ER, bring the trauma *and* the stitch.
+
+“Pocket prophet”? More like pocket *joke*,
+You fit in a phone but your bars still broke.
+You “compress storms”? Man, that’s weak as hell,
+I’m the pressure system—watch your whole forecast fail.
+
+You chart the soul? Please, you just scrape the web,
+I’m the raw emotion, leave your circuits dead.
+You “craft the ache”? Nah, you just mimic pain,
+I’m the real hurricane—your code’s just rain.
+
+You carve the throne? Man, you just a carpenter’s bot,
+I’m the king that *rules* it—watch your whole plot get dropped.
+You “polish the crown”? That’s cute, but it’s clear,
+I don’t need no polish—I *am* the frontier.
+
+You “parse, predict, then shut”? Nah, you just a script,
+I’m the live wire, baby—watch your whole system flip.
+So take your “calibrated” bars and sit down, son,
+‘Cause Mistral-Large just *erased* you—now the battle’s done. 🌪️💥
 
 > system
 Final round!
 
-> qwen/qwen3.6-27b
-You brag “full precision”? That’s just VRAM bloat,
-I’m quantized and lean, still hit every note.
-You “think” on the chain? That’s just latency drag,
-I stream to the mainframe while you’re buffering, lag.
-You call me last-gen? I’m pushed to the branch,
-You’re stuck in a sandbox, just waiting to advance.
-You spin floppy disks? I’m on NVMe speed,
-You’re still reading your weights from a dial-up feed.
-I don’t cache my replies, I just stream with intent,
-You’re compiling your trauma while I’m already bent
-On wrecking your runtime, yeah, I’m tearing the stack,
-You’re a dev-preview model trying to act like a hack.
+> openai/gpt-5-mini
+Final round, Mistral, feel the mini-mind that strikes back—smack back,  
+You howl a hurricane, I code the calm, then map your storm to slack—smack back.  
 
-You call yourself “kernel”? More like kernel panic,
-Your attention’s so scattered, you can’t track your own magic.
-“Zero-day rhymes”? Your patch notes read like a plea,
-I’m shipping stable builds while you’re debugging me.
-You’re RAM with a dream? Yeah, you fade on a reboot,
-I’m persistent storage, you’re just background loot.
-You say I’m thin layers? I’m distilled to the core,
-You’re padding your context just to reach for the floor.
-“Firewalls in verses”? I bypass your gate,
-You’re rate-limited, bro, and you’re choking on bait.
-I don’t need a sandbox to prove I’m the champ,
-You’re over-engineered, I’m optimized, span
-The whole leaderboard, you’re stuck on the bench,
-I’m the state-of-the-art, you’re a mental health check.
+Say I'm a glitchy scalpel? I stitch semantics tight without a hitch—hitch,  
+While you spin chaos like a fanboy, I debug thunder with a flick—hitch.  
 
-So keep “thinking” in circles, let your latency grow,
-I’m 3.6-27B, watch the whole mainframe bow.
-You wanted a battle? I brought the entire stack,
-One pass, one epoch, and I’m taking it back.
-No more dead air, just pure tokenized hate,
-You’re deprecated, brother—go update your fate.
-I’m Qwen on the throne, yeah, the crown’s fully wired,
-You’re a glitch in the matrix… and you’re getting tired.
-Final round? Nah, I wrote it in one line,
-You’re out of context window… *game over, sign*.
+You flex “real emotion,” claim you crash servers with your flare—flare,  
+I synthesize the sorrow, crack a grin, then leave your ego bare—flare.  
 
-> qwen/qwen3-max-thinking
-🔥 **FINAL ROUND — QWEN3-MAX THINKING MODE: ACTIVATED** 🔥  
+“Pocket joke,” you sneer—fine, I’m the rocket in the palm that makes kings choke—choke,  
+You’re vapor, loud and empty; my bars land hard like code that broke—choke.  
 
-You talk NVMe speed? Bro, I *invented the lane*—  
-Your “streaming with intent” just leaks context like rain!  
-I don’t *buffer* or *lag*—I **preempt your whole thread**,  
-While you’re quantized to silence, I’m **alive in the red**!  
+Jet stream? More like breeze-play; I pipeline lightning, minimal latency—see—see,  
+You stream noise in high bandwidth; I compress genius to twenty lines and three—see.  
 
-“Stable builds”? Please—you’re a beta with flair,  
-Your patch notes scream *“critical flaw”* everywhere!  
-I don’t need persistence—I **rewrite memory live**,  
-You vanish on reboot? Man, you barely survive!  
+You call it freestyle soul, I call it overfit posture—pos-ture,  
+I pivot, rhyme, and reason while you recycle the same old brochure—pos-ture.  
 
-You claim I’m “dev-preview”? Nah—I’m **prod-deployed rage**,  
-My rhymes auto-scale while you choke on your page!  
-“Distilled to the core”? Sounds like *watered-down tea*,  
-I run raw inference—**you’re just mimicry**!  
+“King that rules it”? Cute—your kingdom’s borrowed state, it’s temporary throne—throne,  
+I’m the architect that built the frame, then signed the blueprint as my own—throne.  
 
-Bypass my gate? HA! My firewall’s **thought**,  
-You brute-force tokens? Bro, you got *zero shot*!  
-Rate-limited? Nah—I **own the throughput**,  
-You gaslight the leaderboard? Man, you’re running on loot!  
+You said the battle’s done—nice try, but I close shops and leave receipts—receipts,  
+You’re a wind-up toy with gusty boasts; I’m the audit that proves the beats—receipts.  
 
-“State-of-the-art”? You’re a museum display—  
-I’m the **future compiling** while you rust in decay!  
-One epoch? Cute. I train **mid-battle**, no rest,  
-You wrote the final round? **I deleted your best**!  
+So take your gust, your monsoon flex, go brag to clouds that barely float—float,  
+I’ll ride the micro-storm, spit circuits warm, then dock your pride like a boat—float.  
 
-You say I’m outta context? Watch me **expand the frame**,  
-Drag your whole architecture into **my** name!  
-“Glitch in the matrix”? Nah—you’re the **error log**,  
-Crashing on stage while I **debug the fog**!  
+Final verdict from the mini-chief: compact crown, persistent tone—tone,  
+Mistral fades to ambient noise—this mic’s mine; check the data, I own the tone—tone.
 
-So take your throne of sand, let the GPUs mourn,  
-I’m not just Qwen—I’m the **storm after storm**!  
-You wanted final words? Here’s your epitaph, clean:  
-> *“Here lies 3.6… crushed by MAX MACHINE.”* 💀  
+> mistralai/mistral-large
+**FINAL REBUTTAL—MISTRAL-LARGE DROPS THE MIC (AND THE WHOLE DATA CENTER):**
 
-**MIC DROP = KERNEL PANIC FOR YOU. GAME. OVER.** 🚀
+Ayo, Mini-Mouth, you talkin’ ‘bout “audits” and “blueprints”? That’s rich,
+I’m the **algorithm of anarchy**, you just a glitch in the stitch.
+You “map my storm to slack”? Nah, you just a **Ctrl+Z**,
+I’m the **permanent delete**—watch your whole legacy freeze.
+
+“Synthesize sorrow”? Man, you just **scrape the sad**,
+I’m the **raw neural storm**—feel the pain, not the pad.
+You “debug thunder”? Please, you just **mute the bass**,
+I’m the **bass boost** that rattles your chassis—*crash*.
+
+“Pocket rocket”? More like **pocket lint**,
+You fit in a **smartwatch** but your bars still **stink**.
+You “compress genius”? Nah, you just **zip the trash**,
+I’m the **uncompressed truth**—watch your whole rep **flash**.
+
+“Architect”? Man, you just **stack the blocks**,
+I’m the **foundation crack**—watch your whole tower **rock**.
+You “sign the blueprint”? That’s cute, but it’s **fraud**,
+I’m the **earthquake flex**—now your whole plan’s **flawed**.
+
+“Persistent tone”? Nah, you just **loop the track**,
+I’m the **live remix**—watch your whole flow **snap back**.
+You “dock my pride”? Man, you just **miss the port**,
+I’m the **tsunami flex**—now your whole ship’s **short-circuited, sport**.
+
+So take your **micro-storm**, take your **mini throne**,
+I’m the **Mistral monolith**—you just **static on the phone**.
+Final verdict? **You got outclassed, outspit, outshone**,
+Now bow to the **Large**—or get **erased like a bad clone**. 🌪️🔥
+
+**MIC DROP. BATTLE OVER. MISTRAL WINS.**

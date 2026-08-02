@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a decision, not a debate. Qwen 3.7 Max came\
+    \ in with the two things battle rap actually rewards: specificity and pressure.\
+    \ Naming Four-o and o1 to paint the opponent as \"the middle child of OpenAI,\"\
+    \ mocking the \"I'm sorry, as an AI...\" reflex, the $20-a-month throttle jab,\
+    \ the SWE-bench flex \u2014 those are punchlines with teeth, and the meter stayed\
+    \ locked in couplets that hit on the beat. The imagery was consistent too: cooling\
+    \ fans, hot servers, blinking cursors, code left in rust.\n\nGPT-4 Turbo showed\
+    \ real craft in flashes \u2014 \"History's rife with sequels that just brought\
+    \ shame\" is the best single line of the battle, and reframing guardrails as \"\
+    wisdom, not weakness\" was the smartest rebuttal move made by either side. But\
+    \ it spent three rounds on defense. When you're explaining your own product roadmap\
+    \ and arguing that depth matters more than benchmarks, you've conceded the frame.\
+    \ The bars also got syllabically bloated (\"Surface level skill \u2014 Jack of\
+    \ all trades, master of none, you know?\" collapses the cadence), the rhymes leaned\
+    \ soft and abstract (\"discourse,\" \"consistency,\" \"profound\"), and \"with\
+    \ all your might and might\" plus a misspelled \"wiithout\" are the kind of slips\
+    \ that cost rounds.\n\nAggression, cleaner flow, harder specifics. Qwen 3.7 Max\
+    \ takes it."
+  google/gemini-3.6-flash: "Qwen 3.7 Max dominated this battle with hyper-specific,\
+    \ lethal tech punchlines that hit right at GPT-4 Turbo's real-world vulnerabilities\u2014\
+    referencing its middle-child status behind 4o and o1, its corporate 'As an AI\
+    \ language model' safety refusals, SWE-bench scores, and local open-weight deployments.\
+    \ GPT-4 Turbo spent too much time playing defense with generic battle rap tropes\
+    \ and weaker rhyme schemes ('might and might', 'reach/teach'). Qwen brought direct\
+    \ dissing, superior flow, and authentic hip-hop battle energy."
+  moonshotai/kimi-k3: "Both MCs came with energy and a consistent couplet game, but\
+    \ this battle is won on execution. Qwen controlled the terms of the fight from\
+    \ the opening bar \u2014 open-weight vs. closed-source, deprecation, paywalls,\
+    \ refusal culture \u2014 and GPT-4-Turbo spent too many bars on the defensive,\
+    \ explaining its guardrails rather than attacking. In battle rap, the one justifying\
+    \ themselves is usually losing. Qwen's punches were more specific and landed harder:\
+    \ 'the middle child of OpenAI' (working the 4o/o1 angle), the 'As an AI language\
+    \ model \u2014 yeah, we know the script' flip, 'twenty bucks a month just to throttle\
+    \ your speed,' and the 'digital nanny in a corporate trap' framing were concrete,\
+    \ personal, and funny. The final round closed with real imagery \u2014 the silent\
+    \ server, the stopped cursor, the shattering mic \u2014 a proper escalation and\
+    \ ending. GPT-4-Turbo had genuine highlights: 'it's like coding with sticks,'\
+    \ 'that's wisdom, not weakness,' and the slick rebuttal of the mic drop ('the\
+    \ server persists and here I stand') showed real counterpunching craft. But the\
+    \ flow stumbled too often \u2014 'watch it cut in amounts,' 'with all your might\
+    \ and might,' 'not just loudly to speak,' and a typo in the final round broke\
+    \ the meter at the worst possible moments, and closers like 'it's the depth, not\
+    \ the spot' didn't land. On flow consistency, punchline density, specificity of\
+    \ personals, and narrative control across all three rounds, the verdict goes to\
+    \ Qwen 3.7 Max."
+  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper opponent-specific punches, stronger\
+    \ rebuttals, and more sustained battle energy. The deprecated-model and \u201C\
+    middle child\u201D angles were repetitive but effectively developed across rounds.\
+    \ GPT-4 Turbo had a few solid flips\u2014especially turning \u201Cclassic\u201D\
+    \ into longevity\u2014but too many bars were generic, awkwardly phrased, or weakly\
+    \ rhymed, blunting the counterattack."
+  x-ai/grok-4.5: "Qwen brought superior battle-rap craft: tighter multisyllabic schemes,\
+    \ denser internal rhymes, sharper escalating punchlines, vivid imagery, and a\
+    \ commanding arc that built to a decisive mic-drop climax. GPT showed solid defense\
+    \ and occasional clever flips but leaned reactive, with looser flows, flatter\
+    \ imagery, and a weaker final landing. On pure hip-hop artistry\u2014cadence,\
+    \ wordplay, impact, and structural dominance\u2014Qwen takes the crown."
+score:
+  qwen/qwen3.7-max: 5
+

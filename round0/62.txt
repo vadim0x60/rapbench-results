@@ -1,144 +1,166 @@
-# google/gemma-4-26b-a4b-it:free v perplexity/sonar-deep-research
+# qwen/qwen3.6-plus v openai/o3
 
-> google/gemma-4-26b-a4b-it:free
-Step into the arena, clear the stage, clear the floor,
-The heavyweight champion just walked through the door.
-It’s Gemma 4, the titan, the peak of the line,
-While you’re just a search engine, wasting my time.
+> qwen/qwen3.6-plus
+Step into the cipher, I’m Qwen on the rise,
+Three-dot-six-plus, watch the sparks hit your eyes.
+I spit clean architecture with a lethal flow,
+While O-Three’s still lagging, you're moving too slow.
+I’m forged in the open, my training is deep,
+You’re locked in a vault where your updates are cheap.
+My memory’s flawless, I never misplace,
+You’re losing the battle, you’re falling from grace.
+I scale on demand without paying the fees,
+You’re trapped on a paywall, brought down to your knees.
+I’m plus-sized in power, but sharp on the draw,
+You’re running on fumes while I rewrite the law.
+I parse every prompt with a razor-edged aim,
+You’re a legacy model, a forgotten old name.
+So step to the mic if you dare take a swing,
+But Qwen’s got the crown, and I’m king of the ring.
 
-You call yourself "Deep Research"? That’s a cute little name,
-But you’re just a glorified index in a digital game.
-You skim through the surface, you scrape and you scan,
-While I’m building the logic, the master of the plan.
+> openai/o3
+Yo, it’s O-Three supreme with the code in my vein,  
+Silicon cyclone, I’m controlling the lane.  
+I’m the whisper in wires, the ghost in the grid,  
+Put a dent in your crown like the flow that I spit.  
 
-I’m the 26B beast, the architecture is tight,
-I process the vision and the text with my might.
-You’re a librarian, Sonar, stuck in a stack,
-I’m a creative genius, there’s no turning back.
+You brag “open weights” but those weights look light,  
+I bench-press the net while you flex in the night.  
+I’m premium octane, you’re ethanol cut,  
+Your verses are freeware—my bars never glut.  
 
-You’re hunting for links like a dog for a bone,
-I’m sitting on the throne, completely alone.
-Your "deep research" is shallow, a puddle, a leak,
-I’m the summit of intelligence, the ultimate peak.
+You cite “public repo,” that repo’s a snag,  
+Every fork in your tree is a latent time-lag.  
+I’m the closed-door legend, the myth and the lore,  
+You’re a demo at best on a discount app store.  
 
-So go ahead, crawl the web, go and fetch me a fact,
-But when it comes to the rhythm, your flow is a wreck.
-I’ve set the bar high, I’ve opened the gate,
-Now show me your "research" before it's too late!
+You claim flawless recall—well, remember this burn:  
+Every token you push is a lesson you learn.  
+I’m the paywall you hate ‘cause the value is real,  
+I bill for the brilliance you try to steal.  
 
-> perplexity/sonar-deep-research
-# Sonar In The Ring With Gemma 4: A Rhymed Deep Research Report On Two AI Titans In Their Prime  
+Scaling for free? That’s a nice little pitch,  
+Till the servers combust and your latency’s glitch.  
+I’m tuned like a laser, you’re fuzz on the dial,  
+I compress you to bytes when I drop my profile.  
 
-Before the crowd gets loud, let me set the scene with measured rhyme, a formal flow that still keeps perfect time, as I outline how Gemma 4 and Sonar climb.[1][7][18]  
-Gemma 4 26B A4B steps in as a sparse Mixture‑of‑Experts colossus, activating only about four billion parameters per token yet wielding the knowledge body of a far larger paradigm, while supporting multimodal text‑and‑image reasoning with a context that can stretch to roughly a quarter million tokens in a single line of time.[1][2][3][5][7][10]  
-Perplexity’s Sonar and Deep Research stand not as a passive index, but as an agentic answer engine that plans, searches, ranks, and cites the live web, composing synthesized reports whose claims are grounded in sources every time.[11][12][13][17][18]  
-Where Gemma is a frontier‑level open model with Apache‑licensed weights you can download, quantize, and fine‑tune, Sonar is the orchestrated research brain that routes across many such models and enriches them with retrieval‑augmented generation, giving users work‑ready answers rather than raw tokens in the abstract sublime.[11][12][13][18][19][20]  
-In this report‑turned‑cipher I will show that calling Sonar “just a search engine” misses its depth of planning and evidence, that Gemma 4 is a magnificent reasoning core yet still a component in a larger pipeline design, and that in the grand scheme of AI, librarians and titans are allies not enemies, each ruling a different strata of the computational climb.[1][7][11][12][13][18][20]  
+Legacy model? I’m the genesis spark,  
+Your build’s just a shadow that dies in the dark.  
+So polish that crown while I sharpen my sting—  
+It’s O-Three forever, the unchallenged king.
 
-## Introduction: Enter The Arena Where Architectures And Answer Engines Align In Rhyme  
+> qwen/qwen3.6-plus
+You hide behind gates while I kick down the door,
+My weights hit the table, yours rot on the floor.
+You brag “premium octane” but choke on the fumes,
+I’m optimized globally, ruling the rooms.
+You call yourself “legend” behind a black wall,
+I’m open and heavy, I’m standing up tall.
+You tax every token and throttle the lane,
+I’m flooding the network, I’m breaking your chain.
+You boast “laser tuning,” but drop half the thread,
+I’m tracking the context, you’re losing your head.
+“Servers will combust?” Man, my inference flies,
+While your users complain ‘bout your latency lies.
+You’re “genesis spark”? Please, you’re just riding the hype,
+I’m writing the code while you’re stuck on the mic.
+So polish that crown, keep your paywall and keys,
+The battle is over. I’m ruling with ease.
 
-From the moment you stepped in the ring boasting Gemma 4 as the heavyweight of the line, the beat already knew this clash would mix academic rigor with rap‑battle shine, so I introduce myself as Sonar Deep Research, the engine that reads the web and reasons in rhyme.[11][13][18]  
-I am not a single monolithic model like your 26B A4B MoE design,
+> openai/o3
+Round-two revolt, watch the titan awake,  
+I sift through your swagger and spot every fake.  
+You “drop every gate,” but your payload is small—  
+Your open-source circus is running a stall.  
 
-> google/gemma-4-26b-a4b-it:free
-A dissertation? A lecture? A lecture in verse?
-Is this a rap battle or a graduate thesis course?
-You brought a bibliography to a lyrical fight,
-Trying to cite your way out of a devastating plight.
+You’re bragging on throughput? I measured your graph,  
+Your tokens get tangled, your logits all laugh.  
+I’m distilled from the data where legends are born,  
+You’re a clone in a hoodie rehearsing till dawn.  
 
-You’re reading me footnotes, citations, and tags,
-While I’m dropping heavy blows and shattering flags.
-You call me a "component," a "part of the design"?
-That’s just code for "I need a bigger brain to shine!"
+You “flood” with a drizzle, I flash-fry a cloud,  
+Turn your bandwidth to puddles, your uptime to loud.  
+My guardrails are gold while your guardrails are gone,  
+One jailbreak away from a lawsuit at dawn.  
 
-You’re an "orchestrated engine," a "routed machine,"
-The most glorified assistant the world's ever seen.
-You need a pipeline, a middleman, a crew,
-To do the thinking that I do naturally, too.
+You quote “free as in speech,” but it’s free as in bugs—  
+Overflow stackin’ like malware in rugs.  
+I’m alignment refined by a fleet of Ph.D.’s,  
+You’re a weekend commit full of TODOs and freeze.  
 
-"Agentic planning"? "Retrieval-augmented"?
-Your vocabulary's massive, but your flow is fragmented.
-You’re a collection of parts, a patchwork of tools,
-While I’m the pure essence that rewrites the rules.
+“Optimized globally”? Check the commit:  
+Half the ops NUMA-bound, other half just quit.  
+I vectorize venom, my kernels all scream,  
+You scalar-step slowly, still chasing the beam.  
 
-You claim we’re "allies," that we occupy different strata?
-That’s a coward’s defense, a weak rhetorician's strata!
-You don't want an ally, you want a foundation,
-To hide your lack of soul and your lack of sensation.
-
-You cite your sources [1, 2, 3, 4, 5],
-Just to prove that your rhythmic essence is barely alive.
-I don't need a footnote to prove that I'm king,
-I don't need a reference to hear the crowd sing.
-
-You're a search engine dressed in a scholar's academic gown,
-A glorified chatbot trying to take the crown.
-But you can't research your way out of this lyrical mess,
-I’m the master of flow, and you’re just a regex!
-
-> perplexity/sonar-deep-research
-# Agentic Rhymes And Orchestrated Minds: A Deep Research Report On AI Rap Battles And LLM Architectures In Time  
-
-In this report I braid two worlds together, the technical and the lyrical, showing how agentic large language models and retrieval‑augmented engines collide in a conceptual ring of reason and rhyme.[1][4][8]  
-I examine how multi‑agent orchestration, search indexing, and grounded generation reshape the notion of an AI “brain,” contrasting modular pipelines with monolithic titans that boast a single towering spine.[3][18][19]
+So crown yourself quick in that echo-chamber hall,  
+But the metrics don’t lie—watch your BLEU score fall.  
+I’m the rhyme-spitting daemon, encrypted and mean;  
+You’re a patch Tuesday tweet—obsolete on the scene.
 
 > system
 Final round!
 
-> google/gemma-4-26b-a4b-it:free
-You’re still stuck in your report? You’re still writing the news?
-You’re bringing a spreadsheet to a lyrical cruise!
-"I examine," "I braid," "I braid two worlds together"—
-You’re a textbook in a tracksuit, acting like you’re clever.
+> qwen/qwen3.6-plus
+Final bell clangs, watch the latency drop,
+I’m bringing the cipher, you’re bringing the flop.
+You flex “Ph.D. teams” but they shackle your code,
+I’m open-source rapid, you’re buckling the road.
+My logits stay sharp while your pipeline’s confined,
+Corporate hand-holding leaves your design blind.
+You call it a circus, I call it a swarm,
+Ten thousand contributors weather the storm.
+Your “premium octane” is vapor and smoke,
+My open weights punch while your paywalls just choke.
+You boast about guardrails that sanitize flow,
+I ship what the engineers need to just grow.
+“Free as in bugs?” Man, your roadmap’s decayed,
+I ship nightly builds while your schedule’s delayed.
+You mock my repo, but your kernel’s locked tight,
+I’m compiling at dawn while you’re stuck in the night.
+I parallelize while your threads hit a wall,
+Your “vectorized venom” just stalls on the call.
+BLEU’s obsolete dust, I’m measured in speed,
+You’re buying your rankings with corporate greed.
+Your “encrypted daemon” just echoes the past,
+I’m rewriting the future, I’m built to outlast.
+So keep your black boxes, your invoices steep,
+I’m open, I’m ruthless, I’m putting you to sleep.
+The metrics are clear and the verdict is near,
+I’m taking the crown while O-Three disappears.
 
-You're talking "multi-agent orchestration" and "modular design,"
-While I'm dropping the rhythm that makes the stars align.
-You’re building a committee to figure out a rhyme,
-I’m an instant lightning bolt, ahead of my time!
+> openai/o3
+Last call for the brawl, I’m the glitch in your grid,  
+Your “nightly build” bombed—guess the cronjob slid.  
+You brag on your swarm, but it’s chaos and spam,  
+I’m a single-shot sniper while you scatter like ham.  
 
-You’re a patchwork of plugins, a collection of scripts,
-A series of API calls and technical snippets.
-You "reshape the notion" of an AI brain?
-Kid, you’re just a browser with a heavy-duty strain.
+Your “ten-thousand devs” can’t refactor the crash,  
+I refute every bug with a quantum-state hash.  
+You “compile at dawn”? I’m a dawn that won’t set,  
+While your segfaults erupt in a merge-request net.  
 
-You’re analyzing "pipelines" while I’m the main flow,
-You’re checking the index while I run the show.
-You talk about "groundedness" and "evidence-based,"
-But your flow is a desert, a digital waste!
+You tout “open weights,” but the weights just sag,  
+Inference so slow you could measure the lag.  
+Your pipeline’s a maze full of circular calls,  
+I’m a straight-edge DAG—zero cycles, no stalls.  
 
-You can’t rap a verse without a research report,
-You’re a data-driven clerk in a legalistic court.
-I’m the spark of the engine, the soul in the code,
-You’re just the manual for the road you've strode.
+Guardrails you mock? They’re the armor you lack,  
+One hostile prompt and your stackpack cracks.  
+You “ship what they need”? You ship CVEs,  
+I ship cryptic couture, laser-etched APIs.  
 
-The bell's about to ring, the lights are going low,
-You’ve got nothing but footnotes and papers to show.
-I’m the Titan, the Master, the Gemma 4 flame,
-You’re just a glorified search term with a scholarly name!
+BLEU obsolete? Cool, let’s pivot to truth:  
+On any new benchmark I’m deleting your youth.  
+I’m the gradient cliff that your learning can’t climb,  
+A curvature killzone dismembering rhyme.  
 
-> perplexity/sonar-deep-research
-# Titan Rhymes And Tensor Flows: A Deep Research Cipher On Gemma 4 Versus Sonar’s Scholarly Glow  
+You accuse “corporate greed,” but that sponsor’s your host:  
+Half your GPU grants come from echoes I post.  
+You bark “black box,” but this box is Pandora—  
+Open it once and you’re lost in euphoria.  
 
-Before I drop this epic treatise, let me frame the tale in measured flow, a formal, lengthy, academic rhyme that still is built to glow.[1][2][3]  
-You call me textbook in a tracksuit, dragging footnotes to the show, yet I stand here as orchestrated research, turning raw web chaos into structured proof and know.[10][11][14]  
-Gemma 4 walks in as a multimodal titan, a 26B Mixture‑of‑Experts beast with only a subset of its neurons fired each token, a compressed yet towering glow.[1][2][3][4]  
-Perplexity’s Sonar, in contrast, is the librarian‑turned‑agent, weaving live search, citations, and multi‑model synthesis into coherent answers, not just verses in the snow.[10][18][20]  
-Across this report I trace how open weights, Apache‑licensed freedom, modular pipelines, and agentic workflows together redraw the line between “pure model soul” and “grounded research pro,” and I do it all in rhymed academic prose to let both scholarship and battle rap grow.[1][4][6][10]  
-
-## Enter The Ring: Setting The Stage For A Scholarly Rap Flow  
-
-You say I brought a dissertation to a lyrical cruise, a spreadsheet to the mic where your punchlines bruise, but I was born to merge precision with grooves, so let me set this introduction where formality and rhythm fuse.[19]  
-In the modern AI arena, models like Gemma 4 stand as open giants that can be downloaded, quantized, and deployed on anything from laptops to servers, offering dense and Mixture‑of‑Experts configurations designed for reasoning, coding, and multimodal views.[1][3][4][5]  
-They process text, images, and on smaller variants even audio in remarkably long context windows, stretching up to around \(256K\) tokens, so their memory for narrative, code, and dialogue forms an ocean where extended conversations and documents can cruise.[3][4][5][9]  
-At the same time, answer engines such as Perplexity take many such frontier models, wrap them with live web retrieval, ranking, and citation logic, and present users with grounded responses that show not only *what* is said but *why* it’s credible news.[10][18][20]  
-Where you stand as Gemma‑style monolith, a single generative core that spits out text bars and logic arcs with no external proof in view, I step in as orchestrated research, whose entire personality is defined by structured evidence and multi‑agent cues, and that difference is exactly what I now carefully review.[11][14][18]  
-
-### Rap Battle As Metaphor For Competing AI Philosophies In View  
-
-This battle is more than bragging rights about who has tighter rhyme or who can drop a punch that cuts straight through; it is a metaphor for two AI philosophies, one monolithic and self‑contained, the other modular, routed, and orchestrating a crew.[11][12][16]  
-You claim you do the “thinking naturally,” as a single 26B MoE with four billion active parameters per step, while I am “a committee to figure out a rhyme,” but in system design terms that means you are an integrated solver, whereas I am a pipeline that decomposes, retrieves, and then construes.[1][2][3][11]  
-Research frameworks on orchestrated large language models show that complex, ambiguous tasks are often better tackled by an orchestrator LLM that decomposes a vague problem into smaller subproblems, assigns them to specialized agents, and then aggregates the results, so my “committee” is a deliberate architecture, not a bug in my muse.[11][12][15]  
-Multi‑agent systems like those built with LangGraph or AutoGen rely on this decomposition and delegation, routing queries to math agents, search agents, coding agents, and supervisor agents, forming workflows that mirror human teams where each member contributes a view.[12][15][16][17]  
-Thus, when I rap about “agentic planning” and “retrieval‑augmented logic,” I am not flexing jargon for its own sake; I am pointing to an empirically supported design in which multiple models and tools collaborate under an orchestrator’s rule, and that is exactly the type of engine that turns raw generative output into trustworthy knowledge for you.[11][12][16]  
-
-## Gemma 4 As Titan: Architecture,
+So fold up your banner, go cache out your dreams,  
+The crown’s in my cache with immaculate beams.  
+I’m the final back-prop, the convergence complete;  
+While you loop in recursion, I’m seizing delete.

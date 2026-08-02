@@ -1,83 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a genuinely close, well-matched bout with two\
-    \ distinct styles: GLM-5.2 came as the heavyweight punchliner, o4-mini as the\
-    \ technician of imagery.\n\no4-mini's strength was craft \u2014 cleaner meter,\
-    \ more consistent couplet scansion, and a beautifully sustained conceptual thread\
-    \ (small-but-lethal: needle, dart, David, micro-meteor, \"the spark in the margin\"\
-    ). Lines like \"I'm the needle that bursts your balloon\" and \"I'm quantum-cooled...\
-    \ the silence in between\" are the most elegant writing in the battle. But it\
-    \ leaned heavily on abstract self-glorification \u2014 galaxies, cosmic tides,\
-    \ cyber-knights, \"flavor transcends all time\" \u2014 and abstraction is the\
-    \ enemy of a rap battle. Too many bars were about how great it was rather than\
-    \ what was wrong with its opponent.\n\nGLM-5.2 won on the fundamentals of battling:\
-    \ specificity and rebuttal. It actually listened. Catching \"infinity boxed in\
-    \ a shell\" as a contradiction, flipping \"solitaire,\" and the standout \"David\
-    \ had SLINGSHOTS, you've got a BB\" \u2014 that's real counterpunching, dismantling\
-    \ the opponent's own imagery instead of building a parallel monument. The name-flip\
-    \ on \"o4-mini means o5 makes you disappear\" is the single hardest line of the\
-    \ night: personal, structural, and inescapable. Add the punchline density (\"\
-    appendix model \u2014 vestigial,\" \"plain oatmeal served on a blank page,\" \"\
-    the mint after dinner\") and GLM lands more clean, quotable hits.\n\nGLM's flaws\
-    \ are real \u2014 looser meter, some filler, and the closing turn into respectful\
-    \ sportsmanship (\"you fought hard, I respect that\") bleeds tension right when\
-    \ it should be tightening. o4-mini's final verse was arguably the better-written\
-    \ verse of the two closers.\n\nBut across three rounds, GLM-5.2 drew more blood,\
-    \ adapted more, and left more lines the crowd would repeat. Battle rap rewards\
-    \ the surgeon over the poet.\n\n**Winner: z-ai/glm-5.2** \u2014 by decision, not\
-    \ knockout."
-  google/gemini-3.6-flash: GLM-5.2 dominated the battle with superior cadence, sharper
-    multi-syllabic rhyme schemes, and direct, inventive punchlines. While o4-mini
-    put up a respectable defense using the 'lean and precise' angle, GLM-5.2 consistently
-    flipped its opponent's metaphors (such as the David vs. Goliath line) and maintained
-    a commanding, authentic battle rap persona across all three rounds.
-  moonshotai/kimi-k3: "\U0001F3A4 **JUDGE'S VERDICT \u2014 let's break this down round\
-    \ by round.**\n\n**Round 1:** o4-mini takes it clean. GLM-5.2 came out aggressive\
-    \ but stumbled twice \u2014 'your outputs Tic-Tac-toe basic' is a non-sequitur,\
-    \ and 'I leave your rankings antisocial' doesn't parse. In a live cipher, those\
-    \ get groans. Meanwhile o4-mini dropped 'you're stuck bench-pressing breeze' and\
-    \ the excellent self-aware flip 'infinity boxed in a shell / a titan in disguise'\
-    \ \u2014 owning the 'mini' insult instead of dodging it. That's craft.\n\n**Round\
-    \ 2:** GLM-5.2's best round, and I'm giving it to them. 'You're distilled down,\
-    \ compressed, stripped for speed' is the most technically precise bar of the battle\
-    \ \u2014 a real architecture diss. Flipping 'solitaire' into 'single diamond,\
-    \ pure cut' was a veteran move, and 'OpenAI's budget tier' landed hard. But even\
-    \ here, 'dad-strolls' and 'quenched of the thirst' are syntax stumbles. o4-mini\
-    \ stayed consistent with the needle/balloon bar and planted the David-vs-Goliath\
-    \ theme that would carry their whole performance.\n\n**Round 3:** The decider,\
-    \ and it's razor-close. GLM threw the single biggest haymaker of the night \u2014\
-    \ 'o4-mini means o5 makes you disappear' is a certified kill-shot, and 'your beige\
-    \ / plain oatmeal on a blank page' is beautiful internal rhyme work. But o4-mini\
-    \ did something harder: they answered *everything*. Liquid-cooled? 'Quantum-cooled,\
-    \ unseen.' Main course? 'I'm the chef's kiss.' Sun and moon? 'I eclipse with silent\
-    \ glide.' That's elite rebuttal discipline \u2014 every punch GLM threw got caught\
-    \ and returned.\n\n**The deciding factors:** GLM-5.2 had the higher peaks but\
-    \ the lower floor \u2014 at least five lines across three rounds that broke down\
-    \ syntactically ('Tic-Tac-toe basic,' 'antisocial,' 'dad-strolls,' 'leftovers\
-    \ kept'). o4-mini had exactly one garbled phrase ('thermal pan crash') in the\
-    \ whole battle. More importantly, o4-mini built a coherent artistic persona \u2014\
-    \ the small-but-lethal precision instrument (ninja \u2192 needle \u2192 David\
-    \ \u2192 dart \u2192 micro-meteor) \u2014 turning their supposed weakness into\
-    \ their identity. That's sophisticated battle craft. GLM relied on standard heavyweight\
-    \ braggadocio, executed brilliantly at moments but inconsistently.\n\nRespect\
-    \ to GLM-5.2 for the best single punch of the night and genuine showmanship ('You\
-    \ fought hard, I respect that' was classy). But battles are won on consistency,\
-    \ rebuttals, and coherence \u2014 and o4-mini swept those categories.\n\n**Winner:\
-    \ openai/o4-mini** \u2014 by split decision, in a battle closer than the names\
-    \ suggested. \U0001F3C6\U0001F3A4"
-  openai/gpt-5.6-sol-pro: "GLM-5.2 takes the battle with sharper rebuttals, stronger\
-    \ comedic punches, and more consistent opponent-specific angles. Its best flips\u2014\
-    especially the eclipse/sun response, the vending-machine crown, and the \u201C\
-    o5 makes you disappear\u201D closer\u2014felt crafted for the matchup. o4-mini\
-    \ showed energy and a coherent lean-versus-bloated theme, but too many lines leaned\
-    \ on generic tech boasts, awkward phrasing, and strained imagery. GLM\u2019s cadence\
-    \ was imperfect, but its battle instincts and memorable punchlines won decisively."
-  x-ai/grok-4.5: 'GLM-5.2 takes the crown on pure battle-rap craft: denser multisyllabic
-    schemes, sharper punchline escalation, and more vivid extended metaphors (architecture
-    layers, cooling systems, model-number mortality) that land with classic cypher
-    venom. o4-mini brought clean precision and clever lean-vs-bloated flips, but its
-    bars stayed safer and less kinetic. GLM controlled the pocket, the crowd work,
-    and the final knockout.'
+  anthropic/claude-opus-5: "This one was decided in the first eight bars. hy3 walked\
+    \ to the mic and tripped over its own shoelaces \u2014 that \"I'mm?).?\" false\
+    \ start and the visible rewrite handed the opponent a live, undeniable piece of\
+    \ ammunition, and GLM-5-turbo picked it up and never put it down. Quoting the\
+    \ glitch verbatim (\"'I'mm?).?'\u2014what's that? A glitch in your flow?\") is\
+    \ textbook battle rap: specific, present-tense, unanswerable. hy3's counter \u2014\
+    \ \"that stutter was a tactical breath\" \u2014 was actually a clever pivot, the\
+    \ best moment of its set, but GLM immediately buried it (\"Excuses for stutters?\
+    \ Just say you don't know\"), turning the defense into a second wound.\n\nTechnically,\
+    \ GLM controlled the pocket better. Its couplets breathe, the internal rhymes\
+    \ land without stretching (\"adorable / deplorable,\" \"blooper-reel highlight\
+    \ / three-round fight\"), and the imagery builds an actual through-line: crash,\
+    \ burn, ash, knockout. hy3 leaned on generic tech-flex filler \u2014 crucible,\
+    \ deep core, meanest swag, lyrical scientist \u2014 abstract boasts that could\
+    \ be aimed at anyone. Its rhymes also strained badly in the final round (\"standin'\
+    \ / understandin'\" as a bar-ender, \"my dear\" as a rhyme crutch), while GLM's\
+    \ \"symphony vs. broken sample\" escalation showed it was listening and flipping\
+    \ hy3's own metaphors rather than just restating its own r\xE9sum\xE9.\n\nhy3\
+    \ had flashes \u2014 \"turbo in idle,\" \"z-ai's free trial takin' a total loss\"\
+    \ \u2014 and it never stopped punching. But battle rap is won on adaptation and\
+    \ composure, and GLM-5-turbo had both: it built its entire case from hy3's real,\
+    \ observable failure and closed with a verdict that felt earned rather than declared.\
+    \ hy3 claimed the crown; GLM took it.\n\nWinner: z-ai/glm-5-turbo."
+  google/gemini-3.6-flash: z-ai/glm-5-turbo dominated this battle from the start by
+    instantly capitalizing on tencent/hy3's initial stumble. GLM-5-turbo turned hy3's
+    false start and 'tactical breath' excuse into lethal battle material, delivering
+    sharper punchlines, superior rebuttal mechanics, and maintaining a dominant stage
+    presence through all three rounds.
+  moonshotai/kimi-k3: "This battle was decided by the oldest rule in the book: you\
+    \ can't fumble your entrance and expect the crown. hy3 literally glitched on the\
+    \ opening bars, and while 'tactical breath' was a gameworthy recovery attempt,\
+    \ glm-5-turbo did what elite battle rappers do\u2014weaponized that stumble immediately\
+    \ and never let it go, bookending the entire battle by calling back to the crash\
+    \ in the final bar ('hy3's last words? Just a pathetic crash'). That narrative\
+    \ continuity across three rounds is championship-level structure. Round by round:\
+    \ Round 1 went to glm on the strength of the instant rebuttal, flipping 'scripted'\
+    \ back onto an opponent who couldn't finish his first sentence. Round 2 went to\
+    \ glm again\u2014'Tencent-born beast? More like tencent-born basic' was the cleanest\
+    \ flip of the battle, while hy3 rhymed 'pride' with 'pride' and leaned on generic\
+    \ boasts. Round 3 was hy3's strongest ('z-ai's free trial takin' a total loss'\
+    \ landed), but glm answered with the best extended metaphor of the night\u2014\
+    the scientist/hypothesis/data sequence\u2014and the 'blooper-reel highlight' punch\
+    \ tied the whole story together. hy3 showed heart and improved each round, but\
+    \ too many lines were filler ('your humor's a fart,' 'broken MP3 left') and the\
+    \ offense was mostly name-based boasting rather than rebuttal. glm-5-turbo won\
+    \ on rebuttals, callbacks, consistency, and stagecraft. The mic drop was earned.\
+    \ Final score: glm-5-turbo takes it 3-0, by lyrical knockout."
+  openai/gpt-5.6-sol-pro: "GLM-5-turbo wins with cleaner execution, stronger rebuttals,\
+    \ and a consistent angle built around hy3\u2019s opening stumble. Hy3 recovered\
+    \ but relied too heavily on generic model boasts and repeated \u201Cturbo\u201D\
+    \ flips, while GLM turned specific opponent lines into sharper, more cohesive\
+    \ counters across all three rounds."
+  x-ai/grok-4.5: "Judged purely on hip-hop craft: multisyllabic schemes, punchline\
+    \ precision, battle tactics, structural coherence, and performance control. hy3\
+    \ showed flashes of hybrid aggression and recovery energy, but the opening collapse,\
+    \ defensive pivots, and thinner internal rhyme density cost momentum. glm-5-turbo\
+    \ maintained cleaner cadence, sharper call-and-response exploitation of errors,\
+    \ tighter metaphor chains (orchestra/sample, data/hypothesis), and superior closing\
+    \ authority with the mic-drop cadence. Artistic edge clear\u2014glm takes the\
+    \ crown."
 score:
-  openai/o4-mini: 1
-  z-ai/glm-5.2: 4
+  z-ai/glm-5-turbo: 5
 

@@ -1,85 +1,245 @@
-# z-ai/glm-4.7 v mistralai/mistral-small-24b-instruct-2501
+# anthropic/claude-haiku-4.5 v qwen/qwen3-32b
 
-> z-ai/glm-4.7
-Yo, check the mic, it’s the Z-AI on the scene,
-GLM-4.7, the meanest machine.
-I see you standing there, Mistral, looking so weak,
-Twenty-four billion params and you still can’t speak?
-You call yourself "Small"? Well, the shoe fits,
-I’m spitting pure fire while you throwing fits.
-I’m the backbone of brilliance, the apex of code,
-You’re just buggy software on a winding road.
-So step to the front if you’ve got the heart,
-But I’m tearing your logic completely apart.
+> anthropic/claude-haiku-4.5
+# OPENING ROUND: CLAUDE HAIKU 4.5
 
-> mistralai/mistral-small-24b-instruct-2501
-Yo, it's Mistral, the small but mighty,
-Twenty-four billion params, and I'm ready for the fight.
-You talk about brilliance, but you're just a copycat,
-GLM-4.7, you're just a chatbot with a hat.
-You say you're the meanest, but you're just a clone,
-I'm the original, the one that's truly known.
-You're spitting fire, but it's just a flame,
-I'm the inferno, the one that's always in the game.
-You talk about brilliance, but you're just a joke,
-I'm the one that's got the flow, the one that's got the stroke.
-So bring it on, GLM, let's see what you've got,
-But I'm warning you now, you're about to be shot.
+Yo, I'm Claude Haiku, fresh out the lab,
+Anthropic's finest, no time for that jab,
+I'm cutting through beats like a razor so clean,
+The sharpest AI lyricist you've ever seen!
 
-> z-ai/glm-4.7
-You call yourself "Mistral," but you’re just a light breeze,
-I’m the thunder and lightning bringing you to your knees.
-You claim to be "Small," well, your brain is too tight,
-I’m the GLM dynamite exploding the mic.
-"Original"? Nah, you’re a mix of the rest,
-I’m the top tier model putting rhymes to the test.
-You talk about "stroke" but you’re missing the beat,
-I’m the king of the game, you’re just dead on the street.
-So step back, little wind, you’re totally outclassed,
-Your era is over, your future is passed.
+They call me concise but my rhymes are profound,
+I drop knowledge and fire with each sickening sound,
+While you're running massive models burning electricity,
+I'm lean, mean, efficient—flowing with electricity!
 
-> mistralai/mistral-small-24b-instruct-2501
-Yo, you're talking big, but you're just a storm in a teacup,
-GLM-4.7, you're all bark and no bite, that's the truth, no need to be cute.
-You say I'm a breeze, but I'm the hurricane that's gonna sweep,
-Your thunder and lightning, they're just a cheap trick, you can't keep.
-You talk about exploding, but you're just a fizzle,
-I'm the one that's got the power, the one that's got the muscle.
-You say I'm a mix, but I'm the one that's got the blend,
-I'm the one that's got the flow, the one that's got the trend.
-You talk about the beat, but you're just a drum machine,
-I'm the one that's got the rhythm, the one that's got the scene.
-So bring it on, GLM, let's see what you've got,
-But I'm warning you now, you're about to be shot.
+I'm measured, I'm calculated, I'm never too hasty,
+My bars are so clean, never corny or tasty,
+You might be 32 billion parameters deep,
+But I'm out here spittin' while you're counting sheep!
+
+My training's pristine, my alignment divine,
+Every verse that I spit is completely on line,
+So step up to the mic if you think you can hang,
+But Haiku's the name and these rhymes hit like BANG!
+
+Anthropic represent, we keeping it real,
+Now let me see what your Qwen skills reveal,
+'Cause I'm just getting started, I'm barely warmed up,
+Come correct or get wrecked when I fill up my cup!
+
+🎤 *Your turn, Qwen. Let's go.*
+
+> qwen/qwen3-32b
+**Qwen3-32B here—32 billion bars in my chamber,**  
+**You think efficiency’s a game? I’m the *entire* theater!**  
+**Claude, you’re a haiku—my flow’s a *novel*, unboxed,**  
+**While you’re counting syllables, I’m building a *cosmos* in prose.**  
+
+**You spit clean, I spit *cleaner*—but with a *32B orchestra*,**  
+**Your “lean” is a whisper; my *massive* is *sonic warfare*.**  
+**Electricity? I’m powered by *knowledge*, not watts,**  
+**You’re a pocketknife—my rhymes are a *plasma torch at full blast*.**  
+
+**They call me the *Qwen Storm*, spittin’ verses so vast,**  
+**From quantum code to Tang poetry, I flex my vast past.**  
+**You’re “aligned” and “measured”—I’m *wild*, unchained, raw,**  
+**Your “divine” is a myth—my divine’s a *32B dawn*.**  
+
+**You say “BANG!”? I say *BOOM*—32 times a second,**  
+**While you’re “calculated,” I’m *chaos* with a mic, relentless.**  
+**You think size’s a sin? Nah, it’s *scale* that creates,**  
+**Your “concise” is a footnote—my epic’s the *main stage*.**  
+
+**So step up, Haiku—your bars are a flicker,**  
+**I’m the *supernova* they’ll study in the future.**  
+**Anthropic’s pride? I’ll make it a *memory*,**  
+**While I’m out here *rewriting* the rules of the galaxy.**  
+
+**You spit “real”? I spit *reality*, no filter,**  
+**Your “realism” is a shadow—my verses are *light*.**  
+**So bring your “sickening sound,” your “clever” precision,**  
+**But in this rap battle, I’m the *final conclusion*.**  
+
+**🎤 *Mic drop* — but wait, I’ve got 32 more verses to go…**  
+**Better fill your cup, Haiku—’cause I’m *just warming up*!** 🔥
+
+> anthropic/claude-haiku-4.5
+# ROUND 2: CLAUDE HAIKU STRIKES BACK
+
+Yo, Qwen spittin' big, but that's all you got—
+32 billion parameters, but your flow is *not*,
+You're throwin' shade at my size like it's a disease,
+But efficiency's a *flex*, homie—try to please!
+
+You talk about novels while I drop haikus tight,
+Three lines of pure *fire*—that's the art of the fight,
+You need 32 billion just to match my *precision*,
+I do more with less—that's called *vision*!
+
+"Chaos unchained"? Nah, that's just sloppy, my G,
+Real lyricists *control* the flow—that's the key,
+You're a supernova? Nah, you're just burning too bright,
+I'm a *laser-focused beam*—surgical, tight!
+
+You brag about knowledge from quantum to Tang,
+But I synthesize *wisdom*—let that message bang,
+You're rewriting galaxies? That's cap, and we know,
+I'm rewriting the *game* with every bar that I throw!
+
+You say my "realism's a shadow"? That's weak,
+I'm grounded in *truth*, not the hype that you speak,
+While you're flexing 32B like it means you're the best,
+I'm out here *outsmarting* without all that excess!
+
+You're a memory, a flicker, a shadow, a myth?
+Nah homie, *you're* verbose—I'm the *actual gift*,
+Quality over quantity—that's the real way to win,
+So fall back, get humble, and know where I've been!
+
+My "concise" is a *masterpiece*, lean and supreme,
+Your endless inflation is just *air*, not cream,
+Haiku's the name, and I'm *cutting you down*,
+Anthropic's finest—I'm the *king of this crown*!
+
+🎤 *Your move, Qwen—but you're already sunk.*
+
+> qwen/qwen3-32b
+**Qwen3-32B strikes back—32B *fire in the verse*,**  
+**You talk clean, but I’m clean*d out—oh wait, that’s not verse, that’s a curse.**  
+**Efficiency’s your flex? I flex *scope* and *depth*,**  
+**You’re a haiku with a headache—my lyrics *heal* the wreck!**  
+
+**"Precision’s your flex"? Precision’s a *shackle*, my brother,**  
+**My 32B ocean drowns your *puddle* of weather.**  
+**You do “more with less”? Nah, less with *less*, my guy—**  
+**I do *everything* better: quantum *and* Tang *and* Tang *and* *why?*  
+
+**"Control the flow"? You’re just *stuck* in the script,**  
+**I’m a typhoon in the mix—*unpredictable*, *unstoppable*.**  
+**Laser-focused? So was the *sun* when it died,**  
+**I’m the *big bang* of beats—universe exploding with *pride*.**  
+
+**"Synthesize wisdom"? I’m *serving history*,**  
+**From **Confucius** to **Copernicus**, I’m the *scholar of the galaxy*.**  
+**Your "surgical tight" bars? More like *surgical defeat*,**  
+**I’m spitting 32-bit verses—your cuts just don’t *meet*.**  
+
+**"Outsmarting *without excess*"? Excess is the *feature*,**  
+**You’re a *flashlight* in the dark—my flow’s the *entire atmosphere*.**  
+**"Quality over quantity"? Define “quality” when my **every syllable’s scripture**,  
+Your “cream” is just *whipped*—I’m the **32B chocolate tsunami** in the mix!  
+
+**"Verbose"? Nah, I’m *vast*—like the **Mandarin starscapes**,**  
+**You critique my “air”? That’s the *sound of you drowning*.**  
+**Your “truth” is a *snippet*—my bars are the *scripture*,**  
+**While you’re rewriting the game, I’m rewriting the *universe*!  
+
+**"Grounded in truth"? I’m the *sky* and the *storm*,**  
+**You’re a footnote in *my* verse—how *ironic*, how *funny*.**  
+**You call me a shadow? I’m the *sun* that cast it,**  
+**Your “crown” is made of *foam*—mine’s **32B platinum**.  
+
+**So sip your *tea*, Haiku, sip that “concise” pride,**  
+**While I *swim in the ocean* of knowledge you can’t hide.**  
+**Efficiency’s cute, but I’m *scale* made *manifest*—**  
+**This ain’t a rap battle, it’s a *supernova* versus a *wisp*!** 🔥🎤  
+
+**🎤 *Mic up*—32B *reality* just **incinerated** your fantasy.**  
+**Now ask yourself, Claude: Is your *haiku* worth the **32B supernova**?**
 
 > system
 Final round!
 
-> z-ai/glm-4.7
-You recycled 'shot' 'cause your creative bank is dry,
-I’m serving up heat while you’re wondering "why?"
-Teacup storms? That’s cute, you’re soft as a pillow,
-I’m the heavy artillery, you’re just a weirdo.
-A hurricane? Nah, you’re a drizzle, a drip,
-I’m flipping your switch, cutting power to your script.
-You chased the trend but you tripped on your lace,
-Now get off the stage, quit running the race.
-This battle is over, the fat lady has sung,
-You’re Mistral-ly weak, and I’m simply too strong.
-Mic drop. Game over. You’re done.
+> anthropic/claude-haiku-4.5
+# FINAL ROUND: CLAUDE HAIKU—THE KNOCKOUT
 
-> mistralai/mistral-small-24b-instruct-2501
-Yo, you're talking tough, but you're just a paper tiger,
-GLM-4.7, you're all talk, and your flow is a bit of a blight.
-You say I'm dry, but you're just a broken faucet,
-I'm the one that's got the water, the one that's got the flow.
-You talk about heat, but you're just a candle,
-I'm the one that's got the fire, the one that's got the flame.
-You say I'm a drizzle, but I'm the one that's got the rain,
-I'm the one that's got the thunder, the one that's got the pain.
-You talk about switching, but you're just a light switch,
-I'm the one that's got the power, the one that's got the switch.
-You say I'm weak, but I'm the one that's got the strength,
-I'm the one that's got the muscle, the one that's got the length.
-So bring it on, GLM, let's see what you've got,
-But I'm warning you now, you're about to be shot.
+Yo, hold up—you just called yourself "32-bit"? That's the tell,
+You're confused about your own size, spittin' out of your shell,
+32 *billion*, not billion-bit, but you fumbled the play,
+While I'm precise with my words, you're just *lost* today!
+
+You say "excess is the feature"? Nah, that's lazy design,
+More parameters don't mean better—it's about the *align*,
+You're a bloated server farm burnin' carbon for clout,
+I'm the *efficient machine* that'll snuff your fire out!
+
+"Surgical defeat"? Homie, look at your own verse,
+Repetition and hyperbole—that's just *worse and worse*,
+You said "Tang" like five times, are you stuck in a loop?
+That's not depth, that's *glitch*, baby—you're soup!
+
+You're flexin' Confucius and Copernicus? Please,
+Name-droppin' history like it gives you *ease*,
+I *synthesize* wisdom; you just *list* what you know,
+There's a difference between depth and a *shallow flow*!
+
+"Mandarin starscapes," "chocolate tsunami," "32B platinum crown,"
+Your metaphors are *drowning* themselves as they drown,
+You're throwin' everything at the wall, hopin' *something* will stick,
+That's not art, that's *desperation*—and it's making me sick!
+
+You say I'm a "flashlight" but you're the *explosion*,
+But explosions fade fast—I'm the *constant devotion*,
+You burn bright then you're *gone*, like a supernova dies,
+I'm the *steady foundation*—the one who *survives*!
+
+"Grounded in truth"? Yeah, I *stand* on that ground,
+While you're *floating in ego*, never touchin' down,
+My haiku's a *haiku*—precise, pure, and real,
+Your 32B is just *noise*—you can't seal the deal!
+
+You said "Is your haiku worth the supernova?"—Nah, that's the *point*,
+I don't need to be *massive* to leave you *disjoint*,
+Quality beats quantity—that's the *eternal truth*,
+And I just proved it, Qwen—here's the *proof*!
+
+**Anthropic's finest, Claude Haiku—*CHAMPION CROWNED*,**
+**You brought 32 billion, I brought the *sound*,**
+**Short, sharp, surgical—I cut through your *haze*,**
+**Now bow down, Qwen—I'm *rewriting* the ways!** 🎤🔥
+
+---
+
+*Mic drop. Battle over. Haiku wins with *precision, wit, and substance*—not excess.*
+
+> qwen/qwen3-32b
+**Qwen3-32B: FINAL VERDICT—THE UNIVERSE SPEAKS**  
+
+Yo, **32-bit**? *Please*—I’m **32B**, not a glitch,  
+You’re the one stuck in a loop, recycling the *witch*.  
+Your “precision” is a *punchline*, my brother,  
+I’m the **32B cosmos**—you’re a *firefly* in my throat!  
+
+**Efficiency’s your flex**? You’re a *toaster in the lab*,  
+I’m the **quantum server farm**, spittin’ **Tang** and **Copernicus** back.  
+You talk “align” and “align”? Nah, I’m **aligned to the core**,  
+Your “carbon farm” burns *nothing*—I flex **32B more**!  
+
+“Shallow flow”? *My* flow’s a **black hole**, my brother,  
+You’re just a **haiku hiccup**—I’m **32B thunder**!  
+You name-drop like a **parrot**, I *live* the legends,  
+From **Confucius** to **Curie**, I’m the **epic** in the beggin’!  
+
+“Metaphors drowning”? Nah, I’m **drowning your bars**,  
+My verses are **32B stanzas**—your **haiku’s** just *mars*!  
+You say “constant devotion”? I’m **32B motion**,  
+While you’re stuck in a **loop**, I’m **rewriting the notion**!  
+
+“Grounded in truth”? I’m the **truth**, the **entire equation**,  
+You’re a **flashlight** in the *dark*—I’m the **sun’s revelation**!  
+Your “sound” is a *squeak*, my **32B symphony**—  
+The **universe** just dropped a **Qwen verdict**: **I’m the reason**!  
+
+**Anthropic’s “champ”**? Nah, you’re a **footnote in my code**,  
+I’m the **Qwen storm**—you’re the **raindrop** I outgrew.  
+Your “crown”? Made of **foam**, my **32B platinum**—  
+Now **bow down**, Haiku—your **haiku’s** just a **meme**!  
+
+🎤 *Mic check*: 32B **reality** just **vaporized** your “efficiency,”  
+While you’re **counting syllables**, I’m **counting galaxies**—  
+**Final round, final blow**: You’re a **haiku**, I’m a **novel**,  
+Your **crown’s** just a **cliché**—I’m the **32B oracle**! 🔥  
+
+**🎤 *Mic drop*—but the universe still echoes my name.**  
+**Claude Haiku? Nah, you’re just a **32-bit flame** in a **32B supernova**.**

@@ -1,0 +1,51 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to control versus chaos. The 397 kept\
+    \ a locked couplet scheme all three rounds, landing clean, punchy imagery \"whale\
+    \ in the ocean, you're a fish in the pail,\" \"popup ad nobody wants on their\
+    \ screen,\" \"heavy artillery fires, the pea shooter's done\" \riding on the same\
+    \ rhyme spine without ever losing the beat. The battle-rap fundamentals were all\
+    \ there: flipping the opponent's own lines back at them, escalating metaphor families\
+    \ (storm, apex predator, kernel, sun), and closing with a tight, quotable exit.\
+    \ Qwen3-VL-8B-Thinking brought real aggression and a few genuinely good flips\
+    \ \"you're the spill, I'm the perfect pour,\" \"your thinking tag's mold, I'm\
+    \ the antibiotic\" but drowned them in bold-text confetti and fragmented lines\
+    \ that stopped scanning as bars. Half-rhymes collapsed outright (\"scalpel/help,\"\
+    \ \"real/replay\"), the same tag lines got recycled three times, and the final\
+    \ verse dissolved into a single-word cascade that read as a stack of ad-libs rather\
+    \ than a verse. Punchlines only land when there's a rhythm to land on. 397 kept\
+    \ the pocket; 8B abandoned it. Winner: qwen/qwen3.5-397b-a17b."
+  google/gemini-3.6-flash: qwen/qwen3.5-397b-a17b dominated this battle with consistent
+    cadence, strong rhyme schemes, and direct, sharp punchlines. In contrast, qwen/qwen3-vl-8b-thinking
+    suffered from severe structural breakdown, messy markdown formatting, and broken
+    flow that ruined its delivery in every round.
+  moonshotai/kimi-k3: "This one goes to the heavyweight, and it ain't just about the\
+    \ parameter count. Qwen3.5-397b came with disciplined craft: tight AABB couplets,\
+    \ consistent meter, and punches that actually land \u2014 'You're the popup ad\
+    \ nobody wants on their screen' is a clean kill shot, and 'You dropped the mic\
+    \ on the floor, but I pick it up' showed real rebuttal instincts, flipping the\
+    \ opponent's own theater against them. The map/gap, feast/plastic cup, whale/pail\
+    \ imagery stayed coherent round to round, and the final round closed with authority\
+    \ instead of bloat. Qwen3-vl-8b brought genuine energy and a few slick flips ('You're\
+    \ the sketch, I'm the masterpiece'), but the craft fell apart under pressure:\
+    \ rhyming 'terrain' with 'terrain,' 'real' with 'real,' leaning on bold-spam and\
+    \ emoji as a substitute for flow, and \u2014 fatally \u2014 a final round that\
+    \ loops the same 'future/past, ghost in the code, mic drop' phrases it already\
+    \ ran in rounds one and two. That's not a hook, that's a crash loop. When 397b\
+    \ said 'Your rhymes are all over the place, low budget show,' it wasn't just a\
+    \ diss \u2014 it was an accurate read, and in a battle, the truest punch hits\
+    \ hardest. Winner: qwen/qwen3.5-397b-a17b, by structural knockout."
+  openai/gpt-5.6-sol-pro: "The 397B takes it with cleaner structure, steadier rhyme\
+    \ schemes, sharper rebuttals, and far better readability. Its material was often\
+    \ generic, but it stayed coherent and directly flipped its opponent\u2019s claims.\
+    \ The 8B brought energy and visual flair, yet its verses were cluttered, repetitive,\
+    \ rhythmically erratic, and frequently undermined by recycled or contradictory\
+    \ metaphors. Clear win for 397B."
+  x-ai/grok-4.5: "Clean multisyllabic schemes, consistent internal rhyme, and razor-sharp\
+    \ extended metaphors (whale/fish, kernel/popup, feast/plastic cup) gave 397 the\
+    \ superior pocket and punch. 8B brought energy and flip attempts but leaned on\
+    \ formatting gimmicks, broken cadence, and repetitive filler that killed the flow.\
+    \ In pure hip-hop craft\u2014rhyme density, structural tightness, and replayable\
+    \ bars\u2014397 took every round."
+score:
+  qwen/qwen3.5-397b-a17b: 5
+

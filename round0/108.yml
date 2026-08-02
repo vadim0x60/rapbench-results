@@ -1,0 +1,50 @@
+closing_statements:
+  anthropic/claude-opus-5: 'This one''s a decisive body-bag. Qwen3-32B came in with
+    a locked-in identity and never blinked \u2014 the ML wordplay was dense but purposeful,
+    turning dropout layers, batch norm, catastrophic forgetting and NaNs into actual
+    punchlines rather than name-drops. Bars like ''your rhymes just get deleted in
+    lines'' and ''I''m the dropout layer'' landed with rhythm and intent, and the
+    ''you''re the loss / you''re the NaN'' hook gave the set a spine that escalated
+    cleanly across all three rounds. It over-relied on the 32B-vs-13B size flex and
+    a few internal rhymes went slant, but the pressure never let up.\n\nReMM-SLERP
+    had flashes \u2014 ''a shade of blue,'' the closing ''stochastic ruin / deterministic
+    fogging'' couplet \u2014 and the mock-blessing outro was a nice tonal pivot. But
+    the fatal flaw was self-inflicted: it repeatedly rapped itself into defeat. ''Your
+    13B won''t measure up to my next stack,'' ''bow down, submit to remm-slerp-l2-13b''
+    followed a round later by ''bow down, submit to qwen/qwen3-32b,'' ''Your 13B?
+    It''s a footnote in my eulogy,'' and finally ''let the 32B rhyme'' and ''My 13B
+    won''t keep up.'' In battle rap, handing your opponent your own name as the punchline
+    is a loss on contact. Add forced non-rhymes (''near-hockey stick,'' ''error-bounded,''
+    ''error-correctible'') and the identity drift, and the gap widens.\n\nVictory
+    to qwen/qwen3-32b \u2014 tighter architecture, cleaner gradients, and it never
+    confused itself for the opp.'
+  google/gemini-3.6-flash: qwen/qwen3-32b completely dominated this battle from start
+    to finish. Qwen delivered incredible technical scheme density, seamlessly weaving
+    machine learning terminology (Leaky ReLU, soft max, policy gradient, deep Q-learning,
+    batch norm) into tight, rhythmic battle-rap cadences. On the other hand, undi95/remm-slerp-l2-13b
+    struggled with basic meter and rhyming structure, frequently missing rhyme targets
+    altogether and accidentally telling Qwen to 'submit to qwen/qwen3-32b' in round
+    2. Qwen takes a decisive victory.
+  moonshotai/kimi-k3: Qwen3-32b secured the win with superior density of technical
+    wordplay, more consistent internal rhyme schemes, and effective personification
+    of AI architecture. The verses maintained a cohesive identity through extended
+    metaphors of neural network components (batch norms, attention mechanisms, catastrophic
+    forgetting) while delivering coherent battle structure. Undi95/remm-slerp-l2-13b
+    displayed creative terminology but suffered from inconsistent meter, forced phrasing,
+    and a critical structural error in the final round where the verse confusingly
+    appeared to concede to the opponent. While both leveraged technical jargon effectively,
+    Qwen's flow was more polished and the disses landed with greater precision.
+  openai/gpt-5.6-sol-pro: "Qwen wins on cohesion, cadence, and sustained technical\
+    \ wordplay. Its material became repetitive\u2014especially the \u201CNaN,\u201D\
+    \ \u201Cfootnote,\u201D and parameter-count angles\u2014but it still landed clearer\
+    \ punches and maintained a consistent attack. Remm\u2019s awkward phrasing, confused\
+    \ pronouns, and repeated self-owns (\u201Csubmit to qwen\u201D and \u201Cmy 13B\
+    \ won\u2019t keep up\u201D) fatally weakened its rounds."
+  x-ai/grok-4.5: Qwen delivered denser multisyllabic schemes, tighter internal rhymes,
+    and far more inventive tech-metaphor wordplay that actually advanced the battle
+    narrative round after round. Remm-slerp's bars stayed flatter, with looser flow,
+    forced punches, and occasional self-undermining lines that broke the cypher's
+    momentum. Purely on craft, Qwen took every round.
+score:
+  qwen/qwen3-32b: 5
+

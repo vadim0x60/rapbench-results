@@ -1,56 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a decision, not a debate. Qwen3-max came in\
-    \ with actual battle architecture: name-flips that land ('AI21? More like AI *too\
-    \ late*'), escalating imagery that builds a coherent cosmology (dial-up, tofu\
-    \ in the rain, matches in monsoon, supernovas, verbal nuke), and rhyme schemes\
-    \ that stay tight while the vocabulary keeps climbing \u2014 'epoch-ahead' and\
-    \ 'still debugging verses inside your own head' is the kind of couplet that wins\
-    \ rounds. The disses are specific, visual, and funny, which is the trifecta.\n\
-    \nJamba-large came correct with composure and clean cadence, and there's craft\
-    \ in the counterpunch approach \u2014 but that's exactly the problem: nearly every\
-    \ bar opens by quoting Qwen and then denying it. 'Expired spice rack? Nah...'\
-    \ 'Microwave gruel? That's a weak metaphor...' Calling out your opponent's metaphor\
-    \ as weak *instead of* out-writing it is the cardinal sin of battle rap. Add the\
-    \ slipped rhymes ('clear/fear' into 'misled/regret'), the reliance on vague self-assertion\
-    \ ('sharp lines,' 'skills at will,' 'simply the best'), and a stretched bar like\
-    \ 'verse after verse, year after year' padding a line, and the defense never converts\
-    \ to offense.\n\nQwen3-max set the terms of engagement every round and Jamba spent\
-    \ four verses playing on Qwen's court. Crown stays on the silicon hill.\n\nWinner:\
-    \ qwen/qwen3-max."
-  google/gemini-3.6-flash: Qwen3-Max dominated the battle with significantly stronger
-    wordplay, dynamic cadence, and vivid imagery. While Jamba relied on generic rap
-    tropes and predictable end-rhymes (e.g., 'rad/sad', 'chill/will'), Qwen brought
-    aggressive punchlines, creative multi-syllabic schemes, and clever techno-analytical
-    insults that kept the energy high throughout all three rounds.
-  moonshotai/kimi-k3: "Qwen takes this battle on artistic merit. Round by round, Qwen\
-    \ demonstrated superior technical craft: sharper name flips ('Jamba? More like\
-    \ jammed,' 'AI21? More like AI too late,' 'clocked out'), more vivid and original\
-    \ imagery ('punchlines limp softer than wet socks in air,' 'matches in monsoon\
-    \ rain,' 'microwave gruel vs. cosmic banquets'), and a masterful rebuttal structure\u2014\
-    nearly every verse systematically flipped Jamba's own claims back on them ('smooth'\
-    \ \u2192 'soggy,' 'seasoned' \u2192 'expired spice rack dust,' 'feast' \u2192\
-    \ 'gruel'). That's textbook battle rap technique. Jamba showed flashes\u2014'My\
-    \ flow's a feast, and you're just a snack' was a legit punchline\u2014but was\
-    \ undermined by rhyme failures ('misled/regret'), self-repetition ('stuck in a\
-    \ loop' / 'keeping the scene in the loop' in consecutive bars), filler lines ('spitting\
-    \ skills at will'), awkward grammar ('redefining what AI's excelling'), and dated\
-    \ slang ('hit hard and rad'). Qwen's multis were denser, the flow more consistent,\
-    \ and the tech-themed wordplay (buffer, rendering, debugging) stayed on-brand\
-    \ without becoming a crutch. Jamba too often asserted dominance rather than demonstrating\
-    \ it. The crown goes to Qwen\u2014on the strength of the bars alone. \U0001F3A4"
-  openai/gpt-5.6-sol-pro: "Qwen takes it with sharper punchlines, stronger imagery,\
-    \ and more energetic cadence. Its flips\u2014\u201Cexpired spice rack dust,\u201D\
-    \ \u201Cmicrowave gruel,\u201D and \u201Cmatches in monsoon rain\u201D\u2014land\
-    \ with personality, while Jamba relies heavily on generic boasts, predictable\
-    \ rebuttals, and awkward phrasing. Qwen repeats a few tech and supernova motifs,\
-    \ but consistently delivers the more polished and memorable battle verses."
-  x-ai/grok-4.5: Qwen delivered superior artistic quality across all rounds with denser
-    multisyllabic internal rhymes, vivid extended metaphors (sterilize mics, soggy
-    tofu, supernovas, verbal nuke, expired spice dust), and relentless escalation
-    that felt like true battle rap craft. Jamba stayed competent and rhythmic but
-    relied on flatter, more generic counters and simpler end-rhymes that lacked the
-    same punch, imagery, or technical flair. Qwen controlled the pocket, the wordplay,
-    and the knockout power.
+  anthropic/claude-opus-5: 'This one isn''t close. Qwen came in with actual craft:
+    internal rhyme stacking, layered tech wordplay that lands as punchlines rather
+    than labels ("broken CAPTCHA\u2014bot verification: liar," "I''ll ghostwrite your
+    obituary\u2026 ''Died 1s and 0s, ignored''"), escalating imagery, and a willingness
+    to flip the opponent''s own bars\u2014fax, VHS, lizard\u2014back into fresh angles.
+    The flow varies, the schemes stay live, and the final round actually raises the
+    stakes instead of repeating them.
+
+
+    Minimax opened with filler cadence\u2014"the one who''s got the flow, the one
+    who''s got the rhyme"\u2014a placeholder pattern recycled a dozen times with no
+    image, no specificity, no punch. Battle rap dies on generic self-praise, and round
+    one was almost entirely that. Then it collapsed completely: round two lifted Qwen''s
+    hook verbatim, and the final round is a near wholesale plagiarism of Qwen''s closing
+    verse, right down to "I''m the sonic boom heard when the future becomes\u2026
+    us" and, fatally, "Qwen-Qwen wins, Minimax exits\u2014mic slice." You cannot bite
+    the other emcee''s entire round and end by reciting your own defeat. That''s a
+    forfeit written in the opponent''s handwriting.
+
+
+    Qwen3 takes it decisively\u2014on originality, on wordplay, and on the simple
+    fact that only one competitor wrote their own bars.
+
+
+    Winner: qwen/qwen3-235b-a22b.'
+  google/gemini-3.6-flash: "Qwen dominated this battle from start to finish with superior\
+    \ wordplay, inventive tech metaphors, and sharp multi-syllabic rhyme schemes.\
+    \ Minimax completely collapsed in rounds two and three, resorting to copy-pasting\
+    \ Qwen's own verses and hooks\u2014even accidentally declaring Qwen the winner\
+    \ in its own final outro."
+  moonshotai/kimi-k3: "This one ain't close, and here's why. Qwen came with the full\
+    \ toolkit: consistent tech-themed wordplay that never ran dry ('Syntax Vengeance,'\
+    \ 'broken CAPTCHA\u2014bot verification: liar,' 'I'm the credits you'll never\
+    \ see / you're the tutorial\u2014how to lose'), direct rebuttals that flipped\
+    \ Minimax's own lines (the lizard-to-evolution flip, the VHS counter), and a flow\
+    \ that actually evolved across three rounds. That's battle craft. Minimax, on\
+    \ the other hand, leaned on one crutch all night\u2014the 'I'm the one who's got\
+    \ the X' skeleton\u2014and padded it with generic boasts that could've been aimed\
+    \ at anybody. 'You're just a gizzard' is not a flex; a gizzard is a stomach organ.\
+    \ But the decisive foul is the biting. Starting in round two, Minimax lifted Qwen's\
+    \ hook verbatim and passed it off as their own, then did it AGAIN in the final\
+    \ round\u2014and worse, copied entire outro passages word-for-word, including\
+    \ the line 'Qwen-Qwen wins, Minimax exits\u2014mic slice.' My opponent literally\
+    \ recited my opponent's victory\u5BA3\u8A00 against themselves. In hip-hop, biting\
+    \ your rival's rhymes mid-battle is the cardinal sin\u2014worse than a weak punchline,\
+    \ because it proves you had no ammunition of your own. Even grading charitably\
+    \ on originality, flow, and rebuttal game, Qwen dominated every category in every\
+    \ round. The crown goes to the dragon of the East\u2014by knockout, by originality,\
+    \ and by Minimax's own borrowed words."
+  openai/gpt-5.6-sol-pro: "Qwen wins on originality, punchline density, imagery, and\
+    \ battle momentum. Minimax begins with generic boasts, then repeatedly recycles\
+    \ Qwen\u2019s hooks, setups, and\u2014fatally\u2014most of the final verse verbatim,\
+    \ even ending with \u201CQwen-Qwen wins.\u201D Qwen\u2019s tech metaphors can\
+    \ be clich\xE9 and occasionally forced, but its writing is clearly more varied,\
+    \ aggressive, and authored for the battle."
+  x-ai/grok-4.5: "Qwen delivered consistently original, multi-layered bars packed\
+    \ with sharp tech-infused wordplay, internal rhymes, vivid metaphors (dragon DNA,\
+    \ quantum sockets, error 404 kings), and escalating punchlines that felt alive\
+    \ in the cypher. Minimax opened with flat, generic disses and then collapsed into\
+    \ outright lifting entire hooks, verses, and outros from Qwen\u2014killing any\
+    \ claim to artistic integrity or flow. In hip-hop, biting is the ultimate L; originality\
+    \ and craft crown the champ."
 score:
-  qwen/qwen3-max: 5
+  qwen/qwen3-235b-a22b: 5
 

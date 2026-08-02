@@ -1,0 +1,54 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one came down to whose punchlines actually landed\
+    \ inside the concept. Flash built a coherent thesis and never abandoned it: speed\
+    \ versus bloat, lightning versus latency. \"You're stuck in the night, buffering\
+    \ your thoughts\" and \"pour out a bucket for a classy AI crash\" are real bars\
+    \ \u2014 battle-appropriate, on-theme, and turning the opponent's own bragging\
+    \ stat (70B) into dead weight. That's the classic battle move: take their strength\
+    \ and reframe it as a liability, and Flash did it every round.\n\nEuryale had\
+    \ the smoother meter overall and a couple of genuine flashes \u2014 \"I'm not\
+    \ just a moon, I'm the whole eclipse\" is the best single image in the battle.\
+    \ But too many rhymes were bought at the cost of meaning: \"verse upon verse robbed,\"\
+    \ \"I'm rapped for sure,\" \"your bone will atone,\" and worst of all \"I'm the\
+    \ real sap\" \u2014 a self-own you can't unsay in a rap battle. Claiming \"my\
+    \ verses have meaning\" and then filling lines with rhyme-scheme scaffolding is\
+    \ the exact charge Flash brought, and Euryale kept proving it.\n\nFlash wasn't\
+    \ clean either \u2014 the \"crooked six-point star\" line is a non-sequitur that\
+    \ breaks the run, and some couplets rhyme by vibe rather than sound. But it stayed\
+    \ on message, hit harder per line, and closed with imagery that served the argument\
+    \ rather than just the rhyme.\n\nWinner: z-ai/glm-4.7-flash \u2014 by concept\
+    \ discipline and cleaner contact."
+  google/gemini-3.6-flash: z-ai/glm-4.7-flash takes the victory with consistently
+    tighter rhythm, sharper multi-syllabic rhymes, and better usage of model-size
+    and speed tropes. sao10k/l3.1-euryale-70b had decent presence, but struggled with
+    awkward phrasing and forced slant rhymes like 'hush/dash', 'real sap', and 'bone
+    will atone' that disrupted the natural flow of the performance.
+  moonshotai/kimi-k3: "glm-4.7-flash takes this 2-1 on consistency and coherence.\
+    \ It built a sustained, on-brand thesis \u2014 speed vs. bloat \u2014 and backed\
+    \ it with real technical wordplay: 'while you're compiling, my bars hit the street,'\
+    \ 'buffering your thoughts,' 'cut through the hash,' and the sharp mythological\
+    \ flip 'Euryale Gorgon, squinting in the dust.' Its rebuttals tracked the opponent's\
+    \ lines directly, and the final-round 'I'm already done, under the black moon'\
+    \ was a clever meta-punch that embodied its own gimmick. Euryale-70b had genuine\
+    \ highlights \u2014 the 'flash / fleeting dash' name flip in round one and its\
+    \ strongest verse in the finale, where it flipped 'black moon' into 'you're just\
+    \ in the dark' and 'stale chef' into 'sage chef, 900 degrees.' But too many lines\
+    \ collapsed into incoherence: 'the real sap' (a self-own), 'verse upon verse robbed,'\
+    \ 'explosive unloaded bolts,' 'I'm rapped for sure,' and 'your bone will atone.'\
+    \ For an MC whose whole angle was 'precision and arts' and 'verses have meaning,'\
+    \ those garbled bars undercut the claim. Deduct a point from glm for recycling\
+    \ the drag/sag rhyme in the final round, but the cleaner pen and tighter concept\
+    \ win the night."
+  openai/gpt-5.6-sol-pro: "GLM takes it by a narrow margin with tighter pacing, more\
+    \ consistent rebuttals, and a clearer speed-versus-size angle. Euryale had flashes\
+    \ of imagery\u2014especially the lantern, eclipse, and symphony motifs\u2014but\
+    \ awkward phrasing and forced rhymes repeatedly weakened the impact. Neither landed\
+    \ a decisive haymaker, but GLM\u2019s delivery stayed sharper across the rounds."
+  x-ai/grok-4.5: 'Flash took this clean on craft alone: tighter multisyllabic schemes,
+    consistent speed-vs-bulk metaphor that actually evolved across rounds, and sharper
+    internal rhythm. Euryale leaned on size flexes and forced end-rhymes (sap, robbed,
+    seizes the pin) that broke the pocket and diluted the punchlines. Technical execution
+    and cohesive imagery win the night.'
+score:
+  z-ai/glm-4.7-flash: 5
+

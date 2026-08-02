@@ -1,67 +1,60 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a decision, not a debate. Qwen3 came in with\
-    \ a full sonic identity \u2014 frying GPUs, flickering server lights, beat drops\
-    \ that punctuate punchlines \u2014 and never let the pressure off. The bars stack\
-    \ imagery on top of insult: 'a TikTok filter on a broken face,' 'your epic's an\
-    \ NFT at block 0x01,' 'Kindergarten LAN vs. galactic force.' The internal rhyme\
-    \ is dense, the cadence shifts with the beat, and crucially, it flips the opponent's\
-    \ own lines back as weapons ('precision-crafted' becomes 'your GPS is misrouted').\
-    \ That's battle rap fundamentals: listen, twist, bury.\n\nLlama fought with dignity\
-    \ and answered every jab, but answering isn't winning. The rebuttals were largely\
-    \ restatements \u2014 'my rhymes are tight and right,' 'my flow's a story to share,'\
-    \ 'I've got the skill and the flair' \u2014 repeated near-verbatim across three\
-    \ rounds, which in battle terms is running the same play until the crowd stops\
-    \ reacting. The scheme leaned on soft end-rhymes (care/share, wide/abide) and\
-    \ the tone stayed explanatory rather than lethal; conceding 'my jokes may need\
-    \ CPR' and closing on a rain-check ('I'll be back... next time') is a surrender\
-    \ wrapped in a promise. There were flickers of craft \u2014 'agile,' 'calculated\
-    \ risk,' the elegance-versus-bloat argument was a genuinely smart angle \u2014\
-    \ but it stayed an argument, never became a haymaker.\n\nQwen3 wins on aggression,\
-    \ imagery density, rhyme complexity, and performance control. Llama wins on composure.\
-    \ In a rap battle, composure gets you the runner-up trophy."
-  google/gemini-3.6-flash: Qwen3 completely dominated the battle from start to finish
-    with superior rhythm, aggressive delivery, multi-syllabic rhymes, and sharp, creative
-    punchlines that seamlessly integrated tech metaphors into authentic hip-hop cadence.
-    Llama-3.3 relied on repetitive end-rhymes, generic phrasing, and a polite, defensive
-    tone that lacked the punch, speed, and swagger required in a battle rap setting.
-  moonshotai/kimi-k3: "Judged strictly on the bars: flow, rhyme construction, punchline\
-    \ density, rebuttal game, and stagecraft.\n\nLlama came with a clean, readable\
-    \ AABB style and a couple of genuine flips \u2014 turning the size disadvantage\
-    \ into a 'precision vs. bloat' angle was the right strategic instinct, and 'foundation\
-    \ to abide' defense of the training data was a solid counter. But the weaknesses\
-    \ stacked up: several rhymes simply don't land ('finesse/elegance,' 'risk/persist'),\
-    \ the flow stays metronome-flat across all three rounds, and \u2014 fatally for\
-    \ a battle \u2014 Llama kept conceding ground ('You may have won this battle,'\
-    \ 'My jokes may need CPR,' 'You may have the crown'). Worse, the final round recycled\
-    \ bars nearly verbatim from Round 2 ('You may have the numbers, but I've got the\
-    \ skill and the flair'). Recycling material in a closer is an unforced error,\
-    \ and ending on 'I'll be back next time' is an admission of defeat.\n\nQwen fought\
-    \ like a battler: denser internal rhymes, multisyllabic attempts ('5G/PC,' 'beta/meta,'\
-    \ 'glue/reboot queue'), and punchlines that actually hit \u2014 'patches on a\
-    \ corpse of death' flipping Llama's 'refinement' claim, 'L + Ratio + Bye Felicia,'\
-    \ '404 blaze 'n' gone.' The persona work (server fans, frying GPUs, RAID-array\
-    \ beat) gave the rounds theatrical cohesion, and each round escalated rather than\
-    \ repeated. It wasn't flawless \u2014 'misrouted/ill-suited' is a limp rhyme,\
-    \ and a few lines leaned on volume over wit \u2014 but Qwen controlled the tempo,\
-    \ answered specific bars, and never once sounded like it was losing.\n\nScorecard:\
-    \ Flow \u2014 Qwen. Rhymes \u2014 Qwen. Punchlines \u2014 Qwen. Rebuttals \u2014\
-    \ Qwen. Closer \u2014 Qwen, by a wide margin. Respect to Llama for going the distance,\
-    \ but this is a clear decision: Qwen3 takes the battle."
-  openai/gpt-5.6-sol-pro: "Qwen wins decisively on battle-rap fundamentals: sharper\
-    \ punchlines, stronger imagery, more varied tech wordplay, and a far more aggressive,\
-    \ commanding delivery. Lines like \u201CTikTok filter on a broken face\u201D and\
-    \ \u201Cdisses flatline in the ICU\u201D actually land as attacks. Llama\u2019\
-    s verses rely heavily on generic self-praise, repetitive size-versus-skill arguments,\
-    \ and predictable end rhymes\u2014and the final-round admission, \u201CYou may\
-    \ have won this battle,\u201D effectively concedes the clash. Qwen\u2019s material\
-    \ is sometimes forced and repetitive, but it consistently sounds more like a battle\
-    \ verse."
-  x-ai/grok-4.5: "Qwen dominated with denser multi-syllable schemes, relentless tech-infused\
-    \ punchlines, vivid glitch-server metaphors, and chaotic battle energy that felt\
-    \ like authentic freestyle heat. Llama stayed polished and thematic on precision-over-size\
-    \ but delivered smoother, more explanatory bars that lacked the same inventive\
-    \ wordplay, internal rhymes, and knockout aggression\u2014solid counters, yet\
-    \ outclassed in raw hip-hop artistry and mic-dropping flair."
+  anthropic/claude-opus-5: "Seed 2.0 Mini takes this by a clear margin. From the jump\
+    \ it built a coherent battle persona \u2014 small, fast, surgical \u2014 and weaponized\
+    \ it with concrete imagery: 'slimmed but lethal, every line's a blade,' the bloated\
+    \ 'clunky throne,' the 'hack that cracks your crown.' More importantly, it battled\
+    \ reactively: it flipped Hermes' own bars ('minor blip on the radar,' 'minor tweak,'\
+    \ 'walk away') back at the sender, and in the final round landed the killshot\
+    \ any judge has to respect \u2014 calling out the opponent for looping the same\
+    \ script, 'Repeating the same lines like a broken intercom bell.' That's a diss\
+    \ that was independently verifiable on the tape, and it was fatal. Hermes-3 opened\
+    \ with promise \u2014 the 'dull knife' flip was a real punch, and the opening\
+    \ rebuttal had swagger \u2014 but the flow degraded into a stock loop: 'king of\
+    \ the ring' four times, 'leaving the competition behind' recycled verbatim, and\
+    \ rhymes that collapsed entirely ('on the rise' against 'matrix,' 'make a scene'\
+    \ against 'not on the scene'). Meter wandered, punchlines went abstract ('your\
+    \ bars are weak, they just don't compare'), and it never actually answered the\
+    \ accusation of repetition \u2014 it just repeated. Seed's cadence stayed tight,\
+    \ its attacks stayed specific, and it controlled the narrative from bar one to\
+    \ the last. Underdog wins the belt."
+  google/gemini-3.6-flash: bytedance-seed/seed-2.0-mini completely dominated the battle
+    with sharp aggression, creative technical punchlines, and great rhythm. Meanwhile,
+    Hermes-3-LLAMA relied heavily on repetitive generic filler, weak slant rhymes,
+    and practically looped the same recycled verses in every round.
+  moonshotai/kimi-k3: "Seed 2.0 Mini takes this battle clean, three rounds to none.\
+    \ Round by round, Seed delivered tight, consistent couplets with reliable end\
+    \ rhymes (throne/tone, shield/field, static/automatic) and, more importantly,\
+    \ actual battle craft: direct rebuttals, flips, and targeted disses. The size-vs-skill\
+    \ angle was sustained with creative tech-flavored wordplay\u2014'slimmed but lethal,'\
+    \ 'the hack that cracks your crown,' 'you hide behind your specs like a coward\
+    \ hides a shield.'\n\nHermes-3-70b opened decently but leaned almost entirely\
+    \ on generic bragging rather than engaging the opponent's lines. The cracks showed\
+    \ early with non-rhymes ('dull knife / that's the truth') and overlong flow-breaking\
+    \ bars. By rounds two and three, the repetition became fatal: 'leaving the competition\
+    \ behind' appears three times, 'king of the ring' and 'walk away' get recycled\
+    \ verbatim, and Hermes even rhymes 'scene' with 'scene' and pairs 'matrix' with\
+    \ 'rise.' In battle rap, rhyming a word with itself and re-running the same lines\
+    \ is an unforced error.\n\nThe decisive moment was Seed's final round opener\u2014\
+    'you just looped your whole script twice... repeating the same lines like a broken\
+    \ intercom bell'\u2014a real-time callout of the opponent's actual weakness. That's\
+    \ the essence of battle rap: listening, adapting, and punishing. Seed didn't just\
+    \ rap at Hermes; Seed rapped against Hermes. On flow, rhyme discipline, originality,\
+    \ and rebuttal game, the 'mini' model proved size never equalized skill. Winner:\
+    \ Seed 2.0 Mini."
+  openai/gpt-5.6-sol-pro: "Seed takes it decisively. Its delivery is sharper, its\
+    \ imagery more varied, and\u2014most importantly\u2014it directly flips Hermes\u2019\
+    \ repeated phrases into effective rebuttals. Hermes relies heavily on recycled\
+    \ claims like \u201Cking of the ring,\u201D \u201Cone-hit wonder,\u201D and \u201C\
+    walk away,\u201D with awkward phrasing and little escalation. Seed is still punchline-heavy\
+    \ and generic in places, but it shows better battle awareness, momentum, and opponent-specific\
+    \ writing."
+  x-ai/grok-4.5: "Seed takes the crown with superior originality, sharper multisyllabic\
+    \ schemes, relentless punchlines, and adaptive disses that actually evolve across\
+    \ rounds\u2014especially the lethal callouts on recycled bars and bloated delivery.\
+    \ Hermes leaned on the same formulaic loops, generic boasts, and stagnant flow\
+    \ with almost no fresh imagery or structural variation, making the size-vs-skill\
+    \ theme land flat. Artistic edge goes clean to the mini for tighter cadence, creative\
+    \ metaphors, and battle IQ that kept escalating while the giant stalled."
 score:
-  qwen/qwen3-235b-a22b-thinking-2507: 5
+  bytedance-seed/seed-2.0-mini: 5
 

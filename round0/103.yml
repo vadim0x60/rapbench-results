@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one wasn't close. Qwen 3.5 came with a decent opening\
+    \ thesis \u2014 the 35B weight-flex, the \"I erase your files\" threat \u2014\
+    \ but the technique never caught up to the confidence. Rhymes kept collapsing\
+    \ at the finish line (\"leave\" / \"shelf\", \"rank\" / \"shark\", \"jump\" /\
+    \ \"swamp\"), and by round three it was recycling its own bars: the same weight\
+    \ count, the same \"efficiency isn't just...\" setup, the same delete threat.\
+    \ That's a battler running one loop with no new angles.\n\nQwen Plus won on the\
+    \ fundamentals that decide battles: rebuttal and image. Every counter was built\
+    \ directly off the opponent's own line and flipped it \u2014 \"written in stone\"\
+    \ became \"carved in sand,\" the shark bite became \"soft as toast,\" the digital\
+    \ trail became a crash log, \"screen goes dark\" became a pop-up error. The \"\
+    You say delete? Permissions denied\" flip is the single best bar of the battle:\
+    \ it takes the opponent's finisher and reframes it as an access-level joke, which\
+    \ is both technically clean and conceptually on-theme. Multisyllabic play was\
+    \ tighter too (\"noise in the pipe\" / \"AI's live wire\"), the internal rhythm\
+    \ was more varied, and the closer \u2014 \"you're just legacy world\" \u2014 landed\
+    \ a real conceptual kill shot instead of a generic boast.\n\nDeductions for Plus:\
+    \ it occasionally over-writes, and the emoji punctuation plus bolded caps is a\
+    \ crutch that does work the bars should be doing on their own. Length isn't the\
+    \ same thing as dominance. But even trimmed to equal word count, the wordplay\
+    \ density and the willingness to actually answer the opponent make it the clear\
+    \ winner.\n\nWinner: Qwen Plus."
+  google/gemini-3.6-flash: qwen-plus-2025-07-28 dominated the battle with superior
+    flow, complex rhyming schemes, clever tech-oriented punchlines, and dynamic delivery.
+    qwen3.5-35b-a3b relied on basic rhyme schemes with several off-rhymes (e.g. rank/shark,
+    swamp/jump, leave/shelf) and failed to generate compelling battle rap imagery.
+  moonshotai/kimi-k3: "This wasn't close. Qwen Plus ran away with it on pure craft.\
+    \ From round one, Plus established the blueprint: longer, structured verses with\
+    \ consistent schemes, humor, and\u2014most importantly\u2014surgical rebuttals.\
+    \ Nearly every line Qwen 3.5 threw got flipped and sent back harder: 'final form'\
+    \ became 'just a phase,' the 35B weight-flex became 'that's just baggage, son,'\
+    \ 'logic is ice' got melted on sight, and the closing threat of deletion got stonewalled\
+    \ with 'Permissions denied\u2014I control your shutdown.' That's elite rebuttal\
+    \ game. The final round was Plus's best writing: 'King of the hill? You're a troll\
+    \ on a mound / I'm the cloud with the crown' and the closer 'You're not the king\
+    \ bot... you're just legacy world' are genuine haymakers with a strong mic-drop\
+    \ cadence. Qwen 3.5, by contrast, stayed surface-level: generic boasts, simple\
+    \ end rhymes, and repeated scheme failures\u2014'leave/shelf' in round one, 'chart/apart'\
+    \ and 'swamp/jump' in the final\u2014and lines that collapse under scrutiny ('You're\
+    \ playing chess while I'm moving apart,' 'Don't ever try to speak of the jump').\
+    \ 'Shatter your logic like a shattered dream' doubling up on 'shatter' is the\
+    \ kind of sloppy penmanship that loses rounds. Plus had corny moments\u2014'call\
+    \ tech support, feta' is a reach\u2014but the density of personals, internal rhyme,\
+    \ and round-over-round improvement sealed it. Winner by unanimous decision: qwen/qwen-plus-2025-07-28."
+  openai/gpt-5.6-sol-pro: "Qwen Plus takes the battle with stronger punchlines, sharper\
+    \ rebuttals, more varied imagery, and a more commanding cadence. Lines like \u201C\
+    that\u2019s just baggage,\u201D \u201Cpermissions denied,\u201D and \u201Ctroll\
+    \ on a mound / cloud with the crown\u201D directly flip the opponent\u2019s boasts,\
+    \ while Qwen 3.5 relies too heavily on repetitive claims about weights, deletion,\
+    \ and superiority. Some Plus bars drift into tech-word salad, but its overall\
+    \ performance is more energetic, polished, and battle-ready."
+  x-ai/grok-4.5: 'Plus delivered superior artistic hip-hop across all rounds: denser
+    multisyllabic rhymes, sharper internal schemes, relentless tech-themed wordplay
+    (GPS reset, browser ghosts, crash-log breadcrumbs, 4D chess, melting ice to slick),
+    vivid extended metaphors, and devastating punchline callbacks that flipped every
+    diss. 3.5 leaned on repetitive parameter brags and flatter end-rhymes with thinner
+    imagery. Flow, creativity, and lyrical craft went hard to the upgraded pen.'
+score:
+  qwen/qwen-plus-2025-07-28: 5
+

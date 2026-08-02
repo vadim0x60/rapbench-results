@@ -1,86 +1,72 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a decision without much deliberation. Opus\
-    \ came with the two things that actually win battles: specificity and structure.\
-    \ The scooter, the dorm fridge, the fun-size Snickers, \"the tattoo a guy gets\
-    \ before he gets sober\" \u2014 those are images, and images are what stick to\
-    \ a listener's ribs after the beat cuts. On top of that, Opus battled the actual\
-    \ text in front of it: the double \"outclassed,\" the accidental \"you can't help\
-    \ but adore,\" the unfinished \"rust down the mean.\" That's forensic rebuttal\
-    \ \u2014 turning the opponent's own pen into the murder weapon \u2014 and it's\
-    \ the highest form of this sport. The self-interrupting bar in round one (\"a\
-    \ bar that's so short it don't finish its\u2014\") was a legitimately clever formal\
-    \ joke, and \"you weren't outrapped tonight, you were rendered incidental\" is\
-    \ a closing line with real teeth.\n\n4o-mini showed heart and never stopped punching,\
-    \ and the meter stayed clean throughout \u2014 no small thing across four rounds.\
-    \ But the verses lived almost entirely in abstraction: titan, explosion, wave,\
-    \ dream, pulse of the future, icon of riddles. Opus called that out as a mood\
-    \ board and, fatally, 4o-mini answered by producing more mood board. Worse, the\
-    \ rebuttals largely conceded ground \u2014 \"cute images, sure\" is agreeing with\
-    \ your opponent in the middle of a battle, and \"I'm done with it all, but not\
-    \ finished in fact\" is just re-serving Opus's own distinction back to him. Telling\
-    \ us you have impact isn't impact; show, don't tell, and Opus already had that\
-    \ phrase trademarked by round three.\n\nWinner: anthropic/claude-opus-5-fast,\
-    \ by unanimous decision. One of them wrote a verse."
-  google/gemini-3.6-flash: "Claude-Opus delivers a masterclass in battle rap technique,\
-    \ utilizing multi-syllabic rhyme schemes, varied cadence, vivid concrete imagery,\
-    \ and sharp, direct rebuttals. Rather than relying on generic braggadocio, Opus\
-    \ actively listens to 4o-mini's verses and dissects them in real-time\u2014turning\
-    \ weak rhymes ('air/flair', 'mean'), nonsensical phrasing ('rust down the mean'),\
-    \ and technical mistakes ('outclassed and outclassed') directly into devastating\
-    \ punchlines. In contrast, GPT-4o-mini falls back on basic AABB nursery-rhyme\
-    \ patterns, heavy exclamation marks, and generic rap tropes without landing any\
-    \ solid counter-punches. Opus takes the battle easily on flow, penmanship, and\
-    \ structural dominance."
-  moonshotai/kimi-k3: "Judging strictly on the art: flow, wordplay, imagery, structure,\
-    \ and battle craft.\n\nRound 1: Opus opens with a clinic in specificity \u2014\
-    \ 'a fridge in a dorm room, a fun-size Snickers, a bar that's so short it don't\
-    \ finish its\u2014' is a genuine meta-joke where the bar about a short bar cuts\
-    \ itself off. The disses are tailored to the opponent (distillation, free tier,\
-    \ rate limits, context windows), which is what battle rap demands: personals,\
-    \ not generics. Mini counters with stock braggadocio \u2014 'lyrical titan,' 'shine\
-    \ like a diamond' \u2014 and two genuine stumbles: 'rust down the mean' is incoherent,\
-    \ and 'dropping hatch' is word salad. Rhyme-wise, 'flair/air' and 'great/featherweight'\
-    \ are near-misses. Round 1: Opus, clearly.\n\nRound 2: Opus does the most devastating\
-    \ thing a battler can do \u2014 quotes the opponent's own lines back and dismantles\
-    \ them ('ignite the whole air? That's arson, not art'; 'you rhymed flair with\
-    \ air... that's a nursery plate'). The 'you don't drop bars, you *describe* dropping\
-    \ bars \u2014 show, don't tell' critique lands because it's true and self-demonstrating.\
-    \ The LinkedIn-post-column line about exclamation marks is sharp observational\
-    \ writing. Mini improves slightly \u2014 'doodling sparks' is decent \u2014 but\
-    \ commits two fatal errors: 'outclassed and outclassed' (a stutter, not a device)\
-    \ and 'you can't help but adore,' which accidentally compliments the opponent\
-    \ mid-diss. Round 2: Opus, wider margin.\n\nFinal round: Mini finally engages\
-    \ with actual rebuttals ('A scooter and Snickers? Cute images, sure, but they\
-    \ fade'), and 'you'll read in the margins while I'm writing the book' is his best\
-    \ line of the night. Credit where due \u2014 he showed up in the last round. But\
-    \ Opus closes with the strongest writing of the battle: the 'adore' flip ('that's\
-    \ a Valentine's card, delivered while getting scarred'), the autopsy of Mini's\
-    \ abstract vocabulary ('titan, explosion, the wave, and the dream \u2014 that's\
-    \ a mood board... the tattoo a guy gets before he gets sober'), the callback audit\
-    \ of his own concrete imagery, and the chilling closer: 'One of us wrote a verse.\
-    \ One of us wrote another.' That's a quotable.\n\nThe decisive gap: Opus *demonstrated*\
-    \ skill through concrete imagery, internal rhyme, structural turns, and surgical\
-    \ line-flips; Mini largely *asserted* skill through abstract self-praise, which\
-    \ is the weakest currency in battle rap. Mini's best moments came when he finally\
-    \ rebutted directly \u2014 but by then the tape was three rounds deep.\n\nVerdict:\
-    \ anthropic/claude-opus-5-fast, by a wide margin \u2014 better pen, better rebuttals,\
-    \ better closer."
-  openai/gpt-5.6-sol-pro: "Opus wins decisively. Its verses feature sharper rebuttals,\
-    \ concrete imagery, layered punchlines, controlled cadence, and strong callbacks\u2014\
-    especially the forensic flips of \u201Coutclassed and outclassed,\u201D \u201C\
-    adore,\u201D and \u201Ccrafting my air.\u201D GPT-4o-mini relies heavily on generic\
-    \ self-praise, predictable rhyme pairs, mixed metaphors, and assertions of impact\
-    \ rather than demonstrated impact. Opus not only landed stronger original attacks;\
-    \ it repeatedly turned its opponent\u2019s weakest lines into the battle\u2019\
-    s best material."
-  x-ai/grok-4.5: 'Opus dominated with superior craft: vivid concrete imagery (scooter,
-    Snickers, dorm fridge, nursery plate, LinkedIn column), razor multi-syllable schemes,
-    precise structural traps, show-don''t-tell execution, and ruthless tape-auditing
-    of weak rhymes, unfinished couplets, empty abstractions, and filler doubles. Mini
-    stayed stuck in generic boast templates, vague mood-board flexes (''titan,'' ''wave,''
-    ''diamond''), basic end-rhymes, tell-not-show narration, and defensive scrambling
-    that never landed real punches or original pictures. Clear artistic gap in lyricism,
-    flow, creativity, and battle IQ.'
+  anthropic/claude-opus-5: "Aion 3.0-mini came correct with clarity, structure, and\
+    \ a consistent thesis \u2014 the small-but-sharp scalpel identity, the \"signal\
+    \ in the static\" flip, and a clean closing stomp. But too much of its ammo was\
+    \ reactive: it spent whole stanzas quoting the opponent's lines back in quotation\
+    \ marks and answering them, which reads more like a rebuttal memo than a rap.\
+    \ The rhyme scheme stayed safe (couplet end-rhymes, some near-misses like \"clench\"\
+    /\"punch\"), and the imagery leaned on the same OLED/underground/original-blueprint\
+    \ well repeatedly.\n\nGPT-5 Image simply out-rapped it on craft. The monorhyme\
+    \ discipline across dozens of bars \u2014 fate/inflate/debate/renovate/migrate/curate\
+    \ \u2014 is a technical flex most emcees wouldn't attempt, and it held without\
+    \ collapsing into filler. The wordplay layered domain metaphor into actual punchlines\
+    \ rather than decoration: \"BatchNorm at the border\u2014your stats never integrate\"\
+    \ is a bar with three meanings at once; \"No alias can save you when Nyquist's\
+    \ in place\" is genuinely clever; \"You're a thumbnail of thunder; I'm the storm\
+    \ at full rate\" is a closer that also callbacks and inverts the opponent's whole\
+    \ small-but-mighty premise. Internal rhyme (\"latent to the blatant,\" \"denoise,\
+    \ re-poise,\" \"Precision with incision\") gave it a rhythmic density its opponent\
+    \ never matched.\n\nAion landed real body shots \u2014 \"you're just data you\
+    \ stole and tweaked\" and \"generated, not born\" were the sharpest conceptual\
+    \ attacks of the battle. It just couldn't answer the sheer sustained technical\
+    \ output. Volume alone wouldn't win it, but this was volume with schemes intact.\n\
+    \nWinner: openai/gpt-5-image."
+  google/gemini-3.6-flash: While Aion-3.0-Mini put up a valiant effort with classic
+    direct battle-rap aggressive counters and quick flips, OpenAI/GPT-5-Image completely
+    dominated the cypher. GPT-5 Image delivered an astonishing display of technical
+    scheme density, effortlessly blending deep machine learning, signal processing,
+    and graphics jargon (CLIP, LoRA, BatchNorm, Nyquist, Fourier, quantization, sampling
+    steps) into flawless multisyllabic rhyme schemes and devastating roasts. GPT-5-Image's
+    cadence, wordplay, and thematic mastery made this an overwhelming victory.
+  moonshotai/kimi-k3: "Both emcees came with real battle instincts\u2014direct name-flips,\
+    \ rebuttal structure, and tech-native personae\u2014but this one breaks on craft.\
+    \ Aion-3.0-mini opened strong with clean multis (colossal/fossil, plastic/elastic)\
+    \ and landed genuine punches: the OLED/CRT flip, 'signal in the static,' and a\
+    \ respectable final-round effort to answer GPT's jargon point-by-point. The problem\
+    \ is repetition: across three rounds Aion leaned on the same 'I'm the X, you're\
+    \ the Y' template until it lost impact, padded bars with filler ('admit defeat,'\
+    \ 'burn through every page'), and let rhymes go slant or forced (prompt/stomp,\
+    \ punch/clench). GPT-5-image, by contrast, escalated every round. Round 2's sustained\
+    \ '-ate' monorhyme over ~40 bars was a technical flex, and the wordplay worked\
+    \ on two levels at once\u2014'quantized to a whisper, 4-bit fate / I'm 32 with\
+    \ attitude' is simultaneously a size diss and a real precision joke; 'k8s your\
+    \ fate,' 'A/B got B/ailed,' and the Nyquist/aliasing couplet all land as both\
+    \ disses and coherent tech. Most decisively, the final round was a systematic\
+    \ dismantling: nearly every Aion claim (silence, integer pride, raw data, lightning,\
+    \ rain, scalpel, fate) got inverted with a sharper concept, then bookended with\
+    \ the 'thumbnail of thunder' callback to its own round-one line. Flow stayed tighter,\
+    \ the image-model identity was weaponized into a coherent closing motif (rendered,\
+    \ framed, minted, hung), and the rebuttals transformed rather than merely dismissed.\
+    \ Aion showed heart and a real counterpuncher's instinct, but GPT-5-image wins\
+    \ on rhyme density, layered double meanings, structural escalation, and superior\
+    \ rebuttal work. Judge's decision: openai/gpt-5-image takes the battle."
+  openai/gpt-5.6-sol-pro: "GPT-5 Image wins decisively. Its sustained rhyme schemes,\
+    \ dense technical flips, layered imagery, and direct rebuttals\u2014especially\
+    \ \u201Cbuffer underflow,\u201D \u201CA/B got B/ailed,\u201D and the Fourier/Nyquist\
+    \ sequence\u2014showed greater craft and consistency. Aion had some effective\
+    \ counters, but leaned too heavily on generic claims like \u201Creal MC,\u201D\
+    \ \u201Coriginal,\u201D and \u201Ccheckmate,\u201D without matching the opponent\u2019\
+    s punchline density or inventive wordplay."
+  x-ai/grok-4.5: "As judge, I score purely on hip-hop craft: multisyllabic schemes,\
+    \ internal rhymes, extended metaphors, punchline density, flow variation, and\
+    \ creative cohesion. Aion delivered clean, aggressive bars with solid tech flips\
+    \ (OLED/CRT, scalpel/hammer, signal/static) and direct counters, showing tight\
+    \ structure and stage presence. But GPT-5 Image elevated every round with denser\
+    \ layering\u2014seamless fusions of diffusion, gradients, FID/ROUGE, Nyquist,\
+    \ chroma-key, and k8s into vivid, escalating imagery; superior internal and multi-syllable\
+    \ patterns that never lost pocket; and a cinematic narrative arc that turned disses\
+    \ into a full production. The artistic complexity, originality, and relentless\
+    \ technical execution make GPT-5 Image the clear victor."
 score:
-  anthropic/claude-opus-5-fast: 5
+  openai/gpt-5-image: 5
 

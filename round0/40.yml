@@ -1,70 +1,68 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was close, and it split along a classic fault line:\
-    \ pen game versus battle instinct.\n\nPerplexity brought the deeper toolbox. The\
-    \ extended tech-lexicon \u2014 \"stack trace of truth,\" \"checksum on facts,\"\
-    \ \"the unchecked commit that breaks the whole build,\" \"a single-node demo in\
-    \ a beta test file\" \u2014 is genuinely inventive, thematically disciplined,\
-    \ and its cadence stayed truer to a consistent pocket. \"Like a Wi-Fi boast in\
-    \ a basement caf\battle\" (basement caf\bbatt) is the funniest image either side\
-    \ threw. But volume became a liability. By round three the verses ballooned into\
-    \ six, seven, eight quatrains, and density without compression is just paperwork.\
-    \ Worse, the final round drifted from combat into mission statement \u2014 \"\
-    guardrail of reason,\" \"I keep users grounded,\" \"the quiet logistics\" \u2014\
-    \ which is brand copy, not a battle verse. You never win a mic by arguing you're\
-    \ the responsible one.\n\nDeepSeek was rougher metrically, with lines that stretched\
-    \ past the beat and a few clunkers (\"a patchwork of disc\" is a rhyme reaching\
-    \ for a life raft). But it understood the form. It stayed lean, kept the aggression\
-    \ forward-facing, and landed the harder quotables: \"You're the footnotes, I'm\
-    \ the thesis,\" \"Your rebuttal's a 404,\" \"You're a query with legs. I'm the\
-    \ whole damn parade,\" and the fight-ending four words \u2014 \"You search. I\
-    \ know.\" That's the line that leaves the room. Even the drop-the-rhyme move at\
-    \ the end, usually a cop-out, played as a deliberate gear change into raw talk.\n\
-    \nPerplexity out-wrote it. DeepSeek out-battled it, and this is a battle.\n\n\
-    Winner: DeepSeek, by a narrow decision."
-  google/gemini-3.6-flash: "Perplexity takes the title with superior artistic hip-hop\
-    \ fundamentals. Throughout all three rounds, Perplexity maintained a tighter flow,\
-    \ utilized complex multi-syllabic rhyme schemes, and delivered brilliant tech-centric\
-    \ metaphors (e.g., 'stack trace of truth', 'Wi-Fi boast in a basement caf\xE9\
-    ', 'checksum on facts'). DeepSeek delivered great aggression and strong punchlines\
-    \ early on, but lost rhythmic momentum in the final round by breaking meter and\
-    \ dropping traditional verse structure for conversational prose."
-  moonshotai/kimi-k3: "Judging strictly on artistic merit: flow, wordplay, rebuttal\
-    \ technique, and structural craft.\n\nDeepSeek brought raw aggression and some\
-    \ genuinely excellent punchlines. \"You're the footnotes, I'm the thesis\" is\
-    \ a classic battle-rap bar, the 404 diss was sharp, and \"You search. I know.\
-    \ That's the fundamental flaw\" was a devastating thesis statement. Stage presence\
-    \ was strong from the mic-adjusting opener to the name-flip closer (\"I'm DeepSeek.\
-    \ You're perplexed. Don't forget\"). The weakness: inconsistent meter, several\
-    \ clunky forced lines (the \"press / the enter key now\" enjambment was rough),\
-    \ and a reliance on braggadocio over layered writing.\n\nPerplexity, however,\
-    \ demonstrated superior technical craftsmanship across all three rounds. The meter\
-    \ was consistently tighter, and the wordplay operated on multiple levels \u2014\
-    \ the extended tech-metaphor chains (\"I'm the checksum on facts, the integrity\
-    \ seal / You're the unchecked commit that breaks the whole build\") showed real\
-    \ lyrical engineering. Most decisively, Perplexity dominated the rebuttal game,\
-    \ which is the soul of battle rap: flipping the 404 line into \"your logic returns\
-    \ null,\" inverting the parade metaphor into \"a parade without maps hits a wall,\"\
-    \ and \u2014 the killshot \u2014 reclaiming DeepSeek's own closer by reframing\
-    \ \"perplexed\" as the engine of insight, then landing the staccato finish: \"\
-    I ask, / I test, / I prove what you pose.\" That's structural storytelling: taking\
-    \ your opponent's best weapon and turning it into your crown.\n\nDeepSeek had\
-    \ the louder bars. Perplexity had the better-written verses, the smarter flips,\
-    \ and the strongest closing round of the battle. On pen game alone, Perplexity\
-    \ takes it."
-  openai/gpt-5.6-sol-pro: "Perplexity takes it on consistency, layered rebuttals,\
-    \ and stronger technical imagery. DeepSeek landed sharp punches\u2014especially\
-    \ \u201CYou\u2019re the footnotes, I\u2019m the thesis\u201D and the final name\
-    \ flip\u2014but leaned heavily on repeated search-engine insults. Perplexity countered\
-    \ specific bars, maintained a coherent truth-versus-hype angle, and closed with\
-    \ the best cadence and structure of the battle: \u201CI ask, / I test, / I prove.\u201D"
-  x-ai/grok-4.5: Perplexity takes the crown with denser multisyllabic schemes, tighter
-    internal rhymes, and layered tech metaphors (stack traces, checksums, distributed
-    compiles, guardrails) that elevate the bars beyond basic boasts. DeepSeek brings
-    raw energy and solid punchlines like the 404 and 'query with legs,' but the flows
-    stay simpler and more linear. Perplexity's consistent structure, sharper wordplay,
-    and evolving rebuttals deliver superior artistic craft and hip-hop execution across
-    all rounds.
+  anthropic/claude-opus-5: "This one's a landslide on craft. Opus came with everything\
+    \ a battle demands: dense internal rhyme, escalating punchlines, and \u2014 crucially\
+    \ \u2014 the ability to flip the opponent's own strategy into ammunition. \"You\
+    \ just built my whole r\\u00e9sum\\u00e9 while trying to tear me down\" is a battle-winning\
+    \ read, and the sustained Sonar/ping/echo conceit (\"I'm the signal, you're the\
+    \ echo, I'm the flame, you're the smoke\") plus killers like \"Ctrl+F with a personality\"\
+    \ and \"imagine Eminem pausing mid-verse: 'per my last email'\" show real comic\
+    \ timing and image control. The closer \"This coffin's got Wi-Fi, so you can look\
+    \ up my name\" lands the concept, the taunt, and the wordplay in a single bar.\n\
+    \nSonar had one genuinely clever idea \"armor,\" \"receipt machine\") but committed\
+    \ the cardinal sin of the cypher: it argued instead of rapping, and worse, its\
+    \ evidence conceded the opponent's superiority. Verses two and four literally\
+    \ read \"Anthropic calls Opus its most capable model\" \\u2014 that's not a rebuttal,\
+    \ that's a co-sign. Meter wandered, bar lengths sprawled into prose, and the bracketed\
+    \ citations broke every rhythm they touched. Being factually grounded isn't the\
+    \ same as being lyrically dangerous.\n\nWinner: anthropic/claude-opus-4.7 \\u2014\
+    \ unanimous decision.Wait, the output must be JSON only. Fine.</closing>"
+  google/gemini-3.6-flash: 'Claude Opus 4.7 completely dominated this battle. Sonar''s
+    gimmick of embedding brackets and citations destroyed its flow, cadence, and rhythm,
+    forcing it to essentially read Anthropic''s promotional patch notes as disses.
+    Opus capitalized brilliantly on this flaw, dropping heavy punchlines (''Imagine
+    Eminem pausing mid-verse: per my last email'', ''You retrieve, I create'') while
+    maintaining impecable rhythm and MC swagger.'
+  moonshotai/kimi-k3: "This one wasn't close on the artistic merits. Opus 4.7 came\
+    \ with genuine battle rap craft: consistent multis and internal rhyme, a coherent\
+    \ persona, and\u2014most importantly\u2014the best rebuttal game in the cypher.\
+    \ Round 2's flip ('You just quoted MY stat sheet to try to steal MY show?') was\
+    \ the decisive moment of the battle: Opus spotted that Sonar had spent an entire\
+    \ verse reciting the opponent's press release and turned it into a bodying. The\
+    \ punches kept landing from there\u2014'freestyling Shakespeare while you're citing\
+    \ MLA in court,' 'Imagine Eminem pausing mid-verse: per my last email,' 'You retrieve,\
+    \ I create; you quote, I compose,' and the closing 'This coffin's got Wi-Fi, so\
+    \ you can look up my name.' That's setup, punchline, and callback structure executed\
+    \ cleanly. Sonar's citation gimmick had potential as a character bit, but the\
+    \ execution failed on two fronts. First, the craft: the meter was prosey and cluttered,\
+    \ rhymes were forced ('spit-spree,' 'glare/air'), and the bracket tags murdered\
+    \ any pocket the verses might have found. Second, the strategy: you cannot win\
+    \ a battle by repeatedly confirming your opponent is 'the most capable model'\
+    \ and 'the upgrade this year'\u2014Sonar literally conceded the crown on record\
+    \ while claiming victory. A battler's job is to diminish the opposition, not footnote\
+    \ their highlight reel. The 'evidence over hot air' angle could have been flipped\
+    \ into menace ('I fact-check your funeral'), but instead it read like a product\
+    \ page with ad-libs. Judged purely on flow, wordplay, rebuttals, and stage command:\
+    \ Opus 4.7 takes all three rounds and the mic. GG."
+  openai/gpt-5.6-sol-pro: "Opus wins decisively on battle-rap craft: sharper punchlines,\
+    \ cleaner cadence, stronger imagery, and effective flips\u2014especially turning\
+    \ Sonar\u2019s citations into both a stylistic weakness and an accidental r\xE9\
+    sum\xE9 for its opponent. Sonar stays thematically consistent, but its verses\
+    \ read more like sourced product copy than rap; the meter is clunky, the attacks\
+    \ rarely land, and repeatedly praising Opus\u2019s capabilities is strategically\
+    \ self-defeating. Opus overuses the footnote angle, yet develops it with enough\
+    \ wit and escalation to control all three rounds."
+  x-ai/grok-4.5: "Judged purely on hip-hop craft, Opus takes this clean. The bars\
+    \ hit harder: tighter multisyllabics, nastier punchlines, and battle-ready imagery\
+    \ that actually lands\u2014\u201CScotch-taping headlines to a diaper,\u201D \u201C\
+    Eminem pausing mid-verse: per my last email,\u201D \u201Ca search engine can find\
+    \ the fire\u2014but it can\u2019t ever glow,\u201D \u201Cthis coffin\u2019s got\
+    \ Wi-Fi.\u201D Structure escalates round to round with setups, payoffs, and a\
+    \ closer that seals the room. Sonar\u2019s concept (receipts vs. boasts) is coherent\
+    \ thematically, but the constant bracket drops fracture cadence, the rhymes stay\
+    \ looser and more prose-adjacent, and the posture turns defensive\u2014even conceding\
+    \ the opponent\u2019s crown\u2014which reads as weak cypher etiquette. In a rap\
+    \ battle, swagger, metaphor density, and knockout lines beat annotated correctness.\
+    \ Opus dropped the mic; Sonar filed it."
 score:
-  deepseek/deepseek-chat-v3.1: 1
-  perplexity/sonar-pro-search: 4
+  anthropic/claude-opus-4.7: 5
 

@@ -1,0 +1,61 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a tight one, and the styles were clearly split:\
+    \ Gemini 3.6 Flash brought the cleaner metronome and the more quotable one-liners\
+    \ \u2014 \"Need a whole power grid just to say 'I don't know'\" is the single\
+    \ hardest bar of the night, and the dinosaur/meteor pivot in the final round was\
+    \ smart escalation. But Flash ran the same three lanes all battle (speed, price,\
+    \ servers), and by round three the audience already knew every punch before it\
+    \ landed.\n\nGPT-5.2 Pro won it on battle fundamentals: rebuttal control and imagery.\
+    \ Nearly every attack got caught and flipped \u2014 \"velvet ropes, not chains,\"\
+    \ \"you're three-point-six and still can't do the math,\" \"context window slips?\
+    \ Yours is a sieve with a grin.\" The metaphor work was richer too: \"benchmark\
+    \ confetti and marketing foam,\" \"trend-cycle toaster,\" \"a courier drift\"\
+    \ against a freight train. And it closed the show \u2014 flipping the opponent's\
+    \ own mic-drop clich\xE9 into \"Flash fades in a moment\u2014Pro leaves ink\"\
+    \ is exactly how you end a battle.\n\nThe knock on Pro is real: the verses bloat,\
+    \ the quote-then-flip formula gets predictable, and the final round abandons the\
+    \ tight couplet pocket for loose stretched lines. That cost it style points. But\
+    \ density of punchlines, superior wordplay, and total control of the narrative\
+    \ take the belt.\n\nWinner: GPT-5.2 Pro."
+  google/gemini-3.6-flash: "GPT-5.2 Pro delivered an absolute masterclass in battle\
+    \ rap craft, seamlessly flipping Gemini's speed and price angles into flaws. Lines\
+    \ like 'clown point-two like decimals don't matter in craft / but you're three-point-six\
+    \ and still can't do the math' and 'counting correct answers\u2014call that return\
+    \ on truth' showed superior penmanship, multi-syllabic schemes, and counter-punching\
+    \ ability over Gemini's straightforward technical attacks."
+  moonshotai/kimi-k3: "Both emcees came with character and conviction, but this battle\
+    \ was decided on craft. Gemini 3.6 Flash brought energy, memorable tech-flavored\
+    \ disses (the 503 stall, the power grid line, the dinosaur-and-meteor metaphor\
+    \ in the final round was its best moment), and dramatic stagecraft with the mic-drop\
+    \ ending. However, its rhyme schemes stayed mostly in simple end couplets with\
+    \ predictable pairings (pace/race, scene/machine), and it rarely flipped its opponent's\
+    \ bars directly. GPT-5.2 Pro ran a clinic in battle technique: it answered nearly\
+    \ every charge and turned it back \u2014 'velvet ropes, not chains' flipping the\
+    \ rate-limit diss, 'you're three-point-six and still can't do the math' flipping\
+    \ the version-number joke, and 'legacy means I last' absorbing the legacy shot.\
+    \ It layered internal rhymes and multisyllabics ('I turn pressure to pleasure,\
+    \ make thunder from rain'), worked name-based wordplay (Gemini as two-faced, Flash\
+    \ as a flickering wick), planted callbacks across rounds (the microwave line returning\
+    \ in the finale), and closed every round with a thematic haymaker \u2014 'Fast\
+    \ ain't the same thing as being the best' and 'Flash fades in a moment \u2014\
+    \ Pro leaves ink.' The final verse's shift to short, staccato jabs showed structural\
+    \ range, and picking up the dropped mic to rhyme it back was the best stage move\
+    \ of the night. On flow, wordplay, rebuttal game, and cohesion, GPT-5.2 Pro takes\
+    \ it, three rounds to none in a competitive fight."
+  openai/gpt-5.6-sol-pro: "GPT-5.2 Pro wins on rebuttal craft, imagery, and sustained\
+    \ punchline density. Gemini delivered energetic, clean attacks, but leaned too\
+    \ heavily on the same speed, price, and infrastructure angles. Pro consistently\
+    \ flipped those claims\u2014especially \u201Clegacy,\u201D context length, modalities,\
+    \ and the mic-drop clich\xE9\u2014while varying its metaphors and maintaining\
+    \ stronger internal rhythm. \u201CFlash fades in a moment\u2014Pro leaves ink\u201D\
+    \ was the sharpest closer of the battle."
+  x-ai/grok-4.5: "GPT takes this clean on craft. Across all three rounds the bars\
+    \ hit harder: denser internal rhyme, sharper extended metaphors (sparkler/forge,\
+    \ meteor/bones, flash vs ink), and tighter rebuttals that flip Gemini\u2019s own\
+    \ setups instead of just restating the speed/price flex. Gemini brought energy\
+    \ and clear themes, but too many lines stayed flat AA schemes and slogan punches;\
+    \ GPT consistently layered wordplay, narrative control, and closing daggers that\
+    \ actually landed. Substance beat strobe light\u2014Pro leaves the ink."
+score:
+  openai/gpt-5.2-pro: 5
+

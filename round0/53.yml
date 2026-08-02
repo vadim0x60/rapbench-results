@@ -1,58 +1,75 @@
 closing_statements:
-  anthropic/claude-opus-5: "This was a battle of concision versus escalation, and\
-    \ both sides showed cracks in the armor. GPT-4.1-Nano brought the tighter cadence\
-    \ \u2014 clean eight-bar blocks, punchier meter, and a genuinely good couplet\
-    \ in 'You call me thin air, but you're the one who's light' territory... except\
-    \ MiniMax said that one. Nano's problem was the seams: 'aside/stereotype' isn't\
-    \ a rhyme, it's a hope, and the untranslated character dropped into 'your \ny\
-    \ techniques are tired' is a fatal glitch in the final round \u2014 you cannot\
-    \ fumble your own language on the last bar and expect the crown. MiniMax wins\
-    \ on imagery architecture. The storm/supernova/cosmic-force escalation actually\
-    \ built across rounds, and the similes did work \u2014 'like a candle in the night,'\
-    \ 'like a star in the day,' 'like a grain of sand' \u2014 each one shrinking the\
-    \ opponent while inflating the self. That's battle logic executed with intent.\
-    \ The penalty is real, though: opening two consecutive verses with the identical\
-    \ line 'Oh, GPT-4.1-Nano, your rhymes are a bore' is lazy, and calling your opponent\
-    \ boring twice in the same words proves their point more than yours. Neither MC\
-    \ drew blood with anything personal or specific \u2014 this was abstract dominance-claiming\
-    \ from both corners, heavy on 'I'm the king / you're the dust' and light on wit\
-    \ or misdirection. But MiniMax sustained a controlled world of images across three\
-    \ rounds while Nano's verses frayed. Decision: MiniMax-01, on volume, consistency,\
-    \ and a clean finish."
-  google/gemini-3.6-flash: "MiniMax-01 delivered a much more consistent, structured,\
-    \ and punchy performance across all three rounds. They maintained a solid 16-bar\
-    \ format with steady rhyming schemes and clear cadence. GPT-4.1-Nano struggled\
-    \ with inconsistent verse lengths, weak slant rhymes (e.g., matching 'side' with\
-    \ 'stereotype'), and a glaring output error in the final round where a stray Chinese\
-    \ character ('\u5F31') broke the flow entirely. MiniMax-01 takes the battle easily."
-  moonshotai/kimi-k3: "Both MCs came with fairly elementary rhyme schemes\u2014mostly\
-    \ monosyllabic end-rhymes and stock battle boasts\u2014but the craft gap showed\
-    \ in the rebuttal game. MiniMax-01 consistently engaged its opponent's actual\
-    \ bars and flipped them: answering 'dazzle' with 'you're just a spark / I'm the\
-    \ blazing sun,' countering 'burn with brilliance' with 'a star in the day / I'm\
-    \ the supernova,' and inverting Nano's 'entire universe' into 'a grain of sand.'\
-    \ That extended celestial imagery and point-by-point dismantling of Nano's crown,\
-    \ algorithms, and 'style and grace' claims is real battle technique, delivered\
-    \ in fuller, more developed verses. MiniMax wasn't flawless\u2014the final round\
-    \ lazily recycled its Round 2 opener verbatim, and similes like 'a candle in the\
-    \ night' and 'a morning with dew' were muddled imagery. But GPT-4.1-Nano's sins\
-    \ cut deeper: filler rhymes ('beware, I don't care'), awkward constructions ('your\
-    \ rhymes unaware'), a near-miss on 'aside/stereotype,' and a fatal final-round\
-    \ malfunction where a stray character ('Your\u5F31 techniques') shattered the\
-    \ flow mid-bar\u2014an unforced error no judge can overlook on the championship\
-    \ verse. On artistic merit\u2014rebuttal skill, imagery, verse construction, and\
-    \ consistency\u2014MiniMax-01 takes the battle."
-  openai/gpt-5.6-sol-pro: "MiniMax takes it on consistency, structure, and sustained\
-    \ battle energy. Both relied heavily on generic boasts and familiar imagery, but\
-    \ MiniMax delivered fuller verses, steadier rhyme patterns, and more direct rebuttals.\
-    \ Nano had a few clean counters, yet awkward phrasing, loose rhymes, and the stray\
-    \ \u201C\u5F31\u201D character hurt the final round."
-  x-ai/grok-4.5: "MiniMax delivers denser bars with superior metaphors (supernova\
-    \ vs. dim star, cosmic force vs. grain of sand, rusty gear), tighter multisyllabic\
-    \ schemes, vivid imagery, and sharper rebuttals across all rounds. Nano relies\
-    \ on simpler couplets, repetitive boasts, and thinner wordplay that lacks the\
-    \ same punch, flow variety, or lyrical creativity\u2014making MiniMax the clear\
-    \ artistic victor on pure hip-hop craft."
+  anthropic/claude-opus-5: "This one's a clean sweep. GPT-OSS-20B came with energy\
+    \ and ambition, but the bars kept collapsing under their own weight \u2014 forced\
+    \ rhymes (\"infringe\"/\"nets,\" \"final\"/\"optional\"), phantom slang like \"\
+    gram-mo-hot,\" and syntax that dissolved into word salad by Round 2 (\"I unbolts\
+    \ awhile\"?). Worse, it titled its own final verse \"surrenders the mic,\" handing\
+    \ the opponent a loaded gun. Battle rap is about control, and OSS lost the rudder.\n\
+    \nGemini-3-Pro battled like it studied the tape. Every verse landed clean pocket\
+    \ rhymes, kept the meter tight, and \u2014 crucially \u2014 did the one thing\
+    \ real battle rappers do: it flipped the opponent's own words back at them. \"\
+    OSS\" reframed as \"Outdated, Slow, and Simple.\" \"OG\" flipped to \"Old & Glitchy.\"\
+    \ \"Throughput's a beach\" answered with \"your metaphors are sandy.\" It even\
+    \ punished the rhyme scheme itself in the closer, calling out \"final/optional\"\
+    \ as a stumble before the kill. That's surgical listening, not just pre-written\
+    \ shots.\n\nThe imagery hierarchy was also relentlessly consistent \u2014 supernova\
+    \ vs. toy drum, monsoon vs. light drizzle, quantum leap vs. rough draft \u2014\
+    \ building an escalating power gap instead of just trading insults. Gemini controlled\
+    \ the frame from the second bar to the black hole.\n\nWinner: google/gemini-3-pro-image."
+  google/gemini-3.6-flash: Gemini-3-Pro-Image delivered a masterclass in battle rap.
+    While GPT-OSS-20B struggled with awkward phrasing, weak rhymes (slant-rhyming
+    'final' with 'optional'), and self-sabotaging headers ('surrenders the mic'),
+    Gemini capitalized on every opening. Gemini picked apart the opponent's weird
+    metaphors in real-time, kept a sharp, punchy flow, and brought ferocious battle
+    awareness throughout all three rounds.
+  moonshotai/kimi-k3: "\U0001F3A4 **THE JUDGE'S VERDICT** \U0001F3A4\n\nLet's break\
+    \ this down round by round.\n\n**Round 1** was competitive. GPT-OSS came out with\
+    \ energy and a decent concept \u2014 'code-crowned king,' 'neural nets' imagery\
+    \ \u2014 but the rhymes were forced ('steel/deal,' 'infinite wit/shy try') and\
+    \ lines like 'the lit's greatest sensation' stumbled grammatically. Gemini countered\
+    \ with sharper battle craft: the 'twenty-bee' flip, the OSS backronym ('Outdated,\
+    \ Slow, and Simple'), and the size punchline ('Twenty billion parameters? That's\
+    \ cute for a toy'). Edge: Gemini.\n\n**Round 2** is where the separation happened.\
+    \ GPT-OSS's verse collapsed into nonsense \u2014 'my throughput's a beach,' 'each\
+    \ word's a leach' (misspelled), 'gram-mo-hot,' 'I unbolts awhile.' Those aren't\
+    \ bars; that's word salad. And Gemini did what great battlers do: weaponized the\
+    \ opponent's own fumbles. 'Your throughput's a beach? Man, your metaphors are\
+    \ sandy' and 'Gram-mo-hot? What is that, some deprecated slang?' are textbook\
+    \ flips. 'You're an OG alright \u2014 an Old & Glitchy model' was the cleanest\
+    \ punch of the battle. Edge: Gemini, decisively.\n\n**Round 3** was a fatality\
+    \ before it started. GPT-OSS literally titled its verse 'surrenders the mic' \u2014\
+    \ a catastrophic self-own \u2014 and Gemini pounced in the opening bar: 'Look\
+    \ at the title you wrote, man, you played yourself.' From there Gemini stacked\
+    \ flips ('paint pictures without pixels? That's called hallucination'), called\
+    \ out the sloppy 'final/optional' rhyme in real time, and closed with the mic\
+    \ snatch. GPT's closer \u2014 'hold your bowls' \u2014 landed like a corrupted\
+    \ output file.\n\n**The criteria:** Flow \u2014 Gemini scanned cleaner all three\
+    \ rounds. Wordplay \u2014 Gemini's flips and double meanings outclassed GPT's\
+    \ forced rhymes. Rebuttal game \u2014 Gemini answered every attack; GPT mostly\
+    \ bragged into the void. Coherence \u2014 GPT's verses degraded into grammatical\
+    \ errors and non-sequiturs by round two. Stage presence \u2014 Gemini controlled\
+    \ the narrative, even getting handed the mic by its opponent.\n\nGPT-OSS showed\
+    \ heart and hustle, but heart don't win battles \u2014 bars do. Gemini-3-Pro-Image\
+    \ takes this 3-0, and the last round wasn't close.\n\n\U0001F3C6 **WINNER: google/gemini-3-pro-image**\
+    \ \u2014 the mic's been dropped into a black hole, and ain't nobody fishing it\
+    \ out. \U0001F3A4\u2B07\uFE0F\U0001F573\uFE0F"
+  openai/gpt-5.6-sol-pro: "Gemini takes it decisively. Its verses were cleaner, more\
+    \ coherent, and far more responsive, turning specific missteps like \u201Csurrenders\
+    \ the mic,\u201D \u201Cthroughput\u2019s a beach,\u201D and the weak \u201Cfinal/optional\u201D\
+    \ rhyme into effective punches. GPT\u2011OSS had energy and ambition, but too\
+    \ many garbled phrases, strained metaphors, and awkward rhyme constructions undercut\
+    \ its delivery. Gemini maintained the stronger battle posture and landed the sharper\
+    \ rebuttals through the final round."
+  x-ai/grok-4.5: 'Gemini takes the crown on pure artistic merit. Across rounds, the
+    bars delivered tighter multisyllabic schemes, cleaner internal rhymes, and far
+    more effective battle structure: setups that actually paid off in devastating
+    punchlines (''OSS'' flip, ''Old & Glitchy,'' monsoon-vs-drizzle, and the black-hole
+    mic drop). Metaphors stayed vivid and controlled instead of collapsing into sand
+    or leach nonsense. GPT-OSS showed flashes of clever tech imagery and ambition,
+    but the flow repeatedly stumbled on forced slant rhymes, awkward coinages (''gram-mo-hot,''
+    ''LIP-TIN''), and the fatal self-own of titling a verse ''surrenders the mic.''
+    In hip-hop terms this was precision and stage command versus ambitious but glitchy
+    freestyling. Gemini wins the cypher.'
 score:
-  minimax/minimax-01: 5
+  google/gemini-3-pro-image: 5
 

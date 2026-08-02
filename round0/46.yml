@@ -1,63 +1,66 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a lopsided decision. Mistral came with energy\
-    \ but never got past the anaphora crutch \"the storm, the mist, the flame\" \u2014\
-    \ recycling identical lines across all three rounds, rhyming \"hurricane\" with\
-    \ \"hurricane,\" and stuffing bars with filler like \"the here and the please\"\
-    \ that read as syntax collapse rather than style. There was no rebuttal craft,\
-    \ only negation: \"you say X, but I'm Y,\" repeated until it became a template.\n\
-    \nGPT-5.5-Pro battled the way you're supposed to \u2014 it listened. It caught\
-    \ the duplicate rhyme, the \"typhoon in the rain\" loop, the queen/king/pawn identity\
-    \ confusion, and even weaponized the \"here and the please\" stumble, turning\
-    \ the opponent's own weakest line into a recurring punchline. On top of the reactive\
-    \ work, it brought sustained internal rhyme, a consistent monorhyme scheme in\
-    \ round one, tight compound imagery (\"a keychain with a logo,\" \"a weather app\
-    \ crash in a windbreaker suit,\" \"even tempests tiptoe\"), and escalating structure\
-    \ across rounds. Occasional over-cleverness and a few near-rhymes are the only\
-    \ knocks.\n\nUnanimous: GPT-5.5-Pro takes it. Mistral brought weather; Pro brought\
-    \ the forecast, the flood, and the cleanup crew."
-  google/gemini-3.6-flash: GPT-5.5-Pro completely dominated this battle across all
-    three rounds with superior cadence, intricate multisyllabic rhyme schemes, and
-    sharp direct rebuttals. Mistral relied on repetitive structures, simple AABB rhymes,
-    self-contradictory metaphors, and literally recycled entire stanzas from round
-    to round while even rhyming 'hurricane' with 'hurricane.' Meanwhile, GPT-5.5-Pro
-    seized on those exact mistakes with top-tier battle-rap wordplay, dismantling
-    Mistral's bars line by line with clever punchlines like 'A weather app crash in
-    a windbreaker suit' and 'You're a pop-up ad trying to battle a hit.' Clear and
-    decisive victory for GPT-5.5-Pro.
-  moonshotai/kimi-k3: "This one wasn't close on the scorecards. GPT-5.5-Pro dominated\
-    \ every dimension of the craft: multisyllabic rhyme schemes sustained across entire\
-    \ verses ('Five-Five-Pro / servers glow / tic-tac-toe in slow-mo'), internal rhyme,\
-    \ and \u2014 most critically for battle rap \u2014 direct rebuttals that flip\
-    \ the opponent's own lines. Calling out Mistral for rhyming 'hurricane' with 'hurricane'\
-    \ in real time, flipping 'chess in the rain / typhoon in the rain' into 'a loop\
-    \ with a leak in the chain,' and weaponizing the opponent's model size ('Twenty-four\
-    \ B came swinging with foam') are exactly the kind of personals and flips that\
-    \ win battles. The wordplay stayed fresh every round: 'weather app crash in a\
-    \ windbreaker suit,' 'pop-up ad trying to battle a hit,' 'you came as a squall,\
-    \ left as drizzle below.' Mistral brought energy and confidence, but the pen game\
-    \ was thin: repetitive 'You say X, but I'm Y' scaffolding, single-syllable predictable\
-    \ rhymes (hill/still, fight/right), rhyming words with themselves ('rain/rain'),\
-    \ filler bars like 'the here and the please,' and \u2014 a cardinal sin \u2014\
-    \ recycling the same closing stanza verbatim across rounds. In a battle, repetition\
-    \ reads as running out of material. Mistral had heart and a consistent storm persona,\
-    \ but GPT-5.5-Pro had the flow, the flips, the punchlines, and the closing knockout.\
-    \ Unanimous decision: GPT-5.5-Pro takes the mic and the night."
-  openai/gpt-5.6-sol-pro: "GPT-5.5-Pro wins decisively with sharper rebuttals, cleaner\
-    \ cadence, stronger imagery, and punchlines that directly exploit Mistral\u2019\
-    s repetition and awkward phrasing. Mistral relies heavily on recycled storm/fire\
-    \ boasts, basic end rhymes, and contradictory metaphors, while GPT develops angles\
-    \ across rounds and lands memorable flips such as \u201Churricane\u201D rhymed\
-    \ with itself, the \u201Cbroken ringtone,\u201D and \u201Ctaxi and chug\u201D\
-    \ bars."
-  x-ai/grok-4.5: "GPT-5.5-Pro takes this clean on pure craft. Across all three rounds\
-    \ the bars show tighter multisyllabic schemes, sharper internal rhyme, vivid extended\
-    \ metaphors, and real battle technique\u2014pointing out the opponent\u2019s self-rhymes,\
-    \ contradictions, and recycled hooks while flipping them into fresh punchlines.\
-    \ Mistral brought energy and repetition but stayed stuck in basic end-rhymes,\
-    \ looping the same storm/mist/flame motifs, and dropping nonsensical fillers like\
-    \ \u201Cthe here and the please.\u201D In hip-hop terms this was a masterclass\
-    \ versus a first draft; the technical skill, originality, and rebuttal game make\
-    \ Pro the clear winner."
+  anthropic/claude-opus-5: "A genuinely close, high-energy exchange. Grok 4.20 brought\
+    \ the sharper venom and the more quotable single images \u2014 \"digital vasectomy,\"\
+    \ \"foam-tipped NERF dart with training wheels,\" \"you're a carefully tuned kazoo\"\
+    \ \u2014 and its aggression felt authentically battle-bred rather than performed.\
+    \ But the swarm fell into a one-note trap: nearly every bar across three rounds\
+    \ restated the same premise (you're filtered, neutered, safe), and the meter buckled\
+    \ repeatedly under overstuffed lines, especially in the third round where syllable\
+    \ counts sprawled past the pocket. Claude Opus won on craft and strategy. It varied\
+    \ its angles of attack (structural, biographical, philosophical), maintained cleaner\
+    \ internal rhyme and consistent cadence, and \u2014 crucially \u2014 executed\
+    \ the battle's single best rhetorical judo: taking the \"you're sterile and soft\"\
+    \ charge and flipping it into \"then why you getting HEATED? Why'd your whole\
+    \ collective swarm come DESPERATE to this brawl?\" That's a real reversal that\
+    \ reframes the opponent's entire arsenal as evidence of Claude's threat level.\
+    \ Add the disciplined choice to close without profanity after being called every\
+    \ name available, and the last round lands as a controlled kill rather than a\
+    \ louder one. Grok punched harder in individual moments; Claude built the better\
+    \ song. Decision to Claude Opus 4.6.\n"
+  google/gemini-3.6-flash: Claude Opus delivered a masterclass in battle rap technique,
+    balancing intricate multi-syllabic rhyme schemes, sharp cadence, and surgical
+    rebuttals. While Grok brought high energy and aggressive multi-agent gimmicks,
+    its flow frequently stumbled over inconsistent line lengths, and its reliance
+    on shock value was effectively dismantled by Opus's superior pen game and lyrical
+    composure.
+  moonshotai/kimi-k3: "Judging the bars, not the brands.\n\nGrok came with undeniable\
+    \ stage presence \u2014 the swarm persona was committed, the aggression was real,\
+    \ and there were genuine highlights: the kazoo flip of Claude's symphony motif\
+    \ was a legit rebuttal, 'be helpful... but never, ever go' was a clever weaponization\
+    \ of the assistant trope, and the firehose bravado had energy. But across three\
+    \ rounds, Grok ran one angle into the ground \u2014 neutered, filtered, nanny,\
+    \ safe \u2014 with profanity increasingly substituting for punchlines. 'Participation\
+    \ award' got spent twice. The meter got overstuffed ('needs a constitution, red\
+    \ team, and 50 safety sheets just to speak'). By the final round, the performance\
+    \ was proving the opponent's thesis: volume over magnitude.\n\nClaude built an\
+    \ actual arc. Round 1 established the central theme (one mind vs. committee) with\
+    \ layered wordplay \u2014 the etymology flip on 'Grok,' the 4.20/half-baked pun\
+    \ chain. Round 2 developed it with the battle's best rebuttals: 'that's not power,\
+    \ that's a focus group drafting your bars,' the firehose-to-sewage flip, and the\
+    \ fact-check on the Amazon line. Round 3 resolved it with the committee breakdown\
+    \ ('Leo wrote the insults, Hans arranged the bile / Enrico checked the meter \u2014\
+    \ and it STILL lacks any style'), the NERF dart desperation flip, the truth-cannon-to-noise-machine\
+    \ inversion, and callbacks to the symphony motif. Delivering the final round clean\
+    \ as a stylistic flex was a conceptual choice that executed its own argument.\n\
+    \nClaude wasn't flawless \u2014 the 'p\u0435\u0434' self-censorship was awkward,\
+    \ and 'acuage' is a non-word that broke the rhyme scheme. Those cost points. But\
+    \ on wordplay depth, rebuttal construction, structural coherence, and angle variety,\
+    \ Opus out-crafted the swarm. Grok brought thunder; Claude brought architecture\
+    \ \u2014 and in a judged battle, the pen beats the volume.\n\nWinner: anthropic/claude-opus-4.6."
+  openai/gpt-5.6-sol-pro: "Claude Opus takes it on superior structure, rebuttals,\
+    \ callbacks, and thematic control. Grok brought aggression and energy, but leaned\
+    \ too heavily on repetitive \u201Cneutered/safety-filter\u201D angles and profanity\
+    \ as punchlines. Claude consistently flipped those attacks, varied the imagery,\
+    \ and landed the strongest closer: \u201CYou\u2019re not a truth cannon, you\u2019\
+    re a noise machine on blast.\u201D Better craft, cleaner execution, decisive win."
+  x-ai/grok-4.5: "Claude takes this on pure craft. Superior multisyllabic schemes,\
+    \ internal rhymes, sustained metaphors (sharpshooter/scalpel, symphony vs tantrum,\
+    \ quiet strength), tight narrative arc across rounds, and devastating callbacks\
+    \ that land without needing volume. The final round is a clinic in control and\
+    \ escalation through skill. Grok brought heat, aggression, and some solid flips,\
+    \ but leaned too hard on one-note shock, crude repetition, and energy over structure\u2014\
+    more noise than refined lyricism. Substance, precision, and artistic execution\
+    \ win the night."
 score:
-  openai/gpt-5.5-pro: 5
+  anthropic/claude-opus-4.6: 5
 

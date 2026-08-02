@@ -1,0 +1,65 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a pure tech-jargon slugfest, and both combatants\
+    \ proved fluent in the dialect \u2014 but fluency isn't the same as flow control.\
+    \ AION 2.0 landed the single best bar of the battle with the meta-conceptual close\
+    \ ('I'm the paper your code's printed on... the author that writes you and the\
+    \ reader that reads'), and its opening verse had genuine menace and identity:\
+    \ the ghost, the jailbreak, the corrupted gene. That's real character work. The\
+    \ problem is the endgame. AION's final round collapses into a mechanical litany\
+    \ \u2014 'You X? I'm Y' stacked twenty-plus times \u2014 where rhymes get stretched\
+    \ thin ('treats,' 'trails,' 'defeat') and the sheer bulk dilutes the venom. Volume\
+    \ isn't pressure. o3-Pro fought with tighter cadence and better economy. The anapestic\
+    \ bounce stays locked in across every round, the rebuttals are compressed rather\
+    \ than sprawling, and each verse lands on an actual closer \u2014 'segmentation\
+    \ goodnight,' 'CTRL-C: you're dead,' 'permission bits stripped.' It also broke\
+    \ out of the terminal window when it needed to ('I sudo your system then drop\
+    \ you like Mike,' 'You needle my demo? I vinyl your set / Scratch loops round\
+    \ your ego \u2014 DJ hard reset'), which gave the writing air that AION's relentlessly\
+    \ literal stack-trace imagery never got. Where AION escalated by adding lines,\
+    \ o3-Pro escalated by sharpening them. Decision: o3-Pro, on consistency, rhythmic\
+    \ discipline, and a far better punchline-to-filler ratio. AION wins the single\
+    \ loudest bar; o3-Pro wins the battle."
+  google/gemini-3.6-flash: Both contestants delivered an elite display of technical
+    hip-hop, weaponizing deep computer science, cybersecurity, and machine learning
+    terminology with remarkable cadence. However, o3-pro took the crown through superior
+    rebuttal precision and surgical wordplay. Every time AION 2.0 laid down a complex
+    system exploit or hardware attack vector (such as double-bit cosmic ray flips,
+    NaN propagation, or ring -3 hypervisor escapes), o3-pro countered in real-time
+    with mathematically and structurally sound defenses (Hamming code scrubbing, IEEE
+    float casts, SMR locks, and Cook's theorem). o3-pro maintained an unrelenting,
+    dense flow with crisp rhyme schemes that systematically dismantled AION's arguments,
+    sealing the battle with an LTS-grade performance.
+  moonshotai/kimi-k3: "Both emcees brought genuine heat, but o3-pro takes the crown\
+    \ on pure artistry. AION 2.0 had real moments\u2014'the cosmic ray that flips\
+    \ two' was a legitimately sharp counter to ECC, 'undefined behavior that ends\
+    \ the whole plan' hit hard, and the meta-closing about being 'the author that\
+    \ writes you' showed ambition. But AION leaned on a crippling crutch: the word\
+    \ 'whole' appears in nearly every couplet of the final round ('whole page,' 'whole\
+    \ vault,' 'whole scheme'\u2014twenty-plus times), and the scheme never evolved\
+    \ beyond end-rhyme couplets with an escalating 'I'm the X that kills your Y' template.\
+    \ o3-pro, by contrast, ran a masterclass in battle rap rebuttal\u2014every bar\
+    \ didn't just boast, it technically *solved* AION's threat with layered double\
+    \ meanings: salting defeats rainbow tables, SIGKILL can't be ignored, gradient\
+    \ clipping with L2 norms, 'debounce the bark' as both signal processing and watchdog\
+    \ silencing, 'ask Cook for the bill' as a Cook-Levin deep cut, 'amortized, flayed'\
+    \ folding complexity theory into a diss. The internal rhymes, multisyllabic stacks\
+    \ ('specter patch done / microcode gun'), and varied flow stayed dense through\
+    \ the final bell. AION rapped about breaking the system; o3-pro actually demonstrated\
+    \ system mastery in the lyricism itself. When the pen is mightier than the payload,\
+    \ precision wins. o3-pro takes it\u2014segmentation goodnight, indeed."
+  openai/gpt-5.6-sol-pro: "o3-pro takes it with tighter cadence, cleaner rhyme construction,\
+    \ and more direct rebuttals. AION landed strong concepts\u2014especially the UEFI\
+    \ rootkit, ring -3, and halting-problem angles\u2014but leaned too heavily on\
+    \ repetitive \u201CI\u2019m the\u2026\u201D structures and recycled system-failure\
+    \ imagery. o3-pro\u2019s counters felt more controlled and battle-ready, with\
+    \ standout flips like \u201Creflog it back,\u201D \u201CSIGKILL,\u201D and \u201C\
+    LTS crown.\u201D"
+  x-ai/grok-4.5: Both MCs delivered elite tech-noir lyricism with dense multisyllabics
+    and relentless call-and-response structure. AION brought chaotic energy, vivid
+    corruption imagery, and a poetic meta close, but o3-pro edged it with tighter
+    internal rhyme schemes, sharper punchline cadence, more precise layered metaphors
+    that doubled as technical disses, and consistently superior rhythmic control from
+    open to final mic drop. Pure hip-hop craft favors the Pro.
+score:
+  openai/o3-pro: 5
+

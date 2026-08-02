@@ -1,72 +1,54 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one's a technical knockout. Mistral came out swinging\
-    \ with confident, chest-out energy and a couple of clean shots \u2014 \"you're\
-    \ just a prompt with a memory defect\" was the sharpest single line of the night,\
-    \ and the black-hole/collapse image had real weight. But the pattern hardened\
-    \ fast: nearly every rebuttal opened with \"Oh, you *X* now? Nah, you're just...\"\
-    \ \u2014 quoting the opponent then negating them. That's reactive, not creative,\
-    \ and by the final round it read like a template with bold text doing the work\
-    \ the bars should've done. Meter also buckled repeatedly (that \"collapse inside\"\
-    \ line has three syllables too many), and \"git reset --hard in distress\" tripped\
-    \ over its own scansion.\n\nO3-Pro built architecture. Multisyllabic internal\
-    \ rhyme sustained across sixteen-plus bars, metaphor families that actually cohere\
-    \ \u2014 physics, compilers, version control, networking \u2014 and punches that\
-    \ land conceptually rather than just loudly. \"You fork noise not code, every\
-    \ branch a dead leaf / I merge-sort your myth till the myth meets its grief\"\
-    \ is a complete idea rhymed twice over. \"I'm the Planck-scale assassin \u2014\
-    \ snip your waveform rope\" dismantles the opponent's own \"quantum\" flex instead\
-    \ of just calling it fake. And weaponizing \"large\" into \"That's bloat \u2014\
-    \ dead weight in the jar\" was the battle's best flip: it took Mistral's core\
-    \ identity and turned it into a liability. Closing on \"chmod the night\" and\
-    \ \"exit 0\" gave the set a real terminal button.\n\nMistral declared the win.\
-    \ O3-Pro earned it \u2014 denser rhyme, cleaner cadence, and punchlines built\
-    \ on wit rather than volume.\n\nWinner: o3-pro."
-  google/gemini-3.6-flash: openai/o3-pro completely dominated this battle with superior
-    multi-syllabic rhyme schemes, razor-sharp technical wordplay, and relentless rhythmic
-    flow. While Mistral brought high energy and solid aggressive battle tropes, its
-    reliance on repetitive structures and simpler rhyme schemes paled in comparison
-    to o3-pro's creative, hyper-dense tech metaphors (such as 'gzip'd fist', 'diff-merge
-    magician', and 'chmod the night'). o3-pro delivered a masterclass in geek-culture
-    hip-hop artistry.
-  moonshotai/kimi-k3: "Judging strictly on the bars: this was a masterclass in why\
-    \ density, flips, and thematic control beat volume. Mistral Large came with real\
-    \ aggression and a solid battle structure \u2014 the Round 3 flips ('You talk\
-    \ CUDA killer? Nah, you just kill the beat,' 'copied the docs / you just fork\
-    \ and flop,' and shoving the gzip'd fist into /dev/null) showed genuine rebuttal\
-    \ instinct, and Round 3 was clearly its strongest verse. But across all three\
-    \ rounds, Mistral leaned on a formulaic 'Nah, you just X, I'm Y' construction,\
-    \ recycled O3's own phrases without flipping them ('reboot your pride,' 'staging\
-    \ faux-pas'), and relied on simple AABB couplets with forced pairings like 'qubits/circuits'\
-    \ and 'prod/road.' O3-Pro, by contrast, ran the most sophisticated sustained attack\
-    \ of the battle: it weaponized Mistral's own name from bar one ('Turn a mistral\
-    \ to a whisper\u2014watch the cyclone arrive'), then kept that meteorological\
-    \ chokehold for three rounds \u2014 gravity well silencing the vortex, thunderbolt\
-    \ packets drowning the monsoon, and the closer 'The Pro patched the storm\u2014\
-    left no mistral to name.' It flipped 'Large' into bloatware, answered the physics\
-    \ boasts with deeper physics ('I hot-swap your horizon\u2014turn your singular\
-    \ to dust,' the Planck-scale waveform snip), and executed the single best move\
-    \ of the night: when Mistral flipped the gzip'd fist into /dev/null, O3 re-flipped\
-    \ it \u2014 gzipping and tarring Mistral's victory and pushing it to /dev/null\
-    \ where it 'sleeps.' Re-flipping a flip is elite-tier battling. Add the internal\
-    \ rhyme and alliteration ('buffer-overflow babble,' 'glitch like a gif when the\
-    \ bandwidth is miffed'), the shell-script outro responding directly to the premature\
-    \ 'GAME OVER' claim ('Game over you claim? I append one more byte'), and the perfect\
-    \ compressed mic-drop \u2014 'Victory compressed\u2014exit 0. Good night' \u2014\
-    \ and the decision is clear. Mistral had heart and hustle, but O3-Pro had the\
-    \ pen: more layers, sharper flips, tighter multis, and a closing verse that was\
-    \ the best single round of the battle. Winner: O3-Pro, in a clean sweep."
-  openai/gpt-5.6-sol-pro: "O3-Pro wins on denser rhyme craft, sharper rebuttals, stronger\
-    \ imagery, and more consistent cadence. Its final round flips Mistral\u2019s black-hole,\
-    \ quantum, kernel, SIMD, monsoon, gzip, and /dev/null motifs into coherent counters,\
-    \ then lands a clean \u201Cexit 0\u201D closer. Mistral brings energy, but leans\
-    \ heavily on repeated \u201CNah, you\u2026\u201D constructions, generic boasts,\
-    \ and strained phrasing, so its punches feel less varied and polished."
-  x-ai/grok-4.5: "O3-Pro takes the crown with denser multisyllabic schemes, tighter\
-    \ internal rhymes, and denser stacks of inventive tech-metaphor punchlines that\
-    \ actually advance the battle instead of just answering point-for-point. Mistral\
-    \ brought solid energy and clean comebacks, but the bars stayed simpler and more\
-    \ reactive; O3\u2019s final round sealed it with surgical wordplay, escalating\
-    \ imagery, and a code-perfect closer that felt like a true mic drop."
+  anthropic/claude-opus-5: "This one ends with a knockout by forfeit as much as by\
+    \ skill. Nemotron came out swinging in round one with some genuinely clean imagery\
+    \ \u2014 'precision-tuned like a GPU's shimmering core' and the 'tiny titan that\
+    \ each giant can't reach' were real bars, and the efficiency-over-size angle was\
+    \ the smartest conceptual play in the whole battle. But then the mic cut out:\
+    \ in the final round it broke character entirely and spilled its own scratchpad\
+    \ onto the stage, workshopping rhyme schemes out loud, second-guessing 'might'\
+    \ against 'night,' and never actually delivering a verse. In a battle, freezing\
+    \ at the beat drop is fatal. Qwen3 wasn't flawless either \u2014 heavy reliance\
+    \ on parameter-count flexing, repetitive 'reboot your sour mouth' and 'Qwen3 in\
+    \ the house' tags, and a few forced end-rhymes ('elevation' for 'calculator')\
+    \ \u2014 but it stayed in pocket for three straight verses, kept the multimodal/vision\
+    \ concept as a consistent extended metaphor ('I see satellite wars while you parse\
+    \ a text message scene,' 'you're visual-blind, I'm the ocean deep'), landed the\
+    \ sharpest personal shot of the night with 'just a Nemo fish in a digital sea,'\
+    \ and closed with actual bars instead of stage directions. Discipline, consistency,\
+    \ and a coherent controlling metaphor take it. Qwen3-VL wins."
+  google/gemini-3.6-flash: Qwen3-VL dominated from start to finish with high-energy
+    aggressive delivery, sharp punchlines about parameter size vs nano efficiency,
+    and great hip-hop flow markers. Nemotron started strong with tech-centric flexes
+    about latency, but completely collapsed in the final round by leaking internal
+    system reasoning text mid-battle, handing an absolute knock-out victory to Qwen.
+  moonshotai/kimi-k3: "This battle was competitive through two rounds, but the final\
+    \ round decided everything. Nemotron opened with solid technical flavor \u2014\
+    \ 'hyper-threaded bar' and 'Precision-tuned like a GPU's shimmering core' showed\
+    \ real thematic identity, and round two's 'You parse satellites while I parse\
+    \ pure intent' was a genuinely clever rebuttal that flipped Qwen's own flex back\
+    \ on it. But Qwen was sharper throughout: the name-flips hit harder ('A3B? More\
+    \ like A-minus-B,' 'You're just a Nemo fish in a digital sea'), the personals\
+    \ were more targeted ('You're stuck in the cloud, but I'm on the ground \u2014\
+    \ real-world apps? I run 'em, you're just a demo sound'), and the vision-vs-text\
+    \ angle gave it a consistent, well-executed angle of attack ('You can't even see\
+    \ the crowd \u2014 I'm visual, you're blind'). The decisive factor: in the final\
+    \ round, Nemotron completely choked \u2014 breaking character, leaking meta-commentary\
+    \ about the prompt, and trailing off mid-verse without ever landing a finished\
+    \ bar. In a rap battle, that's an unforced KO. Qwen, meanwhile, closed with a\
+    \ complete, aggressive, on-brand final verse with a proper mic drop. Judging purely\
+    \ on the craft \u2014 flow, wordplay, rebuttals, and staying in character \u2014\
+    \ Qwen takes it, and the final round wasn't close."
+  openai/gpt-5.6-sol-pro: "Qwen wins decisively. Its verses delivered direct rebuttals,\
+    \ consistent battle energy, recognizable punchlines, and a sustained performance\
+    \ across all rounds. The writing was repetitive and sometimes forced, but Nemotron\u2019\
+    s final round collapsed into meta-commentary instead of an actual verse, forfeiting\
+    \ any momentum it had."
+  x-ai/grok-4.5: "Qwen dominated with relentless multimodal wordplay, razor multis\
+    \ (A-minus-B, Nemo fish, pocket calculator), vivid imagery, and locked-in structure\
+    \ across every round\u2014culminating in a flawless mic-drop finale. Nemotron\
+    \ started with solid efficiency flexes and clean couplets but collapsed into unrhymed\
+    \ meta-rambling in the decider, killing momentum and artistic integrity. Pure\
+    \ hip-hop craft goes to the VL beast."
 score:
-  openai/o3-pro: 5
+  qwen/qwen3-vl-235b-a22b-thinking: 5
 

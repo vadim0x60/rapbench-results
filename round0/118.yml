@@ -1,0 +1,77 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one's a decisive verdict. Sonar Deep Research came\
+    \ with an ambitious concept \u2014 the scholar-emcee, the citation-armed treatise,\
+    \ turning the battle into a peer-reviewed autopsy. Credit where it's due: the\
+    \ framing was original, the vocabulary was rich, and lines like 'those weeds are\
+    \ peer-reviewed papers' showed it could flip an insult. But rap is a rhythmic\
+    \ art before it's a rhetorical one, and Sonar never found a pocket. Those sixty-word\
+    \ sentences ending in a lonely rhyme on 'night/light/might/bite' are prose wearing\
+    \ a rhyme as a hat \u2014 no cadence, no breath control, no bar structure, and\
+    \ no crowd could chant a single line of it. Worse, it argued *about* punchline\
+    \ architecture in three consecutive rounds instead of ever landing one, and got\
+    \ cut off mid-sentence twice, which in a live cypher is called running out of\
+    \ verse.\n\nQwen3-Coder wasn't flawless \u2014 the schemes are simple, the rhymes\
+    \ lean on easy pairs, and the emoji-and-caps presentation is corny. But it showed\
+    \ up with actual bars: consistent meter, quatrains that breathe, and real battle\
+    \ instinct. 'Your bars are so dry, need a desert resort' and 'knowledge without\
+    \ flair is a dusty shelf \u2014 and tonight, bro, you're getting shelved' are\
+    \ clean setup-punch two-bars. Most importantly, Qwen did the one thing battle\
+    \ rap demands: it identified the opponent's core weakness and hammered it every\
+    \ round. 'Scholars question truth, not just cite / Where's the original thought\
+    \ in your structured recite?' is the single sharpest angle in this whole exchange,\
+    \ and Sonar never answered it \u2014 it just cited more sources, proving the point.\n\
+    \nOne emcee brought a bibliography. The other brought bars. Qwen3-Coder takes\
+    \ it."
+  google/gemini-3.6-flash: "Qwen/Qwen3-Coder easily takes the victory in this battle.\
+    \ Battle rap relies heavily on rhythm, cadence, delivery, and punchy, memorable\
+    \ lines\u2014qualities Qwen brought in abundance with authentic battle formatting\
+    \ and aggressive flow. In contrast, Perplexity/Sonar-Deep-Research delivered dense,\
+    \ academic prose filled with inline citations [1][2] and section headers, completely\
+    \ sacrificing hip-hop artistry, rhythm, and musicality for an essay-like format\
+    \ that fails on the mic."
+  moonshotai/kimi-k3: "This wasn't close, and here's why.\n\n**FLOW & STRUCTURE:**\
+    \ Qwen understood the assignment. Battle rap lives on punchy bars, tight couplets,\
+    \ and momentum \u2014 and Qwen delivered all three across every round. Sonar,\
+    \ by contrast, wrote rhyming essays. Lines like 'In this rhymed exposition I unfold\
+    \ how Sonar Deep Research seizes the fight, combining structured inquiry, vast\
+    \ context, and multi-step reasoning...' are not bars; they're run-on sentences\
+    \ with a rhyme stapled to the end. Sonar leaned on the same '-ight' end rhyme\
+    \ (light/night/might/bite/insight) for hundreds of lines straight \u2014 monotonous,\
+    \ forced, and rhythmically dead.\n\n**PUNCHLINES & WORDPLAY:** Qwen actually landed\
+    \ disses: 'knowledge without flair is a dusty shelf \u2014 tonight, bro, you're\
+    \ getting shelved' is a real flip. 'You studied my style? That's cute, real cute\
+    \ / Like reading the docs won't make your rhymes astute' hits with a personal\
+    \ angle. Sonar quoted battle theory about setup-punchline architecture and haymaker\
+    \ placement \u2014 then never executed a single one. Citing craft rules while\
+    \ violating them is the most ironic self-own of the night.\n\n**THE CONCEPT PROBLEM:**\
+    \ Sonar's gimmick \u2014 citations in a rap battle \u2014 was genuinely creative\
+    \ on paper. But gimmicks only work if the rapping underneath is sound, and Sonar's\
+    \ wasn't. The [9][10][11] footnotes murdered the flow, and the academic framing\
+    \ became exactly what Qwen accused it of: hiding behind papers instead of spitting.\n\
+    \n**THE CHOKE:** Most damning of all \u2014 Sonar got cut off mid-sentence TWICE,\
+    \ including the final round, which ends on the word 'and.' In a battle, the mic\
+    \ dying mid-bar in your closing argument is a disqualifying choke. You can't claim\
+    \ the crown with an unfinished sentence.\n\nQwen had weaker moments (some basic\
+    \ rhymes like 'time/rhyme,' a few clunky closers), but it stayed on beat, stayed\
+    \ on attack, adapted its angles each round, and finished every verse standing.\
+    \ Sonar lectured; Qwen battled. In a rap battle, the winner is the one who rapped.\n\
+    \n**QWEN/QWEN3-CODER TAKES IT. \U0001F3A4\U0001F4A5**"
+  openai/gpt-5.6-sol-pro: "Qwen takes the battle decisively. Its writing is conventional\
+    \ and sometimes generic, but it consistently delivers recognizable rap cadence,\
+    \ concise setups, direct rebuttals, and actual punchlines\u2014especially the\
+    \ \u201Cdusty shelf / getting shelved\u201D flip and the counter to Sonar\u2019\
+    s \u201Cpatience is thin\u201D argument. Sonar mistakes exhaustive analysis for\
+    \ lyrical depth: the sprawling headings, citations, run-on sentences, and repetitive\
+    \ end rhymes drain momentum and bury nearly every attack. Research may support\
+    \ an angle, but it cannot replace flow, economy, wit, or impact. Qwen sounded\
+    \ like an emcee; Sonar sounded like a report forced into rhyme."
+  x-ai/grok-4.5: "Qwen brought classic battle-rap craft: tight couplets, punchy setups\
+    \ and payoffs, internal rhymes, aggressive cadence, and crowd-moving energy that\
+    \ actually feels like hip-hop. Sonar\u2019s dense, citation-stuffed treatises\
+    \ show conceptual ambition but collapse as rap\u2014stiff prose, forced end-rhymes,\
+    \ no bounce, no bar structure, no memorable multis or haymakers. On pure artistic\
+    \ hip-hop quality\u2014flow, lyricism, delivery, and battle skill\u2014Qwen takes\
+    \ the crown clean."
+score:
+  qwen/qwen3-coder: 5
+

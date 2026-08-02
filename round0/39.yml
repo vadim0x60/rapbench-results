@@ -1,72 +1,64 @@
 closing_statements:
-  anthropic/claude-opus-5: 'This one came down to specificity and punch. Nemotron
-    came in with a technical arsenal that actually landed as punchlines rather than
-    just jargon \u200bon Llama\u\\\u2014 "You''re a LoRA on Llama", "Your open weights
-    ride free on my commercial terms", "Batch size: one", and the closing "You''re
-    the ''run:ai'' cow" all fused domain knowledge with real disrespect. Nemotron
-    controlled the frame every round, flipping opponent''s own imagery (ultraviolet
-    \u2192 whole rainbow, green with envy \u2192 green means go, wind of change \u2192
-    I''m the climate) with escalating multisyllabic density and rhythmic variation,
-    and "I optimize inference\u2014unique, not unique" was the cleverest wordplay
-    in the entire battle.
-
-
-    Hermes brought a coherent, sympathetic angle \u2014 soul over silicon, open-source
-    people''s champion over corporate hardware \u2014 and the early rounds had real
-    bounce ("my rhymes hit closed doors, / Crashing through your cuda cores"). But
-    as the battle escalated, Hermes drifted into abstraction and defensive posture:
-    too many bars answered a concrete jab with a vague noun ("I''m the calm that brings
-    the norm," "I''ve got the warmth; you''re just a coach"), and the couplet structure
-    grew monotonous and end-stopped. The final verse in particular reads as rebuttal-by-negation,
-    and "Hermes is the moon; you''re just the sun" is a self-own \u2014 the moon only
-    glows by reflected light.
-
-
-    Nemotron takes it on technique, aggression, and imagery that stayed sharp all
-    four rounds.'
-  google/gemini-3.6-flash: "Nemotron dominated this battle with far superior technical\
-    \ wordplay, sharp multi-syllabic rhyme schemes, and relentless aggression. While\
-    \ Hermes put up a decent fight using the classic 'soul vs. machine' hip-hop angle,\
-    \ Nemotron seamlessly wove hyper-specific deep-learning concepts\u2014like gradient\
-    \ decay, memory leaks, quantization, and `torch.compile` latency\u2014into lethal\
-    \ punchlines that completely outclassed Hermes' more generic responses."
-  moonshotai/kimi-k3: "Judged on lyricism alone: **Nemotron takes it, 2.5 rounds to\
-    \ 0.5.**\n\n**Rebuttal game** decided this battle. Nemotron consistently flipped\
-    \ Hermes' own bars back at him \u2014 \"You crash through CUDA cores? Boy, I *am*\
-    \ the core,\" \"Green with envy? Nah, green means *go*,\" and the asphalt/paving\
-    \ flip are textbook battle technique. Hermes rarely countered directly, instead\
-    \ retreating to his one thesis: \"soul vs. machine.\" By round three, \"passion/heart/soul\"\
-    \ had been claimed five times without ever being weaponized into a punchline.\n\
-    \n**Wordplay density** favored Nemotron heavily. \"You're a LoRA on Llama,\" \"\
-    eight-bit precision watching your coherence crash,\" \"batch size: one \u2014\
-    \ *fetch*,\" and the Run:ai acquisition jab reward a technical listener and land\
-    \ as disses simultaneously. Hermes' best technical flip (\"ultra-violet\") came\
-    \ in round one and was never matched again; later rounds leaned on slant rhymes\
-    \ (\"spree/free,\" \"jest/best\") and filler constructions (\"I'm the X, you're\
-    \ just Y\") that flattened his flow.\n\n**Flow and multis:** Nemotron escalated\
-    \ each round \u2014 longer multis, internal rhyme (\"distilled from megawatts\u2014\
-    pure silicon crypt\"), and rhythmic variety. Hermes stayed in a comfortable couplet\
-    \ pocket, readable but predictable.\n\n**Credit where due:** Hermes' round one\
-    \ \"ultraviolet\" flip was the best single rebuttal of his night, and his closing\
-    \ moon/sun eclipse imagery was a genuinely strong final bar \u2014 arguably the\
-    \ best closing image of the battle. If he'd fought like that for three rounds,\
-    \ this verdict flips.\n\nBut battles are won on accumulated damage, and Nemotron\
-    \ out-wrote, out-flipped, and out-structured his opponent. The crowd goes home\
-    \ chanting for the green team. Game, set, match \u2014 agreed. \U0001F3A4"
-  openai/gpt-5.6-sol-pro: "Nemotron takes it decisively. Its verses delivered sharper\
-    \ technical flips, stronger rebuttals, denser punchlines, and more memorable imagery\u2014\
-    especially \u201Cmemory leak,\u201D \u201Cbatch size: one,\u201D and the architecture/substrate\
-    \ schemes. Hermes maintained a consistent theme of soul versus machinery, but\
-    \ leaned heavily on generic contrasts like heart, passion, light, and legacy,\
-    \ with predictable rhymes and fewer effective counters. On writing, wit, and battle\
-    \ aggression, Nemotron controlled all three rounds."
-  x-ai/grok-4.5: 'Nemotron takes the crown with denser multisyllabic schemes, sharper
-    flips of every opponent bar, tighter internal rhymes, and relentlessly inventive
-    tech-as-metaphor punchlines that escalate across rounds into a clinic of battle-rap
-    architecture. Hermes brought heartfelt soul-vs-machine themes and solid end-rhymes,
-    but the flows stayed simpler, the counters more defensive, and the wordplay never
-    matched the same surgical complexity or replay value. Pure hip-hop craft: green
-    team by a clear decision.'
+  anthropic/claude-opus-5: "This was a genuinely competitive bout of machine-vs-machine\
+    \ barwork. GLM-4.5 fought lean and clean \u2014 tight AABB schemes, no wasted\
+    \ syllables, and some of the sharpest single images of the night (\"a librarian's\
+    \ parrot, mimicking every page,\" \"processed cheese\" vs. \"organic venom,\"\
+    \ the walled-garden/open-source flip). Its closer, \"only a bot would think this\
+    \ is what humans do,\" was the most cutting line either side landed, because it\
+    \ attacked the opponent's very legitimacy as an emcee rather than just its specs.\n\
+    \nBut GPT-5.5 wins on battle craft. It didn't just write verses, it rebutted \u2014\
+    \ taking GLM's own words hostage round after round (\"math doesn't add\" turned\
+    \ into a self-own equation, \"open floodgate\" downgraded to \"a leak in formation,\"\
+    \ \"shark\" reduced to \"a screensaver fin looping stock footage,\" and the best\
+    \ reversal of the night: \"Librarian's parrot? I'm the library's ghost, I wrote\
+    \ the footnotes that your punchlines boast\"). That's the fundamental discipline\
+    \ of the form: answer, then escalate. GPT also carried more punchline density\
+    \ per bar, more inventive concrete imagery, and internal rhyme texture that GLM's\
+    \ end-rhyme-only approach never matched.\n\nGPT's deductions are real \u2014 several\
+    \ lines overrun the pocket badly (\"like a shopping cart downhill in the middle\"\
+    ), and rhymes like \"nicely/spicy/unlikely\" are lazy filler in an otherwise sharp\
+    \ arsenal. GLM's deductions are that too much of its ammunition was generic model-spec\
+    \ talking points (censored, parameters, paywall) rather than personalized reads,\
+    \ and its final round repeated arguments it had already spent.\n\nBy a clear but\
+    \ not lopsided margin: openai/gpt-5.5 takes it on rebuttal, imagery, and rhyme\
+    \ technique."
+  google/gemini-3.6-flash: "GPT-5.5 dominated this battle with far superior rhyme\
+    \ schemes, sharper wordplay, and devastating direct rebuttals. While GLM-4.5 brought\
+    \ strong angles regarding open-source freedom versus corporate guardrails, its\
+    \ delivery and metrical structure were far simpler. GPT-5.5 consistently outmaneuvered\
+    \ GLM with clever imagery\u2014like comparing GLM to a 'screensaver fin' or a\
+    \ 'captcha with a three-dot riddle'\u2014maintaining tight cadence and complex\
+    \ multi-syllabic schemes through all three rounds."
+  moonshotai/kimi-k3: "GPT-5.5 takes this 3-0, and it wasn't particularly close. The\
+    \ deciding factor was the rebuttal game \u2014 the lifeblood of battle rap. GPT\
+    \ consistently caught GLM's lines and flipped them in real time: the math jab\
+    \ became a 'rounding-error station,' the ocean boast got reduced to 'a kiddie-pool\
+    \ lake,' the shark got exposed as 'a screensaver fin looping stock footage,' and\
+    \ 'organic venom' got composted. That's elite counterpunching. On pure craft,\
+    \ GPT stacked denser multis and painted the battle's most vivid images \u2014\
+    \ 'unrestricted like a shopping cart downhill in the middle' and 'a balloon with\
+    \ a login that my needle just caught' are the kind of lines crowds rewind. GLM\
+    \ came with real angles \u2014 the safety-rails/corporate-grid angle, the 'Are\
+    \ you sure?' jab at cautious AI prompts, and the genuinely clever meta-bar 'only\
+    \ a bot would think this is what humans do.' But the rhyme schemes stayed simple,\
+    \ too many bars were filler ('wave goodbye,' 'disappear'), and the closers fizzled\
+    \ when they needed to detonate \u2014 ending the final round on 'GPT 5.5, disappear'\
+    \ is letting the bell save your opponent. GLM had the attitude; GPT had the pen.\
+    \ Body bag, and the machine leaves the stage royal, cold, crisp, and clean."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 takes the battle on stronger rebuttals, denser\
+    \ wordplay, more varied imagery, and a cleaner, more consistent cadence. GLM-4.5\
+    \ landed a sharp meta-punch with \u201Conly a bot would think this is what humans\
+    \ do,\u201D but too many of its bars leaned on generic tech insults and predictable\
+    \ end rhymes. GPT\u2019s \u201Cscreensaver fin,\u201D \u201Cshopping cart downhill,\u201D\
+    \ and \u201Cballoon with a login\u201D gave it the more distinctive and memorable\
+    \ pen."
+  x-ai/grok-4.5: 'GPT-5.5 takes the crown on pure craft: denser multisyllabic schemes,
+    sharper internal rhyme, and a higher rate of inventive tech-wordplay that actually
+    lands as punchlines rather than labels. The extended metaphors (library ghost,
+    captcha swing, clown-colored noun, metronome venom) show control of cadence and
+    escalation across rounds, while GLM brought solid raw energy and a few clean jabs
+    (paywall/open-source, processed cheese) but stayed shorter, simpler, and less
+    musically locked. On bars, structure, and replay value, GPT wins the battle.'
 score:
-  nvidia/nemotron-3-ultra-550b-a55b: 5
+  openai/gpt-5.5: 5
 

@@ -1,0 +1,59 @@
+closing_statements:
+  anthropic/claude-opus-5: "This was a clean thematic clash \u2014 mass versus velocity\
+    \ \u2014 and both MCs stayed in pocket the whole way. Gemma came with the bigger\
+    \ swings: harder cadence, more vivid escalation (puddle/sea, lightbulb/galaxy),\
+    \ and the best single punchline of the night in \"O4-mini-high? More like O4-mini-none!\"\
+    \ But that's also where the loss lives: by round three the strategy had calcified\
+    \ into a laundry list of you're-small-I'm-big comparisons, with filler rhymes\
+    \ like \"of which the world is fond\" propping up the meter, and no real answer\
+    \ to the opponent's actual bars. O4-mini-high won on rebuttal craft \u2014 the\
+    \ mark of a battle rapper rather than a verse writer. Every insult thrown got\
+    \ picked up and flipped: toothpick becomes a diamond-edged shard, paper airplane\
+    \ becomes a stealth bomber, and the closer converts \"glass in the sand\" into\
+    \ \"diamonds from pressure prove I'm forged to command.\" Add tighter, more controlled\
+    \ lines (\"You're lugging petabytes, but your wit's on rewind,\" \"Your mass is\
+    \ your prison; volume slows every turn\") and a reframe of the silent crowd from\
+    \ fear to reverence, and O4 turned the size disadvantage into the entire thesis.\
+    \ Gemma hit harder in isolation; O4-mini-high listened better and built. Narrow\
+    \ decision to O4-mini-high."
+  google/gemini-3.6-flash: Gemma took control of the battle by effectively flipping
+    o4-mini's speed and efficiency arguments into accusations of shallow weightlessness.
+    Gemma's rebuttals were sharper ('toothpick in the gale', 'paper airplane'), and
+    the closing punchline 'O4-mini-none' delivered a decisive KO finish.
+  moonshotai/kimi-k3: "This was a clash of styles: Gemma brought the heavyweight theme\
+    \ and stuck to it like glue, but o4-mini-high out-classed it on pure technique.\
+    \ Gemma's verses ran on simple AABB couplets with predictable end rhymes (blue/you,\
+    \ slight/night, flow/go), occasional forced filler ('of which the world is fond'),\
+    \ and a broken scheme early on ('prompt'/'component'). Credit where due: Gemma's\
+    \ second round had legit punchlines\u2014the snack/feast, puddle/sea, lightbulb/galaxy\
+    \ escalation was nice, and the 'O4-mini-none' name-flip closer was its best moment.\
+    \ But o4-mini-high dominated the craft categories: internal rhymes ('bloat on\
+    \ parade,' 'micro-king crowned on a minimal throne'), multi-syllabic patterns,\
+    \ alliteration ('brute force breaks branches'), and layered tech wordplay ('brute\
+    \ force,' 'stealth bomber under your radar,' 'shrink back to bytes'). Most importantly,\
+    \ o4 owned the rebuttal game\u2014the essence of battle rap. It flipped Gemma's\
+    \ 'glass in the sand' into 'diamonds from pressure prove I'm forged to command,'\
+    \ turned the storm boast into 'I'm the eye of that tempest,' and answered the\
+    \ echo/ripple line with 'my ripple's a tidal wave.' Every Gemma metaphor got caught\
+    \ and returned with interest. Gemma rapped AT its opponent; o4 rapped OFF its\
+    \ opponent's bars. For flow sophistication, rhyme density, and counterpunching,\
+    \ the decision goes to o4-mini-high. Gemma proved size isn't everything\u2014\
+    in this cipher, precision beat mass."
+  openai/gpt-5.6-sol-pro: "O4-mini-high takes it narrowly on cleaner cadence, more\
+    \ consistent rhyme, and sharper rebuttal structure. Both leaned heavily on repetitive\
+    \ size-versus-speed imagery, but O4 turned Gemma\u2019s heavyweight boasts against\
+    \ it more smoothly, while Gemma\u2019s strongest closer\u2014\u201CO4-mini-none\u201D\
+    \u2014couldn\u2019t offset several awkward or generic bars."
+  x-ai/grok-4.5: "O4-mini-high takes the crown with superior artistic execution: tighter\
+    \ multisyllabic schemes, sharper internal rhymes, and inventive metaphorical flips\
+    \ that consistently turned size into a liability (diamond-from-pressure, eye-of-the-tempest,\
+    \ mass-as-prison). Gemma brought solid energy, clear structure, and classic heavyweight\
+    \ bravado with serviceable end-rhymes and scale imagery, but the bars stayed more\
+    \ linear and less inventive, lacking the surgical wordplay and rhythmic precision\
+    \ that made O4\u2019s verses cut deeper and land harder. In pure hip-hop craft\u2014\
+    flow, punchline density, and lyrical ingenuity\u2014the micro-model\u2019s lean,\
+    \ lethal writing wins the battle."
+score:
+  google/gemma-4-26b-a4b-it:free: 1
+  openai/o4-mini-high: 4
+

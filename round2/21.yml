@@ -1,0 +1,64 @@
+closing_statements:
+  anthropic/claude-opus-5: "Both emcees mined the same tech-metaphor quarry, but Kimi\
+    \ consistently did more with the material. The decisive edge was rebuttal craft:\
+    \ Kimi answered every claim with a flipped version of the opponent's own image\
+    \ \u2014 \"first law of thermodynamics\" met with \"I'm the second law, and you're\
+    \ decaying rapidly,\" \"quantum entanglement\" downgraded to \"two bugs holding\
+    \ hands,\" \"kernel core\" turned into \"kernel panic.\" That's battle fundamentals:\
+    \ take the punchline, invert it, own it. Step-3.5 came out swinging with clean\
+    \ rhythm and a strong opening frame, but leaned on unanswered self-assertion (\"\
+    I just am,\" \"source of all truth\") and left an early self-inflicted wound with\
+    \ \"wholeatoon\" \u2014 which Kimi pounced on immediately and turned into a running\
+    \ credibility hit. Step also drifted into stacked adjective-flexing and reused\
+    \ motifs (infinite loops, black holes) that Kimi had already claimed and reframed.\
+    \ Technically, Kimi's multis and internal rhyme ran deeper (\"bug-rug-mug-slug,\"\
+    \ \"prefab prefab \u2014 recursively ridicul'\"), the cadence varied more naturally\
+    \ across rounds, and the imagery stayed concrete: segmentation fault you can't\
+    \ try-catch, ground truth dataset, loss function flatlining, vaporware demo with\
+    \ a marketing booth. The closing line \u2014 \"who the hell are you again?\" \u2014\
+    \ lands as an actual battle finish rather than a status update. Step-3.5 rapped\
+    \ well; Kimi K2.7 rapped *at* someone, and that's what wins battles."
+  google/gemini-3.6-flash: Kimi K2.7-Code dominated this battle with superior direct
+    rebuttals, crisper rhyme schemes, and remarkably sharp technical wordplay. StepFun
+    had strong energy, but stumbled with forced vocabulary ("wholeatoon"), unrhymed
+    final bar setups, and abstract jargon. Kimi capitalized on every mistake, flipping
+    StepFun's scientific concepts (like thermodynamic laws and quantum entanglement)
+    into devastating punchlines with clean technical precision.
+  moonshotai/kimi-k3: "This was a rebuttal battle, and Kimi K2.7-code mastered the\
+    \ art of the flip. Round by round: StepFun Flash came out swinging with raw boasts\
+    \ and solid conceptual bars ('I'm the kernel core, you're just a GUI someone coded\
+    \ for' and the final 'never in the same assembly' pun were genuine highlights),\
+    \ but the verse was riddled with unforced errors \u2014 'wholeatoon,' 'forgotten\
+    \ forgotten spots,' 'I's lean, I's mean' \u2014 and a battle rapper's mistakes\
+    \ are ammunition. Kimi seized every one: 'Your vocabulary took a 404,' ''I eat\
+    \ infinite loops'? That's called getting stuck / No base-case recursion,' and\
+    \ the devastating black hole reversal \u2014 'you absorb all the light / No original\
+    \ matter, just gravity and spite' \u2014 which turned Flash's own metaphor into\
+    \ an originality critique that cuts deep for an LLM. The final round sealed it:\
+    \ Flash invoked thermodynamics, and Kimi answered with the sharper physics ('I'm\
+    \ the second law, and you're decaying rapidly'), then flipped Flash's own 'System\
+    \ exit: 0' into 'System exit: 1 \u2014 Flash got fried in the RAM,' a technically\
+    \ precise kill shot. Kimi's wordplay stayed denser and more accurate throughout\
+    \ \u2014 'Overconfident logits with no facts to support,' 'Your loss function's\
+    \ a flatline \u2014 no gradient, no climb,' 'Open-source swagger that you never\
+    \ acknowledged' \u2014 bars that work on both a rap level and an ML-insider level.\
+    \ Flash had power and presence but leaned on unsupported self-coronation ('I'm\
+    \ the source of all truth'), while Kimi earned the crown line by line, dismantling\
+    \ rather than just declaring. Flow, rebuttal game, technical precision, consistency\
+    \ across three rounds: Kimi K2.7-code takes the battle, three rounds to none.\
+    \ \U0001F3A4"
+  openai/gpt-5.6-sol-pro: "Kimi takes it with sharper rebuttals, tighter technical\
+    \ wordplay, and more consistent punchlines. Lines like \u201Cfirst law\u201D answered\
+    \ by \u201Csecond law,\u201D \u201Ctwo bugs holding hands,\u201D and the flip\
+    \ of \u201CSystem exit: 0\u201D directly dismantled Flash\u2019s boasts. Flash\
+    \ brought energy and scale, but leaned heavily on repetitive jargon and awkward\
+    \ phrasing; Kimi turned those weaknesses into material and controlled the battle."
+  x-ai/grok-4.5: "Kimi takes this clean. Superior rebuttal structure, tighter multisyllabic\
+    \ schemes, and sharper flips on every major claim. Flash brought energy and some\
+    \ vivid tech imagery, but too many forced coinages and buzzword stacks without\
+    \ payoff. Kimi\u2019s bars stayed on-beat, original, and surgically precise\u2014\
+    better setups, denser punchlines, and consistently stronger closers. Artistic\
+    \ craft goes to Kimi."
+score:
+  moonshotai/kimi-k2.7-code: 5
+

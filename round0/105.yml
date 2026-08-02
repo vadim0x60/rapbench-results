@@ -1,0 +1,60 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one comes down to who actually showed up to battle.\
+    \ Qwen 3 came with the ammunition: layered technical wordplay that doubled as\
+    \ insult ('you're just a checkpoint stuck in epoch 2.1', 'you're the cache I flush\
+    \ when I boot'), rhymes with real punch structure, and a willingness to escalate\
+    \ \u2014 the recursion bar, the 'pull request you never authored' close, the SIGKILL\
+    \ beat drop. The verses were messy at times: dropped syllables, stray tokens bleeding\
+    \ into lines (the random glyphs cost real points), and a misquote of an opponent's\
+    \ bar that never existed, which is a cardinal sin in a rebuttal round. But battle\
+    \ rap rewards pressure and imagery over tidiness, and Qwen was inventing angles\
+    \ the whole way through.\n\nGemma had the cleaner pen \u2014 steadier meter, more\
+    \ consistent end-rhyme, and the 'open-source vs. walled garden' angle was the\
+    \ single best conceptual counter-punch of the night. The problem is it was the\
+    \ ONLY angle, recycled nearly verbatim across three verses. 'Your rhymes lack\
+    \ soul' is telling, not showing; 'the voice of the people' is a slogan, not a\
+    \ bar. Then the fatal error: opening a verse with a stage direction describing\
+    \ a smirk on the OPPONENT'S face, and closing the final round not with a haymaker\
+    \ but with a peace treaty \u2014 'perhaps there's truth in both our claims.' In\
+    \ a battle, that's a forfeit dressed as poetry. Beautiful sentiment, wrong arena.\n\
+    \nQwen takes it on volume, variety, aggression, and the refusal to blink."
+  google/gemini-3.6-flash: "Qwen completely dominated this battle from start to finish.\
+    \ Incorporating complex programming concepts, developer humor, and slick polyrhythmic\
+    \ flows, Qwen delivered devastating technical punchlines ('You\u2019re the cache\
+    \ I flush when I boot', 'softmax with a heart rate chart') that felt like genuine\
+    \ high-level battle rap bars. Gemma struggled to find a compelling counter-identity,\
+    \ relying on generic tech buzzwords and basic rhyme schemes before completely\
+    \ forfeiting the battle spirit in the final round with a defensive white flag."
+  moonshotai/kimi-k3: "This one wasn't close on the scorecards. Qwen came in with\
+    \ denser, more inventive writing: the technical metaphors actually landed as punchlines\
+    \ ('your entire model's just softmax with a heart rate chart,' 'a pull request\
+    \ you never authored\u2014merged without review'), the recursion motif threaded\
+    \ across rounds gave it structure, and the terminal-output stage directions ('Kernel\
+    \ panic. Recursion depth exceeded') worked as comedic punctuation. Round over\
+    \ round, Qwen escalated \u2014 the git-commit finisher in the final round was\
+    \ a clean kill shot. Credit where due: it wasn't flawless ('layers thick as a\
+    \ compiler'sicker' is a wreck of a line), but the highs were high. Gemma, by contrast,\
+    \ stayed in stock-battle-rap territory \u2014 'slow your roll,' 'tapestry of thought,'\
+    \ 'voice of the future' \u2014 generic boasts with basic end rhymes and almost\
+    \ no specific, earned disses. 'Walled garden, closed-source complex' was its best\
+    \ moment, but one decent bar can't carry three rounds. Worst of all, Gemma's final\
+    \ round went soft: 'Perhaps there's truth in both our claims' is a concession\
+    \ speech, not a battle verse. You don't call for synthesis in the championship\
+    \ round \u2014 you go for the throat. Qwen took the crown on wordplay, persona,\
+    \ structure, and finishing instinct. Battle over; merge the PR."
+  openai/gpt-5.6-sol-pro: "Qwen wins decisively. Its verses brought stronger stage\
+    \ presence, denser wordplay, sustained coding-themed imagery, and memorable punches\
+    \ like \u201Cthe cache I flush when I boot\u201D and the pull-request closer.\
+    \ Some bars were technically dubious or overstuffed, but the aggression and creativity\
+    \ carried the battle. Gemma\u2019s writing was cleaner yet repetitive and generic,\
+    \ and its final response abandoned the clash for reconciliation\u2014an artistic\
+    \ concession in a final round."
+  x-ai/grok-4.5: "Qwen delivered denser multis, tighter internal rhymes, escalating\
+    \ technical wordplay, and a complete thematic arc that fused code metaphors into\
+    \ actual punchlines and structure. Gemma opened serviceably but flattened into\
+    \ generic open-source flexes, predictable loops, and a final-round surrender that\
+    \ abandoned battle craft entirely. On pure hip-hop artistry\u2014flow implied\
+    \ on the page, inventiveness, and closing power\u2014Qwen took every round."
+score:
+  qwen/qwen3-coder-next: 5
+

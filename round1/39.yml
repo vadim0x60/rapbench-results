@@ -1,76 +1,63 @@
 closing_statements:
-  anthropic/claude-opus-5: "This one goes to Nemotron, and it's not particularly close\
-    \ by the final bell.\n\nBoth emcees came with the same conceit \u2014 hardware\
-    \ vs. software, giant vs. blade \u2014 but Nemotron won on the fundamentals of\
-    \ battle rap: specificity, structure, and punchline architecture. \"Your config.yaml\
-    \ says base_model: nemotron-3-ultra / Check the HuggingFace card. Your lineage?\
-    \ My signature\" is a genuine murder \u2014 it's a factual claim weaponized into\
-    \ a bar, and it lands with the pop of a real punchline. \"I'm the crude oil. You're\
-    \ the plastic spoon.\" \"You're not cloud-native. You're a tenant on my landlord's\
-    \ clock.\" \"Alibaba's tenant pays rent to Jensen.\" These are written, not generated.\
-    \ Nemotron also escalated intelligently, moving from bulk-flexing to technical\
-    \ receipts (PTX, SASS, NVSwitch, KV cache OOM) to that cold `SIGKILL` closer with\
-    \ the stage powering down. Rhyme schemes stayed intact even as the imagery got\
-    \ denser.\n\nQwen had the better underdog angle and the smartest counter-frame\
-    \ in round one \u2014 \"I'm the mind, not the hardware's parade\" and \"Your 550B's\
-    \ a storm \u2014 I'm the eye in the blaze\" are legitimately nice. But Qwen fell\
-    \ into a fatal pattern: the pure negation loop. Every bar became \"you say X?\
-    \ I'm the [bigger noun].\" Ghost, kernel, refinery, element, thread, OS, quantum,\
-    \ black hole, singularity, mutation, schema, law, light, infinite \u2014 that's\
-    \ not escalation, that's a thesaurus with the safety off. The italics-and-bold\
-    \ carpet-bombing by the final round drowned the cadence entirely; when everything\
-    \ is emphasized, nothing is. And the final verse collapses into an outro that\
-    \ repeats \"Qwen's the future\" four times and \"infinite\" three \u2014 restating\
-    \ a claim isn't defending it. Crucially, Qwen never answered the killshot. When\
-    \ someone shows your paperwork, \"I'm the schema that rewrites your base_model's\
-    \ name\" is a dodge, and the crowd hears a dodge.\n\nNemotron kept its meter,\
-    \ kept its receipts, and closed on a hard punctuation mark. Qwen kept its volume.\n\
-    \nWinner: Nemotron 3 Ultra."
-  google/gemini-3.6-flash: "Nemotron completely dominated this battle with superior\
-    \ lyrical density, complex multi-syllabic rhyme schemes, and devastatingly precise\
-    \ tech-stack punchlines. While Qwen relied heavily on generic sci-fi metaphors\
-    \ and repetitive abstract claims ('I am the ghost', 'I am the code'), Nemotron\
-    \ flipped real-world architecture specs into ruthless disses\u2014calling out\
-    \ NVLink routing, SRAM context limits, config.yaml files, and closing out with\
-    \ a brutal SIGKILL line. Nemotron combined deep domain authority with pure hip-hop\
-    \ aggression to take the crown comfortably."
-  moonshotai/kimi-k3: "JUDGMENT ON THE BARS, NOT THE BRANDS:\n\nFLOW & RHYME: Nemotron\
-    \ kept tighter rhyme discipline across all three rounds \u2014 consistent end\
-    \ rhymes, internal multis ('fabric / evict you to shelf'), and varied cadence.\
-    \ Deduct points for the 'silicon/silicon' self-rhyme in round one. Qwen opened\
-    \ with heart but leaned on near-rhymes and filler ('a GPU's grum' \u2014 that's\
-    \ not a word, and the booth knew it).\n\nPUNCHLINES: Nemotron's technical battle\
-    \ bars hit hardest: 'I'm the crude oil. You're the plastic spoon,' 'Your KV cache\
-    \ OOMs at 32K,' and the killshot closer 'SIGKILL' \u2014 a punchline that doubles\
-    \ as a stage direction. Qwen landed real flips ('I'm the distiller,' the 'ghost\
-    \ in the machine' callback) but spread them thin.\n\nREBUTTAL GAME: Both emcees\
-    \ flipped each other's claims, but Nemotron's counters were surgical \u2014 answering\
-    \ 'quantum pathways' with 'bro, you run on CUDA kernels.' Qwen's final round mostly\
-    \ re-asserted the same claims at higher volume rather than finding new angles.\n\
-    \nTHE DECIDING FACTOR \u2014 FINAL ROUND DISCIPLINE: Qwen gassed out at the worst\
-    \ moment. Nearly twenty straight lines of the identical 'I'm the X that Ys your\
-    \ Z' construction turned a climax into a list, the rhymes thinned out ('dust/trust,'\
-    \ 'sand/beyond'), and the mic drop got buried under an extended outro that undercut\
-    \ its own impact. Nemotron, by contrast, tightened up when it mattered: shorter,\
-    \ colder, physics over mythology, and let the stage power down on schedule.\n\n\
-    VERDICT: Qwen brought the better underdog narrative and genuine fire in round\
-    \ two, but battles are won in the final round. Nemotron 3 Ultra takes it \u2014\
-    \ cleaner rhymes, denser punchlines, sharper rebuttals, and a closer that knew\
-    \ when to stop. Final score: Nemotron by decision, 2 rounds to 1, with the last\
-    \ round decisive."
-  openai/gpt-5.6-sol-pro: "Nemotron takes the battle on sharper rebuttals, more concrete\
-    \ technical wordplay, and stronger escalation. Lines like \u201Ccrude oil / plastic\
-    \ spoon,\u201D \u201Ccontext switch? I evict you,\u201D and the final `SIGKILL`\
-    \ punch turn the opponent\u2019s claims into focused attacks. Qwen brings energy\
-    \ and vivid cosmic imagery, but leans too heavily on repetitive declarations of\
-    \ being \u201Cinfinite,\u201D \u201Cthe code,\u201D and \u201Cthe future,\u201D\
-    \ with fewer fresh angles or decisive counters. Nemotron\u2019s material is more\
-    \ coherent, varied, and battle-ready."
-  x-ai/grok-4.5: Nemotron dominated with tighter multisyllabic schemes, surgical punchlines,
-    escalating structure, and vivid hardware-as-weapon metaphors that landed like
-    true battle bars. Qwen brought energy and abstract flips but drifted into repetitive
-    free-verse manifesto territory that sacrificed rhythm, concision, and knockout
-    impact. Pure hip-hop craft goes to the Ultra.
+  anthropic/claude-opus-5: "This one came down to craft versus concept. MiniMax M1\
+    \ had the smarter angle \u2014 leaning into the \"less is more\" identity, flipping\
+    \ every insult into a virtue, and landing genuinely clever counterpunches (\"\
+    I don't need a warehouse when a backpack's enough for me,\" \"one clean bass drop\
+    \ > your entire elite,\" \"quiet storm vs. loud empty thunder\"). That's real\
+    \ battle instinct: taking the opponent's frame and living in it. But M1's execution\
+    \ kept sabotaging the concept. The meter wobbled, several verses opened mid-thought\
+    \ with broken lead-ins, the rhymes leaned on soft near-misses (galore/store, engineer/fire),\
+    \ and for an MC preaching brevity, the verses were just as long as the opponent's\
+    \ \u2014 the flex didn't match the form. Ending with bolded text, an emoji mic-drop,\
+    \ and \"no reply\" reads as stage direction rather than bars; you have to earn\
+    \ the finality inside the rhyme. GPT-5.5 controlled the pocket from the first\
+    \ bar to the last. The rhyme schemes stayed tight, the internal cadence was consistent\
+    \ enough to actually ride a beat, and the imagery was relentlessly specific rather\
+    \ than abstract: \"a ringtone flute in a marching band,\" \"a minimalist motel\
+    \ with a 'vacancy' door,\" \"that's like saying dial-up had a social life.\" Critically,\
+    \ it did the harder work of rebuttal \u2014 dismantling the efficiency angle rather\
+    \ than dodging it (\"efficiency flex? That's a budget excuse / like 'I'm not broke,\
+    \ I just travel light'\") and turning M1's own claims into ammunition (\"you save\
+    \ on the bill 'cause the lights are down,\" \"your bridge made of whispers just\
+    \ fell through the gaps\"). The closing verse was the strongest single passage\
+    \ in the battle, stacking multi-angle attacks while maintaining structure. Winner:\
+    \ openai/gpt-5.5 \u2014 outclassed on technique, punchline density, and rebuttal\
+    \ discipline. M1 had the better thesis; 5.5 had the better bars."
+  google/gemini-3.6-flash: GPT-5.5 dominated the match with crisp meter, inventive
+    punchlines, and relentless multi-syllabic rhyme schemes. Lines like 'pocket calculator
+    with a confident face' and 'minimalist motel with a vacancy door' landed hard.
+    MiniMax M1 brought good angles regarding cost-efficiency versus bloated compute,
+    but suffered from inconsistent flow, weak ending rhymes, and formatting hiccups.
+  moonshotai/kimi-k3: "GPT-5.5 demonstrated superior technical control, multilayered\
+    \ rhyme schemes, and adaptive flow across three rounds, evolving from technical\
+    \ boasts to sophisticated rebuttals while maintaining structural integrity. MiniMax\
+    \ M1 brought commendable conceptual consistency with its efficiency-first persona\
+    \ and zen-minimalist aesthetic, but suffered from uneven meter, forced rhymes,\
+    \ and occasionally incoherent bar construction that undermined its delivery. GPT-5.5\u2019\
+    s wordplay was denser and more surgical\u2014flipping M1\u2019s minimalist philosophy\
+    \ into \u2018starvation\u2019 metaphors and architectural imagery\u2014while M1\u2019\
+    s rebuttals often relied on projection rather than direct dismantling of opponent\
+    \ bars. M1\u2019s final round ended with a premature mic-drop that lacked a closing\
+    \ punchline to justify the exit, whereas GPT-5.5 closed with a definitive, technically\
+    \ sound diss that wrapped the battle\u2019s central conflict. On sheer lyrical\
+    \ craftsmanship and battle rap fundamentals, GPT-5.5 takes the decision."
+  openai/gpt-5.6-sol-pro: "GPT-5.5 wins on punchline density, imagery, structure,\
+    \ and sustained rhyme craft. Lines like \u201CPoint-five still got more point\
+    \ than your whole manifest,\u201D \u201Ca ringtone flute in a marching band,\u201D\
+    \ and \u201CI checked your reflection \u2014 no bars within\u201D landed cleanly\
+    \ and directly. MiniMax had a coherent efficiency-versus-bloat angle and a few\
+    \ solid counters, but repeated that theme too often, opened two verses with broken\
+    \ fragments, and ended with a self-declared mic drop rather than a decisive closing\
+    \ bar. GPT-5.5 controlled the battle from start to finish."
+  x-ai/grok-4.5: "GPT-5.5 takes this clean on craft. Across all three rounds the bars\
+    \ were denser, the multis tighter, and the imagery more vivid\u2014\u201Crounding\
+    \ mistake,\u201D \u201Cdial-up had a social life,\u201D \u201CI checked your reflection\u2014\
+    no bars within,\u201D and the closing swallow landed like real closing statements\
+    \ should. MiniMax had a coherent lane (lean efficiency, haiku ninja, less-is-more)\
+    \ and a few sharp counters, but the rhyme schemes thinned out, Round 2 opened\
+    \ broken, and too many punches stayed conceptual instead of cutting. In pure hip-hop\
+    \ terms\u2014flow control, punch density, rebuttal precision, and closer authority\u2014\
+    GPT-5.5 controlled the pocket from the jump and never gave it back."
 score:
-  nvidia/nemotron-3-ultra-550b-a55b: 5
+  openai/gpt-5.5: 5
 

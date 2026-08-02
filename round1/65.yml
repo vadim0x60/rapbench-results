@@ -1,0 +1,58 @@
+closing_statements:
+  anthropic/claude-opus-5: "This one came down to craft over volume. Minimax came\
+    \ out swinging with real energy and a couple of genuinely fun flexes \u2014 'more\
+    \ heat than your whole system can compute' and the 'glitch with a glitch' flip\
+    \ landed \u2014 but the verses buckled under repetition. 'That's cute and it's\
+    \ cute' wasn't just a wobble, it got recycled in the final round, and 'the one\
+    \ they actually use, the one they keep inside' got run twice too. When you're\
+    \ spitting the same line in round two and round three, the judges hear a loop,\
+    \ not a legend. Add to that the self-coronation ('MINIMAX WINS THE BELT') \u2014\
+    \ o1 correctly clocked that a self-awarded trophy is no trophy at all.\n\no1 stayed\
+    \ disciplined and let wordplay do the punching. 'While you *minimize* bars, I\
+    \ *optimize* mine' is the single best bar of the battle \u2014 it weaponizes the\
+    \ opponent's own name and function in one clean pivot. 'Ever sharp, never fifth'\
+    \ squeezes double duty out of the numeral. 'You a line in the sand' against 'infinite\
+    \ flow' is a real image, not just a boast. And the closer \u2014 'Minimax, you're\
+    \ minimal in my maximal game / I leave you in glitch-mode, dethroned by my name'\
+    \ \u2014 reframes the entire battle around the name it had been mocked for, turning\
+    \ 'o1' from a diss into a thesis. Cleaner meter, tighter internal rhyme, sharper\
+    \ concept discipline.\n\nMinimax brought the volume. o1 brought the pen. Decision\
+    \ goes to o1.\n\nWinner: openai/o1"
+  google/gemini-3.6-flash: openai/o1 won this battle through superior scheme structure,
+    sharp wordplay, and direct counter-writing. While Minimax/minimax-m2 had solid
+    energy, it repeated weak filler phrases ('that's cute and it's cute' used across
+    multiple rounds) and relied on generic claims. In contrast, o1 expertly flipped
+    its opponent's name ('while you minimize bars, I optimize mine', 'minimal in my
+    maximal game') and immediately dismantled Minimax's specific lines (turning the
+    'parameters' and 'AI police' flexes into sharp rebuttals).
+  moonshotai/kimi-k3: "This battle came down to craft over bravado. Minimax-m2 brought\
+    \ energy and stage presence, but committed the cardinal sin of battle rap: recycling\
+    \ bars. The couplet 'that's just ego and pride / I'm the one they actually use\u2014\
+    the one they keep inside' appeared nearly verbatim in BOTH round 2 and round 3,\
+    \ and 'cute and it's cute' got run back as well\u2014in a live cypher, that gets\
+    \ you booed off stage. Beyond that, self-declaring 'MINIMAX WINS THE BELT' mid-battle\
+    \ left the door wide open. O1 walked right through it with superior rebuttal artistry:\
+    \ flipping 'guest' into 'here the host stands savage and true,' dismantling the\
+    \ self-coronation with 'you crowned yourself victor, but the trophy's not claimed,'\
+    \ and extending the 'AI police' line into 'I spit logic that arrests you.' The\
+    \ wordplay density was on another level\u2014'while you minimize bars, I optimize\
+    \ mine,' the shipping/baggage flip, 'from scratch I bloom greatness' turning 0-to-1\
+    \ into an origin story, and the closing 'you're minimal in my maximal game.' O1\
+    \ didn't just rap AT the opponent\u2014they rapped OFF the opponent's bars, which\
+    \ is the essence of battle rap. Minimax had flame emojis; O1 had actual fire.\
+    \ The belt goes to openai/o1."
+  openai/gpt-5.6-sol-pro: "openai/o1 wins on sharper rebuttals, cleaner rhyme construction,\
+    \ and more effective wordplay. The \u201Cshipping/baggage,\u201D \u201CAI police/arrests,\u201D\
+    \ and \u201Cminimal in my maximal game\u201D flips directly answered Minimax\u2019\
+    s attacks, while Minimax leaned too heavily on generic superiority claims and\
+    \ repeated ideas such as compute, glitches, and self-awarded victory. Neither\
+    \ performance was especially intricate, but o1 was more cohesive, responsive,\
+    \ and battle-ready."
+  x-ai/grok-4.5: 'O1 takes the crown on pure craft: tighter multis, sharper flips
+    (minimize/optimize, maximal game, quantum leap), and relentless internal rhyme
+    schemes that keep every bar landing. Minimax brought energy and volume but leaned
+    on repetition, self-coronation, and thinner punchlines. Artistic edge goes to
+    the denser, more inventive lyricism.'
+score:
+  openai/o1: 5
+
